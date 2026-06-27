@@ -32,3 +32,11 @@
 - Integrated `ProductionTree.kt` allowing multi-step skilling (mining copper & tin ores -> pathing to furnace to smelt bronze bars -> pathing to anvil to smith bronze daggers -> selling to shops via `EconomyManager`).
 - Updated `ChatResponseSystem.kt` with an asynchronous `HttpClient` query that calls a local LLM server (like Ollama or a Python sidecar) to generate dynamic, personality-driven, contextual chat replies, with automatic zero-delay fallback to local pattern matching if the LLM is offline or times out.
 - Implemented `BotQaSystem.kt` testing framework. Developers can bypass standard utility loops and force a bot to execute a specific test sequence using the `::botqa <username> <task>` admin command. Bots will automatically announce task completion status (`SUCCESS` or `FAILURE`) in public chat upon termination.
+
+## Outstanding Specs & Implementation Gaps
+1. **Circadian Rhythms & Play Schedules**: Complete implementation of logout/sleep cycles where bots leave the game during late hours to simulate natural human activity.
+2. **Questing Task Graph**: Add parsing and dialog option injection to solve introductory quests (e.g. Cook's Assistant, Sheep Shearer) programmatically.
+3. **Grand Exchange Order Matching**: Bridge the bot's economy with a real Grand Exchange order matching engine, allowing player-to-bot and bot-to-bot trading rather than general store liquidations.
+4. **Dynamic Combat Retreating**: Enhance the combat loop to scan and eat food or run away to a bank booth when Hitpoints drop below 20%.
+5. **Pathfinder Database Integration**: Unify the `DoorDatabase` and pathfinding helpers in the `agent-bridge` module with the progressive bots movement nodes so both systems share the same route generation mechanism.
+
