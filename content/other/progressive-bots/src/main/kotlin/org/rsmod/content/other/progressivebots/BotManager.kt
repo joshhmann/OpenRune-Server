@@ -16,6 +16,8 @@ import dev.openrune.rscm.RSCM.asRSCM
 import org.rsmod.api.player.events.PlayerChatEvent
 import org.rsmod.api.player.righthand
 import org.rsmod.api.player.stat.stat
+import org.rsmod.api.player.vars.varMoveSpeed
+import org.rsmod.game.movement.MoveSpeed
 import org.rsmod.content.other.progressivebots.chat.ChatResponseSystem
 import org.rsmod.game.cheat.Cheat
 import org.rsmod.api.script.onCommand
@@ -208,6 +210,11 @@ class BotManager @Inject constructor(
         }
 
         if (state.ticksAtCurrentPos % 5 != 0) return // Faster tick rate for BT
+
+        // Auto toggle run speed based on energy thresholds
+        if (player.runEnergy >= 2000 && player.varMoveSpeed != MoveSpeed.Run) {
+            player.varMoveSpeed = MoveSpeed.Run
+        }
 
         val coinsId = dev.openrune.ServerCacheManager.getItem("obj.coins".asRSCM(dev.openrune.rscm.RSCMType.OBJ))?.id ?: 995
         val gp = player.inv.firstOrNull { it?.id == coinsId }?.count ?: 0
