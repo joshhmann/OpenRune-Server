@@ -30,8 +30,12 @@
 - Upgraded `BotConfig.kt` to automatically load the bot definitions and spawnpoints from an external `progressive_bots.yml` configuration, with full Jackson YAML mapping, falling back to the default list on missing files.
 - Created `EconomyManager.kt` providing actual buy/sell store dynamics, allowing bots to earn GP from skilling drops and spend GP to upgrade axes/pickaxes/swords.
 - Integrated `ProductionTree.kt` allowing multi-step skilling (mining copper & tin ores -> pathing to furnace to smelt bronze bars -> pathing to anvil to smith bronze daggers -> selling to shops via `EconomyManager`).
-- Updated `ChatResponseSystem.kt` with an asynchronous `HttpClient` query that calls a local LLM server (like Ollama or a Python sidecar) to generate dynamic, personality-driven, contextual chat replies, with automatic zero-delay fallback to local pattern matching if the LLM is offline or times out.
+- Upgraded `ChatResponseSystem.kt` with an asynchronous `HttpClient` query that calls a local LLM server (like Ollama or a Python sidecar) to generate dynamic, personality-driven, contextual chat replies, with automatic zero-delay fallback to local pattern matching if the LLM is offline or times out.
 - Implemented `BotQaSystem.kt` testing framework. Developers can bypass standard utility loops and force a bot to execute a specific test sequence using the `::botqa <username> <task>` admin command. Bots will automatically announce task completion status (`SUCCESS` or `FAILURE`) in public chat upon termination.
+- Implemented `autoEquipBestGear` logic to automatically swap better tools/weapons from inventory into the player's right hand.
+- Added 5% bot-to-bot chat response probability to enable organic player-bot and bot-bot social chattering.
+- Implemented door-opening gate sweeper loop in `GateSweeperDecorator` to interact with closed doors/gates within 3 tiles.
+- Configured dynamic movement speed switches that turn on running speed whenever bot run energy recovers above 20%.
 
 ## Outstanding Specs & Implementation Gaps
 1. **Circadian Rhythms & Play Schedules**: Complete implementation of logout/sleep cycles where bots leave the game during late hours to simulate natural human activity.
@@ -41,6 +45,4 @@
 5. **Pathfinder Database Integration**: Unify the `DoorDatabase` and pathfinding helpers in the `agent-bridge` module with the progressive bots movement nodes so both systems share the same route generation mechanism.
 6. **Minigames & World Events**: Spec'd out implementation behaviors for Castle Wars (objective flags), Pest Control (portal attacks), and World Boss event listener loops.
 7. **Quest Graphs & Complex Skills**: Spec'd out implementation behaviors for Dialogue Sequence Runner (quests), trap state tracking (Hunter), building space/butler loops (Construction), and wind-tacking ship navigation (Sailing).
-
-
-
+8. **House Parties (POH Socialization)**: Spec'd out joining hosts from portals, boxing ring matches, social parlor drink consumption, and dining table chatter loops.
