@@ -55,13 +55,28 @@ private constructor(
         responseHandler: GameLoginResponseHandler<Player>,
         block: LoginBlock<AuthenticationType>,
     ) {
+        logger.info {
+            "Login request received username=${block.username.logValue()} " +
+                "auth=${block.authentication::class.simpleName} " +
+                "window=${block.width}x${block.height} resizable=${block.resizable}"
+        }
         if (accountManager.isLoaderShuttingDown()) {
-            responseHandler.writeFailedResponse(LoginResponse.LoginServerOffline)
+            failLogin(
+                responseHandler,
+                block.username,
+                LoginResponse.LoginServerOffline,
+                "account loader is shutting down",
+            )
             return
         }
 
         if (accountManager.isLoaderRejectingRequests()) {
-            responseHandler.writeFailedResponse(LoginResponse.LoginServerNoReply)
+            failLogin(
+                responseHandler,
+                block.username,
+                LoginResponse.LoginServerNoReply,
+                "account loader is rejecting requests",
+            )
             return
         }
 
@@ -97,7 +112,12 @@ private constructor(
         // This may be filtered earlier at the protocol layer (e.g., rsprot), but we defensively
         // check again to ensure the password is not empty.
         if (password.isEmpty()) {
-            responseHandler.writeFailedResponse(LoginResponse.InvalidUsernameOrPassword)
+            failLogin(
+                responseHandler,
+                block.username,
+                LoginResponse.InvalidUsernameOrPassword,
+                "empty password",
+            )
             return
         }
         // Capture a local snapshot, as `realm.config` is mutable and may change.
@@ -108,7 +128,12 @@ private constructor(
                     "Set `central` in game.yml (`host` + `world-key`, or `same-instance: true` for embedded), " +
                     "or env OPENRUNE_CENTRAL_HOST and OPENRUNE_WORLD_KEY."
             }
-            responseHandler.writeFailedResponse(LoginResponse.LoginServerOffline)
+            failLogin(
+                responseHandler,
+                block.username,
+                LoginResponse.LoginServerOffline,
+                "OpenRune Central is not configured",
+            )
             return
         }
         val responseHook =
@@ -136,14 +161,24 @@ private constructor(
         // Password hashing can saturate CPU — tune rsprot `loginFlowExecutor` if needed.
         val hashedPassword = computePasswordHash(password)
         if (hashedPassword == null) {
-            responseHandler.writeFailedResponse(LoginResponse.InvalidUsernameOrPassword)
+            failLogin(
+                responseHandler,
+                username,
+                LoginResponse.InvalidUsernameOrPassword,
+                "password hashing failed",
+            )
             return
         }
         val requestSubmitted =
             accountManager.loadOrCreate(loadAuth, username, { hashedPassword }, responseHook)
 
         if (!requestSubmitted) {
-            responseHandler.writeFailedResponse(LoginResponse.LoginServerLoadError)
+            failLogin(
+                responseHandler,
+                username,
+                LoginResponse.LoginServerLoadError,
+                "account load request was not submitted",
+            )
         }
     }
 
@@ -172,7 +207,12 @@ private constructor(
         @Suppress("unused") auth: AuthenticationType.TokenAuthentication,
     ) {
         logger.warn { "Unhandled login authentication for: $block" }
-        responseHandler.writeFailedResponse(LoginResponse.InvalidLoginPacket)
+        failLogin(
+            responseHandler,
+            block.username,
+            LoginResponse.InvalidLoginPacket,
+            "token authentication is not implemented",
+        )
     }
 
     private fun OtpAuthenticationType.toAccountLoadAuth(): AccountLoadAuth =
@@ -196,6 +236,29 @@ private constructor(
         block: LoginBlock<XteaKey>,
     ) {
         // TODO: Reconnection.
-        responseHandler.writeFailedResponse(LoginResponse.ConnectFail)
+        failLogin(
+            responseHandler,
+            block.username,
+            LoginResponse.ConnectFail,
+            "reconnect is not implemented",
+        )
+    }
+
+    private fun failLogin(
+        responseHandler: GameLoginResponseHandler<Player>,
+        username: String,
+        response: LoginResponse,
+        reason: String,
+    ) {
+        logger.warn {
+            "Login denied username=${username.logValue()} response=${response.logName()} reason=$reason"
+        }
+        responseHandler.writeFailedResponse(response)
+    }
+
+    private fun String.logValue(): String = replace(Regex("\\s+"), " ").take(64)
+
+    private fun LoginResponse.logName(): String {
+        return this::class.simpleName ?: toString()
     }
 }

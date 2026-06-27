@@ -13,4 +13,5 @@ dependencies {
 
     implementation(projects.api.utils.utilsSystem)
     implementation(projects.engine.utilsBits)
+    implementation(projects.content.other.progressiveBots)
 }

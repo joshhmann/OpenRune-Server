@@ -58,17 +58,37 @@ constructor(
         loginCharacterId: Int? = null,
     ): CentralAuthResult {
         val cfg = settings ?: return CentralAuthResult.Skipped
+        logger.info {
+            "Central auth start username=${loginUsername.logValue()} " +
+                "characterId=${loginCharacterId ?: "<new>"} endpoint=${cfg.host}:${cfg.port} " +
+                "world=${serverConfig.world}"
+        }
         repeat(MAX_AUTH_ATTEMPTS) { attempt ->
             try {
                 return openCentralAuthSession(cfg, loginUsername, password, loginCharacterId)
             } catch (e: IllegalStateException) {
+                logger.warn(e) {
+                    "Central auth protocol failure username=${loginUsername.logValue()} " +
+                        "attempt=${attempt + 1}/$MAX_AUTH_ATTEMPTS endpoint=${cfg.host}:${cfg.port}: " +
+                        e.message
+                }
                 return CentralAuthResult.Denied(LoginResponse.LoginServerNoReply)
             } catch (e: Exception) {
                 if (!isRetryableCentralNetworkFailure(e)) {
+                    logger.warn(e) {
+                        "Central auth non-retryable failure username=${loginUsername.logValue()} " +
+                            "attempt=${attempt + 1}/$MAX_AUTH_ATTEMPTS endpoint=${cfg.host}:${cfg.port}: " +
+                            e.message
+                    }
                     return CentralAuthResult.Denied(LoginResponse.LoginServerNoReply)
                 }
                 if (attempt + 1 >= MAX_AUTH_ATTEMPTS) {
                     return@repeat
+                }
+                logger.warn(e) {
+                    "Central auth retryable failure username=${loginUsername.logValue()} " +
+                        "attempt=${attempt + 1}/$MAX_AUTH_ATTEMPTS endpoint=${cfg.host}:${cfg.port}; " +
+                        "retrying"
                 }
                 val backoff = RETRY_BASE_MS * (attempt + 1)
                 try {
@@ -79,6 +99,10 @@ constructor(
                 }
             }
         }
+        logger.warn {
+            "Central auth exhausted retries username=${loginUsername.logValue()} " +
+                "endpoint=${cfg.host}:${cfg.port}"
+        }
         return CentralAuthResult.Denied(LoginResponse.LoginServerOffline)
     }
 
@@ -88,6 +112,7 @@ constructor(
             return
         }
         inboundWatchStop = false
+        logger.info { "Starting Central inbound watch endpoint=${cfg.host}:${cfg.port}" }
         inboundWatchThread =
             Thread(
                 { runInboundWatchLoop(cfg) },
@@ -408,6 +433,7 @@ constructor(
         }
 
     private fun runInboundWatchLoop(cfg: CentralSettings) {
+        var failureCount = 0
         while (!inboundWatchStop && !Thread.currentThread().isInterrupted) {
             var session: WorldLinkNettyBlockingSession? = null
             try {
@@ -418,6 +444,13 @@ constructor(
                     )
                 sendHello(session, cfg.worldKey, serverConfig.world)
                 sendPushSubscribe(session)
+                if (failureCount > 0) {
+                    logger.info {
+                        "Central inbound watch reconnected endpoint=${cfg.host}:${cfg.port} " +
+                            "after $failureCount failure(s)"
+                    }
+                }
+                failureCount = 0
                 while (!inboundWatchStop && !Thread.currentThread().isInterrupted) {
                     val frame = session.pollInbound(INBOUND_POLL_MS) ?: continue
                     if (frame.isEmpty()) {
@@ -449,6 +482,13 @@ constructor(
             } catch (e: Exception) {
                 if (inboundWatchStop) {
                     break
+                }
+                failureCount++
+                if (failureCount == 1 || failureCount % 10 == 0) {
+                    logger.warn(e) {
+                        "Central inbound watch failed endpoint=${cfg.host}:${cfg.port} " +
+                            "failureCount=$failureCount: ${e.message}"
+                    }
                 }
                 try {
                     Thread.sleep(INBOUND_RECONNECT_MS)
@@ -522,6 +562,8 @@ constructor(
         private const val INBOUND_POLL_MS: Long = 1_000L
 
         private const val GAME_CYCLE_MS: Long = 600L
+
+        private fun String.logValue(): String = replace(Regex("\\s+"), " ").take(64)
     }
 }
 

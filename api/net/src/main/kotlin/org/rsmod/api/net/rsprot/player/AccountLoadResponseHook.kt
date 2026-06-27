@@ -59,6 +59,10 @@ class AccountLoadResponseHook(
 
     override fun invoke(response: AccountLoadResponse) {
         try {
+            logger.info {
+                "Account load response username=${loginBlock.username.logValue()} " +
+                    "response=${response::class.simpleName}"
+            }
             handleLoadResponse(response)
         } finally {
             inputPassword.fill('\u0000')
@@ -128,7 +132,7 @@ class AccountLoadResponseHook(
             response.account.characterData.lastLogin != null && response.account.characterData.lastLogout == null
         if (inconsistentSessionTimestamps) {
             logger.error {
-                "Character last_login set but last_logout null (invalid row) — login aborted: " +
+                "Character last_login set but last_logout null (invalid row) - login aborted: " +
                     response.account
             }
             writeErrorResponse(LoginResponse.InvalidSave)
@@ -190,6 +194,10 @@ class AccountLoadResponseHook(
         try {
             val player = createPlayer(response).apply { applyConfigTransforms(config) }
             applyCentralStaffFromPending(player)
+            logger.info {
+                "Queueing login username=${loginBlock.username.logValue()} " +
+                    "userId=${player.userId} characterId=${response.account.characterData.characterId}"
+            }
             accountRegistry.queueLogin(player, response, ::safeHandleGameLogin)
         } catch (e: Exception) {
             writeErrorResponse(LoginResponse.ConnectFail)
@@ -309,6 +317,10 @@ class AccountLoadResponseHook(
         // is not active at this point. Since the channel is no longer connected, we can no-op
         // and return early.
         if (player.clientDisconnected.get()) {
+            logger.warn {
+                "Login response written but client disconnected before registration " +
+                    "username=${loginBlock.username.logValue()} slot=$slotId"
+            }
             return
         }
 
@@ -316,6 +328,10 @@ class AccountLoadResponseHook(
         eventBus.publish(SessionStart(player, session))
         val register = playerRegistry.add(player)
         if (register.isSuccess()) {
+            logger.info {
+                "Login accepted username=${loginBlock.username.logValue()} " +
+                    "userId=${player.userId} characterId=$characterId slot=$slotId"
+            }
             eventBus.publish(SessionStateEvent.Login(player))
             eventBus.publish(SessionStateEvent.EngineLogin(player))
             return
@@ -349,6 +365,9 @@ class AccountLoadResponseHook(
         }
 
     private fun writeErrorResponse(response: LoginResponse) {
+        logger.warn {
+            "Login response failed username=${loginBlock.username.logValue()} response=${response.logName()}"
+        }
         channelResponses.writeFailedResponse(response)
     }
 
@@ -359,13 +378,25 @@ class AccountLoadResponseHook(
         return when (val result = openRuneCentral.authenticate(accountName, inputPassword, loginCharacterId)) {
             CentralAuthResult.Skipped -> {
                 // Central world-link not configured; game DB is the authority — do not block login.
+                logger.warn {
+                    "Central auth skipped username=${loginBlock.username.logValue()} " +
+                        "characterId=$loginCharacterId"
+                }
                 true
             }
             is CentralAuthResult.Denied -> {
+                logger.warn {
+                    "Central auth denied username=${loginBlock.username.logValue()} " +
+                        "characterId=$loginCharacterId response=${result.response.logName()}"
+                }
                 writeErrorResponse(result.response)
                 false
             }
             is CentralAuthResult.Ok -> {
+                logger.info {
+                    "Central auth accepted username=${loginBlock.username.logValue()} " +
+                        "characterId=$loginCharacterId rights=${result.centralRights.ifBlank { "<none>" }}"
+                }
                 pendingCentralSessionToken = result.sessionToken.copyOf()
                 pendingCentralRights = result.centralRights
                 true
@@ -384,6 +415,12 @@ class AccountLoadResponseHook(
         private val logger = InlineLogger()
 
         private var Player.newAccount by boolVarBit("varbit.new_player_account")
+
+        private fun String.logValue(): String = replace(Regex("\\s+"), " ").take(64)
+
+        private fun LoginResponse.logName(): String {
+            return this::class.simpleName ?: toString()
+        }
 
         // TODO: Decide how to deal with email login usernames.
         private fun String.toDisplayName(): String {

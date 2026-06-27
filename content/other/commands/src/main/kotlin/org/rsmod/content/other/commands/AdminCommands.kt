@@ -22,6 +22,7 @@ import org.rsmod.api.player.output.mes
 import org.rsmod.api.player.cheat.adminGodMode
 import org.rsmod.api.player.cheat.adminMaxHit
 import org.rsmod.api.player.protect.ProtectedAccessLauncher
+import org.rsmod.content.other.progressivebots.TrajectoryCapture
 import org.rsmod.api.player.queueDeath
 import org.rsmod.api.player.stat.PlayerSkillXP
 import org.rsmod.api.player.stat.stat
@@ -136,6 +137,7 @@ constructor(
         onCommand("god", "Toggle god mode (invincibility)", ::god)
         onCommand("maxhit", "Toggle always max hit", ::maxhit)
         onCommand("openbank", "Open the bank", ::bank)
+        onCommand("trajectory", "Control trajectory capture: pause|resume|status|target N", ::trajectoryControl)
     }
 
     private fun god(cheat: Cheat) =
@@ -485,6 +487,35 @@ constructor(
     private fun bank(cheat: Cheat) = with(cheat) {
         protectedAccess.launch(player) {
             ifOpenMainSidePair(main = "interface.bankmain", side = "interface.bankside")
+        }
+    }
+
+    private fun trajectoryControl(cheat: Cheat) = with(cheat) {
+        val sub = args.getOrNull(0)?.lowercase() ?: "status"
+        when (sub) {
+            "pause" -> {
+                TrajectoryCapture.paused = true
+                player.mes("[Trajectory] Paused.")
+            }
+            "resume" -> {
+                TrajectoryCapture.paused = false
+                player.mes("[Trajectory] Resumed.")
+            }
+            "target" -> {
+                val count = args.getOrNull(1)?.toIntOrNull()
+                if (count == null || count <= 0) {
+                    TrajectoryCapture.targetCount = 0
+                    player.mes("[Trajectory] Target cleared (unlimited).")
+                } else {
+                    TrajectoryCapture.targetCount = count
+                    player.mes("[Trajectory] Will auto-pause after $count entries.")
+                }
+            }
+            else -> {
+                val status = if (TrajectoryCapture.paused) "⏸ PAUSED" else "▶ RUNNING"
+                val target = if (TrajectoryCapture.targetCount > 0) " (target: ${TrajectoryCapture.targetCount})" else " (unlimited)"
+                player.mes("[Trajectory] $status$target")
+            }
         }
     }
 

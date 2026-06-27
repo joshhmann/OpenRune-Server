@@ -10,6 +10,7 @@ gradle-download = "5.6.0"
 guice = "7.0.0"
 inline-logger = "1.0.6"
 jackson = "2.19.1"
+java-websocket = "1.5.7"
 jmh = "1.37"
 jmh-gradle-plugin = "0.7.3"
 junit = "5.13.2"
@@ -44,6 +45,7 @@ flyway-core = { module = "org.flywaydb:flyway-core", version.ref = "flyway" }
 guice = { module = "com.google.inject:guice", version.ref = "guice" }
 jackson-databind = { module = "com.fasterxml.jackson.core:jackson-databind", version.ref = "jackson" }
 jackson-module-kotlin = { module = "com.fasterxml.jackson.module:jackson-module-kotlin", version.ref = "jackson" }
+java-websocket = { module = "org.java-websocket:Java-WebSocket", version.ref = "java-websocket" }
 jackson-dataformat-yaml = { module = "com.fasterxml.jackson.dataformat:jackson-dataformat-yaml", version.ref = "jackson" }
 jackson-dataformat-toml = { module = "com.fasterxml.jackson.dataformat:jackson-dataformat-toml", version.ref = "jackson" }
 jmh-gradle-plugin = { module = "me.champeau.jmh:jmh-gradle-plugin", version.ref = "jmh-gradle-plugin" }
