@@ -39,4 +39,6 @@
 3. **Grand Exchange Order Matching**: Bridge the bot's economy with a real Grand Exchange order matching engine, allowing player-to-bot and bot-to-bot trading rather than general store liquidations.
 4. **Dynamic Combat Retreating**: Enhance the combat loop to scan and eat food or run away to a bank booth when Hitpoints drop below 20%.
 5. **Pathfinder Database Integration**: Unify the `DoorDatabase` and pathfinding helpers in the `agent-bridge` module with the progressive bots movement nodes so both systems share the same route generation mechanism.
+6. **Minigames & World Events**: Spec'd out implementation behaviors for Castle Wars (objective flags), Pest Control (portal attacks), and World Boss event listener loops.
+
 
