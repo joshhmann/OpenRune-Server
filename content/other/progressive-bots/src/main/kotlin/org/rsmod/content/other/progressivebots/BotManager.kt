@@ -14,6 +14,8 @@ import org.rsmod.plugin.scripts.ScriptContext
 import org.rsmod.game.MapClock
 import dev.openrune.rscm.RSCM.asRSCM
 import org.rsmod.api.player.events.PlayerChatEvent
+import org.rsmod.api.player.righthand
+import org.rsmod.api.player.stat.stat
 import org.rsmod.content.other.progressivebots.chat.ChatResponseSystem
 import org.rsmod.game.cheat.Cheat
 import org.rsmod.api.script.onCommand
@@ -163,7 +165,10 @@ class BotManager @Inject constructor(
         val sender = event.player
         val senderName = sender.avatar.name
         if (bots.containsKey(senderName)) {
-            return // Ignore bot-to-bot chat
+            // 5% chance that a bot replies to another bot to create organic social chatting
+            if (java.util.concurrent.ThreadLocalRandom.current().nextInt(100) >= 5) {
+                return
+            }
         }
 
         val currentTime = System.currentTimeMillis()
@@ -220,6 +225,9 @@ class BotManager @Inject constructor(
 
         if (view.inCombat || view.animating) return
 
+        // Auto equip best gear from inventory visually
+        autoEquipBestGear(player)
+
         // Check QA override mode
         val qaNode = state.qaTaskNode
         if (qaNode != null) {
@@ -255,6 +263,44 @@ class BotManager @Inject constructor(
         
         // 2. Tick the active goal tree
         state.goalStack.tick(player, state)
+    }
+
+    private fun autoEquipBestGear(player: Player) {
+        val wcLevel = player.stat("woodcutting")
+        val miningLevel = player.stat("mining")
+        val attackLevel = player.stat("attack")
+
+        val bestAxe = org.rsmod.content.other.progressivebots.economy.ProgressionRegistry.getBestAxe(wcLevel)
+        val bestPick = org.rsmod.content.other.progressivebots.economy.ProgressionRegistry.getBestPickaxe(miningLevel)
+        val bestWeapon = org.rsmod.content.other.progressivebots.economy.ProgressionRegistry.getBestWeapon(attackLevel)
+
+        val candidates = listOf("obj.$bestAxe", "obj.$bestPick", "obj.$bestWeapon")
+
+        for (candidate in candidates) {
+            val cacheObj = dev.openrune.ServerCacheManager.getItem(candidate.asRSCM(dev.openrune.rscm.RSCMType.OBJ)) ?: continue
+            val itemId = cacheObj.id
+
+            val currentRightHand = player.righthand
+            if (currentRightHand != null && currentRightHand.id == itemId) {
+                continue
+            }
+
+            var invSlot = -1
+            for (i in player.inv.indices) {
+                val obj = player.inv[i]
+                if (obj != null && obj.id == itemId) {
+                    invSlot = i
+                    break
+                }
+            }
+
+            if (invSlot != -1) {
+                val oldRightHand = player.righthand
+                player.righthand = player.inv[invSlot]
+                player.inv[invSlot] = oldRightHand
+                break
+            }
+        }
     }
 
     companion object {
