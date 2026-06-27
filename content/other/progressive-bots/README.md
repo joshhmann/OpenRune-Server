@@ -45,6 +45,11 @@ Every chosen goal is automatically wrapped in safety nodes:
 * **LLM Hook**: Asynchronously POSTs a prompt to a local LLM (such as Ollama on `http://localhost:11434/api/generate`) with system instructions matching OSRS slang.
 * **Fallback rules**: If the LLM is offline or times out, it immediately matches keyword intents against `chat_responses.json` on a background thread.
 
+### 2.6 QA testing Framework (`BotQaSystem.kt`)
+* **Task Override**: Developers can bypass utility logic to force a bot to execute a specific task sequence (A $\rightarrow$ B $\rightarrow$ C $\rightarrow$ D) for content verification.
+* **In-Game Commands**: Use command `::botqa <username> <task>` (e.g. `::botqa fallenhero11 test_smithing`).
+* **Complete Notifications**: The bot broadcasts a chat announcement when the task terminates: `"QA Task [test_smithing] complete: SUCCESS!"`.
+
 ---
 
 ## 3. Configuration

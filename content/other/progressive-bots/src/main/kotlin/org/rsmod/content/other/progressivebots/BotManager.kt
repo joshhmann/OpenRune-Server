@@ -15,6 +15,12 @@ import org.rsmod.game.MapClock
 import dev.openrune.rscm.RSCM.asRSCM
 import org.rsmod.api.player.events.PlayerChatEvent
 import org.rsmod.content.other.progressivebots.chat.ChatResponseSystem
+import org.rsmod.game.cheat.Cheat
+import org.rsmod.api.script.onCommand
+import org.rsmod.api.player.output.mes
+import org.rsmod.content.other.progressivebots.qa.BotQaSystem
+import org.rsmod.content.other.progressivebots.tree.NodeStatus
+import org.rsmod.game.entity.player.PublicMessage
 
 /** Tracks a single progressive bot's state between ticks. */
 data class BotState(
@@ -32,6 +38,8 @@ data class BotState(
     val eventBus: org.rsmod.events.EventBus? = null,
     val npcList: org.rsmod.game.entity.NpcList? = null,
     val lastChatTimes: MutableMap<String, Long> = mutableMapOf(),
+    var qaTaskNode: org.rsmod.content.other.progressivebots.tree.BehaviorNode? = null,
+    var qaTaskName: String? = null,
 )
 
 /**
@@ -70,10 +78,47 @@ class BotManager @Inject constructor(
         eventBus.subscribeUnbound(GameLifecycle.LateCycle::class.java) { onTick() }
         eventBus.subscribeUnbound(PlayerChatEvent::class.java) { onPlayerChat(this) }
 
+        onCommand("botqa") {
+            this.internal = "modlevel.admin"
+            this.desc = "Force progressive bot into QA mode: ::botqa username task"
+            this.cheat {
+                botQaCommand(this)
+            }
+        }
+
         logger.info {
             "[ProgressiveBots] Config enabled, will spawn ${org.rsmod.content.other.progressivebots.BotConfig.bots.size} bots on first tick"
         }
     }
+
+    private fun botQaCommand(cheat: Cheat) =
+        with(cheat) {
+            if (args.size < 2) {
+                player.mes("Usage: ::botqa <username> <task>")
+                player.mes("Tasks: ${BotQaSystem.getRegisteredTasks().joinToString()}")
+                return
+            }
+            val botName = args[0]
+            val taskName = args[1]
+
+            val botState = bots[botName.lowercase()]
+            if (botState == null) {
+                player.mes("Bot '$botName' not found or active.")
+                return
+            }
+
+            val taskNode = BotQaSystem.getTask(taskName)
+            if (taskNode == null) {
+                player.mes("Task '$taskName' not found.")
+                player.mes("Tasks: ${BotQaSystem.getRegisteredTasks().joinToString()}")
+                return
+            }
+
+            botState.goalStack.clear()
+            botState.qaTaskNode = taskNode
+            botState.qaTaskName = taskName
+            player.mes("Forced '$botName' to execute QA task '$taskName'.")
+        }
 
     private fun attemptSpawning() {
         if (spawnAttempted) return
@@ -174,6 +219,26 @@ class BotManager @Inject constructor(
             )
 
         if (view.inCombat || view.animating) return
+
+        // Check QA override mode
+        val qaNode = state.qaTaskNode
+        if (qaNode != null) {
+            val status = qaNode.execute(player, state)
+            if (status == NodeStatus.SUCCESS || status == NodeStatus.FAILURE) {
+                player.publicMessage = PublicMessage(
+                    text = "QA Task [${state.qaTaskName}] complete: $status!",
+                    colour = 0,
+                    effect = 0,
+                    clanType = null,
+                    modIcon = player.modLevel.clientCode,
+                    autoTyper = false,
+                    pattern = null
+                )
+                state.qaTaskNode = null
+                state.qaTaskName = null
+            }
+            return
+        }
 
         // 1. Evaluate Utility if no active goal
         if (!state.goalStack.hasActiveGoal()) {
