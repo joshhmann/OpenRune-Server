@@ -40,5 +40,7 @@
 4. **Dynamic Combat Retreating**: Enhance the combat loop to scan and eat food or run away to a bank booth when Hitpoints drop below 20%.
 5. **Pathfinder Database Integration**: Unify the `DoorDatabase` and pathfinding helpers in the `agent-bridge` module with the progressive bots movement nodes so both systems share the same route generation mechanism.
 6. **Minigames & World Events**: Spec'd out implementation behaviors for Castle Wars (objective flags), Pest Control (portal attacks), and World Boss event listener loops.
+7. **Quest Graphs & Complex Skills**: Spec'd out implementation behaviors for Dialogue Sequence Runner (quests), trap state tracking (Hunter), building space/butler loops (Construction), and wind-tacking ship navigation (Sailing).
+
 
 
