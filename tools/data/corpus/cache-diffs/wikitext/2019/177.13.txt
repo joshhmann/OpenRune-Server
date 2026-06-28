@@ -1,0 +1,147 @@
+{{ToC}}
+==Items==
+===New Items===
+{| class="wikitable sortable"
+!colspan='11'|New Items
+|-
+! Name !! ID !! Members !! Tradeable in GE !! Equipable !! Stackable !! Noteable !! Options !! Placeholder !! Cost
+|-
+|-
+|}
+===Removed Items===
+{| class="wikitable sortable"
+!colspan='2'|Removed Items
+|-
+! Name !! ID
+|-
+|-
+|}
+===Diff Items===
+{| class="wikitable sortable"
+!colspan='5'|Diff Items
+|-
+! Name !! ID !! Key !! Previous Value !! New Value
+|-
+|rowspan="2"|[[Ring of forging]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#2568 2568]
+|-
+|interfaceOptions || [None, 'Wear', None, None, 'Drop'] || [None, 'Wear', None, 'Break', 'Drop']
+|-
+|rowspan="2"|[[Clue bottle (easy)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#13648 13648]
+|-
+|cost || 1 || 20
+|-
+|rowspan="2"|[[Clue bottle (medium)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#13649 13649]
+|-
+|cost || 1 || 20
+|-
+|rowspan="2"|[[Clue bottle (hard)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#13650 13650]
+|-
+|cost || 1 || 20
+|-
+|rowspan="2"|[[Clue bottle (elite)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#13651 13651]
+|-
+|cost || 1 || 20
+|-
+|}
+
+==Non-Player Characters==
+===New NPCs===
+{| class="wikitable sortable"
+!colspan='4'|New NPCs
+|-
+! Name !! ID !! Combat Level !! Options
+|-
+|-
+|}
+===Removed NPCs===
+{| class="wikitable sortable"
+!colspan='2'|Removed NPCs
+|-
+! Name !! ID
+|-
+|-
+|}
+===Diff NPCs===
+{| class="wikitable sortable"
+!colspan='5'|Diff NPCs
+|-
+! Name !! ID !! Key !! Previous Value !! New Value
+|-
+|rowspan="2"|[[Ikkle Hydra]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#8492 8492]
+|-
+|walkingAnimation || 8232 || 8296
+|-
+|rowspan="3"|[[Ikkle Hydra]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/npc_id.html#8493 8493]
+|-
+|standingAnimation || 8240 || 8298
+|-
+| walkingAnimation || 8239 || 8297
+|-
+|rowspan="2"|[[Ikkle Hydra]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#8494 8494]
+|-
+|walkingAnimation || 8246 || 8299
+|-
+|rowspan="2"|[[Ikkle Hydra]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#8495 8495]
+|-
+|walkingAnimation || 8253 || 8300
+|-
+|}
+
+==Objects==
+===New Objects=== 
+{| class="wikitable sortable"
+!colspan='3'|New Objects
+|-
+! Name !! ID !! Options
+|-
+| [[Blooming Hespori sprout]] || [https://chisel.weirdgloop.org/moid/object_id.html#34705 34705] || None
+|-
+| [[Shrivelled plant]] || [https://chisel.weirdgloop.org/moid/object_id.html#34706 34706] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#34707 34707] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#34708 34708] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#34709 34709] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#34710 34710] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#34711 34711] || None
+|-
+| [[Twisted bush]] || [https://chisel.weirdgloop.org/moid/object_id.html#34712 34712] || Search
+|-
+|-
+|}
+===Removed Objects===
+{| class="wikitable sortable"
+!colspan='2'|Removed Objects
+|-
+! Name !! ID
+|-
+|-
+|}
+===Diff Objects===
+{| class="wikitable sortable"
+!colspan='5'|Diff Objects
+|-
+! Name !! ID !! Key !! Previous Value !! New Value
+|-
+|rowspan="4"|[[null]]
+|rowspan="4"|[https://chisel.weirdgloop.org/moid/object_id.html#33731 33731]
+|-
+|sizeX || 7 || 5
+|-
+| sizeY || 7 || 5
+|-
+| configChangeDest || [-1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 8469, 8470, 8470, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 8471, -1, 8472, -1] || [-1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 34708, 34709, 34709, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 34710, -1, 34711, -1]
+|-
+|}

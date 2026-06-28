@@ -27,7 +27,10 @@ class StatBoostSpecialAttacks @Inject constructor(private val worldRepo: WorldRe
 
         registerInstant("obj.dragon_pickaxe", ::rockKnockerDragonPickaxe)
         registerInstant("obj.zalcano_pickaxe", ::rockKnockerDragonPickaxeOrZalcano)
-        registerInstant("obj.trailblazer_pickaxe_no_infernal", ::rockKnockerDragonPickaxeOrTrailblazer)
+        registerInstant(
+            "obj.trailblazer_pickaxe_no_infernal",
+            ::rockKnockerDragonPickaxeOrTrailblazer,
+        )
         registerInstant("obj.dragon_pickaxe_pretty", ::rockKnockerDragonPickaxeUpgraded)
         registerInstant("obj.infernal_pickaxe", ::rockKnockerInfernalPickaxe)
         registerInstant("obj.infernal_pickaxe_empty", ::rockKnockerInfernalPickaxe)
@@ -55,39 +58,24 @@ class StatBoostSpecialAttacks @Inject constructor(private val worldRepo: WorldRe
     }
 
     private fun fishstabberDragonHarpoon(access: ProtectedAccess): Boolean {
-        return access.fishstabber(
-            "seq.fishstabber",
-            "spotanim.sp_attackglow_red",
-        )
+        return access.fishstabber("seq.fishstabber", "spotanim.sp_attackglow_red")
     }
 
     private fun fishstabberDragonHarpoonOr(access: ProtectedAccess): Boolean {
         // Uses the same seq as Infernal harpoon (or).
-        return access.fishstabber(
-            "seq.fishstabber_trailblazer",
-            "spotanim.sp_attackglow_red",
-        )
+        return access.fishstabber("seq.fishstabber_trailblazer", "spotanim.sp_attackglow_red")
     }
 
     private fun fishstabberInfernalHarpoon(access: ProtectedAccess): Boolean {
-        return access.fishstabber(
-            "seq.fishstabber_infernal",
-            "spotanim.sp_attackglow_red",
-        )
+        return access.fishstabber("seq.fishstabber_infernal", "spotanim.sp_attackglow_red")
     }
 
     private fun fishstabberInfernalHarpoonOr(access: ProtectedAccess): Boolean {
-        return access.fishstabber(
-            "seq.fishstabber_trailblazer",
-            "spotanim.sp_attackglow_red",
-        )
+        return access.fishstabber("seq.fishstabber_trailblazer", "spotanim.sp_attackglow_red")
     }
 
     private fun fishstabberCrystalHarpoon(access: ProtectedAccess): Boolean {
-        return access.fishstabber(
-            "seq.fishstabber_crystal",
-            "spotanim.sp_attackglow_crystal",
-        )
+        return access.fishstabber("seq.fishstabber_crystal", "spotanim.sp_attackglow_crystal")
     }
 
     private fun ProtectedAccess.fishstabber(seq: String, spot: String): Boolean {

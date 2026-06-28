@@ -1,0 +1,99 @@
+{{ToC}}
+==Items==
+===New Items===
+{| class="wikitable sortable"
+!colspan='11'|New Items
+|-
+! style=width:15em | Name !! ID !! Members !! Tradeable in GE !! Equipable !! Stackable !! Noteable !! Options !! Placeholder !! Cost
+|-
+| [[Mage's book]] || [https://chisel.weirdgloop.org/moid/item_id.html#23652 23652] || No || No || Yes || No || No ||  Wield,   Drop || No || 300
+|-
+| [[Ahrim's staff]] || [https://chisel.weirdgloop.org/moid/item_id.html#23653 23653] || No || No || Yes || No || No ||  Wield,   Drop || No || 300
+|-
+| [[Occult necklace]] || [https://chisel.weirdgloop.org/moid/item_id.html#23654 23654] || No || No || Yes || No || No ||  Wear,   Drop || No || 1
+|-
+|-
+|}
+===Removed Items===
+{| class="wikitable sortable"
+!colspan='2'|Removed Items
+|-
+! style=width:15em | Name !! ID
+|-
+|-
+|}
+===Diff Items===
+{| class="wikitable sortable"
+!colspan='5'|Diff Items
+|-
+! style=width:15em | Name !! ID !! Key !! Previous Value !! New Value
+|-
+|rowspan="2"|[[Dragon javelin]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#23648 23648]
+|-
+|cost || 450 || 1
+|-
+|rowspan="5"|[[Diamond bolts (e)]]
+|rowspan="5"|[https://chisel.weirdgloop.org/moid/item_id.html#23649 23649]
+|-
+|name || [[Dragonstone bolts (e)]] || [[Diamond bolts (e)]]
+|-
+| ambient || 25 || 0
+|-
+| colorReplace ||<span style = "background-color: #05909d;color:white">-31817</span>,<span style = "background-color: #2f4954;color:white">-29395</span>,<span style = "background-color: #2c444e;color:white">-29399</span>,<span style = "background-color: #263b44;color:white">-29403</span>,<span style = "background-color: #1c3744;color:white">-29279</span>,<span style = "background-color: #6c2993;color:white">-14784</span>||<span style = "background-color: #4d554d;color:white">21559</span>,<span style = "background-color: #4d554d;color:white">21559</span>,<span style = "background-color: #485048;color:white">21555</span>,<span style = "background-color: #395039;color:white">21679</span>,<span style = "background-color: #354a34;color:white">21675</span>,<span style = "background-color: #c6b7b7;color:white">127</span>
+|-
+| countObj || [9278, 9279, 9280, 9281, 0, 0, 0, 0, 0, 0] || [9274, 9275, 9276, 9277, 0, 0, 0, 0, 0, 0]
+|-
+|}
+
+==Non-Player Characters==
+===New NPCs===
+{| class="wikitable sortable"
+!colspan='4'|New NPCs
+|-
+! style=width:15em | Name !! ID !! Combat Level !! Options
+|-
+|-
+|}
+===Removed NPCs===
+{| class="wikitable sortable"
+!colspan='2'|Removed NPCs
+|-
+! style=width:15em | Name !! ID
+|-
+|-
+|}
+===Diff NPCs===
+{| class="wikitable sortable"
+!colspan='5'|Diff NPCs
+|-
+! style=width:15em | Name !! ID !! Key !! Previous Value !! New Value
+|-
+|}
+
+==Objects==
+===New Objects=== 
+{| class="wikitable sortable"
+!colspan='3'|New Objects
+|-
+! style=width:15em | Name !! ID !! Options
+|-
+| [[Fog marker]] || [https://chisel.weirdgloop.org/moid/object_id.html#34905 34905] || None
+|-
+|-
+|}
+===Removed Objects===
+{| class="wikitable sortable"
+!colspan='2'|Removed Objects
+|-
+! style=width:15em | Name !! ID
+|-
+|-
+|}
+===Diff Objects===
+{| class="wikitable sortable"
+!colspan='5'|Diff Objects
+|-
+! style=width:15em | Name !! ID !! Key !! Previous Value !! New Value
+|-
+|}

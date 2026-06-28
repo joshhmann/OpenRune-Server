@@ -1,0 +1,666 @@
+__TOC__
+==Objects==
+===New Objects===
+{| class="wikitable sortable"
+|-
+! colspan="3" | New Objects
+|-
+! style="width: 15em" | name !! id !! actions
+|-
+| [[Food Barrel]] || [https://chisel.weirdgloop.org/moid/object_id.html#23690 23690][https://abextm.github.io/cache2/#/viewer/obj/23690 (1)] || [Search, None, None, None, None]
+|-
+| [[Gangplank]] || [https://chisel.weirdgloop.org/moid/object_id.html#23691 23691][https://abextm.github.io/cache2/#/viewer/obj/23691 (1)] || [None, None, None, None, None]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#23692 23692][https://abextm.github.io/cache2/#/viewer/obj/23692 (1)] || [None, None, None, None, None]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#23693 23693][https://abextm.github.io/cache2/#/viewer/obj/23693 (1)] || [None, None, None, None, None]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#53261 53261][https://abextm.github.io/cache2/#/viewer/obj/53261 (1)] || [None, None, None, None, None]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#53262 53262][https://abextm.github.io/cache2/#/viewer/obj/53262 (1)] || [None, None, None, None, None]
+|}
+===Removed Objects===
+{| class="wikitable sortable"
+|-
+! colspan="3" | Removed Objects
+|-
+! style="width: 15em" | name !! id !! actions
+|}
+===Diff Objects===
+{| class="wikitable sortable sticky-header"
+|-
+! colspan="5" | Diff Objects
+|-
+! style="width: 15em" | Name !! Id !! Key !! Previous Value !! New Value
+|-
+| rowspan="2" | [[Servant's money bag]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#28859 28859][https://abextm.github.io/cache2/#/viewer/obj/28859 (1)]
+|-
+| name || Servant's <span style="color: #ee4231">moneybag</span> || Servant's <span style="color: #6bc71f">money bag</span>
+|-
+| rowspan="3" | [[null]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/object_id.html#52138 52138][https://abextm.github.io/cache2/#/viewer/obj/52138 (1)]
+|-
+| clipType || <span style="color: #ee4231">1</span> || 
+|-
+| supportItems || <span style="color: #ee4231">1</span> || 
+|}
+==Enums==
+===New Enums===
+{| class="wikitable sortable"
+|-
+! colspan="3" | New Enums
+|-
+! style="width: 15em" | id !! defaultValue !! map
+|}
+===Removed Enums===
+{| class="wikitable sortable"
+|-
+! colspan="3" | Removed Enums
+|-
+! style="width: 15em" | id !! defaultValue !! map
+|}
+===Diff Enums===
+{| class="wikitable sortable sticky-header"
+|-
+! colspan="5" | Diff Enums
+|-
+! style="width: 15em" | Id !! Key !! Previous Value !! New Value
+|-
+| rowspan="2" | [https://chisel.weirdgloop.org/structs/index.html?type=enums&id=1809 1809][https://abextm.github.io/cache2/#/viewer/enum/1809 (1)]
+|-
+| map || {'2': 'Make sets: ', '3': 'Make sets: ', '4': 'Buy', '5': 'Buy sets: ', '6': 'Cook', '7': 'Cook', '8': 'Cook', '9': 'Fire', '10': 'String', '11': 'Charge', '12': 'Cut', '13': 'Smelt', '14': 'Use', '15': 'Upgrade', '16': 'Spin', '17': 'Take', '18': 'Request', '19': 'Enchant', '20': 'Buy', '21': 'Light', '22': 'Make', '23': 'Take', '24': 'Give', '25': 'Smith', '27': 'Burn'} || {'2': 'Make sets: ', '3': 'Make sets: ', '4': 'Buy', '5': 'Buy sets: ', '6': 'Cook', '7': 'Cook', '8': 'Cook', '9': 'Fire', '10': 'String', '11': 'Charge', '12': 'Cut', '13': 'Smelt', '14': 'Use', '15': 'Upgrade', '16': 'Spin', '17': 'Take', '18': 'Request', '19': 'Enchant', '20': 'Buy', '21': 'Light', '22': 'Make', '23': 'Take', '24': 'Give', '25': 'Smith', '27': 'Burn'<span style="color: #6bc71f">, '28': 'Sell'</span>}
+|-
+| rowspan="2" | [https://chisel.weirdgloop.org/structs/index.html?type=enums&id=2741 2741][https://abextm.github.io/cache2/#/viewer/enum/2741 (1)]
+|-
+| map || {'0': 'Your account starts outside Kourend Castle.|Your account is restricted to the Kingdom of Great Kourend and the Kebos Lowlands.|All experience gained will be multiplied by 5.|Leagues I - Twisted will run from 14th November 2019 until the game update on the 16th January 2020.', '1': 'Your account is an <span style="color: #ee4231">Iron account</span>,  this means you cannot trade with other players.|The following quests/miniquests have been auto-completed: |- Druidic Ritual|- Dragon Slayer I|- Eagle's Peak|- Rune Mysteries|- Barbarian Fishing & Hasta Training|You will start with the following stat increases: |- 3 Herblore|- 15 Agility', '2': 'Your respawn location and home teleport destinations have been set to Kourend Castle.|Konar will assign slayer tasks from a Leagues I - Twisted specific task list. This is unlocked at level 5 combat.|Teleports to locations outside of Great Kourend and the Kebos Lowlands are blocked.|All clue scrolls will only assign steps within Great Kourend and the Kebos Lowlands.|The following items are now obtainable from Watson to aid with completing clues: |- Sextant,  Watch and Chart|- Strange Device (Hot and Cold Clues)|Player Owned Houses can only be located in Hosidius.|Some tasks have been completed for you in the Kourend & Kebos Achievement Diary.|The following drops have been changed:  |- The Kodai Insignia drop from the Chambers of Xeric has been replaced with a Kodai Wand.|- The Hydra Leather drop from the Alchemical Hydra has been replaced with Ferocious Gloves.|- The Hydra Claw drop from the Alchemical Hydra has been replaced with a Dragon Hunter Lance.|- The Broken Dragon Hasta from the Brimstone Chest has been replaced with a Dragon Hasta.|Some shop items will restock at an accelerated rate.|The following items have been added to various shops or pubs in Great Kourend and the Kebos Lowlands: |- Barbarian Rod|- Anti-Dragon Shield|- Pestle and Mortar|- Stew'} || {'0': 'Your account starts outside Kourend Castle.|Your account is restricted to the Kingdom of Great Kourend and the Kebos Lowlands.|All experience gained will be multiplied by 5.|Leagues I - Twisted will run from 14th November 2019 until the game update on the 16th January 2020.', '1': 'Your account is an <span style="color: #6bc71f">Ironman</span>,  this means you cannot trade with other players.|The following quests/miniquests have been auto-completed: |- Druidic Ritual|- Dragon Slayer I|- Eagle's Peak|- Rune Mysteries|- Barbarian Fishing & Hasta Training|You will start with the following stat increases: |- 3 Herblore|- 15 Agility', '2': 'Your respawn location and home teleport destinations have been set to Kourend Castle.|Konar will assign slayer tasks from a Leagues I - Twisted specific task list. This is unlocked at level 5 combat.|Teleports to locations outside of Great Kourend and the Kebos Lowlands are blocked.|All clue scrolls will only assign steps within Great Kourend and the Kebos Lowlands.|The following items are now obtainable from Watson to aid with completing clues: |- Sextant,  Watch and Chart|- Strange Device (Hot and Cold Clues)|Player Owned Houses can only be located in Hosidius.|Some tasks have been completed for you in the Kourend & Kebos Achievement Diary.|The following drops have been changed:  |- The Kodai Insignia drop from the Chambers of Xeric has been replaced with a Kodai Wand.|- The Hydra Leather drop from the Alchemical Hydra has been replaced with Ferocious Gloves.|- The Hydra Claw drop from the Alchemical Hydra has been replaced with a Dragon Hunter Lance.|- The Broken Dragon Hasta from the Brimstone Chest has been replaced with a Dragon Hasta.|Some shop items will restock at an accelerated rate.|The following items have been added to various shops or pubs in Great Kourend and the Kebos Lowlands: |- Barbarian Rod|- Anti-Dragon Shield|- Pestle and Mortar|- Stew'}
+|-
+| rowspan="2" | [https://chisel.weirdgloop.org/structs/index.html?type=enums&id=3047 3047][https://abextm.github.io/cache2/#/viewer/enum/3047 (1)]
+|-
+| map || {'0': '', '1': '<col=ffffff>Ahrim The Blighted: <br><br>Blighted Aura: <br><br>Magic Attacks have a 25% chance of lowering the enemy's strength level by 5 on a successful hit.<br><br>', '2': '<col=ffffff>Dharok the Wretched: <br><br>Wretched Strength: <br><br>Attacks do more damage as your hitpoints decrease. For every hitpoint lost from your maximum hitpoints,  you deal 1% more damage.<br><br>', '3': '<col=ffffff>Guthan the Infested: <br><br>Infestation: <br><br>Attacks have a 25% chance of replenishing your health equal to the damage you deal.<br><br>', '4': '<col=ffffff>Karil the Tainted: <br><br>Tainted Shot: <br><br>Successful range attacks have a 25% chance of lowering the enemy's agility stat by 20%.<br><br>', '5': '<col=ffffff>Torag the Corrupted: <br><br>Corruption: <br><br>Successful melee attacks have a 25% chance of lowering the victim's run energy by 20%.<br><br>', '6': '<col=ffffff>Verac the Defiled: <br><br>Defiler: <br><br>Attacks have a 25% chance of ignoring any armour,  Defence,  and protection prayers.<br><br>', '7': '<col=ffffff>Inquisitor's armour: <br><br>Each individual piece of Inquisitor's armour boosts damage and accuracy by 0.5% when using the crush attack style.<br><br>If all pieces of the Inquisitor's armour are worn,  this bonus is increased to 2.5%.<br><br>', '8': '<col=ffffff>Graceful Outfit: <br><br>Each individual piece of the Graceful Outfit increases your run restoration rate.<br><br>Wearing the full Graceful Outfit increases run energy restoration by 30%.<br><br>', '9': '<col=ffffff>Obsidian armour: <br><br>All obsidian weaponry will be given a 10% boost in melee accuracy and melee strength.<br><br>', '10': '<col=ffffff>Void Knight Melee: <br><br>When wearing the Void Top,  Robe,  Gloves and Melee Helmet,  you will receive +10% bonus to your melee damage and accuracy.<br><br>', '11': '<col=ffffff>Void Knight Range: <br><br>When wearing the Void Top,  Robe,  Gloves and Ranger Helmet,  you will receive +10% bonus to your ranged damage and accuracy.<br><br>', '12': '<col=ffffff>Void Knight Elite Range: <br><br>When wearing the Elite Void Top,  Elite Robe,  Gloves and Ranger Helmet,  you will receive +12.5% bonus to your ranged damage and 10% bonus to accuracy.<br><br>', '13': '<col=ffffff>Void Knight Mage: <br><br>When wearing the Void Top,  Robe,  Gloves and Mage Helmet,  you will receive +45% bonus to your magic accuracy.<br><br>', '14': '<col=ffffff>Void Knight Elite Mage: <br><br>When wearing the Elite Void Top,  Elite Robe,  Gloves and Mage Helmet,  you will receive a +45% bonus to your magic accuracy and 2.5% to your magic damage.<br><br>', '15': '<col=ffffff>Justiciar: <br><br>PvM damage dealt to you is reduced according to your total armour protection in that style.<br><br>', '16': '<col=ffffff>Angler outfit: <br><br>XP from training Fishing will be increased by 2.5% if the full set is worn. Incomplete sets give smaller bonuses.<br><br>', '17': '<col=ffffff>Lumberjack outfit: <br><br>XP from training Woodcutting will be increased by 2.5% if the full set is worn. Incomplete sets give smaller bonuses.<br><br>', '18': '<col=ffffff>Prospector outfit: <br><br>XP from training Mining will be increased by 2.5% if the full set is worn. Incomplete sets give smaller bonuses.<br><br>', '19': '<col=ffffff>Farmer outfit: <br><br>XP from training Farming will be increased by 2.5% if the full set is worn. Incomplete sets give smaller bonuses.<br><br>', '20': '<col=ffffff>Pyromancer outfit: <br><br>XP from training Firemaking will be increased by 2.5% if the full set is worn. Incomplete sets give smaller bonuses.<br><br>', '21': '<col=ffffff>Shayzien armour: <br><br>Reduces the damage of the acid splash attack used by Lizardman Shamans.<br><br>', '22': '<col=ffffff>Rogue kit: <br><br>The full set gives a 100% chance of double loot from standard pickpocketing. Incomplete sets give smaller chances.<br><br>', '23': '<col=ffffff>Carpenter's outfit: <br><br>XP from training Construction will be increased by 2.5% if the full set is worn. Incomplete sets give smaller bonuses.<br><br>', '24': '<col=ffffff>Crystal armour: <br><br>Each individual piece of Crystal Armour increases your accuracy and damage with crystal ranged weaponry.<br><br>Wearing the full set of Crystal Armour increases accuracy by 30% and damage by 15%.<br><br>', '25': '<col=ffffff>Swampbark Armour: <br><br>Wearing the helm,  body,  and legs increases the duration of Bind,  Snare and Entangle spells by 3.6 seconds<br><br>', '26': '<col=ffffff>Bloodbark Armour: <br><br>The full set increases the amount healed by Blood spells to 35.0%.<br><br>', '27': '<col=ffffff>Zealot's prayer robes: <br><br>The full set grants a 5% chance of saving ensouled heads when reanimating them,  bones when burying or offering them,  and bonemeal & slime at the Ectofuntus. This stacks with the Wilderness altar's bone saving effect.<br><br>', '28': '<col=ffffff>Spirit Angler outfit: <br><br>XP from training Fishing will be increased by 2.5% if the full set is worn. Incomplete sets give smaller bonuses.<br><br>Full set acts as a tether rope when fighting Tempoross.<br><br>', '29': '<col=ffffff>Virtus Robes: <br><br>9% increased Magic damage with ancient spells.<br><br>Smoke spells reduce healing received by 30%,  as long as the target is poisoned.<br><br>Shadow spells also drain Strength,  Ranged,  Magic and Defence,  as well as Attack.<br><br>Blood spells can heal up to 20% over your maximum hitpoints.<br><br>Ice spells gain 10% additional accuracy against frozen targets.', '30': '<col=ffffff>Raiments of the Eye: <br><br>Runes crafted are increased by 60%.<br><br>This bonus stacks additively with other similar effects.<br><br>', '31': '<col=ffffff>Smith's Uniform: <br><br>The full set increases the rate you will smith items at an anvil by 1 tick.<br><br>', '32': '<col=ffffff>Statius's Equipment: <br><br>Melee special attacks have 15% increased accuracy.<br><br>', '33': '<col=ffffff>Vesta's Equipment: <br><br>Melee special attacks have 15% increased accuracy.<br><br>', '34': '<col=ffffff>Morrigan's Equipment: <br><br>Ranged special attacks have 15% increased accuracy.<br><br>', '35': '<col=ffffff>Zuriel's Equipment: <br><br>Magic special attacks have 15% increased accuracy.<br><br>', '36': '<col=ffffff>Statius's Corrupt Equipment: <br><br>Melee special attacks have 15% increased accuracy.<br><br>', '37': '<col=ffffff>Vesta's Corrupt Equipment: <br><br>Melee special attacks have 15% increased accuracy.<br><br>', '38': '<col=ffffff>Morrigan's Corrupt Equipment: <br><br>Ranged special attacks have 15% increased accuracy.<br><br>', '39': '<col=ffffff>Zuriel's Corrupt Equipment: <br><br>Magic special attacks have 15% increased accuracy.<br><br>', '40': '<col=ffffff>Bloodrager Effect: <br><br>Successful hits with the Dual Macuahuitl have a 33% chance of reducing the delay of your next attack by 1 tick.<br><br>The Dual Macuahuitl gains the 'Blood Infusion' special attack.<br><br>', '41': '<col=ffffff>Frostweaver Effect: <br><br>Casting spells which bind the enemy has a 50% chance to allow the next attack with the Blue moon spear to bypass the action delay.<br><br>The Blue Moon Spear gains the 'Break Shackles' special attack.<br><br>', '42': '<col=ffffff>Frostweaver Effect Set: <br><br>Casting spells which bind the enemy has a 20% chance to allow the next attack with the Blue moon spear to bypass the action delay.<br><br>The Blue Moon Spear gains the 'Break Shackles' special attack.<br><br>', '43': '<col=ffffff>Eclipse Effect: <br><br>Successful hits with the Eclipse Atlatl have a 20% chance to apply a burn effect to the enemy.<br><br>The Eclipse Atlatl gains the 'Eclipse' special attack.<br><br>', '44': '<col=ffffff>Hunter's Armour: <br><br>Damage taken from hunter creatures is reduced by 60%.<br><br>', '45': '<col=ffffff>Hunter's Armour: <br><br>Damage taken from hunter creatures is reduced by 40%.<br><br>', '46': '<col=ffffff>Hunter's Armour: <br><br>Damage taken from hunter creatures is reduced by 20%.<br><br>', '47': '<col=ffffff>Guild Hunter Outfit: Increases catch chance of hunter creatures by up to 2.5%,  and increases rare creature part droprate when doing Hunters' Rumours by up to 5%.<br><br>', '2001': '<col=ffffff>Ahrim The Blighted: <br><br>Blighted Aura +: <br><br>Magic Attacks have a 25% chance of lowering the enemy's strength level by 5 on a successful hit.<br><br>If the spell is autocast,  it gets a 30% damage bonus.<br><br>', '2002': '<col=ffffff>Dharok the Wretched: <br><br>Wretched Strength +: <br><br>Attacks do more damage as your hitpoints decrease. For every hitpoint lost from your maximum hitpoints,  you deal 1% more damage.<br><br>When you take damage,  you have a 1/4 chance of reflecting 15% of the damage to your opponent.<br><br>', '2003': '<col=ffffff>Guthan the Infested: <br><br>Infestation +: <br><br>Attacks have a 25% chance of replenishing your health equal to the damage you deal.<br><br>This can boost your hitpoints by up to 10.<br><br>', '2004': '<col=ffffff>Karil the Tainted: <br><br>Tainted Shot +: <br><br>Successful range attacks have a 25% chance of lowering the enemy's agility stat by 20%.<br><br>A second hitplat is applied in PvP,  dealing half the damage of the first.<br><br>', '2005': '<col=ffffff>Torag the Corrupted: <br><br>Corruption +: <br><br>Successful melee attacks have a 25% chance of lowering the victim's run energy by 20%.<br><br>For every hitpoint lost from your maximum hitpoints,  your Defence stat gets an invisible boost.<br><br>', '2006': '<col=ffffff>Verac the Defiled: <br><br>Defiler +: <br><br>Attacks have a 25% chance of ignoring any armour,  Defence,  and protection prayers.<br><br>Gives a +7 prayer bonus.<br><br>'} || {'0': '', '1': '<col=ffffff>Ahrim The Blighted: <br><br>Blighted Aura: <br><br>Magic Attacks have a 25% chance of lowering the enemy's strength level by 5 on a successful hit.<br><br>', '2': '<col=ffffff>Dharok the Wretched: <br><br>Wretched Strength: <br><br>Attacks do more damage as your hitpoints decrease. For every hitpoint lost from your maximum hitpoints,  you deal 1% more damage.<br><br>', '3': '<col=ffffff>Guthan the Infested: <br><br>Infestation: <br><br>Attacks have a 25% chance of replenishing your health equal to the damage you deal.<br><br>', '4': '<col=ffffff>Karil the Tainted: <br><br>Tainted Shot: <br><br>Successful range attacks have a 25% chance of lowering the enemy's agility stat by 20%.<br><br>', '5': '<col=ffffff>Torag the Corrupted: <br><br>Corruption: <br><br>Successful melee attacks have a 25% chance of lowering the victim's run energy by 20%.<br><br>', '6': '<col=ffffff>Verac the Defiled: <br><br>Defiler: <br><br>Attacks have a 25% chance of ignoring any armour,  Defence,  and protection prayers.<br><br>', '7': '<col=ffffff>Inquisitor's armour: <br><br>Each individual piece of Inquisitor's armour boosts damage and accuracy by 0.5% when using the crush attack style.<br><br>If all pieces of the Inquisitor's armour are worn,  this bonus is increased to 2.5%.<br><br>', '8': '<col=ffffff>Graceful Outfit: <br><br>Each individual piece of the Graceful Outfit increases your run restoration rate.<br><br>Wearing the full Graceful Outfit increases run energy restoration by 30%.<br><br>', '9': '<col=ffffff>Obsidian armour: <br><br>All obsidian weaponry will be given a 10% boost in melee accuracy and melee strength.<br><br>', '10': '<col=ffffff>Void Knight Melee: <br><br>When wearing the Void Top,  Robe,  Gloves and Melee Helmet,  you will receive +10% bonus to your melee damage and accuracy.<br><br>', '11': '<col=ffffff>Void Knight Range: <br><br>When wearing the Void Top,  Robe,  Gloves and Ranger Helmet,  you will receive +10% bonus to your ranged damage and accuracy.<br><br>', '12': '<col=ffffff>Void Knight Elite Range: <br><br>When wearing the Elite Void Top,  Elite Robe,  Gloves and Ranger Helmet,  you will receive +12.5% bonus to your ranged damage and 10% bonus to accuracy.<br><br>', '13': '<col=ffffff>Void Knight Mage: <br><br>When wearing the Void Top,  Robe,  Gloves and Mage Helmet,  you will receive +45% bonus to your magic accuracy.<br><br>', '14': '<col=ffffff>Void Knight Elite Mage: <br><br>When wearing the Elite Void Top,  Elite Robe,  Gloves and Mage Helmet,  you will receive a +45% bonus to your magic accuracy and 2.5% to your magic damage.<br><br>', '15': '<col=ffffff>Justiciar: <br><br>PvM damage dealt to you is reduced according to your total armour protection in that style.<br><br>', '16': '<col=ffffff>Angler outfit: <br><br>XP from training Fishing will be increased by 2.5% if the full set is worn. Incomplete sets give smaller bonuses.<br><br>', '17': '<col=ffffff>Lumberjack outfit: <br><br>XP from training Woodcutting will be increased by 2.5% if the full set is worn. Incomplete sets give smaller bonuses.<br><br>', '18': '<col=ffffff>Prospector outfit: <br><br>XP from training Mining will be increased by 2.5% if the full set is worn. Incomplete sets give smaller bonuses.<br><br>', '19': '<col=ffffff>Farmer outfit: <br><br>XP from training Farming will be increased by 2.5% if the full set is worn. Incomplete sets give smaller bonuses.<br><br>', '20': '<col=ffffff>Pyromancer outfit: <br><br>XP from training Firemaking will be increased by 2.5% if the full set is worn. Incomplete sets give smaller bonuses.<br><br>', '21': '<col=ffffff>Shayzien armour: <br><br>Reduces the damage of the acid splash attack used by Lizardman Shamans.<br><br>', '22': '<col=ffffff>Rogue kit: <br><br>The full set gives a 100% chance of double loot from standard pickpocketing. Incomplete sets give smaller chances.<br><br>', '23': '<col=ffffff>Carpenter's outfit: <br><br>XP from training Construction will be increased by 2.5% if the full set is worn. Incomplete sets give smaller bonuses.<br><br>', '24': '<col=ffffff>Crystal armour: <br><br>Each individual piece of Crystal Armour increases your accuracy and damage with crystal ranged weaponry.<br><br>Wearing the full set of Crystal Armour increases accuracy by 30% and damage by 15%.<br><br>', '25': '<col=ffffff>Swampbark Armour: <br><br>Wearing the helm,  body,  and legs increases the duration of Bind,  Snare and Entangle spells by 3.6 seconds<br><br>', '26': '<col=ffffff>Bloodbark Armour: <br><br>The full set increases the amount healed by Blood spells to 35.0%.<br><br>', '27': '<col=ffffff>Zealot's prayer robes: <br><br>The full set grants a 5% chance of saving ensouled heads when reanimating them,  bones when burying or offering them,  and bonemeal & slime at the Ectofuntus. This stacks with the Wilderness altar's bone saving effect.<br><br>', '28': '<col=ffffff>Spirit Angler outfit: <br><br>XP from training Fishing will be increased by 2.5% if the full set is worn. Incomplete sets give smaller bonuses.<br><br>Full set acts as a tether rope when fighting Tempoross.<br><br>', '29': '<col=ffffff>Virtus Robes: <br><br>9% increased Magic damage with ancient spells.<br><br>Smoke spells reduce healing received by 30%,  as long as the target is poisoned.<br><br>Shadow spells also drain Strength,  Ranged,  Magic and Defence,  as well as Attack.<br><br>Blood spells can heal up to 20% over your maximum hitpoints.<br><br>Ice spells gain 10% additional accuracy against frozen targets.', '30': '<col=ffffff>Raiments of the Eye: <br><br>Runes crafted are increased by 60%.<br><br>This bonus stacks additively with other similar effects.<br><br>', '31': '<col=ffffff>Smith's Uniform: <br><br>The full set increases the rate you will smith items at an anvil by 1 tick.<br><br>', '32': '<col=ffffff>Statius's Equipment: <br><br>Melee special attacks have 15% increased accuracy.<br><br>', '33': '<col=ffffff>Vesta's Equipment: <br><br>Melee special attacks have 15% increased accuracy.<br><br>', '34': '<col=ffffff>Morrigan's Equipment: <br><br>Ranged special attacks have 15% increased accuracy.<br><br>', '35': '<col=ffffff>Zuriel's Equipment: <br><br>Magic special attacks have 15% increased accuracy.<br><br>', '36': '<col=ffffff>Statius's Corrupt Equipment: <br><br>Melee special attacks have 15% increased accuracy.<br><br>', '37': '<col=ffffff>Vesta's Corrupt Equipment: <br><br>Melee special attacks have 15% increased accuracy.<br><br>', '38': '<col=ffffff>Morrigan's Corrupt Equipment: <br><br>Ranged special attacks have 15% increased accuracy.<br><br>', '39': '<col=ffffff>Zuriel's Corrupt Equipment: <br><br>Magic special attacks have 15% increased accuracy.<br><br>', '40': '<col=ffffff>Bloodrager Effect: <br><br>Successful hits with the Dual Macuahuitl have a 33% chance of reducing the delay of your next attack by 1 tick.<br><br>The Dual Macuahuitl gains the 'Blood Infusion' special attack.<br><br>', '41': '<col=ffffff>Frostweaver Effect: <br><br>Casting spells which bind the enemy has a 50% chance to allow the next attack with the Blue moon spear to bypass the action delay.<br><br>The Blue Moon Spear gains the 'Break Shackles' special attack.<br><br>', '42': '<col=ffffff>Frostweaver Effect Set: <br><br>Casting spells which bind the enemy has a 20% chance to allow the next attack with the Blue moon spear to bypass the action delay.<br><br>The Blue Moon Spear gains the 'Break Shackles' special attack.<br><br>', '43': '<col=ffffff>Eclipse Effect: <br><br>Successful hits with the Eclipse Atlatl have a 20% chance to apply a burn effect to the enemy.<br><br>The Eclipse Atlatl gains the 'Eclipse' special attack.<br><br>', '44': '<col=ffffff>Hunter's Armour: <br><br>Damage taken from hunter creatures is reduced by 60%.<br><br>', '45': '<col=ffffff>Hunter's Armour: <br><br>Damage taken from hunter creatures is reduced by 40%.<br><br>', '46': '<col=ffffff>Hunter's Armour: <br><br>Damage taken from hunter creatures is reduced by 20%.<br><br>', '47': '<col=ffffff>Guild Hunter Outfit: <span style="color: #6bc71f"><br><br></span>Increases catch chance of hunter creatures by up to 2.5%,  and increases rare creature part droprate when doing Hunters' Rumours by up to 5%.<br><br>', '2001': '<col=ffffff>Ahrim The Blighted: <br><br>Blighted Aura +: <br><br>Magic Attacks have a 25% chance of lowering the enemy's strength level by 5 on a successful hit.<br><br>If the spell is autocast,  it gets a 30% damage bonus.<br><br>', '2002': '<col=ffffff>Dharok the Wretched: <br><br>Wretched Strength +: <br><br>Attacks do more damage as your hitpoints decrease. For every hitpoint lost from your maximum hitpoints,  you deal 1% more damage.<br><br>When you take damage,  you have a 1/4 chance of reflecting 15% of the damage to your opponent.<br><br>', '2003': '<col=ffffff>Guthan the Infested: <br><br>Infestation +: <br><br>Attacks have a 25% chance of replenishing your health equal to the damage you deal.<br><br>This can boost your hitpoints by up to 10.<br><br>', '2004': '<col=ffffff>Karil the Tainted: <br><br>Tainted Shot +: <br><br>Successful range attacks have a 25% chance of lowering the enemy's agility stat by 20%.<br><br>A second hitplat is applied in PvP,  dealing half the damage of the first.<br><br>', '2005': '<col=ffffff>Torag the Corrupted: <br><br>Corruption +: <br><br>Successful melee attacks have a 25% chance of lowering the victim's run energy by 20%.<br><br>For every hitpoint lost from your maximum hitpoints,  your Defence stat gets an invisible boost.<br><br>', '2006': '<col=ffffff>Verac the Defiled: <br><br>Defiler +: <br><br>Attacks have a 25% chance of ignoring any armour,  Defence,  and protection prayers.<br><br>Gives a +7 prayer bonus.<br><br>'}
+|-
+| rowspan="2" | [https://chisel.weirdgloop.org/structs/index.html?type=enums&id=3372 3372][https://abextm.github.io/cache2/#/viewer/enum/3372 (1)]
+|-
+| map || {'0': 'Your character starts outside Lumbridge Castle.|Your character begins restricted to the areas of Misthalin and Karamja. As you complete tasks,  you can unlock more areas.|Full information about each of the areas can be found in the Area Selection Menu. This can be accessed from the Leagues Menu in the Journal Panel.|All experience gained will be multiplied by 5x,  and this will increase as you unlock more Relics.|Content released during Leagues IV will be reviewed and enabled for the League on a case-by-case basis.|Leagues IV:  Trailblazer Reloaded will run from November 15th 2023 until the game update on January 10th 2024.', '1': 'Your character is an <span style="color: #ee4231">Iron character</span>,  meaning you cannot trade with other players.|As you begin with Misthalin and Karamja unlocked,  the following quests have been auto-completed: |- Dragon Slayer<br>- Druidic Ritual<br>- Elemental Workshop I<br>- Bone Voyage<br>    - Dig Site<br>- Fairytale II - Cure a Queen<br>   - Fairytale I - Growing Pains<br>      - Lost City<br>      - Nature Spirit<br>         - Priest in Peril<br>         - The Restless Ghost<br>- Shilo Village<br>   - Jungle Potion|You will start with the following stat increases: |- 3 Herblore<br>- 10 Agility<br>- 5 Runecraft|A Dramen Staff will be added to your Inventory so that you can access Zanaris. If lost,  you can reclaim it from the Sage in Lumbridge.', '2': 'Slayer Masters will assign you the same tasks,  taking into account the areas you have currently unlocked.|Teleports and transportation methods to locations outside of areas you have unlocked are restricted.|When purchasing your Player Owned House it will be accessible from Brimhaven. Your house can only be moved to areas you have unlocked.|Unlocking new areas will complete various quests and Achievement Diary tasks but will not award any quest completion XP. However,  you may complete some quests on your own to gain their XP before unlocking the area which auto-completes it.|Some bosses will have the option to be fought in private areas without other players.|Some shop items will have infinite stock and let you buy items already noted.|The following shop stocks have been modified: |- Pestle and Mortars and Box Traps have been added to the Lumbridge General Store<br>- Black Platelegs have been added to Horvik's Armour Shop<br>- Elemental Shields have been added to all Slayer Equipment shops|Thessalia in Varrock will offer additional makeover services.|Impling spawn rates have been increased.|Rarity of rare implings has been increased.|Dragon implings drop reduced Dragon Bones.|All Soulreaper Axe pieces will drop from every Desert Treasure 2 Boss.'} || {'0': 'Your character starts outside Lumbridge Castle.|Your character begins restricted to the areas of Misthalin and Karamja. As you complete tasks,  you can unlock more areas.|Full information about each of the areas can be found in the Area Selection Menu. This can be accessed from the Leagues Menu in the Journal Panel.|All experience gained will be multiplied by 5x,  and this will increase as you unlock more Relics.|Content released during Leagues IV will be reviewed and enabled for the League on a case-by-case basis.|Leagues IV:  Trailblazer Reloaded will run from November 15th 2023 until the game update on January 10th 2024.', '1': 'Your character is an <span style="color: #6bc71f">Ironman</span>,  meaning you cannot trade with other players.|As you begin with Misthalin and Karamja unlocked,  the following quests have been auto-completed: |- Dragon Slayer<br>- Druidic Ritual<br>- Elemental Workshop I<br>- Bone Voyage<br>    - Dig Site<br>- Fairytale II - Cure a Queen<br>   - Fairytale I - Growing Pains<br>      - Lost City<br>      - Nature Spirit<br>         - Priest in Peril<br>         - The Restless Ghost<br>- Shilo Village<br>   - Jungle Potion|You will start with the following stat increases: |- 3 Herblore<br>- 10 Agility<br>- 5 Runecraft|A Dramen Staff will be added to your Inventory so that you can access Zanaris. If lost,  you can reclaim it from the Sage in Lumbridge.', '2': 'Slayer Masters will assign you the same tasks,  taking into account the areas you have currently unlocked.|Teleports and transportation methods to locations outside of areas you have unlocked are restricted.|When purchasing your Player Owned House it will be accessible from Brimhaven. Your house can only be moved to areas you have unlocked.|Unlocking new areas will complete various quests and Achievement Diary tasks but will not award any quest completion XP. However,  you may complete some quests on your own to gain their XP before unlocking the area which auto-completes it.|Some bosses will have the option to be fought in private areas without other players.|Some shop items will have infinite stock and let you buy items already noted.|The following shop stocks have been modified: |- Pestle and Mortars and Box Traps have been added to the Lumbridge General Store<br>- Black Platelegs have been added to Horvik's Armour Shop<br>- Elemental Shields have been added to all Slayer Equipment shops|Thessalia in Varrock will offer additional makeover services.|Impling spawn rates have been increased.|Rarity of rare implings has been increased.|Dragon implings drop reduced Dragon Bones.|All Soulreaper Axe pieces will drop from every Desert Treasure 2 Boss.'}
+|-
+| rowspan="2" | [https://chisel.weirdgloop.org/structs/index.html?type=enums&id=3792 3792][https://abextm.github.io/cache2/#/viewer/enum/3792 (1)]
+|-
+| map || {'0': 'F2P', '1': 'Newbie-friendly', '2': 'Socialising', '3': 'Diversity', '4': 'Pure', '5': 'PvP', '6': 'Boss-hunting', '7': 'Raiding', '8': 'Slayer', '9': 'Skilling', '10': 'Role-playing', '11': '<span style="color: #ee4231">Iron players</span>', '12': 'Ultimate <span style="color: #ee4231">Iron players</span>', '13': 'Hardcore <span style="color: #ee4231">Iron players</span>', '14': 'Castle Wars', '15': 'Soul Wars'} || {'0': 'F2P', '1': 'Newbie-friendly', '2': 'Socialising', '3': 'Diversity', '4': 'Pure', '5': 'PvP', '6': 'Boss-hunting', '7': 'Raiding', '8': 'Slayer', '9': 'Skilling', '10': 'Role-playing', '11': '<span style="color: #6bc71f">Ironmen</span>', '12': 'Ultimate <span style="color: #6bc71f">Ironmen</span>', '13': 'Hardcore <span style="color: #6bc71f">Ironmen</span>', '14': 'Castle Wars', '15': 'Soul Wars'}
+|-
+| rowspan="2" | [https://chisel.weirdgloop.org/structs/index.html?type=enums&id=3822 3822][https://abextm.github.io/cache2/#/viewer/enum/3822 (1)]
+|-
+| map || {'0': '', '1': 'Dragon med helm', '2': 'Compass', '3': 'Axe and pickaxe', '4': 'Party hat', '5': 'Bones', '6': 'Wizard hat', '7': 'Holy star of Saradomin', '8': 'Fish', '9': 'Tragedy', '10': 'Heart', '11': 'Robin hat', '12': 'Unholy symbol of Zamorak', '13': 'Rake and spade', '14': 'Comedy', '15': 'Swords', '16': 'Arrows', '17': 'Icon of Guthix', '18': 'Hunter', '19': 'Bob', '20': 'Mask', '21': 'Defence', '22': 'Cabbage', '23': 'Rose', '24': 'Ring', '25': 'Skull', '26': '<span style="color: #ee4231">Iron</span>', '27': 'Ultimate <span style="color: #ee4231">iron</span>'} || {'0': '', '1': 'Dragon med helm', '2': 'Compass', '3': 'Axe and pickaxe', '4': 'Party hat', '5': 'Bones', '6': 'Wizard hat', '7': 'Holy star of Saradomin', '8': 'Fish', '9': 'Tragedy', '10': 'Heart', '11': 'Robin hat', '12': 'Unholy symbol of Zamorak', '13': 'Rake and spade', '14': 'Comedy', '15': 'Swords', '16': 'Arrows', '17': 'Icon of Guthix', '18': 'Hunter', '19': 'Bob', '20': 'Mask', '21': 'Defence', '22': 'Cabbage', '23': 'Rose', '24': 'Ring', '25': 'Skull', '26': '<span style="color: #6bc71f">Ironman</span>', '27': 'Ultimate <span style="color: #6bc71f">Ironman</span>'}
+|-
+| rowspan="2" | [https://chisel.weirdgloop.org/structs/index.html?type=enums&id=3828 3828][https://abextm.github.io/cache2/#/viewer/enum/3828 (1)]
+|-
+| map || {'1': 'Any <span style="color: #ee4231">Iron player</span>', '2': 'UIM only', '3': 'HCIM only'} || {'1': 'Any <span style="color: #6bc71f">Ironman</span>', '2': 'UIM only', '3': 'HCIM only'}
+|-
+| rowspan="2" | [https://chisel.weirdgloop.org/structs/index.html?type=enums&id=3839 3839][https://abextm.github.io/cache2/#/viewer/enum/3839 (1)]
+|-
+| map || {'1': 'Your Clan', '2': 'View another clan', '3': 'Grouping', '4': '<span style="color: #ee4231">Iron</span> Group', '5': 'Hardcore <span style="color: #ee4231">Iron</span> Group', '6': 'Unranked <span style="color: #ee4231">Iron</span> Group'} || {'1': 'Your Clan', '2': 'View another clan', '3': 'Grouping', '4': '<span style="color: #6bc71f">Ironman</span> Group', '5': 'Hardcore <span style="color: #6bc71f">Ironman</span> Group', '6': 'Unranked <span style="color: #6bc71f">Ironman</span> Group'}
+|-
+| rowspan="2" | [https://chisel.weirdgloop.org/structs/index.html?type=enums&id=4070 4070][https://abextm.github.io/cache2/#/viewer/enum/4070 (1)]
+|-
+| map || {'0': 'Public', '1': 'Channel', '2': 'Clan', '3': 'Guest Clan', '4': '<span style="color: #ee4231">Iron</span> Group'} || {'0': 'Public', '1': 'Channel', '2': 'Clan', '3': 'Guest Clan', '4': '<span style="color: #6bc71f">Ironman</span> Group'}
+|-
+| rowspan="2" | [https://chisel.weirdgloop.org/structs/index.html?type=enums&id=4126 4126][https://abextm.github.io/cache2/#/viewer/enum/4126 (1)]
+|-
+| map || {'0': 'Your character starts in the outskirts of Catherby,  by The Sage.|Instead of earning Relics,  in this League you will be collecting Fragments. You can obtain a wide variety of Fragments from killing monsters,  earning experience and completing minigames. Once you have obtained and unlocked them,  you can equip them via the Fragments menu,  found in the Leagues Menu in the Character Summary Panel.|Fragments will gain experience and become more powerful as you use them. You can check your Fragments' progress from the Fragments menu as well.|Your character begins restricted to a few skills and bosses. While a skill is locked,  you can use it as normal,  but you will not be able to gain any experience from it. As you complete tasks,  you gain Sage's Renown,  which can be used to auto-complete quests and unlock skills and bosses.|Full information about each of the skills,  bosses and quest auto-completions can be found in the Unlocks menu. This can be accessed from the Leagues Menu in the Character Summary Panel.|All experience gained will be multiplied by 5x,  and this will increase as you advance through each Tier,  which also unlocks more Fragment Slots,  allowing you to equip more Fragments!|Any new content released during Leagues III - Shattered Relics will be reviewed on a case-by-case basis.|Leagues III - Shattered Relics will run from 19th January 2022 until the game update on 16th March 2022.', '1': 'Your character is an <span style="color: #ee4231">Iron character</span>,  meaning you cannot trade with other players.|As you begin with nothing unlocked,  no quests will be automatically completed.|When you unlock Herblore,  you will be granted enough experience in it to reach level 3. Beyond that,  no additional levels will be rewarded.', '2': 'You're free to explore the entire map in Leagues III:  Shattered Relics.|To aid in your exploration,  you can activate Waystones in key locations across the map. The first can be found in Catherby.|Once a Waystone is activated,  you can use it to teleport to other activated Waystones.'} || {'0': 'Your character starts in the outskirts of Catherby,  by The Sage.|Instead of earning Relics,  in this League you will be collecting Fragments. You can obtain a wide variety of Fragments from killing monsters,  earning experience and completing minigames. Once you have obtained and unlocked them,  you can equip them via the Fragments menu,  found in the Leagues Menu in the Character Summary Panel.|Fragments will gain experience and become more powerful as you use them. You can check your Fragments' progress from the Fragments menu as well.|Your character begins restricted to a few skills and bosses. While a skill is locked,  you can use it as normal,  but you will not be able to gain any experience from it. As you complete tasks,  you gain Sage's Renown,  which can be used to auto-complete quests and unlock skills and bosses.|Full information about each of the skills,  bosses and quest auto-completions can be found in the Unlocks menu. This can be accessed from the Leagues Menu in the Character Summary Panel.|All experience gained will be multiplied by 5x,  and this will increase as you advance through each Tier,  which also unlocks more Fragment Slots,  allowing you to equip more Fragments!|Any new content released during Leagues III - Shattered Relics will be reviewed on a case-by-case basis.|Leagues III - Shattered Relics will run from 19th January 2022 until the game update on 16th March 2022.', '1': 'Your character is an <span style="color: #6bc71f">Ironman</span>,  meaning you cannot trade with other players.|As you begin with nothing unlocked,  no quests will be automatically completed.|When you unlock Herblore,  you will be granted enough experience in it to reach level 3. Beyond that,  no additional levels will be rewarded.', '2': 'You're free to explore the entire map in Leagues III:  Shattered Relics.|To aid in your exploration,  you can activate Waystones in key locations across the map. The first can be found in Catherby.|Once a Waystone is activated,  you can use it to teleport to other activated Waystones.'}
+|-
+| rowspan="2" | [https://chisel.weirdgloop.org/structs/index.html?type=enums&id=5222 5222][https://abextm.github.io/cache2/#/viewer/enum/5222 (1)]
+|-
+| map || {'0': 'Your character starts outside Lumbridge Castle.|Your character begins restricted to the areas of Misthalin and Karamja. As you complete tasks,  you can unlock more areas.|Full information about each of the areas can be found in the Area Selection Menu. This can be accessed from the Leagues Menu in the Journal Panel.|All experience gained will be multiplied by 5x,  and this will increase as you unlock more Relics.|Content released during Leagues IV will be reviewed and enabled for the League on a case-by-case basis.|Leagues IV:  Trailblazer Reloaded will run from November 16th 2023 until the game update on January 10th 2024.', '1': 'Your character is an <span style="color: #ee4231">Iron character</span>,  meaning you cannot trade with other players.|As you begin with Misthalin and Karamja unlocked,  the following quests have been auto-completed: |- Dragon Slayer<br>- Druidic Ritual<br>- Elemental Workshop I<br>- Bone Voyage<br>    - Dig Site<br>- Fairytale II - Cure a Queen<br>   - Fairytale I - Growing Pains<br>      - Lost City<br>      - Nature Spirit<br>         - Priest in Peril<br>         - The Restless Ghost<br>- Shilo Village<br>   - Jungle Potion|You will start with the following stat increases: |- 3 Herblore<br>- 10 Agility<br>- 5 Runecraft|A Dramen Staff will be added to your Inventory so that you can access Zanaris. If lost,  you can reclaim it from the Sage in Lumbridge.', '2': 'Slayer Masters will assign you the same tasks,  taking into account the areas you have currently unlocked.|Teleports and transportation methods to locations outside of areas you have unlocked are restricted.|When purchasing your Player Owned House it will be accessible from Brimhaven. Your house can only be moved to areas you have unlocked.|Unlocking new areas will complete various quests and Achievement Diary tasks but will not award any quest completion XP. However,  you may complete some quests on your own to gain their XP before unlocking the area which auto-completes it.|Some bosses will have the option to be fought in private areas without other players.|Some shop items will have infinite stock and let you buy items already noted.|The following shop stocks have been modified: |- Pestle and Mortars and Box Traps have been added to the Lumbridge General Store<br>- Black Platelegs have been added to Horvik's Armour Shop<br>- Elemental Shields have been added to all Slayer Equipment shops|Thessalia in Varrock will offer additional makeover services.|Impling spawn rates have been increased.|Rarity of rare implings has been increased.|Dragon implings drop reduced Dragon Bones.|All Soulreaper Axe pieces will drop from every Desert Treasure 2 Boss.|Pets do not count towards the collection log tasks.'} || {'0': 'Your character starts outside Lumbridge Castle.|Your character begins restricted to the areas of Misthalin and Karamja. As you complete tasks,  you can unlock more areas.|Full information about each of the areas can be found in the Area Selection Menu. This can be accessed from the Leagues Menu in the Journal Panel.|All experience gained will be multiplied by 5x,  and this will increase as you unlock more Relics.|Content released during Leagues IV will be reviewed and enabled for the League on a case-by-case basis.|Leagues IV:  Trailblazer Reloaded will run from November 16th 2023 until the game update on January 10th 2024.', '1': 'Your character is an <span style="color: #6bc71f">Ironman</span>,  meaning you cannot trade with other players.|As you begin with Misthalin and Karamja unlocked,  the following quests have been auto-completed: |- Dragon Slayer<br>- Druidic Ritual<br>- Elemental Workshop I<br>- Bone Voyage<br>    - Dig Site<br>- Fairytale II - Cure a Queen<br>   - Fairytale I - Growing Pains<br>      - Lost City<br>      - Nature Spirit<br>         - Priest in Peril<br>         - The Restless Ghost<br>- Shilo Village<br>   - Jungle Potion|You will start with the following stat increases: |- 3 Herblore<br>- 10 Agility<br>- 5 Runecraft|A Dramen Staff will be added to your Inventory so that you can access Zanaris. If lost,  you can reclaim it from the Sage in Lumbridge.', '2': 'Slayer Masters will assign you the same tasks,  taking into account the areas you have currently unlocked.|Teleports and transportation methods to locations outside of areas you have unlocked are restricted.|When purchasing your Player Owned House it will be accessible from Brimhaven. Your house can only be moved to areas you have unlocked.|Unlocking new areas will complete various quests and Achievement Diary tasks but will not award any quest completion XP. However,  you may complete some quests on your own to gain their XP before unlocking the area which auto-completes it.|Some bosses will have the option to be fought in private areas without other players.|Some shop items will have infinite stock and let you buy items already noted.|The following shop stocks have been modified: |- Pestle and Mortars and Box Traps have been added to the Lumbridge General Store<br>- Black Platelegs have been added to Horvik's Armour Shop<br>- Elemental Shields have been added to all Slayer Equipment shops|Thessalia in Varrock will offer additional makeover services.|Impling spawn rates have been increased.|Rarity of rare implings has been increased.|Dragon implings drop reduced Dragon Bones.|All Soulreaper Axe pieces will drop from every Desert Treasure 2 Boss.|Pets do not count towards the collection log tasks.'}
+|}
+==Npcs==
+===New Npcs===
+{| class="wikitable sortable"
+|-
+! colspan="4" | New Npcs
+|-
+! style="width: 15em" | name !! id !! combatLevel !! actions
+|}
+===Removed Npcs===
+{| class="wikitable sortable"
+|-
+! colspan="4" | Removed Npcs
+|-
+! style="width: 15em" | name !! id !! combatLevel !! actions
+|}
+===Diff Npcs===
+{| class="wikitable sortable sticky-header"
+|-
+! colspan="5" | Diff Npcs
+|-
+! style="width: 15em" | Name !! Id !! Key !! Previous Value !! New Value
+|-
+| rowspan="2" | [[Ironman tutor]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/npc_id.html#311 311][https://abextm.github.io/cache2/#/viewer/npc/311 (1)]
+|-
+| name || <span style="color: #ee4231">Iron</span> <span style="color: #ee4231">Man </span>tutor || <span style="color: #6bc71f">Ironman</span> tutor
+|-
+| rowspan="2" | [[Lesser Fanatic]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/npc_id.html#5514 5514][https://abextm.github.io/cache2/#/viewer/npc/5514 (1)]
+|-
+| category || <span style="color: #ee4231">857</span> || <span style="color: #6bc71f">-1</span>
+|-
+| rowspan="2" | [[Ironman tutor]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/npc_id.html#7941 7941][https://abextm.github.io/cache2/#/viewer/npc/7941 (1)]
+|-
+| name || <span style="color: #ee4231">Iron</span> <span style="color: #ee4231">Man </span>tutor || <span style="color: #6bc71f">Ironman</span> tutor
+|-
+| rowspan="2" | [[Ironman tutor]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/npc_id.html#9486 9486][https://abextm.github.io/cache2/#/viewer/npc/9486 (1)]
+|-
+| name || <span style="color: #ee4231">Iron</span> <span style="color: #ee4231">Man </span>tutor || <span style="color: #6bc71f">Ironman</span> tutor
+|-
+| rowspan="2" | [[Group Ironman tutor]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/npc_id.html#11231 11231][https://abextm.github.io/cache2/#/viewer/npc/11231 (1)]
+|-
+| name || Group <span style="color: #ee4231">Iron</span> tutor || Group <span style="color: #6bc71f">Ironman</span> tutor
+|-
+| rowspan="2" | [[Renu]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/npc_id.html#13350 13350][https://abextm.github.io/cache2/#/viewer/npc/13350 (1)]
+|-
+| actions || [Travel, None, Last-destination, <span style="color: #ee4231">None</span>, None] || [Travel, None, Last-destination, <span style="color: #6bc71f">Pet</span>, None]
+|-
+| rowspan="2" | [[Renu]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/npc_id.html#13351 13351][https://abextm.github.io/cache2/#/viewer/npc/13351 (1)]
+|-
+| actions || [Travel, None, Last-destination, <span style="color: #ee4231">None</span>, None] || [Travel, None, Last-destination, <span style="color: #6bc71f">Pet</span>, None]
+|-
+| rowspan="2" | [[Renu]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/npc_id.html#13352 13352][https://abextm.github.io/cache2/#/viewer/npc/13352 (1)]
+|-
+| actions || [Travel, None, Last-destination, <span style="color: #ee4231">None</span>, None] || [Travel, None, Last-destination, <span style="color: #6bc71f">Pet</span>, None]
+|-
+| rowspan="2" | [[Renu]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/npc_id.html#13353 13353][https://abextm.github.io/cache2/#/viewer/npc/13353 (1)]
+|-
+| actions || [Travel, None, Last-destination, <span style="color: #ee4231">None</span>, None] || [Travel, None, Last-destination, <span style="color: #6bc71f">Pet</span>, None]
+|-
+| rowspan="2" | [[Renu]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/npc_id.html#13354 13354][https://abextm.github.io/cache2/#/viewer/npc/13354 (1)]
+|-
+| actions || [Travel, None, Last-destination, <span style="color: #ee4231">None</span>, None] || [Travel, None, Last-destination, <span style="color: #6bc71f">Pet</span>, None]
+|}
+==Items==
+===New Items===
+{| class="wikitable sortable"
+|-
+! colspan="11" | New Items
+|-
+! style="width: 15em" | name !! id !! examine !! isMembers !! isGrandExchangable !! isStackable !! noteLinkedItem !! inventoryActions !! placeholderLinkedItem !! price !! weight
+|}
+===Removed Items===
+{| class="wikitable sortable"
+|-
+! colspan="11" | Removed Items
+|-
+! style="width: 15em" | name !! id !! examine !! isMembers !! isGrandExchangable !! isStackable !! noteLinkedItem !! inventoryActions !! placeholderLinkedItem !! price !! weight
+|}
+===Diff Items===
+{| class="wikitable sortable sticky-header"
+|-
+! colspan="5" | Diff Items
+|-
+! style="width: 15em" | Name !! Id !! Key !! Previous Value !! New Value
+|-
+| rowspan="3" | [[Servant's money bag]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/item_id.html#21213 21213][https://abextm.github.io/cache2/#/viewer/item/21213 (1)]
+|-
+| name || Servant's <span style="color: #ee4231">moneybag</span> || Servant's <span style="color: #6bc71f">money bag</span>
+|-
+| examine || Servant's <span style="color: #ee4231">moneybag</span> || Servant's <span style="color: #6bc71f">money bag</span>
+|-
+| rowspan="2" | [[Superior mining gloves]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#21345 21345][https://abextm.github.io/cache2/#/viewer/item/21345 (1)]
+|-
+| examine || These will help me mine <span style="color: #ee4231">Sandstone, Granite, </span>Mithril and Adamantite. As well as improve mining Iron, Silver, Coal and Gold. || These will help me mine Mithril and Adamantite. As well as improve mining Iron, Silver, Coal and Gold.
+|-
+| rowspan="2" | [[Expert mining gloves]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#21392 21392][https://abextm.github.io/cache2/#/viewer/item/21392 (1)]
+|-
+| examine || These will help me mine Runite and Amethyst. As well as improve mining for Iron, Silver, Coal, Gold, <span style="color: #ee4231">Sandstone, Granite, </span>Mithril, Adamantite. || These will help me mine Runite and Amethyst. As well as improve mining for Iron, Silver, Coal, Gold, Mithril, Adamantite.
+|-
+| rowspan="2" | [[Group ironman helm]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#26156 26156][https://abextm.github.io/cache2/#/viewer/item/26156 (1)]
+|-
+| name || Group <span style="color: #ee4231">iron</span> helm || Group <span style="color: #6bc71f">ironman</span> helm
+|-
+| rowspan="2" | [[Group ironman platebody]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#26158 26158][https://abextm.github.io/cache2/#/viewer/item/26158 (1)]
+|-
+| name || Group <span style="color: #ee4231">iron</span> platebody || Group <span style="color: #6bc71f">ironman</span> platebody
+|-
+| rowspan="2" | [[Group ironman platebody]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#26160 26160][https://abextm.github.io/cache2/#/viewer/item/26160 (1)]
+|-
+| name || Group <span style="color: #ee4231">iron</span> platebody || Group <span style="color: #6bc71f">ironman</span> platebody
+|-
+| rowspan="2" | [[Group ironman platebody]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#26162 26162][https://abextm.github.io/cache2/#/viewer/item/26162 (1)]
+|-
+| name || Group <span style="color: #ee4231">iron</span> platebody || Group <span style="color: #6bc71f">ironman</span> platebody
+|-
+| rowspan="2" | [[Group ironman platebody]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#26164 26164][https://abextm.github.io/cache2/#/viewer/item/26164 (1)]
+|-
+| name || Group <span style="color: #ee4231">iron</span> platebody || Group <span style="color: #6bc71f">ironman</span> platebody
+|-
+| rowspan="2" | [[Group ironman platelegs]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#26166 26166][https://abextm.github.io/cache2/#/viewer/item/26166 (1)]
+|-
+| name || Group <span style="color: #ee4231">iron</span> platelegs || Group <span style="color: #6bc71f">ironman</span> platelegs
+|-
+| rowspan="2" | [[Group ironman bracers]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#26168 26168][https://abextm.github.io/cache2/#/viewer/item/26168 (1)]
+|-
+| name || Group <span style="color: #ee4231">iron</span> bracers || Group <span style="color: #6bc71f">ironman</span> bracers
+|-
+| rowspan="2" | [[Hardcore group ironman helm]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#26170 26170][https://abextm.github.io/cache2/#/viewer/item/26170 (1)]
+|-
+| name || Hardcore group <span style="color: #ee4231">iron</span> helm || Hardcore group <span style="color: #6bc71f">ironman</span> helm
+|-
+| rowspan="2" | [[Hardcore group ironman platebody]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#26172 26172][https://abextm.github.io/cache2/#/viewer/item/26172 (1)]
+|-
+| name || Hardcore group <span style="color: #ee4231">iron</span> platebody || Hardcore group <span style="color: #6bc71f">ironman</span> platebody
+|-
+| rowspan="2" | [[Hardcore group ironman platebody]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#26174 26174][https://abextm.github.io/cache2/#/viewer/item/26174 (1)]
+|-
+| name || Hardcore group <span style="color: #ee4231">iron</span> platebody || Hardcore group <span style="color: #6bc71f">ironman</span> platebody
+|-
+| rowspan="2" | [[Hardcore group ironman platebody]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#26176 26176][https://abextm.github.io/cache2/#/viewer/item/26176 (1)]
+|-
+| name || Hardcore group <span style="color: #ee4231">iron</span> platebody || Hardcore group <span style="color: #6bc71f">ironman</span> platebody
+|-
+| rowspan="2" | [[Hardcore group ironman platebody]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#26178 26178][https://abextm.github.io/cache2/#/viewer/item/26178 (1)]
+|-
+| name || Hardcore group <span style="color: #ee4231">iron</span> platebody || Hardcore group <span style="color: #6bc71f">ironman</span> platebody
+|-
+| rowspan="2" | [[Hardcore group ironman platelegs]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#26180 26180][https://abextm.github.io/cache2/#/viewer/item/26180 (1)]
+|-
+| name || Hardcore group <span style="color: #ee4231">iron</span> platelegs || Hardcore group <span style="color: #6bc71f">ironman</span> platelegs
+|-
+| rowspan="2" | [[Hardcore group ironman bracers]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#26182 26182][https://abextm.github.io/cache2/#/viewer/item/26182 (1)]
+|-
+| name || Hardcore group <span style="color: #ee4231">iron</span> bracers || Hardcore group <span style="color: #6bc71f">ironman</span> bracers
+|-
+| rowspan="2" | [[Group ironman helm (unranked)]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#27042 27042][https://abextm.github.io/cache2/#/viewer/item/27042 (1)]
+|-
+| name || Group <span style="color: #ee4231">iron</span> helm (unranked) || Group <span style="color: #6bc71f">ironman</span> helm (unranked)
+|-
+| rowspan="2" | [[Group ironman platelegs (unranked)]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#27044 27044][https://abextm.github.io/cache2/#/viewer/item/27044 (1)]
+|-
+| name || Group <span style="color: #ee4231">iron</span> platelegs (unranked) || Group <span style="color: #6bc71f">ironman</span> platelegs (unranked)
+|-
+| rowspan="2" | [[Group ironman bracers (unranked)]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#27046 27046][https://abextm.github.io/cache2/#/viewer/item/27046 (1)]
+|-
+| name || Group <span style="color: #ee4231">iron</span> bracers (unranked) || Group <span style="color: #6bc71f">ironman</span> bracers (unranked)
+|-
+| rowspan="2" | [[Group ironman platebody (unranked)]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#27048 27048][https://abextm.github.io/cache2/#/viewer/item/27048 (1)]
+|-
+| name || Group <span style="color: #ee4231">iron</span> platebody (unranked) || Group <span style="color: #6bc71f">ironman</span> platebody (unranked)
+|-
+| rowspan="2" | [[Group ironman platebody (unranked)]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#27050 27050][https://abextm.github.io/cache2/#/viewer/item/27050 (1)]
+|-
+| name || Group <span style="color: #ee4231">iron</span> platebody (unranked) || Group <span style="color: #6bc71f">ironman</span> platebody (unranked)
+|-
+| rowspan="2" | [[Group ironman platebody (unranked)]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#27052 27052][https://abextm.github.io/cache2/#/viewer/item/27052 (1)]
+|-
+| name || Group <span style="color: #ee4231">iron</span> platebody (unranked) || Group <span style="color: #6bc71f">ironman</span> platebody (unranked)
+|-
+| rowspan="2" | [[Group ironman platebody (unranked)]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#27054 27054][https://abextm.github.io/cache2/#/viewer/item/27054 (1)]
+|-
+| name || Group <span style="color: #ee4231">iron</span> platebody (unranked) || Group <span style="color: #6bc71f">ironman</span> platebody (unranked)
+|-
+| rowspan="2" | [[Kebbity tuft]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#29223 29223][https://abextm.github.io/cache2/#/viewer/item/29223 (1)]
+|-
+| category || <span style="color: #ee4231">585</span> || <span style="color: #6bc71f">1918</span>
+|-
+| rowspan="2" | [[Small meat pouch]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#29295 29295][https://abextm.github.io/cache2/#/viewer/item/29295 (1)]
+|-
+| inventoryModel || <span style="color: #ee4231">52216</span> || <span style="color: #6bc71f">53142</span>
+|-
+| rowspan="2" | [[Large meat pouch]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#29297 29297][https://abextm.github.io/cache2/#/viewer/item/29297 (1)]
+|-
+| inventoryModel || <span style="color: #ee4231">52216</span> || <span style="color: #6bc71f">53142</span>
+|-
+| rowspan="2" | [[Small meat pouch (open)]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#29462 29462][https://abextm.github.io/cache2/#/viewer/item/29462 (1)]
+|-
+| inventoryModel || <span style="color: #ee4231">52216</span> || <span style="color: #6bc71f">3180</span>
+|-
+| rowspan="2" | [[Large meat pouch (open)]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#29464 29464][https://abextm.github.io/cache2/#/viewer/item/29464 (1)]
+|-
+| inventoryModel || <span style="color: #ee4231">52216</span> || <span style="color: #6bc71f">3180</span>
+|}
+==Structs==
+===New Structs===
+{| class="wikitable sortable"
+|-
+! colspan="2" | New Structs
+|-
+! style="width: 15em" | id !! params
+|}
+===Removed Structs===
+{| class="wikitable sortable"
+|-
+! colspan="2" | Removed Structs
+|-
+! style="width: 15em" | id !! params
+|}
+===Diff Structs===
+{| class="wikitable sortable sticky-header"
+|-
+! colspan="5" | Diff Structs
+|-
+! style="width: 15em" | Id !! Key !! Previous Value !! New Value
+|-
+| rowspan="2" | [https://chisel.weirdgloop.org/structs/index.html?type=structs&id=847 847][https://abextm.github.io/cache2/#/viewer/struct/847 (1)]
+|-
+| params || {'1077': <span style="color: #ee4231">381</span>, '1078': 0, '1084': 1, '1086': 'Scurrius food pile', '1088': 'buff bar', '1090': 2, '1096': 'When enabled,  shows the Scurrius food pile eating delay.', '1157': 1} || {'1077': <span style="color: #6bc71f">369</span>, '1078': 0, '1084': 1, '1086': 'Scurrius food pile', '1088': 'buff bar', '1090': 2, '1096': 'When enabled,  shows the Scurrius food pile eating delay.', '1157': 1}
+|-
+| rowspan="2" | [https://chisel.weirdgloop.org/structs/index.html?type=structs&id=850 850][https://abextm.github.io/cache2/#/viewer/struct/850 (1)]
+|-
+| params || {'732': 'Larupia top', '733': <span style="color: #ee4231">10095</span>, '734': <span style="color: #ee4231">10093</span>, '735': 1, '736': 100, '737': 10043, '738': 'Larupia'} || {'732': 'Larupia top', '733': <span style="color: #6bc71f">10093</span>, '734': <span style="color: #6bc71f">10095</span>, '735': 1, '736': 100, '737': 10043, '738': 'Larupia'}
+|-
+| rowspan="2" | [https://chisel.weirdgloop.org/structs/index.html?type=structs&id=851 851][https://abextm.github.io/cache2/#/viewer/struct/851 (1)]
+|-
+| params || {'732': 'Larupia legs', '733': <span style="color: #ee4231">10095</span>, '734': <span style="color: #ee4231">10093</span>, '735': 1, '736': 100, '737': 10041, '738': 'Larupia'} || {'732': 'Larupia legs', '733': <span style="color: #6bc71f">10093</span>, '734': <span style="color: #6bc71f">10095</span>, '735': 1, '736': 100, '737': 10041, '738': 'Larupia'}
+|-
+| rowspan="2" | [https://chisel.weirdgloop.org/structs/index.html?type=structs&id=860 860][https://abextm.github.io/cache2/#/viewer/struct/860 (1)]
+|-
+| params || {'732': 'Graahk top', '733': <span style="color: #ee4231">10099</span>, '734': <span style="color: #ee4231">10097</span>, '735': 1, '736': 150, '737': 10049, '738': 'Graahk'} || {'732': 'Graahk top', '733': <span style="color: #6bc71f">10097</span>, '734': <span style="color: #6bc71f">10099</span>, '735': 1, '736': 150, '737': 10049, '738': 'Graahk'}
+|-
+| rowspan="2" | [https://chisel.weirdgloop.org/structs/index.html?type=structs&id=868 868][https://abextm.github.io/cache2/#/viewer/struct/868 (1)]
+|-
+| params || {'732': 'Graahk legs', '733': <span style="color: #ee4231">10099</span>, '734': <span style="color: #ee4231">10097</span>, '735': 1, '736': 150, '737': 10047, '738': 'Graahk'} || {'732': 'Graahk legs', '733': <span style="color: #6bc71f">10097</span>, '734': <span style="color: #6bc71f">10099</span>, '735': 1, '736': 150, '737': 10047, '738': 'Graahk'}
+|-
+| rowspan="2" | [https://chisel.weirdgloop.org/structs/index.html?type=structs&id=877 877][https://abextm.github.io/cache2/#/viewer/struct/877 (1)]
+|-
+| params || {'732': 'Kyatt top', '733': <span style="color: #ee4231">10103</span>, '734': <span style="color: #ee4231">10101</span>, '735': 1, '736': 200, '737': 10037, '738': 'Kyatt'} || {'732': 'Kyatt top', '733': <span style="color: #6bc71f">10101</span>, '734': <span style="color: #6bc71f">10103</span>, '735': 1, '736': 200, '737': 10037, '738': 'Kyatt'}
+|-
+| rowspan="2" | [https://chisel.weirdgloop.org/structs/index.html?type=structs&id=878 878][https://abextm.github.io/cache2/#/viewer/struct/878 (1)]
+|-
+| params || {'732': 'Kyatt legs', '733': <span style="color: #ee4231">10103</span>, '734': <span style="color: #ee4231">10101</span>, '735': 1, '736': 200, '737': 10035, '738': 'Kyatt'} || {'732': 'Kyatt legs', '733': <span style="color: #6bc71f">10101</span>, '734': <span style="color: #6bc71f">10103</span>, '735': 1, '736': 200, '737': 10035, '738': 'Kyatt'}
+|-
+| rowspan="2" | [https://chisel.weirdgloop.org/structs/index.html?type=structs&id=2731 2731][https://abextm.github.io/cache2/#/viewer/struct/2731 (1)]
+|-
+| params || {'742': 1, '1077': 182, '1078': 0, '1084': 1, '1085': 1, '1086': 'Iron loot restriction indicator', '1088': 'iron, loot, kill, indicator', '1096': 'When enabled,  <span style="color: #ee4231">Iron</span> <span style="color: #ee4231">players </span>will occasionally see indicator icons to warn them if they're attacking a creature that's restricted from dropping loot to them.'} || {'742': 1, '1077': 182, '1078': 0, '1084': 1, '1085': 1, '1086': 'Iron loot restriction indicator', '1088': 'iron, loot, kill, indicator', '1096': 'When enabled,  <span style="color: #6bc71f">Ironmen</span> will occasionally see indicator icons to warn them if they're attacking a creature that's restricted from dropping loot to them.'}
+|-
+| rowspan="2" | [https://chisel.weirdgloop.org/structs/index.html?type=structs&id=2736 2736][https://abextm.github.io/cache2/#/viewer/struct/2736 (1)]
+|-
+| params || {'1077': 15, '1078': 1, '1086': 'Screen Brightness', '1088': 'Screen Brightness, Basic Display Settings', '1096': 'Change the level of brightness to make the world look lighter or darker.', '1101': 21, '1102': 5} || {'1077': 15, '1078': 1, '<span style="color: #6bc71f">1085': 1, '</span>1086': 'Screen Brightness', '1088': 'Screen Brightness, Basic Display Settings', '1096': 'Change the level of brightness to make the world look lighter or darker.', '1101': 21, '1102': 5}
+|-
+| rowspan="2" | [https://chisel.weirdgloop.org/structs/index.html?type=structs&id=3711 3711][https://abextm.github.io/cache2/#/viewer/struct/3711 (1)]
+|-
+| params || {'742': 1, '1077': 183, '1078': 0, '1084': 1, '1085': 1, '1086': 'Iron loot restriction messages', '1088': 'iron, loot, kill, message', '1096': 'When enabled,  <span style="color: #ee4231">Iron</span> <span style="color: #ee4231">players </span>will occasionally see chatbox messages warning them if they're attacking a creature that's restricted from dropping loot to them.'} || {'742': 1, '1077': 183, '1078': 0, '1084': 1, '1085': 1, '1086': 'Iron loot restriction messages', '1088': 'iron, loot, kill, message', '1096': 'When enabled,  <span style="color: #6bc71f">Ironmen</span> will occasionally see chatbox messages warning them if they're attacking a creature that's restricted from dropping loot to them.'}
+|-
+| rowspan="2" | [https://chisel.weirdgloop.org/structs/index.html?type=structs&id=3745 3745][https://abextm.github.io/cache2/#/viewer/struct/3745 (1)]
+|-
+| params || {'739': 1, '1077': 193, '1078': 9, '1085': 1, '1086': '<span style="color: #ee4231">Iron</span> Group chat', '1088': 'chat, chat, colour, gim, group, request, iron, opaque, Chat Settings', '1115': 1, '1116': 'You must have the transparent chatbox disabled or be in fixed mode and be a Group <span style="color: #ee4231">Iron</span> <span style="color: #ee4231">player </span>to change this setting.', '1230': 8323072} || {'739': 1, '1077': 193, '1078': 9, '1085': 1, '1086': '<span style="color: #6bc71f">Ironman</span> Group chat', '1088': 'chat, chat, colour, gim, group, request, iron, opaque, Chat Settings', '1115': 1, '1116': 'You must have the transparent chatbox disabled or be in fixed mode and be a Group <span style="color: #6bc71f">Ironman</span> to change this setting.', '1230': 8323072}
+|-
+| rowspan="2" | [https://chisel.weirdgloop.org/structs/index.html?type=structs&id=3746 3746][https://abextm.github.io/cache2/#/viewer/struct/3746 (1)]
+|-
+| params || {'1077': 194, '1078': 9, '1085': 1, '1086': '<span style="color: #ee4231">Iron</span> Group chat', '1088': 'chat, chat, colour, gim, group, request, iron, transparent, Chat Settings', '1115': 1, '1116': 'You must have the transparent chatbox enabled,  be in resizable mode and be a Group <span style="color: #ee4231">Iron</span> <span style="color: #ee4231">player </span>to change this setting.', '1186': 1, '1230': 8323072} || {'1077': 194, '1078': 9, '1085': 1, '1086': '<span style="color: #6bc71f">Ironman</span> Group chat', '1088': 'chat, chat, colour, gim, group, request, iron, transparent, Chat Settings', '1115': 1, '1116': 'You must have the transparent chatbox enabled,  be in resizable mode and be a Group <span style="color: #6bc71f">Ironman</span> to change this setting.', '1186': 1, '1230': 8323072}
+|-
+| rowspan="2" | [https://chisel.weirdgloop.org/structs/index.html?type=structs&id=3747 3747][https://abextm.github.io/cache2/#/viewer/struct/3747 (1)]
+|-
+| params || {'739': 1, '1077': 196, '1078': 9, '1085': 1, '1086': 'Clan Broadcasts', '1088': 'chat, chat, colour, clan, broadcast, request, opaque, Chat Settings', '1115': 1, '1116': 'You must have the transparent chatbox disabled or be in fixed mode and be a Group <span style="color: #ee4231">Iron</span> <span style="color: #ee4231">player </span>to change this setting.', '1230': 0} || {'739': 1, '1077': 196, '1078': 9, '1085': 1, '1086': 'Clan Broadcasts', '1088': 'chat, chat, colour, clan, broadcast, request, opaque, Chat Settings', '1115': 1, '1116': 'You must have the transparent chatbox disabled or be in fixed mode and be a Group <span style="color: #6bc71f">Ironman</span> to change this setting.', '1230': 0}
+|-
+| rowspan="2" | [https://chisel.weirdgloop.org/structs/index.html?type=structs&id=3749 3749][https://abextm.github.io/cache2/#/viewer/struct/3749 (1)]
+|-
+| params || {'739': 1, '1077': 198, '1078': 9, '1085': 1, '1086': '<span style="color: #ee4231">Iron</span> Group Broadcasts', '1088': 'chat, chat, colour, gim, broadcast, iron, group, request, opaque, Chat Settings', '1115': 1, '1116': 'You must have the transparent chatbox disabled or be in fixed mode and be a Group <span style="color: #ee4231">Iron</span> <span style="color: #ee4231">player </span>to change this setting.', '1230': 0} || {'739': 1, '1077': 198, '1078': 9, '1085': 1, '1086': '<span style="color: #6bc71f">Ironman</span> Group Broadcasts', '1088': 'chat, chat, colour, gim, broadcast, iron, group, request, opaque, Chat Settings', '1115': 1, '1116': 'You must have the transparent chatbox disabled or be in fixed mode and be a Group <span style="color: #6bc71f">Ironman</span> to change this setting.', '1230': 0}
+|-
+| rowspan="2" | [https://chisel.weirdgloop.org/structs/index.html?type=structs&id=3750 3750][https://abextm.github.io/cache2/#/viewer/struct/3750 (1)]
+|-
+| params || {'1077': 199, '1078': 9, '1085': 1, '1086': '<span style="color: #ee4231">Iron</span> Group Broadcasts', '1088': 'chat, chat, colour, gim, broadcast, iron, group, request, transparent, Chat Settings', '1115': 1, '1116': 'You must have the transparent chatbox enabled,  be in resizable mode and be a Group <span style="color: #ee4231">Iron</span> <span style="color: #ee4231">player </span>to change this setting.', '1186': 1, '1230': 16777215} || {'1077': 199, '1078': 9, '1085': 1, '1086': '<span style="color: #6bc71f">Ironman</span> Group Broadcasts', '1088': 'chat, chat, colour, gim, broadcast, iron, group, request, transparent, Chat Settings', '1115': 1, '1116': 'You must have the transparent chatbox enabled,  be in resizable mode and be a Group <span style="color: #6bc71f">Ironman</span> to change this setting.', '1186': 1, '1230': 16777215}
+|-
+| rowspan="2" | [https://chisel.weirdgloop.org/structs/index.html?type=structs&id=4160 4160][https://abextm.github.io/cache2/#/viewer/struct/4160 (1)]
+|-
+| params || {'1289': 0, '1291': 1127, '1546': 'Have any member of this <span style="color: #ee4231">Iron</span> Group open the group storage with a standard Rune Platebody equipped.', '1547': 3} || {'1289': 0, '1291': 1127, '1546': 'Have any member of this <span style="color: #6bc71f">Ironman</span> Group open the group storage with a standard Rune Platebody equipped.', '1547': 3}
+|-
+| rowspan="2" | [https://chisel.weirdgloop.org/structs/index.html?type=structs&id=4161 4161][https://abextm.github.io/cache2/#/viewer/struct/4161 (1)]
+|-
+| params || {'1289': 1, '1291': 9005, '1546': 'Have any member of this <span style="color: #ee4231">Iron</span> Group open the group storage with Fighter,  Fancy or Fancier Boots equipped.', '1547': 2} || {'1289': 1, '1291': 9005, '1546': 'Have any member of this <span style="color: #6bc71f">Ironman</span> Group open the group storage with Fighter,  Fancy or Fancier Boots equipped.', '1547': 2}
+|-
+| rowspan="2" | [https://chisel.weirdgloop.org/structs/index.html?type=structs&id=4162 4162][https://abextm.github.io/cache2/#/viewer/struct/4162 (1)]
+|-
+| params || {'1289': 2, '1291': 952, '1546': 'Have any member of this <span style="color: #ee4231">Iron</span> Group open the group storage after achieving level 99 in either Mining,  Fishing,  Woodcutting,  Hunter or Farming.', '1547': 3} || {'1289': 2, '1291': 952, '1546': 'Have any member of this <span style="color: #6bc71f">Ironman</span> Group open the group storage after achieving level 99 in either Mining,  Fishing,  Woodcutting,  Hunter or Farming.', '1547': 3}
+|-
+| rowspan="2" | [https://chisel.weirdgloop.org/structs/index.html?type=structs&id=4163 4163][https://abextm.github.io/cache2/#/viewer/struct/4163 (1)]
+|-
+| params || {'1289': 3, '1291': 1755, '1546': 'Have any member of this <span style="color: #ee4231">Iron</span> Group open the group storage after achieving level 99 in either Cooking,  Smithing,  Fletching,  Firemaking,  Herblore,  Crafting,  Runecraft or Construction.', '1547': 3} || {'1289': 3, '1291': 1755, '1546': 'Have any member of this <span style="color: #6bc71f">Ironman</span> Group open the group storage after achieving level 99 in either Cooking,  Smithing,  Fletching,  Firemaking,  Herblore,  Crafting,  Runecraft or Construction.', '1547': 3}
+|-
+| rowspan="2" | [https://chisel.weirdgloop.org/structs/index.html?type=structs&id=4164 4164][https://abextm.github.io/cache2/#/viewer/struct/4164 (1)]
+|-
+| params || {'1289': 4, '1291': 1523, '1546': 'Have any member of this <span style="color: #ee4231">Iron</span> Group open the group storage after achieving level 99 in either Agility,  Thieving or Slayer.', '1547': 3} || {'1289': 4, '1291': 1523, '1546': 'Have any member of this <span style="color: #6bc71f">Ironman</span> Group open the group storage after achieving level 99 in either Agility,  Thieving or Slayer.', '1547': 3}
+|-
+| rowspan="2" | [https://chisel.weirdgloop.org/structs/index.html?type=structs&id=4165 4165][https://abextm.github.io/cache2/#/viewer/struct/4165 (1)]
+|-
+| params || {'1289': 5, '1291': 25956, '1546': 'Have any member of this <span style="color: #ee4231">Iron</span> Group open the group storage after achieving level 99 in either Attack,  Strength,  Defence,  Magic,  Ranged,  Prayer or Hitpoints.', '1547': 3} || {'1289': 5, '1291': 25956, '1546': 'Have any member of this <span style="color: #6bc71f">Ironman</span> Group open the group storage after achieving level 99 in either Attack,  Strength,  Defence,  Magic,  Ranged,  Prayer or Hitpoints.', '1547': 3}
+|-
+| rowspan="2" | [https://chisel.weirdgloop.org/structs/index.html?type=structs&id=4166 4166][https://abextm.github.io/cache2/#/viewer/struct/4166 (1)]
+|-
+| params || {'1289': 6, '1291': 9747, '1546': 'Have any member of this <span style="color: #ee4231">Iron</span> Group open the group storage after achieving level 99 in Attack.', '1547': 2} || {'1289': 6, '1291': 9747, '1546': 'Have any member of this <span style="color: #6bc71f">Ironman</span> Group open the group storage after achieving level 99 in Attack.', '1547': 2}
+|-
+| rowspan="2" | [https://chisel.weirdgloop.org/structs/index.html?type=structs&id=4167 4167][https://abextm.github.io/cache2/#/viewer/struct/4167 (1)]
+|-
+| params || {'1289': 7, '1291': 9750, '1546': 'Have any member of this <span style="color: #ee4231">Iron</span> Group open the group storage after achieving level 99 in Strength.', '1547': 2} || {'1289': 7, '1291': 9750, '1546': 'Have any member of this <span style="color: #6bc71f">Ironman</span> Group open the group storage after achieving level 99 in Strength.', '1547': 2}
+|-
+| rowspan="2" | [https://chisel.weirdgloop.org/structs/index.html?type=structs&id=4168 4168][https://abextm.github.io/cache2/#/viewer/struct/4168 (1)]
+|-
+| params || {'1289': 8, '1291': 9753, '1546': 'Have any member of this <span style="color: #ee4231">Iron</span> Group open the group storage after achieving level 99 in Defence.', '1547': 2} || {'1289': 8, '1291': 9753, '1546': 'Have any member of this <span style="color: #6bc71f">Ironman</span> Group open the group storage after achieving level 99 in Defence.', '1547': 2}
+|-
+| rowspan="2" | [https://chisel.weirdgloop.org/structs/index.html?type=structs&id=4169 4169][https://abextm.github.io/cache2/#/viewer/struct/4169 (1)]
+|-
+| params || {'1289': 9, '1291': 9756, '1546': 'Have any member of this <span style="color: #ee4231">Iron</span> Group open the group storage after achieving level 99 in Ranged.', '1547': 2} || {'1289': 9, '1291': 9756, '1546': 'Have any member of this <span style="color: #6bc71f">Ironman</span> Group open the group storage after achieving level 99 in Ranged.', '1547': 2}
+|-
+| rowspan="2" | [https://chisel.weirdgloop.org/structs/index.html?type=structs&id=4170 4170][https://abextm.github.io/cache2/#/viewer/struct/4170 (1)]
+|-
+| params || {'1289': 10, '1291': 9759, '1546': 'Have any member of this <span style="color: #ee4231">Iron</span> Group open the group storage after achieving level 99 in Prayer.', '1547': 2} || {'1289': 10, '1291': 9759, '1546': 'Have any member of this <span style="color: #6bc71f">Ironman</span> Group open the group storage after achieving level 99 in Prayer.', '1547': 2}
+|-
+| rowspan="2" | [https://chisel.weirdgloop.org/structs/index.html?type=structs&id=4171 4171][https://abextm.github.io/cache2/#/viewer/struct/4171 (1)]
+|-
+| params || {'1289': 11, '1291': 9762, '1546': 'Have any member of this <span style="color: #ee4231">Iron</span> Group open the group storage after achieving level 99 in Magic.', '1547': 2} || {'1289': 11, '1291': 9762, '1546': 'Have any member of this <span style="color: #6bc71f">Ironman</span> Group open the group storage after achieving level 99 in Magic.', '1547': 2}
+|-
+| rowspan="2" | [https://chisel.weirdgloop.org/structs/index.html?type=structs&id=4172 4172][https://abextm.github.io/cache2/#/viewer/struct/4172 (1)]
+|-
+| params || {'1289': 12, '1291': 9765, '1546': 'Have any member of this <span style="color: #ee4231">Iron</span> Group open the group storage after achieving level 99 in Runecraft.', '1547': 2} || {'1289': 12, '1291': 9765, '1546': 'Have any member of this <span style="color: #6bc71f">Ironman</span> Group open the group storage after achieving level 99 in Runecraft.', '1547': 2}
+|-
+| rowspan="2" | [https://chisel.weirdgloop.org/structs/index.html?type=structs&id=4173 4173][https://abextm.github.io/cache2/#/viewer/struct/4173 (1)]
+|-
+| params || {'1289': 13, '1291': 9948, '1546': 'Have any member of this <span style="color: #ee4231">Iron</span> Group open the group storage after achieving level 99 in Hunter.', '1547': 2} || {'1289': 13, '1291': 9948, '1546': 'Have any member of this <span style="color: #6bc71f">Ironman</span> Group open the group storage after achieving level 99 in Hunter.', '1547': 2}
+|-
+| rowspan="2" | [https://chisel.weirdgloop.org/structs/index.html?type=structs&id=4174 4174][https://abextm.github.io/cache2/#/viewer/struct/4174 (1)]
+|-
+| params || {'1289': 14, '1291': 9768, '1546': 'Have any member of this <span style="color: #ee4231">Iron</span> Group open the group storage after achieving level 99 in Hitpoints.', '1547': 2} || {'1289': 14, '1291': 9768, '1546': 'Have any member of this <span style="color: #6bc71f">Ironman</span> Group open the group storage after achieving level 99 in Hitpoints.', '1547': 2}
+|-
+| rowspan="2" | [https://chisel.weirdgloop.org/structs/index.html?type=structs&id=4175 4175][https://abextm.github.io/cache2/#/viewer/struct/4175 (1)]
+|-
+| params || {'1289': 15, '1291': 9771, '1546': 'Have any member of this <span style="color: #ee4231">Iron</span> Group open the group storage after achieving level 99 in Agility.', '1547': 2} || {'1289': 15, '1291': 9771, '1546': 'Have any member of this <span style="color: #6bc71f">Ironman</span> Group open the group storage after achieving level 99 in Agility.', '1547': 2}
+|-
+| rowspan="2" | [https://chisel.weirdgloop.org/structs/index.html?type=structs&id=4176 4176][https://abextm.github.io/cache2/#/viewer/struct/4176 (1)]
+|-
+| params || {'1289': 16, '1291': 9774, '1546': 'Have any member of this <span style="color: #ee4231">Iron</span> Group open the group storage after achieving level 99 in Herblore.', '1547': 2} || {'1289': 16, '1291': 9774, '1546': 'Have any member of this <span style="color: #6bc71f">Ironman</span> Group open the group storage after achieving level 99 in Herblore.', '1547': 2}
+|-
+| rowspan="2" | [https://chisel.weirdgloop.org/structs/index.html?type=structs&id=4177 4177][https://abextm.github.io/cache2/#/viewer/struct/4177 (1)]
+|-
+| params || {'1289': 17, '1291': 9777, '1546': 'Have any member of this <span style="color: #ee4231">Iron</span> Group open the group storage after achieving level 99 in Thieving.', '1547': 2} || {'1289': 17, '1291': 9777, '1546': 'Have any member of this <span style="color: #6bc71f">Ironman</span> Group open the group storage after achieving level 99 in Thieving.', '1547': 2}
+|-
+| rowspan="2" | [https://chisel.weirdgloop.org/structs/index.html?type=structs&id=4178 4178][https://abextm.github.io/cache2/#/viewer/struct/4178 (1)]
+|-
+| params || {'1289': 18, '1291': 9780, '1546': 'Have any member of this <span style="color: #ee4231">Iron</span> Group open the group storage after achieving level 99 in Crafting.', '1547': 2} || {'1289': 18, '1291': 9780, '1546': 'Have any member of this <span style="color: #6bc71f">Ironman</span> Group open the group storage after achieving level 99 in Crafting.', '1547': 2}
+|-
+| rowspan="2" | [https://chisel.weirdgloop.org/structs/index.html?type=structs&id=4179 4179][https://abextm.github.io/cache2/#/viewer/struct/4179 (1)]
+|-
+| params || {'1289': 19, '1291': 9783, '1546': 'Have any member of this <span style="color: #ee4231">Iron</span> Group open the group storage after achieving level 99 in Fletching.', '1547': 2} || {'1289': 19, '1291': 9783, '1546': 'Have any member of this <span style="color: #6bc71f">Ironman</span> Group open the group storage after achieving level 99 in Fletching.', '1547': 2}
+|-
+| rowspan="2" | [https://chisel.weirdgloop.org/structs/index.html?type=structs&id=4180 4180][https://abextm.github.io/cache2/#/viewer/struct/4180 (1)]
+|-
+| params || {'1289': 20, '1291': 9786, '1546': 'Have any member of this <span style="color: #ee4231">Iron</span> Group open the group storage after achieving level 99 in Slayer.', '1547': 2} || {'1289': 20, '1291': 9786, '1546': 'Have any member of this <span style="color: #6bc71f">Ironman</span> Group open the group storage after achieving level 99 in Slayer.', '1547': 2}
+|-
+| rowspan="2" | [https://chisel.weirdgloop.org/structs/index.html?type=structs&id=4181 4181][https://abextm.github.io/cache2/#/viewer/struct/4181 (1)]
+|-
+| params || {'1289': 21, '1291': 9789, '1546': 'Have any member of this <span style="color: #ee4231">Iron</span> Group open the group storage after achieving level 99 in Construction.', '1547': 2} || {'1289': 21, '1291': 9789, '1546': 'Have any member of this <span style="color: #6bc71f">Ironman</span> Group open the group storage after achieving level 99 in Construction.', '1547': 2}
+|-
+| rowspan="2" | [https://chisel.weirdgloop.org/structs/index.html?type=structs&id=4182 4182][https://abextm.github.io/cache2/#/viewer/struct/4182 (1)]
+|-
+| params || {'1289': 22, '1291': 9792, '1546': 'Have any member of this <span style="color: #ee4231">Iron</span> Group open the group storage after achieving level 99 in Mining.', '1547': 2} || {'1289': 22, '1291': 9792, '1546': 'Have any member of this <span style="color: #6bc71f">Ironman</span> Group open the group storage after achieving level 99 in Mining.', '1547': 2}
+|-
+| rowspan="2" | [https://chisel.weirdgloop.org/structs/index.html?type=structs&id=4183 4183][https://abextm.github.io/cache2/#/viewer/struct/4183 (1)]
+|-
+| params || {'1289': 23, '1291': 9795, '1546': 'Have any member of this <span style="color: #ee4231">Iron</span> Group open the group storage after achieving level 99 in Smithing.', '1547': 2} || {'1289': 23, '1291': 9795, '1546': 'Have any member of this <span style="color: #6bc71f">Ironman</span> Group open the group storage after achieving level 99 in Smithing.', '1547': 2}
+|-
+| rowspan="2" | [https://chisel.weirdgloop.org/structs/index.html?type=structs&id=4184 4184][https://abextm.github.io/cache2/#/viewer/struct/4184 (1)]
+|-
+| params || {'1289': 24, '1291': 9798, '1546': 'Have any member of this <span style="color: #ee4231">Iron</span> Group open the group storage after achieving level 99 in Fishing.', '1547': 2} || {'1289': 24, '1291': 9798, '1546': 'Have any member of this <span style="color: #6bc71f">Ironman</span> Group open the group storage after achieving level 99 in Fishing.', '1547': 2}
+|-
+| rowspan="2" | [https://chisel.weirdgloop.org/structs/index.html?type=structs&id=4185 4185][https://abextm.github.io/cache2/#/viewer/struct/4185 (1)]
+|-
+| params || {'1289': 25, '1291': 9801, '1546': 'Have any member of this <span style="color: #ee4231">Iron</span> Group open the group storage after achieving level 99 in Cooking.', '1547': 2} || {'1289': 25, '1291': 9801, '1546': 'Have any member of this <span style="color: #6bc71f">Ironman</span> Group open the group storage after achieving level 99 in Cooking.', '1547': 2}
+|-
+| rowspan="2" | [https://chisel.weirdgloop.org/structs/index.html?type=structs&id=4186 4186][https://abextm.github.io/cache2/#/viewer/struct/4186 (1)]
+|-
+| params || {'1289': 26, '1291': 9804, '1546': 'Have any member of this <span style="color: #ee4231">Iron</span> Group open the group storage after achieving level 99 in Firemaking.', '1547': 2} || {'1289': 26, '1291': 9804, '1546': 'Have any member of this <span style="color: #6bc71f">Ironman</span> Group open the group storage after achieving level 99 in Firemaking.', '1547': 2}
+|-
+| rowspan="2" | [https://chisel.weirdgloop.org/structs/index.html?type=structs&id=4187 4187][https://abextm.github.io/cache2/#/viewer/struct/4187 (1)]
+|-
+| params || {'1289': 27, '1291': 9807, '1546': 'Have any member of this <span style="color: #ee4231">Iron</span> Group open the group storage after achieving level 99 in Woodcutting.', '1547': 2} || {'1289': 27, '1291': 9807, '1546': 'Have any member of this <span style="color: #6bc71f">Ironman</span> Group open the group storage after achieving level 99 in Woodcutting.', '1547': 2}
+|-
+| rowspan="2" | [https://chisel.weirdgloop.org/structs/index.html?type=structs&id=4188 4188][https://abextm.github.io/cache2/#/viewer/struct/4188 (1)]
+|-
+| params || {'1289': 28, '1291': 9810, '1546': 'Have any member of this <span style="color: #ee4231">Iron</span> Group open the group storage after achieving level 99 in Farming.', '1547': 2} || {'1289': 28, '1291': 9810, '1546': 'Have any member of this <span style="color: #6bc71f">Ironman</span> Group open the group storage after achieving level 99 in Farming.', '1547': 2}
+|-
+| rowspan="2" | [https://chisel.weirdgloop.org/structs/index.html?type=structs&id=4189 4189][https://abextm.github.io/cache2/#/viewer/struct/4189 (1)]
+|-
+| params || {'1289': 29, '1291': 9813, '1546': 'Have any member of this <span style="color: #ee4231">Iron</span> Group open the group storage after achieving 50 Quest Points.', '1547': 2} || {'1289': 29, '1291': 9813, '1546': 'Have any member of this <span style="color: #6bc71f">Ironman</span> Group open the group storage after achieving 50 Quest Points.', '1547': 2}
+|-
+| rowspan="2" | [https://chisel.weirdgloop.org/structs/index.html?type=structs&id=4190 4190][https://abextm.github.io/cache2/#/viewer/struct/4190 (1)]
+|-
+| params || {'1289': 30, '1291': 9813, '1546': 'Have any member of this <span style="color: #ee4231">Iron</span> Group open the group storage after achieving 100 Quest Points.', '1547': 3} || {'1289': 30, '1291': 9813, '1546': 'Have any member of this <span style="color: #6bc71f">Ironman</span> Group open the group storage after achieving 100 Quest Points.', '1547': 3}
+|-
+| rowspan="2" | [https://chisel.weirdgloop.org/structs/index.html?type=structs&id=4191 4191][https://abextm.github.io/cache2/#/viewer/struct/4191 (1)]
+|-
+| params || {'1289': 31, '1291': 9813, '1546': 'Have any member of this <span style="color: #ee4231">Iron</span> Group open the group storage after achieving 150 Quest Points.', '1547': 3} || {'1289': 31, '1291': 9813, '1546': 'Have any member of this <span style="color: #6bc71f">Ironman</span> Group open the group storage after achieving 150 Quest Points.', '1547': 3}
+|-
+| rowspan="2" | [https://chisel.weirdgloop.org/structs/index.html?type=structs&id=4192 4192][https://abextm.github.io/cache2/#/viewer/struct/4192 (1)]
+|-
+| params || {'1289': 32, '1291': 9813, '1546': 'Have any member of this <span style="color: #ee4231">Iron</span> Group open the group storage after achieving 200 Quest Points.', '1547': 3} || {'1289': 32, '1291': 9813, '1546': 'Have any member of this <span style="color: #6bc71f">Ironman</span> Group open the group storage after achieving 200 Quest Points.', '1547': 3}
+|-
+| rowspan="2" | [https://chisel.weirdgloop.org/structs/index.html?type=structs&id=4193 4193][https://abextm.github.io/cache2/#/viewer/struct/4193 (1)]
+|-
+| params || {'1289': 33, '1291': 1333, '1546': 'Have any member of this <span style="color: #ee4231">Iron</span> Group open the group storage after achieving a combat level of 50.', '1547': 2} || {'1289': 33, '1291': 1333, '1546': 'Have any member of this <span style="color: #6bc71f">Ironman</span> Group open the group storage after achieving a combat level of 50.', '1547': 2}
+|-
+| rowspan="2" | [https://chisel.weirdgloop.org/structs/index.html?type=structs&id=4194 4194][https://abextm.github.io/cache2/#/viewer/struct/4194 (1)]
+|-
+| params || {'1289': 34, '1291': 4587, '1546': 'Have any member of this <span style="color: #ee4231">Iron</span> Group open the group storage after achieving a combat level of 100.', '1547': 3} || {'1289': 34, '1291': 4587, '1546': 'Have any member of this <span style="color: #6bc71f">Ironman</span> Group open the group storage after achieving a combat level of 100.', '1547': 3}
+|-
+| rowspan="2" | [https://chisel.weirdgloop.org/structs/index.html?type=structs&id=4195 4195][https://abextm.github.io/cache2/#/viewer/struct/4195 (1)]
+|-
+| params || {'1289': 35, '1291': 4151, '1546': 'Have any member of this <span style="color: #ee4231">Iron</span> Group open the group storage after achieving a combat level of 126.', '1547': 3} || {'1289': 35, '1291': 4151, '1546': 'Have any member of this <span style="color: #6bc71f">Ironman</span> Group open the group storage after achieving a combat level of 126.', '1547': 3}
+|-
+| rowspan="2" | [https://chisel.weirdgloop.org/structs/index.html?type=structs&id=4196 4196][https://abextm.github.io/cache2/#/viewer/struct/4196 (1)]
+|-
+| params || {'1289': 36, '1291': 13137, '1546': 'Have any member of this <span style="color: #ee4231">Iron</span> Group open the group storage after completing every easy achievement diary task.', '1547': 3} || {'1289': 36, '1291': 13137, '1546': 'Have any member of this <span style="color: #6bc71f">Ironman</span> Group open the group storage after completing every easy achievement diary task.', '1547': 3}
+|-
+| rowspan="2" | [https://chisel.weirdgloop.org/structs/index.html?type=structs&id=4197 4197][https://abextm.github.io/cache2/#/viewer/struct/4197 (1)]
+|-
+| params || {'1289': 37, '1291': 13138, '1546': 'Have any member of this <span style="color: #ee4231">Iron</span> Group open the group storage after completing every medium achievement diary task.', '1547': 3} || {'1289': 37, '1291': 13138, '1546': 'Have any member of this <span style="color: #6bc71f">Ironman</span> Group open the group storage after completing every medium achievement diary task.', '1547': 3}
+|-
+| rowspan="2" | [https://chisel.weirdgloop.org/structs/index.html?type=structs&id=4198 4198][https://abextm.github.io/cache2/#/viewer/struct/4198 (1)]
+|-
+| params || {'1289': 38, '1291': 13139, '1546': 'Have any member of this <span style="color: #ee4231">Iron</span> Group open the group storage after completing every hard achievement diary task.', '1547': 3} || {'1289': 38, '1291': 13139, '1546': 'Have any member of this <span style="color: #6bc71f">Ironman</span> Group open the group storage after completing every hard achievement diary task.', '1547': 3}
+|-
+| rowspan="2" | [https://chisel.weirdgloop.org/structs/index.html?type=structs&id=4199 4199][https://abextm.github.io/cache2/#/viewer/struct/4199 (1)]
+|-
+| params || {'1289': 39, '1291': 13140, '1546': 'Have any member of this <span style="color: #ee4231">Iron</span> Group open the group storage after completing every elite achievement diary task.', '1547': 3} || {'1289': 39, '1291': 13140, '1546': 'Have any member of this <span style="color: #6bc71f">Ironman</span> Group open the group storage after completing every elite achievement diary task.', '1547': 3}
+|-
+| rowspan="2" | [https://chisel.weirdgloop.org/structs/index.html?type=structs&id=4200 4200][https://abextm.github.io/cache2/#/viewer/struct/4200 (1)]
+|-
+| params || {'1289': 40, '1291': 25926, '1546': 'Have any member of this <span style="color: #ee4231">Iron</span> Group open the group storage after completing every easy combat achievement task.', '1547': 3} || {'1289': 40, '1291': 25926, '1546': 'Have any member of this <span style="color: #6bc71f">Ironman</span> Group open the group storage after completing every easy combat achievement task.', '1547': 3}
+|-
+| rowspan="2" | [https://chisel.weirdgloop.org/structs/index.html?type=structs&id=4201 4201][https://abextm.github.io/cache2/#/viewer/struct/4201 (1)]
+|-
+| params || {'1289': 41, '1291': 25928, '1546': 'Have any member of this <span style="color: #ee4231">Iron</span> Group open the group storage after completing every medium combat achievement task.', '1547': 3} || {'1289': 41, '1291': 25928, '1546': 'Have any member of this <span style="color: #6bc71f">Ironman</span> Group open the group storage after completing every medium combat achievement task.', '1547': 3}
+|-
+| rowspan="2" | [https://chisel.weirdgloop.org/structs/index.html?type=structs&id=4202 4202][https://abextm.github.io/cache2/#/viewer/struct/4202 (1)]
+|-
+| params || {'1289': 42, '1291': 25930, '1546': 'Have any member of this <span style="color: #ee4231">Iron</span> Group open the group storage after completing every hard combat achievement task.', '1547': 3} || {'1289': 42, '1291': 25930, '1546': 'Have any member of this <span style="color: #6bc71f">Ironman</span> Group open the group storage after completing every hard combat achievement task.', '1547': 3}
+|-
+| rowspan="2" | [https://chisel.weirdgloop.org/structs/index.html?type=structs&id=4203 4203][https://abextm.github.io/cache2/#/viewer/struct/4203 (1)]
+|-
+| params || {'1289': 43, '1291': 25932, '1546': 'Have any member of this <span style="color: #ee4231">Iron</span> Group open the group storage after completing every elite combat achievement task.', '1547': 3} || {'1289': 43, '1291': 25932, '1546': 'Have any member of this <span style="color: #6bc71f">Ironman</span> Group open the group storage after completing every elite combat achievement task.', '1547': 3}
+|-
+| rowspan="2" | [https://chisel.weirdgloop.org/structs/index.html?type=structs&id=4204 4204][https://abextm.github.io/cache2/#/viewer/struct/4204 (1)]
+|-
+| params || {'1289': 44, '1291': -1, '1546': 'Have any member of this <span style="color: #ee4231">Iron</span> Group open the group storage after reaching a total level of 500.', '1547': 2, '1548': 222} || {'1289': 44, '1291': -1, '1546': 'Have any member of this <span style="color: #6bc71f">Ironman</span> Group open the group storage after reaching a total level of 500.', '1547': 2, '1548': 222}
+|-
+| rowspan="2" | [https://chisel.weirdgloop.org/structs/index.html?type=structs&id=4205 4205][https://abextm.github.io/cache2/#/viewer/struct/4205 (1)]
+|-
+| params || {'1289': 45, '1291': -1, '1546': 'Have any member of this <span style="color: #ee4231">Iron</span> Group open the group storage after reaching a total level of 750.', '1547': 3, '1548': 222} || {'1289': 45, '1291': -1, '1546': 'Have any member of this <span style="color: #6bc71f">Ironman</span> Group open the group storage after reaching a total level of 750.', '1547': 3, '1548': 222}
+|-
+| rowspan="2" | [https://chisel.weirdgloop.org/structs/index.html?type=structs&id=4206 4206][https://abextm.github.io/cache2/#/viewer/struct/4206 (1)]
+|-
+| params || {'1289': 46, '1291': -1, '1546': 'Have any member of this <span style="color: #ee4231">Iron</span> Group open the group storage after reaching a total level of 1000.', '1547': 3, '1548': 222} || {'1289': 46, '1291': -1, '1546': 'Have any member of this <span style="color: #6bc71f">Ironman</span> Group open the group storage after reaching a total level of 1000.', '1547': 3, '1548': 222}
+|-
+| rowspan="2" | [https://chisel.weirdgloop.org/structs/index.html?type=structs&id=4207 4207][https://abextm.github.io/cache2/#/viewer/struct/4207 (1)]
+|-
+| params || {'1289': 47, '1291': -1, '1546': 'Have any member of this <span style="color: #ee4231">Iron</span> Group open the group storage after reaching a total level of 1500.', '1547': 3, '1548': 222} || {'1289': 47, '1291': -1, '1546': 'Have any member of this <span style="color: #6bc71f">Ironman</span> Group open the group storage after reaching a total level of 1500.', '1547': 3, '1548': 222}
+|-
+| rowspan="2" | [https://chisel.weirdgloop.org/structs/index.html?type=structs&id=4208 4208][https://abextm.github.io/cache2/#/viewer/struct/4208 (1)]
+|-
+| params || {'1289': 48, '1291': -1, '1546': 'Have any member of this <span style="color: #ee4231">Iron</span> Group open the group storage after reaching a total level of 2000.', '1547': 3, '1548': 222} || {'1289': 48, '1291': -1, '1546': 'Have any member of this <span style="color: #6bc71f">Ironman</span> Group open the group storage after reaching a total level of 2000.', '1547': 3, '1548': 222}
+|}
+==Database Rows==
+===New Database Rows===
+{| class="wikitable sortable"
+|-
+! colspan="3" | New Database Rows
+|-
+! style="width: 15em" | id !! table !! values
+|}
+===Removed Database Rows===
+{| class="wikitable sortable"
+|-
+! colspan="3" | Removed Database Rows
+|-
+! style="width: 15em" | id !! table !! values
+|}
+===Diff Database Rows===
+{| class="wikitable sortable sticky-header"
+|-
+! colspan="5" | Diff Database Rows
+|-
+! style="width: 15em" | Id !! Key !! Previous Value !! New Value
+|-
+| rowspan="3" | [https://abextm.github.io/cache2/#/viewer/dbrow/3494 3494]
+|-
+| values || [[<span style="color: #ee4231">51736</span>], None, [<span style="color: #ee4231">25715956</span>], [In the Hunter Guild.]] || [[<span style="color: #6bc71f">23690</span>], None, [<span style="color: #6bc71f">562433000</span>], [In the Hunter Guild.]]
+|-
+| types || [[30], None, [22], [36]] || [[30], None, [22], [36]]
+|-
+| rowspan="3" | [https://abextm.github.io/cache2/#/viewer/dbrow/3495 3495]
+|-
+| values || [[967], [1], [Search the <span style="color: #ee4231">bookshelf</span> <span style="color: #ee4231">with</span> <span style="color: #ee4231">a</span> <span style="color: #ee4231">skull</span> <span style="color: #ee4231">on</span> <span style="color: #ee4231">it</span> <span style="color: #ee4231">inside </span>the <span style="color: #ee4231">Burrow</span>.], [3494], None, None, None, None, None, None, [21], None] || [[967], [1], [Search the <span style="color: #6bc71f">food</span> <span style="color: #6bc71f">barrel</span> <span style="color: #6bc71f">at</span> <span style="color: #6bc71f">the</span> <span style="color: #6bc71f">top</span> <span style="color: #6bc71f">of</span> the <span style="color: #6bc71f">Hunter Guild</span>.], [3494], None, None, None, None, None, None, [21], None]
+|-
+| types || [[0], [0], [36], [74], None, None, None, None, None, None, [0], None] || [[0], [0], [36], [74], None, None, None, None, None, None, [0], None]
+|}

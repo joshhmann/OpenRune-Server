@@ -1,0 +1,176 @@
+{{ToC}}
+==Items==
+{| class="wikitable sortable"
+!colspan='5'|Items
+|-
+! Name !! ID !! Key !! Previous Value !! Changed into
+|-
+| [[Tztok slayer helmet]] || 25898 || colspan = "4" | New ID
+|-
+| [[null]] || 25899 || colspan = "4" | New ID
+|-
+| [[Tztok slayer helmet (i)]] || 25900 || colspan = "4" | New ID
+|-
+| [[null]] || 25901 || colspan = "4" | New ID
+|-
+| [[Tztok slayer helmet (i)]] || 25902 || colspan = "4" | New ID
+|-
+| [[null]] || 25903 || colspan = "4" | New ID
+|-
+| [[Vampyric slayer helmet]] || 25904 || colspan = "4" | New ID
+|-
+| [[null]] || 25905 || colspan = "4" | New ID
+|-
+| [[Vampyric slayer helmet (i)]] || 25906 || colspan = "4" | New ID
+|-
+| [[null]] || 25907 || colspan = "4" | New ID
+|-
+| [[Vampyric slayer helmet (i)]] || 25908 || colspan = "4" | New ID
+|-
+| [[null]] || 25909 || colspan = "4" | New ID
+|-
+| [[Tzkal slayer helmet]] || 25910 || colspan = "4" | New ID
+|-
+| [[null]] || 25911 || colspan = "4" | New ID
+|-
+| [[Tzkal slayer helmet (i)]] || 25912 || colspan = "4" | New ID
+|-
+| [[null]] || 25913 || colspan = "4" | New ID
+|-
+| [[Tzkal slayer helmet (i)]] || 25914 || colspan = "4" | New ID
+|-
+| [[null]] || 25915 || colspan = "4" | New ID
+|-
+| [[Dragon hunter crossbow (t)]] || 25916 || colspan = "4" | New ID
+|-
+| [[null]] || 25917 || colspan = "4" | New ID
+|-
+| [[Dragon hunter crossbow (b)]] || 25918 || colspan = "4" | New ID
+|-
+| [[null]] || 25919 || colspan = "4" | New ID
+|-
+| [[Antique lamp]] || 25920 || colspan = "4" | New ID
+|-
+| [[Antique lamp]] || 25921 || colspan = "4" | New ID
+|-
+| [[Antique lamp]] || 25922 || colspan = "4" | New ID
+|-
+| [[Antique lamp]] || 25923 || colspan = "4" | New ID
+|-
+| [[Antique lamp]] || 25924 || colspan = "4" | New ID
+|-
+| [[Antique lamp]] || 25925 || colspan = "4" | New ID
+|-
+| [[Ghommal's hilt 1]] || 25926 || colspan = "4" | New ID
+|-
+| [[null]] || 25927 || colspan = "4" | New ID
+|-
+| [[Ghommal's hilt 2]] || 25928 || colspan = "4" | New ID
+|-
+| [[null]] || 25929 || colspan = "4" | New ID
+|-
+| [[Ghommal's hilt 3]] || 25930 || colspan = "4" | New ID
+|-
+| [[null]] || 25931 || colspan = "4" | New ID
+|-
+| [[Ghommal's hilt 4]] || 25932 || colspan = "4" | New ID
+|-
+| [[null]] || 25933 || colspan = "4" | New ID
+|-
+| [[Ghommal's hilt 5]] || 25934 || colspan = "4" | New ID
+|-
+| [[null]] || 25935 || colspan = "4" | New ID
+|-
+| [[Ghommal's hilt 6]] || 25936 || colspan = "4" | New ID
+|-
+| [[null]] || 25937 || colspan = "4" | New ID
+|-
+| [[Anim offhand]] || 25938 || colspan = "4" | New ID
+|-
+| [[null]] || 25939 || colspan = "4" | New ID
+|-
+| [[null]] || 25940 || colspan = "4" | New ID
+|-
+| [[Anim offhand]] || 25941 || colspan = "4" | New ID
+|-
+| [[null]] || 25942 || colspan = "4" | New ID
+|-
+| [[null]] || 25943 || colspan = "4" | New ID
+|-
+| [[Anim offhand]] || 25944 || colspan = "4" | New ID
+|-
+| [[null]] || 25945 || colspan = "4" | New ID
+|-
+| [[null]] || 25946 || colspan = "4" | New ID
+|-
+| [[Anim offhand]] || 25947 || colspan = "4" | New ID
+|-
+| [[null]] || 25948 || colspan = "4" | New ID
+|-
+| [[null]] || 25949 || colspan = "4" | New ID
+|-
+| [[Anim offhand]] || 25950 || colspan = "4" | New ID
+|-
+| [[null]] || 25951 || colspan = "4" | New ID
+|-
+| [[null]] || 25952 || colspan = "4" | New ID
+|-
+| [[Anim offhand]] || 25953 || colspan = "4" | New ID
+|-
+| [[null]] || 25954 || colspan = "4" | New ID
+|-
+| [[null]] || 25955 || colspan = "4" | New ID
+|-
+| [[Combat achievements]] || 25956 || colspan = "4" | New ID
+|-
+| [[null]] || 25957 || colspan = "4" | New ID
+|-
+| [[Corrupted paddlefish]] || 25958 || colspan = "4" | New ID
+|-
+| [[Corrupted escape crystal]] || 25959 || colspan = "4" | New ID
+|-
+| [[Crystal paddlefish]] || 25960 || colspan = "4" | New ID
+|-
+| [[Escape crystal]] || 25961 || colspan = "4" | New ID
+|-
+|rowspan="3"|[[Dragon hunter crossbow]]
+|rowspan="3"|21012
+|-
+|maleModel0 || 32668 || 42742
+|-
+| femaleModel0 || 39563 || 42743
+|-
+|}
+
+==Non-Player Characters==
+{| class="wikitable sortable"
+!colspan='5'|Non-Player Characters
+|-
+! Name !! ID !! Key !! Previous Value !! Changed into
+|-
+|}
+
+==Objects==
+{| class="wikitable sortable"
+!colspan='5'|Objects
+|-
+! Name !! ID !! Key !! Previous Value !! Changed into
+|-
+| [[null]] || 42514 || colspan = "4" | New ID
+|-
+|rowspan="2"|[[Burning brazier]]
+|rowspan="2"|28818
+|-
+|actions || ['Gaze-into', None, None, None, None] || ['Gaze-into', 'Reset-time', None, None, None]
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|28850
+|-
+|configChangeDest || [-1, -1, -1, -1, -1, 29733, 29733, 29733, 29733, 29733, 29733, 29733, 29733, 29733, 29733, 29733, -1] || [-1, -1, -1, -1, -1, 399, 399, 399, 399, 399, 399, 399, 399, 399, 399, 399, -1]
+|-
+|rowspan="2"|[[Dream List]]
+|rowspan="2"|31826
+|-
+|actions || ['Read', None, None, None, None] || ['Read', 'Reset-time', None, None, None]
+|-
+|}

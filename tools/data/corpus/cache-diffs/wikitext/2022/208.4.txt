@@ -1,0 +1,738 @@
+{{ToC}}
+==Items==
+===New Items===
+{| class="wikitable sortable"
+!colspan='11'|New Items
+|-
+! style=width:15em | Name !! ID !! Members !! Tradeable in GE !! Equipable !! Stackable !! Noteable !! Options !! Placeholder !! Cost
+|-
+|-
+|}
+===Removed Items===
+{| class="wikitable sortable"
+!colspan='2'|Removed Items
+|-
+! style=width:15em | Name !! ID
+|-
+|-
+|}
+===Diff Items===
+{| class="wikitable sortable"
+!colspan='5'|Diff Items
+|-
+! style=width:15em | Name !! ID !! Key !! Previous Value !! New Value
+|-
+|rowspan="2"|[[Socks of ruin]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#27436 27436]
+|-
+|femaleModel0 || 46589 || 46592
+|-
+|}
+
+==Non-Player Characters==
+===New NPCs===
+{| class="wikitable sortable"
+!colspan='4'|New NPCs
+|-
+! style=width:15em | Name !! ID !! Combat Level !! Options
+|-
+|-
+|}
+===Removed NPCs===
+{| class="wikitable sortable"
+!colspan='2'|Removed NPCs
+|-
+! style=width:15em | Name !! ID
+|-
+|-
+|}
+===Diff NPCs===
+{| class="wikitable sortable"
+!colspan='5'|Diff NPCs
+|-
+! style=width:15em | Name !! ID !! Key !! Previous Value !! New Value
+|-
+|}
+
+==Objects==
+===New Objects=== 
+{| class="wikitable sortable"
+!colspan='3'|New Objects
+|-
+! style=width:15em | Name !! ID !! Options
+|-
+| [[Sacrificial boat]] || [https://chisel.weirdgloop.org/moid/object_id.html#46241 46241] || Board
+|-
+| [[Sacrificial boat]] || [https://chisel.weirdgloop.org/moid/object_id.html#46242 46242] || Board, Quick-Board
+|-
+|-
+|}
+===Removed Objects===
+{| class="wikitable sortable"
+!colspan='2'|Removed Objects
+|-
+! style=width:15em | Name !! ID
+|-
+|-
+|}
+===Diff Objects===
+{| class="wikitable sortable"
+!colspan='5'|Diff Objects
+|-
+! style=width:15em | Name !! ID !! Key !! Previous Value !! New Value
+|-
+|rowspan="6"|[[null]]
+|rowspan="6"|[https://chisel.weirdgloop.org/moid/object_id.html#10068 10068]
+|-
+|name || [[Sacrificial boat]] || [[null]]
+|-
+| varbitID || -1 || 4391
+|-
+| ambient || -10 || 0
+|-
+| contrast || 125 || 0
+|-
+| actions || ['Board', 'Quick-Board', None, None, None] || [None, None, None, None, None]
+|-
+|rowspan="3"|[[Footprints]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#30524 30524]
+|-
+|name || [[null]] || [[Footprints]]
+|-
+| wallOrDoor || 0 || 1
+|-
+|rowspan="3"|[[Footprints]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#30525 30525]
+|-
+|name || [[null]] || [[Footprints]]
+|-
+| wallOrDoor || 0 || 1
+|-
+|rowspan="3"|[[Footprints]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#30526 30526]
+|-
+|name || [[null]] || [[Footprints]]
+|-
+| wallOrDoor || 0 || 1
+|-
+|rowspan="3"|[[Footprints]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#30527 30527]
+|-
+|name || [[null]] || [[Footprints]]
+|-
+| wallOrDoor || 0 || 1
+|-
+|rowspan="3"|[[Footprints]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#30528 30528]
+|-
+|name || [[null]] || [[Footprints]]
+|-
+| wallOrDoor || 0 || 1
+|-
+|rowspan="3"|[[Footprints]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#30529 30529]
+|-
+|name || [[null]] || [[Footprints]]
+|-
+| wallOrDoor || 0 || 1
+|-
+|rowspan="3"|[[Footprints]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#30530 30530]
+|-
+|name || [[null]] || [[Footprints]]
+|-
+| wallOrDoor || 0 || 1
+|-
+|rowspan="3"|[[Footprints]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#30531 30531]
+|-
+|name || [[null]] || [[Footprints]]
+|-
+| wallOrDoor || 0 || 1
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#31303 31303]
+|-
+|wallOrDoor || 0 || 1
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#31304 31304]
+|-
+|wallOrDoor || 0 || 1
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#31305 31305]
+|-
+|wallOrDoor || 0 || 1
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#31306 31306]
+|-
+|wallOrDoor || 0 || 1
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#31307 31307]
+|-
+|wallOrDoor || 0 || 1
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#31308 31308]
+|-
+|wallOrDoor || 0 || 1
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#31309 31309]
+|-
+|wallOrDoor || 0 || 1
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#31310 31310]
+|-
+|wallOrDoor || 0 || 1
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#31311 31311]
+|-
+|wallOrDoor || 0 || 1
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#31312 31312]
+|-
+|wallOrDoor || 0 || 1
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#31313 31313]
+|-
+|wallOrDoor || 0 || 1
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#31314 31314]
+|-
+|wallOrDoor || 0 || 1
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#31315 31315]
+|-
+|wallOrDoor || 0 || 1
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#31316 31316]
+|-
+|wallOrDoor || 0 || 1
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#31317 31317]
+|-
+|wallOrDoor || 0 || 1
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#31318 31318]
+|-
+|wallOrDoor || 0 || 1
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#31319 31319]
+|-
+|wallOrDoor || 0 || 1
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#31320 31320]
+|-
+|wallOrDoor || 0 || 1
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#31321 31321]
+|-
+|wallOrDoor || 0 || 1
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#31322 31322]
+|-
+|wallOrDoor || 0 || 1
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#31323 31323]
+|-
+|wallOrDoor || 0 || 1
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#31324 31324]
+|-
+|wallOrDoor || 0 || 1
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#31325 31325]
+|-
+|wallOrDoor || 0 || 1
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#31326 31326]
+|-
+|wallOrDoor || 0 || 1
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#31327 31327]
+|-
+|wallOrDoor || 0 || 1
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#31328 31328]
+|-
+|wallOrDoor || 0 || 1
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#31329 31329]
+|-
+|wallOrDoor || 0 || 1
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#31330 31330]
+|-
+|wallOrDoor || 0 || 1
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#31331 31331]
+|-
+|wallOrDoor || 0 || 1
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#31332 31332]
+|-
+|wallOrDoor || 0 || 1
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#31333 31333]
+|-
+|wallOrDoor || 0 || 1
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#31334 31334]
+|-
+|wallOrDoor || 0 || 1
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#31335 31335]
+|-
+|wallOrDoor || 0 || 1
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#31336 31336]
+|-
+|wallOrDoor || 0 || 1
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#31337 31337]
+|-
+|wallOrDoor || 0 || 1
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#31338 31338]
+|-
+|wallOrDoor || 0 || 1
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#31339 31339]
+|-
+|wallOrDoor || 0 || 1
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#31340 31340]
+|-
+|wallOrDoor || 0 || 1
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#31341 31341]
+|-
+|wallOrDoor || 0 || 1
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#31342 31342]
+|-
+|wallOrDoor || 0 || 1
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#31343 31343]
+|-
+|wallOrDoor || 0 || 1
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#31344 31344]
+|-
+|wallOrDoor || 0 || 1
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#31345 31345]
+|-
+|wallOrDoor || 0 || 1
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#31346 31346]
+|-
+|wallOrDoor || 0 || 1
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#31347 31347]
+|-
+|wallOrDoor || 0 || 1
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#31348 31348]
+|-
+|wallOrDoor || 0 || 1
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#31349 31349]
+|-
+|wallOrDoor || 0 || 1
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#31350 31350]
+|-
+|wallOrDoor || 0 || 1
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#31351 31351]
+|-
+|wallOrDoor || 0 || 1
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#31352 31352]
+|-
+|wallOrDoor || 0 || 1
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#31353 31353]
+|-
+|wallOrDoor || 0 || 1
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#31354 31354]
+|-
+|wallOrDoor || 0 || 1
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#31355 31355]
+|-
+|wallOrDoor || 0 || 1
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#31356 31356]
+|-
+|wallOrDoor || 0 || 1
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#31357 31357]
+|-
+|wallOrDoor || 0 || 1
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#31358 31358]
+|-
+|wallOrDoor || 0 || 1
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#31359 31359]
+|-
+|wallOrDoor || 0 || 1
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#31360 31360]
+|-
+|wallOrDoor || 0 || 1
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#31361 31361]
+|-
+|wallOrDoor || 0 || 1
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#31362 31362]
+|-
+|wallOrDoor || 0 || 1
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#31363 31363]
+|-
+|wallOrDoor || 0 || 1
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#31364 31364]
+|-
+|wallOrDoor || 0 || 1
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#31365 31365]
+|-
+|wallOrDoor || 0 || 1
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#31366 31366]
+|-
+|wallOrDoor || 0 || 1
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#31367 31367]
+|-
+|wallOrDoor || 0 || 1
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#31368 31368]
+|-
+|wallOrDoor || 0 || 1
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#31369 31369]
+|-
+|wallOrDoor || 0 || 1
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#31370 31370]
+|-
+|wallOrDoor || 0 || 1
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#31371 31371]
+|-
+|wallOrDoor || 0 || 1
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#31372 31372]
+|-
+|wallOrDoor || 0 || 1
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#31373 31373]
+|-
+|wallOrDoor || 0 || 1
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#31374 31374]
+|-
+|wallOrDoor || 0 || 1
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#31375 31375]
+|-
+|wallOrDoor || 0 || 1
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#31376 31376]
+|-
+|wallOrDoor || 0 || 1
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#31377 31377]
+|-
+|wallOrDoor || 0 || 1
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#31378 31378]
+|-
+|wallOrDoor || 0 || 1
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#31379 31379]
+|-
+|wallOrDoor || 0 || 1
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#31380 31380]
+|-
+|wallOrDoor || 0 || 1
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#31381 31381]
+|-
+|wallOrDoor || 0 || 1
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#31382 31382]
+|-
+|wallOrDoor || 0 || 1
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#31383 31383]
+|-
+|wallOrDoor || 0 || 1
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#31384 31384]
+|-
+|wallOrDoor || 0 || 1
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#31385 31385]
+|-
+|wallOrDoor || 0 || 1
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#31386 31386]
+|-
+|wallOrDoor || 0 || 1
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#31387 31387]
+|-
+|wallOrDoor || 0 || 1
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#31388 31388]
+|-
+|wallOrDoor || 0 || 1
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#31389 31389]
+|-
+|wallOrDoor || 0 || 1
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#31390 31390]
+|-
+|wallOrDoor || 0 || 1
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#31391 31391]
+|-
+|wallOrDoor || 0 || 1
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#31392 31392]
+|-
+|wallOrDoor || 0 || 1
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#31393 31393]
+|-
+|wallOrDoor || 0 || 1
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#31394 31394]
+|-
+|wallOrDoor || 0 || 1
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#31395 31395]
+|-
+|wallOrDoor || 0 || 1
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#31396 31396]
+|-
+|wallOrDoor || 0 || 1
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#31397 31397]
+|-
+|wallOrDoor || 0 || 1
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#31398 31398]
+|-
+|wallOrDoor || 0 || 1
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#31399 31399]
+|-
+|wallOrDoor || 0 || 1
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#31400 31400]
+|-
+|wallOrDoor || 0 || 1
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#31401 31401]
+|-
+|wallOrDoor || 0 || 1
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#31402 31402]
+|-
+|wallOrDoor || 0 || 1
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#31403 31403]
+|-
+|wallOrDoor || 0 || 1
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#31404 31404]
+|-
+|wallOrDoor || 0 || 1
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#31405 31405]
+|-
+|wallOrDoor || 0 || 1
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#31406 31406]
+|-
+|wallOrDoor || 0 || 1
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#31407 31407]
+|-
+|wallOrDoor || 0 || 1
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#31408 31408]
+|-
+|wallOrDoor || 0 || 1
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#31409 31409]
+|-
+|wallOrDoor || 0 || 1
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#31410 31410]
+|-
+|wallOrDoor || 0 || 1
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#31411 31411]
+|-
+|wallOrDoor || 0 || 1
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#31412 31412]
+|-
+|wallOrDoor || 0 || 1
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#31413 31413]
+|-
+|wallOrDoor || 0 || 1
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#31414 31414]
+|-
+|wallOrDoor || 0 || 1
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#31415 31415]
+|-
+|wallOrDoor || 0 || 1
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#31416 31416]
+|-
+|wallOrDoor || 0 || 1
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#31417 31417]
+|-
+|wallOrDoor || 0 || 1
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#31418 31418]
+|-
+|wallOrDoor || 0 || 1
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#31419 31419]
+|-
+|wallOrDoor || 0 || 1
+|-
+|}

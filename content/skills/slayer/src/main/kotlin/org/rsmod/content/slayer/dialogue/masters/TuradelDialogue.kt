@@ -1,11 +1,11 @@
 package org.rsmod.content.slayer.dialogue.masters
 
 import org.rsmod.api.player.dialogue.Dialogue
-import org.rsmod.content.slayer.slayerTuraelIntroComplete
 import org.rsmod.content.slayer.core.SlayerTaskManager
 import org.rsmod.content.slayer.dialogue.GenericDialogue.slayerTip
-import org.rsmod.content.slayer.dialogue.StandardSlayerDialogue.openMain
 import org.rsmod.content.slayer.dialogue.SlayerAssignmentDialogue.assignNewTask
+import org.rsmod.content.slayer.dialogue.StandardSlayerDialogue.openMain
+import org.rsmod.content.slayer.slayerTuraelIntroComplete
 
 object TuradelDialogue {
 
@@ -43,7 +43,10 @@ object TuradelDialogue {
 
     private suspend fun Dialogue.startLearning() {
         chatPlayer(neutral, "Never heard of you...")
-        chatNpc(neutral, "That's because my foe never lives to tell of me. We slayers are a dangerous bunch.")
+        chatNpc(
+            neutral,
+            "That's because my foe never lives to tell of me. We slayers are a dangerous bunch.",
+        )
         when (choice2("Wow, can you teach me?", 1, "Sounds useless to me.", 2)) {
             1 -> {
                 chatPlayer(happy, "Wow, can you teach me?")

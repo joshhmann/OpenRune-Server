@@ -13,9 +13,7 @@ import org.rsmod.api.db.util.DatabaseRollbackException
 
 public class GameDatabase
 @Inject
-constructor(
-    private val configProvider: Provider<DatabaseConfig>,
-) : Database {
+constructor(private val configProvider: Provider<DatabaseConfig>) : Database {
     private val logger = InlineLogger()
     private lateinit var connection: Connection
 

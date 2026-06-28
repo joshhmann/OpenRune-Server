@@ -10,17 +10,15 @@ import dev.openrune.types.HuntModeType
 import dev.openrune.types.MoveRestrict
 import dev.openrune.types.NpcMode
 import dev.openrune.types.NpcServerType
-import dev.openrune.types.SequenceServerType
-import dev.openrune.types.aconverted.SpotanimType
 import dev.openrune.util.BlockWalk
 import org.rsmod.annotations.InternalApi
+import org.rsmod.game.damage.DamageContributions
 import org.rsmod.game.entity.npc.NpcInfoProtocol
 import org.rsmod.game.entity.npc.NpcUid
 import org.rsmod.game.entity.npc.OpVisibility
 import org.rsmod.game.entity.player.PlayerUid
 import org.rsmod.game.entity.util.EntityFaceTarget
 import org.rsmod.game.entity.util.PathingEntityCommon
-import org.rsmod.game.damage.DamageContributions
 import org.rsmod.game.headbar.Headbar
 import org.rsmod.game.hero.HeroPoints
 import org.rsmod.game.hit.Hitmark
@@ -49,14 +47,18 @@ public class Npc(
         this.spawnCoords = coords
     }
 
-    public constructor(type: String, coords: CoordGrid) : this(
+    public constructor(
+        type: String,
+        coords: CoordGrid,
+    ) : this(
         requireNotNull(ServerCacheManager.getNpc(type.asRSCM(RSCMType.NPC))) {
             "NPC type '$type' not found in cache"
-        },
+        }
     ) {
         this.coords = coords
         this.spawnCoords = coords
     }
+
     override val blockWalkCollisionFlag: Int?
         get() = blockWalk.collisionFlag
 
@@ -519,7 +521,8 @@ public class Npc(
      */
     public fun <T : Any> param(param: TypedParamType<T>): T = type.param(param)
 
-    public fun isContentType(content: String): Boolean = type.contentGroup == content.asRSCM(RSCMType.CONTENT)
+    public fun isContentType(content: String): Boolean =
+        type.contentGroup == content.asRSCM(RSCMType.CONTENT)
 
     override fun toString(): String = "Npc(uid=$uid, slot=$slotId, coords=$coords, type=$type)"
 }

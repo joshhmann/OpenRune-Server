@@ -30,31 +30,38 @@ class BarbarianMixesEvents : PluginScript() {
     }
 
     private suspend fun ProtectedAccess.handleBarbarianMix(ev: HeldUEvents.Type) {
-        val candidates = HerbloreDefinitions.barbarianMixes.filter { mix ->
-            mix.twoDosePotion.internalName == ev.first.internalName && mix.mixIngredient.internalName == ev.second.internalName
-        }
+        val candidates =
+            HerbloreDefinitions.barbarianMixes.filter { mix ->
+                mix.twoDosePotion.internalName == ev.first.internalName &&
+                    mix.mixIngredient.internalName == ev.second.internalName
+            }
 
         if (candidates.isEmpty()) {
             return
         }
 
-        val validCandidates = candidates.filter { mix ->
-            mix.statReq.all { statBase(it.t0.internalName) >= it.t1 } &&
-                inv.contains(mix.twoDosePotion.internalName) &&
-                inv.contains(mix.mixIngredient.internalName)
-        }
+        val validCandidates =
+            candidates.filter { mix ->
+                mix.statReq.all { statBase(it.t0.internalName) >= it.t1 } &&
+                    inv.contains(mix.twoDosePotion.internalName) &&
+                    inv.contains(mix.mixIngredient.internalName)
+            }
 
         if (validCandidates.isEmpty()) {
             return
         }
 
-        val candidatesWithMax = validCandidates.map { mix ->
-            val maxProducible = minOf(
-                inv.count(mix.twoDosePotion.internalName),
-                inv.count(mix.mixIngredient.internalName)
-            )
-            mix to maxProducible
-        }.filter { (_, max) -> max > 0 }
+        val candidatesWithMax =
+            validCandidates
+                .map { mix ->
+                    val maxProducible =
+                        minOf(
+                            inv.count(mix.twoDosePotion.internalName),
+                            inv.count(mix.mixIngredient.internalName),
+                        )
+                    mix to maxProducible
+                }
+                .filter { (_, max) -> max > 0 }
 
         if (candidatesWithMax.isEmpty()) {
             return
@@ -84,7 +91,7 @@ class BarbarianMixesEvents : PluginScript() {
                             )
                         } ?: 0
                 },
-            ),
+            )
         ) { selection ->
             val mix =
                 candidatesWithMax
@@ -97,12 +104,18 @@ class BarbarianMixesEvents : PluginScript() {
         }
     }
 
-    private suspend fun ProtectedAccess.startBarbarianMix(mix: HerbloreBarbarianMixesRow, amount: Int) {
+    private suspend fun ProtectedAccess.startBarbarianMix(
+        mix: HerbloreBarbarianMixesRow,
+        amount: Int,
+    ) {
         if (!meetsStatReqs(mix.statReq)) {
             return
         }
 
-        if (!inv.contains(mix.twoDosePotion.internalName) || !inv.contains(mix.mixIngredient.internalName)) {
+        if (
+            !inv.contains(mix.twoDosePotion.internalName) ||
+                !inv.contains(mix.mixIngredient.internalName)
+        ) {
             mes(Constants.dm_default)
             return
         }
@@ -118,9 +131,10 @@ class BarbarianMixesEvents : PluginScript() {
             return
         }
 
-        if (!inv.contains(mix.twoDosePotion.internalName) ||
-            !inv.contains(mix.mixIngredient.internalName) ||
-            (inv.freeSpace() < 1 && !inv.contains(mix.barbarianMix.internalName))
+        if (
+            !inv.contains(mix.twoDosePotion.internalName) ||
+                !inv.contains(mix.mixIngredient.internalName) ||
+                (inv.freeSpace() < 1 && !inv.contains(mix.barbarianMix.internalName))
         ) {
             resetAnim()
             return
@@ -155,7 +169,11 @@ class BarbarianMixesEvents : PluginScript() {
 
         val created = task.created + 1
         if (created < task.amount) {
-            weakQueue("queue.herblore_barbarian_mix", 4, BarbarianMixTask(mix, task.amount, created))
+            weakQueue(
+                "queue.herblore_barbarian_mix",
+                4,
+                BarbarianMixTask(mix, task.amount, created),
+            )
         } else {
             resetAnim()
         }

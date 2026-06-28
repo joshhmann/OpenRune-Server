@@ -77,9 +77,7 @@ constructor(
         return loc
     }
 
-    /**
-     * @param onDespawn See [add].
-     */
+    /** @param onDespawn See [add]. */
     public fun add(
         coords: CoordGrid,
         internal: String,
@@ -157,7 +155,6 @@ constructor(
     public fun findAll(coords: CoordGrid): Sequence<LocInfo> =
         findAll(ZoneKey.from(coords)).filter { it.coords == coords }
 
-
     public fun findLoc(coords: CoordGrid, type: String): Boolean =
         locReg.findType(coords, type.asRSCM(RSCMType.LOC)) != null
 
@@ -169,16 +166,16 @@ constructor(
 
     public fun findExact(coords: CoordGrid, content: String, shape: LocShape): LocInfo? {
         val loc = locReg.findShape(coords, shape.id) ?: return null
-        return loc.takeIf { ServerCacheManager.getObject(it.id)?.contentGroup == content.asRSCM(RSCMType.CONTENT) }
+        return loc.takeIf {
+            ServerCacheManager.getObject(it.id)?.contentGroup == content.asRSCM(RSCMType.CONTENT)
+        }
     }
 
-    public fun findExact(
-        coords: CoordGrid,
-        content: String,
-        type: ObjectServerType,
-    ): LocInfo? {
+    public fun findExact(coords: CoordGrid, content: String, type: ObjectServerType): LocInfo? {
         val loc = locReg.findType(coords, type.id) ?: return null
-        return loc.takeIf { ServerCacheManager.getObject(it.id)?.contentGroup == content.asRSCM(RSCMType.CONTENT) }
+        return loc.takeIf {
+            ServerCacheManager.getObject(it.id)?.contentGroup == content.asRSCM(RSCMType.CONTENT)
+        }
     }
 
     internal fun processDurations() {

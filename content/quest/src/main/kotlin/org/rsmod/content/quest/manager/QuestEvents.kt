@@ -16,7 +16,6 @@ class QuestEvents : PluginScript() {
 
     override fun ScriptContext.startup() {
         onPlayerLogin {
-
             player.questTotalCount = QuestRow.all().size
             player.questPointMax = QuestRow.all().sumOf { it.questpoints }
 
@@ -26,12 +25,12 @@ class QuestEvents : PluginScript() {
                 IfEvent.Op1,
                 IfEvent.Op2,
                 IfEvent.Op3,
-                IfEvent.Op4
+                IfEvent.Op4,
             )
 
-
             player.ifSetEvents(
-                "component.questlist:list", 0..QuestRow.all().size,
+                "component.questlist:list",
+                0..QuestRow.all().size,
                 IfEvent.Op1,
                 IfEvent.Op2,
                 IfEvent.Op3,
@@ -39,5 +38,4 @@ class QuestEvents : PluginScript() {
             )
         }
     }
-
 }

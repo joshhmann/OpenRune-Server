@@ -7,4 +7,3 @@ public class QuestModule : PluginModule() {
         bindInstance<QuestRequirementResolver>()
     }
 }
-

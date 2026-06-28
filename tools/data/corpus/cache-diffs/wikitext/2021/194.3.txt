@@ -1,0 +1,725 @@
+{| class="wikitable sortable"
+!colspan="5"|Items
+|-
+! Name !! ID !! Key !! Previous Value !! Changed into
+|-
+| [[Jar of spirits]] || 25521 || colspan = "4" | New ID
+|-
+| [[null]] || 25522 || colspan = "4" | New ID
+|-
+| [[null]] || 25523 || colspan = "4" | New ID
+|-
+| [[Jar of smoke]] || 25524 || colspan = "4" | New ID
+|-
+| [[null]] || 25525 || colspan = "4" | New ID
+|-
+| [[null]] || 25526 || colspan = "4" | New ID
+|-
+| [[Stardust]] || 25527 || colspan = "4" | New ID
+|-
+| [[null]] || 25528 || colspan = "4" | New ID
+|-
+| [[null]] || 25529 || colspan = "4" | New ID
+|-
+| [[null]] || 25530 || colspan = "4" | New ID
+|-
+| [[null]] || 25531 || colspan = "4" | New ID
+|-
+| [[null]] || 25532 || colspan = "4" | New ID
+|-
+| [[Soft clay pack]] || 25533 || colspan = "4" | New ID
+|-
+| [[null]] || 25534 || colspan = "4" | New ID
+|-
+| [[Essence pack]] || 25535 || colspan = "4" | New ID
+|-
+| [[null]] || 25536 || colspan = "4" | New ID
+|-
+| [[Bag full of gems]] || 25537 || colspan = "4" | New ID
+|-
+| [[null]] || 25538 || colspan = "4" | New ID
+|-
+| [[Celestial ring (uncharged)]] || 25539 || colspan = "4" | New ID
+|-
+| [[null]] || 25540 || colspan = "4" | New ID
+|-
+| [[Celestial ring]] || 25541 || colspan = "4" | New ID
+|-
+| [[null]] || 25542 || colspan = "4" | New ID
+|-
+| [[Celestial signet (uncharged)]] || 25543 || colspan = "4" | New ID
+|-
+| [[null]] || 25544 || colspan = "4" | New ID
+|-
+| [[Celestial signet]] || 25545 || colspan = "4" | New ID
+|-
+| [[null]] || 25546 || colspan = "4" | New ID
+|-
+| [[Star fragment]] || 25547 || colspan = "4" | New ID
+|-
+| [[null]] || 25548 || colspan = "4" | New ID
+|-
+| [[Golden prospector helmet]] || 25549 || colspan = "4" | New ID
+|-
+| [[null]] || 25550 || colspan = "4" | New ID
+|-
+| [[Golden prospector jacket]] || 25551 || colspan = "4" | New ID
+|-
+| [[null]] || 25552 || colspan = "4" | New ID
+|-
+| [[Golden prospector legs]] || 25553 || colspan = "4" | New ID
+|-
+| [[null]] || 25554 || colspan = "4" | New ID
+|-
+| [[Golden prospector boots]] || 25555 || colspan = "4" | New ID
+|-
+| [[null]] || 25556 || colspan = "4" | New ID
+|-
+| [[Dark flippers]] || 25557 || colspan = "4" | New ID
+|-
+| [[null]] || 25558 || colspan = "4" | New ID
+|-
+|rowspan="2"|[[Oak telescope]]
+|rowspan="2"|8348
+|-
+|name || [[Wooden telescope]] || [[Oak telescope]]
+|-
+|rowspan="2"|[[Oak telescope]]
+|rowspan="2"|8644
+|-
+|name || [[Wooden telescope]] || [[Oak telescope]]
+|-
+|rowspan="2"|[[Bolt pouch]]
+|rowspan="2"|9433
+|-
+|cost || 5000 || 10
+|-
+|rowspan="3"|[[Essence pack]]
+|rowspan="3"|25280
+|-
+|name || [[Pure essence pack]] || [[Essence pack]]
+|-
+| members || False || True
+|-
+|rowspan="2"|[[Zealot's robe top]]
+|rowspan="2"|25434
+|-
+|cost || 40 || 15000
+|-
+|rowspan="2"|[[Zealot's robe bottom]]
+|rowspan="2"|25436
+|-
+|cost || 450 || 14500
+|-
+|rowspan="2"|[[Zealot's helm]]
+|rowspan="2"|25438
+|-
+|cost || 440 || 14400
+|-
+|rowspan="2"|[[Zealot's boots]]
+|rowspan="2"|25440
+|-
+|cost || 440 || 14400
+|-
+|rowspan="12"|[[Null]]
+|rowspan="12"|25504
+|-
+|name || [[List of monkey sightings]] || [[Null]]
+|-
+| xan2d || 380 || 572
+|-
+| yan2d || 120 || 0
+|-
+| cost || 0 || 1
+|-
+| inventoryModel || 2600 || 2521
+|-
+| zoom2d || 1040 || 1940
+|-
+| xOffset2d || 1 || 0
+|-
+| yOffset2d || 7 || 1
+|-
+| interfaceOptions || ['Read', None, None, None, 'Destroy'] || ['Wear', None, None, None, 'Drop']
+|-
+| colorFind || [10351] || [25238]
+|-
+| colorReplace || [-30495] || [-2608]
+|-
+|rowspan="10"|[[Null]]
+|rowspan="10"|25505
+|-
+|name || [[Premium banana]] || [[Null]]
+|-
+| xan2d || 700 || 572
+|-
+| yan2d || 862 || 0
+|-
+| cost || 0 || 1
+|-
+| inventoryModel || 2387 || 2521
+|-
+| zoom2d || 1053 || 1940
+|-
+| xOffset2d || -10 || 0
+|-
+| yOffset2d || 3 || 1
+|-
+| interfaceOptions || ['Inspect', None, 'Eat', None, 'Destroy'] || ['Wear', None, None, None, 'Drop']
+|-
+|rowspan="12"|[[Null]]
+|rowspan="12"|25506
+|-
+|name || [[Bamboo]] || [[Null]]
+|-
+| xan2d || 684 || 572
+|-
+| yan2d || 1988 || 0
+|-
+| cost || 0 || 1
+|-
+| inventoryModel || 5152 || 2521
+|-
+| zoom2d || 1450 || 1940
+|-
+| xOffset2d || 2 || 0
+|-
+| yOffset2d || 12 || 1
+|-
+| interfaceOptions || ['Inspect', None, None, None, 'Destroy'] || ['Wear', None, None, None, 'Drop']
+|-
+| colorFind || [7461] || [25238]
+|-
+| colorReplace || [6585] || [-2608]
+|-
+|rowspan="12"|[[Null]]
+|rowspan="12"|25507
+|-
+|name || [[Monkey cage]] || [[Null]]
+|-
+| xan2d || 114 || 572
+|-
+| yan2d || 1781 || 0
+|-
+| cost || 0 || 1
+|-
+| inventoryModel || 15156 || 2521
+|-
+| zoom2d || 2512 || 1940
+|-
+| xOffset2d || -5 || 0
+|-
+| yOffset2d || -21 || 1
+|-
+| ambient || 30 || 0
+|-
+| contrast || 30 || 0
+|-
+| interfaceOptions || ['Place-trap', None, None, None, 'Destroy'] || ['Wear', None, None, None, 'Drop']
+|-
+|rowspan="12"|[[Null]]
+|rowspan="12"|25508
+|-
+|name || [[Donie's caged monkey]] || [[Null]]
+|-
+| xan2d || 114 || 572
+|-
+| yan2d || 1781 || 0
+|-
+| cost || 0 || 1
+|-
+| inventoryModel || 15156 || 2521
+|-
+| zoom2d || 2512 || 1940
+|-
+| xOffset2d || -5 || 0
+|-
+| yOffset2d || -21 || 1
+|-
+| ambient || 30 || 0
+|-
+| contrast || 30 || 0
+|-
+| interfaceOptions || ['Talk-to', None, None, None, 'Release'] || ['Wear', None, None, None, 'Drop']
+|-
+|rowspan="12"|[[Null]]
+|rowspan="12"|25509
+|-
+|name || [[Bob's caged monkey]] || [[Null]]
+|-
+| xan2d || 114 || 572
+|-
+| yan2d || 1781 || 0
+|-
+| cost || 0 || 1
+|-
+| inventoryModel || 15156 || 2521
+|-
+| zoom2d || 2512 || 1940
+|-
+| xOffset2d || -5 || 0
+|-
+| yOffset2d || -21 || 1
+|-
+| ambient || 30 || 0
+|-
+| contrast || 30 || 0
+|-
+| interfaceOptions || ['Talk-to', None, None, None, 'Release'] || ['Wear', None, None, None, 'Drop']
+|-
+|rowspan="12"|[[Null]]
+|rowspan="12"|25510
+|-
+|name || [[Aereck's caged monkey]] || [[Null]]
+|-
+| xan2d || 114 || 572
+|-
+| yan2d || 1781 || 0
+|-
+| cost || 0 || 1
+|-
+| inventoryModel || 15156 || 2521
+|-
+| zoom2d || 2512 || 1940
+|-
+| xOffset2d || -5 || 0
+|-
+| yOffset2d || -21 || 1
+|-
+| ambient || 30 || 0
+|-
+| contrast || 30 || 0
+|-
+| interfaceOptions || ['Talk-to', None, None, None, 'Release'] || ['Wear', None, None, None, 'Drop']
+|-
+|rowspan="12"|[[Null]]
+|rowspan="12"|25511
+|-
+|name || [[Cow's caged monkey]] || [[Null]]
+|-
+| xan2d || 114 || 572
+|-
+| yan2d || 1781 || 0
+|-
+| cost || 0 || 1
+|-
+| inventoryModel || 15156 || 2521
+|-
+| zoom2d || 2512 || 1940
+|-
+| xOffset2d || -5 || 0
+|-
+| yOffset2d || -21 || 1
+|-
+| ambient || 30 || 0
+|-
+| contrast || 30 || 0
+|-
+| interfaceOptions || ['Talk-to', None, None, None, 'Release'] || ['Wear', None, None, None, 'Drop']
+|-
+|rowspan="12"|[[Null]]
+|rowspan="12"|25512
+|-
+|name || [[Unicorn's caged monkey]] || [[Null]]
+|-
+| xan2d || 114 || 572
+|-
+| yan2d || 1781 || 0
+|-
+| cost || 0 || 1
+|-
+| inventoryModel || 15156 || 2521
+|-
+| zoom2d || 2512 || 1940
+|-
+| xOffset2d || -5 || 0
+|-
+| yOffset2d || -21 || 1
+|-
+| ambient || 30 || 0
+|-
+| contrast || 30 || 0
+|-
+| interfaceOptions || ['Talk-to', None, None, None, 'Release'] || ['Wear', None, None, None, 'Drop']
+|-
+|rowspan="12"|[[Null]]
+|rowspan="12"|25513
+|-
+|name || [[Sheep's caged monkey]] || [[Null]]
+|-
+| xan2d || 114 || 572
+|-
+| yan2d || 1781 || 0
+|-
+| cost || 0 || 1
+|-
+| inventoryModel || 15156 || 2521
+|-
+| zoom2d || 2512 || 1940
+|-
+| xOffset2d || -5 || 0
+|-
+| yOffset2d || -21 || 1
+|-
+| ambient || 30 || 0
+|-
+| contrast || 30 || 0
+|-
+| interfaceOptions || ['Talk-to', None, None, None, 'Release'] || ['Wear', None, None, None, 'Drop']
+|-
+|rowspan="10"|[[Null]]
+|rowspan="10"|25514
+|-
+|name || [[Unicorn horn]] || [[Null]]
+|-
+| xan2d || 248 || 572
+|-
+| yan2d || 132 || 0
+|-
+| cost || 20 || 1
+|-
+| inventoryModel || 2495 || 2521
+|-
+| zoom2d || 840 || 1940
+|-
+| xOffset2d || 4 || 0
+|-
+| yOffset2d || -8 || 1
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+|}
+
+{| class="wikitable sortable"
+!colspan="5"|Non-Player Characters
+|-
+! Name !! ID !! Key !! Previous Value !! Changed into
+|-
+| [[null]] || 10627 || colspan = "4" | New ID
+|-
+| [[<col=00ffff>Shadow</col>]] || 10628 || colspan = "4" | New ID
+|-
+| [[null]] || 10629 || colspan = "4" | New ID
+|-
+| [[Dusuri]] || 10630 || colspan = "4" | New ID
+|-
+| [[Dusuri]] || 10631 || colspan = "4" | New ID
+|-
+| [[Star Sprite]] || 10632 || colspan = "4" | New ID
+|-
+| [[null]] || 10633 || colspan = "4" | New ID
+|-
+| [[Donie]] || 10562 || colspan = "4" | New ID
+|-
+| [[Donie]] || 10563 || colspan = "4" | New ID
+|-
+| [[Father Aereck]] || 10565 || colspan = "4" | New ID
+|-
+| [[Father Aereck]] || 10568 || colspan = "4" | New ID
+|-
+| [[Duke Horacio]] || 10569 || colspan = "4" | New ID
+|-
+| [[Awowogei]] || 10570 || colspan = "4" | New ID
+|-
+| [[Zeke]] || 10571 || colspan = "4" | New ID
+|-
+| [[Eluned]] || 10572 || colspan = "4" | New ID
+|-
+| [[Mofina]] || 10573 || colspan = "4" | New ID
+|-
+| [[Bob]] || 10574 || colspan = "4" | New ID
+|-
+| [[Father Aereck]] || 10575 || colspan = "4" | New ID
+|-
+| [[Donie]] || 10576 || colspan = "4" | New ID
+|-
+| [[Monkey on cow]] || 10577 || colspan = "4" | New ID
+|-
+| [[Sheep]] || 10578 || colspan = "4" | New ID
+|-
+| [[Monkey on unicorn]] || 10579 || colspan = "4" | New ID
+|-
+| [[Bob]] || 10580 || colspan = "4" | New ID
+|-
+| [[Bob]] || 10581 || colspan = "4" | New ID
+|-
+| [[Bob]] || 10582 || colspan = "4" | New ID
+|-
+| [[Donie]] || 10583 || colspan = "4" | New ID
+|-
+| [[Donie]] || 10584 || colspan = "4" | New ID
+|-
+| [[Donie]] || 10585 || colspan = "4" | New ID
+|-
+| [[Donie]] || 10586 || colspan = "4" | New ID
+|-
+| [[Father Aereck]] || 10587 || colspan = "4" | New ID
+|-
+| [[Father Aereck]] || 10588 || colspan = "4" | New ID
+|-
+| [[Father Aereck]] || 10593 || colspan = "4" | New ID
+|-
+| [[Sheep]] || 10595 || colspan = "4" | New ID
+|-
+| [[Sheep]] || 10596 || colspan = "4" | New ID
+|-
+| [[Sheep]] || 10597 || colspan = "4" | New ID
+|-
+| [[Monkey on cow]] || 10599 || colspan = "4" | New ID
+|-
+| [[Monkey on cow]] || 10600 || colspan = "4" | New ID
+|-
+| [[Cow]] || 10601 || colspan = "4" | New ID
+|-
+| [[null]] || 10602 || colspan = "4" | New ID
+|-
+| [[Monkey on unicorn]] || 10604 || colspan = "4" | New ID
+|-
+| [[Monkey on unicorn]] || 10605 || colspan = "4" | New ID
+|-
+| [[null]] || 10606 || colspan = "4" | New ID
+|-
+| [[Unicorn]] || 10607 || colspan = "4" | New ID
+|-
+| [[Unicorn]] || 10608 || colspan = "4" | New ID
+|-
+| [[Unicorn1337Kilr]] || 10609 || colspan = "4" | New ID
+|-
+| [[Bob]] || 10610 || colspan = "4" | New ID
+|-
+| [[Bob]] || 10611 || colspan = "4" | New ID
+|-
+| [[null]] || 10612 || colspan = "4" | New ID
+|-
+| [[null]] || 10613 || colspan = "4" | New ID
+|-
+| [[null]] || 10614 || colspan = "4" | New ID
+|-
+| [[null]] || 10615 || colspan = "4" | New ID
+|-
+| [[null]] || 10616 || colspan = "4" | New ID
+|-
+| [[null]] || 10617 || colspan = "4" | New ID
+|-
+| [[null]] || 10618 || colspan = "4" | New ID
+|-
+| [[null]] || 6817 || colspan = "4" | New ID
+|-
+|rowspan="6"|[[Donie]]
+|rowspan="6"|921
+|-
+|name || [[null]] || [[Donie]]
+|-
+| actions || [None, None, None, None, None] || ['Talk-to', None, None, None, None]
+|-
+| combatLevel || 1 || 0
+|-
+| hasRenderPriority || True || False
+|-
+| varbitId || 11837 || -1
+|-
+|rowspan="3"|[[TzHaar-Ket]]
+|rowspan="3"|2176
+|-
+|widthScale || 165 || 160
+|-
+| heightScale || 165 || 160
+|-
+|rowspan="5"|[[Father Aereck]]
+|rowspan="5"|2812
+|-
+|name || [[null]] || [[Father Aereck]]
+|-
+| actions || [None, None, None, None, None] || ['Talk-to', None, None, None, None]
+|-
+| combatLevel || 1 || 0
+|-
+| varbitId || 11836 || -1
+|-
+|rowspan="4"|[[TzHaar-Ket]]
+|rowspan="4"|7679
+|-
+|size || 2 || 1
+|-
+| widthScale || 190 || 176
+|-
+| heightScale || 190 || 176
+|-
+|rowspan="3"|[[Sheep]]
+|rowspan="3"|10594
+|-
+|standingAnimation || -1 || 232
+|-
+| walkingAnimation || -1 || 233
+|-
+|rowspan="4"|[[Cow]]
+|rowspan="4"|10598
+|-
+|size || 1 || 2
+|-
+| standingAnimation || -1 || 180
+|-
+| walkingAnimation || -1 || 229
+|-
+|rowspan="4"|[[Monkey on unicorn]]
+|rowspan="4"|10603
+|-
+|size || 1 || 2
+|-
+| standingAnimation || -1 || 4636
+|-
+| walkingAnimation || -1 || 4637
+|-
+|rowspan="5"|[[Bob]]
+|rowspan="5"|10619
+|-
+|name || [[null]] || [[Bob]]
+|-
+| actions || [None, None, None, None, None] || ['Talk-to', None, 'Trade', 'Repair', None]
+|-
+| combatLevel || 1 || 0
+|-
+| varbitId || 11835 || -1
+|-
+|}
+
+{| class="wikitable sortable"
+!colspan="5"|Objects
+|-
+! Name !! ID !! Key !! Previous Value !! Changed into
+|-
+| [[Ancient brazier]] || 41015 || colspan = "4" | New ID
+|-
+| [[Ancient brazier]] || 41016 || colspan = "4" | New ID
+|-
+| [[Corporeal Beast Display]] || 41017 || colspan = "4" | New ID
+|-
+| [[Thermonuclear Smoke Devil Display]] || 41018 || colspan = "4" | New ID
+|-
+| [[null]] || 41019 || colspan = "4" | New ID
+|-
+| [[Crashed Star]] || 41020 || colspan = "4" | New ID
+|-
+| [[Crashed Star]] || 41021 || colspan = "4" | New ID
+|-
+| [[Crashed Star]] || 41223 || colspan = "4" | New ID
+|-
+| [[Crashed Star]] || 41224 || colspan = "4" | New ID
+|-
+| [[Crashed Star]] || 41225 || colspan = "4" | New ID
+|-
+| [[Crashed Star]] || 41226 || colspan = "4" | New ID
+|-
+| [[Crashed Star]] || 41227 || colspan = "4" | New ID
+|-
+| [[Crashed Star]] || 41228 || colspan = "4" | New ID
+|-
+| [[Crashed Star]] || 41229 || colspan = "4" | New ID
+|-
+| [[Shooting Star Noticeboard]] || 41230 || colspan = "4" | New ID
+|-
+| [[null]] || 41231 || colspan = "4" | New ID
+|-
+| [[null]] || 41232 || colspan = "4" | New ID
+|-
+| [[Bamboo Monkey Trap]] || 40963 || colspan = "4" | DELETED
+|-
+| [[Banana Barrel]] || 40964 || colspan = "4" | DELETED
+|-
+| [[Bamboo Barrel]] || 40965 || colspan = "4" | DELETED
+|-
+| [[<col=ffff00>Caged monkey (Bob)</col>]] || 40966 || colspan = "4" | DELETED
+|-
+| [[<col=ffff00>Caged monkey (Donie)</col>]] || 40967 || colspan = "4" | DELETED
+|-
+| [[<col=ffff00>Caged monkey (Aereck)</col>]] || 40968 || colspan = "4" | DELETED
+|-
+| [[<col=ffff00>Caged monkey (Unicorn)</col>]] || 40969 || colspan = "4" | DELETED
+|-
+| [[<col=ffff00>Caged monkey (Cow)</col>]] || 40970 || colspan = "4" | DELETED
+|-
+| [[<col=ffff00>Caged monkey (Sheep)</col>]] || 40971 || colspan = "4" | DELETED
+|-
+| [[Fireworks]] || 40972 || colspan = "4" | DELETED
+|-
+| [[null]] || 40973 || colspan = "4" | DELETED
+|-
+| [[null]] || 40974 || colspan = "4" | DELETED
+|-
+| [[null]] || 40975 || colspan = "4" | DELETED
+|-
+| [[null]] || 40976 || colspan = "4" | DELETED
+|-
+| [[null]] || 40977 || colspan = "4" | DELETED
+|-
+| [[null]] || 40978 || colspan = "4" | DELETED
+|-
+| [[null]] || 40979 || colspan = "4" | DELETED
+|-
+| [[null]] || 40980 || colspan = "4" | DELETED
+|-
+| [[null]] || 40981 || colspan = "4" | DELETED
+|-
+| [[Post]] || 40982 || colspan = "4" | DELETED
+|-
+| [[null]] || 40983 || colspan = "4" | DELETED
+|-
+| [[null]] || 40984 || colspan = "4" | DELETED
+|-
+| [[null]] || 40985 || colspan = "4" | DELETED
+|-
+| [[null]] || 40986 || colspan = "4" | DELETED
+|-
+| [[null]] || 40987 || colspan = "4" | DELETED
+|-
+| [[null]] || 40988 || colspan = "4" | DELETED
+|-
+| [[null]] || 40989 || colspan = "4" | DELETED
+|-
+| [[null]] || 40990 || colspan = "4" | DELETED
+|-
+| [[null]] || 40991 || colspan = "4" | DELETED
+|-
+| [[null]] || 40992 || colspan = "4" | DELETED
+|-
+| [[null]] || 40993 || colspan = "4" | DELETED
+|-
+| [[null]] || 40994 || colspan = "4" | DELETED
+|-
+| [[null]] || 40995 || colspan = "4" | DELETED
+|-
+| [[null]] || 40996 || colspan = "4" | DELETED
+|-
+| [[null]] || 40997 || colspan = "4" | DELETED
+|-
+| [[null]] || 40998 || colspan = "4" | DELETED
+|-
+| [[null]] || 40999 || colspan = "4" | DELETED
+|-
+| [[null]] || 41000 || colspan = "4" | DELETED
+|-
+| [[null]] || 41001 || colspan = "4" | DELETED
+|-
+| [[null]] || 41002 || colspan = "4" | DELETED
+|-
+| [[null]] || 41003 || colspan = "4" | DELETED
+|-
+| [[null]] || 41004 || colspan = "4" | DELETED
+|-
+| [[null]] || 41005 || colspan = "4" | DELETED
+|-
+| [[null]] || 41006 || colspan = "4" | DELETED
+|-
+| [[null]] || 41007 || colspan = "4" | DELETED
+|-
+| [[null]] || 41008 || colspan = "4" | DELETED
+|-
+| [[null]] || 41009 || colspan = "4" | DELETED
+|-
+| [[null]] || 41010 || colspan = "4" | DELETED
+|-
+| [[null]] || 41011 || colspan = "4" | DELETED
+|-
+| [[null]] || 41012 || colspan = "4" | DELETED
+|-
+|}

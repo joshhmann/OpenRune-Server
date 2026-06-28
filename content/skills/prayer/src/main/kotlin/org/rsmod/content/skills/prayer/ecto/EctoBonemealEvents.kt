@@ -7,11 +7,8 @@ import org.rsmod.plugin.scripts.ScriptContext
 
 class EctoBonemealEvents : PluginScript() {
     override fun ScriptContext.startup() {
-        ECTO_RECIPES.distinctBy { it.bonemeal }.forEach { recipe ->
-            onOpHeld1(recipe.bonemeal) {
-                emptyBonemealPot(recipe.bonemeal)
-            }
-        }
+        ECTO_RECIPES.distinctBy { it.bonemeal }
+            .forEach { recipe -> onOpHeld1(recipe.bonemeal) { emptyBonemealPot(recipe.bonemeal) } }
         onOpHeld1("obj.bucket_ectoplasm") { emptySlimeBucket() }
     }
 

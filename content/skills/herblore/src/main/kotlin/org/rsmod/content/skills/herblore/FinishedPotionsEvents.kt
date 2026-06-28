@@ -17,9 +17,9 @@ import org.rsmod.plugin.scripts.ScriptContext
 class FinishedPotionsEvents @Inject constructor(private val random: GameRandom) : PluginScript() {
 
     override fun ScriptContext.startup() {
-        HerbloreDefinitions.itemToPotions.keys.filter { it !in heldUExclude }.forEach { item ->
-            onOpHeldU(item) { handleFinishedPotionMix(it) }
-        }
+        HerbloreDefinitions.itemToPotions.keys
+            .filter { it !in heldUExclude }
+            .forEach { item -> onOpHeldU(item) { handleFinishedPotionMix(it) } }
 
         onPlayerQueueWithArgs<FinishedPotionTask>("queue.herblore_finished") {
             processFinishedTick(it.args)
@@ -30,7 +30,9 @@ class FinishedPotionsEvents @Inject constructor(private val random: GameRandom) 
         val item1 = ev.first.internalName
         val item2 = ev.second.internalName
 
-        if (isHerbVialMix(item1, item2) || isPestleMix(item1, item2) || isSwampTarMix(item1, item2)) {
+        if (
+            isHerbVialMix(item1, item2) || isPestleMix(item1, item2) || isSwampTarMix(item1, item2)
+        ) {
             return
         }
 
@@ -39,14 +41,17 @@ class FinishedPotionsEvents @Inject constructor(private val random: GameRandom) 
             return
         }
 
-        val validCandidates = candidates.filter { potion ->
-            potion.statReq.all { statBase(it.t0.internalName) >= it.t1 } && potion.hasRequiredMaterials(inv)
-        }
+        val validCandidates =
+            candidates.filter { potion ->
+                potion.statReq.all { statBase(it.t0.internalName) >= it.t1 } &&
+                    potion.hasRequiredMaterials(inv)
+            }
 
         if (validCandidates.isEmpty()) {
-            val belowLevel = candidates.filter { potion ->
-                potion.statReq.any { statBase(it.t0.internalName) < it.t1 }
-            }
+            val belowLevel =
+                candidates.filter { potion ->
+                    potion.statReq.any { statBase(it.t0.internalName) < it.t1 }
+                }
             if (belowLevel.isNotEmpty()) {
                 val required = belowLevel.minOf { it.levelRequired }
                 mesbox("You need a Herblore level of $required to make this potion.")
@@ -54,9 +59,10 @@ class FinishedPotionsEvents @Inject constructor(private val random: GameRandom) 
             return
         }
 
-        val candidatesWithMax = validCandidates
-            .map { potion -> potion to potion.maxProducible(inv) }
-            .filter { (_, max) -> max > 0 }
+        val candidatesWithMax =
+            validCandidates
+                .map { potion -> potion to potion.maxProducible(inv) }
+                .filter { (_, max) -> max > 0 }
 
         if (candidatesWithMax.isEmpty()) {
             return
@@ -77,17 +83,23 @@ class FinishedPotionsEvents @Inject constructor(private val random: GameRandom) 
                         .firstOrNull { it.outputPotion.internalName == entry.internal }
                         ?.maxProducible(inventory) ?: 0
                 },
-            ),
+            )
         ) { selection ->
-            val potion = candidatesWithMax.firstOrNull { (row, _) ->
-                row.outputPotion.internalName == selection.entry.internal
-            }?.first ?: return@openSkillMulti
+            val potion =
+                candidatesWithMax
+                    .firstOrNull { (row, _) ->
+                        row.outputPotion.internalName == selection.entry.internal
+                    }
+                    ?.first ?: return@openSkillMulti
 
             startFinishedPotion(potion, selection.amount)
         }
     }
 
-    private suspend fun ProtectedAccess.startFinishedPotion(potion: HerbloreFinishedRow, amount: Int) {
+    private suspend fun ProtectedAccess.startFinishedPotion(
+        potion: HerbloreFinishedRow,
+        amount: Int,
+    ) {
         if (!meetsStatReqs(potion.statReq)) {
             return
         }
@@ -131,7 +143,8 @@ class FinishedPotionsEvents @Inject constructor(private val random: GameRandom) 
         if (potion.secondaries.size == 1) {
             val secondary = potion.secondaries.first()
             val count = potion.secondariesAmount ?: 1
-            val toRemove = (count - savedSecondaries.savedAmount(secondary.internalName)).coerceAtLeast(0)
+            val toRemove =
+                (count - savedSecondaries.savedAmount(secondary.internalName)).coerceAtLeast(0)
             val secondaryRemoved =
                 if (toRemove == 0) {
                     true
@@ -185,11 +198,12 @@ class FinishedPotionsEvents @Inject constructor(private val random: GameRandom) 
             statAdvance("stat.herblore", potion.xp.toDouble())
         }
 
-        val itemForMessage = if (potion.secondaries.size > 1) {
-            potion.unfPot
-        } else {
-            potion.secondaries.firstOrNull() ?: potion.unfPot
-        }
+        val itemForMessage =
+            if (potion.secondaries.size > 1) {
+                potion.unfPot
+            } else {
+                potion.secondaries.firstOrNull() ?: potion.unfPot
+            }
         mes("You mix the ${itemForMessage.name.lowercase()} into your potion.")
 
         if (brewResult.extraDoseApplied) {
@@ -206,7 +220,11 @@ class FinishedPotionsEvents @Inject constructor(private val random: GameRandom) 
 
         val created = task.created + 1
         if (created < task.amount) {
-            weakQueue("queue.herblore_finished", 4, FinishedPotionTask(potion, task.amount, created))
+            weakQueue(
+                "queue.herblore_finished",
+                4,
+                FinishedPotionTask(potion, task.amount, created),
+            )
         } else {
             resetAnim()
         }

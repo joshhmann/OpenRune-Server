@@ -14,8 +14,9 @@ internal fun buildRegionTemplate(regionIds: List<Int>, level: Int): RegionStatic
 
     val zoneWidth = (maxMapSquareX - minMapSquareX + 1) * MAP_SQUARE_ZONE_LENGTH
     val zoneLength = (maxMapSquareZ - minMapSquareZ + 1) * MAP_SQUARE_ZONE_LENGTH
-    val useLarge = zoneWidth > RegionRepository.SMALL_REGION_ZONE_LENGTH ||
-        zoneLength > RegionRepository.SMALL_REGION_ZONE_LENGTH
+    val useLarge =
+        zoneWidth > RegionRepository.SMALL_REGION_ZONE_LENGTH ||
+            zoneLength > RegionRepository.SMALL_REGION_ZONE_LENGTH
 
     val builder: RegionStaticTemplate.() -> Unit = {
         for (regionId in regionIds) {

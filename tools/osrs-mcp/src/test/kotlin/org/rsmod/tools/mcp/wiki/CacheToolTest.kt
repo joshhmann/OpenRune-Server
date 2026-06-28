@@ -15,8 +15,26 @@ class CacheToolTest {
                 revision = 1,
                 byType =
                     mapOf(
-                        CacheSearchType.Npc to listOf(tool.indexed(CacheSearchType.Npc, 240, "Black demon", "combat=172", "models=[1,2,3]")),
-                        CacheSearchType.Item to listOf(tool.indexed(CacheSearchType.Item, 100, "Rune sword", "cost=20000", "stackable=false")),
+                        CacheSearchType.Npc to
+                            listOf(
+                                tool.indexed(
+                                    CacheSearchType.Npc,
+                                    240,
+                                    "Black demon",
+                                    "combat=172",
+                                    "models=[1,2,3]",
+                                )
+                            ),
+                        CacheSearchType.Item to
+                            listOf(
+                                tool.indexed(
+                                    CacheSearchType.Item,
+                                    100,
+                                    "Rune sword",
+                                    "cost=20000",
+                                    "stackable=false",
+                                )
+                            ),
                     ),
             )
 
@@ -36,7 +54,16 @@ class CacheToolTest {
 
     @Test
     fun `search snapshot excludes data from query matching`() {
-        val snapshot = snapshotOf(tool.indexed(CacheSearchType.Npc, 240, "Black demon", "combat=172", "models=[999999]"))
+        val snapshot =
+            snapshotOf(
+                tool.indexed(
+                    CacheSearchType.Npc,
+                    240,
+                    "Black demon",
+                    "combat=172",
+                    "models=[999999]",
+                )
+            )
 
         val result =
             tool.searchSnapshot(
@@ -60,7 +87,8 @@ class CacheToolTest {
                 tool.indexed(CacheSearchType.Npc, 2048, "Black demon", "combat=172", "data"),
             )
 
-        val result = tool.searchSnapshot(snapshot, CacheKind.LIVE, CacheSearchType.Npc, null, 2048, 25)
+        val result =
+            tool.searchSnapshot(snapshot, CacheKind.LIVE, CacheSearchType.Npc, null, 2048, 25)
 
         assertEquals(1, result.totalMatches)
         assertEquals(2048, result.matches.first().id)
@@ -73,10 +101,12 @@ class CacheToolTest {
         val snapshot =
             CacheTool.Snapshot(
                 revision = 1,
-                byType = mapOf(CacheSearchType.Npc to listOf(npc), CacheSearchType.Item to listOf(item)),
+                byType =
+                    mapOf(CacheSearchType.Npc to listOf(npc), CacheSearchType.Item to listOf(item)),
             )
 
-        val npcOnly = tool.searchSnapshot(snapshot, CacheKind.LIVE, CacheSearchType.Npc, null, null, 25)
+        val npcOnly =
+            tool.searchSnapshot(snapshot, CacheKind.LIVE, CacheSearchType.Npc, null, null, 25)
         val all = tool.searchSnapshot(snapshot, CacheKind.LIVE, CacheSearchType.All, null, null, 25)
 
         assertEquals(1, npcOnly.totalMatches)
@@ -92,7 +122,8 @@ class CacheToolTest {
                 tool.indexed(CacheSearchType.Npc, 2, "n2", "s", "d"),
             )
 
-        val result = tool.searchSnapshot(snapshot, CacheKind.LIVE, CacheSearchType.Npc, null, null, 1)
+        val result =
+            tool.searchSnapshot(snapshot, CacheKind.LIVE, CacheSearchType.Npc, null, null, 1)
 
         assertEquals(3, result.totalMatches)
         assertEquals(1, result.matches.size)
@@ -104,7 +135,8 @@ class CacheToolTest {
     fun `search snapshot not truncated when limit exceeds matches`() {
         val snapshot = snapshotOf(tool.indexed(CacheSearchType.Npc, 10, "n", "s", "d"))
 
-        val result = tool.searchSnapshot(snapshot, CacheKind.LIVE, CacheSearchType.Npc, null, null, 1000)
+        val result =
+            tool.searchSnapshot(snapshot, CacheKind.LIVE, CacheSearchType.Npc, null, null, 1000)
 
         assertEquals(1, result.totalMatches)
         assertEquals(1, result.matches.size)

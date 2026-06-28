@@ -1,0 +1,145 @@
+
+{{ToC}}
+==Items==
+===New Items===
+{| class="wikitable sortable"
+!colspan='11'|New Items
+|-
+! style=width:15em | Name !! ID !! Members !! Tradeable in GE !! Equipable !! Stackable !! Noteable !! Options !! Placeholder !! Cost !! Weight
+|-
+| [[Scarred extract]] || [https://chisel.weirdgloop.org/moid/item_id.html#28599 28599] || Yes || No || No || Yes || No || Drop || Yes || 800
+|| 0
+|-
+| [[Warped extract]] || [https://chisel.weirdgloop.org/moid/item_id.html#28593 28593] || Yes || No || No || Yes || No || Drop || Yes || 100
+|| 0
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#28600 28600] || No || No || No || No || No || Drop || Yes || 1
+|| 0
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#28596 28596] || No || No || No || No || No || Drop || Yes || 1
+|| 0
+|-
+| [[Twisted extract]] || [https://chisel.weirdgloop.org/moid/item_id.html#28595 28595] || Yes || No || No || Yes || No || Drop || Yes || 200
+|| 0
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#28594 28594] || No || No || No || No || No || Drop || Yes || 1
+|| 0
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#28592 28592] || No || No || No || No || No || Drop || Yes || 1
+|| 0
+|-
+| [[Tainted essence chunk]] || [https://chisel.weirdgloop.org/moid/item_id.html#28591 28591] || Yes || No || No || No || No || Drop || Yes || 5
+|| 40
+|-
+| [[Mangled extract]] || [https://chisel.weirdgloop.org/moid/item_id.html#28597 28597] || Yes || No || No || Yes || No || Drop || Yes || 400
+|| 0
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#28598 28598] || No || No || No || No || No || Drop || Yes || 1
+|| 0
+|-
+|-
+|}
+===Removed Items===
+{| class="wikitable sortable"
+!colspan='2'|Removed Items
+|-
+! style=width:15em | Name !! ID
+|-
+|-
+|}
+===Diff Items===
+{| class="wikitable sortable"
+!colspan='5'|Diff Items
+|-
+! style=width:15em | Name !! ID !! Key !! Previous Value !! New Value
+|-
+|}
+
+==Non-Player Characters==
+===New NPCs===
+{| class="wikitable sortable"
+!colspan='4'|New NPCs
+|-
+! style=width:15em | Name !! ID !! Combat Level !! Options
+|-
+| [[Hagus]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12512 12512] || No Combat Level || Talk-to
+|-
+|-
+|}
+===Removed NPCs===
+{| class="wikitable sortable"
+!colspan='2'|Removed NPCs
+|-
+! style=width:15em | Name !! ID
+|-
+|-
+|}
+===Diff NPCs===
+{| class="wikitable sortable"
+!colspan='5'|Diff NPCs
+|-
+! style=width:15em | Name !! ID !! Key !! Previous Value !! New Value
+|-
+|}
+
+==Objects==
+===New Objects=== 
+{| class="wikitable sortable"
+!colspan='3'|New Objects
+|-
+! style=width:15em | Name !! ID !! Options
+|-
+| [[Extract orifice]] || [https://chisel.weirdgloop.org/moid/object_id.html#49919 49919] || Withdraw, Inspect
+|-
+| [[Stepping Stone]] || [https://chisel.weirdgloop.org/moid/object_id.html#49924 49924] || Jump
+|-
+| [[Amalgamation]] || [https://chisel.weirdgloop.org/moid/object_id.html#49913 49913] || Mine
+|-
+| [[Passage]] || [https://chisel.weirdgloop.org/moid/object_id.html#49922 49922] || Exit
+|-
+| [[Amalgamation]] || [https://chisel.weirdgloop.org/moid/object_id.html#49916 49916] || 
+|-
+| [[Amalgamation]] || [https://chisel.weirdgloop.org/moid/object_id.html#49912 49912] || Mine
+|-
+| [[Amalgamation]] || [https://chisel.weirdgloop.org/moid/object_id.html#49914 49914] || Mine
+|-
+| [[Amalgamation]] || [https://chisel.weirdgloop.org/moid/object_id.html#49915 49915] || 
+|-
+| [[Essence orifice]] || [https://chisel.weirdgloop.org/moid/object_id.html#49920 49920] || Withdraw
+|-
+| [[Ventriculus opening]] || [https://chisel.weirdgloop.org/moid/object_id.html#49918 49918] || Deposit, Inspect
+|-
+| [[Passage]] || [https://chisel.weirdgloop.org/moid/object_id.html#49925 49925] || Enter
+|-
+| [[Amalgamation]] || [https://chisel.weirdgloop.org/moid/object_id.html#49917 49917] || 
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#49923 49923] || 
+|-
+| [[Coffer]] || [https://chisel.weirdgloop.org/moid/object_id.html#49921 49921] || Use
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#49926 49926] || 
+|-
+|-
+|}
+===Removed Objects===
+{| class="wikitable sortable"
+!colspan='2'|Removed Objects
+|-
+! style=width:15em | Name !! ID
+|-
+|-
+|}
+===Diff Objects===
+{| class="wikitable sortable"
+!colspan='5'|Diff Objects
+|-
+! style=width:15em | Name !! ID !! Key !! Previous Value !! New Value
+|-
+|rowspan="3"|[[Tree stump]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#9661 9661]
+|-
+|interactType || 2 || 1
+|-
+| blocksProjectile || True || False
+|-
+|}

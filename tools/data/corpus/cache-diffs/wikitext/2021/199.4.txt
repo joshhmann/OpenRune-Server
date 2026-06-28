@@ -1,0 +1,37 @@
+{{ToC}}
+==Items==
+{| class="wikitable sortable"
+!colspan='5'|Items
+|-
+! Name !! ID !! Key !! Previous Value !! Changed into
+|-
+|}
+
+==Non-Player Characters==
+{| class="wikitable sortable"
+!colspan='5'|Non-Player Characters
+|-
+! Name !! ID !! Key !! Previous Value !! Changed into
+|-
+|}
+
+==Objects==
+{| class="wikitable sortable"
+!colspan='5'|Objects
+|-
+! Name !! ID !! Key !! Previous Value !! Changed into
+|-
+| [[Light]] || 42818 || colspan = "4" | New ID
+|-
+|rowspan="5"|[[Cavern]]
+|rowspan="5"|40386
+|-
+|contrast || 0 || 1000
+|-
+| actions || ['Enter', None, None, None, None] || ['Jump Down', None, None, None, None]
+|-
+| blockingMask || 11 || 0
+|-
+| objectModels || [731] || [42929]
+|-
+|}

@@ -1,0 +1,106 @@
+{{ToC}}
+==Items==
+===New Items===
+{| class="wikitable sortable"
+!colspan='11'|New Items
+|-
+! style=width:15em | Name !! ID !! Members !! Tradeable in GE !! Equipable !! Stackable !! Noteable !! Options !! Placeholder !! Cost !! Weight
+|-
+|-
+|}
+===Removed Items===
+{| class="wikitable sortable"
+!colspan='2'|Removed Items
+|-
+! style=width:15em | Name !! ID
+|-
+|-
+|}
+===Diff Items===
+{| class="wikitable sortable"
+!colspan='5'|Diff Items
+|-
+! style=width:15em | Name !! ID !! Key !! Previous Value !! New Value
+|-
+|}
+
+==Non-Player Characters==
+===New NPCs===
+{| class="wikitable sortable"
+!colspan='4'|New NPCs
+|-
+! style=width:15em | Name !! ID !! Combat Level !! Options
+|-
+| [[Lava dragon]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12607 12607] || 252 || Attack
+|-
+| [[Lava dragon]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12608 12608] || 252 || Attack
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12609 12609] || No Combat Level || 
+|-
+|-
+|}
+===Removed NPCs===
+{| class="wikitable sortable"
+!colspan='2'|Removed NPCs
+|-
+! style=width:15em | Name !! ID
+|-
+|-
+|}
+===Diff NPCs===
+{| class="wikitable sortable"
+!colspan='5'|Diff NPCs
+|-
+! style=width:15em | Name !! ID !! Key !! Previous Value !! New Value
+|-
+|rowspan="2"|[[Lava dragon]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#6593 6593]
+|-
+|models || [28300, 28301, 28302, 17423] || [50164, 50163]
+|-
+|}
+
+==Objects==
+===New Objects=== 
+{| class="wikitable sortable"
+!colspan='3'|New Objects
+|-
+! style=width:15em | Name !! ID !! Options
+|-
+| [[Big egg]] || [https://chisel.weirdgloop.org/moid/object_id.html#50019 50019] || 
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#50020 50020] || 
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#50021 50021] || 
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#50022 50022] || 
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#50023 50023] || 
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#50024 50024] || 
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#50025 50025] || 
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#50026 50026] || 
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#50027 50027] || 
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#50028 50028] || 
+|-
+|-
+|}
+===Removed Objects===
+{| class="wikitable sortable"
+!colspan='2'|Removed Objects
+|-
+! style=width:15em | Name !! ID
+|-
+|-
+|}
+===Diff Objects===
+{| class="wikitable sortable"
+!colspan='5'|Diff Objects
+|-
+! style=width:15em | Name !! ID !! Key !! Previous Value !! New Value
+|-
+|}

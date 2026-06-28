@@ -1,13 +1,12 @@
 package org.rsmod.content.skills.prayer.items.ashsanctifier
 
+import kotlin.math.min
 import org.rsmod.api.invtx.invAdd
 import org.rsmod.api.invtx.invDel
 import org.rsmod.api.player.vars.intVarBit
 import org.rsmod.game.entity.Player
 import org.rsmod.game.inv.Inventory
 import org.rsmod.game.inv.isType
-import kotlin.math.min
-
 
 internal sealed class AshSanctifierUnchargeResult {
     data object WrongItem : AshSanctifierUnchargeResult()
@@ -18,11 +17,8 @@ internal sealed class AshSanctifierUnchargeResult {
 
     data object NoInvSpace : AshSanctifierUnchargeResult()
 
-    data class Success(
-        val deathRunes: Int,
-        val chargesRemoved: Int,
-        val remainingCharges: Int,
-    ) : AshSanctifierUnchargeResult()
+    data class Success(val deathRunes: Int, val chargesRemoved: Int, val remainingCharges: Int) :
+        AshSanctifierUnchargeResult()
 }
 
 internal fun Player.chargeAshSanctifierWithDeathRunes(
@@ -66,7 +62,9 @@ internal fun Player.tryUnchargeAshSanctifier(
     inv: Inventory,
     slot: Int,
 ): AshSanctifierUnchargeResult {
-    val sanctifier = inv[slot]?.takeIf { it.isType("obj.ash_sanctifier") } ?: return AshSanctifierUnchargeResult.WrongItem
+    val sanctifier =
+        inv[slot]?.takeIf { it.isType("obj.ash_sanctifier") }
+            ?: return AshSanctifierUnchargeResult.WrongItem
 
     val storedCharges = ashSanctifierCharges
     if (storedCharges == 0) {

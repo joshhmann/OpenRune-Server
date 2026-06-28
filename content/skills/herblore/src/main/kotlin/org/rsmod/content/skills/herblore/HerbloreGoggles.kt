@@ -6,7 +6,6 @@ import org.rsmod.api.table.herblore.HerbloreFinishedRow
 import org.rsmod.game.entity.Player
 import org.rsmod.game.inv.isType
 
-
 object HerbloreGoggles {
 
     val GOGGLE_TYPES = listOf("obj.mm_alchemist_hat", "obj.mm_alchemist_hat_alt")
@@ -42,9 +41,7 @@ object HerbloreGoggles {
             val fullAmount = potion.secondariesAmount ?: 1
             SavedSecondaries(single = secondary to fullAmount)
         } else {
-            SavedSecondaries(
-                perSecondary = potion.secondaries.associate { it.internalName to 1 },
-            )
+            SavedSecondaries(perSecondary = potion.secondaries.associate { it.internalName to 1 })
         }
     }
 
@@ -53,9 +50,7 @@ object HerbloreGoggles {
         val perSecondary: Map<String, Int> = emptyMap(),
     ) {
         fun savedAmount(secondaryName: String): Int =
-            single?.takeIf { it.first == secondaryName }?.second
-                ?: perSecondary[secondaryName]
-                ?: 0
+            single?.takeIf { it.first == secondaryName }?.second ?: perSecondary[secondaryName] ?: 0
 
         companion object {
             val NONE = SavedSecondaries()

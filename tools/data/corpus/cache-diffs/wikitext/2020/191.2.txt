@@ -1,0 +1,6086 @@
+{| class="wikitable sortable"
+!colspan="5"|Items
+|-
+! Name !! ID !! Key !! Previous Value !! Changed into
+|-
+|rowspan="2"|[[Mahogany pyre logs]]
+|rowspan="2"|6213
+|-
+|name || [[Mahogany pyre log]] || [[Mahogany pyre logs]]
+|-
+|rowspan="2"|[[Gilded smile flag]]
+|rowspan="2"|8967
+|-
+|name || [[Guilded smile flag]] || [[Gilded smile flag]]
+|-
+|rowspan="13"|[[Null]]
+|rowspan="13"|9815
+|-
+|name || [[Bobble hat]] || [[Null]]
+|-
+| xan2d || 99 || 572
+|-
+| yan2d || 270 || 0
+|-
+| inventoryModel || 10435 || 2521
+|-
+| zoom2d || 512 || 1940
+|-
+| xOffset2d || 1 || 0
+|-
+| yOffset2d || -1 || 1
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| maleModel0 || 10532 || -1
+|-
+| maleHeadModel || 10390 || -1
+|-
+| femaleModel0 || 10543 || -1
+|-
+| femaleHeadModel || 10402 || -1
+|-
+|rowspan="11"|[[Null]]
+|rowspan="11"|9816
+|-
+|name || [[Bobble scarf]] || [[Null]]
+|-
+| xan2d || 511 || 572
+|-
+| yan2d || 207 || 0
+|-
+| inventoryModel || 10436 || 2521
+|-
+| zoom2d || 659 || 1940
+|-
+| xOffset2d || 3 || 0
+|-
+| yOffset2d || -1 || 1
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| maleModel0 || 10537 || -1
+|-
+| femaleModel0 || 10547 || -1
+|-
+|rowspan="11"|[[Null]]
+|rowspan="11"|10165
+|-
+|name || [[More...]] || [[Null]]
+|-
+| xan2d || 0 || 572
+|-
+| yan2d || 2039 || 0
+|-
+| inventoryModel || 19042 || 2521
+|-
+| zoom2d || 3708 || 1940
+|-
+| xOffset2d || -1 || 0
+|-
+| yOffset2d || -15 || 1
+|-
+| ambient || 15 || 0
+|-
+| contrast || 15 || 0
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+|rowspan="11"|[[Null]]
+|rowspan="11"|10166
+|-
+|name || [[Back...]] || [[Null]]
+|-
+| xan2d || 0 || 572
+|-
+| yan2d || 2039 || 0
+|-
+| inventoryModel || 19042 || 2521
+|-
+| zoom2d || 3708 || 1940
+|-
+| xOffset2d || -1 || 0
+|-
+| yOffset2d || -15 || 1
+|-
+| ambient || 15 || 0
+|-
+| contrast || 15 || 0
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+|rowspan="14"|[[Null]]
+|rowspan="14"|10601
+|-
+|name || [[Mystic hat]] || [[Null]]
+|-
+| xan2d || 208 || 572
+|-
+| yan2d || 220 || 0
+|-
+| cost || 15000 || 1
+|-
+| inventoryModel || 5040 || 2521
+|-
+| members || True || False
+|-
+| zoom2d || 980 || 1940
+|-
+| yOffset2d || -18 || 1
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| maleModel0 || 5027 || -1
+|-
+| maleHeadModel || 4950 || -1
+|-
+| femaleModel0 || 5033 || -1
+|-
+| femaleHeadModel || 4951 || -1
+|-
+|rowspan="14"|[[Null]]
+|rowspan="14"|10602
+|-
+|name || [[Mystic hat (dark)]] || [[Null]]
+|-
+| xan2d || 208 || 572
+|-
+| yan2d || 220 || 0
+|-
+| cost || 15000 || 1
+|-
+| inventoryModel || 5040 || 2521
+|-
+| members || True || False
+|-
+| zoom2d || 980 || 1940
+|-
+| yOffset2d || -18 || 1
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| maleModel0 || 5027 || -1
+|-
+| maleHeadModel || 4950 || -1
+|-
+| femaleModel0 || 5033 || -1
+|-
+| femaleHeadModel || 4951 || -1
+|-
+|rowspan="14"|[[Null]]
+|rowspan="14"|10603
+|-
+|name || [[Mystic hat (light)]] || [[Null]]
+|-
+| xan2d || 208 || 572
+|-
+| yan2d || 220 || 0
+|-
+| cost || 15000 || 1
+|-
+| inventoryModel || 5040 || 2521
+|-
+| members || True || False
+|-
+| zoom2d || 980 || 1940
+|-
+| yOffset2d || -18 || 1
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| maleModel0 || 5027 || -1
+|-
+| maleHeadModel || 4950 || -1
+|-
+| femaleModel0 || 5033 || -1
+|-
+| femaleHeadModel || 4951 || -1
+|-
+|rowspan="18"|[[Null]]
+|rowspan="18"|10604
+|-
+|name || [[Skeletal helm]] || [[Null]]
+|-
+| xan2d || 228 || 572
+|-
+| yan2d || 1004 || 0
+|-
+| cost || 10000 || 1
+|-
+| inventoryModel || 8737 || 2521
+|-
+| members || True || False
+|-
+| zoom2d || 800 || 1940
+|-
+| yOffset2d || -46 || 1
+|-
+| ambient || 30 || 0
+|-
+| contrast || 30 || 0
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| maleModel0 || 215 || -1
+|-
+| maleModel1 || 8729 || -1
+|-
+| maleHeadModel || 8722 || -1
+|-
+| femaleModel0 || 391 || -1
+|-
+| femaleModel1 || 8734 || -1
+|-
+| femaleHeadModel || 8724 || -1
+|-
+|rowspan="15"|[[Null]]
+|rowspan="15"|10605
+|-
+|name || [[Infinity top]] || [[Null]]
+|-
+| xan2d || 468 || 572
+|-
+| yan2d || 2044 || 0
+|-
+| cost || 140000 || 1
+|-
+| inventoryModel || 10586 || 2521
+|-
+| members || True || False
+|-
+| zoom2d || 1380 || 1940
+|-
+| xOffset2d || -1 || 0
+|-
+| yOffset2d || 0 || 1
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| maleModel0 || 10687 || -1
+|-
+| maleModel1 || 10681 || -1
+|-
+| femaleModel0 || 10694 || -1
+|-
+| femaleModel1 || 10688 || -1
+|-
+|rowspan="15"|[[Null]]
+|rowspan="15"|10606
+|-
+|name || [[Splitbark helm]] || [[Null]]
+|-
+| xan2d || 272 || 572
+|-
+| yan2d || 200 || 0
+|-
+| cost || 10000 || 1
+|-
+| inventoryModel || 4129 || 2521
+|-
+| members || True || False
+|-
+| zoom2d || 1040 || 1940
+|-
+| xOffset2d || -2 || 0
+|-
+| yOffset2d || -59 || 1
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| maleModel0 || 4115 || -1
+|-
+| maleHeadModel || 4110 || -1
+|-
+| femaleModel0 || 4121 || -1
+|-
+| femaleHeadModel || 4111 || -1
+|-
+|rowspan="13"|[[Null]]
+|rowspan="13"|10607
+|-
+|name || [[Ghostly boots]] || [[Null]]
+|-
+| xan2d || 96 || 572
+|-
+| yan2d || 120 || 0
+|-
+| cost || 300 || 1
+|-
+| inventoryModel || 8366 || 2521
+|-
+| members || True || False
+|-
+| zoom2d || 880 || 1940
+|-
+| xOffset2d || 3 || 0
+|-
+| yOffset2d || 0 || 1
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| maleModel0 || 8380 || -1
+|-
+| femaleModel0 || 8386 || -1
+|-
+|rowspan="14"|[[Null]]
+|rowspan="14"|10608
+|-
+|name || [[Moonclan hat]] || [[Null]]
+|-
+| xan2d || 101 || 572
+|-
+| yan2d || 126 || 0
+|-
+| cost || 1000 || 1
+|-
+| inventoryModel || 16723 || 2521
+|-
+| members || True || False
+|-
+| zoom2d || 854 || 1940
+|-
+| yOffset2d || -5 || 1
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| maleModel0 || 16478 || -1
+|-
+| maleHeadModel || 16466 || -1
+|-
+| femaleModel0 || 12140 || -1
+|-
+| femaleHeadModel || 16466 || -1
+|-
+|rowspan="14"|[[Null]]
+|rowspan="14"|10609
+|-
+|name || [[Lunar helm]] || [[Null]]
+|-
+| xan2d || 101 || 572
+|-
+| yan2d || 126 || 0
+|-
+| cost || 100 || 1
+|-
+| inventoryModel || 16717 || 2521
+|-
+| members || True || False
+|-
+| zoom2d || 854 || 1940
+|-
+| yOffset2d || -5 || 1
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| maleModel0 || 16480 || -1
+|-
+| maleHeadModel || 16468 || -1
+|-
+| femaleModel0 || 16455 || -1
+|-
+| femaleHeadModel || 16468 || -1
+|-
+|rowspan="14"|[[Null]]
+|rowspan="14"|10610
+|-
+|name || [[Decorative armour]] || [[Null]]
+|-
+| xan2d || 488 || 572
+|-
+| cost || 2000 || 1
+|-
+| inventoryModel || 2605 || 2521
+|-
+| members || True || False
+|-
+| zoom2d || 1250 || 1940
+|-
+| xOffset2d || -1 || 0
+|-
+| yOffset2d || 0 || 1
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| maleModel0 || 306 || -1
+|-
+| maleModel1 || 164 || -1
+|-
+| femaleModel0 || 468 || -1
+|-
+| femaleModel1 || 344 || -1
+|-
+|rowspan="13"|[[Null]]
+|rowspan="13"|10611
+|-
+|name || [[Void knight top]] || [[Null]]
+|-
+| xan2d || 459 || 572
+|-
+| cost || 48000 || 1
+|-
+| inventoryModel || 15282 || 2521
+|-
+| members || True || False
+|-
+| zoom2d || 919 || 1940
+|-
+| yOffset2d || 3 || 1
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| maleModel0 || 14567 || -1
+|-
+| maleModel1 || 173 || -1
+|-
+| femaleModel0 || 15290 || -1
+|-
+| femaleModel1 || 14570 || -1
+|-
+|rowspan="14"|[[Null]]
+|rowspan="14"|10612
+|-
+|name || [[Rogue mask]] || [[Null]]
+|-
+| xan2d || 348 || 572
+|-
+| yan2d || 232 || 0
+|-
+| cost || 375 || 1
+|-
+| inventoryModel || 7550 || 2521
+|-
+| members || True || False
+|-
+| zoom2d || 730 || 1940
+|-
+| yOffset2d || 0 || 1
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| maleModel0 || 7608 || -1
+|-
+| maleHeadModel || 7600 || -1
+|-
+| femaleModel0 || 7615 || -1
+|-
+| femaleHeadModel || 7602 || -1
+|-
+|rowspan="15"|[[Null]]
+|rowspan="15"|10613
+|-
+|name || [[Rock-shell helm]] || [[Null]]
+|-
+| xan2d || 60 || 572
+|-
+| cost || 35200 || 1
+|-
+| inventoryModel || 8758 || 2521
+|-
+| members || True || False
+|-
+| zoom2d || 620 || 1940
+|-
+| yOffset2d || 0 || 1
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| maleModel0 || 230 || -1
+|-
+| maleModel1 || 8747 || -1
+|-
+| maleHeadModel || 8745 || -1
+|-
+| femaleModel0 || 403 || -1
+|-
+| femaleModel1 || 8753 || -1
+|-
+| femaleHeadModel || 8746 || -1
+|-
+|rowspan="17"|[[Null]]
+|rowspan="17"|10614
+|-
+|name || [[Spined helm]] || [[Null]]
+|-
+| xan2d || 44 || 572
+|-
+| yan2d || 156 || 0
+|-
+| cost || 60000 || 1
+|-
+| inventoryModel || 8701 || 2521
+|-
+| members || True || False
+|-
+| zoom2d || 810 || 1940
+|-
+| xOffset2d || 3 || 0
+|-
+| yOffset2d || -4 || 1
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| maleModel0 || 215 || -1
+|-
+| maleModel1 || 8728 || -1
+|-
+| maleHeadModel || 8721 || -1
+|-
+| femaleModel0 || 391 || -1
+|-
+| femaleModel1 || 8752 || -1
+|-
+| femaleHeadModel || 8723 || -1
+|-
+|rowspan="15"|[[Null]]
+|rowspan="15"|10615
+|-
+|name || [[Tribal mask]] || [[Null]]
+|-
+| xan2d || 364 || 572
+|-
+| yan2d || 264 || 0
+|-
+| cost || 500 || 1
+|-
+| inventoryModel || 8880 || 2521
+|-
+| members || True || False
+|-
+| zoom2d || 1370 || 1940
+|-
+| xOffset2d || -2 || 0
+|-
+| yOffset2d || 0 || 1
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| maleModel0 || 8923 || -1
+|-
+| maleHeadModel || 8911 || -1
+|-
+| femaleModel0 || 8938 || -1
+|-
+| femaleHeadModel || 8914 || -1
+|-
+|rowspan="15"|[[Null]]
+|rowspan="15"|10616
+|-
+|name || [[Tribal mask]] || [[Null]]
+|-
+| xan2d || 364 || 572
+|-
+| yan2d || 264 || 0
+|-
+| cost || 500 || 1
+|-
+| inventoryModel || 8880 || 2521
+|-
+| members || True || False
+|-
+| zoom2d || 1370 || 1940
+|-
+| xOffset2d || -2 || 0
+|-
+| yOffset2d || 0 || 1
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| maleModel0 || 8923 || -1
+|-
+| maleHeadModel || 8911 || -1
+|-
+| femaleModel0 || 8938 || -1
+|-
+| femaleHeadModel || 8914 || -1
+|-
+|rowspan="15"|[[Null]]
+|rowspan="15"|10617
+|-
+|name || [[Tribal mask]] || [[Null]]
+|-
+| xan2d || 364 || 572
+|-
+| yan2d || 264 || 0
+|-
+| cost || 500 || 1
+|-
+| inventoryModel || 8880 || 2521
+|-
+| members || True || False
+|-
+| zoom2d || 1370 || 1940
+|-
+| xOffset2d || -2 || 0
+|-
+| yOffset2d || 0 || 1
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| maleModel0 || 8923 || -1
+|-
+| maleHeadModel || 8911 || -1
+|-
+| femaleModel0 || 8938 || -1
+|-
+| femaleHeadModel || 8914 || -1
+|-
+|rowspan="14"|[[Null]]
+|rowspan="14"|10618
+|-
+|name || [[White platebody]] || [[Null]]
+|-
+| xan2d || 488 || 572
+|-
+| cost || 3840 || 1
+|-
+| inventoryModel || 2605 || 2521
+|-
+| members || True || False
+|-
+| zoom2d || 1250 || 1940
+|-
+| xOffset2d || -1 || 0
+|-
+| yOffset2d || 0 || 1
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| maleModel0 || 306 || -1
+|-
+| maleModel1 || 164 || -1
+|-
+| femaleModel0 || 468 || -1
+|-
+| femaleModel1 || 344 || -1
+|-
+|rowspan="14"|[[Null]]
+|rowspan="14"|10619
+|-
+|name || [[Initiate hauberk]] || [[Null]]
+|-
+| xan2d || 488 || 572
+|-
+| cost || 10000 || 1
+|-
+| inventoryModel || 2378 || 2521
+|-
+| members || True || False
+|-
+| zoom2d || 1250 || 1940
+|-
+| xOffset2d || -1 || 0
+|-
+| yOffset2d || 0 || 1
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| maleModel0 || 3379 || -1
+|-
+| maleModel1 || 164 || -1
+|-
+| femaleModel0 || 3383 || -1
+|-
+| femaleModel1 || 344 || -1
+|-
+|rowspan="14"|[[Null]]
+|rowspan="14"|10620
+|-
+|name || [[Proselyte hauberk]] || [[Null]]
+|-
+| xan2d || 488 || 572
+|-
+| cost || 12000 || 1
+|-
+| inventoryModel || 2378 || 2521
+|-
+| members || True || False
+|-
+| zoom2d || 1250 || 1940
+|-
+| xOffset2d || -1 || 0
+|-
+| yOffset2d || 0 || 1
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| maleModel0 || 3379 || -1
+|-
+| maleModel1 || 164 || -1
+|-
+| femaleModel0 || 3383 || -1
+|-
+| femaleModel1 || 344 || -1
+|-
+|rowspan="15"|[[Null]]
+|rowspan="15"|10621
+|-
+|name || [[Mourner top]] || [[Null]]
+|-
+| xan2d || 416 || 572
+|-
+| yan2d || 92 || 0
+|-
+| zan2d || 1932 || 0
+|-
+| cost || 150 || 1
+|-
+| inventoryModel || 8361 || 2521
+|-
+| members || True || False
+|-
+| zoom2d || 1360 || 1940
+|-
+| yOffset2d || 3 || 1
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| maleModel0 || 295 || -1
+|-
+| maleModel1 || 6847 || -1
+|-
+| femaleModel0 || 459 || -1
+|-
+| femaleModel1 || 6851 || -1
+|-
+|rowspan="14"|[[Null]]
+|rowspan="14"|10622
+|-
+|name || [[Kyatt top]] || [[Null]]
+|-
+| xan2d || 639 || 572
+|-
+| yan2d || 2039 || 0
+|-
+| cost || 200 || 1
+|-
+| inventoryModel || 19454 || 2521
+|-
+| members || True || False
+|-
+| zoom2d || 1232 || 1940
+|-
+| yOffset2d || 0 || 1
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| maleModel0 || 19830 || -1
+|-
+| maleModel1 || 19809 || -1
+|-
+| femaleModel0 || 19870 || -1
+|-
+| femaleModel1 || 19855 || -1
+|-
+|rowspan="14"|[[Null]]
+|rowspan="14"|10623
+|-
+|name || [[Larupia top]] || [[Null]]
+|-
+| xan2d || 609 || 572
+|-
+| yan2d || 3 || 0
+|-
+| cost || 100 || 1
+|-
+| inventoryModel || 19457 || 2521
+|-
+| members || True || False
+|-
+| zoom2d || 1308 || 1940
+|-
+| yOffset2d || 5 || 1
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| maleModel0 || 19831 || -1
+|-
+| maleModel1 || 19810 || -1
+|-
+| femaleModel0 || 19871 || -1
+|-
+| femaleModel1 || 19856 || -1
+|-
+|rowspan="15"|[[Null]]
+|rowspan="15"|10624
+|-
+|name || [[Graahk top]] || [[Null]]
+|-
+| xan2d || 471 || 572
+|-
+| yan2d || 2039 || 0
+|-
+| cost || 150 || 1
+|-
+| inventoryModel || 19451 || 2521
+|-
+| members || True || False
+|-
+| zoom2d || 1360 || 1940
+|-
+| xOffset2d || -1 || 0
+|-
+| yOffset2d || 8 || 1
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| maleModel0 || 19829 || -1
+|-
+| maleModel1 || 19808 || -1
+|-
+| femaleModel0 || 19869 || -1
+|-
+| femaleModel1 || 19854 || -1
+|-
+|rowspan="15"|[[Null]]
+|rowspan="15"|10625
+|-
+|name || [[Wood camo top]] || [[Null]]
+|-
+| xan2d || 536 || 572
+|-
+| cost || 20 || 1
+|-
+| inventoryModel || 19408 || 2521
+|-
+| members || True || False
+|-
+| zoom2d || 1370 || 1940
+|-
+| yOffset2d || 7 || 1
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| maleModel0 || 170 || -1
+|-
+| maleModel1 || 292 || -1
+|-
+| maleModel2 || 19984 || -1
+|-
+| femaleModel0 || 348 || -1
+|-
+| femaleModel1 || 471 || -1
+|-
+| femaleModel2 || 19985 || -1
+|-
+|rowspan="15"|[[Null]]
+|rowspan="15"|10626
+|-
+|name || [[Jungle camo top]] || [[Null]]
+|-
+| xan2d || 536 || 572
+|-
+| cost || 20 || 1
+|-
+| inventoryModel || 19408 || 2521
+|-
+| members || True || False
+|-
+| zoom2d || 1370 || 1940
+|-
+| yOffset2d || 7 || 1
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| maleModel0 || 170 || -1
+|-
+| maleModel1 || 292 || -1
+|-
+| maleModel2 || 19984 || -1
+|-
+| femaleModel0 || 348 || -1
+|-
+| femaleModel1 || 471 || -1
+|-
+| femaleModel2 || 19985 || -1
+|-
+|rowspan="15"|[[Null]]
+|rowspan="15"|10627
+|-
+|name || [[Desert camo top]] || [[Null]]
+|-
+| xan2d || 536 || 572
+|-
+| cost || 20 || 1
+|-
+| inventoryModel || 19408 || 2521
+|-
+| members || True || False
+|-
+| zoom2d || 1370 || 1940
+|-
+| yOffset2d || 7 || 1
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| maleModel0 || 170 || -1
+|-
+| maleModel1 || 292 || -1
+|-
+| maleModel2 || 19984 || -1
+|-
+| femaleModel0 || 348 || -1
+|-
+| femaleModel1 || 471 || -1
+|-
+| femaleModel2 || 19985 || -1
+|-
+|rowspan="15"|[[Null]]
+|rowspan="15"|10628
+|-
+|name || [[Polar camo top]] || [[Null]]
+|-
+| xan2d || 536 || 572
+|-
+| cost || 20 || 1
+|-
+| inventoryModel || 19408 || 2521
+|-
+| members || True || False
+|-
+| zoom2d || 1370 || 1940
+|-
+| yOffset2d || 7 || 1
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| maleModel0 || 170 || -1
+|-
+| maleModel1 || 292 || -1
+|-
+| maleModel2 || 19984 || -1
+|-
+| femaleModel0 || 348 || -1
+|-
+| femaleModel1 || 471 || -1
+|-
+| femaleModel2 || 19985 || -1
+|-
+|rowspan="13"|[[Null]]
+|rowspan="13"|10629
+|-
+|name || [[Mime mask]] || [[Null]]
+|-
+| xan2d || 436 || 572
+|-
+| zan2d || 2024 || 0
+|-
+| inventoryModel || 3681 || 2521
+|-
+| members || True || False
+|-
+| zoom2d || 480 || 1940
+|-
+| yOffset2d || -2 || 1
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| maleModel0 || 3598 || -1
+|-
+| maleHeadModel || 3548 || -1
+|-
+| femaleModel0 || 3674 || -1
+|-
+| femaleHeadModel || 3548 || -1
+|-
+|rowspan="13"|[[Null]]
+|rowspan="13"|10630
+|-
+|name || [[Princess blouse]] || [[Null]]
+|-
+| xan2d || 400 || 572
+|-
+| cost || 0 || 1
+|-
+| inventoryModel || 8812 || 2521
+|-
+| members || True || False
+|-
+| zoom2d || 1140 || 1940
+|-
+| yOffset2d || 9 || 1
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| maleModel0 || 7611 || -1
+|-
+| maleModel1 || 162 || -1
+|-
+| femaleModel0 || 8786 || -1
+|-
+| femaleModel1 || 8846 || -1
+|-
+|rowspan="11"|[[Null]]
+|rowspan="11"|10631
+|-
+|name || [[Zombie shirt]] || [[Null]]
+|-
+| xan2d || 498 || 572
+|-
+| yan2d || 93 || 0
+|-
+| inventoryModel || 13934 || 2521
+|-
+| members || True || False
+|-
+| zoom2d || 1360 || 1940
+|-
+| yOffset2d || 0 || 1
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| maleModel0 || 13926 || -1
+|-
+| femaleModel0 || 13348 || -1
+|-
+|rowspan="14"|[[Null]]
+|rowspan="14"|10632
+|-
+|name || [[Camo top]] || [[Null]]
+|-
+| xan2d || 416 || 572
+|-
+| yan2d || 92 || 0
+|-
+| zan2d || 1932 || 0
+|-
+| inventoryModel || 9768 || 2521
+|-
+| members || True || False
+|-
+| zoom2d || 1360 || 1940
+|-
+| yOffset2d || 3 || 1
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| maleModel0 || 9762 || -1
+|-
+| maleModel1 || 151 || -1
+|-
+| femaleModel0 || 9765 || -1
+|-
+| femaleModel1 || 332 || -1
+|-
+|rowspan="14"|[[Null]]
+|rowspan="14"|10633
+|-
+|name || [[Lederhosen top]] || [[Null]]
+|-
+| xan2d || 348 || 572
+|-
+| yan2d || 132 || 0
+|-
+| inventoryModel || 8810 || 2521
+|-
+| members || True || False
+|-
+| zoom2d || 1420 || 1940
+|-
+| xOffset2d || 7 || 0
+|-
+| yOffset2d || 21 || 1
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| maleModel0 || 8780 || -1
+|-
+| maleModel1 || 170 || -1
+|-
+| femaleModel0 || 8848 || -1
+|-
+| femaleModel1 || 348 || -1
+|-
+|rowspan="13"|[[Null]]
+|rowspan="13"|10634
+|-
+|name || [[Shade robe]] || [[Null]]
+|-
+| xan2d || 536 || 572
+|-
+| cost || 40 || 1
+|-
+| inventoryModel || 2786 || 2521
+|-
+| members || True || False
+|-
+| zoom2d || 1370 || 1940
+|-
+| yOffset2d || 7 || 1
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| maleModel0 || 170 || -1
+|-
+| maleModel1 || 292 || -1
+|-
+| femaleModel0 || 348 || -1
+|-
+| femaleModel1 || 456 || -1
+|-
+|rowspan="12"|[[Null]]
+|rowspan="12"|10635
+|-
+|name || [[Cape of legends]] || [[Null]]
+|-
+| xan2d || 204 || 572
+|-
+| yan2d || 804 || 0
+|-
+| cost || 450 || 1
+|-
+| inventoryModel || 3196 || 2521
+|-
+| members || True || False
+|-
+| zoom2d || 1370 || 1940
+|-
+| yOffset2d || 0 || 1
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| maleModel0 || 3189 || -1
+|-
+| femaleModel0 || 3194 || -1
+|-
+|rowspan="13"|[[Null]]
+|rowspan="13"|10636
+|-
+|name || [[Obsidian cape]] || [[Null]]
+|-
+| xan2d || 400 || 572
+|-
+| yan2d || 948 || 0
+|-
+| cost || 60000 || 1
+|-
+| inventoryModel || 9632 || 2521
+|-
+| members || True || False
+|-
+| zoom2d || 2140 || 1940
+|-
+| xOffset2d || 3 || 0
+|-
+| yOffset2d || 6 || 1
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| maleModel0 || 9639 || -1
+|-
+| femaleModel0 || 9641 || -1
+|-
+|rowspan="13"|[[Null]]
+|rowspan="13"|10637
+|-
+|name || [[Fire cape]] || [[Null]]
+|-
+| xan2d || 567 || 572
+|-
+| yan2d || 2031 || 0
+|-
+| cost || 60000 || 1
+|-
+| inventoryModel || 9631 || 2521
+|-
+| members || True || False
+|-
+| zoom2d || 2086 || 1940
+|-
+| xOffset2d || -4 || 0
+|-
+| yOffset2d || 0 || 1
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| maleModel0 || 9638 || -1
+|-
+| femaleModel0 || 9640 || -1
+|-
+|rowspan="14"|[[Null]]
+|rowspan="14"|10638
+|-
+|name || [[Team-1 cape]] || [[Null]]
+|-
+| xan2d || 364 || 572
+|-
+| yan2d || 992 || 0
+|-
+| cost || 50 || 1
+|-
+| inventoryModel || 5604 || 2521
+|-
+| members || True || False
+|-
+| zoom2d || 2130 || 1940
+|-
+| xOffset2d || 3 || 0
+|-
+| yOffset2d || 12 || 1
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| maleModel0 || 5584 || -1
+|-
+| femaleModel0 || 5594 || -1
+|-
+| team || 1 || 0
+|-
+|rowspan="10"|[[Null]]
+|rowspan="10"|10639
+|-
+|name || [[Attack cape]] || [[Null]]
+|-
+| xan2d || 504 || 572
+|-
+| cost || 99000 || 1
+|-
+| inventoryModel || 19047 || 2521
+|-
+| members || True || False
+|-
+| zoom2d || 2128 || 1940
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| maleModel0 || 18920 || -1
+|-
+| femaleModel0 || 18969 || -1
+|-
+|rowspan="10"|[[Null]]
+|rowspan="10"|10640
+|-
+|name || [[Strength cape]] || [[Null]]
+|-
+| xan2d || 504 || 572
+|-
+| cost || 99000 || 1
+|-
+| inventoryModel || 19067 || 2521
+|-
+| members || True || False
+|-
+| zoom2d || 2128 || 1940
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| maleModel0 || 18954 || -1
+|-
+| femaleModel0 || 18989 || -1
+|-
+|rowspan="10"|[[Null]]
+|rowspan="10"|10641
+|-
+|name || [[Defence cape]] || [[Null]]
+|-
+| xan2d || 504 || 572
+|-
+| cost || 99000 || 1
+|-
+| inventoryModel || 19051 || 2521
+|-
+| members || True || False
+|-
+| zoom2d || 2128 || 1940
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| maleModel0 || 18928 || -1
+|-
+| femaleModel0 || 18973 || -1
+|-
+|rowspan="10"|[[Null]]
+|rowspan="10"|10642
+|-
+|name || [[Ranging cape]] || [[Null]]
+|-
+| xan2d || 504 || 572
+|-
+| cost || 99000 || 1
+|-
+| inventoryModel || 19063 || 2521
+|-
+| members || True || False
+|-
+| zoom2d || 2128 || 1940
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| maleModel0 || 18948 || -1
+|-
+| femaleModel0 || 18985 || -1
+|-
+|rowspan="10"|[[Null]]
+|rowspan="10"|10643
+|-
+|name || [[Prayer cape]] || [[Null]]
+|-
+| xan2d || 504 || 572
+|-
+| cost || 99000 || 1
+|-
+| inventoryModel || 19061 || 2521
+|-
+| members || True || False
+|-
+| zoom2d || 2128 || 1940
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| maleModel0 || 18945 || -1
+|-
+| femaleModel0 || 18983 || -1
+|-
+|rowspan="10"|[[Null]]
+|rowspan="10"|10644
+|-
+|name || [[Magic cape]] || [[Null]]
+|-
+| xan2d || 504 || 572
+|-
+| cost || 99000 || 1
+|-
+| inventoryModel || 19059 || 2521
+|-
+| members || True || False
+|-
+| zoom2d || 2128 || 1940
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| maleModel0 || 18915 || -1
+|-
+| femaleModel0 || 18981 || -1
+|-
+|rowspan="10"|[[Null]]
+|rowspan="10"|10645
+|-
+|name || [[Runecraft cape]] || [[Null]]
+|-
+| xan2d || 504 || 572
+|-
+| cost || 99000 || 1
+|-
+| inventoryModel || 19053 || 2521
+|-
+| members || True || False
+|-
+| zoom2d || 2128 || 1940
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| maleModel0 || 18950 || -1
+|-
+| femaleModel0 || 18986 || -1
+|-
+|rowspan="10"|[[Null]]
+|rowspan="10"|10646
+|-
+|name || [[Hunter cape]] || [[Null]]
+|-
+| xan2d || 504 || 572
+|-
+| cost || 99000 || 1
+|-
+| inventoryModel || 19977 || 2521
+|-
+| members || True || False
+|-
+| zoom2d || 2128 || 1940
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| maleModel0 || 19834 || -1
+|-
+| femaleModel0 || 19874 || -1
+|-
+|rowspan="10"|[[Null]]
+|rowspan="10"|10647
+|-
+|name || [[Hitpoints cape]] || [[Null]]
+|-
+| xan2d || 504 || 572
+|-
+| cost || 99000 || 1
+|-
+| inventoryModel || 19057 || 2521
+|-
+| members || True || False
+|-
+| zoom2d || 2128 || 1940
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| maleModel0 || 18939 || -1
+|-
+| femaleModel0 || 18980 || -1
+|-
+|rowspan="10"|[[Null]]
+|rowspan="10"|10648
+|-
+|name || [[Agility cape]] || [[Null]]
+|-
+| xan2d || 504 || 572
+|-
+| cost || 99000 || 1
+|-
+| inventoryModel || 19046 || 2521
+|-
+| members || True || False
+|-
+| zoom2d || 2128 || 1940
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| maleModel0 || 18918 || -1
+|-
+| femaleModel0 || 18968 || -1
+|-
+|rowspan="10"|[[Null]]
+|rowspan="10"|10649
+|-
+|name || [[Herblore cape]] || [[Null]]
+|-
+| xan2d || 504 || 572
+|-
+| cost || 99000 || 1
+|-
+| inventoryModel || 19056 || 2521
+|-
+| members || True || False
+|-
+| zoom2d || 2128 || 1940
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| maleModel0 || 18938 || -1
+|-
+| femaleModel0 || 18978 || -1
+|-
+|rowspan="10"|[[Null]]
+|rowspan="10"|10650
+|-
+|name || [[Thieving cape]] || [[Null]]
+|-
+| xan2d || 504 || 572
+|-
+| cost || 99000 || 1
+|-
+| inventoryModel || 19068 || 2521
+|-
+| members || True || False
+|-
+| zoom2d || 2128 || 1940
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| maleModel0 || 18956 || -1
+|-
+| femaleModel0 || 18990 || -1
+|-
+|rowspan="10"|[[Null]]
+|rowspan="10"|10651
+|-
+|name || [[Crafting cape]] || [[Null]]
+|-
+| xan2d || 504 || 572
+|-
+| cost || 99000 || 1
+|-
+| inventoryModel || 19050 || 2521
+|-
+| members || True || False
+|-
+| zoom2d || 2128 || 1940
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| maleModel0 || 18925 || -1
+|-
+| femaleModel0 || 18972 || -1
+|-
+|rowspan="10"|[[Null]]
+|rowspan="10"|10652
+|-
+|name || [[Fletching cape]] || [[Null]]
+|-
+| xan2d || 504 || 572
+|-
+| cost || 99000 || 1
+|-
+| inventoryModel || 19055 || 2521
+|-
+| members || True || False
+|-
+| zoom2d || 2128 || 1940
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| maleModel0 || 18935 || -1
+|-
+| femaleModel0 || 18977 || -1
+|-
+|rowspan="10"|[[Null]]
+|rowspan="10"|10653
+|-
+|name || [[Slayer cape]] || [[Null]]
+|-
+| xan2d || 504 || 572
+|-
+| cost || 99000 || 1
+|-
+| inventoryModel || 19065 || 2521
+|-
+| members || True || False
+|-
+| zoom2d || 2128 || 1940
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| maleModel0 || 18951 || -1
+|-
+| femaleModel0 || 18987 || -1
+|-
+|rowspan="10"|[[Null]]
+|rowspan="10"|10654
+|-
+|name || [[Construct. cape]] || [[Null]]
+|-
+| xan2d || 504 || 572
+|-
+| cost || 99000 || 1
+|-
+| inventoryModel || 19045 || 2521
+|-
+| members || True || False
+|-
+| zoom2d || 2128 || 1940
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| maleModel0 || 18916 || -1
+|-
+| femaleModel0 || 18970 || -1
+|-
+|rowspan="10"|[[Null]]
+|rowspan="10"|10655
+|-
+|name || [[Mining cape]] || [[Null]]
+|-
+| xan2d || 504 || 572
+|-
+| cost || 99000 || 1
+|-
+| inventoryModel || 19060 || 2521
+|-
+| members || True || False
+|-
+| zoom2d || 2128 || 1940
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| maleModel0 || 18942 || -1
+|-
+| femaleModel0 || 18982 || -1
+|-
+|rowspan="10"|[[Null]]
+|rowspan="10"|10656
+|-
+|name || [[Smithing cape]] || [[Null]]
+|-
+| xan2d || 504 || 572
+|-
+| cost || 99000 || 1
+|-
+| inventoryModel || 19066 || 2521
+|-
+| members || True || False
+|-
+| zoom2d || 2128 || 1940
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| maleModel0 || 18953 || -1
+|-
+| femaleModel0 || 18988 || -1
+|-
+|rowspan="10"|[[Null]]
+|rowspan="10"|10657
+|-
+|name || [[Fishing cape]] || [[Null]]
+|-
+| xan2d || 504 || 572
+|-
+| cost || 99000 || 1
+|-
+| inventoryModel || 19054 || 2521
+|-
+| members || True || False
+|-
+| zoom2d || 2128 || 1940
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| maleModel0 || 18934 || -1
+|-
+| femaleModel0 || 18976 || -1
+|-
+|rowspan="10"|[[Null]]
+|rowspan="10"|10658
+|-
+|name || [[Cooking cape]] || [[Null]]
+|-
+| xan2d || 504 || 572
+|-
+| cost || 99000 || 1
+|-
+| inventoryModel || 19049 || 2521
+|-
+| members || True || False
+|-
+| zoom2d || 2128 || 1940
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| maleModel0 || 18924 || -1
+|-
+| femaleModel0 || 18971 || -1
+|-
+|rowspan="10"|[[Null]]
+|rowspan="10"|10659
+|-
+|name || [[Firemaking cape]] || [[Null]]
+|-
+| xan2d || 504 || 572
+|-
+| cost || 99000 || 1
+|-
+| inventoryModel || 19048 || 2521
+|-
+| members || True || False
+|-
+| zoom2d || 2128 || 1940
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| maleModel0 || 18932 || -1
+|-
+| femaleModel0 || 18975 || -1
+|-
+|rowspan="10"|[[Null]]
+|rowspan="10"|10660
+|-
+|name || [[Woodcutting cape]] || [[Null]]
+|-
+| xan2d || 504 || 572
+|-
+| cost || 99000 || 1
+|-
+| inventoryModel || 19064 || 2521
+|-
+| members || True || False
+|-
+| zoom2d || 2128 || 1940
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| maleModel0 || 18955 || -1
+|-
+| femaleModel0 || 18991 || -1
+|-
+|rowspan="10"|[[Null]]
+|rowspan="10"|10661
+|-
+|name || [[Farming cape]] || [[Null]]
+|-
+| xan2d || 504 || 572
+|-
+| cost || 99000 || 1
+|-
+| inventoryModel || 19052 || 2521
+|-
+| members || True || False
+|-
+| zoom2d || 2128 || 1940
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| maleModel0 || 18929 || -1
+|-
+| femaleModel0 || 18974 || -1
+|-
+|rowspan="10"|[[Null]]
+|rowspan="10"|10662
+|-
+|name || [[Quest point cape]] || [[Null]]
+|-
+| xan2d || 504 || 572
+|-
+| cost || 99000 || 1
+|-
+| inventoryModel || 19062 || 2521
+|-
+| members || True || False
+|-
+| zoom2d || 2128 || 1940
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| maleModel0 || 18946 || -1
+|-
+| femaleModel0 || 18984 || -1
+|-
+|rowspan="13"|[[Null]]
+|rowspan="13"|10663
+|-
+|name || [[Spotted cape]] || [[Null]]
+|-
+| xan2d || 400 || 572
+|-
+| yan2d || 948 || 0
+|-
+| cost || 400 || 1
+|-
+| inventoryModel || 11398 || 2521
+|-
+| members || True || False
+|-
+| zoom2d || 2140 || 1940
+|-
+| xOffset2d || 3 || 0
+|-
+| yOffset2d || 6 || 1
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| maleModel0 || 4606 || -1
+|-
+| femaleModel0 || 19986 || -1
+|-
+|rowspan="13"|[[Null]]
+|rowspan="13"|10664
+|-
+|name || [[Spottier cape]] || [[Null]]
+|-
+| xan2d || 400 || 572
+|-
+| yan2d || 948 || 0
+|-
+| cost || 800 || 1
+|-
+| inventoryModel || 11398 || 2521
+|-
+| members || True || False
+|-
+| zoom2d || 2140 || 1940
+|-
+| xOffset2d || 3 || 0
+|-
+| yOffset2d || 6 || 1
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| maleModel0 || 4606 || -1
+|-
+| femaleModel0 || 19986 || -1
+|-
+|rowspan="14"|[[Null]]
+|rowspan="14"|10665
+|-
+|name || [[Black shield (h1)]] || [[Null]]
+|-
+| xan2d || 344 || 572
+|-
+| yan2d || 1104 || 0
+|-
+| cost || 1632 || 1
+|-
+| inventoryModel || 11379 || 2521
+|-
+| members || True || False
+|-
+| zoom2d || 1560 || 1940
+|-
+| xOffset2d || -6 || 0
+|-
+| yOffset2d || -14 || 1
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| maleModel0 || 11419 || -1
+|-
+| femaleModel0 || 11419 || -1
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="14"|[[Null]]
+|rowspan="14"|10666
+|-
+|name || [[Adamant shield (h1)]] || [[Null]]
+|-
+| xan2d || 344 || 572
+|-
+| yan2d || 1104 || 0
+|-
+| cost || 5440 || 1
+|-
+| inventoryModel || 11379 || 2521
+|-
+| members || True || False
+|-
+| zoom2d || 1560 || 1940
+|-
+| xOffset2d || -6 || 0
+|-
+| yOffset2d || -14 || 1
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| maleModel0 || 11419 || -1
+|-
+| femaleModel0 || 11419 || -1
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="14"|[[Null]]
+|rowspan="14"|10667
+|-
+|name || [[Rune shield (h1)]] || [[Null]]
+|-
+| xan2d || 344 || 572
+|-
+| yan2d || 1104 || 0
+|-
+| cost || 54400 || 1
+|-
+| inventoryModel || 11379 || 2521
+|-
+| members || True || False
+|-
+| zoom2d || 1560 || 1940
+|-
+| xOffset2d || -6 || 0
+|-
+| yOffset2d || -14 || 1
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| maleModel0 || 11419 || -1
+|-
+| femaleModel0 || 11419 || -1
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="13"|[[null]]
+|rowspan="13"|10668
+|-
+|name || [[Black shield (h2)]] || [[null]]
+|-
+| xan2d || 344 || 360
+|-
+| yan2d || 1104 || 672
+|-
+| cost || 16325 || 1
+|-
+| inventoryModel || 11380 || 3374
+|-
+| members || True || False
+|-
+| zoom2d || 1560 || 1350
+|-
+| xOffset2d || -6 || 8
+|-
+| yOffset2d || -14 || -2
+|-
+| maleModel0 || 11420 || -1
+|-
+| femaleModel0 || 11420 || -1
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="14"|[[Null]]
+|rowspan="14"|10669
+|-
+|name || [[Adamant shield (h2)]] || [[Null]]
+|-
+| xan2d || 344 || 572
+|-
+| yan2d || 1104 || 0
+|-
+| cost || 5440 || 1
+|-
+| inventoryModel || 11380 || 2521
+|-
+| members || True || False
+|-
+| zoom2d || 1560 || 1940
+|-
+| xOffset2d || -6 || 0
+|-
+| yOffset2d || -14 || 1
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| maleModel0 || 11420 || -1
+|-
+| femaleModel0 || 11420 || -1
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="14"|[[Null]]
+|rowspan="14"|10670
+|-
+|name || [[Rune shield (h2)]] || [[Null]]
+|-
+| xan2d || 344 || 572
+|-
+| yan2d || 1104 || 0
+|-
+| cost || 54400 || 1
+|-
+| inventoryModel || 11380 || 2521
+|-
+| members || True || False
+|-
+| zoom2d || 1560 || 1940
+|-
+| xOffset2d || -6 || 0
+|-
+| yOffset2d || -14 || 1
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| maleModel0 || 11420 || -1
+|-
+| femaleModel0 || 11420 || -1
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="14"|[[Null]]
+|rowspan="14"|10671
+|-
+|name || [[Black shield (h3)]] || [[Null]]
+|-
+| xan2d || 344 || 572
+|-
+| yan2d || 1104 || 0
+|-
+| cost || 1632 || 1
+|-
+| inventoryModel || 11381 || 2521
+|-
+| members || True || False
+|-
+| zoom2d || 1560 || 1940
+|-
+| xOffset2d || -6 || 0
+|-
+| yOffset2d || -14 || 1
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| maleModel0 || 11421 || -1
+|-
+| femaleModel0 || 11421 || -1
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="14"|[[Null]]
+|rowspan="14"|10672
+|-
+|name || [[Adamant shield (h3)]] || [[Null]]
+|-
+| xan2d || 344 || 572
+|-
+| yan2d || 1104 || 0
+|-
+| cost || 5440 || 1
+|-
+| inventoryModel || 11381 || 2521
+|-
+| members || True || False
+|-
+| zoom2d || 1560 || 1940
+|-
+| xOffset2d || -6 || 0
+|-
+| yOffset2d || -14 || 1
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| maleModel0 || 11421 || -1
+|-
+| femaleModel0 || 11421 || -1
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="14"|[[Null]]
+|rowspan="14"|10673
+|-
+|name || [[Rune shield (h3)]] || [[Null]]
+|-
+| xan2d || 344 || 572
+|-
+| yan2d || 1104 || 0
+|-
+| cost || 54400 || 1
+|-
+| inventoryModel || 11381 || 2521
+|-
+| members || True || False
+|-
+| zoom2d || 1560 || 1940
+|-
+| xOffset2d || -6 || 0
+|-
+| yOffset2d || -14 || 1
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| maleModel0 || 11421 || -1
+|-
+| femaleModel0 || 11421 || -1
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="14"|[[Null]]
+|rowspan="14"|10674
+|-
+|name || [[Black shield (h4)]] || [[Null]]
+|-
+| xan2d || 344 || 572
+|-
+| yan2d || 1104 || 0
+|-
+| cost || 1632 || 1
+|-
+| inventoryModel || 11382 || 2521
+|-
+| members || True || False
+|-
+| zoom2d || 1560 || 1940
+|-
+| xOffset2d || -6 || 0
+|-
+| yOffset2d || -14 || 1
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| maleModel0 || 11422 || -1
+|-
+| femaleModel0 || 11422 || -1
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="14"|[[Null]]
+|rowspan="14"|10675
+|-
+|name || [[Adamant shield (h4)]] || [[Null]]
+|-
+| xan2d || 344 || 572
+|-
+| yan2d || 1104 || 0
+|-
+| cost || 5440 || 1
+|-
+| inventoryModel || 11382 || 2521
+|-
+| members || True || False
+|-
+| zoom2d || 1560 || 1940
+|-
+| xOffset2d || -6 || 0
+|-
+| yOffset2d || -14 || 1
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| maleModel0 || 11422 || -1
+|-
+| femaleModel0 || 11422 || -1
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="14"|[[Null]]
+|rowspan="14"|10676
+|-
+|name || [[Rune shield (h4)]] || [[Null]]
+|-
+| xan2d || 344 || 572
+|-
+| yan2d || 1104 || 0
+|-
+| cost || 54400 || 1
+|-
+| inventoryModel || 11382 || 2521
+|-
+| members || True || False
+|-
+| zoom2d || 1560 || 1940
+|-
+| xOffset2d || -6 || 0
+|-
+| yOffset2d || -14 || 1
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| maleModel0 || 11422 || -1
+|-
+| femaleModel0 || 11422 || -1
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="14"|[[Null]]
+|rowspan="14"|10677
+|-
+|name || [[Black shield (h5)]] || [[Null]]
+|-
+| xan2d || 344 || 572
+|-
+| yan2d || 1104 || 0
+|-
+| cost || 1632 || 1
+|-
+| inventoryModel || 11383 || 2521
+|-
+| members || True || False
+|-
+| zoom2d || 1560 || 1940
+|-
+| xOffset2d || -6 || 0
+|-
+| yOffset2d || -14 || 1
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| maleModel0 || 11423 || -1
+|-
+| femaleModel0 || 11423 || -1
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="14"|[[Null]]
+|rowspan="14"|10678
+|-
+|name || [[Adamant shield (h5)]] || [[Null]]
+|-
+| xan2d || 344 || 572
+|-
+| yan2d || 1104 || 0
+|-
+| cost || 5440 || 1
+|-
+| inventoryModel || 11383 || 2521
+|-
+| members || True || False
+|-
+| zoom2d || 1560 || 1940
+|-
+| xOffset2d || -6 || 0
+|-
+| yOffset2d || -14 || 1
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| maleModel0 || 11423 || -1
+|-
+| femaleModel0 || 11423 || -1
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="14"|[[Null]]
+|rowspan="14"|10679
+|-
+|name || [[Rune shield (h5)]] || [[Null]]
+|-
+| xan2d || 344 || 572
+|-
+| yan2d || 1104 || 0
+|-
+| cost || 54400 || 1
+|-
+| inventoryModel || 11383 || 2521
+|-
+| members || True || False
+|-
+| zoom2d || 1560 || 1940
+|-
+| xOffset2d || -6 || 0
+|-
+| yOffset2d || -14 || 1
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| maleModel0 || 11423 || -1
+|-
+| femaleModel0 || 11423 || -1
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="11"|[[Null]]
+|rowspan="11"|10680
+|-
+|name || [[Studded body (g)]] || [[Null]]
+|-
+| xan2d || 580 || 572
+|-
+| cost || 850 || 1
+|-
+| inventoryModel || 11391 || 2521
+|-
+| members || True || False
+|-
+| zoom2d || 910 || 1940
+|-
+| yOffset2d || 0 || 1
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| maleModel0 || 11346 || -1
+|-
+| femaleModel0 || 11362 || -1
+|-
+|rowspan="11"|[[Null]]
+|rowspan="11"|10681
+|-
+|name || [[Studded body (t)]] || [[Null]]
+|-
+| xan2d || 580 || 572
+|-
+| cost || 850 || 1
+|-
+| inventoryModel || 11391 || 2521
+|-
+| members || True || False
+|-
+| zoom2d || 910 || 1940
+|-
+| yOffset2d || 0 || 1
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| maleModel0 || 11346 || -1
+|-
+| femaleModel0 || 11362 || -1
+|-
+|rowspan="11"|[[Null]]
+|rowspan="11"|10682
+|-
+|name || [[D'hide body (g)]] || [[Null]]
+|-
+| xan2d || 548 || 572
+|-
+| cost || 7800 || 1
+|-
+| inventoryModel || 11390 || 2521
+|-
+| members || True || False
+|-
+| zoom2d || 1030 || 1940
+|-
+| yOffset2d || -4 || 1
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| maleModel0 || 11345 || -1
+|-
+| femaleModel0 || 11361 || -1
+|-
+|rowspan="11"|[[Null]]
+|rowspan="11"|10683
+|-
+|name || [[D'hide body (t)]] || [[Null]]
+|-
+| xan2d || 548 || 572
+|-
+| cost || 7800 || 1
+|-
+| inventoryModel || 11390 || 2521
+|-
+| members || True || False
+|-
+| zoom2d || 1030 || 1940
+|-
+| yOffset2d || -4 || 1
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| maleModel0 || 11345 || -1
+|-
+| femaleModel0 || 11361 || -1
+|-
+|rowspan="11"|[[Null]]
+|rowspan="11"|10684
+|-
+|name || [[D'hide body (g)]] || [[Null]]
+|-
+| xan2d || 548 || 572
+|-
+| cost || 9360 || 1
+|-
+| inventoryModel || 11390 || 2521
+|-
+| members || True || False
+|-
+| zoom2d || 1030 || 1940
+|-
+| yOffset2d || -4 || 1
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| maleModel0 || 11345 || -1
+|-
+| femaleModel0 || 11361 || -1
+|-
+|rowspan="11"|[[Null]]
+|rowspan="11"|10685
+|-
+|name || [[D'hide body (t)]] || [[Null]]
+|-
+| xan2d || 548 || 572
+|-
+| cost || 9360 || 1
+|-
+| inventoryModel || 11390 || 2521
+|-
+| members || True || False
+|-
+| zoom2d || 1030 || 1940
+|-
+| yOffset2d || -4 || 1
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| maleModel0 || 11345 || -1
+|-
+| femaleModel0 || 11361 || -1
+|-
+|rowspan="13"|[[Null]]
+|rowspan="13"|10686
+|-
+|name || [[Wizard robe (g)]] || [[Null]]
+|-
+| xan2d || 536 || 572
+|-
+| cost || 15 || 1
+|-
+| inventoryModel || 11396 || 2521
+|-
+| members || True || False
+|-
+| zoom2d || 1370 || 1940
+|-
+| yOffset2d || 7 || 1
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| maleModel0 || 10979 || -1
+|-
+| maleModel1 || 10984 || -1
+|-
+| femaleModel0 || 11348 || -1
+|-
+| femaleModel1 || 11359 || -1
+|-
+|rowspan="13"|[[Null]]
+|rowspan="13"|10687
+|-
+|name || [[Wizard robe (t)]] || [[Null]]
+|-
+| xan2d || 536 || 572
+|-
+| cost || 15 || 1
+|-
+| inventoryModel || 11396 || 2521
+|-
+| members || True || False
+|-
+| zoom2d || 1370 || 1940
+|-
+| yOffset2d || 7 || 1
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| maleModel0 || 10979 || -1
+|-
+| maleModel1 || 10984 || -1
+|-
+| femaleModel0 || 11348 || -1
+|-
+| femaleModel1 || 11359 || -1
+|-
+|rowspan="13"|[[Null]]
+|rowspan="13"|10688
+|-
+|name || [[Enchanted top]] || [[Null]]
+|-
+| xan2d || 536 || 572
+|-
+| cost || 120000 || 1
+|-
+| inventoryModel || 11426 || 2521
+|-
+| members || True || False
+|-
+| zoom2d || 1370 || 1940
+|-
+| yOffset2d || 7 || 1
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| maleModel0 || 11409 || -1
+|-
+| maleModel1 || 11414 || -1
+|-
+| femaleModel0 || 11415 || -1
+|-
+| femaleModel1 || 11418 || -1
+|-
+|rowspan="13"|[[Null]]
+|rowspan="13"|10689
+|-
+|name || [[Wizard boots]] || [[Null]]
+|-
+| xan2d || 152 || 572
+|-
+| yan2d || 160 || 0
+|-
+| cost || 200 || 1
+|-
+| inventoryModel || 2837 || 2521
+|-
+| members || True || False
+|-
+| zoom2d || 770 || 1940
+|-
+| xOffset2d || 1 || 0
+|-
+| yOffset2d || -6 || 1
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| maleModel0 || 185 || -1
+|-
+| femaleModel0 || 361 || -1
+|-
+|rowspan="14"|[[Null]]
+|rowspan="14"|10690
+|-
+|name || [[Black platebody (t)]] || [[Null]]
+|-
+| xan2d || 452 || 572
+|-
+| cost || 3840 || 1
+|-
+| inventoryModel || 2378 || 2521
+|-
+| members || True || False
+|-
+| zoom2d || 1180 || 1940
+|-
+| xOffset2d || -1 || 0
+|-
+| yOffset2d || -1 || 1
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| maleModel0 || 3379 || -1
+|-
+| maleModel1 || 164 || -1
+|-
+| femaleModel0 || 3383 || -1
+|-
+| femaleModel1 || 344 || -1
+|-
+|rowspan="14"|[[Null]]
+|rowspan="14"|10691
+|-
+|name || [[Black platebody (g)]] || [[Null]]
+|-
+| xan2d || 452 || 572
+|-
+| cost || 3840 || 1
+|-
+| inventoryModel || 2378 || 2521
+|-
+| members || True || False
+|-
+| zoom2d || 1180 || 1940
+|-
+| xOffset2d || -1 || 0
+|-
+| yOffset2d || -1 || 1
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| maleModel0 || 3379 || -1
+|-
+| maleModel1 || 164 || -1
+|-
+| femaleModel0 || 3383 || -1
+|-
+| femaleModel1 || 344 || -1
+|-
+|rowspan="15"|[[Null]]
+|rowspan="15"|10692
+|-
+|name || [[Highwayman mask]] || [[Null]]
+|-
+| xan2d || 488 || 572
+|-
+| yan2d || 224 || 0
+|-
+| cost || 40 || 1
+|-
+| inventoryModel || 2500 || 2521
+|-
+| members || True || False
+|-
+| zoom2d || 290 || 1940
+|-
+| xOffset2d || 3 || 0
+|-
+| yOffset2d || 0 || 1
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| maleModel0 || 243 || -1
+|-
+| maleHeadModel || 76 || -1
+|-
+| femaleModel0 || 416 || -1
+|-
+| femaleHeadModel || 134 || -1
+|-
+|rowspan="15"|[[Null]]
+|rowspan="15"|10693
+|-
+|name || [[Blue beret]] || [[Null]]
+|-
+| xan2d || 136 || 572
+|-
+| yan2d || 1936 || 0
+|-
+| cost || 80 || 1
+|-
+| inventoryModel || 3373 || 2521
+|-
+| members || True || False
+|-
+| zoom2d || 560 || 1940
+|-
+| xOffset2d || -1 || 0
+|-
+| yOffset2d || -4 || 1
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| maleModel0 || 198 || -1
+|-
+| maleHeadModel || 40 || -1
+|-
+| femaleModel0 || 373 || -1
+|-
+| femaleHeadModel || 98 || -1
+|-
+|rowspan="15"|[[Null]]
+|rowspan="15"|10694
+|-
+|name || [[Black beret]] || [[Null]]
+|-
+| xan2d || 136 || 572
+|-
+| yan2d || 1936 || 0
+|-
+| cost || 80 || 1
+|-
+| inventoryModel || 3373 || 2521
+|-
+| members || True || False
+|-
+| zoom2d || 560 || 1940
+|-
+| xOffset2d || -1 || 0
+|-
+| yOffset2d || -4 || 1
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| maleModel0 || 198 || -1
+|-
+| maleHeadModel || 40 || -1
+|-
+| femaleModel0 || 373 || -1
+|-
+| femaleHeadModel || 98 || -1
+|-
+|rowspan="15"|[[Null]]
+|rowspan="15"|10695
+|-
+|name || [[White beret]] || [[Null]]
+|-
+| xan2d || 136 || 572
+|-
+| yan2d || 1936 || 0
+|-
+| cost || 80 || 1
+|-
+| inventoryModel || 3373 || 2521
+|-
+| members || True || False
+|-
+| zoom2d || 560 || 1940
+|-
+| xOffset2d || -1 || 0
+|-
+| yOffset2d || -4 || 1
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| maleModel0 || 198 || -1
+|-
+| maleHeadModel || 40 || -1
+|-
+| femaleModel0 || 373 || -1
+|-
+| femaleHeadModel || 98 || -1
+|-
+|rowspan="13"|[[Null]]
+|rowspan="13"|10696
+|-
+|name || [[Ranger boots]] || [[Null]]
+|-
+| xan2d || 152 || 572
+|-
+| yan2d || 160 || 0
+|-
+| cost || 200 || 1
+|-
+| inventoryModel || 4931 || 2521
+|-
+| members || True || False
+|-
+| zoom2d || 770 || 1940
+|-
+| xOffset2d || 1 || 0
+|-
+| yOffset2d || -6 || 1
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| maleModel0 || 4929 || -1
+|-
+| femaleModel0 || 4930 || -1
+|-
+|rowspan="14"|[[Null]]
+|rowspan="14"|10697
+|-
+|name || [[Adamant platebody (t)]] || [[Null]]
+|-
+| xan2d || 452 || 572
+|-
+| cost || 12800 || 1
+|-
+| inventoryModel || 2378 || 2521
+|-
+| members || True || False
+|-
+| zoom2d || 1180 || 1940
+|-
+| xOffset2d || -1 || 0
+|-
+| yOffset2d || -1 || 1
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| maleModel0 || 3379 || -1
+|-
+| maleModel1 || 164 || -1
+|-
+| femaleModel0 || 3383 || -1
+|-
+| femaleModel1 || 344 || -1
+|-
+|rowspan="14"|[[Null]]
+|rowspan="14"|10698
+|-
+|name || [[Adamant platebody (g)]] || [[Null]]
+|-
+| xan2d || 452 || 572
+|-
+| cost || 12800 || 1
+|-
+| inventoryModel || 2378 || 2521
+|-
+| members || True || False
+|-
+| zoom2d || 1180 || 1940
+|-
+| xOffset2d || -1 || 0
+|-
+| yOffset2d || -1 || 1
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| maleModel0 || 3379 || -1
+|-
+| maleModel1 || 164 || -1
+|-
+| femaleModel0 || 3383 || -1
+|-
+| femaleModel1 || 344 || -1
+|-
+|rowspan="15"|[[Null]]
+|rowspan="15"|10699
+|-
+|name || [[Black helm (h1)]] || [[Null]]
+|-
+| xan2d || 75 || 572
+|-
+| yan2d || 1901 || 0
+|-
+| cost || 1056 || 1
+|-
+| inventoryModel || 11374 || 2521
+|-
+| members || True || False
+|-
+| zoom2d || 768 || 1940
+|-
+| xOffset2d || 1 || 0
+|-
+| yOffset2d || 0 || 1
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| maleModel0 || 11332 || -1
+|-
+| maleHeadModel || 20112 || -1
+|-
+| femaleModel0 || 20358 || -1
+|-
+| femaleHeadModel || 20353 || -1
+|-
+|rowspan="15"|[[Null]]
+|rowspan="15"|10700
+|-
+|name || [[Black helm (h2)]] || [[Null]]
+|-
+| xan2d || 75 || 572
+|-
+| yan2d || 1901 || 0
+|-
+| cost || 1056 || 1
+|-
+| inventoryModel || 11375 || 2521
+|-
+| members || True || False
+|-
+| zoom2d || 768 || 1940
+|-
+| xOffset2d || 1 || 0
+|-
+| yOffset2d || 0 || 1
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| maleModel0 || 11333 || -1
+|-
+| maleHeadModel || 20113 || -1
+|-
+| femaleModel0 || 20359 || -1
+|-
+| femaleHeadModel || 20354 || -1
+|-
+|rowspan="15"|[[Null]]
+|rowspan="15"|10701
+|-
+|name || [[Black helm (h3)]] || [[Null]]
+|-
+| xan2d || 75 || 572
+|-
+| yan2d || 1901 || 0
+|-
+| cost || 1056 || 1
+|-
+| inventoryModel || 11376 || 2521
+|-
+| members || True || False
+|-
+| zoom2d || 768 || 1940
+|-
+| xOffset2d || 1 || 0
+|-
+| yOffset2d || 0 || 1
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| maleModel0 || 11334 || -1
+|-
+| maleHeadModel || 20114 || -1
+|-
+| femaleModel0 || 20360 || -1
+|-
+| femaleHeadModel || 20355 || -1
+|-
+|rowspan="15"|[[Null]]
+|rowspan="15"|10702
+|-
+|name || [[Black helm (h4)]] || [[Null]]
+|-
+| xan2d || 75 || 572
+|-
+| yan2d || 1901 || 0
+|-
+| cost || 1056 || 1
+|-
+| inventoryModel || 11377 || 2521
+|-
+| members || True || False
+|-
+| zoom2d || 768 || 1940
+|-
+| xOffset2d || 1 || 0
+|-
+| yOffset2d || 0 || 1
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| maleModel0 || 11335 || -1
+|-
+| maleHeadModel || 20115 || -1
+|-
+| femaleModel0 || 20361 || -1
+|-
+| femaleHeadModel || 20356 || -1
+|-
+|rowspan="15"|[[Null]]
+|rowspan="15"|10703
+|-
+|name || [[Black helm (h5)]] || [[Null]]
+|-
+| xan2d || 75 || 572
+|-
+| yan2d || 1901 || 0
+|-
+| cost || 1056 || 1
+|-
+| inventoryModel || 11378 || 2521
+|-
+| members || True || False
+|-
+| zoom2d || 768 || 1940
+|-
+| xOffset2d || 1 || 0
+|-
+| yOffset2d || 0 || 1
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| maleModel0 || 11336 || -1
+|-
+| maleHeadModel || 20116 || -1
+|-
+| femaleModel0 || 20362 || -1
+|-
+| femaleHeadModel || 20357 || -1
+|-
+|rowspan="15"|[[Null]]
+|rowspan="15"|10704
+|-
+|name || [[Rune helm (h1)]] || [[Null]]
+|-
+| xan2d || 75 || 572
+|-
+| yan2d || 1901 || 0
+|-
+| cost || 35200 || 1
+|-
+| inventoryModel || 11374 || 2521
+|-
+| members || True || False
+|-
+| zoom2d || 768 || 1940
+|-
+| xOffset2d || 1 || 0
+|-
+| yOffset2d || 0 || 1
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| maleModel0 || 11332 || -1
+|-
+| maleHeadModel || 20112 || -1
+|-
+| femaleModel0 || 20358 || -1
+|-
+| femaleHeadModel || 20353 || -1
+|-
+|rowspan="15"|[[Null]]
+|rowspan="15"|10705
+|-
+|name || [[Rune helm (h2)]] || [[Null]]
+|-
+| xan2d || 75 || 572
+|-
+| yan2d || 1901 || 0
+|-
+| cost || 35200 || 1
+|-
+| inventoryModel || 11375 || 2521
+|-
+| members || True || False
+|-
+| zoom2d || 768 || 1940
+|-
+| xOffset2d || 1 || 0
+|-
+| yOffset2d || 0 || 1
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| maleModel0 || 11333 || -1
+|-
+| maleHeadModel || 20113 || -1
+|-
+| femaleModel0 || 20359 || -1
+|-
+| femaleHeadModel || 20354 || -1
+|-
+|rowspan="15"|[[Null]]
+|rowspan="15"|10706
+|-
+|name || [[Rune helm (h3)]] || [[Null]]
+|-
+| xan2d || 75 || 572
+|-
+| yan2d || 1901 || 0
+|-
+| cost || 35200 || 1
+|-
+| inventoryModel || 11376 || 2521
+|-
+| members || True || False
+|-
+| zoom2d || 768 || 1940
+|-
+| xOffset2d || 1 || 0
+|-
+| yOffset2d || 0 || 1
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| maleModel0 || 11334 || -1
+|-
+| maleHeadModel || 20114 || -1
+|-
+| femaleModel0 || 20360 || -1
+|-
+| femaleHeadModel || 20355 || -1
+|-
+|rowspan="15"|[[Null]]
+|rowspan="15"|10707
+|-
+|name || [[Rune helm (h4)]] || [[Null]]
+|-
+| xan2d || 75 || 572
+|-
+| yan2d || 1901 || 0
+|-
+| cost || 35200 || 1
+|-
+| inventoryModel || 11377 || 2521
+|-
+| members || True || False
+|-
+| zoom2d || 768 || 1940
+|-
+| xOffset2d || 1 || 0
+|-
+| yOffset2d || 0 || 1
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| maleModel0 || 11335 || -1
+|-
+| maleHeadModel || 20115 || -1
+|-
+| femaleModel0 || 20361 || -1
+|-
+| femaleHeadModel || 20356 || -1
+|-
+|rowspan="15"|[[Null]]
+|rowspan="15"|10708
+|-
+|name || [[Rune helm (h5)]] || [[Null]]
+|-
+| xan2d || 75 || 572
+|-
+| yan2d || 1901 || 0
+|-
+| cost || 35200 || 1
+|-
+| inventoryModel || 11378 || 2521
+|-
+| members || True || False
+|-
+| zoom2d || 768 || 1940
+|-
+| xOffset2d || 1 || 0
+|-
+| yOffset2d || 0 || 1
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| maleModel0 || 11336 || -1
+|-
+| maleHeadModel || 20116 || -1
+|-
+| femaleModel0 || 20362 || -1
+|-
+| femaleHeadModel || 20357 || -1
+|-
+|rowspan="15"|[[Null]]
+|rowspan="15"|10709
+|-
+|name || [[Adamant helm (h1)]] || [[Null]]
+|-
+| xan2d || 75 || 572
+|-
+| yan2d || 1901 || 0
+|-
+| cost || 3520 || 1
+|-
+| inventoryModel || 11374 || 2521
+|-
+| members || True || False
+|-
+| zoom2d || 768 || 1940
+|-
+| xOffset2d || 1 || 0
+|-
+| yOffset2d || 0 || 1
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| maleModel0 || 11332 || -1
+|-
+| maleHeadModel || 20112 || -1
+|-
+| femaleModel0 || 20358 || -1
+|-
+| femaleHeadModel || 20353 || -1
+|-
+|rowspan="15"|[[Null]]
+|rowspan="15"|10710
+|-
+|name || [[Adamant helm (h2)]] || [[Null]]
+|-
+| xan2d || 75 || 572
+|-
+| yan2d || 1901 || 0
+|-
+| cost || 3520 || 1
+|-
+| inventoryModel || 11375 || 2521
+|-
+| members || True || False
+|-
+| zoom2d || 768 || 1940
+|-
+| xOffset2d || 1 || 0
+|-
+| yOffset2d || 0 || 1
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| maleModel0 || 11333 || -1
+|-
+| maleHeadModel || 20113 || -1
+|-
+| femaleModel0 || 20359 || -1
+|-
+| femaleHeadModel || 20354 || -1
+|-
+|rowspan="15"|[[Null]]
+|rowspan="15"|10711
+|-
+|name || [[Adamant helm (h3)]] || [[Null]]
+|-
+| xan2d || 75 || 572
+|-
+| yan2d || 1901 || 0
+|-
+| cost || 3520 || 1
+|-
+| inventoryModel || 11376 || 2521
+|-
+| members || True || False
+|-
+| zoom2d || 768 || 1940
+|-
+| xOffset2d || 1 || 0
+|-
+| yOffset2d || 0 || 1
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| maleModel0 || 11334 || -1
+|-
+| maleHeadModel || 20114 || -1
+|-
+| femaleModel0 || 20360 || -1
+|-
+| femaleHeadModel || 20355 || -1
+|-
+|rowspan="15"|[[Null]]
+|rowspan="15"|10712
+|-
+|name || [[Adamant helm (h4)]] || [[Null]]
+|-
+| xan2d || 75 || 572
+|-
+| yan2d || 1901 || 0
+|-
+| cost || 3520 || 1
+|-
+| inventoryModel || 11377 || 2521
+|-
+| members || True || False
+|-
+| zoom2d || 768 || 1940
+|-
+| xOffset2d || 1 || 0
+|-
+| yOffset2d || 0 || 1
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| maleModel0 || 11335 || -1
+|-
+| maleHeadModel || 20115 || -1
+|-
+| femaleModel0 || 20361 || -1
+|-
+| femaleHeadModel || 20356 || -1
+|-
+|rowspan="15"|[[Null]]
+|rowspan="15"|10713
+|-
+|name || [[Adamant helm (h5)]] || [[Null]]
+|-
+| xan2d || 75 || 572
+|-
+| yan2d || 1901 || 0
+|-
+| cost || 3520 || 1
+|-
+| inventoryModel || 11378 || 2521
+|-
+| members || True || False
+|-
+| zoom2d || 768 || 1940
+|-
+| xOffset2d || 1 || 0
+|-
+| yOffset2d || 0 || 1
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| maleModel0 || 11336 || -1
+|-
+| maleHeadModel || 20116 || -1
+|-
+| femaleModel0 || 20362 || -1
+|-
+| femaleHeadModel || 20357 || -1
+|-
+|rowspan="13"|[[Null]]
+|rowspan="13"|10714
+|-
+|name || [[Bob's red shirt]] || [[Null]]
+|-
+| xan2d || 553 || 572
+|-
+| cost || 3 || 1
+|-
+| inventoryModel || 20228 || 2521
+|-
+| members || True || False
+|-
+| zoom2d || 1296 || 1940
+|-
+| yOffset2d || 7 || 1
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| maleModel0 || 20161 || -1
+|-
+| maleModel1 || 20125 || -1
+|-
+| femaleModel0 || 20210 || -1
+|-
+| femaleModel1 || 20176 || -1
+|-
+|rowspan="13"|[[Null]]
+|rowspan="13"|10715
+|-
+|name || [[Bob's blue shirt]] || [[Null]]
+|-
+| xan2d || 553 || 572
+|-
+| cost || 3 || 1
+|-
+| inventoryModel || 20228 || 2521
+|-
+| members || True || False
+|-
+| zoom2d || 1296 || 1940
+|-
+| yOffset2d || 7 || 1
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| maleModel0 || 20161 || -1
+|-
+| maleModel1 || 20125 || -1
+|-
+| femaleModel0 || 20210 || -1
+|-
+| femaleModel1 || 20176 || -1
+|-
+|rowspan="13"|[[Null]]
+|rowspan="13"|10716
+|-
+|name || [[Bob's green shirt]] || [[Null]]
+|-
+| xan2d || 553 || 572
+|-
+| cost || 3 || 1
+|-
+| inventoryModel || 20228 || 2521
+|-
+| members || True || False
+|-
+| zoom2d || 1296 || 1940
+|-
+| yOffset2d || 7 || 1
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| maleModel0 || 20161 || -1
+|-
+| maleModel1 || 20125 || -1
+|-
+| femaleModel0 || 20210 || -1
+|-
+| femaleModel1 || 20176 || -1
+|-
+|rowspan="13"|[[Null]]
+|rowspan="13"|10717
+|-
+|name || [[Bob's black shirt]] || [[Null]]
+|-
+| xan2d || 553 || 572
+|-
+| cost || 3 || 1
+|-
+| inventoryModel || 20228 || 2521
+|-
+| members || True || False
+|-
+| zoom2d || 1296 || 1940
+|-
+| yOffset2d || 7 || 1
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| maleModel0 || 20161 || -1
+|-
+| maleModel1 || 20125 || -1
+|-
+| femaleModel0 || 20210 || -1
+|-
+| femaleModel1 || 20176 || -1
+|-
+|rowspan="13"|[[Null]]
+|rowspan="13"|10718
+|-
+|name || [[Bob's purple shirt]] || [[Null]]
+|-
+| xan2d || 553 || 572
+|-
+| cost || 3 || 1
+|-
+| inventoryModel || 20228 || 2521
+|-
+| members || True || False
+|-
+| zoom2d || 1296 || 1940
+|-
+| yOffset2d || 7 || 1
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| maleModel0 || 20161 || -1
+|-
+| maleModel1 || 20125 || -1
+|-
+| femaleModel0 || 20210 || -1
+|-
+| femaleModel1 || 20176 || -1
+|-
+|rowspan="14"|[[Null]]
+|rowspan="14"|10719
+|-
+|name || [[Amulet of glory (t)]] || [[Null]]
+|-
+| xan2d || 282 || 572
+|-
+| yan2d || 73 || 0
+|-
+| zan2d || 69 || 0
+|-
+| cost || 17625 || 1
+|-
+| inventoryModel || 20219 || 2521
+|-
+| members || True || False
+|-
+| zoom2d || 415 || 1940
+|-
+| xOffset2d || 4 || 0
+|-
+| yOffset2d || 100 || 1
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| maleModel0 || 20147 || -1
+|-
+| femaleModel0 || 20203 || -1
+|-
+|rowspan="13"|[[Null]]
+|rowspan="13"|10720
+|-
+|name || [[Guthix cape]] || [[Null]]
+|-
+| xan2d || 400 || 572
+|-
+| yan2d || 948 || 0
+|-
+| cost || 100 || 1
+|-
+| inventoryModel || 2603 || 2521
+|-
+| members || True || False
+|-
+| zoom2d || 2140 || 1940
+|-
+| xOffset2d || 3 || 0
+|-
+| yOffset2d || 6 || 1
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| maleModel0 || 323 || -1
+|-
+| femaleModel0 || 481 || -1
+|-
+|rowspan="13"|[[Null]]
+|rowspan="13"|10721
+|-
+|name || [[Frog mask]] || [[Null]]
+|-
+| xan2d || 288 || 572
+|-
+| cost || 0 || 1
+|-
+| inventoryModel || 8806 || 2521
+|-
+| members || True || False
+|-
+| zoom2d || 900 || 1940
+|-
+| yOffset2d || 5 || 1
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| maleModel0 || 8776 || -1
+|-
+| maleHeadModel || 8770 || -1
+|-
+| femaleModel0 || 8782 || -1
+|-
+| femaleHeadModel || 8772 || -1
+|-
+|rowspan="14"|[[Null]]
+|rowspan="14"|10722
+|-
+|name || [[Reindeer hat]] || [[Null]]
+|-
+| xan2d || 96 || 572
+|-
+| yan2d || 210 || 0
+|-
+| inventoryModel || 20469 || 2521
+|-
+| members || True || False
+|-
+| zoom2d || 1488 || 1940
+|-
+| xOffset2d || -8 || 0
+|-
+| yOffset2d || 8 || 1
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| maleModel0 || 20503 || -1
+|-
+| maleHeadModel || 20465 || -1
+|-
+| femaleModel0 || 20505 || -1
+|-
+| femaleHeadModel || 20466 || -1
+|-
+|rowspan="14"|[[Null]]
+|rowspan="14"|10723
+|-
+|name || [[Jack lantern mask]] || [[Null]]
+|-
+| xan2d || 2047 || 572
+|-
+| yan2d || 1964 || 0
+|-
+| inventoryModel || 19201 || 2521
+|-
+| members || True || False
+|-
+| zoom2d || 595 || 1940
+|-
+| xOffset2d || -3 || 0
+|-
+| yOffset2d || -1 || 1
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| maleModel0 || 19177 || -1
+|-
+| maleHeadModel || 19168 || -1
+|-
+| femaleModel0 || 19193 || -1
+|-
+| femaleHeadModel || 19170 || -1
+|-
+|rowspan="12"|[[Null]]
+|rowspan="12"|10724
+|-
+|name || [[Skeleton boots]] || [[Null]]
+|-
+| xan2d || 138 || 572
+|-
+| yan2d || 138 || 0
+|-
+| inventoryModel || 19204 || 2521
+|-
+| members || True || False
+|-
+| zoom2d || 724 || 1940
+|-
+| xOffset2d || 3 || 0
+|-
+| yOffset2d || -4 || 1
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| maleModel0 || 19174 || -1
+|-
+| femaleModel0 || 19190 || -1
+|-
+|rowspan="13"|[[Null]]
+|rowspan="13"|10725
+|-
+|name || [[Skeleton gloves]] || [[Null]]
+|-
+| xan2d || 553 || 572
+|-
+| yan2d || 1978 || 0
+|-
+| zan2d || 2047 || 0
+|-
+| inventoryModel || 19205 || 2521
+|-
+| members || True || False
+|-
+| zoom2d || 595 || 1940
+|-
+| xOffset2d || -1 || 0
+|-
+| yOffset2d || 7 || 1
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| maleModel0 || 19176 || -1
+|-
+| femaleModel0 || 19192 || -1
+|-
+|rowspan="12"|[[Null]]
+|rowspan="12"|10726
+|-
+|name || [[Skeleton leggings]] || [[Null]]
+|-
+| xan2d || 567 || 572
+|-
+| zan2d || 152 || 0
+|-
+| inventoryModel || 19207 || 2521
+|-
+| members || True || False
+|-
+| zoom2d || 1632 || 1940
+|-
+| xOffset2d || 3 || 0
+|-
+| yOffset2d || 3 || 1
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| maleModel0 || 19180 || -1
+|-
+| femaleModel0 || 19196 || -1
+|-
+|rowspan="13"|[[Null]]
+|rowspan="13"|10727
+|-
+|name || [[Skeleton shirt]] || [[Null]]
+|-
+| xan2d || 526 || 572
+|-
+| inventoryModel || 19203 || 2521
+|-
+| members || True || False
+|-
+| zoom2d || 1178 || 1940
+|-
+| xOffset2d || -1 || 0
+|-
+| yOffset2d || 7 || 1
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| maleModel0 || 19183 || -1
+|-
+| maleModel1 || 19172 || -1
+|-
+| femaleModel0 || 19199 || -1
+|-
+| femaleModel1 || 19188 || -1
+|-
+|rowspan="15"|[[Null]]
+|rowspan="15"|10728
+|-
+|name || [[Skeleton mask]] || [[Null]]
+|-
+| xan2d || 0 || 572
+|-
+| yan2d || 111 || 0
+|-
+| zan2d || 2047 || 0
+|-
+| inventoryModel || 19206 || 2521
+|-
+| members || True || False
+|-
+| zoom2d || 465 || 1940
+|-
+| xOffset2d || 1 || 0
+|-
+| yOffset2d || -1 || 1
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| maleModel0 || 19178 || -1
+|-
+| maleHeadModel || 19169 || -1
+|-
+| femaleModel0 || 19194 || -1
+|-
+| femaleHeadModel || 19171 || -1
+|-
+|rowspan="10"|[[Null]]
+|rowspan="10"|10729
+|-
+|name || [[Easter ring]] || [[Null]]
+|-
+| xan2d || 581 || 572
+|-
+| yan2d || 194 || 0
+|-
+| inventoryModel || 14393 || 2521
+|-
+| members || True || False
+|-
+| zoom2d || 1049 || 1940
+|-
+| xOffset2d || -11 || 0
+|-
+| yOffset2d || -11 || 1
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+|rowspan="9"|[[Null]]
+|rowspan="9"|10730
+|-
+|name || [[Blue marionette]] || [[Null]]
+|-
+| xan2d || 512 || 572
+|-
+| inventoryModel || 10443 || 2521
+|-
+| members || True || False
+|-
+| zoom2d || 1368 || 1940
+|-
+| xOffset2d || 1 || 0
+|-
+| yOffset2d || 8 || 1
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+|rowspan="13"|[[Null]]
+|rowspan="13"|10731
+|-
+|name || [[Zombie head]] || [[Null]]
+|-
+| xan2d || 36 || 572
+|-
+| yan2d || 140 || 0
+|-
+| cost || 0 || 1
+|-
+| inventoryModel || 9912 || 2521
+|-
+| members || True || False
+|-
+| zoom2d || 750 || 1940
+|-
+| xOffset2d || 4 || 0
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| maleModel0 || 9923 || -1
+|-
+| femaleModel0 || 9923 || -1
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="14"|[[Null]]
+|rowspan="14"|10732
+|-
+|name || [[Rubber chicken]] || [[Null]]
+|-
+| xan2d || 332 || 572
+|-
+| yan2d || 92 || 0
+|-
+| cost || 0 || 1
+|-
+| inventoryModel || 5808 || 2521
+|-
+| members || True || False
+|-
+| zoom2d || 1510 || 1940
+|-
+| xOffset2d || -3 || 0
+|-
+| yOffset2d || 13 || 1
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| maleModel0 || 5812 || -1
+|-
+| femaleModel0 || 5812 || -1
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="11"|[[Null]]
+|rowspan="11"|10733
+|-
+|name || [[Yo-yo]] || [[Null]]
+|-
+| xan2d || 196 || 572
+|-
+| yan2d || 2036 || 0
+|-
+| cost || 10 || 1
+|-
+| inventoryModel || 4928 || 2521
+|-
+| members || True || False
+|-
+| zoom2d || 560 || 1940
+|-
+| xOffset2d || 7 || 0
+|-
+| yOffset2d || 5 || 1
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+|rowspan="13"|[[Null]]
+|rowspan="13"|10734
+|-
+|name || [[Bunny ears]] || [[Null]]
+|-
+| xan2d || 360 || 572
+|-
+| yan2d || 4 || 0
+|-
+| inventoryModel || 2553 || 2521
+|-
+| members || True || False
+|-
+| zoom2d || 550 || 1940
+|-
+| yOffset2d || 0 || 1
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| maleModel0 || 3352 || -1
+|-
+| maleHeadModel || 33 || -1
+|-
+| femaleModel0 || 3353 || -1
+|-
+| femaleHeadModel || 91 || -1
+|-
+|rowspan="12"|[[Null]]
+|rowspan="12"|10735
+|-
+|name || [[Scythe]] || [[Null]]
+|-
+| xan2d || 336 || 572
+|-
+| yan2d || 20 || 0
+|-
+| inventoryModel || 2511 || 2521
+|-
+| members || True || False
+|-
+| zoom2d || 1930 || 1940
+|-
+| xOffset2d || 1 || 0
+|-
+| yOffset2d || 17 || 1
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| maleModel0 || 507 || -1
+|-
+| femaleModel0 || 507 || -1
+|-
+|rowspan="14"|[[Null]]
+|rowspan="14"|10736
+|-
+|name || [[Strength amulet (t)]] || [[Null]]
+|-
+| xan2d || 292 || 572
+|-
+| yan2d || 74 || 0
+|-
+| cost || 2025 || 1
+|-
+| inventoryModel || 20226 || 2521
+|-
+| members || True || False
+|-
+| zoom2d || 465 || 1940
+|-
+| xOffset2d || 5 || 0
+|-
+| yOffset2d || 100 || 1
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| maleModel0 || 20149 || -1
+|-
+| femaleModel0 || 20205 || -1
+|-
+| notedID || 10737 || -1
+|-
+|rowspan="9"|[[Null]]
+|rowspan="9"|10737
+|-
+|name || [[null]] || [[Null]]
+|-
+| xan2d || 0 || 572
+|-
+| inventoryModel || 0 || 2521
+|-
+| zoom2d || 2000 || 1940
+|-
+| yOffset2d || 0 || 1
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| notedID || 10736 || -1
+|-
+| notedTemplate || 799 || -1
+|-
+|rowspan="15"|[[Null]]
+|rowspan="15"|10738
+|-
+|name || [[Amulet of magic (t)]] || [[Null]]
+|-
+| xan2d || 282 || 572
+|-
+| yan2d || 73 || 0
+|-
+| zan2d || 69 || 0
+|-
+| cost || 900 || 1
+|-
+| inventoryModel || 20225 || 2521
+|-
+| members || True || False
+|-
+| zoom2d || 400 || 1940
+|-
+| xOffset2d || 4 || 0
+|-
+| yOffset2d || 100 || 1
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| maleModel0 || 20148 || -1
+|-
+| femaleModel0 || 20204 || -1
+|-
+| notedID || 10739 || -1
+|-
+|rowspan="9"|[[Null]]
+|rowspan="9"|10739
+|-
+|name || [[null]] || [[Null]]
+|-
+| xan2d || 0 || 572
+|-
+| inventoryModel || 0 || 2521
+|-
+| zoom2d || 2000 || 1940
+|-
+| yOffset2d || 0 || 1
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| notedID || 10738 || -1
+|-
+| notedTemplate || 799 || -1
+|-
+|rowspan="16"|[[Null]]
+|rowspan="16"|10740
+|-
+|name || [[A powdered wig]] || [[Null]]
+|-
+| xan2d || 387 || 572
+|-
+| yan2d || 1189 || 0
+|-
+| cost || 2000 || 1
+|-
+| inventoryModel || 20267 || 2521
+|-
+| members || True || False
+|-
+| zoom2d || 848 || 1940
+|-
+| xOffset2d || -1 || 0
+|-
+| yOffset2d || 12 || 1
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| maleModel0 || 20137 || -1
+|-
+| maleHeadModel || 20110 || -1
+|-
+| femaleModel0 || 20186 || -1
+|-
+| femaleHeadModel || 20119 || -1
+|-
+| notedID || 10741 || -1
+|-
+|rowspan="9"|[[Null]]
+|rowspan="9"|10741
+|-
+|name || [[null]] || [[Null]]
+|-
+| xan2d || 0 || 572
+|-
+| inventoryModel || 0 || 2521
+|-
+| zoom2d || 2000 || 1940
+|-
+| yOffset2d || 0 || 1
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| notedID || 10740 || -1
+|-
+| notedTemplate || 799 || -1
+|-
+|rowspan="14"|[[Null]]
+|rowspan="14"|10742
+|-
+|name || [[Flared trousers]] || [[Null]]
+|-
+| xan2d || 429 || 572
+|-
+| zan2d || 2047 || 0
+|-
+| cost || 2000 || 1
+|-
+| inventoryModel || 20238 || 2521
+|-
+| members || True || False
+|-
+| zoom2d || 2151 || 1940
+|-
+| xOffset2d || 7 || 0
+|-
+| yOffset2d || 5 || 1
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| maleModel0 || 20142 || -1
+|-
+| femaleModel0 || 20197 || -1
+|-
+| notedID || 10743 || -1
+|-
+|rowspan="9"|[[Null]]
+|rowspan="9"|10743
+|-
+|name || [[null]] || [[Null]]
+|-
+| xan2d || 0 || 572
+|-
+| inventoryModel || 0 || 2521
+|-
+| zoom2d || 2000 || 1940
+|-
+| yOffset2d || 0 || 1
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| notedID || 10742 || -1
+|-
+| notedTemplate || 799 || -1
+|-
+|rowspan="13"|[[Null]]
+|rowspan="13"|10744
+|-
+|name || [[Pantaloons]] || [[Null]]
+|-
+| xan2d || 498 || 572
+|-
+| zan2d || 2047 || 0
+|-
+| cost || 2000 || 1
+|-
+| inventoryModel || 20247 || 2521
+|-
+| members || True || False
+|-
+| zoom2d || 1892 || 1940
+|-
+| xOffset2d || 3 || 0
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| maleModel0 || 20144 || -1
+|-
+| femaleModel0 || 20198 || -1
+|-
+| notedID || 10745 || -1
+|-
+|rowspan="9"|[[Null]]
+|rowspan="9"|10745
+|-
+|name || [[null]] || [[Null]]
+|-
+| xan2d || 0 || 572
+|-
+| inventoryModel || 0 || 2521
+|-
+| zoom2d || 2000 || 1940
+|-
+| yOffset2d || 0 || 1
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| notedID || 10744 || -1
+|-
+| notedTemplate || 799 || -1
+|-
+|rowspan="18"|[[Null]]
+|rowspan="18"|10746
+|-
+|name || [[Sleeping cap]] || [[Null]]
+|-
+| xan2d || 290 || 572
+|-
+| yan2d || 1259 || 0
+|-
+| cost || 2000 || 1
+|-
+| inventoryModel || 20255 || 2521
+|-
+| members || True || False
+|-
+| zoom2d || 659 || 1940
+|-
+| xOffset2d || 5 || 0
+|-
+| yOffset2d || 12 || 1
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| maleModel0 || 20133 || -1
+|-
+| maleModel1 || 230 || -1
+|-
+| maleHeadModel || 20111 || -1
+|-
+| femaleModel0 || 20185 || -1
+|-
+| femaleModel1 || 403 || -1
+|-
+| femaleHeadModel || 20118 || -1
+|-
+| notedID || 10747 || -1
+|-
+|rowspan="9"|[[Null]]
+|rowspan="9"|10747
+|-
+|name || [[null]] || [[Null]]
+|-
+| xan2d || 0 || 572
+|-
+| inventoryModel || 0 || 2521
+|-
+| zoom2d || 2000 || 1940
+|-
+| yOffset2d || 0 || 1
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| notedID || 10746 || -1
+|-
+| notedTemplate || 799 || -1
+|-
+|rowspan="15"|[[Null]]
+|rowspan="15"|10748
+|-
+|name || [[Black elegant shirt]] || [[Null]]
+|-
+| xan2d || 452 || 572
+|-
+| cost || 2000 || 1
+|-
+| inventoryModel || 20235 || 2521
+|-
+| members || True || False
+|-
+| zoom2d || 1373 || 1940
+|-
+| xOffset2d || -1 || 0
+|-
+| yOffset2d || 7 || 1
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| maleModel0 || 20158 || -1
+|-
+| maleModel1 || 20122 || -1
+|-
+| femaleModel0 || 20214 || -1
+|-
+| femaleModel1 || 20178 || -1
+|-
+| notedID || 10749 || -1
+|-
+|rowspan="9"|[[Null]]
+|rowspan="9"|10749
+|-
+|name || [[null]] || [[Null]]
+|-
+| xan2d || 0 || 572
+|-
+| inventoryModel || 0 || 2521
+|-
+| zoom2d || 2000 || 1940
+|-
+| yOffset2d || 0 || 1
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| notedID || 10748 || -1
+|-
+| notedTemplate || 799 || -1
+|-
+|rowspan="15"|[[Null]]
+|rowspan="15"|10750
+|-
+|name || [[Red elegant shirt]] || [[Null]]
+|-
+| xan2d || 452 || 572
+|-
+| cost || 2000 || 1
+|-
+| inventoryModel || 20235 || 2521
+|-
+| members || True || False
+|-
+| zoom2d || 1373 || 1940
+|-
+| xOffset2d || -1 || 0
+|-
+| yOffset2d || 7 || 1
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| maleModel0 || 20158 || -1
+|-
+| maleModel1 || 20122 || -1
+|-
+| femaleModel0 || 20214 || -1
+|-
+| femaleModel1 || 20178 || -1
+|-
+| notedID || 10751 || -1
+|-
+|rowspan="9"|[[Null]]
+|rowspan="9"|10751
+|-
+|name || [[null]] || [[Null]]
+|-
+| xan2d || 0 || 572
+|-
+| inventoryModel || 0 || 2521
+|-
+| zoom2d || 2000 || 1940
+|-
+| yOffset2d || 0 || 1
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| notedID || 10750 || -1
+|-
+| notedTemplate || 799 || -1
+|-
+|rowspan="15"|[[Null]]
+|rowspan="15"|10752
+|-
+|name || [[Blue elegant shirt]] || [[Null]]
+|-
+| xan2d || 452 || 572
+|-
+| cost || 2000 || 1
+|-
+| inventoryModel || 20235 || 2521
+|-
+| members || True || False
+|-
+| zoom2d || 1373 || 1940
+|-
+| xOffset2d || -1 || 0
+|-
+| yOffset2d || 7 || 1
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| maleModel0 || 20158 || -1
+|-
+| maleModel1 || 20122 || -1
+|-
+| femaleModel0 || 20214 || -1
+|-
+| femaleModel1 || 20178 || -1
+|-
+| notedID || 10753 || -1
+|-
+|rowspan="9"|[[Null]]
+|rowspan="9"|10753
+|-
+|name || [[null]] || [[Null]]
+|-
+| xan2d || 0 || 572
+|-
+| inventoryModel || 0 || 2521
+|-
+| zoom2d || 2000 || 1940
+|-
+| yOffset2d || 0 || 1
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| notedID || 10752 || -1
+|-
+| notedTemplate || 799 || -1
+|-
+|rowspan="15"|[[Null]]
+|rowspan="15"|10754
+|-
+|name || [[Green elegant shirt]] || [[Null]]
+|-
+| xan2d || 452 || 572
+|-
+| cost || 2000 || 1
+|-
+| inventoryModel || 20235 || 2521
+|-
+| members || True || False
+|-
+| zoom2d || 1373 || 1940
+|-
+| xOffset2d || -1 || 0
+|-
+| yOffset2d || 7 || 1
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| maleModel0 || 20158 || -1
+|-
+| maleModel1 || 20122 || -1
+|-
+| femaleModel0 || 20214 || -1
+|-
+| femaleModel1 || 20178 || -1
+|-
+| notedID || 10755 || -1
+|-
+|rowspan="9"|[[Null]]
+|rowspan="9"|10755
+|-
+|name || [[null]] || [[Null]]
+|-
+| xan2d || 0 || 572
+|-
+| inventoryModel || 0 || 2521
+|-
+| zoom2d || 2000 || 1940
+|-
+| yOffset2d || 0 || 1
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| notedID || 10754 || -1
+|-
+| notedTemplate || 799 || -1
+|-
+|rowspan="15"|[[Null]]
+|rowspan="15"|10756
+|-
+|name || [[Purple elegant shirt]] || [[Null]]
+|-
+| xan2d || 452 || 572
+|-
+| cost || 2000 || 1
+|-
+| inventoryModel || 20235 || 2521
+|-
+| members || True || False
+|-
+| zoom2d || 1373 || 1940
+|-
+| xOffset2d || -1 || 0
+|-
+| yOffset2d || 7 || 1
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| maleModel0 || 20158 || -1
+|-
+| maleModel1 || 20122 || -1
+|-
+| femaleModel0 || 20214 || -1
+|-
+| femaleModel1 || 20178 || -1
+|-
+| notedID || 10757 || -1
+|-
+|rowspan="9"|[[Null]]
+|rowspan="9"|10757
+|-
+|name || [[null]] || [[Null]]
+|-
+| xan2d || 0 || 572
+|-
+| inventoryModel || 0 || 2521
+|-
+| zoom2d || 2000 || 1940
+|-
+| yOffset2d || 0 || 1
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| notedID || 10756 || -1
+|-
+| notedTemplate || 799 || -1
+|-
+|rowspan="16"|[[Null]]
+|rowspan="16"|10758
+|-
+|name || [[Red boater]] || [[Null]]
+|-
+| xan2d || 166 || 572
+|-
+| yan2d || 1784 || 0
+|-
+| zan2d || 1978 || 0
+|-
+| cost || 225 || 1
+|-
+| inventoryModel || 11399 || 2521
+|-
+| members || True || False
+|-
+| zoom2d || 724 || 1940
+|-
+| yOffset2d || -11 || 1
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| maleModel0 || 11330 || -1
+|-
+| maleHeadModel || 11402 || -1
+|-
+| femaleModel0 || 11353 || -1
+|-
+| femaleHeadModel || 11406 || -1
+|-
+| notedID || 10759 || -1
+|-
+|rowspan="9"|[[Null]]
+|rowspan="9"|10759
+|-
+|name || [[null]] || [[Null]]
+|-
+| xan2d || 0 || 572
+|-
+| inventoryModel || 0 || 2521
+|-
+| zoom2d || 2000 || 1940
+|-
+| yOffset2d || 0 || 1
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| notedID || 10758 || -1
+|-
+| notedTemplate || 799 || -1
+|-
+|rowspan="16"|[[Null]]
+|rowspan="16"|10760
+|-
+|name || [[Orange boater]] || [[Null]]
+|-
+| xan2d || 166 || 572
+|-
+| yan2d || 1784 || 0
+|-
+| zan2d || 1978 || 0
+|-
+| cost || 225 || 1
+|-
+| inventoryModel || 11399 || 2521
+|-
+| members || True || False
+|-
+| zoom2d || 724 || 1940
+|-
+| yOffset2d || -11 || 1
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| maleModel0 || 11330 || -1
+|-
+| maleHeadModel || 11402 || -1
+|-
+| femaleModel0 || 11353 || -1
+|-
+| femaleHeadModel || 11406 || -1
+|-
+| notedID || 10761 || -1
+|-
+|rowspan="9"|[[Null]]
+|rowspan="9"|10761
+|-
+|name || [[null]] || [[Null]]
+|-
+| xan2d || 0 || 572
+|-
+| inventoryModel || 0 || 2521
+|-
+| zoom2d || 2000 || 1940
+|-
+| yOffset2d || 0 || 1
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| notedID || 10760 || -1
+|-
+| notedTemplate || 799 || -1
+|-
+|rowspan="16"|[[Null]]
+|rowspan="16"|10762
+|-
+|name || [[Green boater]] || [[Null]]
+|-
+| xan2d || 166 || 572
+|-
+| yan2d || 1784 || 0
+|-
+| zan2d || 1978 || 0
+|-
+| cost || 225 || 1
+|-
+| inventoryModel || 11399 || 2521
+|-
+| members || True || False
+|-
+| zoom2d || 724 || 1940
+|-
+| yOffset2d || -11 || 1
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| maleModel0 || 11330 || -1
+|-
+| maleHeadModel || 11402 || -1
+|-
+| femaleModel0 || 11353 || -1
+|-
+| femaleHeadModel || 11406 || -1
+|-
+| notedID || 10763 || -1
+|-
+|rowspan="9"|[[Null]]
+|rowspan="9"|10763
+|-
+|name || [[null]] || [[Null]]
+|-
+| xan2d || 0 || 572
+|-
+| inventoryModel || 0 || 2521
+|-
+| zoom2d || 2000 || 1940
+|-
+| yOffset2d || 0 || 1
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| notedID || 10762 || -1
+|-
+| notedTemplate || 799 || -1
+|-
+|rowspan="16"|[[Null]]
+|rowspan="16"|10764
+|-
+|name || [[Blue boater]] || [[Null]]
+|-
+| xan2d || 166 || 572
+|-
+| yan2d || 1784 || 0
+|-
+| zan2d || 1978 || 0
+|-
+| cost || 225 || 1
+|-
+| inventoryModel || 11399 || 2521
+|-
+| members || True || False
+|-
+| zoom2d || 724 || 1940
+|-
+| yOffset2d || -11 || 1
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| maleModel0 || 11330 || -1
+|-
+| maleHeadModel || 11402 || -1
+|-
+| femaleModel0 || 11353 || -1
+|-
+| femaleHeadModel || 11406 || -1
+|-
+| notedID || 10765 || -1
+|-
+|rowspan="9"|[[Null]]
+|rowspan="9"|10765
+|-
+|name || [[null]] || [[Null]]
+|-
+| xan2d || 0 || 572
+|-
+| inventoryModel || 0 || 2521
+|-
+| zoom2d || 2000 || 1940
+|-
+| yOffset2d || 0 || 1
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| notedID || 10764 || -1
+|-
+| notedTemplate || 799 || -1
+|-
+|rowspan="16"|[[Null]]
+|rowspan="16"|10766
+|-
+|name || [[Black boater]] || [[Null]]
+|-
+| xan2d || 166 || 572
+|-
+| yan2d || 1784 || 0
+|-
+| zan2d || 1978 || 0
+|-
+| cost || 225 || 1
+|-
+| inventoryModel || 11399 || 2521
+|-
+| members || True || False
+|-
+| zoom2d || 724 || 1940
+|-
+| yOffset2d || -11 || 1
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| maleModel0 || 11330 || -1
+|-
+| maleHeadModel || 11402 || -1
+|-
+| femaleModel0 || 11353 || -1
+|-
+| femaleHeadModel || 11406 || -1
+|-
+| notedID || 10767 || -1
+|-
+|rowspan="9"|[[Null]]
+|rowspan="9"|10767
+|-
+|name || [[null]] || [[Null]]
+|-
+| xan2d || 0 || 572
+|-
+| inventoryModel || 0 || 2521
+|-
+| zoom2d || 2000 || 1940
+|-
+| yOffset2d || 0 || 1
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| notedID || 10766 || -1
+|-
+| notedTemplate || 799 || -1
+|-
+|rowspan="16"|[[Null]]
+|rowspan="16"|10768
+|-
+|name || [[Red headband]] || [[Null]]
+|-
+| xan2d || 108 || 572
+|-
+| yan2d || 56 || 0
+|-
+| cost || 40 || 1
+|-
+| inventoryModel || 3377 || 2521
+|-
+| members || True || False
+|-
+| zoom2d || 380 || 1940
+|-
+| xOffset2d || -1 || 0
+|-
+| yOffset2d || 0 || 1
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| maleModel0 || 201 || -1
+|-
+| maleHeadModel || 43 || -1
+|-
+| femaleModel0 || 376 || -1
+|-
+| femaleHeadModel || 101 || -1
+|-
+| notedID || 10769 || -1
+|-
+|rowspan="9"|[[Null]]
+|rowspan="9"|10769
+|-
+|name || [[null]] || [[Null]]
+|-
+| xan2d || 0 || 572
+|-
+| inventoryModel || 0 || 2521
+|-
+| zoom2d || 2000 || 1940
+|-
+| yOffset2d || 0 || 1
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| notedID || 10768 || -1
+|-
+| notedTemplate || 799 || -1
+|-
+|rowspan="16"|[[Null]]
+|rowspan="16"|10770
+|-
+|name || [[Black headband]] || [[Null]]
+|-
+| xan2d || 108 || 572
+|-
+| yan2d || 56 || 0
+|-
+| cost || 40 || 1
+|-
+| inventoryModel || 3377 || 2521
+|-
+| members || True || False
+|-
+| zoom2d || 380 || 1940
+|-
+| xOffset2d || -1 || 0
+|-
+| yOffset2d || 0 || 1
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| maleModel0 || 201 || -1
+|-
+| maleHeadModel || 43 || -1
+|-
+| femaleModel0 || 376 || -1
+|-
+| femaleHeadModel || 101 || -1
+|-
+| notedID || 10771 || -1
+|-
+|rowspan="9"|[[Null]]
+|rowspan="9"|10771
+|-
+|name || [[null]] || [[Null]]
+|-
+| xan2d || 0 || 572
+|-
+| inventoryModel || 0 || 2521
+|-
+| zoom2d || 2000 || 1940
+|-
+| yOffset2d || 0 || 1
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| notedID || 10770 || -1
+|-
+| notedTemplate || 799 || -1
+|-
+|rowspan="16"|[[Null]]
+|rowspan="16"|10772
+|-
+|name || [[Brown headband]] || [[Null]]
+|-
+| xan2d || 108 || 572
+|-
+| yan2d || 56 || 0
+|-
+| cost || 40 || 1
+|-
+| inventoryModel || 3377 || 2521
+|-
+| members || True || False
+|-
+| zoom2d || 380 || 1940
+|-
+| xOffset2d || -1 || 0
+|-
+| yOffset2d || 0 || 1
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| maleModel0 || 201 || -1
+|-
+| maleHeadModel || 43 || -1
+|-
+| femaleModel0 || 376 || -1
+|-
+| femaleHeadModel || 101 || -1
+|-
+| notedID || 10773 || -1
+|-
+|rowspan="9"|[[Null]]
+|rowspan="9"|10773
+|-
+|name || [[null]] || [[Null]]
+|-
+| xan2d || 0 || 572
+|-
+| inventoryModel || 0 || 2521
+|-
+| zoom2d || 2000 || 1940
+|-
+| yOffset2d || 0 || 1
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| notedID || 10772 || -1
+|-
+| notedTemplate || 799 || -1
+|-
+|rowspan="16"|[[Null]]
+|rowspan="16"|10774
+|-
+|name || [[Pirate's hat]] || [[Null]]
+|-
+| xan2d || 136 || 572
+|-
+| yan2d || 1836 || 0
+|-
+| cost || 180 || 1
+|-
+| inventoryModel || 3215 || 2521
+|-
+| members || True || False
+|-
+| zoom2d || 600 || 1940
+|-
+| xOffset2d || -3 || 0
+|-
+| yOffset2d || 0 || 1
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| maleModel0 || 190 || -1
+|-
+| maleHeadModel || 31 || -1
+|-
+| femaleModel0 || 367 || -1
+|-
+| femaleHeadModel || 89 || -1
+|-
+| notedID || 10775 || -1
+|-
+|rowspan="9"|[[Null]]
+|rowspan="9"|10775
+|-
+|name || [[null]] || [[Null]]
+|-
+| xan2d || 0 || 572
+|-
+| inventoryModel || 0 || 2521
+|-
+| zoom2d || 2000 || 1940
+|-
+| yOffset2d || 0 || 1
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| notedID || 10774 || -1
+|-
+| notedTemplate || 799 || -1
+|-
+|rowspan="17"|[[Null]]
+|rowspan="17"|10776
+|-
+|name || [[Zamorak platebody]] || [[Null]]
+|-
+| xan2d || 452 || 572
+|-
+| cost || 65000 || 1
+|-
+| inventoryModel || 3375 || 2521
+|-
+| members || True || False
+|-
+| zoom2d || 1180 || 1940
+|-
+| xOffset2d || -1 || 0
+|-
+| yOffset2d || -1 || 1
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| maleModel0 || 3379 || -1
+|-
+| maleModel1 || 164 || -1
+|-
+| maleModel2 || 3381 || -1
+|-
+| femaleModel0 || 3383 || -1
+|-
+| femaleModel1 || 344 || -1
+|-
+| femaleModel2 || 3381 || -1
+|-
+| notedID || 10777 || -1
+|-
+|rowspan="9"|[[Null]]
+|rowspan="9"|10777
+|-
+|name || [[null]] || [[Null]]
+|-
+| xan2d || 0 || 572
+|-
+| inventoryModel || 0 || 2521
+|-
+| zoom2d || 2000 || 1940
+|-
+| yOffset2d || 0 || 1
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| notedID || 10776 || -1
+|-
+| notedTemplate || 799 || -1
+|-
+|rowspan="17"|[[Null]]
+|rowspan="17"|10778
+|-
+|name || [[Saradomin plate]] || [[Null]]
+|-
+| xan2d || 452 || 572
+|-
+| cost || 65000 || 1
+|-
+| inventoryModel || 3020 || 2521
+|-
+| members || True || False
+|-
+| zoom2d || 1180 || 1940
+|-
+| xOffset2d || -1 || 0
+|-
+| yOffset2d || -1 || 1
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| maleModel0 || 3379 || -1
+|-
+| maleModel1 || 164 || -1
+|-
+| maleModel2 || 3330 || -1
+|-
+| femaleModel0 || 3383 || -1
+|-
+| femaleModel1 || 344 || -1
+|-
+| femaleModel2 || 3330 || -1
+|-
+| notedID || 10779 || -1
+|-
+|rowspan="9"|[[Null]]
+|rowspan="9"|10779
+|-
+|name || [[null]] || [[Null]]
+|-
+| xan2d || 0 || 572
+|-
+| inventoryModel || 0 || 2521
+|-
+| zoom2d || 2000 || 1940
+|-
+| yOffset2d || 0 || 1
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| notedID || 10778 || -1
+|-
+| notedTemplate || 799 || -1
+|-
+|rowspan="17"|[[Null]]
+|rowspan="17"|10780
+|-
+|name || [[Guthix platebody]] || [[Null]]
+|-
+| xan2d || 452 || 572
+|-
+| cost || 65000 || 1
+|-
+| inventoryModel || 3376 || 2521
+|-
+| members || True || False
+|-
+| zoom2d || 1180 || 1940
+|-
+| xOffset2d || -1 || 0
+|-
+| yOffset2d || -1 || 1
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| maleModel0 || 3379 || -1
+|-
+| maleModel1 || 164 || -1
+|-
+| maleModel2 || 3380 || -1
+|-
+| femaleModel0 || 3383 || -1
+|-
+| femaleModel1 || 344 || -1
+|-
+| femaleModel2 || 3380 || -1
+|-
+| notedID || 10781 || -1
+|-
+|rowspan="9"|[[Null]]
+|rowspan="9"|10781
+|-
+|name || [[null]] || [[Null]]
+|-
+| xan2d || 0 || 572
+|-
+| inventoryModel || 0 || 2521
+|-
+| zoom2d || 2000 || 1940
+|-
+| yOffset2d || 0 || 1
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| notedID || 10780 || -1
+|-
+| notedTemplate || 799 || -1
+|-
+|rowspan="15"|[[Null]]
+|rowspan="15"|10782
+|-
+|name || [[Gilded platebody]] || [[Null]]
+|-
+| xan2d || 452 || 572
+|-
+| cost || 65000 || 1
+|-
+| inventoryModel || 2378 || 2521
+|-
+| members || True || False
+|-
+| zoom2d || 1180 || 1940
+|-
+| xOffset2d || -1 || 0
+|-
+| yOffset2d || -1 || 1
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| maleModel0 || 3379 || -1
+|-
+| maleModel1 || 164 || -1
+|-
+| femaleModel0 || 3383 || -1
+|-
+| femaleModel1 || 344 || -1
+|-
+| notedID || 10783 || -1
+|-
+|rowspan="9"|[[Null]]
+|rowspan="9"|10783
+|-
+|name || [[null]] || [[Null]]
+|-
+| xan2d || 0 || 572
+|-
+| inventoryModel || 0 || 2521
+|-
+| zoom2d || 2000 || 1940
+|-
+| yOffset2d || 0 || 1
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| notedID || 10782 || -1
+|-
+| notedTemplate || 799 || -1
+|-
+|rowspan="14"|[[Null]]
+|rowspan="14"|10784
+|-
+|name || [[Saradomin robe top]] || [[Null]]
+|-
+| xan2d || 476 || 572
+|-
+| cost || 7000 || 1
+|-
+| inventoryModel || 20266 || 2521
+|-
+| members || True || False
+|-
+| zoom2d || 1190 || 1940
+|-
+| yOffset2d || 0 || 1
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| maleModel0 || 20163 || -1
+|-
+| maleModel1 || 20127 || -1
+|-
+| femaleModel0 || 20209 || -1
+|-
+| femaleModel1 || 20175 || -1
+|-
+| notedID || 10785 || -1
+|-
+|rowspan="9"|[[Null]]
+|rowspan="9"|10785
+|-
+|name || [[null]] || [[Null]]
+|-
+| xan2d || 0 || 572
+|-
+| inventoryModel || 0 || 2521
+|-
+| zoom2d || 2000 || 1940
+|-
+| yOffset2d || 0 || 1
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| notedID || 10784 || -1
+|-
+| notedTemplate || 799 || -1
+|-
+|rowspan="14"|[[Null]]
+|rowspan="14"|10786
+|-
+|name || [[Zamorak robe top]] || [[Null]]
+|-
+| xan2d || 476 || 572
+|-
+| cost || 7000 || 1
+|-
+| inventoryModel || 20266 || 2521
+|-
+| members || True || False
+|-
+| zoom2d || 1190 || 1940
+|-
+| yOffset2d || 0 || 1
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| maleModel0 || 20163 || -1
+|-
+| maleModel1 || 20127 || -1
+|-
+| femaleModel0 || 20209 || -1
+|-
+| femaleModel1 || 20175 || -1
+|-
+| notedID || 10787 || -1
+|-
+|rowspan="9"|[[Null]]
+|rowspan="9"|10787
+|-
+|name || [[null]] || [[Null]]
+|-
+| xan2d || 0 || 572
+|-
+| inventoryModel || 0 || 2521
+|-
+| zoom2d || 2000 || 1940
+|-
+| yOffset2d || 0 || 1
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| notedID || 10786 || -1
+|-
+| notedTemplate || 799 || -1
+|-
+|rowspan="14"|[[Null]]
+|rowspan="14"|10788
+|-
+|name || [[Guthix robe top]] || [[Null]]
+|-
+| xan2d || 476 || 572
+|-
+| cost || 7000 || 1
+|-
+| inventoryModel || 20266 || 2521
+|-
+| members || True || False
+|-
+| zoom2d || 1190 || 1940
+|-
+| yOffset2d || 0 || 1
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| maleModel0 || 20163 || -1
+|-
+| maleModel1 || 20127 || -1
+|-
+| femaleModel0 || 20209 || -1
+|-
+| femaleModel1 || 20175 || -1
+|-
+| notedID || 10789 || -1
+|-
+|rowspan="9"|[[Null]]
+|rowspan="9"|10789
+|-
+|name || [[null]] || [[Null]]
+|-
+| xan2d || 0 || 572
+|-
+| inventoryModel || 0 || 2521
+|-
+| zoom2d || 2000 || 1940
+|-
+| yOffset2d || 0 || 1
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| notedID || 10788 || -1
+|-
+| notedTemplate || 799 || -1
+|-
+|rowspan="15"|[[Null]]
+|rowspan="15"|10790
+|-
+|name || [[Zamorak d'hide body]] || [[Null]]
+|-
+| xan2d || 452 || 572
+|-
+| cost || 13000 || 1
+|-
+| inventoryModel || 20233 || 2521
+|-
+| members || True || False
+|-
+| zoom2d || 1180 || 1940
+|-
+| xOffset2d || -1 || 0
+|-
+| yOffset2d || -1 || 1
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| maleModel0 || 20157 || -1
+|-
+| maleModel1 || 20121 || -1
+|-
+| femaleModel0 || 20213 || -1
+|-
+| femaleModel1 || 20177 || -1
+|-
+| notedID || 10791 || -1
+|-
+|rowspan="9"|[[Null]]
+|rowspan="9"|10791
+|-
+|name || [[null]] || [[Null]]
+|-
+| xan2d || 0 || 572
+|-
+| inventoryModel || 0 || 2521
+|-
+| zoom2d || 2000 || 1940
+|-
+| yOffset2d || 0 || 1
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| notedID || 10790 || -1
+|-
+| notedTemplate || 799 || -1
+|-
+|rowspan="15"|[[Null]]
+|rowspan="15"|10792
+|-
+|name || [[Saradomin d'hide body]] || [[Null]]
+|-
+| xan2d || 452 || 572
+|-
+| cost || 13000 || 1
+|-
+| inventoryModel || 20224 || 2521
+|-
+| members || True || False
+|-
+| zoom2d || 1180 || 1940
+|-
+| xOffset2d || -1 || 0
+|-
+| yOffset2d || -1 || 1
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| maleModel0 || 20156 || -1
+|-
+| maleModel1 || 20121 || -1
+|-
+| femaleModel0 || 20212 || -1
+|-
+| femaleModel1 || 20177 || -1
+|-
+| notedID || 10793 || -1
+|-
+|rowspan="9"|[[Null]]
+|rowspan="9"|10793
+|-
+|name || [[null]] || [[Null]]
+|-
+| xan2d || 0 || 572
+|-
+| inventoryModel || 0 || 2521
+|-
+| zoom2d || 2000 || 1940
+|-
+| yOffset2d || 0 || 1
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| notedID || 10792 || -1
+|-
+| notedTemplate || 799 || -1
+|-
+|rowspan="15"|[[Null]]
+|rowspan="15"|10794
+|-
+|name || [[Guthix dragonhide]] || [[Null]]
+|-
+| xan2d || 452 || 572
+|-
+| cost || 13000 || 1
+|-
+| inventoryModel || 20232 || 2521
+|-
+| members || True || False
+|-
+| zoom2d || 1180 || 1940
+|-
+| xOffset2d || -1 || 0
+|-
+| yOffset2d || -1 || 1
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| maleModel0 || 20155 || -1
+|-
+| maleModel1 || 20121 || -1
+|-
+| femaleModel0 || 20211 || -1
+|-
+| femaleModel1 || 20177 || -1
+|-
+| notedID || 10795 || -1
+|-
+|rowspan="9"|[[Null]]
+|rowspan="9"|10795
+|-
+|name || [[null]] || [[Null]]
+|-
+| xan2d || 0 || 572
+|-
+| inventoryModel || 0 || 2521
+|-
+| zoom2d || 2000 || 1940
+|-
+| yOffset2d || 0 || 1
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| notedID || 10794 || -1
+|-
+| notedTemplate || 799 || -1
+|-
+|rowspan="16"|[[Null]]
+|rowspan="16"|10796
+|-
+|name || [[Robin hood hat]] || [[Null]]
+|-
+| xan2d || 2044 || 572
+|-
+| yan2d || 256 || 0
+|-
+| cost || 450 || 1
+|-
+| inventoryModel || 3021 || 2521
+|-
+| members || True || False
+|-
+| zoom2d || 650 || 1940
+|-
+| xOffset2d || -3 || 0
+|-
+| yOffset2d || -2 || 1
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| maleModel0 || 3378 || -1
+|-
+| maleHeadModel || 3384 || -1
+|-
+| femaleModel0 || 3382 || -1
+|-
+| femaleHeadModel || 3385 || -1
+|-
+| notedID || 10797 || -1
+|-
+|rowspan="9"|[[Null]]
+|rowspan="9"|10797
+|-
+|name || [[null]] || [[Null]]
+|-
+| xan2d || 0 || 572
+|-
+| inventoryModel || 0 || 2521
+|-
+| zoom2d || 2000 || 1940
+|-
+| yOffset2d || 0 || 1
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| notedID || 10796 || -1
+|-
+| notedTemplate || 799 || -1
+|-
+|rowspan="15"|[[Null]]
+|rowspan="15"|10798
+|-
+|name || [[Rune platebody (g)]] || [[Null]]
+|-
+| xan2d || 452 || 572
+|-
+| cost || 65000 || 1
+|-
+| inventoryModel || 2378 || 2521
+|-
+| members || True || False
+|-
+| zoom2d || 1180 || 1940
+|-
+| xOffset2d || -1 || 0
+|-
+| yOffset2d || -1 || 1
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| maleModel0 || 3379 || -1
+|-
+| maleModel1 || 164 || -1
+|-
+| femaleModel0 || 3383 || -1
+|-
+| femaleModel1 || 344 || -1
+|-
+| notedID || 10799 || -1
+|-
+|rowspan="9"|[[Null]]
+|rowspan="9"|10799
+|-
+|name || [[null]] || [[Null]]
+|-
+| xan2d || 0 || 572
+|-
+| inventoryModel || 0 || 2521
+|-
+| zoom2d || 2000 || 1940
+|-
+| yOffset2d || 0 || 1
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| notedID || 10798 || -1
+|-
+| notedTemplate || 799 || -1
+|-
+|rowspan="15"|[[Null]]
+|rowspan="15"|10800
+|-
+|name || [[Rune platebody (t)]] || [[Null]]
+|-
+| xan2d || 452 || 572
+|-
+| cost || 65000 || 1
+|-
+| inventoryModel || 2378 || 2521
+|-
+| members || True || False
+|-
+| zoom2d || 1180 || 1940
+|-
+| xOffset2d || -1 || 0
+|-
+| yOffset2d || -1 || 1
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| maleModel0 || 3379 || -1
+|-
+| maleModel1 || 164 || -1
+|-
+| femaleModel0 || 3383 || -1
+|-
+| femaleModel1 || 344 || -1
+|-
+| notedID || 10801 || -1
+|-
+|rowspan="9"|[[Null]]
+|rowspan="9"|10801
+|-
+|name || [[null]] || [[Null]]
+|-
+| xan2d || 0 || 572
+|-
+| inventoryModel || 0 || 2521
+|-
+| zoom2d || 2000 || 1940
+|-
+| yOffset2d || 0 || 1
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| notedID || 10800 || -1
+|-
+| notedTemplate || 799 || -1
+|-
+|rowspan="16"|[[Null]]
+|rowspan="16"|10802
+|-
+|name || [[Tan cavalier]] || [[Null]]
+|-
+| xan2d || 160 || 572
+|-
+| yan2d || 1856 || 0
+|-
+| cost || 200 || 1
+|-
+| inventoryModel || 2451 || 2521
+|-
+| members || True || False
+|-
+| zoom2d || 690 || 1940
+|-
+| xOffset2d || -1 || 0
+|-
+| yOffset2d || -8 || 1
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| maleModel0 || 186 || -1
+|-
+| maleHeadModel || 28 || -1
+|-
+| femaleModel0 || 362 || -1
+|-
+| femaleHeadModel || 86 || -1
+|-
+| notedID || 10803 || -1
+|-
+|rowspan="9"|[[Null]]
+|rowspan="9"|10803
+|-
+|name || [[null]] || [[Null]]
+|-
+| xan2d || 0 || 572
+|-
+| inventoryModel || 0 || 2521
+|-
+| zoom2d || 2000 || 1940
+|-
+| yOffset2d || 0 || 1
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| notedID || 10802 || -1
+|-
+| notedTemplate || 799 || -1
+|-
+|rowspan="16"|[[Null]]
+|rowspan="16"|10804
+|-
+|name || [[Dark cavalier]] || [[Null]]
+|-
+| xan2d || 160 || 572
+|-
+| yan2d || 1856 || 0
+|-
+| cost || 200 || 1
+|-
+| inventoryModel || 2451 || 2521
+|-
+| members || True || False
+|-
+| zoom2d || 690 || 1940
+|-
+| xOffset2d || -1 || 0
+|-
+| yOffset2d || -8 || 1
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| maleModel0 || 186 || -1
+|-
+| maleHeadModel || 28 || -1
+|-
+| femaleModel0 || 362 || -1
+|-
+| femaleHeadModel || 86 || -1
+|-
+| notedID || 10805 || -1
+|-
+|rowspan="9"|[[Null]]
+|rowspan="9"|10805
+|-
+|name || [[null]] || [[Null]]
+|-
+| xan2d || 0 || 572
+|-
+| inventoryModel || 0 || 2521
+|-
+| zoom2d || 2000 || 1940
+|-
+| yOffset2d || 0 || 1
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| notedID || 10804 || -1
+|-
+| notedTemplate || 799 || -1
+|-
+|rowspan="16"|[[Null]]
+|rowspan="16"|10806
+|-
+|name || [[Black cavalier]] || [[Null]]
+|-
+| xan2d || 160 || 572
+|-
+| yan2d || 1856 || 0
+|-
+| cost || 200 || 1
+|-
+| inventoryModel || 2451 || 2521
+|-
+| members || True || False
+|-
+| zoom2d || 690 || 1940
+|-
+| xOffset2d || -1 || 0
+|-
+| yOffset2d || -8 || 1
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| maleModel0 || 186 || -1
+|-
+| maleHeadModel || 28 || -1
+|-
+| femaleModel0 || 362 || -1
+|-
+| femaleHeadModel || 86 || -1
+|-
+| notedID || 10807 || -1
+|-
+|rowspan="9"|[[Null]]
+|rowspan="9"|10807
+|-
+|name || [[null]] || [[Null]]
+|-
+| xan2d || 0 || 572
+|-
+| inventoryModel || 0 || 2521
+|-
+| zoom2d || 2000 || 1940
+|-
+| yOffset2d || 0 || 1
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| notedID || 10806 || -1
+|-
+| notedTemplate || 799 || -1
+|-
+|rowspan="15"|[[Null]]
+|rowspan="15"|10883
+|-
+|name || [[Hard hat]] || [[Null]]
+|-
+| xan2d || 176 || 572
+|-
+| yan2d || 1851 || 0
+|-
+| cost || 100 || 1
+|-
+| inventoryModel || 22625 || 2521
+|-
+| members || True || False
+|-
+| zoom2d || 787 || 1940
+|-
+| xOffset2d || 3 || 0
+|-
+| yOffset2d || -16 || 1
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| maleModel0 || 22599 || -1
+|-
+| maleHeadModel || 22592 || -1
+|-
+| femaleModel0 || 22621 || -1
+|-
+| femaleHeadModel || 22592 || -1
+|-
+|rowspan="14"|[[Null]]
+|rowspan="14"|10945
+|-
+|name || [[Lumberjack top]] || [[Null]]
+|-
+| xan2d || 612 || 572
+|-
+| yan2d || 1871 || 0
+|-
+| cost || 50 || 1
+|-
+| inventoryModel || 23185 || 2521
+|-
+| members || True || False
+|-
+| zoom2d || 1232 || 1940
+|-
+| yOffset2d || 0 || 1
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| maleModel0 || 23174 || -1
+|-
+| maleModel1 || 10980 || -1
+|-
+| femaleModel0 || 23182 || -1
+|-
+| femaleModel1 || 15123 || -1
+|-
+|rowspan="14"|[[Null]]
+|rowspan="14"|11015
+|-
+|name || [[Chicken head]] || [[Null]]
+|-
+| xan2d || 609 || 572
+|-
+| yan2d || 2047 || 0
+|-
+| zan2d || 1950 || 0
+|-
+| inventoryModel || 23998 || 2521
+|-
+| members || True || False
+|-
+| zoom2d || 1049 || 1940
+|-
+| yOffset2d || -3 || 1
+|-
+| ambient || 15 || 0
+|-
+| contrast || 15 || 0
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| maleModel0 || 24034 || -1
+|-
+| femaleModel0 || 24046 || -1
+|-
+|rowspan="14"|[[Null]]
+|rowspan="14"|11016
+|-
+|name || [[Chicken feet]] || [[Null]]
+|-
+| xan2d || 127 || 572
+|-
+| yan2d || 1931 || 0
+|-
+| inventoryModel || 23997 || 2521
+|-
+| members || True || False
+|-
+| zoom2d || 848 || 1940
+|-
+| xOffset2d || -4 || 0
+|-
+| yOffset2d || -5 || 1
+|-
+| ambient || 15 || 0
+|-
+| contrast || 15 || 0
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| maleModel0 || 24033 || -1
+|-
+| femaleModel0 || 24045 || -1
+|-
+|rowspan="16"|[[Null]]
+|rowspan="16"|11017
+|-
+|name || [[Chicken wings]] || [[Null]]
+|-
+| xan2d || 595 || 572
+|-
+| yan2d || 2047 || 0
+|-
+| inventoryModel || 24000 || 2521
+|-
+| members || True || False
+|-
+| zoom2d || 1488 || 1940
+|-
+| xOffset2d || -8 || 0
+|-
+| yOffset2d || -12 || 1
+|-
+| ambient || 15 || 0
+|-
+| contrast || 15 || 0
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| maleModel0 || 24037 || -1
+|-
+| maleModel1 || 24032 || -1
+|-
+| femaleModel0 || 24048 || -1
+|-
+| femaleModel1 || 24044 || -1
+|-
+|rowspan="14"|[[Null]]
+|rowspan="14"|11018
+|-
+|name || [[Chicken legs]] || [[Null]]
+|-
+| xan2d || 622 || 572
+|-
+| yan2d || 2047 || 0
+|-
+| zan2d || 28 || 0
+|-
+| inventoryModel || 23999 || 2521
+|-
+| members || True || False
+|-
+| zoom2d || 1744 || 1940
+|-
+| yOffset2d || 0 || 1
+|-
+| ambient || 15 || 0
+|-
+| contrast || 15 || 0
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| maleModel0 || 24035 || -1
+|-
+| femaleModel0 || 24047 || -1
+|-
+|rowspan="16"|[[Null]]
+|rowspan="16"|11135
+|-
+|name || [[Bomber jacket]] || [[Null]]
+|-
+| xan2d || 526 || 572
+|-
+| zan2d || 69 || 0
+|-
+| inventoryModel || 19490 || 2521
+|-
+| members || True || False
+|-
+| zoom2d || 1243 || 1940
+|-
+| xOffset2d || 1 || 0
+|-
+| yOffset2d || -3 || 1
+|-
+| ambient || 15 || 0
+|-
+| contrast || 15 || 0
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| maleModel0 || 19473 || -1
+|-
+| maleModel1 || 19466 || -1
+|-
+| femaleModel0 || 19482 || -1
+|-
+| femaleModel1 || 19478 || -1
+|-
+|rowspan="13"|[[Null]]
+|rowspan="13"|11274
+|-
+|name || [[Ham shirt]] || [[Null]]
+|-
+| xan2d || 536 || 572
+|-
+| cost || 75 || 1
+|-
+| inventoryModel || 2786 || 2521
+|-
+| members || True || False
+|-
+| zoom2d || 1370 || 1940
+|-
+| yOffset2d || 7 || 1
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| maleModel0 || 292 || -1
+|-
+| maleModel1 || 170 || -1
+|-
+| femaleModel0 || 470 || -1
+|-
+| femaleModel1 || 348 || -1
+|-
+|rowspan="13"|[[Null]]
+|rowspan="13"|11277
+|-
+|name || [[Cavalier mask]] || [[Null]]
+|-
+| xan2d || 111 || 572
+|-
+| cost || 200 || 1
+|-
+| inventoryModel || 26452 || 2521
+|-
+| members || True || False
+|-
+| zoom2d || 724 || 1940
+|-
+| yOffset2d || -9 || 1
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| maleModel0 || 26415 || -1
+|-
+| maleHeadModel || 25053 || -1
+|-
+| femaleModel0 || 26429 || -1
+|-
+| femaleHeadModel || 26412 || -1
+|-
+|rowspan="14"|[[Null]]
+|rowspan="14"|11278
+|-
+|name || [[Beret mask]] || [[Null]]
+|-
+| xan2d || 194 || 572
+|-
+| cost || 80 || 1
+|-
+| inventoryModel || 26453 || 2521
+|-
+| members || True || False
+|-
+| zoom2d || 596 || 1940
+|-
+| xOffset2d || 1 || 0
+|-
+| yOffset2d || -24 || 1
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| maleModel0 || 26414 || -1
+|-
+| maleHeadModel || 25052 || -1
+|-
+| femaleModel0 || 26428 || -1
+|-
+| femaleHeadModel || 25052 || -1
+|-
+|rowspan="19"|[[Null]]
+|rowspan="19"|11674
+|-
+|name || [[Void mage helm]] || [[Null]]
+|-
+| xan2d || 429 || 572
+|-
+| yan2d || 1660 || 0
+|-
+| cost || 9851 || 1
+|-
+| inventoryModel || 27164 || 2521
+|-
+| members || True || False
+|-
+| zoom2d || 919 || 1940
+|-
+| xOffset2d || 1 || 0
+|-
+| yOffset2d || 5 || 1
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| maleModel0 || 230 || -1
+|-
+| maleModel1 || 27151 || -1
+|-
+| maleHeadModel || 63 || -1
+|-
+| maleHeadModel2 || 14445 || -1
+|-
+| femaleModel0 || 403 || -1
+|-
+| femaleModel1 || 27137 || -1
+|-
+| femaleHeadModel || 120 || -1
+|-
+| femaleHeadModel2 || 14445 || -1
+|-
+|rowspan="19"|[[Null]]
+|rowspan="19"|11675
+|-
+|name || [[Void ranger helm]] || [[Null]]
+|-
+| xan2d || 88 || 572
+|-
+| yan2d || 188 || 0
+|-
+| cost || 9851 || 1
+|-
+| inventoryModel || 27163 || 2521
+|-
+| members || True || False
+|-
+| zoom2d || 540 || 1940
+|-
+| xOffset2d || 4 || 0
+|-
+| yOffset2d || -1 || 1
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| maleModel0 || 230 || -1
+|-
+| maleModel1 || 27150 || -1
+|-
+| maleHeadModel || 63 || -1
+|-
+| maleHeadModel2 || 3624 || -1
+|-
+| femaleModel0 || 403 || -1
+|-
+| femaleModel1 || 27138 || -1
+|-
+| femaleHeadModel || 120 || -1
+|-
+| femaleHeadModel2 || 3624 || -1
+|-
+|rowspan="19"|[[Null]]
+|rowspan="19"|11676
+|-
+|name || [[Void melee helm]] || [[Null]]
+|-
+| xan2d || 88 || 572
+|-
+| yan2d || 188 || 0
+|-
+| cost || 9851 || 1
+|-
+| inventoryModel || 27166 || 2521
+|-
+| members || True || False
+|-
+| zoom2d || 540 || 1940
+|-
+| xOffset2d || 4 || 0
+|-
+| yOffset2d || -1 || 1
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| maleModel0 || 230 || -1
+|-
+| maleModel1 || 27154 || -1
+|-
+| maleHeadModel || 63 || -1
+|-
+| maleHeadModel2 || 14444 || -1
+|-
+| femaleModel0 || 403 || -1
+|-
+| femaleModel1 || 27139 || -1
+|-
+| femaleHeadModel || 120 || -1
+|-
+| femaleHeadModel2 || 14444 || -1
+|-
+|rowspan="11"|[[Null]]
+|rowspan="11"|13224
+|-
+|name || [[Music cape]] || [[Null]]
+|-
+| xan2d || 504 || 572
+|-
+| cost || 99000 || 1
+|-
+| inventoryModel || 29318 || 2521
+|-
+| members || True || False
+|-
+| zoom2d || 2128 || 1940
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| maleModel0 || 29317 || -1
+|-
+| femaleModel0 || 29317 || -1
+|-
+| femaleOffset || 2 || 0
+|-
+|rowspan="12"|[[Null]]
+|rowspan="12"|13282
+|-
+|name || [[Max cape]] || [[Null]]
+|-
+| xan2d || 687 || 572
+|-
+| yan2d || 27 || 0
+|-
+| cost || 2277000 || 1
+|-
+| inventoryModel || 29630 || 2521
+|-
+| members || True || False
+|-
+| zoom2d || 2232 || 1940
+|-
+| yOffset2d || -5 || 1
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| maleModel0 || 29616 || -1
+|-
+| femaleModel0 || 29616 || -1
+|-
+|}
+
+{| class="wikitable sortable"
+!colspan="5"|Non-Player Characters
+|-
+! Name !! ID !! Key !! Previous Value !! Changed into
+|-
+|}
+
+{| class="wikitable sortable"
+!colspan="5"|Objects
+|-
+! Name !! ID !! Key !! Previous Value !! Changed into
+|-
+|}

@@ -4,7 +4,6 @@ import dev.openrune.ServerCacheManager
 import dev.openrune.rscm.RSCM
 import dev.openrune.rscm.RSCM.asRSCM
 import dev.openrune.rscm.RSCMType
-import dev.openrune.types.ItemServerType
 import jakarta.inject.Inject
 import jakarta.inject.Singleton
 import org.rsmod.api.config.constants
@@ -58,13 +57,14 @@ constructor(
                 paramOrNull(params.dropped_remains)
                     ?: ServerCacheManager.getItem("obj.bones".asRSCM())
                     ?: error("No bones")
-            val ctx = NpcDeathDropContext(
-                hero = hero,
-                dropType = droppedRemains,
-                dropCoords = dropCoords,
-                duration = duration,
-                objRepo = objRepo
-            )
+            val ctx =
+                NpcDeathDropContext(
+                    hero = hero,
+                    dropType = droppedRemains,
+                    dropCoords = dropCoords,
+                    duration = duration,
+                    objRepo = objRepo,
+                )
 
             var dropConsumed = false
             for (hook in deathDropHooks) {
@@ -152,7 +152,7 @@ public suspend fun StandardNpcAccess.death(npcRepo: NpcRepository, players: Play
     }
 
     val deathAnim = param(params.death_anim)
-    anim(RSCM.getReverseMapping(RSCMType.SEQ,deathAnim.id))
+    anim(RSCM.getReverseMapping(RSCMType.SEQ, deathAnim.id))
     delay(deathAnim)
 
     if (npc.respawns) {

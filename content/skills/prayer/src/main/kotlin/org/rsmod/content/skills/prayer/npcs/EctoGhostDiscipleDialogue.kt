@@ -17,9 +17,7 @@ class EctoGhostDiscipleDialogue : PluginScript() {
 
     private suspend fun ProtectedAccess.startDiscipleDialogue(npc: Npc) {
         if (!canUnderstandGhostDisciple()) {
-            startDialogue(npc) {
-                chatNpc(neutral, "Woooo wooo wooooo woooo")
-            }
+            startDialogue(npc) { chatNpc(neutral, "Woooo wooo wooooo woooo") }
             return
         }
         startDialogue(npc) { mainMenu() }
@@ -29,7 +27,8 @@ class EctoGhostDiscipleDialogue : PluginScript() {
         worn.any { ITEM_GHOSTSPEAK_AMULET.contains(it?.id ?: -1) }
 
     private suspend fun Dialogue.mainMenu() {
-        when (choice5(
+        when (
+            choice5(
                 "What is this strange fountain?",
                 1,
                 "Where do I get ectoplasm from?",
@@ -39,8 +38,9 @@ class EctoGhostDiscipleDialogue : PluginScript() {
                 "How do I receive Ectotokens?",
                 4,
                 "Can I have the tokens I have earned?",
-                5
-            )) {
+                5,
+            )
+        ) {
             1 -> explainFountain()
             2 -> explainEctoplasm()
             3 -> explainGrinding()
@@ -59,14 +59,7 @@ class EctoGhostDiscipleDialogue : PluginScript() {
     }
 
     private suspend fun Dialogue.explainFountainMenu() {
-        when (
-            choice2(
-                "What is the Ectofuntus for?",
-                1,
-                "Back.",
-                2,
-            )
-        ) {
+        when (choice2("What is the Ectofuntus for?", 1, "Back.", 2)) {
             1 -> {
                 chatPlayer(quiz, "What is the Ectofuntus for?")
                 chatNpc(
@@ -149,9 +142,10 @@ class EctoGhostDiscipleDialogue : PluginScript() {
     }
 
     private companion object {
-        val ITEM_GHOSTSPEAK_AMULET: List<Int> = listOf(
-            "obj.amulet_of_ghostspeak".asRSCM(RSCMType.OBJ),
-            "obj.amulet_of_ghostspeak_enchanted".asRSCM(RSCMType.OBJ)
-        )
+        val ITEM_GHOSTSPEAK_AMULET: List<Int> =
+            listOf(
+                "obj.amulet_of_ghostspeak".asRSCM(RSCMType.OBJ),
+                "obj.amulet_of_ghostspeak_enchanted".asRSCM(RSCMType.OBJ),
+            )
     }
 }

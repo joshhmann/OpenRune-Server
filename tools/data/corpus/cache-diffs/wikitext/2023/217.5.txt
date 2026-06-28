@@ -1,0 +1,999 @@
+{{ToC}}
+==Items==
+===New Items===
+{| class="wikitable sortable lighttable"
+!colspan='11'|New Items
+|-
+! style=width:15em | Name !! ID !! Members !! Tradeable in GE !! Equipable !! Stackable !! Noteable !! Options !! Placeholder !! Cost !! Weight
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#28641 28641] || No || No || Yes || No || No || Drop || No || 1
+|| 0
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#28634 28634] || No || No || Yes || No || No || Drop || No || 1
+|| 0
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#28647 28647] || No || No || No || No || No || Drop || Yes || 1
+|| 0
+|-
+| [[Trap disarmer blueprint]] || [https://chisel.weirdgloop.org/moid/item_id.html#28667 28667] || Yes || Yes || No || Yes || No || Craft, Drop || Yes || 100
+|| 0
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#28642 28642] || No || No || Yes || No || No || Drop || No || 1
+|| 0
+|-
+| [[Pheasant]] || [https://chisel.weirdgloop.org/moid/item_id.html#28669 28669] || Yes || No || No || No || No || Metamorphosis, Drop || No || 1
+|| 15
+|-
+| [[Web cloak]] || [https://chisel.weirdgloop.org/moid/item_id.html#28671 28671] || No || No || Yes || No || No || Wear, Change, Destroy || No || 1
+|| 250
+|-
+| [[Pheasant cape]] || [https://chisel.weirdgloop.org/moid/item_id.html#28616 28616] || Yes || No || Yes || No || No || Wear, Drop || Yes || 200
+|| 1000
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#28614 28614] || No || No || No || No || No || Drop || Yes || 1
+|| 0
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#28623 28623] || No || No || No || No || No || Drop || Yes || 1
+|| 0
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#28637 28637] || No || No || Yes || No || No || Drop || No || 1
+|| 0
+|-
+| [[Golden pheasant egg]] || [https://chisel.weirdgloop.org/moid/item_id.html#28663 28663] || Yes || No || No || No || No || Drop || Yes || 30000
+|| 200
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#28652 28652] || No || No || No || No || No || Drop || Yes || 1
+|| 0
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#28633 28633] || No || No || Yes || No || No || Drop || No || 1
+|| 0
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#28668 28668] || No || No || No || No || No || Drop || Yes || 1
+|| 0
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#28636 28636] || No || No || Yes || No || No || Drop || No || 1
+|| 0
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#28615 28615] || No || No || No || No || Yes || Drop || No || 1
+|| 0
+|-
+| [[Pheasant tail feathers]] || [https://chisel.weirdgloop.org/moid/item_id.html#28624 28624] || Yes || No || Yes || Yes || No || Drop || Yes || 1
+|| 0
+|-
+| [[Twitcher's gloves]] || [https://chisel.weirdgloop.org/moid/item_id.html#28630 28630] || Yes || No || Yes || Yes || No || Wear, Settings, Drop || Yes || 6
+|| 0
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#28629 28629] || No || No || No || No || No || Drop || Yes || 1
+|| 0
+|-
+| [[Cape pouch]] || [https://chisel.weirdgloop.org/moid/item_id.html#28613 28613] || Yes || No || No || No || No || Drop || Yes || 100
+|| 1000
+|-
+| [[Pheasant legs]] || [https://chisel.weirdgloop.org/moid/item_id.html#28622 28622] || Yes || No || Yes || No || No || Wear, Drop || Yes || 200
+|| 907
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#28640 28640] || No || No || Yes || No || No || Drop || No || 1
+|| 0
+|-
+| [[Pheasant boots]] || [https://chisel.weirdgloop.org/moid/item_id.html#28618 28618] || Yes || No || Yes || No || No || Wear, Drop || Yes || 200
+|| 500
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#28660 28660] || No || No || No || No || No || Drop || Yes || 1
+|| 0
+|-
+| [[Pheasant hat]] || [https://chisel.weirdgloop.org/moid/item_id.html#28620 28620] || Yes || No || Yes || No || No || Wear, Drop || Yes || 200
+|| 453
+|-
+| [[Smoker fuel]] || [https://chisel.weirdgloop.org/moid/item_id.html#28644 28644] || Yes || Yes || No || Yes || No || Craft, Drop || Yes || 100
+|| 0
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#28643 28643] || No || No || Yes || No || No || Drop || No || 1
+|| 0
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#28631 28631] || No || No || No || No || No || Drop || Yes || 1
+|| 0
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#28664 28664] || No || No || No || No || No || Drop || Yes || 1
+|| 0
+|-
+| [[Fox]] || [https://chisel.weirdgloop.org/moid/item_id.html#28670 28670] || Yes || No || No || No || No || Metamorphosis, Drop || No || 1
+|| 15
+|-
+| [[Trap disarmer]] || [https://chisel.weirdgloop.org/moid/item_id.html#28665 28665] || Yes || Yes || No || Yes || No || Drop || Yes || 1000
+|| 0
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#28632 28632] || No || No || Yes || No || No || Drop || No || 1
+|| 0
+|-
+| [[Packed mulch]] || [https://chisel.weirdgloop.org/moid/item_id.html#28650 28650] || No || No || No || No || No || Check, History, Destroy || No || 0
+|| 350
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#28621 28621] || No || No || No || No || No || Drop || Yes || 1
+|| 0
+|-
+| [[Petal garland]] || [https://chisel.weirdgloop.org/moid/item_id.html#28655 28655] || Yes || No || Yes || No || No || Wear, Drop || Yes || 1000
+|| 10
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#28639 28639] || No || No || Yes || No || No || Drop || No || 1
+|| 0
+|-
+| [[Petal circlet]] || [https://chisel.weirdgloop.org/moid/item_id.html#28653 28653] || Yes || Yes || No || Yes || No || Drop || Yes || 1000
+|| 0
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#28619 28619] || No || No || No || No || No || Drop || Yes || 1
+|| 0
+|-
+| [[Pheasant egg]] || [https://chisel.weirdgloop.org/moid/item_id.html#28661 28661] || Yes || No || No || No || No || Destroy || Yes || 300
+|| 0
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#28662 28662] || No || No || No || No || No || Drop || Yes || 1
+|| 0
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#28625 28625] || No || No || No || No || No || Drop || Yes || 1
+|| 0
+|-
+| [[Mulch]] || [https://chisel.weirdgloop.org/moid/item_id.html#28648 28648] || No || No || No || No || No || Check, History, Destroy || No || 0
+|| 350
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#28658 28658] || No || No || No || No || No || Drop || Yes || 1
+|| 0
+|-
+| [[Fox whistle]] || [https://chisel.weirdgloop.org/moid/item_id.html#28626 28626] || Yes || No || No || No || No || Drop || Yes || 30000
+|| 5
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#28635 28635] || No || No || Yes || No || No || Drop || No || 1
+|| 0
+|-
+| [[Crystal charm]] || [https://chisel.weirdgloop.org/moid/item_id.html#28651 28651] || Yes || Yes || No || Yes || No || Drop || Yes || 1000
+|| 0
+|-
+| [[Egg cushion]] || [https://chisel.weirdgloop.org/moid/item_id.html#28659 28659] || Yes || Yes || No || Yes || No || Drop || Yes || 1000
+|| 0
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#28627 28627] || No || No || No || No || No || Drop || Yes || 1
+|| 0
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#28617 28617] || No || No || No || No || No || Drop || Yes || 1
+|| 0
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#28656 28656] || No || No || No || No || No || Drop || Yes || 1
+|| 0
+|-
+| [[Sawmill voucher]] || [https://chisel.weirdgloop.org/moid/item_id.html#28628 28628] || Yes || Yes || No || Yes || No || Drop || Yes || 100
+|| 0
+|-
+| [[Padded spoon]] || [https://chisel.weirdgloop.org/moid/item_id.html#28657 28657] || Yes || Yes || No || Yes || No || Drop || Yes || 1000
+|| 0
+|-
+| [[Mulch]] || [https://chisel.weirdgloop.org/moid/item_id.html#28649 28649] || No || No || No || No || No || Check, History, Destroy || No || 0
+|| 350
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#28654 28654] || No || No || No || No || No || Drop || Yes || 1
+|| 0
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#28638 28638] || No || No || Yes || No || No || Drop || No || 1
+|| 0
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#28666 28666] || No || No || No || No || No || Drop || Yes || 1
+|| 0
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#28645 28645] || No || No || No || No || No || Drop || Yes || 1
+|| 0
+|-
+| [[Smoker canister]] || [https://chisel.weirdgloop.org/moid/item_id.html#28646 28646] || Yes || Yes || No || Yes || No || Drop || Yes || 1000
+|| 0
+|-
+|-
+|}
+
+===Removed Items===
+{| class="wikitable sortable"
+!colspan='2'|Removed Items
+|-
+! style=width:15em | Name !! ID
+|-
+|-
+|}
+===Diff Items===
+{| class="wikitable sortable"
+!colspan='5'|Diff Items
+|-
+! style=width:15em | Name !! ID !! Key !! Previous Value !! New Value
+|-
+|rowspan="4"|[[Leaves]]
+|rowspan="4"|[https://chisel.weirdgloop.org/moid/item_id.html#6020 6020]
+|-
+|stackable || 0 || 1
+|-
+| notedID || 6021 || -1
+|-
+| weight || 28 || 0
+|-
+|rowspan="12"|[[Null]]
+|rowspan="12"|[https://chisel.weirdgloop.org/moid/item_id.html#6021 6021]
+|-
+|name || [[null]] || [[Null]]
+|-
+| xan2d || 0 || 389
+|-
+| yan2d || 0 || 130
+|-
+| inventoryModel || 0 || 48253
+|-
+| zoom2d || 2000 || 2130
+|-
+| xOffset2d || 0 || -1
+|-
+| yOffset2d || 0 || 5
+|-
+| notedID || 6020 || -1
+|-
+| notedTemplate || 799 || -1
+|-
+| weight || 0 || 28
+|-
+| category || 0 || 15
+|-
+|rowspan="4"|[[Oak leaves]]
+|rowspan="4"|[https://chisel.weirdgloop.org/moid/item_id.html#6022 6022]
+|-
+|stackable || 0 || 1
+|-
+| notedID || 6023 || -1
+|-
+| weight || 28 || 0
+|-
+|rowspan="12"|[[Null]]
+|rowspan="12"|[https://chisel.weirdgloop.org/moid/item_id.html#6023 6023]
+|-
+|name || [[null]] || [[Null]]
+|-
+| xan2d || 0 || 389
+|-
+| yan2d || 0 || 130
+|-
+| inventoryModel || 0 || 48253
+|-
+| zoom2d || 2000 || 2130
+|-
+| xOffset2d || 0 || -1
+|-
+| yOffset2d || 0 || 5
+|-
+| notedID || 6022 || -1
+|-
+| notedTemplate || 799 || -1
+|-
+| weight || 0 || 28
+|-
+| category || 0 || 15
+|-
+|rowspan="4"|[[Willow leaves]]
+|rowspan="4"|[https://chisel.weirdgloop.org/moid/item_id.html#6024 6024]
+|-
+|stackable || 0 || 1
+|-
+| notedID || 6025 || -1
+|-
+| weight || 28 || 0
+|-
+|rowspan="12"|[[Null]]
+|rowspan="12"|[https://chisel.weirdgloop.org/moid/item_id.html#6025 6025]
+|-
+|name || [[null]] || [[Null]]
+|-
+| xan2d || 0 || 389
+|-
+| yan2d || 0 || 130
+|-
+| inventoryModel || 0 || 48253
+|-
+| zoom2d || 2000 || 2130
+|-
+| xOffset2d || 0 || -1
+|-
+| yOffset2d || 0 || 5
+|-
+| notedID || 6024 || -1
+|-
+| notedTemplate || 799 || -1
+|-
+| weight || 0 || 28
+|-
+| category || 0 || 15
+|-
+|rowspan="4"|[[Yew leaves]]
+|rowspan="4"|[https://chisel.weirdgloop.org/moid/item_id.html#6026 6026]
+|-
+|stackable || 0 || 1
+|-
+| notedID || 6027 || -1
+|-
+| weight || 28 || 0
+|-
+|rowspan="12"|[[Null]]
+|rowspan="12"|[https://chisel.weirdgloop.org/moid/item_id.html#6027 6027]
+|-
+|name || [[null]] || [[Null]]
+|-
+| xan2d || 0 || 389
+|-
+| yan2d || 0 || 130
+|-
+| inventoryModel || 0 || 48253
+|-
+| zoom2d || 2000 || 2130
+|-
+| xOffset2d || 0 || -1
+|-
+| yOffset2d || 0 || 5
+|-
+| notedID || 6026 || -1
+|-
+| notedTemplate || 799 || -1
+|-
+| weight || 0 || 28
+|-
+| category || 0 || 15
+|-
+|rowspan="4"|[[Maple leaves]]
+|rowspan="4"|[https://chisel.weirdgloop.org/moid/item_id.html#6028 6028]
+|-
+|stackable || 0 || 1
+|-
+| notedID || 6029 || -1
+|-
+| weight || 28 || 0
+|-
+|rowspan="12"|[[Null]]
+|rowspan="12"|[https://chisel.weirdgloop.org/moid/item_id.html#6029 6029]
+|-
+|name || [[null]] || [[Null]]
+|-
+| xan2d || 0 || 389
+|-
+| yan2d || 0 || 130
+|-
+| inventoryModel || 0 || 48253
+|-
+| zoom2d || 2000 || 2130
+|-
+| xOffset2d || 0 || -1
+|-
+| yOffset2d || 0 || 5
+|-
+| notedID || 6028 || -1
+|-
+| notedTemplate || 799 || -1
+|-
+| weight || 0 || 28
+|-
+| category || 0 || 15
+|-
+|rowspan="4"|[[Magic leaves]]
+|rowspan="4"|[https://chisel.weirdgloop.org/moid/item_id.html#6030 6030]
+|-
+|stackable || 0 || 1
+|-
+| notedID || 6031 || -1
+|-
+| weight || 28 || 0
+|-
+|rowspan="12"|[[Null]]
+|rowspan="12"|[https://chisel.weirdgloop.org/moid/item_id.html#6031 6031]
+|-
+|name || [[null]] || [[Null]]
+|-
+| xan2d || 0 || 389
+|-
+| yan2d || 0 || 130
+|-
+| inventoryModel || 0 || 48253
+|-
+| zoom2d || 2000 || 2130
+|-
+| xOffset2d || 0 || -1
+|-
+| yOffset2d || 0 || 5
+|-
+| notedID || 6030 || -1
+|-
+| notedTemplate || 799 || -1
+|-
+| weight || 0 || 28
+|-
+| category || 0 || 15
+|-
+|rowspan="2"|[[Woodcutting cape]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#9807 9807]
+|-
+|params || {'451': 'Boost'} || {'1784': 'The cape worn by master woodcutters.', '1793': 1, '451': 'Boost'}
+|-
+|rowspan="2"|[[Woodcut. cape(t)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#9808 9808]
+|-
+|params || {'451': 'Boost'} || {'1784': 'The cape worn by master woodcutters.', '1793': 1, '451': 'Boost'}
+|-
+|rowspan="2"|[[Beaver]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#13322 13322]
+|-
+|interfaceOptions || [None, None, None, None, 'Drop'] || [None, None, 'Metamorphosis', None, 'Drop']
+|-
+|rowspan="9"|[[Log brace]]
+|rowspan="9"|[https://chisel.weirdgloop.org/moid/item_id.html#28146 28146]
+|-
+|xan2d || 804 || 361
+|-
+| yan2d || 917 || 2042
+|-
+| zan2d || 1816 || 0
+|-
+| inventoryModel || 15039 || 49887
+|-
+| zoom2d || 2250 || 822
+|-
+| xOffset2d || 42 || -1
+|-
+| yOffset2d || 3 || 23
+|-
+| params || {'1784': 'The log brace is used to make the sturdy harness. Which allows the forestry kit and log basket to be combined into one tool. You will also need:<br><br>45 Nails<br>2 Rope<br>3 Adamantite bars<br><br>75 smithing<br>75 woodcutting'} || {'1784': 'The log brace is used to make the sturdy harness. Which allows the forestry kit and log basket to be combined into one tool. You will also need:<br><br>45 Nails<br>2 Rope<br>3 Adamantite bars<br><br>75 Smithing<br>75 Woodcutting'}
+|-
+|rowspan="2"|[[Ritual mulch]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#28154 28154]
+|-
+|params || {'1784': 'This component is used to make nature offerings which give extra logs while woodcutting. You will also need:<br><br>A high tier herb<br><br>50 farming<br>68 woodcutting'} || {'1784': 'This component is used to make nature offerings which give extra logs while woodcutting. You will also need:<br><br>A high tier herb<br><br>50 Farming<br>68 Woodcutting<br><br>Makes 40'}
+|-
+|rowspan="2"|[[Forester's ration]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#28157 28157]
+|-
+|params || {'1784': "The Forester's ration is made by preserving meat in leaves.<br><br>The ration is automatically consumed while cutting trees to replenish your run energy."} || {'1784': "The Forester's ration is made by preserving meat or fish in leaves.<br><br>The ration is automatically consumed while cutting trees to replenish your run energy.<br><br>This ration is also consumed when using felling axes, giving higher rates of XP."}
+|-
+|rowspan="2"|[[Secateurs blade]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#28159 28159]
+|-
+|params || {'1784': 'The secateurs blade is an ingredient of the secateurs attachment, which allows you to collect more leaves when chopping trees. You will also need:<br><br>An iron bar<br><br>35 Smithing<br>35 woodcutting'} || {'1784': 'The secateurs blade is an ingredient of the secateurs attachment, which allows you to collect more leaves when chopping trees. You will also need:<br><br>An iron bar<br><br>35 Smithing<br>35 Woodcutting<br><br>Makes 50'}
+|-
+|rowspan="5"|[[Felling axe handle]]
+|rowspan="5"|[https://chisel.weirdgloop.org/moid/item_id.html#28177 28177]
+|-
+|name || [[Axe handle]] || [[Felling axe handle]]
+|-
+| cost || 1 || 5000
+|-
+| isTradeable || False || True
+|-
+| notedID || -1 || 28615
+|-
+|rowspan="2"|[[Clover insignia]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#28181 28181]
+|-
+|params || {'1784': 'This insignia can be used to create a Leprechaun charm, which attract the attention of leprechaun when chopping down trees. You will also need:<br><br>An emerald<br>A ball of wool<br><br>70 crafting<br>70 woodcutting<br>35 Farming'} || {'1784': 'This insignia can be used to create a Leprechaun charm, which attract the attention of leprechauns when chopping down trees. You will also need:<br><br>An emerald<br>A ball of wool<br><br>70 Crafting<br>70 Woodcutting<br>35 Farming<br><br>Makes 10'}
+|-
+|rowspan="2"|[[Mulch]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#28183 28183]
+|-
+|category || 0 || 1882
+|-
+|rowspan="2"|[[Powdered pollen]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#28190 28190]
+|-
+|params || {'1784': 'This pollen can be used to create the common tool, Bee on a stick. Helpful for pollinating plants. You will also need:<br><br>A ball of wool<br>Logs<br>Close proximity to a bee hive.<br><br>50 hunter<br>35 woodcutting'} || {'1784': 'This pollen can be used to create the common tool, Bee on a stick. Helpful for pollinating plants. You will also need:<br><br>A ball of wool<br>Logs<br>Close proximity to a bee hive.<br><br>50 Hunter<br>35 Woodcutting<br><br>Makes 10'}
+|-
+|rowspan="5"|[[Bronze felling axe]]
+|rowspan="5"|[https://chisel.weirdgloop.org/moid/item_id.html#28196 28196]
+|-
+|name || [[Bronze 2h axe]] || [[Bronze felling axe]]
+|-
+| wearPos2 || 0 || 5
+|-
+| members || False || True
+|-
+| weight || 1360 || 1814
+|-
+|rowspan="6"|[[Iron felling axe]]
+|rowspan="6"|[https://chisel.weirdgloop.org/moid/item_id.html#28199 28199]
+|-
+|name || [[Iron 2h axe]] || [[Iron felling axe]]
+|-
+| cost || 161 || 56
+|-
+| wearPos2 || 0 || 5
+|-
+| members || False || True
+|-
+| weight || 1360 || 1814
+|-
+|rowspan="7"|[[Steel felling axe]]
+|rowspan="7"|[https://chisel.weirdgloop.org/moid/item_id.html#28202 28202]
+|-
+|name || [[Steel 2h axe]] || [[Steel felling axe]]
+|-
+| cost || 161 || 200
+|-
+| wearPos2 || 0 || 5
+|-
+| members || False || True
+|-
+| weight || 1360 || 1814
+|-
+| params || {'23': 0} || {'23': 6}
+|-
+|rowspan="7"|[[Black felling axe]]
+|rowspan="7"|[https://chisel.weirdgloop.org/moid/item_id.html#28205 28205]
+|-
+|name || [[Black 2h axe]] || [[Black felling axe]]
+|-
+| cost || 161 || 384
+|-
+| wearPos2 || 0 || 5
+|-
+| members || False || True
+|-
+| weight || 1360 || 1814
+|-
+| params || {'23': 0} || {'23': 11}
+|-
+|rowspan="7"|[[Mithril felling axe]]
+|rowspan="7"|[https://chisel.weirdgloop.org/moid/item_id.html#28208 28208]
+|-
+|name || [[Mithril 2h axe]] || [[Mithril felling axe]]
+|-
+| cost || 161 || 520
+|-
+| wearPos2 || 0 || 5
+|-
+| members || False || True
+|-
+| weight || 1360 || 1814
+|-
+| params || {'23': 0} || {'23': 21}
+|-
+|rowspan="7"|[[Adamant felling axe]]
+|rowspan="7"|[https://chisel.weirdgloop.org/moid/item_id.html#28211 28211]
+|-
+|name || [[Adamant 2h axe]] || [[Adamant felling axe]]
+|-
+| cost || 161 || 1280
+|-
+| wearPos2 || 0 || 5
+|-
+| members || False || True
+|-
+| weight || 1360 || 1814
+|-
+| params || {'23': 0} || {'23': 31}
+|-
+|rowspan="7"|[[Rune felling axe]]
+|rowspan="7"|[https://chisel.weirdgloop.org/moid/item_id.html#28214 28214]
+|-
+|name || [[Rune 2h axe]] || [[Rune felling axe]]
+|-
+| cost || 161 || 12800
+|-
+| wearPos2 || 0 || 5
+|-
+| members || False || True
+|-
+| weight || 1360 || 1814
+|-
+| params || {'23': 0} || {'23': 41}
+|-
+|rowspan="7"|[[Dragon felling axe]]
+|rowspan="7"|[https://chisel.weirdgloop.org/moid/item_id.html#28217 28217]
+|-
+|name || [[Dragon 2h axe]] || [[Dragon felling axe]]
+|-
+| cost || 161 || 55000
+|-
+| wearPos2 || 0 || 5
+|-
+| members || False || True
+|-
+| weight || 1360 || 1814
+|-
+| params || {'23': 0} || {'258': 35, '23': 61}
+|-
+|rowspan="9"|[[Crystal felling axe]]
+|rowspan="9"|[https://chisel.weirdgloop.org/moid/item_id.html#28220 28220]
+|-
+|name || [[Crystal 2h axe]] || [[Crystal felling axe]]
+|-
+| cost || 161 || 520000
+|-
+| isTradeable || True || False
+|-
+| wearPos2 || 0 || 5
+|-
+| members || False || True
+|-
+| interfaceOptions || [None, 'Wield', None, None, 'Drop'] || [None, 'Wield', 'Check', 'Revert', 'Drop']
+|-
+| notedID || 28221 || -1
+|-
+| params || {'23': 0} || {'258': 35, '23': 71, '451': 'Check'}
+|-
+|rowspan="12"|[[Null]]
+|rowspan="12"|[https://chisel.weirdgloop.org/moid/item_id.html#28221 28221]
+|-
+|name || [[null]] || [[Null]]
+|-
+| xan2d || 0 || 409
+|-
+| yan2d || 0 || 1421
+|-
+| inventoryModel || 0 || 48192
+|-
+| zoom2d || 2000 || 1700
+|-
+| xOffset2d || 0 || -4
+|-
+| yOffset2d || 0 || 7
+|-
+| notedID || 28220 || -1
+|-
+| notedTemplate || 799 || -1
+|-
+| weight || 0 || 1360
+|-
+| category || 0 || 15
+|-
+|rowspan="10"|[[Crystal felling axe (inactive)]]
+|rowspan="10"|[https://chisel.weirdgloop.org/moid/item_id.html#28223 28223]
+|-
+|name || [[Crystal 2h axe]] || [[Crystal felling axe (inactive)]]
+|-
+| cost || 161 || 520000
+|-
+| isTradeable || True || False
+|-
+| wearPos2 || 0 || 5
+|-
+| members || False || True
+|-
+| interfaceOptions || [None, 'Wield', None, None, 'Drop'] || [None, 'Wield', None, 'Revert', 'Drop']
+|-
+| notedID || 28224 || -1
+|-
+| weight || 1360 || 1814
+|-
+| params || {'23': 0} || {'258': 35, '23': 71}
+|-
+|rowspan="12"|[[Null]]
+|rowspan="12"|[https://chisel.weirdgloop.org/moid/item_id.html#28224 28224]
+|-
+|name || [[null]] || [[Null]]
+|-
+| xan2d || 0 || 409
+|-
+| yan2d || 0 || 1421
+|-
+| inventoryModel || 0 || 48192
+|-
+| zoom2d || 2000 || 1700
+|-
+| xOffset2d || 0 || -4
+|-
+| yOffset2d || 0 || 7
+|-
+| notedID || 28223 || -1
+|-
+| notedTemplate || 799 || -1
+|-
+| weight || 0 || 1360
+|-
+| category || 0 || 15
+|-
+|rowspan="7"|[[3rd age felling axe]]
+|rowspan="7"|[https://chisel.weirdgloop.org/moid/item_id.html#28226 28226]
+|-
+|name || [[3rd age 2h axe]] || [[3rd age felling axe]]
+|-
+| cost || 161 || 55000
+|-
+| wearPos2 || 0 || 5
+|-
+| members || False || True
+|-
+| weight || 1360 || 1814
+|-
+| params || {'23': 0} || {'23': 61}
+|-
+|rowspan="2"|[[Beaver]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#28229 28229]
+|-
+|interfaceOptions || [None, None, None, None, 'Drop'] || [None, None, 'Metamorphosis', None, 'Drop']
+|-
+|rowspan="2"|[[Beaver]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#28230 28230]
+|-
+|interfaceOptions || [None, None, None, None, 'Drop'] || [None, None, 'Metamorphosis', None, 'Drop']
+|-
+|rowspan="2"|[[Beaver]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#28231 28231]
+|-
+|interfaceOptions || [None, None, None, None, 'Drop'] || [None, None, 'Metamorphosis', None, 'Drop']
+|-
+|rowspan="2"|[[Beaver]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#28232 28232]
+|-
+|interfaceOptions || [None, None, None, None, 'Drop'] || [None, None, 'Metamorphosis', None, 'Drop']
+|-
+|rowspan="2"|[[Beaver]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#28233 28233]
+|-
+|interfaceOptions || [None, None, None, None, 'Drop'] || [None, None, 'Metamorphosis', None, 'Drop']
+|-
+|rowspan="2"|[[Beaver]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#28234 28234]
+|-
+|interfaceOptions || [None, None, None, None, 'Drop'] || [None, None, 'Metamorphosis', None, 'Drop']
+|-
+|rowspan="2"|[[Beaver]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#28235 28235]
+|-
+|interfaceOptions || [None, None, None, None, 'Drop'] || [None, None, 'Metamorphosis', None, 'Drop']
+|-
+|rowspan="2"|[[Beaver]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#28236 28236]
+|-
+|interfaceOptions || [None, None, None, None, 'Drop'] || [None, None, 'Metamorphosis', None, 'Drop']
+|-
+|rowspan="2"|[[Beaver]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#28237 28237]
+|-
+|interfaceOptions || [None, None, None, None, 'Drop'] || [None, None, 'Metamorphosis', None, 'Drop']
+|-
+|rowspan="2"|[[Cobweb cape]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#28601 28601]
+|-
+|interfaceOptions || [None, 'Wear', None, None, 'Destroy'] || [None, 'Wear', 'Change', None, 'Destroy']
+|-
+|}
+
+==Non-Player Characters==
+===New NPCs===
+{| class="wikitable sortable"
+!colspan='4'|New NPCs
+|-
+! style=width:15em | Name !! ID !! Combat Level !! Options
+|-
+| [[<col=00ffff>Ritual circle (blue)</col>]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12526 12526] || No Combat Level || 
+|-
+| [[Poacher]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12539 12539] || No Combat Level || 
+|-
+| [[<col=00ffff>Fox trap</col>]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12541 12541] || No Combat Level || Disarm
+|-
+| [[Pheasant]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12549 12549] || No Combat Level || Talk-to, Metamorphosis, Pick-up
+|-
+| [[<col=00ffff>Ritual circle (red)</col>]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12531 12531] || No Combat Level || 
+|-
+| [[Friendly Ent]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12545 12545] || No Combat Level || Talk-to
+|-
+| [[<col=00ffff>Ritual circle (blue)</col>]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12534 12534] || No Combat Level || 
+|-
+| [[Freaky Forester]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12536 12536] || No Combat Level || Talk-to
+|-
+| [[<col=00ffff>Ritual circle (green)</col>]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12524 12524] || No Combat Level || 
+|-
+| [[<col=00ffff>Complete Bee hive</col>]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12517 12517] || No Combat Level || Build
+|-
+| [[Pheasant]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12537 12537] || No Combat Level || 
+|-
+| [[<col=00ffff>Ritual circle (yellow)</col>]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12521 12521] || No Combat Level || 
+|-
+| [[Pruned Entling]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12544 12544] || No Combat Level || Prune, Prune-top, Prune-back, Prune-sides
+|-
+| [[<col=00ffff>Ritual circle (red)</col>]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12535 12535] || No Combat Level || 
+|-
+| [[Poacher]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12540 12540] || No Combat Level || 
+|-
+| [[Friendly Ent]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12546 12546] || No Combat Level || Talk-to
+|-
+| [[<col=00ffff>Ritual circle (green)</col>]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12520 12520] || No Combat Level || 
+|-
+| [[<col=00ffff>Unfinished Bee hive</col>]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12516 12516] || No Combat Level || Build
+|-
+| [[<col=00ffff>Ritual circle (blue)</col>]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12522 12522] || No Combat Level || 
+|-
+| [[<col=00ffff>Ritual circle (red)</col>]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12523 12523] || No Combat Level || 
+|-
+| [[<col=00ffff>Ritual circle (yellow)</col>]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12525 12525] || No Combat Level || 
+|-
+| [[<col=00ffff>Ritual circle (yellow)</col>]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12529 12529] || No Combat Level || 
+|-
+| [[<col=00ffff>Ritual circle (green)</col>]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12528 12528] || No Combat Level || 
+|-
+| [[<col=00ffff>Wild Bee hive</col>]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12518 12518] || No Combat Level || 
+|-
+| [[Dryad]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12519 12519] || No Combat Level || Talk-to
+|-
+| [[Fox]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12550 12550] || No Combat Level || Talk-to, Metamorphosis, Pick-up
+|-
+| [[<col=00ffff>Ritual circle (blue)</col>]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12530 12530] || No Combat Level || 
+|-
+| [[<col=00ffff>Ritual circle (yellow)</col>]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12533 12533] || No Combat Level || 
+|-
+| [[Entling]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12543 12543] || No Combat Level || Prune, Prune-top, Prune-back, Prune-sides
+|-
+| [[Pheasant]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12547 12547] || No Combat Level || Talk-to, Pick-up, Metamorphosis
+|-
+| [[<col=00ffff>Ritual circle (red)</col>]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12527 12527] || No Combat Level || 
+|-
+| [[<col=00ffff>Ritual circle (green)</col>]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12532 12532] || No Combat Level || 
+|-
+| [[<col=00ffff>Unfinished Bee hive</col>]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12515 12515] || No Combat Level || Build
+|-
+| [[Bee keeper]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12514 12514] || No Combat Level || Talk-to
+|-
+| [[Fox]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12548 12548] || No Combat Level || Talk-to, Pick-up, Metamorphosis
+|-
+| [[Poacher]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12538 12538] || No Combat Level || 
+|-
+| [[Frightened Fox]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12542 12542] || No Combat Level || 
+|-
+|-
+|}
+===Removed NPCs===
+{| class="wikitable sortable"
+!colspan='2'|Removed NPCs
+|-
+! style=width:15em | Name !! ID
+|-
+|-
+|}
+===Diff NPCs===
+{| class="wikitable sortable"
+!colspan='5'|Diff NPCs
+|-
+! style=width:15em | Name !! ID !! Key !! Previous Value !! New Value
+|-
+|rowspan="2"|[[Beaver]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#12169 12169]
+|-
+|actions || ['Talk-to', None, 'Pick-up', None, None] || ['Talk-to', None, 'Pick-up', 'Metamorphosis', None]
+|-
+|rowspan="2"|[[Beaver]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#12170 12170]
+|-
+|actions || ['Talk-to', None, 'Pick-up', None, None] || ['Talk-to', None, 'Pick-up', 'Metamorphosis', None]
+|-
+|rowspan="2"|[[Beaver]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#12171 12171]
+|-
+|actions || ['Talk-to', None, 'Pick-up', None, None] || ['Talk-to', None, 'Pick-up', 'Metamorphosis', None]
+|-
+|rowspan="2"|[[Beaver]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#12172 12172]
+|-
+|actions || ['Talk-to', None, 'Pick-up', None, None] || ['Talk-to', None, 'Pick-up', 'Metamorphosis', None]
+|-
+|rowspan="2"|[[Beaver]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#12173 12173]
+|-
+|actions || ['Talk-to', None, 'Pick-up', None, None] || ['Talk-to', None, 'Pick-up', 'Metamorphosis', None]
+|-
+|rowspan="2"|[[Beaver]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#12174 12174]
+|-
+|actions || ['Talk-to', None, 'Pick-up', None, None] || ['Talk-to', None, 'Pick-up', 'Metamorphosis', None]
+|-
+|rowspan="2"|[[Beaver]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#12175 12175]
+|-
+|actions || ['Talk-to', None, 'Pick-up', None, None] || ['Talk-to', None, 'Pick-up', 'Metamorphosis', None]
+|-
+|rowspan="2"|[[Beaver]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#12176 12176]
+|-
+|actions || ['Talk-to', None, 'Pick-up', None, None] || ['Talk-to', None, 'Pick-up', 'Metamorphosis', None]
+|-
+|rowspan="2"|[[Beaver]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#12177 12177]
+|-
+|actions || ['Talk-to', None, 'Pick-up', None, None] || ['Talk-to', None, 'Pick-up', 'Metamorphosis', None]
+|-
+|rowspan="2"|[[Beaver]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#12178 12178]
+|-
+|actions || ['Talk-to', None, 'Pick-up', None, None] || ['Talk-to', None, 'Pick-up', 'Metamorphosis', None]
+|-
+|rowspan="2"|[[Beaver]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#12181 12181]
+|-
+|actions || ['Talk-to', None, 'Pick-up', None, None] || ['Talk-to', None, 'Metamorphosis', 'Pick-up', None]
+|-
+|rowspan="2"|[[Beaver]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#12182 12182]
+|-
+|actions || ['Talk-to', None, 'Pick-up', None, None] || ['Talk-to', None, 'Metamorphosis', 'Pick-up', None]
+|-
+|rowspan="2"|[[Beaver]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#12183 12183]
+|-
+|actions || ['Talk-to', None, 'Pick-up', None, None] || ['Talk-to', None, 'Metamorphosis', 'Pick-up', None]
+|-
+|rowspan="2"|[[Beaver]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#12184 12184]
+|-
+|actions || ['Talk-to', None, 'Pick-up', None, None] || ['Talk-to', None, 'Metamorphosis', 'Pick-up', None]
+|-
+|rowspan="2"|[[Beaver]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#12185 12185]
+|-
+|actions || ['Talk-to', None, 'Pick-up', None, None] || ['Talk-to', None, 'Metamorphosis', 'Pick-up', None]
+|-
+|rowspan="2"|[[Beaver]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#12186 12186]
+|-
+|actions || ['Talk-to', None, 'Pick-up', None, None] || ['Talk-to', None, 'Metamorphosis', 'Pick-up', None]
+|-
+|rowspan="2"|[[Beaver]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#12187 12187]
+|-
+|actions || ['Talk-to', None, 'Pick-up', None, None] || ['Talk-to', None, 'Metamorphosis', 'Pick-up', None]
+|-
+|rowspan="2"|[[Beaver]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#12188 12188]
+|-
+|actions || ['Talk-to', None, 'Pick-up', None, None] || ['Talk-to', None, 'Metamorphosis', 'Pick-up', None]
+|-
+|rowspan="2"|[[Beaver]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#12189 12189]
+|-
+|actions || ['Talk-to', None, 'Pick-up', None, None] || ['Talk-to', None, 'Metamorphosis', 'Pick-up', None]
+|-
+|rowspan="2"|[[Beaver]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#12190 12190]
+|-
+|actions || ['Talk-to', None, 'Pick-up', None, None] || ['Talk-to', None, 'Metamorphosis', 'Pick-up', None]
+|-
+|}
+
+==Objects==
+===New Objects=== 
+{| class="wikitable sortable"
+!colspan='3'|New Objects
+|-
+! style=width:15em | Name !! ID !! Options
+|-
+| [[Bee Hive]] || [https://chisel.weirdgloop.org/moid/object_id.html#49933 49933] || 
+|-
+| [[Pheasant Nest]] || [https://chisel.weirdgloop.org/moid/object_id.html#49937 49937] || Retrieve-egg
+|-
+| [[Clovers]] || [https://chisel.weirdgloop.org/moid/object_id.html#49935 49935] || 
+|-
+| [[Forester's Campfire]] || [https://chisel.weirdgloop.org/moid/object_id.html#49929 49929] || Tend-to, Check, Rest
+|-
+| [[Forester's Campfire]] || [https://chisel.weirdgloop.org/moid/object_id.html#49930 49930] || Tend-to, Check, Rest
+|-
+| [[Forester's Campfire]] || [https://chisel.weirdgloop.org/moid/object_id.html#49931 49931] || Tend-to, Check, Rest
+|-
+| [[Forester's Campfire]] || [https://chisel.weirdgloop.org/moid/object_id.html#49928 49928] || Tend-to, Check, Rest
+|-
+| [[Pheasant Nest]] || [https://chisel.weirdgloop.org/moid/object_id.html#49936 49936] || Retrieve-egg
+|-
+| [[Forester's Campfire]] || [https://chisel.weirdgloop.org/moid/object_id.html#49932 49932] || Tend-to, Check, Rest
+|-
+| [[End of Rainbow]] || [https://chisel.weirdgloop.org/moid/object_id.html#49934 49934] || 
+|-
+| [[Forester's Campfire]] || [https://chisel.weirdgloop.org/moid/object_id.html#49927 49927] || Tend-to, Check, Rest
+|-
+|-
+|}
+===Removed Objects===
+{| class="wikitable sortable"
+!colspan='2'|Removed Objects
+|-
+! style=width:15em | Name !! ID
+|-
+| [[Clovers]] || [https://chisel.weirdgloop.org/moid/object_id.html#47481 47481]
+|-
+|-
+|}
+===Diff Objects===
+{| class="wikitable sortable"
+!colspan='5'|Diff Objects
+|-
+! style=width:15em | Name !! ID !! Key !! Previous Value !! New Value
+|-
+|}

@@ -15,19 +15,17 @@ import kotlin.test.assertContains
 import kotlin.test.assertEquals
 import kotlinx.coroutines.runBlocking
 
-
 class WikiToolTest {
     private val mapper = jacksonObjectMapper()
 
     @Test
     fun `wiki_search returns formatted result list`() = runBlocking {
-        val engine =
-            MockEngine { request ->
-                val action = request.url.parameters["action"]
-                if (action == "query") {
-                    respond(
-                        content =
-                            """
+        val engine = MockEngine { request ->
+            val action = request.url.parameters["action"]
+            if (action == "query") {
+                respond(
+                    content =
+                        """
                             {
                               "query": {
                                 "search": [
@@ -36,21 +34,22 @@ class WikiToolTest {
                                 ]
                               }
                             }
-                            """.trimIndent(),
-                        status = HttpStatusCode.OK,
-                        headers =
-                            headersOf(
-                                HttpHeaders.ContentType,
-                                ContentType.Application.Json.toString(),
-                            ),
-                    )
-                } else {
-                    error("Unexpected action: $action")
-                }
+                            """
+                            .trimIndent(),
+                    status = HttpStatusCode.OK,
+                    headers =
+                        headersOf(HttpHeaders.ContentType, ContentType.Application.Json.toString()),
+                )
+            } else {
+                error("Unexpected action: $action")
             }
+        }
 
         HttpClient(engine).use { client ->
-            val service = WikiTool(wikiProvider = { WikiClient(client, mapper, "https://example.test/api.php") })
+            val service =
+                WikiTool(
+                    wikiProvider = { WikiClient(client, mapper, "https://example.test/api.php") }
+                )
             val output = service.wikiSearch("lumbridge", 2)
 
             assertContains(output, "Found 2 results for 'lumbridge'")
@@ -62,34 +61,34 @@ class WikiToolTest {
 
     @Test
     fun `wiki_page returns normalized page text`() = runBlocking {
-        val engine =
-            MockEngine { request ->
-                val action = request.url.parameters["action"]
-                if (action == "parse") {
-                    respond(
-                        content =
-                            """
+        val engine = MockEngine { request ->
+            val action = request.url.parameters["action"]
+            if (action == "parse") {
+                respond(
+                    content =
+                        """
                             {
                               "parse": {
                                 "title": "Lumbridge",
                                 "text": "<p><b>Lumbridge</b> is a city.</p><p>It has a castle.</p>"
                               }
                             }
-                            """.trimIndent(),
-                        status = HttpStatusCode.OK,
-                        headers =
-                            headersOf(
-                                HttpHeaders.ContentType,
-                                ContentType.Application.Json.toString(),
-                            ),
-                    )
-                } else {
-                    error("Unexpected action: $action")
-                }
+                            """
+                            .trimIndent(),
+                    status = HttpStatusCode.OK,
+                    headers =
+                        headersOf(HttpHeaders.ContentType, ContentType.Application.Json.toString()),
+                )
+            } else {
+                error("Unexpected action: $action")
             }
+        }
 
         HttpClient(engine).use { client ->
-            val service = WikiTool(wikiProvider = { WikiClient(client, mapper, "https://example.test/api.php") })
+            val service =
+                WikiTool(
+                    wikiProvider = { WikiClient(client, mapper, "https://example.test/api.php") }
+                )
             val output = service.wikiPage("Lumbridge", 1000)
 
             assertContains(output, "Title: Lumbridge")
@@ -100,26 +99,23 @@ class WikiToolTest {
 
     @Test
     fun `wiki_page applies max char clipping`() = runBlocking {
-        val engine =
-            MockEngine { _ ->
-                respond(
-                    content =
-                        """
+        val engine = MockEngine { _ ->
+            respond(
+                content =
+                    """
                         {
                           "parse": {
                             "title": "LongPage",
                             "text": "<p>${"a".repeat(300)}</p>"
                           }
                         }
-                        """.trimIndent(),
-                    status = HttpStatusCode.OK,
-                    headers =
-                        headersOf(
-                            HttpHeaders.ContentType,
-                            ContentType.Application.Json.toString(),
-                        ),
-                )
-            }
+                        """
+                        .trimIndent(),
+                status = HttpStatusCode.OK,
+                headers =
+                    headersOf(HttpHeaders.ContentType, ContentType.Application.Json.toString()),
+            )
+        }
 
         HttpClient(engine).use { client ->
             val wiki = WikiClient(client, mapper, "https://example.test/api.php")
@@ -132,13 +128,12 @@ class WikiToolTest {
 
     @Test
     fun `wiki_npc_spawns parses coordinates from locline source`() = runBlocking {
-        val engine =
-            MockEngine { request ->
-                val action = request.url.parameters["action"]
-                if (action == "query") {
-                    respond(
-                        content =
-                            """
+        val engine = MockEngine { request ->
+            val action = request.url.parameters["action"]
+            if (action == "query") {
+                respond(
+                    content =
+                        """
                             {
                               "query": {
                                 "pages": [
@@ -157,22 +152,28 @@ class WikiToolTest {
                                 ]
                               }
                             }
-                            """.trimIndent(),
-                        status = HttpStatusCode.OK,
-                        headers =
-                            headersOf(
-                                HttpHeaders.ContentType,
-                                ContentType.Application.Json.toString(),
-                            ),
-                    )
-                } else {
-                    error("Unexpected action: $action")
-                }
+                            """
+                            .trimIndent(),
+                    status = HttpStatusCode.OK,
+                    headers =
+                        headersOf(HttpHeaders.ContentType, ContentType.Application.Json.toString()),
+                )
+            } else {
+                error("Unexpected action: $action")
             }
+        }
 
         HttpClient(engine).use { client ->
-            val service = WikiTool(wikiProvider = { WikiClient(client, mapper, "https://example.test/api.php") })
-            val output = service.wikiNpcSpawns(title = "Cave kraken", npcName = "Kraken", location = "Kraken Cove")
+            val service =
+                WikiTool(
+                    wikiProvider = { WikiClient(client, mapper, "https://example.test/api.php") }
+                )
+            val output =
+                service.wikiNpcSpawns(
+                    title = "Cave kraken",
+                    npcName = "Kraken",
+                    location = "Kraken Cove",
+                )
 
             assertContains(output, "Found 1 spawn entries")
             assertContains(output, "Kraken")
@@ -190,9 +191,7 @@ class WikiToolTest {
 
         writeDat(
             binaryDir.resolve("gamevals.dat"),
-            mapOf(
-                "npc" to listOf("kraken=1234", "cave_kraken=5678", "kraken_boss=7777"),
-            ),
+            mapOf("npc" to listOf("kraken=1234", "cave_kraken=5678", "kraken_boss=7777")),
         )
         writeDat(binaryDir.resolve("gamevals_columns.dat"), mapOf("dbcolumn" to emptyList()))
 
@@ -203,7 +202,8 @@ class WikiToolTest {
                     gameValToolProvider = { GameValTool.load(root.toString()) },
                 )
 
-            val output = service.gamevalSearch(query = "kraken", table = "npc", id = null, limit = 2)
+            val output =
+                service.gamevalSearch(query = "kraken", table = "npc", id = null, limit = 2)
 
             assertContains(output, "Found 3 gameval matches; showing 2")
             assertContains(output, "npc.kraken = 1234")
@@ -231,5 +231,3 @@ class WikiToolTest {
         output.write(bytes)
     }
 }
-
-

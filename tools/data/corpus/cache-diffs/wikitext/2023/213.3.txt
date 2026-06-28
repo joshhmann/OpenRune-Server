@@ -1,0 +1,3289 @@
+{{ToC}}
+==Items==
+===New Items===
+{| class="wikitable sortable"
+!colspan='11'|New Items
+|-
+! style=width:15em | Name !! ID !! Members !! Tradeable in GE !! Equipable !! Stackable !! Noteable !! Options !! Placeholder !! Cost !! Weight
+|-
+|-
+|}
+===Removed Items===
+{| class="wikitable sortable"
+!colspan='2'|Removed Items
+|-
+! style=width:15em | Name !! ID
+|-
+|-
+|}
+===Diff Items===
+{| class="wikitable sortable"
+!colspan='5'|Diff Items
+|-
+! style=width:15em | Name !! ID !! Key !! Previous Value !! New Value
+|-
+|rowspan="2"|[[Fire cape]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#6570 6570]
+|-
+|params || {'1564': 1, '258': 22} || {'1564': 1, '258': 22, '295': 1}
+|-
+|rowspan="2"|[[Progress hat]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#6885 6885]
+|-
+|params || {'451': 'Talk-to'} || {'295': 1, '451': 'Talk-to'}
+|-
+|rowspan="2"|[[Progress hat]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#6886 6886]
+|-
+|params || {'451': 'Talk-to'} || {'295': 1, '451': 'Talk-to'}
+|-
+|rowspan="2"|[[Progress hat]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#6887 6887]
+|-
+|params || {'451': 'Talk-to'} || {'295': 1, '451': 'Talk-to'}
+|-
+|rowspan="2"|[[Mage's book]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#6889 6889]
+|-
+|params || {'1564': 5, '436': 60, '434': 6} || {'434': 6, '1564': 5, '436': 60, '295': 1}
+|-
+|rowspan="2"|[[Rune defender]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#8850 8850]
+|-
+|params || {'434': 0, '435': 1, '1564': 5, '436': 40, '437': 40} || {'434': 0, '435': 1, '1564': 5, '436': 40, '437': 40, '295': 1}
+|-
+|rowspan="2"|[[Ava's attractor]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#10498 10498]
+|-
+|params || {'451': 'Commune'} || {'295': 1, '451': 'Commune'}
+|-
+|rowspan="2"|[[Ava's accumulator]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#10499 10499]
+|-
+|params || {'1564': 1, '451': 'Commune'} || {'1564': 1, '295': 1, '451': 'Commune'}
+|-
+|rowspan="2"|[[Fighter hat]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#10548 10548]
+|-
+|params || {'1564': 0, '436': 45, '434': 1} || {'434': 1, '1564': 0, '436': 45, '295': 1}
+|-
+|rowspan="2"|[[Fighter torso]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#10551 10551]
+|-
+|params || {'434': 1, '258': 41, '1564': 4, '436': 40} || {'434': 1, '258': 41, '1564': 4, '436': 40, '295': 1}
+|-
+|rowspan="2"|[[Coal bag]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#12019 12019]
+|-
+|params || {'595': 'Empty'} || {'595': 'Empty', '295': 1}
+|-
+|rowspan="2"|[[Gem bag]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#12020 12020]
+|-
+|params || {'595': 'Empty'} || {'595': 'Empty', '295': 1}
+|-
+|rowspan="2"|[[Rune pouch]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#12791 12791]
+|-
+|params || {'595': 'Empty'} || {'595': 'Empty', '295': 1}
+|-
+|rowspan="2"|[[Flamtaer bag]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#12854 12854]
+|-
+|params || {'595': 'Empty'} || {'595': 'Empty', '295': 1}
+|-
+|rowspan="2"|[[Dragon defender]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#12954 12954]
+|-
+|params || {'434': 1, '258': 27, '1564': 5, '436': 60} || {'434': 1, '258': 27, '1564': 5, '436': 60, '295': 1}
+|-
+|rowspan="2"|[[Herb sack]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#13226 13226]
+|-
+|params || {'595': 'Empty'} || {'595': 'Empty', '295': 1}
+|-
+|rowspan="2"|[[Fire max cape]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#13329 13329]
+|-
+|params || {'258': 22} || {'258': 22, '295': 1}
+|-
+|rowspan="2"|[[Saradomin max cape]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#13331 13331]
+|-
+|params || {'40': 1} || {'40': 1, '295': 1}
+|-
+|rowspan="2"|[[Zamorak max cape]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#13333 13333]
+|-
+|params || {'41': 1} || {'41': 1, '295': 1}
+|-
+|rowspan="2"|[[Guthix max cape]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#13335 13335]
+|-
+|params || {'42': 1} || {'42': 1, '295': 1}
+|-
+|rowspan="2"|[[Accumulator max cape]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#13337 13337]
+|-
+|params || {'451': 'Commune'} || {'295': 1, '451': 'Commune'}
+|-
+|rowspan="2"|[[Max cape]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#13342 13342]
+|-
+|params || {'451': "Warriors' Guild", '452': 'Fishing Teleports', '453': 'Crafting Guild', '454': 'Tele to POH', '455': 'POH Portals', '456': 'Other Teleports', '457': 'Spellbook', '458': 'Features'} || {'451': "Warriors' Guild", '452': 'Fishing Teleports', '453': 'Crafting Guild', '454': 'Tele to POH', '295': 1, '455': 'POH Portals', '456': 'Other Teleports', '457': 'Spellbook', '458': 'Features'}
+|-
+|rowspan="2"|[[Xeric's talisman]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#13393 13393]
+|-
+|params || {'456': 'Check', '451': "Xeric's Lookout", '452': "Xeric's Glade", '453': "Xeric's Inferno", '454': "Xeric's Heart", '455': "Xeric's Honour"} || {'451': "Xeric's Lookout", '452': "Xeric's Glade", '453': "Xeric's Inferno", '454': "Xeric's Heart", '295': 1, '455': "Xeric's Honour", '456': 'Check'}
+|-
+|rowspan="2"|[[Seed box]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#13639 13639]
+|-
+|params || {'595': 'Empty'} || {'595': 'Empty', '295': 1}
+|-
+|rowspan="2"|[[Chronicle]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#13660 13660]
+|-
+|params || {'452': 'Teleport', '451': 'Check Charges'} || {'452': 'Teleport', '295': 1, '451': 'Check Charges'}
+|-
+|rowspan="2"|[[Bag full of gems]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#19473 19473]
+|-
+|params || {'983': 335} || {'295': 1, '983': 335}
+|-
+|rowspan="2"|[[Arclight]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#19675 19675]
+|-
+|params || {'453': 'Check'} || {'453': 'Check', '295': 1}
+|-
+|rowspan="2"|[[Dragon defender (t)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#19722 19722]
+|-
+|params || {'258': 27} || {'258': 27, '295': 1}
+|-
+|rowspan="2"|[[Shark]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#20390 20390]
+|-
+|params || {'1564': 1001} || {'1564': 1001, '295': 1}
+|-
+|rowspan="2"|[[Prayer potion(4)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#20393 20393]
+|-
+|params || {'1564': 1002} || {'1564': 1002, '295': 1}
+|-
+|rowspan="2"|[[Prayer potion(3)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#20394 20394]
+|-
+|params || {'1564': 1002} || {'1564': 1002, '295': 1}
+|-
+|rowspan="2"|[[Prayer potion(2)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#20395 20395]
+|-
+|params || {'1564': 1002} || {'1564': 1002, '295': 1}
+|-
+|rowspan="2"|[[Prayer potion(1)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#20396 20396]
+|-
+|params || {'1564': 1002} || {'1564': 1002, '295': 1}
+|-
+|rowspan="2"|[[Spear]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#20397 20397]
+|-
+|params || {'1564': 3} || {'1564': 3, '295': 1}
+|-
+|rowspan="2"|[[Yew shortbow]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#20401 20401]
+|-
+|params || {'1564': 3, '23': 1} || {'1564': 3, '23': 1, '295': 1}
+|-
+|rowspan="2"|[[Rune scimitar]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#20402 20402]
+|-
+|params || {'1564': 3} || {'1564': 3, '295': 1}
+|-
+|rowspan="2"|[[Maple shortbow]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#20403 20403]
+|-
+|params || {'1564': 3, '23': 1} || {'1564': 3, '23': 1, '295': 1}
+|-
+|rowspan="2"|[[Abyssal whip]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#20405 20405]
+|-
+|params || {'1564': 3} || {'1564': 3, '295': 1}
+|-
+|rowspan="2"|[[Dragon scimitar]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#20406 20406]
+|-
+|params || {'1564': 3} || {'1564': 3, '295': 1}
+|-
+|rowspan="2"|[[Dragon dagger]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#20407 20407]
+|-
+|params || {'1564': 3} || {'1564': 3, '295': 1}
+|-
+|rowspan="2"|[[Dark bow]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#20408 20408]
+|-
+|params || {'1564': 3, '23': 1} || {'1564': 3, '23': 1, '295': 1}
+|-
+|rowspan="2"|[[Adamant platebody]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#20415 20415]
+|-
+|params || {'1564': 4} || {'1564': 4, '295': 1}
+|-
+|rowspan="2"|[[Adamant platelegs]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#20416 20416]
+|-
+|params || {'1564': 7} || {'1564': 7, '295': 1}
+|-
+|rowspan="2"|[[Blue d'hide body]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#20417 20417]
+|-
+|params || {'1564': 4} || {'1564': 4, '295': 1}
+|-
+|rowspan="2"|[[Blue d'hide chaps]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#20418 20418]
+|-
+|params || {'1564': 7} || {'1564': 7, '295': 1}
+|-
+|rowspan="2"|[[Rune platebody]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#20421 20421]
+|-
+|params || {'1564': 4} || {'1564': 4, '295': 1}
+|-
+|rowspan="2"|[[Rune platelegs]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#20422 20422]
+|-
+|params || {'1564': 7} || {'1564': 7, '295': 1}
+|-
+|rowspan="2"|[[Black d'hide body]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#20423 20423]
+|-
+|params || {'1564': 4} || {'1564': 4, '295': 1}
+|-
+|rowspan="2"|[[Black d'hide chaps]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#20424 20424]
+|-
+|params || {'1564': 7} || {'1564': 7, '295': 1}
+|-
+|rowspan="2"|[[Mystic robe top]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#20425 20425]
+|-
+|params || {'1564': 4} || {'1564': 4, '295': 1}
+|-
+|rowspan="2"|[[Mystic robe bottom]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#20426 20426]
+|-
+|params || {'1564': 7} || {'1564': 7, '295': 1}
+|-
+|rowspan="2"|[[Dragon chainbody]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#20428 20428]
+|-
+|params || {'1564': 4} || {'1564': 4, '295': 1}
+|-
+|rowspan="2"|[[Dragon platelegs]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#20429 20429]
+|-
+|params || {'1564': 7} || {'1564': 7, '295': 1}
+|-
+|rowspan="2"|[[Ancient magicks tablet]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#20430 20430]
+|-
+|params || {'1564': 1003} || {'1564': 1003, '295': 1}
+|-
+|rowspan="2"|[[Ancient staff]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#20431 20431]
+|-
+|params || {'1564': 3} || {'1564': 3, '295': 1}
+|-
+|rowspan="2"|[[Catalytic rune pack]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#20523 20523]
+|-
+|params || {'1564': 1003} || {'1564': 1003, '295': 1}
+|-
+|rowspan="2"|[[Elemental rune pack]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#20524 20524]
+|-
+|params || {'1564': 1003} || {'1564': 1003, '295': 1}
+|-
+|rowspan="2"|[[Adamant arrow pack]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#20525 20525]
+|-
+|params || {'1564': 13} || {'1564': 13, '295': 1}
+|-
+|rowspan="2"|[[Monkfish]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#20547 20547]
+|-
+|params || {'1564': 1001} || {'1564': 1001, '295': 1}
+|-
+|rowspan="2"|[[Super energy(4)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#20548 20548]
+|-
+|params || {'1564': 1002} || {'1564': 1002, '295': 1}
+|-
+|rowspan="2"|[[Super energy(3)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#20549 20549]
+|-
+|params || {'1564': 1002} || {'1564': 1002, '295': 1}
+|-
+|rowspan="2"|[[Super energy(2)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#20550 20550]
+|-
+|params || {'1564': 1002} || {'1564': 1002, '295': 1}
+|-
+|rowspan="2"|[[Super energy(1)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#20551 20551]
+|-
+|params || {'1564': 1002} || {'1564': 1002, '295': 1}
+|-
+|rowspan="2"|[[Rune battleaxe]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#20552 20552]
+|-
+|params || {'1564': 3} || {'1564': 3, '295': 1}
+|-
+|rowspan="2"|[[Beginner wand]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#20553 20553]
+|-
+|params || {'1564': 3} || {'1564': 3, '295': 1}
+|-
+|rowspan="2"|[[Toktz-xil-ak]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#20554 20554]
+|-
+|params || {'1564': 3} || {'1564': 3, '295': 1}
+|-
+|rowspan="2"|[[Rune 2h sword]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#20555 20555]
+|-
+|params || {'1564': 3} || {'1564': 3, '295': 1}
+|-
+|rowspan="2"|[[Apprentice wand]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#20556 20556]
+|-
+|params || {'1564': 3} || {'1564': 3, '295': 1}
+|-
+|rowspan="2"|[[Granite maul]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#20557 20557]
+|-
+|params || {'1564': 3} || {'1564': 3, '295': 1}
+|-
+|rowspan="2"|[[Magic shortbow]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#20558 20558]
+|-
+|params || {'1564': 3, '23': 1} || {'1564': 3, '23': 1, '295': 1}
+|-
+|rowspan="2"|[[Dragon 2h sword]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#20559 20559]
+|-
+|params || {'1564': 3} || {'1564': 3, '295': 1}
+|-
+|rowspan="2"|[[Master wand]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#20560 20560]
+|-
+|params || {'1564': 3} || {'1564': 3, '295': 1}
+|-
+|rowspan="2"|[[Adamant full helm]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#20561 20561]
+|-
+|params || {'1564': 0} || {'1564': 0, '295': 1}
+|-
+|rowspan="2"|[[Mystic hat]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#20562 20562]
+|-
+|params || {'1564': 0} || {'1564': 0, '295': 1}
+|-
+|rowspan="2"|[[Proselyte sallet]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#20563 20563]
+|-
+|params || {'1564': 0} || {'1564': 0, '295': 1}
+|-
+|rowspan="2"|[[Proselyte hauberk]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#20564 20564]
+|-
+|params || {'1564': 4} || {'1564': 4, '295': 1}
+|-
+|rowspan="2"|[[Proselyte cuisse]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#20565 20565]
+|-
+|params || {'1564': 7} || {'1564': 7, '295': 1}
+|-
+|rowspan="2"|[[Red d'hide body]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#20566 20566]
+|-
+|params || {'1564': 4} || {'1564': 4, '295': 1}
+|-
+|rowspan="2"|[[Red d'hide chaps]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#20567 20567]
+|-
+|params || {'1564': 7} || {'1564': 7, '295': 1}
+|-
+|rowspan="2"|[[Splitbark helm]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#20568 20568]
+|-
+|params || {'1564': 0} || {'1564': 0, '295': 1}
+|-
+|rowspan="2"|[[Warrior helm]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#20571 20571]
+|-
+|params || {'1564': 0} || {'1564': 0, '295': 1}
+|-
+|rowspan="2"|[[Archer helm]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#20572 20572]
+|-
+|params || {'1564': 0} || {'1564': 0, '295': 1}
+|-
+|rowspan="2"|[[Farseer helm]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#20573 20573]
+|-
+|params || {'1564': 0} || {'1564': 0, '295': 1}
+|-
+|rowspan="2"|[[Infinity top]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#20574 20574]
+|-
+|params || {'1564': 4} || {'1564': 4, '295': 1}
+|-
+|rowspan="2"|[[Infinity bottoms]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#20575 20575]
+|-
+|params || {'1564': 7} || {'1564': 7, '295': 1}
+|-
+|rowspan="2"|[[3rd age robe top]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#20576 20576]
+|-
+|params || {'1564': 4} || {'1564': 4, '295': 1}
+|-
+|rowspan="2"|[[3rd age robe]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#20577 20577]
+|-
+|params || {'1564': 7} || {'1564': 7, '295': 1}
+|-
+|rowspan="2"|[[Climbing boots]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#20578 20578]
+|-
+|params || {'1564': 10} || {'1564': 10, '295': 1}
+|-
+|rowspan="2"|[[Mystic boots]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#20579 20579]
+|-
+|params || {'1564': 10} || {'1564': 10, '295': 1}
+|-
+|rowspan="2"|[[Snakeskin boots]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#20580 20580]
+|-
+|params || {'1564': 10} || {'1564': 10, '295': 1}
+|-
+|rowspan="2"|[[Mithril gloves]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#20581 20581]
+|-
+|params || {'1564': 9} || {'1564': 9, '295': 1}
+|-
+|rowspan="2"|[[Adamant gloves]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#20582 20582]
+|-
+|params || {'1564': 9} || {'1564': 9, '295': 1}
+|-
+|rowspan="2"|[[Rune gloves]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#20583 20583]
+|-
+|params || {'1564': 9} || {'1564': 9, '295': 1}
+|-
+|rowspan="2"|[[Amulet of accuracy]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#20584 20584]
+|-
+|params || {'1564': 2} || {'1564': 2, '295': 1}
+|-
+|rowspan="2"|[[Amulet of power]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#20585 20585]
+|-
+|params || {'1564': 2} || {'1564': 2, '295': 1}
+|-
+|rowspan="2"|[[Amulet of glory]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#20586 20586]
+|-
+|params || {'1564': 2} || {'1564': 2, '295': 1}
+|-
+|rowspan="2"|[[Armadyl godsword]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#20593 20593]
+|-
+|params || {'1564': 3} || {'1564': 3, '295': 1}
+|-
+|rowspan="2"|[[Ahrim's robetop]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#20598 20598]
+|-
+|params || {'1564': 4} || {'1564': 4, '295': 1}
+|-
+|rowspan="2"|[[Ahrim's robeskirt]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#20599 20599]
+|-
+|params || {'1564': 7} || {'1564': 7, '295': 1}
+|-
+|rowspan="2"|[[Rune arrow pack]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#20607 20607]
+|-
+|params || {'1564': 13} || {'1564': 13, '295': 1}
+|-
+|rowspan="2"|[[Ardougne max cape]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#20760 20760]
+|-
+|params || {'452': 'Ardougne Farm', '451': 'Kandarin Monastery'} || {'452': 'Ardougne Farm', '295': 1, '451': 'Kandarin Monastery'}
+|-
+|rowspan="2"|[[Dragon claws]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#20784 20784]
+|-
+|params || {'1564': 3} || {'1564': 3, '295': 1}
+|-
+|rowspan="2"|[[Dragon warhammer]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#20785 20785]
+|-
+|params || {'1564': 3} || {'1564': 3, '295': 1}
+|-
+|rowspan="2"|[[Elder maul]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#21205 21205]
+|-
+|params || {'1564': 3} || {'1564': 3, '295': 1}
+|-
+|rowspan="2"|[[Dragon sword]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#21206 21206]
+|-
+|params || {'1564': 3} || {'1564': 3, '295': 1}
+|-
+|rowspan="2"|[[Dragon thrownaxe]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#21207 21207]
+|-
+|params || {'1564': 3, '23': 1} || {'1564': 3, '23': 1, '295': 1}
+|-
+|rowspan="2"|[[Infernal max cape]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#21285 21285]
+|-
+|params || {'258': 22} || {'258': 22, '295': 1}
+|-
+|rowspan="2"|[[Infernal cape]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#21295 21295]
+|-
+|params || {'1564': 1, '258': 22} || {'1564': 1, '258': 22, '295': 1}
+|-
+|rowspan="2"|[[Heat-proof vessel]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#21539 21539]
+|-
+|params || {'456': 'Check-level', '451': 'Throw-water', '452': 'Throw-water north', '453': 'Throw-water east', '454': 'Throw-water south', '455': 'Throw-water west'} || {'451': 'Throw-water', '452': 'Throw-water north', '453': 'Throw-water east', '454': 'Throw-water south', '455': 'Throw-water west', '295': 1, '456': 'Check-level'}
+|-
+|rowspan="2"|[[Imbued saradomin max cape]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#21776 21776]
+|-
+|params || {'40': 1} || {'40': 1, '295': 1}
+|-
+|rowspan="2"|[[Imbued zamorak max cape]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#21780 21780]
+|-
+|params || {'41': 1} || {'41': 1, '295': 1}
+|-
+|rowspan="2"|[[Imbued guthix max cape]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#21784 21784]
+|-
+|params || {'42': 1} || {'42': 1, '295': 1}
+|-
+|rowspan="2"|[[Imbued saradomin cape]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#21791 21791]
+|-
+|params || {'40': 1, '434': 6, '1564': 1, '436': 75} || {'40': 1, '434': 6, '1564': 1, '436': 75, '295': 1}
+|-
+|rowspan="2"|[[Imbued guthix cape]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#21793 21793]
+|-
+|params || {'434': 6, '42': 1, '1564': 1, '436': 75} || {'434': 6, '42': 1, '1564': 1, '436': 75, '295': 1}
+|-
+|rowspan="2"|[[Imbued zamorak cape]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#21795 21795]
+|-
+|params || {'41': 1, '434': 6, '1564': 1, '436': 75} || {'41': 1, '434': 6, '1564': 1, '436': 75, '295': 1}
+|-
+|rowspan="2"|[[Assembler max cape]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#21898 21898]
+|-
+|params || {'451': 'Commune'} || {'295': 1, '451': 'Commune'}
+|-
+|rowspan="2"|[[Ava's assembler]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#22109 22109]
+|-
+|params || {'434': 4, '435': 1, '451': 'Commune', '1564': 1, '436': 70, '437': 35} || {'434': 4, '435': 1, '451': 'Commune', '436': 70, '437': 35, '295': 1, '1564': 1}
+|-
+|rowspan="2"|[[Prop sword]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#22316 22316]
+|-
+|params || {'451': 'Slash'} || {'451': 'Slash', '295': 1}
+|-
+|rowspan="2"|[[Starter bow]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#22333 22333]
+|-
+|params || {'451': 'Check'} || {'295': 1, '451': 'Check'}
+|-
+|rowspan="2"|[[Starter staff]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#22335 22335]
+|-
+|params || {'451': 'Check'} || {'295': 1, '451': 'Check'}
+|-
+|rowspan="2"|[[Ivandis flail]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#22398 22398]
+|-
+|params || {'434': 0, '258': 42, '451': 'Bloom', '1564': 3, '436': 40} || {'434': 0, '258': 42, '451': 'Bloom', '1564': 3, '436': 40, '295': 1}
+|-
+|rowspan="2"|[[Drakan's medallion]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#22400 22400]
+|-
+|params || {'451': 'Ver Sinhaza', '452': 'Darkmeyer', '148': 1, '453': 'Slepe'} || {'451': 'Ver Sinhaza', '452': 'Darkmeyer', '148': 1, '453': 'Slepe', '295': 1}
+|-
+|rowspan="2"|[[Old man's coffin]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#22588 22588]
+|-
+|params || {'23': 35} || {'23': 35, '295': 1}
+|-
+|rowspan="2"|[[Bonecrusher necklace]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#22986 22986]
+|-
+|params || {'452': 'Activity', '453': 'Uncharge', '451': 'Check'} || {'451': 'Check', '452': 'Activity', '453': 'Uncharge', '295': 1}
+|-
+|rowspan="2"|[[Treasure scroll]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#23067 23067]
+|-
+|params || {'623': 2298} || {'295': 1, '623': 2298}
+|-
+|rowspan="2"|[[Treasure scroll]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#23068 23068]
+|-
+|params || {'623': 2303} || {'295': 1, '623': 2303}
+|-
+|rowspan="2"|[[Mysterious orb]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#23069 23069]
+|-
+|params || {'623': 2297} || {'295': 1, '623': 2297}
+|-
+|rowspan="2"|[[Treasure scroll]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#23070 23070]
+|-
+|params || {'623': 2262} || {'295': 1, '623': 2262}
+|-
+|rowspan="2"|[[Giant easter egg]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#23446 23446]
+|-
+|params || {'451': 'Easter dance'} || {'451': 'Easter dance', '295': 1}
+|-
+|rowspan="2"|[[Cooked karambwan]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#23533 23533]
+|-
+|params || {'1564': 1001} || {'1564': 1001, '295': 1}
+|-
+|rowspan="2"|[[Super combat potion(4)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#23543 23543]
+|-
+|params || {'1564': 1002} || {'1564': 1002, '295': 1}
+|-
+|rowspan="2"|[[Super combat potion(3)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#23545 23545]
+|-
+|params || {'1564': 1002} || {'1564': 1002, '295': 1}
+|-
+|rowspan="2"|[[Super combat potion(2)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#23547 23547]
+|-
+|params || {'1564': 1002} || {'1564': 1002, '295': 1}
+|-
+|rowspan="2"|[[Super combat potion(1)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#23549 23549]
+|-
+|params || {'1564': 1002} || {'1564': 1002, '295': 1}
+|-
+|rowspan="2"|[[Ranging potion(4)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#23551 23551]
+|-
+|params || {'1564': 1002} || {'1564': 1002, '295': 1}
+|-
+|rowspan="2"|[[Ranging potion(3)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#23553 23553]
+|-
+|params || {'1564': 1002} || {'1564': 1002, '295': 1}
+|-
+|rowspan="2"|[[Ranging potion(2)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#23555 23555]
+|-
+|params || {'1564': 1002} || {'1564': 1002, '295': 1}
+|-
+|rowspan="2"|[[Ranging potion(1)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#23557 23557]
+|-
+|params || {'1564': 1002} || {'1564': 1002, '295': 1}
+|-
+|rowspan="2"|[[Sanfew serum(4)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#23559 23559]
+|-
+|params || {'1564': 1002} || {'1564': 1002, '295': 1}
+|-
+|rowspan="2"|[[Sanfew serum(3)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#23561 23561]
+|-
+|params || {'1564': 1002} || {'1564': 1002, '295': 1}
+|-
+|rowspan="2"|[[Sanfew serum(2)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#23563 23563]
+|-
+|params || {'1564': 1002} || {'1564': 1002, '295': 1}
+|-
+|rowspan="2"|[[Sanfew serum(1)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#23565 23565]
+|-
+|params || {'1564': 1002} || {'1564': 1002, '295': 1}
+|-
+|rowspan="2"|[[Super restore(4)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#23567 23567]
+|-
+|params || {'1564': 1002} || {'1564': 1002, '295': 1}
+|-
+|rowspan="2"|[[Super restore(3)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#23569 23569]
+|-
+|params || {'1564': 1002} || {'1564': 1002, '295': 1}
+|-
+|rowspan="2"|[[Super restore(2)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#23571 23571]
+|-
+|params || {'1564': 1002} || {'1564': 1002, '295': 1}
+|-
+|rowspan="2"|[[Super restore(1)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#23573 23573]
+|-
+|params || {'1564': 1002} || {'1564': 1002, '295': 1}
+|-
+|rowspan="2"|[[Saradomin brew(4)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#23575 23575]
+|-
+|params || {'1564': 1002} || {'1564': 1002, '295': 1}
+|-
+|rowspan="2"|[[Saradomin brew(3)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#23577 23577]
+|-
+|params || {'1564': 1002} || {'1564': 1002, '295': 1}
+|-
+|rowspan="2"|[[Saradomin brew(2)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#23579 23579]
+|-
+|params || {'1564': 1002} || {'1564': 1002, '295': 1}
+|-
+|rowspan="2"|[[Saradomin brew(1)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#23581 23581]
+|-
+|params || {'1564': 1002} || {'1564': 1002, '295': 1}
+|-
+|rowspan="2"|[[Stamina potion(4)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#23583 23583]
+|-
+|params || {'1564': 1002} || {'1564': 1002, '295': 1}
+|-
+|rowspan="2"|[[Stamina potion(3)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#23585 23585]
+|-
+|params || {'1564': 1002} || {'1564': 1002, '295': 1}
+|-
+|rowspan="2"|[[Stamina potion(2)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#23587 23587]
+|-
+|params || {'1564': 1002} || {'1564': 1002, '295': 1}
+|-
+|rowspan="2"|[[Stamina potion(1)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#23589 23589]
+|-
+|params || {'1564': 1002} || {'1564': 1002, '295': 1}
+|-
+|rowspan="2"|[[Helm of neitiznot]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#23591 23591]
+|-
+|params || {'1564': 0} || {'1564': 0, '295': 1}
+|-
+|rowspan="2"|[[Barrows gloves]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#23593 23593]
+|-
+|params || {'1564': 9} || {'1564': 9, '295': 1}
+|-
+|rowspan="2"|[[Berserker ring]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#23595 23595]
+|-
+|params || {'1564': 12} || {'1564': 12, '295': 1}
+|-
+|rowspan="2"|[[Dragon defender]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#23597 23597]
+|-
+|params || {'1564': 5} || {'1564': 5, '295': 1}
+|-
+|rowspan="2"|[[Spirit shield]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#23599 23599]
+|-
+|params || {'1564': 5} || {'1564': 5, '295': 1}
+|-
+|rowspan="2"|[[Rune crossbow]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#23601 23601]
+|-
+|params || {'1564': 3, '23': 61} || {'1564': 3, '23': 61, '295': 1}
+|-
+|rowspan="2"|[[Imbued guthix cape]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#23603 23603]
+|-
+|params || {'1564': 1, '42': 1} || {'1564': 1, '42': 1, '295': 1}
+|-
+|rowspan="2"|[[Imbued zamorak cape]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#23605 23605]
+|-
+|params || {'1564': 1, '41': 1} || {'1564': 1, '41': 1, '295': 1}
+|-
+|rowspan="2"|[[Imbued saradomin cape]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#23607 23607]
+|-
+|params || {'1564': 1, '40': 1} || {'1564': 1, '40': 1, '295': 1}
+|-
+|rowspan="2"|[[Ava's accumulator]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#23609 23609]
+|-
+|params || {'1564': 1, '451': 'Commune'} || {'1564': 1, '451': 'Commune', '295': 1}
+|-
+|rowspan="2"|[[Armadyl crossbow]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#23611 23611]
+|-
+|params || {'1564': 3, '23': 70} || {'1564': 3, '23': 70, '295': 1}
+|-
+|rowspan="2"|[[Staff of the dead]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#23613 23613]
+|-
+|params || {'1564': 3, '41': 1, '1737': 1} || {'41': 1, '1737': 1, '1564': 3, '295': 1}
+|-
+|rowspan="2"|[[Vesta's longsword]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#23615 23615]
+|-
+|params || {'1564': 3} || {'1564': 3, '295': 1}
+|-
+|rowspan="2"|[[Zuriel's staff]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#23617 23617]
+|-
+|params || {'1564': 3} || {'1564': 3, '295': 1}
+|-
+|rowspan="2"|[[Morrigan's javelin]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#23619 23619]
+|-
+|params || {'1564': 3, '23': 78} || {'1564': 3, '23': 78, '295': 1}
+|-
+|rowspan="2"|[[Statius's warhammer]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#23620 23620]
+|-
+|params || {'1564': 3} || {'1564': 3, '295': 1}
+|-
+|rowspan="2"|[[Infernal cape]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#23622 23622]
+|-
+|params || {'1564': 1} || {'1564': 1, '295': 1}
+|-
+|rowspan="2"|[[Seers ring (i)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#23624 23624]
+|-
+|params || {'1564': 12} || {'1564': 12, '295': 1}
+|-
+|rowspan="2"|[[Kodai wand]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#23626 23626]
+|-
+|params || {'1564': 3} || {'1564': 3, '295': 1}
+|-
+|rowspan="2"|[[Ghrazi rapier]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#23628 23628]
+|-
+|params || {'1564': 3} || {'1564': 3, '295': 1}
+|-
+|rowspan="2"|[[Heavy ballista]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#23630 23630]
+|-
+|params || {'1564': 3, '23': 75} || {'1564': 3, '23': 75, '295': 1}
+|-
+|rowspan="2"|[[Karil's leathertop]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#23632 23632]
+|-
+|params || {'1564': 4} || {'1564': 4, '295': 1}
+|-
+|rowspan="2"|[[Dharok's platelegs]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#23633 23633]
+|-
+|params || {'1564': 7} || {'1564': 7, '295': 1}
+|-
+|rowspan="2"|[[Torag's platelegs]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#23634 23634]
+|-
+|params || {'1564': 7} || {'1564': 7, '295': 1}
+|-
+|rowspan="2"|[[Verac's plateskirt]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#23635 23635]
+|-
+|params || {'1564': 7} || {'1564': 7, '295': 1}
+|-
+|rowspan="2"|[[Verac's helm]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#23636 23636]
+|-
+|params || {'1564': 0} || {'1564': 0, '295': 1}
+|-
+|rowspan="2"|[[Torag's helm]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#23637 23637]
+|-
+|params || {'1564': 0} || {'1564': 0, '295': 1}
+|-
+|rowspan="2"|[[Guthan's helm]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#23638 23638]
+|-
+|params || {'1564': 0} || {'1564': 0, '295': 1}
+|-
+|rowspan="2"|[[Dharok's helm]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#23639 23639]
+|-
+|params || {'1564': 0} || {'1564': 0, '295': 1}
+|-
+|rowspan="2"|[[Amulet of fury]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#23640 23640]
+|-
+|params || {'1564': 2} || {'1564': 2, '295': 1}
+|-
+|rowspan="2"|[[Blessed spirit shield]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#23642 23642]
+|-
+|params || {'1564': 5} || {'1564': 5, '295': 1}
+|-
+|rowspan="2"|[[Eternal boots]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#23644 23644]
+|-
+|params || {'1564': 10} || {'1564': 10, '295': 1}
+|-
+|rowspan="2"|[[Bandos tassets]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#23646 23646]
+|-
+|params || {'1564': 7} || {'1564': 7, '295': 1}
+|-
+|rowspan="2"|[[Dragon javelin]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#23648 23648]
+|-
+|params || {'1564': 13} || {'1564': 13, '295': 1}
+|-
+|rowspan="2"|[[Diamond bolts (e)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#23649 23649]
+|-
+|params || {'1564': 13} || {'1564': 13, '295': 1}
+|-
+|rowspan="2"|[[Rune pouch]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#23650 23650]
+|-
+|params || {'1564': 1003} || {'1564': 1003, '295': 1}
+|-
+|rowspan="2"|[[Mage's book]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#23652 23652]
+|-
+|params || {'1564': 5} || {'1564': 5, '295': 1}
+|-
+|rowspan="2"|[[Ahrim's staff]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#23653 23653]
+|-
+|params || {'1564': 3} || {'1564': 3, '295': 1}
+|-
+|rowspan="2"|[[Occult necklace]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#23654 23654]
+|-
+|params || {'1564': 2} || {'1564': 2, '295': 1}
+|-
+|rowspan="2"|[[Clue scroll]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#23814 23814]
+|-
+|params || {'623': 2301} || {'295': 1, '623': 2301}
+|-
+|rowspan="2"|[[Clue scroll]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#23815 23815]
+|-
+|params || {'623': 2304} || {'295': 1, '623': 2304}
+|-
+|rowspan="2"|[[Clue scroll]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#23816 23816]
+|-
+|params || {'623': 2299} || {'295': 1, '623': 2299}
+|-
+|rowspan="2"|[[Clue scroll]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#23817 23817]
+|-
+|params || {'623': 2302} || {'295': 1, '623': 2302}
+|-
+|rowspan="2"|[[Combat path starter kit]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#24130 24130]
+|-
+|params || {'834': 1} || {'834': 1, '295': 1}
+|-
+|rowspan="2"|[[Combat path voucher]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#24131 24131]
+|-
+|params || {'834': 1} || {'834': 1, '295': 1}
+|-
+|rowspan="2"|[[Infernal max cape (l)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#24133 24133]
+|-
+|params || {'258': 22} || {'258': 22, '295': 1}
+|-
+|rowspan="2"|[[Fire max cape (l)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#24134 24134]
+|-
+|params || {'258': 22} || {'258': 22, '295': 1}
+|-
+|rowspan="2"|[[Assembler max cape (l)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#24135 24135]
+|-
+|params || {'451': 'Commune'} || {'295': 1, '451': 'Commune'}
+|-
+|rowspan="2"|[[Dragon defender (l)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#24143 24143]
+|-
+|params || {'258': 27} || {'258': 27, '295': 1}
+|-
+|rowspan="2"|[[Fighter torso (l)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#24175 24175]
+|-
+|params || {'258': 41} || {'258': 41, '295': 1}
+|-
+|rowspan="2"|[[Ava's assembler (l)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#24222 24222]
+|-
+|params || {'451': 'Commune'} || {'295': 1, '451': 'Commune'}
+|-
+|rowspan="2"|[[Fire cape (l)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#24223 24223]
+|-
+|params || {'258': 22} || {'258': 22, '295': 1}
+|-
+|rowspan="2"|[[Infernal cape (l)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#24224 24224]
+|-
+|params || {'258': 22} || {'258': 22, '295': 1}
+|-
+|rowspan="2"|[[Imbued saradomin max cape (l)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#24232 24232]
+|-
+|params || {'40': 1} || {'40': 1, '295': 1}
+|-
+|rowspan="2"|[[Imbued zamorak max cape (l)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#24233 24233]
+|-
+|params || {'41': 1} || {'41': 1, '295': 1}
+|-
+|rowspan="2"|[[Imbued guthix max cape (l)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#24234 24234]
+|-
+|params || {'42': 1} || {'42': 1, '295': 1}
+|-
+|rowspan="2"|[[Imbued saradomin cape (l)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#24248 24248]
+|-
+|params || {'40': 1} || {'40': 1, '295': 1}
+|-
+|rowspan="2"|[[Imbued guthix cape (l)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#24249 24249]
+|-
+|params || {'42': 1} || {'42': 1, '295': 1}
+|-
+|rowspan="2"|[[Imbued zamorak cape (l)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#24250 24250]
+|-
+|params || {'41': 1} || {'41': 1, '295': 1}
+|-
+|rowspan="2"|[[Twisted slayer helmet]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#24370 24370]
+|-
+|params || {'385': 1, '258': 13, '453': 'Check', '454': 'Partner', '455': 'Log'} || {'385': 1, '258': 13, '453': 'Check', '454': 'Partner', '455': 'Log', '295': 1}
+|-
+|rowspan="2"|[[Twisted dragon trophy]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#24372 24372]
+|-
+|params || {'451': 'Trophy Emote', '916': 1, '917': 20830, '918': 7} || {'451': 'Trophy Emote', '916': 1, '917': 20830, '918': 7, '295': 1}
+|-
+|rowspan="2"|[[Twisted rune trophy]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#24374 24374]
+|-
+|params || {'451': 'Trophy Emote', '916': 1, '917': 10820, '918': 6} || {'451': 'Trophy Emote', '916': 1, '917': 10820, '918': 6, '295': 1}
+|-
+|rowspan="2"|[[Twisted adamant trophy]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#24376 24376]
+|-
+|params || {'451': 'Trophy Emote', '916': 1, '917': 5270, '918': 5} || {'451': 'Trophy Emote', '916': 1, '917': 5270, '918': 5, '295': 1}
+|-
+|rowspan="2"|[[Twisted mithril trophy]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#24378 24378]
+|-
+|params || {'451': 'Trophy Emote', '916': 1, '917': 1770, '918': 4} || {'451': 'Trophy Emote', '916': 1, '917': 1770, '918': 4, '295': 1}
+|-
+|rowspan="2"|[[Twisted steel trophy]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#24380 24380]
+|-
+|params || {'451': 'Trophy Emote', '916': 1, '917': 510, '918': 3} || {'451': 'Trophy Emote', '916': 1, '917': 510, '918': 3, '295': 1}
+|-
+|rowspan="2"|[[Twisted iron trophy]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#24382 24382]
+|-
+|params || {'451': 'Trophy Emote', '916': 1, '917': 80, '918': 2} || {'451': 'Trophy Emote', '916': 1, '917': 80, '918': 2, '295': 1}
+|-
+|rowspan="2"|[[Twisted bronze trophy]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#24384 24384]
+|-
+|params || {'451': 'Trophy Emote', '916': 1, '917': 10, '918': 1} || {'451': 'Trophy Emote', '916': 1, '917': 10, '918': 1, '295': 1}
+|-
+|rowspan="2"|[[Twisted hat (t3)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#24387 24387]
+|-
+|params || {'916': 1} || {'916': 1, '295': 1}
+|-
+|rowspan="2"|[[Twisted coat (t3)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#24389 24389]
+|-
+|params || {'916': 1} || {'916': 1, '295': 1}
+|-
+|rowspan="2"|[[Twisted trousers (t3)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#24391 24391]
+|-
+|params || {'916': 1} || {'916': 1, '295': 1}
+|-
+|rowspan="2"|[[Twisted boots (t3)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#24393 24393]
+|-
+|params || {'916': 1} || {'916': 1, '295': 1}
+|-
+|rowspan="2"|[[Twisted cane]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#24395 24395]
+|-
+|params || {'916': 1, '451': 'Twisted Relic Emote'} || {'916': 1, '295': 1, '451': 'Twisted Relic Emote'}
+|-
+|rowspan="2"|[[Twisted hat (t2)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#24397 24397]
+|-
+|params || {'916': 1} || {'916': 1, '295': 1}
+|-
+|rowspan="2"|[[Twisted coat (t2)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#24399 24399]
+|-
+|params || {'916': 1} || {'916': 1, '295': 1}
+|-
+|rowspan="2"|[[Twisted trousers (t2)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#24401 24401]
+|-
+|params || {'916': 1} || {'916': 1, '295': 1}
+|-
+|rowspan="2"|[[Twisted boots (t2)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#24403 24403]
+|-
+|params || {'916': 1} || {'916': 1, '295': 1}
+|-
+|rowspan="2"|[[Twisted hat (t1)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#24405 24405]
+|-
+|params || {'916': 1} || {'916': 1, '295': 1}
+|-
+|rowspan="2"|[[Twisted coat (t1)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#24407 24407]
+|-
+|params || {'916': 1} || {'916': 1, '295': 1}
+|-
+|rowspan="2"|[[Twisted trousers (t1)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#24409 24409]
+|-
+|params || {'916': 1} || {'916': 1, '295': 1}
+|-
+|rowspan="2"|[[Twisted boots (t1)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#24411 24411]
+|-
+|params || {'916': 1} || {'916': 1, '295': 1}
+|-
+|rowspan="2"|[[Twisted banner]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#24413 24413]
+|-
+|params || {'916': 1} || {'916': 1, '295': 1}
+|-
+|rowspan="2"|[[Rune pouch (l)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#24416 24416]
+|-
+|params || {'595': 'Empty'} || {'595': 'Empty', '295': 1}
+|-
+|rowspan="2"|[[Green gingerbread shield]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#24428 24428]
+|-
+|params || {'451': 'Transform'} || {'295': 1, '451': 'Transform'}
+|-
+|rowspan="2"|[[Red gingerbread shield]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#24430 24430]
+|-
+|params || {'451': 'Transform'} || {'295': 1, '451': 'Transform'}
+|-
+|rowspan="2"|[[Blue gingerbread shield]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#24431 24431]
+|-
+|params || {'451': 'Transform'} || {'295': 1, '451': 'Transform'}
+|-
+|rowspan="2"|[[Open herb sack]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#24478 24478]
+|-
+|params || {'595': 'Empty'} || {'595': 'Empty', '295': 1}
+|-
+|rowspan="2"|[[Open coal bag]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#24480 24480]
+|-
+|params || {'595': 'Empty'} || {'595': 'Empty', '295': 1}
+|-
+|rowspan="2"|[[Open gem bag]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#24481 24481]
+|-
+|params || {'595': 'Empty'} || {'595': 'Empty', '295': 1}
+|-
+|rowspan="2"|[[Open seed box]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#24482 24482]
+|-
+|params || {'595': 'Empty'} || {'595': 'Empty', '295': 1}
+|-
+|rowspan="2"|[[Mithril seeds]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#24534 24534]
+|-
+|params || {'1564': 1003} || {'1564': 1003, '295': 1}
+|-
+|rowspan="2"|[[Blisterwood sickle]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#24697 24697]
+|-
+|params || {'451': 'Bloom'} || {'295': 1, '451': 'Bloom'}
+|-
+|rowspan="2"|[[Blisterwood flail]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#24699 24699]
+|-
+|params || {'258': 42, '451': 'Bloom'} || {'258': 42, '295': 1, '451': 'Bloom'}
+|-
+|rowspan="2"|[[Hallowed grapple]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#24721 24721]
+|-
+|params || {'40': 1, '23': 1} || {'40': 1, '23': 1, '295': 1}
+|-
+|rowspan="2"|[[Hallowed focus]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#24723 24723]
+|-
+|params || {'40': 1} || {'40': 1, '295': 1}
+|-
+|rowspan="2"|[[Hallowed symbol]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#24725 24725]
+|-
+|params || {'40': 1} || {'40': 1, '295': 1}
+|-
+|rowspan="2"|[[Hallowed hammer]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#24727 24727]
+|-
+|params || {'40': 1} || {'40': 1, '295': 1}
+|-
+|rowspan="2"|[[Hallowed ring]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#24731 24731]
+|-
+|params || {'40': 1} || {'40': 1, '295': 1}
+|-
+|rowspan="2"|[[Bag full of gems]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#24853 24853]
+|-
+|params || {'983': 335} || {'295': 1, '983': 335}
+|-
+|rowspan="2"|[[Mythical max cape]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#24855 24855]
+|-
+|params || {'451': 'Teleport'} || {'451': 'Teleport', '295': 1}
+|-
+|rowspan="2"|[[Warrior path starter kit]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#24859 24859]
+|-
+|params || {'834': 1} || {'834': 1, '295': 1}
+|-
+|rowspan="2"|[[Wizard path starter kit]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#24860 24860]
+|-
+|params || {'834': 1} || {'834': 1, '295': 1}
+|-
+|rowspan="2"|[[Ranger path starter kit]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#24861 24861]
+|-
+|params || {'834': 1} || {'834': 1, '295': 1}
+|-
+|rowspan="2"|[[Plank sack]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#24882 24882]
+|-
+|params || {'595': 'Use'} || {'595': 'Use', '295': 1}
+|-
+|rowspan="2"|[[Supply crate]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#24884 24884]
+|-
+|params || {'595': 'Open-All'} || {'595': 'Open-All', '295': 1}
+|-
+|rowspan="2"|[[Magical pumpkin]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#24977 24977]
+|-
+|params || {'23': 0} || {'23': 0, '295': 1}
+|-
+|rowspan="2"|[[Trailblazer hood (t3)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#25001 25001]
+|-
+|params || {'916': 2} || {'916': 2, '295': 1}
+|-
+|rowspan="2"|[[Trailblazer top (t3)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#25004 25004]
+|-
+|params || {'916': 2} || {'916': 2, '295': 1}
+|-
+|rowspan="2"|[[Trailblazer trousers (t3)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#25007 25007]
+|-
+|params || {'916': 2} || {'916': 2, '295': 1}
+|-
+|rowspan="2"|[[Trailblazer boots (t3)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#25010 25010]
+|-
+|params || {'916': 2} || {'916': 2, '295': 1}
+|-
+|rowspan="2"|[[Trailblazer cane]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#25013 25013]
+|-
+|params || {'452': 'Trailblazer Area Emote', '916': 2, '451': 'Trailblazer Relic Emote'} || {'451': 'Trailblazer Relic Emote', '452': 'Trailblazer Area Emote', '916': 2, '295': 1}
+|-
+|rowspan="2"|[[Trailblazer hood (t2)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#25016 25016]
+|-
+|params || {'916': 2} || {'916': 2, '295': 1}
+|-
+|rowspan="2"|[[Trailblazer top (t2)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#25019 25019]
+|-
+|params || {'916': 2} || {'916': 2, '295': 1}
+|-
+|rowspan="2"|[[Trailblazer trousers (t2)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#25022 25022]
+|-
+|params || {'916': 2} || {'916': 2, '295': 1}
+|-
+|rowspan="2"|[[Trailblazer boots (t2)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#25025 25025]
+|-
+|params || {'916': 2} || {'916': 2, '295': 1}
+|-
+|rowspan="2"|[[Trailblazer hood (t1)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#25028 25028]
+|-
+|params || {'916': 2} || {'916': 2, '295': 1}
+|-
+|rowspan="2"|[[Trailblazer top (t1)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#25031 25031]
+|-
+|params || {'916': 2} || {'916': 2, '295': 1}
+|-
+|rowspan="2"|[[Trailblazer trousers (t1)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#25034 25034]
+|-
+|params || {'916': 2} || {'916': 2, '295': 1}
+|-
+|rowspan="2"|[[Trailblazer boots (t1)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#25037 25037]
+|-
+|params || {'916': 2} || {'916': 2, '295': 1}
+|-
+|rowspan="2"|[[Trailblazer dragon trophy]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#25042 25042]
+|-
+|params || {'451': 'Trophy Emote', '916': 2, '917': 56310, '918': 7} || {'451': 'Trophy Emote', '916': 2, '917': 56310, '918': 7, '295': 1}
+|-
+|rowspan="2"|[[Trailblazer rune trophy]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#25044 25044]
+|-
+|params || {'451': 'Trophy Emote', '916': 2, '917': 35680, '918': 6} || {'451': 'Trophy Emote', '916': 2, '917': 35680, '918': 6, '295': 1}
+|-
+|rowspan="2"|[[Trailblazer adamant trophy]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#25046 25046]
+|-
+|params || {'451': 'Trophy Emote', '916': 2, '917': 18720, '918': 5} || {'451': 'Trophy Emote', '916': 2, '917': 18720, '918': 5, '295': 1}
+|-
+|rowspan="2"|[[Trailblazer mithril trophy]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#25048 25048]
+|-
+|params || {'451': 'Trophy Emote', '916': 2, '917': 6480, '918': 4} || {'451': 'Trophy Emote', '916': 2, '917': 6480, '918': 4, '295': 1}
+|-
+|rowspan="2"|[[Trailblazer steel trophy]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#25050 25050]
+|-
+|params || {'451': 'Trophy Emote', '916': 2, '917': 2000, '918': 3} || {'451': 'Trophy Emote', '916': 2, '917': 2000, '918': 3, '295': 1}
+|-
+|rowspan="2"|[[Trailblazer iron trophy]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#25052 25052]
+|-
+|params || {'451': 'Trophy Emote', '916': 2, '917': 510, '918': 2} || {'451': 'Trophy Emote', '916': 2, '917': 510, '918': 2, '295': 1}
+|-
+|rowspan="2"|[[Trailblazer bronze trophy]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#25054 25054]
+|-
+|params || {'451': 'Trophy Emote', '916': 2, '917': 100, '918': 1} || {'451': 'Trophy Emote', '916': 2, '917': 100, '918': 1, '295': 1}
+|-
+|rowspan="2"|[[Trailblazer banner]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#25056 25056]
+|-
+|params || {'916': 2} || {'916': 2, '295': 1}
+|-
+|rowspan="2"|[[Infernal harpoon (or)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#25059 25059]
+|-
+|params || {'451': 'Check'} || {'295': 1, '451': 'Check'}
+|-
+|rowspan="2"|[[Infernal pickaxe (or)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#25063 25063]
+|-
+|params || {'258': 21, '23': 61, '451': 'Check'} || {'258': 21, '451': 'Check', '23': 61, '295': 1}
+|-
+|rowspan="2"|[[Infernal axe (or)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#25066 25066]
+|-
+|params || {'258': 35, '23': 61, '451': 'Check'} || {'258': 35, '451': 'Check', '23': 61, '295': 1}
+|-
+|rowspan="2"|[[Fairy mushroom (Trailblazer Reloaded)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#25102 25102]
+|-
+|params || {'451': 'Fairy-Ring', '452': 'Spirit-tree', '148': 1, '453': 'Last-destination'} || {'451': 'Fairy-Ring', '452': 'Spirit-tree', '148': 1, '453': 'Last-destination', '295': 1}
+|-
+|rowspan="2"|[[Extradimensional bag]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#25106 25106]
+|-
+|params || {'451': 'Open', '148': 1, '452': 'Withdraw', '453': 'Deposit'} || {'451': 'Open', '148': 1, '452': 'Withdraw', '453': 'Deposit', '295': 1}
+|-
+|rowspan="2"|[[Extradimensional bag]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#25108 25108]
+|-
+|params || {'451': 'Close', '148': 1, '452': 'Withdraw', '453': 'Deposit'} || {'451': 'Close', '148': 1, '452': 'Withdraw', '453': 'Deposit', '295': 1}
+|-
+|rowspan="2"|[[Goblin decorations]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#25316 25316]
+|-
+|params || {'23': 0} || {'23': 0, '295': 1}
+|-
+|rowspan="2"|[[Soul cape]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#25344 25344]
+|-
+|params || {'451': 'Toggle-colour'} || {'295': 1, '451': 'Toggle-colour'}
+|-
+|rowspan="2"|[[Soul cape]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#25346 25346]
+|-
+|params || {'451': 'Toggle-colour'} || {'295': 1, '451': 'Toggle-colour'}
+|-
+|rowspan="2"|[[Infernal pickaxe (uncharged)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#25369 25369]
+|-
+|params || {'258': 21, '23': 61} || {'258': 21, '23': 61, '295': 1}
+|-
+|rowspan="2"|[[Infernal axe (uncharged)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#25371 25371]
+|-
+|params || {'258': 35, '23': 61} || {'258': 35, '23': 61, '295': 1}
+|-
+|rowspan="2"|[[Dragon pickaxe (or)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#25376 25376]
+|-
+|params || {'258': 21, '23': 61} || {'258': 21, '23': 61, '295': 1}
+|-
+|rowspan="2"|[[Dragon axe (or)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#25378 25378]
+|-
+|params || {'258': 35, '23': 61} || {'258': 35, '23': 61, '295': 1}
+|-
+|rowspan="2"|[[Bronze coffin]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#25459 25459]
+|-
+|params || {'1152': 3, '451': 'Fill', '452': 'Configure', '453': 'Open'} || {'1152': 3, '451': 'Fill', '452': 'Configure', '453': 'Open', '295': 1}
+|-
+|rowspan="2"|[[Steel coffin]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#25461 25461]
+|-
+|params || {'1152': 8, '451': 'Fill', '452': 'Configure', '453': 'Open'} || {'1152': 8, '451': 'Fill', '452': 'Configure', '453': 'Open', '295': 1}
+|-
+|rowspan="2"|[[Black coffin]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#25463 25463]
+|-
+|params || {'1152': 14, '451': 'Fill', '452': 'Configure', '453': 'Open'} || {'1152': 14, '451': 'Fill', '452': 'Configure', '453': 'Open', '295': 1}
+|-
+|rowspan="2"|[[Silver coffin]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#25465 25465]
+|-
+|params || {'1152': 20, '451': 'Fill', '452': 'Configure', '453': 'Open'} || {'1152': 20, '451': 'Fill', '452': 'Configure', '453': 'Open', '295': 1}
+|-
+|rowspan="2"|[[Gold coffin]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#25467 25467]
+|-
+|params || {'1152': 28, '451': 'Fill', '452': 'Configure', '453': 'Open'} || {'1152': 28, '451': 'Fill', '452': 'Configure', '453': 'Open', '295': 1}
+|-
+|rowspan="2"|[[Open bronze coffin]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#25469 25469]
+|-
+|params || {'1152': 3, '451': 'Fill', '452': 'Configure', '453': 'Close'} || {'1152': 3, '451': 'Fill', '452': 'Configure', '453': 'Close', '295': 1}
+|-
+|rowspan="2"|[[Open steel coffin]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#25470 25470]
+|-
+|params || {'1152': 8, '451': 'Fill', '452': 'Configure', '453': 'Close'} || {'1152': 8, '451': 'Fill', '452': 'Configure', '453': 'Close', '295': 1}
+|-
+|rowspan="2"|[[Open black coffin]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#25471 25471]
+|-
+|params || {'1152': 14, '451': 'Fill', '452': 'Configure', '453': 'Close'} || {'1152': 14, '451': 'Fill', '452': 'Configure', '453': 'Close', '295': 1}
+|-
+|rowspan="2"|[[Open silver coffin]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#25472 25472]
+|-
+|params || {'1152': 20, '451': 'Fill', '452': 'Configure', '453': 'Close'} || {'1152': 20, '451': 'Fill', '452': 'Configure', '453': 'Close', '295': 1}
+|-
+|rowspan="2"|[[Open gold coffin]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#25473 25473]
+|-
+|params || {'1152': 28, '451': 'Fill', '452': 'Configure', '453': 'Close'} || {'1152': 28, '451': 'Fill', '452': 'Configure', '453': 'Close', '295': 1}
+|-
+|rowspan="2"|[[Blood ancient sceptre]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#25489 25489]
+|-
+|params || {'1564': 3} || {'1564': 3, '295': 1}
+|-
+|rowspan="2"|[[Ice ancient sceptre]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#25490 25490]
+|-
+|params || {'1564': 3} || {'1564': 3, '295': 1}
+|-
+|rowspan="2"|[[Smoke ancient sceptre]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#25491 25491]
+|-
+|params || {'1564': 3} || {'1564': 3, '295': 1}
+|-
+|rowspan="2"|[[Shadow ancient sceptre]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#25492 25492]
+|-
+|params || {'1564': 3} || {'1564': 3, '295': 1}
+|-
+|rowspan="2"|[[Ancestral hat]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#25518 25518]
+|-
+|params || {'1564': 0} || {'1564': 0, '295': 1}
+|-
+|rowspan="2"|[[Celestial ring]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#25541 25541]
+|-
+|params || {'148': 1, '451': 'Check'} || {'148': 1, '295': 1, '451': 'Check'}
+|-
+|rowspan="2"|[[Celestial signet]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#25545 25545]
+|-
+|params || {'148': 1, '451': 'Check'} || {'148': 1, '295': 1, '451': 'Check'}
+|-
+|rowspan="2"|[[Tome of water]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#25574 25574]
+|-
+|params || {'434': 6, '451': 'Check', '1564': 5, '436': 50, '452': 'Pages'} || {'434': 6, '451': 'Check', '1564': 5, '436': 50, '452': 'Pages', '295': 1}
+|-
+|rowspan="2"|[[Tome of water (empty)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#25576 25576]
+|-
+|params || {'451': 'Pages'} || {'295': 1, '451': 'Pages'}
+|-
+|rowspan="2"|[[Tackle box]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#25580 25580]
+|-
+|params || {'595': 'Use'} || {'595': 'Use', '295': 1}
+|-
+|rowspan="2"|[[Fish barrel]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#25582 25582]
+|-
+|params || {'595': 'Empty'} || {'595': 'Empty', '295': 1}
+|-
+|rowspan="2"|[[Open fish barrel]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#25584 25584]
+|-
+|params || {'595': 'Empty'} || {'595': 'Empty', '295': 1}
+|-
+|rowspan="2"|[[Fish sack barrel]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#25585 25585]
+|-
+|params || {'452': 'Open', '595': 'Empty', '451': 'Check'} || {'595': 'Empty', '451': 'Check', '452': 'Open', '295': 1}
+|-
+|rowspan="2"|[[Open fish sack barrel]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#25587 25587]
+|-
+|params || {'452': 'Close', '595': 'Empty', '451': 'Check'} || {'595': 'Empty', '451': 'Check', '452': 'Close', '295': 1}
+|-
+|rowspan="2"|[[Ghommal's hilt 1]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#25926 25926]
+|-
+|params || {'451': 'Trollheim'} || {'451': 'Trollheim', '295': 1}
+|-
+|rowspan="2"|[[Ghommal's hilt 2]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#25928 25928]
+|-
+|params || {'451': 'Trollheim'} || {'451': 'Trollheim', '295': 1}
+|-
+|rowspan="2"|[[Ghommal's hilt 3]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#25930 25930]
+|-
+|params || {'451': 'Trollheim'} || {'451': 'Trollheim', '295': 1}
+|-
+|rowspan="2"|[[Ghommal's hilt 4]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#25932 25932]
+|-
+|params || {'452': 'Mor Ul Rek', '451': 'Trollheim'} || {'452': 'Mor Ul Rek', '451': 'Trollheim', '295': 1}
+|-
+|rowspan="2"|[[Ghommal's hilt 5]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#25934 25934]
+|-
+|params || {'452': 'Mor Ul Rek', '451': 'Trollheim'} || {'452': 'Mor Ul Rek', '451': 'Trollheim', '295': 1}
+|-
+|rowspan="2"|[[Ghommal's hilt 6]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#25936 25936]
+|-
+|params || {'452': 'Mor Ul Rek', '451': 'Trollheim'} || {'452': 'Mor Ul Rek', '451': 'Trollheim', '295': 1}
+|-
+|rowspan="2"|[[Keris partisan of breaching]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#25981 25981]
+|-
+|params || {'436': 80, '434': 0} || {'436': 80, '434': 0, '295': 1}
+|-
+|rowspan="2"|[[Sigil of resilience]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#25990 25990]
+|-
+|params || {'568': 3, '1371': 53} || {'568': 3, '295': 1, '1371': 53}
+|-
+|rowspan="2"|[[Sigil of resilience]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#25991 25991]
+|-
+|params || {'568': 3, '1371': 53} || {'568': 3, '295': 1, '1371': 53}
+|-
+|rowspan="2"|[[Sigil of consistency]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#25993 25993]
+|-
+|params || {'568': 3, '1371': 1} || {'568': 3, '295': 1, '1371': 1}
+|-
+|rowspan="2"|[[Sigil of consistency]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#25994 25994]
+|-
+|params || {'568': 3, '1371': 1} || {'568': 3, '295': 1, '1371': 1}
+|-
+|rowspan="2"|[[Sigil of the formidable fighter]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#25996 25996]
+|-
+|params || {'568': 3, '1371': 2} || {'568': 3, '295': 1, '1371': 2}
+|-
+|rowspan="2"|[[Sigil of the formidable fighter]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#25997 25997]
+|-
+|params || {'568': 3, '1371': 2} || {'568': 3, '295': 1, '1371': 2}
+|-
+|rowspan="2"|[[Sigil of the rigorous ranger]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#25999 25999]
+|-
+|params || {'568': 3, '1371': 3} || {'568': 3, '295': 1, '1371': 3}
+|-
+|rowspan="2"|[[Sigil of the rigorous ranger]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26000 26000]
+|-
+|params || {'568': 3, '1371': 3} || {'568': 3, '295': 1, '1371': 3}
+|-
+|rowspan="2"|[[Sigil of the meticulous mage]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26002 26002]
+|-
+|params || {'568': 3, '1371': 4} || {'568': 3, '295': 1, '1371': 4}
+|-
+|rowspan="2"|[[Sigil of the meticulous mage]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26003 26003]
+|-
+|params || {'568': 3, '1371': 4} || {'568': 3, '295': 1, '1371': 4}
+|-
+|rowspan="2"|[[Sigil of fortification]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26005 26005]
+|-
+|params || {'568': 3, '1371': 5} || {'568': 3, '295': 1, '1371': 5}
+|-
+|rowspan="2"|[[Sigil of fortification]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26006 26006]
+|-
+|params || {'568': 3, '1371': 5} || {'568': 3, '295': 1, '1371': 5}
+|-
+|rowspan="2"|[[Sigil of barrows]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26008 26008]
+|-
+|params || {'568': 3, '1371': 6} || {'568': 3, '295': 1, '1371': 6}
+|-
+|rowspan="2"|[[Sigil of barrows]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26009 26009]
+|-
+|params || {'568': 3, '1371': 6} || {'568': 3, '295': 1, '1371': 6}
+|-
+|rowspan="2"|[[Sigil of deft strikes]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26011 26011]
+|-
+|params || {'568': 3, '1371': 7} || {'568': 3, '295': 1, '1371': 7}
+|-
+|rowspan="2"|[[Sigil of deft strikes]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26012 26012]
+|-
+|params || {'568': 3, '1371': 7} || {'568': 3, '295': 1, '1371': 7}
+|-
+|rowspan="2"|[[Sigil of freedom]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26014 26014]
+|-
+|params || {'568': 3, '1371': 8} || {'568': 3, '295': 1, '1371': 8}
+|-
+|rowspan="2"|[[Sigil of freedom]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26015 26015]
+|-
+|params || {'568': 3, '1371': 8} || {'568': 3, '295': 1, '1371': 8}
+|-
+|rowspan="2"|[[Sigil of enhanced harvest]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26017 26017]
+|-
+|params || {'568': 3, '1371': 9} || {'568': 3, '295': 1, '1371': 9}
+|-
+|rowspan="2"|[[Sigil of enhanced harvest]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26018 26018]
+|-
+|params || {'568': 3, '1371': 9} || {'568': 3, '295': 1, '1371': 9}
+|-
+|rowspan="2"|[[Sigil of storage]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26020 26020]
+|-
+|params || {'568': 3, '1371': 10} || {'568': 3, '295': 1, '1371': 10}
+|-
+|rowspan="2"|[[Sigil of storage]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26021 26021]
+|-
+|params || {'568': 3, '1371': 10} || {'568': 3, '295': 1, '1371': 10}
+|-
+|rowspan="2"|[[Sigil of the smith]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26023 26023]
+|-
+|params || {'568': 3, '1371': 11} || {'568': 3, '295': 1, '1371': 11}
+|-
+|rowspan="2"|[[Sigil of the smith]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26024 26024]
+|-
+|params || {'568': 3, '1371': 11} || {'568': 3, '295': 1, '1371': 11}
+|-
+|rowspan="2"|[[Sigil of the alchemist]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26026 26026]
+|-
+|params || {'568': 3, '1371': 12} || {'568': 3, '295': 1, '1371': 12}
+|-
+|rowspan="2"|[[Sigil of the alchemist]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26027 26027]
+|-
+|params || {'568': 3, '1371': 12} || {'568': 3, '295': 1, '1371': 12}
+|-
+|rowspan="2"|[[Sigil of the fletcher]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26029 26029]
+|-
+|params || {'568': 3, '1371': 13} || {'568': 3, '295': 1, '1371': 13}
+|-
+|rowspan="2"|[[Sigil of the fletcher]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26030 26030]
+|-
+|params || {'568': 3, '1371': 13} || {'568': 3, '295': 1, '1371': 13}
+|-
+|rowspan="2"|[[Sigil of the chef]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26032 26032]
+|-
+|params || {'568': 3, '1371': 14} || {'568': 3, '295': 1, '1371': 14}
+|-
+|rowspan="2"|[[Sigil of the chef]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26033 26033]
+|-
+|params || {'568': 3, '1371': 14} || {'568': 3, '295': 1, '1371': 14}
+|-
+|rowspan="2"|[[Sigil of the craftsman]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26035 26035]
+|-
+|params || {'568': 3, '1371': 15} || {'568': 3, '295': 1, '1371': 15}
+|-
+|rowspan="2"|[[Sigil of the craftsman]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26036 26036]
+|-
+|params || {'568': 3, '1371': 15} || {'568': 3, '295': 1, '1371': 15}
+|-
+|rowspan="2"|[[Sigil of the abyss]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26038 26038]
+|-
+|params || {'568': 3, '1371': 16} || {'568': 3, '295': 1, '1371': 16}
+|-
+|rowspan="2"|[[Sigil of the abyss]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26039 26039]
+|-
+|params || {'568': 3, '1371': 16} || {'568': 3, '295': 1, '1371': 16}
+|-
+|rowspan="2"|[[Sigil of stamina]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26041 26041]
+|-
+|params || {'568': 3, '1371': 17} || {'568': 3, '295': 1, '1371': 17}
+|-
+|rowspan="2"|[[Sigil of stamina]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26042 26042]
+|-
+|params || {'568': 3, '1371': 17} || {'568': 3, '295': 1, '1371': 17}
+|-
+|rowspan="2"|[[Sigil of the potion master]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26044 26044]
+|-
+|params || {'568': 3, '1371': 18} || {'568': 3, '295': 1, '1371': 18}
+|-
+|rowspan="2"|[[Sigil of the potion master]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26045 26045]
+|-
+|params || {'568': 3, '1371': 18} || {'568': 3, '295': 1, '1371': 18}
+|-
+|rowspan="2"|[[Sigil of the eternal jeweller]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26047 26047]
+|-
+|params || {'568': 3, '1371': 19} || {'568': 3, '295': 1, '1371': 19}
+|-
+|rowspan="2"|[[Sigil of the eternal jeweller]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26048 26048]
+|-
+|params || {'568': 3, '1371': 19} || {'568': 3, '295': 1, '1371': 19}
+|-
+|rowspan="2"|[[Sigil of the treasure hunter]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26050 26050]
+|-
+|params || {'568': 3, '1371': 20} || {'568': 3, '295': 1, '1371': 20}
+|-
+|rowspan="2"|[[Sigil of the treasure hunter]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26051 26051]
+|-
+|params || {'568': 3, '1371': 20} || {'568': 3, '295': 1, '1371': 20}
+|-
+|rowspan="2"|[[Sigil of mobility]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26053 26053]
+|-
+|params || {'568': 3, '1371': 21} || {'568': 3, '295': 1, '1371': 21}
+|-
+|rowspan="2"|[[Sigil of mobility]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26054 26054]
+|-
+|params || {'568': 3, '1371': 21} || {'568': 3, '295': 1, '1371': 21}
+|-
+|rowspan="2"|[[Sigil of exaggeration]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26056 26056]
+|-
+|params || {'568': 3, '1371': 22} || {'568': 3, '295': 1, '1371': 22}
+|-
+|rowspan="2"|[[Sigil of exaggeration]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26057 26057]
+|-
+|params || {'568': 3, '1371': 22} || {'568': 3, '295': 1, '1371': 22}
+|-
+|rowspan="2"|[[Sigil of specialised strikes]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26059 26059]
+|-
+|params || {'568': 3, '1371': 23} || {'568': 3, '295': 1, '1371': 23}
+|-
+|rowspan="2"|[[Sigil of specialised strikes]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26060 26060]
+|-
+|params || {'568': 3, '1371': 23} || {'568': 3, '295': 1, '1371': 23}
+|-
+|rowspan="2"|[[Sigil of the porcupine]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26062 26062]
+|-
+|params || {'568': 3, '1371': 24} || {'568': 3, '295': 1, '1371': 24}
+|-
+|rowspan="2"|[[Sigil of the porcupine]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26063 26063]
+|-
+|params || {'568': 3, '1371': 24} || {'568': 3, '295': 1, '1371': 24}
+|-
+|rowspan="2"|[[Sigil of binding]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26065 26065]
+|-
+|params || {'568': 3, '1371': 25} || {'568': 3, '295': 1, '1371': 25}
+|-
+|rowspan="2"|[[Sigil of binding]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26066 26066]
+|-
+|params || {'568': 3, '1371': 25} || {'568': 3, '295': 1, '1371': 25}
+|-
+|rowspan="2"|[[Sigil of escaping]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26068 26068]
+|-
+|params || {'568': 3, '1371': 26} || {'568': 3, '295': 1, '1371': 26}
+|-
+|rowspan="2"|[[Sigil of escaping]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26069 26069]
+|-
+|params || {'568': 3, '1371': 26} || {'568': 3, '295': 1, '1371': 26}
+|-
+|rowspan="2"|[[Sigil of the ruthless ranger]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26071 26071]
+|-
+|params || {'568': 3, '1371': 27} || {'568': 3, '295': 1, '1371': 27}
+|-
+|rowspan="2"|[[Sigil of the ruthless ranger]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26072 26072]
+|-
+|params || {'568': 3, '1371': 27} || {'568': 3, '295': 1, '1371': 27}
+|-
+|rowspan="2"|[[Sigil of the feral fighter]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26074 26074]
+|-
+|params || {'568': 3, '1371': 28} || {'568': 3, '295': 1, '1371': 28}
+|-
+|rowspan="2"|[[Sigil of the feral fighter]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26075 26075]
+|-
+|params || {'568': 3, '1371': 28} || {'568': 3, '295': 1, '1371': 28}
+|-
+|rowspan="2"|[[Sigil of the menacing mage]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26077 26077]
+|-
+|params || {'568': 3, '1371': 29} || {'568': 3, '295': 1, '1371': 29}
+|-
+|rowspan="2"|[[Sigil of the menacing mage]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26078 26078]
+|-
+|params || {'568': 3, '1371': 29} || {'568': 3, '295': 1, '1371': 29}
+|-
+|rowspan="2"|[[Sigil of prosperity]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26080 26080]
+|-
+|params || {'568': 3, '1371': 30} || {'568': 3, '295': 1, '1371': 30}
+|-
+|rowspan="2"|[[Sigil of prosperity]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26081 26081]
+|-
+|params || {'568': 3, '1371': 30} || {'568': 3, '295': 1, '1371': 30}
+|-
+|rowspan="2"|[[Sigil of the dwarves]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26083 26083]
+|-
+|params || {'568': 3, '1371': 31} || {'568': 3, '295': 1, '1371': 31}
+|-
+|rowspan="2"|[[Sigil of the dwarves]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26084 26084]
+|-
+|params || {'568': 3, '1371': 31} || {'568': 3, '295': 1, '1371': 31}
+|-
+|rowspan="2"|[[Sigil of the elves]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26086 26086]
+|-
+|params || {'568': 3, '1371': 32} || {'568': 3, '295': 1, '1371': 32}
+|-
+|rowspan="2"|[[Sigil of the elves]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26087 26087]
+|-
+|params || {'568': 3, '1371': 32} || {'568': 3, '295': 1, '1371': 32}
+|-
+|rowspan="2"|[[Sigil of the barbarians]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26089 26089]
+|-
+|params || {'568': 3, '1371': 33} || {'568': 3, '295': 1, '1371': 33}
+|-
+|rowspan="2"|[[Sigil of the barbarians]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26090 26090]
+|-
+|params || {'568': 3, '1371': 33} || {'568': 3, '295': 1, '1371': 33}
+|-
+|rowspan="2"|[[Sigil of the gnomes]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26092 26092]
+|-
+|params || {'568': 3, '1371': 34} || {'568': 3, '295': 1, '1371': 34}
+|-
+|rowspan="2"|[[Sigil of the gnomes]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26093 26093]
+|-
+|params || {'568': 3, '1371': 34} || {'568': 3, '295': 1, '1371': 34}
+|-
+|rowspan="2"|[[Sigil of nature]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26095 26095]
+|-
+|params || {'568': 3, '1371': 35} || {'568': 3, '295': 1, '1371': 35}
+|-
+|rowspan="2"|[[Sigil of nature]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26096 26096]
+|-
+|params || {'568': 3, '1371': 35} || {'568': 3, '295': 1, '1371': 35}
+|-
+|rowspan="2"|[[Sigil of devotion]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26098 26098]
+|-
+|params || {'568': 3, '1371': 36} || {'568': 3, '295': 1, '1371': 36}
+|-
+|rowspan="2"|[[Sigil of devotion]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26099 26099]
+|-
+|params || {'568': 3, '1371': 36} || {'568': 3, '295': 1, '1371': 36}
+|-
+|rowspan="2"|[[Sigil of the forager]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26101 26101]
+|-
+|params || {'568': 3, '1371': 37} || {'568': 3, '295': 1, '1371': 37}
+|-
+|rowspan="2"|[[Sigil of the forager]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26102 26102]
+|-
+|params || {'568': 3, '1371': 37} || {'568': 3, '295': 1, '1371': 37}
+|-
+|rowspan="2"|[[Sigil of garments]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26104 26104]
+|-
+|params || {'568': 3, '1371': 38} || {'568': 3, '295': 1, '1371': 38}
+|-
+|rowspan="2"|[[Sigil of garments]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26105 26105]
+|-
+|params || {'568': 3, '1371': 38} || {'568': 3, '295': 1, '1371': 38}
+|-
+|rowspan="2"|[[Sigil of slaughter]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26107 26107]
+|-
+|params || {'568': 3, '1371': 39} || {'568': 3, '295': 1, '1371': 39}
+|-
+|rowspan="2"|[[Sigil of slaughter]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26108 26108]
+|-
+|params || {'568': 3, '1371': 39} || {'568': 3, '295': 1, '1371': 39}
+|-
+|rowspan="2"|[[Sigil of the fortune farmer]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26110 26110]
+|-
+|params || {'568': 3, '1371': 40} || {'568': 3, '295': 1, '1371': 40}
+|-
+|rowspan="2"|[[Sigil of the fortune farmer]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26111 26111]
+|-
+|params || {'568': 3, '1371': 40} || {'568': 3, '295': 1, '1371': 40}
+|-
+|rowspan="2"|[[Sigil of versatility]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26113 26113]
+|-
+|params || {'568': 3, '1371': 41} || {'568': 3, '295': 1, '1371': 41}
+|-
+|rowspan="2"|[[Sigil of versatility]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26114 26114]
+|-
+|params || {'568': 3, '1371': 41} || {'568': 3, '295': 1, '1371': 41}
+|-
+|rowspan="2"|[[Sigil of the serpent]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26116 26116]
+|-
+|params || {'568': 3, '1371': 42} || {'568': 3, '295': 1, '1371': 42}
+|-
+|rowspan="2"|[[Sigil of the serpent]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26117 26117]
+|-
+|params || {'568': 3, '1371': 42} || {'568': 3, '295': 1, '1371': 42}
+|-
+|rowspan="2"|[[Sigil of supreme stamina]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26119 26119]
+|-
+|params || {'568': 3, '1371': 43} || {'568': 3, '295': 1, '1371': 43}
+|-
+|rowspan="2"|[[Sigil of supreme stamina]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26120 26120]
+|-
+|params || {'568': 3, '1371': 43} || {'568': 3, '295': 1, '1371': 43}
+|-
+|rowspan="2"|[[Sigil of preservation]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26122 26122]
+|-
+|params || {'568': 3, '1371': 44} || {'568': 3, '295': 1, '1371': 44}
+|-
+|rowspan="2"|[[Sigil of preservation]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26123 26123]
+|-
+|params || {'568': 3, '1371': 44} || {'568': 3, '295': 1, '1371': 44}
+|-
+|rowspan="2"|[[Sigil of finality]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26125 26125]
+|-
+|params || {'568': 3, '1371': 45} || {'568': 3, '295': 1, '1371': 45}
+|-
+|rowspan="2"|[[Sigil of finality]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26126 26126]
+|-
+|params || {'568': 3, '1371': 45} || {'568': 3, '295': 1, '1371': 45}
+|-
+|rowspan="2"|[[Sigil of pious protection]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26128 26128]
+|-
+|params || {'568': 3, '1371': 46} || {'568': 3, '295': 1, '1371': 46}
+|-
+|rowspan="2"|[[Sigil of pious protection]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26129 26129]
+|-
+|params || {'568': 3, '1371': 46} || {'568': 3, '295': 1, '1371': 46}
+|-
+|rowspan="2"|[[Sigil of aggression]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26131 26131]
+|-
+|params || {'568': 3, '1371': 47} || {'568': 3, '295': 1, '1371': 47}
+|-
+|rowspan="2"|[[Sigil of aggression]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26132 26132]
+|-
+|params || {'568': 3, '1371': 47} || {'568': 3, '295': 1, '1371': 47}
+|-
+|rowspan="2"|[[Sigil of rampage]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26134 26134]
+|-
+|params || {'568': 3, '1371': 48} || {'568': 3, '295': 1, '1371': 48}
+|-
+|rowspan="2"|[[Sigil of rampage]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26135 26135]
+|-
+|params || {'568': 3, '1371': 48} || {'568': 3, '295': 1, '1371': 48}
+|-
+|rowspan="2"|[[Sigil of the skiller]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26137 26137]
+|-
+|params || {'568': 3, '1371': 49} || {'568': 3, '295': 1, '1371': 49}
+|-
+|rowspan="2"|[[Sigil of the skiller]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26138 26138]
+|-
+|params || {'568': 3, '1371': 49} || {'568': 3, '295': 1, '1371': 49}
+|-
+|rowspan="2"|[[Sigil of remote storage]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26140 26140]
+|-
+|params || {'568': 3, '1371': 50} || {'568': 3, '295': 1, '1371': 50}
+|-
+|rowspan="2"|[[Sigil of remote storage]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26141 26141]
+|-
+|params || {'568': 3, '1371': 50} || {'568': 3, '295': 1, '1371': 50}
+|-
+|rowspan="2"|[[Sigil of last recall]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26143 26143]
+|-
+|params || {'568': 3, '1371': 51} || {'568': 3, '295': 1, '1371': 51}
+|-
+|rowspan="2"|[[Sigil of last recall]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26144 26144]
+|-
+|params || {'568': 3, '1371': 51} || {'568': 3, '295': 1, '1371': 51}
+|-
+|rowspan="2"|[[Sigil of the guardian angel]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26146 26146]
+|-
+|params || {'568': 3, '1371': 52} || {'568': 3, '295': 1, '1371': 52}
+|-
+|rowspan="2"|[[Sigil of the guardian angel]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26147 26147]
+|-
+|params || {'568': 3, '1371': 52} || {'568': 3, '295': 1, '1371': 52}
+|-
+|rowspan="2"|[[Ugly halloween jumper (orange)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26256 26256]
+|-
+|params || {'451': 'Reverse'} || {'295': 1, '451': 'Reverse'}
+|-
+|rowspan="2"|[[Ugly halloween jumper (black)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26258 26258]
+|-
+|params || {'451': 'Reverse'} || {'295': 1, '451': 'Reverse'}
+|-
+|rowspan="2"|[[Haunted wine bottle]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26260 26260]
+|-
+|params || {'452': 'Talk-to', '451': 'Wake-ghost'} || {'452': 'Talk-to', '451': 'Wake-ghost', '295': 1}
+|-
+|rowspan="2"|[[Secret santa present (red)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26316 26316]
+|-
+|params || {'452': 'Change-colour', '451': 'Read-tag'} || {'452': 'Change-colour', '451': 'Read-tag', '295': 1}
+|-
+|rowspan="2"|[[Secret santa present (blue)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26318 26318]
+|-
+|params || {'452': 'Change-colour', '451': 'Read-tag'} || {'452': 'Change-colour', '451': 'Read-tag', '295': 1}
+|-
+|rowspan="2"|[[Secret santa present (green)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26320 26320]
+|-
+|params || {'452': 'Change-colour', '451': 'Read-tag'} || {'452': 'Change-colour', '451': 'Read-tag', '295': 1}
+|-
+|rowspan="2"|[[Secret santa present (black)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26322 26322]
+|-
+|params || {'452': 'Change-colour', '451': 'Read-tag'} || {'452': 'Change-colour', '451': 'Read-tag', '295': 1}
+|-
+|rowspan="2"|[[Secret santa present (gold)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26324 26324]
+|-
+|params || {'452': 'Change-colour', '451': 'Read-tag'} || {'452': 'Change-colour', '451': 'Read-tag', '295': 1}
+|-
+|rowspan="2"|[[Shattered banner]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26424 26424]
+|-
+|params || {'916': 3} || {'916': 3, '295': 1}
+|-
+|rowspan="2"|[[Shattered hood (t1)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26427 26427]
+|-
+|params || {'916': 3} || {'916': 3, '295': 1}
+|-
+|rowspan="2"|[[Shattered top (t1)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26430 26430]
+|-
+|params || {'916': 3} || {'916': 3, '295': 1}
+|-
+|rowspan="2"|[[Shattered trousers (t1)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26433 26433]
+|-
+|params || {'916': 3} || {'916': 3, '295': 1}
+|-
+|rowspan="2"|[[Shattered boots (t1)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26436 26436]
+|-
+|params || {'916': 3} || {'916': 3, '295': 1}
+|-
+|rowspan="2"|[[Shattered hood (t2)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26439 26439]
+|-
+|params || {'916': 3} || {'916': 3, '295': 1}
+|-
+|rowspan="2"|[[Shattered top (t2)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26442 26442]
+|-
+|params || {'916': 3} || {'916': 3, '295': 1}
+|-
+|rowspan="2"|[[Shattered trousers (t2)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26445 26445]
+|-
+|params || {'916': 3} || {'916': 3, '295': 1}
+|-
+|rowspan="2"|[[Shattered boots (t2)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26448 26448]
+|-
+|params || {'916': 3} || {'916': 3, '295': 1}
+|-
+|rowspan="2"|[[Shattered hood (t3)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26451 26451]
+|-
+|params || {'916': 3} || {'916': 3, '295': 1}
+|-
+|rowspan="2"|[[Shattered top (t3)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26454 26454]
+|-
+|params || {'916': 3} || {'916': 3, '295': 1}
+|-
+|rowspan="2"|[[Shattered trousers (t3)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26457 26457]
+|-
+|params || {'916': 3} || {'916': 3, '295': 1}
+|-
+|rowspan="2"|[[Shattered boots (t3)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26460 26460]
+|-
+|params || {'916': 3} || {'916': 3, '295': 1}
+|-
+|rowspan="2"|[[Book of balance (or)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26488 26488]
+|-
+|params || {'258': 7, '42': 1, '451': 'Read'} || {'258': 7, '42': 1, '451': 'Read', '295': 1}
+|-
+|rowspan="2"|[[Book of darkness (or)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26490 26490]
+|-
+|params || {'258': 7, '451': 'Read'} || {'258': 7, '451': 'Read', '295': 1}
+|-
+|rowspan="2"|[[Book of law (or)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26492 26492]
+|-
+|params || {'258': 7, '451': 'Read'} || {'258': 7, '451': 'Read', '295': 1}
+|-
+|rowspan="2"|[[Book of war (or)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26494 26494]
+|-
+|params || {'258': 7, '451': 'Read'} || {'258': 7, '451': 'Read', '295': 1}
+|-
+|rowspan="2"|[[Holy book (or)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26496 26496]
+|-
+|params || {'40': 1, '258': 7, '451': 'Read'} || {'40': 1, '258': 7, '451': 'Read', '295': 1}
+|-
+|rowspan="2"|[[Unholy book (or)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26498 26498]
+|-
+|params || {'41': 1, '258': 7, '451': 'Read'} || {'41': 1, '258': 7, '451': 'Read', '295': 1}
+|-
+|rowspan="2"|[[Shattered relics bronze trophy]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26503 26503]
+|-
+|params || {'451': 'Trophy Emote', '916': 3, '917': 100, '918': 1} || {'451': 'Trophy Emote', '916': 3, '917': 100, '918': 1, '295': 1}
+|-
+|rowspan="2"|[[Shattered relics iron trophy]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26505 26505]
+|-
+|params || {'451': 'Trophy Emote', '916': 3, '917': 480, '918': 2} || {'451': 'Trophy Emote', '916': 3, '917': 480, '918': 2, '295': 1}
+|-
+|rowspan="2"|[[Shattered relics steel trophy]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26507 26507]
+|-
+|params || {'451': 'Trophy Emote', '916': 3, '917': 1660, '918': 3} || {'451': 'Trophy Emote', '916': 3, '917': 1660, '918': 3, '295': 1}
+|-
+|rowspan="2"|[[Shattered relics mithril trophy]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26509 26509]
+|-
+|params || {'451': 'Trophy Emote', '916': 3, '917': 5475, '918': 4} || {'451': 'Trophy Emote', '916': 3, '917': 5475, '918': 4, '295': 1}
+|-
+|rowspan="2"|[[Shattered relics adamant trophy]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26511 26511]
+|-
+|params || {'451': 'Trophy Emote', '916': 3, '917': 15575, '918': 5} || {'451': 'Trophy Emote', '916': 3, '917': 15575, '918': 5, '295': 1}
+|-
+|rowspan="2"|[[Shattered relics rune trophy]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26513 26513]
+|-
+|params || {'451': 'Trophy Emote', '916': 3, '917': 31980, '918': 6} || {'451': 'Trophy Emote', '916': 3, '917': 31980, '918': 6, '295': 1}
+|-
+|rowspan="2"|[[Shattered relics dragon trophy]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26515 26515]
+|-
+|params || {'451': 'Trophy Emote', '916': 3, '917': 52545, '918': 7} || {'451': 'Trophy Emote', '916': 3, '917': 52545, '918': 7, '295': 1}
+|-
+|rowspan="2"|[[Shattered cane]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26517 26517]
+|-
+|params || {'451': 'Skill Emote', '452': 'Boss Emote', '916': 3, '453': 'Quest Emote', '454': 'Fragment Emote'} || {'451': 'Skill Emote', '452': 'Boss Emote', '916': 3, '453': 'Quest Emote', '454': 'Fragment Emote', '295': 1}
+|-
+|rowspan="2"|[[Portable waystone]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26549 26549]
+|-
+|params || {'451': 'Teleport'} || {'451': 'Teleport', '295': 1}
+|-
+|rowspan="2"|[[Arcane grimoire]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26551 26551]
+|-
+|params || {'452': 'Previous Spellbook', '453': 'Check Previous', '451': 'Change Spellbook'} || {'451': 'Change Spellbook', '452': 'Previous Spellbook', '453': 'Check Previous', '295': 1}
+|-
+|rowspan="2"|[[Wristbands of the arena (c)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26725 26725]
+|-
+|params || {'148': 1} || {'148': 1, '295': 1}
+|-
+|rowspan="2"|[[Wristbands of the arena (cl)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26726 26726]
+|-
+|params || {'148': 1} || {'148': 1, '295': 1}
+|-
+|rowspan="2"|[[Wristbands of the arena (ic)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26729 26729]
+|-
+|params || {'148': 1} || {'148': 1, '295': 1}
+|-
+|rowspan="2"|[[Wristbands of the arena (ilc)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26730 26730]
+|-
+|params || {'148': 1} || {'148': 1, '295': 1}
+|-
+|rowspan="2"|[[Saika's hood]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26731 26731]
+|-
+|params || {'434': 6, '435': 1, '1564': 0, '436': 70, '437': 1} || {'434': 6, '435': 1, '1564': 0, '436': 70, '437': 1, '295': 1}
+|-
+|rowspan="2"|[[Saika's veil]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26733 26733]
+|-
+|params || {'434': 6, '435': 1, '1564': 0, '436': 70, '437': 40} || {'434': 6, '435': 1, '1564': 0, '436': 70, '437': 40, '295': 1}
+|-
+|rowspan="2"|[[Saika's shroud]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26735 26735]
+|-
+|params || {'434': 6, '435': 1, '1564': 0, '436': 70, '437': 70} || {'434': 6, '435': 1, '1564': 0, '436': 70, '437': 70, '295': 1}
+|-
+|rowspan="2"|[[Koriff's headband]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26737 26737]
+|-
+|params || {'434': 4, '435': 1, '1564': 0, '436': 70, '437': 1} || {'434': 4, '435': 1, '1564': 0, '436': 70, '437': 1, '295': 1}
+|-
+|rowspan="2"|[[Koriff's cowl]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26739 26739]
+|-
+|params || {'434': 4, '435': 1, '1564': 0, '436': 70, '437': 40} || {'434': 4, '435': 1, '1564': 0, '436': 70, '437': 40, '295': 1}
+|-
+|rowspan="2"|[[Koriff's coif]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26741 26741]
+|-
+|params || {'434': 4, '435': 1, '1564': 0, '436': 70, '437': 70} || {'434': 4, '435': 1, '1564': 0, '436': 70, '437': 70, '295': 1}
+|-
+|rowspan="2"|[[Maoma's med helm]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26743 26743]
+|-
+|params || {'434': 2, '435': 1, '1564': 0, '436': 70, '437': 1} || {'434': 2, '435': 1, '1564': 0, '436': 70, '437': 1, '295': 1}
+|-
+|rowspan="2"|[[Maoma's full helm]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26745 26745]
+|-
+|params || {'434': 2, '435': 1, '1564': 0, '436': 70, '437': 40} || {'434': 2, '435': 1, '1564': 0, '436': 70, '437': 40, '295': 1}
+|-
+|rowspan="2"|[[Maoma's great helm]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26747 26747]
+|-
+|params || {'434': 2, '435': 1, '1564': 0, '436': 70, '437': 70} || {'434': 2, '435': 1, '1564': 0, '436': 70, '437': 70, '295': 1}
+|-
+|rowspan="2"|[[Calamity chest]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26749 26749]
+|-
+|params || {'434': 4, '435': 6, '579': 1, '436': 70, '437': 70, '613': 70, '614': 1, '1564': 4, '191': 2} || {'434': 4, '435': 6, '579': 1, '436': 70, '437': 70, '613': 70, '614': 1, '295': 1, '1564': 4, '191': 2}
+|-
+|rowspan="2"|[[Superior calamity chest]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26751 26751]
+|-
+|params || {'434': 4, '435': 6, '579': 1, '436': 70, '437': 70, '613': 70, '614': 40, '1564': 4, '191': 2} || {'434': 4, '435': 6, '579': 1, '436': 70, '437': 70, '613': 70, '614': 40, '295': 1, '1564': 4, '191': 2}
+|-
+|rowspan="2"|[[Elite calamity chest]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26753 26753]
+|-
+|params || {'434': 4, '435': 6, '579': 1, '436': 70, '437': 70, '613': 70, '614': 70, '1564': 4, '191': 2} || {'434': 4, '435': 6, '579': 1, '436': 70, '437': 70, '613': 70, '614': 70, '295': 1, '1564': 4, '191': 2}
+|-
+|rowspan="2"|[[Calamity breeches]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26755 26755]
+|-
+|params || {'434': 4, '435': 6, '579': 1, '436': 70, '437': 70, '613': 70, '614': 1, '1564': 7, '191': 2} || {'434': 4, '435': 6, '579': 1, '436': 70, '437': 70, '613': 70, '614': 1, '295': 1, '1564': 7, '191': 2}
+|-
+|rowspan="2"|[[Superior calamity breeches]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26757 26757]
+|-
+|params || {'434': 4, '435': 6, '579': 1, '436': 70, '437': 70, '613': 70, '614': 40, '1564': 7, '191': 2} || {'434': 4, '435': 6, '579': 1, '436': 70, '437': 70, '613': 70, '614': 40, '295': 1, '1564': 7, '191': 2}
+|-
+|rowspan="2"|[[Elite calamity breeches]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26759 26759]
+|-
+|params || {'434': 4, '435': 6, '579': 1, '436': 70, '437': 70, '613': 70, '614': 70, '1564': 7, '191': 2} || {'434': 4, '435': 6, '579': 1, '436': 70, '437': 70, '613': 70, '614': 70, '295': 1, '1564': 7, '191': 2}
+|-
+|rowspan="2"|[[Colossal pouch]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26784 26784]
+|-
+|params || {'595': 'Fill'} || {'595': 'Fill', '295': 1}
+|-
+|rowspan="2"|[[Colossal pouch]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26786 26786]
+|-
+|params || {'595': 'Fill'} || {'595': 'Fill', '295': 1}
+|-
+|rowspan="2"|[[Abyssal lantern (normal logs)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26824 26824]
+|-
+|params || {'436': 1, '1642': 2097} || {'436': 1, '1642': 2097, '295': 1}
+|-
+|rowspan="2"|[[Abyssal lantern (blue logs)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26826 26826]
+|-
+|params || {'436': 1, '1642': 2098} || {'436': 1, '1642': 2098, '295': 1}
+|-
+|rowspan="2"|[[Abyssal lantern (red logs)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26828 26828]
+|-
+|params || {'436': 1, '1642': 2099} || {'436': 1, '1642': 2099, '295': 1}
+|-
+|rowspan="2"|[[Abyssal lantern (white logs)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26830 26830]
+|-
+|params || {'436': 1, '1642': 2100} || {'436': 1, '1642': 2100, '295': 1}
+|-
+|rowspan="2"|[[Abyssal lantern (purple logs)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26832 26832]
+|-
+|params || {'436': 1, '1642': 2101} || {'436': 1, '1642': 2101, '295': 1}
+|-
+|rowspan="2"|[[Abyssal lantern (green logs)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26834 26834]
+|-
+|params || {'436': 1, '1642': 2102} || {'436': 1, '1642': 2102, '295': 1}
+|-
+|rowspan="2"|[[Abyssal lantern (oak logs)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26836 26836]
+|-
+|params || {'436': 15, '1642': 2103} || {'436': 15, '1642': 2103, '295': 1}
+|-
+|rowspan="2"|[[Abyssal lantern (willow logs)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26838 26838]
+|-
+|params || {'436': 30, '1642': 2104} || {'436': 30, '1642': 2104, '295': 1}
+|-
+|rowspan="2"|[[Abyssal lantern (maple logs)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26840 26840]
+|-
+|params || {'436': 45, '1642': 2105} || {'436': 45, '1642': 2105, '295': 1}
+|-
+|rowspan="2"|[[Abyssal lantern (yew logs)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26842 26842]
+|-
+|params || {'436': 60, '1642': 2106} || {'436': 60, '1642': 2106, '295': 1}
+|-
+|rowspan="2"|[[Abyssal lantern (blisterwood logs)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26844 26844]
+|-
+|params || {'436': 62, '1642': 2107} || {'436': 62, '1642': 2107, '295': 1}
+|-
+|rowspan="2"|[[Abyssal lantern (magic logs)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26846 26846]
+|-
+|params || {'436': 75, '1642': 2108} || {'436': 75, '1642': 2108, '295': 1}
+|-
+|rowspan="2"|[[Abyssal lantern (redwood logs)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26848 26848]
+|-
+|params || {'436': 90, '1642': 2109} || {'436': 90, '1642': 2109, '295': 1}
+|-
+|rowspan="2"|[[Hat of the eye]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26850 26850]
+|-
+|params || {'1600': 1, '451': 'Check'} || {'1600': 1, '451': 'Check', '295': 1}
+|-
+|rowspan="2"|[[Robe top of the eye]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26852 26852]
+|-
+|params || {'1600': 1} || {'1600': 1, '295': 1}
+|-
+|rowspan="2"|[[Robe bottoms of the eye]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26854 26854]
+|-
+|params || {'1600': 1} || {'1600': 1, '295': 1}
+|-
+|rowspan="2"|[[Boots of the eye]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26856 26856]
+|-
+|params || {'1600': 1} || {'1600': 1, '295': 1}
+|-
+|rowspan="2"|[[Hat of the eye (red)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26858 26858]
+|-
+|params || {'1600': 1, '451': 'Check'} || {'1600': 1, '451': 'Check', '295': 1}
+|-
+|rowspan="2"|[[Robe top of the eye (red)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26860 26860]
+|-
+|params || {'1600': 1} || {'1600': 1, '295': 1}
+|-
+|rowspan="2"|[[Robe bottoms of the eye (red)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26862 26862]
+|-
+|params || {'1600': 1} || {'1600': 1, '295': 1}
+|-
+|rowspan="2"|[[Hat of the eye (green)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26864 26864]
+|-
+|params || {'1600': 1, '451': 'Check'} || {'1600': 1, '451': 'Check', '295': 1}
+|-
+|rowspan="2"|[[Robe top of the eye (green)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26866 26866]
+|-
+|params || {'1600': 1} || {'1600': 1, '295': 1}
+|-
+|rowspan="2"|[[Robe bottoms of the eye (green)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26868 26868]
+|-
+|params || {'1600': 1} || {'1600': 1, '295': 1}
+|-
+|rowspan="2"|[[Hat of the eye (blue)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26870 26870]
+|-
+|params || {'1600': 1, '451': 'Check'} || {'1600': 1, '451': 'Check', '295': 1}
+|-
+|rowspan="2"|[[Robe top of the eye (blue)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26872 26872]
+|-
+|params || {'1600': 1} || {'1600': 1, '295': 1}
+|-
+|rowspan="2"|[[Robe bottoms of the eye (blue)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26874 26874]
+|-
+|params || {'1600': 1} || {'1600': 1, '295': 1}
+|-
+|rowspan="2"|[[Weak cell]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26883 26883]
+|-
+|params || {'1588': 4, '1589': 300} || {'1588': 4, '1589': 300, '295': 1}
+|-
+|rowspan="2"|[[Medium cell]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26884 26884]
+|-
+|params || {'1588': 10, '1589': 1000} || {'1588': 10, '1589': 1000, '295': 1}
+|-
+|rowspan="2"|[[Strong cell]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26885 26885]
+|-
+|params || {'1588': 18, '1589': 1800} || {'1588': 18, '1589': 1800, '295': 1}
+|-
+|rowspan="2"|[[Overcharged cell]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26886 26886]
+|-
+|params || {'1588': 30, '1589': 2500} || {'1588': 30, '1589': 2500, '295': 1}
+|-
+|rowspan="2"|[[Amulet of the eye]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26914 26914]
+|-
+|params || {'451': 'Teleport'} || {'295': 1, '451': 'Teleport'}
+|-
+|rowspan="2"|[[Circlet of water]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26969 26969]
+|-
+|params || {'451': 'Check'} || {'295': 1, '451': 'Check'}
+|-
+|rowspan="2"|[[Amulet of the eye]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26990 26990]
+|-
+|params || {'451': 'Teleport'} || {'295': 1, '451': 'Teleport'}
+|-
+|rowspan="2"|[[Amulet of the eye]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26992 26992]
+|-
+|params || {'451': 'Teleport'} || {'295': 1, '451': 'Teleport'}
+|-
+|rowspan="2"|[[Amulet of the eye]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26994 26994]
+|-
+|params || {'451': 'Teleport'} || {'295': 1, '451': 'Teleport'}
+|-
+|rowspan="2"|[[Dragon defender (l)(t)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#27008 27008]
+|-
+|params || {'258': 27} || {'258': 27, '295': 1}
+|-
+|rowspan="2"|[[Colossal blade]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#27021 27021]
+|-
+|params || {'436': 60, '434': 0} || {'436': 60, '434': 0, '295': 1}
+|-
+|rowspan="2"|[[Smiths tunic]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#27023 27023]
+|-
+|params || {'1640': 2} || {'1640': 2, '295': 1}
+|-
+|rowspan="2"|[[Smiths trousers]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#27025 27025]
+|-
+|params || {'1640': 2} || {'1640': 2, '295': 1}
+|-
+|rowspan="2"|[[Smiths boots]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#27027 27027]
+|-
+|params || {'1640': 2} || {'1640': 2, '295': 1}
+|-
+|rowspan="2"|[[Smiths gloves]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#27029 27029]
+|-
+|params || {'1640': 2} || {'1640': 2, '295': 1}
+|-
+|rowspan="2"|[[Smiths gloves (i)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#27031 27031]
+|-
+|params || {'1640': 2, '1641': 1} || {'1640': 2, '1641': 1, '295': 1}
+|-
+|rowspan="2"|[[Rune pouch]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#27086 27086]
+|-
+|params || {'1564': 1003} || {'1564': 1003, '295': 1}
+|-
+|rowspan="2"|[[Mithril gloves (wrapped)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#27110 27110]
+|-
+|params || {'434': 4, '435': 6, '579': 1, '436': 1, '437': 1, '613': 1, '614': 1, '1564': 9, '191': 2} || {'434': 4, '435': 6, '579': 1, '436': 1, '437': 1, '613': 1, '614': 1, '295': 1, '1564': 9, '191': 2}
+|-
+|rowspan="2"|[[Rune gloves (wrapped)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#27111 27111]
+|-
+|params || {'434': 4, '435': 6, '579': 1, '436': 1, '437': 1, '613': 1, '614': 34, '1564': 9, '191': 2} || {'434': 4, '435': 6, '579': 1, '436': 1, '437': 1, '613': 1, '614': 34, '295': 1, '1564': 9, '191': 2}
+|-
+|rowspan="2"|[[Barrows gloves (wrapped)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#27112 27112]
+|-
+|params || {'434': 4, '435': 6, '579': 1, '436': 1, '437': 1, '613': 1, '614': 41, '1564': 9, '191': 2} || {'434': 4, '435': 6, '579': 1, '436': 1, '437': 1, '613': 1, '614': 41, '295': 1, '1564': 9, '191': 2}
+|-
+|rowspan="2"|[[Dragon knife]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#27157 27157]
+|-
+|params || {'1564': 3, '23': 60} || {'1564': 3, '23': 60, '295': 1}
+|-
+|rowspan="2"|[[Mystic robe top (dark)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#27158 27158]
+|-
+|params || {'1564': 4} || {'1564': 4, '295': 1}
+|-
+|rowspan="2"|[[Mystic robe bottom (dark)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#27159 27159]
+|-
+|params || {'1564': 7} || {'1564': 7, '295': 1}
+|-
+|rowspan="2"|[[Mystic robe top (light)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#27160 27160]
+|-
+|params || {'1564': 4} || {'1564': 4, '295': 1}
+|-
+|rowspan="2"|[[Mystic robe bottom (light)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#27161 27161]
+|-
+|params || {'1564': 7} || {'1564': 7, '295': 1}
+|-
+|rowspan="2"|[[Wizard boots]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#27162 27162]
+|-
+|params || {'1564': 10} || {'1564': 10, '295': 1}
+|-
+|rowspan="2"|[[Guthix halo]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#27163 27163]
+|-
+|params || {'1564': 0, '42': 1} || {'1564': 0, '42': 1, '295': 1}
+|-
+|rowspan="2"|[[Zamorak halo]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#27164 27164]
+|-
+|params || {'1564': 0, '41': 1} || {'1564': 0, '41': 1, '295': 1}
+|-
+|rowspan="2"|[[Saradomin halo]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#27165 27165]
+|-
+|params || {'1564': 0, '40': 1} || {'1564': 0, '40': 1, '295': 1}
+|-
+|rowspan="2"|[[Ghostly hood]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#27166 27166]
+|-
+|params || {'1564': 0} || {'1564': 0, '295': 1}
+|-
+|rowspan="2"|[[Ghostly robe]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#27167 27167]
+|-
+|params || {'1564': 4} || {'1564': 4, '295': 1}
+|-
+|rowspan="2"|[[Ghostly robe]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#27168 27168]
+|-
+|params || {'1564': 7} || {'1564': 7, '295': 1}
+|-
+|rowspan="2"|[[Berserker helm]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#27169 27169]
+|-
+|params || {'1564': 0} || {'1564': 0, '295': 1}
+|-
+|rowspan="2"|[[Infinity boots]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#27170 27170]
+|-
+|params || {'1564': 10} || {'1564': 10, '295': 1}
+|-
+|rowspan="2"|[[Tormented bracelet]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#27171 27171]
+|-
+|params || {'1564': 9} || {'1564': 9, '295': 1}
+|-
+|rowspan="2"|[[Necklace of anguish]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#27172 27172]
+|-
+|params || {'1564': 2} || {'1564': 2, '295': 1}
+|-
+|rowspan="2"|[[Amulet of torture]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#27173 27173]
+|-
+|params || {'1564': 2} || {'1564': 2, '295': 1}
+|-
+|rowspan="2"|[[Elder chaos top]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#27174 27174]
+|-
+|params || {'1564': 4, '41': 1} || {'1564': 4, '41': 1, '295': 1}
+|-
+|rowspan="2"|[[Elder chaos robe]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#27175 27175]
+|-
+|params || {'1564': 7, '41': 1} || {'1564': 7, '41': 1, '295': 1}
+|-
+|rowspan="2"|[[Elder chaos hood]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#27176 27176]
+|-
+|params || {'1564': 8, '41': 1} || {'1564': 8, '41': 1, '295': 1}
+|-
+|rowspan="2"|[[Fremennik kilt]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#27177 27177]
+|-
+|params || {'1564': 7} || {'1564': 7, '295': 1}
+|-
+|rowspan="2"|[[Spiked manacles]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#27178 27178]
+|-
+|params || {'1564': 10} || {'1564': 10, '295': 1}
+|-
+|rowspan="2"|[[Rangers' tunic]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#27179 27179]
+|-
+|params || {'1564': 4} || {'1564': 4, '295': 1}
+|-
+|rowspan="2"|[[Guthix chaps]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#27180 27180]
+|-
+|params || {'1564': 7, '42': 1} || {'1564': 7, '42': 1, '295': 1}
+|-
+|rowspan="2"|[[Zamorak chaps]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#27181 27181]
+|-
+|params || {'1564': 7, '41': 1} || {'1564': 7, '41': 1, '295': 1}
+|-
+|rowspan="2"|[[Saradomin chaps]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#27182 27182]
+|-
+|params || {'1564': 7, '40': 1} || {'1564': 7, '40': 1, '295': 1}
+|-
+|rowspan="2"|[[3rd age mage hat]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#27183 27183]
+|-
+|params || {'1564': 0} || {'1564': 0, '295': 1}
+|-
+|rowspan="2"|[[Ancient godsword]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#27184 27184]
+|-
+|params || {'1564': 3} || {'1564': 3, '295': 1}
+|-
+|rowspan="2"|[[Rune defender]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#27185 27185]
+|-
+|params || {'1564': 5} || {'1564': 5, '295': 1}
+|-
+|rowspan="2"|[[Zaryte crossbow]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#27186 27186]
+|-
+|params || {'1564': 3, '23': 80} || {'1564': 3, '23': 80, '295': 1}
+|-
+|rowspan="2"|[[Bow of faerdhinen]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#27187 27187]
+|-
+|params || {'1564': 3, '23': 80} || {'1564': 3, '23': 80, '295': 1}
+|-
+|rowspan="2"|[[Light ballista]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#27188 27188]
+|-
+|params || {'1562': -6, '1563': 0, '1564': 3, '23': 65} || {'1562': -6, '1563': 0, '1564': 3, '23': 65, '295': 1}
+|-
+|rowspan="2"|[[Verac's flail]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#27189 27189]
+|-
+|params || {'1564': 3} || {'1564': 3, '295': 1}
+|-
+|rowspan="2"|[[Verac's brassard]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#27190 27190]
+|-
+|params || {'1564': 4} || {'1564': 4, '295': 1}
+|-
+|rowspan="2"|[[Unholy book]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#27191 27191]
+|-
+|params || {'1564': 5, '41': 1} || {'1564': 5, '41': 1, '295': 1}
+|-
+|rowspan="2"|[[Opal dragon bolts (e)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#27192 27192]
+|-
+|params || {'1564': 13, '23': 64} || {'1564': 13, '23': 64, '295': 1}
+|-
+|rowspan="2"|[[Ancestral robe top]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#27193 27193]
+|-
+|params || {'1564': 4} || {'1564': 4, '295': 1}
+|-
+|rowspan="2"|[[Ancestral robe bottom]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#27194 27194]
+|-
+|params || {'1564': 7} || {'1564': 7, '295': 1}
+|-
+|rowspan="2"|[[Inquisitor's great helm]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#27195 27195]
+|-
+|params || {'1564': 0, '41': 1, '155': 5} || {'41': 1, '155': 5, '1564': 0, '295': 1}
+|-
+|rowspan="2"|[[Inquisitor's hauberk]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#27196 27196]
+|-
+|params || {'1564': 4, '41': 1, '155': 5} || {'41': 1, '155': 5, '1564': 4, '295': 1}
+|-
+|rowspan="2"|[[Inquisitor's plateskirt]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#27197 27197]
+|-
+|params || {'1564': 7, '41': 1, '155': 5} || {'41': 1, '155': 5, '1564': 7, '295': 1}
+|-
+|rowspan="2"|[[Inquisitor's mace]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#27198 27198]
+|-
+|params || {'1564': 3, '41': 1} || {'1564': 3, '41': 1, '295': 1}
+|-
+|rowspan="2"|[[3rd age range top]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#27199 27199]
+|-
+|params || {'1564': 4} || {'1564': 4, '295': 1}
+|-
+|rowspan="2"|[[3rd age range legs]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#27200 27200]
+|-
+|params || {'1564': 7} || {'1564': 7, '295': 1}
+|-
+|rowspan="2"|[[3rd age range coif]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#27201 27201]
+|-
+|params || {'1564': 0} || {'1564': 0, '295': 1}
+|-
+|rowspan="2"|[[Divine rune pouch]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#27281 27281]
+|-
+|params || {'595': 'Empty'} || {'595': 'Empty', '295': 1}
+|-
+|rowspan="2"|[[Keris partisan of corruption]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#27287 27287]
+|-
+|params || {'436': 80, '434': 0} || {'436': 80, '434': 0, '295': 1}
+|-
+|rowspan="2"|[[Keris partisan of the sun]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#27291 27291]
+|-
+|params || {'436': 80, '434': 0} || {'436': 80, '434': 0, '295': 1}
+|-
+|rowspan="2"|[[Tome of fire]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#27358 27358]
+|-
+|params || {'1564': 5} || {'1564': 5, '295': 1}
+|-
+|rowspan="2"|[[Masori assembler max cape]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#27363 27363]
+|-
+|params || {'451': 'Commune'} || {'295': 1, '451': 'Commune'}
+|-
+|rowspan="2"|[[Masori assembler max cape (l)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#27365 27365]
+|-
+|params || {'451': 'Commune'} || {'295': 1, '451': 'Commune'}
+|-
+|rowspan="2"|[[Masori assembler]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#27374 27374]
+|-
+|params || {'434': 4, '435': 1, '451': 'Commune', '1564': 1, '436': 70, '437': 35} || {'434': 4, '435': 1, '451': 'Commune', '436': 70, '437': 35, '295': 1, '1564': 1}
+|-
+|rowspan="2"|[[Masori assembler (l)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#27376 27376]
+|-
+|params || {'451': 'Commune'} || {'295': 1, '451': 'Commune'}
+|-
+|rowspan="2"|[[Gold speedrun trophy]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#27422 27422]
+|-
+|params || {'451': 'Trophy Emote'} || {'295': 1, '451': 'Trophy Emote'}
+|-
+|rowspan="2"|[[Platinum speedrun trophy]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#27424 27424]
+|-
+|params || {'451': 'Trophy Emote'} || {'295': 1, '451': 'Trophy Emote'}
+|-
+|rowspan="2"|[[Treat cauldron]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#27463 27463]
+|-
+|params || {'451': 'Check', '452': 'Change', '453': 'Accept trick-or-treat', '454': 'Emote'} || {'451': 'Check', '452': 'Change', '453': 'Accept trick-or-treat', '454': 'Emote', '295': 1}
+|-
+|rowspan="2"|[[Treat cauldron]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#27465 27465]
+|-
+|params || {'451': 'Check', '452': 'Change', '453': 'Accept trick-or-treat', '454': 'Emote'} || {'451': 'Check', '452': 'Change', '453': 'Accept trick-or-treat', '454': 'Emote', '295': 1}
+|-
+|rowspan="2"|[[Treat cauldron]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#27467 27467]
+|-
+|params || {'451': 'Check', '452': 'Change', '453': 'Accept trick-or-treat', '454': 'Emote'} || {'451': 'Check', '452': 'Change', '453': 'Accept trick-or-treat', '454': 'Emote', '295': 1}
+|-
+|rowspan="2"|[[Treat cauldron]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#27469 27469]
+|-
+|params || {'451': 'Check', '452': 'Change', '453': 'Accept trick-or-treat', '454': 'Emote'} || {'451': 'Check', '452': 'Change', '453': 'Accept trick-or-treat', '454': 'Emote', '295': 1}
+|-
+|rowspan="2"|[[Treat cauldron]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#27471 27471]
+|-
+|params || {'451': 'Check', '452': 'Change', '453': 'Accept trick-or-treat', '454': 'Emote'} || {'451': 'Check', '452': 'Change', '453': 'Accept trick-or-treat', '454': 'Emote', '295': 1}
+|-
+|rowspan="2"|[[Terrifying charm]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#27483 27483]
+|-
+|params || {'451': 'Check'} || {'451': 'Check', '295': 1}
+|-
+|rowspan="2"|[[Halloween wig]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#27497 27497]
+|-
+|params || {'451': 'Change'} || {'451': 'Change', '295': 1}
+|-
+|rowspan="2"|[[Halloween wig]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#27499 27499]
+|-
+|params || {'451': 'Change'} || {'451': 'Change', '295': 1}
+|-
+|rowspan="2"|[[Halloween wig]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#27501 27501]
+|-
+|params || {'451': 'Change'} || {'451': 'Change', '295': 1}
+|-
+|rowspan="2"|[[Halloween wig]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#27503 27503]
+|-
+|params || {'451': 'Change'} || {'451': 'Change', '295': 1}
+|-
+|rowspan="2"|[[Halloween wig]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#27505 27505]
+|-
+|params || {'451': 'Change'} || {'451': 'Change', '295': 1}
+|-
+|rowspan="2"|[[Halloween wig]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#27507 27507]
+|-
+|params || {'451': 'Change'} || {'451': 'Change', '295': 1}
+|-
+|rowspan="2"|[[Divine rune pouch (l)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#27509 27509]
+|-
+|params || {'595': 'Empty'} || {'595': 'Empty', '295': 1}
+|-
+|rowspan="2"|[[Santa's list]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#27564 27564]
+|-
+|params || {'451': 'Check'} || {'451': 'Check', '295': 1}
+|-
+|rowspan="2"|[[Festive nutcracker top]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#27572 27572]
+|-
+|params || {'451': 'Change-style'} || {'451': 'Change-style', '295': 1}
+|-
+|rowspan="2"|[[Festive nutcracker trousers]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#27574 27574]
+|-
+|params || {'451': 'Change-style'} || {'451': 'Change-style', '295': 1}
+|-
+|rowspan="2"|[[Festive nutcracker hat]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#27576 27576]
+|-
+|params || {'451': 'Change-style'} || {'451': 'Change-style', '295': 1}
+|-
+|rowspan="2"|[[Festive nutcracker boots]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#27578 27578]
+|-
+|params || {'451': 'Change-style'} || {'451': 'Change-style', '295': 1}
+|-
+|rowspan="2"|[[Festive nutcracker staff]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#27580 27580]
+|-
+|params || {'451': 'Change-style'} || {'451': 'Change-style', '295': 1}
+|-
+|rowspan="2"|[[Sweet nutcracker top]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#27582 27582]
+|-
+|params || {'451': 'Change-style'} || {'451': 'Change-style', '295': 1}
+|-
+|rowspan="2"|[[Sweet nutcracker trousers]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#27583 27583]
+|-
+|params || {'451': 'Change-style'} || {'295': 1, '451': 'Change-style'}
+|-
+|rowspan="2"|[[Sweet nutcracker hat]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#27584 27584]
+|-
+|params || {'451': 'Change-style'} || {'451': 'Change-style', '295': 1}
+|-
+|rowspan="2"|[[Sweet nutcracker boots]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#27585 27585]
+|-
+|params || {'451': 'Change-style'} || {'451': 'Change-style', '295': 1}
+|-
+|rowspan="2"|[[Sweet nutcracker staff]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#27586 27586]
+|-
+|params || {'451': 'Change-style'} || {'451': 'Change-style', '295': 1}
+|-
+|rowspan="2"|[[Ancient sceptre]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#27624 27624]
+|-
+|params || {'1564': 3} || {'1564': 3, '295': 1}
+|-
+|rowspan="2"|[[Ancient sceptre (l)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#27626 27626]
+|-
+|params || {'1564': 3} || {'1564': 3, '295': 1}
+|-
+|rowspan="2"|[[Diamond speedrun trophy]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#27783 27783]
+|-
+|params || {'451': 'Trophy Emote'} || {'295': 1, '451': 'Trophy Emote'}
+|-
+|rowspan="2"|[[Bob the cat slippers]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#27806 27806]
+|-
+|params || {'451': 'Change-style'} || {'295': 1, '451': 'Change-style'}
+|-
+|rowspan="2"|[[Jad slippers]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#27808 27808]
+|-
+|params || {'451': 'Change-style'} || {'295': 1, '451': 'Change-style'}
+|-
+|rowspan="2"|[[Jad plush]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#27814 27814]
+|-
+|params || {'451': 'Change-style'} || {'295': 1, '451': 'Change-style'}
+|-
+|rowspan="2"|[[Stray dog plush]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#27816 27816]
+|-
+|params || {'451': 'Change-style'} || {'295': 1, '451': 'Change-style'}
+|-
+|rowspan="2"|[[Gnome child plush]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#27818 27818]
+|-
+|params || {'451': 'Change-style'} || {'295': 1, '451': 'Change-style'}
+|-
+|rowspan="2"|[[Oldschool jumper]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#27822 27822]
+|-
+|params || {'451': 'Change-style'} || {'295': 1, '451': 'Change-style'}
+|-
+|rowspan="2"|[[Oldschool jumper]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#27823 27823]
+|-
+|params || {'451': 'Change-style'} || {'295': 1, '451': 'Change-style'}
+|-
+|rowspan="2"|[[Oldschool jumper]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#27824 27824]
+|-
+|params || {'451': 'Change-style'} || {'295': 1, '451': 'Change-style'}
+|-
+|rowspan="2"|[[Oldschool jumper]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#27825 27825]
+|-
+|params || {'451': 'Change-style'} || {'295': 1, '451': 'Change-style'}
+|-
+|rowspan="2"|[[Oldschool jumper]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#27826 27826]
+|-
+|params || {'451': 'Change-style'} || {'295': 1, '451': 'Change-style'}
+|-
+|rowspan="2"|[[Oldschool jumper]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#27827 27827]
+|-
+|params || {'451': 'Change-style'} || {'295': 1, '451': 'Change-style'}
+|-
+|rowspan="2"|[[Voidwaker]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#27869 27869]
+|-
+|params || {'1564': 3, '436': 75, '434': 0} || {'434': 0, '1564': 3, '436': 75, '295': 1}
+|-
+|rowspan="2"|[[Nest hat]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#27875 27875]
+|-
+|params || {'451': 'Change-style'} || {'451': 'Change-style', '295': 1}
+|-
+|rowspan="2"|[[Nest hat]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#27877 27877]
+|-
+|params || {'451': 'Change-style'} || {'451': 'Change-style', '295': 1}
+|-
+|}
+
+==Non-Player Characters==
+===New NPCs===
+{| class="wikitable sortable"
+!colspan='4'|New NPCs
+|-
+! style=width:15em | Name !! ID !! Combat Level !! Options
+|-
+| [[Tool Leprechaun]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12109 12109] || No Combat Level || Talk-to, Exchange
+|-
+| [[Hallowed Sepulchre Coffin]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12110 12110] || No Combat Level || None
+|-
+| [[Hallowed Sepulchre Grand Coffin]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12111 12111] || No Combat Level || None
+|-
+| [[Ent trunk]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12112 12112] || 1 || None
+|-
+|-
+|}
+===Removed NPCs===
+{| class="wikitable sortable"
+!colspan='2'|Removed NPCs
+|-
+! style=width:15em | Name !! ID
+|-
+|-
+|}
+===Diff NPCs===
+{| class="wikitable sortable"
+!colspan='5'|Diff NPCs
+|-
+! style=width:15em | Name !! ID !! Key !! Previous Value !! New Value
+|-
+|}
+
+==Objects==
+===New Objects=== 
+{| class="wikitable sortable"
+!colspan='3'|New Objects
+|-
+! style=width:15em | Name !! ID !! Options
+|-
+| [[Tombs of Amascut]] || [https://chisel.weirdgloop.org/moid/object_id.html#47337 47337] || None
+|-
+| [[Theatre of Blood]] || [https://chisel.weirdgloop.org/moid/object_id.html#47338 47338] || None
+|-
+| [[Yommi tree]] || [https://chisel.weirdgloop.org/moid/object_id.html#47339 47339] || None
+|-
+|-
+|}
+===Removed Objects===
+{| class="wikitable sortable"
+!colspan='2'|Removed Objects
+|-
+! style=width:15em | Name !! ID
+|-
+|-
+|}
+===Diff Objects===
+{| class="wikitable sortable"
+!colspan='5'|Diff Objects
+|-
+! style=width:15em | Name !! ID !! Key !! Previous Value !! New Value
+|-
+|rowspan="2"|[[Corrupt Phren Roots]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#35969 35969]
+|-
+|name || [[Phren Roots]] || [[Corrupt Phren Roots]]
+|-
+|rowspan="2"|[[Corrupt Phren Roots (Depleted)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#35970 35970]
+|-
+|name || [[Phren Roots (Depleted)]] || [[Corrupt Phren Roots (Depleted)]]
+|-
+|rowspan="2"|[[Corrupt Fishing Spot]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#35971 35971]
+|-
+|name || [[Fishing Spot]] || [[Corrupt Fishing Spot]]
+|-
+|rowspan="2"|[[Corrupt Fishing Spot (Depleted)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#35972 35972]
+|-
+|name || [[Fishing Spot (Depleted)]] || [[Corrupt Fishing Spot (Depleted)]]
+|-
+|rowspan="2"|[[Corrupt Grym Root]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#35973 35973]
+|-
+|name || [[Grym Root]] || [[Corrupt Grym Root]]
+|-
+|rowspan="2"|[[Corrupt Grym Root (Depleted)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#35974 35974]
+|-
+|name || [[Grym Root (Depleted)]] || [[Corrupt Grym Root (Depleted)]]
+|-
+|rowspan="2"|[[Corrupt Linum Tirinum]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#35975 35975]
+|-
+|name || [[Linum Tirinum]] || [[Corrupt Linum Tirinum]]
+|-
+|rowspan="2"|[[Corrupt Linum Tirinum (Depleted)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#35976 35976]
+|-
+|name || [[Linum Tirinum (Depleted)]] || [[Corrupt Linum Tirinum (Depleted)]]
+|-
+|rowspan="2"|[[Gold Chest]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#41220 41220]
+|-
+|name || [[gold Chest]] || [[Gold Chest]]
+|-
+|rowspan="2"|[[Gold Chest]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#41221 41221]
+|-
+|name || [[gold Chest]] || [[Gold Chest]]
+|-
+|}

@@ -1,0 +1,421 @@
+{{ToC}}
+==Items==
+===New Items===
+{| class="wikitable sortable"
+!colspan='11'|New Items
+|-
+! style=width:15em | Name !! ID !! Members !! Tradeable in GE !! Equipable !! Stackable !! Noteable !! Options !! Placeholder !! Cost !! Weight
+|-
+| [[Crystal body]] || [https://chisel.weirdgloop.org/moid/item_id.html#27697 27697] || Yes || No || Yes || No || No ||  Wear, Check, Revert, Drop || Yes || 1500000
+|| 2000
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#27698 27698] || No || No || No || No || No ||     Drop || Yes || 1
+|| 0
+|-
+| [[Crystal body (inactive)]] || [https://chisel.weirdgloop.org/moid/item_id.html#27699 27699] || Yes || No || Yes || No || No ||  Wear,  Revert, Drop || Yes || 1500000
+|| 2000
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#27700 27700] || No || No || No || No || No ||     Drop || Yes || 1
+|| 0
+|-
+| [[Crystal legs]] || [https://chisel.weirdgloop.org/moid/item_id.html#27701 27701] || Yes || No || Yes || No || No ||  Wear, Check, Revert, Drop || Yes || 1000000
+|| 1000
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#27702 27702] || No || No || No || No || No ||     Drop || Yes || 1
+|| 0
+|-
+| [[Crystal legs (inactive)]] || [https://chisel.weirdgloop.org/moid/item_id.html#27703 27703] || Yes || No || Yes || No || No ||  Wear,  Revert, Drop || Yes || 1000000
+|| 1000
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#27704 27704] || No || No || No || No || No ||     Drop || Yes || 1
+|| 0
+|-
+| [[Crystal helm]] || [https://chisel.weirdgloop.org/moid/item_id.html#27705 27705] || Yes || No || Yes || No || No ||  Wear, Check, Revert, Drop || Yes || 500000
+|| 500
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#27706 27706] || No || No || No || No || No ||     Drop || Yes || 1
+|| 0
+|-
+| [[Crystal helm (inactive)]] || [https://chisel.weirdgloop.org/moid/item_id.html#27707 27707] || Yes || No || Yes || No || No ||  Wear,  Revert, Drop || Yes || 500000
+|| 500
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#27708 27708] || No || No || No || No || No ||     Drop || Yes || 1
+|| 0
+|-
+| [[Crystal body]] || [https://chisel.weirdgloop.org/moid/item_id.html#27709 27709] || Yes || No || Yes || No || No ||  Wear, Check, Revert, Drop || Yes || 1500000
+|| 2000
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#27710 27710] || No || No || No || No || No ||     Drop || Yes || 1
+|| 0
+|-
+| [[Crystal body (inactive)]] || [https://chisel.weirdgloop.org/moid/item_id.html#27711 27711] || Yes || No || Yes || No || No ||  Wear,  Revert, Drop || Yes || 1500000
+|| 2000
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#27712 27712] || No || No || No || No || No ||     Drop || Yes || 1
+|| 0
+|-
+| [[Crystal legs]] || [https://chisel.weirdgloop.org/moid/item_id.html#27713 27713] || Yes || No || Yes || No || No ||  Wear, Check, Revert, Drop || Yes || 1000000
+|| 1000
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#27714 27714] || No || No || No || No || No ||     Drop || Yes || 1
+|| 0
+|-
+| [[Crystal legs (inactive)]] || [https://chisel.weirdgloop.org/moid/item_id.html#27715 27715] || Yes || No || Yes || No || No ||  Wear,  Revert, Drop || Yes || 1000000
+|| 1000
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#27716 27716] || No || No || No || No || No ||     Drop || Yes || 1
+|| 0
+|-
+| [[Crystal helm]] || [https://chisel.weirdgloop.org/moid/item_id.html#27717 27717] || Yes || No || Yes || No || No ||  Wear, Check, Revert, Drop || Yes || 500000
+|| 500
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#27718 27718] || No || No || No || No || No ||     Drop || Yes || 1
+|| 0
+|-
+| [[Crystal helm (inactive)]] || [https://chisel.weirdgloop.org/moid/item_id.html#27719 27719] || Yes || No || Yes || No || No ||  Wear,  Revert, Drop || Yes || 500000
+|| 500
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#27720 27720] || No || No || No || No || No ||     Drop || Yes || 1
+|| 0
+|-
+| [[Crystal body]] || [https://chisel.weirdgloop.org/moid/item_id.html#27721 27721] || Yes || No || Yes || No || No ||  Wear, Check, Revert, Drop || Yes || 1500000
+|| 2000
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#27722 27722] || No || No || No || No || No ||     Drop || Yes || 1
+|| 0
+|-
+| [[Crystal body (inactive)]] || [https://chisel.weirdgloop.org/moid/item_id.html#27723 27723] || Yes || No || Yes || No || No ||  Wear,  Revert, Drop || Yes || 1500000
+|| 2000
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#27724 27724] || No || No || No || No || No ||     Drop || Yes || 1
+|| 0
+|-
+| [[Crystal legs]] || [https://chisel.weirdgloop.org/moid/item_id.html#27725 27725] || Yes || No || Yes || No || No ||  Wear, Check, Revert, Drop || Yes || 1000000
+|| 1000
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#27726 27726] || No || No || No || No || No ||     Drop || Yes || 1
+|| 0
+|-
+| [[Crystal legs (inactive)]] || [https://chisel.weirdgloop.org/moid/item_id.html#27727 27727] || Yes || No || Yes || No || No ||  Wear,  Revert, Drop || Yes || 1000000
+|| 1000
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#27728 27728] || No || No || No || No || No ||     Drop || Yes || 1
+|| 0
+|-
+| [[Crystal helm]] || [https://chisel.weirdgloop.org/moid/item_id.html#27729 27729] || Yes || No || Yes || No || No ||  Wear, Check, Revert, Drop || Yes || 500000
+|| 500
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#27730 27730] || No || No || No || No || No ||     Drop || Yes || 1
+|| 0
+|-
+| [[Crystal helm (inactive)]] || [https://chisel.weirdgloop.org/moid/item_id.html#27731 27731] || Yes || No || Yes || No || No ||  Wear,  Revert, Drop || Yes || 500000
+|| 500
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#27732 27732] || No || No || No || No || No ||     Drop || Yes || 1
+|| 0
+|-
+| [[Crystal body]] || [https://chisel.weirdgloop.org/moid/item_id.html#27733 27733] || Yes || No || Yes || No || No ||  Wear, Check, Revert, Drop || Yes || 1500000
+|| 2000
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#27734 27734] || No || No || No || No || No ||     Drop || Yes || 1
+|| 0
+|-
+| [[Crystal body (inactive)]] || [https://chisel.weirdgloop.org/moid/item_id.html#27735 27735] || Yes || No || Yes || No || No ||  Wear,  Revert, Drop || Yes || 1500000
+|| 2000
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#27736 27736] || No || No || No || No || No ||     Drop || Yes || 1
+|| 0
+|-
+| [[Crystal legs]] || [https://chisel.weirdgloop.org/moid/item_id.html#27737 27737] || Yes || No || Yes || No || No ||  Wear, Check, Revert, Drop || Yes || 1000000
+|| 1000
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#27738 27738] || No || No || No || No || No ||     Drop || Yes || 1
+|| 0
+|-
+| [[Crystal legs (inactive)]] || [https://chisel.weirdgloop.org/moid/item_id.html#27739 27739] || Yes || No || Yes || No || No ||  Wear,  Revert, Drop || Yes || 1000000
+|| 1000
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#27740 27740] || No || No || No || No || No ||     Drop || Yes || 1
+|| 0
+|-
+| [[Crystal helm]] || [https://chisel.weirdgloop.org/moid/item_id.html#27741 27741] || Yes || No || Yes || No || No ||  Wear, Check, Revert, Drop || Yes || 500000
+|| 500
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#27742 27742] || No || No || No || No || No ||     Drop || Yes || 1
+|| 0
+|-
+| [[Crystal helm (inactive)]] || [https://chisel.weirdgloop.org/moid/item_id.html#27743 27743] || Yes || No || Yes || No || No ||  Wear,  Revert, Drop || Yes || 500000
+|| 500
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#27744 27744] || No || No || No || No || No ||     Drop || Yes || 1
+|| 0
+|-
+| [[Crystal body]] || [https://chisel.weirdgloop.org/moid/item_id.html#27745 27745] || Yes || No || Yes || No || No ||  Wear, Check, Revert, Drop || Yes || 1500000
+|| 2000
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#27746 27746] || No || No || No || No || No ||     Drop || Yes || 1
+|| 0
+|-
+| [[Crystal body (inactive)]] || [https://chisel.weirdgloop.org/moid/item_id.html#27747 27747] || Yes || No || Yes || No || No ||  Wear,  Revert, Drop || Yes || 1500000
+|| 2000
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#27748 27748] || No || No || No || No || No ||     Drop || Yes || 1
+|| 0
+|-
+| [[Crystal legs]] || [https://chisel.weirdgloop.org/moid/item_id.html#27749 27749] || Yes || No || Yes || No || No ||  Wear, Check, Revert, Drop || Yes || 1000000
+|| 1000
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#27750 27750] || No || No || No || No || No ||     Drop || Yes || 1
+|| 0
+|-
+| [[Crystal legs (inactive)]] || [https://chisel.weirdgloop.org/moid/item_id.html#27751 27751] || Yes || No || Yes || No || No ||  Wear,  Revert, Drop || Yes || 1000000
+|| 1000
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#27752 27752] || No || No || No || No || No ||     Drop || Yes || 1
+|| 0
+|-
+| [[Crystal helm]] || [https://chisel.weirdgloop.org/moid/item_id.html#27753 27753] || Yes || No || Yes || No || No ||  Wear, Check, Revert, Drop || Yes || 500000
+|| 500
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#27754 27754] || No || No || No || No || No ||     Drop || Yes || 1
+|| 0
+|-
+| [[Crystal helm (inactive)]] || [https://chisel.weirdgloop.org/moid/item_id.html#27755 27755] || Yes || No || Yes || No || No ||  Wear,  Revert, Drop || Yes || 500000
+|| 500
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#27756 27756] || No || No || No || No || No ||     Drop || Yes || 1
+|| 0
+|-
+| [[Crystal body]] || [https://chisel.weirdgloop.org/moid/item_id.html#27757 27757] || Yes || No || Yes || No || No ||  Wear, Check, Revert, Drop || Yes || 1500000
+|| 2000
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#27758 27758] || No || No || No || No || No ||     Drop || Yes || 1
+|| 0
+|-
+| [[Crystal body (inactive)]] || [https://chisel.weirdgloop.org/moid/item_id.html#27759 27759] || Yes || No || Yes || No || No ||  Wear,  Revert, Drop || Yes || 1500000
+|| 2000
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#27760 27760] || No || No || No || No || No ||     Drop || Yes || 1
+|| 0
+|-
+| [[Crystal legs]] || [https://chisel.weirdgloop.org/moid/item_id.html#27761 27761] || Yes || No || Yes || No || No ||  Wear, Check, Revert, Drop || Yes || 1000000
+|| 1000
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#27762 27762] || No || No || No || No || No ||     Drop || Yes || 1
+|| 0
+|-
+| [[Crystal legs (inactive)]] || [https://chisel.weirdgloop.org/moid/item_id.html#27763 27763] || Yes || No || Yes || No || No ||  Wear,  Revert, Drop || Yes || 1000000
+|| 1000
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#27764 27764] || No || No || No || No || No ||     Drop || Yes || 1
+|| 0
+|-
+| [[Crystal helm]] || [https://chisel.weirdgloop.org/moid/item_id.html#27765 27765] || Yes || No || Yes || No || No ||  Wear, Check, Revert, Drop || Yes || 500000
+|| 500
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#27766 27766] || No || No || No || No || No ||     Drop || Yes || 1
+|| 0
+|-
+| [[Crystal helm (inactive)]] || [https://chisel.weirdgloop.org/moid/item_id.html#27767 27767] || Yes || No || Yes || No || No ||  Wear,  Revert, Drop || Yes || 500000
+|| 500
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#27768 27768] || No || No || No || No || No ||     Drop || Yes || 1
+|| 0
+|-
+| [[Crystal body]] || [https://chisel.weirdgloop.org/moid/item_id.html#27769 27769] || Yes || No || Yes || No || No ||  Wear, Check, Revert, Drop || Yes || 1500000
+|| 2000
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#27770 27770] || No || No || No || No || No ||     Drop || Yes || 1
+|| 0
+|-
+| [[Crystal body (inactive)]] || [https://chisel.weirdgloop.org/moid/item_id.html#27771 27771] || Yes || No || Yes || No || No ||  Wear,  Revert, Drop || Yes || 1500000
+|| 2000
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#27772 27772] || No || No || No || No || No ||     Drop || Yes || 1
+|| 0
+|-
+| [[Crystal legs]] || [https://chisel.weirdgloop.org/moid/item_id.html#27773 27773] || Yes || No || Yes || No || No ||  Wear, Check, Revert, Drop || Yes || 1000000
+|| 1000
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#27774 27774] || No || No || No || No || No ||     Drop || Yes || 1
+|| 0
+|-
+| [[Crystal legs (inactive)]] || [https://chisel.weirdgloop.org/moid/item_id.html#27775 27775] || Yes || No || Yes || No || No ||  Wear,  Revert, Drop || Yes || 1000000
+|| 1000
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#27776 27776] || No || No || No || No || No ||     Drop || Yes || 1
+|| 0
+|-
+| [[Crystal helm]] || [https://chisel.weirdgloop.org/moid/item_id.html#27777 27777] || Yes || No || Yes || No || No ||  Wear, Check, Revert, Drop || Yes || 500000
+|| 500
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#27778 27778] || No || No || No || No || No ||     Drop || Yes || 1
+|| 0
+|-
+| [[Crystal helm (inactive)]] || [https://chisel.weirdgloop.org/moid/item_id.html#27779 27779] || Yes || No || Yes || No || No ||  Wear,  Revert, Drop || Yes || 500000
+|| 500
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#27780 27780] || No || No || No || No || No ||     Drop || Yes || 1
+|| 0
+|-
+| [[Cabbage]] || [https://chisel.weirdgloop.org/moid/item_id.html#27781 27781] || No || No || No || Yes || No ||     Drop || No || 1
+|| 0
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#27782 27782] || No || No || No || No || No ||     Drop || No || 1
+|| 0
+|-
+| [[Platinum speedrun trophy]] || [https://chisel.weirdgloop.org/moid/item_id.html#27783 27783] || Yes || No || Yes || No || No ||  Wear,   Destroy || Yes || 50
+|| 1500
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#27784 27784] || No || No || No || No || No ||     Drop || Yes || 1
+|| 0
+|-
+| [[Thammaron's sceptre (au)]] || [https://chisel.weirdgloop.org/moid/item_id.html#27785 27785] || Yes || Yes || Yes || No || Yes ||  Wield, Dismantle, Swap, Drop || Yes || 120000
+|| 198
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#27786 27786] || No || No || No || No || Yes ||     Drop || No || 1
+|| 0
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#27787 27787] || No || No || No || No || No ||     Drop || Yes || 1
+|| 0
+|-
+| [[Thammaron's sceptre (a)]] || [https://chisel.weirdgloop.org/moid/item_id.html#27788 27788] || Yes || No || Yes || No || No ||  Wield, Check, Swap, Uncharge || Yes || 120000
+|| 198
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#27789 27789] || No || No || No || No || No ||     Drop || Yes || 1
+|| 0
+|-
+|-
+|}
+===Removed Items===
+{| class="wikitable sortable"
+!colspan='2'|Removed Items
+|-
+! style=width:15em | Name !! ID
+|-
+|-
+|}
+===Diff Items===
+{| class="wikitable sortable"
+!colspan='5'|Diff Items
+|-
+! style=width:15em | Name !! ID !! Key !! Previous Value !! New Value
+|-
+|rowspan="2"|[[Useful rock]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#22191 22191]
+|-
+|members || False || True
+|-
+|rowspan="2"|[[Thammaron's sceptre (u)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#22552 22552]
+|-
+|interfaceOptions || [None, 'Wield', 'Dismantle', None, 'Drop'] || [None, 'Wield', 'Dismantle', 'Swap', 'Drop']
+|-
+|rowspan="3"|[[Thammaron's sceptre]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/item_id.html#22555 22555]
+|-
+|interfaceOptions || [None, 'Wield', 'Check', None, 'Uncharge'] || [None, 'Wield', 'Check', 'Swap', 'Uncharge']
+|-
+| params || {'434': 6, '451': 'Check', '436': 60, '1733': "Thammaron's Sceptre", '23': 60, '41': 1, '1564': 3} || {'434': 6, '451': 'Check', '436': 60, '452': 'Swap', '1733': "Thammaron's Sceptre", '23': 60, '41': 1, '1564': 3}
+|-
+|rowspan="13"|[[Null]]
+|rowspan="13"|[https://chisel.weirdgloop.org/moid/item_id.html#27033 27033]
+|-
+|name || [[Giants foundry tester]] || [[Null]]
+|-
+| xan2d || 264 || 572
+|-
+| yan2d || 1716 || 0
+|-
+| cost || 0 || 1
+|-
+| inventoryModel || 36134 || 2521
+|-
+| zoom2d || 1246 || 1940
+|-
+| xOffset2d || -7 || 0
+|-
+| yOffset2d || 54 || 1
+|-
+| interfaceOptions || ['Setup', 'Game', 'Scoreing', 'Quest', 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| weight || 0 || 9071
+|-
+| placeholderId || 27034 || -1
+|-
+| category || 0 || 15
+|-
+|rowspan="11"|[[Null]]
+|rowspan="11"|[https://chisel.weirdgloop.org/moid/item_id.html#27034 27034]
+|-
+|name || [[null]] || [[Null]]
+|-
+| xan2d || 0 || 572
+|-
+| inventoryModel || 0 || 2521
+|-
+| zoom2d || 2000 || 1940
+|-
+| yOffset2d || 0 || 1
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| weight || 0 || 9071
+|-
+| placeholderId || 27033 || -1
+|-
+| placeholderTemplateId || 14401 || -1
+|-
+| category || 0 || 15
+|-
+|}
+
+==Non-Player Characters==
+===New NPCs===
+{| class="wikitable sortable"
+!colspan='4'|New NPCs
+|-
+! style=width:15em | Name !! ID !! Combat Level !! Options
+|-
+|-
+|}
+===Removed NPCs===
+{| class="wikitable sortable"
+!colspan='2'|Removed NPCs
+|-
+! style=width:15em | Name !! ID
+|-
+|-
+|}
+===Diff NPCs===
+{| class="wikitable sortable"
+!colspan='5'|Diff NPCs
+|-
+! style=width:15em | Name !! ID !! Key !! Previous Value !! New Value
+|-
+|}
+
+==Objects==
+===New Objects=== 
+{| class="wikitable sortable"
+!colspan='3'|New Objects
+|-
+! style=width:15em | Name !! ID !! Options
+|-
+|-
+|}
+===Removed Objects===
+{| class="wikitable sortable"
+!colspan='2'|Removed Objects
+|-
+! style=width:15em | Name !! ID
+|-
+|-
+|}
+===Diff Objects===
+{| class="wikitable sortable"
+!colspan='5'|Diff Objects
+|-
+! style=width:15em | Name !! ID !! Key !! Previous Value !! New Value
+|-
+|}

@@ -1,0 +1,64 @@
+{{ToC}}
+==Items==
+{| class="wikitable sortable"
+!colspan='5'|Items
+|-
+! Name !! ID !! Key !! Previous Value !! Changed into
+|-
+|rowspan="2"|[[Verzik's crystal shard]]
+|rowspan="2"|22517
+|-
+|interfaceOptions || ['Activate', None, None, None, 'Drop'] || ['Activate', None, None, 'Toggle', 'Drop']
+|-
+|}
+
+==Non-Player Characters==
+{| class="wikitable sortable"
+!colspan='5'|Non-Player Characters
+|-
+! Name !! ID !! Key !! Previous Value !! Changed into
+|-
+|}
+
+==Objects==
+{| class="wikitable sortable"
+!colspan='5'|Objects
+|-
+! Name !! ID !! Key !! Previous Value !! Changed into
+|-
+|rowspan="2"|[[Log balance]]
+|rowspan="2"|16541
+|-
+|actions || ['Walk-across', None, None, None, None] || [None, None, None, None, None]
+|-
+|rowspan="2"|[[Log balance]]
+|rowspan="2"|16547
+|-
+|actions || ['Walk-across', None, None, None, None] || [None, None, None, None, None]
+|-
+|rowspan="2"|[[Rocks]]
+|rowspan="2"|17042
+|-
+|shadow || False || True
+|-
+|rowspan="2"|[[Rocks]]
+|rowspan="2"|17043
+|-
+|shadow || False || True
+|-
+|rowspan="2"|[[Rocks]]
+|rowspan="2"|31848
+|-
+|shadow || False || True
+|-
+|rowspan="2"|[[Rocks]]
+|rowspan="2"|31850
+|-
+|shadow || False || True
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|31852
+|-
+|shadow || False || True
+|-
+|}

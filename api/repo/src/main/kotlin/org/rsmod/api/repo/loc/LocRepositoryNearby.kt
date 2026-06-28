@@ -17,9 +17,8 @@ public fun LocRepository.locNearby(
     locTypeInternals: Iterable<String>,
 ): Boolean {
 
-    val types = locTypeInternals.mapNotNull {
-        ServerCacheManager.getObject(it.asRSCM(RSCMType.LOC))
-    }
+    val types =
+        locTypeInternals.mapNotNull { ServerCacheManager.getObject(it.asRSCM(RSCMType.LOC)) }
 
     for (t in origin.tilesInChebyshevSquare(radius, exclude)) {
         for (type in types) {

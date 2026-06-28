@@ -16,10 +16,10 @@ import org.rsmod.game.loc.BoundLocInfo
 import org.rsmod.plugin.scripts.PluginScript
 import org.rsmod.plugin.scripts.ScriptContext
 
-class Pickables @Inject constructor(
-    private val objRepo: ObjRepository,
-    private val locRepo: LocRepository,
-) : PluginScript() {
+class Pickables
+@Inject
+constructor(private val objRepo: ObjRepository, private val locRepo: LocRepository) :
+    PluginScript() {
 
     override fun ScriptContext.startup() {
         PickableObjectsRow.all().forEach { row ->
@@ -29,17 +29,18 @@ class Pickables @Inject constructor(
             }
         }
 
-        PickableObjectsRow.all().distinctBy { it.replacementloc }.forEach { row ->
-            row.replacementloc?.let { replacement ->
-                onOpLoc1(replacement) { emptyPickable(it.loc, row) }
-                onOpLoc2(replacement) { emptyPickable(it.loc, row) }
+        PickableObjectsRow.all()
+            .distinctBy { it.replacementloc }
+            .forEach { row ->
+                row.replacementloc?.let { replacement ->
+                    onOpLoc1(replacement) { emptyPickable(it.loc, row) }
+                    onOpLoc2(replacement) { emptyPickable(it.loc, row) }
+                }
             }
-        }
 
         onOpLoc2("loc.fai_varrock_cadavabush_tailored") {
             mes("There are no berries on this bush. Maybe you should try another bush.")
         }
-
     }
 
     private suspend fun ProtectedAccess.emptyPickable(loc: BoundLocInfo, row: PickableObjectsRow) {
@@ -166,13 +167,7 @@ class Pickables @Inject constructor(
         }
 
         replaceUntilRespawn(loc, replacement, respawnDuration) {
-            locRepo.add(
-                loc.coords,
-                respawnType.internalName,
-                Int.MAX_VALUE,
-                loc.angle,
-                loc.shape,
-            )
+            locRepo.add(loc.coords, respawnType.internalName, Int.MAX_VALUE, loc.angle, loc.shape)
         }
     }
 
@@ -189,10 +184,8 @@ class Pickables @Inject constructor(
         return rollChance(numerator, denominator)
     }
 
-    private fun ProtectedAccess.rollChance(
-        numerator: Int,
-        denominator: Int,
-    ): Boolean = random.of(1, denominator) <= numerator
+    private fun ProtectedAccess.rollChance(numerator: Int, denominator: Int): Boolean =
+        random.of(1, denominator) <= numerator
 
     private fun ProtectedAccess.replaceUntilRespawn(
         loc: BoundLocInfo,
@@ -212,11 +205,9 @@ class Pickables @Inject constructor(
         )
     }
 
-    private fun pickableRespawnDuration(ticks: Int): Int =
-        if (ticks == 0) Int.MAX_VALUE else ticks
+    private fun pickableRespawnDuration(ticks: Int): Int = if (ticks == 0) Int.MAX_VALUE else ticks
 
-    private fun Player.hasPickableGloves(): Boolean =
-        worn[Wearpos.Hands.slot] != null
+    private fun Player.hasPickableGloves(): Boolean = worn[Wearpos.Hands.slot] != null
 
     private val PickableObjectsRow.isNettles: Boolean
         get() = itemgiven.internalName == "obj.nettles_picked"
@@ -230,8 +221,7 @@ class Pickables @Inject constructor(
     private fun emptyPickableMessage(row: PickableObjectsRow): String =
         when (row.itemgiven.internalName) {
             "obj.cadavaberries",
-            "obj.redberries",
-            -> "There are no berries on this bush at the moment."
+            "obj.redberries" -> "There are no berries on this bush at the moment."
             "obj.pineapple" -> "There are no pineapples left on this plant."
             else -> "There is nothing to pick here at the moment."
         }

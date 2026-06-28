@@ -34,8 +34,12 @@ class CanoeTravelling @Inject private constructor(private val cutscene: CanoeCut
         cutscene.startup(this)
 
         onOpLoc1("loc.canoeing_log_canoeing_station_in_water") { openDestinationModal(Canoe.Log) }
-        onOpLoc1("loc.canoeing_dugout_canoeing_station_in_water") { openDestinationModal(Canoe.Dugout) }
-        onOpLoc1("loc.canoeing_catamaran_canoeing_station_in_water") { openDestinationModal(Canoe.StableDugout) }
+        onOpLoc1("loc.canoeing_dugout_canoeing_station_in_water") {
+            openDestinationModal(Canoe.Dugout)
+        }
+        onOpLoc1("loc.canoeing_catamaran_canoeing_station_in_water") {
+            openDestinationModal(Canoe.StableDugout)
+        }
         onOpLoc1("loc.canoeing_waka_canoeing_station_in_water") { openDestinationModal(Canoe.Waka) }
 
         onIfModalButton("component.canoe_map_lum:destination_1") {
@@ -117,9 +121,7 @@ class CanoeTravelling @Inject private constructor(private val cutscene: CanoeCut
     private suspend fun ProtectedAccess.travelTo(destination: CanoeDestination) {
         val station = resolveStation()
         val canoe =
-            checkNotNull(canoeType) {
-                "Expected valid canoe type: ${vars["varbit.canoe_type"]}"
-            }
+            checkNotNull(canoeType) { "Expected valid canoe type: ${vars["varbit.canoe_type"]}" }
 
         val destinations = resolveValidDestinations(station, canoe)
         check(destination in destinations) {
@@ -355,7 +357,11 @@ constructor(
             val coords = dest.sinkingCanoeCoords()
             val angle =
                 if (dest == CanoeDestination.WildernessPond) LocAngle.East else LocAngle.North
-            val sinking = lcParam(ServerCacheManager.getObject(canoe.loc.asRSCM(RSCMType.LOC))!!, params.next_loc_stage)
+            val sinking =
+                lcParam(
+                    ServerCacheManager.getObject(canoe.loc.asRSCM(RSCMType.LOC))!!,
+                    params.next_loc_stage,
+                )
             locRepo.add(coords, sinking, 4, angle, LocShape.CentrepieceStraight)
         }
         soundSynth("synth.canoe_sink")
@@ -413,7 +419,11 @@ constructor(
     private fun constructGrassSceneryNpcs(region: Region): List<SceneryNpc> {
         return listOf(
             SceneryNpc("npc.canoeing_bullrush", region.normal[0, 28, 70, 28, 36], duration = 7),
-            SceneryNpc("npc.canoeing_bullrush_leaf", region.normal[0, 28, 70, 27, 36], duration = 7),
+            SceneryNpc(
+                "npc.canoeing_bullrush_leaf",
+                region.normal[0, 28, 70, 27, 36],
+                duration = 7,
+            ),
             SceneryNpc("npc.canoeing_scenery_1", region.normal[0, 28, 70, 30, 36], duration = 7),
             SceneryNpc("npc.canoeing_scenery_2", region.normal[0, 28, 70, 29, 23], duration = 21),
             SceneryNpc(

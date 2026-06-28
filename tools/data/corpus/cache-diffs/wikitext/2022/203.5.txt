@@ -1,0 +1,322 @@
+{{ToC}}
+==Items==
+{| class="wikitable sortable"
+!colspan='13'|Items
+|-
+! Name !! ID !! Key !! Previous Value !! New Value !! Members !! Tradeable in GE !! Equipable !! Stackable !! Noteable !! Options !! Placeholder !! Cost
+|-
+| [[Shoe]] || [https://chisel.weirdgloop.org/moid/item_id.html#26656 26656] || colspan = "3" | New ID || Yes || No || No || No || No || [None, None, None, None, 'Drop'] || No || 1
+|-
+| [[Shoe]] || [https://chisel.weirdgloop.org/moid/item_id.html#26657 26657] || colspan = "3" | New ID || Yes || No || No || No || No || [None, None, None, None, 'Drop'] || No || 1
+|-
+| [[Shoe]] || [https://chisel.weirdgloop.org/moid/item_id.html#26658 26658] || colspan = "3" | New ID || Yes || No || No || No || No || [None, None, None, None, 'Drop'] || No || 1
+|-
+| [[Shoe]] || [https://chisel.weirdgloop.org/moid/item_id.html#26659 26659] || colspan = "3" | New ID || Yes || No || No || No || No || [None, None, None, None, 'Drop'] || No || 1
+|-
+| [[Shoe]] || [https://chisel.weirdgloop.org/moid/item_id.html#26660 26660] || colspan = "3" | New ID || Yes || No || No || No || No || [None, None, None, None, 'Drop'] || No || 1
+|-
+| [[Shoe.]] || [https://chisel.weirdgloop.org/moid/item_id.html#26661 26661] || colspan = "3" | New ID || Yes || No || No || No || No || [None, None, None, None, 'Drop'] || No || 1
+|-
+| [[Shoe]] || [https://chisel.weirdgloop.org/moid/item_id.html#26662 26662] || colspan = "3" | New ID || Yes || No || No || No || No || [None, None, None, None, 'Drop'] || No || 1
+|-
+| [[Shoe]] || [https://chisel.weirdgloop.org/moid/item_id.html#26663 26663] || colspan = "3" | New ID || Yes || No || No || No || No || [None, None, None, None, 'Drop'] || No || 1
+|-
+| [[Shoe]] || [https://chisel.weirdgloop.org/moid/item_id.html#26664 26664] || colspan = "3" | New ID || Yes || No || No || No || No || [None, None, None, None, 'Drop'] || No || 1
+|-
+| [[Shoe]] || [https://chisel.weirdgloop.org/moid/item_id.html#26665 26665] || colspan = "3" | New ID || Yes || No || No || No || No || [None, None, None, None, 'Drop'] || No || 1
+|-
+| [[Shoe]] || [https://chisel.weirdgloop.org/moid/item_id.html#26666 26666] || colspan = "3" | New ID || Yes || No || No || No || No || [None, None, None, None, 'Drop'] || No || 1
+|-
+| [[Shoe.]] || [https://chisel.weirdgloop.org/moid/item_id.html#26667 26667] || colspan = "3" | New ID || Yes || No || No || No || No || [None, None, None, None, 'Drop'] || No || 1
+|-
+| [[Shoe]] || [https://chisel.weirdgloop.org/moid/item_id.html#26668 26668] || colspan = "3" | New ID || Yes || No || No || No || No || [None, None, None, None, 'Drop'] || No || 1
+|-
+| [[Shoe]] || [https://chisel.weirdgloop.org/moid/item_id.html#26669 26669] || colspan = "3" | New ID || Yes || No || No || No || No || [None, None, None, None, 'Drop'] || No || 1
+|-
+| [[Shoe]] || [https://chisel.weirdgloop.org/moid/item_id.html#26670 26670] || colspan = "3" | New ID || Yes || No || No || No || No || [None, None, None, None, 'Drop'] || No || 1
+|-
+| [[Shoe]] || [https://chisel.weirdgloop.org/moid/item_id.html#26671 26671] || colspan = "3" | New ID || Yes || No || No || No || No || [None, None, None, None, 'Drop'] || No || 1
+|-
+| [[Shoe]] || [https://chisel.weirdgloop.org/moid/item_id.html#26672 26672] || colspan = "3" | New ID || Yes || No || No || No || No || [None, None, None, None, 'Drop'] || No || 1
+|-
+| [[Shoe]] || [https://chisel.weirdgloop.org/moid/item_id.html#26673 26673] || colspan = "3" | New ID || Yes || No || No || No || No || [None, None, None, None, 'Drop'] || No || 1
+|-
+|rowspan="6"|[[Shoe]]
+|rowspan="6"|[https://chisel.weirdgloop.org/moid/item_id.html#3680 3680]
+|-
+|xan2d || 152 || 142
+|-
+| yan2d || 160 || 300
+|-
+| inventoryModel || 2837 || 43879
+|-
+| xOffset2d || 1 || 3
+|-
+| yOffset2d || -6 || 0
+|-
+|rowspan="6"|[[Shoe]]
+|rowspan="6"|[https://chisel.weirdgloop.org/moid/item_id.html#3681 3681]
+|-
+|xan2d || 152 || 142
+|-
+| yan2d || 160 || 300
+|-
+| inventoryModel || 2837 || 43879
+|-
+| xOffset2d || 1 || 3
+|-
+| yOffset2d || -6 || 0
+|-
+|rowspan="6"|[[Shoe]]
+|rowspan="6"|[https://chisel.weirdgloop.org/moid/item_id.html#3682 3682]
+|-
+|xan2d || 152 || 142
+|-
+| yan2d || 160 || 300
+|-
+| inventoryModel || 2837 || 43879
+|-
+| xOffset2d || 1 || 3
+|-
+| yOffset2d || -6 || 0
+|-
+|rowspan="6"|[[Shoe]]
+|rowspan="6"|[https://chisel.weirdgloop.org/moid/item_id.html#3683 3683]
+|-
+|xan2d || 152 || 142
+|-
+| yan2d || 160 || 300
+|-
+| inventoryModel || 2837 || 43879
+|-
+| xOffset2d || 1 || 3
+|-
+| yOffset2d || -6 || 0
+|-
+|rowspan="6"|[[Shoe]]
+|rowspan="6"|[https://chisel.weirdgloop.org/moid/item_id.html#3684 3684]
+|-
+|xan2d || 152 || 142
+|-
+| yan2d || 160 || 300
+|-
+| inventoryModel || 2837 || 43879
+|-
+| xOffset2d || 1 || 3
+|-
+| yOffset2d || -6 || 0
+|-
+|rowspan="7"|[[Shoe]]
+|rowspan="7"|[https://chisel.weirdgloop.org/moid/item_id.html#3685 3685]
+|-
+|name || [[Shoe.]] || [[Shoe]]
+|-
+| xan2d || 152 || 142
+|-
+| yan2d || 160 || 300
+|-
+| inventoryModel || 2837 || 43879
+|-
+| xOffset2d || 1 || 3
+|-
+| yOffset2d || -6 || 0
+|-
+|}
+
+==Non-Player Characters==
+{| class="wikitable sortable"
+!colspan='5'|Non-Player Characters
+|-
+! Name !! ID !! Key !! Previous Value !! Changed into
+|-
+| [[Larry Leprechaun]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11399 11399] || colspan = "4" | Removed
+|-
+| [[Fishing spot]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11400 11400] || colspan = "4" | Removed
+|-
+| [[Big Dave]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11401 11401] || colspan = "4" | Removed
+|-
+| [[Capt' Arnav]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11402 11402] || colspan = "4" | Removed
+|-
+| [[My Arm]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11403 11403] || colspan = "4" | Removed
+|-
+| [[Cook]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11404 11404] || colspan = "4" | Removed
+|-
+| [[Wise Old Man]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11405 11405] || colspan = "4" | Removed
+|-
+| [[Hans]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11406 11406] || colspan = "4" | Removed
+|-
+| [[Hassan]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11407 11407] || colspan = "4" | Removed
+|-
+| [[Leprechaun]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11408 11408] || colspan = "4" | Removed
+|-
+|}
+
+==Objects==
+{| class="wikitable sortable"
+!colspan='5'|Objects
+|-
+! Name !! ID !! Key !! Previous Value !! Changed into
+|-
+| [[Party balloons]] || [https://chisel.weirdgloop.org/moid/object_id.html#43475 43475] || colspan = "4" | Removed
+|-
+| [[Party balloons]] || [https://chisel.weirdgloop.org/moid/object_id.html#43476 43476] || colspan = "4" | Removed
+|-
+| [[Sink]] || [https://chisel.weirdgloop.org/moid/object_id.html#43477 43477] || colspan = "4" | Removed
+|-
+| [[Barrel of flour]] || [https://chisel.weirdgloop.org/moid/object_id.html#43478 43478] || colspan = "4" | Removed
+|-
+| [[Clay oven]] || [https://chisel.weirdgloop.org/moid/object_id.html#43479 43479] || colspan = "4" | Removed
+|-
+| [[Cooking shelf utensils]] || [https://chisel.weirdgloop.org/moid/object_id.html#43480 43480] || colspan = "4" | Removed
+|-
+| [[Judge's table]] || [https://chisel.weirdgloop.org/moid/object_id.html#43481 43481] || colspan = "4" | Removed
+|-
+| [[Table]] || [https://chisel.weirdgloop.org/moid/object_id.html#43482 43482] || colspan = "4" | Removed
+|-
+| [[Cupboard]] || [https://chisel.weirdgloop.org/moid/object_id.html#43483 43483] || colspan = "4" | Removed
+|-
+|rowspan="10"|[[Loot Chest]]
+|rowspan="10"|[https://chisel.weirdgloop.org/moid/object_id.html#43468 43468]
+|-
+|name || [[Banner]] || [[Loot Chest]]
+|-
+| ambient || 20 || 0
+|-
+| contrast || 375 || 0
+|-
+| actions || [None, None, None, None, None] || ['Loot', None, None, None, None]
+|-
+| interactType || 0 || 2
+|-
+| offsetY || 0 || 65520
+|-
+| supportsItems || 0 || 1
+|-
+| blocksProjectile || False || True
+|-
+| objectModels || [43864] || [40630]
+|-
+|rowspan="10"|[[Loot Chest]]
+|rowspan="10"|[https://chisel.weirdgloop.org/moid/object_id.html#43469 43469]
+|-
+|name || [[Banner]] || [[Loot Chest]]
+|-
+| ambient || 20 || 0
+|-
+| contrast || 375 || 0
+|-
+| actions || [None, None, None, None, None] || ['Loot', None, None, None, None]
+|-
+| interactType || 0 || 2
+|-
+| offsetY || 0 || 65520
+|-
+| supportsItems || 0 || 1
+|-
+| blocksProjectile || False || True
+|-
+| objectModels || [43866] || [40615]
+|-
+|rowspan="7"|[[null]]
+|rowspan="7"|[https://chisel.weirdgloop.org/moid/object_id.html#43470 43470]
+|-
+|name || [[Banner]] || [[null]]
+|-
+| varbitID || -1 || 13651
+|-
+| ambient || 20 || 0
+|-
+| contrast || 375 || 0
+|-
+| interactType || 1 || 2
+|-
+| blockingMask || 0 || 11
+|-
+|rowspan="10"|[[null]]
+|rowspan="10"|[https://chisel.weirdgloop.org/moid/object_id.html#43471 43471]
+|-
+|name || [[Banner]] || [[null]]
+|-
+| animationID || -1 || 8751
+|-
+| varbitID || -1 || 1777
+|-
+| ambient || 20 || 0
+|-
+| contrast || 375 || 0
+|-
+| interactType || 0 || 2
+|-
+| contouredGround || -1 || 0
+|-
+| supportsItems || 0 || 1
+|-
+| blocksProjectile || False || True
+|-
+|rowspan="10"|[[Ancient brazier]]
+|rowspan="10"|[https://chisel.weirdgloop.org/moid/object_id.html#43472 43472]
+|-
+|name || [[Party balloons]] || [[Ancient brazier]]
+|-
+| mergeNormals || True || False
+|-
+| animationID || 7543 || -1
+|-
+| ambient || 20 || 25
+|-
+| contrast || 375 || 250
+|-
+| interactType || 1 || 2
+|-
+| objectModels || [43870] || [41097]
+|-
+| recolorToFind || [687, -21965, 16039] || [30829, 908]
+|-
+| recolorToReplace || [1955, -21612, 7089] || [7580, 70]
+|-
+|rowspan="9"|[[null]]
+|rowspan="9"|[https://chisel.weirdgloop.org/moid/object_id.html#43473 43473]
+|-
+|name || [[Party balloons]] || [[null]]
+|-
+| mergeNormals || True || False
+|-
+| animationID || 7543 || 8751
+|-
+| varbitID || -1 || 1777
+|-
+| ambient || 20 || 0
+|-
+| contrast || 375 || 0
+|-
+| interactType || 1 || 2
+|-
+| contouredGround || -1 || 0
+|-
+|rowspan="10"|[[Ancient brazier]]
+|rowspan="10"|[https://chisel.weirdgloop.org/moid/object_id.html#43474 43474]
+|-
+|name || [[Party balloons]] || [[Ancient brazier]]
+|-
+| mergeNormals || True || False
+|-
+| animationID || 7543 || 8751
+|-
+| ambient || 20 || 25
+|-
+| contrast || 375 || 250
+|-
+| interactType || 1 || 2
+|-
+| objectModels || [43870] || [41100]
+|-
+| recolorToFind || [687, -21965, 16039] || [30829, 908]
+|-
+| recolorToReplace || [7089, 1955, -21612] || [7580, 70]
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#43486 43486]
+|-
+|blockingMask || 0 || 11
+|-
+|}

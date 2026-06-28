@@ -1,0 +1,571 @@
+__TOC__
+==Objects==
+===New Objects===
+{| class="wikitable sortable"
+|-
+! colspan="3" | New Objects
+|-
+! style="width: 15em" | name !! id !! actions
+|}
+===Removed Objects===
+{| class="wikitable sortable"
+|-
+! colspan="3" | Removed Objects
+|-
+! style="width: 15em" | name !! id !! actions
+|}
+===Diff Objects===
+{| class="wikitable sortable sticky-header"
+|-
+! colspan="5" | Diff Objects
+|-
+! style="width: 15em" | Name !! Id !! Key !! Previous Value !! New Value
+|-
+| rowspan="2" | [[Flaming Fire altar]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#4090 4090][https://abextm.github.io/cache2/#/viewer/obj/4090 (1)]
+|-
+| actions || [<span style="color: #ee4231">None</span>, None, None, None, None] || [<span style="color: #6bc71f">Use</span>, None, None, None, None]
+|-
+| rowspan="2" | [[Funeral Pyre]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#4093 4093][https://abextm.github.io/cache2/#/viewer/obj/4093 (1)]
+|-
+| actions || [<span style="color: #ee4231">None</span>, None, None, Hidden, None] || [<span style="color: #6bc71f">Build</span>, None, None, Hidden, None]
+|-
+| rowspan="4" | [[Basic Pyre]]
+| rowspan="4" | [https://chisel.weirdgloop.org/moid/object_id.html#4094 4094][https://abextm.github.io/cache2/#/viewer/obj/4094 (1)]
+|-
+| name || <span style="color: #ee4231">Funeral</span> Pyre || <span style="color: #6bc71f">Basic</span> Pyre
+|-
+| category || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">2051</span>
+|-
+| actions || [<span style="color: #ee4231">None</span>, None, None, None, None] || [<span style="color: #6bc71f">Use</span>, None, None, None, None]
+|-
+| rowspan="4" | [[Oak Pyre]]
+| rowspan="4" | [https://chisel.weirdgloop.org/moid/object_id.html#4095 4095][https://abextm.github.io/cache2/#/viewer/obj/4095 (1)]
+|-
+| name || <span style="color: #ee4231">Funeral</span> Pyre || <span style="color: #6bc71f">Oak</span> Pyre
+|-
+| category || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">2051</span>
+|-
+| actions || [<span style="color: #ee4231">None</span>, None, None, None, None] || [<span style="color: #6bc71f">Use</span>, None, None, None, None]
+|-
+| rowspan="4" | [[Willow Pyre]]
+| rowspan="4" | [https://chisel.weirdgloop.org/moid/object_id.html#4096 4096][https://abextm.github.io/cache2/#/viewer/obj/4096 (1)]
+|-
+| name || <span style="color: #ee4231">Funeral</span> Pyre || <span style="color: #6bc71f">Willow</span> Pyre
+|-
+| category || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">2051</span>
+|-
+| actions || [<span style="color: #ee4231">None</span>, None, None, None, None] || [<span style="color: #6bc71f">Use</span>, None, None, None, None]
+|-
+| rowspan="4" | [[Maple Pyre]]
+| rowspan="4" | [https://chisel.weirdgloop.org/moid/object_id.html#4097 4097][https://abextm.github.io/cache2/#/viewer/obj/4097 (1)]
+|-
+| name || <span style="color: #ee4231">Funeral</span> Pyre || <span style="color: #6bc71f">Maple</span> Pyre
+|-
+| category || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">2051</span>
+|-
+| actions || [<span style="color: #ee4231">None</span>, None, None, None, None] || [<span style="color: #6bc71f">Use</span>, None, None, None, None]
+|-
+| rowspan="4" | [[Yew Pyre]]
+| rowspan="4" | [https://chisel.weirdgloop.org/moid/object_id.html#4098 4098][https://abextm.github.io/cache2/#/viewer/obj/4098 (1)]
+|-
+| name || <span style="color: #ee4231">Funeral</span> Pyre || <span style="color: #6bc71f">Yew</span> Pyre
+|-
+| category || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">2051</span>
+|-
+| actions || [<span style="color: #ee4231">None</span>, None, None, None, None] || [<span style="color: #6bc71f">Use</span>, None, None, None, None]
+|-
+| rowspan="4" | [[Magic Pyre]]
+| rowspan="4" | [https://chisel.weirdgloop.org/moid/object_id.html#4099 4099][https://abextm.github.io/cache2/#/viewer/obj/4099 (1)]
+|-
+| name || <span style="color: #ee4231">Funeral</span> Pyre || <span style="color: #6bc71f">Magic</span> Pyre
+|-
+| category || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">2051</span>
+|-
+| actions || [<span style="color: #ee4231">None</span>, None, None, None, None] || [<span style="color: #6bc71f">Use</span>, None, None, None, None]
+|-
+| rowspan="3" | [[Basic Pyre]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/object_id.html#4100 4100][https://abextm.github.io/cache2/#/viewer/obj/4100 (1)]
+|-
+| name || <span style="color: #ee4231">Funeral</span> Pyre || <span style="color: #6bc71f">Basic</span> Pyre
+|-
+| category || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">2052</span>
+|-
+| rowspan="3" | [[Oak Pyre]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/object_id.html#4101 4101][https://abextm.github.io/cache2/#/viewer/obj/4101 (1)]
+|-
+| name || <span style="color: #ee4231">Funeral</span> Pyre || <span style="color: #6bc71f">Oak</span> Pyre
+|-
+| category || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">2052</span>
+|-
+| rowspan="3" | [[Willow Pyre]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/object_id.html#4102 4102][https://abextm.github.io/cache2/#/viewer/obj/4102 (1)]
+|-
+| name || <span style="color: #ee4231">Funeral</span> Pyre || <span style="color: #6bc71f">Willow</span> Pyre
+|-
+| category || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">2052</span>
+|-
+| rowspan="3" | [[Maple Pyre]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/object_id.html#4103 4103][https://abextm.github.io/cache2/#/viewer/obj/4103 (1)]
+|-
+| name || <span style="color: #ee4231">Funeral</span> Pyre || <span style="color: #6bc71f">Maple</span> Pyre
+|-
+| category || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">2052</span>
+|-
+| rowspan="3" | [[Yew Pyre]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/object_id.html#4104 4104][https://abextm.github.io/cache2/#/viewer/obj/4104 (1)]
+|-
+| name || <span style="color: #ee4231">Funeral</span> Pyre || <span style="color: #6bc71f">Yew</span> Pyre
+|-
+| category || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">2052</span>
+|-
+| rowspan="3" | [[Magic Pyre]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/object_id.html#4105 4105][https://abextm.github.io/cache2/#/viewer/obj/4105 (1)]
+|-
+| name || <span style="color: #ee4231">Funeral</span> Pyre || <span style="color: #6bc71f">Magic</span> Pyre
+|-
+| category || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">2052</span>
+|-
+| rowspan="4" | [[Teak Pyre]]
+| rowspan="4" | [https://chisel.weirdgloop.org/moid/object_id.html#9006 9006][https://abextm.github.io/cache2/#/viewer/obj/9006 (1)]
+|-
+| name || <span style="color: #ee4231">Funeral</span> Pyre || <span style="color: #6bc71f">Teak</span> Pyre
+|-
+| category || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">2051</span>
+|-
+| actions || [<span style="color: #ee4231">None</span>, None, None, None, None] || [<span style="color: #6bc71f">Use</span>, None, None, None, None]
+|-
+| rowspan="4" | [[Mahogany Pyre]]
+| rowspan="4" | [https://chisel.weirdgloop.org/moid/object_id.html#9007 9007][https://abextm.github.io/cache2/#/viewer/obj/9007 (1)]
+|-
+| name || <span style="color: #ee4231">Funeral</span> Pyre || <span style="color: #6bc71f">Mahogany</span> Pyre
+|-
+| category || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">2051</span>
+|-
+| actions || [<span style="color: #ee4231">None</span>, None, None, None, None] || [<span style="color: #6bc71f">Use</span>, None, None, None, None]
+|-
+| rowspan="3" | [[Teak Pyre]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/object_id.html#9008 9008][https://abextm.github.io/cache2/#/viewer/obj/9008 (1)]
+|-
+| name || <span style="color: #ee4231">Funeral</span> Pyre || <span style="color: #6bc71f">Teak</span> Pyre
+|-
+| category || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">2052</span>
+|-
+| rowspan="3" | [[Mahogany Pyre]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/object_id.html#9009 9009][https://abextm.github.io/cache2/#/viewer/obj/9009 (1)]
+|-
+| name || <span style="color: #ee4231">Funeral</span> Pyre || <span style="color: #6bc71f">Mahogany</span> Pyre
+|-
+| category || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">2052</span>
+|-
+| rowspan="3" | [[Sign]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/object_id.html#11402 11402][https://abextm.github.io/cache2/#/viewer/obj/11402 (1)]
+|-
+| ambient ||  || <span style="color: #6bc71f">10</span>
+|-
+| contrast ||  || <span style="color: #6bc71f">500</span>
+|-
+| rowspan="4" | [[Arctic Pine Pyre]]
+| rowspan="4" | [https://chisel.weirdgloop.org/moid/object_id.html#21271 21271][https://abextm.github.io/cache2/#/viewer/obj/21271 (1)]
+|-
+| name || <span style="color: #ee4231">Funeral</span> Pyre || <span style="color: #6bc71f">Arctic</span> <span style="color: #6bc71f">Pine </span>Pyre
+|-
+| category || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">2051</span>
+|-
+| actions || [<span style="color: #ee4231">None</span>, None, None, None, None] || [<span style="color: #6bc71f">Use</span>, None, None, None, None]
+|-
+| rowspan="3" | [[Arctic Pine Pyre]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/object_id.html#21272 21272][https://abextm.github.io/cache2/#/viewer/obj/21272 (1)]
+|-
+| name || <span style="color: #ee4231">Funeral</span> Pyre || <span style="color: #6bc71f">Arctic</span> <span style="color: #6bc71f">Pine </span>Pyre
+|-
+| category || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">2052</span>
+|-
+| rowspan="4" | [[Redwood Pyre]]
+| rowspan="4" | [https://chisel.weirdgloop.org/moid/object_id.html#28865 28865][https://abextm.github.io/cache2/#/viewer/obj/28865 (1)]
+|-
+| name || <span style="color: #ee4231">Funeral</span> Pyre || <span style="color: #6bc71f">Redwood</span> Pyre
+|-
+| category || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">2051</span>
+|-
+| actions || [<span style="color: #ee4231">None</span>, None, None, None, None] || [<span style="color: #6bc71f">Use</span>, None, None, None, None]
+|-
+| rowspan="3" | [[Redwood Pyre]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/object_id.html#28866 28866][https://abextm.github.io/cache2/#/viewer/obj/28866 (1)]
+|-
+| name || <span style="color: #ee4231">Funeral</span> Pyre || <span style="color: #6bc71f">Redwood</span> Pyre
+|-
+| category || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">2052</span>
+|}
+==Enums==
+===New Enums===
+{| class="wikitable sortable"
+|-
+! colspan="3" | New Enums
+|-
+! style="width: 15em" | id !! defaultValue !! map
+|-
+| [https://chisel.weirdgloop.org/structs/index.html?type=enums&id=5492 5492][https://abextm.github.io/cache2/#/viewer/enum/5492 (1)] || -1 || {'0': 24248, '1': 29617}
+|-
+| [https://chisel.weirdgloop.org/structs/index.html?type=enums&id=5493 5493][https://abextm.github.io/cache2/#/viewer/enum/5493 (1)] || -1 || {'0': 24250, '1': 29613}
+|-
+| [https://chisel.weirdgloop.org/structs/index.html?type=enums&id=5494 5494][https://abextm.github.io/cache2/#/viewer/enum/5494 (1)] || -1 || {'0': 24249, '1': 29615}
+|}
+===Removed Enums===
+{| class="wikitable sortable"
+|-
+! colspan="3" | Removed Enums
+|-
+! style="width: 15em" | id !! defaultValue !! map
+|-
+| [https://chisel.weirdgloop.org/structs/index.html?type=enums&id=5289 5289][https://abextm.github.io/cache2/#/viewer/enum/5289 (1)] ||  || {'38': 1, '63': 1, '587': 1}
+|-
+| [https://chisel.weirdgloop.org/structs/index.html?type=enums&id=5290 5290][https://abextm.github.io/cache2/#/viewer/enum/5290 (1)] ||  || {'62': 1, '71': 1, '555': 1, '701': 1, '1915': 1}
+|}
+===Diff Enums===
+{| class="wikitable sortable sticky-header"
+|-
+! colspan="5" | Diff Enums
+|-
+! style="width: 15em" | Id !! Key !! Previous Value !! New Value
+|-
+| rowspan="2" | [https://chisel.weirdgloop.org/structs/index.html?type=enums&id=767 767][https://abextm.github.io/cache2/#/viewer/enum/767 (1)]
+|-
+| map || {'0': 4251, '1': 6452, '2': 3840, '3': 3842, '4': 3844, '5': 12608, '6': 12610, '7': 12612, '8': 1686, '9': 6109, '10': 6107, '11': 6108, '12': 6110, '13': 6106, '14': 6111, '15': 9084, '16': 9096, '17': 9097, '18': 9098, '19': 9099, '20': 9100, '21': 9101, '22': 9102, '23': 9104, '24': 10887, '25': 88, '26': 1052, '27': 770, '28': 762, '29': 10510, '30': 6450, '31': 5573, '32': 5095, '33': 5093, '34': 5087, '35': 3981, '36': 3983, '37': 22803, '38': 10581, '39': 4502, '40': 11014, '41': 27021, '42': 11200, '43': 10828, '44': 22398, '45': 25818, '46': 11628, '47': 13660, '48': 29448} || {'0': 4251, '1': 6452, '2': 3840, '3': 3842, '4': 3844, '5': 12608, '6': 12610, '7': 12612, '8': 1686, '9': 6109, '10': 6107, '11': 6108, '12': 6110, '13': 6106, '14': 6111, '15': 9084, '16': 9096, '17': 9097, '18': 9098, '19': 9099, '20': 9100, '21': 9101, '22': 9102, '23': 9104, '24': 10887, '25': 88, '26': 1052, '27': 770, '28': 762, '29': 10510, '30': 6450, '31': 5573, '32': 5095, '33': 5093, '34': 5087, '35': 3981, '36': 3983, '37': 22803, '38': 10581, '39': 4502, '40': 11014, '41': 27021, '42': 11200, '43': 10828, '44': 22398, '45': 25818, '46': 11628, '47': 13660, '48': 29448<span style="color: #6bc71f">, '49': 22400</span>}
+|-
+| rowspan="2" | [https://chisel.weirdgloop.org/structs/index.html?type=enums&id=768 768][https://abextm.github.io/cache2/#/viewer/enum/768 (1)]
+|-
+| map || {'0': 4600, '1': 23000, '2': 12000, '3': 12000, '4': 12000, '5': 14000, '6': 14000, '7': 14000, '8': 200, '9': 15000, '10': 45000, '11': 43000, '12': 13500, '13': 13500, '14': 15000, '15': 60000, '16': 22000, '17': 140000, '18': 95000, '19': 15000, '20': 15000, '21': 18000, '22': 9000, '23': 8000, '24': 290000, '25': 9800, '26': 1900, '27': 200, '28': 200, '29': 200, '30': 200, '31': 200, '32': 200, '33': 200, '34': 200, '35': 200, '36': 200, '37': 200, '38': 25000, '39': 10000, '40': 6000, '41': 300000, '42': 115000, '43': 95000, '44': 30000, '45': 9500, '46': 7000, '47': 500, '48': 250000} || {'0': 4600, '1': 23000, '2': 12000, '3': 12000, '4': 12000, '5': 14000, '6': 14000, '7': 14000, '8': 200, '9': 15000, '10': 45000, '11': 43000, '12': 13500, '13': 13500, '14': 15000, '15': 60000, '16': 22000, '17': 140000, '18': 95000, '19': 15000, '20': 15000, '21': 18000, '22': 9000, '23': 8000, '24': 290000, '25': 9800, '26': 1900, '27': 200, '28': 200, '29': 200, '30': 200, '31': 200, '32': 200, '33': 200, '34': 200, '35': 200, '36': 200, '37': 200, '38': 25000, '39': 10000, '40': 6000, '41': 300000, '42': 115000, '43': 95000, '44': 30000, '45': 9500, '46': 7000, '47': 500, '48': 250000<span style="color: #6bc71f">, '49': 30000</span>}
+|-
+| rowspan="2" | [https://chisel.weirdgloop.org/structs/index.html?type=enums&id=1564 1564][https://abextm.github.io/cache2/#/viewer/enum/1564 (1)]
+|-
+| map || {'0': 3635, '1': 2777, '2': 2861, '3': 880, '4': 3731, '5': 4446, '6': <span style="color: #ee4231">4497</span>, '7': 947, '8': 4447, '9': 4448, '10': 4682, '11': 4686, '12': 4684, '13': 4687, '14': 4685, '15': 4683, '16': 4680, '17': 4681, '18': <span style="color: #ee4231">956</span>, '19': <span style="color: #ee4231">957</span>, '20': <span style="color: #ee4231">348</span>, '21': <span style="color: #ee4231">4690</span>, '22': <span style="color: #ee4231">349</span>, '23': <span style="color: #ee4231">350</span>, '24': <span style="color: #ee4231">351</span>, '25': <span style="color: #ee4231">4656</span>, '26': <span style="color: #ee4231">4657</span>, '27': <span style="color: #ee4231">4658</span>, '28': 4689} || {'0': 3635, '1': 2777, '2': 2861, '3': 880, '4': 3731, '5': 4446, '6': <span style="color: #6bc71f">990</span>, '7': 947, '8': 4447, '9': 4448, '10': 4682, '11': 4686, '12': 4684, '13': 4687, '14': 4685, '15': 4683, '16': 4680, '17': 4681, '18': <span style="color: #6bc71f">991</span>, '19': <span style="color: #6bc71f">956</span>, '20': <span style="color: #6bc71f">957</span>, '21': <span style="color: #6bc71f">348</span>, '22': <span style="color: #6bc71f">4690</span>, '23': <span style="color: #6bc71f">349</span>, '24': <span style="color: #6bc71f">350</span>, '25': <span style="color: #6bc71f">351</span>, '26': <span style="color: #6bc71f">4656</span>, '27': <span style="color: #6bc71f">4657</span>, '28': <span style="color: #6bc71f">4658, '29': </span>4689}
+|-
+| rowspan="2" | [https://chisel.weirdgloop.org/structs/index.html?type=enums&id=3303 3303][https://abextm.github.io/cache2/#/viewer/enum/3303 (1)]
+|-
+| map || {'2585': 3472, '2593': 3473, '2601': 3474, '2609': 3475, '2617': 3476, '2625': 3477, '2655': 3478, '2663': 3479, '2671': 3480, '3483': 3485, '4070': 11893, '4505': 11894, '4508': 24157, '4509': 24158, '4511': 24160, '4512': 24161, '6184': 6186, '6185': 6187, '6570': 24223, '6625': 6627, '8839': 24177, '8840': 24179, '8842': 24182, '9676': 9678, '9747': 9748, '9750': 9751, '9753': 9754, '9756': 9757, '9759': 9760, '9762': 9763, '9765': 9766, '9768': 9769, '9771': 9772, '9774': 9775, '9777': 9778, '9780': 9781, '9783': 9784, '9786': 9787, '9789': 9790, '9792': 9793, '9795': 9796, '9798': 9799, '9801': 9802, '9804': 9805, '9807': 9808, '9810': 9811, '9813': 13068, '9945': 9946, '9948': 9949, '10346': 23242, '10400': 10420, '10402': 10422, '10404': 10424, '10406': 10426, '10408': 10428, '10410': 10430, '10412': 10432, '10414': 10434, '10416': 10436, '10418': 10438, '10547': 24172, '10548': 24173, '10549': 24533, '10550': 24174, '10551': 24175, '10555': 24176, '11663': 24183, '11664': 24184, '11665': 24185, '11896': 24163, '11897': 24164, '11898': 24165, '11899': 24166, '11900': 24167, '11901': 24168, '12013': 29472, '12014': 29474, '12015': 29476, '12016': 29478, '12207': 12209, '12217': 12219, '12227': 12229, '12237': 12239, '12279': 12285, '12289': 12295, '12315': 12339, '12317': 12341, '12347': 12343, '12349': 12345, '12415': 12416, '12462': 12464, '12472': 12474, '12482': 12484, '12637': 24169, '12638': 24170, '12639': 24171, '13072': 24178, '13073': 24180, '13221': 13222, '13317': 24189, '13318': 24190, '13319': 24191, '13329': 24134, '13640': 13641, '13642': 13643, '13644': 13645, '13646': 13647, '19476': 13069, '20172': 20175, '20187': 20190, '20842': 20844, '21285': 24133, '21295': 24224, '21776': 24232, '21780': 24233, '21784': 24234, '<span style="color: #ee4231">21791': 24248, '21793': 24249, '21795': 24250, '</span>21898': 24135, '22242': 12414, '22244': 12418, '23789': 1069, '24192': 24194, '24195': 24197, '24198': 24200, '24201': 24203, '24204': 24206, '24525': 24527, '25171': 25173, '25174': 25176, '25346': 25344, '26256': 26258, '26463': 27000, '26465': 27001, '26467': 27002, '26469': 27003, '26471': 27004, '26473': 27005, '26475': 27006, '26477': 27007, '27029': 27031, '27363': 27365, '27572': 27582, '27574': 27583, '27576': 27584, '27578': 27585, '27580': 27586, '27806': 27808, '27875': 27877, '28601': 28671} || {'2585': 3472, '2593': 3473, '2601': 3474, '2609': 3475, '2617': 3476, '2625': 3477, '2655': 3478, '2663': 3479, '2671': 3480, '3483': 3485, '4070': 11893, '4505': 11894, '4508': 24157, '4509': 24158, '4511': 24160, '4512': 24161, '6184': 6186, '6185': 6187, '6570': 24223, '6625': 6627, '8839': 24177, '8840': 24179, '8842': 24182, '9676': 9678, '9747': 9748, '9750': 9751, '9753': 9754, '9756': 9757, '9759': 9760, '9762': 9763, '9765': 9766, '9768': 9769, '9771': 9772, '9774': 9775, '9777': 9778, '9780': 9781, '9783': 9784, '9786': 9787, '9789': 9790, '9792': 9793, '9795': 9796, '9798': 9799, '9801': 9802, '9804': 9805, '9807': 9808, '9810': 9811, '9813': 13068, '9945': 9946, '9948': 9949, '10346': 23242, '10400': 10420, '10402': 10422, '10404': 10424, '10406': 10426, '10408': 10428, '10410': 10430, '10412': 10432, '10414': 10434, '10416': 10436, '10418': 10438, '10547': 24172, '10548': 24173, '10549': 24533, '10550': 24174, '10551': 24175, '10555': 24176, '11663': 24183, '11664': 24184, '11665': 24185, '11896': 24163, '11897': 24164, '11898': 24165, '11899': 24166, '11900': 24167, '11901': 24168, '12013': 29472, '12014': 29474, '12015': 29476, '12016': 29478, '12207': 12209, '12217': 12219, '12227': 12229, '12237': 12239, '12279': 12285, '12289': 12295, '12315': 12339, '12317': 12341, '12347': 12343, '12349': 12345, '12415': 12416, '12462': 12464, '12472': 12474, '12482': 12484, '12637': 24169, '12638': 24170, '12639': 24171, '13072': 24178, '13073': 24180, '13221': 13222, '13317': 24189, '13318': 24190, '13319': 24191, '13329': 24134, '13640': 13641, '13642': 13643, '13644': 13645, '13646': 13647, '19476': 13069, '20172': 20175, '20187': 20190, '20842': 20844, '21285': 24133, '21295': 24224, '21776': 24232, '21780': 24233, '21784': 24234, '21898': 24135, '22242': 12414, '22244': 12418, '23789': 1069, '24192': 24194, '24195': 24197, '24198': 24200, '24201': 24203, '24204': 24206, '24525': 24527, '25171': 25173, '25174': 25176, '25346': 25344, '26256': 26258, '26463': 27000, '26465': 27001, '26467': 27002, '26469': 27003, '26471': 27004, '26473': 27005, '26475': 27006, '26477': 27007, '27029': 27031, '27363': 27365, '27572': 27582, '27574': 27583, '27576': 27584, '27578': 27585, '27580': 27586, '27806': 27808, '27875': 27877, '28601': 28671}
+|-
+| rowspan="2" | [https://chisel.weirdgloop.org/structs/index.html?type=enums&id=3304 3304][https://abextm.github.io/cache2/#/viewer/enum/3304 (1)]
+|-
+| map || {'4315': 3309, '4510': 3308, '9005': 3671, '10362': 378, '13280': 3306, '13281': 3307, '19724': 907, '21314': 4990, '21343': 4862, '22838': 4863, '24428': 3311, '26316': 4023, '27035': 1504, '27463': 883, '27497': 884, '27818': 4950, '27822': 4949, '28116': 4991, '28136': 5191, '28140': 5190, '28603': 1301, '29489': 5450, '29507': 5451} || {'4315': 3309, '4510': 3308, '9005': 3671, '10362': 378, '13280': 3306, '13281': 3307, '19724': 907, '21314': 4990, '21343': 4862, '<span style="color: #6bc71f">21791': 5492, '21793': 5494, '21795': 5493, '</span>22838': 4863, '24428': 3311, '26316': 4023, '27035': 1504, '27463': 883, '27497': 884, '27818': 4950, '27822': 4949, '28116': 4991, '28136': 5191, '28140': 5190, '28603': 1301, '29489': 5450, '29507': 5451}
+|-
+| rowspan="2" | [https://chisel.weirdgloop.org/structs/index.html?type=enums&id=3795 3795][https://abextm.github.io/cache2/#/viewer/enum/3795 (1)]
+|-
+| map || {'0': -1, '1': 0, '2': 10, '3': 20, '4': 30, '5': 40, '6': 50, '7': 60, '8': 70, '9': 80, '10': 90, '11': <span style="color: #ee4231">100</span>, '12': <span style="color: #ee4231">105</span>, '13': <span style="color: #ee4231">110</span>, '14': <span style="color: #ee4231">115</span>, '15': <span style="color: #ee4231">120</span>, '16': <span style="color: #ee4231">125</span>, '17': <span style="color: #ee4231">126</span>, '18': <span style="color: #ee4231">127</span>, '19': 128} || {'0': -1, '1': 0, '2': 10, '3': 20, '4': 30, '5': 40, '6': 50, '7': 60, '8': 70, '9': 80, '10': 90, '11': <span style="color: #6bc71f">95</span>, '12': <span style="color: #6bc71f">96</span>, '13': <span style="color: #6bc71f">97</span>, '14': <span style="color: #6bc71f">98</span>, '15': <span style="color: #6bc71f">99</span>, '16': <span style="color: #6bc71f">100</span>, '17': <span style="color: #6bc71f">101</span>, '18': <span style="color: #6bc71f">102</span>, '19': <span style="color: #6bc71f">103, '20': 104, '21': 105, '22': 110, '23': 115, '24': 120, '25': 124, '26': 125, '27': 126, '28': 127, '29': </span>128}
+|-
+| rowspan="2" | [https://chisel.weirdgloop.org/structs/index.html?type=enums&id=3807 3807][https://abextm.github.io/cache2/#/viewer/enum/3807 (1)]
+|-
+| map || {'0': <span style="color: #ee4231">46137367</span>, '1': <span style="color: #ee4231">46137368</span>, '2': <span style="color: #ee4231">46137369, '3': 46137370</span>} || {'0': <span style="color: #6bc71f">46137375</span>, '1': <span style="color: #6bc71f">46137376</span>, '2': <span style="color: #6bc71f">46137377</span>}
+|-
+| rowspan="2" | [https://chisel.weirdgloop.org/structs/index.html?type=enums&id=5291 5291][https://abextm.github.io/cache2/#/viewer/enum/5291 (1)]
+|-
+| map || {'38': 1, '62': 1, '63': 1, '71': 1, '555': 1, '587': 1, '701': 1} || {'38': 1, '62': 1, '63': 1, '71': 1, '555': 1, '<span style="color: #6bc71f">584': 1, '</span>587': 1, '701': 1}
+|}
+==Npcs==
+===New Npcs===
+{| class="wikitable sortable"
+|-
+! colspan="4" | New Npcs
+|-
+! style="width: 15em" | name !! id !! combatLevel !! actions
+|}
+===Removed Npcs===
+{| class="wikitable sortable"
+|-
+! colspan="4" | Removed Npcs
+|-
+! style="width: 15em" | name !! id !! combatLevel !! actions
+|}
+===Diff Npcs===
+{| class="wikitable sortable sticky-header"
+|-
+! colspan="5" | Diff Npcs
+|-
+! style="width: 15em" | Name !! Id !! Key !! Previous Value !! New Value
+|-
+| rowspan="3" | [[Aisles]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/npc_id.html#2134 2134][https://abextm.github.io/cache2/#/viewer/npc/2134 (1)]
+|-
+| recolorFrom || [8741, 4550, 61, 12] || [8741, 4550, 61, 12<span style="color: #6bc71f">, 4886, 5572</span>]
+|-
+| recolorTo || [5572, 5553, 36281, 20] || [5572, 5553, 36281, 20<span style="color: #6bc71f">, 41408, 7112</span>]
+|-
+| rowspan="3" | [[Timfraku]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/npc_id.html#4698 4698][https://abextm.github.io/cache2/#/viewer/npc/4698 (1)]
+|-
+| recolorFrom || [4550, 39137, 37093, 38003] || [4550, 39137, 37093, 38003<span style="color: #6bc71f">, 38003, 4886, 5572</span>]
+|-
+| recolorTo || [5656, <span style="color: #ee4231">5572</span>, <span style="color: #ee4231">5580</span>, 6490] || [5656, <span style="color: #6bc71f">7112</span>, <span style="color: #6bc71f">7128</span>, <span style="color: #6bc71f">6622, </span>6490<span style="color: #6bc71f">, 41408, 7112</span>]
+|-
+| rowspan="3" | [[Layleen]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/npc_id.html#6418 6418][https://abextm.github.io/cache2/#/viewer/npc/6418 (1)]
+|-
+| recolorFrom || [8741, 4550, 61] || [8741, 4550, 61<span style="color: #6bc71f">, 5572, 4886</span>]
+|-
+| recolorTo || [5572, 5553, 16937] || [5572, 5553, 16937<span style="color: #6bc71f">, 6065, 3173</span>]
+|-
+| rowspan="3" | [[Layleen]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/npc_id.html#6419 6419][https://abextm.github.io/cache2/#/viewer/npc/6419 (1)]
+|-
+| recolorFrom || [8741, 4550, 61] || [8741, 4550, 61<span style="color: #6bc71f">, 5572, 4886</span>]
+|-
+| recolorTo || [5572, 5553, 16937] || [5572, 5553, 16937<span style="color: #6bc71f">, 6065, 3173</span>]
+|-
+| rowspan="3" | [[Karaday]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/npc_id.html#6420 6420][https://abextm.github.io/cache2/#/viewer/npc/6420 (1)]
+|-
+| recolorFrom || [4550, 5916, 5219, 43072] || [4550, 5916, <span style="color: #6bc71f">4892, </span>5219, 43072<span style="color: #6bc71f">, 4886, 5572</span>]
+|-
+| recolorTo || [5795, 5458, 123, 5795] || [5795, 5458, <span style="color: #6bc71f">5458, </span>123, 5795<span style="color: #6bc71f">, 36036, 2157</span>]
+|-
+| rowspan="3" | [[Karaday]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/npc_id.html#6421 6421][https://abextm.github.io/cache2/#/viewer/npc/6421 (1)]
+|-
+| recolorFrom || [4550, 5916, 5219, 43072] || [4550, 5916, <span style="color: #6bc71f">4892, </span>5219, 43072<span style="color: #6bc71f">, 4886, 5572</span>]
+|-
+| recolorTo || [5795, 5458, 123, 5795] || [5795, 5458, <span style="color: #6bc71f">5458, </span>123, 5795<span style="color: #6bc71f">, 36036, 2157</span>]
+|-
+| rowspan="3" | [[Safta Doc]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/npc_id.html#6422 6422][https://abextm.github.io/cache2/#/viewer/npc/6422 (1)]
+|-
+| recolorFrom || [4550, 5916, 5219, 43072, 6798] || [4550, 5916, <span style="color: #6bc71f">4892, </span>5219, 43072, 6798<span style="color: #6bc71f">, 4886, 5572</span>]
+|-
+| recolorTo || [5795, 5458, 123, 5795, 3148] || [5795, 5458, <span style="color: #6bc71f">5458, </span>123, 5795, 3148<span style="color: #6bc71f">, 41408, 7112</span>]
+|-
+| rowspan="3" | [[Safta Doc]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/npc_id.html#6423 6423][https://abextm.github.io/cache2/#/viewer/npc/6423 (1)]
+|-
+| recolorFrom || [4550, 5916, 5219, 43072, 6798] || [4550, 5916, <span style="color: #6bc71f">4892, </span>5219, 43072, 6798<span style="color: #6bc71f">, 4886, 5572</span>]
+|-
+| recolorTo || [5795, 5458, 123, 5795, 3148] || [5795, 5458, <span style="color: #6bc71f">5458, </span>123, 5795, 3148<span style="color: #6bc71f">, 41408, 7112</span>]
+|-
+| rowspan="4" | [[Gabooty]]
+| rowspan="4" | [https://chisel.weirdgloop.org/moid/npc_id.html#6424 6424][https://abextm.github.io/cache2/#/viewer/npc/6424 (1)]
+|-
+| models || [230, 250, <span style="color: #ee4231">8845</span>, <span style="color: #ee4231">326, </span>173, 8918, <span style="color: #ee4231">275</span>, 8919, 553, 8947] || [230, 250, <span style="color: #6bc71f">8928</span>, 173, 8918, <span style="color: #6bc71f">8925</span>, 8919, 553, 8947]
+|-
+| recolorFrom || [4550, <span style="color: #ee4231">25238</span>, <span style="color: #ee4231">6443</span>, <span style="color: #ee4231">43072</span>] || [4550, <span style="color: #6bc71f">43072</span>, <span style="color: #6bc71f">4886</span>, <span style="color: #6bc71f">5572</span>]
+|-
+| recolorTo || [5795, <span style="color: #ee4231">5572</span>, <span style="color: #ee4231">5572</span>, <span style="color: #ee4231">5795</span>] || [5795, <span style="color: #6bc71f">5795</span>, <span style="color: #6bc71f">41408</span>, <span style="color: #6bc71f">7112</span>]
+|-
+| rowspan="4" | [[Gabooty]]
+| rowspan="4" | [https://chisel.weirdgloop.org/moid/npc_id.html#6425 6425][https://abextm.github.io/cache2/#/viewer/npc/6425 (1)]
+|-
+| models || [230, 250, <span style="color: #ee4231">8845</span>, <span style="color: #ee4231">326, </span>173, 8918, <span style="color: #ee4231">275</span>, 8919, 553] || [230, 250, <span style="color: #6bc71f">8928</span>, 173, 8918, <span style="color: #6bc71f">8925</span>, 8919, 553<span style="color: #6bc71f">, 8947</span>]
+|-
+| recolorFrom || [4550, <span style="color: #ee4231">25238</span>, <span style="color: #ee4231">6443</span>, <span style="color: #ee4231">43072</span>] || [4550, <span style="color: #6bc71f">43072</span>, <span style="color: #6bc71f">4886</span>, <span style="color: #6bc71f">5572</span>]
+|-
+| recolorTo || [5795, <span style="color: #ee4231">5572</span>, <span style="color: #ee4231">5572</span>, <span style="color: #ee4231">5795</span>] || [5795, <span style="color: #6bc71f">5795</span>, <span style="color: #6bc71f">41408</span>, <span style="color: #6bc71f">7112</span>]
+|-
+| rowspan="3" | [[Fanellaman]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/npc_id.html#6426 6426][https://abextm.github.io/cache2/#/viewer/npc/6426 (1)]
+|-
+| recolorFrom || [4550, <span style="color: #ee4231">5916</span>, <span style="color: #ee4231">5219</span>, <span style="color: #ee4231">43072</span>, <span style="color: #ee4231">25238</span>, <span style="color: #ee4231">6798</span>] || [4550, <span style="color: #6bc71f">43072</span>, <span style="color: #6bc71f">25238</span>, <span style="color: #6bc71f">6798</span>, <span style="color: #6bc71f">4886</span>, <span style="color: #6bc71f">5572</span>]
+|-
+| recolorTo || [5795, <span style="color: #ee4231">5458</span>, <span style="color: #ee4231">123</span>, <span style="color: #ee4231">5795</span>, <span style="color: #ee4231">5458</span>, <span style="color: #ee4231">5819</span>] || [5795, <span style="color: #6bc71f">5795</span>, <span style="color: #6bc71f">2157</span>, <span style="color: #6bc71f">5819</span>, <span style="color: #6bc71f">36036</span>, <span style="color: #6bc71f">2157</span>]
+|-
+| rowspan="3" | [[Fanellaman]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/npc_id.html#6427 6427][https://abextm.github.io/cache2/#/viewer/npc/6427 (1)]
+|-
+| recolorFrom || [4550, <span style="color: #ee4231">5916</span>, <span style="color: #ee4231">5219</span>, <span style="color: #ee4231">43072</span>, <span style="color: #ee4231">25238</span>, <span style="color: #ee4231">6798</span>] || [4550, <span style="color: #6bc71f">43072</span>, <span style="color: #6bc71f">25238</span>, <span style="color: #6bc71f">6798</span>, <span style="color: #6bc71f">4886</span>, <span style="color: #6bc71f">5572</span>]
+|-
+| recolorTo || [5795, <span style="color: #ee4231">5458</span>, <span style="color: #ee4231">123</span>, <span style="color: #ee4231">5795</span>, <span style="color: #ee4231">5458</span>, <span style="color: #ee4231">5819</span>] || [5795, <span style="color: #6bc71f">5795</span>, <span style="color: #6bc71f">2157</span>, <span style="color: #6bc71f">5819</span>, <span style="color: #6bc71f">36036</span>, <span style="color: #6bc71f">2157</span>]
+|}
+==Items==
+===New Items===
+{| class="wikitable sortable"
+|-
+! colspan="11" | New Items
+|-
+! style="width: 15em" | name !! id !! examine !! isMembers !! isGrandExchangable !! isStackable !! noteLinkedItem !! inventoryActions !! placeholderLinkedItem !! price !! weight
+|}
+===Removed Items===
+{| class="wikitable sortable"
+|-
+! colspan="11" | Removed Items
+|-
+! style="width: 15em" | name !! id !! examine !! isMembers !! isGrandExchangable !! isStackable !! noteLinkedItem !! inventoryActions !! placeholderLinkedItem !! price !! weight
+|}
+===Diff Items===
+{| class="wikitable sortable sticky-header"
+|-
+! colspan="5" | Diff Items
+|-
+! style="width: 15em" | Name !! Id !! Key !! Previous Value !! New Value
+|-
+| rowspan="2" | [[Loar remains]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#3396 3396][https://abextm.github.io/cache2/#/viewer/item/3396 (1)]
+|-
+| category || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">2049</span>
+|-
+| rowspan="2" | [[Phrin remains]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#3398 3398][https://abextm.github.io/cache2/#/viewer/item/3398 (1)]
+|-
+| category || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">2049</span>
+|-
+| rowspan="2" | [[Riyl remains]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#3400 3400][https://abextm.github.io/cache2/#/viewer/item/3400 (1)]
+|-
+| category || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">2049</span>
+|-
+| rowspan="2" | [[Asyn remains]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#3402 3402][https://abextm.github.io/cache2/#/viewer/item/3402 (1)]
+|-
+| category || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">2049</span>
+|-
+| rowspan="2" | [[Fiyr remains]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#3404 3404][https://abextm.github.io/cache2/#/viewer/item/3404 (1)]
+|-
+| category || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">2049</span>
+|-
+| rowspan="3" | [[Pyre logs]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/item_id.html#3438 3438][https://abextm.github.io/cache2/#/viewer/item/3438 (1)]
+|-
+| category || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">2050</span>
+|-
+| params ||  || <span style="color: #6bc71f">{'23': 0}</span>
+|-
+| rowspan="3" | [[Oak pyre logs]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/item_id.html#3440 3440][https://abextm.github.io/cache2/#/viewer/item/3440 (1)]
+|-
+| category || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">2050</span>
+|-
+| params ||  || <span style="color: #6bc71f">{'23': 20}</span>
+|-
+| rowspan="3" | [[Willow pyre logs]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/item_id.html#3442 3442][https://abextm.github.io/cache2/#/viewer/item/3442 (1)]
+|-
+| category || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">2050</span>
+|-
+| params ||  || <span style="color: #6bc71f">{'23': 35}</span>
+|-
+| rowspan="3" | [[Maple pyre logs]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/item_id.html#3444 3444][https://abextm.github.io/cache2/#/viewer/item/3444 (1)]
+|-
+| category || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">2050</span>
+|-
+| params ||  || <span style="color: #6bc71f">{'23': 50}</span>
+|-
+| rowspan="3" | [[Yew pyre logs]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/item_id.html#3446 3446][https://abextm.github.io/cache2/#/viewer/item/3446 (1)]
+|-
+| category || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">2050</span>
+|-
+| params ||  || <span style="color: #6bc71f">{'23': 65}</span>
+|-
+| rowspan="3" | [[Magic pyre logs]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/item_id.html#3448 3448][https://abextm.github.io/cache2/#/viewer/item/3448 (1)]
+|-
+| category || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">2050</span>
+|-
+| params ||  || <span style="color: #6bc71f">{'23': 80}</span>
+|-
+| rowspan="3" | [[Teak pyre logs]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/item_id.html#6211 6211][https://abextm.github.io/cache2/#/viewer/item/6211 (1)]
+|-
+| category || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">2050</span>
+|-
+| params ||  || <span style="color: #6bc71f">{'23': 40}</span>
+|-
+| rowspan="3" | [[Mahogany pyre logs]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/item_id.html#6213 6213][https://abextm.github.io/cache2/#/viewer/item/6213 (1)]
+|-
+| category || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">2050</span>
+|-
+| params ||  || <span style="color: #6bc71f">{'23': 55}</span>
+|-
+| rowspan="3" | [[Arctic pyre logs]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/item_id.html#10808 10808][https://abextm.github.io/cache2/#/viewer/item/10808 (1)]
+|-
+| category || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">2050</span>
+|-
+| params ||  || <span style="color: #6bc71f">{'23': 47}</span>
+|-
+| rowspan="3" | [[Redwood pyre logs]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/item_id.html#19672 19672][https://abextm.github.io/cache2/#/viewer/item/19672 (1)]
+|-
+| category || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">2050</span>
+|-
+| params ||  || <span style="color: #6bc71f">{'23': 95}</span>
+|-
+| rowspan="2" | [[Blighted vengeance sack]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#24621 24621][https://abextm.github.io/cache2/#/viewer/item/24621 (1)]
+|-
+| examine || Enough power for a Vengeance, blighted so it can be used only in the Wilderness. || Enough power for a Vengeance<span style="color: #6bc71f"> or or Vengeance Other</span>, blighted so it can be used only in the Wilderness.
+|-
+| rowspan="2" | [[Urium remains]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#25419 25419][https://abextm.github.io/cache2/#/viewer/item/25419 (1)]
+|-
+| category || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">2049</span>
+|}
+==Params==
+===New Params===
+{| class="wikitable sortable"
+|-
+! colspan="5" | New Params
+|-
+! style="width: 15em" | id !! type !! defaultInt !! defaultString !! isMembers
+|-
+| [https://chisel.weirdgloop.org/structs/index.html?type=enums&id=1952 1952][https://abextm.github.io/cache2/#/viewer/enum/1952 (1)] ||  ||  ||  || true
+|-
+| [https://chisel.weirdgloop.org/structs/index.html?type=enums&id=1953 1953][https://abextm.github.io/cache2/#/viewer/enum/1953 (1)] ||  ||  ||  || true
+|-
+| [https://chisel.weirdgloop.org/structs/index.html?type=enums&id=1954 1954][https://abextm.github.io/cache2/#/viewer/enum/1954 (1)] ||  ||  ||  || true
+|-
+| [https://chisel.weirdgloop.org/structs/index.html?type=enums&id=1955 1955][https://abextm.github.io/cache2/#/viewer/enum/1955 (1)] ||  ||  ||  || true
+|-
+| [https://chisel.weirdgloop.org/structs/index.html?type=enums&id=1956 1956][https://abextm.github.io/cache2/#/viewer/enum/1956 (1)] ||  ||  ||  || true
+|-
+| [https://chisel.weirdgloop.org/structs/index.html?type=enums&id=1957 1957][https://abextm.github.io/cache2/#/viewer/enum/1957 (1)] || 49 ||  ||  || true
+|}
+===Removed Params===
+{| class="wikitable sortable"
+|-
+! colspan="5" | Removed Params
+|-
+! style="width: 15em" | id !! type !! defaultInt !! defaultString !! isMembers
+|}
+===Diff Params===
+{| class="wikitable sortable sticky-header"
+|-
+! colspan="5" | Diff Params
+|-
+! style="width: 15em" | Id !! Key !! Previous Value !! New Value
+|}
+==Structs==
+===New Structs===
+{| class="wikitable sortable"
+|-
+! colspan="2" | New Structs
+|-
+! style="width: 15em" | id !! params
+|-
+| [https://chisel.weirdgloop.org/structs/index.html?type=structs&id=990 990][https://abextm.github.io/cache2/#/viewer/struct/990 (1)] || {'1077': 316, '1078': 0, '1086': 'Make-X for darts and bolts', '1088': 'fletch, tips, feather, xbow, crossbow', '1096': 'When enabled,  a Make-X menu will be offered when you add feathers to darts and bolts.'}
+|-
+| [https://chisel.weirdgloop.org/structs/index.html?type=structs&id=991 991][https://abextm.github.io/cache2/#/viewer/struct/991 (1)] || {'1077': 386, '1078': 0, '1084': 1, '1086': 'Death protection from cosmetics', '1088': 'death, keep, protect, grave, cosmetic, kit, override, drop, uim, iron, ornament', '1096': 'When enabled,  cosmetic upgrades such as ornament kits may cause certain items to be protected during a non-PvP death,  rather than falling to a grave. Use the 'Items Kept on Death' screen to see how your items will behave.', '1957': 1}
+|}
+===Removed Structs===
+{| class="wikitable sortable"
+|-
+! colspan="2" | Removed Structs
+|-
+! style="width: 15em" | id !! params
+|-
+| [https://chisel.weirdgloop.org/structs/index.html?type=structs&id=4497 4497][https://abextm.github.io/cache2/#/viewer/struct/4497 (1)] || {'1077': 316, '1078': 0, '1086': 'Make-x darts', '1088': 'fletch, tips, feather', '1096': 'When enabled,  you will see a make-X screen when fletching darts.'}
+|}
+===Diff Structs===
+{| class="wikitable sortable sticky-header"
+|-
+! colspan="5" | Diff Structs
+|-
+! style="width: 15em" | Id !! Key !! Previous Value !! New Value
+|-
+| rowspan="2" | [https://chisel.weirdgloop.org/structs/index.html?type=structs&id=947 947][https://abextm.github.io/cache2/#/viewer/struct/947 (1)]
+|-
+| params || {'1077': 373, '1078': 0, '1086': 'Make-<span style="color: #ee4231">x</span> barbarian potions', '1088': 'barbarian, potion, barb,  barb potion,  barbarian potion,  mix', '1096': 'When enabled,  <span style="color: #ee4231">you will see </span>a <span style="color: #ee4231">make</span>-X <span style="color: #ee4231">screen</span> when <span style="color: #ee4231">making</span> barbarian potions.'} || {'1077': 373, '1078': 0, '1086': 'Make-<span style="color: #6bc71f">X</span> barbarian potions', '1088': 'barbarian, potion, barb,  barb potion,  barbarian potion,  mix', '1096': 'When enabled,  a <span style="color: #6bc71f">Make</span>-X <span style="color: #6bc71f">menu</span> <span style="color: #6bc71f">will be offered </span>when <span style="color: #6bc71f">you</span> <span style="color: #6bc71f">make </span>barbarian potions.'}
+|-
+| rowspan="2" | [https://chisel.weirdgloop.org/structs/index.html?type=structs&id=4692 4692][https://abextm.github.io/cache2/#/viewer/struct/4692 (1)]
+|-
+| params || {'1077': 364, '1078': 2, '1085': 1, '1086': 'Woodcutting <span style="color: #ee4231">leprechaun</span>'s <span style="color: #ee4231">luck</span>', '1088': 'woodcutting, forestry, leprechaun, rainbow, boost, bonus, luck', '1090': 2, '1091': 5192, '1096': 'When enabled,  shows the remaining amount of woodcutting chops boosted by leprechaun luck. You can set this to only be shown if you have an axe.', '1157': 1} || {'1077': 364, '1078': 2, '1085': 1, '1086': 'Woodcutting <span style="color: #6bc71f">Leprechaun</span>'s <span style="color: #6bc71f">Luck</span>', '1088': 'woodcutting, forestry, leprechaun, rainbow, boost, bonus, luck', '1090': 2, '1091': 5192, '1096': 'When enabled,  shows the remaining amount of woodcutting chops boosted by leprechaun luck. You can set this to only be shown if you have an axe.', '1157': 1}
+|}

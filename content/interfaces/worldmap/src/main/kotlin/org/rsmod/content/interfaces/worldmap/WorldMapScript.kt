@@ -20,9 +20,7 @@ import org.rsmod.game.entity.Player
 import org.rsmod.plugin.scripts.PluginScript
 import org.rsmod.plugin.scripts.ScriptContext
 
-class WorldMapScript @Inject constructor(
-    private val eventBus: EventBus
-) : PluginScript() {
+class WorldMapScript @Inject constructor(private val eventBus: EventBus) : PluginScript() {
 
     private var Player.isFullScreenMap by boolVarBit("varbit.fullscreen_worldmap")
     private var Player.orbsMinimized by boolVarBit("varbit.minimap_toggle")
@@ -36,9 +34,7 @@ class WorldMapScript @Inject constructor(
     private val fullscreenTopLevel = "interface.toplevel_display"
 
     override fun ScriptContext.startup() {
-        onPlayerLogin {
-            player.orbsMinimized = false
-        }
+        onPlayerLogin { player.orbsMinimized = false }
         onIfOverlayButton(worldMapOrb) { player.openMap(it.op) }
         onIfOverlayButton("component.orbs_nomap:worldmap") { player.openMap(it.op) }
 
@@ -56,7 +52,11 @@ class WorldMapScript @Inject constructor(
             IfButtonOp.Op2 -> openMapOverlay()
             IfButtonOp.Op3 -> openFullscreen()
             IfButtonOp.Op4 -> {
-                this.ifOpenOverlay(if (orbsMinimized) "interface.orbs" else "interface.orbs_nomap", "component.toplevel_osrs_stretch:orbs", eventBus)
+                this.ifOpenOverlay(
+                    if (orbsMinimized) "interface.orbs" else "interface.orbs_nomap",
+                    "component.toplevel_osrs_stretch:orbs",
+                    eventBus,
+                )
                 orbsMinimized = !orbsMinimized
             }
             else -> error("Invalid option on world map: $option")
@@ -88,11 +88,12 @@ class WorldMapScript @Inject constructor(
         val fullscreen = gameframes.values.first { it.topLevel == fullscreenTopLevel }
         val normal = gameframes.getValue(gameframeTopLevel)
 
-        val (from, to) = if (toFullscreen) {
-            normal to fullscreen
-        } else {
-            fullscreen to normal
-        }
+        val (from, to) =
+            if (toFullscreen) {
+                normal to fullscreen
+            } else {
+                fullscreen to normal
+            }
 
         val move = resolveGameframeMove(from = from, dest = to)
         softQueue("queue.fullscreen_map", 1, move)

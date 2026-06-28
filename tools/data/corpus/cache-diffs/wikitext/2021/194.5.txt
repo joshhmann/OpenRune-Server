@@ -1,0 +1,114 @@
+{| class="wikitable sortable"
+!colspan="5"|Items
+|-
+! Name !! ID !! Key !! Previous Value !! Changed into
+|-
+| [[S.t.a.s.h chart]] || 25611 || colspan = "4" | New ID
+|-
+| [[S.t.a.s.h blueprint]] || 25612 || colspan = "4" | New ID
+|-
+| [[Baby mole-rat]] || 25613 || colspan = "4" | New ID
+|-
+| [[null]] || 25614 || colspan = "4" | New ID
+|-
+| [[Large water container]] || 25615 || colspan = "4" | New ID
+|-
+| [[null]] || 25616 || colspan = "4" | New ID
+|-
+| [[Tea flask]] || 25617 || colspan = "4" | New ID
+|-
+| [[Plain satchel]] || 25618 || colspan = "4" | New ID
+|-
+| [[Green satchel]] || 25619 || colspan = "4" | New ID
+|-
+| [[Red satchel]] || 25620 || colspan = "4" | New ID
+|-
+| [[Black satchel]] || 25621 || colspan = "4" | New ID
+|-
+| [[Gold satchel]] || 25622 || colspan = "4" | New ID
+|-
+| [[Rune satchel]] || 25623 || colspan = "4" | New ID
+|-
+| [[Unsired]] || 25624 || colspan = "4" | New ID
+|-
+|rowspan="2"|[[Baby mole]]
+|rowspan="2"|12646
+|-
+|inventoryModel || 12073 || 42012
+|-
+|}
+
+{| class="wikitable sortable"
+!colspan="5"|Non-Player Characters
+|-
+! Name !! ID !! Key !! Previous Value !! Changed into
+|-
+| [[Baby Mole-rat]] || 10650 || colspan = "4" | New ID
+|-
+| [[Baby Mole-rat]] || 10651 || colspan = "4" | New ID
+|-
+|rowspan="2"|[[Baby Mole]]
+|rowspan="2"|5780
+|-
+|models || [12073] || [42012]
+|-
+|rowspan="2"|[[Baby Mole]]
+|rowspan="2"|5781
+|-
+|models || [12073] || [42012]
+|-
+|rowspan="2"|[[Baby Mole]]
+|rowspan="2"|5782
+|-
+|models || [12073] || [42012]
+|-
+|rowspan="5"|[[Baby Mole]]
+|rowspan="5"|6635
+|-
+|widthScale || 80 || 90
+|-
+| heightScale || 80 || 90
+|-
+| models || [12073] || [42012]
+|-
+| chatheadModels || [28863] || [42013]
+|-
+|rowspan="5"|[[Baby Mole]]
+|rowspan="5"|6651
+|-
+|widthScale || 80 || 90
+|-
+| heightScale || 80 || 90
+|-
+| models || [12073] || [42012]
+|-
+| chatheadModels || [28863] || [42013]
+|-
+|rowspan="2"|[[The Collector]]
+|rowspan="2"|8491
+|-
+|actions || ['Talk-to', None, 'Get log', None, None] || ['Talk-to', None, 'Get-log', 'Count-log', None]
+|-
+|}
+
+{| class="wikitable sortable"
+!colspan="5"|Objects
+|-
+! Name !! ID !! Key !! Previous Value !! Changed into
+|-
+| [[S.T.A.S.H chart]] || 41434 || colspan = "4" | New ID
+|-
+| [[Rewards Chest]] || 41435 || colspan = "4" | New ID
+|-
+| [[Rewards Chest]] || 41436 || colspan = "4" | New ID
+|-
+| [[null]] || 41437 || colspan = "4" | New ID
+|-
+| [[Stile]] || 41438 || colspan = "4" | New ID
+|-
+|rowspan="2"|[[<col=ffff00>Baby Mole]]
+|rowspan="2"|40248
+|-
+|objectModels || [12073] || [42012]
+|-
+|}

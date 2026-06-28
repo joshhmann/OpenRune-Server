@@ -1,0 +1,101 @@
+{{ToC}}
+==Items==
+===New Items===
+{| class="wikitable sortable"
+!colspan='11'|New Items
+|-
+! style=width:15em | Name !! ID !! Members !! Tradeable in GE !! Equipable !! Stackable !! Noteable !! Options !! Placeholder !! Cost
+|-
+|-
+|}
+===Removed Items===
+{| class="wikitable sortable"
+!colspan='2'|Removed Items
+|-
+! style=width:15em | Name !! ID
+|-
+|-
+|}
+===Diff Items===
+{| class="wikitable sortable"
+!colspan='5'|Diff Items
+|-
+! style=width:15em | Name !! ID !! Key !! Previous Value !! New Value
+|-
+|rowspan="5"|[[Signed oak bow]]
+|rowspan="5"|[https://chisel.weirdgloop.org/moid/item_id.html#4236 4236]
+|-
+|xan2d || 460 || 512
+|-
+| yan2d || 1004 || 471
+|-
+| xOffset2d || 2 || -5
+|-
+| yOffset2d || 15 || 5
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#4555 4555]
+|-
+|params || {'365': 563, '366': 1, '367': 560, '336': 0, '368': 1, '369': 562, '370': 1, '596': 14286915, '597': 352, '598': 402, '599': 1792, '600': 1872, '601': 'Tele Block', '602': 'Stops your target from teleporting', '603': 1, '604': 85, '605': 0} || {'365': 563, '366': 1, '367': 560, '336': 0, '368': 1, '369': 562, '370': 1, '596': 14286915, '597': 352, '598': 402, '599': 1792, '600': 1872, '601': 'Tele Block', '602': 'Stops your target from teleporting', '603': 0, '604': 85, '605': 0}
+|-
+|rowspan="2"|[[Dragon claws]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#13652 13652]
+|-
+|interfaceOptions || [None, 'Wear', None, None, 'Drop'] || [None, 'Wield', None, None, 'Drop']
+|-
+|rowspan="2"|[[Dragon claws]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#20784 20784]
+|-
+|interfaceOptions || [None, 'Wear', None, None, 'Drop'] || [None, 'Wield', None, None, 'Drop']
+|-
+|}
+
+==Non-Player Characters==
+===New NPCs===
+{| class="wikitable sortable"
+!colspan='4'|New NPCs
+|-
+! style=width:15em | Name !! ID !! Combat Level !! Options
+|-
+|-
+|}
+===Removed NPCs===
+{| class="wikitable sortable"
+!colspan='2'|Removed NPCs
+|-
+! style=width:15em | Name !! ID
+|-
+|-
+|}
+===Diff NPCs===
+{| class="wikitable sortable"
+!colspan='5'|Diff NPCs
+|-
+! style=width:15em | Name !! ID !! Key !! Previous Value !! New Value
+|-
+|}
+
+==Objects==
+===New Objects=== 
+{| class="wikitable sortable"
+!colspan='3'|New Objects
+|-
+! style=width:15em | Name !! ID !! Options
+|-
+|-
+|}
+===Removed Objects===
+{| class="wikitable sortable"
+!colspan='2'|Removed Objects
+|-
+! style=width:15em | Name !! ID
+|-
+|-
+|}
+===Diff Objects===
+{| class="wikitable sortable"
+!colspan='5'|Diff Objects
+|-
+! style=width:15em | Name !! ID !! Key !! Previous Value !! New Value
+|-
+|}

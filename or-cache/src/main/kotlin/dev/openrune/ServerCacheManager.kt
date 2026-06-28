@@ -2,7 +2,6 @@ package dev.openrune
 
 import com.github.michaelbull.logging.InlineLogger
 import dev.openrune.OsrsCacheProvider.*
-import dev.openrune.cache.CacheManager
 import dev.openrune.cache.filestore.definition.ComponentDecoder
 import dev.openrune.cache.filestore.definition.FontDecoder
 import dev.openrune.cache.filestore.definition.InterfaceType
@@ -32,16 +31,9 @@ import dev.openrune.definition.util.CacheVarLiteral
 import dev.openrune.filesystem.Cache
 import dev.openrune.gamevals.GameValProvider
 import dev.openrune.net.CacheJs5GroupProvider
-import dev.openrune.rscm.RSCM
 import dev.openrune.rscm.RSCM.asRSCM
-import dev.openrune.rscm.RSCMType
 import dev.openrune.types.*
 import dev.openrune.types.VarConType
-import dev.openrune.types.aconverted.AreaType
-import dev.openrune.types.aconverted.CategoryType
-import dev.openrune.types.aconverted.MidiType
-import dev.openrune.types.aconverted.SpotanimType
-import dev.openrune.types.aconverted.SynthType
 import dev.openrune.types.varp.VarpServerType
 import java.nio.BufferUnderflowException
 import java.nio.file.Path
@@ -121,7 +113,7 @@ object ServerCacheManager {
             StructDecoder().load(cache, structs)
             DBRowDecoder().load(cache, dbrows)
             DBTableDecoder().load(cache, dbtables)
-            ComponentDecoder(cache,rev).load(interfaces)
+            ComponentDecoder(cache, rev).load(interfaces)
             MesAnimDecoder().load(cache, mesanim)
             ModLevelDecoder().load(cache, modLevels)
             StatTypeDecoder().load(cache, statTypes)

@@ -1,14 +1,14 @@
 package org.rsmod.content.other.progressivebots.tree
 
-import org.rsmod.content.other.progressivebots.BotState
-import org.rsmod.game.entity.Player
 import kotlin.math.abs
 import kotlin.math.max
+import org.rsmod.content.other.progressivebots.BotState
+import org.rsmod.game.entity.Player
 
 /**
- * Decorator that measures a bot's progress over a window of ticks.
- * If the bot hasn't moved closer to its destination by a minimum amount,
- * it aborts the current behavior to prevent oscillation or getting stuck.
+ * Decorator that measures a bot's progress over a window of ticks. If the bot hasn't moved closer
+ * to its destination by a minimum amount, it aborts the current behavior to prevent oscillation or
+ * getting stuck.
  */
 class StuckDetectorDecorator(
     private val child: BehaviorNode,
@@ -33,7 +33,7 @@ class StuckDetectorDecorator(
 
         val currentX = player.coords.x
         val currentZ = player.coords.z
-        
+
         val dist = max(abs(currentX - destX), abs(currentZ - destZ))
 
         if (snapshotDist < 0) {

@@ -1,0 +1,593 @@
+__TOC__
+==Enums==
+===New Enums===
+{| class="wikitable sortable"
+|-
+! colspan="3" | New Enums
+|-
+! style="width: 15em" | id !! defaultValue !! map
+|}
+===Removed Enums===
+{| class="wikitable sortable"
+|-
+! colspan="3" | Removed Enums
+|-
+! style="width: 15em" | id !! defaultValue !! map
+|}
+===Diff Enums===
+{| class="wikitable sortable sticky-header"
+|-
+! colspan="5" | Diff Enums
+|-
+! style="width: 15em" | Id !! Key !! Previous Value !! New Value
+|-
+| rowspan="2" | [https://chisel.weirdgloop.org/structs/index.html?type=enums&id=1907 1907][https://abextm.github.io/cache2/#/viewer/enum/1907 (1)]
+|-
+| map || {'<span style="color: #ee4231">786499</span>': 1, '<span style="color: #ee4231">786501</span>': 2, '<span style="color: #ee4231">786503</span>': 3, '<span style="color: #ee4231">786505</span>': 4} || {'<span style="color: #6bc71f">786500</span>': 1, '<span style="color: #6bc71f">786502</span>': 2, '<span style="color: #6bc71f">786504</span>': 3, '<span style="color: #6bc71f">786506</span>': 4}
+|-
+| rowspan="2" | [https://chisel.weirdgloop.org/structs/index.html?type=enums&id=2777 2777][https://abextm.github.io/cache2/#/viewer/enum/2777 (1)]
+|-
+| map || {'0': <span style="color: #ee4231">786517</span>, '1': <span style="color: #ee4231">786518</span>, '2': <span style="color: #ee4231">786519</span>, '3': <span style="color: #ee4231">786520</span>, '4': <span style="color: #ee4231">786521</span>, '5': <span style="color: #ee4231">786522</span>, '7': <span style="color: #ee4231">786523</span>, '9': <span style="color: #ee4231">786524</span>, '10': <span style="color: #ee4231">786525</span>, '12': <span style="color: #ee4231">786526</span>, '13': <span style="color: #ee4231">786527</span>} || {'0': <span style="color: #6bc71f">786518</span>, '1': <span style="color: #6bc71f">786519</span>, '2': <span style="color: #6bc71f">786520</span>, '3': <span style="color: #6bc71f">786521</span>, '4': <span style="color: #6bc71f">786522</span>, '5': <span style="color: #6bc71f">786523</span>, '7': <span style="color: #6bc71f">786524</span>, '9': <span style="color: #6bc71f">786525</span>, '10': <span style="color: #6bc71f">786526</span>, '12': <span style="color: #6bc71f">786527</span>, '13': <span style="color: #6bc71f">786528</span>}
+|}
+==Items==
+===New Items===
+{| class="wikitable sortable"
+|-
+! colspan="11" | New Items
+|-
+! style="width: 15em" | name !! id !! examine !! isMembers !! isGrandExchangable !! isStackable !! noteLinkedItem !! inventoryActions !! placeholderLinkedItem !! price !! weight
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#30672 30672][https://abextm.github.io/cache2/#/viewer/item/30672 (1)] ||  ||  ||  ||  || -1 || [None, None, None, None, Drop] || 30570 || 1 || 
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#30673 30673][https://abextm.github.io/cache2/#/viewer/item/30673 (1)] ||  ||  ||  ||  || -1 || [None, None, None, None, Drop] || 30571 || 1 || 
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#30674 30674][https://abextm.github.io/cache2/#/viewer/item/30674 (1)] ||  ||  ||  ||  || -1 || [None, None, None, None, Drop] || 30572 || 1 || 
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#30675 30675][https://abextm.github.io/cache2/#/viewer/item/30675 (1)] ||  ||  ||  ||  || -1 || [None, None, None, None, Drop] || 30573 || 1 || 
+|}
+===Removed Items===
+{| class="wikitable sortable"
+|-
+! colspan="11" | Removed Items
+|-
+! style="width: 15em" | name !! id !! examine !! isMembers !! isGrandExchangable !! isStackable !! noteLinkedItem !! inventoryActions !! placeholderLinkedItem !! price !! weight
+|}
+===Diff Items===
+{| class="wikitable sortable sticky-header"
+|-
+! colspan="5" | Diff Items
+|-
+! style="width: 15em" | Name !! Id !! Key !! Previous Value !! New Value
+|-
+| rowspan="2" | [[Trident of the seas]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#11907 11907][https://abextm.github.io/cache2/#/viewer/item/11907 (1)]
+|-
+| params || {'3': 15, '5': 2, '6': 3, '7': 1, '8': 15, '13': 7, '14': 4, '434': 6, '436': 75, '451': 'Check'} || {'3': 15, '5': 2, '6': 3, '7': 1, '8': 15, '13': 7, '14': 4, '434': 6, '436': 75, '451': 'Check'<span style="color: #6bc71f">, '2257': 4326</span>}
+|-
+| rowspan="2" | [[Trident of the swamp]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#12899 12899][https://abextm.github.io/cache2/#/viewer/item/12899 (1)]
+|-
+| params || {'3': 25, '5': 2, '6': 3, '7': 1, '8': 15, '13': 7, '14': 4, '434': 6, '436': 78, '451': 'Check'} || {'3': 25, '5': 2, '6': 3, '7': 1, '8': 15, '13': 7, '14': 4, '434': 6, '436': 78, '451': 'Check'<span style="color: #6bc71f">, '2257': 4330</span>}
+|-
+| rowspan="2" | [[Toxic staff of the dead]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#12904 12904][https://abextm.github.io/cache2/#/viewer/item/12904 (1)]
+|-
+| params || {'0': 55, '1': 70, '3': 25, '6': 3, '7': 3, '8': 17, '10': 72, '41': 1, '299': 150, '346': 1, '434': 0, '435': 6, '436': 75, '437': 75, '451': 'Check', '1564': 3, '1737': 1} || {'0': 55, '1': 70, '3': 25, '6': 3, '7': 3, '8': 17, '10': 72, '41': 1, '299': 150, '346': 1, '434': 0, '435': 6, '436': 75, '437': 75, '451': 'Check', '1564': 3, '1737': 1<span style="color: #6bc71f">, '2257': 4334</span>}
+|-
+| rowspan="2" | [[Toxic blowpipe]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#12926 12926][https://abextm.github.io/cache2/#/viewer/item/12926 (1)]
+|-
+| params || {'4': 30, '12': 20, '13': 5, '14': 3, '434': 4, '436': 75, '451': 'Check', '1564': 3} || {'4': 30, '12': 20, '13': 5, '14': 3, '434': 4, '436': 75, '451': 'Check', '1564': 3<span style="color: #6bc71f">, '2257': 4332</span>}
+|-
+| rowspan="2" | [[Serpentine helm]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#12931 12931][https://abextm.github.io/cache2/#/viewer/item/12931 (1)]
+|-
+| params || {'3': -5, '4': -5, '5': 52, '6': 55, '7': 58, '9': 50, '10': 5, '346': 1, '434': 1, '436': 75, '451': 'Check', '1564': 0} || {'3': -5, '4': -5, '5': 52, '6': 55, '7': 58, '9': 50, '10': 5, '346': 1, '434': 1, '436': 75, '451': 'Check', '1564': 0<span style="color: #6bc71f">, '2257': 4333</span>}
+|-
+| rowspan="2" | [[Bonecrusher]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#13116 13116][https://abextm.github.io/cache2/#/viewer/item/13116 (1)]
+|-
+| params || {'295': 1} || {'295': 1<span style="color: #6bc71f">, '2257': 4341</span>}
+|-
+| rowspan="2" | [[Tanzanite helm]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#13197 13197][https://abextm.github.io/cache2/#/viewer/item/13197 (1)]
+|-
+| params || {'3': -5, '4': -5, '5': 52, '6': 55, '7': 58, '9': 50, '10': 5, '346': 1, '434': 1, '436': 75, '451': 'Check'} || {'3': -5, '4': -5, '5': 52, '6': 55, '7': 58, '9': 50, '10': 5, '346': 1, '434': 1, '436': 75, '451': 'Check'<span style="color: #6bc71f">, '2257': 4333</span>}
+|-
+| rowspan="2" | [[Magma helm]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#13199 13199][https://abextm.github.io/cache2/#/viewer/item/13199 (1)]
+|-
+| params || {'3': -5, '4': -5, '5': 52, '6': 55, '7': 58, '9': 50, '10': 5, '346': 1, '434': 1, '436': 75, '451': 'Check'} || {'3': -5, '4': -5, '5': 52, '6': 55, '7': 58, '9': 50, '10': 5, '346': 1, '434': 1, '436': 75, '451': 'Check'<span style="color: #6bc71f">, '2257': 4333</span>}
+|-
+| rowspan="3" | [[Xeric's talisman]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/item_id.html#13393 13393][https://abextm.github.io/cache2/#/viewer/item/13393 (1)]
+|-
+| subops || [null, null, [Xeric's Lookout, Xeric's Glade, Xeric's Inferno, Xeric's Heart, Xeric's Honour]] || [null, null, [Xeric's Lookout, Xeric's Glade, Xeric's Inferno, Xeric's Heart, Xeric's Honour]]
+|-
+| params || {'3': 3, '8': 1, '295': 1, '451': 'Xeric's Lookout', '452': 'Xeric's Glade', '453': 'Xeric's Inferno', '454': 'Xeric's Heart', '455': 'Xeric's Honour', '456': 'Check'} || {'3': 3, '8': 1, '295': 1, '451': 'Xeric's Lookout', '452': 'Xeric's Glade', '453': 'Xeric's Inferno', '454': 'Xeric's Heart', '455': 'Xeric's Honour', '456': 'Check'<span style="color: #6bc71f">, '2257': 4350</span>}
+|-
+| rowspan="2" | [[Soul bearer]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#19634 19634][https://abextm.github.io/cache2/#/viewer/item/19634 (1)]
+|-
+| params ||  || <span style="color: #6bc71f">{'2257': 4344}</span>
+|-
+| rowspan="2" | [[Arclight]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#19675 19675][https://abextm.github.io/cache2/#/viewer/item/19675 (1)]
+|-
+| params || {'0': 10, '1': 38, '2': 0, '3': 0, '4': 0, '5': 0, '6': 3, '7': 2, '8': 2, '9': 0, '10': 8, '11': 0, '13': 0, '14': 4, '128': 70, '258': 53, '295': 1, '434': 0, '436': 75, '453': 'Check', '518': 1} || {'0': 10, '1': 38, '2': 0, '3': 0, '4': 0, '5': 0, '6': 3, '7': 2, '8': 2, '9': 0, '10': 8, '11': 0, '13': 0, '14': 4, '128': 70, '258': 53, '295': 1, '434': 0, '436': 75, '453': 'Check', '518': 1<span style="color: #6bc71f">, '2257': 4339</span>}
+|-
+| rowspan="2" | [[Ring of suffering (r)]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#20655 20655][https://abextm.github.io/cache2/#/viewer/item/20655 (1)]
+|-
+| params || {'5': 10, '6': 10, '7': 10, '8': 10, '9': 10, '11': 2, '434': 3, '436': 75, '451': 'Check', '452': 'Recoil Settings'} || {'5': 10, '6': 10, '7': 10, '8': 10, '9': 10, '11': 2, '434': 3, '436': 75, '451': 'Check', '452': 'Recoil Settings'<span style="color: #6bc71f">, '2257': 4349</span>}
+|-
+| rowspan="2" | [[Ring of suffering (ri)]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#20657 20657][https://abextm.github.io/cache2/#/viewer/item/20657 (1)]
+|-
+| params || {'5': 20, '6': 20, '7': 20, '8': 20, '9': 20, '11': 4, '434': 3, '436': 75, '451': 'Check', '452': 'Recoil Settings'} || {'5': 20, '6': 20, '7': 20, '8': 20, '9': 20, '11': 4, '434': 3, '436': 75, '451': 'Check', '452': 'Recoil Settings'<span style="color: #6bc71f">, '2257': 4349</span>}
+|-
+| rowspan="2" | [[Tome of fire]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#20714 20714][https://abextm.github.io/cache2/#/viewer/item/20714 (1)]
+|-
+| params || {'3': 8, '8': 8, '434': 6, '436': 50, '451': 'Check', '452': 'Pages', '1564': 5} || {'3': 8, '8': 8, '434': 6, '436': 50, '451': 'Check', '452': 'Pages', '1564': 5<span style="color: #6bc71f">, '2257': 4358, '2258': 4359</span>}
+|-
+| rowspan="2" | [[Bracelet of ethereum]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#21816 21816][https://abextm.github.io/cache2/#/viewer/item/21816 (1)]
+|-
+| params || {'451': 'Check', '452': 'Toggle absorption'} || {'451': 'Check', '452': 'Toggle absorption'<span style="color: #6bc71f">, '2257': 4347</span>}
+|-
+| rowspan="2" | [[Trident of the seas (e)]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#22288 22288][https://abextm.github.io/cache2/#/viewer/item/22288 (1)]
+|-
+| params || {'3': 15, '5': 2, '6': 3, '7': 1, '8': 15, '13': 7, '14': 4, '434': 6, '436': 75, '451': 'Check'} || {'3': 15, '5': 2, '6': 3, '7': 1, '8': 15, '13': 7, '14': 4, '434': 6, '436': 75, '451': 'Check'<span style="color: #6bc71f">, '2257': 4327</span>}
+|-
+| rowspan="2" | [[Trident of the swamp (e)]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#22292 22292][https://abextm.github.io/cache2/#/viewer/item/22292 (1)]
+|-
+| params || {'3': 25, '5': 2, '6': 3, '7': 1, '8': 15, '13': 7, '14': 4, '434': 6, '436': 78, '451': 'Check', '1564': 3} || {'3': 25, '5': 2, '6': 3, '7': 1, '8': 15, '13': 7, '14': 4, '434': 6, '436': 78, '451': 'Check', '1564': 3<span style="color: #6bc71f">, '2257': 4331</span>}
+|-
+| rowspan="2" | [[Sanguinesti staff]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#22323 22323][https://abextm.github.io/cache2/#/viewer/item/22323 (1)]
+|-
+| params || {'3': 25, '4': -4, '5': 2, '6': 3, '7': 1, '8': 15, '13': 7, '14': 4, '434': 6, '436': 82, '451': 'Check', '1564': 3} || {'3': 25, '4': -4, '5': 2, '6': 3, '7': 1, '8': 15, '13': 7, '14': 4, '434': 6, '436': 82, '451': 'Check', '1564': 3<span style="color: #6bc71f">, '2257': 4348</span>}
+|-
+| rowspan="2" | [[Bryophyta's staff]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#22370 22370][https://abextm.github.io/cache2/#/viewer/item/22370 (1)]
+|-
+| params || {'0': 10, '1': -1, '2': 40, '3': 15, '4': 0, '5': 2, '6': 3, '7': 1, '8': 15, '9': 0, '10': 50, '11': 0, '13': 0, '14': 5, '258': 26, '434': 6, '435': 0, '436': 30, '437': 30, '451': 'Check', '1564': 3} || {'0': 10, '1': -1, '2': 40, '3': 15, '4': 0, '5': 2, '6': 3, '7': 1, '8': 15, '9': 0, '10': 50, '11': 0, '13': 0, '14': 5, '258': 26, '434': 6, '435': 0, '436': 30, '437': 30, '451': 'Check', '1564': 3<span style="color: #6bc71f">, '2257': 4340</span>}
+|-
+| rowspan="2" | [[Viggora's chainmace]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#22545 22545][https://abextm.github.io/cache2/#/viewer/item/22545 (1)]
+|-
+| params || {'0': 53, '1': -2, '2': 67, '3': 0, '4': 0, '5': 0, '6': 0, '7': 0, '8': 0, '9': 0, '10': 66, '11': 2, '13': 0, '14': 4, '23': 60, '41': 1, '434': 0, '436': 60, '451': 'Check', '1564': 3, '1733': 'Viggora's chainmace'} || {'0': 53, '1': -2, '2': 67, '3': 0, '4': 0, '5': 0, '6': 0, '7': 0, '8': 0, '9': 0, '10': 66, '11': 2, '13': 0, '14': 4, '23': 60, '41': 1, '434': 0, '436': 60, '451': 'Check', '1564': 3, '1733': 'Viggora's chainmace'<span style="color: #6bc71f">, '2257': 4346</span>}
+|-
+| rowspan="2" | [[Craw's bow]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#22550 22550][https://abextm.github.io/cache2/#/viewer/item/22550 (1)]
+|-
+| params || {'4': 75, '12': 60, '13': 9, '14': 4, '23': 60, '434': 4, '436': 60, '451': 'Check', '1564': 3, '1733': 'Craw's bow'} || {'4': 75, '12': 60, '13': 9, '14': 4, '23': 60, '434': 4, '436': 60, '451': 'Check', '1564': 3, '1733': 'Craw's bow'<span style="color: #6bc71f">, '2257': 4346</span>}
+|-
+| rowspan="2" | [[Thammaron's sceptre]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#22555 22555][https://abextm.github.io/cache2/#/viewer/item/22555 (1)]
+|-
+| params || {'3': 15, '8': 20, '13': 7, '14': 4, '23': 60, '41': 1, '434': 6, '436': 60, '451': 'Check', '452': 'Swap', '1564': 3, '1733': 'Thammaron's Sceptre'} || {'3': 15, '8': 20, '13': 7, '14': 4, '23': 60, '41': 1, '434': 6, '436': 60, '451': 'Check', '452': 'Swap', '1564': 3, '1733': 'Thammaron's Sceptre'<span style="color: #6bc71f">, '2257': 4346</span>}
+|-
+| rowspan="2" | [[Bonecrusher necklace]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#22986 22986][https://abextm.github.io/cache2/#/viewer/item/22986 (1)]
+|-
+| params || {'0': 10, '1': 10, '2': 10, '3': 10, '4': 10, '5': 2, '6': 2, '7': 2, '8': 2, '9': 2, '10': 2, '11': 12, '295': 1, '451': 'Check', '452': 'Activity', '453': 'Uncharge'} || {'0': 10, '1': 10, '2': 10, '3': 10, '4': 10, '5': 2, '6': 2, '7': 2, '8': 2, '9': 2, '10': 2, '11': 12, '295': 1, '451': 'Check', '452': 'Activity', '453': 'Uncharge'<span style="color: #6bc71f">, '2257': 4341</span>}
+|-
+| rowspan="2" | [[Crystal axe]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#23673 23673][https://abextm.github.io/cache2/#/viewer/item/23673 (1)]
+|-
+| params || {'0': -2, '1': 38, '2': 32, '6': 1, '10': 42, '14': 5, '23': 71, '258': 35, '451': 'Check'} || {'0': -2, '1': 38, '2': 32, '6': 1, '10': 42, '14': 5, '23': 71, '258': 35, '451': 'Check'<span style="color: #6bc71f">, '2257': 4338</span>}
+|-
+| rowspan="2" | [[Crystal pickaxe]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#23680 23680][https://abextm.github.io/cache2/#/viewer/item/23680 (1)]
+|-
+| params || {'0': 38, '1': -2, '2': 32, '6': 1, '10': 42, '14': 5, '23': 71, '258': 21, '451': 'Check'} || {'0': 38, '1': -2, '2': 32, '6': 1, '10': 42, '14': 5, '23': 71, '258': 21, '451': 'Check'<span style="color: #6bc71f">, '2257': 4338</span>}
+|-
+| rowspan="2" | [[Crystal harpoon]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#23762 23762][https://abextm.github.io/cache2/#/viewer/item/23762 (1)]
+|-
+| params || {'0': 38, '1': 32, '6': 1, '10': 42, '14': 5, '23': 71, '451': 'Check'} || {'0': 38, '1': 32, '6': 1, '10': 42, '14': 5, '23': 71, '451': 'Check'<span style="color: #6bc71f">, '2257': 4338</span>}
+|-
+| rowspan="2" | [[Crystal helm]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#23971 23971][https://abextm.github.io/cache2/#/viewer/item/23971 (1)]
+|-
+| params || {'0': 0, '1': 0, '2': 0, '3': -10, '4': 9, '5': 12, '6': 8, '7': 14, '8': 10, '9': 18, '11': 2, '434': 1, '435': 16, '436': 70, '437': 50, '451': 'Check', '1564': 0} || {'0': 0, '1': 0, '2': 0, '3': -10, '4': 9, '5': 12, '6': 8, '7': 14, '8': 10, '9': 18, '11': 2, '434': 1, '435': 16, '436': 70, '437': 50, '451': 'Check', '1564': 0<span style="color: #6bc71f">, '2257': 4337</span>}
+|-
+| rowspan="2" | [[Crystal body]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#23975 23975][https://abextm.github.io/cache2/#/viewer/item/23975 (1)]
+|-
+| params || {'0': 0, '1': 0, '2': 0, '3': -18, '4': 31, '5': 46, '6': 38, '7': 48, '8': 44, '9': 68, '11': 3, '434': 1, '435': 16, '436': 70, '437': 50, '451': 'Check', '1564': 4} || {'0': 0, '1': 0, '2': 0, '3': -18, '4': 31, '5': 46, '6': 38, '7': 48, '8': 44, '9': 68, '11': 3, '434': 1, '435': 16, '436': 70, '437': 50, '451': 'Check', '1564': 4<span style="color: #6bc71f">, '2257': 4337</span>}
+|-
+| rowspan="2" | [[Crystal legs]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#23979 23979][https://abextm.github.io/cache2/#/viewer/item/23979 (1)]
+|-
+| params || {'0': 0, '1': 0, '2': 0, '3': -12, '4': 18, '5': 26, '6': 21, '7': 30, '8': 34, '9': 38, '11': 2, '434': 1, '435': 16, '436': 70, '437': 50, '451': 'Check', '1564': 7} || {'0': 0, '1': 0, '2': 0, '3': -12, '4': 18, '5': 26, '6': 21, '7': 30, '8': 34, '9': 38, '11': 2, '434': 1, '435': 16, '436': 70, '437': 50, '451': 'Check', '1564': 7<span style="color: #6bc71f">, '2257': 4337</span>}
+|-
+| rowspan="2" | [[Blade of saeldor]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#23995 23995][https://abextm.github.io/cache2/#/viewer/item/23995 (1)]
+|-
+| params || {'0': 55, '1': 94, '2': 0, '3': 0, '4': 0, '5': 0, '6': 0, '7': 0, '8': 0, '9': 0, '10': 89, '11': 0, '14': 4, '434': 0, '436': 80, '451': 'Check'} || {'0': 55, '1': 94, '2': 0, '3': 0, '4': 0, '5': 0, '6': 0, '7': 0, '8': 0, '9': 0, '10': 89, '11': 0, '14': 4, '434': 0, '436': 80, '451': 'Check'<span style="color: #6bc71f">, '2257': 4336</span>}
+|-
+| rowspan="2" | [[Amulet of blood fury]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#24780 24780][https://abextm.github.io/cache2/#/viewer/item/24780 (1)]
+|-
+| params || {'0': 10, '1': 10, '2': 10, '3': 10, '4': 10, '5': 15, '6': 15, '7': 15, '8': 15, '9': 15, '10': 8, '11': 5, '451': 'Check'} || {'0': 10, '1': 10, '2': 10, '3': 10, '4': 10, '5': 15, '6': 15, '7': 15, '8': 15, '9': 15, '10': 8, '11': 5, '451': 'Check'<span style="color: #6bc71f">, '2257': 4356</span>}
+|-
+| rowspan="2" | [[Ring of suffering (ri)]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#25248 25248][https://abextm.github.io/cache2/#/viewer/item/25248 (1)]
+|-
+| params || {'5': 20, '6': 20, '7': 20, '8': 20, '9': 20, '11': 4, '434': 3, '436': 75, '451': 'Check', '452': 'Recoil Settings'} || {'5': 20, '6': 20, '7': 20, '8': 20, '9': 20, '11': 4, '434': 3, '436': 75, '451': 'Check', '452': 'Recoil Settings'<span style="color: #6bc71f">, '2257': 4349</span>}
+|-
+| rowspan="2" | [[Celestial ring]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#25541 25541][https://abextm.github.io/cache2/#/viewer/item/25541 (1)]
+|-
+| params || {'148': 1, '295': 1, '451': 'Check'} || {'148': 1, '295': 1, '451': 'Check'<span style="color: #6bc71f">, '2257': 4345</span>}
+|-
+| rowspan="2" | [[Celestial signet]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#25545 25545][https://abextm.github.io/cache2/#/viewer/item/25545 (1)]
+|-
+| params || {'148': 1, '295': 1, '451': 'Check'} || {'148': 1, '295': 1, '451': 'Check'<span style="color: #6bc71f">, '2257': 4345</span>}
+|-
+| rowspan="2" | [[Tome of water]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#25574 25574][https://abextm.github.io/cache2/#/viewer/item/25574 (1)]
+|-
+| params || {'3': 8, '8': 8, '295': 1, '434': 6, '436': 50, '451': 'Check', '452': 'Pages', '1564': 5} || {'3': 8, '8': 8, '295': 1, '434': 6, '436': 50, '451': 'Check', '452': 'Pages', '1564': 5<span style="color: #6bc71f">, '2257': 4357</span>}
+|-
+| rowspan="2" | [[Holy sanguinesti staff]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#25731 25731][https://abextm.github.io/cache2/#/viewer/item/25731 (1)]
+|-
+| params || {'3': 25, '4': -4, '5': 2, '6': 3, '7': 1, '8': 15, '13': 7, '14': 4, '40': 1, '451': 'Check'} || {'3': 25, '4': -4, '5': 2, '6': 3, '7': 1, '8': 15, '13': 7, '14': 4, '40': 1, '451': 'Check'<span style="color: #6bc71f">, '2257': 4348</span>}
+|-
+| rowspan="2" | [[Ash sanctifier]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#25781 25781][https://abextm.github.io/cache2/#/viewer/item/25781 (1)]
+|-
+| params || {'295': 1} || {'295': 1<span style="color: #6bc71f">, '2257': 4342</span>}
+|-
+| rowspan="2" | [[Bow of faerdhinen]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#25865 25865][https://abextm.github.io/cache2/#/viewer/item/25865 (1)]
+|-
+| params || {'4': 128, '12': 106, '13': 10, '14': 5, '23': 80, '258': 20, '434': 4, '435': 16, '436': 80, '437': 70, '451': 'Check', '1562': 3, '1563': 0, '1564': 3} || {'4': 128, '12': 106, '13': 10, '14': 5, '23': 80, '258': 20, '434': 4, '435': 16, '436': 80, '437': 70, '451': 'Check', '1562': 3, '1563': 0, '1564': 3<span style="color: #6bc71f">, '2257': 4335</span>}
+|-
+| rowspan="2" | [[Ring of suffering (ri)]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#26762 26762][https://abextm.github.io/cache2/#/viewer/item/26762 (1)]
+|-
+| params || {'5': 20, '6': 20, '7': 20, '8': 20, '9': 20, '11': 4, '434': 3, '436': 75, '451': 'Check', '452': 'Recoil Settings'} || {'5': 20, '6': 20, '7': 20, '8': 20, '9': 20, '11': 4, '434': 3, '436': 75, '451': 'Check', '452': 'Recoil Settings'<span style="color: #6bc71f">, '2257': 4349</span>}
+|-
+| rowspan="2" | [[Circlet of water]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#26969 26969][https://abextm.github.io/cache2/#/viewer/item/26969 (1)]
+|-
+| params || {'295': 1, '451': 'Check'} || {'295': 1, '451': 'Check'<span style="color: #6bc71f">, '2257': 4343</span>}
+|-
+| rowspan="2" | [[Tumeken's shadow]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#27275 27275][https://abextm.github.io/cache2/#/viewer/item/27275 (1)]
+|-
+| params || {'3': 35, '8': 20, '11': 1, '13': 8, '14': 5, '434': 6, '436': 85, '451': 'Check'} || {'3': 35, '8': 20, '11': 1, '13': 8, '14': 5, '434': 6, '436': 85, '451': 'Check'<span style="color: #6bc71f">, '2257': 4329</span>}
+|-
+| rowspan="2" | [[Venator bow]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#27610 27610][https://abextm.github.io/cache2/#/viewer/item/27610 (1)]
+|-
+| params || {'4': 90, '13': 6, '14': 5, '23': 80, '189': 25, '434': 4, '436': 80, '451': 'Check', '1562': 3, '1563': 80, '1564': 3} || {'4': 90, '13': 6, '14': 5, '23': 80, '189': 25, '434': 4, '436': 80, '451': 'Check', '1562': 3, '1563': 80, '1564': 3<span style="color: #6bc71f">, '2257': 4352</span>}
+|-
+| rowspan="2" | [[Webweaver bow]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#27655 27655][https://abextm.github.io/cache2/#/viewer/item/27655 (1)]
+|-
+| params || {'4': 85, '12': 65, '13': 9, '14': 4, '23': 70, '434': 4, '436': 70, '451': 'Check', '1564': 3, '1733': 'Webweaver's bow'} || {'4': 85, '12': 65, '13': 9, '14': 4, '23': 70, '434': 4, '436': 70, '451': 'Check', '1564': 3, '1733': 'Webweaver's bow'<span style="color: #6bc71f">, '2257': 4346</span>}
+|-
+| rowspan="2" | [[Ursine chainmace]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#27660 27660][https://abextm.github.io/cache2/#/viewer/item/27660 (1)]
+|-
+| params || {'0': 53, '1': -2, '2': 71, '3': 0, '4': 0, '5': 0, '6': 1, '7': 0, '8': 0, '9': 0, '10': 74, '11': 2, '13': 0, '14': 4, '23': 70, '41': 1, '434': 0, '436': 70, '451': 'Check', '1564': 3, '1733': 'Ursine chainmace'} || {'0': 53, '1': -2, '2': 71, '3': 0, '4': 0, '5': 0, '6': 1, '7': 0, '8': 0, '9': 0, '10': 74, '11': 2, '13': 0, '14': 4, '23': 70, '41': 1, '434': 0, '436': 70, '451': 'Check', '1564': 3, '1733': 'Ursine chainmace'<span style="color: #6bc71f">, '2257': 4346</span>}
+|-
+| rowspan="2" | [[Accursed sceptre]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#27665 27665][https://abextm.github.io/cache2/#/viewer/item/27665 (1)]
+|-
+| params || {'3': 22, '8': 20, '13': 7, '14': 4, '23': 70, '41': 1, '434': 6, '436': 70, '451': 'Check', '452': 'Swap', '1564': 3, '1733': 'Accursed sceptre'} || {'3': 22, '8': 20, '13': 7, '14': 4, '23': 70, '41': 1, '434': 6, '436': 70, '451': 'Check', '452': 'Swap', '1564': 3, '1733': 'Accursed sceptre'<span style="color: #6bc71f">, '2257': 4346</span>}
+|-
+| rowspan="2" | [[Accursed sceptre (a)]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#27679 27679][https://abextm.github.io/cache2/#/viewer/item/27679 (1)]
+|-
+| params || {'3': 22, '8': 20, '14': 4, '23': 70, '41': 1, '434': 6, '436': 70, '451': 'Check', '452': 'Swap', '1564': 3, '1733': 'Accursed sceptre', '1737': 1} || {'3': 22, '8': 20, '14': 4, '23': 70, '41': 1, '434': 6, '436': 70, '451': 'Check', '452': 'Swap', '1564': 3, '1733': 'Accursed sceptre', '1737': 1<span style="color: #6bc71f">, '2257': 4346</span>}
+|-
+| rowspan="2" | [[Crystal body]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#27697 27697][https://abextm.github.io/cache2/#/viewer/item/27697 (1)]
+|-
+| params || {'0': 0, '1': 0, '2': 0, '3': -18, '4': 31, '5': 46, '6': 38, '7': 48, '8': 44, '9': 68, '11': 3, '434': 1, '435': 16, '436': 70, '437': 50, '451': 'Check', '1564': 4} || {'0': 0, '1': 0, '2': 0, '3': -18, '4': 31, '5': 46, '6': 38, '7': 48, '8': 44, '9': 68, '11': 3, '434': 1, '435': 16, '436': 70, '437': 50, '451': 'Check', '1564': 4<span style="color: #6bc71f">, '2257': 4337</span>}
+|-
+| rowspan="2" | [[Crystal legs]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#27701 27701][https://abextm.github.io/cache2/#/viewer/item/27701 (1)]
+|-
+| params || {'0': 0, '1': 0, '2': 0, '3': -12, '4': 18, '5': 26, '6': 21, '7': 30, '8': 34, '9': 38, '11': 2, '434': 1, '435': 16, '436': 70, '437': 50, '451': 'Check', '1564': 7} || {'0': 0, '1': 0, '2': 0, '3': -12, '4': 18, '5': 26, '6': 21, '7': 30, '8': 34, '9': 38, '11': 2, '434': 1, '435': 16, '436': 70, '437': 50, '451': 'Check', '1564': 7<span style="color: #6bc71f">, '2257': 4337</span>}
+|-
+| rowspan="2" | [[Crystal helm]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#27705 27705][https://abextm.github.io/cache2/#/viewer/item/27705 (1)]
+|-
+| params || {'0': 0, '1': 0, '2': 0, '3': -10, '4': 9, '5': 12, '6': 8, '7': 14, '8': 10, '9': 18, '11': 2, '434': 1, '435': 16, '436': 70, '437': 50, '451': 'Check', '1564': 0} || {'0': 0, '1': 0, '2': 0, '3': -10, '4': 9, '5': 12, '6': 8, '7': 14, '8': 10, '9': 18, '11': 2, '434': 1, '435': 16, '436': 70, '437': 50, '451': 'Check', '1564': 0<span style="color: #6bc71f">, '2257': 4337</span>}
+|-
+| rowspan="2" | [[Crystal body]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#27709 27709][https://abextm.github.io/cache2/#/viewer/item/27709 (1)]
+|-
+| params || {'0': 0, '1': 0, '2': 0, '3': -18, '4': 31, '5': 46, '6': 38, '7': 48, '8': 44, '9': 68, '11': 3, '434': 1, '435': 16, '436': 70, '437': 50, '451': 'Check', '1564': 4} || {'0': 0, '1': 0, '2': 0, '3': -18, '4': 31, '5': 46, '6': 38, '7': 48, '8': 44, '9': 68, '11': 3, '434': 1, '435': 16, '436': 70, '437': 50, '451': 'Check', '1564': 4<span style="color: #6bc71f">, '2257': 4337</span>}
+|-
+| rowspan="2" | [[Crystal legs]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#27713 27713][https://abextm.github.io/cache2/#/viewer/item/27713 (1)]
+|-
+| params || {'0': 0, '1': 0, '2': 0, '3': -12, '4': 18, '5': 26, '6': 21, '7': 30, '8': 34, '9': 38, '11': 2, '434': 1, '435': 16, '436': 70, '437': 50, '451': 'Check', '1564': 7} || {'0': 0, '1': 0, '2': 0, '3': -12, '4': 18, '5': 26, '6': 21, '7': 30, '8': 34, '9': 38, '11': 2, '434': 1, '435': 16, '436': 70, '437': 50, '451': 'Check', '1564': 7<span style="color: #6bc71f">, '2257': 4337</span>}
+|-
+| rowspan="2" | [[Crystal helm]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#27717 27717][https://abextm.github.io/cache2/#/viewer/item/27717 (1)]
+|-
+| params || {'0': 0, '1': 0, '2': 0, '3': -10, '4': 9, '5': 12, '6': 8, '7': 14, '8': 10, '9': 18, '11': 2, '434': 1, '435': 16, '436': 70, '437': 50, '451': 'Check', '1564': 0} || {'0': 0, '1': 0, '2': 0, '3': -10, '4': 9, '5': 12, '6': 8, '7': 14, '8': 10, '9': 18, '11': 2, '434': 1, '435': 16, '436': 70, '437': 50, '451': 'Check', '1564': 0<span style="color: #6bc71f">, '2257': 4337</span>}
+|-
+| rowspan="2" | [[Crystal body]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#27721 27721][https://abextm.github.io/cache2/#/viewer/item/27721 (1)]
+|-
+| params || {'0': 0, '1': 0, '2': 0, '3': -18, '4': 31, '5': 46, '6': 38, '7': 48, '8': 44, '9': 68, '11': 3, '434': 1, '435': 16, '436': 70, '437': 50, '451': 'Check', '1564': 4} || {'0': 0, '1': 0, '2': 0, '3': -18, '4': 31, '5': 46, '6': 38, '7': 48, '8': 44, '9': 68, '11': 3, '434': 1, '435': 16, '436': 70, '437': 50, '451': 'Check', '1564': 4<span style="color: #6bc71f">, '2257': 4337</span>}
+|-
+| rowspan="2" | [[Crystal legs]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#27725 27725][https://abextm.github.io/cache2/#/viewer/item/27725 (1)]
+|-
+| params || {'0': 0, '1': 0, '2': 0, '3': -12, '4': 18, '5': 26, '6': 21, '7': 30, '8': 34, '9': 38, '11': 2, '434': 1, '435': 16, '436': 70, '437': 50, '451': 'Check', '1564': 7} || {'0': 0, '1': 0, '2': 0, '3': -12, '4': 18, '5': 26, '6': 21, '7': 30, '8': 34, '9': 38, '11': 2, '434': 1, '435': 16, '436': 70, '437': 50, '451': 'Check', '1564': 7<span style="color: #6bc71f">, '2257': 4337</span>}
+|-
+| rowspan="2" | [[Crystal helm]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#27729 27729][https://abextm.github.io/cache2/#/viewer/item/27729 (1)]
+|-
+| params || {'0': 0, '1': 0, '2': 0, '3': -10, '4': 9, '5': 12, '6': 8, '7': 14, '8': 10, '9': 18, '11': 2, '434': 1, '435': 16, '436': 70, '437': 50, '451': 'Check', '1564': 0} || {'0': 0, '1': 0, '2': 0, '3': -10, '4': 9, '5': 12, '6': 8, '7': 14, '8': 10, '9': 18, '11': 2, '434': 1, '435': 16, '436': 70, '437': 50, '451': 'Check', '1564': 0<span style="color: #6bc71f">, '2257': 4337</span>}
+|-
+| rowspan="2" | [[Crystal body]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#27733 27733][https://abextm.github.io/cache2/#/viewer/item/27733 (1)]
+|-
+| params || {'0': 0, '1': 0, '2': 0, '3': -18, '4': 31, '5': 46, '6': 38, '7': 48, '8': 44, '9': 68, '11': 3, '434': 1, '435': 16, '436': 70, '437': 50, '451': 'Check', '1564': 4} || {'0': 0, '1': 0, '2': 0, '3': -18, '4': 31, '5': 46, '6': 38, '7': 48, '8': 44, '9': 68, '11': 3, '434': 1, '435': 16, '436': 70, '437': 50, '451': 'Check', '1564': 4<span style="color: #6bc71f">, '2257': 4337</span>}
+|-
+| rowspan="2" | [[Crystal legs]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#27737 27737][https://abextm.github.io/cache2/#/viewer/item/27737 (1)]
+|-
+| params || {'0': 0, '1': 0, '2': 0, '3': -12, '4': 18, '5': 26, '6': 21, '7': 30, '8': 34, '9': 38, '11': 2, '434': 1, '435': 16, '436': 70, '437': 50, '451': 'Check', '1564': 7} || {'0': 0, '1': 0, '2': 0, '3': -12, '4': 18, '5': 26, '6': 21, '7': 30, '8': 34, '9': 38, '11': 2, '434': 1, '435': 16, '436': 70, '437': 50, '451': 'Check', '1564': 7<span style="color: #6bc71f">, '2257': 4337</span>}
+|-
+| rowspan="2" | [[Crystal helm]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#27741 27741][https://abextm.github.io/cache2/#/viewer/item/27741 (1)]
+|-
+| params || {'0': 0, '1': 0, '2': 0, '3': -10, '4': 9, '5': 12, '6': 8, '7': 14, '8': 10, '9': 18, '11': 2, '434': 1, '435': 16, '436': 70, '437': 50, '451': 'Check', '1564': 0} || {'0': 0, '1': 0, '2': 0, '3': -10, '4': 9, '5': 12, '6': 8, '7': 14, '8': 10, '9': 18, '11': 2, '434': 1, '435': 16, '436': 70, '437': 50, '451': 'Check', '1564': 0<span style="color: #6bc71f">, '2257': 4337</span>}
+|-
+| rowspan="2" | [[Crystal body]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#27745 27745][https://abextm.github.io/cache2/#/viewer/item/27745 (1)]
+|-
+| params || {'0': 0, '1': 0, '2': 0, '3': -18, '4': 31, '5': 46, '6': 38, '7': 48, '8': 44, '9': 68, '11': 3, '434': 1, '435': 16, '436': 70, '437': 50, '451': 'Check', '1564': 4} || {'0': 0, '1': 0, '2': 0, '3': -18, '4': 31, '5': 46, '6': 38, '7': 48, '8': 44, '9': 68, '11': 3, '434': 1, '435': 16, '436': 70, '437': 50, '451': 'Check', '1564': 4<span style="color: #6bc71f">, '2257': 4337</span>}
+|-
+| rowspan="2" | [[Crystal legs]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#27749 27749][https://abextm.github.io/cache2/#/viewer/item/27749 (1)]
+|-
+| params || {'0': 0, '1': 0, '2': 0, '3': -12, '4': 18, '5': 26, '6': 21, '7': 30, '8': 34, '9': 38, '11': 2, '434': 1, '435': 16, '436': 70, '437': 50, '451': 'Check', '1564': 7} || {'0': 0, '1': 0, '2': 0, '3': -12, '4': 18, '5': 26, '6': 21, '7': 30, '8': 34, '9': 38, '11': 2, '434': 1, '435': 16, '436': 70, '437': 50, '451': 'Check', '1564': 7<span style="color: #6bc71f">, '2257': 4337</span>}
+|-
+| rowspan="2" | [[Crystal helm]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#27753 27753][https://abextm.github.io/cache2/#/viewer/item/27753 (1)]
+|-
+| params || {'0': 0, '1': 0, '2': 0, '3': -10, '4': 9, '5': 12, '6': 8, '7': 14, '8': 10, '9': 18, '11': 2, '434': 1, '435': 16, '436': 70, '437': 50, '451': 'Check', '1564': 0} || {'0': 0, '1': 0, '2': 0, '3': -10, '4': 9, '5': 12, '6': 8, '7': 14, '8': 10, '9': 18, '11': 2, '434': 1, '435': 16, '436': 70, '437': 50, '451': 'Check', '1564': 0<span style="color: #6bc71f">, '2257': 4337</span>}
+|-
+| rowspan="2" | [[Crystal body]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#27757 27757][https://abextm.github.io/cache2/#/viewer/item/27757 (1)]
+|-
+| params || {'0': 0, '1': 0, '2': 0, '3': -18, '4': 31, '5': 46, '6': 38, '7': 48, '8': 44, '9': 68, '11': 3, '434': 1, '435': 16, '436': 70, '437': 50, '451': 'Check', '1564': 4} || {'0': 0, '1': 0, '2': 0, '3': -18, '4': 31, '5': 46, '6': 38, '7': 48, '8': 44, '9': 68, '11': 3, '434': 1, '435': 16, '436': 70, '437': 50, '451': 'Check', '1564': 4<span style="color: #6bc71f">, '2257': 4337</span>}
+|-
+| rowspan="2" | [[Crystal legs]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#27761 27761][https://abextm.github.io/cache2/#/viewer/item/27761 (1)]
+|-
+| params || {'0': 0, '1': 0, '2': 0, '3': -12, '4': 18, '5': 26, '6': 21, '7': 30, '8': 34, '9': 38, '11': 2, '434': 1, '435': 16, '436': 70, '437': 50, '451': 'Check', '1564': 7} || {'0': 0, '1': 0, '2': 0, '3': -12, '4': 18, '5': 26, '6': 21, '7': 30, '8': 34, '9': 38, '11': 2, '434': 1, '435': 16, '436': 70, '437': 50, '451': 'Check', '1564': 7<span style="color: #6bc71f">, '2257': 4337</span>}
+|-
+| rowspan="2" | [[Crystal helm]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#27765 27765][https://abextm.github.io/cache2/#/viewer/item/27765 (1)]
+|-
+| params || {'0': 0, '1': 0, '2': 0, '3': -10, '4': 9, '5': 12, '6': 8, '7': 14, '8': 10, '9': 18, '11': 2, '434': 1, '435': 16, '436': 70, '437': 50, '451': 'Check', '1564': 0} || {'0': 0, '1': 0, '2': 0, '3': -10, '4': 9, '5': 12, '6': 8, '7': 14, '8': 10, '9': 18, '11': 2, '434': 1, '435': 16, '436': 70, '437': 50, '451': 'Check', '1564': 0<span style="color: #6bc71f">, '2257': 4337</span>}
+|-
+| rowspan="2" | [[Crystal body]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#27769 27769][https://abextm.github.io/cache2/#/viewer/item/27769 (1)]
+|-
+| params || {'0': 0, '1': 0, '2': 0, '3': -18, '4': 31, '5': 46, '6': 38, '7': 48, '8': 44, '9': 68, '11': 3, '434': 1, '435': 16, '436': 70, '437': 50, '451': 'Check', '1564': 4} || {'0': 0, '1': 0, '2': 0, '3': -18, '4': 31, '5': 46, '6': 38, '7': 48, '8': 44, '9': 68, '11': 3, '434': 1, '435': 16, '436': 70, '437': 50, '451': 'Check', '1564': 4<span style="color: #6bc71f">, '2257': 4337</span>}
+|-
+| rowspan="2" | [[Crystal legs]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#27773 27773][https://abextm.github.io/cache2/#/viewer/item/27773 (1)]
+|-
+| params || {'0': 0, '1': 0, '2': 0, '3': -12, '4': 18, '5': 26, '6': 21, '7': 30, '8': 34, '9': 38, '11': 2, '434': 1, '435': 16, '436': 70, '437': 50, '451': 'Check', '1564': 7} || {'0': 0, '1': 0, '2': 0, '3': -12, '4': 18, '5': 26, '6': 21, '7': 30, '8': 34, '9': 38, '11': 2, '434': 1, '435': 16, '436': 70, '437': 50, '451': 'Check', '1564': 7<span style="color: #6bc71f">, '2257': 4337</span>}
+|-
+| rowspan="2" | [[Crystal helm]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#27777 27777][https://abextm.github.io/cache2/#/viewer/item/27777 (1)]
+|-
+| params || {'0': 0, '1': 0, '2': 0, '3': -10, '4': 9, '5': 12, '6': 8, '7': 14, '8': 10, '9': 18, '11': 2, '434': 1, '435': 16, '436': 70, '437': 50, '451': 'Check', '1564': 0} || {'0': 0, '1': 0, '2': 0, '3': -10, '4': 9, '5': 12, '6': 8, '7': 14, '8': 10, '9': 18, '11': 2, '434': 1, '435': 16, '436': 70, '437': 50, '451': 'Check', '1564': 0<span style="color: #6bc71f">, '2257': 4337</span>}
+|-
+| rowspan="2" | [[Thammaron's sceptre (a)]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#27788 27788][https://abextm.github.io/cache2/#/viewer/item/27788 (1)]
+|-
+| params || {'3': 15, '8': 20, '14': 4, '23': 60, '41': 1, '434': 6, '436': 60, '451': 'Check', '452': 'Swap', '1564': 3, '1737': 1} || {'3': 15, '8': 20, '14': 4, '23': 60, '41': 1, '434': 6, '436': 60, '451': 'Check', '452': 'Swap', '1564': 3, '1737': 1<span style="color: #6bc71f">, '2257': 4346</span>}
+|-
+| rowspan="2" | [[Crystal felling axe]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#28220 28220][https://abextm.github.io/cache2/#/viewer/item/28220 (1)]
+|-
+| params || {'0': -3, '1': 60, '2': 51, '6': 1, '10': 67, '14': 7, '23': 71, '258': 35, '451': 'Check'} || {'0': -3, '1': 60, '2': 51, '6': 1, '10': 67, '14': 7, '23': 71, '258': 35, '451': 'Check'<span style="color: #6bc71f">, '2257': 4338</span>}
+|-
+| rowspan="3" | [[Ring of shadows]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/item_id.html#28327 28327][https://abextm.github.io/cache2/#/viewer/item/28327 (1)]
+|-
+| subops || [null, [The Ancient Vault, Ghorrock Dungeon, The Scar, Lassar Undercity, The Stranglewood]] || [null, [The Ancient Vault, Ghorrock Dungeon, The Scar, Lassar Undercity, The Stranglewood]]
+|-
+| params || {'0': 4, '1': 4, '2': 4, '3': 5, '4': 4, '5': 0, '6': 0, '7': 0, '8': 5, '9': 0, '10': 2, '11': 2, '148': 1, '451': 'Ancient Vault', '452': 'Ghorrock Dungeon', '453': 'The Scar', '454': 'Lassar Undercity', '455': 'The Stranglewood', '456': 'Check', '2226': 5} || {'0': 4, '1': 4, '2': 4, '3': 5, '4': 4, '5': 0, '6': 0, '7': 0, '8': 5, '9': 0, '10': 2, '11': 2, '148': 1, '451': 'Ancient Vault', '452': 'Ghorrock Dungeon', '453': 'The Scar', '454': 'Lassar Undercity', '455': 'The Stranglewood', '456': 'Check', '2226': 5<span style="color: #6bc71f">, '2257': 4351</span>}
+|-
+| rowspan="2" | [[Corrupted tumeken's shadow]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#28547 28547][https://abextm.github.io/cache2/#/viewer/item/28547 (1)]
+|-
+| params || {'3': 35, '8': 20, '11': 1, '13': 8, '14': 5, '434': 6, '436': 75, '451': 'Check', '568': 3} || {'3': 35, '8': 20, '11': 1, '13': 8, '14': 5, '434': 6, '436': 75, '451': 'Check', '568': 3<span style="color: #6bc71f">, '2257': 4329</span>}
+|-
+| rowspan="2" | [[Warped sceptre]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#28585 28585][https://abextm.github.io/cache2/#/viewer/item/28585 (1)]
+|-
+| params || {'3': 12, '5': 2, '6': 3, '7': 1, '8': 12, '13': 7, '14': 4, '434': 6, '436': 62, '451': 'Check'} || {'3': 12, '5': 2, '6': 3, '7': 1, '8': 12, '13': 7, '14': 4, '434': 6, '436': 62, '451': 'Check'<span style="color: #6bc71f">, '2257': 4328</span>}
+|-
+| rowspan="2" | [[Blazing blowpipe]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#28688 28688][https://abextm.github.io/cache2/#/viewer/item/28688 (1)]
+|-
+| params || {'4': 30, '12': 20, '13': 5, '14': 3, '434': 4, '436': 75, '451': 'Check', '1564': 3} || {'4': 30, '12': 20, '13': 5, '14': 3, '434': 4, '436': 75, '451': 'Check', '1564': 3<span style="color: #6bc71f">, '2257': 4332</span>}
+|-
+| rowspan="2" | [[Tonalztics of ralos]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#28922 28922][https://abextm.github.io/cache2/#/viewer/item/28922 (1)]
+|-
+| params || {'4': 115, '11': 2, '12': 55, '13': 5, '14': 7, '23': 75, '295': 1, '434': 4, '436': 75, '451': 'Check', '1564': 3} || {'4': 115, '11': 2, '12': 55, '13': 5, '14': 7, '23': 75, '295': 1, '434': 4, '436': 75, '451': 'Check', '1564': 3<span style="color: #6bc71f">, '2257': 4353</span>}
+|-
+| rowspan="2" | [[Echo boots]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#28945 28945][https://abextm.github.io/cache2/#/viewer/item/28945 (1)]
+|-
+| params || {'3': -3, '4': -1, '5': 32, '6': 32, '7': 32, '8': -3, '9': 24, '10': 3, '11': 4, '258': 38, '295': 1, '434': 1, '436': 75, '451': 'Check', '452': 'Toggle-activity', '1564': 10} || {'3': -3, '4': -1, '5': 32, '6': 32, '7': 32, '8': -3, '9': 24, '10': 3, '11': 4, '258': 38, '295': 1, '434': 1, '436': 75, '451': 'Check', '452': 'Toggle-activity', '1564': 10<span style="color: #6bc71f">, '2257': 4355</span>}
+|-
+| rowspan="2" | [[Dizana's quiver]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#28951 28951][https://abextm.github.io/cache2/#/viewer/item/28951 (1)]
+|-
+| params || {'0': 0, '1': 0, '2': 0, '3': 0, '4': 18, '5': 0, '6': 0, '7': 0, '8': 0, '9': 0, '10': 0, '11': 0, '13': 0, '14': 0, '189': 3, '295': 1, '434': 4, '436': 75, '451': 'Check', '1910': 1} || {'0': 0, '1': 0, '2': 0, '3': 0, '4': 18, '5': 0, '6': 0, '7': 0, '8': 0, '9': 0, '10': 0, '11': 0, '13': 0, '14': 0, '189': 3, '295': 1, '434': 4, '436': 75, '451': 'Check', '1910': 1<span style="color: #6bc71f">, '2257': 4354</span>}
+|-
+| rowspan="2" | [[Dizana's quiver (l)]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#28953 28953][https://abextm.github.io/cache2/#/viewer/item/28953 (1)]
+|-
+| params || {'0': 0, '1': 0, '2': 0, '3': 0, '4': 18, '5': 0, '6': 0, '7': 0, '8': 0, '9': 0, '10': 0, '11': 0, '13': 0, '14': 0, '189': 3, '295': 1, '434': 4, '436': 75, '451': 'Check', '1910': 1} || {'0': 0, '1': 0, '2': 0, '3': 0, '4': 18, '5': 0, '6': 0, '7': 0, '8': 0, '9': 0, '10': 0, '11': 0, '13': 0, '14': 0, '189': 3, '295': 1, '434': 4, '436': 75, '451': 'Check', '1910': 1<span style="color: #6bc71f">, '2257': 4354</span>}
+|-
+| rowspan="2" | [[Tome of earth]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#30064 30064][https://abextm.github.io/cache2/#/viewer/item/30064 (1)]
+|-
+| params || {'3': 8, '8': 8, '434': 6, '436': 50, '451': 'Check', '452': 'Pages', '1564': 5} || {'3': 8, '8': 8, '434': 6, '436': 50, '451': 'Check', '452': 'Pages', '1564': 5<span style="color: #6bc71f">, '2257': 4360</span>}
+|-
+| rowspan="2" | [[Echo ahrim's staff 100]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#30570 30570][https://abextm.github.io/cache2/#/viewer/item/30570 (1)]
+|-
+| placeholderLinkedItem || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">30672</span>
+|-
+| rowspan="2" | [[Echo ahrim's staff 75]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#30571 30571][https://abextm.github.io/cache2/#/viewer/item/30571 (1)]
+|-
+| placeholderLinkedItem || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">30673</span>
+|-
+| rowspan="2" | [[Echo ahrim's staff 50]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#30572 30572][https://abextm.github.io/cache2/#/viewer/item/30572 (1)]
+|-
+| placeholderLinkedItem || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">30674</span>
+|-
+| rowspan="2" | [[Echo ahrim's staff 25]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#30573 30573][https://abextm.github.io/cache2/#/viewer/item/30573 (1)]
+|-
+| placeholderLinkedItem || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">30675</span>
+|}
+==Params==
+===New Params===
+{| class="wikitable sortable"
+|-
+! colspan="5" | New Params
+|-
+! style="width: 15em" | id !! type !! defaultInt !! defaultString !! isMembers
+|-
+| [https://chisel.weirdgloop.org/structs/index.html?type=enums&id=2257 2257][https://abextm.github.io/cache2/#/viewer/enum/2257 (1)] || 208 || -1 ||  || true
+|-
+| [https://chisel.weirdgloop.org/structs/index.html?type=enums&id=2258 2258][https://abextm.github.io/cache2/#/viewer/enum/2258 (1)] || 208 || -1 ||  || true
+|}
+===Removed Params===
+{| class="wikitable sortable"
+|-
+! colspan="5" | Removed Params
+|-
+! style="width: 15em" | id !! type !! defaultInt !! defaultString !! isMembers
+|}
+===Diff Params===
+{| class="wikitable sortable sticky-header"
+|-
+! colspan="5" | Diff Params
+|-
+! style="width: 15em" | Id !! Key !! Previous Value !! New Value
+|}
+==Database Rows==
+===New Database Rows===
+{| class="wikitable sortable"
+|-
+! colspan="3" | New Database Rows
+|-
+! style="width: 15em" | id !! table !! values
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4326 4326] || 87 || 
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4327 4327] || 87 || 
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4328 4328] || 87 || 
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4329 4329] || 87 || 
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4330 4330] || 87 || 
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4331 4331] || 87 || 
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4332 4332] || 87 || 
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4333 4333] || 87 || 
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4334 4334] || 87 || 
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4335 4335] || 87 || 
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4336 4336] || 87 || 
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4337 4337] || 87 || 
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4338 4338] || 87 || 
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4339 4339] || 87 || 
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4340 4340] || 87 || 
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4341 4341] || 87 || 
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4342 4342] || 87 || 
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4343 4343] || 87 || 
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4344 4344] || 87 || 
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4345 4345] || 87 || 
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4346 4346] || 87 || 
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4347 4347] || 87 || 
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4348 4348] || 87 || 
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4349 4349] || 87 || 
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4350 4350] || 87 || 
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4351 4351] || 87 || 
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4352 4352] || 87 || 
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4353 4353] || 87 || 
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4354 4354] || 87 || 
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4355 4355] || 87 || 
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4356 4356] || 87 || 
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4357 4357] || 87 || 
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4358 4358] || 87 || 
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4359 4359] || 87 || 
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4360 4360] || 87 || 
+|}
+===Removed Database Rows===
+{| class="wikitable sortable"
+|-
+! colspan="3" | Removed Database Rows
+|-
+! style="width: 15em" | id !! table !! values
+|}
+===Diff Database Rows===
+{| class="wikitable sortable sticky-header"
+|-
+! colspan="5" | Diff Database Rows
+|-
+! style="width: 15em" | Id !! Key !! Previous Value !! New Value
+|}

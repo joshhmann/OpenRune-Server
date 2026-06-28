@@ -11,9 +11,7 @@ import org.rsmod.game.entity.Player
 import org.rsmod.game.type.getOrNull
 
 @Singleton
-public class MagicSpellbookManager
-@Inject
-constructor(private val autocast: AutocastWeapons) {
+public class MagicSpellbookManager @Inject constructor(private val autocast: AutocastWeapons) {
     private var Player.spellbook by enumVarBit<Spellbook>("varbit.spellbook")
     private var Player.autocastEnabled by boolVarBit("varbit.autocast_set")
     private var Player.autocastSpell by intVarBit("varbit.autocast_spell")
@@ -43,10 +41,8 @@ constructor(private val autocast: AutocastWeapons) {
     }
 
     public sealed class ChangeResult {
-        public data class Changed(
-            public val previous: Spellbook,
-            public val current: Spellbook,
-        ) : ChangeResult()
+        public data class Changed(public val previous: Spellbook, public val current: Spellbook) :
+            ChangeResult()
 
         public data class Unchanged(public val current: Spellbook) : ChangeResult()
     }

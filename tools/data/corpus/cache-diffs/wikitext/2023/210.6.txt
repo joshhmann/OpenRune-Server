@@ -1,0 +1,136 @@
+{{ToC}}
+==Items==
+===New Items===
+{| class="wikitable sortable"
+!colspan='11'|New Items
+|-
+! style=width:15em | Name !! ID !! Members !! Tradeable in GE !! Equipable !! Stackable !! Noteable !! Options !! Placeholder !! Cost !! Weight
+|-
+|-
+|}
+===Removed Items===
+{| class="wikitable sortable"
+!colspan='2'|Removed Items
+|-
+! style=width:15em | Name !! ID
+|-
+|-
+|}
+===Diff Items===
+{| class="wikitable sortable"
+!colspan='5'|Diff Items
+|-
+! style=width:15em | Name !! ID !! Key !! Previous Value !! New Value
+|-
+|rowspan="2"|[[Morytania legs 2]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#13113 13113]
+|-
+|params || {'451': 'Ectofuntus Pit'} || {'258': 43, '451': 'Ectofuntus Pit'}
+|-
+|rowspan="2"|[[Morytania legs 3]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#13114 13114]
+|-
+|params || {'452': 'Burgh de Rott', '451': 'Ectofuntus Pit'} || {'452': 'Burgh de Rott', '258': 43, '451': 'Ectofuntus Pit'}
+|-
+|rowspan="2"|[[Morytania legs 4]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#13115 13115]
+|-
+|params || {'452': 'Burgh de Rott', '451': 'Ectofuntus Pit'} || {'452': 'Burgh de Rott', '258': 43, '451': 'Ectofuntus Pit'}
+|-
+|rowspan="2"|[[Thammaron's sceptre (u)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#22552 22552]
+|-
+|params || {'41': 1, '23': 60} || {'1733': "Thammaron's Sceptre (u)", '41': 1, '23': 60}
+|-
+|rowspan="2"|[[Thammaron's sceptre]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#22555 22555]
+|-
+|params || {'41': 1, '434': 6, '451': 'Check', '1564': 3, '436': 60, '23': 60} || {'434': 6, '451': 'Check', '436': 60, '1733': "Thammaron's Sceptre", '23': 60, '41': 1, '1564': 3}
+|-
+|}
+
+==Non-Player Characters==
+===New NPCs===
+{| class="wikitable sortable"
+!colspan='4'|New NPCs
+|-
+! style=width:15em | Name !! ID !! Combat Level !! Options
+|-
+|-
+|}
+===Removed NPCs===
+{| class="wikitable sortable"
+!colspan='2'|Removed NPCs
+|-
+! style=width:15em | Name !! ID
+|-
+|-
+|}
+===Diff NPCs===
+{| class="wikitable sortable"
+!colspan='5'|Diff NPCs
+|-
+! style=width:15em | Name !! ID !! Key !! Previous Value !! New Value
+|-
+|rowspan="2"|[[Dead swamp snake]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#5619 5619]
+|-
+|walkingAnimation || -1 || 3738
+|-
+|rowspan="2"|[[Dead swamp snake]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#5620 5620]
+|-
+|walkingAnimation || -1 || 3738
+|-
+|rowspan="2"|[[Dead swamp snake]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#5621 5621]
+|-
+|walkingAnimation || -1 || 3738
+|-
+|rowspan="3"|[[Artio]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/npc_id.html#11992 11992]
+|-
+|widthScale || 48 || 38
+|-
+| heightScale || 48 || 38
+|-
+|}
+
+==Objects==
+===New Objects=== 
+{| class="wikitable sortable"
+!colspan='3'|New Objects
+|-
+! style=width:15em | Name !! ID !! Options
+|-
+|-
+|}
+===Removed Objects===
+{| class="wikitable sortable"
+!colspan='2'|Removed Objects
+|-
+! style=width:15em | Name !! ID
+|-
+|-
+|}
+===Diff Objects===
+{| class="wikitable sortable"
+!colspan='5'|Diff Objects
+|-
+! style=width:15em | Name !! ID !! Key !! Previous Value !! New Value
+|-
+|rowspan="3"|[[Armour stand]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#10817 10817]
+|-
+|interactType || 2 || 1
+|-
+| objectModels || [12561] || [47426]
+|-
+|rowspan="3"|[[<col=ffff00>Zanik</col>]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#23284 23284]
+|-
+|name || [[Zanik]] || [[<col=ffff00>Zanik</col>]]
+|-
+| mapSceneID || -1 || 82
+|-
+|}

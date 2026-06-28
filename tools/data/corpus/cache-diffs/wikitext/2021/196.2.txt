@@ -1,0 +1,45 @@
+{{ToC}}
+==Items==
+{| class="wikitable sortable"
+!colspan='5'|Items
+|-
+! Name !! ID !! Key !! Previous Value !! Changed into
+|-
+|}
+
+==Non-Player Characters==
+{| class="wikitable sortable"
+!colspan='5'|Non-Player Characters
+|-
+! Name !! ID !! Key !! Previous Value !! Changed into
+|-
+| [[Stray dog]] || 10760 || colspan = "4" | New ID
+|-
+|}
+
+==Objects==
+{| class="wikitable sortable"
+!colspan='5'|Objects
+|-
+! Name !! ID !! Key !! Previous Value !! Changed into
+|-
+|rowspan="2"|[[Oven]]
+|rowspan="2"|7421
+|-
+|blockingMask || 0 || 13
+|-
+|rowspan="3"|[[Bush]]
+|rowspan="3"|41610
+|-
+|name || [[null]] || [[Bush]]
+|-
+| wallOrDoor || 0 || 1
+|-
+|rowspan="3"|[[Bush]]
+|rowspan="3"|41611
+|-
+|name || [[null]] || [[Bush]]
+|-
+| wallOrDoor || 0 || 1
+|-
+|}

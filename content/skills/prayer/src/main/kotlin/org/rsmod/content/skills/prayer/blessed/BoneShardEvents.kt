@@ -19,10 +19,11 @@ import org.rsmod.plugin.scripts.ScriptContext
 class BoneShardEvents : PluginScript() {
 
     private val rows = PrayerBlessedBoneRow.all()
-    private val wines = mapOf(
-        "obj.jug_wine" to "obj.jug_wine_blessed",
-        "obj.jug_sunfire_wine" to "obj.jug_sunfire_wine_blessed",
-    )
+    private val wines =
+        mapOf(
+            "obj.jug_wine" to "obj.jug_wine_blessed",
+            "obj.jug_sunfire_wine" to "obj.jug_sunfire_wine_blessed",
+        )
 
     override fun ScriptContext.startup() {
 
@@ -33,13 +34,10 @@ class BoneShardEvents : PluginScript() {
         }
 
         wines.forEach { (wine, blessedWine) ->
-            onOpLocU("loc.varlamore_prayer_activity_altar", wine) {
-                blessWine(wine, blessedWine)
-            }
+            onOpLocU("loc.varlamore_prayer_activity_altar", wine) { blessWine(wine, blessedWine) }
         }
 
         onOpLoc1("loc.varlamore_prayer_activity_altar") {
-
             val availableBones = rows.filter { inv.contains(it.input.internalName) }
 
             val availableWines = wines.filterKeys(inv::contains)
@@ -59,20 +57,24 @@ class BoneShardEvents : PluginScript() {
                 }
             }
 
-            openSkillMulti(SkillMultiConfig(
-                verb = "bless",
-                entries = buildList {
-                    addAll(availableBones.map { SkillMultiEntry(it.input.internalName) })
-                    addAll(availableWines.keys.map(::SkillMultiEntry))
-                }),
+            openSkillMulti(
+                SkillMultiConfig(
+                    verb = "bless",
+                    entries =
+                        buildList {
+                            addAll(availableBones.map { SkillMultiEntry(it.input.internalName) })
+                            addAll(availableWines.keys.map(::SkillMultiEntry))
+                        },
+                )
             ) { selection ->
-
                 val selected = selection.entry.item.internalName
 
-                availableBones.firstOrNull { it.input.internalName == selected }?.let { row ->
-                    blessBones(row, selection.amount)
-                    return@openSkillMulti
-                }
+                availableBones
+                    .firstOrNull { it.input.internalName == selected }
+                    ?.let { row ->
+                        blessBones(row, selection.amount)
+                        return@openSkillMulti
+                    }
 
                 availableWines[selected]?.let { blessedWine ->
                     blessWine(selected, blessedWine, selection.amount)
@@ -81,9 +83,7 @@ class BoneShardEvents : PluginScript() {
         }
 
         onPlayerQueueWithArgs("queue.prayer_break_down_bone") { queue ->
-            rows.firstOrNull { it.output == queue.args }?.let { row ->
-                breakDownBone(row)
-            }
+            rows.firstOrNull { it.output == queue.args }?.let { row -> breakDownBone(row) }
         }
     }
 
@@ -95,17 +95,22 @@ class BoneShardEvents : PluginScript() {
 
         player.anim("seq.human_cutting")
 
-        if (invDel(inv, row.output.internalName, 1).success && invAdd(inv, "obj.blessed_bone_shard", row.shardCount,).success) {
+        if (
+            invDel(inv, row.output.internalName, 1).success &&
+                invAdd(inv, "obj.blessed_bone_shard", row.shardCount).success
+        ) {
             statAdvance("stat.crafting", 5.0)
         }
 
         if (inv.contains(row.output.internalName)) {
             weakQueue("queue.prayer_break_down_bone", 4, row.output)
         }
-
     }
 
-    private fun ProtectedAccess.blessBones(row: PrayerBlessedBoneRow, amount: Int = inv.count(row.input.internalName)) {
+    private fun ProtectedAccess.blessBones(
+        row: PrayerBlessedBoneRow,
+        amount: Int = inv.count(row.input.internalName),
+    ) {
         player.anim("seq.human_openchest")
         player.soundSynth(2738)
 
@@ -114,25 +119,24 @@ class BoneShardEvents : PluginScript() {
         val targets = inv.objs.count { it.isType(row.input) }
         val toConvert = minOf(amount, targets)
 
-        repeat(toConvert) {
-            invReplace(inv, row.input.internalName, 1, blessedName)
-        }
+        repeat(toConvert) { invReplace(inv, row.input.internalName, 1, blessedName) }
 
         mes("You bless $toConvert bone${if (toConvert == 1) "" else "s"} on the altar.")
     }
 
-    private fun ProtectedAccess.blessWine(wine: String, blessedWine: String, amount: Int = inv.count(wine), ) {
+    private fun ProtectedAccess.blessWine(
+        wine: String,
+        blessedWine: String,
+        amount: Int = inv.count(wine),
+    ) {
 
         player.anim("seq.human_openchest")
         player.soundSynth(2738)
 
         val toConvert = minOf(amount, inv.count(wine))
 
-        repeat(toConvert) {
-            invReplace(inv, wine, 1, blessedWine)
-        }
+        repeat(toConvert) { invReplace(inv, wine, 1, blessedWine) }
 
         mes("You bless $toConvert jug${if (toConvert == 1) "" else "s"} of wine on the altar.")
     }
-
 }

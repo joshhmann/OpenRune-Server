@@ -1,0 +1,89 @@
+{| class="wikitable sortable"
+!colspan="5"|Items
+|-
+! Name !! ID !! Key !! Previous Value !! Changed into
+|-
+|rowspan="2"|[[Annakarl teleport]]
+|rowspan="2"|12775
+|-
+|interfaceOptions || [None, None, None, 'Break', 'Drop'] || ['Break', None, None, 'Configure', 'Drop']
+|-
+|rowspan="2"|[[Carrallangar teleport]]
+|rowspan="2"|12776
+|-
+|interfaceOptions || [None, None, None, 'Break', 'Drop'] || ['Break', None, None, 'Configure', 'Drop']
+|-
+|rowspan="2"|[[Dareeyak teleport]]
+|rowspan="2"|12777
+|-
+|interfaceOptions || [None, None, None, 'Break', 'Drop'] || ['Break', None, None, 'Configure', 'Drop']
+|-
+|rowspan="2"|[[Ghorrock teleport]]
+|rowspan="2"|12778
+|-
+|interfaceOptions || [None, None, None, 'Break', 'Drop'] || ['Break', None, None, 'Configure', 'Drop']
+|-
+|rowspan="2"|[[Cemetery teleport]]
+|rowspan="2"|19627
+|-
+|interfaceOptions || [None, None, None, 'Break', 'Drop'] || ['Break', None, None, 'Configure', 'Drop']
+|-
+|rowspan="2"|[[Moonclan teleport]]
+|rowspan="2"|24949
+|-
+|isTradeable || False || True
+|-
+|rowspan="2"|[[Ourania teleport]]
+|rowspan="2"|24951
+|-
+|isTradeable || False || True
+|-
+|rowspan="2"|[[Waterbirth teleport]]
+|rowspan="2"|24953
+|-
+|isTradeable || False || True
+|-
+|rowspan="2"|[[Barbarian teleport]]
+|rowspan="2"|24955
+|-
+|isTradeable || False || True
+|-
+|rowspan="2"|[[Khazard teleport]]
+|rowspan="2"|24957
+|-
+|isTradeable || False || True
+|-
+|rowspan="2"|[[Fishing guild teleport]]
+|rowspan="2"|24959
+|-
+|isTradeable || False || True
+|-
+|rowspan="2"|[[Catherby teleport]]
+|rowspan="2"|24961
+|-
+|isTradeable || False || True
+|-
+|rowspan="3"|[[Ice plateau teleport]]
+|rowspan="3"|24963
+|-
+|isTradeable || False || True
+|-
+| interfaceOptions || [None, None, None, 'Break', 'Drop'] || ['Break', None, None, 'Configure', 'Drop']
+|-
+|}
+
+{| class="wikitable sortable"
+!colspan="5"|Non-Player Characters
+|-
+! Name !! ID !! Key !! Previous Value !! Changed into
+|-
+|}
+
+{| class="wikitable sortable"
+!colspan="5"|Objects
+|-
+! Name !! ID !! Key !! Previous Value !! Changed into
+|-
+| [[null]] || 20846 || colspan = "4" | New ID
+|-
+|}

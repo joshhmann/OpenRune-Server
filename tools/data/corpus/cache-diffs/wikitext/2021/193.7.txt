@@ -1,0 +1,458 @@
+{| class="wikitable sortable"
+!colspan="5"|Items
+|-
+! Name !! ID !! Key !! Previous Value !! Changed into
+|-
+| [[Cursed banana]] || 25500 || NEW ID || NEW ID || NEW ID
+|-
+| [[null]] || 25501 || NEW ID || NEW ID || NEW ID
+|-
+| [[Banana cape]] || 25502 || NEW ID || NEW ID || NEW ID
+|-
+| [[null]] || 25503 || NEW ID || NEW ID || NEW ID
+|-
+| [[List of monkey sightings]] || 25504 || NEW ID || NEW ID || NEW ID
+|-
+| [[Premium banana]] || 25505 || NEW ID || NEW ID || NEW ID
+|-
+| [[Bamboo]] || 25506 || NEW ID || NEW ID || NEW ID
+|-
+| [[Monkey cage]] || 25507 || NEW ID || NEW ID || NEW ID
+|-
+| [[Donie's caged monkey]] || 25508 || NEW ID || NEW ID || NEW ID
+|-
+| [[Bob's caged monkey]] || 25509 || NEW ID || NEW ID || NEW ID
+|-
+| [[Aereck's caged monkey]] || 25510 || NEW ID || NEW ID || NEW ID
+|-
+| [[Cow's caged monkey]] || 25511 || NEW ID || NEW ID || NEW ID
+|-
+| [[Unicorn's caged monkey]] || 25512 || NEW ID || NEW ID || NEW ID
+|-
+| [[Sheep's caged monkey]] || 25513 || NEW ID || NEW ID || NEW ID
+|-
+| [[Unicorn horn]] || 25514 || NEW ID || NEW ID || NEW ID
+|-
+|}
+
+{| class="wikitable sortable"
+!colspan="5"|Non-Player Characters
+|-
+! Name !! ID !! Key !! Previous Value !! Changed into
+|-
+| [[Donie]] || 10562 || NEW ID || NEW ID || NEW ID
+|-
+| [[Donie]] || 10563 || NEW ID || NEW ID || NEW ID
+|-
+| [[Father Aereck]] || 10565 || NEW ID || NEW ID || NEW ID
+|-
+| [[Father Aereck]] || 10568 || NEW ID || NEW ID || NEW ID
+|-
+| [[Duke Horacio]] || 10569 || NEW ID || NEW ID || NEW ID
+|-
+| [[Awowogei]] || 10570 || NEW ID || NEW ID || NEW ID
+|-
+| [[Zeke]] || 10571 || NEW ID || NEW ID || NEW ID
+|-
+| [[Eluned]] || 10572 || NEW ID || NEW ID || NEW ID
+|-
+| [[Mofina]] || 10573 || NEW ID || NEW ID || NEW ID
+|-
+| [[Bob]] || 10574 || NEW ID || NEW ID || NEW ID
+|-
+| [[Father Aereck]] || 10575 || NEW ID || NEW ID || NEW ID
+|-
+| [[Donie]] || 10576 || NEW ID || NEW ID || NEW ID
+|-
+| [[Monkey on cow]] || 10577 || NEW ID || NEW ID || NEW ID
+|-
+| [[Sheep]] || 10578 || NEW ID || NEW ID || NEW ID
+|-
+| [[Monkey on unicorn]] || 10579 || NEW ID || NEW ID || NEW ID
+|-
+| [[Bob]] || 10580 || NEW ID || NEW ID || NEW ID
+|-
+| [[Bob]] || 10581 || NEW ID || NEW ID || NEW ID
+|-
+| [[Bob]] || 10582 || NEW ID || NEW ID || NEW ID
+|-
+| [[Donie]] || 10583 || NEW ID || NEW ID || NEW ID
+|-
+| [[Donie]] || 10584 || NEW ID || NEW ID || NEW ID
+|-
+| [[Donie]] || 10585 || NEW ID || NEW ID || NEW ID
+|-
+| [[Donie]] || 10586 || NEW ID || NEW ID || NEW ID
+|-
+| [[Father Aereck]] || 10587 || NEW ID || NEW ID || NEW ID
+|-
+| [[Father Aereck]] || 10588 || NEW ID || NEW ID || NEW ID
+|-
+| [[Father Aereck]] || 10593 || NEW ID || NEW ID || NEW ID
+|-
+| [[Sheep]] || 10594 || NEW ID || NEW ID || NEW ID
+|-
+| [[Sheep]] || 10595 || NEW ID || NEW ID || NEW ID
+|-
+| [[Sheep]] || 10596 || NEW ID || NEW ID || NEW ID
+|-
+| [[Sheep]] || 10597 || NEW ID || NEW ID || NEW ID
+|-
+| [[Cow]] || 10598 || NEW ID || NEW ID || NEW ID
+|-
+| [[Monkey on cow]] || 10599 || NEW ID || NEW ID || NEW ID
+|-
+| [[Monkey on cow]] || 10600 || NEW ID || NEW ID || NEW ID
+|-
+| [[Cow]] || 10601 || NEW ID || NEW ID || NEW ID
+|-
+| [[null]] || 10602 || NEW ID || NEW ID || NEW ID
+|-
+| [[Monkey on unicorn]] || 10603 || NEW ID || NEW ID || NEW ID
+|-
+| [[Monkey on unicorn]] || 10604 || NEW ID || NEW ID || NEW ID
+|-
+| [[Monkey on unicorn]] || 10605 || NEW ID || NEW ID || NEW ID
+|-
+| [[null]] || 10606 || NEW ID || NEW ID || NEW ID
+|-
+| [[Unicorn]] || 10607 || NEW ID || NEW ID || NEW ID
+|-
+| [[Unicorn]] || 10608 || NEW ID || NEW ID || NEW ID
+|-
+| [[Unicorn1337Kilr]] || 10609 || NEW ID || NEW ID || NEW ID
+|-
+| [[Bob]] || 10610 || NEW ID || NEW ID || NEW ID
+|-
+| [[Bob]] || 10611 || NEW ID || NEW ID || NEW ID
+|-
+| [[null]] || 10612 || NEW ID || NEW ID || NEW ID
+|-
+| [[null]] || 10613 || NEW ID || NEW ID || NEW ID
+|-
+| [[null]] || 10614 || NEW ID || NEW ID || NEW ID
+|-
+| [[null]] || 10615 || NEW ID || NEW ID || NEW ID
+|-
+| [[null]] || 10616 || NEW ID || NEW ID || NEW ID
+|-
+| [[null]] || 10617 || NEW ID || NEW ID || NEW ID
+|-
+| [[null]] || 10618 || NEW ID || NEW ID || NEW ID
+|-
+| [[null]] || 10619 || NEW ID || NEW ID || NEW ID
+|-
+| [[null]] || 921 || name || [[Father Aereck]] || [[null]]
+|-
+| [[null]] || 921 || standingAnimation || 808 || 813
+|-
+| [[null]] || 921 || walkingAnimation || 819 || 1205
+|-
+| [[null]] || 921 || rotate180Animation || 820 || 1206
+|-
+| [[null]] || 921 || rotate90RightAnimation || 821 || 1207
+|-
+| [[null]] || 921 || rotate90LeftAnimation || 822 || 1208
+|-
+| [[null]] || 921 || actions || ['Talk-to', None, None, None, None] || [None, None, None, None, None]
+|-
+| [[null]] || 921 || combatLevel || 0 || 1
+|-
+| [[null]] || 921 || varbitId || -1 || 11837
+|-
+| [[null]] || 2812 || name || [[Bob]] || [[null]]
+|-
+| [[null]] || 2812 || actions || ['Talk-to', None, 'Trade', 'Repair', None] || [None, None, None, None, None]
+|-
+| [[null]] || 2812 || combatLevel || 0 || 1
+|-
+| [[null]] || 2812 || varbitId || -1 || 11836
+|-
+| [[null]] || 6817 || name || [[Donie]] || [[null]]
+|-
+| [[null]] || 6817 || standingAnimation || 813 || 808
+|-
+| [[null]] || 6817 || walkingAnimation || 1205 || 819
+|-
+| [[null]] || 6817 || rotate180Animation || 1206 || 820
+|-
+| [[null]] || 6817 || rotate90RightAnimation || 1207 || 821
+|-
+| [[null]] || 6817 || rotate90LeftAnimation || 1208 || 822
+|-
+| [[null]] || 6817 || actions || ['Talk-to', None, None, None, None] || [None, None, None, None, None]
+|-
+| [[null]] || 6817 || combatLevel || 0 || 1
+|-
+| [[null]] || 6817 || hasRenderPriority || False || True
+|-
+| [[null]] || 6817 || varbitId || -1 || 11833
+|-
+|}
+
+{| class="wikitable sortable"
+!colspan="5"|Objects
+|-
+! Name !! ID !! Key !! Previous Value !! Changed into
+|-
+| [[Crate]] || 1812 || NEW ID || NEW ID || NEW ID
+|-
+| [[Crate]] || 40723 || NEW ID || NEW ID || NEW ID
+|-
+| [[Crates]] || 40724 || NEW ID || NEW ID || NEW ID
+|-
+| [[Crates]] || 40726 || NEW ID || NEW ID || NEW ID
+|-
+| [[Barrel]] || 40727 || NEW ID || NEW ID || NEW ID
+|-
+| [[Stool]] || 40729 || NEW ID || NEW ID || NEW ID
+|-
+| [[Table]] || 40730 || NEW ID || NEW ID || NEW ID
+|-
+| [[null]] || 40741 || NEW ID || NEW ID || NEW ID
+|-
+| [[null]] || 40918 || NEW ID || NEW ID || NEW ID
+|-
+| [[null]] || 40919 || NEW ID || NEW ID || NEW ID
+|-
+| [[null]] || 40920 || NEW ID || NEW ID || NEW ID
+|-
+| [[null]] || 40921 || NEW ID || NEW ID || NEW ID
+|-
+| [[null]] || 40922 || NEW ID || NEW ID || NEW ID
+|-
+| [[null]] || 40923 || NEW ID || NEW ID || NEW ID
+|-
+| [[null]] || 40924 || NEW ID || NEW ID || NEW ID
+|-
+| [[null]] || 40929 || NEW ID || NEW ID || NEW ID
+|-
+| [[null]] || 40930 || NEW ID || NEW ID || NEW ID
+|-
+| [[null]] || 40931 || NEW ID || NEW ID || NEW ID
+|-
+| [[Old Stall]] || 40937 || NEW ID || NEW ID || NEW ID
+|-
+| [[Cart]] || 40938 || NEW ID || NEW ID || NEW ID
+|-
+| [[null]] || 40939 || NEW ID || NEW ID || NEW ID
+|-
+| [[null]] || 40940 || NEW ID || NEW ID || NEW ID
+|-
+| [[null]] || 40941 || NEW ID || NEW ID || NEW ID
+|-
+| [[Gallows]] || 40942 || NEW ID || NEW ID || NEW ID
+|-
+| [[null]] || 40943 || NEW ID || NEW ID || NEW ID
+|-
+| [[Heroic statue]] || 40944 || NEW ID || NEW ID || NEW ID
+|-
+| [[Stone table]] || 40945 || NEW ID || NEW ID || NEW ID
+|-
+| [[Rock]] || 40946 || NEW ID || NEW ID || NEW ID
+|-
+| [[Small rock]] || 40947 || NEW ID || NEW ID || NEW ID
+|-
+| [[Rock]] || 40948 || NEW ID || NEW ID || NEW ID
+|-
+| [[Furnace]] || 40949 || NEW ID || NEW ID || NEW ID
+|-
+| [[Dead tree]] || 40950 || NEW ID || NEW ID || NEW ID
+|-
+| [[Dead tree]] || 40951 || NEW ID || NEW ID || NEW ID
+|-
+| [[Roots]] || 40952 || NEW ID || NEW ID || NEW ID
+|-
+| [[Roots]] || 40953 || NEW ID || NEW ID || NEW ID
+|-
+| [[Roots]] || 40954 || NEW ID || NEW ID || NEW ID
+|-
+| [[Unicorn]] || 40955 || NEW ID || NEW ID || NEW ID
+|-
+| [[Rocks]] || 40956 || NEW ID || NEW ID || NEW ID
+|-
+| [[Rocks]] || 40957 || NEW ID || NEW ID || NEW ID
+|-
+| [[null]] || 40958 || NEW ID || NEW ID || NEW ID
+|-
+| [[Rope]] || 40959 || NEW ID || NEW ID || NEW ID
+|-
+| [[null]] || 40960 || NEW ID || NEW ID || NEW ID
+|-
+| [[null]] || 40961 || NEW ID || NEW ID || NEW ID
+|-
+| [[null]] || 40962 || NEW ID || NEW ID || NEW ID
+|-
+| [[Bamboo Monkey Trap]] || 40963 || NEW ID || NEW ID || NEW ID
+|-
+| [[Banana Barrel]] || 40964 || NEW ID || NEW ID || NEW ID
+|-
+| [[Bamboo Barrel]] || 40965 || NEW ID || NEW ID || NEW ID
+|-
+| [[<col=ffff00>Caged monkey (Bob)</col>]] || 40966 || NEW ID || NEW ID || NEW ID
+|-
+| [[<col=ffff00>Caged monkey (Donie)</col>]] || 40967 || NEW ID || NEW ID || NEW ID
+|-
+| [[<col=ffff00>Caged monkey (Aereck)</col>]] || 40968 || NEW ID || NEW ID || NEW ID
+|-
+| [[<col=ffff00>Caged monkey (Unicorn)</col>]] || 40969 || NEW ID || NEW ID || NEW ID
+|-
+| [[<col=ffff00>Caged monkey (Cow)</col>]] || 40970 || NEW ID || NEW ID || NEW ID
+|-
+| [[<col=ffff00>Caged monkey (Sheep)</col>]] || 40971 || NEW ID || NEW ID || NEW ID
+|-
+| [[Fireworks]] || 40972 || NEW ID || NEW ID || NEW ID
+|-
+| [[null]] || 40973 || NEW ID || NEW ID || NEW ID
+|-
+| [[null]] || 40974 || NEW ID || NEW ID || NEW ID
+|-
+| [[null]] || 40975 || NEW ID || NEW ID || NEW ID
+|-
+| [[null]] || 40976 || NEW ID || NEW ID || NEW ID
+|-
+| [[null]] || 40977 || NEW ID || NEW ID || NEW ID
+|-
+| [[null]] || 40978 || NEW ID || NEW ID || NEW ID
+|-
+| [[null]] || 40979 || NEW ID || NEW ID || NEW ID
+|-
+| [[null]] || 40980 || NEW ID || NEW ID || NEW ID
+|-
+| [[null]] || 40981 || NEW ID || NEW ID || NEW ID
+|-
+| [[Post]] || 40982 || NEW ID || NEW ID || NEW ID
+|-
+| [[null]] || 40983 || NEW ID || NEW ID || NEW ID
+|-
+| [[null]] || 40984 || NEW ID || NEW ID || NEW ID
+|-
+| [[null]] || 40985 || NEW ID || NEW ID || NEW ID
+|-
+| [[null]] || 40986 || NEW ID || NEW ID || NEW ID
+|-
+| [[null]] || 40987 || NEW ID || NEW ID || NEW ID
+|-
+| [[null]] || 40988 || NEW ID || NEW ID || NEW ID
+|-
+| [[null]] || 40989 || NEW ID || NEW ID || NEW ID
+|-
+| [[null]] || 40990 || NEW ID || NEW ID || NEW ID
+|-
+| [[null]] || 40991 || NEW ID || NEW ID || NEW ID
+|-
+| [[null]] || 40992 || NEW ID || NEW ID || NEW ID
+|-
+| [[null]] || 40993 || NEW ID || NEW ID || NEW ID
+|-
+| [[null]] || 40994 || NEW ID || NEW ID || NEW ID
+|-
+| [[null]] || 40995 || NEW ID || NEW ID || NEW ID
+|-
+| [[null]] || 40996 || NEW ID || NEW ID || NEW ID
+|-
+| [[null]] || 40997 || NEW ID || NEW ID || NEW ID
+|-
+| [[null]] || 40998 || NEW ID || NEW ID || NEW ID
+|-
+| [[null]] || 40999 || NEW ID || NEW ID || NEW ID
+|-
+| [[null]] || 41000 || NEW ID || NEW ID || NEW ID
+|-
+| [[null]] || 41001 || NEW ID || NEW ID || NEW ID
+|-
+| [[null]] || 41002 || NEW ID || NEW ID || NEW ID
+|-
+| [[null]] || 41003 || NEW ID || NEW ID || NEW ID
+|-
+| [[null]] || 41004 || NEW ID || NEW ID || NEW ID
+|-
+| [[null]] || 41005 || NEW ID || NEW ID || NEW ID
+|-
+| [[null]] || 41006 || NEW ID || NEW ID || NEW ID
+|-
+| [[null]] || 41007 || NEW ID || NEW ID || NEW ID
+|-
+| [[null]] || 41008 || NEW ID || NEW ID || NEW ID
+|-
+| [[null]] || 41009 || NEW ID || NEW ID || NEW ID
+|-
+| [[null]] || 41010 || NEW ID || NEW ID || NEW ID
+|-
+| [[null]] || 41011 || NEW ID || NEW ID || NEW ID
+|-
+| [[null]] || 41012 || NEW ID || NEW ID || NEW ID
+|-
+| [[Roots]] || 14698 || shadow || True || False
+|-
+| [[Roots]] || 14699 || shadow || True || False
+|-
+| [[Roots]] || 14700 || shadow || True || False
+|-
+| [[Reward chest]] || 29063 || objectModels || [1226] || [5273]
+|-
+| [[Chest]] || 29069 || ambient || 0 || 10
+|-
+| [[Chest]] || 29069 || contrast || 0 || 250
+|-
+| [[Chest]] || 29069 || mapSceneID || -1 || 90
+|-
+| [[Chest]] || 29069 || blockingMask || 14 || 11
+|-
+| [[Chest]] || 29069 || objectModels || [1249] || [40630]
+|-
+| [[Chest]] || 29070 || ambient || 0 || 10
+|-
+| [[Chest]] || 29070 || contrast || 0 || 250
+|-
+| [[Chest]] || 29070 || mapSceneID || -1 || 90
+|-
+| [[Chest]] || 29070 || blockingMask || 14 || 11
+|-
+| [[Chest]] || 29070 || objectModels || [1226] || [40615]
+|-
+| [[Chest]] || 29071 || ambient || 0 || 10
+|-
+| [[Chest]] || 29071 || contrast || 0 || 250
+|-
+| [[Chest]] || 29071 || mapSceneID || -1 || 90
+|-
+| [[Chest]] || 29071 || blockingMask || 14 || 11
+|-
+| [[Chest]] || 29071 || objectModels || [1249] || [40630]
+|-
+| [[Chest]] || 29072 || ambient || 0 || 10
+|-
+| [[Chest]] || 29072 || contrast || 0 || 250
+|-
+| [[Chest]] || 29072 || mapSceneID || -1 || 90
+|-
+| [[Chest]] || 29072 || blockingMask || 14 || 11
+|-
+| [[Chest]] || 29072 || objectModels || [1226] || [40615]
+|-
+| [[Crate]] || 29081 || animationID || -1 || 7824
+|-
+| [[Crate]] || 29081 || modelSizeX || 100 || 128
+|-
+| [[Crate]] || 29081 || modelSizeHeight || 100 || 128
+|-
+| [[Crate]] || 29081 || modelSizeY || 100 || 128
+|-
+| [[Crate]] || 29081 || objectModels || [5256] || [34593]
+|-
+| [[null]] || 37772 || blocksProjectile || True || False
+|-
+| [[null]] || 37773 || blocksProjectile || True || False
+|-
+| [[null]] || 37774 || blocksProjectile || True || False
+|-
+| [[null]] || 37775 || blocksProjectile || True || False
+|-
+| [[null]] || 39663 || blocksProjectile || True || False
+|-
+| [[null]] || 39664 || blocksProjectile || True || False
+|-
+| [[null]] || 39673 || blocksProjectile || False || True
+|-
+|}

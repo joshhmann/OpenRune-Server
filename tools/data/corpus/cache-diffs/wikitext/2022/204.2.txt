@@ -1,0 +1,253 @@
+{{ToC}}
+==Items==
+{| class="wikitable sortable"
+!colspan='13'|Items
+|-
+! Name !! ID !! Key !! Previous Value !! New Value !! Members !! Tradeable in GE !! Equipable !! Stackable !! Noteable !! Options !! Placeholder !! Cost
+|-
+|rowspan="2"|[[Stale baguette]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#20590 20590]
+|-
+|maleModel0 || 10745 || 44136
+|-
+|rowspan="8"|[[Null]]
+|rowspan="8"|[https://chisel.weirdgloop.org/moid/item_id.html#26248 26248]
+|-
+|name || [[null]] || [[Null]]
+|-
+| xan2d || 81 || 192
+|-
+| yan2d || 1872 || 104
+|-
+| inventoryModel || 32299 || 2767
+|-
+| zoom2d || 4379 || 950
+|-
+| yOffset2d || -12 || -9
+|-
+| category || 0 || 15
+|-
+|rowspan="2"|[[Abyssal needle]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26813 26813]
+|-
+|interfaceOptions || [None, None, None, None, 'Drop'] || ['Inspect', None, None, None, 'Drop']
+|-
+|rowspan="2"|[[Ring of the elements]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26818 26818]
+|-
+|interfaceOptions || [None, 'Wear', 'Rub', 'Last Destination', 'Check'] || [None, 'Wear', 'Rub', 'Last Destination', 'Uncharge']
+|-
+|rowspan="2"|[[Hat of the eye]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26850 26850]
+|-
+|cost || 500 || 400
+|-
+|rowspan="2"|[[Robe top of the eye]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26852 26852]
+|-
+|cost || 400 || 350
+|-
+|rowspan="2"|[[Robe bottoms of the eye]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26854 26854]
+|-
+|cost || 400 || 350
+|-
+|rowspan="2"|[[Boots of the eye]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26856 26856]
+|-
+|cost || 300 || 250
+|-
+|rowspan="2"|[[Hat of the eye (red)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26858 26858]
+|-
+|cost || 500 || 400
+|-
+|rowspan="2"|[[Robe top of the eye (red)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26860 26860]
+|-
+|cost || 400 || 350
+|-
+|rowspan="2"|[[Robe bottoms of the eye (red)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26862 26862]
+|-
+|cost || 400 || 350
+|-
+|rowspan="2"|[[Hat of the eye (green)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26864 26864]
+|-
+|cost || 500 || 400
+|-
+|rowspan="2"|[[Robe top of the eye (green)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26866 26866]
+|-
+|cost || 400 || 350
+|-
+|rowspan="2"|[[Robe bottoms of the eye (green)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26868 26868]
+|-
+|cost || 400 || 350
+|-
+|rowspan="2"|[[Hat of the eye (blue)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26870 26870]
+|-
+|cost || 500 || 400
+|-
+|rowspan="2"|[[Robe top of the eye (blue)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26872 26872]
+|-
+|cost || 400 || 350
+|-
+|rowspan="2"|[[Robe bottoms of the eye (blue)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26874 26874]
+|-
+|cost || 400 || 350
+|-
+|rowspan="2"|[[Guardian fragments]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26878 26878]
+|-
+|interfaceOptions || [None, None, None, None, 'Destroy'] || [None, None, None, None, 'Drop']
+|-
+|rowspan="2"|[[Guardian essence]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26879 26879]
+|-
+|interfaceOptions || [None, None, None, None, 'Destroy'] || [None, None, None, None, 'Drop']
+|-
+|rowspan="2"|[[Catalytic guardian stone]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26880 26880]
+|-
+|interfaceOptions || [None, None, None, None, 'Destroy'] || [None, None, None, None, 'Drop']
+|-
+|rowspan="2"|[[Elemental guardian stone]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26881 26881]
+|-
+|interfaceOptions || [None, None, None, None, 'Destroy'] || [None, None, None, None, 'Drop']
+|-
+|rowspan="2"|[[Uncharged cell]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26882 26882]
+|-
+|interfaceOptions || ['Inspect', None, None, None, 'Destroy'] || ['Inspect', None, None, None, 'Drop']
+|-
+|rowspan="2"|[[Weak cell]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26883 26883]
+|-
+|interfaceOptions || ['Inspect', None, None, None, 'Destroy'] || ['Inspect', None, None, None, 'Drop']
+|-
+|rowspan="2"|[[Medium cell]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26884 26884]
+|-
+|interfaceOptions || ['Inspect', None, None, None, 'Destroy'] || ['Inspect', None, None, None, 'Drop']
+|-
+|rowspan="2"|[[Strong cell]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26885 26885]
+|-
+|interfaceOptions || ['Inspect', None, None, None, 'Destroy'] || ['Inspect', None, None, None, 'Drop']
+|-
+|rowspan="2"|[[Overcharged cell]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26886 26886]
+|-
+|interfaceOptions || ['Inspect', None, None, None, 'Destroy'] || ['Inspect', None, None, None, 'Drop']
+|-
+|rowspan="2"|[[Portal talisman (air)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26887 26887]
+|-
+|interfaceOptions || [None, None, None, 'Inspect', 'Destroy'] || [None, None, None, 'Inspect', 'Drop']
+|-
+|rowspan="2"|[[Portal talisman (water)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26888 26888]
+|-
+|interfaceOptions || [None, None, None, 'Inspect', 'Destroy'] || [None, None, None, 'Inspect', 'Drop']
+|-
+|rowspan="2"|[[Portal talisman (earth)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26889 26889]
+|-
+|interfaceOptions || [None, None, None, 'Inspect', 'Destroy'] || [None, None, None, 'Inspect', 'Drop']
+|-
+|rowspan="2"|[[Portal talisman (fire)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26890 26890]
+|-
+|interfaceOptions || [None, None, None, 'Inspect', 'Destroy'] || [None, None, None, 'Inspect', 'Drop']
+|-
+|rowspan="2"|[[Portal talisman (mind)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26891 26891]
+|-
+|interfaceOptions || [None, None, None, 'Inspect', 'Destroy'] || [None, None, None, 'Inspect', 'Drop']
+|-
+|rowspan="2"|[[Portal talisman (chaos)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26892 26892]
+|-
+|interfaceOptions || [None, None, None, 'Inspect', 'Destroy'] || [None, None, None, 'Inspect', 'Drop']
+|-
+|rowspan="2"|[[Portal talisman (death)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26893 26893]
+|-
+|interfaceOptions || [None, None, None, 'Inspect', 'Destroy'] || [None, None, None, 'Inspect', 'Drop']
+|-
+|rowspan="2"|[[Portal talisman (blood)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26894 26894]
+|-
+|interfaceOptions || [None, None, None, 'Inspect', 'Destroy'] || [None, None, None, 'Inspect', 'Drop']
+|-
+|rowspan="2"|[[Portal talisman (body)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26895 26895]
+|-
+|interfaceOptions || [None, None, None, 'Inspect', 'Destroy'] || [None, None, None, 'Inspect', 'Drop']
+|-
+|rowspan="2"|[[Portal talisman (cosmic)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26896 26896]
+|-
+|interfaceOptions || [None, None, None, 'Inspect', 'Destroy'] || [None, None, None, 'Inspect', 'Drop']
+|-
+|rowspan="2"|[[Portal talisman (nature)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26897 26897]
+|-
+|interfaceOptions || [None, None, None, 'Inspect', 'Destroy'] || [None, None, None, 'Inspect', 'Drop']
+|-
+|rowspan="2"|[[Portal talisman (law)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26898 26898]
+|-
+|interfaceOptions || [None, None, None, 'Inspect', 'Destroy'] || [None, None, None, 'Inspect', 'Drop']
+|-
+|}
+
+==Non-Player Characters==
+{| class="wikitable sortable"
+!colspan='5'|Non-Player Characters
+|-
+! Name !! ID !! Key !! Previous Value !! Changed into
+|-
+|}
+
+==Objects==
+{| class="wikitable sortable"
+!colspan='5'|Objects
+|-
+! Name !! ID !! Key !! Previous Value !! Changed into
+|-
+| [[Barrier]] || [https://chisel.weirdgloop.org/moid/object_id.html#43849 43849] || colspan = "4" | New ID
+|-
+|rowspan="2"|[[Slope]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#5015 5015]
+|-
+|name || [[slope]] || [[Slope]]
+|-
+|rowspan="2"|[[Slope]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#5016 5016]
+|-
+|name || [[slope]] || [[Slope]]
+|-
+|rowspan="2"|[[Barrier]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#43700 43700]
+|-
+|actions || ['Pass', 'Peek', None, None, None] || ['Pass', 'Peek', 'Quick-pass', 'Visual-effects', None]
+|-
+|rowspan="2"|[[Rubble]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#43724 43724]
+|-
+|actions || ['Climb-down', None, None, None, None] || ['Climb', None, None, None, None]
+|-
+|rowspan="2"|[[Rubble]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#43726 43726]
+|-
+|actions || ['Climb-down', None, None, None, None] || ['Climb', None, None, None, None]
+|-
+|}

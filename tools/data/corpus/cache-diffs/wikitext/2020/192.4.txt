@@ -1,0 +1,333 @@
+{| class="wikitable sortable"
+!colspan="5"|Items
+|-
+! Name !! ID !! Key !! Previous Value !! Changed into
+|-
+| [[null]] || 25118 || colspan = "4" | New ID
+|-
+| [[null]] || 25119 || colspan = "4" | New ID
+|-
+| [[null]] || 25120 || colspan = "4" | New ID
+|-
+| [[null]] || 25121 || colspan = "4" | New ID
+|-
+| [[null]] || 25122 || colspan = "4" | New ID
+|-
+| [[null]] || 25123 || colspan = "4" | New ID
+|-
+| [[null]] || 25124 || colspan = "4" | New ID
+|-
+| [[null]] || 25125 || colspan = "4" | New ID
+|-
+| [[null]] || 25126 || colspan = "4" | New ID
+|-
+| [[null]] || 25127 || colspan = "4" | New ID
+|-
+| [[null]] || 25128 || colspan = "4" | New ID
+|-
+|rowspan="4"|[[null]]
+|rowspan="4"|9628
+|-
+|zoom2d || 2000 || 4442
+|-
+| xOffset2d || 0 || -22
+|-
+| yOffset2d || 0 || -49
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|9700
+|-
+|zoom2d || 1000 || 8295
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|11658
+|-
+|zoom2d || 2000 || 5100
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|11659
+|-
+|zoom2d || 2000 || 5100
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|11660
+|-
+|zoom2d || 2000 || 5100
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|11661
+|-
+|zoom2d || 2000 || 2300
+|-
+|rowspan="3"|[[null]]
+|rowspan="3"|11662
+|-
+|zoom2d || 2000 || 4200
+|-
+| yOffset2d || 0 || -10
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|22366
+|-
+|name || [[Cyan crystal]] || [[null]]
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|22778
+|-
+|name || [[Dark altar]] || [[null]]
+|-
+|rowspan="2"|[[Brown candy]]
+|rowspan="2"|24980
+|-
+|placeholderId || -1 || 25118
+|-
+|rowspan="2"|[[Blue candy]]
+|rowspan="2"|24981
+|-
+|placeholderId || -1 || 25119
+|-
+|rowspan="2"|[[White candy]]
+|rowspan="2"|24982
+|-
+|placeholderId || -1 || 25120
+|-
+|rowspan="2"|[[Purple candy]]
+|rowspan="2"|24983
+|-
+|placeholderId || -1 || 25121
+|-
+|rowspan="2"|[[Red candy]]
+|rowspan="2"|24984
+|-
+|placeholderId || -1 || 25122
+|-
+|rowspan="2"|[[Green candy]]
+|rowspan="2"|24985
+|-
+|placeholderId || -1 || 25123
+|-
+|rowspan="2"|[[Black candy]]
+|rowspan="2"|24986
+|-
+|placeholderId || -1 || 25124
+|-
+|rowspan="2"|[[Orange candy]]
+|rowspan="2"|24987
+|-
+|placeholderId || -1 || 25125
+|-
+|rowspan="2"|[[Pink candy]]
+|rowspan="2"|24988
+|-
+|placeholderId || -1 || 25126
+|-
+|rowspan="2"|[[Rick's box]]
+|rowspan="2"|24989
+|-
+|interfaceOptions || ['Unlock', None, None, None, 'Destroy'] || [None, None, None, None, 'Drop']
+|-
+|rowspan="2"|[[Rick's head]]
+|rowspan="2"|24990
+|-
+|interfaceOptions || ['Inspect', None, None, None, 'Destroy'] || [None, None, None, None, 'Drop']
+|-
+|rowspan="2"|[[Witch's brew]]
+|rowspan="2"|24991
+|-
+|interfaceOptions || ['Drink', None, None, None, 'Destroy'] || [None, None, None, None, 'Drop']
+|-
+|rowspan="2"|[[Spider snack]]
+|rowspan="2"|24992
+|-
+|interfaceOptions || ['Eat', None, None, None, 'Destroy'] || [None, None, None, None, 'Drop']
+|-
+|rowspan="2"|[[Incantation]]
+|rowspan="2"|24993
+|-
+|interfaceOptions || [None, None, None, None, 'Destroy'] || [None, None, None, None, 'Drop']
+|-
+|}
+
+{| class="wikitable sortable"
+!colspan="5"|Non-Player Characters
+|-
+! Name !! ID !! Key !! Previous Value !! Changed into
+|-
+| [[Rick]] || 5931 || colspan = "4" | New ID
+|-
+| [[Rick]] || 10445 || colspan = "4" | New ID
+|-
+| [[Rick]] || 10446 || colspan = "4" | New ID
+|-
+| [[Rick]] || 10447 || colspan = "4" | New ID
+|-
+| [[Eve]] || 10448 || colspan = "4" | New ID
+|-
+| [[Yeldive]] || 10450 || colspan = "4" | New ID
+|-
+| [[Yeldive]] || 10451 || colspan = "4" | New ID
+|-
+| [[Yanes]] || 10452 || colspan = "4" | New ID
+|-
+| [[Yanes]] || 10453 || colspan = "4" | New ID
+|-
+| [[Hogst]] || 10454 || colspan = "4" | New ID
+|-
+| [[Hogst]] || 10455 || colspan = "4" | New ID
+|-
+| [[Pouncer]] || 10456 || colspan = "4" | New ID
+|-
+| [[Pouncer]] || 10457 || colspan = "4" | New ID
+|-
+| [[Ghostly figure]] || 10458 || colspan = "4" | New ID
+|-
+| [[Ghostly figure]] || 10459 || colspan = "4" | New ID
+|-
+| [[Rick]] || 10461 || colspan = "4" | New ID
+|-
+| [[Rick]] || 10462 || colspan = "4" | New ID
+|-
+| [[Rick]] || 10463 || colspan = "4" | New ID
+|-
+| [[null]] || 10464 || colspan = "4" | New ID
+|-
+| [[null]] || 10465 || colspan = "4" | New ID
+|-
+| [[null]] || 10466 || colspan = "4" | New ID
+|-
+| [[null]] || 10467 || colspan = "4" | New ID
+|-
+| [[null]] || 10468 || colspan = "4" | New ID
+|-
+| [[null]] || 10469 || colspan = "4" | New ID
+|-
+| [[null]] || 10470 || colspan = "4" | New ID
+|-
+| [[null]] || 10471 || colspan = "4" | New ID
+|-
+| [[null]] || 10472 || colspan = "4" | New ID
+|-
+| [[null]] || 10473 || colspan = "4" | New ID
+|-
+|rowspan="11"|[[Phosani's Nightmare]]
+|rowspan="11"|377
+|-
+|name || [[Rick]] || [[Phosani's Nightmare]]
+|-
+| size || 1 || 5
+|-
+| standingAnimation || -1 || 8613
+|-
+| walkingAnimation || -1 || 8613
+|-
+| actions || ['Talk-to', None, None, None, None] || ['Disturb', None, None, None, None]
+|-
+| combatLevel || 0 || 1024
+|-
+| hasRenderPriority || False || True
+|-
+| ambient || 0 || 15
+|-
+| contrast || 0 || 100
+|-
+| models || [13360, 16029, 16027, 20395, 177, 20403, 181] || [39196]
+|-
+|rowspan="11"|[[The Nightmare]]
+|rowspan="11"|378
+|-
+|name || [[Rick]] || [[The Nightmare]]
+|-
+| size || 1 || 5
+|-
+| standingAnimation || -1 || 8613
+|-
+| walkingAnimation || -1 || 8613
+|-
+| actions || ['Talk-to', None, None, None, None] || ['Disturb', None, None, None, None]
+|-
+| combatLevel || 0 || 814
+|-
+| hasRenderPriority || False || True
+|-
+| ambient || 0 || 15
+|-
+| contrast || 0 || 100
+|-
+| models || [13360, 16029, 16027, 20395, 177, 20403, 181] || [39196]
+|-
+|}
+
+{| class="wikitable sortable"
+!colspan="5"|Objects
+|-
+! Name !! ID !! Key !! Previous Value !! Changed into
+|-
+| [[Wardrobe]] || 20847 || colspan = "4" | DELETED
+|-
+| [[Web]] || 20848 || colspan = "4" | DELETED
+|-
+| [[Jack-o'-Lantern]] || 20849 || colspan = "4" | DELETED
+|-
+| [[Jack-o'-Lantern]] || 20850 || colspan = "4" | DELETED
+|-
+| [[Portal to Rick's room]] || 20851 || colspan = "4" | DELETED
+|-
+| [[Portal to Wizards' Tower]] || 20852 || colspan = "4" | DELETED
+|-
+| [[null]] || 20853 || colspan = "4" | DELETED
+|-
+| [[Bonfire]] || 20854 || colspan = "4" | DELETED
+|-
+| [[Bonfire]] || 20855 || colspan = "4" | DELETED
+|-
+| [[Bonfire]] || 20856 || colspan = "4" | DELETED
+|-
+| [[Bed]] || 20858 || colspan = "4" | DELETED
+|-
+| [[null]] || 40360 || colspan = "4" | DELETED
+|-
+| [[Mushroom]] || 40361 || colspan = "4" | DELETED
+|-
+| [[Barrel of spiders]] || 40362 || colspan = "4" | DELETED
+|-
+| [[Barrel of spiders]] || 40363 || colspan = "4" | DELETED
+|-
+| [[null]] || 40364 || colspan = "4" | DELETED
+|-
+| [[Tree stump]] || 40365 || colspan = "4" | DELETED
+|-
+| [[Cauldron of brew]] || 40366 || colspan = "4" | DELETED
+|-
+| [[Cauldron of brew]] || 40367 || colspan = "4" | DELETED
+|-
+| [[null]] || 40368 || colspan = "4" | DELETED
+|-
+| [[Plant]] || 40369 || colspan = "4" | DELETED
+|-
+| [[Gramophone]] || 40370 || colspan = "4" | DELETED
+|-
+| [[Wardrobe]] || 40371 || colspan = "4" | DELETED
+|-
+| [[Wardrobe]] || 40372 || colspan = "4" | DELETED
+|-
+| [[Bookshelf]] || 40373 || colspan = "4" | DELETED
+|-
+| [[Crate]] || 40374 || colspan = "4" | DELETED
+|-
+| [[Hat stand]] || 40375 || colspan = "4" | DELETED
+|-
+| [[Portrait]] || 40376 || colspan = "4" | DELETED
+|-
+| [[Kwuarm and Peas]] || 40377 || colspan = "4" | DELETED
+|-
+| [[null]] || 40378 || colspan = "4" | DELETED
+|-
+| [[null]] || 40379 || colspan = "4" | DELETED
+|-
+| [[null]] || 40380 || colspan = "4" | DELETED
+|-
+| [[null]] || 40381 || colspan = "4" | DELETED
+|-
+| [[null]] || 40382 || colspan = "4" | DELETED
+|-
+|}

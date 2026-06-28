@@ -47,7 +47,7 @@ object ExpeditiousBracelet {
                     " It then crumbles to dust."
                 }
             }
-        player.mes("Your expeditious bracelet helps you progress your slayer task faster.$suffix",)
+        player.mes("Your expeditious bracelet helps you progress your slayer task faster.$suffix")
         return 1
     }
 

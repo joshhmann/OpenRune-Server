@@ -1,0 +1,237 @@
+{{ToC}}
+==Items==
+===New Items===
+{| class="wikitable sortable"
+!colspan='11'|New Items
+|-
+! style=width:15em | Name !! ID !! Members !! Tradeable in GE !! Equipable !! Stackable !! Noteable !! Options !! Placeholder !! Cost
+|-
+| [[Oily pearl fishing rod]] || [https://chisel.weirdgloop.org/moid/item_id.html#23122 23122] || Yes || No || Yes || No || No ||  Wield,   Drop || Yes || 80
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#23123 23123] || No || No || No || No || No ||     Drop || Yes || 1
+|-
+|-
+|}
+===Removed Items===
+{| class="wikitable sortable"
+!colspan='2'|Removed Items
+|-
+! style=width:15em | Name !! ID
+|-
+|-
+|}
+===Diff Items===
+{| class="wikitable sortable"
+!colspan='5'|Diff Items
+|-
+! style=width:15em | Name !! ID !! Key !! Previous Value !! New Value
+|-
+|rowspan="2"|[[Lamp]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#2528 2528]
+|-
+|cost || 1 || 200
+|-
+|rowspan="2"|[[Fighter torso]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#10551 10551]
+|-
+|maleModel1 || 156 || 8779
+|-
+|rowspan="3"|[[Karamja gloves 2]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/item_id.html#11138 11138]
+|-
+| colorFind ||<span style = "background-color: #212611;color:white">13716</span>,<span style = "background-color: #23291e;color:white">16536</span>,<span style = "background-color: #48542f;color:white">14637</span>,<span style = "background-color: #566637;color:white">14645</span>,<span style = "background-color: #6d8244;color:white">14658</span>,<span style = "background-color: #5c6e3a;color:white">14649</span>||<span style = "background-color: #6d8244;color:white">14658</span>,<span style = "background-color: #5c6e3a;color:white">14649</span>,<span style = "background-color: #566637;color:white">14645</span>,<span style = "background-color: #48542f;color:white">14637</span>,<span style = "background-color: #23291e;color:white">16536</span>,<span style = "background-color: #212611;color:white">13716</span>
+|-
+| colorReplace ||<span style = "background-color: #1b2805;color:white">15120</span>,<span style = "background-color: #293611;color:white">14872</span>,<span style = "background-color: #2d3918;color:white">14748</span>,<span style = "background-color: #36441c;color:white">14753</span>,<span style = "background-color: #424e2c;color:white">14633</span>,<span style = "background-color: #3a4426;color:white">14629</span>||<span style = "background-color: #aa9797;color:white">107</span>,<span style = "background-color: #9e8989;color:white">99</span>,<span style = "background-color: #917c7c;color:white">90</span>,<span style = "background-color: #7e6b6b;color:white">78</span>,<span style = "background-color: #695d5d;color:white">66</span>,<span style = "background-color: #594f4f;color:white">57</span>
+|-
+|rowspan="3"|[[Karamja gloves 3]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/item_id.html#11140 11140]
+|-
+| colorFind ||<span style = "background-color: #212611;color:white">13716</span>,<span style = "background-color: #23291e;color:white">16536</span>,<span style = "background-color: #48542f;color:white">14637</span>,<span style = "background-color: #566637;color:white">14645</span>,<span style = "background-color: #6d8244;color:white">14658</span>,<span style = "background-color: #5c6e3a;color:white">14649</span>||<span style = "background-color: #6d8244;color:white">14658</span>,<span style = "background-color: #5c6e3a;color:white">14649</span>,<span style = "background-color: #566637;color:white">14645</span>,<span style = "background-color: #48542f;color:white">14637</span>,<span style = "background-color: #23291e;color:white">16536</span>,<span style = "background-color: #212611;color:white">13716</span>
+|-
+| colorReplace ||<span style = "background-color: #090e00;color:white">15238</span>,<span style = "background-color: #0d1301;color:white">14216</span>,<span style = "background-color: #131701;color:white">13194</span>,<span style = "background-color: #1c2107;color:white">12942</span>,<span style = "background-color: #22260c;color:white">12818</span>,<span style = "background-color: #1c2107;color:white">12942</span>||<span style = "background-color: #9b9987;color:white">10337</span>,<span style = "background-color: #8f8e79;color:white">10328</span>,<span style = "background-color: #868572;color:white">10324</span>,<span style = "background-color: #787768;color:white">10316</span>,<span style = "background-color: #6d6c5e;color:white">10308</span>,<span style = "background-color: #504f48;color:white">10291</span>
+|-
+|rowspan="7"|[[Karamja gloves 4]]
+|rowspan="7"|[https://chisel.weirdgloop.org/moid/item_id.html#13103 13103]
+|-
+|xan2d || 660 || 408
+|-
+| yan2d || 0 || 150
+|-
+| inventoryModel || 29130 || 24569
+|-
+| zoom2d || 653 || 917
+|-
+| xOffset2d || -1 || 0
+|-
+| yOffset2d || 1 || -1
+|-
+|rowspan="5"|[[Seaweed spore]]
+|rowspan="5"|[https://chisel.weirdgloop.org/moid/item_id.html#21490 21490]
+|-
+|resizeX || 128 || 160
+|-
+| resizeY || 128 || 160
+|-
+| resizeZ || 128 || 160
+|-
+| colorReplace ||<span style = "background-color: #4c6f70;color:white">-32576</span>||<span style = "background-color: #61b170;color:white">23900</span>
+|-
+|rowspan="5"|[[null]]
+|rowspan="5"|[https://chisel.weirdgloop.org/moid/item_id.html#21500 21500]
+|-
+|resizeX || 128 || 160
+|-
+| resizeY || 128 || 160
+|-
+| resizeZ || 128 || 160
+|-
+| colorReplace ||<span style = "background-color: #4c6f70;color:white">-32576</span>||<span style = "background-color: #61b170;color:white">23900</span>
+|-
+|rowspan="5"|[[null]]
+|rowspan="5"|[https://chisel.weirdgloop.org/moid/item_id.html#21501 21501]
+|-
+|resizeX || 128 || 160
+|-
+| resizeY || 128 || 160
+|-
+| resizeZ || 128 || 160
+|-
+| colorReplace ||<span style = "background-color: #4c6f70;color:white">-32576</span>||<span style = "background-color: #61b170;color:white">23900</span>
+|-
+|rowspan="5"|[[null]]
+|rowspan="5"|[https://chisel.weirdgloop.org/moid/item_id.html#21502 21502]
+|-
+|resizeX || 128 || 160
+|-
+| resizeY || 128 || 160
+|-
+| resizeZ || 128 || 160
+|-
+| colorReplace ||<span style = "background-color: #4c6f70;color:white">-32576</span>||<span style = "background-color: #61b170;color:white">23900</span>
+|-
+|rowspan="5"|[[null]]
+|rowspan="5"|[https://chisel.weirdgloop.org/moid/item_id.html#21503 21503]
+|-
+|resizeX || 128 || 160
+|-
+| resizeY || 128 || 160
+|-
+| resizeZ || 128 || 160
+|-
+| colorReplace ||<span style = "background-color: #4c6f70;color:white">-32576</span>||<span style = "background-color: #61b170;color:white">23900</span>
+|-
+|}
+
+==Non-Player Characters==
+===New NPCs===
+{| class="wikitable sortable"
+!colspan='4'|New NPCs
+|-
+! style=width:15em | Name !! ID !! Combat Level !! Options
+|-
+| [[Fishing spot]] || [https://chisel.weirdgloop.org/moid/npc_id.html#6784 6784] || No Combat Level || Bait
+|-
+|-
+|}
+===Removed NPCs===
+{| class="wikitable sortable"
+!colspan='2'|Removed NPCs
+|-
+! style=width:15em | Name !! ID
+|-
+|-
+|}
+===Diff NPCs===
+{| class="wikitable sortable"
+!colspan='5'|Diff NPCs
+|-
+! style=width:15em | Name !! ID !! Key !! Previous Value !! New Value
+|-
+|}
+
+==Objects==
+===New Objects=== 
+{| class="wikitable sortable"
+!colspan='3'|New Objects
+|-
+! style=width:15em | Name !! ID !! Options
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#26200 26200] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#26204 26204] || None
+|-
+| [[Door]] || [https://chisel.weirdgloop.org/moid/object_id.html#26205 26205] || Close
+|-
+|-
+|}
+===Removed Objects===
+{| class="wikitable sortable"
+!colspan='2'|Removed Objects
+|-
+! style=width:15em | Name !! ID
+|-
+|-
+|}
+===Diff Objects===
+{| class="wikitable sortable"
+!colspan='5'|Diff Objects
+|-
+! style=width:15em | Name !! ID !! Key !! Previous Value !! New Value
+|-
+|rowspan="11"|[[null]]
+|rowspan="11"|[https://chisel.weirdgloop.org/moid/object_id.html#2630 2630]
+|-
+|name || [[Fishing spot]] || [[null]]
+|-
+| sizeX || 1 || 2
+|-
+| sizeY || 1 || 3
+|-
+| wallOrDoor || 1 || 0
+|-
+| animationID || 525 || -1
+|-
+| ambient || 100 || 0
+|-
+| contrast || 2500 || 0
+|-
+| actions || ['Bait', None, None, None, None] || [None, None, None, None, None]
+|-
+| shadow || False || True
+|-
+| objectModels || [2331] || [1952]
+|-
+|rowspan="16"|[[null]]
+|rowspan="16"|[https://chisel.weirdgloop.org/moid/object_id.html#14428 14428]
+|-
+|name || [[Fishing spot]] || [[null]]
+|-
+| mergeNormals || False || True
+|-
+| wallOrDoor || 1 || 0
+|-
+| animationID || 525 || -1
+|-
+| ambient || 35 || 0
+|-
+| contrast || 2500 || 0
+|-
+| actions || ['Bait', None, None, None, None] || [None, None, None, None, None]
+|-
+| mapSceneID || -1 || 7
+|-
+| shadow || False || True
+|-
+| modelSizeHeight || 32 || 128
+|-
+| offsetHeight || 100 || 0
+|-
+| obstructsGround || True || False
+|-
+| contouredGround || 0 || -1
+|-
+| blocksProjectile || False || True
+|-
+| objectModels || [2331] || [5187]
+|-
+|}

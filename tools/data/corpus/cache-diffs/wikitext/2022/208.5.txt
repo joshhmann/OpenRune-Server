@@ -1,0 +1,188 @@
+{{ToC}}
+==Items==
+===New Items===
+{| class="wikitable sortable"
+!colspan='11'|New Items
+|-
+! style=width:15em | Name !! ID !! Members !! Tradeable in GE !! Equipable !! Stackable !! Noteable !! Options !! Placeholder !! Cost
+|-
+|-
+|}
+===Removed Items===
+{| class="wikitable sortable"
+!colspan='2'|Removed Items
+|-
+! style=width:15em | Name !! ID
+|-
+|-
+|}
+===Diff Items===
+{| class="wikitable sortable"
+!colspan='5'|Diff Items
+|-
+! style=width:15em | Name !! ID !! Key !! Previous Value !! New Value
+|-
+|rowspan="3"|[[Explorer's ring 1]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/item_id.html#13125 13125]
+|-
+|interfaceOptions || [None, 'Wear', 'Energy', 'Alchemy', 'Drop'] || ['Wear', 'Check', 'Energy', 'Alchemy', 'Drop']
+|-
+| params || {'452': 'Energy', '453': 'Alchemy'} || {'148': 1, '452': 'Energy', '453': 'Alchemy', '454': 'Check'}
+|-
+|rowspan="3"|[[Explorer's ring 2]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/item_id.html#13126 13126]
+|-
+|interfaceOptions || [None, 'Wear', 'Teleport', 'Functions', 'Drop'] || ['Wear', 'Check', 'Teleport', 'Functions', 'Drop']
+|-
+| params || {'452': 'Energy', '453': 'Alchemy', '451': 'Teleport'} || {'451': 'Teleport', '148': 1, '452': 'Energy', '453': 'Alchemy', '454': 'Check'}
+|-
+|rowspan="3"|[[Explorer's ring 3]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/item_id.html#13127 13127]
+|-
+|interfaceOptions || [None, 'Wear', 'Teleport', 'Functions', 'Drop'] || ['Wear', 'Check', 'Teleport', 'Functions', 'Drop']
+|-
+| params || {'452': 'Energy', '453': 'Alchemy', '451': 'Teleport'} || {'451': 'Teleport', '148': 1, '452': 'Energy', '453': 'Alchemy', '454': 'Check'}
+|-
+|rowspan="3"|[[Explorer's ring 4]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/item_id.html#13128 13128]
+|-
+|interfaceOptions || [None, 'Wear', 'Teleport', 'Functions', 'Drop'] || ['Wear', 'Check', 'Teleport', 'Functions', 'Drop']
+|-
+| params || {'452': 'Energy', '453': 'Alchemy', '451': 'Teleport'} || {'451': 'Teleport', '148': 1, '452': 'Energy', '453': 'Alchemy', '454': 'Check'}
+|-
+|}
+
+==Non-Player Characters==
+===New NPCs===
+{| class="wikitable sortable"
+!colspan='4'|New NPCs
+|-
+! style=width:15em | Name !! ID !! Combat Level !! Options
+|-
+|-
+|}
+===Removed NPCs===
+{| class="wikitable sortable"
+!colspan='2'|Removed NPCs
+|-
+! style=width:15em | Name !! ID
+|-
+|-
+|}
+===Diff NPCs===
+{| class="wikitable sortable"
+!colspan='5'|Diff NPCs
+|-
+! style=width:15em | Name !! ID !! Key !! Previous Value !! New Value
+|-
+|}
+
+==Objects==
+===New Objects=== 
+{| class="wikitable sortable"
+!colspan='3'|New Objects
+|-
+! style=width:15em | Name !! ID !! Options
+|-
+| [[Combat ring]] || [https://chisel.weirdgloop.org/moid/object_id.html#46243 46243] || Climb-over
+|-
+| [[Combat ring]] || [https://chisel.weirdgloop.org/moid/object_id.html#46244 46244] || None
+|-
+| [[Combat ring]] || [https://chisel.weirdgloop.org/moid/object_id.html#46245 46245] || None
+|-
+| [[Combat ring]] || [https://chisel.weirdgloop.org/moid/object_id.html#46246 46246] || None
+|-
+| [[Weapons Rack]] || [https://chisel.weirdgloop.org/moid/object_id.html#46247 46247] || Search
+|-
+| [[Chest]] || [https://chisel.weirdgloop.org/moid/object_id.html#46248 46248] || Open, Check-permissions
+|-
+| [[Chest]] || [https://chisel.weirdgloop.org/moid/object_id.html#46249 46249] || Deposit, Shut, Check-permissions
+|-
+| [[Lever]] || [https://chisel.weirdgloop.org/moid/object_id.html#46250 46250] || Pull
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#46251 46251] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#46252 46252] || None
+|-
+|-
+|}
+===Removed Objects===
+{| class="wikitable sortable"
+!colspan='2'|Removed Objects
+|-
+! style=width:15em | Name !! ID
+|-
+|-
+|}
+===Diff Objects===
+{| class="wikitable sortable"
+!colspan='5'|Diff Objects
+|-
+! style=width:15em | Name !! ID !! Key !! Previous Value !! New Value
+|-
+|rowspan="2"|[[Void]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#45726 45726]
+|-
+|blocksProjectile || True || False
+|-
+|rowspan="2"|[[Void]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#45727 45727]
+|-
+|blocksProjectile || True || False
+|-
+|rowspan="2"|[[Void]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#45728 45728]
+|-
+|blocksProjectile || True || False
+|-
+|rowspan="2"|[[Void]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#45729 45729]
+|-
+|blocksProjectile || True || False
+|-
+|rowspan="2"|[[Void]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#45730 45730]
+|-
+|blocksProjectile || True || False
+|-
+|rowspan="2"|[[Void]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#45731 45731]
+|-
+|blocksProjectile || True || False
+|-
+|rowspan="2"|[[Void]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#45732 45732]
+|-
+|blocksProjectile || True || False
+|-
+|rowspan="2"|[[Void]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#45733 45733]
+|-
+|blocksProjectile || True || False
+|-
+|rowspan="2"|[[Void]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#45734 45734]
+|-
+|blocksProjectile || True || False
+|-
+|rowspan="2"|[[Void]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#45735 45735]
+|-
+|blocksProjectile || True || False
+|-
+|rowspan="2"|[[Void]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#45736 45736]
+|-
+|blocksProjectile || True || False
+|-
+|rowspan="2"|[[Void]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#45737 45737]
+|-
+|blocksProjectile || True || False
+|-
+|rowspan="2"|[[Void]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#45738 45738]
+|-
+|blocksProjectile || True || False
+|-
+|}

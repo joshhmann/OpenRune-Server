@@ -1,0 +1,47 @@
+{{ToC}}
+==Items==
+{| class="wikitable sortable"
+!colspan='13'|Items
+|-
+! Name !! ID !! Key !! Previous Value !! New Value !! Members !! Tradeable in GE !! Equipable !! Stackable !! Noteable !! Options !! Placeholder !! Cost
+|-
+| [[Loot key]] || [https://chisel.weirdgloop.org/moid/item_id.html#26651 26651] || colspan = "3" | New ID || No || No || No || No || No || [None, 'Check', None, None, 'Destroy'] || No || 1
+|-
+| [[Loot key]] || [https://chisel.weirdgloop.org/moid/item_id.html#26652 26652] || colspan = "3" | New ID || No || No || No || No || No || [None, 'Check', None, None, 'Destroy'] || No || 1
+|-
+| [[Loot key]] || [https://chisel.weirdgloop.org/moid/item_id.html#26653 26653] || colspan = "3" | New ID || No || No || No || No || No || [None, 'Check', None, None, 'Destroy'] || No || 1
+|-
+| [[Loot key]] || [https://chisel.weirdgloop.org/moid/item_id.html#26654 26654] || colspan = "3" | New ID || No || No || No || No || No || [None, 'Check', None, None, 'Destroy'] || No || 1
+|-
+| [[Loot key]] || [https://chisel.weirdgloop.org/moid/item_id.html#26655 26655] || colspan = "3" | New ID || No || No || No || No || No || [None, 'Check', None, None, 'Destroy'] || No || 1
+|-
+|}
+
+==Non-Player Characters==
+{| class="wikitable sortable"
+!colspan='5'|Non-Player Characters
+|-
+! Name !! ID !! Key !! Previous Value !! Changed into
+|-
+|rowspan="3"|[[Skully]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/npc_id.html#10382 10382]
+|-
+|name || [[Refugee]] || [[Skully]]
+|-
+| actions || [None, None, None, None, None] || ['Talk-to', None, 'Value', 'Settings', None]
+|-
+|}
+
+==Objects==
+{| class="wikitable sortable"
+!colspan='5'|Objects
+|-
+! Name !! ID !! Key !! Previous Value !! Changed into
+|-
+| [[Loot Chest]] || [https://chisel.weirdgloop.org/moid/object_id.html#43484 43484] || colspan = "4" | New ID
+|-
+| [[Loot Chest]] || [https://chisel.weirdgloop.org/moid/object_id.html#43485 43485] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43486 43486] || colspan = "4" | New ID
+|-
+|}

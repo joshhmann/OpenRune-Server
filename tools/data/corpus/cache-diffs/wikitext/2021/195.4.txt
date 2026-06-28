@@ -1,0 +1,411 @@
+{{ToC}}
+==Items==
+{| class="wikitable sortable"
+!colspan="5"|Items
+|-
+! Name !! ID !! Key !! Previous Value !! Changed into
+|-
+| [[Board game piece]] || 25708 || colspan = "4" | New ID
+|-
+| [[null]] || 25709 || colspan = "4" | New ID
+|-
+| [[Stool]] || 25710 || colspan = "4" | New ID
+|-
+| [[Stool]] || 25711 || colspan = "4" | New ID
+|-
+|rowspan="2"|[[Board game piece]]
+|rowspan="2"|3869
+|-
+|members || True || False
+|-
+|rowspan="2"|[[Board game piece]]
+|rowspan="2"|3870
+|-
+|members || True || False
+|-
+|rowspan="2"|[[Board game piece]]
+|rowspan="2"|3871
+|-
+|members || True || False
+|-
+|rowspan="2"|[[Board game piece]]
+|rowspan="2"|3872
+|-
+|members || True || False
+|-
+|rowspan="2"|[[Board game piece]]
+|rowspan="2"|3873
+|-
+|members || True || False
+|-
+|rowspan="2"|[[Board game piece]]
+|rowspan="2"|3874
+|-
+|members || True || False
+|-
+|rowspan="2"|[[Board game piece]]
+|rowspan="2"|3875
+|-
+|members || True || False
+|-
+|rowspan="2"|[[Board game piece]]
+|rowspan="2"|3876
+|-
+|members || True || False
+|-
+|rowspan="2"|[[Board game piece]]
+|rowspan="2"|3877
+|-
+|members || True || False
+|-
+|rowspan="2"|[[Board game piece]]
+|rowspan="2"|3878
+|-
+|members || True || False
+|-
+|rowspan="2"|[[Board game piece]]
+|rowspan="2"|3879
+|-
+|members || True || False
+|-
+|rowspan="2"|[[Board game piece]]
+|rowspan="2"|3880
+|-
+|members || True || False
+|-
+|rowspan="2"|[[Board game piece]]
+|rowspan="2"|3881
+|-
+|members || True || False
+|-
+|rowspan="2"|[[Board game piece]]
+|rowspan="2"|3882
+|-
+|members || True || False
+|-
+|rowspan="2"|[[Board game piece]]
+|rowspan="2"|3883
+|-
+|members || True || False
+|-
+|rowspan="2"|[[Board game piece]]
+|rowspan="2"|3884
+|-
+|members || True || False
+|-
+|rowspan="2"|[[Board game piece]]
+|rowspan="2"|3885
+|-
+|members || True || False
+|-
+|rowspan="2"|[[Board game piece]]
+|rowspan="2"|3886
+|-
+|members || True || False
+|-
+|rowspan="2"|[[Board game piece]]
+|rowspan="2"|3887
+|-
+|members || True || False
+|-
+|rowspan="2"|[[Board game piece]]
+|rowspan="2"|3888
+|-
+|members || True || False
+|-
+|rowspan="2"|[[Board game piece]]
+|rowspan="2"|3889
+|-
+|members || True || False
+|-
+|rowspan="2"|[[Board game piece]]
+|rowspan="2"|3890
+|-
+|members || True || False
+|-
+|rowspan="2"|[[Board game piece]]
+|rowspan="2"|3891
+|-
+|members || True || False
+|-
+|rowspan="2"|[[Board game piece]]
+|rowspan="2"|3892
+|-
+|members || True || False
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|4629
+|-
+|params || {'1189': 345, '365': 560, '366': 2, '367': 562, '336': 1, '368': 2, '369': 556, '370': 1, '596': 14286931, '597': 329, '598': 379, '599': 1896, '600': 1926, '601': 'Smoke Rush', '602': 'A single target smoke attack', '603': 1, '604': 50, '605': 0, '606': 554, '607': 1} || {'1189': 345, '1228': 1, '365': 560, '366': 2, '367': 562, '336': 1, '368': 2, '369': 556, '370': 1, '596': 14286931, '597': 329, '598': 379, '599': 1896, '600': 1926, '601': 'Smoke Rush', '602': 'A single target smoke attack', '603': 1, '604': 50, '605': 0, '606': 554, '607': 1}
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|4630
+|-
+|params || {'1189': 345, '365': 560, '366': 2, '367': 562, '336': 1, '368': 2, '369': 566, '370': 1, '596': 14286935, '597': 337, '598': 387, '599': 1904, '600': 1934, '601': 'Shadow Rush', '602': 'A single target shadow attack', '603': 1, '604': 52, '605': 0, '606': 556, '607': 1} || {'1189': 345, '1228': 1, '365': 560, '366': 2, '367': 562, '336': 1, '368': 2, '369': 566, '370': 1, '596': 14286935, '597': 337, '598': 387, '599': 1904, '600': 1934, '601': 'Shadow Rush', '602': 'A single target shadow attack', '603': 1, '604': 52, '605': 0, '606': 556, '607': 1}
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|4632
+|-
+|params || {'1189': 345, '365': 560, '366': 2, '367': 562, '336': 1, '368': 2, '369': 565, '370': 1, '596': 14286927, '597': 333, '598': 383, '599': 1900, '600': 1930, '601': 'Blood Rush', '602': 'A single target blood attack', '603': 1, '604': 56, '605': 0} || {'1189': 345, '1228': 1, '365': 560, '366': 2, '367': 562, '336': 1, '368': 2, '369': 565, '370': 1, '596': 14286927, '597': 333, '598': 383, '599': 1900, '600': 1930, '601': 'Blood Rush', '602': 'A single target blood attack', '603': 1, '604': 56, '605': 0}
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|4633
+|-
+|params || {'1189': 345, '365': 560, '366': 2, '367': 562, '336': 1, '368': 2, '369': 555, '370': 2, '596': 14286923, '597': 325, '598': 375, '599': 1892, '600': 1922, '601': 'Ice Rush', '602': 'A single target ice attack', '603': 1, '604': 58, '605': 0} || {'1189': 345, '1228': 1, '365': 560, '366': 2, '367': 562, '336': 1, '368': 2, '369': 555, '370': 2, '596': 14286923, '597': 325, '598': 375, '599': 1892, '600': 1922, '601': 'Ice Rush', '602': 'A single target ice attack', '603': 1, '604': 58, '605': 0}
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|4635
+|-
+|params || {'1189': 345, '365': 560, '366': 2, '367': 562, '336': 1, '368': 4, '369': 556, '370': 2, '596': 14286933, '597': 330, '598': 380, '599': 1897, '600': 1927, '601': 'Smoke Burst', '602': 'A multi-target smoke attack', '603': 1, '604': 62, '605': 0, '606': 554, '607': 2} || {'1189': 345, '1228': 1, '365': 560, '366': 2, '367': 562, '336': 1, '368': 4, '369': 556, '370': 2, '596': 14286933, '597': 330, '598': 380, '599': 1897, '600': 1927, '601': 'Smoke Burst', '602': 'A multi-target smoke attack', '603': 1, '604': 62, '605': 0, '606': 554, '607': 2}
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|4636
+|-
+|params || {'1189': 345, '365': 560, '366': 2, '367': 562, '336': 1, '368': 4, '369': 566, '370': 2, '596': 14286937, '597': 338, '598': 388, '599': 1905, '600': 1935, '601': 'Shadow Burst', '602': 'A multi-target shadow attack', '603': 1, '604': 64, '605': 0, '606': 556, '607': 1} || {'1189': 345, '1228': 1, '365': 560, '366': 2, '367': 562, '336': 1, '368': 4, '369': 566, '370': 2, '596': 14286937, '597': 338, '598': 388, '599': 1905, '600': 1935, '601': 'Shadow Burst', '602': 'A multi-target shadow attack', '603': 1, '604': 64, '605': 0, '606': 556, '607': 1}
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|4638
+|-
+|params || {'1189': 345, '365': 560, '366': 2, '367': 562, '336': 1, '368': 4, '369': 565, '370': 2, '596': 14286929, '597': 334, '598': 384, '599': 1901, '600': 1931, '601': 'Blood Burst', '602': 'A multi-target blood attack', '603': 1, '604': 68, '605': 0} || {'1189': 345, '1228': 1, '365': 560, '366': 2, '367': 562, '336': 1, '368': 4, '369': 565, '370': 2, '596': 14286929, '597': 334, '598': 384, '599': 1901, '600': 1931, '601': 'Blood Burst', '602': 'A multi-target blood attack', '603': 1, '604': 68, '605': 0}
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|4639
+|-
+|params || {'1189': 345, '365': 560, '366': 2, '367': 562, '336': 1, '368': 4, '369': 555, '370': 4, '596': 14286925, '597': 326, '598': 376, '599': 1893, '600': 1923, '601': 'Ice Burst', '602': 'A multi-target ice attack', '603': 1, '604': 70, '605': 0} || {'1189': 345, '1228': 1, '365': 560, '366': 2, '367': 562, '336': 1, '368': 4, '369': 555, '370': 4, '596': 14286925, '597': 326, '598': 376, '599': 1893, '600': 1923, '601': 'Ice Burst', '602': 'A multi-target ice attack', '603': 1, '604': 70, '605': 0}
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|4641
+|-
+|params || {'1189': 345, '365': 560, '366': 2, '367': 565, '336': 1, '368': 2, '369': 556, '370': 2, '596': 14286932, '597': 331, '598': 381, '599': 1898, '600': 1928, '601': 'Smoke Blitz', '602': 'A single target strong smoke attack', '603': 1, '604': 74, '605': 0, '606': 554, '607': 2} || {'1189': 345, '1228': 1, '365': 560, '366': 2, '367': 565, '336': 1, '368': 2, '369': 556, '370': 2, '596': 14286932, '597': 331, '598': 381, '599': 1898, '600': 1928, '601': 'Smoke Blitz', '602': 'A single target strong smoke attack', '603': 1, '604': 74, '605': 0, '606': 554, '607': 2}
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|4642
+|-
+|params || {'1189': 345, '365': 560, '366': 2, '367': 565, '336': 1, '368': 2, '369': 566, '370': 2, '596': 14286936, '597': 339, '598': 389, '599': 1906, '600': 1936, '601': 'Shadow Blitz', '602': 'A single target strong shadow attack', '603': 1, '604': 76, '605': 0, '606': 556, '607': 2} || {'1189': 345, '1228': 1, '365': 560, '366': 2, '367': 565, '336': 1, '368': 2, '369': 566, '370': 2, '596': 14286936, '597': 339, '598': 389, '599': 1906, '600': 1936, '601': 'Shadow Blitz', '602': 'A single target strong shadow attack', '603': 1, '604': 76, '605': 0, '606': 556, '607': 2}
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|4644
+|-
+|params || {'1189': 345, '365': 560, '366': 2, '367': 565, '336': 1, '368': 4, '596': 14286928, '597': 335, '598': 385, '599': 1902, '600': 1932, '601': 'Blood Blitz', '602': 'A single target strong blood attack', '603': 1, '604': 80, '605': 0} || {'1189': 345, '1228': 1, '365': 560, '366': 2, '367': 565, '336': 1, '368': 4, '596': 14286928, '597': 335, '598': 385, '599': 1902, '600': 1932, '601': 'Blood Blitz', '602': 'A single target strong blood attack', '603': 1, '604': 80, '605': 0}
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|4645
+|-
+|params || {'1189': 345, '365': 560, '366': 2, '367': 565, '336': 1, '368': 2, '369': 555, '370': 3, '596': 14286924, '597': 327, '598': 377, '599': 1894, '600': 1924, '601': 'Ice Blitz', '602': 'A single target strong ice attack', '603': 1, '604': 82, '605': 0} || {'1189': 345, '1228': 1, '365': 560, '366': 2, '367': 565, '336': 1, '368': 2, '369': 555, '370': 3, '596': 14286924, '597': 327, '598': 377, '599': 1894, '600': 1924, '601': 'Ice Blitz', '602': 'A single target strong ice attack', '603': 1, '604': 82, '605': 0}
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|4647
+|-
+|params || {'1189': 345, '365': 560, '366': 4, '367': 565, '336': 1, '368': 2, '369': 556, '370': 4, '596': 14286934, '597': 332, '598': 382, '599': 1899, '600': 1929, '601': 'Smoke Barrage', '602': 'A multi-target strong smoke attack', '603': 1, '604': 86, '605': 0, '606': 554, '607': 4} || {'1189': 345, '1228': 1, '365': 560, '366': 4, '367': 565, '336': 1, '368': 2, '369': 556, '370': 4, '596': 14286934, '597': 332, '598': 382, '599': 1899, '600': 1929, '601': 'Smoke Barrage', '602': 'A multi-target strong smoke attack', '603': 1, '604': 86, '605': 0, '606': 554, '607': 4}
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|4648
+|-
+|params || {'1189': 345, '365': 560, '366': 4, '367': 565, '336': 1, '368': 2, '369': 566, '370': 3, '596': 14286938, '597': 340, '598': 390, '599': 1907, '600': 1937, '601': 'Shadow Barrage', '602': 'A multi-target strong shadow attack', '603': 1, '604': 88, '605': 0, '606': 556, '607': 4} || {'1189': 345, '1228': 1, '365': 560, '366': 4, '367': 565, '336': 1, '368': 2, '369': 566, '370': 3, '596': 14286938, '597': 340, '598': 390, '599': 1907, '600': 1937, '601': 'Shadow Barrage', '602': 'A multi-target strong shadow attack', '603': 1, '604': 88, '605': 0, '606': 556, '607': 4}
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|4650
+|-
+|params || {'1189': 345, '365': 560, '366': 4, '367': 565, '336': 1, '368': 4, '369': 566, '370': 1, '596': 14286930, '597': 336, '598': 386, '599': 1903, '600': 1933, '601': 'Blood Barrage', '602': 'A multi-target strong blood attack', '603': 1, '604': 92, '605': 0} || {'1189': 345, '1228': 1, '365': 560, '366': 4, '367': 565, '336': 1, '368': 4, '369': 566, '370': 1, '596': 14286930, '597': 336, '598': 386, '599': 1903, '600': 1933, '601': 'Blood Barrage', '602': 'A multi-target strong blood attack', '603': 1, '604': 92, '605': 0}
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|4651
+|-
+|params || {'1189': 345, '365': 560, '366': 4, '367': 565, '336': 1, '368': 2, '369': 555, '370': 6, '596': 14286926, '597': 328, '598': 378, '599': 1895, '600': 1925, '601': 'Ice Barrage', '602': 'A multi-target strong ice attack', '603': 1, '604': 94, '605': 0} || {'1189': 345, '1228': 1, '365': 560, '366': 4, '367': 565, '336': 1, '368': 2, '369': 555, '370': 6, '596': 14286926, '597': 328, '598': 378, '599': 1895, '600': 1925, '601': 'Ice Barrage', '602': 'A multi-target strong ice attack', '603': 1, '604': 94, '605': 0}
+|-
+|rowspan="2"|[[Board game piece]]
+|rowspan="2"|7096
+|-
+|members || True || False
+|-
+|rowspan="2"|[[Board game piece]]
+|rowspan="2"|7097
+|-
+|members || True || False
+|-
+|rowspan="2"|[[Board game piece]]
+|rowspan="2"|7098
+|-
+|members || True || False
+|-
+|rowspan="2"|[[Board game piece]]
+|rowspan="2"|7099
+|-
+|members || True || False
+|-
+|rowspan="2"|[[Board game piece]]
+|rowspan="2"|7100
+|-
+|members || True || False
+|-
+|rowspan="2"|[[Board game piece]]
+|rowspan="2"|7101
+|-
+|members || True || False
+|-
+|rowspan="2"|[[Board game piece]]
+|rowspan="2"|7102
+|-
+|members || True || False
+|-
+|rowspan="2"|[[Board game piece]]
+|rowspan="2"|7103
+|-
+|members || True || False
+|-
+|rowspan="2"|[[Board game piece]]
+|rowspan="2"|7104
+|-
+|members || True || False
+|-
+|rowspan="2"|[[Board game piece]]
+|rowspan="2"|7105
+|-
+|members || True || False
+|-
+|rowspan="2"|[[Board game piece]]
+|rowspan="2"|7106
+|-
+|members || True || False
+|-
+|rowspan="2"|[[Board game piece]]
+|rowspan="2"|7107
+|-
+|members || True || False
+|-
+|}
+==Non-Player Characters==
+{| class="wikitable sortable"
+!colspan="5"|Non-Player Characters
+|-
+! Name !! ID !! Key !! Previous Value !! Changed into
+|-
+| [[Zamorakian recruiter]] || 10732 || colspan = "4" | New ID
+|-
+| [[Meredith]] || 10733 || colspan = "4" | New ID
+|-
+| [[<col=00ffff>Fire</col>]] || 8643 || colspan = "4" | New ID
+|-
+| [[Saradominist recruiter]] || 8644 || colspan = "4" | New ID
+|-
+|rowspan="3"|[[null]]
+|rowspan="3"|10582
+|-
+|widthScale || 52 || 256
+|-
+| models || [32709] || [32530]
+|-
+|}
+==Objects==
+{| class="wikitable sortable"
+!colspan="5"|Objects
+|-
+! Name !! ID !! Key !! Previous Value !! Changed into
+|-
+| [[Roses]] || 27106 || colspan = "4" | New ID
+|-
+| [[Roses]] || 37558 || colspan = "4" | New ID
+|-
+| [[Roses]] || 37570 || colspan = "4" | New ID
+|-
+| [[null]] || 37582 || colspan = "4" | New ID
+|-
+| [[Table]] || 37594 || colspan = "4" | New ID
+|-
+| [[Table]] || 37606 || colspan = "4" | New ID
+|-
+| [[Table]] || 39126 || colspan = "4" | New ID
+|-
+| [[Table]] || 39127 || colspan = "4" | New ID
+|-
+| [[Table]] || 39128 || colspan = "4" | New ID
+|-
+| [[Table]] || 39129 || colspan = "4" | New ID
+|-
+| [[Table]] || 39130 || colspan = "4" | New ID
+|-
+| [[Table]] || 39131 || colspan = "4" | New ID
+|-
+| [[Table]] || 39132 || colspan = "4" | New ID
+|-
+| [[Table]] || 39133 || colspan = "4" | New ID
+|-
+| [[Table]] || 39134 || colspan = "4" | New ID
+|-
+| [[Table]] || 39135 || colspan = "4" | New ID
+|-
+| [[Table]] || 39136 || colspan = "4" | New ID
+|-
+| [[Stool]] || 39137 || colspan = "4" | New ID
+|-
+| [[Stool]] || 39138 || colspan = "4" | New ID
+|-
+| [[null]] || 39139 || colspan = "4" | New ID
+|-
+| [[null]] || 39140 || colspan = "4" | New ID
+|-
+| [[null]] || 39141 || colspan = "4" | New ID
+|-
+| [[null]] || 39142 || colspan = "4" | New ID
+|-
+| [[null]] || 39143 || colspan = "4" | New ID
+|-
+| [[null]] || 39144 || colspan = "4" | New ID
+|-
+| [[null]] || 39145 || colspan = "4" | New ID
+|-
+| [[null]] || 41608 || colspan = "4" | New ID
+|-
+| [[null]] || 41609 || colspan = "4" | New ID
+|-
+| [[null]] || 41610 || colspan = "4" | New ID
+|-
+| [[null]] || 41611 || colspan = "4" | New ID
+|-
+| [[null]] || 41612 || colspan = "4" | New ID
+|-
+| [[Red Barrier]] || 41613 || colspan = "4" | New ID
+|-
+| [[null]] || 41614 || colspan = "4" | New ID
+|-
+| [[Poster]] || 41615 || colspan = "4" | New ID
+|-
+|rowspan="2"|[[Table]]
+|rowspan="2"|4652
+|-
+|objectModels || [4599] || [41999]
+|-
+|rowspan="16"|[[null]]
+|rowspan="16"|41005
+|-
+|name || [[Fire]] || [[null]]
+|-
+| sizeX || 2 || 1
+|-
+| sizeY || 2 || 1
+|-
+| anInt2083 || 3 || 0
+|-
+| mergeNormals || False || True
+|-
+| wallOrDoor || 1 || 0
+|-
+| animationID || 6645 || -1
+|-
+| ambient || 60 || 0
+|-
+| contrast || 1500 || 0
+|-
+| actions || ['Douse', None, None, None, None] || [None, None, None, None, None]
+|-
+| interactType || 0 || 2
+|-
+| supportsItems || 0 || 1
+|-
+| ambientSoundId || 2064 || -1
+|-
+| blocksProjectile || False || True
+|-
+| objectModels || [26582] || [1067]
+|-
+|}

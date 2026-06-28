@@ -9,11 +9,7 @@ import org.rsmod.api.player.hook.TeleportType
 import org.rsmod.game.entity.Player
 
 public class WildernessTeleportHook @Inject constructor() : PlayerTeleportValidateHook {
-    override fun validate(
-        player: Player,
-        type: TeleportType,
-        areaChecker: AreaChecker,
-    ): String? {
+    override fun validate(player: Player, type: TeleportType, areaChecker: AreaChecker): String? {
         val level = player.coords.wildernessLevel(areaChecker)
         if (level < 0) {
             return null
@@ -46,8 +42,7 @@ public class WildernessTeleportHook @Inject constructor() : PlayerTeleportValida
                 TeleportType.Standard -> STANDARD_MAX_WILDERNESS_LEVEL
                 TeleportType.Chronicle,
                 TeleportType.Minigame,
-                TeleportType.Exempt,
-                -> return null
+                TeleportType.Exempt -> return null
             }
 
         if (level > maxLevel) {

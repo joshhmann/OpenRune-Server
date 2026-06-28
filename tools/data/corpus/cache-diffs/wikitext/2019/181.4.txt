@@ -1,0 +1,229 @@
+{{ToC}}
+==Items==
+===New Items===
+{| class="wikitable sortable"
+!colspan='11'|New Items
+|-
+! style=width:15em | Name !! ID !! Members !! Tradeable in GE !! Equipable !! Stackable !! Noteable !! Options !! Placeholder !! Cost
+|-
+| [[Crystal bow]] || [https://chisel.weirdgloop.org/moid/item_id.html#24123 24123] || Yes || No || Yes || No || No ||  Wield, Check, Revert, Drop || Yes || 300000
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#24124 24124] || No || No || No || No || No ||     Drop || Yes || 1
+|-
+| [[Crystal halberd]] || [https://chisel.weirdgloop.org/moid/item_id.html#24125 24125] || Yes || No || Yes || No || No ||  Wield, Check, Revert, Drop || Yes || 300000
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#24126 24126] || No || No || No || No || No ||     Drop || Yes || 1
+|-
+| [[Crystal shield]] || [https://chisel.weirdgloop.org/moid/item_id.html#24127 24127] || Yes || No || Yes || No || No ||  Wield, Check, Revert, Drop || Yes || 300000
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#24128 24128] || No || No || No || No || No ||     Drop || Yes || 1
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#24129 24129] || No || No || No || No || No ||     Drop || No || 1
+|-
+| [[Combat path starter kit]] || [https://chisel.weirdgloop.org/moid/item_id.html#24130 24130] || No || No || No || No || No || Search,    Destroy || No || 1
+|-
+| [[Combat path voucher]] || [https://chisel.weirdgloop.org/moid/item_id.html#24131 24131] || No || No || No || No || No || Read,    Destroy || No || 1
+|-
+|-
+|}
+===Removed Items===
+{| class="wikitable sortable"
+!colspan='2'|Removed Items
+|-
+! style=width:15em | Name !! ID
+|-
+|-
+|}
+===Diff Items===
+{| class="wikitable sortable"
+!colspan='5'|Diff Items
+|-
+! style=width:15em | Name !! ID !! Key !! Previous Value !! New Value
+|-
+|rowspan="3"|[[Salve amulet]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/item_id.html#4081 4081]
+|-
+| colorFind ||<span style = "background-color: #482a08;color:white">5916</span>||<span style = "background-color: #482a08;color:white">5916</span>,<span style = "background-color: #2d1605;color:white">4882</span>
+|-
+| colorReplace ||<span style = "background-color: #c6b7b7;color:white">127</span>||<span style = "background-color: #c6b7b7;color:white">127</span>,<span style = "background-color: #c0afaf;color:white">123</span>
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#5092 5092]
+|-
+|ambient || 0 || 30
+|-
+|rowspan="2"|[[Elf]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#6105 6105]
+|-
+|inventoryModel || 4011 || 38683
+|-
+|rowspan="2"|[[Doctor's hat]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#6547 6547]
+|-
+|name || [[Doctors hat]] || [[Doctor's hat]]
+|-
+|rowspan="3"|[[Salve amulet (e)]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/item_id.html#10588 10588]
+|-
+| colorFind ||<span style = "background-color: #482a08;color:white">5916</span>,<span style = "background-color: #58045c;color:white">-11359</span>||<span style = "background-color: #482a08;color:white">5916</span>,<span style = "background-color: #58045c;color:white">-11359</span>,<span style = "background-color: #2d1605;color:white">4882</span>
+|-
+| colorReplace ||<span style = "background-color: #c6b7b7;color:white">127</span>,<span style = "background-color: #bc3361;color:white">-3504</span>||<span style = "background-color: #c6b7b7;color:white">127</span>,<span style = "background-color: #bc3361;color:white">-3504</span>,<span style = "background-color: #c0afaf;color:white">123</span>
+|-
+|rowspan="3"|[[Salve amulet(i)]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/item_id.html#12017 12017]
+|-
+| colorFind ||<span style = "background-color: #482a08;color:white">5916</span>||<span style = "background-color: #482a08;color:white">5916</span>,<span style = "background-color: #2d1605;color:white">4882</span>
+|-
+| colorReplace ||<span style = "background-color: #c6b7b7;color:white">127</span>||<span style = "background-color: #c6b7b7;color:white">127</span>,<span style = "background-color: #c0afaf;color:white">123</span>
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#22659 22659]
+|-
+|ambient || 0 || 30
+|-
+|}
+
+==Non-Player Characters==
+===New NPCs===
+{| class="wikitable sortable"
+!colspan='4'|New NPCs
+|-
+! style=width:15em | Name !! ID !! Combat Level !! Options
+|-
+| [[Adventurer Jon]] || [https://chisel.weirdgloop.org/moid/npc_id.html#9244 9244] || No Combat Level || Talk-to, Claim
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/npc_id.html#9245 9245] || 1 || None
+|-
+|-
+|}
+===Removed NPCs===
+{| class="wikitable sortable"
+!colspan='2'|Removed NPCs
+|-
+! style=width:15em | Name !! ID
+|-
+|-
+|}
+===Diff NPCs===
+{| class="wikitable sortable"
+!colspan='5'|Diff NPCs
+|-
+! style=width:15em | Name !! ID !! Key !! Previous Value !! New Value
+|-
+|}
+
+==Objects==
+===New Objects=== 
+{| class="wikitable sortable"
+!colspan='3'|New Objects
+|-
+! style=width:15em | Name !! ID !! Options
+|-
+| [[Banner]] || [https://chisel.weirdgloop.org/moid/object_id.html#37346 37346] || None
+|-
+| [[Barrel]] || [https://chisel.weirdgloop.org/moid/object_id.html#37347 37347] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#37348 37348] || None
+|-
+|-
+|}
+===Removed Objects===
+{| class="wikitable sortable"
+!colspan='2'|Removed Objects
+|-
+! style=width:15em | Name !! ID
+|-
+|-
+|}
+===Diff Objects===
+{| class="wikitable sortable"
+!colspan='5'|Diff Objects
+|-
+! style=width:15em | Name !! ID !! Key !! Previous Value !! New Value
+|-
+|rowspan="2"|[[Flour bin]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#5792 5792]
+|-
+|actions || [None, None, None, None, None] || ['Empty', None, None, None, None]
+|-
+|rowspan="2"|[[Hopper]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#24960 24960]
+|-
+|actions || [None, None, None, None, None] || ['Fill', None, None, None, None]
+|-
+|rowspan="2"|[[Hopper]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#24961 24961]
+|-
+|actions || [None, None, None, None, None] || ['Fill', None, None, None, None]
+|-
+|rowspan="2"|[[Hopper]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#24962 24962]
+|-
+|actions || [None, None, None, None, None] || ['Fill', None, None, None, None]
+|-
+|rowspan="2"|[[Hopper]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#24963 24963]
+|-
+|actions || [None, None, None, None, None] || ['Fill', None, None, None, None]
+|-
+|rowspan="2"|[[Golovanova seedling]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#27384 27384]
+|-
+|actions || [None, None, None, None, None] || [None, 'Water', None, None, None]
+|-
+|rowspan="2"|[[Golovanova plant]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#27387 27387]
+|-
+|actions || [None, None, None, None, None] || [None, 'Water', None, None, None]
+|-
+|rowspan="2"|[[Golovanova plant]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#27390 27390]
+|-
+|actions || [None, None, None, None, None] || [None, 'Water', None, None, None]
+|-
+|rowspan="2"|[[Bologano seedling]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#27395 27395]
+|-
+|actions || [None, None, None, None, None] || [None, 'Water', None, None, None]
+|-
+|rowspan="2"|[[Bologano plant]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#27398 27398]
+|-
+|actions || [None, None, None, None, None] || [None, 'Water', None, None, None]
+|-
+|rowspan="2"|[[Bologano plant]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#27401 27401]
+|-
+|actions || [None, None, None, None, None] || [None, 'Water', None, None, None]
+|-
+|rowspan="2"|[[Logavano seedling]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#27406 27406]
+|-
+|actions || [None, None, None, None, None] || [None, 'Water', None, None, None]
+|-
+|rowspan="2"|[[Logavano plant]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#27409 27409]
+|-
+|actions || [None, None, None, None, None] || [None, 'Water', None, None, None]
+|-
+|rowspan="2"|[[Logavano plant]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#27412 27412]
+|-
+|actions || [None, None, None, None, None] || [None, 'Water', None, None, None]
+|-
+|rowspan="2"|[[Barrier]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#36201 36201]
+|-
+|actions || ['Pass', 'Quick-pass', 'Peek', None, None] || ['Pass', 'Peek', None, None, None]
+|-
+|rowspan="2"|[[Mill]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#36589 36589]
+|-
+|actions || [None, None, None, None, None] || ['Empty', None, None, None, None]
+|-
+|rowspan="2"|[[Hopper]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#36591 36591]
+|-
+|actions || [None, None, None, None, None] || ['Fill', None, None, None, None]
+|-
+|}

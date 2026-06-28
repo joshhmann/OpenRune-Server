@@ -411,7 +411,7 @@ private constructor(
         doubleobjbox(
             "obj.shrimp",
             400,
-            RSCM.getReverseMapping(RSCMType.OBJ,ocCert("obj.shrimp").id),
+            RSCM.getReverseMapping(RSCMType.OBJ, ocCert("obj.shrimp").id),
             400,
             "A noted item looks like a piece of paper with the image " +
                 "of the actual item on top of it.",
@@ -622,7 +622,11 @@ private constructor(
             val uncert = ocUncert(objType)
             val replace = invReplace(inv, invSlot, count, uncert)
             if (replace.success) {
-                objbox(RSCM.getReverseMapping(RSCMType.OBJ,uncert.id), 400, "The bank exchanges your banknote for an item.")
+                objbox(
+                    RSCM.getReverseMapping(RSCMType.OBJ, uncert.id),
+                    400,
+                    "The bank exchanges your banknote for an item.",
+                )
             }
         }
     }

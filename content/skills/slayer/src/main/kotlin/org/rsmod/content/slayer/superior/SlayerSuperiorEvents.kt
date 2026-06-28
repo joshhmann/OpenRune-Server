@@ -8,10 +8,10 @@ import org.rsmod.game.entity.Player
 import org.rsmod.plugin.scripts.PluginScript
 import org.rsmod.plugin.scripts.ScriptContext
 
-class SlayerSuperiorEvents @Inject constructor(
-    private val superiors: SlayerSuperiorManager,
-    private val npcRepo: NpcRepository,
-) : PluginScript(), PlayerPostTickHook {
+class SlayerSuperiorEvents
+@Inject
+constructor(private val superiors: SlayerSuperiorManager, private val npcRepo: NpcRepository) :
+    PluginScript(), PlayerPostTickHook {
     override fun ScriptContext.startup() {
         onPlayerLogout { superiors.onPlayerLogout(player, npcRepo) }
     }

@@ -1,6 +1,5 @@
 package org.rsmod.api.specials
 
-import dev.openrune.types.ItemServerType
 import jakarta.inject.Inject
 import org.rsmod.api.combat.commons.CombatAttack
 import org.rsmod.api.specials.combat.MagicSpecialAttack
@@ -152,10 +151,7 @@ constructor(private val registry: SpecialAttackRegistry) {
         assertValidResult(specWeapon, result)
     }
 
-    private fun assertValidResult(
-        specWeapon: String,
-        result: SpecialAttackRegistry.Result.Add,
-    ) {
+    private fun assertValidResult(specWeapon: String, result: SpecialAttackRegistry.Result.Add) {
         when (result) {
             SpecialAttackRegistry.Result.Add.AlreadyAdded -> {
                 error("Weapon already has a special attack mapped: $specWeapon")

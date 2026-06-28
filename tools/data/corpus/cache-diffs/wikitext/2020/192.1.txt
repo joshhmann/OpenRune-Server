@@ -1,0 +1,258 @@
+{| class="wikitable sortable"
+!colspan="5"|Items
+|-
+! Name !! ID !! Key !! Previous Value !! Changed into
+|-
+| [[Cabbage]] || 24971 || colspan = "4" | New ID
+|-
+| [[null]] || 24972 || colspan = "4" | New ID
+|-
+| [[Cabbage]] || 24973 || colspan = "4" | New ID
+|-
+| [[null]] || 24974 || colspan = "4" | New ID
+|-
+| [[Headless head]] || 24975 || colspan = "4" | New ID
+|-
+| [[null]] || 24976 || colspan = "4" | New ID
+|-
+| [[Magical pumpkin]] || 24977 || colspan = "4" | New ID
+|-
+| [[null]] || 24978 || colspan = "4" | New ID
+|-
+| [[Pumpkin]] || 24979 || colspan = "4" | New ID
+|-
+| [[Brown candy]] || 24980 || colspan = "4" | New ID
+|-
+| [[Blue candy]] || 24981 || colspan = "4" | New ID
+|-
+| [[White candy]] || 24982 || colspan = "4" | New ID
+|-
+| [[Purple candy]] || 24983 || colspan = "4" | New ID
+|-
+| [[Red candy]] || 24984 || colspan = "4" | New ID
+|-
+| [[Green candy]] || 24985 || colspan = "4" | New ID
+|-
+| [[Black candy]] || 24986 || colspan = "4" | New ID
+|-
+| [[Orange candy]] || 24987 || colspan = "4" | New ID
+|-
+| [[Pink candy]] || 24988 || colspan = "4" | New ID
+|-
+| [[Rick's box]] || 24989 || colspan = "4" | New ID
+|-
+| [[Rick's head]] || 24990 || colspan = "4" | New ID
+|-
+| [[Witch's brew]] || 24991 || colspan = "4" | New ID
+|-
+| [[Spider snack]] || 24992 || colspan = "4" | New ID
+|-
+| [[Incantation]] || 24993 || colspan = "4" | New ID
+|-
+| [[Cabbage]] || 24994 || colspan = "4" | New ID
+|-
+| [[null]] || 24995 || colspan = "4" | New ID
+|-
+| [[Cabbage]] || 24996 || colspan = "4" | New ID
+|-
+| [[null]] || 24997 || colspan = "4" | New ID
+|-
+|rowspan="2"|[[Lobster pot]]
+|rowspan="2"|301
+|-
+|name || [[Lobster cage]] || [[Lobster pot]]
+|-
+|rowspan="2"|[[Ava's attractor]]
+|rowspan="2"|10498
+|-
+|interfaceOptions || [None, 'Wear', None, 'Commune', 'Destroy'] || [None, 'Wear', None, 'Commune', 'Drop']
+|-
+|rowspan="2"|[[Ava's accumulator]]
+|rowspan="2"|10499
+|-
+|interfaceOptions || [None, 'Wear', None, 'Commune', 'Destroy'] || [None, 'Wear', None, 'Commune', 'Drop']
+|-
+|rowspan="2"|[[Ava's accumulator]]
+|rowspan="2"|23609
+|-
+|interfaceOptions || [None, 'Wear', None, 'Commune', 'Destroy'] || [None, 'Wear', None, 'Commune', 'Drop']
+|-
+|}
+
+{| class="wikitable sortable"
+!colspan="5"|Non-Player Characters
+|-
+! Name !! ID !! Key !! Previous Value !! Changed into
+|-
+| [[Rick]] || 10445 || colspan = "4" | New ID
+|-
+| [[Rick]] || 10446 || colspan = "4" | New ID
+|-
+| [[Rick]] || 10447 || colspan = "4" | New ID
+|-
+| [[Eve]] || 10448 || colspan = "4" | New ID
+|-
+| [[Eve]] || 10449 || colspan = "4" | New ID
+|-
+| [[Yeldive]] || 10450 || colspan = "4" | New ID
+|-
+| [[Yeldive]] || 10451 || colspan = "4" | New ID
+|-
+| [[Yanes]] || 10452 || colspan = "4" | New ID
+|-
+| [[Yanes]] || 10453 || colspan = "4" | New ID
+|-
+| [[Hogst]] || 10454 || colspan = "4" | New ID
+|-
+| [[Hogst]] || 10455 || colspan = "4" | New ID
+|-
+| [[Pouncer]] || 10456 || colspan = "4" | New ID
+|-
+| [[Pouncer]] || 10457 || colspan = "4" | New ID
+|-
+| [[Ghostly figure]] || 10458 || colspan = "4" | New ID
+|-
+| [[Ghostly figure]] || 10459 || colspan = "4" | New ID
+|-
+| [[<col=00ffff>Jack-o'-Lantern</col>]] || 10460 || colspan = "4" | New ID
+|-
+| [[Rick]] || 10461 || colspan = "4" | New ID
+|-
+| [[Rick]] || 10462 || colspan = "4" | New ID
+|-
+| [[Rick]] || 10463 || colspan = "4" | New ID
+|-
+| [[null]] || 10464 || colspan = "4" | New ID
+|-
+| [[null]] || 10465 || colspan = "4" | New ID
+|-
+| [[null]] || 10466 || colspan = "4" | New ID
+|-
+| [[null]] || 10467 || colspan = "4" | New ID
+|-
+| [[null]] || 10468 || colspan = "4" | New ID
+|-
+| [[null]] || 10469 || colspan = "4" | New ID
+|-
+| [[null]] || 10470 || colspan = "4" | New ID
+|-
+| [[null]] || 10471 || colspan = "4" | New ID
+|-
+| [[null]] || 10472 || colspan = "4" | New ID
+|-
+| [[null]] || 10473 || colspan = "4" | New ID
+|-
+| [[null]] || 10474 || colspan = "4" | New ID
+|-
+| [[null]] || 10475 || colspan = "4" | New ID
+|-
+| [[Rick]] || 377 || colspan = "4" | New ID
+|-
+| [[Rick]] || 378 || colspan = "4" | New ID
+|-
+|}
+
+{| class="wikitable sortable"
+!colspan="5"|Objects
+|-
+! Name !! ID !! Key !! Previous Value !! Changed into
+|-
+| [[Wardrobe]] || 20847 || colspan = "4" | New ID
+|-
+| [[Web]] || 20848 || colspan = "4" | New ID
+|-
+| [[Jack-o'-Lantern]] || 20849 || colspan = "4" | New ID
+|-
+| [[Jack-o'-Lantern]] || 20850 || colspan = "4" | New ID
+|-
+| [[Portal to Rick's room]] || 20851 || colspan = "4" | New ID
+|-
+| [[Portal to Wizards' Tower]] || 20852 || colspan = "4" | New ID
+|-
+| [[null]] || 20853 || colspan = "4" | New ID
+|-
+| [[Bonfire]] || 20854 || colspan = "4" | New ID
+|-
+| [[Bonfire]] || 20855 || colspan = "4" | New ID
+|-
+| [[Bonfire]] || 20856 || colspan = "4" | New ID
+|-
+| [[Bed]] || 20858 || colspan = "4" | New ID
+|-
+| [[null]] || 40360 || colspan = "4" | New ID
+|-
+| [[Mushroom]] || 40361 || colspan = "4" | New ID
+|-
+| [[Barrel of spiders]] || 40362 || colspan = "4" | New ID
+|-
+| [[Barrel of spiders]] || 40363 || colspan = "4" | New ID
+|-
+| [[null]] || 40364 || colspan = "4" | New ID
+|-
+| [[Tree stump]] || 40365 || colspan = "4" | New ID
+|-
+| [[Cauldron of brew]] || 40366 || colspan = "4" | New ID
+|-
+| [[Cauldron of brew]] || 40367 || colspan = "4" | New ID
+|-
+| [[null]] || 40368 || colspan = "4" | New ID
+|-
+| [[Plant]] || 40369 || colspan = "4" | New ID
+|-
+| [[Gramophone]] || 40370 || colspan = "4" | New ID
+|-
+| [[Wardrobe]] || 40371 || colspan = "4" | New ID
+|-
+| [[Wardrobe]] || 40372 || colspan = "4" | New ID
+|-
+| [[Bookshelf]] || 40373 || colspan = "4" | New ID
+|-
+| [[Crate]] || 40374 || colspan = "4" | New ID
+|-
+| [[Hat stand]] || 40375 || colspan = "4" | New ID
+|-
+| [[Portrait]] || 40376 || colspan = "4" | New ID
+|-
+| [[Kwuarm and Peas]] || 40377 || colspan = "4" | New ID
+|-
+| [[null]] || 40378 || colspan = "4" | New ID
+|-
+| [[null]] || 40379 || colspan = "4" | New ID
+|-
+| [[null]] || 40380 || colspan = "4" | New ID
+|-
+| [[null]] || 40381 || colspan = "4" | New ID
+|-
+| [[null]] || 40382 || colspan = "4" | New ID
+|-
+| [[Magical pumpkin]] || 40383 || colspan = "4" | New ID
+|-
+| [[Magical pumpkin]] || 40384 || colspan = "4" | New ID
+|-
+| [[Magical pumpkin]] || 40385 || colspan = "4" | New ID
+|-
+| [[Cavern]] || 40386 || colspan = "4" | New ID
+|-
+| [[Opening]] || 40387 || colspan = "4" | New ID
+|-
+| [[Stairs]] || 40388 || colspan = "4" | New ID
+|-
+| [[Opening]] || 40389 || colspan = "4" | New ID
+|-
+| [[Stairs]] || 40390 || colspan = "4" | New ID
+|-
+| [[Opening]] || 40391 || colspan = "4" | New ID
+|-
+| [[null]] || 40392 || colspan = "4" | New ID
+|-
+|rowspan="2"|[[Cavern]]
+|rowspan="2"|31556
+|-
+|shadow || True || False
+|-
+|rowspan="2"|[[Opening]]
+|rowspan="2"|31557
+|-
+|shadow || True || False
+|-
+|}

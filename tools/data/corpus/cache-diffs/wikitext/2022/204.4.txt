@@ -1,0 +1,115 @@
+{{ToC}}
+==Items==
+{| class="wikitable sortable"
+!colspan='13'|Items
+|-
+! Name !! ID !! Key !! Previous Value !! New Value !! Members !! Tradeable in GE !! Equipable !! Stackable !! Noteable !! Options !! Placeholder !! Cost
+|-
+|}
+
+==Non-Player Characters==
+{| class="wikitable sortable"
+!colspan='5'|Non-Player Characters
+|-
+! Name !! ID !! Key !! Previous Value !! Changed into
+|-
+|}
+
+==Objects==
+{| class="wikitable sortable"
+!colspan='5'|Objects
+|-
+! Name !! ID !! Key !! Previous Value !! Changed into
+|-
+| [[Scimitar]] || [https://chisel.weirdgloop.org/moid/object_id.html#43869 43869] || colspan = "4" | New ID
+|-
+| [[Shield]] || [https://chisel.weirdgloop.org/moid/object_id.html#43870 43870] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43871 43871] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43872 43872] || colspan = "4" | New ID
+|-
+| [[Cave]] || [https://chisel.weirdgloop.org/moid/object_id.html#43873 43873] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43874 43874] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43875 43875] || colspan = "4" | New ID
+|-
+|rowspan="3"|[[null]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#42255 42255]
+|-
+|objectModels || [42430, 42428, 42433] || [44165, 42430, 42428, 42433]
+|-
+| objectTypes || [0, 1, 9] || [10, 0, 1, 9]
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#42261 42261]
+|-
+|objectModels || [39330, 39404, 39350] || [44164, 44166, 44163]
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#42266 42266]
+|-
+|recolorToReplace || [16, 16, 18, 20] || [16, 12, 12, 8]
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#42267 42267]
+|-
+|recolorToReplace || [16, 16, 18, 20] || [16, 12, 12, 8]
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#42268 42268]
+|-
+|recolorToReplace || [16, 16, 18, 20] || [16, 12, 12, 8]
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#42269 42269]
+|-
+|recolorToReplace || [16, 16, 18, 20] || [16, 12, 12, 8]
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#42270 42270]
+|-
+|recolorToReplace || [16, 16, 18, 20] || [16, 12, 12, 8]
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#42271 42271]
+|-
+|recolorToReplace || [16, 16, 18, 20] || [16, 12, 12, 8]
+|-
+|rowspan="3"|[[null]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#42272 42272]
+|-
+|recolorToFind || [10514] || [10514, 10275, 10270, 10266]
+|-
+| recolorToReplace || [16] || [16, 12, 12, 8]
+|-
+|rowspan="3"|[[null]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#42273 42273]
+|-
+|recolorToFind || [10514] || [10514, 10275, 10270, 10266]
+|-
+| recolorToReplace || [16] || [16, 12, 12, 8]
+|-
+|rowspan="3"|[[null]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#42274 42274]
+|-
+|recolorToFind || [10514] || [10514, 10275, 10270, 10266]
+|-
+| recolorToReplace || [16] || [16, 12, 12, 8]
+|-
+|rowspan="3"|[[null]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#42275 42275]
+|-
+|recolorToFind || [10514] || [10514, 10275, 10270, 10266]
+|-
+| recolorToReplace || [16] || [16, 12, 12, 8]
+|-
+|rowspan="3"|[[null]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#42276 42276]
+|-
+|recolorToFind || [10514] || [10514, 10275, 10270, 10266]
+|-
+| recolorToReplace || [16] || [16, 12, 12, 8]
+|-
+|}

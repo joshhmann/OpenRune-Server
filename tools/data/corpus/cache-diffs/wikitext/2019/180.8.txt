@@ -1,0 +1,428 @@
+{{ToC}}
+==Items==
+===New Items===
+{| class="wikitable sortable"
+!colspan='11'|New Items
+|-
+! style=width:15em | Name !! ID !! Members !! Tradeable in GE !! Equipable !! Stackable !! Noteable !! Options !! Placeholder !! Cost
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#23531 23531] || No || No || No || No || Yes ||     Drop || No || 1
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#23532 23532] || No || No || No || No || Yes ||     Drop || No || 1
+|-
+| [[Cooked karambwan]] || [https://chisel.weirdgloop.org/moid/item_id.html#23533 23533] || No || No || No || No || Yes || Eat,    Drop || No || 250
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#23534 23534] || No || No || No || No || Yes ||     Drop || No || 1
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#23535 23535] || No || No || No || No || Yes ||     Drop || No || 1
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#23536 23536] || No || No || No || No || Yes ||     Drop || No || 1
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#23537 23537] || No || No || No || No || Yes ||     Drop || No || 1
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#23538 23538] || No || No || No || No || Yes ||     Drop || No || 1
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#23539 23539] || No || No || No || No || Yes ||     Drop || No || 1
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#23540 23540] || No || No || No || No || Yes ||     Drop || No || 1
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#23541 23541] || No || No || No || No || Yes ||     Drop || No || 1
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#23542 23542] || No || No || No || No || Yes ||     Drop || No || 1
+|-
+| [[Super combat potion(4)]] || [https://chisel.weirdgloop.org/moid/item_id.html#23543 23543] || No || No || No || No || Yes || Drink,    Drop || No || 160
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#23544 23544] || No || No || No || No || Yes ||     Drop || No || 1
+|-
+| [[Super combat potion(3)]] || [https://chisel.weirdgloop.org/moid/item_id.html#23545 23545] || No || No || No || No || Yes || Drink,    Drop || No || 120
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#23546 23546] || No || No || No || No || Yes ||     Drop || No || 1
+|-
+| [[Super combat potion(2)]] || [https://chisel.weirdgloop.org/moid/item_id.html#23547 23547] || No || No || No || No || Yes || Drink,    Drop || No || 80
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#23548 23548] || No || No || No || No || Yes ||     Drop || No || 1
+|-
+| [[Super combat potion(1)]] || [https://chisel.weirdgloop.org/moid/item_id.html#23549 23549] || No || No || No || No || Yes || Drink,    Drop || No || 40
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#23550 23550] || No || No || No || No || Yes ||     Drop || No || 1
+|-
+| [[Ranging potion(4)]] || [https://chisel.weirdgloop.org/moid/item_id.html#23551 23551] || No || No || No || No || Yes || Drink,    Drop || No || 160
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#23552 23552] || No || No || No || No || Yes ||     Drop || No || 1
+|-
+| [[Ranging potion(3)]] || [https://chisel.weirdgloop.org/moid/item_id.html#23553 23553] || No || No || No || No || Yes || Drink,    Drop || No || 120
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#23554 23554] || No || No || No || No || Yes ||     Drop || No || 1
+|-
+| [[Ranging potion(2)]] || [https://chisel.weirdgloop.org/moid/item_id.html#23555 23555] || No || No || No || No || Yes || Drink,    Drop || No || 80
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#23556 23556] || No || No || No || No || Yes ||     Drop || No || 1
+|-
+| [[Ranging potion(1)]] || [https://chisel.weirdgloop.org/moid/item_id.html#23557 23557] || No || No || No || No || Yes || Drink,    Drop || No || 144
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#23558 23558] || No || No || No || No || Yes ||     Drop || No || 1
+|-
+| [[Sanfew serum(4)]] || [https://chisel.weirdgloop.org/moid/item_id.html#23559 23559] || No || No || No || No || Yes || Drink,    Drop || No || 160
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#23560 23560] || No || No || No || No || Yes ||     Drop || No || 1
+|-
+| [[Sanfew serum(3)]] || [https://chisel.weirdgloop.org/moid/item_id.html#23561 23561] || No || No || No || No || Yes || Drink,    Drop || No || 120
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#23562 23562] || No || No || No || No || Yes ||     Drop || No || 1
+|-
+| [[Sanfew serum(2)]] || [https://chisel.weirdgloop.org/moid/item_id.html#23563 23563] || No || No || No || No || Yes || Drink,    Drop || No || 80
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#23564 23564] || No || No || No || No || Yes ||     Drop || No || 1
+|-
+| [[Sanfew serum(1)]] || [https://chisel.weirdgloop.org/moid/item_id.html#23565 23565] || No || No || No || No || Yes || Drink,    Drop || No || 40
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#23566 23566] || No || No || No || No || Yes ||     Drop || No || 1
+|-
+| [[Super restore(4)]] || [https://chisel.weirdgloop.org/moid/item_id.html#23567 23567] || No || No || No || No || Yes || Drink,    Drop || No || 160
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#23568 23568] || No || No || No || No || Yes ||     Drop || No || 1
+|-
+| [[Super restore(3)]] || [https://chisel.weirdgloop.org/moid/item_id.html#23569 23569] || No || No || No || No || Yes || Drink,    Drop || No || 120
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#23570 23570] || No || No || No || No || Yes ||     Drop || No || 1
+|-
+| [[Super restore(2)]] || [https://chisel.weirdgloop.org/moid/item_id.html#23571 23571] || No || No || No || No || Yes || Drink,    Drop || No || 80
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#23572 23572] || No || No || No || No || Yes ||     Drop || No || 1
+|-
+| [[Super restore(1)]] || [https://chisel.weirdgloop.org/moid/item_id.html#23573 23573] || No || No || No || No || Yes || Drink,    Drop || No || 40
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#23574 23574] || No || No || No || No || Yes ||     Drop || No || 1
+|-
+| [[Saradomin brew(4)]] || [https://chisel.weirdgloop.org/moid/item_id.html#23575 23575] || No || No || No || No || Yes || Drink,    Drop || No || 160
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#23576 23576] || No || No || No || No || Yes ||     Drop || No || 1
+|-
+| [[Saradomin brew(3)]] || [https://chisel.weirdgloop.org/moid/item_id.html#23577 23577] || No || No || No || No || Yes || Drink,    Drop || No || 120
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#23578 23578] || No || No || No || No || Yes ||     Drop || No || 1
+|-
+| [[Saradomin brew(2)]] || [https://chisel.weirdgloop.org/moid/item_id.html#23579 23579] || No || No || No || No || Yes || Drink,    Drop || No || 80
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#23580 23580] || No || No || No || No || Yes ||     Drop || No || 1
+|-
+| [[Saradomin brew(1)]] || [https://chisel.weirdgloop.org/moid/item_id.html#23581 23581] || No || No || No || No || Yes || Drink,    Drop || No || 40
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#23582 23582] || No || No || No || No || Yes ||     Drop || No || 1
+|-
+| [[Stamina potion(4)]] || [https://chisel.weirdgloop.org/moid/item_id.html#23583 23583] || No || No || No || No || Yes || Drink,   Empty, Drop || No || 400
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#23584 23584] || No || No || No || No || Yes ||     Drop || No || 1
+|-
+| [[Stamina potion(3)]] || [https://chisel.weirdgloop.org/moid/item_id.html#23585 23585] || No || No || No || No || Yes || Drink,   Empty, Drop || No || 300
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#23586 23586] || No || No || No || No || Yes ||     Drop || No || 1
+|-
+| [[Stamina potion(2)]] || [https://chisel.weirdgloop.org/moid/item_id.html#23587 23587] || No || No || No || No || Yes || Drink,   Empty, Drop || No || 200
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#23588 23588] || No || No || No || No || Yes ||     Drop || No || 1
+|-
+| [[Stamina potion(1)]] || [https://chisel.weirdgloop.org/moid/item_id.html#23589 23589] || No || No || No || No || Yes || Drink,   Empty, Drop || No || 100
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#23590 23590] || No || No || No || No || Yes ||     Drop || No || 1
+|-
+| [[Helm of neitiznot]] || [https://chisel.weirdgloop.org/moid/item_id.html#23591 23591] || No || No || Yes || No || Yes ||  Wear,   Drop || No || 300
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#23592 23592] || No || No || No || No || Yes ||     Drop || No || 1
+|-
+| [[Barrows gloves]] || [https://chisel.weirdgloop.org/moid/item_id.html#23593 23593] || No || No || Yes || No || Yes ||  Wear,   Drop || No || 300
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#23594 23594] || No || No || No || No || Yes ||     Drop || No || 1
+|-
+| [[Berserker ring]] || [https://chisel.weirdgloop.org/moid/item_id.html#23595 23595] || No || No || No || No || Yes ||  Wear,   Drop || No || 300
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#23596 23596] || No || No || No || No || Yes ||     Drop || No || 1
+|-
+| [[Dragon defender]] || [https://chisel.weirdgloop.org/moid/item_id.html#23597 23597] || No || No || Yes || No || Yes ||  Wield,   Drop || No || 300
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#23598 23598] || No || No || No || No || Yes ||     Drop || No || 1
+|-
+| [[Spirit shield]] || [https://chisel.weirdgloop.org/moid/item_id.html#23599 23599] || No || No || Yes || No || Yes ||  Wield,   Drop || No || 1
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#23600 23600] || No || No || No || No || Yes ||     Drop || No || 1
+|-
+| [[Rune crossbow]] || [https://chisel.weirdgloop.org/moid/item_id.html#23601 23601] || No || No || Yes || No || Yes ||  Wield,   Drop || No || 1
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#23602 23602] || No || No || No || No || Yes ||     Drop || No || 1
+|-
+| [[Imbued guthix cape]] || [https://chisel.weirdgloop.org/moid/item_id.html#23603 23603] || No || No || Yes || No || Yes ||  Wear,   Drop || No || 300
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#23604 23604] || No || No || No || No || Yes ||     Drop || No || 1
+|-
+| [[Imbued zamorak cape]] || [https://chisel.weirdgloop.org/moid/item_id.html#23605 23605] || No || No || Yes || No || Yes ||  Wear,   Drop || No || 300
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#23606 23606] || No || No || No || No || Yes ||     Drop || No || 1
+|-
+| [[Imbued saradomin cape]] || [https://chisel.weirdgloop.org/moid/item_id.html#23607 23607] || No || No || Yes || No || Yes ||  Wear,   Drop || No || 300
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#23608 23608] || No || No || No || No || Yes ||     Drop || No || 1
+|-
+| [[Ava's accumulator]] || [https://chisel.weirdgloop.org/moid/item_id.html#23609 23609] || No || No || Yes || No || Yes ||  Wear,  Commune, Destroy || No || 300
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#23610 23610] || No || No || No || No || Yes ||     Drop || No || 1
+|-
+| [[Armadyl crossbow]] || [https://chisel.weirdgloop.org/moid/item_id.html#23611 23611] || No || No || Yes || No || Yes ||  Wield,   Drop || No || 300
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#23612 23612] || No || No || No || No || Yes ||     Drop || No || 1
+|-
+| [[Staff of the dead]] || [https://chisel.weirdgloop.org/moid/item_id.html#23613 23613] || No || No || Yes || No || Yes ||  Wield,   Drop || No || 300
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#23614 23614] || No || No || No || No || Yes ||     Drop || No || 1
+|-
+| [[Vesta's longsword]] || [https://chisel.weirdgloop.org/moid/item_id.html#23615 23615] || No || No || Yes || No || Yes ||  Wield,   Drop || No || 300
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#23616 23616] || No || No || No || No || Yes ||     Drop || No || 1
+|-
+| [[Zuriel's staff]] || [https://chisel.weirdgloop.org/moid/item_id.html#23617 23617] || No || No || Yes || No || Yes ||  Wield,   Drop || No || 300
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#23618 23618] || No || No || No || No || Yes ||     Drop || No || 1
+|-
+| [[Morrigan's javelin]] || [https://chisel.weirdgloop.org/moid/item_id.html#23619 23619] || Yes || No || Yes || Yes || No ||  Wield,   Drop || No || 300
+|-
+| [[Statius's warhammer]] || [https://chisel.weirdgloop.org/moid/item_id.html#23620 23620] || Yes || No || Yes || No || Yes ||  Wield,   Drop || No || 300
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#23621 23621] || No || No || No || No || Yes ||     Drop || No || 1
+|-
+| [[Infernal cape]] || [https://chisel.weirdgloop.org/moid/item_id.html#23622 23622] || No || No || Yes || No || Yes ||  Wear,   Drop || No || 300
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#23623 23623] || No || No || No || No || Yes ||     Drop || No || 1
+|-
+| [[Seers ring (i)]] || [https://chisel.weirdgloop.org/moid/item_id.html#23624 23624] || No || No || No || No || Yes ||  Wear,   Drop || No || 300
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#23625 23625] || No || No || No || No || Yes ||     Drop || No || 1
+|-
+| [[Kodai wand]] || [https://chisel.weirdgloop.org/moid/item_id.html#23626 23626] || No || No || Yes || No || Yes ||  Wield,   Drop || No || 300
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#23627 23627] || No || No || No || No || Yes ||     Drop || No || 1
+|-
+| [[Ghrazi rapier]] || [https://chisel.weirdgloop.org/moid/item_id.html#23628 23628] || No || No || Yes || No || Yes ||  Wield,   Drop || No || 300
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#23629 23629] || No || No || No || No || Yes ||     Drop || No || 1
+|-
+| [[Heavy ballista]] || [https://chisel.weirdgloop.org/moid/item_id.html#23630 23630] || No || No || Yes || No || Yes ||  Wield,   Drop || No || 1
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#23631 23631] || No || No || No || No || Yes ||     Drop || No || 1
+|-
+| [[Karil's leathertop]] || [https://chisel.weirdgloop.org/moid/item_id.html#23632 23632] || No || No || Yes || No || No ||  Wear,   Drop || No || 500
+|-
+| [[Dharok's platelegs]] || [https://chisel.weirdgloop.org/moid/item_id.html#23633 23633] || No || No || Yes || No || No ||  Wear,   Drop || No || 500
+|-
+| [[Torag's platelegs]] || [https://chisel.weirdgloop.org/moid/item_id.html#23634 23634] || No || No || Yes || No || No ||  Wear, Check,  Drop || No || 500
+|-
+| [[Verac's plateskirt]] || [https://chisel.weirdgloop.org/moid/item_id.html#23635 23635] || No || No || Yes || No || No ||  Wear,   Drop || No || 500
+|-
+| [[Verac's helm]] || [https://chisel.weirdgloop.org/moid/item_id.html#23636 23636] || No || No || Yes || No || No ||  Wear,   Drop || No || 500
+|-
+| [[Torag's helm]] || [https://chisel.weirdgloop.org/moid/item_id.html#23637 23637] || No || No || Yes || No || No ||  Wear,   Drop || No || 500
+|-
+| [[Guthan's helm]] || [https://chisel.weirdgloop.org/moid/item_id.html#23638 23638] || No || No || Yes || No || No ||  Wear,   Drop || No || 500
+|-
+| [[Dharok's helm]] || [https://chisel.weirdgloop.org/moid/item_id.html#23639 23639] || No || No || Yes || No || No ||  Wear, Check,  Drop || No || 500
+|-
+| [[Amulet of fury]] || [https://chisel.weirdgloop.org/moid/item_id.html#23640 23640] || No || No || Yes || No || Yes ||  Wear,   Drop || No || 300
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#23641 23641] || No || No || No || No || Yes ||     Drop || No || 1
+|-
+| [[Blessed spirit shield]] || [https://chisel.weirdgloop.org/moid/item_id.html#23642 23642] || No || No || Yes || No || Yes ||  Wield,   Drop || No || 300
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#23643 23643] || No || No || No || No || Yes ||     Drop || No || 1
+|-
+| [[Eternal boots]] || [https://chisel.weirdgloop.org/moid/item_id.html#23644 23644] || No || No || Yes || No || Yes ||  Wear,   Drop || No || 300
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#23645 23645] || No || No || No || No || Yes ||     Drop || No || 1
+|-
+| [[Bandos tassets]] || [https://chisel.weirdgloop.org/moid/item_id.html#23646 23646] || No || No || Yes || No || Yes ||  Wear,   Drop || No || 300
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#23647 23647] || No || No || No || No || Yes ||     Drop || No || 1
+|-
+| [[Dragon javelin]] || [https://chisel.weirdgloop.org/moid/item_id.html#23648 23648] || No || No || No || Yes || No ||  Wield,   Drop || No || 450
+|-
+| [[Dragonstone bolts (e)]] || [https://chisel.weirdgloop.org/moid/item_id.html#23649 23649] || No || No || No || Yes || No ||  Wield,   Drop || No || 1
+|-
+| [[Rune pouch]] || [https://chisel.weirdgloop.org/moid/item_id.html#23650 23650] || No || No || No || No || Yes || Open,    Drop || No || 1
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#23651 23651] || No || No || No || No || Yes ||     Drop || No || 1
+|-
+|-
+|}
+===Removed Items===
+{| class="wikitable sortable"
+!colspan='2'|Removed Items
+|-
+! style=width:15em | Name !! ID
+|-
+|-
+|}
+===Diff Items===
+{| class="wikitable sortable"
+!colspan='5'|Diff Items
+|-
+! style=width:15em | Name !! ID !! Key !! Previous Value !! New Value
+|-
+|rowspan="2"|[[Shark]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#20390 20390]
+|-
+|notedID || -1 || 23531
+|-
+|rowspan="2"|[[Prayer potion(4)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#20393 20393]
+|-
+|notedID || -1 || 23535
+|-
+|rowspan="2"|[[Prayer potion(3)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#20394 20394]
+|-
+|notedID || -1 || 23536
+|-
+|rowspan="2"|[[Prayer potion(2)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#20395 20395]
+|-
+|notedID || -1 || 23537
+|-
+|rowspan="2"|[[Prayer potion(1)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#20396 20396]
+|-
+|notedID || -1 || 23538
+|-
+|rowspan="2"|[[Monkfish]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#20547 20547]
+|-
+|notedID || -1 || 23532
+|-
+|rowspan="2"|[[Super energy(4)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#20548 20548]
+|-
+|notedID || -1 || 23539
+|-
+|rowspan="2"|[[Super energy(3)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#20549 20549]
+|-
+|notedID || -1 || 23540
+|-
+|rowspan="2"|[[Super energy(2)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#20550 20550]
+|-
+|notedID || -1 || 23541
+|-
+|rowspan="2"|[[Super energy(1)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#20551 20551]
+|-
+|notedID || -1 || 23542
+|-
+|}
+
+==Non-Player Characters==
+===New NPCs===
+{| class="wikitable sortable"
+!colspan='4'|New NPCs
+|-
+! style=width:15em | Name !! ID !! Combat Level !! Options
+|-
+| [[Justine]] || [https://chisel.weirdgloop.org/moid/npc_id.html#8721 8721] || No Combat Level || Talk-to, Trade
+|-
+|-
+|}
+===Removed NPCs===
+{| class="wikitable sortable"
+!colspan='2'|Removed NPCs
+|-
+! style=width:15em | Name !! ID
+|-
+|-
+|}
+===Diff NPCs===
+{| class="wikitable sortable"
+!colspan='5'|Diff NPCs
+|-
+! style=width:15em | Name !! ID !! Key !! Previous Value !! New Value
+|-
+|}
+
+==Objects==
+===New Objects=== 
+{| class="wikitable sortable"
+!colspan='3'|New Objects
+|-
+! style=width:15em | Name !! ID !! Options
+|-
+|-
+|}
+===Removed Objects===
+{| class="wikitable sortable"
+!colspan='2'|Removed Objects
+|-
+! style=width:15em | Name !! ID
+|-
+|-
+|}
+===Diff Objects===
+{| class="wikitable sortable"
+!colspan='5'|Diff Objects
+|-
+! style=width:15em | Name !! ID !! Key !! Previous Value !! New Value
+|-
+|rowspan="2"|[[Chest]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#29070 29070]
+|-
+|actions || ['Search', 'Close', None, None, None] || ['Search', None, None, None, None]
+|-
+|rowspan="3"|[[Drawers]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#29073 29073]
+|-
+|actions || ['Open', None, None, None, None] || [None, None, None, None, None]
+|-
+| blockingMask || 11 || 0
+|-
+|rowspan="3"|[[Drawers]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#29074 29074]
+|-
+|actions || ['Search', 'Close', None, None, None] || [None, None, None, None, None]
+|-
+| blockingMask || 11 || 0
+|-
+|rowspan="2"|[[Drawers]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#29075 29075]
+|-
+|actions || ['Open', None, None, None, None] || [None, None, None, None, None]
+|-
+|rowspan="3"|[[Drawers]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#29076 29076]
+|-
+|actions || ['Search', 'Close', None, None, None] || [None, None, None, None, None]
+|-
+| blockingMask || 11 || 0
+|-
+|rowspan="3"|[[Cupboard]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#29077 29077]
+|-
+|actions || ['Open', None, None, None, None] || [None, None, None, None, None]
+|-
+| blockingMask || 13 || 0
+|-
+|rowspan="3"|[[Cupboard]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#29078 29078]
+|-
+|actions || ['Search', 'Close', None, None, None] || [None, None, None, None, None]
+|-
+| blockingMask || 13 || 0
+|-
+|rowspan="3"|[[Cupboard]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#29079 29079]
+|-
+|actions || ['Open', None, None, None, None] || [None, None, None, None, None]
+|-
+| blockingMask || 13 || 0
+|-
+|rowspan="3"|[[Cupboard]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#29080 29080]
+|-
+|actions || ['Search', 'Close', None, None, None] || [None, None, None, None, None]
+|-
+| blockingMask || 13 || 0
+|-
+|}

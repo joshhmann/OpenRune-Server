@@ -1,0 +1,386 @@
+{{ToC}}
+==Items==
+{| class="wikitable sortable"
+!colspan='5'|Items
+|-
+! Name !! ID !! Key !! Previous Value !! Changed into
+|-
+| [[Bandages]] || 25730 || colspan = "4" | New ID
+|-
+| [[Holy sanguinesti staff]] || 25731 || colspan = "4" | New ID
+|-
+| [[null]] || 25732 || colspan = "4" | New ID
+|-
+| [[Holy sanguinesti staff (uncharged)]] || 25733 || colspan = "4" | New ID
+|-
+| [[Holy ghrazi rapier]] || 25734 || colspan = "4" | New ID
+|-
+| [[null]] || 25735 || colspan = "4" | New ID
+|-
+| [[Holy scythe of vitur]] || 25736 || colspan = "4" | New ID
+|-
+| [[null]] || 25737 || colspan = "4" | New ID
+|-
+| [[Holy scythe of vitur (uncharged)]] || 25738 || colspan = "4" | New ID
+|-
+| [[Sanguine scythe of vitur]] || 25739 || colspan = "4" | New ID
+|-
+| [[null]] || 25740 || colspan = "4" | New ID
+|-
+| [[Sanguine scythe of vitur (uncharged)]] || 25741 || colspan = "4" | New ID
+|-
+| [[Holy ornament kit]] || 25742 || colspan = "4" | New ID
+|-
+| [[null]] || 25743 || colspan = "4" | New ID
+|-
+| [[Sanguine ornament kit]] || 25744 || colspan = "4" | New ID
+|-
+| [[null]] || 25745 || colspan = "4" | New ID
+|-
+| [[Sanguine dust]] || 25746 || colspan = "4" | New ID
+|-
+| [[null]] || 25747 || colspan = "4" | New ID
+|-
+| [[Lil' maiden]] || 25748 || colspan = "4" | New ID
+|-
+| [[Lil' bloat]] || 25749 || colspan = "4" | New ID
+|-
+| [[Lil' nylo]] || 25750 || colspan = "4" | New ID
+|-
+| [[Lil' sot]] || 25751 || colspan = "4" | New ID
+|-
+| [[Lil' xarp]] || 25752 || colspan = "4" | New ID
+|-
+| [[Antique lamp]] || 25753 || colspan = "4" | New ID
+|-
+|rowspan="2"|[[Serafina's diary]]
+|rowspan="2"|22504
+|-
+|cost || 1 || 50
+|-
+|rowspan="2"|[[The butcher]]
+|rowspan="2"|22506
+|-
+|cost || 1 || 50
+|-
+|rowspan="2"|[[Arachnids of vampyrium]]
+|rowspan="2"|22508
+|-
+|cost || 1 || 50
+|-
+|rowspan="2"|[[The shadow realm]]
+|rowspan="2"|22510
+|-
+|cost || 1 || 50
+|-
+|rowspan="2"|[[The wild hunt]]
+|rowspan="2"|22512
+|-
+|cost || 1 || 50
+|-
+|rowspan="2"|[[Verzik vitur - patient record]]
+|rowspan="2"|22514
+|-
+|cost || 1 || 50
+|-
+|}
+
+==Non-Player Characters==
+{| class="wikitable sortable"
+!colspan='5'|Non-Player Characters
+|-
+! Name !! ID !! Key !! Previous Value !! Changed into
+|-
+| [[Lil' Maiden]] || 10761 || colspan = "4" | New ID
+|-
+| [[Lil' Bloat]] || 10762 || colspan = "4" | New ID
+|-
+| [[Lil' Nylo]] || 10763 || colspan = "4" | New ID
+|-
+| [[Lil' Sot]] || 10764 || colspan = "4" | New ID
+|-
+| [[Lil' Xarp]] || 10765 || colspan = "4" | New ID
+|-
+| [[Xarpus]] || 10766 || colspan = "4" | New ID
+|-
+| [[Xarpus]] || 10767 || colspan = "4" | New ID
+|-
+| [[Xarpus]] || 10768 || colspan = "4" | New ID
+|-
+| [[Xarpus]] || 10769 || colspan = "4" | New ID
+|-
+| [[Xarpus]] || 10770 || colspan = "4" | New ID
+|-
+| [[Xarpus]] || 10771 || colspan = "4" | New ID
+|-
+| [[Xarpus]] || 10772 || colspan = "4" | New ID
+|-
+| [[Xarpus]] || 10773 || colspan = "4" | New ID
+|-
+| [[Nylocas Ischyros]] || 10774 || colspan = "4" | New ID
+|-
+| [[Nylocas Toxobolos]] || 10775 || colspan = "4" | New ID
+|-
+| [[Nylocas Hagios]] || 10776 || colspan = "4" | New ID
+|-
+| [[Nylocas Ischyros]] || 10777 || colspan = "4" | New ID
+|-
+| [[Nylocas Toxobolos]] || 10778 || colspan = "4" | New ID
+|-
+| [[Nylocas Hagios]] || 10779 || colspan = "4" | New ID
+|-
+| [[Nylocas Ischyros]] || 10780 || colspan = "4" | New ID
+|-
+| [[Nylocas Toxobolos]] || 10781 || colspan = "4" | New ID
+|-
+| [[Nylocas Hagios]] || 10782 || colspan = "4" | New ID
+|-
+| [[Nylocas Ischyros]] || 10783 || colspan = "4" | New ID
+|-
+| [[Nylocas Toxobolos]] || 10784 || colspan = "4" | New ID
+|-
+| [[Nylocas Hagios]] || 10785 || colspan = "4" | New ID
+|-
+| [[Nylocas Vasilias]] || 10786 || colspan = "4" | New ID
+|-
+| [[Nylocas Vasilias]] || 10787 || colspan = "4" | New ID
+|-
+| [[Nylocas Vasilias]] || 10788 || colspan = "4" | New ID
+|-
+| [[Nylocas Vasilias]] || 10789 || colspan = "4" | New ID
+|-
+| [[null]] || 10790 || colspan = "4" | New ID
+|-
+| [[Nylocas Ischyros]] || 10791 || colspan = "4" | New ID
+|-
+| [[Nylocas Toxobolos]] || 10792 || colspan = "4" | New ID
+|-
+| [[Nylocas Hagios]] || 10793 || colspan = "4" | New ID
+|-
+| [[Nylocas Ischyros]] || 10794 || colspan = "4" | New ID
+|-
+| [[Nylocas Toxobolos]] || 10795 || colspan = "4" | New ID
+|-
+| [[Nylocas Hagios]] || 10796 || colspan = "4" | New ID
+|-
+| [[Nylocas Ischyros]] || 10797 || colspan = "4" | New ID
+|-
+| [[Nylocas Toxobolos]] || 10798 || colspan = "4" | New ID
+|-
+| [[Nylocas Hagios]] || 10799 || colspan = "4" | New ID
+|-
+| [[Nylocas Ischyros]] || 10800 || colspan = "4" | New ID
+|-
+| [[Nylocas Toxobolos]] || 10801 || colspan = "4" | New ID
+|-
+| [[Nylocas Hagios]] || 10802 || colspan = "4" | New ID
+|-
+| [[Nylocas Prinkipas]] || 10803 || colspan = "4" | New ID
+|-
+| [[Nylocas Prinkipas]] || 10804 || colspan = "4" | New ID
+|-
+| [[Nylocas Prinkipas]] || 10805 || colspan = "4" | New ID
+|-
+| [[Nylocas Prinkipas]] || 10806 || colspan = "4" | New ID
+|-
+| [[Nylocas Vasilias]] || 10807 || colspan = "4" | New ID
+|-
+| [[Nylocas Vasilias]] || 10808 || colspan = "4" | New ID
+|-
+| [[Nylocas Vasilias]] || 10809 || colspan = "4" | New ID
+|-
+| [[Nylocas Vasilias]] || 10810 || colspan = "4" | New ID
+|-
+| [[null]] || 10811 || colspan = "4" | New ID
+|-
+| [[Pestilent Bloat]] || 10812 || colspan = "4" | New ID
+|-
+| [[Pestilent Bloat]] || 10813 || colspan = "4" | New ID
+|-
+| [[The Maiden of Sugadinti]] || 10814 || colspan = "4" | New ID
+|-
+| [[The Maiden of Sugadinti]] || 10815 || colspan = "4" | New ID
+|-
+| [[The Maiden of Sugadinti]] || 10816 || colspan = "4" | New ID
+|-
+| [[The Maiden of Sugadinti]] || 10817 || colspan = "4" | New ID
+|-
+| [[The Maiden of Sugadinti]] || 10818 || colspan = "4" | New ID
+|-
+| [[The Maiden of Sugadinti]] || 10819 || colspan = "4" | New ID
+|-
+| [[Nylocas Matomenos]] || 10820 || colspan = "4" | New ID
+|-
+| [[Blood spawn]] || 10821 || colspan = "4" | New ID
+|-
+| [[The Maiden of Sugadinti]] || 10822 || colspan = "4" | New ID
+|-
+| [[The Maiden of Sugadinti]] || 10823 || colspan = "4" | New ID
+|-
+| [[The Maiden of Sugadinti]] || 10824 || colspan = "4" | New ID
+|-
+| [[The Maiden of Sugadinti]] || 10825 || colspan = "4" | New ID
+|-
+| [[The Maiden of Sugadinti]] || 10826 || colspan = "4" | New ID
+|-
+| [[The Maiden of Sugadinti]] || 10827 || colspan = "4" | New ID
+|-
+| [[Nylocas Matomenos]] || 10828 || colspan = "4" | New ID
+|-
+| [[Blood spawn]] || 10829 || colspan = "4" | New ID
+|-
+| [[Verzik Vitur]] || 10830 || colspan = "4" | New ID
+|-
+| [[Verzik Vitur]] || 10831 || colspan = "4" | New ID
+|-
+| [[Verzik Vitur]] || 10832 || colspan = "4" | New ID
+|-
+| [[Verzik Vitur]] || 10833 || colspan = "4" | New ID
+|-
+| [[Verzik Vitur]] || 10834 || colspan = "4" | New ID
+|-
+| [[Verzik Vitur]] || 10835 || colspan = "4" | New ID
+|-
+| [[Verzik Vitur]] || 10836 || colspan = "4" | New ID
+|-
+| [[<col=00ffff>Web</col>]] || 10837 || colspan = "4" | New ID
+|-
+| [[<col=00ffff>Collapsing Pillar</col>]] || 10838 || colspan = "4" | New ID
+|-
+| [[<col=00ffff>Collapsing Pillar</col>]] || 10839 || colspan = "4" | New ID
+|-
+| [[<col=00ffff>Supporting Pillar</col>]] || 10840 || colspan = "4" | New ID
+|-
+| [[Nylocas Ischyros]] || 10841 || colspan = "4" | New ID
+|-
+| [[Nylocas Toxobolos]] || 10842 || colspan = "4" | New ID
+|-
+| [[Nylocas Hagios]] || 10843 || colspan = "4" | New ID
+|-
+| [[Nylocas Athanatos]] || 10844 || colspan = "4" | New ID
+|-
+| [[Nylocas Matomenos]] || 10845 || colspan = "4" | New ID
+|-
+| [[null]] || 10846 || colspan = "4" | New ID
+|-
+| [[Verzik Vitur]] || 10847 || colspan = "4" | New ID
+|-
+| [[Verzik Vitur]] || 10848 || colspan = "4" | New ID
+|-
+| [[Verzik Vitur]] || 10849 || colspan = "4" | New ID
+|-
+| [[Verzik Vitur]] || 10850 || colspan = "4" | New ID
+|-
+| [[Verzik Vitur]] || 10851 || colspan = "4" | New ID
+|-
+| [[Verzik Vitur]] || 10852 || colspan = "4" | New ID
+|-
+| [[Verzik Vitur]] || 10853 || colspan = "4" | New ID
+|-
+| [[<col=00ffff>Web</col>]] || 10854 || colspan = "4" | New ID
+|-
+| [[<col=00ffff>Collapsing Pillar</col>]] || 10855 || colspan = "4" | New ID
+|-
+| [[<col=00ffff>Collapsing Pillar</col>]] || 10856 || colspan = "4" | New ID
+|-
+| [[<col=00ffff>Supporting Pillar</col>]] || 10857 || colspan = "4" | New ID
+|-
+| [[Nylocas Ischyros]] || 10858 || colspan = "4" | New ID
+|-
+| [[Nylocas Toxobolos]] || 10859 || colspan = "4" | New ID
+|-
+| [[Nylocas Hagios]] || 10860 || colspan = "4" | New ID
+|-
+| [[Nylocas Athanatos]] || 10861 || colspan = "4" | New ID
+|-
+| [[Nylocas Matomenos]] || 10862 || colspan = "4" | New ID
+|-
+| [[null]] || 10863 || colspan = "4" | New ID
+|-
+| [[Sotetseg]] || 10864 || colspan = "4" | New ID
+|-
+| [[Sotetseg]] || 10865 || colspan = "4" | New ID
+|-
+| [[null]] || 10866 || colspan = "4" | New ID
+|-
+| [[Sotetseg]] || 10867 || colspan = "4" | New ID
+|-
+| [[Sotetseg]] || 10868 || colspan = "4" | New ID
+|-
+| [[null]] || 10869 || colspan = "4" | New ID
+|-
+| [[Lil' Maiden]] || 10870 || colspan = "4" | New ID
+|-
+| [[Lil' Bloat]] || 10871 || colspan = "4" | New ID
+|-
+| [[Lil' Nylo]] || 10872 || colspan = "4" | New ID
+|-
+| [[Lil' Sot]] || 10873 || colspan = "4" | New ID
+|-
+| [[Lil' Xarp]] || 10874 || colspan = "4" | New ID
+|-
+| [[Mysterious Stranger]] || 10875 || colspan = "4" | New ID
+|-
+| [[Mysterious Stranger]] || 10876 || colspan = "4" | New ID
+|-
+| [[Mysterious Stranger]] || 10877 || colspan = "4" | New ID
+|-
+|rowspan="2"|[[Mysterious Stranger]]
+|rowspan="2"|8208
+|-
+|chatheadModels || [10372] || [39832]
+|-
+|rowspan="5"|[[null]]
+|rowspan="5"|8325
+|-
+|name || [[Mysterious Stranger]] || [[null]]
+|-
+| actions || ['Talk-to', None, 'Trade', None, None] || [None, None, None, None, None]
+|-
+| combatLevel || 0 || 1
+|-
+| varbitId || -1 || 12276
+|-
+|rowspan="2"|[[Lil' Zik]]
+|rowspan="2"|8337
+|-
+|actions || ['Talk-to', None, 'Pick-up', None, None] || ['Talk-to', None, 'Metamorphosis', 'Pick-up', None]
+|-
+|}
+
+==Objects==
+{| class="wikitable sortable"
+!colspan='5'|Objects
+|-
+! Name !! ID !! Key !! Previous Value !! Changed into
+|-
+| [[null]] || 41743 || colspan = "4" | New ID
+|-
+| [[Rewards Chest]] || 41744 || colspan = "4" | New ID
+|-
+| [[Rewards Chest]] || 41745 || colspan = "4" | New ID
+|-
+| [[Monumental chest]] || 41746 || colspan = "4" | New ID
+|-
+| [[Acid pool]] || 41747 || colspan = "4" | New ID
+|-
+| [[Tile]] || 41748 || colspan = "4" | New ID
+|-
+| [[Tile]] || 41749 || colspan = "4" | New ID
+|-
+| [[null]] || 41750 || colspan = "4" | New ID
+|-
+| [[null]] || 41751 || colspan = "4" | New ID
+|-
+| [[null]] || 41752 || colspan = "4" | New ID
+|-
+| [[null]] || 41753 || colspan = "4" | New ID
+|-
+|rowspan="3"|[[Sign]]
+|rowspan="3"|41721
+|-
+|interactType || 2 || 1
+|-
+| blocksProjectile || True || False
+|-
+|}

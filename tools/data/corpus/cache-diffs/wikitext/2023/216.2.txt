@@ -1,0 +1,590 @@
+{{ToC}}
+==Items==
+===New Items===
+{| class="wikitable sortable"
+!colspan='11'|New Items
+|-
+! style=width:15em | Name !! ID !! Members !! Tradeable in GE !! Equipable !! Stackable !! Noteable !! Options !! Placeholder !! Cost !! Weight
+|-
+| [[Sigil of sustenance]] || [https://chisel.weirdgloop.org/moid/item_id.html#28477 28477] || Yes || No || No || No || No || Inspect, Unattune, Destroy || No || 1
+|| 100
+|-
+| [[Sigil of sustenance]] || [https://chisel.weirdgloop.org/moid/item_id.html#28478 28478] || Yes || Yes || No || No || Yes || Attune, Inspect, Destroy || No || 10000
+|| 100
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#28479 28479] || No || No || No || No || Yes || Drop || No || 1
+|| 0
+|-
+| [[Sigil of hoarding]] || [https://chisel.weirdgloop.org/moid/item_id.html#28480 28480] || Yes || No || No || No || No || Inspect, Unattune, Destroy || No || 1
+|| 100
+|-
+| [[Sigil of hoarding]] || [https://chisel.weirdgloop.org/moid/item_id.html#28481 28481] || Yes || Yes || No || No || Yes || Attune, Inspect, Destroy || No || 10000
+|| 100
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#28482 28482] || No || No || No || No || Yes || Drop || No || 1
+|| 0
+|-
+| [[Sigil of the alchemaniac]] || [https://chisel.weirdgloop.org/moid/item_id.html#28483 28483] || Yes || No || No || No || No || Inspect, Unattune, Destroy || No || 1
+|| 100
+|-
+| [[Sigil of the alchemaniac]] || [https://chisel.weirdgloop.org/moid/item_id.html#28484 28484] || Yes || Yes || No || No || Yes || Attune, Inspect, Destroy || No || 10000
+|| 100
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#28485 28485] || No || No || No || No || Yes || Drop || No || 1
+|| 0
+|-
+| [[Sigil of the hunter]] || [https://chisel.weirdgloop.org/moid/item_id.html#28486 28486] || Yes || No || No || No || No || Inspect, Unattune, Destroy || No || 1
+|| 100
+|-
+| [[Sigil of the hunter]] || [https://chisel.weirdgloop.org/moid/item_id.html#28487 28487] || Yes || Yes || No || No || Yes || Attune, Inspect, Destroy || No || 20000
+|| 100
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#28488 28488] || No || No || No || No || Yes || Drop || No || 1
+|| 0
+|-
+| [[Sigil of resistance]] || [https://chisel.weirdgloop.org/moid/item_id.html#28489 28489] || Yes || No || No || No || No || Inspect, Unattune, Destroy || No || 1
+|| 100
+|-
+| [[Sigil of resistance]] || [https://chisel.weirdgloop.org/moid/item_id.html#28490 28490] || Yes || Yes || No || No || Yes || Attune, Inspect, Destroy || No || 10000
+|| 100
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#28491 28491] || No || No || No || No || Yes || Drop || No || 1
+|| 0
+|-
+| [[Sigil of agile fortune]] || [https://chisel.weirdgloop.org/moid/item_id.html#28492 28492] || Yes || No || No || No || No || Inspect, Unattune, Destroy || No || 1
+|| 100
+|-
+| [[Sigil of agile fortune]] || [https://chisel.weirdgloop.org/moid/item_id.html#28493 28493] || Yes || Yes || No || No || Yes || Attune, Inspect, Destroy || No || 10000
+|| 100
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#28494 28494] || No || No || No || No || Yes || Drop || No || 1
+|| 0
+|-
+| [[Sigil of the food master]] || [https://chisel.weirdgloop.org/moid/item_id.html#28495 28495] || Yes || No || No || No || No || Inspect, Unattune, Destroy || No || 1
+|| 100
+|-
+| [[Sigil of the food master]] || [https://chisel.weirdgloop.org/moid/item_id.html#28496 28496] || Yes || Yes || No || No || Yes || Attune, Inspect, Destroy || No || 30000
+|| 100
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#28497 28497] || No || No || No || No || Yes || Drop || No || 1
+|| 0
+|-
+| [[Sigil of the well-fed]] || [https://chisel.weirdgloop.org/moid/item_id.html#28498 28498] || Yes || No || No || No || No || Inspect, Unattune, Destroy || No || 1
+|| 100
+|-
+| [[Sigil of the well-fed]] || [https://chisel.weirdgloop.org/moid/item_id.html#28499 28499] || Yes || Yes || No || No || Yes || Attune, Inspect, Destroy || No || 10000
+|| 100
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#28500 28500] || No || No || No || No || Yes || Drop || No || 1
+|| 0
+|-
+| [[Sigil of the infernal chef]] || [https://chisel.weirdgloop.org/moid/item_id.html#28501 28501] || Yes || No || No || No || No || Inspect, Unattune, Destroy || No || 1
+|| 100
+|-
+| [[Sigil of the infernal chef]] || [https://chisel.weirdgloop.org/moid/item_id.html#28502 28502] || Yes || Yes || No || No || Yes || Attune, Inspect, Destroy || No || 10000
+|| 100
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#28503 28503] || No || No || No || No || Yes || Drop || No || 1
+|| 0
+|-
+| [[Sigil of the infernal smith]] || [https://chisel.weirdgloop.org/moid/item_id.html#28504 28504] || Yes || No || No || No || No || Inspect, Unattune, Destroy || No || 1
+|| 100
+|-
+| [[Sigil of the infernal smith]] || [https://chisel.weirdgloop.org/moid/item_id.html#28505 28505] || Yes || Yes || No || No || Yes || Attune, Inspect, Destroy || No || 10000
+|| 100
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#28506 28506] || No || No || No || No || Yes || Drop || No || 1
+|| 0
+|-
+| [[Sigil of the lightbearer]] || [https://chisel.weirdgloop.org/moid/item_id.html#28507 28507] || Yes || No || No || No || No || Inspect, Unattune, Destroy || No || 1
+|| 100
+|-
+| [[Sigil of the lightbearer]] || [https://chisel.weirdgloop.org/moid/item_id.html#28508 28508] || Yes || Yes || No || No || Yes || Attune, Inspect, Destroy || No || 10000
+|| 100
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#28509 28509] || No || No || No || No || Yes || Drop || No || 1
+|| 0
+|-
+| [[Sigil of the bloodhound]] || [https://chisel.weirdgloop.org/moid/item_id.html#28510 28510] || Yes || No || No || No || No || Inspect, Unattune, Destroy || No || 1
+|| 100
+|-
+| [[Sigil of the bloodhound]] || [https://chisel.weirdgloop.org/moid/item_id.html#28511 28511] || Yes || Yes || No || No || Yes || Attune, Inspect, Destroy || No || 10000
+|| 100
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#28512 28512] || No || No || No || No || Yes || Drop || No || 1
+|| 0
+|-
+| [[Sigil of precision]] || [https://chisel.weirdgloop.org/moid/item_id.html#28513 28513] || Yes || No || No || No || No || Inspect, Unattune, Destroy || No || 1
+|| 100
+|-
+| [[Sigil of precision]] || [https://chisel.weirdgloop.org/moid/item_id.html#28514 28514] || Yes || Yes || No || No || Yes || Attune, Inspect, Destroy || No || 10000
+|| 100
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#28515 28515] || No || No || No || No || Yes || Drop || No || 1
+|| 0
+|-
+| [[Sigil of the augmented thrall]] || [https://chisel.weirdgloop.org/moid/item_id.html#28516 28516] || Yes || No || No || No || No || Inspect, Unattune, Destroy || No || 1
+|| 100
+|-
+| [[Sigil of the augmented thrall]] || [https://chisel.weirdgloop.org/moid/item_id.html#28517 28517] || Yes || Yes || No || No || Yes || Attune, Inspect, Destroy || No || 10000
+|| 100
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#28518 28518] || No || No || No || No || Yes || Drop || No || 1
+|| 0
+|-
+| [[Sigil of faith]] || [https://chisel.weirdgloop.org/moid/item_id.html#28519 28519] || Yes || No || No || No || No || Inspect, Unattune, Destroy || No || 1
+|| 100
+|-
+| [[Sigil of faith]] || [https://chisel.weirdgloop.org/moid/item_id.html#28520 28520] || Yes || Yes || No || No || Yes || Attune, Inspect, Destroy || No || 10000
+|| 100
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#28521 28521] || No || No || No || No || Yes || Drop || No || 1
+|| 0
+|-
+| [[Sigil of titanium]] || [https://chisel.weirdgloop.org/moid/item_id.html#28522 28522] || Yes || No || No || No || No || Inspect, Unattune, Destroy || No || 1
+|| 100
+|-
+| [[Sigil of titanium]] || [https://chisel.weirdgloop.org/moid/item_id.html#28523 28523] || Yes || Yes || No || No || Yes || Attune, Inspect, Destroy || No || 10000
+|| 100
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#28524 28524] || No || No || No || No || Yes || Drop || No || 1
+|| 0
+|-
+| [[Sigil of the ninja]] || [https://chisel.weirdgloop.org/moid/item_id.html#28525 28525] || Yes || No || No || No || No || Inspect, Unattune, Destroy || No || 1
+|| 100
+|-
+| [[Sigil of the ninja]] || [https://chisel.weirdgloop.org/moid/item_id.html#28526 28526] || Yes || Yes || No || No || Yes || Attune, Inspect, Destroy || No || 10000
+|| 100
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#28527 28527] || No || No || No || No || Yes || Drop || No || 1
+|| 0
+|-
+| [[Sigil of woodcraft]] || [https://chisel.weirdgloop.org/moid/item_id.html#28528 28528] || Yes || No || No || No || No || Inspect, Unattune, Destroy || No || 1
+|| 100
+|-
+| [[Sigil of woodcraft]] || [https://chisel.weirdgloop.org/moid/item_id.html#28529 28529] || Yes || Yes || No || No || Yes || Attune, Inspect, Destroy || No || 10000
+|| 100
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#28530 28530] || No || No || No || No || Yes || Drop || No || 1
+|| 0
+|-
+| [[Corrupted voidwaker]] || [https://chisel.weirdgloop.org/moid/item_id.html#28531 28531] || Yes || Yes || Yes || No || Yes || Wield, Drop || Yes || 250000
+|| 1814
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#28532 28532] || No || No || No || No || Yes || Drop || No || 1
+|| 0
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#28533 28533] || No || No || No || No || No || Drop || Yes || 1
+|| 0
+|-
+| [[Corrupted dragon claws]] || [https://chisel.weirdgloop.org/moid/item_id.html#28534 28534] || Yes || Yes || Yes || No || Yes || Wield, Drop || Yes || 250000
+|| 907
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#28535 28535] || No || No || No || No || Yes || Drop || No || 1
+|| 0
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#28536 28536] || No || No || No || No || No || Drop || Yes || 1
+|| 0
+|-
+| [[Corrupted armadyl godsword]] || [https://chisel.weirdgloop.org/moid/item_id.html#28537 28537] || Yes || Yes || Yes || No || Yes || Wield, Drop || Yes || 250000
+|| 10000
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#28538 28538] || No || No || No || No || Yes || Drop || No || 1
+|| 0
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#28539 28539] || No || No || No || No || No || Drop || Yes || 1
+|| 0
+|-
+| [[Corrupted twisted bow]] || [https://chisel.weirdgloop.org/moid/item_id.html#28540 28540] || Yes || Yes || Yes || No || Yes || Wield, Drop || Yes || 250000
+|| 1814
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#28541 28541] || No || No || No || No || Yes || Drop || No || 1
+|| 0
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#28542 28542] || No || No || No || No || No || Drop || Yes || 1
+|| 0
+|-
+| [[Corrupted scythe of vitur]] || [https://chisel.weirdgloop.org/moid/item_id.html#28543 28543] || Yes || No || Yes || No || No || Wield, Check, Uncharge, Drop || Yes || 250000
+|| 3175
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#28544 28544] || No || No || No || No || No || Drop || Yes || 1
+|| 0
+|-
+| [[Corrupted scythe of vitur (uncharged)]] || [https://chisel.weirdgloop.org/moid/item_id.html#28545 28545] || Yes || Yes || Yes || No || Yes || Wield, Drop || No || 250000
+|| 3175
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#28546 28546] || No || No || No || No || Yes || Drop || No || 1
+|| 0
+|-
+| [[Corrupted tumeken's shadow]] || [https://chisel.weirdgloop.org/moid/item_id.html#28547 28547] || Yes || No || Yes || No || No || Wield, Check, Charge, Uncharge || Yes || 250000
+|| 5000
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#28548 28548] || No || No || No || No || No || Drop || Yes || 1
+|| 0
+|-
+| [[Corrupted tumeken's shadow (uncharged)]] || [https://chisel.weirdgloop.org/moid/item_id.html#28549 28549] || Yes || Yes || Yes || No || Yes || Wield, Charge, Drop || No || 250000
+|| 4000
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#28550 28550] || No || No || No || No || Yes || Drop || No || 1
+|| 0
+|-
+| [[Quest lamp]] || [https://chisel.weirdgloop.org/moid/item_id.html#28551 28551] || Yes || No || No || No || No || Rub, Destroy || No || 1
+|| 100
+|-
+| [[Quest lamp]] || [https://chisel.weirdgloop.org/moid/item_id.html#28552 28552] || Yes || No || No || No || No || Rub, Destroy || No || 1
+|| 100
+|-
+| [[Quest lamp]] || [https://chisel.weirdgloop.org/moid/item_id.html#28553 28553] || Yes || No || No || No || No || Rub, Destroy || No || 1
+|| 100
+|-
+| [[Quest lamp]] || [https://chisel.weirdgloop.org/moid/item_id.html#28554 28554] || Yes || No || No || No || No || Rub, Destroy || No || 1
+|| 100
+|-
+| [[Starter bow]] || [https://chisel.weirdgloop.org/moid/item_id.html#28555 28555] || No || No || Yes || No || No || Wield, Check, Destroy || Yes || 500
+|| 1360
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#28556 28556] || No || No || No || No || No || Drop || Yes || 1
+|| 0
+|-
+| [[Starter staff]] || [https://chisel.weirdgloop.org/moid/item_id.html#28557 28557] || No || No || Yes || No || No || Wield, Check, Destroy || Yes || 500
+|| 1814
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#28558 28558] || No || No || No || No || No || Drop || Yes || 1
+|| 0
+|-
+| [[Starter sword]] || [https://chisel.weirdgloop.org/moid/item_id.html#28559 28559] || No || No || Yes || No || No || Wield, Destroy || Yes || 500
+|| 1814
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#28560 28560] || No || No || No || No || No || Drop || Yes || 1
+|| 0
+|-
+| [[Trinket of vengeance]] || [https://chisel.weirdgloop.org/moid/item_id.html#28561 28561] || Yes || Yes || No || No || Yes || Cast, Drop || Yes || 10000
+|| 1000
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#28562 28562] || No || No || No || No || Yes || Drop || No || 1
+|| 0
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#28563 28563] || No || No || No || No || No || Drop || Yes || 1
+|| 0
+|-
+| [[Trinket of fairies]] || [https://chisel.weirdgloop.org/moid/item_id.html#28564 28564] || Yes || Yes || No || No || Yes || Fairy-ring, Spirit-tree, Last-destination, Drop || Yes || 10000
+|| 1000
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#28565 28565] || No || No || No || No || Yes || Drop || No || 1
+|| 0
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#28566 28566] || No || No || No || No || No || Drop || Yes || 1
+|| 0
+|-
+| [[Trinket of advanced weaponry]] || [https://chisel.weirdgloop.org/moid/item_id.html#28567 28567] || Yes || Yes || No || No || Yes || Open, Drop || Yes || 10000
+|| 1000
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#28568 28568] || No || No || No || No || Yes || Drop || No || 1
+|| 0
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#28569 28569] || No || No || No || No || No || Drop || Yes || 1
+|| 0
+|-
+| [[Trinket of undead]] || [https://chisel.weirdgloop.org/moid/item_id.html#28570 28570] || Yes || Yes || No || No || Yes || Summon, Drop || Yes || 10000
+|| 1000
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#28571 28571] || No || No || No || No || Yes || Drop || No || 1
+|| 0
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#28572 28572] || No || No || No || No || No || Drop || Yes || 1
+|| 0
+|-
+|-
+|}
+===Removed Items===
+{| class="wikitable sortable"
+!colspan='2'|Removed Items
+|-
+! style=width:15em | Name !! ID
+|-
+|-
+|}
+===Diff Items===
+{| class="wikitable sortable"
+!colspan='5'|Diff Items
+|-
+! style=width:15em | Name !! ID !! Key !! Previous Value !! New Value
+|-
+|rowspan="8"|[[Starter sword]]
+|rowspan="8"|[https://chisel.weirdgloop.org/moid/item_id.html#22331 22331]
+|-
+|yan2d || 1156 || 1185
+|-
+| inventoryModel || 2604 || 49503
+|-
+| xOffset2d || 0 || -2
+|-
+| yOffset2d || -3 || -1
+|-
+| maleModel0 || 519 || 49484
+|-
+| femaleModel0 || 519 || 49483
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="8"|[[Starter bow]]
+|rowspan="8"|[https://chisel.weirdgloop.org/moid/item_id.html#22333 22333]
+|-
+|inventoryModel || 2562 || 49505
+|-
+| zoom2d || 1200 || 1316
+|-
+| xOffset2d || 7 || 11
+|-
+| yOffset2d || 2 || -3
+|-
+| maleModel0 || 512 || 49486
+|-
+| femaleModel0 || 512 || 49482
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="9"|[[Starter staff]]
+|rowspan="9"|[https://chisel.weirdgloop.org/moid/item_id.html#22335 22335]
+|-
+|yan2d || 1194 || 1172
+|-
+| inventoryModel || 2648 || 49504
+|-
+| zoom2d || 1158 || 1316
+|-
+| xOffset2d || -3 || 1
+|-
+| yOffset2d || 0 || -3
+|-
+| maleModel0 || 534 || 49481
+|-
+| femaleModel0 || 534 || 49485
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="3"|[[Sigil of fortification]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/item_id.html#26005 26005]
+|-
+| colorFind ||<span style = "background-color: #53523b;color:white">10417</span>,<span style = "background-color: #4d4c37;color:white">10413</span>,<span style = "background-color: #444331;color:white">10407</span>,<span style = "background-color: #05c0ae;color:white">31682</span>||<span style = "background-color: #05c0ae;color:white">31682</span>
+|-
+| colorReplace ||<span style = "background-color: #969581;color:white">10334</span>,<span style = "background-color: #898875;color:white">10326</span>,<span style = "background-color: #787768;color:white">10316</span>,<span style = "background-color: #c01505;color:white">962</span>||<span style = "background-color: #c01505;color:white">962</span>
+|-
+|rowspan="3"|[[Sigil of fortification]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/item_id.html#26006 26006]
+|-
+| colorFind ||<span style = "background-color: #53523b;color:white">10417</span>,<span style = "background-color: #4d4c37;color:white">10413</span>,<span style = "background-color: #444331;color:white">10407</span>,<span style = "background-color: #05c0ae;color:white">31682</span>||<span style = "background-color: #05c0ae;color:white">31682</span>
+|-
+| colorReplace ||<span style = "background-color: #969581;color:white">10334</span>,<span style = "background-color: #898875;color:white">10326</span>,<span style = "background-color: #787768;color:white">10316</span>,<span style = "background-color: #c01505;color:white">962</span>||<span style = "background-color: #c01505;color:white">962</span>
+|-
+|rowspan="4"|[[Sigil of exaggeration]]
+|rowspan="4"|[https://chisel.weirdgloop.org/moid/item_id.html#26056 26056]
+|-
+|inventoryModel || 42898 || 42890
+|-
+| colorFind ||<span style = "background-color: #53523b;color:white">10417</span>,<span style = "background-color: #4d4c37;color:white">10413</span>,<span style = "background-color: #444331;color:white">10407</span>,<span style = "background-color: #05c0ae;color:white">31682</span>||<span style = "background-color: #53523b;color:white">10417</span>,<span style = "background-color: #4d4c37;color:white">10413</span>,<span style = "background-color: #444331;color:white">10407</span>
+|-
+| colorReplace ||<span style = "background-color: #969581;color:white">10334</span>,<span style = "background-color: #898875;color:white">10326</span>,<span style = "background-color: #787768;color:white">10316</span>,<span style = "background-color: #c0a105;color:white">9154</span>||<span style = "background-color: #969581;color:white">10334</span>,<span style = "background-color: #898875;color:white">10326</span>,<span style = "background-color: #787768;color:white">10316</span>
+|-
+|rowspan="4"|[[Sigil of exaggeration]]
+|rowspan="4"|[https://chisel.weirdgloop.org/moid/item_id.html#26057 26057]
+|-
+|inventoryModel || 42891 || 42899
+|-
+| colorFind ||<span style = "background-color: #53523b;color:white">10417</span>,<span style = "background-color: #4d4c37;color:white">10413</span>,<span style = "background-color: #444331;color:white">10407</span>,<span style = "background-color: #05c0ae;color:white">31682</span>||<span style = "background-color: #53523b;color:white">10417</span>,<span style = "background-color: #4d4c37;color:white">10413</span>,<span style = "background-color: #444331;color:white">10407</span>
+|-
+| colorReplace ||<span style = "background-color: #969581;color:white">10334</span>,<span style = "background-color: #898875;color:white">10326</span>,<span style = "background-color: #787768;color:white">10316</span>,<span style = "background-color: #c0a105;color:white">9154</span>||<span style = "background-color: #969581;color:white">10334</span>,<span style = "background-color: #898875;color:white">10326</span>,<span style = "background-color: #787768;color:white">10316</span>
+|-
+|rowspan="3"|[[Sigil of binding]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/item_id.html#26065 26065]
+|-
+| colorFind ||<span style = "background-color: #05c0ae;color:white">31682</span>||<span style = "background-color: #53523b;color:white">10417</span>,<span style = "background-color: #4d4c37;color:white">10413</span>,<span style = "background-color: #444331;color:white">10407</span>,<span style = "background-color: #05c0ae;color:white">31682</span>
+|-
+| colorReplace ||<span style = "background-color: #c01505;color:white">962</span>||<span style = "background-color: #969581;color:white">10334</span>,<span style = "background-color: #898875;color:white">10326</span>,<span style = "background-color: #787768;color:white">10316</span>,<span style = "background-color: #c01505;color:white">962</span>
+|-
+|rowspan="3"|[[Sigil of binding]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/item_id.html#26066 26066]
+|-
+| colorFind ||<span style = "background-color: #05c0ae;color:white">31682</span>||<span style = "background-color: #53523b;color:white">10417</span>,<span style = "background-color: #4d4c37;color:white">10413</span>,<span style = "background-color: #444331;color:white">10407</span>,<span style = "background-color: #05c0ae;color:white">31682</span>
+|-
+| colorReplace ||<span style = "background-color: #c01505;color:white">962</span>||<span style = "background-color: #969581;color:white">10334</span>,<span style = "background-color: #898875;color:white">10326</span>,<span style = "background-color: #787768;color:white">10316</span>,<span style = "background-color: #c01505;color:white">962</span>
+|-
+|rowspan="3"|[[Sigil of slaughter]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/item_id.html#26107 26107]
+|-
+| colorFind ||<span style = "background-color: #05c0ae;color:white">31682</span>||<span style = "background-color: #53523b;color:white">10417</span>,<span style = "background-color: #4d4c37;color:white">10413</span>,<span style = "background-color: #444331;color:white">10407</span>,<span style = "background-color: #05c0ae;color:white">31682</span>
+|-
+| colorReplace ||<span style = "background-color: #c0a105;color:white">9154</span>||<span style = "background-color: #969581;color:white">10334</span>,<span style = "background-color: #898875;color:white">10326</span>,<span style = "background-color: #787768;color:white">10316</span>,<span style = "background-color: #c0a105;color:white">9154</span>
+|-
+|rowspan="3"|[[Sigil of slaughter]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/item_id.html#26108 26108]
+|-
+| colorFind ||<span style = "background-color: #05c0ae;color:white">31682</span>||<span style = "background-color: #53523b;color:white">10417</span>,<span style = "background-color: #4d4c37;color:white">10413</span>,<span style = "background-color: #444331;color:white">10407</span>,<span style = "background-color: #05c0ae;color:white">31682</span>
+|-
+| colorReplace ||<span style = "background-color: #c0a105;color:white">9154</span>||<span style = "background-color: #969581;color:white">10334</span>,<span style = "background-color: #898875;color:white">10326</span>,<span style = "background-color: #787768;color:white">10316</span>,<span style = "background-color: #c0a105;color:white">9154</span>
+|-
+|rowspan="3"|[[Sigil of the serpent]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/item_id.html#26116 26116]
+|-
+| colorFind ||<span style = "background-color: #05c0ae;color:white">31682</span>||<span style = "background-color: #53523b;color:white">10417</span>,<span style = "background-color: #4d4c37;color:white">10413</span>,<span style = "background-color: #444331;color:white">10407</span>,<span style = "background-color: #05c0ae;color:white">31682</span>
+|-
+| colorReplace ||<span style = "background-color: #c0a105;color:white">9154</span>||<span style = "background-color: #969581;color:white">10334</span>,<span style = "background-color: #898875;color:white">10326</span>,<span style = "background-color: #787768;color:white">10316</span>,<span style = "background-color: #c0a105;color:white">9154</span>
+|-
+|rowspan="3"|[[Sigil of the serpent]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/item_id.html#26117 26117]
+|-
+| colorFind ||<span style = "background-color: #05c0ae;color:white">31682</span>||<span style = "background-color: #53523b;color:white">10417</span>,<span style = "background-color: #4d4c37;color:white">10413</span>,<span style = "background-color: #444331;color:white">10407</span>,<span style = "background-color: #05c0ae;color:white">31682</span>
+|-
+| colorReplace ||<span style = "background-color: #c0a105;color:white">9154</span>||<span style = "background-color: #969581;color:white">10334</span>,<span style = "background-color: #898875;color:white">10326</span>,<span style = "background-color: #787768;color:white">10316</span>,<span style = "background-color: #c0a105;color:white">9154</span>
+|-
+|rowspan="3"|[[Sigil of finality]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/item_id.html#26125 26125]
+|-
+| colorFind ||<span style = "background-color: #53523b;color:white">10417</span>,<span style = "background-color: #4d4c37;color:white">10413</span>,<span style = "background-color: #444331;color:white">10407</span>,<span style = "background-color: #05c0ae;color:white">31682</span>||<span style = "background-color: #05c0ae;color:white">31682</span>
+|-
+| colorReplace ||<span style = "background-color: #2c2c2a;color:white">10270</span>,<span style = "background-color: #272725;color:white">10266</span>,<span style = "background-color: #1a1918;color:white">10258</span>,<span style = "background-color: #c01505;color:white">962</span>||<span style = "background-color: #c01505;color:white">962</span>
+|-
+|rowspan="3"|[[Sigil of finality]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/item_id.html#26126 26126]
+|-
+| colorFind ||<span style = "background-color: #53523b;color:white">10417</span>,<span style = "background-color: #4d4c37;color:white">10413</span>,<span style = "background-color: #444331;color:white">10407</span>,<span style = "background-color: #05c0ae;color:white">31682</span>||<span style = "background-color: #05c0ae;color:white">31682</span>
+|-
+| colorReplace ||<span style = "background-color: #2c2c2a;color:white">10270</span>,<span style = "background-color: #272725;color:white">10266</span>,<span style = "background-color: #1a1918;color:white">10258</span>,<span style = "background-color: #c01505;color:white">962</span>||<span style = "background-color: #c01505;color:white">962</span>
+|-
+|rowspan="3"|[[Sigil of last recall]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/item_id.html#26143 26143]
+|-
+| colorFind ||<span style = "background-color: #53523b;color:white">10417</span>,<span style = "background-color: #4d4c37;color:white">10413</span>,<span style = "background-color: #444331;color:white">10407</span>,<span style = "background-color: #05c0ae;color:white">31682</span>||<span style = "background-color: #05c0ae;color:white">31682</span>
+|-
+| colorReplace ||<span style = "background-color: #2c2c2a;color:white">10270</span>,<span style = "background-color: #272725;color:white">10266</span>,<span style = "background-color: #1a1918;color:white">10258</span>,<span style = "background-color: #c0a105;color:white">9154</span>||<span style = "background-color: #c0a105;color:white">9154</span>
+|-
+|rowspan="3"|[[Sigil of last recall]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/item_id.html#26144 26144]
+|-
+| colorFind ||<span style = "background-color: #53523b;color:white">10417</span>,<span style = "background-color: #4d4c37;color:white">10413</span>,<span style = "background-color: #444331;color:white">10407</span>,<span style = "background-color: #05c0ae;color:white">31682</span>||<span style = "background-color: #05c0ae;color:white">31682</span>
+|-
+| colorReplace ||<span style = "background-color: #2c2c2a;color:white">10270</span>,<span style = "background-color: #272725;color:white">10266</span>,<span style = "background-color: #1a1918;color:white">10258</span>,<span style = "background-color: #c0a105;color:white">9154</span>||<span style = "background-color: #c0a105;color:white">9154</span>
+|-
+|}
+
+==Non-Player Characters==
+===New NPCs===
+{| class="wikitable sortable"
+!colspan='4'|New NPCs
+|-
+! style=width:15em | Name !! ID !! Combat Level !! Options
+|-
+| [[Dagannoth Rex]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12439 12439] || 417 || Attack
+|-
+| [[King Black Dragon]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12440 12440] || 278 || Attack
+|-
+| [[Dagannoth Supreme]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12441 12441] || 385 || Attack
+|-
+| [[Dagannoth Prime]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12442 12442] || 417 || Attack
+|-
+| [[Kree'arra]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12443 12443] || 580 || Attack
+|-
+| [[General Graardor]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12444 12444] || 624 || Attack
+|-
+| [[Commander Zilyana]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12445 12445] || 596 || Attack
+|-
+| [[K'ril Tsutsaroth]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12446 12446] || 650 || Attack
+|-
+| [[Dharok the Wretched]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12447 12447] || 666 || Attack
+|-
+| [[Porazdir]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12448 12448] || 235 || Attack
+|-
+| [[Justiciar Zachariah]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12449 12449] || 348 || Attack
+|-
+| [[Derwen]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12450 12450] || 235 || Attack
+|-
+| [[Greater abyssal demon]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12451 12451] || 429 || Attack
+|-
+| [[Giant goblin]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12452 12452] || 347 || Attack
+|-
+| [[Flaming pyrelord]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12453 12453] || 363 || Attack
+|-
+| [[Cave abomination]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12454 12454] || 361 || Attack
+|-
+| [[Jal-ImKot]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12455 12455] || 240 || Attack
+|-
+| [[Malevolent Mage]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12456 12456] || 286 || Attack
+|-
+| [[Vitreous warped Jelly]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12457 12457] || 333 || Attack
+|-
+| [[Sulphur Lizard]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12458 12458] || 257 || Attack
+|-
+| [[Night beast]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12459 12459] || 362 || Attack
+|-
+| [[Guard]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12460 12460] || 1337 || Attack
+|-
+| [[Guard]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12461 12461] || 1337 || Attack
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12462 12462] || 665 || 
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12463 12463] || 665 || 
+|-
+|-
+|}
+===Removed NPCs===
+{| class="wikitable sortable"
+!colspan='2'|Removed NPCs
+|-
+! style=width:15em | Name !! ID
+|-
+|-
+|}
+===Diff NPCs===
+{| class="wikitable sortable"
+!colspan='5'|Diff NPCs
+|-
+! style=width:15em | Name !! ID !! Key !! Previous Value !! New Value
+|-
+|}
+
+==Objects==
+===New Objects=== 
+{| class="wikitable sortable"
+!colspan='3'|New Objects
+|-
+! style=width:15em | Name !! ID !! Options
+|-
+| [[Breach]] || [https://chisel.weirdgloop.org/moid/object_id.html#49561 49561] || 
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#49562 49562] || 
+|-
+| [[Boss Spawn]] || [https://chisel.weirdgloop.org/moid/object_id.html#49563 49563] || 
+|-
+| [[Loot!]] || [https://chisel.weirdgloop.org/moid/object_id.html#49564 49564] || 
+|-
+| [[Loot!]] || [https://chisel.weirdgloop.org/moid/object_id.html#49565 49565] || 
+|-
+|-
+|}
+===Removed Objects===
+{| class="wikitable sortable"
+!colspan='2'|Removed Objects
+|-
+! style=width:15em | Name !! ID
+|-
+|-
+|}
+===Diff Objects===
+{| class="wikitable sortable"
+!colspan='5'|Diff Objects
+|-
+! style=width:15em | Name !! ID !! Key !! Previous Value !! New Value
+|-
+|rowspan="3"|[[Exit portal]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#20843 20843]
+|-
+|mapSceneID || -1 || 64
+|-
+| contouredGround || -1 || 0
+|-
+|rowspan="2"|[[Stone chest]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#49550 49550]
+|-
+|objectModels || [49328] || [49507]
+|-
+|}

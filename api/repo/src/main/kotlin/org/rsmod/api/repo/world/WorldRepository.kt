@@ -3,9 +3,7 @@ package org.rsmod.api.repo.world
 import dev.openrune.rscm.RSCM.asRSCM
 import dev.openrune.rscm.RSCMType
 import dev.openrune.types.ProjAnimType
-import dev.openrune.types.SequenceServerType
 import dev.openrune.types.aconverted.SpotanimType
-import dev.openrune.types.aconverted.SynthType
 import jakarta.inject.Inject
 import org.rsmod.api.registry.zone.ZoneUpdateMap
 import org.rsmod.game.entity.Npc
@@ -125,12 +123,7 @@ public class WorldRepository @Inject constructor(private val zoneUpdates: ZoneUp
         return projAnim
     }
 
-    public fun projAnim(
-        source: Npc,
-        target: Npc,
-        spotanim: SpotanimType,
-        type: String,
-    ): ProjAnim {
+    public fun projAnim(source: Npc, target: Npc, spotanim: SpotanimType, type: String): ProjAnim {
         val projAnim = ProjAnim.fromBoundsToNpc(source.bounds(), target, spotanim.id, type)
         projAnim(projAnim)
         return projAnim

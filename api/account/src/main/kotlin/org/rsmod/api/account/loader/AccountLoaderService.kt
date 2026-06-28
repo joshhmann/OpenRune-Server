@@ -233,7 +233,9 @@ constructor(
 
         val characterId = repository.insertAndSelectCharacterId(this, accountId)
         if (characterId == null) {
-            throw IllegalStateException("Could not insert character for: '$accountName' ($accountId)")
+            throw IllegalStateException(
+                "Could not insert character for: '$accountName' ($accountId)"
+            )
         }
 
         val metadataList = repository.selectAndCreateMetadataList(this, accountName)

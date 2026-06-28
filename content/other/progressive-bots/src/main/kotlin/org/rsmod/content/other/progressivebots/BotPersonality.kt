@@ -2,11 +2,11 @@ package org.rsmod.content.other.progressivebots
 
 import org.rsmod.content.other.progressivebots.tree.ActionNode
 import org.rsmod.content.other.progressivebots.tree.BehaviorNode
+import org.rsmod.content.other.progressivebots.tree.GateSweeperDecorator
 import org.rsmod.content.other.progressivebots.tree.NodeStatus
+import org.rsmod.content.other.progressivebots.tree.StuckDetectorDecorator
 import org.rsmod.game.entity.Player
 import org.rsmod.map.CoordGrid
-import org.rsmod.content.other.progressivebots.tree.GateSweeperDecorator
-import org.rsmod.content.other.progressivebots.tree.StuckDetectorDecorator
 
 class WanderNode : ActionNode() {
     override fun execute(player: Player, state: BotState): NodeStatus {
@@ -14,11 +14,7 @@ class WanderNode : ActionNode() {
         val dz = (-4..4).random()
         val coords = player.coords
         player.walk(
-            CoordGrid(
-                (coords.x + dx).coerceIn(3200, 3270),
-                (coords.z + dz).coerceIn(3200, 3270),
-                0,
-            )
+            CoordGrid((coords.x + dx).coerceIn(3200, 3270), (coords.z + dz).coerceIn(3200, 3270), 0)
         )
         return NodeStatus.SUCCESS
     }
@@ -26,15 +22,15 @@ class WanderNode : ActionNode() {
 
 class SocializeNode : ActionNode() {
     override fun execute(player: Player, state: BotState): NodeStatus {
-        return org.rsmod.content.other.progressivebots.tree.BeggarTreeBuilder.build().execute(player, state)
+        return org.rsmod.content.other.progressivebots.tree.BeggarTreeBuilder.build()
+            .execute(player, state)
     }
 }
 
-
-
 class FightNode : ActionNode() {
     override fun execute(player: Player, state: BotState): NodeStatus {
-        return org.rsmod.content.other.progressivebots.tree.FightTreeBuilder.build().execute(player, state)
+        return org.rsmod.content.other.progressivebots.tree.FightTreeBuilder.build()
+            .execute(player, state)
     }
 }
 
@@ -55,11 +51,9 @@ sealed class BotPersonality {
     /** Pick the next goal tree for this bot. */
     open fun pickGoal(player: BotPlayerView, state: BotState): Pair<BehaviorNode, String> =
         wrapGoal(WanderNode(), "Wander")
-        
+
     protected fun wrapGoal(node: BehaviorNode, name: String): Pair<BehaviorNode, String> {
-        val wrapped = GateSweeperDecorator(
-            StuckDetectorDecorator(node)
-        )
+        val wrapped = GateSweeperDecorator(StuckDetectorDecorator(node))
         return Pair(wrapped, name)
     }
 
@@ -83,17 +77,29 @@ class SkillerPersonality : BotPersonality() {
         if (player.gpCount < 100) {
             val roll = (0..99).random()
             return if (roll < 40) {
-                wrapGoal(org.rsmod.content.other.progressivebots.tree.BeggarTreeBuilder.build(), "Begging")
+                wrapGoal(
+                    org.rsmod.content.other.progressivebots.tree.BeggarTreeBuilder.build(),
+                    "Begging",
+                )
             } else {
-                wrapGoal(org.rsmod.content.other.progressivebots.tree.FightTreeBuilder.build(), "FarmGold")
+                wrapGoal(
+                    org.rsmod.content.other.progressivebots.tree.FightTreeBuilder.build(),
+                    "FarmGold",
+                )
             }
         }
-        
+
         val roll = (0..99).random()
         return if (roll < 50) {
-            wrapGoal(org.rsmod.content.other.progressivebots.tree.GatherTreeBuilder.build("woodcutting"), "Woodcut")
+            wrapGoal(
+                org.rsmod.content.other.progressivebots.tree.GatherTreeBuilder.build("woodcutting"),
+                "Woodcut",
+            )
         } else {
-            wrapGoal(org.rsmod.content.other.progressivebots.tree.ProductionTreeBuilder.build(), "Smithing")
+            wrapGoal(
+                org.rsmod.content.other.progressivebots.tree.ProductionTreeBuilder.build(),
+                "Smithing",
+            )
         }
     }
 }
@@ -104,10 +110,16 @@ class FighterPersonality : BotPersonality() {
         if (player.gpCount < 100) {
             val roll = (0..99).random()
             if (roll < 30) {
-                return wrapGoal(org.rsmod.content.other.progressivebots.tree.BeggarTreeBuilder.build(), "Begging")
+                return wrapGoal(
+                    org.rsmod.content.other.progressivebots.tree.BeggarTreeBuilder.build(),
+                    "Begging",
+                )
             }
         }
-        return wrapGoal(org.rsmod.content.other.progressivebots.tree.FightTreeBuilder.build(), "Fight")
+        return wrapGoal(
+            org.rsmod.content.other.progressivebots.tree.FightTreeBuilder.build(),
+            "Fight",
+        )
     }
 }
 
@@ -117,18 +129,42 @@ class BalancedPersonality : BotPersonality() {
         if (player.gpCount < 100) {
             val roll = (0..99).random()
             return if (roll < 50) {
-                wrapGoal(org.rsmod.content.other.progressivebots.tree.BeggarTreeBuilder.build(), "Begging")
+                wrapGoal(
+                    org.rsmod.content.other.progressivebots.tree.BeggarTreeBuilder.build(),
+                    "Begging",
+                )
             } else {
-                wrapGoal(org.rsmod.content.other.progressivebots.tree.FightTreeBuilder.build(), "FarmGold")
+                wrapGoal(
+                    org.rsmod.content.other.progressivebots.tree.FightTreeBuilder.build(),
+                    "FarmGold",
+                )
             }
         }
-        
+
         val roll = (0..99).random()
         return when {
-            roll < 20 -> wrapGoal(org.rsmod.content.other.progressivebots.tree.GatherTreeBuilder.build("woodcutting"), "Woodcut")
-            roll < 40 -> wrapGoal(org.rsmod.content.other.progressivebots.tree.ProductionTreeBuilder.build(), "Smithing")
-            roll < 70 -> wrapGoal(org.rsmod.content.other.progressivebots.tree.FightTreeBuilder.build(), "Fight")
-            roll < 85 -> wrapGoal(org.rsmod.content.other.progressivebots.tree.BeggarTreeBuilder.build(), "Socialize")
+            roll < 20 ->
+                wrapGoal(
+                    org.rsmod.content.other.progressivebots.tree.GatherTreeBuilder.build(
+                        "woodcutting"
+                    ),
+                    "Woodcut",
+                )
+            roll < 40 ->
+                wrapGoal(
+                    org.rsmod.content.other.progressivebots.tree.ProductionTreeBuilder.build(),
+                    "Smithing",
+                )
+            roll < 70 ->
+                wrapGoal(
+                    org.rsmod.content.other.progressivebots.tree.FightTreeBuilder.build(),
+                    "Fight",
+                )
+            roll < 85 ->
+                wrapGoal(
+                    org.rsmod.content.other.progressivebots.tree.BeggarTreeBuilder.build(),
+                    "Socialize",
+                )
             else -> wrapGoal(WanderNode(), "Wander")
         }
     }

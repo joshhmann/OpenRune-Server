@@ -1,0 +1,171 @@
+{{ToC}}
+==Items==
+{| class="wikitable sortable"
+!colspan='13'|Items
+|-
+! Name !! ID !! Key !! Previous Value !! New Value !! Members !! Tradeable in GE !! Equipable !! Stackable !! Noteable !! Options !! Placeholder !! Cost
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#3322 3322]
+|-
+|params || {'365': 561, '366': 4, '367': 555, '336': 0, '368': 5, '369': 557, '370': 5, '596': 14286911, '597': 321, '598': 371, '599': 1790, '600': 1870, '601': 'Entangle', '602': 'Holds your opponent for 15 seconds', '603': 0, '604': 79, '605': 0} || {'1228': 1, '365': 561, '366': 4, '367': 555, '336': 0, '368': 5, '369': 557, '370': 5, '596': 14286911, '597': 321, '598': 371, '599': 1790, '600': 1870, '601': 'Entangle', '602': 'Holds your opponent for 15 seconds', '603': 1, '604': 79, '605': 0}
+|-
+|rowspan="2"|[[Teleport to house]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#8013 8013]
+|-
+|interfaceOptions || ['Break', 'Inside', 'Outside', None, 'Drop'] || ['Break', 'Inside', 'Outside', 'Group', 'Drop']
+|-
+|rowspan="2"|[[Escape crystal]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#22517 22517]
+|-
+|name || [[Verzik's crystal shard]] || [[Escape crystal]]
+|-
+|}
+
+==Non-Player Characters==
+{| class="wikitable sortable"
+!colspan='5'|Non-Player Characters
+|-
+! Name !! ID !! Key !! Previous Value !! Changed into
+|-
+| [[Rick]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11409 11409] || colspan = "4" | New ID
+|-
+| [[Rick]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11410 11410] || colspan = "4" | New ID
+|-
+|rowspan="5"|[[null]]
+|rowspan="5"|[https://chisel.weirdgloop.org/moid/npc_id.html#5931 5931]
+|-
+|name || [[Rick]] || [[null]]
+|-
+| actions || ['Talk-to', None, None, None, None] || [None, None, None, None, None]
+|-
+| combatLevel || 0 || 1
+|-
+| varbitId || -1 || 13673
+|-
+|}
+
+==Objects==
+{| class="wikitable sortable"
+!colspan='5'|Objects
+|-
+! Name !! ID !! Key !! Previous Value !! Changed into
+|-
+| [[Group storage]] || [https://chisel.weirdgloop.org/moid/object_id.html#43487 43487] || colspan = "4" | New ID
+|-
+| [[Group storage]] || [https://chisel.weirdgloop.org/moid/object_id.html#43488 43488] || colspan = "4" | New ID
+|-
+| [[Group storage]] || [https://chisel.weirdgloop.org/moid/object_id.html#43489 43489] || colspan = "4" | New ID
+|-
+| [[Group storage]] || [https://chisel.weirdgloop.org/moid/object_id.html#43490 43490] || colspan = "4" | New ID
+|-
+| [[Group storage]] || [https://chisel.weirdgloop.org/moid/object_id.html#43491 43491] || colspan = "4" | New ID
+|-
+| [[Group storage]] || [https://chisel.weirdgloop.org/moid/object_id.html#43492 43492] || colspan = "4" | New ID
+|-
+| [[Group storage]] || [https://chisel.weirdgloop.org/moid/object_id.html#43493 43493] || colspan = "4" | New ID
+|-
+| [[Group storage]] || [https://chisel.weirdgloop.org/moid/object_id.html#43494 43494] || colspan = "4" | New ID
+|-
+| [[Group storage]] || [https://chisel.weirdgloop.org/moid/object_id.html#43495 43495] || colspan = "4" | New ID
+|-
+| [[Group storage]] || [https://chisel.weirdgloop.org/moid/object_id.html#43496 43496] || colspan = "4" | New ID
+|-
+| [[Group storage]] || [https://chisel.weirdgloop.org/moid/object_id.html#43497 43497] || colspan = "4" | New ID
+|-
+| [[Group storage]] || [https://chisel.weirdgloop.org/moid/object_id.html#43498 43498] || colspan = "4" | New ID
+|-
+| [[Group storage]] || [https://chisel.weirdgloop.org/moid/object_id.html#43499 43499] || colspan = "4" | New ID
+|-
+|rowspan="3"|[[null]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#27270 27270]
+|-
+|varbitID || 4153 || 13677
+|-
+| configChangeDest || [1088, 27271, -1] || [1088, 27271, 43488, -1]
+|-
+|rowspan="3"|[[null]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#27272 27272]
+|-
+|varbitID || 4153 || 13677
+|-
+| configChangeDest || [24089, 27275, -1] || [24089, 27275, 43489, -1]
+|-
+|rowspan="3"|[[null]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#27273 27273]
+|-
+|varbitID || 4153 || 13677
+|-
+| configChangeDest || [1088, 27275, -1] || [1088, 27275, 43490, -1]
+|-
+|rowspan="3"|[[null]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#27274 27274]
+|-
+|varbitID || 4153 || 13677
+|-
+| configChangeDest || [1158, 27275, -1] || [1158, 27275, 43491, -1]
+|-
+|rowspan="3"|[[null]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#27276 27276]
+|-
+|varbitID || 4153 || 13677
+|-
+| configChangeDest || [25771, 27277, -1] || [25771, 27277, 43492, -1]
+|-
+|rowspan="3"|[[null]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#27278 27278]
+|-
+|varbitID || 4153 || 13677
+|-
+| configChangeDest || [1156, 27280, -1] || [1156, 27280, 43494, -1]
+|-
+|rowspan="3"|[[null]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#27279 27279]
+|-
+|varbitID || 4153 || 13677
+|-
+| configChangeDest || [1158, 27280, -1] || [1158, 27280, 43493, -1]
+|-
+|rowspan="3"|[[null]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#27281 27281]
+|-
+|varbitID || 4153 || 13677
+|-
+| configChangeDest || [5348, 27282, -1] || [5348, 27282, 43495, -1]
+|-
+|rowspan="3"|[[null]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#27283 27283]
+|-
+|varbitID || 4153 || 13677
+|-
+| configChangeDest || [14381, 27284, -1] || [14381, 27284, 43496, -1]
+|-
+|rowspan="3"|[[null]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#27285 27285]
+|-
+|varbitID || 4153 || 13677
+|-
+| configChangeDest || [20323, 27286, -1] || [20323, 27286, 43497, -1]
+|-
+|rowspan="3"|[[null]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#27287 27287]
+|-
+|varbitID || 4153 || 13677
+|-
+| configChangeDest || [21454, 27288, -1] || [21454, 27288, 43498, -1]
+|-
+|rowspan="3"|[[null]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#27289 27289]
+|-
+|varbitID || 4153 || 13677
+|-
+| configChangeDest || [21358, 27290, -1] || [21358, 27290, 43499, -1]
+|-
+|rowspan="3"|[[null]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#31483 31483]
+|-
+|varbitID || 4153 || 13677
+|-
+| configChangeDest || [7167, 31484, -1] || [7167, 31484, 43487, -1]
+|-
+|}

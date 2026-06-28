@@ -1,0 +1,111 @@
+{{ToC}}
+==Items==
+===New Items===
+{| class="wikitable sortable"
+!colspan='11'|New Items
+|-
+! style=width:15em | Name !! ID !! Members !! Tradeable in GE !! Equipable !! Stackable !! Noteable !! Options !! Placeholder !! Cost !! Weight
+|-
+|-
+|}
+===Removed Items===
+{| class="wikitable sortable"
+!colspan='2'|Removed Items
+|-
+! style=width:15em | Name !! ID
+|-
+|-
+|}
+===Diff Items===
+{| class="wikitable sortable"
+!colspan='5'|Diff Items
+|-
+! style=width:15em | Name !! ID !! Key !! Previous Value !! New Value
+|-
+|rowspan="3"|[[Kindling]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/item_id.html#20799 20799]
+|-
+|stackable || 0 || 1
+|-
+| weight || 760 || 0
+|-
+|rowspan="3"|[[Cavern grubs]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/item_id.html#20885 20885]
+|-
+|stackable || 0 || 1
+|-
+| weight || 10 || 0
+|-
+|rowspan="3"|[[Mallignum root plank]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/item_id.html#21036 21036]
+|-
+|stackable || 0 || 1
+|-
+| weight || 800 || 0
+|-
+|}
+
+==Non-Player Characters==
+===New NPCs===
+{| class="wikitable sortable"
+!colspan='4'|New NPCs
+|-
+! style=width:15em | Name !! ID !! Combat Level !! Options
+|-
+|-
+|}
+===Removed NPCs===
+{| class="wikitable sortable"
+!colspan='2'|Removed NPCs
+|-
+! style=width:15em | Name !! ID
+|-
+|-
+|}
+===Diff NPCs===
+{| class="wikitable sortable"
+!colspan='5'|Diff NPCs
+|-
+! style=width:15em | Name !! ID !! Key !! Previous Value !! New Value
+|-
+|rowspan="2"|[[Captain Rimor]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#7595 7595]
+|-
+|actions || ['Talk-to', None, 'Claim-cape', 'Scaling', None] || ['Talk-to', None, 'Claim-cape', 'Set-difficulty', None]
+|-
+|}
+
+==Objects==
+===New Objects=== 
+{| class="wikitable sortable"
+!colspan='3'|New Objects
+|-
+! style=width:15em | Name !! ID !! Options
+|-
+| [[Portal]] || [https://chisel.weirdgloop.org/moid/object_id.html#49996 49996] || Travel-End
+|-
+| [[Portal]] || [https://chisel.weirdgloop.org/moid/object_id.html#49997 49997] || Travel, Travel-End, Travel-Start
+|-
+| [[Portal]] || [https://chisel.weirdgloop.org/moid/object_id.html#49998 49998] || Travel-Start
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#49999 49999] || 
+|-
+| [[Steps]] || [https://chisel.weirdgloop.org/moid/object_id.html#50000 50000] || Climb, Reload
+|-
+|-
+|}
+===Removed Objects===
+{| class="wikitable sortable"
+!colspan='2'|Removed Objects
+|-
+! style=width:15em | Name !! ID
+|-
+|-
+|}
+===Diff Objects===
+{| class="wikitable sortable"
+!colspan='5'|Diff Objects
+|-
+! style=width:15em | Name !! ID !! Key !! Previous Value !! New Value
+|-
+|}

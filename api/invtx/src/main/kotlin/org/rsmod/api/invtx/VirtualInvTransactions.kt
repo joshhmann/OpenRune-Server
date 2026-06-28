@@ -19,15 +19,16 @@ internal fun Player.invDelWithVirtualStorage(
     placehold: Boolean,
     autoCommit: Boolean,
     ignoreVirtualStorage: Boolean,
-    raw: (
-        inv: Inventory,
-        type: String,
-        count: Int,
-        slot: Int?,
-        strict: Boolean,
-        placehold: Boolean,
-        autoCommit: Boolean,
-    ) -> TransactionResultList<InvObj>,
+    raw:
+        (
+            inv: Inventory,
+            type: String,
+            count: Int,
+            slot: Int?,
+            strict: Boolean,
+            placehold: Boolean,
+            autoCommit: Boolean,
+        ) -> TransactionResultList<InvObj>,
 ): TransactionResultList<InvObj> {
     val storage = cachedPlayerItemStorage
     if (ignoreVirtualStorage || !storage.isManaged(this, inv, type)) {
@@ -87,17 +88,18 @@ internal fun Player.invAddWithVirtualStorage(
     uncert: Boolean,
     autoCommit: Boolean,
     ignoreVirtualStorage: Boolean,
-    raw: (
-        inv: Inventory,
-        type: String,
-        count: Int,
-        vars: Int,
-        slot: Int?,
-        strict: Boolean,
-        cert: Boolean,
-        uncert: Boolean,
-        autoCommit: Boolean,
-    ) -> TransactionResultList<InvObj>,
+    raw:
+        (
+            inv: Inventory,
+            type: String,
+            count: Int,
+            vars: Int,
+            slot: Int?,
+            strict: Boolean,
+            cert: Boolean,
+            uncert: Boolean,
+            autoCommit: Boolean,
+        ) -> TransactionResultList<InvObj>,
 ): TransactionResultList<InvObj> {
     val storage = cachedPlayerItemStorage
     if (ignoreVirtualStorage || !storage.isManaged(this, inv, type)) {
@@ -130,13 +132,14 @@ private fun virtualOnlyTransactionResult(
 }
 
 private fun TransactionResultList<InvObj>.withCompletedCount(
-    completed: Int,
+    completed: Int
 ): TransactionResultList<InvObj> {
     val requested = results.firstOrNull() as? TransactionResult.Ok ?: return this
     return TransactionResultList(
         output = output,
         inventories = inventories,
-        results = listOf(TransactionResult.Ok(requested = requested.requested, completed = completed)),
+        results =
+            listOf(TransactionResult.Ok(requested = requested.requested, completed = completed)),
         err = err,
     )
 }

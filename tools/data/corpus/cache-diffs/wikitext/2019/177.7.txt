@@ -1,0 +1,273 @@
+{{ToC}}
+==Items==
+===New Items===
+{| class="wikitable sortable"
+!colspan='11'|New Items
+|-
+! Name !! ID !! Members !! Tradeable in GE !! Equipable !! Stackable !! Noteable !! Options !! Placeholder !! Cost
+|-
+| [[Nest box (seeds)]] || [https://chisel.weirdgloop.org/moid/item_id.html#23062 23062] || Yes || No || No || No || No || Extract,   Check, Drop || Yes || 10
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#23063 23063] || No || No || No || No || No ||     Drop || Yes || 1
+|-
+|-
+|}
+===Removed Items===
+{| class="wikitable sortable"
+!colspan='2'|Removed Items
+|-
+! Name !! ID
+|-
+|-
+|}
+===Diff Items===
+{| class="wikitable sortable"
+!colspan='5'|Diff Items
+|-
+! Name !! ID !! Key !! Previous Value !! New Value
+|-
+|rowspan="2"|[[Kharedst's memoirs]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#21760 21760]
+|-
+|params || {'451': 'Lunch by the Lancalliums', '452': "The Fisher's Flute", '453': 'Hearsay and History', '454': 'Jewellery of Jubilation', '455': 'A Dark Disposition', '456': 'Read', '457': 'Check'} || {'451': 'Lunch by the Lancalliums', '452': "The Fisher's Flute", '453': 'History and Hearsay', '454': 'Jewellery of Jubilation', '455': 'A Dark Disposition', '456': 'Read', '457': 'Check'}
+|-
+|rowspan="2"|[[Dragon hasta]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#22731 22731]
+|-
+|cost || 100000 || 62400
+|-
+|rowspan="2"|[[Dragon hasta(p)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#22734 22734]
+|-
+|cost || 100000 || 62400
+|-
+|rowspan="2"|[[Dragon hasta(p+)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#22737 22737]
+|-
+|cost || 100000 || 62400
+|-
+|rowspan="2"|[[Dragon hasta(p++)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#22740 22740]
+|-
+|cost || 100000 || 62400
+|-
+|rowspan="2"|[[Dragon hasta(kp)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#22743 22743]
+|-
+|cost || 100000 || 62400
+|-
+|rowspan="9"|[[Boots of brimstone]]
+|rowspan="9"|[https://chisel.weirdgloop.org/moid/item_id.html#22951 22951]
+|-
+|xan2d || 150 || 135
+|-
+| yan2d || 179 || 228
+|-
+| inventoryModel || 36920 || 36930
+|-
+| zoom2d || 700 || 852
+|-
+| xOffset2d || 1 || 0
+|-
+| yOffset2d || 1 || -7
+|-
+| maleModel0 || 36323 || 36928
+|-
+| femaleModel0 || 36334 || 36929
+|-
+|rowspan="2"|[[Drake's claw]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#22957 22957]
+|-
+|cost || 1500000 || 100000
+|-
+|rowspan="2"|[[Drake's tooth]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#22960 22960]
+|-
+|cost || 200000 || 100000
+|-
+|rowspan="2"|[[Broken dragon hasta]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#22963 22963]
+|-
+|cost || 200000 || 62400
+|-
+|rowspan="2"|[[Hydra's claw]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#22966 22966]
+|-
+|cost || 1500000 || 150000
+|-
+|rowspan="2"|[[Hydra's heart]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#22969 22969]
+|-
+|cost || 1500000 || 100000
+|-
+|rowspan="2"|[[Hydra's fang]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#22971 22971]
+|-
+|cost || 1500000 || 100000
+|-
+|rowspan="2"|[[Hydra's eye]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#22973 22973]
+|-
+|cost || 1500000 || 100000
+|-
+|rowspan="2"|[[Dragon hunter lance]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#22978 22978]
+|-
+|cost || 1000000 || 300000
+|-
+|rowspan="4"|[[Ferocious gloves]]
+|rowspan="4"|[https://chisel.weirdgloop.org/moid/item_id.html#22981 22981]
+|-
+|xan2d || 252 || 420
+|-
+| yan2d || 6 || 1082
+|-
+| cost || 1000000 || 100000
+|-
+|rowspan="2"|[[Hydra leather]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#22983 22983]
+|-
+|cost || 1500000 || 100000
+|-
+|rowspan="7"|[[Seed pack]]
+|rowspan="7"|[https://chisel.weirdgloop.org/moid/item_id.html#22993 22993]
+|-
+|name || [[Seed box]] || [[Seed pack]]
+|-
+| xan2d || 160 || 370
+|-
+| yan2d || 172 || 130
+|-
+| inventoryModel || 2426 || 36931
+|-
+| zoom2d || 1180 || 1436
+|-
+| yOffset2d || -14 || 7
+|-
+|}
+
+==Non-Player Characters==
+===New NPCs===
+{| class="wikitable sortable"
+!colspan='4'|New NPCs
+|-
+! Name !! ID !! Combat Level !! Options
+|-
+|-
+|}
+===Removed NPCs===
+{| class="wikitable sortable"
+!colspan='2'|Removed NPCs
+|-
+! Name !! ID
+|-
+|-
+|}
+===Diff NPCs===
+{| class="wikitable sortable"
+!colspan='5'|Diff NPCs
+|-
+! Name !! ID !! Key !! Previous Value !! New Value
+|-
+|rowspan="2"|[[Tektiny]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#8197 8197]
+|-
+|name || [[Tektonne]] || [[Tektiny]]
+|-
+|rowspan="2"|[[Vasa Minirio]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#8199 8199]
+|-
+|name || [[Mini Nistirio]] || [[Vasa Minirio]]
+|-
+|}
+
+==Objects==
+===New Objects=== 
+{| class="wikitable sortable"
+!colspan='3'|New Objects
+|-
+! Name !! ID !! Options
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#34650 34650] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#34651 34651] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#34652 34652] || None
+|-
+|-
+|}
+===Removed Objects===
+{| class="wikitable sortable"
+!colspan='2'|Removed Objects
+|-
+! Name !! ID
+|-
+|-
+|}
+===Diff Objects===
+{| class="wikitable sortable"
+!colspan='5'|Diff Objects
+|-
+! Name !! ID !! Key !! Previous Value !! New Value
+|-
+|rowspan="2"|[[Zip line]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#11644 11644]
+|-
+|blockingMask || 0 || 11
+|-
+|rowspan="2"|[[Underwall tunnel]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#16527 16527]
+|-
+|blockingMask || 0 || 13
+|-
+|rowspan="2"|[[Underwall tunnel]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#16528 16528]
+|-
+|blockingMask || 0 || 13
+|-
+|rowspan="2"|[[Redwood tree]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#34283 34283]
+|-
+|actions || [None, 'Inspect', None, 'Guide', None] || [None, None, None, None, None]
+|-
+|rowspan="2"|[[Redwood tree]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#34284 34284]
+|-
+|actions || ['Cut', 'Inspect', None, 'Guide', None] || ['Cut', None, None, None, None]
+|-
+|rowspan="2"|[[Redwood tree]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#34285 34285]
+|-
+|actions || [None, 'Inspect', None, 'Guide', None] || [None, None, None, None, None]
+|-
+|rowspan="2"|[[Redwood tree]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#34286 34286]
+|-
+|actions || ['Cut', 'Inspect', None, 'Guide', None] || ['Cut', None, None, None, None]
+|-
+|rowspan="2"|[[Redwood tree]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#34287 34287]
+|-
+|actions || [None, 'Inspect', None, 'Guide', None] || [None, None, None, None, None]
+|-
+|rowspan="2"|[[Redwood tree]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#34288 34288]
+|-
+|actions || ['Cut', 'Inspect', None, 'Guide', None] || ['Cut', None, None, None, None]
+|-
+|rowspan="2"|[[Redwood tree]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#34289 34289]
+|-
+|actions || [None, 'Inspect', None, 'Guide', None] || [None, None, None, None, None]
+|-
+|rowspan="2"|[[Redwood tree]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#34290 34290]
+|-
+|actions || ['Cut', 'Inspect', None, 'Guide', None] || ['Cut', None, None, None, None]
+|-
+|rowspan="2"|[[Redwood tree]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#34291 34291]
+|-
+|actions || [None, 'Inspect', None, 'Guide', None] || [None, None, None, None, None]
+|-
+|}

@@ -1,0 +1,1364 @@
+{{ToC}}
+==Items==
+===New Items===
+{| class="wikitable sortable"
+!colspan='11'|New Items
+|-
+! style=width:15em | Name !! ID !! Members !! Tradeable in GE !! Equipable !! Stackable !! Noteable !! Options !! Placeholder !! Cost !! Weight
+|-
+| [[Vesta's spear (bh)]] || [https://chisel.weirdgloop.org/moid/item_id.html#27900 27900] || Yes || No || Yes || No || No ||  Wield, Uncharge,  Drop || Yes || 300000
+|| 2267
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#27901 27901] || No || No || No || No || No ||     Drop || Yes || 1
+|| 0
+|-
+| [[Vesta's spear (bh)(inactive)]] || [https://chisel.weirdgloop.org/moid/item_id.html#27902 27902] || Yes || No || No || No || No || Activate,    Drop || Yes || 1
+|| 2267
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#27903 27903] || No || No || No || No || No ||     Drop || Yes || 1
+|| 0
+|-
+| [[Vesta's longsword (bh)]] || [https://chisel.weirdgloop.org/moid/item_id.html#27904 27904] || Yes || No || Yes || No || No ||  Wield, Uncharge,  Drop || Yes || 300000
+|| 1814
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#27905 27905] || No || No || No || No || No ||     Drop || Yes || 1
+|| 0
+|-
+| [[Vesta's longsword (bh)(inactive)]] || [https://chisel.weirdgloop.org/moid/item_id.html#27906 27906] || Yes || No || No || No || No || Activate,    Drop || Yes || 1
+|| 1814
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#27907 27907] || No || No || No || No || No ||     Drop || Yes || 1
+|| 0
+|-
+| [[Statius's warhammer (bh)]] || [https://chisel.weirdgloop.org/moid/item_id.html#27908 27908] || Yes || No || Yes || No || No ||  Wield, Uncharge,  Drop || Yes || 300000
+|| 1814
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#27909 27909] || No || No || No || No || No ||     Drop || Yes || 1
+|| 0
+|-
+| [[Statius's warhammer (bh)(inactive)]] || [https://chisel.weirdgloop.org/moid/item_id.html#27910 27910] || Yes || No || No || No || No || Activate,    Drop || Yes || 1
+|| 1814
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#27911 27911] || No || No || No || No || No ||     Drop || Yes || 1
+|| 0
+|-
+| [[Morrigan's throwing axe (bh)]] || [https://chisel.weirdgloop.org/moid/item_id.html#27912 27912] || Yes || No || Yes || No || No ||  Wield, Uncharge,  Drop || Yes || 300000
+|| 1360
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#27913 27913] || No || No || No || No || No ||     Drop || Yes || 1
+|| 0
+|-
+| [[Morrigan's throwing axe (bh)(inactive)]] || [https://chisel.weirdgloop.org/moid/item_id.html#27914 27914] || Yes || No || No || No || No || Activate,    Drop || Yes || 1
+|| 1360
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#27915 27915] || No || No || No || No || No ||     Drop || Yes || 1
+|| 0
+|-
+| [[Morrigan's javelin (bh)]] || [https://chisel.weirdgloop.org/moid/item_id.html#27916 27916] || Yes || No || Yes || No || No ||  Wield, Uncharge,  Drop || Yes || 300000
+|| 1360
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#27917 27917] || No || No || No || No || No ||     Drop || Yes || 1
+|| 0
+|-
+| [[Morrigan's javelin (bh)(inactive)]] || [https://chisel.weirdgloop.org/moid/item_id.html#27918 27918] || Yes || No || No || No || No || Activate,    Drop || Yes || 1
+|| 1360
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#27919 27919] || No || No || No || No || No ||     Drop || Yes || 1
+|| 0
+|-
+| [[Zuriel's staff (bh)]] || [https://chisel.weirdgloop.org/moid/item_id.html#27920 27920] || Yes || No || Yes || No || No ||  Wield, Uncharge,  Drop || Yes || 300000
+|| 2267
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#27921 27921] || No || No || No || No || No ||     Drop || Yes || 1
+|| 0
+|-
+| [[Zuriel's staff (bh)(inactive)]] || [https://chisel.weirdgloop.org/moid/item_id.html#27922 27922] || Yes || No || No || No || No || Activate,    Drop || Yes || 1
+|| 2267
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#27923 27923] || No || No || No || No || No ||     Drop || Yes || 1
+|| 0
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#27924 27924] || No || No || No || No || No ||     Drop || Yes || 1
+|| 0
+|-
+| [[Vesta's chainbody (bh)(inactive)]] || [https://chisel.weirdgloop.org/moid/item_id.html#27925 27925] || Yes || No || No || No || No || Activate,    Drop || Yes || 1
+|| 6803
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#27926 27926] || No || No || No || No || No ||     Drop || Yes || 1
+|| 0
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#27927 27927] || No || No || No || No || No ||     Drop || Yes || 1
+|| 0
+|-
+| [[Vesta's plateskirt (bh)(inactive)]] || [https://chisel.weirdgloop.org/moid/item_id.html#27928 27928] || Yes || No || No || No || No || Activate,    Drop || Yes || 1
+|| 8164
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#27929 27929] || No || No || No || No || No ||     Drop || Yes || 1
+|| 0
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#27930 27930] || No || No || No || No || No ||     Drop || Yes || 1
+|| 0
+|-
+| [[Statius's full helm (bh)(inactive)]] || [https://chisel.weirdgloop.org/moid/item_id.html#27931 27931] || Yes || No || No || No || No || Activate,    Drop || Yes || 1
+|| 2721
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#27932 27932] || No || No || No || No || No ||     Drop || Yes || 1
+|| 0
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#27933 27933] || No || No || No || No || No ||     Drop || Yes || 1
+|| 0
+|-
+| [[Statius's platebody (bh)(inactive)]] || [https://chisel.weirdgloop.org/moid/item_id.html#27934 27934] || Yes || No || No || No || No || Activate,    Drop || Yes || 1
+|| 9979
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#27935 27935] || No || No || No || No || No ||     Drop || Yes || 1
+|| 0
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#27936 27936] || No || No || No || No || No ||     Drop || Yes || 1
+|| 0
+|-
+| [[Statius's platelegs (bh)(inactive)]] || [https://chisel.weirdgloop.org/moid/item_id.html#27937 27937] || Yes || No || No || No || No || Activate,    Drop || Yes || 1
+|| 9071
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#27938 27938] || No || No || No || No || No ||     Drop || Yes || 1
+|| 0
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#27939 27939] || No || No || No || No || No ||     Drop || Yes || 1
+|| 0
+|-
+| [[Morrigan's coif (bh)(inactive)]] || [https://chisel.weirdgloop.org/moid/item_id.html#27940 27940] || Yes || No || No || No || No || Activate,    Drop || Yes || 1
+|| 907
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#27941 27941] || No || No || No || No || No ||     Drop || Yes || 1
+|| 0
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#27942 27942] || No || No || No || No || No ||     Drop || Yes || 1
+|| 0
+|-
+| [[Morrigan's leather body (bh)(inactive)]] || [https://chisel.weirdgloop.org/moid/item_id.html#27943 27943] || Yes || No || No || No || No || Activate,    Drop || Yes || 1
+|| 6803
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#27944 27944] || No || No || No || No || No ||     Drop || Yes || 1
+|| 0
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#27945 27945] || No || No || No || No || No ||     Drop || Yes || 1
+|| 0
+|-
+| [[Morrigan's leather chaps (bh)(inactive)]] || [https://chisel.weirdgloop.org/moid/item_id.html#27946 27946] || Yes || No || No || No || No || Activate,    Drop || Yes || 1
+|| 5443
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#27947 27947] || No || No || No || No || No ||     Drop || Yes || 1
+|| 0
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#27948 27948] || No || No || No || No || No ||     Drop || Yes || 1
+|| 0
+|-
+| [[Zuriel's hood (bh)(inactive)]] || [https://chisel.weirdgloop.org/moid/item_id.html#27949 27949] || Yes || No || No || No || No || Activate,    Drop || Yes || 1
+|| 907
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#27950 27950] || No || No || No || No || No ||     Drop || Yes || 1
+|| 0
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#27951 27951] || No || No || No || No || No ||     Drop || Yes || 1
+|| 0
+|-
+| [[Zuriel's robe top (bh)(inactive)]] || [https://chisel.weirdgloop.org/moid/item_id.html#27952 27952] || Yes || No || No || No || No || Activate,    Drop || Yes || 1
+|| 4535
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#27953 27953] || No || No || No || No || No ||     Drop || Yes || 1
+|| 0
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#27954 27954] || No || No || No || No || No ||     Drop || Yes || 1
+|| 0
+|-
+| [[Zuriel's robe bottom (bh)(inactive)]] || [https://chisel.weirdgloop.org/moid/item_id.html#27955 27955] || Yes || No || No || No || No || Activate,    Drop || Yes || 1
+|| 5443
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#27956 27956] || No || No || No || No || No ||     Drop || Yes || 1
+|| 0
+|-
+| [[Attack xp]] || [https://chisel.weirdgloop.org/moid/item_id.html#27957 27957] || Yes || No || No || No || No ||     Drop || No || 1
+|| 0
+|-
+| [[Strength xp]] || [https://chisel.weirdgloop.org/moid/item_id.html#27958 27958] || Yes || No || No || No || No ||     Drop || No || 1
+|| 0
+|-
+| [[Defence xp]] || [https://chisel.weirdgloop.org/moid/item_id.html#27959 27959] || Yes || No || No || No || No ||     Drop || No || 1
+|| 0
+|-
+| [[Hitpoints xp]] || [https://chisel.weirdgloop.org/moid/item_id.html#27960 27960] || Yes || No || No || No || No ||     Drop || No || 1
+|| 0
+|-
+| [[Magic xp]] || [https://chisel.weirdgloop.org/moid/item_id.html#27961 27961] || Yes || No || No || No || No ||     Drop || No || 1
+|| 0
+|-
+| [[Ranged xp]] || [https://chisel.weirdgloop.org/moid/item_id.html#27962 27962] || Yes || No || No || No || No ||     Drop || No || 1
+|| 0
+|-
+| [[Prayer xp]] || [https://chisel.weirdgloop.org/moid/item_id.html#27963 27963] || Yes || No || No || No || No ||     Drop || No || 1
+|| 0
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#27964 27964] || No || No || No || No || No ||     Drop || Yes || 1
+|| 0
+|-
+| [[Corrupted vesta's chainbody (bh)(inactive)]] || [https://chisel.weirdgloop.org/moid/item_id.html#27965 27965] || Yes || No || No || No || No || Activate,    Drop || Yes || 1
+|| 6803
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#27966 27966] || No || No || No || No || No ||     Drop || Yes || 1
+|| 0
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#27967 27967] || No || No || No || No || No ||     Drop || Yes || 1
+|| 0
+|-
+| [[Corrupted vesta's plateskirt (bh)(inactive)]] || [https://chisel.weirdgloop.org/moid/item_id.html#27968 27968] || Yes || No || No || No || No || Activate,    Drop || Yes || 1
+|| 8164
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#27969 27969] || No || No || No || No || No ||     Drop || Yes || 1
+|| 0
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#27970 27970] || No || No || No || No || No ||     Drop || Yes || 1
+|| 0
+|-
+| [[Corrupted statius's full helm (bh)(inactive)]] || [https://chisel.weirdgloop.org/moid/item_id.html#27971 27971] || Yes || No || No || No || No || Activate,    Drop || Yes || 1
+|| 2721
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#27972 27972] || No || No || No || No || No ||     Drop || Yes || 1
+|| 0
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#27973 27973] || No || No || No || No || No ||     Drop || Yes || 1
+|| 0
+|-
+| [[Corrupted statius's platebody (bh)(inactive)]] || [https://chisel.weirdgloop.org/moid/item_id.html#27974 27974] || Yes || No || No || No || No || Activate,    Drop || Yes || 1
+|| 9979
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#27975 27975] || No || No || No || No || No ||     Drop || Yes || 1
+|| 0
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#27976 27976] || No || No || No || No || No ||     Drop || Yes || 1
+|| 0
+|-
+| [[Corrupted statius's platelegs (bh)(inactive)]] || [https://chisel.weirdgloop.org/moid/item_id.html#27977 27977] || Yes || No || No || No || No || Activate,    Drop || Yes || 1
+|| 9071
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#27978 27978] || No || No || No || No || No ||     Drop || Yes || 1
+|| 0
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#27979 27979] || No || No || No || No || No ||     Drop || Yes || 1
+|| 0
+|-
+| [[Corrupted morrigan's coif (bh)(inactive)]] || [https://chisel.weirdgloop.org/moid/item_id.html#27980 27980] || Yes || No || No || No || No || Activate,    Drop || Yes || 1
+|| 907
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#27981 27981] || No || No || No || No || No ||     Drop || Yes || 1
+|| 0
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#27982 27982] || No || No || No || No || No ||     Drop || Yes || 1
+|| 0
+|-
+| [[Corrupted morrigan's leather body (bh)(inactive)]] || [https://chisel.weirdgloop.org/moid/item_id.html#27983 27983] || Yes || No || No || No || No || Activate,    Drop || Yes || 1
+|| 6803
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#27984 27984] || No || No || No || No || No ||     Drop || Yes || 1
+|| 0
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#27985 27985] || No || No || No || No || No ||     Drop || Yes || 1
+|| 0
+|-
+| [[Corrupted morrigan's leather chaps (bh)(inactive)]] || [https://chisel.weirdgloop.org/moid/item_id.html#27986 27986] || Yes || No || No || No || No || Activate,    Drop || Yes || 1
+|| 5443
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#27987 27987] || No || No || No || No || No ||     Drop || Yes || 1
+|| 0
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#27988 27988] || No || No || No || No || No ||     Drop || Yes || 1
+|| 0
+|-
+| [[Corrupted zuriel's hood (bh)(inactive)]] || [https://chisel.weirdgloop.org/moid/item_id.html#27989 27989] || Yes || No || No || No || No || Activate,    Drop || Yes || 1
+|| 907
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#27990 27990] || No || No || No || No || No ||     Drop || Yes || 1
+|| 0
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#27991 27991] || No || No || No || No || No ||     Drop || Yes || 1
+|| 0
+|-
+| [[Corrupted zuriel's robe top (bh)(inactive)]] || [https://chisel.weirdgloop.org/moid/item_id.html#27992 27992] || Yes || No || No || No || No || Activate,    Drop || Yes || 1
+|| 4535
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#27993 27993] || No || No || No || No || No ||     Drop || Yes || 1
+|| 0
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#27994 27994] || No || No || No || No || No ||     Drop || Yes || 1
+|| 0
+|-
+| [[Corrupted zuriel's robe bottom (bh)(inactive)]] || [https://chisel.weirdgloop.org/moid/item_id.html#27995 27995] || Yes || No || No || No || No || Activate,    Drop || Yes || 1
+|| 5443
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#27996 27996] || No || No || No || No || No ||     Drop || Yes || 1
+|| 0
+|-
+| [[Esoteric emblem (tier 1)]] || [https://chisel.weirdgloop.org/moid/item_id.html#27997 27997] || Yes || No || No || No || No ||     Destroy || Yes || 500
+|| 100
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#27998 27998] || No || No || No || No || No ||     Drop || Yes || 1
+|| 0
+|-
+| [[Esoteric emblem (tier 2)]] || [https://chisel.weirdgloop.org/moid/item_id.html#27999 27999] || Yes || No || No || No || No ||     Destroy || Yes || 501
+|| 100
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#28000 28000] || No || No || No || No || No ||     Drop || Yes || 1
+|| 0
+|-
+| [[Esoteric emblem (tier 3)]] || [https://chisel.weirdgloop.org/moid/item_id.html#28001 28001] || Yes || No || No || No || No ||     Destroy || Yes || 502
+|| 100
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#28002 28002] || No || No || No || No || No ||     Drop || Yes || 1
+|| 0
+|-
+| [[Esoteric emblem (tier 4)]] || [https://chisel.weirdgloop.org/moid/item_id.html#28003 28003] || Yes || No || No || No || No ||     Destroy || Yes || 503
+|| 100
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#28004 28004] || No || No || No || No || No ||     Drop || Yes || 1
+|| 0
+|-
+| [[Esoteric emblem (tier 5)]] || [https://chisel.weirdgloop.org/moid/item_id.html#28005 28005] || Yes || No || No || No || No ||     Destroy || Yes || 504
+|| 100
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#28006 28006] || No || No || No || No || No ||     Drop || Yes || 1
+|| 0
+|-
+| [[Esoteric emblem (tier 6)]] || [https://chisel.weirdgloop.org/moid/item_id.html#28007 28007] || Yes || No || No || No || No ||     Destroy || Yes || 505
+|| 100
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#28008 28008] || No || No || No || No || No ||     Drop || Yes || 1
+|| 0
+|-
+| [[Esoteric emblem (tier 7)]] || [https://chisel.weirdgloop.org/moid/item_id.html#28009 28009] || Yes || No || No || No || No ||     Destroy || Yes || 506
+|| 100
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#28010 28010] || No || No || No || No || No ||     Drop || Yes || 1
+|| 0
+|-
+| [[Esoteric emblem (tier 8)]] || [https://chisel.weirdgloop.org/moid/item_id.html#28011 28011] || Yes || No || No || No || No ||     Destroy || Yes || 507
+|| 100
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#28012 28012] || No || No || No || No || No ||     Drop || Yes || 1
+|| 0
+|-
+| [[Esoteric emblem (tier 9)]] || [https://chisel.weirdgloop.org/moid/item_id.html#28013 28013] || Yes || No || No || No || No ||     Destroy || Yes || 508
+|| 100
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#28014 28014] || No || No || No || No || No ||     Drop || Yes || 1
+|| 0
+|-
+| [[Esoteric emblem (tier 10)]] || [https://chisel.weirdgloop.org/moid/item_id.html#28015 28015] || Yes || No || No || No || No ||     Destroy || Yes || 509
+|| 100
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#28016 28016] || No || No || No || No || No ||     Drop || Yes || 1
+|| 0
+|-
+| [[Bounty hunter ornament kit]] || [https://chisel.weirdgloop.org/moid/item_id.html#28017 28017] || Yes || No || No || No || No ||     Drop || Yes || 5000
+|| 500
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#28018 28018] || No || No || No || No || No ||     Drop || Yes || 1
+|| 0
+|-
+| [[Dragon dagger (cr)]] || [https://chisel.weirdgloop.org/moid/item_id.html#28019 28019] || Yes || No || Yes || No || No ||  Wield,   Dismantle || Yes || 31000
+|| 453
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#28020 28020] || No || No || No || No || No ||     Drop || Yes || 1
+|| 0
+|-
+| [[Dragon dagger (p)(cr)]] || [https://chisel.weirdgloop.org/moid/item_id.html#28021 28021] || Yes || No || Yes || No || No ||  Wield,   Dismantle || Yes || 25000
+|| 453
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#28022 28022] || No || No || No || No || No ||     Drop || Yes || 1
+|| 0
+|-
+| [[Dragon dagger (p+)(cr)]] || [https://chisel.weirdgloop.org/moid/item_id.html#28023 28023] || Yes || No || Yes || No || No ||  Wield,   Dismantle || Yes || 25000
+|| 453
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#28024 28024] || No || No || No || No || No ||     Drop || Yes || 1
+|| 0
+|-
+| [[Dragon dagger (p++)(cr)]] || [https://chisel.weirdgloop.org/moid/item_id.html#28025 28025] || Yes || No || Yes || No || No ||  Wield,   Dismantle || Yes || 25000
+|| 453
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#28026 28026] || No || No || No || No || No ||     Drop || Yes || 1
+|| 0
+|-
+| [[Dragon mace (cr)]] || [https://chisel.weirdgloop.org/moid/item_id.html#28027 28027] || Yes || No || Yes || No || No ||  Wield,   Dismantle || Yes || 51000
+|| 1814
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#28028 28028] || No || No || No || No || No ||     Drop || Yes || 1
+|| 0
+|-
+| [[Dragon sword (cr)]] || [https://chisel.weirdgloop.org/moid/item_id.html#28029 28029] || Yes || No || Yes || No || No ||  Wield,   Dismantle || Yes || 73001
+|| 1814
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#28030 28030] || No || No || No || No || No ||     Drop || Yes || 1
+|| 0
+|-
+| [[Dragon scimitar (cr)]] || [https://chisel.weirdgloop.org/moid/item_id.html#28031 28031] || Yes || No || Yes || No || No ||  Wield,   Dismantle || Yes || 101000
+|| 1814
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#28032 28032] || No || No || No || No || No ||     Drop || Yes || 1
+|| 0
+|-
+| [[Dragon longsword (cr)]] || [https://chisel.weirdgloop.org/moid/item_id.html#28033 28033] || Yes || No || Yes || No || No ||  Wield,   Dismantle || Yes || 101000
+|| 1814
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#28034 28034] || No || No || No || No || No ||     Drop || Yes || 1
+|| 0
+|-
+| [[Dragon warhammer (cr)]] || [https://chisel.weirdgloop.org/moid/item_id.html#28035 28035] || Yes || No || Yes || No || No ||  Wield,   Dismantle || Yes || 121000
+|| 2000
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#28036 28036] || No || No || No || No || No ||     Drop || Yes || 1
+|| 0
+|-
+| [[Dragon battleaxe (cr)]] || [https://chisel.weirdgloop.org/moid/item_id.html#28037 28037] || Yes || No || Yes || No || No ||  Wield,   Dismantle || Yes || 201000
+|| 2721
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#28038 28038] || No || No || No || No || No ||     Drop || Yes || 1
+|| 0
+|-
+| [[Dragon claws (cr)]] || [https://chisel.weirdgloop.org/moid/item_id.html#28039 28039] || Yes || No || Yes || No || No ||  Wield,   Dismantle || Yes || 206000
+|| 907
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#28040 28040] || No || No || No || No || No ||     Drop || Yes || 1
+|| 0
+|-
+| [[Dragon spear (cr)]] || [https://chisel.weirdgloop.org/moid/item_id.html#28041 28041] || Yes || No || Yes || No || No ||  Wield,   Dismantle || Yes || 63400
+|| 2267
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#28042 28042] || No || No || No || No || No ||     Drop || Yes || 1
+|| 0
+|-
+| [[Dragon spear (p)(cr)]] || [https://chisel.weirdgloop.org/moid/item_id.html#28043 28043] || Yes || No || Yes || No || No ||  Wield,   Dismantle || Yes || 63400
+|| 2267
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#28044 28044] || No || No || No || No || No ||     Drop || Yes || 1
+|| 0
+|-
+| [[Dragon spear (p+)(cr)]] || [https://chisel.weirdgloop.org/moid/item_id.html#28045 28045] || Yes || No || Yes || No || No ||  Wield,   Dismantle || Yes || 63400
+|| 2267
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#28046 28046] || No || No || No || No || No ||     Drop || Yes || 1
+|| 0
+|-
+| [[Dragon spear (p++)(cr)]] || [https://chisel.weirdgloop.org/moid/item_id.html#28047 28047] || Yes || No || Yes || No || No ||  Wield,   Dismantle || Yes || 63400
+|| 2267
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#28048 28048] || No || No || No || No || No ||     Drop || Yes || 1
+|| 0
+|-
+| [[Dragon halberd (cr)]] || [https://chisel.weirdgloop.org/moid/item_id.html#28049 28049] || Yes || No || Yes || No || No ||  Wield,   Dismantle || Yes || 251000
+|| 3175
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#28050 28050] || No || No || No || No || No ||     Drop || Yes || 1
+|| 0
+|-
+| [[Dragon 2h sword (cr)]] || [https://chisel.weirdgloop.org/moid/item_id.html#28051 28051] || Yes || No || Yes || No || No ||  Wield,   Dismantle || Yes || 221000
+|| 3628
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#28052 28052] || No || No || No || No || No ||     Drop || Yes || 1
+|| 0
+|-
+| [[Dragon crossbow (cr)]] || [https://chisel.weirdgloop.org/moid/item_id.html#28053 28053] || Yes || No || Yes || No || No ||  Wield,   Dismantle || Yes || 55000
+|| 6000
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#28054 28054] || No || No || No || No || No ||     Drop || Yes || 1
+|| 0
+|-
+| [[Dragon boots (cr)]] || [https://chisel.weirdgloop.org/moid/item_id.html#28055 28055] || Yes || No || Yes || No || No ||  Wear,   Dismantle || Yes || 21000
+|| 1000
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#28056 28056] || No || No || No || No || No ||     Drop || Yes || 1
+|| 0
+|-
+| [[Dragon med helm (cr)]] || [https://chisel.weirdgloop.org/moid/item_id.html#28057 28057] || Yes || No || Yes || No || No ||  Wear,   Dismantle || Yes || 101000
+|| 1360
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#28058 28058] || No || No || No || No || No ||     Drop || Yes || 1
+|| 0
+|-
+| [[Dragon sq shield (cr)]] || [https://chisel.weirdgloop.org/moid/item_id.html#28059 28059] || Yes || No || Yes || No || No ||  Wield,   Dismantle || Yes || 501000
+|| 3175
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#28060 28060] || No || No || No || No || No ||     Drop || Yes || 1
+|| 0
+|-
+| [[Dragon platelegs (cr)]] || [https://chisel.weirdgloop.org/moid/item_id.html#28061 28061] || Yes || No || Yes || No || No ||  Wear,   Dismantle || Yes || 271000
+|| 9071
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#28062 28062] || No || No || No || No || No ||     Drop || Yes || 1
+|| 0
+|-
+| [[Dragon plateskirt (cr)]] || [https://chisel.weirdgloop.org/moid/item_id.html#28063 28063] || Yes || No || Yes || No || No ||  Wear,   Dismantle || Yes || 271000
+|| 9071
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#28064 28064] || No || No || No || No || No ||     Drop || Yes || 1
+|| 0
+|-
+| [[Dragon chainbody (cr)]] || [https://chisel.weirdgloop.org/moid/item_id.html#28065 28065] || Yes || No || Yes || No || No ||  Wear,   Dismantle || Yes || 251000
+|| 6803
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#28066 28066] || No || No || No || No || No ||     Drop || Yes || 1
+|| 0
+|-
+| [[Fighter torso (or)]] || [https://chisel.weirdgloop.org/moid/item_id.html#28067 28067] || Yes || No || Yes || No || No ||  Wear,   Dismantle || Yes || 65006
+|| 4000
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#28068 28068] || No || No || No || No || No ||     Drop || Yes || 1
+|| 0
+|-
+| [[Fighter torso (l)(or)]] || [https://chisel.weirdgloop.org/moid/item_id.html#28069 28069] || Yes || No || Yes || No || No ||  Wear,   Dismantle || No || 65006
+|| 4000
+|-
+| [[Helm of neitiznot (or)]] || [https://chisel.weirdgloop.org/moid/item_id.html#28070 28070] || Yes || No || Yes || No || No ||  Wear,   Dismantle || Yes || 51000
+|| 2267
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#28071 28071] || No || No || No || No || No ||     Drop || Yes || 1
+|| 0
+|-
+| [[Dark bow imbue scroll]] || [https://chisel.weirdgloop.org/moid/item_id.html#28072 28072] || Yes || No || No || No || No ||     Drop || Yes || 10000
+|| 2
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#28073 28073] || No || No || No || No || No ||     Drop || Yes || 1
+|| 0
+|-
+| [[Barrelchest anchor imbue scroll]] || [https://chisel.weirdgloop.org/moid/item_id.html#28074 28074] || Yes || No || No || No || No ||     Drop || Yes || 10000
+|| 2
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#28075 28075] || No || No || No || No || No ||     Drop || Yes || 1
+|| 0
+|-
+| [[Dragon mace imbue scroll]] || [https://chisel.weirdgloop.org/moid/item_id.html#28076 28076] || Yes || No || No || No || No ||     Drop || Yes || 10000
+|| 2
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#28077 28077] || No || No || No || No || No ||     Drop || Yes || 1
+|| 0
+|-
+| [[Dragon longsword imbue scroll]] || [https://chisel.weirdgloop.org/moid/item_id.html#28078 28078] || Yes || No || No || No || No ||     Drop || Yes || 10000
+|| 2
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#28079 28079] || No || No || No || No || No ||     Drop || Yes || 1
+|| 0
+|-
+| [[Abyssal dagger imbue scroll]] || [https://chisel.weirdgloop.org/moid/item_id.html#28080 28080] || Yes || No || No || No || No ||     Drop || Yes || 10000
+|| 2
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#28081 28081] || No || No || No || No || No ||     Drop || Yes || 1
+|| 0
+|-
+|-
+|}
+===Removed Items===
+{| class="wikitable sortable"
+!colspan='2'|Removed Items
+|-
+! style=width:15em | Name !! ID
+|-
+|-
+|}
+===Diff Items===
+{| class="wikitable sortable"
+!colspan='5'|Diff Items
+|-
+! style=width:15em | Name !! ID !! Key !! Previous Value !! New Value
+|-
+|rowspan="2"|[[Dragon med helm]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#1149 1149]
+|-
+|params || {'1564': 0, '436': 60, '434': 1} || {'434': 1, '258': 47, '1564': 0, '436': 60}
+|-
+|rowspan="2"|[[Dragon spear]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#1249 1249]
+|-
+|params || {'1564': 3, '436': 60, '434': 0} || {'434': 0, '258': 46, '1564': 3, '436': 60}
+|-
+|rowspan="2"|[[Dragon 2h sword]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#7158 7158]
+|-
+|params || {'1564': 3, '436': 60, '434': 0} || {'434': 0, '258': 45, '1564': 3, '436': 60}
+|-
+|rowspan="2"|[[Helm of neitiznot]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#10828 10828]
+|-
+|params || {'1564': 0, '436': 55, '434': 1} || {'434': 1, '258': 48, '1564': 0, '436': 55}
+|-
+|rowspan="5"|[[Magic shortbow (i)]]
+|rowspan="5"|[https://chisel.weirdgloop.org/moid/item_id.html#12788 12788]
+|-
+|inventoryModel || 2562 || 48061
+|-
+| maleModel0 || 512 || 47997
+|-
+| femaleModel0 || 512 || 47999
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="5"|[[Vesta's chainbody (bh)]]
+|rowspan="5"|[https://chisel.weirdgloop.org/moid/item_id.html#27831 27831]
+|-
+|name || [[Vesta's chainbody]] || [[Vesta's chainbody (bh)]]
+|-
+| members || False || True
+|-
+| interfaceOptions || [None, 'Wear', None, None, 'Drop'] || [None, 'Wear', 'Uncharge', None, 'Drop']
+|-
+| placeholderId || -1 || 27924
+|-
+|rowspan="5"|[[Vesta's plateskirt (bh)]]
+|rowspan="5"|[https://chisel.weirdgloop.org/moid/item_id.html#27832 27832]
+|-
+|name || [[Vesta's plateskirt]] || [[Vesta's plateskirt (bh)]]
+|-
+| members || False || True
+|-
+| interfaceOptions || [None, 'Wear', None, None, 'Drop'] || [None, 'Wear', 'Uncharge', None, 'Drop']
+|-
+| placeholderId || -1 || 27927
+|-
+|rowspan="5"|[[Statius's full helm (bh)]]
+|rowspan="5"|[https://chisel.weirdgloop.org/moid/item_id.html#27833 27833]
+|-
+|name || [[Statius's full helm]] || [[Statius's full helm (bh)]]
+|-
+| members || False || True
+|-
+| interfaceOptions || [None, 'Wear', None, None, 'Drop'] || [None, 'Wear', 'Uncharge', None, 'Drop']
+|-
+| placeholderId || -1 || 27930
+|-
+|rowspan="5"|[[Statius's platebody (bh)]]
+|rowspan="5"|[https://chisel.weirdgloop.org/moid/item_id.html#27834 27834]
+|-
+|name || [[Statius's platebody]] || [[Statius's platebody (bh)]]
+|-
+| members || False || True
+|-
+| interfaceOptions || [None, 'Wear', None, None, 'Drop'] || [None, 'Wear', 'Uncharge', None, 'Drop']
+|-
+| placeholderId || -1 || 27933
+|-
+|rowspan="5"|[[Statius's platelegs (bh)]]
+|rowspan="5"|[https://chisel.weirdgloop.org/moid/item_id.html#27835 27835]
+|-
+|name || [[Statius's platelegs]] || [[Statius's platelegs (bh)]]
+|-
+| members || False || True
+|-
+| interfaceOptions || [None, 'Wear', None, None, 'Drop'] || [None, 'Wear', 'Uncharge', None, 'Drop']
+|-
+| placeholderId || -1 || 27936
+|-
+|rowspan="5"|[[Morrigan's coif (bh)]]
+|rowspan="5"|[https://chisel.weirdgloop.org/moid/item_id.html#27836 27836]
+|-
+|name || [[Morrigan's coif]] || [[Morrigan's coif (bh)]]
+|-
+| members || False || True
+|-
+| interfaceOptions || [None, 'Wear', None, None, 'Drop'] || [None, 'Wear', 'Uncharge', None, 'Drop']
+|-
+| placeholderId || -1 || 27939
+|-
+|rowspan="5"|[[Morrigan's leather body (bh)]]
+|rowspan="5"|[https://chisel.weirdgloop.org/moid/item_id.html#27837 27837]
+|-
+|name || [[Morrigan's leather body]] || [[Morrigan's leather body (bh)]]
+|-
+| members || False || True
+|-
+| interfaceOptions || [None, 'Wear', None, None, 'Drop'] || [None, 'Wear', 'Uncharge', None, 'Drop']
+|-
+| placeholderId || -1 || 27942
+|-
+|rowspan="5"|[[Morrigan's leather chaps (bh)]]
+|rowspan="5"|[https://chisel.weirdgloop.org/moid/item_id.html#27838 27838]
+|-
+|name || [[Morrigan's leather chaps]] || [[Morrigan's leather chaps (bh)]]
+|-
+| members || False || True
+|-
+| interfaceOptions || [None, 'Wear', None, None, 'Drop'] || [None, 'Wear', 'Uncharge', None, 'Drop']
+|-
+| placeholderId || -1 || 27945
+|-
+|rowspan="5"|[[Zuriel's hood (bh)]]
+|rowspan="5"|[https://chisel.weirdgloop.org/moid/item_id.html#27839 27839]
+|-
+|name || [[Zuriel's hood]] || [[Zuriel's hood (bh)]]
+|-
+| members || False || True
+|-
+| interfaceOptions || [None, 'Wear', None, None, 'Drop'] || [None, 'Wear', 'Uncharge', None, 'Drop']
+|-
+| placeholderId || -1 || 27948
+|-
+|rowspan="5"|[[Zuriel's robe top (bh)]]
+|rowspan="5"|[https://chisel.weirdgloop.org/moid/item_id.html#27840 27840]
+|-
+|name || [[Zuriel's robe top]] || [[Zuriel's robe top (bh)]]
+|-
+| members || False || True
+|-
+| interfaceOptions || [None, 'Wear', None, None, 'Drop'] || [None, 'Wear', 'Uncharge', None, 'Drop']
+|-
+| placeholderId || -1 || 27951
+|-
+|rowspan="5"|[[Zuriel's robe bottom (bh)]]
+|rowspan="5"|[https://chisel.weirdgloop.org/moid/item_id.html#27841 27841]
+|-
+|name || [[Zuriel's robe bottom]] || [[Zuriel's robe bottom (bh)]]
+|-
+| members || False || True
+|-
+| interfaceOptions || [None, 'Wear', None, None, 'Drop'] || [None, 'Wear', 'Uncharge', None, 'Drop']
+|-
+| placeholderId || -1 || 27954
+|-
+|rowspan="8"|[[Corrupted vesta's chainbody (bh)]]
+|rowspan="8"|[https://chisel.weirdgloop.org/moid/item_id.html#27842 27842]
+|-
+|name || [[Vesta's chainbody (c)]] || [[Corrupted vesta's chainbody (bh)]]
+|-
+| inventoryModel || 35987 || 48100
+|-
+| members || False || True
+|-
+| interfaceOptions || [None, 'Wear', None, None, 'Drop'] || [None, 'Wear', 'Uncharge', None, 'Drop']
+|-
+| maleModel0 || 35953 || 47974
+|-
+| femaleModel0 || 35965 || 47990
+|-
+| placeholderId || -1 || 27964
+|-
+|rowspan="8"|[[Corrupted vesta's plateskirt (bh)]]
+|rowspan="8"|[https://chisel.weirdgloop.org/moid/item_id.html#27843 27843]
+|-
+|name || [[Vesta's plateskirt (c)]] || [[Corrupted vesta's plateskirt (bh)]]
+|-
+| inventoryModel || 35988 || 48097
+|-
+| members || False || True
+|-
+| interfaceOptions || [None, 'Wear', None, None, 'Drop'] || [None, 'Wear', 'Uncharge', None, 'Drop']
+|-
+| maleModel0 || 35950 || 47967
+|-
+| femaleModel0 || 35960 || 47984
+|-
+| placeholderId || -1 || 27967
+|-
+|rowspan="7"|[[Corrupted statius's full helm (bh)]]
+|rowspan="7"|[https://chisel.weirdgloop.org/moid/item_id.html#27844 27844]
+|-
+|name || [[Statius's full helm (c)]] || [[Corrupted statius's full helm (bh)]]
+|-
+| members || False || True
+|-
+| interfaceOptions || [None, 'Wear', None, None, 'Drop'] || [None, 'Wear', 'Uncharge', None, 'Drop']
+|-
+| maleModel0 || 35943 || 47962
+|-
+| femaleModel0 || 35958 || 47979
+|-
+| placeholderId || -1 || 27970
+|-
+|rowspan="8"|[[Corrupted statius's platebody (bh)]]
+|rowspan="8"|[https://chisel.weirdgloop.org/moid/item_id.html#27845 27845]
+|-
+|name || [[Statius's platebody (c)]] || [[Corrupted statius's platebody (bh)]]
+|-
+| inventoryModel || 35998 || 48091
+|-
+| members || False || True
+|-
+| interfaceOptions || [None, 'Wear', None, None, 'Drop'] || [None, 'Wear', 'Uncharge', None, 'Drop']
+|-
+| maleModel0 || 35951 || 47972
+|-
+| femaleModel0 || 35964 || 47993
+|-
+| placeholderId || -1 || 27973
+|-
+|rowspan="8"|[[Corrupted statius's platelegs (bh)]]
+|rowspan="8"|[https://chisel.weirdgloop.org/moid/item_id.html#27846 27846]
+|-
+|name || [[Statius's platelegs (c)]] || [[Corrupted statius's platelegs (bh)]]
+|-
+| inventoryModel || 35994 || 48095
+|-
+| members || False || True
+|-
+| interfaceOptions || [None, 'Wear', None, None, 'Drop'] || [None, 'Wear', 'Uncharge', None, 'Drop']
+|-
+| maleModel0 || 35947 || 47966
+|-
+| femaleModel0 || 35961 || 47987
+|-
+| placeholderId || -1 || 27976
+|-
+|rowspan="8"|[[Corrupted morrigan's coif (bh)]]
+|rowspan="8"|[https://chisel.weirdgloop.org/moid/item_id.html#27847 27847]
+|-
+|name || [[Morrigan's coif (c)]] || [[Corrupted morrigan's coif (bh)]]
+|-
+| inventoryModel || 36003 || 48094
+|-
+| members || False || True
+|-
+| interfaceOptions || [None, 'Wear', None, None, 'Drop'] || [None, 'Wear', 'Uncharge', None, 'Drop']
+|-
+| maleModel0 || 35945 || 47963
+|-
+| femaleModel0 || 35956 || 47981
+|-
+| placeholderId || -1 || 27979
+|-
+|rowspan="8"|[[Corrupted morrigan's leather body (bh)]]
+|rowspan="8"|[https://chisel.weirdgloop.org/moid/item_id.html#27848 27848]
+|-
+|name || [[Morrigan's leather body (c)]] || [[Corrupted morrigan's leather body (bh)]]
+|-
+| inventoryModel || 35985 || 48098
+|-
+| members || False || True
+|-
+| interfaceOptions || [None, 'Wear', None, None, 'Drop'] || [None, 'Wear', 'Uncharge', None, 'Drop']
+|-
+| maleModel0 || 35954 || 47973
+|-
+| femaleModel0 || 35963 || 47992
+|-
+| placeholderId || -1 || 27982
+|-
+|rowspan="8"|[[Corrupted morrigan's leather chaps (bh)]]
+|rowspan="8"|[https://chisel.weirdgloop.org/moid/item_id.html#27849 27849]
+|-
+|name || [[Morrigan's leather chaps (c)]] || [[Corrupted morrigan's leather chaps (bh)]]
+|-
+| inventoryModel || 36004 || 48101
+|-
+| members || False || True
+|-
+| interfaceOptions || [None, 'Wear', None, None, 'Drop'] || [None, 'Wear', 'Uncharge', None, 'Drop']
+|-
+| maleModel0 || 35948 || 47969
+|-
+| femaleModel0 || 35959 || 47985
+|-
+| placeholderId || -1 || 27985
+|-
+|rowspan="7"|[[Corrupted zuriel's hood (bh)]]
+|rowspan="7"|[https://chisel.weirdgloop.org/moid/item_id.html#27850 27850]
+|-
+|name || [[Zuriel's hood (c)]] || [[Corrupted zuriel's hood (bh)]]
+|-
+| members || False || True
+|-
+| interfaceOptions || [None, 'Wear', None, None, 'Drop'] || [None, 'Wear', 'Uncharge', None, 'Drop']
+|-
+| maleModel0 || 35944 || 47961
+|-
+| femaleModel0 || 35957 || 47980
+|-
+| placeholderId || -1 || 27988
+|-
+|rowspan="8"|[[Corrupted zuriel's robe top (bh)]]
+|rowspan="8"|[https://chisel.weirdgloop.org/moid/item_id.html#27851 27851]
+|-
+|name || [[Zuriel's robe top (c)]] || [[Corrupted zuriel's robe top (bh)]]
+|-
+| inventoryModel || 35992 || 48093
+|-
+| members || False || True
+|-
+| interfaceOptions || [None, 'Wear', None, None, 'Drop'] || [None, 'Wear', 'Uncharge', None, 'Drop']
+|-
+| maleModel0 || 35952 || 47975
+|-
+| femaleModel0 || 35966 || 47991
+|-
+| placeholderId || -1 || 27991
+|-
+|rowspan="8"|[[Corrupted zuriel's robe bottom (bh)]]
+|rowspan="8"|[https://chisel.weirdgloop.org/moid/item_id.html#27852 27852]
+|-
+|name || [[Zuriel's robe bottom (c)]] || [[Corrupted zuriel's robe bottom (bh)]]
+|-
+| inventoryModel || 36000 || 48099
+|-
+| members || False || True
+|-
+| interfaceOptions || [None, 'Wear', None, None, 'Drop'] || [None, 'Wear', 'Uncharge', None, 'Drop']
+|-
+| maleModel0 || 35949 || 47968
+|-
+| femaleModel0 || 35962 || 47986
+|-
+| placeholderId || -1 || 27994
+|-
+|rowspan="7"|[[Dark bow (bh)]]
+|rowspan="7"|[https://chisel.weirdgloop.org/moid/item_id.html#27853 27853]
+|-
+|inventoryModel || 26386 || 48059
+|-
+| members || False || True
+|-
+| interfaceOptions || [None, 'Wield', None, None, 'Drop'] || [None, 'Wield', 'Dismantle', None, 'Drop']
+|-
+| maleModel0 || 26279 || 48005
+|-
+| femaleModel0 || 26279 || 48005
+|-
+| params || {'434': 4, '1562': 3, '1563': 60, '1564': 3, '436': 60, '23': 60} || {'434': 4, '436': 60, '23': 60, '295': 1, '1562': 3, '1563': 60, '1564': 3}
+|-
+|rowspan="13"|[[Barrelchest anchor (bh)]]
+|rowspan="13"|[https://chisel.weirdgloop.org/moid/item_id.html#27855 27855]
+|-
+|xan2d || 321 || 294
+|-
+| yan2d || 24 || 2000
+|-
+| inventoryModel || 23133 || 48071
+|-
+| members || False || True
+|-
+| zoom2d || 1104 || 1382
+|-
+| xOffset2d || -5 || -3
+|-
+| yOffset2d || 2 || 21
+|-
+| interfaceOptions || [None, 'Wield', None, None, 'Destroy'] || [None, 'Wield', None, None, 'Dismantle']
+|-
+| maleModel0 || 22787 || 48004
+|-
+| femaleModel0 || 22787 || 48003
+|-
+| femaleOffset || 6 || 0
+|-
+| params || {'434': 0, '435': 2, '1564': 3, '436': 60, '437': 40} || {'434': 0, '435': 2, '1564': 3, '436': 60, '437': 40, '295': 1}
+|-
+|rowspan="13"|[[Dragon mace (bh)]]
+|rowspan="13"|[https://chisel.weirdgloop.org/moid/item_id.html#27857 27857]
+|-
+|xan2d || 348 || 316
+|-
+| yan2d || 1388 || 1286
+|-
+| inventoryModel || 2391 || 48065
+|-
+| members || False || True
+|-
+| zoom2d || 1440 || 1184
+|-
+| xOffset2d || -13 || -6
+|-
+| yOffset2d || 13 || 6
+|-
+| interfaceOptions || [None, 'Wield', None, None, 'Drop'] || [None, 'Wield', 'Dismantle', None, 'Drop']
+|-
+| maleModel0 || 493 || 48037
+|-
+| femaleModel0 || 493 || 48032
+|-
+| femaleOffset || 6 || 0
+|-
+| params || {'1564': 3, '436': 60, '434': 0} || {'434': 0, '1564': 3, '436': 60, '295': 1}
+|-
+|rowspan="8"|[[Dragon longsword (bh)]]
+|rowspan="8"|[https://chisel.weirdgloop.org/moid/item_id.html#27859 27859]
+|-
+|inventoryModel || 2834 || 48064
+|-
+| members || False || True
+|-
+| interfaceOptions || [None, 'Wield', None, None, 'Drop'] || [None, 'Wield', 'Dismantle', None, 'Drop']
+|-
+| maleModel0 || 564 || 48017
+|-
+| femaleModel0 || 564 || 48023
+|-
+| femaleOffset || 6 || 0
+|-
+| params || {'1564': 3, '436': 60, '434': 0} || {'434': 0, '1564': 3, '436': 60, '295': 1}
+|-
+|rowspan="12"|[[Abyssal dagger (bh)]]
+|rowspan="12"|[https://chisel.weirdgloop.org/moid/item_id.html#27861 27861]
+|-
+|xan2d || 1589 || 1358
+|-
+| yan2d || 781 || 772
+|-
+| inventoryModel || 29598 || 48062
+|-
+| members || False || True
+|-
+| zoom2d || 1347 || 835
+|-
+| xOffset2d || -5 || 5
+|-
+| yOffset2d || 3 || 7
+|-
+| interfaceOptions || [None, 'Wield', None, None, 'Drop'] || [None, 'Wield', 'Dismantle', None, 'Drop']
+|-
+| maleModel0 || 29425 || 48002
+|-
+| femaleModel0 || 42619 || 47998
+|-
+| params || {'1564': 3, '436': 70, '434': 0} || {'434': 0, '1564': 3, '436': 70, '295': 1}
+|-
+|rowspan="12"|[[Abyssal dagger (bh)(p)]]
+|rowspan="12"|[https://chisel.weirdgloop.org/moid/item_id.html#27863 27863]
+|-
+|name || [[Abyssal dagger (bhp)]] || [[Abyssal dagger (bh)(p)]]
+|-
+| xan2d || 1589 || 1358
+|-
+| yan2d || 781 || 772
+|-
+| inventoryModel || 29596 || 48060
+|-
+| members || False || True
+|-
+| zoom2d || 1347 || 835
+|-
+| xOffset2d || -5 || 5
+|-
+| yOffset2d || 3 || 7
+|-
+| interfaceOptions || [None, 'Wield', None, None, 'Drop'] || [None, 'Wield', 'Dismantle', None, 'Drop']
+|-
+| maleModel0 || 29426 || 48000
+|-
+| femaleModel0 || 42634 || 48001
+|-
+|rowspan="12"|[[Abyssal dagger (bh)(p+)]]
+|rowspan="12"|[https://chisel.weirdgloop.org/moid/item_id.html#27865 27865]
+|-
+|name || [[Abyssal dagger (bhp+)]] || [[Abyssal dagger (bh)(p+)]]
+|-
+| xan2d || 1589 || 1358
+|-
+| yan2d || 781 || 772
+|-
+| inventoryModel || 29596 || 48060
+|-
+| members || False || True
+|-
+| zoom2d || 1347 || 835
+|-
+| xOffset2d || -5 || 5
+|-
+| yOffset2d || 3 || 7
+|-
+| interfaceOptions || [None, 'Wield', None, None, 'Drop'] || [None, 'Wield', 'Dismantle', None, 'Drop']
+|-
+| maleModel0 || 29426 || 48000
+|-
+| femaleModel0 || 42634 || 48001
+|-
+|rowspan="12"|[[Abyssal dagger (bh)(p++)]]
+|rowspan="12"|[https://chisel.weirdgloop.org/moid/item_id.html#27867 27867]
+|-
+|name || [[Abyssal dagger (bhp++)]] || [[Abyssal dagger (bh)(p++)]]
+|-
+| xan2d || 1589 || 1358
+|-
+| yan2d || 781 || 772
+|-
+| inventoryModel || 29596 || 48060
+|-
+| members || False || True
+|-
+| zoom2d || 1347 || 835
+|-
+| xOffset2d || -5 || 5
+|-
+| yOffset2d || 3 || 7
+|-
+| interfaceOptions || [None, 'Wield', None, None, 'Drop'] || [None, 'Wield', 'Dismantle', None, 'Drop']
+|-
+| maleModel0 || 29426 || 48000
+|-
+| femaleModel0 || 42634 || 48001
+|-
+|}
+
+==Non-Player Characters==
+===New NPCs===
+{| class="wikitable sortable"
+!colspan='4'|New NPCs
+|-
+! style=width:15em | Name !! ID !! Combat Level !! Options
+|-
+| [[Emblem Trader]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12113 12113] || No Combat Level || Talk-to, Rewards, Coffer, Skull
+|-
+| [[Corrupted Warrior]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12114 12114] || No Combat Level || Talk-to, Coffer
+|-
+| [[Corrupted Warrior]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12115 12115] || No Combat Level || Talk-to, Coffer
+|-
+| [[Corrupted Warrior]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12118 12118] || No Combat Level || Talk-to, Coffer
+|-
+|-
+|}
+===Removed NPCs===
+{| class="wikitable sortable"
+!colspan='2'|Removed NPCs
+|-
+! style=width:15em | Name !! ID
+|-
+|-
+|}
+===Diff NPCs===
+{| class="wikitable sortable"
+!colspan='5'|Diff NPCs
+|-
+! style=width:15em | Name !! ID !! Key !! Previous Value !! New Value
+|-
+|rowspan="2"|[[Emblem Trader]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#308 308]
+|-
+|actions || ['Talk-to', None, 'Rewards', 'Coffer', 'Skull'] || ['Talk-to', None, 'Rewards', None, 'Skull']
+|-
+|rowspan="2"|[[Emblem Trader]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#7943 7943]
+|-
+|actions || ['Talk-to', None, 'Rewards', 'Coffer', 'Skull'] || ['Talk-to', None, 'Rewards', None, 'Skull']
+|-
+|}
+
+==Objects==
+===New Objects=== 
+{| class="wikitable sortable"
+!colspan='3'|New Objects
+|-
+! style=width:15em | Name !! ID !! Options
+|-
+| [[Arena]] || [https://chisel.weirdgloop.org/moid/object_id.html#47340 47340] || Enter
+|-
+| [[Arena]] || [https://chisel.weirdgloop.org/moid/object_id.html#47341 47341] || None
+|-
+| [[Arena]] || [https://chisel.weirdgloop.org/moid/object_id.html#47342 47342] || Enter
+|-
+| [[Arena]] || [https://chisel.weirdgloop.org/moid/object_id.html#47343 47343] || Enter
+|-
+| [[Arena]] || [https://chisel.weirdgloop.org/moid/object_id.html#47344 47344] || Exit
+|-
+| [[Bank chest]] || [https://chisel.weirdgloop.org/moid/object_id.html#47345 47345] || Use, Collect
+|-
+| [[Bounty Hunter portal]] || [https://chisel.weirdgloop.org/moid/object_id.html#47346 47346] || Enter
+|-
+| [[Bounty Hunter portal]] || [https://chisel.weirdgloop.org/moid/object_id.html#47347 47347] || Enter
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#47421 47421] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#47422 47422] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#47423 47423] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#47424 47424] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#47425 47425] || None
+|-
+| [[Bounty Hunter portal]] || [https://chisel.weirdgloop.org/moid/object_id.html#47426 47426] || None
+|-
+| [[Bounty Hunter portal]] || [https://chisel.weirdgloop.org/moid/object_id.html#47427 47427] || None
+|-
+| [[Bounty Hunter portal]] || [https://chisel.weirdgloop.org/moid/object_id.html#47428 47428] || None
+|-
+| [[Bounty Hunter portal]] || [https://chisel.weirdgloop.org/moid/object_id.html#47429 47429] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#47430 47430] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#47431 47431] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#47432 47432] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#47433 47433] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#47434 47434] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#47435 47435] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#47436 47436] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#47437 47437] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#47438 47438] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#47439 47439] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#47440 47440] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#47441 47441] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#47442 47442] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#47443 47443] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#47444 47444] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#47445 47445] || None
+|-
+| [[Candles]] || [https://chisel.weirdgloop.org/moid/object_id.html#47446 47446] || None
+|-
+| [[Candles]] || [https://chisel.weirdgloop.org/moid/object_id.html#47447 47447] || None
+|-
+| [[Candles]] || [https://chisel.weirdgloop.org/moid/object_id.html#47448 47448] || None
+|-
+| [[Barrel]] || [https://chisel.weirdgloop.org/moid/object_id.html#47449 47449] || None
+|-
+| [[Crane]] || [https://chisel.weirdgloop.org/moid/object_id.html#47450 47450] || None
+|-
+| [[Portcullis]] || [https://chisel.weirdgloop.org/moid/object_id.html#47451 47451] || None
+|-
+| [[Drapes]] || [https://chisel.weirdgloop.org/moid/object_id.html#47452 47452] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#47453 47453] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#47454 47454] || None
+|-
+| [[Ice chunks]] || [https://chisel.weirdgloop.org/moid/object_id.html#47455 47455] || None
+|-
+| [[Ice chunks]] || [https://chisel.weirdgloop.org/moid/object_id.html#47456 47456] || None
+|-
+| [[Ice chunks]] || [https://chisel.weirdgloop.org/moid/object_id.html#47457 47457] || None
+|-
+| [[Ice chunks]] || [https://chisel.weirdgloop.org/moid/object_id.html#47458 47458] || None
+|-
+| [[Ice chunks]] || [https://chisel.weirdgloop.org/moid/object_id.html#47459 47459] || None
+|-
+| [[Ice chunks]] || [https://chisel.weirdgloop.org/moid/object_id.html#47460 47460] || None
+|-
+| [[Coffer]] || [https://chisel.weirdgloop.org/moid/object_id.html#47461 47461] || Use
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#47462 47462] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#47463 47463] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#47464 47464] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#47465 47465] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#47466 47466] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#47467 47467] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#47468 47468] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#47469 47469] || None
+|-
+|-
+|}
+===Removed Objects===
+{| class="wikitable sortable"
+!colspan='2'|Removed Objects
+|-
+! style=width:15em | Name !! ID
+|-
+|-
+|}
+===Diff Objects===
+{| class="wikitable sortable"
+!colspan='5'|Diff Objects
+|-
+! style=width:15em | Name !! ID !! Key !! Previous Value !! New Value
+|-
+|rowspan="2"|[[Candles]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#11472 11472]
+|-
+|objectModels || [11827] || [11827, 48088]
+|-
+|rowspan="2"|[[Candles]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#11473 11473]
+|-
+|objectModels || [11828] || [11828, 48089]
+|-
+|rowspan="2"|[[Candles]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#12301 12301]
+|-
+|objectModels || [11827] || [11827, 48088]
+|-
+|rowspan="2"|[[Candles]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#12302 12302]
+|-
+|objectModels || [11828] || [11828, 48089]
+|-
+|rowspan="3"|[[null]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#14508 14508]
+|-
+|objectModels || [14646, 14647, 14648] || [14646, 47950, 14647, 14648]
+|-
+| objectTypes || [0, 3, 9] || [0, 2, 3, 9]
+|-
+|rowspan="3"|[[null]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#20041 20041]
+|-
+|objectModels || [14646, 14647, 14648] || [14646, 47950, 14647, 14648]
+|-
+| objectTypes || [0, 3, 9] || [0, 2, 3, 9]
+|-
+|rowspan="3"|[[Challenge portal]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#26642 26642]
+|-
+|ambient || 15 || 35
+|-
+| contrast || 0 || 1250
+|-
+|rowspan="4"|[[Castle Wars portal]]
+|rowspan="4"|[https://chisel.weirdgloop.org/moid/object_id.html#30386 30386]
+|-
+|contrast || 250 || 1000
+|-
+| modelSizeX || 64 || 128
+|-
+| modelSizeY || 128 || 64
+|-
+|rowspan="2"|[[Candles]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#42582 42582]
+|-
+|objectModels || [11827] || [11827, 48088]
+|-
+|rowspan="2"|[[Candles]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#42583 42583]
+|-
+|objectModels || [11828] || [11828, 48089]
+|-
+|rowspan="2"|[[Candles]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#42584 42584]
+|-
+|objectModels || [11827] || [11827, 48088]
+|-
+|rowspan="2"|[[Candles]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#42585 42585]
+|-
+|objectModels || [11828] || [11828, 48089]
+|-
+|rowspan="2"|[[Candles]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#42586 42586]
+|-
+|objectModels || [11827] || [11827, 48088]
+|-
+|rowspan="2"|[[Candles]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#42587 42587]
+|-
+|objectModels || [11828] || [11828, 48089]
+|-
+|rowspan="2"|[[Candles]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#46993 46993]
+|-
+|objectModels || [11827] || [11827, 48088]
+|-
+|rowspan="2"|[[Candles]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#46994 46994]
+|-
+|objectModels || [11828] || [11828, 48089]
+|-
+|}

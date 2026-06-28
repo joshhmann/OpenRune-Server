@@ -39,7 +39,10 @@ constructor(
     override fun ScriptContext.startup() {
         onIfOverlayButton("component.wornitems:equipment") { player.selectStats() }
 
-        val componentWornSlots = equipment_stats_to_slots_map.filterValuesNotNull().map { it.key to RSCM.getReverseMapping(RSCMType.COMPONENT,it.value.packed) }
+        val componentWornSlots =
+            equipment_stats_to_slots_map.filterValuesNotNull().map {
+                it.key to RSCM.getReverseMapping(RSCMType.COMPONENT, it.value.packed)
+            }
         for ((slot, component) in componentWornSlots) {
             onIfModalButton(component) { opWornMain(slot, it.op) }
         }
@@ -58,10 +61,7 @@ constructor(
         resetAnim()
         resetSpotanim()
         invTransmit(inv)
-        ifOpenMainSidePair(
-            main = "interface.equipment",
-            side = "interface.equipment_side",
-        )
+        ifOpenMainSidePair(main = "interface.equipment", side = "interface.equipment_side")
         interfaceInvInit(
             inv = inv,
             target = "component.equipment_side:items",

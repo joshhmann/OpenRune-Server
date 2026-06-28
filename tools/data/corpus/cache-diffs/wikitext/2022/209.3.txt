@@ -1,0 +1,631 @@
+{{ToC}}
+==Items==
+===New Items===
+{| class="wikitable sortable"
+!colspan='11'|New Items
+|-
+! style=width:15em | Name !! ID !! Members !! Tradeable in GE !! Equipable !! Stackable !! Noteable !! Options !! Placeholder !! Cost !! Weight
+|-
+| [[Treat cauldron]] || [https://chisel.weirdgloop.org/moid/item_id.html#27463 27463] || No || No || Yes || No || No ||  Wield, Check, Change, Destroy || Yes || 1
+|| 100
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#27464 27464] || No || No || No || No || No ||     Drop || Yes || 1
+|| 0
+|-
+| [[Treat cauldron]] || [https://chisel.weirdgloop.org/moid/item_id.html#27465 27465] || No || No || Yes || No || No ||  Wield, Check, Change, Destroy || Yes || 1
+|| 100
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#27466 27466] || No || No || No || No || No ||     Drop || Yes || 1
+|| 0
+|-
+| [[Treat cauldron]] || [https://chisel.weirdgloop.org/moid/item_id.html#27467 27467] || No || No || Yes || No || No ||  Wield, Check, Change, Destroy || Yes || 1
+|| 100
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#27468 27468] || No || No || No || No || No ||     Drop || Yes || 1
+|| 0
+|-
+| [[Treat cauldron]] || [https://chisel.weirdgloop.org/moid/item_id.html#27469 27469] || No || No || Yes || No || No ||  Wield, Check, Change, Destroy || Yes || 1
+|| 100
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#27470 27470] || No || No || No || No || No ||     Drop || Yes || 1
+|| 0
+|-
+| [[Treat cauldron]] || [https://chisel.weirdgloop.org/moid/item_id.html#27471 27471] || No || No || Yes || No || No ||  Wield, Check, Change, Destroy || Yes || 1
+|| 100
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#27472 27472] || No || No || No || No || No ||     Drop || Yes || 1
+|| 0
+|-
+| [[Witch hat]] || [https://chisel.weirdgloop.org/moid/item_id.html#27473 27473] || No || No || Yes || No || No ||  Wear,   Destroy || Yes || 0
+|| 28
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#27474 27474] || No || No || No || No || No ||     Drop || Yes || 1
+|| 0
+|-
+| [[Witch top]] || [https://chisel.weirdgloop.org/moid/item_id.html#27475 27475] || No || No || Yes || No || No ||  Wear,   Destroy || Yes || 0
+|| 28
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#27476 27476] || No || No || No || No || No ||     Drop || Yes || 1
+|| 0
+|-
+| [[Witch robes]] || [https://chisel.weirdgloop.org/moid/item_id.html#27477 27477] || No || No || Yes || No || No ||  Wear,   Destroy || Yes || 0
+|| 28
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#27478 27478] || No || No || No || No || No ||     Drop || Yes || 1
+|| 0
+|-
+| [[Witch boots]] || [https://chisel.weirdgloop.org/moid/item_id.html#27479 27479] || No || No || Yes || No || No ||  Wear,   Destroy || Yes || 0
+|| 28
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#27480 27480] || No || No || No || No || No ||     Drop || Yes || 1
+|| 0
+|-
+| [[Witch cape]] || [https://chisel.weirdgloop.org/moid/item_id.html#27481 27481] || No || No || Yes || No || No ||  Wear,   Destroy || Yes || 0
+|| 28
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#27482 27482] || No || No || No || No || No ||     Drop || Yes || 1
+|| 0
+|-
+| [[Terrifying charm]] || [https://chisel.weirdgloop.org/moid/item_id.html#27483 27483] || No || No || No || No || No ||  Equip, Check,  Destroy || Yes || 0
+|| 90
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#27484 27484] || No || No || No || No || No ||     Drop || Yes || 1
+|| 0
+|-
+| [[Bruised banana]] || [https://chisel.weirdgloop.org/moid/item_id.html#27485 27485] || No || No || No || No || Yes || Eat,    Drop || Yes || 0
+|| 28
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#27486 27486] || No || No || No || No || Yes ||     Drop || No || 1
+|| 0
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#27487 27487] || No || No || No || No || No ||     Drop || Yes || 1
+|| 0
+|-
+| [[Smelly sock]] || [https://chisel.weirdgloop.org/moid/item_id.html#27488 27488] || No || No || No || No || Yes || Sniff,    Drop || Yes || 0
+|| 30
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#27489 27489] || No || No || No || No || Yes ||     Drop || No || 1
+|| 0
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#27490 27490] || No || No || No || No || No ||     Drop || Yes || 1
+|| 0
+|-
+| [[Spooky egg]] || [https://chisel.weirdgloop.org/moid/item_id.html#27491 27491] || No || No || No || No || Yes ||     Drop || Yes || 0
+|| 20
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#27492 27492] || No || No || No || No || Yes ||     Drop || No || 1
+|| 0
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#27493 27493] || No || No || No || No || No ||     Drop || Yes || 1
+|| 0
+|-
+| [[Old wool]] || [https://chisel.weirdgloop.org/moid/item_id.html#27494 27494] || No || No || No || No || Yes ||     Drop || Yes || 0
+|| 12
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#27495 27495] || No || No || No || No || Yes ||     Drop || No || 1
+|| 0
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#27496 27496] || No || No || No || No || No ||     Drop || Yes || 1
+|| 0
+|-
+| [[Halloween wig]] || [https://chisel.weirdgloop.org/moid/item_id.html#27497 27497] || No || No || Yes || No || No ||  Wear, Change,  Destroy || Yes || 1
+|| 250
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#27498 27498] || No || No || No || No || No ||     Drop || Yes || 1
+|| 0
+|-
+| [[Halloween wig]] || [https://chisel.weirdgloop.org/moid/item_id.html#27499 27499] || No || No || Yes || No || No ||  Wear, Change,  Destroy || Yes || 1
+|| 250
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#27500 27500] || No || No || No || No || No ||     Drop || Yes || 1
+|| 0
+|-
+| [[Halloween wig]] || [https://chisel.weirdgloop.org/moid/item_id.html#27501 27501] || No || No || Yes || No || No ||  Wear, Change,  Destroy || Yes || 1
+|| 250
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#27502 27502] || No || No || No || No || No ||     Drop || Yes || 1
+|| 0
+|-
+| [[Halloween wig]] || [https://chisel.weirdgloop.org/moid/item_id.html#27503 27503] || No || No || Yes || No || No ||  Wear, Change,  Destroy || Yes || 1
+|| 250
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#27504 27504] || No || No || No || No || No ||     Drop || Yes || 1
+|| 0
+|-
+| [[Halloween wig]] || [https://chisel.weirdgloop.org/moid/item_id.html#27505 27505] || No || No || Yes || No || No ||  Wear, Change,  Destroy || Yes || 1
+|| 250
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#27506 27506] || No || No || No || No || No ||     Drop || Yes || 1
+|| 0
+|-
+| [[Halloween wig]] || [https://chisel.weirdgloop.org/moid/item_id.html#27507 27507] || No || No || Yes || No || No ||  Wear, Change,  Destroy || Yes || 1
+|| 250
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#27508 27508] || No || No || No || No || No ||     Drop || Yes || 1
+|| 0
+|-
+| [[Divine rune pouch (l)]] || [https://chisel.weirdgloop.org/moid/item_id.html#27509 27509] || Yes || No || No || No || No || Open,   Empty, Destroy || Yes || 20000
+|| 878
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#27510 27510] || No || No || No || No || No ||     Drop || Yes || 1
+|| 0
+|-
+|-
+|}
+===Removed Items===
+{| class="wikitable sortable"
+!colspan='2'|Removed Items
+|-
+! style=width:15em | Name !! ID
+|-
+|-
+|}
+===Diff Items===
+{| class="wikitable sortable"
+!colspan='5'|Diff Items
+|-
+! style=width:15em | Name !! ID !! Key !! Previous Value !! New Value
+|-
+|}
+
+==Non-Player Characters==
+===New NPCs===
+{| class="wikitable sortable"
+!colspan='4'|New NPCs
+|-
+! style=width:15em | Name !! ID !! Combat Level !! Options
+|-
+| [[Costumed child]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11855 11855] || No Combat Level || Talk-to, Holiday-items, Check-costume
+|-
+| [[Costumed child]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11856 11856] || No Combat Level || Talk-to, Holiday-items, Check-costume
+|-
+| [[Costumed child]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11857 11857] || No Combat Level || Talk-to, Holiday-items, Check-costume
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11858 11858] || 1 || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11859 11859] || No Combat Level || None
+|-
+| [[Ghost]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11860 11860] || No Combat Level || Talk-to
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11861 11861] || No Combat Level || None
+|-
+| [[Ghost]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11862 11862] || No Combat Level || Talk-to
+|-
+| [[Generous Treater]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11863 11863] || No Combat Level || Talk-to, Trick-or-treat
+|-
+| [[Generous Treater]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11864 11864] || No Combat Level || Talk-to, Trick-or-treat
+|-
+| [[Generous Treater]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11865 11865] || No Combat Level || Talk-to, Trick-or-treat
+|-
+| [[Generous Treater]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11866 11866] || No Combat Level || Talk-to, Trick-or-treat
+|-
+| [[Spooky dog]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11867 11867] || No Combat Level || Scare-away, Pet
+|-
+|-
+|}
+===Removed NPCs===
+{| class="wikitable sortable"
+!colspan='2'|Removed NPCs
+|-
+! style=width:15em | Name !! ID
+|-
+|-
+|}
+===Diff NPCs===
+{| class="wikitable sortable"
+!colspan='5'|Diff NPCs
+|-
+! style=width:15em | Name !! ID !! Key !! Previous Value !! New Value
+|-
+|rowspan="2"|[[Duke Horacio]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#815 815]
+|-
+|actions || ['Talk-to', None, None, None, None] || ['Talk-to', None, None, 'Trick-or-treat', None]
+|-
+|rowspan="2"|[[Guard]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#3010 3010]
+|-
+|actions || [None, 'Attack', 'Pickpocket', None, None] || [None, 'Attack', 'Pickpocket', 'Trick-or-treat', None]
+|-
+|rowspan="2"|[[Guard]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#3011 3011]
+|-
+|actions || [None, 'Attack', 'Pickpocket', None, None] || [None, 'Attack', 'Pickpocket', 'Trick-or-treat', None]
+|-
+|rowspan="2"|[[Man]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#3014 3014]
+|-
+|actions || ['Talk-to', 'Attack', 'Pickpocket', None, None] || ['Talk-to', 'Attack', 'Pickpocket', 'Trick-or-treat', None]
+|-
+|rowspan="2"|[[Woman]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#3015 3015]
+|-
+|actions || ['Talk-to', 'Attack', 'Pickpocket', None, None] || ['Talk-to', 'Attack', 'Pickpocket', 'Trick-or-treat', None]
+|-
+|rowspan="2"|[[Man]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#3106 3106]
+|-
+|actions || ['Talk-to', 'Attack', 'Pickpocket', None, None] || ['Talk-to', 'Attack', 'Pickpocket', 'Trick-or-treat', None]
+|-
+|rowspan="2"|[[Man]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#3107 3107]
+|-
+|actions || ['Talk-to', 'Attack', 'Pickpocket', None, None] || ['Talk-to', 'Attack', 'Pickpocket', 'Trick-or-treat', None]
+|-
+|rowspan="2"|[[Man]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#3108 3108]
+|-
+|actions || ['Talk-to', 'Attack', 'Pickpocket', None, None] || ['Talk-to', 'Attack', 'Pickpocket', 'Trick-or-treat', None]
+|-
+|rowspan="2"|[[Man]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#3109 3109]
+|-
+|actions || ['Talk-to', 'Attack', 'Pickpocket', None, None] || ['Talk-to', 'Attack', 'Pickpocket', 'Trick-or-treat', None]
+|-
+|rowspan="2"|[[Man]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#3110 3110]
+|-
+|actions || ['Talk-to', 'Attack', 'Pickpocket', None, None] || ['Talk-to', 'Attack', 'Pickpocket', 'Trick-or-treat', None]
+|-
+|rowspan="2"|[[Woman]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#3111 3111]
+|-
+|actions || ['Talk-to', 'Attack', 'Pickpocket', None, None] || ['Talk-to', 'Attack', 'Pickpocket', 'Trick-or-treat', None]
+|-
+|rowspan="2"|[[Woman]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#3112 3112]
+|-
+|actions || ['Talk-to', 'Attack', 'Pickpocket', None, None] || ['Talk-to', 'Attack', 'Pickpocket', 'Trick-or-treat', None]
+|-
+|rowspan="2"|[[Woman]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#3113 3113]
+|-
+|actions || ['Talk-to', 'Attack', 'Pickpocket', None, None] || ['Talk-to', 'Attack', 'Pickpocket', 'Trick-or-treat', None]
+|-
+|rowspan="2"|[[Guard]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#3254 3254]
+|-
+|actions || [None, 'Attack', 'Pickpocket', None, None] || [None, 'Attack', 'Pickpocket', 'Trick-or-treat', None]
+|-
+|rowspan="2"|[[Man]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#3261 3261]
+|-
+|actions || [None, 'Attack', 'Pickpocket', None, None] || [None, 'Attack', 'Pickpocket', 'Trick-or-treat', None]
+|-
+|rowspan="2"|[[Drunken man]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#3263 3263]
+|-
+|actions || ['Talk-to', 'Attack', 'Pickpocket', None, None] || ['Talk-to', 'Attack', 'Pickpocket', 'Trick-or-treat', None]
+|-
+|rowspan="2"|[[Man]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#3264 3264]
+|-
+|actions || ['Talk-to', 'Attack', 'Pickpocket', None, None] || ['Talk-to', 'Attack', 'Pickpocket', 'Trick-or-treat', None]
+|-
+|rowspan="2"|[[Man]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#3265 3265]
+|-
+|actions || ['Talk-to', 'Attack', 'Pickpocket', None, None] || ['Talk-to', 'Attack', 'Pickpocket', 'Trick-or-treat', None]
+|-
+|rowspan="2"|[[Norman]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#3266 3266]
+|-
+|actions || ['Talk-to', None, None, None, None] || ['Talk-to', None, None, 'Trick-or-treat', None]
+|-
+|rowspan="2"|[[Woman]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#3268 3268]
+|-
+|actions || ['Talk-to', 'Attack', 'Pickpocket', None, None] || ['Talk-to', 'Attack', 'Pickpocket', 'Trick-or-treat', None]
+|-
+|rowspan="2"|[[Guard]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#3269 3269]
+|-
+|actions || [None, 'Attack', 'Pickpocket', None, None] || [None, 'Attack', 'Pickpocket', 'Trick-or-treat', None]
+|-
+|rowspan="2"|[[Guard]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#3270 3270]
+|-
+|actions || [None, 'Attack', 'Pickpocket', None, None] || [None, 'Attack', 'Pickpocket', 'Trick-or-treat', None]
+|-
+|rowspan="2"|[[Guard]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#3271 3271]
+|-
+|actions || [None, 'Attack', 'Pickpocket', None, None] || [None, 'Attack', 'Pickpocket', 'Trick-or-treat', None]
+|-
+|rowspan="2"|[[Guard]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#3272 3272]
+|-
+|actions || [None, 'Attack', 'Pickpocket', None, None] || [None, 'Attack', 'Pickpocket', 'Trick-or-treat', None]
+|-
+|rowspan="2"|[[Guard]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#3273 3273]
+|-
+|actions || [None, 'Attack', 'Pickpocket', None, None] || [None, 'Attack', 'Pickpocket', 'Trick-or-treat', None]
+|-
+|rowspan="2"|[[Guard]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#3274 3274]
+|-
+|actions || [None, 'Attack', 'Pickpocket', None, None] || [None, 'Attack', 'Pickpocket', 'Trick-or-treat', None]
+|-
+|rowspan="2"|[[Guard]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#3283 3283]
+|-
+|actions || ['Talk-to', 'Attack', 'Pickpocket', None, None] || ['Talk-to', 'Attack', 'Pickpocket', 'Trick-or-treat', None]
+|-
+|rowspan="2"|[[Man]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#3652 3652]
+|-
+|actions || ['Talk-to', 'Attack', 'Pickpocket', None, None] || ['Talk-to', 'Attack', 'Pickpocket', 'Trick-or-treat', None]
+|-
+|rowspan="2"|[[Aggie]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#4284 4284]
+|-
+|actions || ['Talk-to', None, None, None, None] || ['Talk-to', None, None, 'Trick-or-treat', None]
+|-
+|rowspan="2"|[[Hetty]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#4619 4619]
+|-
+|actions || ['Talk-to', None, None, None, None] || ['Talk-to', None, None, 'Trick-or-treat', None]
+|-
+|rowspan="2"|[[King Roald]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#5215 5215]
+|-
+|actions || ['Talk-to', None, None, None, None] || ['Talk-to', None, None, 'Trick-or-treat', None]
+|-
+|rowspan="2"|[[Party Pete]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#5792 5792]
+|-
+|actions || ['Talk-to', None, None, None, None] || ['Talk-to', None, None, 'Trick-or-treat', None]
+|-
+|rowspan="2"|[[Man]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#6818 6818]
+|-
+|actions || ['Talk-to', 'Attack', 'Pickpocket', None, None] || ['Talk-to', 'Attack', 'Pickpocket', 'Trick-or-treat', None]
+|-
+|rowspan="2"|[[Man]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#6987 6987]
+|-
+|actions || ['Talk-to', 'Attack', 'Pickpocket', None, None] || ['Talk-to', 'Attack', 'Pickpocket', 'Trick-or-treat', None]
+|-
+|rowspan="2"|[[Man]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#6988 6988]
+|-
+|actions || ['Talk-to', 'Attack', 'Pickpocket', None, None] || ['Talk-to', 'Attack', 'Pickpocket', 'Trick-or-treat', None]
+|-
+|rowspan="2"|[[Man]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#6989 6989]
+|-
+|actions || ['Talk-to', 'Attack', 'Pickpocket', None, None] || ['Talk-to', 'Attack', 'Pickpocket', 'Trick-or-treat', None]
+|-
+|rowspan="2"|[[Woman]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#6990 6990]
+|-
+|actions || ['Talk-to', 'Attack', 'Pickpocket', None, None] || ['Talk-to', 'Attack', 'Pickpocket', 'Trick-or-treat', None]
+|-
+|rowspan="2"|[[Woman]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#6991 6991]
+|-
+|actions || ['Talk-to', 'Attack', 'Pickpocket', None, None] || ['Talk-to', 'Attack', 'Pickpocket', 'Trick-or-treat', None]
+|-
+|rowspan="2"|[[Woman]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#6992 6992]
+|-
+|actions || ['Talk-to', 'Attack', 'Pickpocket', None, None] || ['Talk-to', 'Attack', 'Pickpocket', 'Trick-or-treat', None]
+|-
+|rowspan="2"|[[Woman]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#10728 10728]
+|-
+|actions || ['Talk-to', 'Attack', 'Pickpocket', None, None] || ['Talk-to', 'Attack', 'Pickpocket', 'Trick-or-treat', None]
+|-
+|rowspan="2"|[[Woman]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#11053 11053]
+|-
+|actions || ['Talk-to', 'Attack', 'Pickpocket', None, None] || ['Talk-to', 'Attack', 'Pickpocket', 'Trick-or-treat', None]
+|-
+|rowspan="2"|[[Woman]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#11054 11054]
+|-
+|actions || ['Talk-to', 'Attack', 'Pickpocket', None, None] || ['Talk-to', 'Attack', 'Pickpocket', 'Trick-or-treat', None]
+|-
+|rowspan="2"|[[Man]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#11057 11057]
+|-
+|actions || ['Talk-to', 'Attack', 'Pickpocket', None, None] || ['Talk-to', 'Attack', 'Pickpocket', 'Trick-or-treat', None]
+|-
+|rowspan="2"|[[Man]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#11058 11058]
+|-
+|actions || ['Talk-to', 'Attack', 'Pickpocket', None, None] || ['Talk-to', 'Attack', 'Pickpocket', 'Trick-or-treat', None]
+|-
+|rowspan="2"|[[Guard]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#11092 11092]
+|-
+|actions || [None, 'Attack', 'Pickpocket', None, None] || [None, 'Attack', 'Pickpocket', 'Trick-or-treat', None]
+|-
+|rowspan="2"|[[Guard]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#11094 11094]
+|-
+|actions || [None, 'Attack', 'Pickpocket', None, None] || [None, 'Attack', 'Pickpocket', 'Trick-or-treat', None]
+|-
+|rowspan="2"|[[Guard]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#11096 11096]
+|-
+|actions || [None, 'Attack', 'Pickpocket', None, None] || [None, 'Attack', 'Pickpocket', 'Trick-or-treat', None]
+|-
+|rowspan="2"|[[Guard]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#11098 11098]
+|-
+|actions || [None, 'Attack', 'Pickpocket', None, None] || [None, 'Attack', 'Pickpocket', 'Trick-or-treat', None]
+|-
+|rowspan="2"|[[Guard]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#11100 11100]
+|-
+|actions || [None, 'Attack', 'Pickpocket', None, None] || [None, 'Attack', 'Pickpocket', 'Trick-or-treat', None]
+|-
+|rowspan="2"|[[Guard]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#11102 11102]
+|-
+|actions || [None, 'Attack', 'Pickpocket', None, None] || [None, 'Attack', 'Pickpocket', 'Trick-or-treat', None]
+|-
+|rowspan="2"|[[Guard]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#11104 11104]
+|-
+|actions || [None, 'Attack', 'Pickpocket', None, None] || [None, 'Attack', 'Pickpocket', 'Trick-or-treat', None]
+|-
+|rowspan="2"|[[Guard]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#11106 11106]
+|-
+|actions || [None, 'Attack', 'Pickpocket', None, None] || [None, 'Attack', 'Pickpocket', 'Trick-or-treat', None]
+|-
+|}
+
+==Objects==
+===New Objects=== 
+{| class="wikitable sortable"
+!colspan='3'|New Objects
+|-
+! style=width:15em | Name !! ID !! Options
+|-
+| [[Great cauldron]] || [https://chisel.weirdgloop.org/moid/object_id.html#46255 46255] || Deposit, Check, Claim
+|-
+| [[Great cauldron]] || [https://chisel.weirdgloop.org/moid/object_id.html#46256 46256] || Deposit, Check, Claim
+|-
+| [[Great cauldron]] || [https://chisel.weirdgloop.org/moid/object_id.html#46257 46257] || Deposit, Check, Claim
+|-
+| [[Great cauldron]] || [https://chisel.weirdgloop.org/moid/object_id.html#46258 46258] || Deposit, Check, Claim
+|-
+| [[Great cauldron]] || [https://chisel.weirdgloop.org/moid/object_id.html#46259 46259] || Deposit, Check, Claim
+|-
+| [[Jack-O-Lanterns]] || [https://chisel.weirdgloop.org/moid/object_id.html#46260 46260] || None
+|-
+| [[Jack-O-Lantern]] || [https://chisel.weirdgloop.org/moid/object_id.html#46261 46261] || None
+|-
+| [[Jack-O-Lantern]] || [https://chisel.weirdgloop.org/moid/object_id.html#46262 46262] || None
+|-
+| [[Jack-O-Lantern]] || [https://chisel.weirdgloop.org/moid/object_id.html#46263 46263] || None
+|-
+| [[Jack-O-Lantern]] || [https://chisel.weirdgloop.org/moid/object_id.html#46264 46264] || None
+|-
+| [[Jack-O-Lantern]] || [https://chisel.weirdgloop.org/moid/object_id.html#46265 46265] || None
+|-
+| [[Jack-O-Lantern]] || [https://chisel.weirdgloop.org/moid/object_id.html#46266 46266] || None
+|-
+| [[Jack-O-Lantern]] || [https://chisel.weirdgloop.org/moid/object_id.html#46267 46267] || None
+|-
+| [[Jack-O-Lantern]] || [https://chisel.weirdgloop.org/moid/object_id.html#46268 46268] || None
+|-
+| [[Jack-O-Lantern]] || [https://chisel.weirdgloop.org/moid/object_id.html#46269 46269] || None
+|-
+| [[Jack-O-Lantern]] || [https://chisel.weirdgloop.org/moid/object_id.html#46270 46270] || None
+|-
+| [[Jack-O-Lantern]] || [https://chisel.weirdgloop.org/moid/object_id.html#46271 46271] || None
+|-
+| [[Jack-O-Lantern]] || [https://chisel.weirdgloop.org/moid/object_id.html#46272 46272] || None
+|-
+| [[Jack-O-Lanterns]] || [https://chisel.weirdgloop.org/moid/object_id.html#46273 46273] || None
+|-
+| [[Jack-O-Lantern]] || [https://chisel.weirdgloop.org/moid/object_id.html#46274 46274] || None
+|-
+| [[Jack-O-Lantern]] || [https://chisel.weirdgloop.org/moid/object_id.html#46275 46275] || None
+|-
+| [[Jack-O-Lantern]] || [https://chisel.weirdgloop.org/moid/object_id.html#46276 46276] || None
+|-
+| [[Jack-O-Lantern]] || [https://chisel.weirdgloop.org/moid/object_id.html#46277 46277] || None
+|-
+| [[Jack-O-Lantern]] || [https://chisel.weirdgloop.org/moid/object_id.html#46278 46278] || None
+|-
+| [[Jack-O-Lantern]] || [https://chisel.weirdgloop.org/moid/object_id.html#46279 46279] || None
+|-
+| [[Jack-O-Lantern]] || [https://chisel.weirdgloop.org/moid/object_id.html#46280 46280] || None
+|-
+| [[Candy Bowl]] || [https://chisel.weirdgloop.org/moid/object_id.html#46281 46281] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#46282 46282] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#46283 46283] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#46284 46284] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#46285 46285] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#46286 46286] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#46287 46287] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#46288 46288] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#46289 46289] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#46290 46290] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#46291 46291] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#46292 46292] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#46293 46293] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#46294 46294] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#46295 46295] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#46296 46296] || None
+|-
+| [[Autumn Wreath]] || [https://chisel.weirdgloop.org/moid/object_id.html#46297 46297] || None
+|-
+| [[Shade Decoration]] || [https://chisel.weirdgloop.org/moid/object_id.html#46298 46298] || None
+|-
+| [[Wall-Beast Decoration]] || [https://chisel.weirdgloop.org/moid/object_id.html#46299 46299] || None
+|-
+| [[Spooky Scarecrow]] || [https://chisel.weirdgloop.org/moid/object_id.html#46300 46300] || None
+|-
+| [[Spooky Scarecrow]] || [https://chisel.weirdgloop.org/moid/object_id.html#46301 46301] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#46302 46302] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#46303 46303] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#46304 46304] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#46305 46305] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#46306 46306] || None
+|-
+| [[Spooky Stocks]] || [https://chisel.weirdgloop.org/moid/object_id.html#46307 46307] || None
+|-
+| [[Spooky Gravestone]] || [https://chisel.weirdgloop.org/moid/object_id.html#46308 46308] || None
+|-
+| [[Hay bale]] || [https://chisel.weirdgloop.org/moid/object_id.html#46309 46309] || None
+|-
+| [[Hay bale]] || [https://chisel.weirdgloop.org/moid/object_id.html#46310 46310] || None
+|-
+| [[Hay bale]] || [https://chisel.weirdgloop.org/moid/object_id.html#46311 46311] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#46312 46312] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#46313 46313] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#46314 46314] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#46315 46315] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#46316 46316] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#46317 46317] || None
+|-
+|-
+|}
+===Removed Objects===
+{| class="wikitable sortable"
+!colspan='2'|Removed Objects
+|-
+! style=width:15em | Name !! ID
+|-
+|-
+|}
+===Diff Objects===
+{| class="wikitable sortable"
+!colspan='5'|Diff Objects
+|-
+! style=width:15em | Name !! ID !! Key !! Previous Value !! New Value
+|-
+|}

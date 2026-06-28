@@ -1,0 +1,341 @@
+{{ToC}}
+==Items==
+===New Items===
+{| class="wikitable sortable"
+!colspan='11'|New Items
+|-
+! style=width:15em | Name !! ID !! Members !! Tradeable in GE !! Equipable !! Stackable !! Noteable !! Options !! Placeholder !! Cost !! Weight
+|-
+| [[Stink bomb]] || [https://chisel.weirdgloop.org/moid/item_id.html#28471 28471] || Yes || No || No || Yes || No || Set-off, Destroy || Yes || 20
+|| 0
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#28472 28472] || No || No || No || No || No || Drop || Yes || 1
+|| 0
+|-
+|-
+|}
+===Removed Items===
+{| class="wikitable sortable"
+!colspan='2'|Removed Items
+|-
+! style=width:15em | Name !! ID
+|-
+|-
+|}
+===Diff Items===
+{| class="wikitable sortable"
+!colspan='5'|Diff Items
+|-
+! style=width:15em | Name !! ID !! Key !! Previous Value !! New Value
+|-
+|rowspan="2"|[[Torva full helm (damaged)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26376 26376]
+|-
+|inventoryModel || 43232 || 49455
+|-
+|rowspan="2"|[[Torva platebody (damaged)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26378 26378]
+|-
+|inventoryModel || 43229 || 49457
+|-
+|rowspan="2"|[[Torva platelegs (damaged)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26380 26380]
+|-
+|inventoryModel || 43241 || 49460
+|-
+|rowspan="6"|[[Torva full helm]]
+|rowspan="6"|[https://chisel.weirdgloop.org/moid/item_id.html#26382 26382]
+|-
+|inventoryModel || 43243 || 49456
+|-
+| maleModel0 || 43118 || 49446
+|-
+| maleHeadModel || 43219 || 49461
+|-
+| femaleModel0 || 43156 || 49452
+|-
+| femaleHeadModel || 43224 || 49461
+|-
+|rowspan="6"|[[Torva platebody]]
+|rowspan="6"|[https://chisel.weirdgloop.org/moid/item_id.html#26384 26384]
+|-
+|inventoryModel || 43227 || 49458
+|-
+| maleModel0 || 43135 || 49450
+|-
+| maleModel1 || 43145 || -1
+|-
+| femaleModel0 || 43165 || 49454
+|-
+| femaleModel1 || 43167 || -1
+|-
+|rowspan="4"|[[Torva platelegs]]
+|rowspan="4"|[https://chisel.weirdgloop.org/moid/item_id.html#26386 26386]
+|-
+|inventoryModel || 43238 || 49459
+|-
+| maleModel0 || 43130 || 49448
+|-
+| femaleModel0 || 43161 || 49453
+|-
+|rowspan="4"|[[Ring of shadows]]
+|rowspan="4"|[https://chisel.weirdgloop.org/moid/item_id.html#28327 28327]
+|-
+|interfaceOptions || [None, 'Wear', 'Teleport', 'Check', 'Uncharge'] || ['Wear', 'Teleport', 'Check', 'Charge', 'Uncharge']
+|-
+| params || {'456': 'Check', '451': 'Ancient Vault', '452': 'Ghorrock Dungeon', '453': 'The Scar', '454': 'Lassar Undercity', '455': 'The Stranglewood'} || {'451': 'Ancient Vault', '148': 1, '452': 'Ghorrock Dungeon', '453': 'The Scar', '454': 'Lassar Undercity', '455': 'The Stranglewood', '456': 'Check'}
+|-
+| category || 0 || 1815
+|-
+|rowspan="3"|[[Ring of shadows (uncharged)]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/item_id.html#28329 28329]
+|-
+|interfaceOptions || [None, 'Wear', None, None, 'Destroy'] || ['Wear', None, None, 'Charge', 'Destroy']
+|-
+| category || 0 || 1815
+|-
+|}
+
+==Non-Player Characters==
+===New NPCs===
+{| class="wikitable sortable"
+!colspan='4'|New NPCs
+|-
+! style=width:15em | Name !! ID !! Combat Level !! Options
+|-
+| [[Tail]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12436 12436] || No Combat Level || 
+|-
+| [[Tail]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12437 12437] || No Combat Level || 
+|-
+| [[Tail]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12438 12438] || No Combat Level || 
+|-
+|-
+|}
+===Removed NPCs===
+{| class="wikitable sortable"
+!colspan='2'|Removed NPCs
+|-
+! style=width:15em | Name !! ID
+|-
+|-
+|}
+===Diff NPCs===
+{| class="wikitable sortable"
+!colspan='5'|Diff NPCs
+|-
+! style=width:15em | Name !! ID !! Key !! Previous Value !! New Value
+|-
+|rowspan="2"|[[Duke Sucellus]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#12193 12193]
+|-
+|combatLevel || 519 || 538
+|-
+|rowspan="2"|[[Duke Sucellus]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#12194 12194]
+|-
+|combatLevel || 519 || 538
+|-
+|rowspan="2"|[[Duke Sucellus]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#12195 12195]
+|-
+|combatLevel || 519 || 538
+|-
+|rowspan="2"|[[The Whisperer]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#12206 12206]
+|-
+|combatLevel || 568 || 587
+|-
+|rowspan="2"|[[The Whisperer]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#12207 12207]
+|-
+|combatLevel || 568 || 587
+|-
+|rowspan="2"|[[The Leviathan]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#12215 12215]
+|-
+|combatLevel || 574 || 593
+|-
+|rowspan="2"|[[Tail]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#12216 12216]
+|-
+|isMinimapVisible || True || False
+|-
+|rowspan="2"|[[Tail]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#12217 12217]
+|-
+|isMinimapVisible || True || False
+|-
+|rowspan="2"|[[Tail]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#12218 12218]
+|-
+|isMinimapVisible || True || False
+|-
+|rowspan="2"|[[The Leviathan]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#12219 12219]
+|-
+|combatLevel || 574 || 593
+|-
+|rowspan="2"|[[Vardorvis]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#12224 12224]
+|-
+|combatLevel || 553 || 572
+|-
+|rowspan="2"|[[Vardorvis]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#12228 12228]
+|-
+|combatLevel || 553 || 572
+|-
+|rowspan="2"|[[Mysterious Bandit]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#12347 12347]
+|-
+|actions || ['Talk-to', None, None, None, None] || ['Talk-to', None, 'Trade', None, None]
+|-
+|rowspan="2"|[[Strangled]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#12424 12424]
+|-
+|combatLevel || 553 || 572
+|-
+|rowspan="2"|[[Vardorvis]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#12425 12425]
+|-
+|combatLevel || 553 || 572
+|-
+|}
+
+==Objects==
+===New Objects=== 
+{| class="wikitable sortable"
+!colspan='3'|New Objects
+|-
+! style=width:15em | Name !! ID !! Options
+|-
+| [[Strange Pool]] || [https://chisel.weirdgloop.org/moid/object_id.html#49544 49544] || Drink-from
+|-
+| [[Strange Pool]] || [https://chisel.weirdgloop.org/moid/object_id.html#49545 49545] || 
+|-
+| [[Strange Pool]] || [https://chisel.weirdgloop.org/moid/object_id.html#49546 49546] || Drink-from
+|-
+| [[Strange Pool]] || [https://chisel.weirdgloop.org/moid/object_id.html#49547 49547] || 
+|-
+| [[Strange shrine]] || [https://chisel.weirdgloop.org/moid/object_id.html#49548 49548] || Inspect
+|-
+| [[Strange shrine]] || [https://chisel.weirdgloop.org/moid/object_id.html#49549 49549] || 
+|-
+| [[Stone chest]] || [https://chisel.weirdgloop.org/moid/object_id.html#49550 49550] || Search
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#49551 49551] || 
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#49552 49552] || 
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#49553 49553] || 
+|-
+| [[Strange shrine]] || [https://chisel.weirdgloop.org/moid/object_id.html#49554 49554] || 
+|-
+|-
+|}
+===Removed Objects===
+{| class="wikitable sortable"
+!colspan='2'|Removed Objects
+|-
+! style=width:15em | Name !! ID
+|-
+|-
+|}
+===Diff Objects===
+{| class="wikitable sortable"
+!colspan='5'|Diff Objects
+|-
+! style=width:15em | Name !! ID !! Key !! Previous Value !! New Value
+|-
+|rowspan="3"|[[Altar]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#48779 48779]
+|-
+|interactType || 2 || 1
+|-
+| blocksProjectile || True || False
+|-
+|rowspan="3"|[[Altar]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#48780 48780]
+|-
+|interactType || 2 || 1
+|-
+| blocksProjectile || True || False
+|-
+|rowspan="2"|[[Sapphire Gate]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#49122 49122]
+|-
+|name || [[Gate]] || [[Sapphire Gate]]
+|-
+|rowspan="2"|[[Sapphire Gate]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#49123 49123]
+|-
+|name || [[Gate]] || [[Sapphire Gate]]
+|-
+|rowspan="2"|[[Emerald Gate]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#49124 49124]
+|-
+|name || [[Gate]] || [[Emerald Gate]]
+|-
+|rowspan="2"|[[Emerald Gate]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#49125 49125]
+|-
+|name || [[Gate]] || [[Emerald Gate]]
+|-
+|rowspan="2"|[[Ruby Gate]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#49126 49126]
+|-
+|name || [[Gate]] || [[Ruby Gate]]
+|-
+|rowspan="2"|[[Ruby Gate]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#49127 49127]
+|-
+|name || [[Gate]] || [[Ruby Gate]]
+|-
+|rowspan="2"|[[Diamond Gate]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#49128 49128]
+|-
+|name || [[Gate]] || [[Diamond Gate]]
+|-
+|rowspan="2"|[[Diamond Gate]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#49129 49129]
+|-
+|name || [[Gate]] || [[Diamond Gate]]
+|-
+|rowspan="2"|[[Dragonstone Gate]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#49130 49130]
+|-
+|name || [[Gate]] || [[Dragonstone Gate]]
+|-
+|rowspan="2"|[[Dragonstone Gate]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#49131 49131]
+|-
+|name || [[Gate]] || [[Dragonstone Gate]]
+|-
+|rowspan="2"|[[Onyx Gate]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#49132 49132]
+|-
+|name || [[Gate]] || [[Onyx Gate]]
+|-
+|rowspan="2"|[[Onyx Gate]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#49133 49133]
+|-
+|name || [[Gate]] || [[Onyx Gate]]
+|-
+|rowspan="2"|[[Sapphire Gate]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#49135 49135]
+|-
+|name || [[Gate]] || [[Sapphire Gate]]
+|-
+|rowspan="2"|[[Sapphire Gate]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#49136 49136]
+|-
+|name || [[Gate]] || [[Sapphire Gate]]
+|-
+|rowspan="3"|[[null]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#49498 49498]
+|-
+|interactType || 2 || 1
+|-
+| blocksProjectile || True || False
+|-
+|}

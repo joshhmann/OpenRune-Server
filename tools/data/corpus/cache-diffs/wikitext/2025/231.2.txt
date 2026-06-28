@@ -1,0 +1,53 @@
+__TOC__
+==Structs==
+===Diff Structs===
+{| class="wikitable sortable sticky-header mw-collapsible"
+|-
+! colspan="5" | Diff Structs
+|-
+! style="width: 15em" | Id !! Key !! Previous Value !! New Value
+|-
+| rowspan="2" | [https://chisel.weirdgloop.org/structs/index.html?type=structs&id=4549 4549][https://abextm.github.io/cache2/#/viewer/struct/4549 (1)]
+|-
+| params || {'1787': 7, '1788': 'Special', '1789': <span style="color: #ee4231">1338</span>} || {'1787': 7, '1788': 'Special', '1789': <span style="color: #6bc71f">4930</span>}
+|}
+==Sprites==
+===Diff Sprites===
+{| class="wikitable sortable sticky-header mw-collapsible"
+|-
+! colspan="5" | Diff Sprites
+|-
+! style="width: 15em" | Id !! Key !! Previous Value !! New Value
+|-
+| rowspan="2" | [814 814][https://abextm.github.io/cache2/#/viewer/sprite/814 (1)]
+|-
+| sprites || [{offsetX:0, offsetY:0, pixelsWidth:88, pixelsHeight:19, encodingMode:0, pixelsLength:1672}, {offsetX:0, offsetY:0, pixelsWidth:88, pixelsHeight:19, encodingMode:0, pixelsLength:1672}, {offsetX:0, offsetY:0, pixelsWidth:88, pixelsHeight:19, encodingMode:0, pixelsLength:1672}, {offsetX:0, offsetY:0, pixelsWidth:88, pixelsHeight:19, encodingMode:0, pixelsLength:1672}, {offsetX:0, offsetY:0, pixelsWidth:88, pixelsHeight:19, encodingMode:0, pixelsLength:1672}, {offsetX:0, offsetY:0, pixelsWidth:88, pixelsHeight:19, encodingMode:0, pixelsLength:1672}, {offsetX:0, offsetY:0, pixelsWidth:88, pixelsHeight:19, encodingMode:0, pixelsLength:1672}, {offsetX:0, offsetY:0, pixelsWidth:88, pixelsHeight:19, encodingMode:0, pixelsLength:1672}, {offsetX:0, offsetY:0, pixelsWidth:88, pixelsHeight:19, encodingMode:0, pixelsLength:1672}, {offsetX:0, offsetY:0, pixelsWidth:88, pixelsHeight:19, encodingMode:0, pixelsLength:1672}, {offsetX:0, offsetY:0, pixelsWidth:88, pixelsHeight:19, encodingMode:0, pixelsLength:1672}, {offsetX:0, offsetY:0, pixelsWidth:88, pixelsHeight:19, encodingMode:0, pixelsLength:1672}, {offsetX:0, offsetY:0, pixelsWidth:88, pixelsHeight:19, encodingMode:0, pixelsLength:1672}, {offsetX:0, offsetY:0, pixelsWidth:88, pixelsHeight:19, encodingMode:0, pixelsLength:1672}, {offsetX:0, offsetY:0, pixelsWidth:88, pixelsHeight:19, encodingMode:0, pixelsLength:1672}, {offsetX:0, offsetY:0, pixelsWidth:88, pixelsHeight:19, encodingMode:0, pixelsLength:1672}] || [{offsetX:0, offsetY:0, pixelsWidth:88, pixelsHeight:19, encodingMode:0, pixelsLength:1672}, {offsetX:0, offsetY:0, pixelsWidth:88, pixelsHeight:19, encodingMode:0, pixelsLength:1672}, {offsetX:0, offsetY:0, pixelsWidth:88, pixelsHeight:19, encodingMode:0, pixelsLength:1672}, {offsetX:0, offsetY:0, pixelsWidth:88, pixelsHeight:19, encodingMode:0, pixelsLength:1672}, {offsetX:0, offsetY:0, pixelsWidth:88, pixelsHeight:19, encodingMode:0, pixelsLength:1672}, {offsetX:0, offsetY:0, pixelsWidth:88, pixelsHeight:19, encodingMode:0, pixelsLength:1672}, {offsetX:0, offsetY:0, pixelsWidth:88, pixelsHeight:19, encodingMode:0, pixelsLength:1672}, {offsetX:0, offsetY:0, pixelsWidth:88, pixelsHeight:19, encodingMode:0, pixelsLength:1672}, {offsetX:0, offsetY:0, pixelsWidth:88, pixelsHeight:19, encodingMode:0, pixelsLength:1672}, {offsetX:0, offsetY:0, pixelsWidth:88, pixelsHeight:19, encodingMode:0, pixelsLength:1672}, {offsetX:0, offsetY:0, pixelsWidth:88, pixelsHeight:19, encodingMode:0, pixelsLength:1672}, {offsetX:0, offsetY:0, pixelsWidth:88, pixelsHeight:19, encodingMode:0, pixelsLength:1672}, {offsetX:0, offsetY:0, pixelsWidth:88, pixelsHeight:19, encodingMode:0, pixelsLength:1672}, {offsetX:0, offsetY:0, pixelsWidth:88, pixelsHeight:19, encodingMode:0, pixelsLength:1672}, {offsetX:0, offsetY:0, pixelsWidth:88, pixelsHeight:19, encodingMode:0, pixelsLength:1672}, {offsetX:0, offsetY:0, pixelsWidth:88, pixelsHeight:19, encodingMode:0, pixelsLength:1672}]
+|-
+| rowspan="2" | [1130 1130][https://abextm.github.io/cache2/#/viewer/sprite/1130 (1)]
+|-
+| sprites || [{offsetX:0, offsetY:0, pixelsWidth:16, pixelsHeight:16, encodingMode:<span style="color: #ee4231">1</span>, pixelsLength:256}] || [{offsetX:0, offsetY:0, pixelsWidth:16, pixelsHeight:16, encodingMode:<span style="color: #6bc71f">0</span>, pixelsLength:256}]
+|-
+| rowspan="2" | [1131 1131][https://abextm.github.io/cache2/#/viewer/sprite/1131 (1)]
+|-
+| sprites || [{offsetX:0, offsetY:0, pixelsWidth:16, pixelsHeight:16, encodingMode:1, pixelsLength:256}] || [{offsetX:0, offsetY:0, pixelsWidth:16, pixelsHeight:16, encodingMode:1, pixelsLength:256}]
+|-
+| rowspan="2" | [4924 4924][https://abextm.github.io/cache2/#/viewer/sprite/4924 (1)]
+|-
+| sprites || [{offsetX:2, offsetY:0, pixelsWidth:12, pixelsHeight:16, encodingMode:0, pixelsLength:192}] || [{offsetX:2, offsetY:0, pixelsWidth:12, pixelsHeight:16, encodingMode:0, pixelsLength:192}]
+|-
+| rowspan="2" | [4927 4927][https://abextm.github.io/cache2/#/viewer/sprite/4927 (1)]
+|-
+| sprites || [{offsetX:0, offsetY:0, pixelsWidth:16, pixelsHeight:16, encodingMode:1, pixelsLength:256}] || [{offsetX:0, offsetY:0, pixelsWidth:16, pixelsHeight:16, encodingMode:1, pixelsLength:256}]
+|-
+| rowspan="2" | [4928 4928][https://abextm.github.io/cache2/#/viewer/sprite/4928 (1)]
+|-
+| sprites || [{offsetX:1, offsetY:1, pixelsWidth:14, pixelsHeight:14, encodingMode:0, pixelsLength:196}] || [{offsetX:1, offsetY:1, pixelsWidth:14, pixelsHeight:14, encodingMode:0, pixelsLength:196}]
+|-
+| rowspan="2" | [4929 4929][https://abextm.github.io/cache2/#/viewer/sprite/4929 (1)]
+|-
+| sprites || [{offsetX:1, offsetY:1, pixelsWidth:13, pixelsHeight:14, encodingMode:1, pixelsLength:182}] || [{offsetX:1, offsetY:1, pixelsWidth:13, pixelsHeight:14, encodingMode:1, pixelsLength:182}]
+|-
+| rowspan="2" | [4930 4930][https://abextm.github.io/cache2/#/viewer/sprite/4930 (1)]
+|-
+| sprites || [{offsetX:<span style="color: #ee4231">0</span>, offsetY:<span style="color: #ee4231">0</span>, pixelsWidth:<span style="color: #ee4231">0</span>, pixelsHeight:<span style="color: #ee4231">0</span>, encodingMode:0, pixelsLength:<span style="color: #ee4231">0</span>}] || [{offsetX:<span style="color: #6bc71f">1</span>, offsetY:<span style="color: #6bc71f">1</span>, pixelsWidth:<span style="color: #6bc71f">14</span>, pixelsHeight:<span style="color: #6bc71f">14</span>, encodingMode:0, pixelsLength:<span style="color: #6bc71f">196</span>}]
+|}

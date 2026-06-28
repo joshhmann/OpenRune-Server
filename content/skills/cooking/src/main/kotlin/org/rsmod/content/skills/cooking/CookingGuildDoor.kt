@@ -11,9 +11,7 @@ import org.rsmod.game.loc.BoundLocInfo
 import org.rsmod.plugin.scripts.PluginScript
 import org.rsmod.plugin.scripts.ScriptContext
 
-class CookingGuildDoor @Inject constructor(
-    private val locRepo: LocRepository,
-) : PluginScript() {
+class CookingGuildDoor @Inject constructor(private val locRepo: LocRepository) : PluginScript() {
 
     override fun ScriptContext.startup() {
         onOpLoc1("loc.chefdoor") {
@@ -24,7 +22,8 @@ class CookingGuildDoor @Inject constructor(
                             title = "Head chef",
                             type = "npc.cook",
                             mesanim = neutral,
-                            text = "You can't come in here unless you're wearing a chef's hat, or something like that.",
+                            text =
+                                "You can't come in here unless you're wearing a chef's hat, or something like that.",
                         )
                     }
 

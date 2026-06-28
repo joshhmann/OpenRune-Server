@@ -4,9 +4,7 @@ import jakarta.inject.Inject
 import org.rsmod.api.random.GameRandom
 import org.rsmod.api.repo.world.WorldRepository
 import org.rsmod.api.script.onAiContentTimer
-import org.rsmod.api.script.onAiTimer
 import org.rsmod.api.script.onOpContentNpcU
-import org.rsmod.api.script.onOpNpcU
 import org.rsmod.game.entity.Npc
 import org.rsmod.plugin.scripts.PluginScript
 import org.rsmod.plugin.scripts.ScriptContext

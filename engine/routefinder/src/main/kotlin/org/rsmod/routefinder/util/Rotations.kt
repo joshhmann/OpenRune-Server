@@ -8,7 +8,7 @@ public object Rotations {
             dimensionA
         }
 
-    public fun rotate(angle: Int, blockAccessFlags: Int): Int  {
+    public fun rotate(angle: Int, blockAccessFlags: Int): Int {
         val flags = blockAccessFlags and 0xF
         return if (angle == 0) {
             flags

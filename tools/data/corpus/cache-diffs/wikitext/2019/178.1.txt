@@ -1,0 +1,261 @@
+{{ToC}}
+==Items==
+===New Items===
+{| class="wikitable sortable"
+!colspan='11'|New Items
+|-
+! style=width:15em | Name !! ID !! Members !! Tradeable in GE !! Equipable !! Stackable !! Noteable !! Options !! Placeholder !! Cost
+|-
+|-
+|}
+===Removed Items===
+{| class="wikitable sortable"
+!colspan='2'|Removed Items
+|-
+! style=width:15em | Name !! ID
+|-
+|-
+|}
+===Diff Items===
+{| class="wikitable sortable"
+!colspan='5'|Diff Items
+|-
+! style=width:15em | Name !! ID !! Key !! Previous Value !! New Value
+|-
+|rowspan="9"|[[Xeric's talisman (inert)]]
+|rowspan="9"|[https://chisel.weirdgloop.org/moid/item_id.html#13392 13392]
+|-
+|xan2d || 512 || 444
+|-
+| inventoryModel || 8803 || 4641
+|-
+| zoom2d || 610 || 650
+|-
+| yOffset2d || 14 || 0
+|-
+| maleModel0 || 8779 || 4639
+|-
+| femaleModel0 || 8785 || 4640
+|-
+| colorFind ||<span style = "background-color: #5f580b;color:white">10021</span>,<span style = "background-color: #482a08;color:white">5916</span>,<span style = "background-color: #2d1605;color:white">4882</span>,<span style = "background-color: #cc783c;color:white">4696</span>,<span style = "background-color: #c6b7b7;color:white">127</span>||<span style = "background-color: #269206;color:white">19379</span>,<span style = "background-color: #1f7504;color:white">19369</span>
+|-
+| colorReplace ||<span style = "background-color: #2b0d02;color:white">2960</span>,<span style = "background-color: #2b0d02;color:white">2960</span>,<span style = "background-color: #2b0d02;color:white">2960</span>,<span style = "background-color: #0e0b0e;color:white">-11126</span>,<span style = "background-color: #312e2e;color:white">33</span>||<span style = "background-color: #242222;color:white">24</span>,<span style = "background-color: #171616;color:white">16</span>
+|-
+|rowspan="7"|[[Xeric's talisman]]
+|rowspan="7"|[https://chisel.weirdgloop.org/moid/item_id.html#13393 13393]
+|-
+|xan2d || 512 || 444
+|-
+| inventoryModel || 8803 || 4641
+|-
+| zoom2d || 610 || 650
+|-
+| yOffset2d || 14 || 0
+|-
+| maleModel0 || 8779 || 4639
+|-
+| femaleModel0 || 8785 || 4640
+|-
+|rowspan="3"|[[Null]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/item_id.html#23103 23103]
+|-
+|name || [[Cook's shopping list]] || [[Null]]
+|-
+| interfaceOptions || ['Read', None, None, None, 'Destroy'] || [None, None, None, None, 'Drop']
+|-
+|rowspan="3"|[[Null]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/item_id.html#23104 23104]
+|-
+|name || [[Cook's letter]] || [[Null]]
+|-
+| interfaceOptions || ['Read', None, None, None, 'Destroy'] || [None, None, None, None, 'Drop']
+|-
+|rowspan="3"|[[Null]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/item_id.html#23105 23105]
+|-
+|name || [[Brewer's folly]] || [[Null]]
+|-
+| interfaceOptions || ['Drink', None, None, None, 'Destroy'] || [None, None, None, None, 'Drop']
+|-
+|rowspan="3"|[[Null]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/item_id.html#23106 23106]
+|-
+|name || [[Vyvin's wine]] || [[Null]]
+|-
+| interfaceOptions || ['Drink', None, None, None, 'Destroy'] || [None, None, None, None, 'Drop']
+|-
+|rowspan="3"|[[Null]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/item_id.html#23107 23107]
+|-
+|name || [[Beer glass of water]] || [[Null]]
+|-
+| interfaceOptions || ['Drink', None, None, 'Empty', 'Destroy'] || [None, None, None, None, 'Destroy']
+|-
+|}
+
+==Non-Player Characters==
+===New NPCs===
+{| class="wikitable sortable"
+!colspan='4'|New NPCs
+|-
+! style=width:15em | Name !! ID !! Combat Level !! Options
+|-
+|-
+|}
+===Removed NPCs===
+{| class="wikitable sortable"
+!colspan='2'|Removed NPCs
+|-
+! style=width:15em | Name !! ID
+|-
+| [[Cook]] || [https://chisel.weirdgloop.org/moid/npc_id.html#6771 6771]
+|-
+| [[Hans]] || [https://chisel.weirdgloop.org/moid/npc_id.html#6784 6784]
+|-
+| [[Hans]] || [https://chisel.weirdgloop.org/moid/npc_id.html#7979 7979]
+|-
+| [[Duke Horacio]] || [https://chisel.weirdgloop.org/moid/npc_id.html#8633 8633]
+|-
+| [[Lumbridge Guide]] || [https://chisel.weirdgloop.org/moid/npc_id.html#8635 8635]
+|-
+| [[King Roald]] || [https://chisel.weirdgloop.org/moid/npc_id.html#8636 8636]
+|-
+| [[Ellamaria]] || [https://chisel.weirdgloop.org/moid/npc_id.html#8637 8637]
+|-
+| [[Wise Old Man]] || [https://chisel.weirdgloop.org/moid/npc_id.html#8638 8638]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/npc_id.html#8639 8639]
+|-
+| [[Gnome Child]] || [https://chisel.weirdgloop.org/moid/npc_id.html#8640 8640]
+|-
+| [[Rantz]] || [https://chisel.weirdgloop.org/moid/npc_id.html#8641 8641]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/npc_id.html#8642 8642]
+|-
+|-
+|}
+===Diff NPCs===
+{| class="wikitable sortable"
+!colspan='5'|Diff NPCs
+|-
+! style=width:15em | Name !! ID !! Key !! Previous Value !! New Value
+|-
+|rowspan="3"|[[Party Pete]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/npc_id.html#5792 5792]
+|-
+| recolorToFind ||<span style = "background-color: #524618;color:white">8741</span>,<span style = "background-color: #2b2402;color:white">9104</span>,<span style = "background-color: #0b3618;color:white">25238</span>,<span style = "background-color: #520a04;color:white">926</span>||<span style = "background-color: #524618;color:white">8741</span>,<span style = "background-color: #2b2402;color:white">9104</span>,<span style = "background-color: #0b3618;color:white">25238</span>
+|-
+| recolorToReplace ||<span style = "background-color: #999cad;color:white">-23443</span>,<span style = "background-color: #2346d1;color:white">-23854</span>,<span style = "background-color: #20212b;color:white">-22374</span>,<span style = "background-color: #0805b7;color:white">-21568</span>||<span style = "background-color: #999cad;color:white">-23443</span>,<span style = "background-color: #2346d1;color:white">-23854</span>,<span style = "background-color: #20212b;color:white">-22374</span>
+|-
+|}
+
+==Objects==
+===New Objects=== 
+{| class="wikitable sortable"
+!colspan='3'|New Objects
+|-
+! style=width:15em | Name !! ID !! Options
+|-
+| [[Dungeon entrance]] || [https://chisel.weirdgloop.org/moid/object_id.html#34713 34713] || Pay
+|-
+|-
+|}
+===Removed Objects===
+{| class="wikitable sortable"
+!colspan='2'|Removed Objects
+|-
+! style=width:15em | Name !! ID
+|-
+| [[Birthday cake]] || [https://chisel.weirdgloop.org/moid/object_id.html#26199 26199]
+|-
+| [[Birthday cake]] || [https://chisel.weirdgloop.org/moid/object_id.html#26200 26200]
+|-
+| [[Present]] || [https://chisel.weirdgloop.org/moid/object_id.html#26204 26204]
+|-
+| [[Present]] || [https://chisel.weirdgloop.org/moid/object_id.html#26205 26205]
+|-
+| [[Table]] || [https://chisel.weirdgloop.org/moid/object_id.html#26206 26206]
+|-
+| [[Light]] || [https://chisel.weirdgloop.org/moid/object_id.html#34657 34657]
+|-
+| [[Light]] || [https://chisel.weirdgloop.org/moid/object_id.html#34658 34658]
+|-
+| [[Light]] || [https://chisel.weirdgloop.org/moid/object_id.html#34673 34673]
+|-
+| [[Light]] || [https://chisel.weirdgloop.org/moid/object_id.html#34674 34674]
+|-
+| [[Light]] || [https://chisel.weirdgloop.org/moid/object_id.html#34675 34675]
+|-
+| [[Light]] || [https://chisel.weirdgloop.org/moid/object_id.html#34676 34676]
+|-
+| [[Banner]] || [https://chisel.weirdgloop.org/moid/object_id.html#34689 34689]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#34690 34690]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#34691 34691]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#34692 34692]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#34693 34693]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#34694 34694]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#34695 34695]
+|-
+| [[Banquet table]] || [https://chisel.weirdgloop.org/moid/object_id.html#34696 34696]
+|-
+| [[Present table]] || [https://chisel.weirdgloop.org/moid/object_id.html#34697 34697]
+|-
+| [[Birthday hat table]] || [https://chisel.weirdgloop.org/moid/object_id.html#34698 34698]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#34699 34699]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#34700 34700]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#34701 34701]
+|-
+| [[Party balloons]] || [https://chisel.weirdgloop.org/moid/object_id.html#34702 34702]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#34703 34703]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#34704 34704]
+|-
+|-
+|}
+===Diff Objects===
+{| class="wikitable sortable"
+!colspan='5'|Diff Objects
+|-
+! style=width:15em | Name !! ID !! Key !! Previous Value !! New Value
+|-
+|rowspan="7"|[[null]]
+|rowspan="7"|[https://chisel.weirdgloop.org/moid/object_id.html#20877 20877]
+|-
+|name || [[Dungeon entrance]] || [[null]]
+|-
+| varbitID || -1 || 8123
+|-
+| actions || ['Enter', None, None, None, None] || [None, None, None, None, None]
+|-
+| modelSizeX || 95 || 128
+|-
+| modelSizeHeight || 110 || 128
+|-
+| modelSizeY || 95 || 128
+|-
+|rowspan="2"|[[Staircase]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#24248 24248]
+|-
+|actions || ['Climb-up', 'Climb-down', None, None, None] || ['Climb', 'Climb-up', 'Climb-down', None, None]
+|-
+|rowspan="2"|[[Staircase]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#24249 24249]
+|-
+|actions || ['Climb-up', 'Climb-down', None, None, None] || ['Climb', 'Climb-up', 'Climb-down', None, None]
+|-
+|rowspan="2"|[[Birthday cake]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#26198 26198]
+|-
+|actions || ['Take Slice', None, None, None, None] || [None, None, None, None, None]
+|-
+|}

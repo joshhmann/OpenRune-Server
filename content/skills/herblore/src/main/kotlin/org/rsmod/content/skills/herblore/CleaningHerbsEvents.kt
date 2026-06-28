@@ -13,7 +13,9 @@ class CleaningHerbsEvents : PluginScript() {
         HerbloreDefinitions.cleaningHerbs.forEach { row ->
             onOpHeld1(row.input) { startCleanHerb(row) }
         }
-        onPlayerQueueWithArgs<CleanHerbTask>("queue.herblore_clean") { processCleanHerbTick(it.args) }
+        onPlayerQueueWithArgs<CleanHerbTask>("queue.herblore_clean") {
+            processCleanHerbTick(it.args)
+        }
     }
 
     private suspend fun ProtectedAccess.startCleanHerb(row: HerbloreCleaningRow) {
@@ -42,7 +44,7 @@ class CleaningHerbsEvents : PluginScript() {
 
         if (
             !inv.contains(row.input.internalName) ||
-            (inv.freeSpace() < 1 && !inv.contains(row.output.internalName))
+                (inv.freeSpace() < 1 && !inv.contains(row.output.internalName))
         ) {
             return
         }
@@ -63,12 +65,11 @@ class CleaningHerbsEvents : PluginScript() {
 
         if (
             inv.contains(row.input.internalName) &&
-            (inv.freeSpace() >= 1 || inv.contains(row.output.internalName))
+                (inv.freeSpace() >= 1 || inv.contains(row.output.internalName))
         ) {
             weakQueue("queue.herblore_clean", 2, task)
         }
     }
 
     private data class CleanHerbTask(val row: HerbloreCleaningRow)
-
 }

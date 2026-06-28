@@ -18,7 +18,6 @@ import org.rsmod.plugin.scripts.PluginScript
 import org.rsmod.plugin.scripts.ScriptContext
 import skillSuccess
 
-
 private enum class WineKind {
     Normal,
     Zamorak;
@@ -26,8 +25,10 @@ private enum class WineKind {
     companion object {
         fun fromUnfermentedProduct(internal: String): WineKind? =
             when (internal) {
-                "obj.jug_unfermented_wine", "obj.jug_wine" -> Normal
-                "obj.jug_unfermented_zamorak_wine", "obj.wine_of_zamorak" -> Zamorak
+                "obj.jug_unfermented_wine",
+                "obj.jug_wine" -> Normal
+                "obj.jug_unfermented_zamorak_wine",
+                "obj.wine_of_zamorak" -> Zamorak
                 else -> null
             }
     }
@@ -44,21 +45,24 @@ private data class WineMixRecipe(
 
 private fun WineKind.toRecipe(): WineMixRecipe =
     when (this) {
-        WineKind.Normal -> WineMixRecipe(
-            minCooking = 35,
-            lowLevelMes = "You need a Cooking level of 35 to make wine.",
-            primary = "obj.grapes",
-            water = "obj.jug_water",
-            unfermented = "obj.jug_unfermented_wine",
-            squeezeMes = "You squeeze the grapes into the jug of water.",)
-        WineKind.Zamorak -> WineMixRecipe(
-            minCooking = 65,
-            lowLevelMes = "You need a Cooking level of 65 to make wine of Zamorak.",
-            primary = "obj.zamorak_grapes",
-            water = "obj.jug_water",
-            unfermented = "obj.jug_unfermented_zamorak_wine",
-            squeezeMes = "You squeeze the grapes of Zamorak into the jug of water."
-        )
+        WineKind.Normal ->
+            WineMixRecipe(
+                minCooking = 35,
+                lowLevelMes = "You need a Cooking level of 35 to make wine.",
+                primary = "obj.grapes",
+                water = "obj.jug_water",
+                unfermented = "obj.jug_unfermented_wine",
+                squeezeMes = "You squeeze the grapes into the jug of water.",
+            )
+        WineKind.Zamorak ->
+            WineMixRecipe(
+                minCooking = 65,
+                lowLevelMes = "You need a Cooking level of 65 to make wine of Zamorak.",
+                primary = "obj.zamorak_grapes",
+                water = "obj.jug_water",
+                unfermented = "obj.jug_unfermented_zamorak_wine",
+                squeezeMes = "You squeeze the grapes of Zamorak into the jug of water.",
+            )
     }
 
 private fun ProtectedAccess.canOfferWineRecipe(kind: WineKind): Boolean {
@@ -69,11 +73,7 @@ private fun ProtectedAccess.canOfferWineRecipe(kind: WineKind): Boolean {
     return inv.count(r.primary) > 0 && inv.count(r.water) > 0
 }
 
-private data class WineMakeTask(
-    val kind: WineKind,
-    val target: Int,
-    val finished: Int,
-)
+private data class WineMakeTask(val kind: WineKind, val target: Int, val finished: Int)
 
 class WineEvents @Inject constructor() : PluginScript() {
 
@@ -83,7 +83,9 @@ class WineEvents @Inject constructor() : PluginScript() {
 
         onPlayerQueueWithArgs("queue.wine_mix") { processWineMixTick(it.args) }
         onPlayerSoftTimer("timer.cooking_wine_ferment") { player.onWineFermentTimer() }
-        onPlayerSoftTimer("timer.cooking_zamorak_wine_ferment") { player.onZamorakWineFermentTimer() }
+        onPlayerSoftTimer("timer.cooking_zamorak_wine_ferment") {
+            player.onZamorakWineFermentTimer()
+        }
     }
 
     private suspend fun ProtectedAccess.promptWineMaking() {
@@ -91,8 +93,10 @@ class WineEvents @Inject constructor() : PluginScript() {
         if (offered.isEmpty()) {
             when {
                 !inv.contains("obj.jug_water") -> mes("You need a jug of water to make wine.")
-                inv.contains("obj.grapes") && player.cookingLvl < 35 -> mes("You need a Cooking level of 35 to make wine.")
-                inv.contains("obj.zamorak_grapes") && player.cookingLvl < 65 -> mes("You need a Cooking level of 65 to make wine of Zamorak.")
+                inv.contains("obj.grapes") && player.cookingLvl < 35 ->
+                    mes("You need a Cooking level of 35 to make wine.")
+                inv.contains("obj.zamorak_grapes") && player.cookingLvl < 65 ->
+                    mes("You need a Cooking level of 65 to make wine of Zamorak.")
                 else -> mes("You don't have what you need to make this wine.")
             }
             return
@@ -103,20 +107,23 @@ class WineEvents @Inject constructor() : PluginScript() {
 
             for (kind in offered) {
                 when (kind) {
-                    WineKind.Normal -> entry("obj.jug_unfermented_wine") {
-                        material("obj.grapes")
-                        material("obj.jug_water")
-                    }
-                    WineKind.Zamorak -> entry("obj.jug_unfermented_zamorak_wine") {
-                        material("obj.zamorak_grapes")
-                        material("obj.jug_water")
-                    }
+                    WineKind.Normal ->
+                        entry("obj.jug_unfermented_wine") {
+                            material("obj.grapes")
+                            material("obj.jug_water")
+                        }
+                    WineKind.Zamorak ->
+                        entry("obj.jug_unfermented_zamorak_wine") {
+                            material("obj.zamorak_grapes")
+                            material("obj.jug_water")
+                        }
                 }
             }
         }
 
         openSkillMulti(config) { selection ->
-            val kind = WineKind.fromUnfermentedProduct(selection.entry.internal) ?: return@openSkillMulti
+            val kind =
+                WineKind.fromUnfermentedProduct(selection.entry.internal) ?: return@openSkillMulti
             val r = kind.toRecipe()
             val maxMake = minOf(inv.count(r.primary), inv.count(r.water))
             startWineMixChain(kind, selection.amount.coerceAtMost(maxMake))
@@ -197,7 +204,11 @@ class WineEvents @Inject constructor() : PluginScript() {
      * When fermentation completes, every matching unfermented jug in the inventory and bank is
      * resolved. Success rolls use the player's Cooking level at completion time.
      */
-    private fun Player.fermentAllUnfermented(unfermented: String, product: String, noFailLevel: Int) {
+    private fun Player.fermentAllUnfermented(
+        unfermented: String,
+        product: String,
+        noFailLevel: Int,
+    ) {
         val packInv = inv
         val bankInv = invMap.getOrPut("inv.bank")
 

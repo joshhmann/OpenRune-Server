@@ -84,7 +84,8 @@ public class AutocastWeapons @Inject constructor(private val spells: AutocastSpe
             else -> "You can't autocast that spell with this staff."
         }
 
-    private fun ItemServerType.spellbook(): Spellbook? = Spellbook[param(BaseParams.spell_spellbook)]
+    private fun ItemServerType.spellbook(): Spellbook? =
+        Spellbook[param(BaseParams.spell_spellbook)]
 
     private fun ItemServerType.additionalAutocastSpells(): Set<ItemServerType> {
         val additional1 = paramOrNull(autocast_params.additional_spell_autocast1)
@@ -128,10 +129,7 @@ public class AutocastWeapons @Inject constructor(private val spells: AutocastSpe
             else -> null
         }
 
-    public data class StaffVarBits(
-        public val autocastId: String,
-        public val defensiveCast: String,
-    )
+    public data class StaffVarBits(public val autocastId: String, public val defensiveCast: String)
 
     private companion object {
         val AncientAutocastWeapons =

@@ -19,7 +19,7 @@ object SlayerBlockSlots {
     fun firstEmptySlot(player: Player, master: SlayerMastersRow): Int? {
         for (slot in 0 until 7) {
             if (!isSlotUnlocked(player, slot)) continue
-            val varbit = RSCM.getReverseMapping(RSCMType.VARBIT,master.blockVarbits[slot])
+            val varbit = RSCM.getReverseMapping(RSCMType.VARBIT, master.blockVarbits[slot])
             if (player.vars[varbit] == 0) return slot
         }
         return null

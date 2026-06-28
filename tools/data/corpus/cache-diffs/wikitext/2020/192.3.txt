@@ -1,0 +1,35 @@
+{| class="wikitable sortable"
+!colspan="5"|Items
+|-
+! Name !! ID !! Key !! Previous Value !! Changed into
+|-
+|rowspan="2"|[[Trailblazer adamant trophy]]
+|rowspan="2"|25046
+|-
+|name || [[Twisted adamant trophy]] || [[Trailblazer adamant trophy]]
+|-
+|}
+
+{| class="wikitable sortable"
+!colspan="5"|Non-Player Characters
+|-
+! Name !! ID !! Key !! Previous Value !! Changed into
+|-
+|rowspan="2"|[[Leagues Tutor]]
+|rowspan="2"|315
+|-
+|models || [40911, 28329, 40923, 40973, 176, 40918, 40928] || [40911, 28329, 40923, 40973, 176, 40918, 40928, 40914]
+|-
+|rowspan="2"|[[Leagues Tutor]]
+|rowspan="2"|316
+|-
+|models || [40911, 28329, 40923, 40973, 176, 40918, 40928] || [40911, 28329, 40923, 40973, 176, 40918, 40928, 40914]
+|-
+|}
+
+{| class="wikitable sortable"
+!colspan="5"|Objects
+|-
+! Name !! ID !! Key !! Previous Value !! Changed into
+|-
+|}

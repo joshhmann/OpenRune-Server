@@ -1,0 +1,1299 @@
+{{ToC}}
+==Items==
+{| class="wikitable sortable"
+!colspan='13'|Items
+|-
+! Name !! ID !! Key !! Previous Value !! New Value !! Members !! Tradeable in GE !! Equipable !! Stackable !! Noteable !! Options !! Placeholder !! Cost
+|-
+|rowspan="2"|[[Monk's robe]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#542 542]
+|-
+|params || {'1564': 7} || {'1564': 7, '40': 1}
+|-
+|rowspan="2"|[[Monk's robe top]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#544 544]
+|-
+|params || {'1564': 4} || {'1564': 4, '40': 1}
+|-
+|rowspan="2"|[[Dragon sq shield]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#1187 1187]
+|-
+|params || {'1564': 5, '436': 60, '434': 1} || {'434': 1, '258': 34, '1564': 5, '436': 60}
+|-
+|rowspan="2"|[[Iban's staff]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#1409 1409]
+|-
+|params || {'451': 'Check'} || {'258': 10, '451': 'Check'}
+|-
+|rowspan="2"|[[Amulet of glory]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#1704 1704]
+|-
+|params || {'451': 'Rub'} || {'258': 6, '451': 'Rub'}
+|-
+|rowspan="2"|[[Amulet of glory(1)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#1706 1706]
+|-
+|params || {'451': 'Edgeville', '452': 'Karamja', '453': 'Draynor Village', '454': 'Al Kharid'} || {'258': 6, '451': 'Edgeville', '452': 'Karamja', '453': 'Draynor Village', '454': 'Al Kharid'}
+|-
+|rowspan="2"|[[Amulet of glory(2)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#1708 1708]
+|-
+|params || {'451': 'Edgeville', '452': 'Karamja', '453': 'Draynor Village', '454': 'Al Kharid'} || {'258': 6, '451': 'Edgeville', '452': 'Karamja', '453': 'Draynor Village', '454': 'Al Kharid'}
+|-
+|rowspan="2"|[[Amulet of glory(3)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#1710 1710]
+|-
+|params || {'451': 'Edgeville', '452': 'Karamja', '453': 'Draynor Village', '454': 'Al Kharid'} || {'258': 6, '451': 'Edgeville', '452': 'Karamja', '453': 'Draynor Village', '454': 'Al Kharid'}
+|-
+|rowspan="2"|[[Amulet of glory(4)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#1712 1712]
+|-
+|params || {'451': 'Edgeville', '452': 'Karamja', '453': 'Draynor Village', '454': 'Al Kharid'} || {'258': 6, '451': 'Edgeville', '452': 'Karamja', '453': 'Draynor Village', '454': 'Al Kharid'}
+|-
+|rowspan="2"|[[Saradomin cape]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#2412 2412]
+|-
+|params || {'1564': 1, '436': 60, '434': 6} || {'40': 1, '434': 6, '1564': 1, '436': 60}
+|-
+|rowspan="2"|[[Guthix cape]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#2413 2413]
+|-
+|params || {'1564': 1, '436': 60, '434': 6} || {'434': 6, '42': 1, '1564': 1, '436': 60}
+|-
+|rowspan="2"|[[Zamorak cape]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#2414 2414]
+|-
+|params || {'1564': 1, '436': 60, '434': 6} || {'41': 1, '434': 6, '1564': 1, '436': 60}
+|-
+|rowspan="2"|[[Saradomin staff]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#2415 2415]
+|-
+|params || {'1564': 3, '436': 60, '434': 6} || {'40': 1, '434': 6, '1564': 3, '436': 60}
+|-
+|rowspan="2"|[[Guthix staff]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#2416 2416]
+|-
+|params || {'1564': 3, '436': 60, '434': 6} || {'434': 6, '42': 1, '1564': 3, '436': 60}
+|-
+|rowspan="2"|[[Zamorak staff]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#2417 2417]
+|-
+|params || {'1564': 3, '436': 60, '434': 6} || {'41': 1, '434': 6, '1564': 3, '436': 60}
+|-
+|rowspan="2"|[[Ring of dueling(8)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#2552 2552]
+|-
+|params || {'452': 'Castle Wars', '453': 'Ferox Enclave', '451': 'PvP Arena'} || {'258': 18, '451': 'PvP Arena', '452': 'Castle Wars', '453': 'Ferox Enclave'}
+|-
+|rowspan="2"|[[Ring of dueling(7)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#2554 2554]
+|-
+|params || {'452': 'Castle Wars', '453': 'Ferox Enclave', '451': 'PvP Arena'} || {'258': 18, '451': 'PvP Arena', '452': 'Castle Wars', '453': 'Ferox Enclave'}
+|-
+|rowspan="2"|[[Ring of dueling(6)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#2556 2556]
+|-
+|params || {'452': 'Castle Wars', '453': 'Ferox Enclave', '451': 'PvP Arena'} || {'258': 18, '451': 'PvP Arena', '452': 'Castle Wars', '453': 'Ferox Enclave'}
+|-
+|rowspan="2"|[[Ring of dueling(5)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#2558 2558]
+|-
+|params || {'452': 'Castle Wars', '453': 'Ferox Enclave', '451': 'PvP Arena'} || {'258': 18, '451': 'PvP Arena', '452': 'Castle Wars', '453': 'Ferox Enclave'}
+|-
+|rowspan="2"|[[Ring of dueling(4)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#2560 2560]
+|-
+|params || {'452': 'Castle Wars', '453': 'Ferox Enclave', '451': 'PvP Arena'} || {'258': 18, '451': 'PvP Arena', '452': 'Castle Wars', '453': 'Ferox Enclave'}
+|-
+|rowspan="2"|[[Ring of dueling(3)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#2562 2562]
+|-
+|params || {'452': 'Castle Wars', '453': 'Ferox Enclave', '451': 'PvP Arena'} || {'258': 18, '451': 'PvP Arena', '452': 'Castle Wars', '453': 'Ferox Enclave'}
+|-
+|rowspan="2"|[[Ring of dueling(2)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#2564 2564]
+|-
+|params || {'452': 'Castle Wars', '453': 'Ferox Enclave', '451': 'PvP Arena'} || {'258': 18, '451': 'PvP Arena', '452': 'Castle Wars', '453': 'Ferox Enclave'}
+|-
+|rowspan="2"|[[Ring of dueling(1)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#2566 2566]
+|-
+|params || {'452': 'Castle Wars', '453': 'Ferox Enclave', '451': 'PvP Arena'} || {'258': 18, '451': 'PvP Arena', '452': 'Castle Wars', '453': 'Ferox Enclave'}
+|-
+|rowspan="2"|[[Ring of wealth]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#2572 2572]
+|-
+|params || {'451': 'Rub'} || {'258': 14, '451': 'Rub'}
+|-
+|rowspan="2"|[[Key (medium)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#2832 2832]
+|-
+|category || 0 || 180
+|-
+|rowspan="2"|[[Key (medium)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#2834 2834]
+|-
+|category || 0 || 180
+|-
+|rowspan="2"|[[Key (medium)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#2836 2836]
+|-
+|category || 0 || 180
+|-
+|rowspan="2"|[[Key (medium)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#2838 2838]
+|-
+|category || 0 || 180
+|-
+|rowspan="2"|[[Key (medium)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#2840 2840]
+|-
+|category || 0 || 180
+|-
+|rowspan="2"|[[Climbing boots]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#3105 3105]
+|-
+|params || {'1564': 10, '852': 30} || {'1564': 10, '852': 30, '258': 32}
+|-
+|rowspan="2"|[[Dragon chainbody]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#3140 3140]
+|-
+|params || {'1564': 4, '436': 60, '434': 1} || {'434': 1, '258': 33, '1564': 4, '436': 60}
+|-
+|rowspan="2"|[[Key (medium)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#3606 3606]
+|-
+|category || 0 || 180
+|-
+|rowspan="2"|[[Key (medium)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#3608 3608]
+|-
+|category || 0 || 180
+|-
+|rowspan="2"|[[Holy book]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#3840 3840]
+|-
+|params || {'1564': 5, '451': 'Read'} || {'40': 1, '258': 7, '451': 'Read', '1564': 5}
+|-
+|rowspan="2"|[[Unholy book]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#3842 3842]
+|-
+|params || {'1564': 5, '451': 'Read'} || {'41': 1, '258': 7, '451': 'Read', '1564': 5}
+|-
+|rowspan="2"|[[Book of balance]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#3844 3844]
+|-
+|params || {'1564': 5, '451': 'Read'} || {'258': 7, '42': 1, '451': 'Read', '1564': 5}
+|-
+|rowspan="2"|[[Abyssal whip]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#4151 4151]
+|-
+|params || {'1564': 3, '436': 70, '434': 0} || {'434': 0, '258': 24, '1564': 3, '436': 70}
+|-
+|rowspan="2"|[[Dragon plateskirt]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#4585 4585]
+|-
+|params || {'1564': 7, '436': 60, '434': 1} || {'434': 1, '258': 31, '1564': 7, '436': 60}
+|-
+|rowspan="2"|[[Dragon scimitar]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#4587 4587]
+|-
+|params || {'1564': 3, '436': 60, '434': 0} || {'434': 0, '258': 39, '1564': 3, '436': 60}
+|-
+|rowspan="2"|[[Tzhaar-ket-om]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#6528 6528]
+|-
+|params || {'1564': 3, '436': 60, '434': 2} || {'434': 2, '258': 40, '1564': 3, '436': 60}
+|-
+|rowspan="2"|[[Fire cape]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#6570 6570]
+|-
+|params || {'1564': 1} || {'1564': 1, '258': 22}
+|-
+|rowspan="2"|[[Dragon axe]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#6739 6739]
+|-
+|params || {'23': 61} || {'258': 35, '23': 61}
+|-
+|rowspan="2"|[[Key (medium)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#7297 7297]
+|-
+|category || 0 || 180
+|-
+|rowspan="2"|[[Key (medium)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#7299 7299]
+|-
+|category || 0 || 180
+|-
+|rowspan="2"|[[Key (medium)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#7302 7302]
+|-
+|category || 0 || 180
+|-
+|rowspan="2"|[[Void knight top]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#8839 8839]
+|-
+|params || {'610': 6, '579': 4, '611': 3, '612': 5, '613': 42, '614': 42, '615': 42, '616': 42, '617': 22, '434': 0, '435': 2, '436': 42, '437': 42, '1564': 4, '191': 1} || {'610': 6, '579': 4, '611': 3, '612': 5, '613': 42, '614': 42, '615': 42, '616': 42, '617': 22, '42': 1, '434': 0, '435': 2, '436': 42, '437': 42, '1564': 4, '191': 1}
+|-
+|rowspan="2"|[[Void knight robe]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#8840 8840]
+|-
+|params || {'610': 6, '579': 4, '611': 3, '612': 5, '613': 42, '614': 42, '615': 42, '616': 42, '617': 22, '434': 0, '435': 2, '436': 42, '437': 42, '1564': 7, '191': 1} || {'610': 6, '579': 4, '611': 3, '612': 5, '613': 42, '614': 42, '615': 42, '616': 42, '617': 22, '42': 1, '434': 0, '435': 2, '436': 42, '437': 42, '1564': 7, '191': 1}
+|-
+|rowspan="2"|[[Void knight mace]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#8841 8841]
+|-
+|params || {'610': 6, '579': 4, '611': 3, '612': 5, '613': 42, '614': 42, '615': 42, '616': 42, '617': 22, '434': 0, '435': 2, '436': 42, '437': 42, '1564': 3, '191': 1} || {'610': 6, '579': 4, '611': 3, '612': 5, '613': 42, '614': 42, '615': 42, '616': 42, '617': 22, '42': 1, '434': 0, '435': 2, '436': 42, '437': 42, '1564': 3, '191': 1}
+|-
+|rowspan="2"|[[Void knight gloves]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#8842 8842]
+|-
+|params || {'610': 6, '579': 4, '611': 3, '612': 5, '613': 42, '614': 42, '615': 42, '616': 42, '617': 22, '434': 0, '435': 2, '436': 42, '437': 42, '1564': 9, '191': 1} || {'610': 6, '579': 4, '611': 3, '612': 5, '613': 42, '614': 42, '615': 42, '616': 42, '617': 22, '42': 1, '434': 0, '435': 2, '436': 42, '437': 42, '1564': 9, '191': 1}
+|-
+|rowspan="2"|[[Rune crossbow]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#9185 9185]
+|-
+|params || {'434': 4, '1562': 5, '1563': 61, '1564': 3, '436': 61, '23': 61} || {'434': 4, '258': 37, '436': 61, '23': 61, '1562': 5, '1563': 61, '1564': 3}
+|-
+|rowspan="2"|[[Saradomin mitre]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#10452 10452]
+|-
+|params || {'434': 6, '435': 5, '1564': 0, '436': 40, '437': 40} || {'434': 6, '258': 9, '435': 5, '436': 40, '437': 40, '40': 1, '1564': 0}
+|-
+|rowspan="2"|[[Guthix mitre]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#10454 10454]
+|-
+|params || {'434': 6, '435': 5, '1564': 0, '436': 40, '437': 40} || {'434': 6, '258': 9, '435': 5, '436': 40, '437': 40, '42': 1, '1564': 0}
+|-
+|rowspan="2"|[[Zamorak mitre]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#10456 10456]
+|-
+|params || {'434': 6, '435': 5, '1564': 0, '436': 40, '437': 40} || {'434': 6, '258': 9, '435': 5, '436': 40, '437': 40, '41': 1, '1564': 0}
+|-
+|rowspan="2"|[[Saradomin robe top]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#10458 10458]
+|-
+|params || {'1564': 4, '436': 20, '434': 5} || {'40': 1, '434': 5, '1564': 4, '436': 20}
+|-
+|rowspan="2"|[[Zamorak robe top]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#10460 10460]
+|-
+|params || {'1564': 4, '436': 20, '434': 5} || {'41': 1, '434': 5, '1564': 4, '436': 20}
+|-
+|rowspan="2"|[[Guthix robe top]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#10462 10462]
+|-
+|params || {'1564': 4, '436': 20, '434': 5} || {'434': 5, '42': 1, '1564': 4, '436': 20}
+|-
+|rowspan="2"|[[Saradomin robe legs]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#10464 10464]
+|-
+|params || {'1564': 7, '436': 20, '434': 5} || {'40': 1, '434': 5, '1564': 7, '436': 20}
+|-
+|rowspan="2"|[[Guthix robe legs]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#10466 10466]
+|-
+|params || {'1564': 7, '436': 20, '434': 5} || {'434': 5, '42': 1, '1564': 7, '436': 20}
+|-
+|rowspan="2"|[[Zamorak robe legs]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#10468 10468]
+|-
+|params || {'1564': 7, '436': 20, '434': 5} || {'41': 1, '434': 5, '1564': 7, '436': 20}
+|-
+|rowspan="2"|[[Fighter torso]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#10551 10551]
+|-
+|params || {'1564': 4, '436': 40, '434': 1} || {'434': 1, '258': 41, '1564': 4, '436': 40}
+|-
+|rowspan="2"|[[Castle wars bracelet(3)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#11079 11079]
+|-
+|params || {'451': 'Check'} || {'258': 16, '451': 'Check'}
+|-
+|rowspan="2"|[[Castle wars bracelet(2)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#11081 11081]
+|-
+|params || {'451': 'Check'} || {'258': 16, '451': 'Check'}
+|-
+|rowspan="2"|[[Castle wars bracelet(1)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#11083 11083]
+|-
+|params || {'451': 'Check'} || {'258': 16, '451': 'Check'}
+|-
+|rowspan="2"|[[Combat bracelet(4)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#11118 11118]
+|-
+|params || {'451': "Warriors' Guild", '452': "Champions' Guild", '453': 'Monastery', '454': 'Ranging Guild'} || {'258': 8, '451': "Warriors' Guild", '452': "Champions' Guild", '453': 'Monastery', '454': 'Ranging Guild'}
+|-
+|rowspan="2"|[[Combat bracelet(3)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#11120 11120]
+|-
+|params || {'451': "Warriors' Guild", '452': "Champions' Guild", '453': 'Monastery', '454': 'Ranging Guild'} || {'258': 8, '451': "Warriors' Guild", '452': "Champions' Guild", '453': 'Monastery', '454': 'Ranging Guild'}
+|-
+|rowspan="2"|[[Combat bracelet(2)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#11122 11122]
+|-
+|params || {'451': "Warriors' Guild", '452': "Champions' Guild", '453': 'Monastery', '454': 'Ranging Guild'} || {'258': 8, '451': "Warriors' Guild", '452': "Champions' Guild", '453': 'Monastery', '454': 'Ranging Guild'}
+|-
+|rowspan="2"|[[Combat bracelet(1)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#11124 11124]
+|-
+|params || {'451': "Warriors' Guild", '452': "Champions' Guild", '453': 'Monastery', '454': 'Ranging Guild'} || {'258': 8, '451': "Warriors' Guild", '452': "Champions' Guild", '453': 'Monastery', '454': 'Ranging Guild'}
+|-
+|rowspan="2"|[[Combat bracelet]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#11126 11126]
+|-
+|params || {'451': 'Rub'} || {'258': 8, '451': 'Rub'}
+|-
+|rowspan="2"|[[Void mage helm]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#11663 11663]
+|-
+|params || {'610': 6, '579': 4, '611': 3, '612': 5, '613': 42, '614': 42, '615': 42, '616': 42, '617': 22, '434': 0, '435': 2, '436': 42, '437': 42, '1564': 0, '191': 1} || {'610': 6, '579': 4, '611': 3, '612': 5, '613': 42, '614': 42, '615': 42, '616': 42, '617': 22, '42': 1, '434': 0, '435': 2, '436': 42, '437': 42, '1564': 0, '191': 1}
+|-
+|rowspan="2"|[[Void ranger helm]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#11664 11664]
+|-
+|params || {'610': 6, '579': 4, '611': 3, '612': 5, '613': 42, '614': 42, '615': 42, '616': 42, '617': 22, '434': 0, '435': 2, '436': 42, '437': 42, '1564': 0, '191': 1} || {'610': 6, '579': 4, '611': 3, '612': 5, '613': 42, '614': 42, '615': 42, '616': 42, '617': 22, '42': 1, '434': 0, '435': 2, '436': 42, '437': 42, '1564': 0, '191': 1}
+|-
+|rowspan="2"|[[Void melee helm]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#11665 11665]
+|-
+|params || {'610': 6, '579': 4, '611': 3, '612': 5, '613': 42, '614': 42, '615': 42, '616': 42, '617': 22, '434': 0, '435': 2, '436': 42, '437': 42, '1564': 0, '191': 1} || {'610': 6, '579': 4, '611': 3, '612': 5, '613': 42, '614': 42, '615': 42, '616': 42, '617': 22, '42': 1, '434': 0, '435': 2, '436': 42, '437': 42, '1564': 0, '191': 1}
+|-
+|rowspan="2"|[[Void seal(8)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#11666 11666]
+|-
+|params || {'451': 'Rub'} || {'42': 1, '451': 'Rub'}
+|-
+|rowspan="2"|[[Void seal(7)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#11667 11667]
+|-
+|params || {'451': 'Rub'} || {'42': 1, '451': 'Rub'}
+|-
+|rowspan="2"|[[Void seal(6)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#11668 11668]
+|-
+|params || {'451': 'Rub'} || {'42': 1, '451': 'Rub'}
+|-
+|rowspan="2"|[[Void seal(5)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#11669 11669]
+|-
+|params || {'451': 'Rub'} || {'42': 1, '451': 'Rub'}
+|-
+|rowspan="2"|[[Void seal(4)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#11670 11670]
+|-
+|params || {'451': 'Rub'} || {'42': 1, '451': 'Rub'}
+|-
+|rowspan="2"|[[Void seal(3)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#11671 11671]
+|-
+|params || {'451': 'Rub'} || {'42': 1, '451': 'Rub'}
+|-
+|rowspan="2"|[[Void seal(2)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#11672 11672]
+|-
+|params || {'451': 'Rub'} || {'42': 1, '451': 'Rub'}
+|-
+|rowspan="2"|[[Void seal(1)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#11673 11673]
+|-
+|params || {'451': 'Rub'} || {'42': 1, '451': 'Rub'}
+|-
+|rowspan="2"|[[New crystal bow (i)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#11748 11748]
+|-
+|params || {'23': 70} || {'258': 20, '23': 70}
+|-
+|rowspan="2"|[[Crystal bow full (i)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#11749 11749]
+|-
+|params || {'23': 70} || {'258': 20, '23': 70}
+|-
+|rowspan="2"|[[Crystal bow 9/10 (i)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#11750 11750]
+|-
+|params || {'23': 70} || {'258': 20, '23': 70}
+|-
+|rowspan="2"|[[Crystal bow 8/10 (i)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#11751 11751]
+|-
+|params || {'23': 70} || {'258': 20, '23': 70}
+|-
+|rowspan="2"|[[Crystal bow 7/10 (i)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#11752 11752]
+|-
+|params || {'23': 70} || {'258': 20, '23': 70}
+|-
+|rowspan="2"|[[Crystal bow 6/10 (i)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#11753 11753]
+|-
+|params || {'23': 70} || {'258': 20, '23': 70}
+|-
+|rowspan="2"|[[Crystal bow 5/10 (i)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#11754 11754]
+|-
+|params || {'23': 70} || {'258': 20, '23': 70}
+|-
+|rowspan="2"|[[Crystal bow 4/10 (i)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#11755 11755]
+|-
+|params || {'23': 70} || {'258': 20, '23': 70}
+|-
+|rowspan="2"|[[Crystal bow 3/10 (i)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#11756 11756]
+|-
+|params || {'23': 70} || {'258': 20, '23': 70}
+|-
+|rowspan="2"|[[Crystal bow 2/10 (i)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#11757 11757]
+|-
+|params || {'23': 70} || {'258': 20, '23': 70}
+|-
+|rowspan="2"|[[Crystal bow 1/10 (i)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#11758 11758]
+|-
+|params || {'23': 70} || {'258': 20, '23': 70}
+|-
+|rowspan="2"|[[Staff of the dead]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#11791 11791]
+|-
+|params || {'434': 0, '435': 6, '1564': 3, '436': 75, '437': 75} || {'41': 1, '434': 0, '435': 6, '1564': 3, '436': 75, '437': 75}
+|-
+|rowspan="2"|[[Bandos godsword]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#11804 11804]
+|-
+|params || {'1564': 3, '436': 75, '434': 0} || {'434': 0, '258': 28, '1564': 3, '436': 75}
+|-
+|rowspan="2"|[[Saradomin godsword]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#11806 11806]
+|-
+|params || {'1564': 3, '436': 75, '434': 0} || {'40': 1, '434': 0, '1564': 3, '436': 75}
+|-
+|rowspan="2"|[[Zamorak godsword]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#11808 11808]
+|-
+|params || {'1564': 3, '436': 75, '434': 0} || {'41': 1, '434': 0, '258': 29, '1564': 3, '436': 75}
+|-
+|rowspan="2"|[[Zamorakian spear]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#11824 11824]
+|-
+|params || {'1564': 3, '436': 70, '434': 0} || {'41': 1, '434': 0, '1564': 3, '436': 70}
+|-
+|rowspan="2"|[[Bandos boots]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#11836 11836]
+|-
+|params || {'1564': 10, '436': 65, '434': 1} || {'434': 1, '258': 38, '1564': 10, '436': 65}
+|-
+|rowspan="2"|[[Saradomin sword]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#11838 11838]
+|-
+|params || {'1564': 3, '436': 70, '434': 0} || {'40': 1, '434': 0, '1564': 3, '436': 70}
+|-
+|rowspan="2"|[[Dragon boots]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#11840 11840]
+|-
+|params || {'1564': 10, '436': 60, '434': 1} || {'434': 1, '258': 30, '1564': 10, '436': 60}
+|-
+|rowspan="2"|[[Slayer helmet]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#11864 11864]
+|-
+|params || {'385': 1, '453': 'Check', '454': 'Partner', '455': 'Log'} || {'385': 1, '258': 13, '453': 'Check', '454': 'Partner', '455': 'Log'}
+|-
+|rowspan="2"|[[Slayer helmet (i)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#11865 11865]
+|-
+|params || {'385': 1, '434': 1, '436': 10, '453': 'Check', '454': 'Partner', '455': 'Log', '1564': 0} || {'385': 1, '434': 1, '258': 13, '436': 10, '453': 'Check', '454': 'Partner', '455': 'Log', '1564': 0}
+|-
+|rowspan="2"|[[Zamorakian hasta]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#11889 11889]
+|-
+|params || {'1564': 3, '436': 70, '434': 0} || {'41': 1, '434': 0, '1564': 3, '436': 70}
+|-
+|rowspan="2"|[[Dragon pickaxe]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#11920 11920]
+|-
+|params || {'23': 61} || {'258': 21, '23': 61}
+|-
+|rowspan="2"|[[Combat bracelet(6)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#11972 11972]
+|-
+|params || {'451': "Warriors' Guild", '452': "Champions' Guild", '453': 'Monastery', '454': 'Ranging Guild'} || {'258': 8, '451': "Warriors' Guild", '452': "Champions' Guild", '453': 'Monastery', '454': 'Ranging Guild'}
+|-
+|rowspan="2"|[[Combat bracelet(5)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#11974 11974]
+|-
+|params || {'451': "Warriors' Guild", '452': "Champions' Guild", '453': 'Monastery', '454': 'Ranging Guild'} || {'258': 8, '451': "Warriors' Guild", '452': "Champions' Guild", '453': 'Monastery', '454': 'Ranging Guild'}
+|-
+|rowspan="2"|[[Amulet of glory(5)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#11976 11976]
+|-
+|params || {'451': 'Edgeville', '452': 'Karamja', '453': 'Draynor Village', '454': 'Al Kharid'} || {'258': 6, '451': 'Edgeville', '452': 'Karamja', '453': 'Draynor Village', '454': 'Al Kharid'}
+|-
+|rowspan="2"|[[Amulet of glory(6)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#11978 11978]
+|-
+|params || {'451': 'Edgeville', '1564': 2, '452': 'Karamja', '453': 'Draynor Village', '454': 'Al Kharid'} || {'258': 6, '451': 'Edgeville', '1564': 2, '452': 'Karamja', '453': 'Draynor Village', '454': 'Al Kharid'}
+|-
+|rowspan="2"|[[Ring of wealth (5)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#11980 11980]
+|-
+|params || {'456': 'Coin Collection', '451': 'Miscellania', '452': 'Grand Exchange', '453': 'Falador', '454': 'Dondakan', '455': 'Boss Log'} || {'258': 14, '451': 'Miscellania', '452': 'Grand Exchange', '453': 'Falador', '454': 'Dondakan', '455': 'Boss Log', '456': 'Coin Collection'}
+|-
+|rowspan="2"|[[Ring of wealth (4)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#11982 11982]
+|-
+|params || {'456': 'Coin Collection', '451': 'Miscellania', '452': 'Grand Exchange', '453': 'Falador', '454': 'Dondakan', '455': 'Boss Log'} || {'258': 14, '451': 'Miscellania', '452': 'Grand Exchange', '453': 'Falador', '454': 'Dondakan', '455': 'Boss Log', '456': 'Coin Collection'}
+|-
+|rowspan="2"|[[Ring of wealth (3)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#11984 11984]
+|-
+|params || {'456': 'Coin Collection', '451': 'Miscellania', '452': 'Grand Exchange', '453': 'Falador', '454': 'Dondakan', '455': 'Boss Log'} || {'258': 14, '451': 'Miscellania', '452': 'Grand Exchange', '453': 'Falador', '454': 'Dondakan', '455': 'Boss Log', '456': 'Coin Collection'}
+|-
+|rowspan="2"|[[Ring of wealth (2)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#11986 11986]
+|-
+|params || {'456': 'Coin Collection', '451': 'Miscellania', '452': 'Grand Exchange', '453': 'Falador', '454': 'Dondakan', '455': 'Boss Log'} || {'258': 14, '451': 'Miscellania', '452': 'Grand Exchange', '453': 'Falador', '454': 'Dondakan', '455': 'Boss Log', '456': 'Coin Collection'}
+|-
+|rowspan="2"|[[Ring of wealth (1)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#11988 11988]
+|-
+|params || {'456': 'Coin Collection', '451': 'Miscellania', '452': 'Grand Exchange', '453': 'Falador', '454': 'Dondakan', '455': 'Boss Log'} || {'258': 14, '451': 'Miscellania', '452': 'Grand Exchange', '453': 'Falador', '454': 'Dondakan', '455': 'Boss Log', '456': 'Coin Collection'}
+|-
+|rowspan="2"|[[Book of war]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#12608 12608]
+|-
+|params || {'1564': 5, '451': 'Read'} || {'1564': 5, '258': 7, '451': 'Read'}
+|-
+|rowspan="2"|[[Book of law]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#12610 12610]
+|-
+|params || {'1564': 5, '451': 'Read'} || {'1564': 5, '258': 7, '451': 'Read'}
+|-
+|rowspan="2"|[[Book of darkness]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#12612 12612]
+|-
+|params || {'1564': 5, '451': 'Read'} || {'1564': 5, '258': 7, '451': 'Read'}
+|-
+|rowspan="2"|[[Saradomin halo]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#12637 12637]
+|-
+|params || {'1564': 0} || {'1564': 0, '40': 1}
+|-
+|rowspan="2"|[[Zamorak halo]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#12638 12638]
+|-
+|params || {'1564': 0} || {'1564': 0, '41': 1}
+|-
+|rowspan="2"|[[Guthix halo]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#12639 12639]
+|-
+|params || {'1564': 0} || {'1564': 0, '42': 1}
+|-
+|rowspan="2"|[[Iban's staff (u)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#12658 12658]
+|-
+|params || {'451': 'Check'} || {'258': 10, '451': 'Check'}
+|-
+|rowspan="2"|[[Ring of wealth (i)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#12785 12785]
+|-
+|params || {'451': 'Rub'} || {'258': 14, '451': 'Rub'}
+|-
+|rowspan="2"|[[Dragon pickaxe]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#12797 12797]
+|-
+|params || {'23': 61} || {'258': 21, '23': 61}
+|-
+|rowspan="2"|[[Sara's blessed sword (full)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#12808 12808]
+|-
+|params || {'434': 0, '451': 'Check', '1564': 3, '436': 75} || {'40': 1, '434': 0, '451': 'Check', '1564': 3, '436': 75}
+|-
+|rowspan="2"|[[Saradomin's blessed sword]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#12809 12809]
+|-
+|params || {'451': 'Check'} || {'40': 1, '451': 'Check'}
+|-
+|rowspan="2"|[[Amulet of the damned (full)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#12851 12851]
+|-
+|params || {'1564': 2} || {'1564': 2, '258': 23}
+|-
+|rowspan="2"|[[Amulet of the damned]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#12853 12853]
+|-
+|params || {'451': 'Check'} || {'258': 23, '451': 'Check'}
+|-
+|rowspan="2"|[[Toxic staff of the dead]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#12904 12904]
+|-
+|params || {'434': 0, '435': 6, '451': 'Check', '1564': 3, '436': 75, '437': 75} || {'434': 0, '435': 6, '451': 'Check', '436': 75, '437': 75, '41': 1, '1564': 3}
+|-
+|rowspan="2"|[[Dragon defender]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#12954 12954]
+|-
+|params || {'1564': 5, '436': 60, '434': 1} || {'434': 1, '258': 27, '1564': 5, '436': 60}
+|-
+|rowspan="2"|[[Elite void top]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#13072 13072]
+|-
+|params || {'610': 6, '579': 4, '611': 3, '612': 5, '613': 50, '614': 42, '615': 42, '616': 42, '617': 22, '434': 0, '435': 2, '436': 42, '437': 42, '1564': 4, '191': 1} || {'610': 6, '579': 4, '611': 3, '612': 5, '613': 50, '614': 42, '615': 42, '616': 42, '617': 22, '42': 1, '434': 0, '435': 2, '436': 42, '437': 42, '1564': 4, '191': 1}
+|-
+|rowspan="2"|[[Elite void robe]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#13073 13073]
+|-
+|params || {'610': 6, '579': 4, '611': 3, '612': 5, '613': 50, '614': 42, '615': 42, '616': 42, '617': 22, '434': 0, '435': 2, '436': 42, '437': 42, '1564': 7, '191': 1} || {'610': 6, '579': 4, '611': 3, '612': 5, '613': 50, '614': 42, '615': 42, '616': 42, '617': 22, '42': 1, '434': 0, '435': 2, '436': 42, '437': 42, '1564': 7, '191': 1}
+|-
+|rowspan="2"|[[Infernal axe]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#13241 13241]
+|-
+|params || {'23': 61, '451': 'Check'} || {'258': 35, '23': 61, '451': 'Check'}
+|-
+|rowspan="2"|[[Infernal axe (uncharged)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#13242 13242]
+|-
+|params || {'23': 61} || {'258': 35, '23': 61}
+|-
+|rowspan="2"|[[Infernal pickaxe]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#13243 13243]
+|-
+|params || {'23': 61, '451': 'Check'} || {'258': 21, '23': 61, '451': 'Check'}
+|-
+|rowspan="2"|[[Infernal pickaxe (uncharged)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#13244 13244]
+|-
+|params || {'23': 61} || {'258': 21, '23': 61}
+|-
+|rowspan="2"|[[New crystal bow (i)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#16889 16889]
+|-
+|params || {'23': 70} || {'258': 20, '23': 70}
+|-
+|rowspan="2"|[[Black slayer helmet]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#19639 19639]
+|-
+|params || {'385': 1, '453': 'Check', '454': 'Partner', '455': 'Log'} || {'385': 1, '258': 13, '453': 'Check', '454': 'Partner', '455': 'Log'}
+|-
+|rowspan="2"|[[Black slayer helmet (i)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#19641 19641]
+|-
+|params || {'385': 1, '453': 'Check', '454': 'Partner', '455': 'Log'} || {'385': 1, '258': 13, '453': 'Check', '454': 'Partner', '455': 'Log'}
+|-
+|rowspan="2"|[[Green slayer helmet]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#19643 19643]
+|-
+|params || {'385': 1, '453': 'Check', '454': 'Partner', '455': 'Log'} || {'385': 1, '258': 13, '453': 'Check', '454': 'Partner', '455': 'Log'}
+|-
+|rowspan="2"|[[Green slayer helmet (i)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#19645 19645]
+|-
+|params || {'385': 1, '453': 'Check', '454': 'Partner', '455': 'Log'} || {'385': 1, '258': 13, '453': 'Check', '454': 'Partner', '455': 'Log'}
+|-
+|rowspan="2"|[[Red slayer helmet]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#19647 19647]
+|-
+|params || {'385': 1, '453': 'Check', '454': 'Partner', '455': 'Log'} || {'385': 1, '258': 13, '453': 'Check', '454': 'Partner', '455': 'Log'}
+|-
+|rowspan="2"|[[Red slayer helmet (i)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#19649 19649]
+|-
+|params || {'385': 1, '453': 'Check', '454': 'Partner', '455': 'Log'} || {'385': 1, '258': 13, '453': 'Check', '454': 'Partner', '455': 'Log'}
+|-
+|rowspan="2"|[[Amulet of eternal glory]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#19707 19707]
+|-
+|params || {'451': 'Edgeville', '452': 'Karamja', '453': 'Draynor Village', '454': 'Al Kharid'} || {'258': 6, '451': 'Edgeville', '452': 'Karamja', '453': 'Draynor Village', '454': 'Al Kharid'}
+|-
+|rowspan="2"|[[Key (medium)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#19761 19761]
+|-
+|category || 0 || 180
+|-
+|rowspan="2"|[[Key (elite)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#19812 19812]
+|-
+|category || 0 || 180
+|-
+|rowspan="2"|[[Strange device]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#19939 19939]
+|-
+|category || 0 || 1650
+|-
+|rowspan="2"|[[Elder chaos top]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#20517 20517]
+|-
+|params || {'1564': 4, '436': 40, '434': 6} || {'41': 1, '434': 6, '1564': 4, '436': 40}
+|-
+|rowspan="2"|[[Elder chaos robe]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#20520 20520]
+|-
+|params || {'1564': 7, '436': 40, '434': 6} || {'41': 1, '434': 6, '1564': 7, '436': 40}
+|-
+|rowspan="2"|[[Elder chaos hood]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#20595 20595]
+|-
+|params || {'1564': 8, '436': 40, '434': 6} || {'41': 1, '434': 6, '1564': 8, '436': 40}
+|-
+|rowspan="2"|[[Ring of wealth (i5)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#20786 20786]
+|-
+|params || {'456': 'Coin Collection', '451': 'Miscellania', '452': 'Grand Exchange', '453': 'Falador', '454': 'Dondakan', '455': 'Boss Log'} || {'258': 14, '451': 'Miscellania', '452': 'Grand Exchange', '453': 'Falador', '454': 'Dondakan', '455': 'Boss Log', '456': 'Coin Collection'}
+|-
+|rowspan="2"|[[Ring of wealth (i4)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#20787 20787]
+|-
+|params || {'456': 'Coin Collection', '451': 'Miscellania', '452': 'Grand Exchange', '453': 'Falador', '454': 'Dondakan', '455': 'Boss Log'} || {'258': 14, '451': 'Miscellania', '452': 'Grand Exchange', '453': 'Falador', '454': 'Dondakan', '455': 'Boss Log', '456': 'Coin Collection'}
+|-
+|rowspan="2"|[[Ring of wealth (i3)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#20788 20788]
+|-
+|params || {'456': 'Coin Collection', '451': 'Miscellania', '452': 'Grand Exchange', '453': 'Falador', '454': 'Dondakan', '455': 'Boss Log'} || {'258': 14, '451': 'Miscellania', '452': 'Grand Exchange', '453': 'Falador', '454': 'Dondakan', '455': 'Boss Log', '456': 'Coin Collection'}
+|-
+|rowspan="2"|[[Ring of wealth (i2)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#20789 20789]
+|-
+|params || {'456': 'Coin Collection', '451': 'Miscellania', '452': 'Grand Exchange', '453': 'Falador', '454': 'Dondakan', '455': 'Boss Log'} || {'258': 14, '451': 'Miscellania', '452': 'Grand Exchange', '453': 'Falador', '454': 'Dondakan', '455': 'Boss Log', '456': 'Coin Collection'}
+|-
+|rowspan="2"|[[Ring of wealth (i1)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#20790 20790]
+|-
+|params || {'456': 'Coin Collection', '451': 'Miscellania', '452': 'Grand Exchange', '453': 'Falador', '454': 'Dondakan', '455': 'Boss Log'} || {'258': 14, '451': 'Miscellania', '452': 'Grand Exchange', '453': 'Falador', '454': 'Dondakan', '455': 'Boss Log', '456': 'Coin Collection'}
+|-
+|rowspan="2"|[[Purple slayer helmet]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#21264 21264]
+|-
+|params || {'385': 1, '453': 'Check', '454': 'Partner', '455': 'Log'} || {'385': 1, '258': 13, '453': 'Check', '454': 'Partner', '455': 'Log'}
+|-
+|rowspan="2"|[[Purple slayer helmet (i)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#21266 21266]
+|-
+|params || {'385': 1, '453': 'Check', '454': 'Partner', '455': 'Log'} || {'385': 1, '258': 13, '453': 'Check', '454': 'Partner', '455': 'Log'}
+|-
+|rowspan="2"|[[Infernal cape]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#21295 21295]
+|-
+|params || {'1564': 1} || {'1564': 1, '258': 22}
+|-
+|rowspan="2"|[[Imbued saradomin cape]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#21791 21791]
+|-
+|params || {'1564': 1, '436': 75, '434': 6} || {'40': 1, '434': 6, '1564': 1, '436': 75}
+|-
+|rowspan="2"|[[Imbued guthix cape]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#21793 21793]
+|-
+|params || {'1564': 1, '436': 75, '434': 6} || {'434': 6, '42': 1, '1564': 1, '436': 75}
+|-
+|rowspan="2"|[[Imbued zamorak cape]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#21795 21795]
+|-
+|params || {'1564': 1, '436': 75, '434': 6} || {'41': 1, '434': 6, '1564': 1, '436': 75}
+|-
+|rowspan="2"|[[Turquoise slayer helmet]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#21888 21888]
+|-
+|params || {'385': 1, '453': 'Check', '454': 'Partner', '455': 'Log'} || {'385': 1, '258': 13, '453': 'Check', '454': 'Partner', '455': 'Log'}
+|-
+|rowspan="2"|[[Turquoise slayer helmet (i)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#21890 21890]
+|-
+|params || {'385': 1, '453': 'Check', '454': 'Partner', '455': 'Log'} || {'385': 1, '258': 13, '453': 'Check', '454': 'Partner', '455': 'Log'}
+|-
+|rowspan="2"|[[Staff of light]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#22296 22296]
+|-
+|params || {'434': 0, '435': 6, '1564': 3, '436': 75, '437': 75} || {'434': 0, '435': 6, '436': 75, '437': 75, '40': 1, '41': 1, '1564': 3}
+|-
+|rowspan="2"|[[Avernic defender]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#22322 22322]
+|-
+|params || {'434': 0, '435': 1, '1564': 5, '436': 70, '437': 70} || {'434': 0, '258': 27, '435': 1, '1564': 5, '436': 70, '437': 70}
+|-
+|rowspan="2"|[[Justiciar faceguard]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#22326 22326]
+|-
+|params || {'1564': 0, '436': 75, '434': 1} || {'40': 1, '434': 1, '1564': 0, '436': 75}
+|-
+|rowspan="2"|[[Justiciar chestguard]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#22327 22327]
+|-
+|params || {'1564': 4, '436': 75, '434': 1} || {'40': 1, '434': 1, '1564': 4, '436': 75}
+|-
+|rowspan="2"|[[Justiciar legguards]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#22328 22328]
+|-
+|params || {'1564': 7, '436': 75, '434': 1} || {'40': 1, '434': 1, '1564': 7, '436': 75}
+|-
+|rowspan="2"|[[Bryophyta's staff (uncharged)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#22368 22368]
+|-
+|params || {'436': 62, '434': 12, '451': 'Check'} || {'434': 12, '258': 26, '451': 'Check', '436': 62}
+|-
+|rowspan="2"|[[Bryophyta's staff]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#22370 22370]
+|-
+|params || {'434': 6, '435': 0, '451': 'Check', '1564': 3, '436': 30, '437': 30} || {'434': 6, '258': 26, '435': 0, '451': 'Check', '436': 30, '437': 30, '1564': 3}
+|-
+|rowspan="2"|[[Ivandis flail]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#22398 22398]
+|-
+|params || {'434': 0, '451': 'Bloom', '1564': 3, '436': 40} || {'434': 0, '258': 42, '451': 'Bloom', '1564': 3, '436': 40}
+|-
+|rowspan="2"|[[Viggora's chainmace (u)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#22542 22542]
+|-
+|params || {'23': 60} || {'41': 1, '23': 60}
+|-
+|rowspan="2"|[[Viggora's chainmace]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#22545 22545]
+|-
+|params || {'434': 0, '451': 'Check', '1564': 3, '436': 60, '23': 60} || {'41': 1, '434': 0, '451': 'Check', '1564': 3, '436': 60, '23': 60}
+|-
+|rowspan="2"|[[Thammaron's sceptre (u)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#22552 22552]
+|-
+|params || {'23': 60} || {'41': 1, '23': 60}
+|-
+|rowspan="2"|[[Thammaron's sceptre]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#22555 22555]
+|-
+|params || {'434': 6, '451': 'Check', '1564': 3, '436': 60, '23': 60} || {'41': 1, '434': 6, '451': 'Check', '1564': 3, '436': 60, '23': 60}
+|-
+|rowspan="2"|[[Devout boots]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#22954 22954]
+|-
+|params || {'1564': 10, '436': 60, '434': 5} || {'40': 1, '434': 5, '1564': 10, '436': 60}
+|-
+|rowspan="2"|[[Dragon hunter lance]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#22978 22978]
+|-
+|params || {'1564': 3, '436': 70, '434': 0} || {'41': 1, '434': 0, '1564': 3, '436': 70}
+|-
+|rowspan="2"|[[Hydra slayer helmet]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#23073 23073]
+|-
+|params || {'385': 1, '453': 'Check', '454': 'Partner', '455': 'Log'} || {'385': 1, '258': 13, '453': 'Check', '454': 'Partner', '455': 'Log'}
+|-
+|rowspan="2"|[[Hydra slayer helmet (i)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#23075 23075]
+|-
+|params || {'385': 1, '453': 'Check', '454': 'Partner', '455': 'Log'} || {'385': 1, '258': 13, '453': 'Check', '454': 'Partner', '455': 'Log'}
+|-
+|rowspan="2"|[[Strange device]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#23183 23183]
+|-
+|category || 0 || 1650
+|-
+|rowspan="2"|[[Imbued guthix cape]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#23603 23603]
+|-
+|params || {'1564': 1} || {'1564': 1, '42': 1}
+|-
+|rowspan="2"|[[Imbued zamorak cape]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#23605 23605]
+|-
+|params || {'1564': 1} || {'1564': 1, '41': 1}
+|-
+|rowspan="2"|[[Imbued saradomin cape]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#23607 23607]
+|-
+|params || {'1564': 1} || {'1564': 1, '40': 1}
+|-
+|rowspan="2"|[[Staff of the dead]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#23613 23613]
+|-
+|params || {'1564': 3} || {'1564': 3, '41': 1}
+|-
+|rowspan="2"|[[Crystal axe]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#23673 23673]
+|-
+|params || {'23': 71, '451': 'Check'} || {'258': 35, '23': 71, '451': 'Check'}
+|-
+|rowspan="2"|[[Crystal axe (inactive)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#23675 23675]
+|-
+|params || {'23': 71} || {'258': 35, '23': 71}
+|-
+|rowspan="2"|[[Dragon pickaxe (or)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#23677 23677]
+|-
+|params || {'23': 61} || {'258': 21, '23': 61}
+|-
+|rowspan="2"|[[Crystal pickaxe]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#23680 23680]
+|-
+|params || {'23': 71, '451': 'Check'} || {'258': 21, '23': 71, '451': 'Check'}
+|-
+|rowspan="2"|[[Crystal pickaxe (inactive)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#23682 23682]
+|-
+|params || {'23': 71} || {'258': 21, '23': 71}
+|-
+|rowspan="2"|[[Crystal bow]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#23983 23983]
+|-
+|params || {'23': 70, '451': 'Check'} || {'258': 20, '23': 70, '451': 'Check'}
+|-
+|rowspan="2"|[[Crystal bow]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#24123 24123]
+|-
+|params || {'434': 4, '435': 16, '451': 'Check', '436': 70, '437': 50, '23': 70, '1564': 3} || {'434': 4, '258': 20, '435': 16, '451': 'Check', '436': 70, '437': 50, '23': 70, '1564': 3}
+|-
+|rowspan="2"|[[Twisted slayer helmet]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#24370 24370]
+|-
+|params || {'385': 1, '453': 'Check', '454': 'Partner', '455': 'Log'} || {'385': 1, '258': 13, '453': 'Check', '454': 'Partner', '455': 'Log'}
+|-
+|rowspan="2"|[[Inquisitor's mace]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#24417 24417]
+|-
+|params || {'1564': 3, '436': 80, '434': 0} || {'41': 1, '434': 0, '1564': 3, '436': 80}
+|-
+|rowspan="2"|[[Inquisitor's great helm]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#24419 24419]
+|-
+|params || {'434': 1, '435': 2, '155': 5, '1564': 0, '436': 30, '437': 70} || {'434': 1, '435': 2, '436': 30, '437': 70, '41': 1, '155': 5, '1564': 0}
+|-
+|rowspan="2"|[[Inquisitor's hauberk]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#24420 24420]
+|-
+|params || {'434': 1, '435': 2, '155': 5, '1564': 4, '436': 30, '437': 70} || {'434': 1, '435': 2, '436': 30, '437': 70, '41': 1, '155': 5, '1564': 4}
+|-
+|rowspan="2"|[[Inquisitor's plateskirt]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#24421 24421]
+|-
+|params || {'434': 1, '435': 2, '155': 5, '1564': 7, '436': 30, '437': 70} || {'434': 1, '435': 2, '436': 30, '437': 70, '41': 1, '155': 5, '1564': 7}
+|-
+|rowspan="2"|[[Twisted slayer helmet (i)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#24444 24444]
+|-
+|params || {'385': 1, '453': 'Check', '454': 'Partner', '455': 'Log'} || {'385': 1, '258': 13, '453': 'Check', '454': 'Partner', '455': 'Log'}
+|-
+|rowspan="2"|[[Blisterwood flail]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#24699 24699]
+|-
+|params || {'451': 'Bloom'} || {'258': 42, '451': 'Bloom'}
+|-
+|rowspan="2"|[[Hallowed grapple]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#24721 24721]
+|-
+|params || {'23': 1} || {'40': 1, '23': 1}
+|-
+|rowspan="2"|[[Ring of endurance]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#24736 24736]
+|-
+|params || {'451': 'Check'} || {'40': 1, '451': 'Check'}
+|-
+|rowspan="2"|[[Infernal pickaxe (or)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#25063 25063]
+|-
+|params || {'23': 61, '451': 'Check'} || {'258': 21, '23': 61, '451': 'Check'}
+|-
+|rowspan="2"|[[Infernal axe (or)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#25066 25066]
+|-
+|params || {'23': 61, '451': 'Check'} || {'258': 35, '23': 61, '451': 'Check'}
+|-
+|rowspan="2"|[[Slayer helmet (i)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#25177 25177]
+|-
+|params || {'385': 1, '453': 'Check', '454': 'Partner', '455': 'Log'} || {'385': 1, '258': 13, '453': 'Check', '454': 'Partner', '455': 'Log'}
+|-
+|rowspan="2"|[[Black slayer helmet (i)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#25179 25179]
+|-
+|params || {'385': 1, '453': 'Check', '454': 'Partner', '455': 'Log'} || {'385': 1, '258': 13, '453': 'Check', '454': 'Partner', '455': 'Log'}
+|-
+|rowspan="2"|[[Green slayer helmet (i)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#25181 25181]
+|-
+|params || {'385': 1, '453': 'Check', '454': 'Partner', '455': 'Log'} || {'385': 1, '258': 13, '453': 'Check', '454': 'Partner', '455': 'Log'}
+|-
+|rowspan="2"|[[Red slayer helmet (i)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#25183 25183]
+|-
+|params || {'385': 1, '453': 'Check', '454': 'Partner', '455': 'Log'} || {'385': 1, '258': 13, '453': 'Check', '454': 'Partner', '455': 'Log'}
+|-
+|rowspan="2"|[[Purple slayer helmet (i)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#25185 25185]
+|-
+|params || {'385': 1, '453': 'Check', '454': 'Partner', '455': 'Log'} || {'385': 1, '258': 13, '453': 'Check', '454': 'Partner', '455': 'Log'}
+|-
+|rowspan="2"|[[Turquoise slayer helmet (i)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#25187 25187]
+|-
+|params || {'385': 1, '453': 'Check', '454': 'Partner', '455': 'Log'} || {'385': 1, '258': 13, '453': 'Check', '454': 'Partner', '455': 'Log'}
+|-
+|rowspan="2"|[[Hydra slayer helmet (i)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#25189 25189]
+|-
+|params || {'385': 1, '453': 'Check', '454': 'Partner', '455': 'Log'} || {'385': 1, '258': 13, '453': 'Check', '454': 'Partner', '455': 'Log'}
+|-
+|rowspan="2"|[[Twisted slayer helmet (i)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#25191 25191]
+|-
+|params || {'385': 1, '453': 'Check', '454': 'Partner', '455': 'Log'} || {'385': 1, '258': 13, '453': 'Check', '454': 'Partner', '455': 'Log'}
+|-
+|rowspan="2"|[[Infernal pickaxe (uncharged)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#25369 25369]
+|-
+|params || {'23': 61} || {'258': 21, '23': 61}
+|-
+|rowspan="2"|[[Infernal axe (uncharged)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#25371 25371]
+|-
+|params || {'23': 61} || {'258': 35, '23': 61}
+|-
+|rowspan="2"|[[Dragon pickaxe (or)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#25376 25376]
+|-
+|params || {'23': 61} || {'258': 21, '23': 61}
+|-
+|rowspan="2"|[[Dragon axe (or)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#25378 25378]
+|-
+|params || {'23': 61} || {'258': 35, '23': 61}
+|-
+|rowspan="2"|[[Holy sanguinesti staff]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#25731 25731]
+|-
+|params || {'451': 'Check'} || {'40': 1, '451': 'Check'}
+|-
+|rowspan="2"|[[Holy scythe of vitur]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#25736 25736]
+|-
+|params || {'451': 'Check'} || {'40': 1, '451': 'Check'}
+|-
+|rowspan="2"|[[Bow of faerdhinen (inactive)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#25862 25862]
+|-
+|params || {'23': 80} || {'258': 0, '23': 80}
+|-
+|rowspan="2"|[[Bow of faerdhinen]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#25865 25865]
+|-
+|params || {'434': 4, '435': 16, '451': 'Check', '436': 80, '437': 70, '23': 80, '1562': 3, '1563': 0, '1564': 3} || {'434': 4, '258': 20, '435': 16, '451': 'Check', '436': 80, '437': 70, '23': 80, '1562': 3, '1563': 0, '1564': 3}
+|-
+|rowspan="2"|[[Bow of faerdhinen (c)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#25867 25867]
+|-
+|params || {'23': 80} || {'258': 20, '23': 80}
+|-
+|rowspan="2"|[[Bow of faerdhinen (c)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#25884 25884]
+|-
+|params || {'23': 80} || {'258': 20, '23': 80}
+|-
+|rowspan="2"|[[Bow of faerdhinen (c)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#25886 25886]
+|-
+|params || {'23': 80} || {'258': 20, '23': 80}
+|-
+|rowspan="2"|[[Bow of faerdhinen (c)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#25888 25888]
+|-
+|params || {'23': 80} || {'258': 20, '23': 80}
+|-
+|rowspan="2"|[[Bow of faerdhinen (c)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#25890 25890]
+|-
+|params || {'23': 80} || {'258': 20, '23': 80}
+|-
+|rowspan="2"|[[Bow of faerdhinen (c)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#25892 25892]
+|-
+|params || {'23': 80} || {'258': 20, '23': 80}
+|-
+|rowspan="2"|[[Bow of faerdhinen (c)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#25894 25894]
+|-
+|params || {'23': 80} || {'258': 20, '23': 80}
+|-
+|rowspan="2"|[[Bow of faerdhinen (c)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#25896 25896]
+|-
+|params || {'23': 80} || {'258': 20, '23': 80}
+|-
+|rowspan="2"|[[Tztok slayer helmet]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#25898 25898]
+|-
+|params || {'385': 1, '453': 'Check', '454': 'Partner', '455': 'Log'} || {'385': 1, '258': 13, '453': 'Check', '454': 'Partner', '455': 'Log'}
+|-
+|rowspan="2"|[[Tztok slayer helmet (i)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#25900 25900]
+|-
+|params || {'385': 1, '453': 'Check', '454': 'Partner', '455': 'Log'} || {'385': 1, '258': 13, '453': 'Check', '454': 'Partner', '455': 'Log'}
+|-
+|rowspan="2"|[[Tztok slayer helmet (i)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#25902 25902]
+|-
+|params || {'385': 1, '453': 'Check', '454': 'Partner', '455': 'Log'} || {'385': 1, '258': 13, '453': 'Check', '454': 'Partner', '455': 'Log'}
+|-
+|rowspan="2"|[[Vampyric slayer helmet]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#25904 25904]
+|-
+|params || {'385': 1, '453': 'Check', '454': 'Partner', '455': 'Log'} || {'385': 1, '258': 13, '453': 'Check', '454': 'Partner', '455': 'Log'}
+|-
+|rowspan="2"|[[Vampyric slayer helmet (i)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#25906 25906]
+|-
+|params || {'385': 1, '453': 'Check', '454': 'Partner', '455': 'Log'} || {'385': 1, '258': 13, '453': 'Check', '454': 'Partner', '455': 'Log'}
+|-
+|rowspan="2"|[[Vampyric slayer helmet (i)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#25908 25908]
+|-
+|params || {'385': 1, '453': 'Check', '454': 'Partner', '455': 'Log'} || {'385': 1, '258': 13, '453': 'Check', '454': 'Partner', '455': 'Log'}
+|-
+|rowspan="2"|[[Tzkal slayer helmet]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#25910 25910]
+|-
+|params || {'385': 1, '453': 'Check', '454': 'Partner', '455': 'Log'} || {'385': 1, '258': 13, '453': 'Check', '454': 'Partner', '455': 'Log'}
+|-
+|rowspan="2"|[[Tzkal slayer helmet (i)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#25912 25912]
+|-
+|params || {'385': 1, '453': 'Check', '454': 'Partner', '455': 'Log'} || {'385': 1, '258': 13, '453': 'Check', '454': 'Partner', '455': 'Log'}
+|-
+|rowspan="2"|[[Tzkal slayer helmet (i)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#25914 25914]
+|-
+|params || {'385': 1, '453': 'Check', '454': 'Partner', '455': 'Log'} || {'385': 1, '258': 13, '453': 'Check', '454': 'Partner', '455': 'Log'}
+|-
+|rowspan="2"|[[Rune crossbow (or)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26486 26486]
+|-
+|params || {'23': 61} || {'258': 37, '23': 61}
+|-
+|rowspan="2"|[[Book of balance (or)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26488 26488]
+|-
+|params || {'451': 'Read'} || {'258': 7, '42': 1, '451': 'Read'}
+|-
+|rowspan="2"|[[Book of darkness (or)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26490 26490]
+|-
+|params || {'451': 'Read'} || {'258': 7, '451': 'Read'}
+|-
+|rowspan="2"|[[Book of law (or)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26492 26492]
+|-
+|params || {'451': 'Read'} || {'258': 7, '451': 'Read'}
+|-
+|rowspan="2"|[[Book of war (or)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26494 26494]
+|-
+|params || {'451': 'Read'} || {'258': 7, '451': 'Read'}
+|-
+|rowspan="2"|[[Holy book (or)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26496 26496]
+|-
+|params || {'451': 'Read'} || {'40': 1, '258': 7, '451': 'Read'}
+|-
+|rowspan="2"|[[Unholy book (or)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26498 26498]
+|-
+|params || {'451': 'Read'} || {'41': 1, '258': 7, '451': 'Read'}
+|-
+|rowspan="2"|[[Slayer helmet (i)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26674 26674]
+|-
+|params || {'385': 1, '453': 'Check', '454': 'Partner', '455': 'Log'} || {'385': 1, '258': 13, '453': 'Check', '454': 'Partner', '455': 'Log'}
+|-
+|rowspan="2"|[[Black slayer helmet (i)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26675 26675]
+|-
+|params || {'385': 1, '453': 'Check', '454': 'Partner', '455': 'Log'} || {'385': 1, '258': 13, '453': 'Check', '454': 'Partner', '455': 'Log'}
+|-
+|rowspan="2"|[[Green slayer helmet (i)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26676 26676]
+|-
+|params || {'385': 1, '453': 'Check', '454': 'Partner', '455': 'Log'} || {'385': 1, '258': 13, '453': 'Check', '454': 'Partner', '455': 'Log'}
+|-
+|rowspan="2"|[[Red slayer helmet (i)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26677 26677]
+|-
+|params || {'385': 1, '453': 'Check', '454': 'Partner', '455': 'Log'} || {'385': 1, '258': 13, '453': 'Check', '454': 'Partner', '455': 'Log'}
+|-
+|rowspan="2"|[[Purple slayer helmet (i)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26678 26678]
+|-
+|params || {'385': 1, '453': 'Check', '454': 'Partner', '455': 'Log'} || {'385': 1, '258': 13, '453': 'Check', '454': 'Partner', '455': 'Log'}
+|-
+|rowspan="2"|[[Turquoise slayer helmet (i)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26679 26679]
+|-
+|params || {'385': 1, '453': 'Check', '454': 'Partner', '455': 'Log'} || {'385': 1, '258': 13, '453': 'Check', '454': 'Partner', '455': 'Log'}
+|-
+|rowspan="2"|[[Hydra slayer helmet (i)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26680 26680]
+|-
+|params || {'385': 1, '453': 'Check', '454': 'Partner', '455': 'Log'} || {'385': 1, '258': 13, '453': 'Check', '454': 'Partner', '455': 'Log'}
+|-
+|rowspan="2"|[[Twisted slayer helmet (i)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26681 26681]
+|-
+|params || {'385': 1, '453': 'Check', '454': 'Partner', '455': 'Log'} || {'385': 1, '258': 13, '453': 'Check', '454': 'Partner', '455': 'Log'}
+|-
+|rowspan="2"|[[Tztok slayer helmet (i)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26682 26682]
+|-
+|params || {'385': 1, '453': 'Check', '454': 'Partner', '455': 'Log'} || {'385': 1, '258': 13, '453': 'Check', '454': 'Partner', '455': 'Log'}
+|-
+|rowspan="2"|[[Vampyric slayer helmet (i)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26683 26683]
+|-
+|params || {'385': 1, '453': 'Check', '454': 'Partner', '455': 'Log'} || {'385': 1, '258': 13, '453': 'Check', '454': 'Partner', '455': 'Log'}
+|-
+|rowspan="2"|[[Tzkal slayer helmet (i)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26684 26684]
+|-
+|params || {'385': 1, '453': 'Check', '454': 'Partner', '455': 'Log'} || {'385': 1, '258': 13, '453': 'Check', '454': 'Partner', '455': 'Log'}
+|-
+|rowspan="2"|[[Pharaoh's sceptre (uncharged)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26945 26945]
+|-
+|params || {'148': 1} || {'148': 1, '258': 12}
+|-
+|rowspan="2"|[[Pharaoh's sceptre]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26948 26948]
+|-
+|params || {'451': 'Jalsavrah', '148': 1, '452': 'Jaleustrophos', '453': 'Jaldraocht', '454': 'Jaltevas', '455': 'Check'} || {'258': 12, '451': 'Jalsavrah', '148': 1, '452': 'Jaleustrophos', '453': 'Jaldraocht', '454': 'Jaltevas', '455': 'Check'}
+|-
+|rowspan="2"|[[Pharaoh's sceptre]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26950 26950]
+|-
+|params || {'451': 'Jalsavrah', '148': 1, '452': 'Jaleustrophos', '453': 'Jaldraocht', '454': 'Jaltevas', '455': 'Check'} || {'258': 12, '451': 'Jalsavrah', '148': 1, '452': 'Jaleustrophos', '453': 'Jaldraocht', '454': 'Jaltevas', '455': 'Check'}
+|-
+|rowspan="2"|[[Elder chaos top (or)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#27115 27115]
+|-
+|params || {'1564': 4, '436': 40, '434': 6} || {'41': 1, '434': 6, '1564': 4, '436': 40}
+|-
+|rowspan="2"|[[Elder chaos robe (or)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#27117 27117]
+|-
+|params || {'1564': 7, '436': 40, '434': 6} || {'41': 1, '434': 6, '1564': 7, '436': 40}
+|-
+|rowspan="2"|[[Elder chaos hood (or)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#27119 27119]
+|-
+|params || {'1564': 8, '436': 40, '434': 6} || {'41': 1, '434': 6, '1564': 8, '436': 40}
+|-
+|}
+
+==Non-Player Characters==
+{| class="wikitable sortable"
+!colspan='5'|Non-Player Characters
+|-
+! Name !! ID !! Key !! Previous Value !! Changed into
+|-
+|}
+
+==Objects==
+{| class="wikitable sortable"
+!colspan='5'|Objects
+|-
+! Name !! ID !! Key !! Previous Value !! Changed into
+|-
+|}

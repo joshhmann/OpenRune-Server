@@ -1,0 +1,1043 @@
+{{ToC}}
+==Items==
+===New Items===
+{| class="wikitable sortable"
+!colspan='11'|New Items
+|-
+! style=width:15em | Name !! ID !! Members !! Tradeable in GE !! Equipable !! Stackable !! Noteable !! Options !! Placeholder !! Cost !! Weight
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#28729 28729] || No || No || No || No || No || Drop || Yes || 1
+|| 0
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#28685 28685] || No || No || No || No || Yes || Drop || No || 1
+|| 0
+|-
+| [[Trailblazer reloaded blowpipe ornament kit]] || [https://chisel.weirdgloop.org/moid/item_id.html#28690 28690] || Yes || Yes || No || No || Yes || Drop || Yes || 5000
+|| 100
+|-
+| [[Globetrotter pendant]] || [https://chisel.weirdgloop.org/moid/item_id.html#28765 28765] || Yes || No || Yes || No || No || Wear, Nexus, Jewellery, Last-destination, Destroy || Yes || 1
+|| 2
+|-
+| [[Trailblazer reloaded steel trophy]] || [https://chisel.weirdgloop.org/moid/item_id.html#28759 28759] || Yes || No || Yes || No || No || Wear, Destroy || Yes || 1
+|| 1000
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#28778 28778] || No || No || No || No || Yes || Drop || No || 1
+|| 0
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#28784 28784] || No || No || No || No || Yes || Drop || No || 1
+|| 0
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#28717 28717] || No || No || No || No || No || Drop || Yes || 1
+|| 0
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#28772 28772] || No || No || No || No || No || Drop || Yes || 1
+|| 0
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#28726 28726] || No || No || No || No || No || Drop || Yes || 1
+|| 0
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#28752 28752] || No || No || No || No || No || Drop || Yes || 1
+|| 0
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#28746 28746] || No || No || No || No || Yes || Drop || No || 1
+|| 0
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#28701 28701] || No || No || No || No || No || Drop || Yes || 1
+|| 0
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#28737 28737] || No || No || No || No || Yes || Drop || No || 1
+|| 0
+|-
+| [[Trailblazer reloaded death scroll]] || [https://chisel.weirdgloop.org/moid/item_id.html#28699 28699] || Yes || Yes || Yes || No || Yes || Read, Drop || Yes || 25000
+|| 100
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#28760 28760] || No || No || No || No || No || Drop || Yes || 1
+|| 0
+|-
+| [[Trailblazer reloaded top (t1)]] || [https://chisel.weirdgloop.org/moid/item_id.html#28715 28715] || Yes || Yes || Yes || No || Yes || Wear, Drop || Yes || 15000
+|| 907
+|-
+| [[Trailblazer reloaded boots (t2)]] || [https://chisel.weirdgloop.org/moid/item_id.html#28733 28733] || Yes || Yes || Yes || No || Yes || Wear, Drop || Yes || 15000
+|| 340
+|-
+| [[Sage's axe]] || [https://chisel.weirdgloop.org/moid/item_id.html#28773 28773] || Yes || No || Yes || No || No || Wield, Destroy || Yes || 1
+|| 340
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#28776 28776] || No || No || No || No || No || Drop || Yes || 1
+|| 0
+|-
+| [[Trailblazer reloaded vengeance scroll]] || [https://chisel.weirdgloop.org/moid/item_id.html#28696 28696] || Yes || Yes || Yes || No || Yes || Read, Drop || Yes || 25000
+|| 100
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#28689 28689] || No || No || No || No || No || Drop || Yes || 1
+|| 0
+|-
+| [[Cabbage]] || [https://chisel.weirdgloop.org/moid/item_id.html#28680 28680] || No || No || No || Yes || No || Drop || No || 1
+|| 0
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#28723 28723] || No || No || No || No || No || Drop || Yes || 1
+|| 0
+|-
+| [[Ruinous powers]] || [https://chisel.weirdgloop.org/moid/item_id.html#28775 28775] || Yes || No || Yes || No || No || Change Prayerbook, Wield, Destroy || Yes || 1
+|| 14
+|-
+| [[Trailblazer reloaded relic hunter (t1) armour set]] || [https://chisel.weirdgloop.org/moid/item_id.html#28777 28777] || Yes || Yes || No || No || Yes || Drop || Yes || 50000
+|| 50
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#28681 28681] || No || No || No || No || No || Drop || No || 1
+|| 0
+|-
+| [[Dinh's blazing bulwark]] || [https://chisel.weirdgloop.org/moid/item_id.html#28682 28682] || Yes || No || Yes || No || No || Wear, Revert, Drop || Yes || 560000
+|| 30000
+|-
+| [[Trailblazer reloaded headband (t2)]] || [https://chisel.weirdgloop.org/moid/item_id.html#28724 28724] || Yes || Yes || Yes || No || Yes || Wear, Drop || Yes || 15000
+|| 453
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#28754 28754] || No || No || No || No || No || Drop || Yes || 1
+|| 0
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#28764 28764] || No || No || No || No || No || Drop || Yes || 1
+|| 0
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#28732 28732] || No || No || No || No || No || Drop || Yes || 1
+|| 0
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#28782 28782] || No || No || No || No || No || Drop || Yes || 1
+|| 0
+|-
+| [[Trailblazer reloaded headband (t1)]] || [https://chisel.weirdgloop.org/moid/item_id.html#28712 28712] || Yes || Yes || Yes || No || Yes || Wear, Drop || Yes || 15000
+|| 453
+|-
+| [[Trailblazer reloaded trousers (t3)]] || [https://chisel.weirdgloop.org/moid/item_id.html#28742 28742] || Yes || Yes || Yes || No || Yes || Wear, Drop || Yes || 15000
+|| 907
+|-
+| [[Trailblazer reloaded iron trophy]] || [https://chisel.weirdgloop.org/moid/item_id.html#28761 28761] || Yes || No || Yes || No || No || Wear, Destroy || Yes || 1
+|| 1000
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#28679 28679] || No || No || No || No || No || Drop || No || 1
+|| 0
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#28731 28731] || No || No || No || No || Yes || Drop || No || 1
+|| 0
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#28743 28743] || No || No || No || No || Yes || Drop || No || 1
+|| 0
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#28785 28785] || No || No || No || No || No || Drop || Yes || 1
+|| 0
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#28740 28740] || No || No || No || No || Yes || Drop || No || 1
+|| 0
+|-
+| [[Trailblazer reloaded bronze trophy]] || [https://chisel.weirdgloop.org/moid/item_id.html#28763 28763] || Yes || No || Yes || No || No || Wear, Destroy || Yes || 1
+|| 1000
+|-
+| [[Trailblazer reloaded banner]] || [https://chisel.weirdgloop.org/moid/item_id.html#28702 28702] || Yes || Yes || Yes || No || Yes || Wield, Drop || Yes || 1000
+|| 2267
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#28710 28710] || No || No || No || No || No || Drop || Yes || 1
+|| 0
+|-
+| [[Trailblazer reloaded torch]] || [https://chisel.weirdgloop.org/moid/item_id.html#28748 28748] || Yes || Yes || Yes || No || Yes || Wield, Drop || Yes || 15000
+|| 1814
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#28747 28747] || No || No || No || No || No || Drop || Yes || 1
+|| 0
+|-
+| [[Trailblazer reloaded relic hunter (t2) armour set]] || [https://chisel.weirdgloop.org/moid/item_id.html#28780 28780] || Yes || Yes || No || No || Yes || Drop || Yes || 50000
+|| 50
+|-
+| [[Trailblazer reloaded boots (t1)]] || [https://chisel.weirdgloop.org/moid/item_id.html#28721 28721] || Yes || Yes || Yes || No || Yes || Wear, Drop || Yes || 15000
+|| 340
+|-
+| [[Trailblazer reloaded adamant trophy]] || [https://chisel.weirdgloop.org/moid/item_id.html#28755 28755] || Yes || No || Yes || No || No || Wear, Destroy || Yes || 1
+|| 1500
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#28781 28781] || No || No || No || No || Yes || Drop || No || 1
+|| 0
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#28714 28714] || No || No || No || No || No || Drop || Yes || 1
+|| 0
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#28700 28700] || No || No || No || No || Yes || Drop || No || 1
+|| 0
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#28756 28756] || No || No || No || No || No || Drop || Yes || 1
+|| 0
+|-
+| [[Trailblazer reloaded rejuvenation pool scroll]] || [https://chisel.weirdgloop.org/moid/item_id.html#28708 28708] || Yes || Yes || Yes || No || Yes || Drop || Yes || 25000
+|| 100
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#28734 28734] || No || No || No || No || Yes || Drop || No || 1
+|| 0
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#28738 28738] || No || No || No || No || No || Drop || Yes || 1
+|| 0
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#28692 28692] || No || No || No || No || No || Drop || Yes || 1
+|| 0
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#28774 28774] || No || No || No || No || No || Drop || Yes || 1
+|| 0
+|-
+| [[Trailblazer reloaded bulwark ornament kit]] || [https://chisel.weirdgloop.org/moid/item_id.html#28684 28684] || Yes || Yes || No || No || Yes || Drop || Yes || 5000
+|| 500
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#28741 28741] || No || No || No || No || No || Drop || Yes || 1
+|| 0
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#28697 28697] || No || No || No || No || Yes || Drop || No || 1
+|| 0
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#28779 28779] || No || No || No || No || No || Drop || Yes || 1
+|| 0
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#28735 28735] || No || No || No || No || No || Drop || Yes || 1
+|| 0
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#28720 28720] || No || No || No || No || No || Drop || Yes || 1
+|| 0
+|-
+| [[Cabbage]] || [https://chisel.weirdgloop.org/moid/item_id.html#28678 28678] || No || No || No || Yes || No || Drop || No || 1
+|| 0
+|-
+| [[Strailblazer reloaded relic hunter (t3) armour set]] || [https://chisel.weirdgloop.org/moid/item_id.html#28783 28783] || Yes || Yes || No || No || Yes || Drop || Yes || 50000
+|| 50
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#28691 28691] || No || No || No || No || Yes || Drop || No || 1
+|| 0
+|-
+| [[Trailblazer reloaded rune trophy]] || [https://chisel.weirdgloop.org/moid/item_id.html#28753 28753] || Yes || No || Yes || No || No || Wear, Destroy || Yes || 1
+|| 1500
+|-
+| [[Trailblazer reloaded rejuvenation pool]] || [https://chisel.weirdgloop.org/moid/item_id.html#28711 28711] || No || No || No || No || No || Drop || No || 1
+|| 0
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#28722 28722] || No || No || No || No || Yes || Drop || No || 1
+|| 0
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#28758 28758] || No || No || No || No || No || Drop || Yes || 1
+|| 0
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#28766 28766] || No || No || No || No || No || Drop || Yes || 1
+|| 0
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#28706 28706] || No || No || No || No || Yes || Drop || No || 1
+|| 0
+|-
+| [[Trailblazer reloaded top (t3)]] || [https://chisel.weirdgloop.org/moid/item_id.html#28739 28739] || Yes || Yes || Yes || No || Yes || Wear, Drop || Yes || 15000
+|| 907
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#28703 28703] || No || No || No || No || Yes || Drop || No || 1
+|| 0
+|-
+| [[Trailblazer reloaded dragon trophy]] || [https://chisel.weirdgloop.org/moid/item_id.html#28751 28751] || Yes || No || Yes || No || No || Wear, Destroy || Yes || 1
+|| 1500
+|-
+| [[Trailblazer reloaded boots (t3)]] || [https://chisel.weirdgloop.org/moid/item_id.html#28745 28745] || Yes || Yes || Yes || No || Yes || Wear, Drop || Yes || 15000
+|| 340
+|-
+| [[Trailblazer reloaded trousers (t2)]] || [https://chisel.weirdgloop.org/moid/item_id.html#28730 28730] || Yes || Yes || Yes || No || Yes || Wear, Drop || Yes || 15000
+|| 907
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#28744 28744] || No || No || No || No || No || Drop || Yes || 1
+|| 0
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#28707 28707] || No || No || No || No || No || Drop || Yes || 1
+|| 0
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#28694 28694] || No || No || No || No || Yes || Drop || No || 1
+|| 0
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#28749 28749] || No || No || No || No || Yes || Drop || No || 1
+|| 0
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#28709 28709] || No || No || No || No || Yes || Drop || No || 1
+|| 0
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#28750 28750] || No || No || No || No || No || Drop || Yes || 1
+|| 0
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#28683 28683] || No || No || No || No || No || Drop || Yes || 1
+|| 0
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#28716 28716] || No || No || No || No || Yes || Drop || No || 1
+|| 0
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#28698 28698] || No || No || No || No || No || Drop || Yes || 1
+|| 0
+|-
+| [[Guardian horn]] || [https://chisel.weirdgloop.org/moid/item_id.html#28769 28769] || Yes || No || Yes || No || No || Summon, Dismiss, Toggle-multi-attack, Change-outfit, Destroy || Yes || 1
+|| 200
+|-
+| [[Trailblazer reloaded home teleport scroll]] || [https://chisel.weirdgloop.org/moid/item_id.html#28705 28705] || Yes || Yes || Yes || No || Yes || Read, Drop || Yes || 25000
+|| 100
+|-
+| [[Trailblazer reloaded mithril trophy]] || [https://chisel.weirdgloop.org/moid/item_id.html#28757 28757] || Yes || No || Yes || No || No || Wear, Destroy || Yes || 1
+|| 1000
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#28728 28728] || No || No || No || No || Yes || Drop || No || 1
+|| 0
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#28686 28686] || No || No || No || No || No || Drop || Yes || 1
+|| 0
+|-
+| [[Trailblazer reloaded alchemy scroll]] || [https://chisel.weirdgloop.org/moid/item_id.html#28693 28693] || Yes || Yes || Yes || No || Yes || Read, Drop || Yes || 25000
+|| 100
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#28768 28768] || No || No || No || No || No || Drop || Yes || 1
+|| 0
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#28704 28704] || No || No || No || No || No || Drop || Yes || 1
+|| 0
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#28695 28695] || No || No || No || No || No || Drop || Yes || 1
+|| 0
+|-
+| [[Sage's greaves]] || [https://chisel.weirdgloop.org/moid/item_id.html#28771 28771] || Yes || No || Yes || No || No || Wear, Destroy || Yes || 1
+|| 0
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#28713 28713] || No || No || No || No || Yes || Drop || No || 1
+|| 0
+|-
+| [[Trailblazer reloaded top (t2)]] || [https://chisel.weirdgloop.org/moid/item_id.html#28727 28727] || Yes || Yes || Yes || No || Yes || Wear, Drop || Yes || 15000
+|| 907
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#28762 28762] || No || No || No || No || No || Drop || Yes || 1
+|| 0
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#28719 28719] || No || No || No || No || Yes || Drop || No || 1
+|| 0
+|-
+| [[Trailblazer reloaded headband (t3)]] || [https://chisel.weirdgloop.org/moid/item_id.html#28736 28736] || Yes || Yes || Yes || No || Yes || Wear, Drop || Yes || 15000
+|| 453
+|-
+| [[Banker's note (Trailblazer Reloaded, item)]] || [https://chisel.weirdgloop.org/moid/item_id.html#28767 28767] || Yes || No || No || No || No || Activate, Note-Quantity, Un-note-Quantity, Toggle, Destroy || Yes || 1
+|| 1
+|-
+| [[Trailblazer reloaded trousers (t1)]] || [https://chisel.weirdgloop.org/moid/item_id.html#28718 28718] || Yes || Yes || Yes || No || Yes || Wear, Drop || Yes || 15000
+|| 907
+|-
+| [[Blazing blowpipe (empty)]] || [https://chisel.weirdgloop.org/moid/item_id.html#28687 28687] || Yes || No || Yes || No || No || Dismantle, Drop || No || 120000
+|| 300
+|-
+| [[Blazing blowpipe]] || [https://chisel.weirdgloop.org/moid/item_id.html#28688 28688] || Yes || No || Yes || No || No || Wield, Check, Unload, Uncharge || Yes || 120000
+|| 500
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#28725 28725] || No || No || No || No || Yes || Drop || No || 1
+|| 0
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#28770 28770] || No || No || No || No || No || Drop || Yes || 1
+|| 0
+|-
+|-
+|}
+===Removed Items===
+{| class="wikitable sortable"
+!colspan='2'|Removed Items
+|-
+! style=width:15em | Name !! ID
+|-
+|-
+|}
+===Diff Items===
+{| class="wikitable sortable"
+!colspan='5'|Diff Items
+|-
+! style=width:15em | Name !! ID !! Key !! Previous Value !! New Value
+|-
+|rowspan="5"|[[Twisted teleport scroll]]
+|rowspan="5"|[https://chisel.weirdgloop.org/moid/item_id.html#24460 24460]
+|-
+|xan2d || 349 || 589
+|-
+| yan2d || 980 || 1544
+|-
+| zoom2d || 1020 || 1118
+|-
+| yOffset2d || 3 || 0
+|-
+|rowspan="5"|[[Trailblazer teleport scroll]]
+|rowspan="5"|[https://chisel.weirdgloop.org/moid/item_id.html#25087 25087]
+|-
+|xan2d || 349 || 589
+|-
+| yan2d || 980 || 1544
+|-
+| zoom2d || 1020 || 1118
+|-
+| yOffset2d || 3 || 0
+|-
+|rowspan="6"|[[Fairy mushroom (Trailblazer Reloaded)]]
+|rowspan="6"|[https://chisel.weirdgloop.org/moid/item_id.html#25102 25102]
+|-
+|cost || 400 || 1
+|-
+| xOffset2d || 1 || -5
+|-
+| yOffset2d || 6 || 28
+|-
+| interfaceOptions || ['Wield', 'Fairy-ring', 'Spirit-tree', 'Last-destination', 'Destroy'] || ['Wield', 'Teleport', 'Last-destination', None, 'Destroy']
+|-
+| params || {'451': 'Fairy-Ring', '452': 'Spirit-tree', '148': 1, '453': 'Last-destination', '295': 1} || {'451': 'Fairy-Ring', '452': 'Spirit-tree', '148': 1, '453': 'Tool-leprechauns', '454': 'Last-destination', '295': 1}
+|-
+|rowspan="5"|[[Shattered teleport scroll]]
+|rowspan="5"|[https://chisel.weirdgloop.org/moid/item_id.html#26500 26500]
+|-
+|xan2d || 349 || 589
+|-
+| yan2d || 980 || 1544
+|-
+| zoom2d || 1020 || 1118
+|-
+| yOffset2d || 3 || 0
+|-
+|rowspan="6"|[[Arcane grimoire]]
+|rowspan="6"|[https://chisel.weirdgloop.org/moid/item_id.html#26551 26551]
+|-
+|cost || 400 || 1
+|-
+| inventoryModel || 43432 || 50018
+|-
+| maleModel0 || 43317 || 49985
+|-
+| femaleModel0 || 43323 || 49983
+|-
+| weight || 2 || 300
+|-
+|}
+
+==Non-Player Characters==
+===New NPCs===
+{| class="wikitable sortable"
+!colspan='4'|New NPCs
+|-
+! style=width:15em | Name !! ID !! Combat Level !! Options
+|-
+| [[Bloodthirsty Crawler]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12539 12539] || 68 || Attack
+|-
+| [[Bloodthirsty Jelly]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12570 12570] || 206 || Attack
+|-
+| [[Bloodthirsty basilisk]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12565 12565] || 135 || Attack
+|-
+| [[Leagues Assistant]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12593 12593] || No Combat Level || Talk-to, Trade, Claim-trophies
+|-
+| [[Bloodthirst rockslug]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12561 12561] || 86 || Attack
+|-
+| [[Bloodthirsty gargoyle]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12579 12579] || 349 || Attack
+|-
+| [[Bloodthirsty abyssal demon]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12581 12581] || 342 || Attack
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12595 12595] || No Combat Level || 
+|-
+| [[Bloodthirsty Nechryarch]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12582 12582] || 300 || Attack
+|-
+| [[Bloodthirsty smoke devil]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12577 12577] || 280 || Attack
+|-
+| [[Bloodthirsty Drake]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12586 12586] || 386 || Attack
+|-
+| [[Jal-ImKot]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12594 12594] || 240 || Attack
+|-
+| [[Bloodthirsty Shadow Wyrm]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12584 12584] || 267 || Attack
+|-
+| [[Bloodthirsty banshee]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12540 12540] || 70 || Attack
+|-
+| [[Bloodthirsty Basilisk Sentinel]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12566 12566] || 358 || Attack
+|-
+| [[Bloodthirsty Night beast]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12580 12580] || 374 || Attack
+|-
+| [[Bloodthirsty warped Jelly]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12571 12571] || 241 || Attack
+|-
+| [[Bloodthirsty Repugnant spectre]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12574 12574] || 335 || Attack
+|-
+| [[Bloodthirsty Cockathrice]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12562 12562] || 89 || Attack
+|-
+| [[Bloodthirsty abomination]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12572 12572] || 206 || Attack
+|-
+| [[Bloodthirsty Shadow Wyrm]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12585 12585] || 267 || Attack
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12589 12589] || No Combat Level || 
+|-
+| [[The Sage (Trailblazer Reloaded League)|The Sage]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12592 12592] || No Combat Level || Talk-to, Check-pets, Collect-items, Rewards
+|-
+| [[Bloodthirsty Mage]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12567 12567] || 162 || Attack
+|-
+| [[Bloodthirsty Hydra]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12588 12588] || 334 || Attack
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12596 12596] || No Combat Level || 
+|-
+| [[Bloodthirsty mutated Bloodveld]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12569 12569] || 278 || Attack
+|-
+| [[Bloodthirsty kurask]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12576 12576] || 295 || Attack
+|-
+| [[Bloodthirsty Drake]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12587 12587] || 386 || 
+|-
+| [[Bloodthirsty Bloodveld]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12568 12568] || 202 || Attack
+|-
+| [[Bloodthirsty Turoth]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12583 12583] || 244 || Attack
+|-
+| [[Bloodthirsty Infernal pyrelord]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12564 12564] || 134 || Attack
+|-
+| [[Bloodthirsty choke devil]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12575 12575] || 264 || Attack
+|-
+| [[Bloodthirsty spectre]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12573 12573] || 253 || Attack
+|-
+| [[Bloodthirsty hand]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12538 12538] || 45 || Attack
+|-
+| [[Bloodthirsty gargoyle]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12578 12578] || 349 || Attack
+|-
+| [[Bloodthirsty twisted banshee]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12542 12542] || 144 || Attack
+|-
+| [[Bloodthirsty pyrelord]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12563 12563] || 97 || Attack
+|-
+|-
+|}
+===Removed NPCs===
+{| class="wikitable sortable"
+!colspan='2'|Removed NPCs
+|-
+! style=width:15em | Name !! ID
+|-
+|-
+|}
+===Diff NPCs===
+{| class="wikitable sortable"
+!colspan='5'|Diff NPCs
+|-
+! style=width:15em | Name !! ID !! Key !! Previous Value !! New Value
+|-
+|rowspan="2"|[[Town Crier]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#278 278]
+|-
+|actions || ['Talk-to', None, None, 'Trick-or-treat', None] || ['Talk-to', None, None, None, None]
+|-
+|rowspan="2"|[[Lumbridge Guide]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#306 306]
+|-
+|actions || ['Talk-to', None, None, 'Trick-or-treat', None] || ['Talk-to', None, None, None, None]
+|-
+|rowspan="2"|[[Iffie]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#2899 2899]
+|-
+|actions || ['Talk-to', None, None, 'Trick-or-treat', None] || ['Talk-to', None, None, None, None]
+|-
+|rowspan="2"|[[Elsie]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#2900 2900]
+|-
+|actions || ['Talk-to', None, None, 'Trick-or-treat', None] || ['Talk-to', None, None, None, None]
+|-
+|rowspan="2"|[[Guard]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#3010 3010]
+|-
+|actions || [None, 'Attack', 'Pickpocket', 'Trick-or-treat', None] || [None, 'Attack', 'Pickpocket', None, None]
+|-
+|rowspan="2"|[[Guard]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#3011 3011]
+|-
+|actions || [None, 'Attack', 'Pickpocket', 'Trick-or-treat', None] || [None, 'Attack', 'Pickpocket', None, None]
+|-
+|rowspan="2"|[[Man]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#3014 3014]
+|-
+|actions || ['Talk-to', 'Attack', 'Pickpocket', 'Trick-or-treat', None] || ['Talk-to', 'Attack', 'Pickpocket', None, None]
+|-
+|rowspan="2"|[[Woman]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#3015 3015]
+|-
+|actions || ['Talk-to', 'Attack', 'Pickpocket', 'Trick-or-treat', None] || ['Talk-to', 'Attack', 'Pickpocket', None, None]
+|-
+|rowspan="2"|[[Man]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#3106 3106]
+|-
+|actions || ['Talk-to', 'Attack', 'Pickpocket', 'Trick-or-treat', None] || ['Talk-to', 'Attack', 'Pickpocket', None, None]
+|-
+|rowspan="2"|[[Man]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#3107 3107]
+|-
+|actions || ['Talk-to', 'Attack', 'Pickpocket', 'Trick-or-treat', None] || ['Talk-to', 'Attack', 'Pickpocket', None, None]
+|-
+|rowspan="2"|[[Man]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#3108 3108]
+|-
+|actions || ['Talk-to', 'Attack', 'Pickpocket', 'Trick-or-treat', None] || ['Talk-to', 'Attack', 'Pickpocket', None, None]
+|-
+|rowspan="2"|[[Man]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#3109 3109]
+|-
+|actions || ['Talk-to', 'Attack', 'Pickpocket', 'Trick-or-treat', None] || ['Talk-to', 'Attack', 'Pickpocket', None, None]
+|-
+|rowspan="2"|[[Man]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#3110 3110]
+|-
+|actions || ['Talk-to', 'Attack', 'Pickpocket', 'Trick-or-treat', None] || ['Talk-to', 'Attack', 'Pickpocket', None, None]
+|-
+|rowspan="2"|[[Woman]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#3111 3111]
+|-
+|actions || ['Talk-to', 'Attack', 'Pickpocket', 'Trick-or-treat', None] || ['Talk-to', 'Attack', 'Pickpocket', None, None]
+|-
+|rowspan="2"|[[Woman]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#3112 3112]
+|-
+|actions || ['Talk-to', 'Attack', 'Pickpocket', 'Trick-or-treat', None] || ['Talk-to', 'Attack', 'Pickpocket', None, None]
+|-
+|rowspan="2"|[[Woman]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#3113 3113]
+|-
+|actions || ['Talk-to', 'Attack', 'Pickpocket', 'Trick-or-treat', None] || ['Talk-to', 'Attack', 'Pickpocket', None, None]
+|-
+|rowspan="2"|[[Guard]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#3254 3254]
+|-
+|actions || [None, 'Attack', 'Pickpocket', 'Trick-or-treat', None] || [None, 'Attack', 'Pickpocket', None, None]
+|-
+|rowspan="2"|[[Man]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#3261 3261]
+|-
+|actions || [None, 'Attack', 'Pickpocket', 'Trick-or-treat', None] || [None, 'Attack', 'Pickpocket', None, None]
+|-
+|rowspan="2"|[[Drunken man]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#3263 3263]
+|-
+|actions || ['Talk-to', 'Attack', 'Pickpocket', 'Trick-or-treat', None] || ['Talk-to', 'Attack', 'Pickpocket', None, None]
+|-
+|rowspan="2"|[[Man]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#3264 3264]
+|-
+|actions || ['Talk-to', 'Attack', 'Pickpocket', 'Trick-or-treat', None] || ['Talk-to', 'Attack', 'Pickpocket', None, None]
+|-
+|rowspan="2"|[[Man]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#3265 3265]
+|-
+|actions || ['Talk-to', 'Attack', 'Pickpocket', 'Trick-or-treat', None] || ['Talk-to', 'Attack', 'Pickpocket', None, None]
+|-
+|rowspan="2"|[[Norman]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#3266 3266]
+|-
+|actions || ['Talk-to', None, None, 'Trick-or-treat', None] || ['Talk-to', None, None, None, None]
+|-
+|rowspan="2"|[[Woman]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#3268 3268]
+|-
+|actions || ['Talk-to', 'Attack', 'Pickpocket', 'Trick-or-treat', None] || ['Talk-to', 'Attack', 'Pickpocket', None, None]
+|-
+|rowspan="2"|[[Guard]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#3269 3269]
+|-
+|actions || [None, 'Attack', 'Pickpocket', 'Trick-or-treat', None] || [None, 'Attack', 'Pickpocket', None, None]
+|-
+|rowspan="2"|[[Guard]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#3270 3270]
+|-
+|actions || [None, 'Attack', 'Pickpocket', 'Trick-or-treat', None] || [None, 'Attack', 'Pickpocket', None, None]
+|-
+|rowspan="2"|[[Guard]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#3271 3271]
+|-
+|actions || [None, 'Attack', 'Pickpocket', 'Trick-or-treat', None] || [None, 'Attack', 'Pickpocket', None, None]
+|-
+|rowspan="2"|[[Guard]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#3272 3272]
+|-
+|actions || [None, 'Attack', 'Pickpocket', 'Trick-or-treat', None] || [None, 'Attack', 'Pickpocket', None, None]
+|-
+|rowspan="2"|[[Guard]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#3273 3273]
+|-
+|actions || [None, 'Attack', 'Pickpocket', 'Trick-or-treat', None] || [None, 'Attack', 'Pickpocket', None, None]
+|-
+|rowspan="2"|[[Guard]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#3274 3274]
+|-
+|actions || [None, 'Attack', 'Pickpocket', 'Trick-or-treat', None] || [None, 'Attack', 'Pickpocket', None, None]
+|-
+|rowspan="2"|[[Guard]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#3283 3283]
+|-
+|actions || ['Talk-to', 'Attack', 'Pickpocket', 'Trick-or-treat', None] || ['Talk-to', 'Attack', 'Pickpocket', None, None]
+|-
+|rowspan="2"|[[Man]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#3652 3652]
+|-
+|actions || ['Talk-to', 'Attack', 'Pickpocket', 'Trick-or-treat', None] || ['Talk-to', 'Attack', 'Pickpocket', None, None]
+|-
+|rowspan="2"|[[Ned]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#4280 4280]
+|-
+|actions || ['Talk-to', None, 'Trade', 'Trick-or-treat', None] || ['Talk-to', None, 'Trade', None, None]
+|-
+|rowspan="2"|[[Man]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#6818 6818]
+|-
+|actions || ['Talk-to', 'Attack', 'Pickpocket', 'Trick-or-treat', None] || ['Talk-to', 'Attack', 'Pickpocket', None, None]
+|-
+|rowspan="2"|[[Man]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#6987 6987]
+|-
+|actions || ['Talk-to', 'Attack', 'Pickpocket', 'Trick-or-treat', None] || ['Talk-to', 'Attack', 'Pickpocket', None, None]
+|-
+|rowspan="2"|[[Man]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#6988 6988]
+|-
+|actions || ['Talk-to', 'Attack', 'Pickpocket', 'Trick-or-treat', None] || ['Talk-to', 'Attack', 'Pickpocket', None, None]
+|-
+|rowspan="2"|[[Man]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#6989 6989]
+|-
+|actions || ['Talk-to', 'Attack', 'Pickpocket', 'Trick-or-treat', None] || ['Talk-to', 'Attack', 'Pickpocket', None, None]
+|-
+|rowspan="2"|[[Woman]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#6990 6990]
+|-
+|actions || ['Talk-to', 'Attack', 'Pickpocket', 'Trick-or-treat', None] || ['Talk-to', 'Attack', 'Pickpocket', None, None]
+|-
+|rowspan="2"|[[Woman]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#6991 6991]
+|-
+|actions || ['Talk-to', 'Attack', 'Pickpocket', 'Trick-or-treat', None] || ['Talk-to', 'Attack', 'Pickpocket', None, None]
+|-
+|rowspan="2"|[[Woman]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#6992 6992]
+|-
+|actions || ['Talk-to', 'Attack', 'Pickpocket', 'Trick-or-treat', None] || ['Talk-to', 'Attack', 'Pickpocket', None, None]
+|-
+|rowspan="2"|[[Woman]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#10728 10728]
+|-
+|actions || ['Talk-to', 'Attack', 'Pickpocket', 'Trick-or-treat', None] || ['Talk-to', 'Attack', 'Pickpocket', None, None]
+|-
+|rowspan="2"|[[Woman]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#11053 11053]
+|-
+|actions || ['Talk-to', 'Attack', 'Pickpocket', 'Trick-or-treat', None] || ['Talk-to', 'Attack', 'Pickpocket', None, None]
+|-
+|rowspan="2"|[[Woman]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#11054 11054]
+|-
+|actions || ['Talk-to', 'Attack', 'Pickpocket', 'Trick-or-treat', None] || ['Talk-to', 'Attack', 'Pickpocket', None, None]
+|-
+|rowspan="2"|[[Man]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#11057 11057]
+|-
+|actions || ['Talk-to', 'Attack', 'Pickpocket', 'Trick-or-treat', None] || ['Talk-to', 'Attack', 'Pickpocket', None, None]
+|-
+|rowspan="2"|[[Man]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#11058 11058]
+|-
+|actions || ['Talk-to', 'Attack', 'Pickpocket', 'Trick-or-treat', None] || ['Talk-to', 'Attack', 'Pickpocket', None, None]
+|-
+|rowspan="2"|[[Guard]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#11092 11092]
+|-
+|actions || [None, 'Attack', 'Pickpocket', 'Trick-or-treat', None] || [None, 'Attack', 'Pickpocket', None, None]
+|-
+|rowspan="2"|[[Guard]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#11094 11094]
+|-
+|actions || [None, 'Attack', 'Pickpocket', 'Trick-or-treat', None] || [None, 'Attack', 'Pickpocket', None, None]
+|-
+|rowspan="2"|[[Guard]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#11096 11096]
+|-
+|actions || [None, 'Attack', 'Pickpocket', 'Trick-or-treat', None] || [None, 'Attack', 'Pickpocket', None, None]
+|-
+|rowspan="2"|[[Guard]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#11098 11098]
+|-
+|actions || [None, 'Attack', 'Pickpocket', 'Trick-or-treat', None] || [None, 'Attack', 'Pickpocket', None, None]
+|-
+|rowspan="2"|[[Guard]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#11100 11100]
+|-
+|actions || [None, 'Attack', 'Pickpocket', 'Trick-or-treat', None] || [None, 'Attack', 'Pickpocket', None, None]
+|-
+|rowspan="2"|[[Guard]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#11102 11102]
+|-
+|actions || [None, 'Attack', 'Pickpocket', 'Trick-or-treat', None] || [None, 'Attack', 'Pickpocket', None, None]
+|-
+|rowspan="2"|[[Guard]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#11104 11104]
+|-
+|actions || [None, 'Attack', 'Pickpocket', 'Trick-or-treat', None] || [None, 'Attack', 'Pickpocket', None, None]
+|-
+|rowspan="2"|[[Guard]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#11106 11106]
+|-
+|actions || [None, 'Attack', 'Pickpocket', 'Trick-or-treat', None] || [None, 'Attack', 'Pickpocket', None, None]
+|-
+|rowspan="2"|[[Guard]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#11911 11911]
+|-
+|actions || [None, 'Attack', 'Pickpocket', 'Trick-or-treat', None] || [None, 'Attack', 'Pickpocket', None, None]
+|-
+|rowspan="2"|[[Guard]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#11912 11912]
+|-
+|actions || [None, 'Attack', 'Pickpocket', 'Trick-or-treat', None] || [None, 'Attack', 'Pickpocket', None, None]
+|-
+|rowspan="2"|[[Guard]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#11913 11913]
+|-
+|actions || [None, 'Attack', 'Pickpocket', 'Trick-or-treat', None] || [None, 'Attack', 'Pickpocket', None, None]
+|-
+|rowspan="2"|[[Guard]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#11914 11914]
+|-
+|actions || [None, 'Attack', 'Pickpocket', 'Trick-or-treat', None] || [None, 'Attack', 'Pickpocket', None, None]
+|-
+|rowspan="2"|[[Guard]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#11915 11915]
+|-
+|actions || [None, 'Attack', 'Pickpocket', 'Trick-or-treat', None] || [None, 'Attack', 'Pickpocket', None, None]
+|-
+|rowspan="2"|[[Guard]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#11916 11916]
+|-
+|actions || [None, 'Attack', 'Pickpocket', 'Trick-or-treat', None] || [None, 'Attack', 'Pickpocket', None, None]
+|-
+|rowspan="2"|[[Guard]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#11917 11917]
+|-
+|actions || [None, 'Attack', 'Pickpocket', 'Trick-or-treat', None] || [None, 'Attack', 'Pickpocket', None, None]
+|-
+|rowspan="2"|[[Guard]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#11922 11922]
+|-
+|actions || [None, 'Attack', 'Pickpocket', 'Trick-or-treat', None] || [None, 'Attack', 'Pickpocket', None, None]
+|-
+|rowspan="2"|[[Guard]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#11923 11923]
+|-
+|actions || [None, 'Attack', 'Pickpocket', 'Trick-or-treat', None] || [None, 'Attack', 'Pickpocket', None, None]
+|-
+|rowspan="2"|[[Guard]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#11924 11924]
+|-
+|actions || [None, 'Attack', 'Pickpocket', 'Trick-or-treat', None] || [None, 'Attack', 'Pickpocket', None, None]
+|-
+|rowspan="2"|[[Guard]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#11942 11942]
+|-
+|actions || [None, 'Attack', 'Pickpocket', 'Trick-or-treat', None] || [None, 'Attack', 'Pickpocket', None, None]
+|-
+|rowspan="2"|[[Guard]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#11943 11943]
+|-
+|actions || [None, 'Attack', 'Pickpocket', 'Trick-or-treat', None] || [None, 'Attack', 'Pickpocket', None, None]
+|-
+|rowspan="2"|[[Guard]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#11944 11944]
+|-
+|actions || [None, 'Attack', 'Pickpocket', 'Trick-or-treat', None] || [None, 'Attack', 'Pickpocket', None, None]
+|-
+|rowspan="2"|[[Guard]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#11945 11945]
+|-
+|actions || [None, 'Attack', 'Pickpocket', 'Trick-or-treat', None] || [None, 'Attack', 'Pickpocket', None, None]
+|-
+|rowspan="2"|[[Guard]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#11946 11946]
+|-
+|actions || [None, 'Attack', 'Pickpocket', 'Trick-or-treat', None] || [None, 'Attack', 'Pickpocket', None, None]
+|-
+|rowspan="2"|[[Guard]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#11947 11947]
+|-
+|actions || [None, 'Attack', 'Pickpocket', 'Trick-or-treat', None] || [None, 'Attack', 'Pickpocket', None, None]
+|-
+|}
+
+==Objects==
+===New Objects=== 
+{| class="wikitable sortable"
+!colspan='3'|New Objects
+|-
+! style=width:15em | Name !! ID !! Options
+|-
+| [[Trophy pedestal]] || [https://chisel.weirdgloop.org/moid/object_id.html#49943 49943] || Inspect, Remove-trophy
+|-
+| [[Trophy pedestal]] || [https://chisel.weirdgloop.org/moid/object_id.html#49960 49960] || Inspect, Remove-trophy
+|-
+| [[Trophy pedestal]] || [https://chisel.weirdgloop.org/moid/object_id.html#49958 49958] || Inspect, Remove-trophy
+|-
+| [[Fiery Ornate Pool of Rejuvenation]] || [https://chisel.weirdgloop.org/moid/object_id.html#49993 49993] || Drink, Revert
+|-
+| [[Ornate trophy pedestal]] || [https://chisel.weirdgloop.org/moid/object_id.html#49982 49982] || Inspect, Remove-trophy
+|-
+| [[Banner stand]] || [https://chisel.weirdgloop.org/moid/object_id.html#49985 49985] || Inspect, Remove-banner
+|-
+| [[Trophy pedestal]] || [https://chisel.weirdgloop.org/moid/object_id.html#49974 49974] || Inspect, Remove-trophy
+|-
+| [[Trophy pedestal]] || [https://chisel.weirdgloop.org/moid/object_id.html#49949 49949] || Inspect, Remove-trophy
+|-
+| [[Info Board]] || [https://chisel.weirdgloop.org/moid/object_id.html#49995 49995] || Read
+|-
+| [[Ornate trophy pedestal]] || [https://chisel.weirdgloop.org/moid/object_id.html#49956 49956] || Inspect, Remove-trophy
+|-
+| [[Ornate trophy pedestal]] || [https://chisel.weirdgloop.org/moid/object_id.html#49980 49980] || Inspect, Remove-trophy
+|-
+| [[Mahogany outfit stand]] || [https://chisel.weirdgloop.org/moid/object_id.html#49992 49992] || Inspect, Remove-outfit
+|-
+| [[Oak outfit stand]] || [https://chisel.weirdgloop.org/moid/object_id.html#49989 49989] || Inspect, Remove-outfit
+|-
+| [[Trophy pedestal]] || [https://chisel.weirdgloop.org/moid/object_id.html#49946 49946] || Inspect, Remove-trophy
+|-
+| [[Oak outfit stand]] || [https://chisel.weirdgloop.org/moid/object_id.html#49988 49988] || Inspect, Remove-outfit
+|-
+| [[Ornate trophy pedestal]] || [https://chisel.weirdgloop.org/moid/object_id.html#49970 49970] || Inspect, Remove-trophy
+|-
+| [[Ornate trophy pedestal]] || [https://chisel.weirdgloop.org/moid/object_id.html#49983 49983] || Inspect, Remove-trophy
+|-
+| [[Trophy pedestal]] || [https://chisel.weirdgloop.org/moid/object_id.html#49976 49976] || Inspect, Remove-trophy
+|-
+| [[Ornate trophy pedestal]] || [https://chisel.weirdgloop.org/moid/object_id.html#49968 49968] || Inspect, Remove-trophy
+|-
+| [[Trophy pedestal]] || [https://chisel.weirdgloop.org/moid/object_id.html#49957 49957] || Inspect, Remove-trophy
+|-
+| [[Trophy pedestal]] || [https://chisel.weirdgloop.org/moid/object_id.html#49961 49961] || Inspect, Remove-trophy
+|-
+| [[Ornate trophy pedestal]] || [https://chisel.weirdgloop.org/moid/object_id.html#49969 49969] || Inspect, Remove-trophy
+|-
+| [[Ornate trophy pedestal]] || [https://chisel.weirdgloop.org/moid/object_id.html#49950 49950] || Inspect, Remove-trophy
+|-
+| [[Trophy pedestal]] || [https://chisel.weirdgloop.org/moid/object_id.html#49972 49972] || Inspect, Remove-trophy
+|-
+| [[Mahogany outfit stand]] || [https://chisel.weirdgloop.org/moid/object_id.html#49991 49991] || Inspect, Remove-outfit
+|-
+| [[Trophy pedestal]] || [https://chisel.weirdgloop.org/moid/object_id.html#49959 49959] || Inspect, Remove-trophy
+|-
+| [[Ornate trophy pedestal]] || [https://chisel.weirdgloop.org/moid/object_id.html#49979 49979] || Inspect, Remove-trophy
+|-
+| [[Ornate trophy pedestal]] || [https://chisel.weirdgloop.org/moid/object_id.html#49978 49978] || Inspect, Remove-trophy
+|-
+| [[Trophy pedestal]] || [https://chisel.weirdgloop.org/moid/object_id.html#49945 49945] || Inspect, Remove-trophy
+|-
+| [[Mahogany outfit stand]] || [https://chisel.weirdgloop.org/moid/object_id.html#49990 49990] || Inspect, Remove-outfit
+|-
+| [[Trophy pedestal]] || [https://chisel.weirdgloop.org/moid/object_id.html#49971 49971] || Inspect, Remove-trophy
+|-
+| [[Ornate trophy pedestal]] || [https://chisel.weirdgloop.org/moid/object_id.html#49966 49966] || Inspect, Remove-trophy
+|-
+| [[Ornate trophy pedestal]] || [https://chisel.weirdgloop.org/moid/object_id.html#49953 49953] || Inspect, Remove-trophy
+|-
+| [[Trophy pedestal]] || [https://chisel.weirdgloop.org/moid/object_id.html#49944 49944] || Inspect, Remove-trophy
+|-
+| [[Trophy pedestal]] || [https://chisel.weirdgloop.org/moid/object_id.html#49962 49962] || Inspect, Remove-trophy
+|-
+| [[Ornate trophy pedestal]] || [https://chisel.weirdgloop.org/moid/object_id.html#49952 49952] || Inspect, Remove-trophy
+|-
+| [[Ornate trophy pedestal]] || [https://chisel.weirdgloop.org/moid/object_id.html#49955 49955] || Inspect, Remove-trophy
+|-
+| [[Waystone]] || [https://chisel.weirdgloop.org/moid/object_id.html#49994 49994] || Channel, Channel (Great Kourend)
+|-
+| [[Trophy pedestal]] || [https://chisel.weirdgloop.org/moid/object_id.html#49947 49947] || Inspect, Remove-trophy
+|-
+| [[Ornate trophy pedestal]] || [https://chisel.weirdgloop.org/moid/object_id.html#49967 49967] || Inspect, Remove-trophy
+|-
+| [[Ornate trophy pedestal]] || [https://chisel.weirdgloop.org/moid/object_id.html#49965 49965] || Inspect, Remove-trophy
+|-
+| [[Ornate trophy pedestal]] || [https://chisel.weirdgloop.org/moid/object_id.html#49984 49984] || Inspect, Remove-trophy
+|-
+| [[Trophy pedestal]] || [https://chisel.weirdgloop.org/moid/object_id.html#49973 49973] || Inspect, Remove-trophy
+|-
+| [[Trophy pedestal]] || [https://chisel.weirdgloop.org/moid/object_id.html#49963 49963] || Inspect, Remove-trophy
+|-
+| [[Ornate trophy pedestal]] || [https://chisel.weirdgloop.org/moid/object_id.html#49981 49981] || Inspect, Remove-trophy
+|-
+| [[Ornate trophy pedestal]] || [https://chisel.weirdgloop.org/moid/object_id.html#49964 49964] || Inspect, Remove-trophy
+|-
+| [[Ornate trophy pedestal]] || [https://chisel.weirdgloop.org/moid/object_id.html#49954 49954] || Inspect, Remove-trophy
+|-
+| [[Ornate trophy pedestal]] || [https://chisel.weirdgloop.org/moid/object_id.html#49951 49951] || Inspect, Remove-trophy
+|-
+| [[Trophy pedestal]] || [https://chisel.weirdgloop.org/moid/object_id.html#49977 49977] || Inspect, Remove-trophy
+|-
+| [[Oak outfit stand]] || [https://chisel.weirdgloop.org/moid/object_id.html#49987 49987] || Inspect, Remove-outfit
+|-
+| [[Trophy pedestal]] || [https://chisel.weirdgloop.org/moid/object_id.html#49948 49948] || Inspect, Remove-trophy
+|-
+| [[Ornate banner stand]] || [https://chisel.weirdgloop.org/moid/object_id.html#49986 49986] || Inspect, Remove-banner
+|-
+| [[Trophy pedestal]] || [https://chisel.weirdgloop.org/moid/object_id.html#49975 49975] || Inspect, Remove-trophy
+|-
+|-
+|}
+===Removed Objects===
+{| class="wikitable sortable"
+!colspan='2'|Removed Objects
+|-
+! style=width:15em | Name !! ID
+|-
+|-
+|}
+===Diff Objects===
+{| class="wikitable sortable"
+!colspan='5'|Diff Objects
+|-
+! style=width:15em | Name !! ID !! Key !! Previous Value !! New Value
+|-
+|rowspan="3"|[[Waystone]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#40408 40408]
+|-
+|anInt2083 || 0 || 5
+|-
+| ambientSoundId || -1 || 7560
+|-
+|rowspan="3"|[[Waystone]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#40409 40409]
+|-
+|anInt2083 || 0 || 5
+|-
+| ambientSoundId || -1 || 7560
+|-
+|rowspan="3"|[[Waystone]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#40410 40410]
+|-
+|anInt2083 || 0 || 5
+|-
+| ambientSoundId || -1 || 7560
+|-
+|rowspan="3"|[[Waystone]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#40411 40411]
+|-
+|anInt2083 || 0 || 5
+|-
+| ambientSoundId || -1 || 7560
+|-
+|rowspan="3"|[[Waystone]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#40412 40412]
+|-
+|anInt2083 || 0 || 5
+|-
+| ambientSoundId || -1 || 7560
+|-
+|rowspan="3"|[[Waystone]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#40413 40413]
+|-
+|anInt2083 || 0 || 5
+|-
+| ambientSoundId || -1 || 7560
+|-
+|rowspan="3"|[[Waystone]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#40414 40414]
+|-
+|anInt2083 || 0 || 5
+|-
+| ambientSoundId || -1 || 7560
+|-
+|rowspan="3"|[[Waystone]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#40415 40415]
+|-
+|anInt2083 || 0 || 5
+|-
+| ambientSoundId || -1 || 7560
+|-
+|rowspan="3"|[[Waystone]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#40416 40416]
+|-
+|anInt2083 || 0 || 5
+|-
+| ambientSoundId || -1 || 7560
+|-
+|}

@@ -12,10 +12,7 @@ import org.rsmod.map.CoordGrid
 
 public class RealmConfigLoader
 @Inject
-constructor(
-    private val database: Database,
-    @Json private val objectMapper: ObjectMapper,
-) {
+constructor(private val database: Database, @Json private val objectMapper: ObjectMapper) {
     public suspend fun load(worldId: Int): RealmConfig? {
         return database.withTransaction { connection -> loadWorld(connection, worldId) }
     }
@@ -23,7 +20,7 @@ constructor(
     private fun loadWorld(connection: DatabaseConnection, worldId: Int): RealmConfig? {
         val select =
             connection.prepareStatement(
-                OpenRuneSql.text("game/realm/select_config_by_world_id.sql"),
+                OpenRuneSql.text("game/realm/select_config_by_world_id.sql")
             )
 
         select.use {

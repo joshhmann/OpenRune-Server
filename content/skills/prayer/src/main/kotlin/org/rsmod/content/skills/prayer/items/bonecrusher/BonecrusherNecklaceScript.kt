@@ -1,7 +1,7 @@
 package org.rsmod.content.skills.prayer.items.bonecrusher
 
-import dev.openrune.rscm.RSCMType
 import dev.openrune.rscm.RSCM.asRSCM
+import dev.openrune.rscm.RSCMType
 import jakarta.inject.Inject
 import org.rsmod.api.config.constants
 import org.rsmod.api.invtx.invTransaction
@@ -23,11 +23,16 @@ public class BonecrusherNecklaceScript @Inject constructor() : PluginScript() {
         onOpHeld5("obj.bonecrusher_necklace") { dismantleNecklace(it.slot) }
 
         onOpHeldU("obj.bonecrusher_necklace", "obj.ectotoken") { ev ->
-            val newTotal = player.chargeCrusherItemWithEcto(ev.firstSlot, ev.secondSlot) ?: return@onOpHeldU
+            val newTotal =
+                player.chargeCrusherItemWithEcto(ev.firstSlot, ev.secondSlot) ?: return@onOpHeldU
             if (player.isBonecrusherActivityEnabled()) {
-                mes("The bonecrusher necklace has $newTotal charges. It is active and ready to crush bones.")
+                mes(
+                    "The bonecrusher necklace has $newTotal charges. It is active and ready to crush bones."
+                )
             } else {
-                mes("The bonecrusher necklace has $newTotal charges. It has been deactivated, and will not crush bones now.")
+                mes(
+                    "The bonecrusher necklace has $newTotal charges. It has been deactivated, and will not crush bones now."
+                )
             }
         }
     }
@@ -51,20 +56,28 @@ public class BonecrusherNecklaceScript @Inject constructor() : PluginScript() {
         inv[slot] ?: return
         val charges = bonecrusherCharges
         when {
-            charges == 0 -> mes("The bonecrusher necklace has no charges. It can be charged with ectotokens.")
-            player.isBonecrusherActivityEnabled() -> mes("The bonecrusher necklace has $charges charges. It is active and ready to crush bones.")
-            else -> mes("The bonecrusher necklace has $charges charges. It has been deactivated, and will not crush bones now.")
+            charges == 0 ->
+                mes("The bonecrusher necklace has no charges. It can be charged with ectotokens.")
+            player.isBonecrusherActivityEnabled() ->
+                mes(
+                    "The bonecrusher necklace has $charges charges. It is active and ready to crush bones."
+                )
+            else ->
+                mes(
+                    "The bonecrusher necklace has $charges charges. It has been deactivated, and will not crush bones now."
+                )
         }
     }
 
     private fun ProtectedAccess.toggleActivity() {
         val next = !player.isBonecrusherActivityEnabled()
         player.setBonecrusherActivity(next)
-        mes(if (next) {
+        mes(
+            if (next) {
                 "The bonecrusher necklace is active and ready to crush bones."
             } else {
                 "The bonecrusher necklace has been deactivated, and will not crush bones now."
-            },
+            }
         )
     }
 
@@ -73,7 +86,9 @@ public class BonecrusherNecklaceScript @Inject constructor() : PluginScript() {
             BonecrusherUnchargeResult.WrongItem -> return
             BonecrusherUnchargeResult.NoCharges -> mes("The bonecrusher necklace has no charges.")
             BonecrusherUnchargeResult.CannotRedeemEcto ->
-                mes("The bonecrusher necklace does not have enough charges for you to remove any ectotokens.")
+                mes(
+                    "The bonecrusher necklace does not have enough charges for you to remove any ectotokens."
+                )
             BonecrusherUnchargeResult.NoInvSpace -> mes(constants.dm_invspace)
             is BonecrusherUnchargeResult.Success ->
                 if (result.remainingCharges == 0) {

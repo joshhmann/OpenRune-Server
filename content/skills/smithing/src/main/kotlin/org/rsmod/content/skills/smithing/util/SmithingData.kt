@@ -1,8 +1,6 @@
 package org.rsmod.content.skills.smithing.util
 
 import dev.openrune.types.ItemServerType
-import dev.openrune.types.enums.EnumTypeMap
-import dev.openrune.types.enums.enum
 import org.rsmod.api.enums.SmithingProductToEnums
 import org.rsmod.api.table.smithing.SmithingBarsRow
 
@@ -26,9 +24,15 @@ object SmithingData {
 
     val productMeta: List<SmithingProductMeta> by lazy {
         SmithingProductToEnums.smithing_product_to_requirement.keys.mapNotNull { product ->
-            val level = SmithingProductToEnums.smithing_product_to_requirement[product] ?: return@mapNotNull null
-            val barCount = SmithingProductToEnums.smithing_product_to_bars_required[product] ?: return@mapNotNull null
-            val numProduced = SmithingProductToEnums.smithing_product_to_quantity[product] ?: return@mapNotNull null
+            val level =
+                SmithingProductToEnums.smithing_product_to_requirement[product]
+                    ?: return@mapNotNull null
+            val barCount =
+                SmithingProductToEnums.smithing_product_to_bars_required[product]
+                    ?: return@mapNotNull null
+            val numProduced =
+                SmithingProductToEnums.smithing_product_to_quantity[product]
+                    ?: return@mapNotNull null
             val bar = barForProduct(product.name) ?: return@mapNotNull null
             if (bar.output.internalName !in barOutputInternals) {
                 return@mapNotNull null
@@ -80,7 +84,6 @@ object SmithingData {
             "component.smithing:limbs",
         )
 
-
     fun metaForName(bar: SmithingBarsRow, itemName: String): SmithingProductMeta? =
         productMetaByBarAndName[bar.output.id to itemName]
 
@@ -98,9 +101,11 @@ object SmithingData {
 
     fun barForProduct(productName: String): SmithingBarsRow? {
         val lower = productName.lowercase()
-        allBars.firstOrNull { lower.startsWith(it.prefix) }?.let {
-            return it
-        }
+        allBars
+            .firstOrNull { lower.startsWith(it.prefix) }
+            ?.let {
+                return it
+            }
         return when {
             lower.endsWith("lantern frame") -> barsByOutput["obj.iron_bar"]
             lower.endsWith("lantern (unf)") -> barsByOutput["obj.steel_bar"]
@@ -160,7 +165,8 @@ object SmithingData {
                     val level = index + 1
                     component to "shayzien $type ($level)"
                 }
-            }.toMap()
+            }
+            .toMap()
     }
 
     fun typeForChild(child: String, bar: SmithingBarsRow): String? =

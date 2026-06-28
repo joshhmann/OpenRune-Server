@@ -1,0 +1,80 @@
+{{ToC}}
+==Items==
+{| class="wikitable sortable"
+!colspan='5'|Items
+|-
+! Name !! ID !! Key !! Previous Value !! Changed into
+|-
+|rowspan="2"|[[Vesta's spear]]
+|rowspan="2"|22610
+|-
+|params || {'568': 4} || {'568': 1}
+|-
+|rowspan="2"|[[Vesta's longsword]]
+|rowspan="2"|22613
+|-
+|params || {'568': 4} || {'568': 1}
+|-
+|rowspan="2"|[[Statius's warhammer]]
+|rowspan="2"|22622
+|-
+|params || {'568': 4} || {'568': 1}
+|-
+|rowspan="2"|[[Morrigan's throwing axe]]
+|rowspan="2"|22634
+|-
+|params || {'568': 4, '23': 78} || {'568': 1, '23': 78}
+|-
+|rowspan="2"|[[Morrigan's javelin]]
+|rowspan="2"|22636
+|-
+|params || {'568': 4, '23': 78} || {'568': 1, '23': 78}
+|-
+|rowspan="2"|[[Zuriel's staff]]
+|rowspan="2"|22647
+|-
+|params || {'568': 4} || {'568': 1}
+|-
+|rowspan="3"|[[Pumpkin pie]]
+|rowspan="3"|26247
+|-
+|isTradeable || True || False
+|-
+| notedID || 26248 || -1
+|-
+|rowspan="9"|[[Null]]
+|rowspan="9"|26248
+|-
+|name || [[null]] || [[Null]]
+|-
+| xan2d || 0 || 192
+|-
+| yan2d || 0 || 104
+|-
+| inventoryModel || 0 || 2767
+|-
+| zoom2d || 2000 || 950
+|-
+| yOffset2d || 0 || -9
+|-
+| notedID || 26247 || -1
+|-
+| notedTemplate || 799 || -1
+|-
+|}
+
+==Non-Player Characters==
+{| class="wikitable sortable"
+!colspan='5'|Non-Player Characters
+|-
+! Name !! ID !! Key !! Previous Value !! Changed into
+|-
+|}
+
+==Objects==
+{| class="wikitable sortable"
+!colspan='5'|Objects
+|-
+! Name !! ID !! Key !! Previous Value !! Changed into
+|-
+|}

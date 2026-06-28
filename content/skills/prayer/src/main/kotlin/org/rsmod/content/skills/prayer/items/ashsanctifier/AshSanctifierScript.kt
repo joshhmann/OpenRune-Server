@@ -27,26 +27,39 @@ public class AshSanctifierScript @Inject constructor() : PluginScript() {
 
     private fun ProtectedAccess.tryCharge(sanctifierSlot: Int, runeSlot: Int) {
         if (!player.hasKourendKebosHardDiaryComplete()) {
-            mes("You need to complete the Hard Kourend & Kebos Diary before you can use the ash sanctifier.")
+            mes(
+                "You need to complete the Hard Kourend & Kebos Diary before you can use the ash sanctifier."
+            )
             return
         }
-        val newTotal = player.chargeAshSanctifierWithDeathRunes(inv, sanctifierSlot, runeSlot) ?: run {
-            val sanctifier = inv[sanctifierSlot]?.takeIf { it.isType("obj.ash_sanctifier") }
-            val curr = if (sanctifier != null) {
-                ashSanctifierCharges
-            } else {
-                0
-            }
-            when {
-                sanctifier != null && curr >= Int.MAX_VALUE -> mes("Your ash sanctifier cannot hold any more charges.")
-                sanctifier != null && (Int.MAX_VALUE - curr) < 10 -> mes("Your ash sanctifier cannot hold enough charges for a whole death rune.")
-            }
-            return
-        }
+        val newTotal =
+            player.chargeAshSanctifierWithDeathRunes(inv, sanctifierSlot, runeSlot)
+                ?: run {
+                    val sanctifier = inv[sanctifierSlot]?.takeIf { it.isType("obj.ash_sanctifier") }
+                    val curr =
+                        if (sanctifier != null) {
+                            ashSanctifierCharges
+                        } else {
+                            0
+                        }
+                    when {
+                        sanctifier != null && curr >= Int.MAX_VALUE ->
+                            mes("Your ash sanctifier cannot hold any more charges.")
+                        sanctifier != null && (Int.MAX_VALUE - curr) < 10 ->
+                            mes(
+                                "Your ash sanctifier cannot hold enough charges for a whole death rune."
+                            )
+                    }
+                    return
+                }
         if (player.ashSanctifierActivityEnabled) {
-            mes("The ash sanctifier has $newTotal charges. It is active and ready to purify demonic ashes.")
+            mes(
+                "The ash sanctifier has $newTotal charges. It is active and ready to purify demonic ashes."
+            )
         } else {
-            mes("The ash sanctifier has $newTotal charges. It has been deactivated, and will not purify ashes now.",)
+            mes(
+                "The ash sanctifier has $newTotal charges. It has been deactivated, and will not purify ashes now."
+            )
         }
     }
 
@@ -54,30 +67,44 @@ public class AshSanctifierScript @Inject constructor() : PluginScript() {
         inv[slot] ?: return
         val count = ashSanctifierCharges
         when {
-            count == 0 -> mes("The ash sanctifier has no charges. It can be charged with death runes.")
-            player.ashSanctifierActivityEnabled -> mes("The ash sanctifier has $count charges. It is active and ready to purify demonic ashes.")
-            else -> mes("The ash sanctifier has $count charges. It has been deactivated, and will not purify ashes now.",)
+            count == 0 ->
+                mes("The ash sanctifier has no charges. It can be charged with death runes.")
+            player.ashSanctifierActivityEnabled ->
+                mes(
+                    "The ash sanctifier has $count charges. It is active and ready to purify demonic ashes."
+                )
+            else ->
+                mes(
+                    "The ash sanctifier has $count charges. It has been deactivated, and will not purify ashes now."
+                )
         }
     }
 
     private fun ProtectedAccess.toggleActivity() {
         if (!player.hasKourendKebosHardDiaryComplete()) {
-            mes("You need to complete the Hard Kourend & Kebos Diary before you can use the ash sanctifier.")
+            mes(
+                "You need to complete the Hard Kourend & Kebos Diary before you can use the ash sanctifier."
+            )
             return
         }
         player.ashSanctifierActivityEnabled = !player.ashSanctifierActivityEnabled
-        mes(if (player.ashSanctifierActivityEnabled) {
-            "The ash sanctifier is active and ready to purify demonic ashes."
-        } else {
-            "The ash sanctifier has been deactivated, and will not purify ashes now."
-        })
+        mes(
+            if (player.ashSanctifierActivityEnabled) {
+                "The ash sanctifier is active and ready to purify demonic ashes."
+            } else {
+                "The ash sanctifier has been deactivated, and will not purify ashes now."
+            }
+        )
     }
 
     private suspend fun ProtectedAccess.uncharge(slot: Int) {
         when (val result = player.tryUnchargeAshSanctifier(inv, slot)) {
             AshSanctifierUnchargeResult.WrongItem -> return
             AshSanctifierUnchargeResult.NoCharges -> mes("The ash sanctifier has no charges.")
-            AshSanctifierUnchargeResult.CannotRedeemDeathRunes -> mes("The ash sanctifier does not have enough charges for you to remove any death runes.",)
+            AshSanctifierUnchargeResult.CannotRedeemDeathRunes ->
+                mes(
+                    "The ash sanctifier does not have enough charges for you to remove any death runes."
+                )
             AshSanctifierUnchargeResult.NoInvSpace -> mes(constants.dm_invspace)
             is AshSanctifierUnchargeResult.Success ->
                 if (result.remainingCharges == 0) {
@@ -98,10 +125,13 @@ public class AshSanctifierScript @Inject constructor() : PluginScript() {
 
     companion object {
         fun Player.hasKourendKebosHardDiaryComplete(): Boolean = true
-        fun Player.hasKourendKebosEliteDiaryComplete(): Boolean = true
-        var Player.ashSanctifierActivityEnabled by boolVarBit("varbit.ash_sanctifier_activity_enabled")
-    }
 
+        fun Player.hasKourendKebosEliteDiaryComplete(): Boolean = true
+
+        var Player.ashSanctifierActivityEnabled by
+            boolVarBit("varbit.ash_sanctifier_activity_enabled")
+    }
 }
 
-private var ProtectedAccess.ashSanctifierCharges by intVarBit("varbit.charges_ash_sanctifier_quantity")
+private var ProtectedAccess.ashSanctifierCharges by
+    intVarBit("varbit.charges_ash_sanctifier_quantity")

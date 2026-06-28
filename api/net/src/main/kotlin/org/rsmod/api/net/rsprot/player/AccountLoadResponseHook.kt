@@ -2,19 +2,18 @@ package org.rsmod.api.net.rsprot.player
 
 import com.github.michaelbull.logging.InlineLogger
 import dev.openrune.types.ModLevelType
+import dev.or2.central.account.AccountData
 import java.time.Instant
 import java.time.LocalDate
-import java.time.LocalDateTime
 import java.time.ZoneId
 import java.time.temporal.ChronoUnit
+import kotlinx.coroutines.runBlocking
 import net.rsprot.protocol.api.login.GameLoginResponseHandler
 import net.rsprot.protocol.loginprot.incoming.util.AuthenticationType
 import net.rsprot.protocol.loginprot.incoming.util.LoginBlock
 import net.rsprot.protocol.loginprot.outgoing.LoginResponse
 import net.rsprot.protocol.loginprot.outgoing.util.AuthenticatorResponse
-import kotlinx.coroutines.runBlocking
 import org.rsmod.api.account.character.main.CharacterAccountApplier
-import dev.or2.central.account.AccountData
 import org.rsmod.api.account.character.main.CharacterAccountRepository
 import org.rsmod.api.account.loader.request.AccountLoadAuth
 import org.rsmod.api.account.loader.request.AccountLoadCallback
@@ -75,7 +74,12 @@ class AccountLoadResponseHook(
     private fun handleLoadResponse(response: AccountLoadResponse) {
         when (response) {
             is AccountLoadResponse.Ok.NewAccount -> {
-                if (!runCentralAuth(response.account.accountName, response.account.characterData.characterId)) {
+                if (
+                    !runCentralAuth(
+                        response.account.accountName,
+                        response.account.characterData.characterId,
+                    )
+                ) {
                     return
                 }
                 safeQueueLogin(response)
@@ -104,7 +108,12 @@ class AccountLoadResponseHook(
     private fun validateAndQueueLogin(response: AccountLoadResponse.Ok.LoadAccount) {
         // Note: We could move this branch to `handleLoadResponse`, but we intentionally keep it
         // here to mirror the production login flow.
-        if (!runCentralAuth(response.account.accountName, response.account.characterData.characterId)) {
+        if (
+            !runCentralAuth(
+                response.account.accountName,
+                response.account.characterData.characterId,
+            )
+        ) {
             return
         }
 
@@ -129,7 +138,8 @@ class AccountLoadResponseHook(
         // `last_login`. Row with `last_login` set but `last_logout` null = DB corruption,
         // legacy schema drift, or partial write — not same as first login (both null).
         val inconsistentSessionTimestamps =
-            response.account.characterData.lastLogin != null && response.account.characterData.lastLogout == null
+            response.account.characterData.lastLogin != null &&
+                response.account.characterData.lastLogout == null
         if (inconsistentSessionTimestamps) {
             logger.error {
                 "Character last_login set but last_logout null (invalid row) - login aborted: " +
@@ -224,19 +234,22 @@ class AccountLoadResponseHook(
     }
 
     private fun applyCentralStaffFromPending(player: Player) {
-        pendingCentralRights?.takeIf { it.isNotBlank() }?.let { rights ->
-            CharacterAccountApplier.resolveModLevelFromRights(rights)?.let { resolved ->
-                player.modLevel = resolved
+        pendingCentralRights
+            ?.takeIf { it.isNotBlank() }
+            ?.let { rights ->
+                CharacterAccountApplier.resolveModLevelFromRights(rights)?.let { resolved ->
+                    player.modLevel = resolved
+                }
             }
-        }
         pendingCentralRights = null
     }
 
-    public val LOGIN_EXIT_COORD: AttributeKey<Int> = AttributeKey(persistenceKey = "instance_exit_coord")
+    public val LOGIN_EXIT_COORD: AttributeKey<Int> =
+        AttributeKey(persistenceKey = "instance_exit_coord")
 
     private fun Player.applyConfigTransforms(config: RealmConfig) {
         if (!newAccount) {
-            //This is very hacky but updating be weird
+            // This is very hacky but updating be weird
             val hasExit = attr[LOGIN_EXIT_COORD]
             if (hasExit != null) {
                 coords = CoordGrid(hasExit)
@@ -274,17 +287,16 @@ class AccountLoadResponseHook(
         }
 
         val characterId = loadResponse.account.characterData.characterId
-        val sessionHeldElsewhere =
-            runBlocking {
-                database.withTransaction { connection ->
-                    characterRepository.isActiveSessionOnOtherWorld(
-                        connection,
-                        characterId,
-                        world,
-                        ONLINE_SESSION_STALE_SECONDS,
-                    )
-                }
+        val sessionHeldElsewhere = runBlocking {
+            database.withTransaction { connection ->
+                characterRepository.isActiveSessionOnOtherWorld(
+                    connection,
+                    characterId,
+                    world,
+                    ONLINE_SESSION_STALE_SECONDS,
+                )
             }
+        }
         if (sessionHeldElsewhere) {
             writeErrorResponse(LoginResponse.Duplicate)
             return
@@ -371,11 +383,10 @@ class AccountLoadResponseHook(
         channelResponses.writeFailedResponse(response)
     }
 
-    private fun runCentralAuth(
-        accountName: String,
-        loginCharacterId: Int,
-    ): Boolean {
-        return when (val result = openRuneCentral.authenticate(accountName, inputPassword, loginCharacterId)) {
+    private fun runCentralAuth(accountName: String, loginCharacterId: Int): Boolean {
+        return when (
+            val result = openRuneCentral.authenticate(accountName, inputPassword, loginCharacterId)
+        ) {
             CentralAuthResult.Skipped -> {
                 // Central world-link not configured; game DB is the authority — do not block login.
                 logger.warn {

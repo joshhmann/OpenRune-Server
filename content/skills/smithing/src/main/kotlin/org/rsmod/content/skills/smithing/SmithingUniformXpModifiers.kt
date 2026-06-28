@@ -20,10 +20,7 @@ class SmithingUniformXpModifiers : StatXpMod("stat.smithing") {
         if (feet.isType("obj.smithing_uniform_boots")) {
             bonus += 0.025
         }
-        if (
-            "obj.smithing_uniform_gloves" in worn ||
-                "obj.smithing_uniform_gloves_ice" in worn
-        ) {
+        if ("obj.smithing_uniform_gloves" in worn || "obj.smithing_uniform_gloves_ice" in worn) {
             bonus += 0.025
         }
 
@@ -31,8 +28,7 @@ class SmithingUniformXpModifiers : StatXpMod("stat.smithing") {
         val hasLegs = legs.isType("obj.smithing_uniform_legs")
         val hasBoots = feet.isType("obj.smithing_uniform_boots")
         val hasGloves =
-            "obj.smithing_uniform_gloves" in worn ||
-                "obj.smithing_uniform_gloves_ice" in worn
+            "obj.smithing_uniform_gloves" in worn || "obj.smithing_uniform_gloves_ice" in worn
 
         if (hasTorso && hasLegs && hasBoots && hasGloves) {
             bonus += 0.20

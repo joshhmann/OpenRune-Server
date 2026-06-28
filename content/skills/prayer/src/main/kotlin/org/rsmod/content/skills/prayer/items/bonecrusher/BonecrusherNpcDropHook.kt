@@ -6,15 +6,15 @@ import dev.openrune.util.Wearpos
 import jakarta.inject.Inject
 import jakarta.inject.Singleton
 import org.rsmod.api.area.checker.AreaChecker
+import org.rsmod.api.death.NpcDeathDropContext
+import org.rsmod.api.death.NpcDeathDropHook
 import org.rsmod.api.player.events.prayer.PrayerSkillAction
 import org.rsmod.api.player.events.skilling.SkillingActionCompleteEvent
 import org.rsmod.api.player.events.skilling.SkillingActionContext
-import org.rsmod.api.player.vars.boolVarBit
-import org.rsmod.api.player.vars.intVarBit
-import org.rsmod.api.death.NpcDeathDropContext
-import org.rsmod.api.death.NpcDeathDropHook
 import org.rsmod.api.player.stat.statAdvance
 import org.rsmod.api.player.stat.statBoost
+import org.rsmod.api.player.vars.boolVarBit
+import org.rsmod.api.player.vars.intVarBit
 import org.rsmod.api.table.prayer.SkillPrayerRow
 import org.rsmod.events.EventBus
 import org.rsmod.game.entity.Player
@@ -25,10 +25,8 @@ import org.rsmod.game.inv.isType
 @Singleton
 public class BonecrusherNpcDropHook
 @Inject
-constructor(
-    private val areaChecker: AreaChecker,
-    private val eventBus: EventBus,
-) : NpcDeathDropHook {
+constructor(private val areaChecker: AreaChecker, private val eventBus: EventBus) :
+    NpcDeathDropHook {
     private val boneXpByItem: Map<String, SkillPrayerRow> by lazy {
         SkillPrayerRow.all().filter { !it.ashes }.associateBy { it.item.internalName }
     }
@@ -55,12 +53,18 @@ constructor(
         val prayerXp = row.exp.toDouble() / 2
         player.statAdvance("stat.prayer", prayerXp)
 
-        eventBus.publish(SkillingActionCompleteEvent(player = player, context =
-            SkillingActionContext.Prayer(PrayerSkillAction.BonecrusherCrushComplete(
-                boneItemInternal = internal,
-                experienceGranted = prayerXp,
-                catacombsBonePrayerRestore = row.prayerRestore
-            ))),
+        eventBus.publish(
+            SkillingActionCompleteEvent(
+                player = player,
+                context =
+                    SkillingActionContext.Prayer(
+                        PrayerSkillAction.BonecrusherCrushComplete(
+                            boneItemInternal = internal,
+                            experienceGranted = prayerXp,
+                            catacombsBonePrayerRestore = row.prayerRestore,
+                        )
+                    ),
+            )
         )
 
         applyPrayerRestoreFromCrush(player, row, source)
@@ -71,7 +75,7 @@ constructor(
     private fun applyPrayerRestoreFromCrush(
         player: Player,
         row: SkillPrayerRow,
-        source: CrusherSource
+        source: CrusherSource,
     ) {
         val restore = row.prayerRestore
         if (restore <= 0) {
@@ -139,14 +143,13 @@ private fun InvObj?.isCrusherItem(): Boolean {
         return false
     }
     val internal = RSCM.getReverseMapping(RSCMType.OBJ, id)
-    return internal == "obj.bonecrusher" ||
-        internal == "obj.bonecrusher_necklace"
+    return internal == "obj.bonecrusher" || internal == "obj.bonecrusher_necklace"
 }
 
-private var Player.bonecrusherActivityEnabledVar by boolVarBit("varbit.bonecrusher_activity_enabled")
+private var Player.bonecrusherActivityEnabledVar by
+    boolVarBit("varbit.bonecrusher_activity_enabled")
 
-internal fun Player.isBonecrusherActivityEnabled(): Boolean =
-    bonecrusherActivityEnabledVar
+internal fun Player.isBonecrusherActivityEnabled(): Boolean = bonecrusherActivityEnabledVar
 
 internal fun Player.setBonecrusherActivity(enabled: Boolean) {
     bonecrusherActivityEnabledVar = enabled

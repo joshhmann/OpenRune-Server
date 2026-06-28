@@ -26,15 +26,16 @@ class UnfinishedPotionsEvents : PluginScript() {
     private suspend fun ProtectedAccess.handleHerbAndVial(ev: HeldUEvents.Type) {
         if (
             ev.first.internalName != "obj.vial_water" ||
-            ev.second.internalName !in HerbloreDefinitions.herbItemNames
+                ev.second.internalName !in HerbloreDefinitions.herbItemNames
         ) {
             return
         }
 
         val herbName = ev.second.internalName
-        val potionForHerb = HerbloreDefinitions.unfinishedPotions.firstOrNull {
-            it.herbItem.internalName == herbName
-        } ?: return
+        val potionForHerb =
+            HerbloreDefinitions.unfinishedPotions.firstOrNull {
+                it.herbItem.internalName == herbName
+            } ?: return
 
         if (!meetsStatReqs(potionForHerb.statReq)) {
             return
@@ -51,13 +52,14 @@ class UnfinishedPotionsEvents : PluginScript() {
             return
         }
 
-        val candidatesWithMax = validCandidates.map { potion ->
-            val maxProducible = minOf(
-                inv.count(potion.herbItem.internalName),
-                inv.count("obj.vial_water")
-            )
-            potion to maxProducible
-        }.filter { (_, max) -> max > 0 }
+        val candidatesWithMax =
+            validCandidates
+                .map { potion ->
+                    val maxProducible =
+                        minOf(inv.count(potion.herbItem.internalName), inv.count("obj.vial_water"))
+                    potion to maxProducible
+                }
+                .filter { (_, max) -> max > 0 }
 
         if (candidatesWithMax.isEmpty()) {
             return
@@ -86,7 +88,7 @@ class UnfinishedPotionsEvents : PluginScript() {
                             )
                         } ?: 0
                 },
-            ),
+            )
         ) { selection ->
             val potion =
                 candidatesWithMax
@@ -99,7 +101,10 @@ class UnfinishedPotionsEvents : PluginScript() {
         }
     }
 
-    private suspend fun ProtectedAccess.startUnfinishedPotion(potion: HerbloreUnfinishedRow, amount: Int) {
+    private suspend fun ProtectedAccess.startUnfinishedPotion(
+        potion: HerbloreUnfinishedRow,
+        amount: Int,
+    ) {
         if (!meetsStatReqs(potion.statReq)) {
             return
         }
@@ -122,8 +127,8 @@ class UnfinishedPotionsEvents : PluginScript() {
 
         if (
             !inv.contains(potion.herbItem.internalName) ||
-            !inv.contains("obj.vial_water") ||
-            (inv.freeSpace() < 1 && !inv.contains(potion.unfinishedPotion.internalName))
+                !inv.contains("obj.vial_water") ||
+                (inv.freeSpace() < 1 && !inv.contains(potion.unfinishedPotion.internalName))
         ) {
             resetAnim()
             return
@@ -155,7 +160,11 @@ class UnfinishedPotionsEvents : PluginScript() {
 
         val created = task.created + 1
         if (created < task.amount) {
-            weakQueue("queue.herblore_unfinished", 4, UnfinishedPotionTask(potion, task.amount, created))
+            weakQueue(
+                "queue.herblore_unfinished",
+                4,
+                UnfinishedPotionTask(potion, task.amount, created),
+            )
         } else {
             resetAnim()
         }
@@ -166,5 +175,4 @@ class UnfinishedPotionsEvents : PluginScript() {
         val amount: Int,
         val created: Int,
     )
-
 }

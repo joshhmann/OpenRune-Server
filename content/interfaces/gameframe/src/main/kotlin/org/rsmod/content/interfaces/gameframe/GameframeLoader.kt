@@ -1,6 +1,5 @@
 package org.rsmod.content.interfaces.gameframe
 
-import dev.openrune.definition.type.widget.ComponentType
 import dev.openrune.rscm.RSCM
 import dev.openrune.rscm.RSCM.asRSCM
 import dev.openrune.rscm.RSCMType
@@ -41,7 +40,9 @@ internal class GameframeLoader {
         val stoneArrangement = row.stoneArrangement
 
         val mappings =
-            row.mappings.filterValuesNotNull().associate { Component(it.key.packed) to Component(it.value.packed) }
+            row.mappings.filterValuesNotNull().associate {
+                Component(it.key.packed) to Component(it.value.packed)
+            }
 
         return Gameframe(
             topLevel = topLevel,
@@ -65,7 +66,10 @@ internal class GameframeLoader {
         listOf(
             GameframeOverlay("interface.chatbox", "component.toplevel_osrs_stretch:chat_container"),
             GameframeOverlay("interface.buff_bar", "component.toplevel_osrs_stretch:buff_bar"),
-            GameframeOverlay("interface.stat_boosts_hud", "component.toplevel_osrs_stretch:stat_boosts_hud"),
+            GameframeOverlay(
+                "interface.stat_boosts_hud",
+                "component.toplevel_osrs_stretch:stat_boosts_hud",
+            ),
             GameframeOverlay("interface.pm_chat", "component.toplevel_osrs_stretch:pm_container"),
             GameframeOverlay("interface.hpbar_hud", "component.toplevel_osrs_stretch:hpbar_hud"),
             GameframeOverlay("interface.orbs", "component.toplevel_osrs_stretch:orbs"),

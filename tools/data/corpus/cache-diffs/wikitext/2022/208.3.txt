@@ -1,0 +1,180 @@
+{{ToC}}
+==Items==
+===New Items===
+{| class="wikitable sortable"
+!colspan='11'|New Items
+|-
+! style=width:15em | Name !! ID !! Members !! Tradeable in GE !! Equipable !! Stackable !! Noteable !! Options !! Placeholder !! Cost
+|-
+| [[Clue scroll (special)]] || [https://chisel.weirdgloop.org/moid/item_id.html#27427 27427] || No || No || No || No || No || Read,    Destroy || No || 20
+|-
+| [[Hood of ruin]] || [https://chisel.weirdgloop.org/moid/item_id.html#27428 27428] || No || No || Yes || No || No ||  Wear,   Destroy || Yes || 1
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#27429 27429] || No || No || No || No || No ||     Drop || Yes || 1
+|-
+| [[Robe top of ruin]] || [https://chisel.weirdgloop.org/moid/item_id.html#27430 27430] || No || No || Yes || No || No ||  Wear,   Destroy || Yes || 1
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#27431 27431] || No || No || No || No || No ||     Drop || Yes || 1
+|-
+| [[Robe bottom of ruin]] || [https://chisel.weirdgloop.org/moid/item_id.html#27432 27432] || No || No || Yes || No || No ||  Wear,   Destroy || Yes || 1
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#27433 27433] || No || No || No || No || No ||     Drop || Yes || 1
+|-
+| [[Gloves of ruin]] || [https://chisel.weirdgloop.org/moid/item_id.html#27434 27434] || No || No || Yes || No || No ||  Wear,   Destroy || Yes || 1
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#27435 27435] || No || No || No || No || No ||     Drop || Yes || 1
+|-
+| [[Socks of ruin]] || [https://chisel.weirdgloop.org/moid/item_id.html#27436 27436] || No || No || Yes || No || No ||  Wear,   Destroy || Yes || 1
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#27437 27437] || No || No || No || No || No ||     Drop || Yes || 1
+|-
+| [[Cloak of ruin]] || [https://chisel.weirdgloop.org/moid/item_id.html#27438 27438] || No || No || Yes || No || No ||  Wear,   Destroy || Yes || 1
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#27439 27439] || No || No || No || No || No ||     Drop || Yes || 1
+|-
+| [[Infinite money bag]] || [https://chisel.weirdgloop.org/moid/item_id.html#27440 27440] || No || No || Yes || No || No ||  Wear, Take-from,  Destroy || Yes || 1
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#27441 27441] || No || No || No || No || No ||     Drop || Yes || 1
+|-
+|-
+|}
+===Removed Items===
+{| class="wikitable sortable"
+!colspan='2'|Removed Items
+|-
+! style=width:15em | Name !! ID
+|-
+|-
+|}
+===Diff Items===
+{| class="wikitable sortable"
+!colspan='5'|Diff Items
+|-
+! style=width:15em | Name !! ID !! Key !! Previous Value !! New Value
+|-
+|rowspan="2"|[[Accursed sceptre (u)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#25488 25488]
+|-
+|interfaceOptions || [None, 'Wield', 'Dismantle', None, 'Drop'] || [None, 'Wield', 'Dismantle', 'Swap', 'Drop']
+|-
+|rowspan="3"|[[Accursed sceptre]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/item_id.html#25489 25489]
+|-
+|interfaceOptions || [None, 'Wield', 'Check', None, 'Uncharge'] || [None, 'Wield', 'Check', 'Swap', 'Uncharge']
+|-
+| params || {'434': 6, '451': 'Check', '436': 70, '1733': 'Accursed sceptre', '23': 70, '41': 1, '1564': 3} || {'434': 6, '451': 'Check', '436': 70, '452': 'Swap', '1733': 'Accursed sceptre', '23': 70, '41': 1, '1564': 3}
+|-
+|rowspan="2"|[[Voidwaker]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#25490 25490]
+|-
+|interfaceOptions || [None, 'Wield', None, None, 'Drop'] || [None, 'Wield', None, 'Swap', 'Drop']
+|-
+|rowspan="13"|[[Accursed sceptre (au)]]
+|rowspan="13"|[https://chisel.weirdgloop.org/moid/item_id.html#25491 25491]
+|-
+|name || [[Toxic blowpipe (beta - dragon)]] || [[Accursed sceptre (au)]]
+|-
+| xan2d || 768 || 400
+|-
+| yan2d || 189 || 1020
+|-
+| cost || 1000 || 120000
+|-
+| inventoryModel || 19219 || 35776
+|-
+| zoom2d || 1158 || 2105
+|-
+| xOffset2d || -7 || 0
+|-
+| yOffset2d || 4 || 0
+|-
+| interfaceOptions || [None, 'Wield', None, None, 'Drop'] || [None, 'Wield', 'Dismantle', 'Swap', 'Drop']
+|-
+| maleModel0 || 14403 || 35772
+|-
+| femaleModel0 || 42632 || 35772
+|-
+| category || 24 || 1
+|-
+|rowspan="14"|[[Accursed sceptre (a)]]
+|rowspan="14"|[https://chisel.weirdgloop.org/moid/item_id.html#25492 25492]
+|-
+|name || [[Black d'hide body (beta)]] || [[Accursed sceptre (a)]]
+|-
+| xan2d || 548 || 400
+|-
+| yan2d || 0 || 1020
+|-
+| cost || 1000 || 120000
+|-
+| inventoryModel || 2745 || 35774
+|-
+| zoom2d || 1030 || 2105
+|-
+| yOffset2d || -4 || 0
+|-
+| interfaceOptions || [None, 'Wear', None, None, 'Drop'] || [None, 'Wield', 'Check', 'Swap', 'Uncharge']
+|-
+| maleModel0 || 314 || 35773
+|-
+| femaleModel0 || 477 || 35773
+|-
+| colorFind ||<span style = "background-color: #022b04;color:white">22416</span>,<span style = "background-color: #034306;color:white">22424</span>||<span style = "background-color: #b71405;color:white">960</span>,<span style = "background-color: #534b4b;color:white">53</span>,<span style = "background-color: #312e2e;color:white">33</span>
+|-
+| colorReplace ||<span style = "background-color: #050505;color:white">4</span>,<span style = "background-color: #171616;color:white">16</span>||<span style = "background-color: #a70691;color:white">-9285</span>,<span style = "background-color: #a70691;color:white">-9285</span>,<span style = "background-color: #a70691;color:white">-9285</span>
+|-
+| category || 7 || 1
+|-
+|}
+
+==Non-Player Characters==
+===New NPCs===
+{| class="wikitable sortable"
+!colspan='4'|New NPCs
+|-
+! style=width:15em | Name !! ID !! Combat Level !! Options
+|-
+|-
+|}
+===Removed NPCs===
+{| class="wikitable sortable"
+!colspan='2'|Removed NPCs
+|-
+! style=width:15em | Name !! ID
+|-
+|-
+|}
+===Diff NPCs===
+{| class="wikitable sortable"
+!colspan='5'|Diff NPCs
+|-
+! style=width:15em | Name !! ID !! Key !! Previous Value !! New Value
+|-
+|}
+
+==Objects==
+===New Objects=== 
+{| class="wikitable sortable"
+!colspan='3'|New Objects
+|-
+! style=width:15em | Name !! ID !! Options
+|-
+| [[Noticeboard]] || [https://chisel.weirdgloop.org/moid/object_id.html#46240 46240] || Read
+|-
+|-
+|}
+===Removed Objects===
+{| class="wikitable sortable"
+!colspan='2'|Removed Objects
+|-
+! style=width:15em | Name !! ID
+|-
+|-
+|}
+===Diff Objects===
+{| class="wikitable sortable"
+!colspan='5'|Diff Objects
+|-
+! style=width:15em | Name !! ID !! Key !! Previous Value !! New Value
+|-
+|}

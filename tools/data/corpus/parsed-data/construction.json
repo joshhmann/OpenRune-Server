@@ -1,0 +1,10916 @@
+{
+  "count": 730,
+  "builds": [
+    {
+      "name": "Incense burner (Oak)",
+      "level": 61,
+      "experience": 0,
+      "object_id": [
+        13208
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8073
+      ]
+    },
+    {
+      "name": "Incense burner (Oak)",
+      "level": 61,
+      "experience": 0,
+      "object_id": [
+        13209
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8073
+      ]
+    },
+    {
+      "name": "Gilded altar",
+      "level": 75,
+      "experience": 0,
+      "object_id": [
+        40878
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8068
+      ]
+    },
+    {
+      "name": "Gilded altar",
+      "level": 75,
+      "experience": 0,
+      "object_id": [
+        13197
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8068
+      ]
+    },
+    {
+      "name": "Gilded altar",
+      "level": 75,
+      "experience": 0,
+      "object_id": [
+        13198
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8068
+      ]
+    },
+    {
+      "name": "Gilded altar",
+      "level": 75,
+      "experience": 0,
+      "object_id": [
+        13199
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8068
+      ]
+    },
+    {
+      "name": "Rocking chair",
+      "level": 14,
+      "experience": 0,
+      "object_id": [
+        6754
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8311
+      ]
+    },
+    {
+      "name": "Crude wooden chair",
+      "level": 1,
+      "experience": 0,
+      "object_id": [
+        6752
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8309
+      ]
+    },
+    {
+      "name": "Oak larder",
+      "level": 33,
+      "experience": 0,
+      "object_id": [
+        13566
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8234
+      ]
+    },
+    {
+      "name": "Sink",
+      "level": 47,
+      "experience": 0,
+      "object_id": [
+        13564
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8232
+      ]
+    },
+    {
+      "name": "Sink",
+      "level": 47,
+      "experience": 0,
+      "object_id": [
+        13563
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8232
+      ]
+    },
+    {
+      "name": "Exit portal",
+      "level": 1,
+      "experience": 0,
+      "object_id": [
+        60789
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8168
+      ]
+    },
+    {
+      "name": "Exit portal",
+      "level": 1,
+      "experience": 0,
+      "object_id": [
+        4525
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8168
+      ]
+    },
+    {
+      "name": "Repair bench",
+      "level": 15,
+      "experience": 0,
+      "object_id": [
+        6800
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8389
+      ]
+    },
+    {
+      "name": "Decorative rock",
+      "level": 5,
+      "experience": 0,
+      "object_id": [
+        4526
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8169
+      ]
+    },
+    {
+      "name": "Pluming stand",
+      "level": 16,
+      "experience": 0,
+      "object_id": [
+        6803
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8392
+      ]
+    },
+    {
+      "name": "Shield easel",
+      "level": 41,
+      "experience": 0,
+      "object_id": [
+        6804
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8393
+      ]
+    },
+    {
+      "name": "Marble altar",
+      "level": 70,
+      "experience": 0,
+      "object_id": [
+        40877
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8067
+      ]
+    },
+    {
+      "name": "Marble altar",
+      "level": 70,
+      "experience": 0,
+      "object_id": [
+        13194
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8067
+      ]
+    },
+    {
+      "name": "Marble altar",
+      "level": 70,
+      "experience": 0,
+      "object_id": [
+        13195
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8067
+      ]
+    },
+    {
+      "name": "Marble altar",
+      "level": 70,
+      "experience": 0,
+      "object_id": [
+        13196
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8067
+      ]
+    },
+    {
+      "name": "Armour stand",
+      "level": 55,
+      "experience": 0,
+      "object_id": [
+        6802
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8391
+      ]
+    },
+    {
+      "name": "Pond",
+      "level": 10,
+      "experience": 0,
+      "object_id": [
+        4527
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8170
+      ]
+    },
+    {
+      "name": "Nice tree",
+      "level": 10,
+      "experience": 0,
+      "object_id": [
+        4532,
+        4539,
+        26835
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8174
+      ]
+    },
+    {
+      "name": "Plant",
+      "level": 1,
+      "experience": 0,
+      "object_id": [
+        5134
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8180
+      ]
+    },
+    {
+      "name": "Small fern",
+      "level": 6,
+      "experience": 0,
+      "object_id": [
+        5135
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8181
+      ]
+    },
+    {
+      "name": "Dock leaf",
+      "level": 1,
+      "experience": 0,
+      "object_id": [
+        5137
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8183
+      ]
+    },
+    {
+      "name": "Thistle (Construction)",
+      "level": 6,
+      "experience": 0,
+      "object_id": [
+        5138
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8184
+      ]
+    },
+    {
+      "name": "Reeds",
+      "level": 12,
+      "experience": 0,
+      "object_id": [
+        5139
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8185
+      ]
+    },
+    {
+      "name": "Bush",
+      "level": 6,
+      "experience": 0,
+      "object_id": [
+        5129
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8187
+      ]
+    },
+    {
+      "name": "Tall plant",
+      "level": 12,
+      "experience": 0,
+      "object_id": [
+        5130
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8188
+      ]
+    },
+    {
+      "name": "Short plant",
+      "level": 1,
+      "experience": 0,
+      "object_id": [
+        5131
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8189
+      ]
+    },
+    {
+      "name": "Large leaf bush",
+      "level": 6,
+      "experience": 0,
+      "object_id": [
+        5132
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8190
+      ]
+    },
+    {
+      "name": "Huge plant",
+      "level": 12,
+      "experience": 0,
+      "object_id": [
+        5133
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8191
+      ]
+    },
+    {
+      "name": "Whetstone",
+      "level": 35,
+      "experience": 0,
+      "object_id": [
+        6801
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8390
+      ]
+    },
+    {
+      "name": "Oak altar",
+      "level": 45,
+      "experience": 0,
+      "object_id": [
+        40872
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8062
+      ]
+    },
+    {
+      "name": "Oak altar",
+      "level": 45,
+      "experience": 0,
+      "object_id": [
+        13179
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8062
+      ]
+    },
+    {
+      "name": "Oak altar",
+      "level": 45,
+      "experience": 0,
+      "object_id": [
+        13180
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8062
+      ]
+    },
+    {
+      "name": "Oak altar",
+      "level": 45,
+      "experience": 0,
+      "object_id": [
+        13181
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8062
+      ]
+    },
+    {
+      "name": "Wooden chair",
+      "level": 8,
+      "experience": 0,
+      "object_id": [
+        6753
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8310
+      ]
+    },
+    {
+      "name": "Oak chair",
+      "level": 19,
+      "experience": 0,
+      "object_id": [
+        6755
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8312
+      ]
+    },
+    {
+      "name": "Wooden crate",
+      "level": 75,
+      "experience": 0,
+      "object_id": [
+        13284
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8148
+      ]
+    },
+    {
+      "name": "Wooden crate",
+      "level": 75,
+      "experience": 0,
+      "object_id": [
+        13283
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8148
+      ]
+    },
+    {
+      "name": "Teak armchair",
+      "level": 35,
+      "experience": 0,
+      "object_id": [
+        6757
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8314
+      ]
+    },
+    {
+      "name": "Oak armchair",
+      "level": 26,
+      "experience": 0,
+      "object_id": [
+        6756
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8313
+      ]
+    },
+    {
+      "name": "Mahogany armchair",
+      "level": 50,
+      "experience": 0,
+      "object_id": [
+        6758
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8315
+      ]
+    },
+    {
+      "name": "Beer barrel",
+      "level": 0,
+      "experience": 0,
+      "object_id": [
+        13568
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8239
+      ]
+    },
+    {
+      "name": "Cider barrel",
+      "level": 0,
+      "experience": 0,
+      "object_id": [
+        13569
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8240
+      ]
+    },
+    {
+      "name": "Asgarnian ale (barrel)",
+      "level": 0,
+      "experience": 0,
+      "object_id": [
+        13570
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8241
+      ]
+    },
+    {
+      "name": "Greenman's ale (barrel)",
+      "level": 0,
+      "experience": 0,
+      "object_id": [
+        13571
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8242
+      ]
+    },
+    {
+      "name": "Dragon bitter (barrel)",
+      "level": 0,
+      "experience": 0,
+      "object_id": [
+        13572
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8243
+      ]
+    },
+    {
+      "name": "Globe",
+      "level": 41,
+      "experience": 0,
+      "object_id": [
+        13649
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8341
+      ]
+    },
+    {
+      "name": "Ornamental globe",
+      "level": 50,
+      "experience": 0,
+      "object_id": [
+        13650
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8342
+      ]
+    },
+    {
+      "name": "Large oak bed",
+      "level": 34,
+      "experience": 0,
+      "object_id": [
+        13150
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8033
+      ]
+    },
+    {
+      "name": "Wooden bed",
+      "level": 20,
+      "experience": 0,
+      "object_id": [
+        13148
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8031
+      ]
+    },
+    {
+      "name": "Oak bed",
+      "level": 30,
+      "experience": 0,
+      "object_id": [
+        13149
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8032
+      ]
+    },
+    {
+      "name": "Teak bed",
+      "level": 40,
+      "experience": 0,
+      "object_id": [
+        13151
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8034
+      ]
+    },
+    {
+      "name": "Large teak bed",
+      "level": 45,
+      "experience": 0,
+      "object_id": [
+        13152
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8035
+      ]
+    },
+    {
+      "name": "Shaving stand",
+      "level": 21,
+      "experience": 0,
+      "object_id": [
+        13162
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8045
+      ]
+    },
+    {
+      "name": "Oak shaving stand",
+      "level": 29,
+      "experience": 0,
+      "object_id": [
+        13163
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8046
+      ]
+    },
+    {
+      "name": "Oak dresser",
+      "level": 37,
+      "experience": 0,
+      "object_id": [
+        13164
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8047
+      ]
+    },
+    {
+      "name": "Teak dresser",
+      "level": 46,
+      "experience": 0,
+      "object_id": [
+        13165
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8048
+      ]
+    },
+    {
+      "name": "Clay fireplace",
+      "level": 3,
+      "experience": 0,
+      "object_id": [
+        6780
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8325
+      ]
+    },
+    {
+      "name": "Wooden workbench",
+      "level": 17,
+      "experience": 0,
+      "object_id": [
+        6791
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8375
+      ]
+    },
+    {
+      "name": "Oak workbench",
+      "level": 32,
+      "experience": 0,
+      "object_id": [
+        6792
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8376
+      ]
+    },
+    {
+      "name": "Steel framed workbench",
+      "level": 46,
+      "experience": 0,
+      "object_id": [
+        6793
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8377
+      ]
+    },
+    {
+      "name": "Bench with vice",
+      "level": 62,
+      "experience": 0,
+      "object_id": [
+        6794
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8378
+      ]
+    },
+    {
+      "name": "Bench with lathe",
+      "level": 77,
+      "experience": 0,
+      "object_id": [
+        6795
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8379
+      ]
+    },
+    {
+      "name": "Wooden shelves 1",
+      "level": 6,
+      "experience": 0,
+      "object_id": [
+        13552
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8223
+      ]
+    },
+    {
+      "name": "Wooden shelves 1",
+      "level": 6,
+      "experience": 0,
+      "object_id": [
+        13545
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8223
+      ]
+    },
+    {
+      "name": "Wooden larder",
+      "level": 9,
+      "experience": 0,
+      "object_id": [
+        13565
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8233
+      ]
+    },
+    {
+      "name": "Teak larder",
+      "level": 43,
+      "experience": 0,
+      "object_id": [
+        13567
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8235
+      ]
+    },
+    {
+      "name": "Wooden shelves 2",
+      "level": 12,
+      "experience": 0,
+      "object_id": [
+        13553
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8224
+      ]
+    },
+    {
+      "name": "Wooden shelves 2",
+      "level": 12,
+      "experience": 0,
+      "object_id": [
+        13546
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8224
+      ]
+    },
+    {
+      "name": "Wood dining table",
+      "level": 10,
+      "experience": 0,
+      "object_id": [
+        13293
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8115
+      ]
+    },
+    {
+      "name": "Oak dining table",
+      "level": 22,
+      "experience": 0,
+      "object_id": [
+        13294
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8116
+      ]
+    },
+    {
+      "name": "Rug",
+      "level": 13,
+      "experience": 0,
+      "object_id": [
+        6762,
+        6763,
+        6764
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8317,
+        25362
+      ]
+    },
+    {
+      "name": "Cloth altar",
+      "level": 56,
+      "experience": 0,
+      "object_id": [
+        40874
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8064
+      ]
+    },
+    {
+      "name": "Cloth altar",
+      "level": 56,
+      "experience": 0,
+      "object_id": [
+        13185
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8064
+      ]
+    },
+    {
+      "name": "Cloth altar",
+      "level": 56,
+      "experience": 0,
+      "object_id": [
+        13187
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8064
+      ]
+    },
+    {
+      "name": "Cloth altar",
+      "level": 56,
+      "experience": 0,
+      "object_id": [
+        13186
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8064
+      ]
+    },
+    {
+      "name": "Incense burner (Marble)",
+      "level": 69,
+      "experience": 0,
+      "object_id": [
+        57734
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8075
+      ]
+    },
+    {
+      "name": "Incense burner (Marble)",
+      "level": 69,
+      "experience": 0,
+      "object_id": [
+        57735
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8075
+      ]
+    },
+    {
+      "name": "Incense burner (Marble)",
+      "level": 69,
+      "experience": 0,
+      "object_id": [
+        13212
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8075
+      ]
+    },
+    {
+      "name": "Incense burner (Marble)",
+      "level": 69,
+      "experience": 0,
+      "object_id": [
+        13213
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8075
+      ]
+    },
+    {
+      "name": "Shuttered window",
+      "level": 49,
+      "experience": 0,
+      "object_id": [
+        13217,
+        13226,
+        13235,
+        13244,
+        13253,
+        13262,
+        27073,
+        37441
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8076
+      ]
+    },
+    {
+      "name": "Banner easel",
+      "level": 66,
+      "experience": 0,
+      "object_id": [
+        6805
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8394
+      ]
+    },
+    {
+      "name": "Oak lectern",
+      "level": 40,
+      "experience": 0,
+      "object_id": [
+        13642
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8334
+      ]
+    },
+    {
+      "name": "Eagle lectern",
+      "level": 47,
+      "experience": 0,
+      "object_id": [
+        13643
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8335
+      ]
+    },
+    {
+      "name": "Demon lectern",
+      "level": 47,
+      "experience": 0,
+      "object_id": [
+        13644
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8336
+      ]
+    },
+    {
+      "name": "Teak eagle lectern",
+      "level": 57,
+      "experience": 0,
+      "object_id": [
+        13645
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8337
+      ]
+    },
+    {
+      "name": "Teak demon lectern",
+      "level": 57,
+      "experience": 0,
+      "object_id": [
+        13646
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8338
+      ]
+    },
+    {
+      "name": "Mahogany eagle lectern",
+      "level": 67,
+      "experience": 0,
+      "object_id": [
+        13647
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8339
+      ]
+    },
+    {
+      "name": "Combat ring",
+      "level": 51,
+      "experience": 0,
+      "object_id": [
+        13137,
+        13138,
+        13139,
+        13140
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8025
+      ]
+    },
+    {
+      "name": "Mahogany demon lectern",
+      "level": 67,
+      "experience": 0,
+      "object_id": [
+        13648
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8340
+      ]
+    },
+    {
+      "name": "King arthur (portrait)",
+      "level": 35,
+      "experience": 0,
+      "object_id": [
+        13510
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8285
+      ]
+    },
+    {
+      "name": "Torn curtains",
+      "level": 2,
+      "experience": 0,
+      "object_id": [
+        40771
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8322
+      ]
+    },
+    {
+      "name": "Torn curtains",
+      "level": 2,
+      "experience": 0,
+      "object_id": [
+        6777
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8322
+      ]
+    },
+    {
+      "name": "Torn curtains",
+      "level": 2,
+      "experience": 0,
+      "object_id": [
+        6774
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8322
+      ]
+    },
+    {
+      "name": "Teak altar",
+      "level": 50,
+      "experience": 0,
+      "object_id": [
+        40873
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8063
+      ]
+    },
+    {
+      "name": "Teak altar",
+      "level": 50,
+      "experience": 0,
+      "object_id": [
+        13182
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8063
+      ]
+    },
+    {
+      "name": "Teak altar",
+      "level": 50,
+      "experience": 0,
+      "object_id": [
+        13183
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8063
+      ]
+    },
+    {
+      "name": "Teak altar",
+      "level": 50,
+      "experience": 0,
+      "object_id": [
+        13184
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8063
+      ]
+    },
+    {
+      "name": "Carved teak table",
+      "level": 45,
+      "experience": 0,
+      "object_id": [
+        13297
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8119
+      ]
+    },
+    {
+      "name": "Quest list (Construction)",
+      "level": 80,
+      "experience": 0,
+      "object_id": [
+        29226
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        20633
+      ]
+    },
+    {
+      "name": "Organ",
+      "level": 69,
+      "experience": 0,
+      "object_id": [
+        13216
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8081
+      ]
+    },
+    {
+      "name": "Demonic throne",
+      "level": 99,
+      "experience": 0,
+      "object_id": [
+        29394,
+        29459
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": []
+    },
+    {
+      "name": "Demonic throne",
+      "level": 99,
+      "experience": 0,
+      "object_id": [
+        13671
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8363
+      ]
+    },
+    {
+      "name": "Maple tree (Construction)",
+      "level": 45,
+      "experience": 0,
+      "object_id": [
+        4535,
+        5126
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8177
+      ]
+    },
+    {
+      "name": "Crafting table 4",
+      "level": 42,
+      "experience": 0,
+      "object_id": [
+        6799
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8383
+      ]
+    },
+    {
+      "name": "Crafting table 3",
+      "level": 34,
+      "experience": 0,
+      "object_id": [
+        6798
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8382
+      ]
+    },
+    {
+      "name": "Crafting table 2",
+      "level": 25,
+      "experience": 0,
+      "object_id": [
+        6797
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8381
+      ]
+    },
+    {
+      "name": "Crafting table 1",
+      "level": 16,
+      "experience": 0,
+      "object_id": [
+        6796
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8380
+      ]
+    },
+    {
+      "name": "Oak scratching post",
+      "level": 39,
+      "experience": 0,
+      "object_id": [
+        26858
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        12715
+      ]
+    },
+    {
+      "name": "Teak scratching post",
+      "level": 49,
+      "experience": 0,
+      "object_id": [
+        26859
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        12716
+      ]
+    },
+    {
+      "name": "Mahogany scratching post",
+      "level": 59,
+      "experience": 0,
+      "object_id": [
+        26860
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        12717
+      ]
+    },
+    {
+      "name": "Oak feeder",
+      "level": 37,
+      "experience": 0,
+      "object_id": [
+        26870
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        12722
+      ]
+    },
+    {
+      "name": "Teak feeder",
+      "level": 48,
+      "experience": 0,
+      "object_id": [
+        26871
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        12723
+      ]
+    },
+    {
+      "name": "Mahogany feeder",
+      "level": 59,
+      "experience": 0,
+      "object_id": [
+        26872
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        12724
+      ]
+    },
+    {
+      "name": "Simple arena",
+      "level": 63,
+      "experience": 0,
+      "object_id": [
+        26862
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        12718
+      ]
+    },
+    {
+      "name": "Advanced arena",
+      "level": 73,
+      "experience": 0,
+      "object_id": [
+        26863
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        12719
+      ]
+    },
+    {
+      "name": "Glorious arena",
+      "level": 83,
+      "experience": 0,
+      "object_id": [
+        26864
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        12720
+      ]
+    },
+    {
+      "name": "Oak house",
+      "level": 37,
+      "experience": 0,
+      "object_id": [
+        26297
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        12704
+      ]
+    },
+    {
+      "name": "Teak house",
+      "level": 48,
+      "experience": 0,
+      "object_id": [
+        26298
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        12705
+      ]
+    },
+    {
+      "name": "Mahogany house",
+      "level": 59,
+      "experience": 0,
+      "object_id": [
+        26299
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        12706
+      ]
+    },
+    {
+      "name": "Consecrated house",
+      "level": 70,
+      "experience": 0,
+      "object_id": [
+        26830
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        12707
+      ]
+    },
+    {
+      "name": "Desecrated house",
+      "level": 81,
+      "experience": 0,
+      "object_id": [
+        26831
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        12708
+      ]
+    },
+    {
+      "name": "Nature house",
+      "level": 92,
+      "experience": 0,
+      "object_id": [
+        26832
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        12709
+      ]
+    },
+    {
+      "name": "Grassland habitat",
+      "level": 37,
+      "experience": 0,
+      "object_id": [
+        26840,
+        26846,
+        26852
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        12710
+      ]
+    },
+    {
+      "name": "Forest habitat",
+      "level": 47,
+      "experience": 0,
+      "object_id": [
+        26841,
+        26847,
+        26853
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        12711
+      ]
+    },
+    {
+      "name": "Desert habitat",
+      "level": 57,
+      "experience": 0,
+      "object_id": [
+        26842,
+        26848,
+        26854
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        12712
+      ]
+    },
+    {
+      "name": "Polar habitat",
+      "level": 67,
+      "experience": 0,
+      "object_id": [
+        26843,
+        26849,
+        26855
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        12713
+      ]
+    },
+    {
+      "name": "Volcanic habitat",
+      "level": 77,
+      "experience": 0,
+      "object_id": [
+        26844,
+        26850,
+        26856
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        12714
+      ]
+    },
+    {
+      "name": "Pet list",
+      "level": 38,
+      "experience": 0,
+      "object_id": [
+        26868
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        12721
+      ]
+    },
+    {
+      "name": "Greater teleport focus",
+      "level": 65,
+      "experience": 0,
+      "object_id": [
+        13641
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8332
+      ]
+    },
+    {
+      "name": "Chef's delight (barrel)",
+      "level": 0,
+      "experience": 0,
+      "object_id": [
+        13573
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8244
+      ]
+    },
+    {
+      "name": "Teak table",
+      "level": 38,
+      "experience": 0,
+      "object_id": [
+        13296
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8118
+      ]
+    },
+    {
+      "name": "Oak clock",
+      "level": 25,
+      "experience": 0,
+      "object_id": [
+        13169
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8052
+      ]
+    },
+    {
+      "name": "Skeleton throne",
+      "level": 88,
+      "experience": 0,
+      "object_id": [
+        13669
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8361
+      ]
+    },
+    {
+      "name": "Stone fireplace",
+      "level": 0,
+      "experience": 0,
+      "object_id": [
+        40774,
+        40775
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8326
+      ]
+    },
+    {
+      "name": "Stone fireplace",
+      "level": 33,
+      "experience": 0,
+      "object_id": [
+        6782,
+        6783
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8326
+      ]
+    },
+    {
+      "name": "Brown rug",
+      "level": 2,
+      "experience": 0,
+      "object_id": [
+        6759,
+        6760,
+        6761
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8316
+      ]
+    },
+    {
+      "name": "Wooden bookcase",
+      "level": 4,
+      "experience": 0,
+      "object_id": [
+        6768
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8319
+      ]
+    },
+    {
+      "name": "Firepit",
+      "level": 5,
+      "experience": 0,
+      "object_id": [
+        13528
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8216
+      ]
+    },
+    {
+      "name": "Cat blanket",
+      "level": 5,
+      "experience": 0,
+      "object_id": [
+        13574
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8236
+      ]
+    },
+    {
+      "name": "Pump and drain",
+      "level": 7,
+      "experience": 0,
+      "object_id": [
+        13560
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8230
+      ]
+    },
+    {
+      "name": "Pump and drain",
+      "level": 7,
+      "experience": 0,
+      "object_id": [
+        13559
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8230
+      ]
+    },
+    {
+      "name": "Wooden bench",
+      "level": 10,
+      "experience": 0,
+      "object_id": [
+        13300
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8108
+      ]
+    },
+    {
+      "name": "Kitchen table",
+      "level": 12,
+      "experience": 0,
+      "object_id": [
+        13577
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8246
+      ]
+    },
+    {
+      "name": "Imp statue",
+      "level": 15,
+      "experience": 0,
+      "object_id": [
+        4528
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8171
+      ]
+    },
+    {
+      "name": "Tool store 1",
+      "level": 15,
+      "experience": 0,
+      "object_id": [
+        6786
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8384
+      ]
+    },
+    {
+      "name": "Oak kitchen table",
+      "level": 32,
+      "experience": 0,
+      "object_id": [
+        13578
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8247
+      ]
+    },
+    {
+      "name": "Dungeon entrance",
+      "level": 70,
+      "experience": 0,
+      "object_id": [
+        4529
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8172
+      ]
+    },
+    {
+      "name": "Tree (Construction)",
+      "level": 5,
+      "experience": 0,
+      "object_id": [
+        4531,
+        4538
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8173
+      ]
+    },
+    {
+      "name": "Fern (small plant)",
+      "level": 12,
+      "experience": 0,
+      "object_id": [
+        5136
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8182
+      ]
+    },
+    {
+      "name": "Oak tree (Construction)",
+      "level": 15,
+      "experience": 0,
+      "object_id": [
+        4533
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8175
+      ]
+    },
+    {
+      "name": "Oak tree (Construction)",
+      "level": 15,
+      "experience": 0,
+      "object_id": [
+        4540
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8175
+      ]
+    },
+    {
+      "name": "Willow tree (Construction)",
+      "level": 30,
+      "experience": 0,
+      "object_id": [
+        4541
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8176
+      ]
+    },
+    {
+      "name": "Willow tree (Construction)",
+      "level": 30,
+      "experience": 0,
+      "object_id": [
+        4534
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8176
+      ]
+    },
+    {
+      "name": "Carved oak table",
+      "level": 31,
+      "experience": 0,
+      "object_id": [
+        13295
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8117
+      ]
+    },
+    {
+      "name": "Opulent table",
+      "level": 72,
+      "experience": 0,
+      "object_id": [
+        13299
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8121
+      ]
+    },
+    {
+      "name": "Yew tree (Construction)",
+      "level": 60,
+      "experience": 0,
+      "object_id": [
+        4536,
+        5121
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8178
+      ]
+    },
+    {
+      "name": "Scrying pool",
+      "level": 80,
+      "experience": 0,
+      "object_id": [
+        55907
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        30499
+      ]
+    },
+    {
+      "name": "Scrying pool",
+      "level": 80,
+      "experience": 0,
+      "object_id": [
+        13639
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8333
+      ]
+    },
+    {
+      "name": "Magic tree (Construction)",
+      "level": 75,
+      "experience": 0,
+      "object_id": [
+        4537,
+        5127
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8179
+      ]
+    },
+    {
+      "name": "Huge spider",
+      "level": 86,
+      "experience": 0,
+      "object_id": [
+        13370
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8135
+      ]
+    },
+    {
+      "name": "Tool store 2",
+      "level": 25,
+      "experience": 0,
+      "object_id": [
+        6787
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8385
+      ]
+    },
+    {
+      "name": "Tool store 3",
+      "level": 35,
+      "experience": 0,
+      "object_id": [
+        6788
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8386
+      ]
+    },
+    {
+      "name": "Tool store 4",
+      "level": 44,
+      "experience": 0,
+      "object_id": [
+        6789
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8387
+      ]
+    },
+    {
+      "name": "Tool store 5",
+      "level": 55,
+      "experience": 0,
+      "object_id": [
+        6790
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8388
+      ]
+    },
+    {
+      "name": "Shoe box",
+      "level": 20,
+      "experience": 0,
+      "object_id": [
+        13155
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8038
+      ]
+    },
+    {
+      "name": "Wooden shelves 3",
+      "level": 23,
+      "experience": 0,
+      "object_id": [
+        13547
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8225
+      ]
+    },
+    {
+      "name": "Wooden shelves 3",
+      "level": 23,
+      "experience": 0,
+      "object_id": [
+        13554
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8225
+      ]
+    },
+    {
+      "name": "Oak staircase",
+      "level": 27,
+      "experience": 0,
+      "object_id": [
+        13497,
+        13498
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8249,
+        8250,
+        8251
+      ]
+    },
+    {
+      "name": "Isafdar (painting)",
+      "level": 65,
+      "experience": 0,
+      "object_id": [
+        13515
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8293
+      ]
+    },
+    {
+      "name": "Oak wardrobe",
+      "level": 39,
+      "experience": 0,
+      "object_id": [
+        13157
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        9829
+      ]
+    },
+    {
+      "name": "Dagannoth (Construction)",
+      "level": 90,
+      "experience": 0,
+      "object_id": [
+        13376
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8141
+      ]
+    },
+    {
+      "name": "Opulent rug",
+      "level": 65,
+      "experience": 0,
+      "object_id": [
+        6765,
+        6766,
+        6767
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8318,
+        25363
+      ]
+    },
+    {
+      "name": "Marble fireplace",
+      "level": 0,
+      "experience": 0,
+      "object_id": [
+        40776,
+        40777
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8327
+      ]
+    },
+    {
+      "name": "Marble fireplace",
+      "level": 63,
+      "experience": 0,
+      "object_id": [
+        6784,
+        6785
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8327
+      ]
+    },
+    {
+      "name": "Curtains",
+      "level": 18,
+      "experience": 0,
+      "object_id": [
+        40772
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8323
+      ]
+    },
+    {
+      "name": "Curtains",
+      "level": 18,
+      "experience": 0,
+      "object_id": [
+        6778
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8323
+      ]
+    },
+    {
+      "name": "Curtains",
+      "level": 18,
+      "experience": 0,
+      "object_id": [
+        6775
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8323
+      ]
+    },
+    {
+      "name": "Opulent curtains",
+      "level": 40,
+      "experience": 0,
+      "object_id": [
+        40773
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8324
+      ]
+    },
+    {
+      "name": "Opulent curtains",
+      "level": 40,
+      "experience": 0,
+      "object_id": [
+        6779
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8324
+      ]
+    },
+    {
+      "name": "Opulent curtains",
+      "level": 40,
+      "experience": 0,
+      "object_id": [
+        6776
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8324
+      ]
+    },
+    {
+      "name": "Oak bookcase",
+      "level": 29,
+      "experience": 0,
+      "object_id": [
+        6769
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8320
+      ]
+    },
+    {
+      "name": "Mahogany bookcase",
+      "level": 40,
+      "experience": 0,
+      "object_id": [
+        6770
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8321
+      ]
+    },
+    {
+      "name": "Oak wall decoration",
+      "level": 16,
+      "experience": 0,
+      "object_id": [
+        13798,
+        13799,
+        13800,
+        13801,
+        13802,
+        13803,
+        13804,
+        13805,
+        13806,
+        13807,
+        13808,
+        13809,
+        13810,
+        13811,
+        13812,
+        13813
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8102
+      ]
+    },
+    {
+      "name": "Teak wall decoration",
+      "level": 36,
+      "experience": 0,
+      "object_id": [
+        13814,
+        13815,
+        13816,
+        13817,
+        13818,
+        13819,
+        13820,
+        13821,
+        13822,
+        13823,
+        13824,
+        13825,
+        13826,
+        13827,
+        13828,
+        13829
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8103
+      ]
+    },
+    {
+      "name": "Gilded decoration",
+      "level": 56,
+      "experience": 0,
+      "object_id": [
+        13782,
+        13783,
+        13784,
+        13785,
+        13786,
+        13787,
+        13788,
+        13789,
+        13790,
+        13791,
+        13792,
+        13793,
+        13794,
+        13795,
+        13796,
+        13797
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8104
+      ]
+    },
+    {
+      "name": "Mahogany table",
+      "level": 52,
+      "experience": 0,
+      "object_id": [
+        13298
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8120
+      ]
+    },
+    {
+      "name": "Teak kitchen table",
+      "level": 52,
+      "experience": 0,
+      "object_id": [
+        13579
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8248
+      ]
+    },
+    {
+      "name": "Rope bell-pull",
+      "level": 26,
+      "experience": 0,
+      "object_id": [
+        13307
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8099
+      ]
+    },
+    {
+      "name": "Bell-pull",
+      "level": 37,
+      "experience": 0,
+      "object_id": [
+        13308
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8100
+      ]
+    },
+    {
+      "name": "Posh bell-pull",
+      "level": 60,
+      "experience": 0,
+      "object_id": [
+        13309
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8101
+      ]
+    },
+    {
+      "name": "Round shield (Construction)",
+      "level": 66,
+      "experience": 0,
+      "object_id": [
+        13749
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8105
+      ]
+    },
+    {
+      "name": "Round shield (Construction)",
+      "level": 66,
+      "experience": 0,
+      "object_id": [
+        13740
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8105
+      ]
+    },
+    {
+      "name": "Gazebo",
+      "level": 65,
+      "experience": 0,
+      "object_id": [
+        6748
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8192
+      ]
+    },
+    {
+      "name": "Small fountain",
+      "level": 71,
+      "experience": 0,
+      "object_id": [
+        6749
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8193
+      ]
+    },
+    {
+      "name": "Large fountain",
+      "level": 75,
+      "experience": 0,
+      "object_id": [
+        6750
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8194
+      ]
+    },
+    {
+      "name": "Posh fountain",
+      "level": 81,
+      "experience": 0,
+      "object_id": [
+        6751
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8195
+      ]
+    },
+    {
+      "name": "Crystal ball",
+      "level": 42,
+      "experience": 0,
+      "object_id": [
+        13659
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8351
+      ]
+    },
+    {
+      "name": "Fern (big plant)",
+      "level": 1,
+      "experience": 0,
+      "object_id": [
+        5128
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8186
+      ]
+    },
+    {
+      "name": "Decorative blood",
+      "level": 72,
+      "experience": 0,
+      "object_id": [
+        13312
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8125
+      ]
+    },
+    {
+      "name": "Oak door",
+      "level": 74,
+      "experience": 0,
+      "object_id": [
+        13344,
+        13345
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8122
+      ]
+    },
+    {
+      "name": "Oak shelves 1",
+      "level": 34,
+      "experience": 0,
+      "object_id": [
+        13555
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8226
+      ]
+    },
+    {
+      "name": "Oak shelves 1",
+      "level": 34,
+      "experience": 0,
+      "object_id": [
+        13548
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8226
+      ]
+    },
+    {
+      "name": "Oak shelves 2",
+      "level": 45,
+      "experience": 0,
+      "object_id": [
+        13549
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8227
+      ]
+    },
+    {
+      "name": "Oak shelves 2",
+      "level": 45,
+      "experience": 0,
+      "object_id": [
+        13556
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8227
+      ]
+    },
+    {
+      "name": "Teak shelves 1",
+      "level": 56,
+      "experience": 0,
+      "object_id": [
+        13550
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8228
+      ]
+    },
+    {
+      "name": "Teak shelves 1",
+      "level": 56,
+      "experience": 0,
+      "object_id": [
+        13557
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8228
+      ]
+    },
+    {
+      "name": "Skeleton guard",
+      "level": 70,
+      "experience": 0,
+      "object_id": [
+        13366
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8131
+      ]
+    },
+    {
+      "name": "Guard dog (Construction)",
+      "level": 74,
+      "experience": 0,
+      "object_id": [
+        13367
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8132
+      ]
+    },
+    {
+      "name": "Hobgoblin guard",
+      "level": 78,
+      "experience": 0,
+      "object_id": [
+        13368
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8133
+      ]
+    },
+    {
+      "name": "Firepit with hook",
+      "level": 11,
+      "experience": 0,
+      "object_id": [
+        13530
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8217
+      ]
+    },
+    {
+      "name": "Firepit with hook",
+      "level": 11,
+      "experience": 0,
+      "object_id": [
+        13529
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8217
+      ]
+    },
+    {
+      "name": "Firepit with pot",
+      "level": 17,
+      "experience": 0,
+      "object_id": [
+        13532
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8218
+      ]
+    },
+    {
+      "name": "Firepit with pot",
+      "level": 17,
+      "experience": 0,
+      "object_id": [
+        13531
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8218
+      ]
+    },
+    {
+      "name": "Small oven",
+      "level": 24,
+      "experience": 0,
+      "object_id": [
+        13533
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8219
+      ]
+    },
+    {
+      "name": "Small oven",
+      "level": 24,
+      "experience": 0,
+      "object_id": [
+        13535
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8219
+      ]
+    },
+    {
+      "name": "Small oven",
+      "level": 24,
+      "experience": 0,
+      "object_id": [
+        13534
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8219
+      ]
+    },
+    {
+      "name": "Large oven",
+      "level": 29,
+      "experience": 0,
+      "object_id": [
+        13536
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8220
+      ]
+    },
+    {
+      "name": "Large oven",
+      "level": 29,
+      "experience": 0,
+      "object_id": [
+        13538
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8220
+      ]
+    },
+    {
+      "name": "Large oven",
+      "level": 29,
+      "experience": 0,
+      "object_id": [
+        13537
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8220
+      ]
+    },
+    {
+      "name": "Steel range",
+      "level": 34,
+      "experience": 0,
+      "object_id": [
+        13539
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8221
+      ]
+    },
+    {
+      "name": "Steel range",
+      "level": 34,
+      "experience": 0,
+      "object_id": [
+        13541
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8221
+      ]
+    },
+    {
+      "name": "Steel range",
+      "level": 34,
+      "experience": 0,
+      "object_id": [
+        13540
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8221
+      ]
+    },
+    {
+      "name": "Fancy range",
+      "level": 42,
+      "experience": 0,
+      "object_id": [
+        13542
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8222
+      ]
+    },
+    {
+      "name": "Fancy range",
+      "level": 42,
+      "experience": 0,
+      "object_id": [
+        13544
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8222
+      ]
+    },
+    {
+      "name": "Fancy range",
+      "level": 42,
+      "experience": 0,
+      "object_id": [
+        13543
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8222
+      ]
+    },
+    {
+      "name": "Teak shelves 2",
+      "level": 67,
+      "experience": 0,
+      "object_id": [
+        13551
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8229
+      ]
+    },
+    {
+      "name": "Teak shelves 2",
+      "level": 67,
+      "experience": 0,
+      "object_id": [
+        13558
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8229
+      ]
+    },
+    {
+      "name": "Pump and tub",
+      "level": 27,
+      "experience": 0,
+      "object_id": [
+        13562
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8231
+      ]
+    },
+    {
+      "name": "Pump and tub",
+      "level": 27,
+      "experience": 0,
+      "object_id": [
+        13561
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8231
+      ]
+    },
+    {
+      "name": "Cat basket",
+      "level": 19,
+      "experience": 0,
+      "object_id": [
+        13575
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8237
+      ]
+    },
+    {
+      "name": "Cushioned basket",
+      "level": 33,
+      "experience": 0,
+      "object_id": [
+        13576
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8238
+      ]
+    },
+    {
+      "name": "Sunflower",
+      "level": 66,
+      "experience": 0,
+      "object_id": [
+        5146
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8213
+      ]
+    },
+    {
+      "name": "Sunflower",
+      "level": 66,
+      "experience": 0,
+      "object_id": [
+        5149
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8213
+      ]
+    },
+    {
+      "name": "Flame pit",
+      "level": 77,
+      "experience": 0,
+      "object_id": [
+        13337
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8304
+      ]
+    },
+    {
+      "name": "Marigolds (Construction)",
+      "level": 71,
+      "experience": 0,
+      "object_id": [
+        5150
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8214
+      ]
+    },
+    {
+      "name": "Marigolds (Construction)",
+      "level": 71,
+      "experience": 0,
+      "object_id": [
+        5147
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8214
+      ]
+    },
+    {
+      "name": "Roses",
+      "level": 76,
+      "experience": 0,
+      "object_id": [
+        5151
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8215
+      ]
+    },
+    {
+      "name": "Roses",
+      "level": 76,
+      "experience": 0,
+      "object_id": [
+        5148
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8215
+      ]
+    },
+    {
+      "name": "Daffodils",
+      "level": 71,
+      "experience": 0,
+      "object_id": [
+        5141
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8211
+      ]
+    },
+    {
+      "name": "Daffodils",
+      "level": 71,
+      "experience": 0,
+      "object_id": [
+        5144
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8211
+      ]
+    },
+    {
+      "name": "Bluebells",
+      "level": 76,
+      "experience": 0,
+      "object_id": [
+        5145
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8212
+      ]
+    },
+    {
+      "name": "Bluebells",
+      "level": 76,
+      "experience": 0,
+      "object_id": [
+        5142
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8212
+      ]
+    },
+    {
+      "name": "Rosemary (Construction)",
+      "level": 66,
+      "experience": 0,
+      "object_id": [
+        5143
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8210
+      ]
+    },
+    {
+      "name": "Rosemary (Construction)",
+      "level": 66,
+      "experience": 0,
+      "object_id": [
+        5140
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8210
+      ]
+    },
+    {
+      "name": "Thorny hedge",
+      "level": 56,
+      "experience": 0,
+      "object_id": [
+        6727,
+        6728,
+        6729
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8203
+      ]
+    },
+    {
+      "name": "Nice hedge",
+      "level": 60,
+      "experience": 0,
+      "object_id": [
+        6730,
+        6731,
+        6732
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8204
+      ]
+    },
+    {
+      "name": "Small box hedge",
+      "level": 64,
+      "experience": 0,
+      "object_id": [
+        6733,
+        6734,
+        6735
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8205
+      ]
+    },
+    {
+      "name": "Topiary hedge",
+      "level": 68,
+      "experience": 0,
+      "object_id": [
+        6736,
+        6737,
+        6738
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8206
+      ]
+    },
+    {
+      "name": "Oak bench",
+      "level": 22,
+      "experience": 0,
+      "object_id": [
+        13301
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8109
+      ]
+    },
+    {
+      "name": "Carved oak bench",
+      "level": 31,
+      "experience": 0,
+      "object_id": [
+        13302
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8110
+      ]
+    },
+    {
+      "name": "Teak dining bench",
+      "level": 38,
+      "experience": 0,
+      "object_id": [
+        13303,
+        26213,
+        26240
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8111
+      ]
+    },
+    {
+      "name": "Carved teak bench",
+      "level": 44,
+      "experience": 0,
+      "object_id": [
+        13304,
+        13694,
+        26214
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8112
+      ]
+    },
+    {
+      "name": "Mahogany bench",
+      "level": 52,
+      "experience": 0,
+      "object_id": [
+        13305,
+        13695
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8113
+      ]
+    },
+    {
+      "name": "Wooden fence",
+      "level": 59,
+      "experience": 0,
+      "object_id": [
+        5153
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8197
+      ]
+    },
+    {
+      "name": "Boundary stones",
+      "level": 55,
+      "experience": 0,
+      "object_id": [
+        5152
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8196
+      ]
+    },
+    {
+      "name": "Stone wall",
+      "level": 63,
+      "experience": 0,
+      "object_id": [
+        5154
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8198
+      ]
+    },
+    {
+      "name": "Iron railings",
+      "level": 67,
+      "experience": 0,
+      "object_id": [
+        5155
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8199
+      ]
+    },
+    {
+      "name": "Picket fence",
+      "level": 71,
+      "experience": 0,
+      "object_id": [
+        5631
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8200
+      ]
+    },
+    {
+      "name": "Garden fence",
+      "level": 75,
+      "experience": 0,
+      "object_id": [
+        5632
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8201
+      ]
+    },
+    {
+      "name": "Marble wall",
+      "level": 79,
+      "experience": 0,
+      "object_id": [
+        5907
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8202
+      ]
+    },
+    {
+      "name": "Oak drawers",
+      "level": 27,
+      "experience": 0,
+      "object_id": [
+        13156
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8039
+      ]
+    },
+    {
+      "name": "4-poster",
+      "level": 53,
+      "experience": 0,
+      "object_id": [
+        13153
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8036
+      ]
+    },
+    {
+      "name": "Teak staircase",
+      "level": 48,
+      "experience": 0,
+      "object_id": [
+        13499
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8252,
+        8253,
+        8254
+      ]
+    },
+    {
+      "name": "Limestone spiral staircase",
+      "level": 67,
+      "experience": 0,
+      "object_id": [
+        13503
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8258
+      ]
+    },
+    {
+      "name": "Marble staircase",
+      "level": 82,
+      "experience": 0,
+      "object_id": [
+        13501,
+        13502
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8255,
+        8256,
+        8257
+      ]
+    },
+    {
+      "name": "Marble spiral",
+      "level": 97,
+      "experience": 0,
+      "object_id": [
+        13505
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8259
+      ]
+    },
+    {
+      "name": "Anti-dragon shield (mounted)",
+      "level": 47,
+      "experience": 0,
+      "object_id": [
+        13522
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8282
+      ]
+    },
+    {
+      "name": "Rocnar",
+      "level": 83,
+      "experience": 0,
+      "object_id": [
+        13373
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8305
+      ]
+    },
+    {
+      "name": "Gilded 4-poster",
+      "level": 60,
+      "experience": 0,
+      "object_id": [
+        13154
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8037
+      ]
+    },
+    {
+      "name": "Fancy teak dresser",
+      "level": 56,
+      "experience": 0,
+      "object_id": [
+        13166
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8049
+      ]
+    },
+    {
+      "name": "Mahogany dresser",
+      "level": 64,
+      "experience": 0,
+      "object_id": [
+        13167
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8050
+      ]
+    },
+    {
+      "name": "Gilded dresser",
+      "level": 74,
+      "experience": 0,
+      "object_id": [
+        13168
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8051
+      ]
+    },
+    {
+      "name": "Teak clock",
+      "level": 55,
+      "experience": 0,
+      "object_id": [
+        13170
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8053
+      ]
+    },
+    {
+      "name": "Fancy hedge",
+      "level": 72,
+      "experience": 0,
+      "object_id": [
+        6739,
+        6740,
+        6741
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8207
+      ]
+    },
+    {
+      "name": "Tall fancy hedge",
+      "level": 76,
+      "experience": 0,
+      "object_id": [
+        6742,
+        6743,
+        6744
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8208
+      ]
+    },
+    {
+      "name": "Tall box hedge",
+      "level": 80,
+      "experience": 0,
+      "object_id": [
+        6745,
+        6746,
+        6747
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8209
+      ]
+    },
+    {
+      "name": "Gilded bench",
+      "level": 61,
+      "experience": 0,
+      "object_id": [
+        13306,
+        13696
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8114
+      ]
+    },
+    {
+      "name": "Oak throne",
+      "level": 60,
+      "experience": 0,
+      "object_id": [
+        13665
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8357
+      ]
+    },
+    {
+      "name": "Floor decoration",
+      "level": 61,
+      "experience": 0,
+      "object_id": [
+        13685
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8370
+      ]
+    },
+    {
+      "name": "Floor decoration",
+      "level": 61,
+      "experience": 0,
+      "object_id": [
+        13687
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8370
+      ]
+    },
+    {
+      "name": "Floor decoration",
+      "level": 61,
+      "experience": 0,
+      "object_id": [
+        13686
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8370
+      ]
+    },
+    {
+      "name": "Floor decoration",
+      "level": 61,
+      "experience": 0,
+      "object_id": [
+        13684
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8370
+      ]
+    },
+    {
+      "name": "Floor decoration",
+      "level": 61,
+      "experience": 0,
+      "object_id": [
+        13688
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8370
+      ]
+    },
+    {
+      "name": "Floor decoration",
+      "level": 61,
+      "experience": 0,
+      "object_id": [
+        27072
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8370
+      ]
+    },
+    {
+      "name": "Floor decoration",
+      "level": 61,
+      "experience": 0,
+      "object_id": [
+        13689
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8370
+      ]
+    },
+    {
+      "name": "Teak throne",
+      "level": 67,
+      "experience": 0,
+      "object_id": [
+        13666
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8358
+      ]
+    },
+    {
+      "name": "Mahogany throne",
+      "level": 74,
+      "experience": 0,
+      "object_id": [
+        13667
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8359
+      ]
+    },
+    {
+      "name": "Gilded throne",
+      "level": 81,
+      "experience": 0,
+      "object_id": [
+        13668
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8360
+      ]
+    },
+    {
+      "name": "Crystal throne",
+      "level": 95,
+      "experience": 0,
+      "object_id": [
+        13670
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8362
+      ]
+    },
+    {
+      "name": "Oak lever",
+      "level": 68,
+      "experience": 0,
+      "object_id": [
+        13674
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8364
+      ]
+    },
+    {
+      "name": "Teak lever",
+      "level": 78,
+      "experience": 0,
+      "object_id": [
+        13672
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8365
+      ]
+    },
+    {
+      "name": "Mahogany lever",
+      "level": 88,
+      "experience": 0,
+      "object_id": [
+        13673
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8366
+      ]
+    },
+    {
+      "name": "Steel cage",
+      "level": 68,
+      "experience": 0,
+      "object_id": [
+        13681
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8371
+      ]
+    },
+    {
+      "name": "Lesser magic cage",
+      "level": 82,
+      "experience": 0,
+      "object_id": [
+        13682
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8373
+      ]
+    },
+    {
+      "name": "Greater magic cage",
+      "level": 89,
+      "experience": 0,
+      "object_id": [
+        13683
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8374
+      ]
+    },
+    {
+      "name": "Oak chest",
+      "level": 79,
+      "experience": 0,
+      "object_id": [
+        13286
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8149
+      ]
+    },
+    {
+      "name": "Oak chest",
+      "level": 79,
+      "experience": 0,
+      "object_id": [
+        13285
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8149
+      ]
+    },
+    {
+      "name": "Teak chest",
+      "level": 83,
+      "experience": 0,
+      "object_id": [
+        13288
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8150
+      ]
+    },
+    {
+      "name": "Teak chest",
+      "level": 83,
+      "experience": 0,
+      "object_id": [
+        13287
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8150
+      ]
+    },
+    {
+      "name": "Mahogany chest",
+      "level": 87,
+      "experience": 0,
+      "object_id": [
+        13290
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8167
+      ]
+    },
+    {
+      "name": "Mahogany chest",
+      "level": 87,
+      "experience": 0,
+      "object_id": [
+        13289
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8167
+      ]
+    },
+    {
+      "name": "Magic chest",
+      "level": 91,
+      "experience": 0,
+      "object_id": [
+        13292
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8152
+      ]
+    },
+    {
+      "name": "Magic chest",
+      "level": 91,
+      "experience": 0,
+      "object_id": [
+        13291
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8152
+      ]
+    },
+    {
+      "name": "Steel-plated door",
+      "level": 84,
+      "experience": 0,
+      "object_id": [
+        13346,
+        13347
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8123
+      ]
+    },
+    {
+      "name": "Marble door",
+      "level": 94,
+      "experience": 0,
+      "object_id": [
+        13348,
+        13349
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8124
+      ]
+    },
+    {
+      "name": "Elena (portrait)",
+      "level": 35,
+      "experience": 0,
+      "object_id": [
+        13511
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8286
+      ]
+    },
+    {
+      "name": "Giant dwarf (portrait)",
+      "level": 35,
+      "experience": 0,
+      "object_id": [
+        13512
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8287
+      ]
+    },
+    {
+      "name": "Miscellanians (portrait)",
+      "level": 55,
+      "experience": 0,
+      "object_id": [
+        13513
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8288
+      ]
+    },
+    {
+      "name": "Lumbridge (painting)",
+      "level": 44,
+      "experience": 0,
+      "object_id": [
+        13517
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8289
+      ]
+    },
+    {
+      "name": "The desert (painting)",
+      "level": 44,
+      "experience": 0,
+      "object_id": [
+        13514
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8290
+      ]
+    },
+    {
+      "name": "Morytania (painting)",
+      "level": 44,
+      "experience": 0,
+      "object_id": [
+        13518
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8291
+      ]
+    },
+    {
+      "name": "Amulet of Glory (mounted)",
+      "level": 47,
+      "experience": 0,
+      "object_id": [
+        13523
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8283
+      ]
+    },
+    {
+      "name": "Karamja (painting)",
+      "level": 65,
+      "experience": 0,
+      "object_id": [
+        13516
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8292
+      ]
+    },
+    {
+      "name": "Small map",
+      "level": 38,
+      "experience": 0,
+      "object_id": [
+        13525
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8294
+      ]
+    },
+    {
+      "name": "Medium map",
+      "level": 58,
+      "experience": 0,
+      "object_id": [
+        13526
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8295
+      ]
+    },
+    {
+      "name": "Large map",
+      "level": 78,
+      "experience": 0,
+      "object_id": [
+        13527
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8296
+      ]
+    },
+    {
+      "name": "Silverlight (mounted)",
+      "level": 42,
+      "experience": 0,
+      "object_id": [
+        13519
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8279
+      ]
+    },
+    {
+      "name": "Excalibur (mounted)",
+      "level": 42,
+      "experience": 0,
+      "object_id": [
+        13521
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8280
+      ]
+    },
+    {
+      "name": "Darklight (mounted)",
+      "level": 42,
+      "experience": 0,
+      "object_id": [
+        13520
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8281
+      ]
+    },
+    {
+      "name": "Cape of legends (mounted)",
+      "level": 47,
+      "experience": 0,
+      "object_id": [
+        13524
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8284
+      ]
+    },
+    {
+      "name": "Mahogany altar",
+      "level": 60,
+      "experience": 0,
+      "object_id": [
+        40875
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8065
+      ]
+    },
+    {
+      "name": "Mahogany altar",
+      "level": 60,
+      "experience": 0,
+      "object_id": [
+        13188
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8065
+      ]
+    },
+    {
+      "name": "Mahogany altar",
+      "level": 60,
+      "experience": 0,
+      "object_id": [
+        13189
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8065
+      ]
+    },
+    {
+      "name": "Mahogany altar",
+      "level": 60,
+      "experience": 0,
+      "object_id": [
+        13190
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8065
+      ]
+    },
+    {
+      "name": "Limestone altar",
+      "level": 64,
+      "experience": 0,
+      "object_id": [
+        40876
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8066
+      ]
+    },
+    {
+      "name": "Limestone altar",
+      "level": 64,
+      "experience": 0,
+      "object_id": [
+        13191
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8066
+      ]
+    },
+    {
+      "name": "Limestone altar",
+      "level": 64,
+      "experience": 0,
+      "object_id": [
+        13192
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8066
+      ]
+    },
+    {
+      "name": "Limestone altar",
+      "level": 64,
+      "experience": 0,
+      "object_id": [
+        13193
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8066
+      ]
+    },
+    {
+      "name": "Gilded clock",
+      "level": 85,
+      "experience": 0,
+      "object_id": [
+        13171
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8054
+      ]
+    },
+    {
+      "name": "Mahogany treasure chest",
+      "level": 84,
+      "experience": 0,
+      "object_id": [
+        18809
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        9841
+      ]
+    },
+    {
+      "name": "Mahogany treasure chest",
+      "level": 84,
+      "experience": 0,
+      "object_id": [
+        18808
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        9841
+      ]
+    },
+    {
+      "name": "Teak drawers",
+      "level": 51,
+      "experience": 0,
+      "object_id": [
+        13158
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8041
+      ]
+    },
+    {
+      "name": "Teak wardrobe",
+      "level": 63,
+      "experience": 0,
+      "object_id": [
+        13159
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        9831
+      ]
+    },
+    {
+      "name": "Mahogany wardrobe",
+      "level": 75,
+      "experience": 0,
+      "object_id": [
+        13160
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8043
+      ]
+    },
+    {
+      "name": "Gilded wardrobe",
+      "level": 87,
+      "experience": 0,
+      "object_id": [
+        13161
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        9834
+      ]
+    },
+    {
+      "name": "Trapdoor",
+      "level": 74,
+      "experience": 0,
+      "object_id": [
+        6521,
+        40423
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8372
+      ]
+    },
+    {
+      "name": "Tentacle pool",
+      "level": 71,
+      "experience": 0,
+      "object_id": [
+        13331,
+        13332,
+        13333
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8303
+      ]
+    },
+    {
+      "name": "Spikes",
+      "level": 65,
+      "experience": 0,
+      "object_id": [
+        13334,
+        13335,
+        13336
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8302
+      ]
+    },
+    {
+      "name": "Oak cage",
+      "level": 65,
+      "experience": 0,
+      "object_id": [
+        13313,
+        13314,
+        13315
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8297
+      ]
+    },
+    {
+      "name": "Oak and steel cage",
+      "level": 70,
+      "experience": 0,
+      "object_id": [
+        13316,
+        13317,
+        13318
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8298
+      ]
+    },
+    {
+      "name": "Decorative pipe",
+      "level": 83,
+      "experience": 0,
+      "object_id": [
+        13311
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8126
+      ]
+    },
+    {
+      "name": "Hanging skeleton",
+      "level": 94,
+      "experience": 0,
+      "object_id": [
+        13310
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8127
+      ]
+    },
+    {
+      "name": "Tok-Xil (Construction)",
+      "level": 85,
+      "experience": 0,
+      "object_id": [
+        13377
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8140
+      ]
+    },
+    {
+      "name": "Teleport focus",
+      "level": 50,
+      "experience": 0,
+      "object_id": [
+        13640
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8331
+      ]
+    },
+    {
+      "name": "Oak cape rack",
+      "level": 54,
+      "experience": 0,
+      "object_id": [
+        18766
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        9817
+      ]
+    },
+    {
+      "name": "Teak cape rack",
+      "level": 63,
+      "experience": 0,
+      "object_id": [
+        18767
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        9818
+      ]
+    },
+    {
+      "name": "Mahogany cape rack",
+      "level": 72,
+      "experience": 0,
+      "object_id": [
+        18768
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        9819
+      ]
+    },
+    {
+      "name": "Gilded cape rack",
+      "level": 81,
+      "experience": 0,
+      "object_id": [
+        18769
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        9820
+      ]
+    },
+    {
+      "name": "Marble cape rack",
+      "level": 90,
+      "experience": 0,
+      "object_id": [
+        18770
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        9821
+      ]
+    },
+    {
+      "name": "Magical cape rack",
+      "level": 99,
+      "experience": 0,
+      "object_id": [
+        18771
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        9822
+      ]
+    },
+    {
+      "name": "Oak treasure chest",
+      "level": 48,
+      "experience": 0,
+      "object_id": [
+        18805
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        9839
+      ]
+    },
+    {
+      "name": "Oak treasure chest",
+      "level": 48,
+      "experience": 0,
+      "object_id": [
+        18804
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        9839
+      ]
+    },
+    {
+      "name": "Oak prize chest",
+      "level": 34,
+      "experience": 0,
+      "object_id": [
+        13384
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8165
+      ]
+    },
+    {
+      "name": "Oak prize chest",
+      "level": 34,
+      "experience": 0,
+      "object_id": [
+        13385
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8165
+      ]
+    },
+    {
+      "name": "Teak treasure chest",
+      "level": 66,
+      "experience": 0,
+      "object_id": [
+        18807
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        9840
+      ]
+    },
+    {
+      "name": "Teak treasure chest",
+      "level": 66,
+      "experience": 0,
+      "object_id": [
+        18806
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        9840
+      ]
+    },
+    {
+      "name": "Teak prize chest",
+      "level": 44,
+      "experience": 0,
+      "object_id": [
+        13386
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8166
+      ]
+    },
+    {
+      "name": "Teak prize chest",
+      "level": 44,
+      "experience": 0,
+      "object_id": [
+        13387
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8166
+      ]
+    },
+    {
+      "name": "Lunar globe",
+      "level": 59,
+      "experience": 0,
+      "object_id": [
+        13651
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8343
+      ]
+    },
+    {
+      "name": "Celestial globe",
+      "level": 68,
+      "experience": 0,
+      "object_id": [
+        13652
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8344
+      ]
+    },
+    {
+      "name": "Armillary sphere",
+      "level": 77,
+      "experience": 0,
+      "object_id": [
+        13653
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8345
+      ]
+    },
+    {
+      "name": "Small orrery",
+      "level": 86,
+      "experience": 0,
+      "object_id": [
+        13654
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8346
+      ]
+    },
+    {
+      "name": "Large orrery",
+      "level": 95,
+      "experience": 0,
+      "object_id": [
+        13655
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8347
+      ]
+    },
+    {
+      "name": "Steel torches",
+      "level": 45,
+      "experience": 0,
+      "object_id": [
+        13202
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8070
+      ]
+    },
+    {
+      "name": "Steel torches",
+      "level": 45,
+      "experience": 0,
+      "object_id": [
+        13203
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8070
+      ]
+    },
+    {
+      "name": "Wooden torches",
+      "level": 49,
+      "experience": 0,
+      "object_id": [
+        13200
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8069
+      ]
+    },
+    {
+      "name": "Wooden torches",
+      "level": 49,
+      "experience": 0,
+      "object_id": [
+        13201
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8069
+      ]
+    },
+    {
+      "name": "Steel candlesticks",
+      "level": 53,
+      "experience": 0,
+      "object_id": [
+        13204
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8071
+      ]
+    },
+    {
+      "name": "Steel candlesticks",
+      "level": 53,
+      "experience": 0,
+      "object_id": [
+        13205
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8071
+      ]
+    },
+    {
+      "name": "Gold candlesticks",
+      "level": 57,
+      "experience": 0,
+      "object_id": [
+        13206
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8072
+      ]
+    },
+    {
+      "name": "Gold candlesticks",
+      "level": 57,
+      "experience": 0,
+      "object_id": [
+        13207
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8072
+      ]
+    },
+    {
+      "name": "Guthix symbol",
+      "level": 48,
+      "experience": 0,
+      "object_id": [
+        13174
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8057
+      ]
+    },
+    {
+      "name": "Demon (Construction)",
+      "level": 75,
+      "experience": 0,
+      "object_id": [
+        13378
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8138
+      ]
+    },
+    {
+      "name": "Kalphite soldier (Construction)",
+      "level": 80,
+      "experience": 0,
+      "object_id": [
+        13374
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8139
+      ]
+    },
+    {
+      "name": "Steel dragon (Construction)",
+      "level": 95,
+      "experience": 0,
+      "object_id": [
+        13375
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8142
+      ]
+    },
+    {
+      "name": "Elemental sphere",
+      "level": 54,
+      "experience": 0,
+      "object_id": [
+        13660
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8352
+      ]
+    },
+    {
+      "name": "Crystal of power",
+      "level": 66,
+      "experience": 0,
+      "object_id": [
+        13661
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8353
+      ]
+    },
+    {
+      "name": "Treasure hunt",
+      "level": 49,
+      "experience": 0,
+      "object_id": [
+        13379,
+        13380
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8160
+      ]
+    },
+    {
+      "name": "Clay attack stone",
+      "level": 39,
+      "experience": 0,
+      "object_id": [
+        13392
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8153
+      ]
+    },
+    {
+      "name": "Limestone attack stone",
+      "level": 59,
+      "experience": 0,
+      "object_id": [
+        13393
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8154
+      ]
+    },
+    {
+      "name": "Marble attack stone",
+      "level": 79,
+      "experience": 0,
+      "object_id": [
+        13394
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8155
+      ]
+    },
+    {
+      "name": "Lesser magical balance",
+      "level": 37,
+      "experience": 0,
+      "object_id": [
+        13395
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8156
+      ]
+    },
+    {
+      "name": "Medium balance",
+      "level": 57,
+      "experience": 0,
+      "object_id": [
+        13396
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8157
+      ]
+    },
+    {
+      "name": "Jester",
+      "level": 39,
+      "experience": 0,
+      "object_id": [
+        13390,
+        13726
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8159
+      ]
+    },
+    {
+      "name": "Jester",
+      "level": 39,
+      "experience": 0,
+      "object_id": [
+        13391,
+        13727
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8159
+      ]
+    },
+    {
+      "name": "Oak telescope",
+      "level": 44,
+      "experience": 0,
+      "object_id": [
+        13656
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8348
+      ]
+    },
+    {
+      "name": "Teak telescope",
+      "level": 64,
+      "experience": 0,
+      "object_id": [
+        13657
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8349
+      ]
+    },
+    {
+      "name": "Mahogany telescope",
+      "level": 84,
+      "experience": 0,
+      "object_id": [
+        13658
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8350
+      ]
+    },
+    {
+      "name": "Greater magical balance",
+      "level": 77,
+      "experience": 0,
+      "object_id": [
+        13397
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8158
+      ]
+    },
+    {
+      "name": "Hangman",
+      "level": 59,
+      "experience": 0,
+      "object_id": [
+        13404
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8161
+      ]
+    },
+    {
+      "name": "Mahogany prize chest",
+      "level": 54,
+      "experience": 0,
+      "object_id": [
+        13388
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8151
+      ]
+    },
+    {
+      "name": "Mahogany prize chest",
+      "level": 54,
+      "experience": 0,
+      "object_id": [
+        13389
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8151
+      ]
+    },
+    {
+      "name": "Hoop and stick",
+      "level": 30,
+      "experience": 0,
+      "object_id": [
+        13398,
+        13399
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8162
+      ]
+    },
+    {
+      "name": "Archery target",
+      "level": 81,
+      "experience": 0,
+      "object_id": [
+        13402,
+        13403
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8164
+      ]
+    },
+    {
+      "name": "Dartboard",
+      "level": 54,
+      "experience": 0,
+      "object_id": [
+        13400
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8163
+      ]
+    },
+    {
+      "name": "Oak armour case",
+      "level": 46,
+      "experience": 0,
+      "object_id": [
+        18779
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        9826
+      ]
+    },
+    {
+      "name": "Oak armour case",
+      "level": 46,
+      "experience": 0,
+      "object_id": [
+        18778
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        9826
+      ]
+    },
+    {
+      "name": "Boxing ring",
+      "level": 32,
+      "experience": 0,
+      "object_id": [
+        13129,
+        13130,
+        13131,
+        13132
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8023
+      ]
+    },
+    {
+      "name": "Fencing ring",
+      "level": 41,
+      "experience": 0,
+      "object_id": [
+        13133,
+        13134,
+        13135,
+        13136
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8024
+      ]
+    },
+    {
+      "name": "Ranging pedestals",
+      "level": 71,
+      "experience": 0,
+      "object_id": [
+        13147
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8026
+      ]
+    },
+    {
+      "name": "Balance beam",
+      "level": 81,
+      "experience": 0,
+      "object_id": [
+        13142,
+        13143,
+        13144
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8027
+      ]
+    },
+    {
+      "name": "Glove rack",
+      "level": 34,
+      "experience": 0,
+      "object_id": [
+        13381
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8028
+      ]
+    },
+    {
+      "name": "Weapons rack",
+      "level": 44,
+      "experience": 0,
+      "object_id": [
+        13382
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8029
+      ]
+    },
+    {
+      "name": "Extra weapons rack",
+      "level": 54,
+      "experience": 0,
+      "object_id": [
+        13383
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8030
+      ]
+    },
+    {
+      "name": "Rune case 1",
+      "level": 0,
+      "experience": 0,
+      "object_id": [
+        13507
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8276
+      ]
+    },
+    {
+      "name": "Rune case 2",
+      "level": 0,
+      "experience": 0,
+      "object_id": [
+        13508
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8277
+      ]
+    },
+    {
+      "name": "Mithril armour (Construction)",
+      "level": 0,
+      "experience": 0,
+      "object_id": [
+        13491
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8270
+      ]
+    },
+    {
+      "name": "Adamantite armour (Construction)",
+      "level": 0,
+      "experience": 0,
+      "object_id": [
+        13492
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8271
+      ]
+    },
+    {
+      "name": "Runite armour (Construction)",
+      "level": 0,
+      "experience": 0,
+      "object_id": [
+        13493
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8272
+      ]
+    },
+    {
+      "name": "Alchemical chart",
+      "level": 43,
+      "experience": 0,
+      "object_id": [
+        13662
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8354
+      ]
+    },
+    {
+      "name": "Oak fancy dress box",
+      "level": 44,
+      "experience": 0,
+      "object_id": [
+        18773
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        9823
+      ]
+    },
+    {
+      "name": "Oak fancy dress box",
+      "level": 44,
+      "experience": 0,
+      "object_id": [
+        18772
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        9823
+      ]
+    },
+    {
+      "name": "Zamorak symbol",
+      "level": 48,
+      "experience": 0,
+      "object_id": [
+        13173
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8056
+      ]
+    },
+    {
+      "name": "Saradomin symbol",
+      "level": 48,
+      "experience": 0,
+      "object_id": [
+        13172
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8055
+      ]
+    },
+    {
+      "name": "Astronomical chart",
+      "level": 63,
+      "experience": 0,
+      "object_id": [
+        13663
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8355
+      ]
+    },
+    {
+      "name": "Infernal chart",
+      "level": 83,
+      "experience": 0,
+      "object_id": [
+        13664
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8356
+      ]
+    },
+    {
+      "name": "Skull torches",
+      "level": 94,
+      "experience": 0,
+      "object_id": [
+        13343
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8130
+      ]
+    },
+    {
+      "name": "Oak trapdoor",
+      "level": 68,
+      "experience": 0,
+      "object_id": [
+        13678
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8367
+      ]
+    },
+    {
+      "name": "Oak trapdoor",
+      "level": 68,
+      "experience": 0,
+      "object_id": [
+        13675
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8367
+      ]
+    },
+    {
+      "name": "Marble portal",
+      "level": 80,
+      "experience": 0,
+      "object_id": [
+        56074
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        30498
+      ]
+    },
+    {
+      "name": "Marble portal",
+      "level": 80,
+      "experience": 0,
+      "object_id": [
+        13638
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8330
+      ]
+    },
+    {
+      "name": "Mahogany portal",
+      "level": 65,
+      "experience": 0,
+      "object_id": [
+        13637
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8329
+      ]
+    },
+    {
+      "name": "Teak portal",
+      "level": 50,
+      "experience": 0,
+      "object_id": [
+        13636
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8328
+      ]
+    },
+    {
+      "name": "Bells",
+      "level": 58,
+      "experience": 0,
+      "object_id": [
+        13215
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8080
+      ]
+    },
+    {
+      "name": "Guthix icon",
+      "level": 59,
+      "experience": 0,
+      "object_id": [
+        13177
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8060
+      ]
+    },
+    {
+      "name": "Saradomin icon",
+      "level": 59,
+      "experience": 0,
+      "object_id": [
+        13175
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8058
+      ]
+    },
+    {
+      "name": "Zamorak icon",
+      "level": 59,
+      "experience": 0,
+      "object_id": [
+        13176
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8059
+      ]
+    },
+    {
+      "name": "Teak armour case",
+      "level": 64,
+      "experience": 0,
+      "object_id": [
+        18781
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        9827
+      ]
+    },
+    {
+      "name": "Teak armour case",
+      "level": 64,
+      "experience": 0,
+      "object_id": [
+        18780
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        9827
+      ]
+    },
+    {
+      "name": "Bob icon",
+      "level": 71,
+      "experience": 0,
+      "object_id": [
+        13178
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8061
+      ]
+    },
+    {
+      "name": "Mahogany armour case",
+      "level": 82,
+      "experience": 0,
+      "object_id": [
+        18783
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        9828
+      ]
+    },
+    {
+      "name": "Mahogany armour case",
+      "level": 82,
+      "experience": 0,
+      "object_id": [
+        18782
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        9828
+      ]
+    },
+    {
+      "name": "Oak magic wardrobe",
+      "level": 42,
+      "experience": 0,
+      "object_id": [
+        18785
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8040
+      ]
+    },
+    {
+      "name": "Oak magic wardrobe",
+      "level": 42,
+      "experience": 0,
+      "object_id": [
+        18784
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8040
+      ]
+    },
+    {
+      "name": "Oak toy box",
+      "level": 50,
+      "experience": 0,
+      "object_id": [
+        18799
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        9836
+      ]
+    },
+    {
+      "name": "Oak toy box",
+      "level": 50,
+      "experience": 0,
+      "object_id": [
+        18798
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        9836
+      ]
+    },
+    {
+      "name": "Teak trapdoor",
+      "level": 78,
+      "experience": 0,
+      "object_id": [
+        13679
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8368
+      ]
+    },
+    {
+      "name": "Teak trapdoor",
+      "level": 78,
+      "experience": 0,
+      "object_id": [
+        13676
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8368
+      ]
+    },
+    {
+      "name": "Carved oak magic wardrobe",
+      "level": 51,
+      "experience": 0,
+      "object_id": [
+        18787
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        9830
+      ]
+    },
+    {
+      "name": "Carved oak magic wardrobe",
+      "level": 51,
+      "experience": 0,
+      "object_id": [
+        18786
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        9830
+      ]
+    },
+    {
+      "name": "Mahogany trapdoor",
+      "level": 88,
+      "experience": 0,
+      "object_id": [
+        13680
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8369
+      ]
+    },
+    {
+      "name": "Mahogany trapdoor",
+      "level": 88,
+      "experience": 0,
+      "object_id": [
+        13677
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8369
+      ]
+    },
+    {
+      "name": "Square shield (Construction)",
+      "level": 76,
+      "experience": 0,
+      "object_id": [
+        13781
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8106
+      ]
+    },
+    {
+      "name": "Square shield (Construction)",
+      "level": 76,
+      "experience": 0,
+      "object_id": [
+        13772
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8106
+      ]
+    },
+    {
+      "name": "Kite shield (Construction)",
+      "level": 86,
+      "experience": 0,
+      "object_id": [
+        13765
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8107
+      ]
+    },
+    {
+      "name": "Kite shield (Construction)",
+      "level": 86,
+      "experience": 0,
+      "object_id": [
+        13756
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8107
+      ]
+    },
+    {
+      "name": "Teak magic wardrobe",
+      "level": 60,
+      "experience": 0,
+      "object_id": [
+        18789
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8042
+      ]
+    },
+    {
+      "name": "Teak magic wardrobe",
+      "level": 60,
+      "experience": 0,
+      "object_id": [
+        18788
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8042
+      ]
+    },
+    {
+      "name": "Carved teak magic wardrobe",
+      "level": 69,
+      "experience": 0,
+      "object_id": [
+        18791
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        9832
+      ]
+    },
+    {
+      "name": "Carved teak magic wardrobe",
+      "level": 69,
+      "experience": 0,
+      "object_id": [
+        18790
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        9832
+      ]
+    },
+    {
+      "name": "Mahogany magic wardrobe",
+      "level": 78,
+      "experience": 0,
+      "object_id": [
+        18793
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        9833
+      ]
+    },
+    {
+      "name": "Mahogany magic wardrobe",
+      "level": 78,
+      "experience": 0,
+      "object_id": [
+        18792
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        9833
+      ]
+    },
+    {
+      "name": "Gilded magic wardrobe",
+      "level": 87,
+      "experience": 0,
+      "object_id": [
+        19795
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8044
+      ]
+    },
+    {
+      "name": "Gilded magic wardrobe",
+      "level": 87,
+      "experience": 0,
+      "object_id": [
+        18794
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8044
+      ]
+    },
+    {
+      "name": "Marble magic wardrobe",
+      "level": 96,
+      "experience": 0,
+      "object_id": [
+        18797
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        9835
+      ]
+    },
+    {
+      "name": "Marble magic wardrobe",
+      "level": 96,
+      "experience": 0,
+      "object_id": [
+        18796
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        9835
+      ]
+    },
+    {
+      "name": "Teak toy box",
+      "level": 68,
+      "experience": 0,
+      "object_id": [
+        18801
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        9837
+      ]
+    },
+    {
+      "name": "Teak toy box",
+      "level": 68,
+      "experience": 0,
+      "object_id": [
+        18800
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        9837
+      ]
+    },
+    {
+      "name": "Mahogany toy box",
+      "level": 86,
+      "experience": 0,
+      "object_id": [
+        18803
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        9838
+      ]
+    },
+    {
+      "name": "Mahogany toy box",
+      "level": 86,
+      "experience": 0,
+      "object_id": [
+        18802
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        9838
+      ]
+    },
+    {
+      "name": "Troll (Construction)",
+      "level": 90,
+      "experience": 0,
+      "object_id": [
+        13369
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8136
+      ]
+    },
+    {
+      "name": "Teak fancy dress box",
+      "level": 62,
+      "experience": 0,
+      "object_id": [
+        18775
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        9824
+      ]
+    },
+    {
+      "name": "Teak fancy dress box",
+      "level": 62,
+      "experience": 0,
+      "object_id": [
+        18774
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        9824
+      ]
+    },
+    {
+      "name": "Mahogany fancy dress box",
+      "level": 80,
+      "experience": 0,
+      "object_id": [
+        18777
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        9825
+      ]
+    },
+    {
+      "name": "Mahogany fancy dress box",
+      "level": 80,
+      "experience": 0,
+      "object_id": [
+        18776
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        9825
+      ]
+    },
+    {
+      "name": "Steel cage (Oubliette)",
+      "level": 75,
+      "experience": 0,
+      "object_id": [
+        13319,
+        13320,
+        13321
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8299
+      ]
+    },
+    {
+      "name": "Spiked cage",
+      "level": 80,
+      "experience": 0,
+      "object_id": [
+        13322,
+        13323,
+        13324
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8300
+      ]
+    },
+    {
+      "name": "Bone cage",
+      "level": 85,
+      "experience": 0,
+      "object_id": [
+        13325,
+        13326,
+        13327
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8301
+      ]
+    },
+    {
+      "name": "Hellhound (Construction)",
+      "level": 94,
+      "experience": 0,
+      "object_id": [
+        2715
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8137
+      ]
+    },
+    {
+      "name": "Spike trap",
+      "level": 72,
+      "experience": 0,
+      "object_id": [
+        13356
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8143
+      ]
+    },
+    {
+      "name": "Man trap",
+      "level": 76,
+      "experience": 0,
+      "object_id": [
+        13357
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8144
+      ]
+    },
+    {
+      "name": "Tangle vine",
+      "level": 80,
+      "experience": 0,
+      "object_id": [
+        13358
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8145
+      ]
+    },
+    {
+      "name": "Marble trap",
+      "level": 84,
+      "experience": 0,
+      "object_id": [
+        13359
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8146
+      ]
+    },
+    {
+      "name": "Teleport trap",
+      "level": 88,
+      "experience": 0,
+      "object_id": [
+        13360
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8147
+      ]
+    },
+    {
+      "name": "Candles (Construction)",
+      "level": 72,
+      "experience": 0,
+      "object_id": [
+        13342
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8128
+      ]
+    },
+    {
+      "name": "Torches (Construction)",
+      "level": 84,
+      "experience": 0,
+      "object_id": [
+        13341
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8129
+      ]
+    },
+    {
+      "name": "Windchimes",
+      "level": 49,
+      "experience": 0,
+      "object_id": [
+        13214
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8079
+      ]
+    },
+    {
+      "name": "Decorative window",
+      "level": 69,
+      "experience": 0,
+      "object_id": [
+        57736,
+        57738,
+        57740,
+        57742,
+        57744,
+        57746,
+        57748,
+        57750,
+        57752,
+        57754,
+        57756,
+        57758
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8077
+      ]
+    },
+    {
+      "name": "Decorative window",
+      "level": 69,
+      "experience": 0,
+      "object_id": [
+        13224,
+        13233,
+        13242,
+        13251,
+        13260,
+        13269,
+        27080,
+        37453,
+        37461,
+        40856,
+        56095,
+        56106
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8077
+      ]
+    },
+    {
+      "name": "Decorative window",
+      "level": 69,
+      "experience": 0,
+      "object_id": [
+        40879,
+        40881,
+        40883,
+        40885,
+        40899,
+        40901,
+        40903,
+        40909,
+        40911,
+        40913,
+        56097,
+        56108
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8077
+      ]
+    },
+    {
+      "name": "Decorative window",
+      "level": 69,
+      "experience": 0,
+      "object_id": [
+        13222,
+        13231,
+        13240,
+        13249,
+        13258,
+        13267,
+        27078,
+        37451,
+        37459,
+        40854,
+        56093,
+        56104
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8077
+      ]
+    },
+    {
+      "name": "Decorative window",
+      "level": 69,
+      "experience": 0,
+      "object_id": [
+        13220,
+        13229,
+        13238,
+        13247,
+        13256,
+        13265,
+        27076,
+        37448,
+        37450,
+        40852,
+        56091,
+        56102
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8077
+      ]
+    },
+    {
+      "name": "Decorative window",
+      "level": 69,
+      "experience": 0,
+      "object_id": [
+        13218,
+        13227,
+        13236,
+        13245,
+        13254,
+        13263,
+        27074,
+        37442,
+        37446,
+        40850,
+        56089,
+        56100
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8077
+      ]
+    },
+    {
+      "name": "Stained glass",
+      "level": 89,
+      "experience": 0,
+      "object_id": [
+        57737,
+        57739,
+        57741,
+        57743,
+        57745,
+        57747,
+        57749,
+        57751,
+        57753,
+        57755,
+        57757,
+        57759
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8078
+      ]
+    },
+    {
+      "name": "Stained glass",
+      "level": 89,
+      "experience": 0,
+      "object_id": [
+        13225,
+        13234,
+        13243,
+        13252,
+        13261,
+        13270,
+        27081,
+        37454,
+        37462,
+        40857,
+        56096,
+        56107
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8078
+      ]
+    },
+    {
+      "name": "Stained glass",
+      "level": 89,
+      "experience": 0,
+      "object_id": [
+        40880,
+        40882,
+        40884,
+        40886,
+        40900,
+        40902,
+        40904,
+        40910,
+        40912,
+        40914,
+        56098,
+        56109
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8078
+      ]
+    },
+    {
+      "name": "Stained glass",
+      "level": 89,
+      "experience": 0,
+      "object_id": [
+        13223,
+        13232,
+        13241,
+        13250,
+        13259,
+        13268,
+        27079,
+        37452,
+        37460,
+        40855,
+        56094,
+        56105
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8078
+      ]
+    },
+    {
+      "name": "Stained glass",
+      "level": 89,
+      "experience": 0,
+      "object_id": [
+        13221,
+        13230,
+        13239,
+        13248,
+        13257,
+        13266,
+        27077,
+        37449,
+        37458,
+        40853,
+        56092,
+        56103
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8078
+      ]
+    },
+    {
+      "name": "Stained glass",
+      "level": 89,
+      "experience": 0,
+      "object_id": [
+        13219,
+        13228,
+        13237,
+        13246,
+        13255,
+        13264,
+        27075,
+        37443,
+        37447,
+        40851,
+        56090,
+        56101
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8078
+      ]
+    },
+    {
+      "name": "Small statue",
+      "level": 49,
+      "experience": 0,
+      "object_id": [
+        13277
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8082
+      ]
+    },
+    {
+      "name": "Small statue",
+      "level": 49,
+      "experience": 0,
+      "object_id": [
+        40915
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8082
+      ]
+    },
+    {
+      "name": "Small statue",
+      "level": 49,
+      "experience": 0,
+      "object_id": [
+        13271
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8082
+      ]
+    },
+    {
+      "name": "Small statue",
+      "level": 49,
+      "experience": 0,
+      "object_id": [
+        13274
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8082
+      ]
+    },
+    {
+      "name": "Small statue",
+      "level": 49,
+      "experience": 0,
+      "object_id": [
+        13280
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8082
+      ]
+    },
+    {
+      "name": "Medium statue",
+      "level": 69,
+      "experience": 0,
+      "object_id": [
+        13278
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8083
+      ]
+    },
+    {
+      "name": "Medium statue",
+      "level": 69,
+      "experience": 0,
+      "object_id": [
+        40916
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8083
+      ]
+    },
+    {
+      "name": "Medium statue",
+      "level": 69,
+      "experience": 0,
+      "object_id": [
+        13272
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8083
+      ]
+    },
+    {
+      "name": "Medium statue",
+      "level": 69,
+      "experience": 0,
+      "object_id": [
+        13275
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8083
+      ]
+    },
+    {
+      "name": "Medium statue",
+      "level": 69,
+      "experience": 0,
+      "object_id": [
+        13281
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8083
+      ]
+    },
+    {
+      "name": "Large statue",
+      "level": 89,
+      "experience": 0,
+      "object_id": [
+        13279
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8084
+      ]
+    },
+    {
+      "name": "Large statue",
+      "level": 89,
+      "experience": 0,
+      "object_id": [
+        40917
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8084
+      ]
+    },
+    {
+      "name": "Large statue",
+      "level": 89,
+      "experience": 0,
+      "object_id": [
+        13273
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8084
+      ]
+    },
+    {
+      "name": "Large statue",
+      "level": 89,
+      "experience": 0,
+      "object_id": [
+        13276
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8084
+      ]
+    },
+    {
+      "name": "Large statue",
+      "level": 89,
+      "experience": 0,
+      "object_id": [
+        13282
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8084
+      ]
+    },
+    {
+      "name": "Cw armour 1",
+      "level": 28,
+      "experience": 0,
+      "object_id": [
+        13494
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8273
+      ]
+    },
+    {
+      "name": "Cw armour 2",
+      "level": 28,
+      "experience": 0,
+      "object_id": [
+        13495
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8274
+      ]
+    },
+    {
+      "name": "Cw armour 3",
+      "level": 28,
+      "experience": 0,
+      "object_id": [
+        13496
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8275
+      ]
+    },
+    {
+      "name": "Oak ladder",
+      "level": 68,
+      "experience": 0,
+      "object_id": [
+        13328
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8306
+      ]
+    },
+    {
+      "name": "Teak ladder",
+      "level": 78,
+      "experience": 0,
+      "object_id": [
+        13329
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8307
+      ]
+    },
+    {
+      "name": "Mahogany ladder",
+      "level": 88,
+      "experience": 0,
+      "object_id": [
+        13330
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8308
+      ]
+    },
+    {
+      "name": "Incense burner (Mahogany)",
+      "level": 65,
+      "experience": 0,
+      "object_id": [
+        13210
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8074
+      ]
+    },
+    {
+      "name": "Incense burner (Mahogany)",
+      "level": 65,
+      "experience": 0,
+      "object_id": [
+        13211
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8074
+      ]
+    },
+    {
+      "name": "Tip jar",
+      "level": 40,
+      "experience": 0,
+      "object_id": [
+        29146
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        20634
+      ]
+    },
+    {
+      "name": "Ancient altar",
+      "level": 80,
+      "experience": 0,
+      "object_id": [
+        29147
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        20617
+      ]
+    },
+    {
+      "name": "Lunar altar",
+      "level": 80,
+      "experience": 0,
+      "object_id": [
+        29148
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        20618
+      ]
+    },
+    {
+      "name": "Dark altar (Construction)",
+      "level": 80,
+      "experience": 0,
+      "object_id": [
+        29149
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        20619
+      ]
+    },
+    {
+      "name": "Occult altar",
+      "level": 90,
+      "experience": 0,
+      "object_id": [
+        31858,
+        31859,
+        31860,
+        31861
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        20620,
+        20621,
+        20622
+      ]
+    },
+    {
+      "name": "Mahogany adventure log",
+      "level": 83,
+      "experience": 0,
+      "object_id": [
+        29151
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        20623
+      ]
+    },
+    {
+      "name": "Gilded adventure log",
+      "level": 88,
+      "experience": 0,
+      "object_id": [
+        29152
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        20624
+      ]
+    },
+    {
+      "name": "Marble adventure log",
+      "level": 93,
+      "experience": 0,
+      "object_id": [
+        29153
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        20625
+      ]
+    },
+    {
+      "name": "Basic jewellery box",
+      "level": 81,
+      "experience": 0,
+      "object_id": [
+        37492,
+        37493,
+        37494,
+        37495,
+        37496,
+        37497,
+        37498,
+        37499,
+        37500,
+        50710
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        20626
+      ]
+    },
+    {
+      "name": "Fancy jewellery box",
+      "level": 86,
+      "experience": 0,
+      "object_id": [
+        37501,
+        37502,
+        37503,
+        37504,
+        37505,
+        37506,
+        37507,
+        37508,
+        37509,
+        37510,
+        37511,
+        37512,
+        37513,
+        37514,
+        37515,
+        37516,
+        37517,
+        37518,
+        37519,
+        50711
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        20627
+      ]
+    },
+    {
+      "name": "Ornate jewellery box",
+      "level": 91,
+      "experience": 0,
+      "object_id": [
+        37520,
+        37521,
+        37522,
+        37523,
+        37524,
+        37525,
+        37526,
+        37527,
+        37528,
+        37529,
+        37530,
+        37531,
+        37532,
+        37533,
+        37534,
+        37535,
+        37536,
+        37537,
+        37538,
+        37539,
+        37540,
+        37541,
+        37542,
+        37543,
+        37544,
+        37545,
+        37546,
+        50712
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        20628
+      ]
+    },
+    {
+      "name": "Boss lair display",
+      "level": 87,
+      "experience": 0,
+      "object_id": [
+        29157
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        20629
+      ]
+    },
+    {
+      "name": "Mounted emblem",
+      "level": 80,
+      "experience": 0,
+      "object_id": [
+        29164
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        20630
+      ]
+    },
+    {
+      "name": "Mounted coins",
+      "level": 80,
+      "experience": 0,
+      "object_id": [
+        29165
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        20631
+      ]
+    },
+    {
+      "name": "Cape hanger",
+      "level": 80,
+      "experience": 0,
+      "object_id": [
+        29166
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        20632
+      ]
+    },
+    {
+      "name": "Spirit tree (Construction)",
+      "level": 0,
+      "experience": 0,
+      "object_id": [
+        40778
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        30495
+      ]
+    },
+    {
+      "name": "Spirit tree (Construction)",
+      "level": 0,
+      "experience": 0,
+      "object_id": [
+        44936
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        30496
+      ]
+    },
+    {
+      "name": "Spirit tree (Construction)",
+      "level": 0,
+      "experience": 0,
+      "object_id": [
+        29227
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        20635
+      ]
+    },
+    {
+      "name": "Fairy ring (Construction)",
+      "level": 85,
+      "experience": 0,
+      "object_id": [
+        29228
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        20636
+      ]
+    },
+    {
+      "name": "Spirit tree & fairy ring",
+      "level": 0,
+      "experience": 0,
+      "object_id": [
+        40779
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        30495
+      ]
+    },
+    {
+      "name": "Spirit tree & fairy ring",
+      "level": 0,
+      "experience": 0,
+      "object_id": [
+        27097
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        30500
+      ]
+    },
+    {
+      "name": "Spirit tree & fairy ring",
+      "level": 0,
+      "experience": 0,
+      "object_id": [
+        29229
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        20637
+      ]
+    },
+    {
+      "name": "Topiary bush",
+      "level": 65,
+      "experience": 0,
+      "object_id": [
+        29234
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        20638
+      ]
+    },
+    {
+      "name": "Topiary bush",
+      "level": 65,
+      "experience": 0,
+      "object_id": [
+        29236
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        20638
+      ]
+    },
+    {
+      "name": "Topiary bush",
+      "level": 65,
+      "experience": 0,
+      "object_id": [
+        34654
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        20638
+      ]
+    },
+    {
+      "name": "Topiary bush",
+      "level": 65,
+      "experience": 0,
+      "object_id": [
+        29230
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        20638
+      ]
+    },
+    {
+      "name": "Topiary bush",
+      "level": 65,
+      "experience": 0,
+      "object_id": [
+        29233
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        20638
+      ]
+    },
+    {
+      "name": "Topiary bush",
+      "level": 65,
+      "experience": 0,
+      "object_id": [
+        29231
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        20638
+      ]
+    },
+    {
+      "name": "Topiary bush",
+      "level": 65,
+      "experience": 0,
+      "object_id": [
+        37630
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        20638
+      ]
+    },
+    {
+      "name": "Topiary bush",
+      "level": 65,
+      "experience": 0,
+      "object_id": [
+        29232
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        20638
+      ]
+    },
+    {
+      "name": "Topiary bush",
+      "level": 65,
+      "experience": 0,
+      "object_id": [
+        29235
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        20638
+      ]
+    },
+    {
+      "name": "Topiary bush",
+      "level": 65,
+      "experience": 0,
+      "object_id": [
+        31985
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        20638
+      ]
+    },
+    {
+      "name": "Restoration pool",
+      "level": 65,
+      "experience": 0,
+      "object_id": [
+        40844
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        20639
+      ]
+    },
+    {
+      "name": "Restoration pool",
+      "level": 65,
+      "experience": 0,
+      "object_id": [
+        29237
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        20639
+      ]
+    },
+    {
+      "name": "Revitalisation pool",
+      "level": 70,
+      "experience": 0,
+      "object_id": [
+        40845
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        20640
+      ]
+    },
+    {
+      "name": "Revitalisation pool",
+      "level": 70,
+      "experience": 0,
+      "object_id": [
+        29238
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        20640
+      ]
+    },
+    {
+      "name": "Rejuvenation pool",
+      "level": 80,
+      "experience": 0,
+      "object_id": [
+        40846
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        20641
+      ]
+    },
+    {
+      "name": "Rejuvenation pool",
+      "level": 80,
+      "experience": 0,
+      "object_id": [
+        29239
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        20641
+      ]
+    },
+    {
+      "name": "Fancy rejuvenation pool",
+      "level": 85,
+      "experience": 0,
+      "object_id": [
+        40847
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        20642
+      ]
+    },
+    {
+      "name": "Fancy rejuvenation pool",
+      "level": 85,
+      "experience": 0,
+      "object_id": [
+        29240
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        20642
+      ]
+    },
+    {
+      "name": "Ornate rejuvenation pool",
+      "level": 90,
+      "experience": 0,
+      "object_id": [
+        49993
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        20643
+      ]
+    },
+    {
+      "name": "Ornate rejuvenation pool",
+      "level": 90,
+      "experience": 0,
+      "object_id": [
+        40848
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        20643
+      ]
+    },
+    {
+      "name": "Ornate rejuvenation pool",
+      "level": 90,
+      "experience": 0,
+      "object_id": [
+        29241
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        20643
+      ]
+    },
+    {
+      "name": "Zen theme",
+      "level": 65,
+      "experience": 0,
+      "object_id": [
+        29247
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        20644
+      ]
+    },
+    {
+      "name": "Otherworldly theme",
+      "level": 75,
+      "experience": 0,
+      "object_id": [
+        29253
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        20645
+      ]
+    },
+    {
+      "name": "Volcanic theme",
+      "level": 85,
+      "experience": 0,
+      "object_id": [
+        29261
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        20646
+      ]
+    },
+    {
+      "name": "Redwood fence",
+      "level": 75,
+      "experience": 0,
+      "object_id": [
+        29262
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        20647
+      ]
+    },
+    {
+      "name": "Obsidian fence",
+      "level": 83,
+      "experience": 0,
+      "object_id": [
+        29267
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        20648
+      ]
+    },
+    {
+      "name": "Teak garden bench",
+      "level": 66,
+      "experience": 0,
+      "object_id": [
+        29111,
+        29112,
+        29270,
+        29271
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        20649
+      ]
+    },
+    {
+      "name": "Gnome bench",
+      "level": 77,
+      "experience": 0,
+      "object_id": [
+        29272,
+        29273
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        20650
+      ]
+    },
+    {
+      "name": "Marble decorative bench",
+      "level": 88,
+      "experience": 0,
+      "object_id": [
+        29274,
+        29275
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        20651
+      ]
+    },
+    {
+      "name": "Obsidian decorative bench",
+      "level": 98,
+      "experience": 0,
+      "object_id": [
+        29276,
+        29277
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        20652
+      ]
+    },
+    {
+      "name": "Combat dummy",
+      "level": 48,
+      "experience": 0,
+      "object_id": [
+        29336
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        20745
+      ]
+    },
+    {
+      "name": "Undead combat dummy",
+      "level": 53,
+      "experience": 0,
+      "object_id": [
+        29337
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        20746
+      ]
+    },
+    {
+      "name": "Rune case 3",
+      "level": 0,
+      "experience": 0,
+      "object_id": [
+        13509
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8278
+      ]
+    },
+    {
+      "name": "Small storage unit",
+      "level": 30,
+      "experience": 0,
+      "object_id": [
+        29770
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        21037
+      ]
+    },
+    {
+      "name": "Medium storage unit",
+      "level": 60,
+      "experience": 0,
+      "object_id": [
+        29779
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        21038,
+        21040
+      ]
+    },
+    {
+      "name": "Large storage unit",
+      "level": 90,
+      "experience": 0,
+      "object_id": [
+        29780
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        21039,
+        21041,
+        21042
+      ]
+    },
+    {
+      "name": "Servant's money bag",
+      "level": 58,
+      "experience": 0,
+      "object_id": [
+        28859
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        21213
+      ]
+    },
+    {
+      "name": "Obelisk (Construction)",
+      "level": 80,
+      "experience": 0,
+      "object_id": [
+        31554
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        21788
+      ]
+    },
+    {
+      "name": "Mythical cape (mounted)",
+      "level": 47,
+      "experience": 0,
+      "object_id": [
+        31986
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        21913
+      ]
+    },
+    {
+      "name": "Rune dragon (Construction)",
+      "level": 99,
+      "experience": 0,
+      "object_id": [
+        31984
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        21911
+      ]
+    },
+    {
+      "name": "Marble portal nexus",
+      "level": 72,
+      "experience": 0,
+      "object_id": [
+        33408
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        22705
+      ]
+    },
+    {
+      "name": "Gilded portal nexus",
+      "level": 82,
+      "experience": 0,
+      "object_id": [
+        33409
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        22706
+      ]
+    },
+    {
+      "name": "Crystalline portal nexus",
+      "level": 92,
+      "experience": 0,
+      "object_id": [
+        56075
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        30497
+      ]
+    },
+    {
+      "name": "Crystalline portal nexus",
+      "level": 92,
+      "experience": 0,
+      "object_id": [
+        33410
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        22707
+      ]
+    },
+    {
+      "name": "Mounted xeric's talisman",
+      "level": 72,
+      "experience": 0,
+      "object_id": [
+        33411,
+        33412,
+        33413,
+        33414,
+        33415,
+        33419
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        22708
+      ]
+    },
+    {
+      "name": "Mounted digsite pendant",
+      "level": 82,
+      "experience": 0,
+      "object_id": [
+        33416,
+        33417,
+        33418,
+        33420
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        22709
+      ]
+    },
+    {
+      "name": "Marble lectern",
+      "level": 77,
+      "experience": 0,
+      "object_id": [
+        37349
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        24132
+      ]
+    },
+    {
+      "name": "Spice rack",
+      "level": 60,
+      "experience": 0,
+      "object_id": [
+        37621
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        24479
+      ]
+    },
+    {
+      "name": "Baby red dragon (Construction)",
+      "level": 82,
+      "experience": 0,
+      "object_id": [
+        13372
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        8134
+      ]
+    },
+    {
+      "name": "Old man's coffin (Construction)",
+      "level": 35,
+      "experience": 0,
+      "object_id": [
+        33264,
+        33265
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        22588
+      ]
+    },
+    {
+      "name": "Massive storage unit",
+      "level": 99,
+      "experience": 0,
+      "object_id": [
+        37978
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        24660,
+        24661,
+        24662,
+        24663
+      ]
+    },
+    {
+      "name": "Wooden cabinet",
+      "level": 1,
+      "experience": 0,
+      "object_id": [
+        39900,
+        39906
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        24898
+      ]
+    },
+    {
+      "name": "Oak cabinet",
+      "level": 20,
+      "experience": 0,
+      "object_id": [
+        39901,
+        39907
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        24899
+      ]
+    },
+    {
+      "name": "Teak cabinet",
+      "level": 50,
+      "experience": 0,
+      "object_id": [
+        39902,
+        39908
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        24900
+      ]
+    },
+    {
+      "name": "Mahogany cabinet",
+      "level": 70,
+      "experience": 0,
+      "object_id": [
+        39903,
+        39909
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        24901
+      ]
+    },
+    {
+      "name": "Wooden bookcase (Mahogany Homes)",
+      "level": 1,
+      "experience": 0,
+      "object_id": [
+        39912
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        24902
+      ]
+    },
+    {
+      "name": "Wooden bookcase (Mahogany Homes)",
+      "level": 1,
+      "experience": 0,
+      "object_id": [
+        40135
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        24902
+      ]
+    },
+    {
+      "name": "Oak bookcase (Mahogany Homes)",
+      "level": 20,
+      "experience": 0,
+      "object_id": [
+        39913
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        24903
+      ]
+    },
+    {
+      "name": "Oak bookcase (Mahogany Homes)",
+      "level": 20,
+      "experience": 0,
+      "object_id": [
+        40136
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        24903
+      ]
+    },
+    {
+      "name": "Teak bookcase (Mahogany Homes)",
+      "level": 50,
+      "experience": 0,
+      "object_id": [
+        39914
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        24904
+      ]
+    },
+    {
+      "name": "Teak bookcase (Mahogany Homes)",
+      "level": 50,
+      "experience": 0,
+      "object_id": [
+        40137
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        24904
+      ]
+    },
+    {
+      "name": "Mahogany bookcase (Mahogany Homes)",
+      "level": 70,
+      "experience": 0,
+      "object_id": [
+        39915
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        24905
+      ]
+    },
+    {
+      "name": "Mahogany bookcase (Mahogany Homes)",
+      "level": 70,
+      "experience": 0,
+      "object_id": [
+        40138
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        24905
+      ]
+    },
+    {
+      "name": "Wooden cupboard",
+      "level": 1,
+      "experience": 0,
+      "object_id": [
+        40038,
+        40116
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        24934
+      ]
+    },
+    {
+      "name": "Oak cupboard",
+      "level": 20,
+      "experience": 0,
+      "object_id": [
+        40039,
+        40117
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        24935
+      ]
+    },
+    {
+      "name": "Teak cupboard",
+      "level": 50,
+      "experience": 0,
+      "object_id": [
+        40040,
+        40118
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        24936
+      ]
+    },
+    {
+      "name": "Mahogany cupboard",
+      "level": 70,
+      "experience": 0,
+      "object_id": [
+        40041,
+        40119
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        24937
+      ]
+    },
+    {
+      "name": "Wooden bed (Mahogany Homes)",
+      "level": 1,
+      "experience": 0,
+      "object_id": [
+        40051
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        24922
+      ]
+    },
+    {
+      "name": "Wooden bed (Mahogany Homes)",
+      "level": 1,
+      "experience": 0,
+      "object_id": [
+        40194
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        24922
+      ]
+    },
+    {
+      "name": "Wooden bed (Mahogany Homes)",
+      "level": 1,
+      "experience": 0,
+      "object_id": [
+        40129
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        24922
+      ]
+    },
+    {
+      "name": "Wooden bed (Mahogany Homes)",
+      "level": 1,
+      "experience": 0,
+      "object_id": [
+        39943
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        24922
+      ]
+    },
+    {
+      "name": "Wooden bed (Mahogany Homes)",
+      "level": 1,
+      "experience": 0,
+      "object_id": [
+        40201
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        24922
+      ]
+    },
+    {
+      "name": "Oak bed (Mahogany Homes)",
+      "level": 20,
+      "experience": 0,
+      "object_id": [
+        40052
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        24923
+      ]
+    },
+    {
+      "name": "Oak bed (Mahogany Homes)",
+      "level": 20,
+      "experience": 0,
+      "object_id": [
+        40195
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        24923
+      ]
+    },
+    {
+      "name": "Oak bed (Mahogany Homes)",
+      "level": 20,
+      "experience": 0,
+      "object_id": [
+        40130
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        24923
+      ]
+    },
+    {
+      "name": "Oak bed (Mahogany Homes)",
+      "level": 20,
+      "experience": 0,
+      "object_id": [
+        39944
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        24923
+      ]
+    },
+    {
+      "name": "Oak bed (Mahogany Homes)",
+      "level": 20,
+      "experience": 0,
+      "object_id": [
+        40202
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        24923
+      ]
+    },
+    {
+      "name": "Teak bed (Mahogany Homes)",
+      "level": 50,
+      "experience": 0,
+      "object_id": [
+        40053
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        24924
+      ]
+    },
+    {
+      "name": "Teak bed (Mahogany Homes)",
+      "level": 50,
+      "experience": 0,
+      "object_id": [
+        40196
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        24924
+      ]
+    },
+    {
+      "name": "Teak bed (Mahogany Homes)",
+      "level": 50,
+      "experience": 0,
+      "object_id": [
+        40131
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        24924
+      ]
+    },
+    {
+      "name": "Teak bed (Mahogany Homes)",
+      "level": 50,
+      "experience": 0,
+      "object_id": [
+        39945
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        24924
+      ]
+    },
+    {
+      "name": "Teak bed (Mahogany Homes)",
+      "level": 50,
+      "experience": 0,
+      "object_id": [
+        40203
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        24924
+      ]
+    },
+    {
+      "name": "Mahogany bed (Mahogany Homes)",
+      "level": 70,
+      "experience": 0,
+      "object_id": [
+        40054
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        24925
+      ]
+    },
+    {
+      "name": "Mahogany bed (Mahogany Homes)",
+      "level": 70,
+      "experience": 0,
+      "object_id": [
+        40197
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        24925
+      ]
+    },
+    {
+      "name": "Mahogany bed (Mahogany Homes)",
+      "level": 70,
+      "experience": 0,
+      "object_id": [
+        40132
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        24925
+      ]
+    },
+    {
+      "name": "Mahogany bed (Mahogany Homes)",
+      "level": 70,
+      "experience": 0,
+      "object_id": [
+        39946
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        24925
+      ]
+    },
+    {
+      "name": "Mahogany bed (Mahogany Homes)",
+      "level": 70,
+      "experience": 0,
+      "object_id": [
+        40204
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        24925
+      ]
+    },
+    {
+      "name": "Wooden drawers (Mahogany Homes)",
+      "level": 1,
+      "experience": 0,
+      "object_id": [
+        39924,
+        40057,
+        40144,
+        40152,
+        40188
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        24926
+      ]
+    },
+    {
+      "name": "Oak drawers (Mahogany Homes)",
+      "level": 20,
+      "experience": 0,
+      "object_id": [
+        39925,
+        40058,
+        40145,
+        40153,
+        40189
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        24927
+      ]
+    },
+    {
+      "name": "Teak drawers (Mahogany Homes)",
+      "level": 50,
+      "experience": 0,
+      "object_id": [
+        39926,
+        40059,
+        40146,
+        40154,
+        40190
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        24928
+      ]
+    },
+    {
+      "name": "Mahogany drawers (Mahogany Homes)",
+      "level": 70,
+      "experience": 0,
+      "object_id": [
+        39927,
+        40060,
+        40147,
+        40155,
+        40185,
+        40191
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        24929
+      ]
+    },
+    {
+      "name": "Wooden wardrobe (Mahogany Homes)",
+      "level": 1,
+      "experience": 0,
+      "object_id": [
+        39918
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        24906
+      ]
+    },
+    {
+      "name": "Oak wardrobe (Mahogany Homes)",
+      "level": 20,
+      "experience": 0,
+      "object_id": [
+        39919
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        24907
+      ]
+    },
+    {
+      "name": "Teak wardrobe (Mahogany Homes)",
+      "level": 50,
+      "experience": 0,
+      "object_id": [
+        39920
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        24908
+      ]
+    },
+    {
+      "name": "Mahogany wardrobe (Mahogany Homes)",
+      "level": 70,
+      "experience": 0,
+      "object_id": [
+        39921
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        24909
+      ]
+    },
+    {
+      "name": "Wooden dresser (Mahogany Homes)",
+      "level": 1,
+      "experience": 0,
+      "object_id": [
+        39949
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        24910
+      ]
+    },
+    {
+      "name": "Oak dresser (Mahogany Homes)",
+      "level": 20,
+      "experience": 0,
+      "object_id": [
+        39950
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        24911
+      ]
+    },
+    {
+      "name": "Teak dresser (Mahogany Homes)",
+      "level": 50,
+      "experience": 0,
+      "object_id": [
+        39951
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        24912
+      ]
+    },
+    {
+      "name": "Mahogany dresser (Mahogany Homes)",
+      "level": 70,
+      "experience": 0,
+      "object_id": [
+        39952
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        24913
+      ]
+    },
+    {
+      "name": "Wooden bed (small, Mahogany Homes)",
+      "level": 1,
+      "experience": 0,
+      "object_id": [
+        39975
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        24918
+      ]
+    },
+    {
+      "name": "Wooden bed (small, Mahogany Homes)",
+      "level": 1,
+      "experience": 0,
+      "object_id": [
+        40208
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        24918
+      ]
+    },
+    {
+      "name": "Wooden bed (small, Mahogany Homes)",
+      "level": 1,
+      "experience": 0,
+      "object_id": [
+        40044
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        24918
+      ]
+    },
+    {
+      "name": "Oak bed (small, Mahogany Homes)",
+      "level": 20,
+      "experience": 0,
+      "object_id": [
+        39976
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        24919
+      ]
+    },
+    {
+      "name": "Oak bed (small, Mahogany Homes)",
+      "level": 20,
+      "experience": 0,
+      "object_id": [
+        40209
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        24919
+      ]
+    },
+    {
+      "name": "Oak bed (small, Mahogany Homes)",
+      "level": 20,
+      "experience": 0,
+      "object_id": [
+        40045
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        24919
+      ]
+    },
+    {
+      "name": "Teak bed (small, Mahogany Homes)",
+      "level": 50,
+      "experience": 0,
+      "object_id": [
+        39977
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        24920
+      ]
+    },
+    {
+      "name": "Teak bed (small, Mahogany Homes)",
+      "level": 50,
+      "experience": 0,
+      "object_id": [
+        40210
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        24920
+      ]
+    },
+    {
+      "name": "Teak bed (small, Mahogany Homes)",
+      "level": 50,
+      "experience": 0,
+      "object_id": [
+        40046
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        24920
+      ]
+    },
+    {
+      "name": "Mahogany bed (small, Mahogany Homes)",
+      "level": 70,
+      "experience": 0,
+      "object_id": [
+        39978
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        24921
+      ]
+    },
+    {
+      "name": "Mahogany bed (small, Mahogany Homes)",
+      "level": 70,
+      "experience": 0,
+      "object_id": [
+        40211
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        24921
+      ]
+    },
+    {
+      "name": "Mahogany bed (small, Mahogany Homes)",
+      "level": 70,
+      "experience": 0,
+      "object_id": [
+        40047
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        24921
+      ]
+    },
+    {
+      "name": "Wooden shelves (Mahogany Homes)",
+      "level": 1,
+      "experience": 0,
+      "object_id": [
+        39936,
+        40026,
+        40122
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        24914
+      ]
+    },
+    {
+      "name": "Oak shelves (Mahogany Homes)",
+      "level": 20,
+      "experience": 0,
+      "object_id": [
+        39937,
+        40027,
+        40123
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        24915
+      ]
+    },
+    {
+      "name": "Teak shelves (Mahogany Homes)",
+      "level": 50,
+      "experience": 0,
+      "object_id": [
+        39938,
+        40028,
+        40124
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        24916
+      ]
+    },
+    {
+      "name": "Mahogany shelves (Mahogany Homes)",
+      "level": 70,
+      "experience": 0,
+      "object_id": [
+        39939,
+        40029,
+        40125
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        24917
+      ]
+    },
+    {
+      "name": "Wooden chair (Mahogany Homes)",
+      "level": 1,
+      "experience": 0,
+      "object_id": [
+        39956,
+        40063
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        24930
+      ]
+    },
+    {
+      "name": "Oak chair (Mahogany Homes)",
+      "level": 20,
+      "experience": 0,
+      "object_id": [
+        39957,
+        40064
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        24931
+      ]
+    },
+    {
+      "name": "Teak chair (Mahogany Homes)",
+      "level": 50,
+      "experience": 0,
+      "object_id": [
+        39958,
+        40065
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        24932
+      ]
+    },
+    {
+      "name": "Mahogany chair (Mahogany Homes)",
+      "level": 70,
+      "experience": 0,
+      "object_id": [
+        39959
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        24933
+      ]
+    },
+    {
+      "name": "Mahogany chair (Mahogany Homes)",
+      "level": 70,
+      "experience": 0,
+      "object_id": [
+        40066
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        24933
+      ]
+    },
+    {
+      "name": "Wooden table (small, Mahogany Homes)",
+      "level": 1,
+      "experience": 0,
+      "object_id": [
+        39968,
+        40032
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        24886
+      ]
+    },
+    {
+      "name": "Oak table (small, Mahogany Homes)",
+      "level": 20,
+      "experience": 0,
+      "object_id": [
+        39969,
+        40033
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        24887
+      ]
+    },
+    {
+      "name": "Teak table (small, Mahogany Homes)",
+      "level": 50,
+      "experience": 0,
+      "object_id": [
+        39970,
+        40034
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        24888
+      ]
+    },
+    {
+      "name": "Mahogany table (small, Mahogany Homes)",
+      "level": 70,
+      "experience": 0,
+      "object_id": [
+        39971,
+        40035
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        24889
+      ]
+    },
+    {
+      "name": "Wooden table (medium, Mahogany Homes)",
+      "level": 1,
+      "experience": 0,
+      "object_id": [
+        39930,
+        39962,
+        40018,
+        40103,
+        40109
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        24890
+      ]
+    },
+    {
+      "name": "Oak table (medium, Mahogany Homes)",
+      "level": 20,
+      "experience": 0,
+      "object_id": [
+        39931,
+        39963,
+        40019,
+        40104,
+        40110
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        24891
+      ]
+    },
+    {
+      "name": "Teak table (medium, Mahogany Homes)",
+      "level": 50,
+      "experience": 0,
+      "object_id": [
+        40020,
+        40105,
+        40111,
+        39964
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        24892
+      ]
+    },
+    {
+      "name": "Mahogany table (medium, Mahogany Homes)",
+      "level": 70,
+      "experience": 0,
+      "object_id": [
+        40021,
+        40106,
+        40112,
+        39965
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        24893
+      ]
+    },
+    {
+      "name": "Wooden table (large, Mahogany Homes)",
+      "level": 1,
+      "experience": 0,
+      "object_id": [
+        39893
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        24894
+      ]
+    },
+    {
+      "name": "Oak table (large, Mahogany Homes)",
+      "level": 20,
+      "experience": 0,
+      "object_id": [
+        39894
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        24895
+      ]
+    },
+    {
+      "name": "Teak table (large, Mahogany Homes)",
+      "level": 50,
+      "experience": 0,
+      "object_id": [
+        39895
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        24896
+      ]
+    },
+    {
+      "name": "Mahogany table (large, Mahogany Homes)",
+      "level": 70,
+      "experience": 0,
+      "object_id": [
+        39896
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        24897
+      ]
+    },
+    {
+      "name": "Pumpkin (Construction)",
+      "level": 1,
+      "experience": 0,
+      "object_id": [
+        40383,
+        40384
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        24979
+      ]
+    },
+    {
+      "name": "Pumpkin (Construction)",
+      "level": 1,
+      "experience": 0,
+      "object_id": [
+        40385
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        24979
+      ]
+    },
+    {
+      "name": "Ornate undead combat dummy",
+      "level": 58,
+      "experience": 0,
+      "object_id": [
+        40431
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        25154
+      ]
+    },
+    {
+      "name": "Ornate undead combat dummy",
+      "level": 58,
+      "experience": 0,
+      "object_id": [
+        40430
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        25154
+      ]
+    },
+    {
+      "name": "Ornate undead combat dummy",
+      "level": 58,
+      "experience": 0,
+      "object_id": [
+        9354
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        25154
+      ]
+    },
+    {
+      "name": "Ornate undead combat dummy",
+      "level": 58,
+      "experience": 0,
+      "object_id": [
+        9355
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        25154
+      ]
+    },
+    {
+      "name": "Ornate undead combat dummy",
+      "level": 58,
+      "experience": 0,
+      "object_id": [
+        9358
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        25154
+      ]
+    },
+    {
+      "name": "Ornate undead combat dummy",
+      "level": 58,
+      "experience": 0,
+      "object_id": [
+        9356
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        25154
+      ]
+    },
+    {
+      "name": "Ornate undead combat dummy",
+      "level": 58,
+      "experience": 0,
+      "object_id": [
+        9357
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        25154
+      ]
+    },
+    {
+      "name": "Banner stand",
+      "level": 30,
+      "experience": 0,
+      "object_id": [
+        41161
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        25355
+      ]
+    },
+    {
+      "name": "Banner stand",
+      "level": 30,
+      "experience": 0,
+      "object_id": [
+        42927
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        25355
+      ]
+    },
+    {
+      "name": "Banner stand",
+      "level": 30,
+      "experience": 0,
+      "object_id": [
+        41159
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        25355
+      ]
+    },
+    {
+      "name": "Banner stand",
+      "level": 30,
+      "experience": 0,
+      "object_id": [
+        29457
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        25355
+      ]
+    },
+    {
+      "name": "Banner stand",
+      "level": 30,
+      "experience": 0,
+      "object_id": [
+        55857
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        25355
+      ]
+    },
+    {
+      "name": "Banner stand",
+      "level": 30,
+      "experience": 0,
+      "object_id": [
+        49985
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        25355
+      ]
+    },
+    {
+      "name": "Banner stand",
+      "level": 30,
+      "experience": 0,
+      "object_id": [
+        41160
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        25355
+      ]
+    },
+    {
+      "name": "Ornate banner stand",
+      "level": 66,
+      "experience": 0,
+      "object_id": [
+        41164
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        25356
+      ]
+    },
+    {
+      "name": "Ornate banner stand",
+      "level": 66,
+      "experience": 0,
+      "object_id": [
+        42928
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        25356
+      ]
+    },
+    {
+      "name": "Ornate banner stand",
+      "level": 66,
+      "experience": 0,
+      "object_id": [
+        41162
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        25356
+      ]
+    },
+    {
+      "name": "Ornate banner stand",
+      "level": 66,
+      "experience": 0,
+      "object_id": [
+        29458
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        25356
+      ]
+    },
+    {
+      "name": "Ornate banner stand",
+      "level": 66,
+      "experience": 0,
+      "object_id": [
+        55858
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        25356
+      ]
+    },
+    {
+      "name": "Ornate banner stand",
+      "level": 66,
+      "experience": 0,
+      "object_id": [
+        49986
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        25356
+      ]
+    },
+    {
+      "name": "Ornate banner stand",
+      "level": 66,
+      "experience": 0,
+      "object_id": [
+        41163
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        25356
+      ]
+    },
+    {
+      "name": "Trailblazer rug (Construction)",
+      "level": 28,
+      "experience": 0,
+      "object_id": [
+        41132,
+        41133,
+        41134,
+        41135,
+        41136,
+        41137,
+        41138,
+        41139,
+        41140,
+        41141,
+        41142,
+        41143,
+        41144,
+        41145,
+        41146,
+        41147,
+        41148,
+        41149,
+        41150,
+        41151,
+        41152,
+        41153,
+        41154
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        25364
+      ]
+    },
+    {
+      "name": "Oak outfit stand",
+      "level": 34,
+      "experience": 0,
+      "object_id": [
+        41165,
+        41166,
+        41167,
+        41168,
+        41169,
+        41170,
+        41171,
+        42929,
+        42930,
+        42970,
+        49987,
+        49988,
+        49989,
+        55859,
+        55860,
+        55861
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        25357
+      ]
+    },
+    {
+      "name": "Mahogany outfit stand",
+      "level": 74,
+      "experience": 0,
+      "object_id": [
+        41172,
+        41173,
+        41174,
+        41175,
+        41176,
+        41177,
+        41178,
+        42971,
+        42972,
+        42973,
+        49990,
+        49991,
+        49992,
+        55862,
+        55863,
+        55864
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        25358
+      ]
+    },
+    {
+      "name": "Oak trophy case",
+      "level": 36,
+      "experience": 0,
+      "object_id": [
+        41156
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        25353
+      ]
+    },
+    {
+      "name": "Oak trophy case",
+      "level": 36,
+      "experience": 0,
+      "object_id": [
+        41155
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        25353
+      ]
+    },
+    {
+      "name": "Mahogany trophy case",
+      "level": 78,
+      "experience": 0,
+      "object_id": [
+        41158
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        25354
+      ]
+    },
+    {
+      "name": "Mahogany trophy case",
+      "level": 78,
+      "experience": 0,
+      "object_id": [
+        41157
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        25354
+      ]
+    },
+    {
+      "name": "League accomplishments scroll",
+      "level": 48,
+      "experience": 0,
+      "object_id": [
+        41182
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        25365
+      ]
+    },
+    {
+      "name": "League statue",
+      "level": 32,
+      "experience": 0,
+      "object_id": [
+        41179
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        25359
+      ]
+    },
+    {
+      "name": "Ornate league statue",
+      "level": 68,
+      "experience": 0,
+      "object_id": [
+        41180
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        25360
+      ]
+    },
+    {
+      "name": "Trailblazer globe (Construction)",
+      "level": 28,
+      "experience": 0,
+      "object_id": [
+        41181
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        25361
+      ]
+    },
+    {
+      "name": "Trophy pedestal",
+      "level": 27,
+      "experience": 0,
+      "object_id": [
+        41035,
+        41036,
+        41037,
+        41038,
+        41039,
+        41040,
+        41041,
+        41042,
+        41043,
+        41044,
+        41045,
+        41046,
+        41047,
+        41048,
+        41049,
+        41065,
+        41066,
+        41067,
+        41068,
+        41069,
+        41070,
+        41071,
+        41072,
+        41073,
+        41074,
+        41075,
+        41076,
+        41077,
+        41078,
+        41079,
+        41095,
+        41096,
+        41097,
+        41098,
+        41099,
+        41100,
+        41101,
+        41102,
+        41103,
+        41104,
+        41105,
+        41106,
+        41107,
+        41108,
+        41109,
+        42861,
+        42862,
+        42863,
+        42864,
+        42865,
+        42866,
+        42867,
+        42875,
+        42876,
+        42877,
+        42878,
+        42879,
+        42880,
+        42881,
+        42889,
+        42890,
+        42891,
+        42892,
+        42893,
+        42894,
+        42895,
+        49943,
+        49944,
+        49945,
+        49946,
+        49947,
+        49948,
+        49949,
+        49957,
+        49958,
+        49959,
+        49960,
+        49961,
+        49962,
+        49963,
+        49971,
+        49972,
+        49973,
+        49974,
+        49975,
+        49976,
+        49977,
+        55815,
+        55816,
+        55817,
+        55818,
+        55819,
+        55820,
+        55821,
+        55829,
+        55830,
+        55831,
+        55832,
+        55833,
+        55834,
+        55835,
+        55843,
+        55844,
+        55845,
+        55846,
+        55847,
+        55848,
+        55849
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        25351
+      ]
+    },
+    {
+      "name": "Ornate trophy pedestal",
+      "level": 64,
+      "experience": 0,
+      "object_id": [
+        41050,
+        41051,
+        41052,
+        41053,
+        41054,
+        41055,
+        41056,
+        41057,
+        41058,
+        41059,
+        41060,
+        41061,
+        41062,
+        41063,
+        41064,
+        41080,
+        41081,
+        41082,
+        41083,
+        41084,
+        41085,
+        41086,
+        41087,
+        41088,
+        41089,
+        41090,
+        41091,
+        41092,
+        41093,
+        41094,
+        41110,
+        41111,
+        41112,
+        41113,
+        41114,
+        41115,
+        41116,
+        41117,
+        41118,
+        41119,
+        41120,
+        41121,
+        41122,
+        41123,
+        41124,
+        42868,
+        42869,
+        42870,
+        42871,
+        42872,
+        42873,
+        42874,
+        42882,
+        42883,
+        42884,
+        42885,
+        42886,
+        42887,
+        42888,
+        42896,
+        42897,
+        42922,
+        42923,
+        42924,
+        42925,
+        42926,
+        49950,
+        49951,
+        49952,
+        49953,
+        49954,
+        49955,
+        49956,
+        49964,
+        49965,
+        49966,
+        49967,
+        49968,
+        49969,
+        49970,
+        49978,
+        49979,
+        49980,
+        49981,
+        49982,
+        49983,
+        49984,
+        55822,
+        55823,
+        55824,
+        55825,
+        55826,
+        55827,
+        55828,
+        55836,
+        55837,
+        55838,
+        55839,
+        55840,
+        55841,
+        55842,
+        55850,
+        55851,
+        55852,
+        55853,
+        55854,
+        55855,
+        55856
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        25352
+      ]
+    },
+    {
+      "name": "Gnome child icon (Construction)",
+      "level": 45,
+      "experience": 0,
+      "object_id": [
+        40871
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        25319
+      ]
+    },
+    {
+      "name": "S.t.a.s.h chart",
+      "level": 40,
+      "experience": 0,
+      "object_id": [
+        41434
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        25611
+      ]
+    },
+    {
+      "name": "Gold sink",
+      "level": 47,
+      "experience": 0,
+      "object_id": [
+        42852
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        26269
+      ]
+    },
+    {
+      "name": "Gold sink",
+      "level": 47,
+      "experience": 0,
+      "object_id": [
+        26458
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        26269
+      ]
+    },
+    {
+      "name": "Beehive (Construction)",
+      "level": 1,
+      "experience": 0,
+      "object_id": [
+        49939,
+        49940,
+        49942
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        28677
+      ]
+    },
+    {
+      "name": "Beehive (Construction)",
+      "level": 1,
+      "experience": 0,
+      "object_id": [
+        47481,
+        49938,
+        49941
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        28676
+      ]
+    },
+    {
+      "name": "Deadman rug",
+      "level": 28,
+      "experience": 0,
+      "object_id": [
+        54114,
+        54115,
+        54116
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        29598
+      ]
+    },
+    {
+      "name": "Raging echoes rug (Construction)",
+      "level": 73,
+      "experience": 0,
+      "object_id": [
+        56076,
+        56077,
+        56078
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        30501
+      ]
+    },
+    {
+      "name": "Raging echoes rug (Construction)",
+      "level": 73,
+      "experience": 0,
+      "object_id": [
+        56076,
+        56077,
+        56078
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        30501
+      ]
+    },
+    {
+      "name": "Raging echoes rug (Construction)",
+      "level": 73,
+      "experience": 0,
+      "object_id": [
+        56076,
+        56077,
+        56078
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        30501
+      ]
+    },
+    {
+      "name": "Raging echoes rug (Construction)",
+      "level": 73,
+      "experience": 0,
+      "object_id": [
+        56076,
+        56077,
+        56078
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        30501
+      ]
+    },
+    {
+      "name": "Raging echoes curtains (Construction)",
+      "level": 65,
+      "experience": 0,
+      "object_id": [
+        44937
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        30557
+      ]
+    },
+    {
+      "name": "Raging echoes curtains (Construction)",
+      "level": 65,
+      "experience": 0,
+      "object_id": [
+        56079
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        30557
+      ]
+    },
+    {
+      "name": "Oak display",
+      "level": 36,
+      "experience": 0,
+      "object_id": [
+        56130
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        30663
+      ]
+    },
+    {
+      "name": "Teak display (fishing trophy)",
+      "level": 56,
+      "experience": 0,
+      "object_id": [
+        56131
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        30664
+      ]
+    },
+    {
+      "name": "Mahogany display (fishing trophy)",
+      "level": 76,
+      "experience": 0,
+      "object_id": [
+        56132
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        30666
+      ]
+    },
+    {
+      "name": "Teak display (head trophy)",
+      "level": 38,
+      "experience": 0,
+      "object_id": [
+        56110
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        30650
+      ]
+    },
+    {
+      "name": "Mahogany display (head trophy)",
+      "level": 58,
+      "experience": 0,
+      "object_id": [
+        56111
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        30652
+      ]
+    },
+    {
+      "name": "Gilded display",
+      "level": 78,
+      "experience": 0,
+      "object_id": [
+        56112
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        30653
+      ]
+    },
+    {
+      "name": "Greenman statue (Construction)",
+      "level": 1,
+      "experience": 0,
+      "object_id": [
+        57013,
+        57014,
+        57015
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        31031
+      ]
+    },
+    {
+      "name": "Greenman carving (Construction)",
+      "level": 1,
+      "experience": 0,
+      "object_id": [
+        57012
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        31030
+      ]
+    },
+    {
+      "name": "Grid Master Icon",
+      "level": 45,
+      "experience": 0,
+      "object_id": [
+        57733
+      ],
+      "skill": [
+        "Construction"
+      ],
+      "item_id": [
+        31205
+      ]
+    }
+  ]
+}

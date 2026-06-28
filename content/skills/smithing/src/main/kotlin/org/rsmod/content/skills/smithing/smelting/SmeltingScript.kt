@@ -1,6 +1,7 @@
 package org.rsmod.content.skills.smithing.smelting
 
 import jakarta.inject.Inject
+import kotlin.random.Random
 import org.rsmod.api.player.protect.ProtectedAccess
 import org.rsmod.api.script.onOpLoc1
 import org.rsmod.api.script.onOpLocCategory2
@@ -26,9 +27,8 @@ import org.rsmod.game.entity.Player
 import org.rsmod.game.inv.Inventory
 import org.rsmod.plugin.scripts.PluginScript
 import org.rsmod.plugin.scripts.ScriptContext
-import kotlin.random.Random
 
-class SmeltingScript @Inject constructor(private val xpMods: XpModifiers, ) : PluginScript() {
+class SmeltingScript @Inject constructor(private val xpMods: XpModifiers) : PluginScript() {
 
     private val allBars = SmithingBarsRow.Companion.all()
     private val normalBars = allBars.filter { it.output.internalName != "obj.lovakite_bar" }
@@ -47,9 +47,7 @@ class SmeltingScript @Inject constructor(private val xpMods: XpModifiers, ) : Pl
 
         onOpLoc1("loc.lovakengj_furnace_large_01") { openLovakiteSmeltMenu() }
 
-        onPlayerQueueWithArgs<SmeltTask>("queue.smithing_bar_smelt") {
-            processSmeltTask(it.args)
-        }
+        onPlayerQueueWithArgs<SmeltTask>("queue.smithing_bar_smelt") { processSmeltTask(it.args) }
     }
 
     private fun ProtectedAccess.hasBarSmeltMaterials(): Boolean =
@@ -72,7 +70,7 @@ class SmeltingScript @Inject constructor(private val xpMods: XpModifiers, ) : Pl
                 maxCountProvider = { inventory, entry ->
                     barsByOutput[entry.internal]?.let { maxSmeltCount(inventory, player, it) } ?: 0
                 },
-            ),
+            )
         ) { selection ->
             val bar = barsByOutput[selection.entry.internal] ?: return@openSkillMulti
             startSmelting(bar, selection.amount, furnaceLocInternal, furnaceCoords)
@@ -93,7 +91,7 @@ class SmeltingScript @Inject constructor(private val xpMods: XpModifiers, ) : Pl
                 maxCountProvider = { inventory, _ ->
                     maxSmeltCount(inventory, player, bar, regularFurnace = false)
                 },
-            ),
+            )
         ) { selection ->
             startSmelting(
                 bar,
@@ -111,7 +109,12 @@ class SmeltingScript @Inject constructor(private val xpMods: XpModifiers, ) : Pl
             val secondary = bar.input.getOrNull(1)
             val secondaryAmt = bar.input.getOrNull(1)?.let { bar.inputAmount.getOrNull(1) }
             if (secondary != null && secondaryAmt != null && secondaryAmt > 0) {
-                add(Material(secondary.internalName, effectiveCoalAmount(player, inv, bar, regularFurnace = true)))
+                add(
+                    Material(
+                        secondary.internalName,
+                        effectiveCoalAmount(player, inv, bar, regularFurnace = true),
+                    )
+                )
             }
         }
         return SkillMultiEntry(bar.output.internalName, materials)
@@ -181,7 +184,15 @@ class SmeltingScript @Inject constructor(private val xpMods: XpModifiers, ) : Pl
         weakQueue(
             "queue.smithing_bar_smelt",
             if (completed == 0) SMELT_INITIAL_DELAY else SMELT_CYCLE_DELAY,
-            SmeltTask(bar, amount, completed, isSuperHeat, furnaceLocInternal, furnaceCoords, regularFurnace),
+            SmeltTask(
+                bar,
+                amount,
+                completed,
+                isSuperHeat,
+                furnaceLocInternal,
+                furnaceCoords,
+                regularFurnace,
+            ),
         )
     }
 
@@ -198,7 +209,9 @@ class SmeltingScript @Inject constructor(private val xpMods: XpModifiers, ) : Pl
 
         val primaryAmt = bar.inputAmount.first()
         val secondary = bar.input.getOrNull(1)
-        val requiresSecondary = secondary != null && (bar.input.getOrNull(1)?.let { bar.inputAmount.getOrNull(1) } ?: 0) > 0
+        val requiresSecondary =
+            secondary != null &&
+                (bar.input.getOrNull(1)?.let { bar.inputAmount.getOrNull(1) } ?: 0) > 0
         val effectiveSecondaryAmt =
             if (requiresSecondary) {
                 effectiveCoalAmount(player, inv, bar, regularFurnace)
@@ -224,16 +237,18 @@ class SmeltingScript @Inject constructor(private val xpMods: XpModifiers, ) : Pl
 
         val isIronBar = bar.output.internalName == "obj.iron_bar"
         val hasRingOfForging = "obj.ring_of_forging" in player.worn
-        val success = if (isIronBar && !hasRingOfForging && !isSuperHeat) {
-            Random.nextBoolean()
-        } else {
-            true
-        }
+        val success =
+            if (isIronBar && !hasRingOfForging && !isSuperHeat) {
+                Random.nextBoolean()
+            } else {
+                true
+            }
 
         if (success) {
             val outputCount = outputBarCount(bar, furnaceLocInternal, furnaceCoords)
             if (invAdd(inv, bar.output.internalName, outputCount).success) {
-                val xp = SmithingSmeltXp.resolve(player, inv, bar, isSuperHeat, xpMods, regularFurnace)
+                val xp =
+                    SmithingSmeltXp.resolve(player, inv, bar, isSuperHeat, xpMods, regularFurnace)
                 statAdvance("stat.smithing", xp)
                 val oreName = SmithingUtils.itemName(bar.input.first(), "ore")
                 mes("You smelt the $oreName in the furnace.")
@@ -262,14 +277,19 @@ class SmeltingScript @Inject constructor(private val xpMods: XpModifiers, ) : Pl
         return if (rollVarrockDoubleBar()) 2 else 1
     }
 
-    private suspend fun ProtectedAccess.canSmelt(bar: SmithingBarsRow, regularFurnace: Boolean = true): Boolean {
+    private suspend fun ProtectedAccess.canSmelt(
+        bar: SmithingBarsRow,
+        regularFurnace: Boolean = true,
+    ): Boolean {
         val primaryAmt = bar.inputAmount.first()
         val secondary = bar.input.getOrNull(1)
         val secondaryAmt = effectiveCoalAmount(player, inv, bar, regularFurnace)
         val primaryName = SmithingUtils.itemName(bar.input.first(), "ore")
 
         val hasPrimary = inv.count(bar.input.first().internalName) >= primaryAmt
-        val requiresSecondary = secondary != null && (bar.input.getOrNull(1)?.let { bar.inputAmount.getOrNull(1) } ?: 0) > 0
+        val requiresSecondary =
+            secondary != null &&
+                (bar.input.getOrNull(1)?.let { bar.inputAmount.getOrNull(1) } ?: 0) > 0
         val hasSecondary = !requiresSecondary || inv.count(secondary.internalName) >= secondaryAmt
 
         if (!hasPrimary || !hasSecondary) {
@@ -294,12 +314,17 @@ class SmeltingScript @Inject constructor(private val xpMods: XpModifiers, ) : Pl
         )
     }
 
-    private fun ProtectedAccess.hasItemsForBar(bar: SmithingBarsRow, regularFurnace: Boolean = true): Boolean {
+    private fun ProtectedAccess.hasItemsForBar(
+        bar: SmithingBarsRow,
+        regularFurnace: Boolean = true,
+    ): Boolean {
         val primaryAmt = bar.inputAmount.first()
         val secondaryAmt = effectiveCoalAmount(player, inv, bar, regularFurnace)
         val secondary = bar.input.getOrNull(1)
         val hasPrimary = inv.count(bar.input.first().internalName) >= primaryAmt
-        val requiresSecondary = secondary != null && (bar.input.getOrNull(1)?.let { bar.inputAmount.getOrNull(1) } ?: 0) > 0
+        val requiresSecondary =
+            secondary != null &&
+                (bar.input.getOrNull(1)?.let { bar.inputAmount.getOrNull(1) } ?: 0) > 0
         val hasSecondary = !requiresSecondary || inv.count(secondary.internalName) >= secondaryAmt
         return hasPrimary && hasSecondary
     }
@@ -313,7 +338,9 @@ class SmeltingScript @Inject constructor(private val xpMods: XpModifiers, ) : Pl
         val primaryAmt = bar.inputAmount.first()
         val effectiveSecondaryAmt = effectiveCoalAmount(player, inventory, bar, regularFurnace)
         val secondary = bar.input.getOrNull(1)
-        val requiresSecondary = secondary != null && (bar.input.getOrNull(1)?.let { bar.inputAmount.getOrNull(1) } ?: 0) > 0
+        val requiresSecondary =
+            secondary != null &&
+                (bar.input.getOrNull(1)?.let { bar.inputAmount.getOrNull(1) } ?: 0) > 0
 
         val primaryCount = inventory.count(bar.input.first().internalName)
         val secondaryCount =

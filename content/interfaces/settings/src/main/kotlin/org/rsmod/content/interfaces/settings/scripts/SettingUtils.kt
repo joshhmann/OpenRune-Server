@@ -9,10 +9,10 @@ object SettingUtils {
 
     const val MAX_RGB_COLOUR: Int = 0x00ffffff
 
-    fun setNumber(player: Player, value : Int,setting: Setting): Boolean {
+    fun setNumber(player: Player, value: Int, setting: Setting): Boolean {
         val row = SettingsConfigsRow.all().find { it.settingId == setting.id }
-        val min = row?.min?:0
-        val max = row?.max?:Int.MAX_VALUE
+        val min = row?.min ?: 0
+        val max = row?.max ?: Int.MAX_VALUE
 
         val normalized = value.coerceIn(min, max)
 
@@ -27,7 +27,9 @@ object SettingUtils {
 
         val allowedOptions = setting.dropdownEntries?.keys.orEmpty()
         if (dropdownOption !in allowedOptions) {
-            println("Invalid dropdown option=$dropdownOption for setting id=${setting.id}, ${setting.dropdownEntries}")
+            println(
+                "Invalid dropdown option=$dropdownOption for setting id=${setting.id}, ${setting.dropdownEntries}"
+            )
             return false
         }
 
@@ -53,5 +55,4 @@ object SettingUtils {
         player.runClientScript(101, 0)
         return true
     }
-
 }

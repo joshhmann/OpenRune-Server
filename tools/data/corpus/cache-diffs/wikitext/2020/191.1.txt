@@ -1,0 +1,1367 @@
+{{ToC}}
+==Items==
+{| class="wikitable sortable"
+!colspan='5'|Items
+|-
+! Name !! ID !! Key !! Previous Value !! Changed into
+|-
+| [[Carpenter's helmet]] || 24872 || colspan = "4" | New ID
+|-
+| [[null]] || 24873 || colspan = "4" | New ID
+|-
+| [[Carpenter's shirt]] || 24874 || colspan = "4" | New ID
+|-
+| [[null]] || 24875 || colspan = "4" | New ID
+|-
+| [[Carpenter's trousers]] || 24876 || colspan = "4" | New ID
+|-
+| [[null]] || 24877 || colspan = "4" | New ID
+|-
+| [[Carpenter's boots]] || 24878 || colspan = "4" | New ID
+|-
+| [[null]] || 24879 || colspan = "4" | New ID
+|-
+| [[Amy's saw]] || 24880 || colspan = "4" | New ID
+|-
+| [[null]] || 24881 || colspan = "4" | New ID
+|-
+| [[Plank sack]] || 24882 || colspan = "4" | New ID
+|-
+| [[null]] || 24883 || colspan = "4" | New ID
+|-
+| [[Supply crate]] || 24884 || colspan = "4" | New ID
+|-
+| [[Hosidius blueprints]] || 24885 || colspan = "4" | New ID
+|-
+| [[Wooden table]] || 24886 || colspan = "4" | New ID
+|-
+| [[Oak table]] || 24887 || colspan = "4" | New ID
+|-
+| [[Teak table]] || 24888 || colspan = "4" | New ID
+|-
+| [[Mahogany table]] || 24889 || colspan = "4" | New ID
+|-
+| [[Wooden table]] || 24890 || colspan = "4" | New ID
+|-
+| [[Oak table]] || 24891 || colspan = "4" | New ID
+|-
+| [[Teak table]] || 24892 || colspan = "4" | New ID
+|-
+| [[Mahogany table]] || 24893 || colspan = "4" | New ID
+|-
+| [[Wooden table]] || 24894 || colspan = "4" | New ID
+|-
+| [[Oak table]] || 24895 || colspan = "4" | New ID
+|-
+| [[Teak table]] || 24896 || colspan = "4" | New ID
+|-
+| [[Mahogany table]] || 24897 || colspan = "4" | New ID
+|-
+| [[Wooden cabinet]] || 24898 || colspan = "4" | New ID
+|-
+| [[Oak cabinet]] || 24899 || colspan = "4" | New ID
+|-
+| [[Teak cabinet]] || 24900 || colspan = "4" | New ID
+|-
+| [[Mahogany cabinet]] || 24901 || colspan = "4" | New ID
+|-
+| [[Wooden bookcase]] || 24902 || colspan = "4" | New ID
+|-
+| [[Oak bookcase]] || 24903 || colspan = "4" | New ID
+|-
+| [[Teak bookcase]] || 24904 || colspan = "4" | New ID
+|-
+| [[Mahogany bookcase]] || 24905 || colspan = "4" | New ID
+|-
+| [[Wooden wardrobe]] || 24906 || colspan = "4" | New ID
+|-
+| [[Oak wardrobe]] || 24907 || colspan = "4" | New ID
+|-
+| [[Teak wardrobe]] || 24908 || colspan = "4" | New ID
+|-
+| [[Mahogany wardrobe]] || 24909 || colspan = "4" | New ID
+|-
+| [[Wooden dresser]] || 24910 || colspan = "4" | New ID
+|-
+| [[Oak dresser]] || 24911 || colspan = "4" | New ID
+|-
+| [[Teak dresser]] || 24912 || colspan = "4" | New ID
+|-
+| [[Mahogany dresser]] || 24913 || colspan = "4" | New ID
+|-
+| [[Wooden shelves]] || 24914 || colspan = "4" | New ID
+|-
+| [[Oak shelves]] || 24915 || colspan = "4" | New ID
+|-
+| [[Teak shelves]] || 24916 || colspan = "4" | New ID
+|-
+| [[Mahogany shelves]] || 24917 || colspan = "4" | New ID
+|-
+| [[Wooden bed]] || 24918 || colspan = "4" | New ID
+|-
+| [[Oak bed]] || 24919 || colspan = "4" | New ID
+|-
+| [[Teak bed]] || 24920 || colspan = "4" | New ID
+|-
+| [[Mahogany bed]] || 24921 || colspan = "4" | New ID
+|-
+| [[Wooden bed]] || 24922 || colspan = "4" | New ID
+|-
+| [[Oak bed]] || 24923 || colspan = "4" | New ID
+|-
+| [[Teak bed]] || 24924 || colspan = "4" | New ID
+|-
+| [[Mahogany bed]] || 24925 || colspan = "4" | New ID
+|-
+| [[Wooden drawer]] || 24926 || colspan = "4" | New ID
+|-
+| [[Oak drawer]] || 24927 || colspan = "4" | New ID
+|-
+| [[Teak drawer]] || 24928 || colspan = "4" | New ID
+|-
+| [[Mahogany drawer]] || 24929 || colspan = "4" | New ID
+|-
+| [[Wooden chair]] || 24930 || colspan = "4" | New ID
+|-
+| [[Oak chair]] || 24931 || colspan = "4" | New ID
+|-
+| [[Teak chair]] || 24932 || colspan = "4" | New ID
+|-
+| [[Mahogany chair]] || 24933 || colspan = "4" | New ID
+|-
+| [[Wooden cupboard]] || 24934 || colspan = "4" | New ID
+|-
+| [[Oak cupboard]] || 24935 || colspan = "4" | New ID
+|-
+| [[Teak cupboard]] || 24936 || colspan = "4" | New ID
+|-
+| [[Mahogany cupboard]] || 24937 || colspan = "4" | New ID
+|-
+| [[Waxwood log]] || 24938 || colspan = "4" | New ID
+|-
+| [[Waxwood plank]] || 24939 || colspan = "4" | New ID
+|-
+| [[Marlo's crate]] || 24940 || colspan = "4" | New ID
+|-
+|rowspan="2"|[[Crystal saw]]
+|rowspan="2"|9625
+|-
+|interfaceOptions || [None, None, None, None, 'Destroy'] || [None, None, None, 'Check', 'Destroy']
+|-
+|rowspan="14"|[[Wooden table]]
+|rowspan="14"|20601
+|-
+|name || [[Null]] || [[Wooden table]]
+|-
+| xan2d || 396 || 123
+|-
+| yan2d || 952 || 1883
+|-
+| inventoryModel || 9351 || 9590
+|-
+| members || True || False
+|-
+| zoom2d || 1130 || 2533
+|-
+| xOffset2d || 3 || 0
+|-
+| yOffset2d || -4 || 0
+|-
+| maleModel0 || 9344 || -1
+|-
+| femaleModel0 || 9344 || -1
+|-
+| femaleOffset || 6 || 0
+|-
+| notedID || 20602 || -1
+|-
+| placeholderId || 20603 || -1
+|-
+|rowspan="9"|[[Waxwood bed]]
+|rowspan="9"|20602
+|-
+|name || [[null]] || [[Waxwood bed]]
+|-
+| xan2d || 0 || 123
+|-
+| yan2d || 0 || 1883
+|-
+| inventoryModel || 0 || 4305
+|-
+| zoom2d || 2000 || 3780
+|-
+| yOffset2d || 0 || -5
+|-
+| notedID || 20601 || -1
+|-
+| notedTemplate || 799 || -1
+|-
+|rowspan="10"|[[Carpet]]
+|rowspan="10"|20603
+|-
+|name || [[null]] || [[Carpet]]
+|-
+| xan2d || 0 || 512
+|-
+| yan2d || 0 || 1535
+|-
+| inventoryModel || 0 || 12527
+|-
+| zoom2d || 2000 || 1711
+|-
+| xOffset2d || 0 || -16
+|-
+| yOffset2d || 0 || -20
+|-
+| placeholderId || 20601 || -1
+|-
+| placeholderTemplateId || 14401 || -1
+|-
+|rowspan="13"|[[Wooden stool]]
+|rowspan="13"|20604
+|-
+|name || [[Null]] || [[Wooden stool]]
+|-
+| xan2d || 68 || 94
+|-
+| yan2d || 1092 || 1562
+|-
+| inventoryModel || 10565 || 10089
+|-
+| members || True || False
+|-
+| zoom2d || 540 || 1875
+|-
+| xOffset2d || 6 || 4
+|-
+| yOffset2d || -7 || 0
+|-
+| maleModel0 || 10702 || -1
+|-
+| femaleModel0 || 10702 || -1
+|-
+| notedID || 20605 || -1
+|-
+| placeholderId || 20606 || -1
+|-
+|rowspan="9"|[[Wooden chair]]
+|rowspan="9"|20605
+|-
+|name || [[null]] || [[Wooden chair]]
+|-
+| xan2d || 0 || 123
+|-
+| yan2d || 0 || 1883
+|-
+| inventoryModel || 0 || 12443
+|-
+| zoom2d || 2000 || 2467
+|-
+| yOffset2d || 0 || -7
+|-
+| notedID || 20604 || -1
+|-
+| notedTemplate || 799 || -1
+|-
+|rowspan="8"|[[null]]
+|rowspan="8"|20606
+|-
+|xan2d || 0 || 123
+|-
+| yan2d || 0 || 1883
+|-
+| inventoryModel || 0 || 12660
+|-
+| zoom2d || 2000 || 2500
+|-
+| yOffset2d || 0 || -7
+|-
+| placeholderId || 20604 || -1
+|-
+| placeholderTemplateId || 14401 || -1
+|-
+|}
+
+==Non-Player Characters==
+{| class="wikitable sortable"
+!colspan='5'|Non-Player Characters
+|-
+! Name !! ID !! Key !! Previous Value !! Changed into
+|-
+| [[Marlo]] || 10408 || colspan = "4" | New ID
+|-
+| [[Marlo]] || 10409 || colspan = "4" | New ID
+|-
+| [[Ellie]] || 10410 || colspan = "4" | New ID
+|-
+| [[Ellie]] || 10411 || colspan = "4" | New ID
+|-
+| [[Angelo]] || 10412 || colspan = "4" | New ID
+|-
+| [[Angelo]] || 10413 || colspan = "4" | New ID
+|-
+| [[Bob]] || 10414 || colspan = "4" | New ID
+|-
+| [[Jeff]] || 10415 || colspan = "4" | New ID
+|-
+| [[Sarah]] || 10416 || colspan = "4" | New ID
+|-
+| [[Tau]] || 10417 || colspan = "4" | New ID
+|-
+| [[Larry]] || 10418 || colspan = "4" | New ID
+|-
+| [[Noella]] || 10419 || colspan = "4" | New ID
+|-
+| [[Ross]] || 10420 || colspan = "4" | New ID
+|-
+| [[Jess]] || 10421 || colspan = "4" | New ID
+|-
+| [[Mariah]] || 10422 || colspan = "4" | New ID
+|-
+| [[Leela]] || 10423 || colspan = "4" | New ID
+|-
+| [[Barbara]] || 10424 || colspan = "4" | New ID
+|-
+| [[Old Man Yarlo]] || 10425 || colspan = "4" | New ID
+|-
+| [[Old Man Yarlo]] || 10426 || colspan = "4" | New ID
+|-
+| [[Old Man Yarlo]] || 10427 || colspan = "4" | New ID
+|-
+| [[null]] || 10428 || colspan = "4" | New ID
+|-
+| [[null]] || 10429 || colspan = "4" | New ID
+|-
+| [[null]] || 10430 || colspan = "4" | New ID
+|-
+| [[null]] || 10431 || colspan = "4" | New ID
+|-
+| [[Eniola]] || 8132 || colspan = "4" | New ID
+|-
+| [[Odovacar]] || 8133 || colspan = "4" | New ID
+|-
+|rowspan="4"|[[Norman]]
+|rowspan="4"|3266
+|-
+|name || [[Man]] || [[Norman]]
+|-
+| actions || ['Talk-to', 'Attack', 'Pickpocket', None, None] || ['Talk-to', None, None, None, None]
+|-
+| combatLevel || 2 || 0
+|-
+|rowspan="3"|[[Frog]]
+|rowspan="3"|5833
+|-
+|actions || ['Talk-to', None, None, None, None] || [None, None, None, None, None]
+|-
+| hasRenderPriority || True || False
+|-
+|rowspan="13"|[[Amy]]
+|rowspan="13"|6439
+|-
+|name || [[Odovacar]] || [[Amy]]
+|-
+| standingAnimation || 5607 || 808
+|-
+| walkingAnimation || 5606 || 819
+|-
+| rotate180Animation || -1 || 820
+|-
+| rotate90RightAnimation || -1 || 821
+|-
+| rotate90LeftAnimation || -1 || 822
+|-
+| actions || ['Talk-to', None, 'Bank', 'Collect', None] || ['Talk-to', None, None, None, None]
+|-
+| widthScale || 120 || 128
+|-
+| heightScale || 120 || 128
+|-
+| hasRenderPriority || True || False
+|-
+| models || [20859, 20862, 20853] || [390, 40781, 40780, 40778, 10706, 40782, 40779, 40785, 40784]
+|-
+| chatheadModels || [21484, 21502] || [113, 40850]
+|-
+|rowspan="13"|[[Amy]]
+|rowspan="13"|7417
+|-
+|name || [[Eniola]] || [[Amy]]
+|-
+| standingAnimation || 5607 || 808
+|-
+| walkingAnimation || 5606 || 819
+|-
+| rotate180Animation || -1 || 820
+|-
+| rotate90RightAnimation || -1 || 821
+|-
+| rotate90LeftAnimation || -1 || 822
+|-
+| actions || ['Bank', None, 'Talk-to', 'Collect', None] || ['Talk-to', None, 'Contract', 'Rewards', None]
+|-
+| widthScale || 120 || 128
+|-
+| heightScale || 120 || 128
+|-
+| hasRenderPriority || True || False
+|-
+| models || [20859, 20862, 20853] || [390, 40781, 40780, 40778, 10706, 40782, 40779, 40785, 40784]
+|-
+| chatheadModels || [21484, 21502] || [113, 40850]
+|-
+|}
+
+==Objects==
+{| class="wikitable sortable"
+!colspan='5'|Objects
+|-
+! Name !! ID !! Key !! Previous Value !! Changed into
+|-
+| [[Door hotspot]] || 37436 || colspan = "4" | New ID
+|-
+| [[Door hotspot]] || 37437 || colspan = "4" | New ID
+|-
+| [[Window space]] || 37438 || colspan = "4" | New ID
+|-
+| [[Shuttered window]] || 37445 || colspan = "4" | New ID
+|-
+| [[Decorative window]] || 37446 || colspan = "4" | New ID
+|-
+| [[Stained-glass window]] || 37447 || colspan = "4" | New ID
+|-
+| [[Decorative window]] || 37448 || colspan = "4" | New ID
+|-
+| [[Stained-glass window]] || 37449 || colspan = "4" | New ID
+|-
+| [[Decorative window]] || 37451 || colspan = "4" | New ID
+|-
+| [[Stained-glass window]] || 37452 || colspan = "4" | New ID
+|-
+| [[Decorative window]] || 37453 || colspan = "4" | New ID
+|-
+| [[Stained-glass window]] || 37454 || colspan = "4" | New ID
+|-
+| [[Door]] || 37455 || colspan = "4" | New ID
+|-
+| [[Door]] || 37456 || colspan = "4" | New ID
+|-
+| [[Door]] || 37457 || colspan = "4" | New ID
+|-
+| [[Door]] || 39882 || colspan = "4" | New ID
+|-
+| [[null]] || 39883 || colspan = "4" | New ID
+|-
+| [[null]] || 39884 || colspan = "4" | New ID
+|-
+| [[null]] || 39885 || colspan = "4" | New ID
+|-
+| [[null]] || 39886 || colspan = "4" | New ID
+|-
+| [[null]] || 39887 || colspan = "4" | New ID
+|-
+| [[null]] || 39888 || colspan = "4" | New ID
+|-
+| [[null]] || 39889 || colspan = "4" | New ID
+|-
+| [[null]] || 39890 || colspan = "4" | New ID
+|-
+| [[Broken table]] || 39891 || colspan = "4" | New ID
+|-
+| [[Teak table]] || 39892 || colspan = "4" | New ID
+|-
+| [[Wooden table]] || 39893 || colspan = "4" | New ID
+|-
+| [[Oak table]] || 39894 || colspan = "4" | New ID
+|-
+| [[Teak table]] || 39895 || colspan = "4" | New ID
+|-
+| [[Mahogany table]] || 39896 || colspan = "4" | New ID
+|-
+| [[Broken Grandfather Clock]] || 39897 || colspan = "4" | New ID
+|-
+| [[Broken Cabinet]] || 39898 || colspan = "4" | New ID
+|-
+| [[Cabinet]] || 39899 || colspan = "4" | New ID
+|-
+| [[Cabinet]] || 39900 || colspan = "4" | New ID
+|-
+| [[Cabinet]] || 39901 || colspan = "4" | New ID
+|-
+| [[Cabinet]] || 39902 || colspan = "4" | New ID
+|-
+| [[Cabinet]] || 39903 || colspan = "4" | New ID
+|-
+| [[Broken Cabinet]] || 39904 || colspan = "4" | New ID
+|-
+| [[Cabinet]] || 39905 || colspan = "4" | New ID
+|-
+| [[Cabinet]] || 39906 || colspan = "4" | New ID
+|-
+| [[Cabinet]] || 39907 || colspan = "4" | New ID
+|-
+| [[Cabinet]] || 39908 || colspan = "4" | New ID
+|-
+| [[Cabinet]] || 39909 || colspan = "4" | New ID
+|-
+| [[Bookcase]] || 39910 || colspan = "4" | New ID
+|-
+| [[Bookcase]] || 39911 || colspan = "4" | New ID
+|-
+| [[Bookcase]] || 39912 || colspan = "4" | New ID
+|-
+| [[Bookcase]] || 39913 || colspan = "4" | New ID
+|-
+| [[Bookcase]] || 39914 || colspan = "4" | New ID
+|-
+| [[Bookcase]] || 39915 || colspan = "4" | New ID
+|-
+| [[Wardrobe]] || 39916 || colspan = "4" | New ID
+|-
+| [[Wardrobe]] || 39917 || colspan = "4" | New ID
+|-
+| [[Wardrobe]] || 39918 || colspan = "4" | New ID
+|-
+| [[Wardrobe]] || 39919 || colspan = "4" | New ID
+|-
+| [[Wardrobe]] || 39920 || colspan = "4" | New ID
+|-
+| [[Wardrobe]] || 39921 || colspan = "4" | New ID
+|-
+| [[Broken Drawers]] || 39922 || colspan = "4" | New ID
+|-
+| [[Drawers]] || 39923 || colspan = "4" | New ID
+|-
+| [[Drawers]] || 39924 || colspan = "4" | New ID
+|-
+| [[Drawers]] || 39925 || colspan = "4" | New ID
+|-
+| [[Drawers]] || 39926 || colspan = "4" | New ID
+|-
+| [[Drawers]] || 39927 || colspan = "4" | New ID
+|-
+| [[Broken Table]] || 39928 || colspan = "4" | New ID
+|-
+| [[Table]] || 39929 || colspan = "4" | New ID
+|-
+| [[Table]] || 39930 || colspan = "4" | New ID
+|-
+| [[Table]] || 39931 || colspan = "4" | New ID
+|-
+| [[Table]] || 39932 || colspan = "4" | New ID
+|-
+| [[Table]] || 39933 || colspan = "4" | New ID
+|-
+| [[Broken Shelves]] || 39934 || colspan = "4" | New ID
+|-
+| [[Shelves]] || 39935 || colspan = "4" | New ID
+|-
+| [[Shelves]] || 39936 || colspan = "4" | New ID
+|-
+| [[Shelves]] || 39937 || colspan = "4" | New ID
+|-
+| [[Shelves]] || 39938 || colspan = "4" | New ID
+|-
+| [[Shelves]] || 39939 || colspan = "4" | New ID
+|-
+| [[Bed]] || 39940 || colspan = "4" | New ID
+|-
+| [[Broken Bed]] || 39941 || colspan = "4" | New ID
+|-
+| [[Bed]] || 39942 || colspan = "4" | New ID
+|-
+| [[Bed]] || 39943 || colspan = "4" | New ID
+|-
+| [[Bed]] || 39944 || colspan = "4" | New ID
+|-
+| [[Bed]] || 39945 || colspan = "4" | New ID
+|-
+| [[Bed]] || 39946 || colspan = "4" | New ID
+|-
+| [[Broken Dresser]] || 39947 || colspan = "4" | New ID
+|-
+| [[Dresser]] || 39948 || colspan = "4" | New ID
+|-
+| [[Dresser]] || 39949 || colspan = "4" | New ID
+|-
+| [[Dresser]] || 39950 || colspan = "4" | New ID
+|-
+| [[Dresser]] || 39951 || colspan = "4" | New ID
+|-
+| [[Dresser]] || 39952 || colspan = "4" | New ID
+|-
+| [[Broken Mirror]] || 39953 || colspan = "4" | New ID
+|-
+| [[Broken Chair]] || 39954 || colspan = "4" | New ID
+|-
+| [[Chair]] || 39955 || colspan = "4" | New ID
+|-
+| [[Chair]] || 39956 || colspan = "4" | New ID
+|-
+| [[Chair]] || 39957 || colspan = "4" | New ID
+|-
+| [[Chair]] || 39958 || colspan = "4" | New ID
+|-
+| [[Chair]] || 39959 || colspan = "4" | New ID
+|-
+| [[Table]] || 39960 || colspan = "4" | New ID
+|-
+| [[Table]] || 39961 || colspan = "4" | New ID
+|-
+| [[Table]] || 39962 || colspan = "4" | New ID
+|-
+| [[Table]] || 39963 || colspan = "4" | New ID
+|-
+| [[Table]] || 39964 || colspan = "4" | New ID
+|-
+| [[Table]] || 39965 || colspan = "4" | New ID
+|-
+| [[Table]] || 39966 || colspan = "4" | New ID
+|-
+| [[Table]] || 39967 || colspan = "4" | New ID
+|-
+| [[Table]] || 39968 || colspan = "4" | New ID
+|-
+| [[Table]] || 39969 || colspan = "4" | New ID
+|-
+| [[Table]] || 39970 || colspan = "4" | New ID
+|-
+| [[Table]] || 39971 || colspan = "4" | New ID
+|-
+| [[Bed]] || 39972 || colspan = "4" | New ID
+|-
+| [[Bed]] || 39973 || colspan = "4" | New ID
+|-
+| [[Bed]] || 39974 || colspan = "4" | New ID
+|-
+| [[Bed]] || 39975 || colspan = "4" | New ID
+|-
+| [[Bed]] || 39976 || colspan = "4" | New ID
+|-
+| [[Bed]] || 39977 || colspan = "4" | New ID
+|-
+| [[Bed]] || 39978 || colspan = "4" | New ID
+|-
+| [[Broken Range]] || 39979 || colspan = "4" | New ID
+|-
+| [[Broken Range]] || 39980 || colspan = "4" | New ID
+|-
+| [[null]] || 39981 || colspan = "4" | New ID
+|-
+| [[null]] || 39982 || colspan = "4" | New ID
+|-
+| [[null]] || 39983 || colspan = "4" | New ID
+|-
+| [[null]] || 39984 || colspan = "4" | New ID
+|-
+| [[null]] || 39985 || colspan = "4" | New ID
+|-
+| [[null]] || 39986 || colspan = "4" | New ID
+|-
+| [[null]] || 39987 || colspan = "4" | New ID
+|-
+| [[null]] || 39988 || colspan = "4" | New ID
+|-
+| [[null]] || 39989 || colspan = "4" | New ID
+|-
+| [[null]] || 39990 || colspan = "4" | New ID
+|-
+| [[null]] || 39991 || colspan = "4" | New ID
+|-
+| [[null]] || 39992 || colspan = "4" | New ID
+|-
+| [[null]] || 39993 || colspan = "4" | New ID
+|-
+| [[null]] || 39994 || colspan = "4" | New ID
+|-
+| [[null]] || 39995 || colspan = "4" | New ID
+|-
+| [[null]] || 39996 || colspan = "4" | New ID
+|-
+| [[null]] || 39997 || colspan = "4" | New ID
+|-
+| [[null]] || 39998 || colspan = "4" | New ID
+|-
+| [[null]] || 39999 || colspan = "4" | New ID
+|-
+| [[null]] || 40000 || colspan = "4" | New ID
+|-
+| [[null]] || 40001 || colspan = "4" | New ID
+|-
+| [[null]] || 40002 || colspan = "4" | New ID
+|-
+| [[null]] || 40003 || colspan = "4" | New ID
+|-
+| [[null]] || 40004 || colspan = "4" | New ID
+|-
+| [[null]] || 40005 || colspan = "4" | New ID
+|-
+| [[null]] || 40006 || colspan = "4" | New ID
+|-
+| [[null]] || 40007 || colspan = "4" | New ID
+|-
+| [[null]] || 40008 || colspan = "4" | New ID
+|-
+| [[null]] || 40009 || colspan = "4" | New ID
+|-
+| [[null]] || 40010 || colspan = "4" | New ID
+|-
+| [[null]] || 40011 || colspan = "4" | New ID
+|-
+| [[null]] || 40012 || colspan = "4" | New ID
+|-
+| [[null]] || 40013 || colspan = "4" | New ID
+|-
+| [[null]] || 40014 || colspan = "4" | New ID
+|-
+| [[null]] || 40015 || colspan = "4" | New ID
+|-
+| [[Broken Table]] || 40016 || colspan = "4" | New ID
+|-
+| [[Table]] || 40017 || colspan = "4" | New ID
+|-
+| [[Table]] || 40018 || colspan = "4" | New ID
+|-
+| [[Table]] || 40019 || colspan = "4" | New ID
+|-
+| [[Table]] || 40020 || colspan = "4" | New ID
+|-
+| [[Table]] || 40021 || colspan = "4" | New ID
+|-
+| [[Broken Sink]] || 40022 || colspan = "4" | New ID
+|-
+| [[Sink]] || 40023 || colspan = "4" | New ID
+|-
+| [[Cooking shelves]] || 40024 || colspan = "4" | New ID
+|-
+| [[Cooking shelves]] || 40025 || colspan = "4" | New ID
+|-
+| [[Cooking shelves]] || 40026 || colspan = "4" | New ID
+|-
+| [[Cooking shelves]] || 40027 || colspan = "4" | New ID
+|-
+| [[Cooking shelves]] || 40028 || colspan = "4" | New ID
+|-
+| [[Cooking shelves]] || 40029 || colspan = "4" | New ID
+|-
+| [[Broken Table]] || 40030 || colspan = "4" | New ID
+|-
+| [[Table]] || 40031 || colspan = "4" | New ID
+|-
+| [[Table]] || 40032 || colspan = "4" | New ID
+|-
+| [[Table]] || 40033 || colspan = "4" | New ID
+|-
+| [[Table]] || 40034 || colspan = "4" | New ID
+|-
+| [[Table]] || 40035 || colspan = "4" | New ID
+|-
+| [[Cupboard]] || 40036 || colspan = "4" | New ID
+|-
+| [[Cupboard]] || 40037 || colspan = "4" | New ID
+|-
+| [[Cupboard]] || 40038 || colspan = "4" | New ID
+|-
+| [[Cupboard]] || 40039 || colspan = "4" | New ID
+|-
+| [[Cupboard]] || 40040 || colspan = "4" | New ID
+|-
+| [[Cupboard]] || 40041 || colspan = "4" | New ID
+|-
+| [[Bed]] || 40042 || colspan = "4" | New ID
+|-
+| [[Bed]] || 40043 || colspan = "4" | New ID
+|-
+| [[Bed]] || 40044 || colspan = "4" | New ID
+|-
+| [[Bed]] || 40045 || colspan = "4" | New ID
+|-
+| [[Bed]] || 40046 || colspan = "4" | New ID
+|-
+| [[Bed]] || 40047 || colspan = "4" | New ID
+|-
+| [[Bed]] || 40048 || colspan = "4" | New ID
+|-
+| [[Bed]] || 40049 || colspan = "4" | New ID
+|-
+| [[Bed]] || 40050 || colspan = "4" | New ID
+|-
+| [[Bed]] || 40051 || colspan = "4" | New ID
+|-
+| [[Bed]] || 40052 || colspan = "4" | New ID
+|-
+| [[Bed]] || 40053 || colspan = "4" | New ID
+|-
+| [[Bed]] || 40054 || colspan = "4" | New ID
+|-
+| [[Drawers]] || 40055 || colspan = "4" | New ID
+|-
+| [[Drawers]] || 40056 || colspan = "4" | New ID
+|-
+| [[Drawers]] || 40057 || colspan = "4" | New ID
+|-
+| [[Drawers]] || 40058 || colspan = "4" | New ID
+|-
+| [[Drawers]] || 40059 || colspan = "4" | New ID
+|-
+| [[Drawers]] || 40060 || colspan = "4" | New ID
+|-
+| [[Chair]] || 40061 || colspan = "4" | New ID
+|-
+| [[Chair]] || 40062 || colspan = "4" | New ID
+|-
+| [[Chair]] || 40063 || colspan = "4" | New ID
+|-
+| [[Chair]] || 40064 || colspan = "4" | New ID
+|-
+| [[Chair]] || 40065 || colspan = "4" | New ID
+|-
+| [[Chair]] || 40066 || colspan = "4" | New ID
+|-
+| [[Broken Range]] || 40067 || colspan = "4" | New ID
+|-
+| [[Range]] || 40068 || colspan = "4" | New ID
+|-
+| [[Table space]] || 40069 || colspan = "4" | New ID
+|-
+| [[Table space]] || 40070 || colspan = "4" | New ID
+|-
+| [[Table space]] || 40071 || colspan = "4" | New ID
+|-
+| [[Table space]] || 40072 || colspan = "4" | New ID
+|-
+| [[Cabinet space]] || 40073 || colspan = "4" | New ID
+|-
+| [[Bookcase space]] || 40074 || colspan = "4" | New ID
+|-
+| [[Wardrobe space]] || 40075 || colspan = "4" | New ID
+|-
+| [[Dresser space]] || 40076 || colspan = "4" | New ID
+|-
+| [[Shelves space]] || 40077 || colspan = "4" | New ID
+|-
+| [[Cupboard space]] || 40078 || colspan = "4" | New ID
+|-
+| [[Chair space]] || 40079 || colspan = "4" | New ID
+|-
+| [[Bed space]] || 40080 || colspan = "4" | New ID
+|-
+| [[Bed space]] || 40081 || colspan = "4" | New ID
+|-
+| [[Drawer space]] || 40082 || colspan = "4" | New ID
+|-
+| [[null]] || 40083 || colspan = "4" | New ID
+|-
+| [[null]] || 40084 || colspan = "4" | New ID
+|-
+| [[null]] || 40085 || colspan = "4" | New ID
+|-
+| [[null]] || 40086 || colspan = "4" | New ID
+|-
+| [[null]] || 40087 || colspan = "4" | New ID
+|-
+| [[null]] || 40088 || colspan = "4" | New ID
+|-
+| [[null]] || 40089 || colspan = "4" | New ID
+|-
+| [[null]] || 40090 || colspan = "4" | New ID
+|-
+| [[null]] || 40091 || colspan = "4" | New ID
+|-
+| [[null]] || 40092 || colspan = "4" | New ID
+|-
+| [[null]] || 40093 || colspan = "4" | New ID
+|-
+| [[null]] || 40094 || colspan = "4" | New ID
+|-
+| [[null]] || 40095 || colspan = "4" | New ID
+|-
+| [[null]] || 40096 || colspan = "4" | New ID
+|-
+| [[null]] || 40097 || colspan = "4" | New ID
+|-
+| [[null]] || 40098 || colspan = "4" | New ID
+|-
+| [[null]] || 40099 || colspan = "4" | New ID
+|-
+| [[Broken Sink]] || 40100 || colspan = "4" | New ID
+|-
+| [[Broken table]] || 40101 || colspan = "4" | New ID
+|-
+| [[Table]] || 40102 || colspan = "4" | New ID
+|-
+| [[Table]] || 40103 || colspan = "4" | New ID
+|-
+| [[Table]] || 40104 || colspan = "4" | New ID
+|-
+| [[Table]] || 40105 || colspan = "4" | New ID
+|-
+| [[Table]] || 40106 || colspan = "4" | New ID
+|-
+| [[Table]] || 40107 || colspan = "4" | New ID
+|-
+| [[Table]] || 40108 || colspan = "4" | New ID
+|-
+| [[Table]] || 40109 || colspan = "4" | New ID
+|-
+| [[Table]] || 40110 || colspan = "4" | New ID
+|-
+| [[Table]] || 40111 || colspan = "4" | New ID
+|-
+| [[Table]] || 40112 || colspan = "4" | New ID
+|-
+| [[Cupboard]] || 40113 || colspan = "4" | New ID
+|-
+| [[Broken Cupboard]] || 40114 || colspan = "4" | New ID
+|-
+| [[Cupboard]] || 40115 || colspan = "4" | New ID
+|-
+| [[Cupboard]] || 40116 || colspan = "4" | New ID
+|-
+| [[Cupboard]] || 40117 || colspan = "4" | New ID
+|-
+| [[Cupboard]] || 40118 || colspan = "4" | New ID
+|-
+| [[Cupboard]] || 40119 || colspan = "4" | New ID
+|-
+| [[Broken Shelves]] || 40120 || colspan = "4" | New ID
+|-
+| [[Shelves]] || 40121 || colspan = "4" | New ID
+|-
+| [[Shelves]] || 40122 || colspan = "4" | New ID
+|-
+| [[Shelves]] || 40123 || colspan = "4" | New ID
+|-
+| [[Shelves]] || 40124 || colspan = "4" | New ID
+|-
+| [[Shelves]] || 40125 || colspan = "4" | New ID
+|-
+| [[Bed]] || 40126 || colspan = "4" | New ID
+|-
+| [[Broken Bed]] || 40127 || colspan = "4" | New ID
+|-
+| [[Bed]] || 40128 || colspan = "4" | New ID
+|-
+| [[Bed]] || 40129 || colspan = "4" | New ID
+|-
+| [[Bed]] || 40130 || colspan = "4" | New ID
+|-
+| [[Bed]] || 40131 || colspan = "4" | New ID
+|-
+| [[Bed]] || 40132 || colspan = "4" | New ID
+|-
+| [[Broken Old Bookshelf]] || 40133 || colspan = "4" | New ID
+|-
+| [[Old Bookshelf]] || 40134 || colspan = "4" | New ID
+|-
+| [[Old Bookshelf]] || 40135 || colspan = "4" | New ID
+|-
+| [[Old Bookshelf]] || 40136 || colspan = "4" | New ID
+|-
+| [[Old Bookshelf]] || 40137 || colspan = "4" | New ID
+|-
+| [[Old Bookshelf]] || 40138 || colspan = "4" | New ID
+|-
+| [[Hat stand]] || 40139 || colspan = "4" | New ID
+|-
+| [[Hat stand]] || 40140 || colspan = "4" | New ID
+|-
+| [[Grandfather Clock]] || 40141 || colspan = "4" | New ID
+|-
+| [[Drawers]] || 40142 || colspan = "4" | New ID
+|-
+| [[Drawers]] || 40143 || colspan = "4" | New ID
+|-
+| [[Drawers]] || 40144 || colspan = "4" | New ID
+|-
+| [[Drawers]] || 40145 || colspan = "4" | New ID
+|-
+| [[Drawers]] || 40146 || colspan = "4" | New ID
+|-
+| [[Drawers]] || 40147 || colspan = "4" | New ID
+|-
+| [[Broken Range]] || 40148 || colspan = "4" | New ID
+|-
+| [[Range]] || 40149 || colspan = "4" | New ID
+|-
+| [[Drawers]] || 40150 || colspan = "4" | New ID
+|-
+| [[Drawers]] || 40151 || colspan = "4" | New ID
+|-
+| [[Drawers]] || 40152 || colspan = "4" | New ID
+|-
+| [[Drawers]] || 40153 || colspan = "4" | New ID
+|-
+| [[Drawers]] || 40154 || colspan = "4" | New ID
+|-
+| [[Drawers]] || 40155 || colspan = "4" | New ID
+|-
+| [[null]] || 40156 || colspan = "4" | New ID
+|-
+| [[null]] || 40157 || colspan = "4" | New ID
+|-
+| [[null]] || 40158 || colspan = "4" | New ID
+|-
+| [[null]] || 40159 || colspan = "4" | New ID
+|-
+| [[null]] || 40160 || colspan = "4" | New ID
+|-
+| [[null]] || 40161 || colspan = "4" | New ID
+|-
+| [[null]] || 40162 || colspan = "4" | New ID
+|-
+| [[null]] || 40163 || colspan = "4" | New ID
+|-
+| [[null]] || 40164 || colspan = "4" | New ID
+|-
+| [[null]] || 40165 || colspan = "4" | New ID
+|-
+| [[null]] || 40166 || colspan = "4" | New ID
+|-
+| [[null]] || 40167 || colspan = "4" | New ID
+|-
+| [[null]] || 40168 || colspan = "4" | New ID
+|-
+| [[null]] || 40169 || colspan = "4" | New ID
+|-
+| [[null]] || 40170 || colspan = "4" | New ID
+|-
+| [[null]] || 40171 || colspan = "4" | New ID
+|-
+| [[null]] || 40172 || colspan = "4" | New ID
+|-
+| [[null]] || 40173 || colspan = "4" | New ID
+|-
+| [[null]] || 40174 || colspan = "4" | New ID
+|-
+| [[null]] || 40175 || colspan = "4" | New ID
+|-
+| [[null]] || 40176 || colspan = "4" | New ID
+|-
+| [[null]] || 40177 || colspan = "4" | New ID
+|-
+| [[Door]] || 40178 || colspan = "4" | New ID
+|-
+| [[Broken Mirror]] || 40179 || colspan = "4" | New ID
+|-
+| [[Drawers]] || 40180 || colspan = "4" | New ID
+|-
+| [[Drawers]] || 40181 || colspan = "4" | New ID
+|-
+| [[Drawers]] || 40182 || colspan = "4" | New ID
+|-
+| [[Drawers]] || 40183 || colspan = "4" | New ID
+|-
+| [[Drawers]] || 40184 || colspan = "4" | New ID
+|-
+| [[Drawers]] || 40185 || colspan = "4" | New ID
+|-
+| [[Drawers]] || 40186 || colspan = "4" | New ID
+|-
+| [[Drawers]] || 40187 || colspan = "4" | New ID
+|-
+| [[Drawers]] || 40188 || colspan = "4" | New ID
+|-
+| [[Drawers]] || 40189 || colspan = "4" | New ID
+|-
+| [[Drawers]] || 40190 || colspan = "4" | New ID
+|-
+| [[Drawers]] || 40191 || colspan = "4" | New ID
+|-
+| [[Broken Bed]] || 40192 || colspan = "4" | New ID
+|-
+| [[Bed]] || 40193 || colspan = "4" | New ID
+|-
+| [[Bed]] || 40194 || colspan = "4" | New ID
+|-
+| [[Bed]] || 40195 || colspan = "4" | New ID
+|-
+| [[Bed]] || 40196 || colspan = "4" | New ID
+|-
+| [[Bed]] || 40197 || colspan = "4" | New ID
+|-
+| [[Bed]] || 40198 || colspan = "4" | New ID
+|-
+| [[Broken Bed]] || 40199 || colspan = "4" | New ID
+|-
+| [[Bed]] || 40200 || colspan = "4" | New ID
+|-
+| [[Bed]] || 40201 || colspan = "4" | New ID
+|-
+| [[Bed]] || 40202 || colspan = "4" | New ID
+|-
+| [[Bed]] || 40203 || colspan = "4" | New ID
+|-
+| [[Bed]] || 40204 || colspan = "4" | New ID
+|-
+| [[Bed]] || 40205 || colspan = "4" | New ID
+|-
+| [[Bed]] || 40206 || colspan = "4" | New ID
+|-
+| [[Bed]] || 40207 || colspan = "4" | New ID
+|-
+| [[Bed]] || 40208 || colspan = "4" | New ID
+|-
+| [[Bed]] || 40209 || colspan = "4" | New ID
+|-
+| [[Bed]] || 40210 || colspan = "4" | New ID
+|-
+| [[Bed]] || 40211 || colspan = "4" | New ID
+|-
+| [[Broken bath]] || 40212 || colspan = "4" | New ID
+|-
+| [[Bath]] || 40213 || colspan = "4" | New ID
+|-
+| [[Crates]] || 40214 || colspan = "4" | New ID
+|-
+| [[Broken stool]] || 40215 || colspan = "4" | New ID
+|-
+| [[Broken stool]] || 40216 || colspan = "4" | New ID
+|-
+| [[Stool hotspot]] || 40217 || colspan = "4" | New ID
+|-
+| [[Stool]] || 40218 || colspan = "4" | New ID
+|-
+| [[Broken chair]] || 40219 || colspan = "4" | New ID
+|-
+| [[Broken chair]] || 40220 || colspan = "4" | New ID
+|-
+| [[Chair hotspot]] || 40221 || colspan = "4" | New ID
+|-
+| [[Chair]] || 40222 || colspan = "4" | New ID
+|-
+| [[null]] || 40223 || colspan = "4" | New ID
+|-
+| [[null]] || 40224 || colspan = "4" | New ID
+|-
+| [[Broken table]] || 40225 || colspan = "4" | New ID
+|-
+| [[Broken table]] || 40226 || colspan = "4" | New ID
+|-
+| [[Table hotspot]] || 40227 || colspan = "4" | New ID
+|-
+| [[Table]] || 40228 || colspan = "4" | New ID
+|-
+| [[Campbed]] || 40229 || colspan = "4" | New ID
+|-
+| [[Campbed]] || 40230 || colspan = "4" | New ID
+|-
+| [[Bed hotspot]] || 40231 || colspan = "4" | New ID
+|-
+| [[Bed]] || 40232 || colspan = "4" | New ID
+|-
+| [[Rotten carpet]] || 40233 || colspan = "4" | New ID
+|-
+| [[null]] || 40234 || colspan = "4" | New ID
+|-
+| [[null]] || 40235 || colspan = "4" | New ID
+|-
+| [[Rotten carpet]] || 40236 || colspan = "4" | New ID
+|-
+| [[Carpet hotspot]] || 40237 || colspan = "4" | New ID
+|-
+| [[null]] || 40238 || colspan = "4" | New ID
+|-
+| [[null]] || 40239 || colspan = "4" | New ID
+|-
+| [[Carpet]] || 40240 || colspan = "4" | New ID
+|-
+| [[null]] || 40241 || colspan = "4" | New ID
+|-
+| [[null]] || 40242 || colspan = "4" | New ID
+|-
+| [[Pitfall]] || 40243 || colspan = "4" | New ID
+|-
+| [[<col=ffff00>Dagannoth Supreme Jr.]] || 40244 || colspan = "4" | New ID
+|-
+| [[<col=ffff00>Vasa Minirio]] || 40245 || colspan = "4" | New ID
+|-
+| [[<col=ffff00>General Graardor Jr.]] || 40246 || colspan = "4" | New ID
+|-
+| [[<col=ffff00>Smolcano]] || 40247 || colspan = "4" | New ID
+|-
+| [[<col=ffff00>Baby Mole]] || 40248 || colspan = "4" | New ID
+|-
+| [[<col=ffff00>Kalphite Princess]] || 40249 || colspan = "4" | New ID
+|-
+| [[<col=ffff00>Smoke Devil]] || 40250 || colspan = "4" | New ID
+|-
+| [[<col=ffff00>Chompy chick]] || 40251 || colspan = "4" | New ID
+|-
+| [[<col=ffff00>Dark Squirrel]] || 40252 || colspan = "4" | New ID
+|-
+| [[<col=ffff00>Tangleroot]] || 40253 || colspan = "4" | New ID
+|-
+| [[<col=ffff00>Cat]] || 40254 || colspan = "4" | New ID
+|-
+| [[<col=ffff00>Cat]] || 40255 || colspan = "4" | New ID
+|-
+| [[<col=ffff00>Cat]] || 40256 || colspan = "4" | New ID
+|-
+| [[<col=ffff00>Cat]] || 40257 || colspan = "4" | New ID
+|-
+| [[<col=ffff00>Cat]] || 40258 || colspan = "4" | New ID
+|-
+| [[<col=ffff00>Cat]] || 40259 || colspan = "4" | New ID
+|-
+| [[<col=ffff00>Hellcat]] || 40260 || colspan = "4" | New ID
+|-
+| [[<col=ffff00>Overgrown cat]] || 40261 || colspan = "4" | New ID
+|-
+| [[<col=ffff00>Overgrown cat]] || 40262 || colspan = "4" | New ID
+|-
+| [[<col=ffff00>Overgrown cat]] || 40263 || colspan = "4" | New ID
+|-
+| [[<col=ffff00>Overgrown cat]] || 40264 || colspan = "4" | New ID
+|-
+| [[<col=ffff00>Overgrown cat]] || 40265 || colspan = "4" | New ID
+|-
+| [[<col=ffff00>Overgrown cat]] || 40266 || colspan = "4" | New ID
+|-
+| [[<col=ffff00>Overgrown hellcat]] || 40267 || colspan = "4" | New ID
+|-
+| [[<col=ffff00>Lazy cat]] || 40268 || colspan = "4" | New ID
+|-
+| [[<col=ffff00>Lazy cat]] || 40269 || colspan = "4" | New ID
+|-
+| [[<col=ffff00>Lazy cat]] || 40270 || colspan = "4" | New ID
+|-
+| [[<col=ffff00>Lazy cat]] || 40271 || colspan = "4" | New ID
+|-
+| [[<col=ffff00>Lazy cat]] || 40272 || colspan = "4" | New ID
+|-
+| [[<col=ffff00>Lazy cat]] || 40273 || colspan = "4" | New ID
+|-
+| [[<col=ffff00>Lazy hellcat]] || 40274 || colspan = "4" | New ID
+|-
+| [[<col=ffff00>Wily cat]] || 40275 || colspan = "4" | New ID
+|-
+| [[<col=ffff00>Wily cat]] || 40276 || colspan = "4" | New ID
+|-
+| [[<col=ffff00>Wily cat]] || 40277 || colspan = "4" | New ID
+|-
+| [[<col=ffff00>Wily cat]] || 40278 || colspan = "4" | New ID
+|-
+| [[<col=ffff00>Wily cat]] || 40279 || colspan = "4" | New ID
+|-
+| [[<col=ffff00>Wily cat]] || 40280 || colspan = "4" | New ID
+|-
+| [[<col=ffff00>Wily hellcat]] || 40281 || colspan = "4" | New ID
+|-
+| [[Drawers]] || 40282 || colspan = "4" | New ID
+|-
+| [[Drawers]] || 40283 || colspan = "4" | New ID
+|-
+| [[Boxes]] || 40284 || colspan = "4" | New ID
+|-
+| [[null]] || 40285 || colspan = "4" | New ID
+|-
+| [[null]] || 40286 || colspan = "4" | New ID
+|-
+| [[null]] || 40287 || colspan = "4" | New ID
+|-
+| [[null]] || 40288 || colspan = "4" | New ID
+|-
+| [[null]] || 40289 || colspan = "4" | New ID
+|-
+| [[null]] || 40290 || colspan = "4" | New ID
+|-
+| [[null]] || 40291 || colspan = "4" | New ID
+|-
+| [[null]] || 40292 || colspan = "4" | New ID
+|-
+| [[null]] || 40293 || colspan = "4" | New ID
+|-
+| [[null]] || 40294 || colspan = "4" | New ID
+|-
+| [[null]] || 40295 || colspan = "4" | New ID
+|-
+| [[null]] || 40296 || colspan = "4" | New ID
+|-
+| [[null]] || 40297 || colspan = "4" | New ID
+|-
+| [[null]] || 40298 || colspan = "4" | New ID
+|-
+| [[null]] || 40299 || colspan = "4" | New ID
+|-
+| [[null]] || 40300 || colspan = "4" | New ID
+|-
+| [[null]] || 40301 || colspan = "4" | New ID
+|-
+| [[null]] || 40302 || colspan = "4" | New ID
+|-
+| [[null]] || 40303 || colspan = "4" | New ID
+|-
+| [[null]] || 40304 || colspan = "4" | New ID
+|-
+| [[null]] || 40305 || colspan = "4" | New ID
+|-
+| [[null]] || 40306 || colspan = "4" | New ID
+|-
+|rowspan="2"|[[Grandfather Clock]]
+|rowspan="2"|683
+|-
+|name || [[Grandfather clock]] || [[Grandfather Clock]]
+|-
+|rowspan="2"|[[Mirror]]
+|rowspan="2"|689
+|-
+|ambient || 0 || 30
+|-
+|rowspan="2"|[[Grandfather Clock]]
+|rowspan="2"|7434
+|-
+|name || [[Clock]] || [[Grandfather Clock]]
+|-
+|rowspan="4"|[[null]]
+|rowspan="4"|13600
+|-
+|name || [[Barrel]] || [[null]]
+|-
+| wallOrDoor || 1 || 0
+|-
+| actions || ['Take-from', None, None, None, None] || [None, None, None, None, None]
+|-
+|rowspan="3"|[[null]]
+|rowspan="3"|13601
+|-
+|name || [[Large barrel]] || [[null]]
+|-
+| wallOrDoor || 1 || 0
+|-
+|rowspan="3"|[[Rug space]]
+|rowspan="3"|15389
+|-
+|objectModels || [33141, 596] || [9611]
+|-
+| objectTypes || [0, 22] || [22]
+|-
+|rowspan="3"|[[Table]]
+|rowspan="3"|27514
+|-
+|name || [[null]] || [[Table]]
+|-
+| wallOrDoor || 0 || 1
+|-
+|rowspan="3"|[[Table]]
+|rowspan="3"|27515
+|-
+|name || [[null]] || [[Table]]
+|-
+| wallOrDoor || 0 || 1
+|-
+|rowspan="3"|[[Wall]]
+|rowspan="3"|34854
+|-
+|objectModels || [37315, 37313, 37305] || [40849, 37315, 37313, 37305]
+|-
+| objectTypes || [0, 1, 9] || [10, 0, 1, 9]
+|-
+|rowspan="3"|[[null]]
+|rowspan="3"|34884
+|-
+|objectModels || [37315, 37313, 37305] || [40849, 37315, 37313, 37305]
+|-
+| objectTypes || [0, 1, 9] || [10, 0, 1, 9]
+|-
+|}

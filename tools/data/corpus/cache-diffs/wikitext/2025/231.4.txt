@@ -1,0 +1,255 @@
+__TOC__
+==Enums==
+===New Enums===
+{| class="wikitable sortable sticky-header mw-collapsible"
+|-
+! colspan="3" | New Enums
+|-
+! style="width: 15em" | id !! defaultValue !! map
+|-
+| [https://chisel.weirdgloop.org/structs/index.html?type=enums&id=3606 3606][https://abextm.github.io/cache2/#/viewer/enum/3606 (1)] ||  || 
+|-
+| [https://chisel.weirdgloop.org/structs/index.html?type=enums&id=3607 3607][https://abextm.github.io/cache2/#/viewer/enum/3607 (1)] || -1 || {'0': 30902, '1': 30904, '2': 30906, '3': 30908, '4': 30910, '5': 30912, '6': 30914, '7': 30916, '8': 30918, '9': 30920, '10': 30922, '11': 30924, '12': 30926}
+|}
+===Diff Enums===
+{| class="wikitable sortable sticky-header mw-collapsible"
+|-
+! colspan="5" | Diff Enums
+|-
+! style="width: 15em" | Id !! Key !! Previous Value !! New Value
+|-
+| rowspan="2" | [https://chisel.weirdgloop.org/structs/index.html?type=enums&id=2105 2105][https://abextm.github.io/cache2/#/viewer/enum/2105 (1)]
+|-
+| map || {'0': 593, '1': 508, '2': 509, '3': 510, '4': 511, '5': 512, '6': 2869, '7': 2870, '8': 2871, '9': 513} || {'0': 593, '1': 508, '2': 509, '3': 510, '4': 511, '5': 512, '6': 2869, '7': 2870, '8': 2871, '9': 513<span style="color: #6bc71f">, '10': 4874</span>}
+|}
+==Npcs==
+===Diff Npcs===
+{| class="wikitable sortable sticky-header mw-collapsible"
+|-
+! colspan="5" | Diff Npcs
+|-
+! style="width: 15em" | Name !! Id !! Key !! Previous Value !! New Value
+|-
+| rowspan="2" | [[Baboon Shaman]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/npc_id.html#11715 11715][https://abextm.github.io/cache2/#/viewer/npc/11715 (1)]
+|-
+| hitpoints || <span style="color: #ee4231">50</span> || <span style="color: #6bc71f">40</span>
+|-
+| rowspan="2" | [[Cursed Baboon]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/npc_id.html#11717 11717][https://abextm.github.io/cache2/#/viewer/npc/11717 (1)]
+|-
+| hitpoints || <span style="color: #ee4231">30</span> || <span style="color: #6bc71f">20</span>
+|}
+==Items==
+===New Items===
+{| class="wikitable sortable sticky-header mw-collapsible"
+|-
+! colspan="12" | New Items
+|-
+! style="width: 15em" | name !! id !! gameVal !! examine !! isMembers !! isGrandExchangable !! isStackable !! noteLinkedItem !! inventoryActions !! placeholderLinkedItem !! price !! weight
+|-
+| [[Minor beginner scroll case]] || [https://chisel.weirdgloop.org/moid/item_id.html#30902 30902][https://abextm.github.io/cache2/#/viewer/item/30902 (1)] || scroll_case_beginner_minor || Maybe I should open it... || false || false || false || -1 || [Open, None, None, None, Destroy] || 30903 || 1 || 20
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#30903 30903][https://abextm.github.io/cache2/#/viewer/item/30903 (1)] || placeholder_scroll_case_beginner_minor || null || false || false || false || -1 || [None, None, None, None, Drop] || 30902 || 1 || 0
+|-
+| [[Major beginner scroll case]] || [https://chisel.weirdgloop.org/moid/item_id.html#30904 30904][https://abextm.github.io/cache2/#/viewer/item/30904 (1)] || scroll_case_beginner_major || Maybe I should open it... || false || false || false || -1 || [Open, None, None, None, Destroy] || 30905 || 1 || 20
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#30905 30905][https://abextm.github.io/cache2/#/viewer/item/30905 (1)] || placeholder_scroll_case_beginner_major || null || false || false || false || -1 || [None, None, None, None, Drop] || 30904 || 1 || 0
+|-
+| [[Minor easy scroll case]] || [https://chisel.weirdgloop.org/moid/item_id.html#30906 30906][https://abextm.github.io/cache2/#/viewer/item/30906 (1)] || scroll_case_easy_minor || Maybe I should open it... || true || false || false || -1 || [Open, None, None, None, Destroy] || 30907 || 1 || 20
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#30907 30907][https://abextm.github.io/cache2/#/viewer/item/30907 (1)] || placeholder_scroll_case_easy_minor || null || false || false || false || -1 || [None, None, None, None, Drop] || 30906 || 1 || 0
+|-
+| [[Major easy scroll case]] || [https://chisel.weirdgloop.org/moid/item_id.html#30908 30908][https://abextm.github.io/cache2/#/viewer/item/30908 (1)] || scroll_case_easy_major || Maybe I should open it... || true || false || false || -1 || [Open, None, None, None, Destroy] || 30909 || 1 || 20
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#30909 30909][https://abextm.github.io/cache2/#/viewer/item/30909 (1)] || placeholder_scroll_case_easy_major || null || false || false || false || -1 || [None, None, None, None, Drop] || 30908 || 1 || 0
+|-
+| [[Minor medium scroll case]] || [https://chisel.weirdgloop.org/moid/item_id.html#30910 30910][https://abextm.github.io/cache2/#/viewer/item/30910 (1)] || scroll_case_medium_minor || Maybe I should open it... || true || false || false || -1 || [Open, None, None, None, Destroy] || 30911 || 1 || 20
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#30911 30911][https://abextm.github.io/cache2/#/viewer/item/30911 (1)] || placeholder_scroll_case_medium_minor || null || false || false || false || -1 || [None, None, None, None, Drop] || 30910 || 1 || 0
+|-
+| [[Major medium scroll case]] || [https://chisel.weirdgloop.org/moid/item_id.html#30912 30912][https://abextm.github.io/cache2/#/viewer/item/30912 (1)] || scroll_case_medium_major || Maybe I should open it... || true || false || false || -1 || [Open, None, None, None, Destroy] || 30913 || 1 || 20
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#30913 30913][https://abextm.github.io/cache2/#/viewer/item/30913 (1)] || placeholder_scroll_case_medium_major || null || false || false || false || -1 || [None, None, None, None, Drop] || 30912 || 1 || 0
+|-
+| [[Minor hard scroll case]] || [https://chisel.weirdgloop.org/moid/item_id.html#30914 30914][https://abextm.github.io/cache2/#/viewer/item/30914 (1)] || scroll_case_hard_minor || Maybe I should open it... || true || false || false || -1 || [Open, None, None, None, Destroy] || 30915 || 1 || 20
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#30915 30915][https://abextm.github.io/cache2/#/viewer/item/30915 (1)] || placeholder_scroll_case_hard_minor || null || false || false || false || -1 || [None, None, None, None, Drop] || 30914 || 1 || 0
+|-
+| [[Major hard scroll case]] || [https://chisel.weirdgloop.org/moid/item_id.html#30916 30916][https://abextm.github.io/cache2/#/viewer/item/30916 (1)] || scroll_case_hard_major || Maybe I should open it... || true || false || false || -1 || [Open, None, None, None, Destroy] || 30917 || 1 || 20
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#30917 30917][https://abextm.github.io/cache2/#/viewer/item/30917 (1)] || placeholder_scroll_case_hard_major || null || false || false || false || -1 || [None, None, None, None, Drop] || 30916 || 1 || 0
+|-
+| [[Minor elite scroll case]] || [https://chisel.weirdgloop.org/moid/item_id.html#30918 30918][https://abextm.github.io/cache2/#/viewer/item/30918 (1)] || scroll_case_elite_minor || Maybe I should open it... || true || false || false || -1 || [Open, None, None, None, Destroy] || 30919 || 1 || 20
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#30919 30919][https://abextm.github.io/cache2/#/viewer/item/30919 (1)] || placeholder_scroll_case_elite_minor || null || false || false || false || -1 || [None, None, None, None, Drop] || 30918 || 1 || 0
+|-
+| [[Major elite scroll case]] || [https://chisel.weirdgloop.org/moid/item_id.html#30920 30920][https://abextm.github.io/cache2/#/viewer/item/30920 (1)] || scroll_case_elite_major || Maybe I should open it... || true || false || false || -1 || [Open, None, None, None, Destroy] || 30921 || 1 || 20
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#30921 30921][https://abextm.github.io/cache2/#/viewer/item/30921 (1)] || placeholder_scroll_case_elite_major || null || false || false || false || -1 || [None, None, None, None, Drop] || 30920 || 1 || 0
+|-
+| [[Minor master scroll case]] || [https://chisel.weirdgloop.org/moid/item_id.html#30922 30922][https://abextm.github.io/cache2/#/viewer/item/30922 (1)] || scroll_case_master_minor || Maybe I should open it... || true || false || false || -1 || [Open, None, None, None, Destroy] || 30923 || 1 || 20
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#30923 30923][https://abextm.github.io/cache2/#/viewer/item/30923 (1)] || placeholder_scroll_case_master_minor || null || false || false || false || -1 || [None, None, None, None, Drop] || 30922 || 1 || 0
+|-
+| [[Major master scroll case]] || [https://chisel.weirdgloop.org/moid/item_id.html#30924 30924][https://abextm.github.io/cache2/#/viewer/item/30924 (1)] || scroll_case_master_major || Maybe I should open it... || true || false || false || -1 || [Open, None, None, None, Destroy] || 30925 || 1 || 20
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#30925 30925][https://abextm.github.io/cache2/#/viewer/item/30925 (1)] || placeholder_scroll_case_master_major || null || false || false || false || -1 || [None, None, None, None, Drop] || 30924 || 1 || 0
+|-
+| [[Mimic scroll case]] || [https://chisel.weirdgloop.org/moid/item_id.html#30926 30926][https://abextm.github.io/cache2/#/viewer/item/30926 (1)] || scroll_case_mimic || Maybe I should open it... || true || false || false || -1 || [Open, None, None, None, Destroy] || 30927 || 1 || 20
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#30927 30927][https://abextm.github.io/cache2/#/viewer/item/30927 (1)] || placeholder_scroll_case_mimic || null || false || false || false || -1 || [None, None, None, None, Drop] || 30926 || 1 || 0
+|}
+===Diff Items===
+{| class="wikitable sortable sticky-header mw-collapsible"
+|-
+! colspan="5" | Diff Items
+|-
+! style="width: 15em" | Name !! Id !! Key !! Previous Value !! New Value
+|-
+| rowspan="2" | [[Scroll box (beginner)]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#24361 24361][https://abextm.github.io/cache2/#/viewer/item/24361 (1)]
+|-
+| category || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">2175</span>
+|-
+| rowspan="2" | [[Scroll box (easy)]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#24362 24362][https://abextm.github.io/cache2/#/viewer/item/24362 (1)]
+|-
+| category || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">2175</span>
+|-
+| rowspan="2" | [[Scroll box (medium)]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#24363 24363][https://abextm.github.io/cache2/#/viewer/item/24363 (1)]
+|-
+| category || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">2175</span>
+|-
+| rowspan="2" | [[Scroll box (hard)]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#24364 24364][https://abextm.github.io/cache2/#/viewer/item/24364 (1)]
+|-
+| category || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">2175</span>
+|-
+| rowspan="2" | [[Scroll box (elite)]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#24365 24365][https://abextm.github.io/cache2/#/viewer/item/24365 (1)]
+|-
+| category || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">2175</span>
+|-
+| rowspan="2" | [[Scroll box (master)]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#24366 24366][https://abextm.github.io/cache2/#/viewer/item/24366 (1)]
+|-
+| category || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">2175</span>
+|-
+| rowspan="2" | [[Null]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#28180 28180][https://abextm.github.io/cache2/#/viewer/item/28180 (1)]
+|-
+| params || {'336': 0, '365': <span style="color: #ee4231">564</span>, '366': 2, '367': 558, '368': 2, '596': 14287041, '597': 368, '598': 418, '599': 1805, '600': 1885, '601': 'Monster Inspect', '602': 'Inspect various statistics of a monster', '603': 1, '604': 42, '605': 1} || {'336': 0, '365': <span style="color: #6bc71f">559</span>, '366': 2, '367': 558, '368': 2, '596': 14287041, '597': 368, '598': 418, '599': 1805, '600': 1885, '601': 'Monster Inspect', '602': 'Inspect various statistics of a monster', '603': 1, '604': 42, '605': 1}
+|-
+| rowspan="2" | [[Steel ring]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#30895 30895][https://abextm.github.io/cache2/#/viewer/item/30895 (1)]
+|-
+| params || {'5': 24, '6': 24, '7': <span style="color: #ee4231">2</span>, '9': 0} || {'5': 24, '6': 24, '7': <span style="color: #6bc71f">24</span>, '9': 0}
+|}
+==Params==
+===New Params===
+{| class="wikitable sortable sticky-header mw-collapsible"
+|-
+! colspan="5" | New Params
+|-
+! style="width: 15em" | id !! type !! defaultInt !! defaultString !! isMembers
+|-
+| [https://chisel.weirdgloop.org/structs/index.html?type=enums&id=2276 2276][https://abextm.github.io/cache2/#/viewer/enum/2276 (1)] || 0 || 0 || null || false
+|}
+==Animations==
+===Diff Animations===
+{| class="wikitable sortable sticky-header mw-collapsible"
+|-
+! colspan="5" | Diff Animations
+|-
+! style="width: 15em" | Id !! Key !! Previous Value !! New Value
+|-
+| rowspan="2" | 1854
+|-
+| gameVal ||  || <span style="color: #6bc71f">dwarf_rock_interface_anim</span>
+|}
+==Varbits==
+===New Varbits===
+{| class="wikitable sortable sticky-header mw-collapsible"
+|-
+! colspan="5" | New Varbits
+|-
+! style="width: 15em" | id !! gameVal !! index !! leastSignificantBit !! mostSignificantBit
+|-
+| [https://chisel.weirdgloop.org/varbs/display?varbit=16565 16565] || scroll_case_beginner_minor || 4730 || 0 || 0
+|-
+| [https://chisel.weirdgloop.org/varbs/display?varbit=16566 16566] || scroll_case_beginner_major || 4730 || 1 || 1
+|-
+| [https://chisel.weirdgloop.org/varbs/display?varbit=16567 16567] || scroll_case_easy_minor || 4730 || 2 || 2
+|-
+| [https://chisel.weirdgloop.org/varbs/display?varbit=16586 16586] || scroll_case_easy_major || 4730 || 3 || 3
+|-
+| [https://chisel.weirdgloop.org/varbs/display?varbit=16587 16587] || scroll_case_medium_minor || 4730 || 4 || 4
+|-
+| [https://chisel.weirdgloop.org/varbs/display?varbit=16588 16588] || scroll_case_medium_major || 4730 || 5 || 5
+|-
+| [https://chisel.weirdgloop.org/varbs/display?varbit=16589 16589] || scroll_case_hard_minor || 4730 || 6 || 6
+|-
+| [https://chisel.weirdgloop.org/varbs/display?varbit=16590 16590] || scroll_case_hard_major || 4730 || 7 || 7
+|-
+| [https://chisel.weirdgloop.org/varbs/display?varbit=16591 16591] || scroll_case_elite_minor || 4730 || 8 || 8
+|-
+| [https://chisel.weirdgloop.org/varbs/display?varbit=16592 16592] || scroll_case_elite_major || 4730 || 9 || 9
+|-
+| [https://chisel.weirdgloop.org/varbs/display?varbit=16593 16593] || scroll_case_master_minor || 4730 || 10 || 10
+|-
+| [https://chisel.weirdgloop.org/varbs/display?varbit=16594 16594] || scroll_case_master_major || 4730 || 11 || 11
+|-
+| [https://chisel.weirdgloop.org/varbs/display?varbit=16595 16595] || scroll_case_mimic || 4730 || 12 || 12
+|-
+| [https://chisel.weirdgloop.org/varbs/display?varbit=16596 16596] ||  || 4706 || 0 || 0
+|-
+| [https://chisel.weirdgloop.org/varbs/display?varbit=16597 16597] ||  || 4706 || 1 || 1
+|-
+| [https://chisel.weirdgloop.org/varbs/display?varbit=16598 16598] ||  || 4706 || 2 || 2
+|-
+| [https://chisel.weirdgloop.org/varbs/display?varbit=16599 16599] ||  || 4706 || 3 || 3
+|-
+| [https://chisel.weirdgloop.org/varbs/display?varbit=16600 16600] ||  || 4706 || 4 || 4
+|-
+| [https://chisel.weirdgloop.org/varbs/display?varbit=16601 16601] ||  || 4706 || 5 || 5
+|-
+| [https://chisel.weirdgloop.org/varbs/display?varbit=16602 16602] ||  || 4706 || 6 || 6
+|-
+| [https://chisel.weirdgloop.org/varbs/display?varbit=16603 16603] ||  || 4706 || 7 || 7
+|-
+| [https://chisel.weirdgloop.org/varbs/display?varbit=16604 16604] ||  || 4706 || 8 || 8
+|-
+| [https://chisel.weirdgloop.org/varbs/display?varbit=16605 16605] ||  || 4706 || 9 || 9
+|-
+| [https://chisel.weirdgloop.org/varbs/display?varbit=16606 16606] ||  || 4706 || 10 || 10
+|-
+| [https://chisel.weirdgloop.org/varbs/display?varbit=16607 16607] ||  || 4706 || 11 || 11
+|-
+| [https://chisel.weirdgloop.org/varbs/display?varbit=16608 16608] ||  || 4706 || 12 || 12
+|-
+| [https://chisel.weirdgloop.org/varbs/display?varbit=16609 16609] || collection_clues_scroll_cases_completed || 3977 || 16 || 16
+|-
+| [https://chisel.weirdgloop.org/varbs/display?varbit=16616 16616] || giant_bone_bury_warning_disable || 415 || 31 || 31
+|}
+==VarPlayers==
+===New VarPlayers===
+{| class="wikitable sortable sticky-header mw-collapsible"
+|-
+! colspan="2" | New VarPlayers
+|-
+! style="width: 15em" | id !! gameVal
+|-
+| [https://chisel.weirdgloop.org/varbs/display?varplayer=4730 4730] || scroll_case_track
+|}
+==Structs==
+===New Structs===
+{| class="wikitable sortable sticky-header mw-collapsible"
+|-
+! colspan="2" | New Structs
+|-
+! style="width: 15em" | id !! params
+|-
+| [https://chisel.weirdgloop.org/structs/index.html?type=structs&id=4874 4874][https://abextm.github.io/cache2/#/viewer/struct/4874 (1)] || {'689': 'Scroll Cases', '690': 3607}
+|}

@@ -1,17 +1,17 @@
 package org.rsmod.content.other.progressivebots
 
+import java.util.concurrent.ConcurrentHashMap
 import org.rsmod.game.entity.Npc
 import org.rsmod.map.CoordGrid
-import java.util.concurrent.ConcurrentHashMap
 
 /**
- * Global registry to prevent multiple progressive bots from clustering on the same
- * NPC or resource node (e.g. tree, rock).
+ * Global registry to prevent multiple progressive bots from clustering on the same NPC or resource
+ * node (e.g. tree, rock).
  */
 object ClaimRegistry {
     // Map of NPC slotId -> bot username claiming it
     private val npcClaims = ConcurrentHashMap<Int, String>()
-    
+
     // Map of Coordinate (resource loc) -> bot username claiming it
     private val locClaims = ConcurrentHashMap<CoordGrid, String>()
 
@@ -42,7 +42,7 @@ object ClaimRegistry {
         val claim = locClaims[coords]
         return claim != null && claim != botUsername
     }
-    
+
     fun releaseAll(botUsername: String) {
         npcClaims.entries.removeIf { it.value == botUsername }
         locClaims.entries.removeIf { it.value == botUsername }

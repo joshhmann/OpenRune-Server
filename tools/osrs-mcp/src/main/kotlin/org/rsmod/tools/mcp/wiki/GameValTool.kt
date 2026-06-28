@@ -6,7 +6,8 @@ import java.io.File
 import java.nio.file.Files
 import java.nio.file.Path
 
-class GameValTool private constructor(
+class GameValTool
+private constructor(
     private val entries: List<GameValEntry>,
     private val objFullKeyIndex: Map<String, String>,
     private val objKeyIndex: Map<String, String>,
@@ -33,7 +34,7 @@ class GameValTool private constructor(
         if (normalizedTable.isNotBlank() && normalizedTable !in RSCMType.RSCM_PREFIXES) {
             val allowed = RSCMType.entries.joinToString(", ") { it.prefix }
             throw IllegalArgumentException(
-                "Unknown 'table' prefix '${table?.trim()}'. Valid prefixes: $allowed",
+                "Unknown 'table' prefix '${table?.trim()}'. Valid prefixes: $allowed"
             )
         }
 
@@ -72,7 +73,8 @@ class GameValTool private constructor(
                 }
             }
 
-        val sorted = scored.sortedWith(compareBy<ScoredEntry> { it.score }.thenBy { it.entry.fullKey })
+        val sorted =
+            scored.sortedWith(compareBy<ScoredEntry> { it.score }.thenBy { it.entry.fullKey })
         val limited = sorted.take(limit.coerceAtLeast(1)).map { it.entry }
         return SearchResult(
             totalMatches = sorted.size,
@@ -115,28 +117,31 @@ class GameValTool private constructor(
 
         private fun fromProvider(provider: GameValProvider): GameValTool {
             val entries =
-                provider.mappings.flatMap { (table, tableMap) ->
-                    tableMap.map { (fullKey, id) ->
-                        val key =
-                            if (fullKey.startsWith("$table.")) {
-                                fullKey.removePrefix("$table.")
-                            } else {
-                                fullKey
-                            }
-                        GameValEntry(
-                            table = table,
-                            key = key,
-                            fullKey = fullKey,
-                            id = id,
-                            source = "merged",
-                        )
+                provider.mappings
+                    .flatMap { (table, tableMap) ->
+                        tableMap.map { (fullKey, id) ->
+                            val key =
+                                if (fullKey.startsWith("$table.")) {
+                                    fullKey.removePrefix("$table.")
+                                } else {
+                                    fullKey
+                                }
+                            GameValEntry(
+                                table = table,
+                                key = key,
+                                fullKey = fullKey,
+                                id = id,
+                                source = "merged",
+                            )
+                        }
                     }
-                }.sortedBy { it.fullKey }
+                    .sortedBy { it.fullKey }
 
             val objEntries = entries.filter { it.table.equals("obj", ignoreCase = true) }
             val objFullKeyIndex =
                 objEntries.associate { entry -> entry.fullKey.lowercase() to entry.fullKey }
-            val objKeyIndex = objEntries.associate { entry -> entry.key.lowercase() to entry.fullKey }
+            val objKeyIndex =
+                objEntries.associate { entry -> entry.key.lowercase() to entry.fullKey }
             val objIdIndex =
                 objEntries
                     .groupBy { it.id }
@@ -166,7 +171,12 @@ class GameValTool private constructor(
                 val parent = Path.of(logDir).toAbsolutePath().normalize().parent
                 if (
                     parent != null &&
-                    Files.isRegularFile(parent.resolve(".data").resolve("gamevals-binary").resolve("gamevals.dat"))
+                        Files.isRegularFile(
+                            parent
+                                .resolve(".data")
+                                .resolve("gamevals-binary")
+                                .resolve("gamevals.dat")
+                        )
                 ) {
                     return parent
                 }
@@ -175,14 +185,22 @@ class GameValTool private constructor(
             val envRoot = System.getenv("RSPS_ROOT")?.takeIf { it.isNotBlank() }
             if (envRoot != null) {
                 val envPath = Path.of(envRoot).toAbsolutePath().normalize()
-                if (Files.isRegularFile(envPath.resolve(".data").resolve("gamevals-binary").resolve("gamevals.dat"))) {
+                if (
+                    Files.isRegularFile(
+                        envPath.resolve(".data").resolve("gamevals-binary").resolve("gamevals.dat")
+                    )
+                ) {
                     return envPath
                 }
             }
 
             val classpathRoots = guessRootsFromClasspath()
             for (candidateRoot in classpathRoots) {
-                val candidate = candidateRoot.resolve(".data").resolve("gamevals-binary").resolve("gamevals.dat")
+                val candidate =
+                    candidateRoot
+                        .resolve(".data")
+                        .resolve("gamevals-binary")
+                        .resolve("gamevals.dat")
                 if (Files.isRegularFile(candidate)) {
                     return candidateRoot
                 }
@@ -190,7 +208,8 @@ class GameValTool private constructor(
 
             var cursor: Path? = Path.of(System.getProperty("user.dir")).toAbsolutePath().normalize()
             while (cursor != null) {
-                val candidate = cursor.resolve(".data").resolve("gamevals-binary").resolve("gamevals.dat")
+                val candidate =
+                    cursor.resolve(".data").resolve("gamevals-binary").resolve("gamevals.dat")
                 if (Files.isRegularFile(candidate)) {
                     return cursor
                 }
@@ -198,7 +217,7 @@ class GameValTool private constructor(
             }
             throw IllegalStateException(
                 "Unable to locate repository root containing '.data/gamevals-binary/gamevals.dat'. " +
-                    "Set RSPS_ROOT or pass 'rootDir'.",
+                    "Set RSPS_ROOT or pass 'rootDir'."
             )
         }
 
@@ -211,7 +230,9 @@ class GameValTool private constructor(
 
             val roots = linkedSetOf<Path>()
             for (entry in classpath.split(separator)) {
-                val path = runCatching { Path.of(entry).toAbsolutePath().normalize() }.getOrNull() ?: continue
+                val path =
+                    runCatching { Path.of(entry).toAbsolutePath().normalize() }.getOrNull()
+                        ?: continue
                 if (!Files.exists(path)) {
                     continue
                 }

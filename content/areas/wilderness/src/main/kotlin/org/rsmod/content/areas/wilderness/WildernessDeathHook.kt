@@ -29,7 +29,8 @@ public class WildernessDeathHook @Inject constructor() : PlayerDeathHook {
             dropDuration = DROP_DURATION_PVP,
             revealDelay = if (context.killer != null) PVP_REVEAL_DELAY else 0,
             supplyPile = false,
-            untradeableHandling = if (above20) UntradeableHandling.COINS else UntradeableHandling.DROP,
+            untradeableHandling =
+                if (above20) UntradeableHandling.COINS else UntradeableHandling.DROP,
         )
     }
 

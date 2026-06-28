@@ -6,7 +6,8 @@ import dtx.rs.RSPrerollTableBuilder
 import org.rsmod.game.entity.Player
 
 @DropTableDsl
-public class DropChanceTableScope internal constructor(
+public class DropChanceTableScope
+internal constructor(
     private val builder: RSPrerollTableBuilder<Player, DropRollItem>,
     private val rollStyle: ChanceRollStyle,
 ) {
@@ -28,7 +29,13 @@ public class DropChanceTableScope internal constructor(
     }
 
     public infix fun Int.outOf(denominator: Int): PendingRateFirstAccess =
-        PendingRateFirstAccess(builder, this, denominator, rollStyle, ::registerPendingRateFirstItem)
+        PendingRateFirstAccess(
+            builder,
+            this,
+            denominator,
+            rollStyle,
+            ::registerPendingRateFirstItem,
+        )
 
     public fun onBuilder(block: RSPrerollTableBuilder<Player, DropRollItem>.() -> Unit) {
         builder.block()
@@ -41,7 +48,8 @@ internal enum class ChanceRollStyle {
 }
 
 @DropTableDsl
-public class PendingRateFirstAccess internal constructor(
+public class PendingRateFirstAccess
+internal constructor(
     private val builder: RSPrerollTableBuilder<Player, DropRollItem>,
     private val numerator: Int,
     private val denominator: Int,
@@ -60,20 +68,17 @@ public class PendingRateFirstAccess internal constructor(
     }
 
     public infix fun rolls(rollable: Rollable<Player, DropRollItem>) {
-        builder.apply {
-            (numerator outOf denominator) rolls rollable
-        }
+        builder.apply { (numerator outOf denominator) rolls rollable }
     }
 
     public infix fun rolls(item: DropRollItem) {
-        builder.apply {
-            (numerator outOf denominator) rolls item
-        }
+        builder.apply { (numerator outOf denominator) rolls item }
     }
 }
 
 @DropTableDsl
-public class PendingRateFirstItemBuilder internal constructor(
+public class PendingRateFirstItemBuilder
+internal constructor(
     private val builder: RSPrerollTableBuilder<Player, DropRollItem>,
     private val numerator: Int,
     private val denominator: Int,
@@ -89,7 +94,8 @@ public class PendingRateFirstItemBuilder internal constructor(
 }
 
 @DropTableDsl
-public class PendingRateFirstItem internal constructor(
+public class PendingRateFirstItem
+internal constructor(
     private val builder: RSPrerollTableBuilder<Player, DropRollItem>,
     private val numerator: Int,
     private val denominator: Int,
@@ -142,7 +148,7 @@ internal fun RSPrerollTableBuilder<Player, DropRollItem>.addRateFirstRollable(
 }
 
 public fun rsPlayerTertiaryTable(
-    block: DropChanceTableScope.() -> Unit,
+    block: DropChanceTableScope.() -> Unit
 ): RSPreRollTable<Player, DropRollItem> {
     val builder = RSPrerollTableBuilder<Player, DropRollItem>()
     DropChanceTableScope(builder, ChanceRollStyle.Chance).apply {
@@ -153,7 +159,7 @@ public fun rsPlayerTertiaryTable(
 }
 
 public fun rsPlayerPrerollTable(
-    block: DropChanceTableScope.() -> Unit,
+    block: DropChanceTableScope.() -> Unit
 ): RSPreRollTable<Player, DropRollItem> {
     val builder = RSPrerollTableBuilder<Player, DropRollItem>()
     DropChanceTableScope(builder, ChanceRollStyle.Rolls).apply {

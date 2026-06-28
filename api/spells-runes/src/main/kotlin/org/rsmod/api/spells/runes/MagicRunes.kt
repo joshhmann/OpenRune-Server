@@ -1,7 +1,5 @@
 package org.rsmod.api.spells.runes
 
-import dev.openrune.ServerCacheManager
-import dev.openrune.definition.type.VarBitType
 import dev.openrune.rscm.RSCM
 import dev.openrune.rscm.RSCM.asRSCM
 import dev.openrune.rscm.RSCMType
@@ -399,8 +397,7 @@ public object MagicRunes {
     }
 
     public sealed class Source {
-        public data class InvSource(val obj: String, val slot: Int, val count: Int) :
-            Source()
+        public data class InvSource(val obj: String, val slot: Int, val count: Int) : Source()
 
         public data class VarBitSource(val varbit: String, val count: Int) : Source()
     }

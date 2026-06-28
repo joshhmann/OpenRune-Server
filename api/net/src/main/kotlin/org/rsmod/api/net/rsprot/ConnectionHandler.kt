@@ -144,7 +144,7 @@ private constructor(
                 eventBus = eventBus,
                 accountRegistry = accountReg,
                 playerRegistry = playerReg,
-                devModeModLevel = devModeModLevel?: error("Dev mode mod level not found."),
+                devModeModLevel = devModeModLevel ?: error("Dev mode mod level not found."),
                 loginBlock = block,
                 channelResponses = responseHandler,
                 inputPassword = password.copyOf(),
@@ -156,7 +156,8 @@ private constructor(
         val loadAuth = auth.otpAuthentication.toAccountLoadAuth()
         val username = block.username
 
-        // OpenRune Central validates credentials; the game DB still needs rows for account_characters.
+        // OpenRune Central validates credentials; the game DB still needs rows for
+        // account_characters.
         // Auto-register locally on first login (same as no separate register page).
         // Password hashing can saturate CPU — tune rsprot `loginFlowExecutor` if needed.
         val hashedPassword = computePasswordHash(password)

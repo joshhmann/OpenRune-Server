@@ -8,15 +8,12 @@ import org.rsmod.map.CoordGrid
 import org.rsmod.plugin.scripts.PluginScript
 import org.rsmod.plugin.scripts.ScriptContext
 
-class ScurriusScript
-@Inject
-constructor(private val npcRepo: NpcRepository) :
-    PluginScript() {
+class ScurriusScript @Inject constructor(private val npcRepo: NpcRepository) : PluginScript() {
     override fun ScriptContext.startup() {
-        //onOpLoc1(ENTRANCE_LOC) { enterPublicRoom() }
-        //onOpLoc2(ENTRANCE_LOC) { enterPrivateInstance() }
-        //onOpLoc1(EXIT_LOC) { exit() }
-        //onOpLoc2(EXIT_LOC) { exit() }
+        // onOpLoc1(ENTRANCE_LOC) { enterPublicRoom() }
+        // onOpLoc2(ENTRANCE_LOC) { enterPrivateInstance() }
+        // onOpLoc1(EXIT_LOC) { exit() }
+        // onOpLoc2(EXIT_LOC) { exit() }
     }
 
     private suspend fun ProtectedAccess.enterPublicRoom() {
@@ -24,28 +21,28 @@ constructor(private val npcRepo: NpcRepository) :
         telejump(PLAYER_SPAWN)
     }
 
-//    private suspend fun ProtectedAccess.enterPrivateInstance() {
-//        arriveDelay()
-//        val instance =
-//            instanceRepo.create(ARENA_TEMPLATE, ENTRANCE_COORDS)
-//                ?: run {
-//                    mes("The instance is currently unavailable. Please try again.")
-//                    return
-//                }
-//        val bossCoords = instance.region.normal[BOSS_SPAWN]
-//        npcRepo.add(Npc(NPC_SCURRIUS, bossCoords), Int.MAX_VALUE)
-//        instanceRepo.enter(instance, player)
-//        telejump(instance.region.normal[PLAYER_SPAWN])
-//    }
+    //    private suspend fun ProtectedAccess.enterPrivateInstance() {
+    //        arriveDelay()
+    //        val instance =
+    //            instanceRepo.create(ARENA_TEMPLATE, ENTRANCE_COORDS)
+    //                ?: run {
+    //                    mes("The instance is currently unavailable. Please try again.")
+    //                    return
+    //                }
+    //        val bossCoords = instance.region.normal[BOSS_SPAWN]
+    //        npcRepo.add(Npc(NPC_SCURRIUS, bossCoords), Int.MAX_VALUE)
+    //        instanceRepo.enter(instance, player)
+    //        telejump(instance.region.normal[PLAYER_SPAWN])
+    //    }
 
-//    private suspend fun ProtectedAccess.exit() {
-//        arriveDelay()
-//        val instance = instanceRepo.instanceOf(player)
-//        if (instance != null) {
-//            instanceRepo.leave(instance, player)
-//        }
-//        telejump(ENTRANCE_COORDS)
-//    }
+    //    private suspend fun ProtectedAccess.exit() {
+    //        arriveDelay()
+    //        val instance = instanceRepo.instanceOf(player)
+    //        if (instance != null) {
+    //            instanceRepo.leave(instance, player)
+    //        }
+    //        telejump(ENTRANCE_COORDS)
+    //    }
 
     companion object {
         private const val ENTRANCE_LOC = "loc.rat_boss_entrance"

@@ -14,6 +14,7 @@ import org.rsmod.game.type.getOrNull
 internal object SlayerHelmCombatChecks {
     private val BLACK_MASK_KEYS: Set<String> =
         setOf("nzone_black_mask") + (1..10).map { "nzone_black_mask_$it" }.toSet()
+
     fun InvObj?.providesMeleeTaskBoost(): Boolean {
         val type = getOrNull(this) ?: return false
         val key = type.itemKey()
@@ -29,7 +30,9 @@ internal object SlayerHelmCombatChecks {
     fun InvObj?.providesImbuedRangedMagicTaskBoost(): Boolean {
         val type = getOrNull(this) ?: return false
         val key = type.itemKey()
-        if (type.param(BaseParams.blackmask_imbued) != 0 || key?.isImbuedBlackMaskItemKey() == true) {
+        if (
+            type.param(BaseParams.blackmask_imbued) != 0 || key?.isImbuedBlackMaskItemKey() == true
+        ) {
             return true
         }
         return key?.isImbuedSlayerHelmItem() == true

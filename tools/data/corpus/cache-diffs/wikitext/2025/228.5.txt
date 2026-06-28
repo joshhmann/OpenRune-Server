@@ -1,0 +1,1483 @@
+__TOC__
+==Objects==
+===New Objects===
+{| class="wikitable sortable"
+|-
+! colspan="3" | New Objects
+|-
+! style="width: 15em" | name !! id !! actions
+|}
+===Removed Objects===
+{| class="wikitable sortable"
+|-
+! colspan="3" | Removed Objects
+|-
+! style="width: 15em" | name !! id !! actions
+|-
+| [[Potion shelves]] || [https://chisel.weirdgloop.org/moid/object_id.html#16375 16375][https://abextm.github.io/cache2/#/viewer/obj/16375 (1)] || [None, None, None, None, None]
+|-
+| [[Rowboat]] || [https://chisel.weirdgloop.org/moid/object_id.html#28678 28678][https://abextm.github.io/cache2/#/viewer/obj/28678 (1)] || [None, None, None, None, None]
+|}
+===Diff Objects===
+{| class="wikitable sortable sticky-header"
+|-
+! colspan="5" | Diff Objects
+|-
+! style="width: 15em" | Name !! Id !! Key !! Previous Value !! New Value
+|-
+| rowspan="5" | [[Door]]
+| rowspan="5" | [https://chisel.weirdgloop.org/moid/object_id.html#2546 2546][https://abextm.github.io/cache2/#/viewer/obj/2546 (1)]
+|-
+| recolorFrom || <span style="color: #ee4231">[7089]</span> || 
+|-
+| recolorTo || <span style="color: #ee4231">[61]</span> || 
+|-
+| retextureFrom || <span style="color: #ee4231">[3]</span> || 
+|-
+| retextureTo || <span style="color: #ee4231">[16]</span> || 
+|-
+| rowspan="5" | [[Door]]
+| rowspan="5" | [https://chisel.weirdgloop.org/moid/object_id.html#2547 2547][https://abextm.github.io/cache2/#/viewer/obj/2547 (1)]
+|-
+| recolorFrom || <span style="color: #ee4231">[7089]</span> || 
+|-
+| recolorTo || <span style="color: #ee4231">[61]</span> || 
+|-
+| retextureFrom || <span style="color: #ee4231">[3]</span> || 
+|-
+| retextureTo || <span style="color: #ee4231">[16]</span> || 
+|-
+| rowspan="5" | [[Door]]
+| rowspan="5" | [https://chisel.weirdgloop.org/moid/object_id.html#2548 2548][https://abextm.github.io/cache2/#/viewer/obj/2548 (1)]
+|-
+| recolorFrom || <span style="color: #ee4231">[7089]</span> || 
+|-
+| recolorTo || <span style="color: #ee4231">[61]</span> || 
+|-
+| retextureFrom || <span style="color: #ee4231">[3]</span> || 
+|-
+| retextureTo || <span style="color: #ee4231">[16]</span> || 
+|-
+| rowspan="5" | [[Door]]
+| rowspan="5" | [https://chisel.weirdgloop.org/moid/object_id.html#2549 2549][https://abextm.github.io/cache2/#/viewer/obj/2549 (1)]
+|-
+| recolorFrom || <span style="color: #ee4231">[7089]</span> || 
+|-
+| recolorTo || <span style="color: #ee4231">[61]</span> || 
+|-
+| retextureFrom || <span style="color: #ee4231">[3]</span> || 
+|-
+| retextureTo || <span style="color: #ee4231">[16]</span> || 
+|-
+| rowspan="2" | [[Net trap]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#8734 8734][https://abextm.github.io/cache2/#/viewer/obj/8734 (1)]
+|-
+| actions || [Check, <span style="color: #ee4231">None</span>, None, None, None] || [Check, <span style="color: #6bc71f">Reset</span>, None, None, None]
+|-
+| rowspan="2" | [[Net trap]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#8973 8973][https://abextm.github.io/cache2/#/viewer/obj/8973 (1)]
+|-
+| actions || [Dismantle, <span style="color: #ee4231">None</span>, None, None, None] || [Dismantle, <span style="color: #6bc71f">Reset</span>, None, None, None]
+|-
+| rowspan="2" | [[Net trap]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#8986 8986][https://abextm.github.io/cache2/#/viewer/obj/8986 (1)]
+|-
+| actions || [Check, <span style="color: #ee4231">None</span>, None, None, None] || [Check, <span style="color: #6bc71f">Reset</span>, None, None, None]
+|-
+| rowspan="2" | [[Net trap]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#8988 8988][https://abextm.github.io/cache2/#/viewer/obj/8988 (1)]
+|-
+| actions || [Dismantle, <span style="color: #ee4231">None</span>, None, None, None] || [Dismantle, <span style="color: #6bc71f">Reset</span>, None, None, None]
+|-
+| rowspan="2" | [[Net trap]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#8996 8996][https://abextm.github.io/cache2/#/viewer/obj/8996 (1)]
+|-
+| actions || [Check, <span style="color: #ee4231">None</span>, None, None, None] || [Check, <span style="color: #6bc71f">Reset</span>, None, None, None]
+|-
+| rowspan="2" | [[Net trap]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#8998 8998][https://abextm.github.io/cache2/#/viewer/obj/8998 (1)]
+|-
+| actions || [Dismantle, <span style="color: #ee4231">None</span>, None, None, None] || [Dismantle, <span style="color: #6bc71f">Reset</span>, None, None, None]
+|-
+| rowspan="2" | [[Net trap]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#9004 9004][https://abextm.github.io/cache2/#/viewer/obj/9004 (1)]
+|-
+| actions || [Check, <span style="color: #ee4231">None</span>, None, None, None] || [Check, <span style="color: #6bc71f">Reset</span>, None, None, None]
+|-
+| rowspan="2" | [[Net trap]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#9158 9158][https://abextm.github.io/cache2/#/viewer/obj/9158 (1)]
+|-
+| actions || [Dismantle, <span style="color: #ee4231">None</span>, None, None, None] || [Dismantle, <span style="color: #6bc71f">Reset</span>, None, None, None]
+|-
+| rowspan="5" | [[null]]
+| rowspan="5" | [https://chisel.weirdgloop.org/moid/object_id.html#10037 10037][https://abextm.github.io/cache2/#/viewer/obj/10037 (1)]
+|-
+| name || <span style="color: #ee4231">Rope</span> || <span style="color: #6bc71f">null</span>
+|-
+| clipType || <span style="color: #ee4231">2</span> || 
+|-
+| isDoor || <span style="color: #ee4231">1</span> || 
+|-
+| supportItems || <span style="color: #ee4231">1</span> || 
+|-
+| rowspan="3" | [[null]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/object_id.html#12034 12034][https://abextm.github.io/cache2/#/viewer/obj/12034 (1)]
+|-
+| recolorFrom || [<span style="color: #ee4231">22715</span>, 24094, 22835] || [<span style="color: #6bc71f">24524</span>, 24094, 22835<span style="color: #6bc71f">, 22715</span>]
+|-
+| recolorTo || [<span style="color: #ee4231">7479</span>, 17168, 10541] || [<span style="color: #6bc71f">955</span>, 17168, 10541<span style="color: #6bc71f">, 7479</span>]
+|-
+| rowspan="3" | [[Potion shelves]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/object_id.html#12061 12061][https://abextm.github.io/cache2/#/viewer/obj/12061 (1)]
+|-
+| recolorFrom || [5947, 949] || [5947, 949<span style="color: #6bc71f">, 697, 55207</span>]
+|-
+| recolorTo || [20143, 5947] || [20143, 5947<span style="color: #6bc71f">, 5824, 949</span>]
+|-
+| rowspan="3" | [[null]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/object_id.html#12398 12398][https://abextm.github.io/cache2/#/viewer/obj/12398 (1)]
+|-
+| recolorFrom || [5400, 21776] || [5400, <span style="color: #6bc71f">5404, </span>21776]
+|-
+| recolorTo || [14753, 21910] || [14753, <span style="color: #6bc71f">17566, </span>21910]
+|-
+| rowspan="3" | [[null]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/object_id.html#15163 15163][https://abextm.github.io/cache2/#/viewer/obj/15163 (1)]
+|-
+| recolorFrom || [<span style="color: #ee4231">10266, </span>43051] || [43051]
+|-
+| recolorTo || [<span style="color: #ee4231">7463, </span>7582] || [7582]
+|-
+| rowspan="3" | [[null]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/object_id.html#15164 15164][https://abextm.github.io/cache2/#/viewer/obj/15164 (1)]
+|-
+| recolorFrom || [<span style="color: #ee4231">10266</span>, <span style="color: #ee4231">43051</span>] || [<span style="color: #6bc71f">43051</span>, <span style="color: #6bc71f">286, 10258</span>]
+|-
+| recolorTo || [<span style="color: #ee4231">7463</span>, <span style="color: #ee4231">7582</span>] || [<span style="color: #6bc71f">7582</span>, <span style="color: #6bc71f">39234, 10696</span>]
+|-
+| rowspan="3" | [[Potion shelves]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/object_id.html#16219 16219][https://abextm.github.io/cache2/#/viewer/obj/16219 (1)]
+|-
+| recolorFrom || <span style="color: #ee4231">[5947, 949]</span> || 
+|-
+| recolorTo || <span style="color: #ee4231">[20143, 5947]</span> || 
+|-
+| rowspan="3" | [[Crate of wands]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/object_id.html#16248 16248][https://abextm.github.io/cache2/#/viewer/obj/16248 (1)]
+|-
+| recolorFrom || [7830, 7706, 8078, 6024] || [7830, 7706, 8078, <span style="color: #6bc71f">8076, </span>6024]
+|-
+| recolorTo || [32943, 32819, 32924, 33288] || [32943, 32819, 32924, <span style="color: #6bc71f">32920, </span>33288]
+|-
+| rowspan="3" | [[null]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/object_id.html#19130 19130][https://abextm.github.io/cache2/#/viewer/obj/19130 (1)]
+|-
+| name || <span style="color: #ee4231">Air balloon</span> || <span style="color: #6bc71f">null</span>
+|-
+| isDoor || <span style="color: #ee4231">1</span> || 
+|-
+| rowspan="3" | [[Logs]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/object_id.html#20373 20373][https://abextm.github.io/cache2/#/viewer/obj/20373 (1)]
+|-
+| recolorFrom || [4766, 6961] || [<span style="color: #6bc71f">61, </span>4766, 6961]
+|-
+| recolorTo || [6705, 6589] || [<span style="color: #6bc71f">5652, </span>6705, 6589]
+|-
+| rowspan="2" | [[Crate]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#22453 22453][https://abextm.github.io/cache2/#/viewer/obj/22453 (1)]
+|-
+| clipType || <span style="color: #ee4231">2</span> || <span style="color: #6bc71f">1</span>
+|-
+| rowspan="5" | [[null]]
+| rowspan="5" | [https://chisel.weirdgloop.org/moid/object_id.html#22490 22490][https://abextm.github.io/cache2/#/viewer/obj/22490 (1)]
+|-
+| clipType || <span style="color: #ee4231">2</span> || <span style="color: #6bc71f">1</span>
+|-
+| isDoor ||  || <span style="color: #6bc71f">1</span>
+|-
+| multiChildren || [<span style="color: #ee4231">-1</span>, 22453] || [<span style="color: #6bc71f">15679</span>, 22453]
+|-
+| oobChild || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">15679</span>
+|-
+| rowspan="3" | [[null]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/object_id.html#23579 23579][https://abextm.github.io/cache2/#/viewer/obj/23579 (1)]
+|-
+| recolorFrom || [43, 39, 35, 47] || [43, 39, 35, <span style="color: #6bc71f">30, </span>47]
+|-
+| recolorTo || [10258, 10262, 10266, 10275] || [10258, 10262, 10266, <span style="color: #6bc71f">10270, </span>10275]
+|-
+| rowspan="3" | [[Bookcase]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/object_id.html#25403 25403][https://abextm.github.io/cache2/#/viewer/obj/25403 (1)]
+|-
+| recolorFrom || [7958, 7834, 5400, 6430] || [7958, 7834, <span style="color: #6bc71f">6565, </span>5400, 6430]
+|-
+| recolorTo || [10266, 4387, 7442, 7331] || [10266, 4387, <span style="color: #6bc71f">2469, </span>7442, 7331]
+|-
+| rowspan="3" | [[null]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/object_id.html#28812 28812][https://abextm.github.io/cache2/#/viewer/obj/28812 (1)]
+|-
+| isDoor ||  || <span style="color: #6bc71f">1</span>
+|-
+| multiChildren || [-1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, <span style="color: #ee4231">28678</span>, -1, -1, -1, -1, <span style="color: #ee4231">28678</span>, -1, -1, -1, -1, <span style="color: #ee4231">28678</span>, -1, -1, -1, -1, <span style="color: #ee4231">28678</span>, -1, -1, -1, -1, <span style="color: #ee4231">28678</span>, -1, -1, -1, -1, <span style="color: #ee4231">28678</span>, -1, -1, -1, -1, <span style="color: #ee4231">28678</span>, -1, -1, -1, -1, <span style="color: #ee4231">28678</span>, -1, -1, -1, -1, <span style="color: #ee4231">28678</span>, -1, -1, -1, -1, <span style="color: #ee4231">28678</span>, -1, -1, -1, -1, <span style="color: #ee4231">28678</span>, -1, -1, -1, -1, <span style="color: #ee4231">28678</span>, -1, -1, -1, -1, <span style="color: #ee4231">28678</span>, -1, -1, -1, -1, <span style="color: #ee4231">28678</span>, -1, -1, -1, -1, <span style="color: #ee4231">28678</span>, -1, -1, -1, -1, <span style="color: #ee4231">28678</span>, -1, -1, -1, -1, <span style="color: #ee4231">28678</span>, -1, -1, -1, -1, <span style="color: #ee4231">28678</span>, -1, -1, -1, -1, <span style="color: #ee4231">28678</span>, -1, -1, -1, -1, <span style="color: #ee4231">28678</span>, -1, -1, -1, -1, <span style="color: #ee4231">28678</span>, -1, -1, -1, -1, <span style="color: #ee4231">28678</span>, -1, -1, -1, -1, <span style="color: #ee4231">28678</span>, -1, -1, -1, -1, <span style="color: #ee4231">28678</span>, -1, -1, -1, -1, <span style="color: #ee4231">28678</span>, -1, -1, -1, -1, <span style="color: #ee4231">28678</span>] || [-1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, <span style="color: #6bc71f">28677</span>, -1, -1, -1, -1, <span style="color: #6bc71f">28677</span>, -1, -1, -1, -1, <span style="color: #6bc71f">28677</span>, -1, -1, -1, -1, <span style="color: #6bc71f">28677</span>, -1, -1, -1, -1, <span style="color: #6bc71f">28677</span>, -1, -1, -1, -1, <span style="color: #6bc71f">28677</span>, -1, -1, -1, -1, <span style="color: #6bc71f">28677</span>, -1, -1, -1, -1, <span style="color: #6bc71f">28677</span>, -1, -1, -1, -1, <span style="color: #6bc71f">28677</span>, -1, -1, -1, -1, <span style="color: #6bc71f">28677</span>, -1, -1, -1, -1, <span style="color: #6bc71f">28677</span>, -1, -1, -1, -1, <span style="color: #6bc71f">28677</span>, -1, -1, -1, -1, <span style="color: #6bc71f">28677</span>, -1, -1, -1, -1, <span style="color: #6bc71f">28677</span>, -1, -1, -1, -1, <span style="color: #6bc71f">28677</span>, -1, -1, -1, -1, <span style="color: #6bc71f">28677</span>, -1, -1, -1, -1, <span style="color: #6bc71f">28677</span>, -1, -1, -1, -1, <span style="color: #6bc71f">28677</span>, -1, -1, -1, -1, <span style="color: #6bc71f">28677</span>, -1, -1, -1, -1, <span style="color: #6bc71f">28677</span>, -1, -1, -1, -1, <span style="color: #6bc71f">28677</span>, -1, -1, -1, -1, <span style="color: #6bc71f">28677</span>, -1, -1, -1, -1, <span style="color: #6bc71f">28677</span>, -1, -1, -1, -1, <span style="color: #6bc71f">28677</span>, -1, -1, -1, -1, <span style="color: #6bc71f">28677</span>, -1, -1, -1, -1, <span style="color: #6bc71f">28677</span>]
+|-
+| rowspan="2" | [[Mounted Max Cape]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#29172 29172][https://abextm.github.io/cache2/#/viewer/obj/29172 (1)]
+|-
+| recolorTo || [43924, 43924, 43924, 115, <span style="color: #ee4231">0</span>] || [43924, 43924, 43924, 115, <span style="color: #6bc71f">111</span>]
+|-
+| rowspan="2" | [[Birdhouse]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#30555 30555][https://abextm.github.io/cache2/#/viewer/obj/30555 (1)]
+|-
+| actions || [Interact, Seeds, Empty, <span style="color: #ee4231">None</span>, None] || [Interact, Seeds, Empty, <span style="color: #6bc71f">Reset</span>, None]
+|-
+| rowspan="2" | [[Oak birdhouse]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#30558 30558][https://abextm.github.io/cache2/#/viewer/obj/30558 (1)]
+|-
+| actions || [Interact, Seeds, Empty, <span style="color: #ee4231">None</span>, None] || [Interact, Seeds, Empty, <span style="color: #6bc71f">Reset</span>, None]
+|-
+| rowspan="2" | [[Willow birdhouse]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#30561 30561][https://abextm.github.io/cache2/#/viewer/obj/30561 (1)]
+|-
+| actions || [Interact, Seeds, Empty, <span style="color: #ee4231">None</span>, None] || [Interact, Seeds, Empty, <span style="color: #6bc71f">Reset</span>, None]
+|-
+| rowspan="2" | [[Teak birdhouse]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#30564 30564][https://abextm.github.io/cache2/#/viewer/obj/30564 (1)]
+|-
+| actions || [Interact, Seeds, Empty, <span style="color: #ee4231">None</span>, None] || [Interact, Seeds, Empty, <span style="color: #6bc71f">Reset</span>, None]
+|-
+| rowspan="2" | [[Maple birdhouse]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#31829 31829][https://abextm.github.io/cache2/#/viewer/obj/31829 (1)]
+|-
+| actions || [Interact, Seeds, Empty, <span style="color: #ee4231">None</span>, None] || [Interact, Seeds, Empty, <span style="color: #6bc71f">Reset</span>, None]
+|-
+| rowspan="2" | [[Mahogany birdhouse]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#31832 31832][https://abextm.github.io/cache2/#/viewer/obj/31832 (1)]
+|-
+| actions || [Interact, Seeds, Empty, <span style="color: #ee4231">None</span>, None] || [Interact, Seeds, Empty, <span style="color: #6bc71f">Reset</span>, None]
+|-
+| rowspan="2" | [[Yew birdhouse]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#31835 31835][https://abextm.github.io/cache2/#/viewer/obj/31835 (1)]
+|-
+| actions || [Interact, Seeds, Empty, <span style="color: #ee4231">None</span>, None] || [Interact, Seeds, Empty, <span style="color: #6bc71f">Reset</span>, None]
+|-
+| rowspan="2" | [[Magic birdhouse]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#31838 31838][https://abextm.github.io/cache2/#/viewer/obj/31838 (1)]
+|-
+| actions || [Interact, Seeds, Empty, <span style="color: #ee4231">None</span>, None] || [Interact, Seeds, Empty, <span style="color: #6bc71f">Reset</span>, None]
+|-
+| rowspan="2" | [[Redwood birdhouse]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#31841 31841][https://abextm.github.io/cache2/#/viewer/obj/31841 (1)]
+|-
+| actions || [Interact, Seeds, Empty, <span style="color: #ee4231">None</span>, None] || [Interact, Seeds, Empty, <span style="color: #6bc71f">Reset</span>, None]
+|-
+| rowspan="2" | [[Bookcase]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#31899 31899][https://abextm.github.io/cache2/#/viewer/obj/31899 (1)]
+|-
+| recolorTo || [<span style="color: #ee4231">10266</span>, 4387, 7442, 7331] || [<span style="color: #6bc71f">2337</span>, 4387, 7442, 7331]
+|-
+| rowspan="5" | [[Door]]
+| rowspan="5" | [https://chisel.weirdgloop.org/moid/object_id.html#35935 35935][https://abextm.github.io/cache2/#/viewer/obj/35935 (1)]
+|-
+| recolorFrom || <span style="color: #ee4231">[7089]</span> || 
+|-
+| recolorTo || <span style="color: #ee4231">[61]</span> || 
+|-
+| retextureFrom || <span style="color: #ee4231">[3]</span> || 
+|-
+| retextureTo || <span style="color: #ee4231">[16]</span> || 
+|-
+| rowspan="5" | [[Door]]
+| rowspan="5" | [https://chisel.weirdgloop.org/moid/object_id.html#35936 35936][https://abextm.github.io/cache2/#/viewer/obj/35936 (1)]
+|-
+| recolorFrom || <span style="color: #ee4231">[7089]</span> || 
+|-
+| recolorTo || <span style="color: #ee4231">[61]</span> || 
+|-
+| retextureFrom || <span style="color: #ee4231">[3]</span> || 
+|-
+| retextureTo || <span style="color: #ee4231">[16]</span> || 
+|-
+| rowspan="3" | [[Table]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/object_id.html#37828 37828][https://abextm.github.io/cache2/#/viewer/obj/37828 (1)]
+|-
+| recolorFrom || <span style="color: #ee4231">[43096]</span> || 
+|-
+| recolorTo || <span style="color: #ee4231">[61]</span> || 
+|-
+| rowspan="3" | [[null]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/object_id.html#38103 38103][https://abextm.github.io/cache2/#/viewer/obj/38103 (1)]
+|-
+| recolorFrom || [32803, 32827] || [32803, <span style="color: #6bc71f">32813, </span>32827]
+|-
+| recolorTo || [10275, 10299] || [10275, <span style="color: #6bc71f">10285, </span>10299]
+|-
+| rowspan="3" | [[null]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/object_id.html#38104 38104][https://abextm.github.io/cache2/#/viewer/obj/38104 (1)]
+|-
+| recolorFrom || [32803, 32827] || [32803, <span style="color: #6bc71f">32813, </span>32827]
+|-
+| recolorTo || [10275, 10299] || [10275, <span style="color: #6bc71f">10285, </span>10299]
+|-
+| rowspan="3" | [[null]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/object_id.html#38106 38106][https://abextm.github.io/cache2/#/viewer/obj/38106 (1)]
+|-
+| recolorFrom || [32803, 32827] || [32803, <span style="color: #6bc71f">32813, </span>32827]
+|-
+| recolorTo || [10275, 10299] || [10275, <span style="color: #6bc71f">10285, </span>10299]
+|-
+| rowspan="3" | [[null]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/object_id.html#38107 38107][https://abextm.github.io/cache2/#/viewer/obj/38107 (1)]
+|-
+| recolorFrom || [32803, 32827] || [32803, <span style="color: #6bc71f">32813, </span>32827]
+|-
+| recolorTo || [10275, 10299] || [10275, <span style="color: #6bc71f">10285, </span>10299]
+|-
+| rowspan="3" | [[Table]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/object_id.html#39131 39131][https://abextm.github.io/cache2/#/viewer/obj/39131 (1)]
+|-
+| recolorFrom || [922, <span style="color: #ee4231">8125</span>, 904] || [922, <span style="color: #6bc71f">912</span>, 904<span style="color: #6bc71f">, 8125</span>]
+|-
+| recolorTo || [39469, <span style="color: #ee4231">34999</span>, 39566] || [39469, <span style="color: #6bc71f">38686</span>, 39566<span style="color: #6bc71f">, 34999</span>]
+|-
+| rowspan="3" | [[Table]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/object_id.html#39132 39132][https://abextm.github.io/cache2/#/viewer/obj/39132 (1)]
+|-
+| recolorFrom || [922, <span style="color: #ee4231">8125</span>, 904] || [922, <span style="color: #6bc71f">912</span>, 904<span style="color: #6bc71f">, 8125</span>]
+|-
+| recolorTo || [39469, <span style="color: #ee4231">34999</span>, 39566] || [39469, <span style="color: #6bc71f">38686</span>, 39566<span style="color: #6bc71f">, 34999</span>]
+|-
+| rowspan="3" | [[Table]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/object_id.html#39133 39133][https://abextm.github.io/cache2/#/viewer/obj/39133 (1)]
+|-
+| recolorFrom || [922, <span style="color: #ee4231">8125</span>, 904] || [922, <span style="color: #6bc71f">912</span>, 904<span style="color: #6bc71f">, 8125</span>]
+|-
+| recolorTo || [39469, <span style="color: #ee4231">34999</span>, 39566] || [39469, <span style="color: #6bc71f">38686</span>, 39566<span style="color: #6bc71f">, 34999</span>]
+|-
+| rowspan="3" | [[Table]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/object_id.html#39134 39134][https://abextm.github.io/cache2/#/viewer/obj/39134 (1)]
+|-
+| recolorFrom || [922, <span style="color: #ee4231">8125</span>, 904] || [922, <span style="color: #6bc71f">912</span>, 904<span style="color: #6bc71f">, 8125</span>]
+|-
+| recolorTo || [39469, <span style="color: #ee4231">34999</span>, 39566] || [39469, <span style="color: #6bc71f">38686</span>, 39566<span style="color: #6bc71f">, 34999</span>]
+|-
+| rowspan="3" | [[Table]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/object_id.html#39135 39135][https://abextm.github.io/cache2/#/viewer/obj/39135 (1)]
+|-
+| recolorFrom || [922, <span style="color: #ee4231">8125</span>, 904] || [922, <span style="color: #6bc71f">912</span>, 904<span style="color: #6bc71f">, 8125</span>]
+|-
+| recolorTo || [39469, <span style="color: #ee4231">34999</span>, 39566] || [39469, <span style="color: #6bc71f">38686</span>, 39566<span style="color: #6bc71f">, 34999</span>]
+|-
+| rowspan="3" | [[Table]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/object_id.html#39136 39136][https://abextm.github.io/cache2/#/viewer/obj/39136 (1)]
+|-
+| recolorFrom || [922, <span style="color: #ee4231">8125</span>, 904] || [922, <span style="color: #6bc71f">912</span>, 904<span style="color: #6bc71f">, 8125</span>]
+|-
+| recolorTo || [39469, <span style="color: #ee4231">34999</span>, 39566] || [39469, <span style="color: #6bc71f">38686</span>, 39566<span style="color: #6bc71f">, 34999</span>]
+|-
+| rowspan="6" | [[null]]
+| rowspan="6" | [https://chisel.weirdgloop.org/moid/object_id.html#40323 40323][https://abextm.github.io/cache2/#/viewer/obj/40323 (1)]
+|-
+| name || <span style="color: #ee4231">Scrawled note</span> || <span style="color: #6bc71f">null</span>
+|-
+| clipType || <span style="color: #ee4231">2</span> || 
+|-
+| isDoor || <span style="color: #ee4231">1</span> || 
+|-
+| actions || [<span style="color: #ee4231">Read</span>, None, None, None, None] || [<span style="color: #6bc71f">None</span>, None, None, None, None]
+|-
+| supportItems || <span style="color: #ee4231">1</span> || 
+|-
+| rowspan="3" | [[Big chest]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/object_id.html#43866 43866][https://abextm.github.io/cache2/#/viewer/obj/43866 (1)]
+|-
+| recolorFrom || <span style="color: #ee4231">[43096]</span> || 
+|-
+| recolorTo || <span style="color: #ee4231">[61]</span> || 
+|-
+| rowspan="3" | [[Big chest]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/object_id.html#44613 44613][https://abextm.github.io/cache2/#/viewer/obj/44613 (1)]
+|-
+| recolorFrom || <span style="color: #ee4231">[43096]</span> || 
+|-
+| recolorTo || <span style="color: #ee4231">[61]</span> || 
+|-
+| rowspan="3" | [[Table]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/object_id.html#49653 49653][https://abextm.github.io/cache2/#/viewer/obj/49653 (1)]
+|-
+| recolorFrom || [6443, 6439, 6451] || [6443, 6439, <span style="color: #6bc71f">6563, </span>6451]
+|-
+| recolorTo || [6684, 6932, 6565] || [6684, 6932, <span style="color: #6bc71f">6806, </span>6565]
+|-
+| rowspan="2" | [[Net trap]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#50717 50717][https://abextm.github.io/cache2/#/viewer/obj/50717 (1)]
+|-
+| actions || [Check, <span style="color: #ee4231">None</span>, None, None, None] || [Check, <span style="color: #6bc71f">Reset</span>, None, None, None]
+|-
+| rowspan="2" | [[Net trap]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#50719 50719][https://abextm.github.io/cache2/#/viewer/obj/50719 (1)]
+|-
+| actions || [Dismantle, <span style="color: #ee4231">None</span>, None, None, None] || [Dismantle, <span style="color: #6bc71f">Reset</span>, None, None, None]
+|-
+| rowspan="3" | [[Colosseum entrance]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/object_id.html#50749 50749][https://abextm.github.io/cache2/#/viewer/obj/50749 (1)]
+|-
+| recolorFrom || <span style="color: #ee4231">[43096]</span> || 
+|-
+| recolorTo || <span style="color: #ee4231">[61]</span> || 
+|-
+| rowspan="3" | [[Entrance]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/object_id.html#50751 50751][https://abextm.github.io/cache2/#/viewer/obj/50751 (1)]
+|-
+| recolorFrom || <span style="color: #ee4231">[43096]</span> || 
+|-
+| recolorTo || <span style="color: #ee4231">[61]</span> || 
+|-
+| rowspan="3" | [[Guildmaster's chest]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/object_id.html#51616 51616][https://abextm.github.io/cache2/#/viewer/obj/51616 (1)]
+|-
+| recolorFrom || [<span style="color: #ee4231">41</span>, 99] || [<span style="color: #6bc71f">97</span>, 99]
+|-
+| recolorTo || [<span style="color: #ee4231">11173</span>, 7768] || [<span style="color: #6bc71f">7752</span>, 7768]
+|-
+| rowspan="3" | [[Guildmaster's chest]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/object_id.html#51617 51617][https://abextm.github.io/cache2/#/viewer/obj/51617 (1)]
+|-
+| recolorFrom || [<span style="color: #ee4231">41</span>, 99] || [<span style="color: #6bc71f">97</span>, 99]
+|-
+| recolorTo || [<span style="color: #ee4231">11173</span>, 7768] || [<span style="color: #6bc71f">7752</span>, 7768]
+|-
+| rowspan="2" | [[null]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#53036 53036][https://abextm.github.io/cache2/#/viewer/obj/53036 (1)]
+|-
+| isDoor || <span style="color: #ee4231">1</span> || 
+|-
+| rowspan="2" | [[null]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#53037 53037][https://abextm.github.io/cache2/#/viewer/obj/53037 (1)]
+|-
+| isDoor || <span style="color: #ee4231">1</span> || 
+|-
+| rowspan="2" | [[null]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#53038 53038][https://abextm.github.io/cache2/#/viewer/obj/53038 (1)]
+|-
+| isDoor || <span style="color: #ee4231">1</span> || 
+|-
+| rowspan="2" | [[null]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#53041 53041][https://abextm.github.io/cache2/#/viewer/obj/53041 (1)]
+|-
+| isDoor || <span style="color: #ee4231">1</span> || 
+|-
+| rowspan="2" | [[null]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#53042 53042][https://abextm.github.io/cache2/#/viewer/obj/53042 (1)]
+|-
+| isDoor || <span style="color: #ee4231">1</span> || 
+|-
+| rowspan="2" | [[null]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#53043 53043][https://abextm.github.io/cache2/#/viewer/obj/53043 (1)]
+|-
+| isDoor || <span style="color: #ee4231">1</span> || 
+|-
+| rowspan="2" | [[null]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#53044 53044][https://abextm.github.io/cache2/#/viewer/obj/53044 (1)]
+|-
+| isDoor || <span style="color: #ee4231">1</span> || 
+|-
+| rowspan="3" | [[Spider eggs]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/object_id.html#54228 54228][https://abextm.github.io/cache2/#/viewer/obj/54228 (1)]
+|-
+| recolorFrom || [4626, 4636, 4643, 4651, 4659, 4667, 4446, 4930] || [4626, 4636, 4643, 4651, 4659, 4667, 4446, <span style="color: #6bc71f">4657, </span>4930]
+|-
+| recolorTo || [2578, 2588, 2595, 2601, 2607, 2619, 2398, 4930] || [2578, 2588, 2595, 2601, 2607, 2619, 2398, <span style="color: #6bc71f">561, </span>4930]
+|-
+| rowspan="3" | [[Fancy chest]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/object_id.html#54736 54736][https://abextm.github.io/cache2/#/viewer/obj/54736 (1)]
+|-
+| recolorFrom || [<span style="color: #ee4231">41</span>, 99] || [<span style="color: #6bc71f">97</span>, 99]
+|-
+| recolorTo || [<span style="color: #ee4231">11173</span>, 7768] || [<span style="color: #6bc71f">7752</span>, 7768]
+|-
+| rowspan="3" | [[Fancy chest]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/object_id.html#54737 54737][https://abextm.github.io/cache2/#/viewer/obj/54737 (1)]
+|-
+| recolorFrom || [<span style="color: #ee4231">41</span>, 99] || [<span style="color: #6bc71f">97</span>, 99]
+|-
+| recolorTo || [<span style="color: #ee4231">11173</span>, 7768] || [<span style="color: #6bc71f">7752</span>, 7768]
+|-
+| rowspan="3" | [[Chest]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/object_id.html#54741 54741][https://abextm.github.io/cache2/#/viewer/obj/54741 (1)]
+|-
+| recolorFrom || [<span style="color: #ee4231">41</span>, 99] || [<span style="color: #6bc71f">97</span>, 99]
+|-
+| recolorTo || [<span style="color: #ee4231">11173</span>, 7768] || [<span style="color: #6bc71f">7752</span>, 7768]
+|-
+| rowspan="3" | [[Chest]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/object_id.html#54742 54742][https://abextm.github.io/cache2/#/viewer/obj/54742 (1)]
+|-
+| recolorFrom || [<span style="color: #ee4231">41</span>, 99] || [<span style="color: #6bc71f">97</span>, 99]
+|-
+| recolorTo || [<span style="color: #ee4231">11173</span>, 7768] || [<span style="color: #6bc71f">7752</span>, 7768]
+|}
+==Enums==
+===New Enums===
+{| class="wikitable sortable"
+|-
+! colspan="3" | New Enums
+|-
+! style="width: 15em" | id !! defaultValue !! map
+|-
+| [https://chisel.weirdgloop.org/structs/index.html?type=enums&id=3335 3335][https://abextm.github.io/cache2/#/viewer/enum/3335 (1)] || -1 || {'0': 1745}
+|-
+| [https://chisel.weirdgloop.org/structs/index.html?type=enums&id=5198 5198][https://abextm.github.io/cache2/#/viewer/enum/5198 (1)] || -1 || {'0': 1804}
+|}
+===Removed Enums===
+{| class="wikitable sortable"
+|-
+! colspan="3" | Removed Enums
+|-
+! style="width: 15em" | id !! defaultValue !! map
+|}
+===Diff Enums===
+{| class="wikitable sortable sticky-header"
+|-
+! colspan="5" | Diff Enums
+|-
+! style="width: 15em" | Id !! Key !! Previous Value !! New Value
+|-
+| rowspan="2" | [https://chisel.weirdgloop.org/structs/index.html?type=enums&id=848 848][https://abextm.github.io/cache2/#/viewer/enum/848 (1)]
+|-
+| map || {'1': 'Barbarian Assault', '2': 'Blast Furnace', '3': 'Burthorpe Games Room', '4': 'Castle Wars', '5': 'Clan Wars', '6': 'Dagannoth Kings', '7': 'Fishing Trawler', '8': 'Giants' Foundry', '9': 'God Wars', '10': 'Guardians of the Rift', '11': 'Last Man Standing', '12': 'Mage Training Arena', '13': 'Nightmare Zone', '14': 'Pest Control', '15': 'Player Owned Houses', '16': 'Rat Pits', '17': 'Shades of Mort'ton', '<span style="color: #ee4231">18</span>': 'Shield of Arrav', '<span style="color: #ee4231">19</span>': 'Shooting Stars', '<span style="color: #ee4231">20</span>': 'Soul Wars', '<span style="color: #ee4231">21</span>': 'Theatre of Blood', '<span style="color: #ee4231">22</span>': 'Tithe Farm', '<span style="color: #ee4231">23</span>': 'Tombs of Amascut', '<span style="color: #ee4231">24</span>': 'Trouble Brewing', '<span style="color: #ee4231">25</span>': 'TzHaar Fight Pit', '<span style="color: #ee4231">26</span>': 'Volcanic Mine'} || {'1': 'Barbarian Assault', '2': 'Blast Furnace', '3': 'Burthorpe Games Room', '4': 'Castle Wars', '5': 'Clan Wars', '6': 'Dagannoth Kings', '7': 'Fishing Trawler', '8': 'Giants' Foundry', '9': 'God Wars', '10': 'Guardians of the Rift', '11': 'Last Man Standing', '12': 'Mage Training Arena', '13': 'Nightmare Zone', '14': 'Pest Control', '15': 'Player Owned Houses', '16': 'Rat Pits', '17': '<span style="color: #6bc71f">Royal Titans', '18': '</span>Shades of Mort'ton', '<span style="color: #6bc71f">19</span>': 'Shield of Arrav', '<span style="color: #6bc71f">20</span>': 'Shooting Stars', '<span style="color: #6bc71f">21</span>': 'Soul Wars', '<span style="color: #6bc71f">22</span>': 'Theatre of Blood', '<span style="color: #6bc71f">23</span>': 'Tithe Farm', '<span style="color: #6bc71f">24</span>': 'Tombs of Amascut', '<span style="color: #6bc71f">25</span>': 'Trouble Brewing', '<span style="color: #6bc71f">26</span>': 'TzHaar Fight Pit', '<span style="color: #6bc71f">27</span>': 'Volcanic Mine'}
+|-
+| rowspan="2" | [https://chisel.weirdgloop.org/structs/index.html?type=enums&id=849 849][https://abextm.github.io/cache2/#/viewer/enum/849 (1)]
+|-
+| map || {'1': 'osrs ba', '2': 'osrs bf', '3': 'osrs bgr', '4': 'osrs castle', '5': 'osrs clw', '6': 'osrs dkings', '7': 'osrs ft', '8': 'osrs gf cc', '9': 'osrs gwd', '10': 'osrs gotr cc', '11': 'osrs lms cc', '12': 'osrs mtacc', '13': 'osrs nmz', '14': 'osrs pc', '15': 'osrs poh', '16': 'osrs ratpits', '17': 'osrs <span style="color: #ee4231">shades</span>', '18': 'osrs <span style="color: #ee4231">soa</span>', '19': 'osrs star cc', '<span style="color: #ee4231">20</span>': 'osrs sw cc', '<span style="color: #ee4231">21</span>': 'osrs tob cc', '<span style="color: #ee4231">22</span>': 'osrs tithe', '<span style="color: #ee4231">23</span>': 'osrs toa cc', '<span style="color: #ee4231">24</span>': 'osrs tb', '<span style="color: #ee4231">25</span>': 'osrs tfp', '<span style="color: #ee4231">26</span>': 'os volcmine'} || {'1': 'osrs ba', '2': 'osrs bf', '3': 'osrs bgr', '4': 'osrs castle', '5': 'osrs clw', '6': 'osrs dkings', '7': 'osrs ft', '8': 'osrs gf cc', '9': 'osrs gwd', '10': 'osrs gotr cc', '11': 'osrs lms cc', '12': 'osrs mtacc', '13': 'osrs nmz', '14': 'osrs pc', '15': 'osrs poh', '16': 'osrs ratpits', '17': 'osrs <span style="color: #6bc71f">rt</span>', '18': 'osrs <span style="color: #6bc71f">shades</span>', '19': 'osrs <span style="color: #6bc71f">soa', '20': 'osrs </span>star cc', '<span style="color: #6bc71f">21</span>': 'osrs sw cc', '<span style="color: #6bc71f">22</span>': 'osrs tob cc', '<span style="color: #6bc71f">23</span>': 'osrs tithe', '<span style="color: #6bc71f">24</span>': 'osrs toa cc', '<span style="color: #6bc71f">25</span>': 'osrs tb', '<span style="color: #6bc71f">26</span>': 'osrs tfp', '<span style="color: #6bc71f">27</span>': 'os volcmine'}
+|-
+| rowspan="2" | [https://chisel.weirdgloop.org/structs/index.html?type=enums&id=850 850][https://abextm.github.io/cache2/#/viewer/enum/850 (1)]
+|-
+| map || {'1': 306, '2': 358, '3': 491, '4': 334, '5': 394, '6': -1, '7': 370, '8': -1, '9': -1, '10': -1, '11': -1, '13': -1, '14': 344, '15': 330, '16': 377, '17': <span style="color: #ee4231">377</span>, '18': <span style="color: #ee4231">-1</span>, '19': -1, '20': <span style="color: #ee4231">320</span>, '21': <span style="color: #ee4231">376</span>, '22': -1, '<span style="color: #ee4231">23</span>': 338, '<span style="color: #ee4231">24</span>': 304, '<span style="color: #ee4231">25</span>': 362, '<span style="color: #ee4231">26</span>': 323} || {'1': 306, '2': 358, '3': 491, '4': 334, '5': 394, '6': -1, '7': 370, '8': -1, '9': -1, '10': -1, '11': -1, '<span style="color: #6bc71f">12': -1, '</span>13': -1, '14': 344, '15': 330, '16': 377, '17': <span style="color: #6bc71f">567</span>, '18': <span style="color: #6bc71f">377</span>, '19': -1, '20': <span style="color: #6bc71f">-1</span>, '21': <span style="color: #6bc71f">320</span>, '22': <span style="color: #6bc71f">376, '23': </span>-1, '<span style="color: #6bc71f">24</span>': 338, '<span style="color: #6bc71f">25</span>': 304, '<span style="color: #6bc71f">26</span>': 362, '<span style="color: #6bc71f">27</span>': 323}
+|-
+| rowspan="2" | [https://chisel.weirdgloop.org/structs/index.html?type=enums&id=1561 1561][https://abextm.github.io/cache2/#/viewer/enum/1561 (1)]
+|-
+| map || {'0': 941, '1': 2760, '2': 2767, '3': 2757, '4': 2758, '5': 2759, '6': <span style="color: #ee4231">3012</span>, '7': <span style="color: #ee4231">2855</span>, '8': <span style="color: #ee4231">2859</span>, '9': <span style="color: #ee4231">4275</span>, '10': <span style="color: #ee4231">4276</span>, '11': <span style="color: #ee4231">3640</span>, '12': <span style="color: #ee4231">2761</span>, '13': <span style="color: #ee4231">2762</span>, '14': <span style="color: #ee4231">2763</span>, '15': <span style="color: #ee4231">2764</span>, '16': <span style="color: #ee4231">323</span>, '17': <span style="color: #ee4231">326</span>, '18': <span style="color: #ee4231">321</span>, '19': <span style="color: #ee4231">3756</span>, '20': <span style="color: #ee4231">4491</span>, '21': <span style="color: #ee4231">4492</span>, '22': <span style="color: #ee4231">2890</span>, '23': <span style="color: #ee4231">2893</span>, '24': <span style="color: #ee4231">2896</span>, '25': <span style="color: #ee4231">2898</span>, '26': <span style="color: #ee4231">2901</span>, '27': <span style="color: #ee4231">2903</span>, '28': <span style="color: #ee4231">2906</span>, '29': <span style="color: #ee4231">2908</span>, '30': <span style="color: #ee4231">2975</span>, '31': <span style="color: #ee4231">3747</span>, '32': <span style="color: #ee4231">3745</span>, '33': <span style="color: #ee4231">3749</span>, '34': <span style="color: #ee4231">2910</span>, '35': <span style="color: #ee4231">2912</span>, '36': <span style="color: #ee4231">2914</span>, '37': <span style="color: #ee4231">2891</span>, '38': <span style="color: #ee4231">2894</span>, '39': <span style="color: #ee4231">2897</span>, '40': <span style="color: #ee4231">2899</span>, '41': <span style="color: #ee4231">2902</span>, '42': <span style="color: #ee4231">2904</span>, '43': <span style="color: #ee4231">2907</span>, '44': <span style="color: #ee4231">2909</span>, '45': <span style="color: #ee4231">2976</span>, '46': <span style="color: #ee4231">3748</span>, '47': <span style="color: #ee4231">3746</span>, '48': <span style="color: #ee4231">3750</span>, '49': <span style="color: #ee4231">2911</span>, '50': <span style="color: #ee4231">2913</span>, '51': <span style="color: #ee4231">2915</span>, '52': <span style="color: #ee4231">2892</span>, '53': <span style="color: #ee4231">2895</span>, '54': <span style="color: #ee4231">2900</span>, '55': <span style="color: #ee4231">2905</span>, '56': 2916} || {'0': 941, '1': 2760, '2': 2767, '3': 2757, '4': 2758, '5': 2759, '6': <span style="color: #6bc71f">2030</span>, '7': <span style="color: #6bc71f">3012</span>, '8': <span style="color: #6bc71f">2855</span>, '9': <span style="color: #6bc71f">2859</span>, '10': <span style="color: #6bc71f">4275</span>, '11': <span style="color: #6bc71f">4276</span>, '12': <span style="color: #6bc71f">3640</span>, '13': <span style="color: #6bc71f">2761</span>, '14': <span style="color: #6bc71f">2762</span>, '15': <span style="color: #6bc71f">2763</span>, '16': <span style="color: #6bc71f">2764</span>, '17': <span style="color: #6bc71f">323</span>, '18': <span style="color: #6bc71f">326</span>, '19': <span style="color: #6bc71f">321</span>, '20': <span style="color: #6bc71f">3756</span>, '21': <span style="color: #6bc71f">4491</span>, '22': <span style="color: #6bc71f">4492</span>, '23': <span style="color: #6bc71f">2890</span>, '24': <span style="color: #6bc71f">2893</span>, '25': <span style="color: #6bc71f">2896</span>, '26': <span style="color: #6bc71f">2898</span>, '27': <span style="color: #6bc71f">2901</span>, '28': <span style="color: #6bc71f">2903</span>, '29': <span style="color: #6bc71f">2906</span>, '30': <span style="color: #6bc71f">2908</span>, '31': <span style="color: #6bc71f">2975</span>, '32': <span style="color: #6bc71f">3747</span>, '33': <span style="color: #6bc71f">3745</span>, '34': <span style="color: #6bc71f">3749</span>, '35': <span style="color: #6bc71f">2910</span>, '36': <span style="color: #6bc71f">2912</span>, '37': <span style="color: #6bc71f">2914</span>, '38': <span style="color: #6bc71f">2891</span>, '39': <span style="color: #6bc71f">2894</span>, '40': <span style="color: #6bc71f">2897</span>, '41': <span style="color: #6bc71f">2899</span>, '42': <span style="color: #6bc71f">2902</span>, '43': <span style="color: #6bc71f">2904</span>, '44': <span style="color: #6bc71f">2907</span>, '45': <span style="color: #6bc71f">2909</span>, '46': <span style="color: #6bc71f">2976</span>, '47': <span style="color: #6bc71f">3748</span>, '48': <span style="color: #6bc71f">3746</span>, '49': <span style="color: #6bc71f">3750</span>, '50': <span style="color: #6bc71f">2911</span>, '51': <span style="color: #6bc71f">2913</span>, '52': <span style="color: #6bc71f">2915</span>, '53': <span style="color: #6bc71f">2892</span>, '54': <span style="color: #6bc71f">2895</span>, '55': <span style="color: #6bc71f">2900</span>, '56': <span style="color: #6bc71f">2905, '57': </span>2916}
+|-
+| rowspan="2" | [https://chisel.weirdgloop.org/structs/index.html?type=enums&id=1564 1564][https://abextm.github.io/cache2/#/viewer/enum/1564 (1)]
+|-
+| map || {'0': 3635, '1': 994, '2': 2777, '3': 2861, '4': 880, '5': 3731, '6': 4446, '7': 990, '8': 947, '9': 4447, '10': 4448, '11': 4682, '12': 4686, '13': 4684, '14': 4687, '15': 4685, '16': 4683, '17': 4680, '18': 4681, '19': 991, '20': 956, '21': 957, '22': 1013, '23': 348, '24': 4690, '25': <span style="color: #ee4231">349</span>, '26': <span style="color: #ee4231">350</span>, '27': <span style="color: #ee4231">351</span>, '28': <span style="color: #ee4231">4656</span>, '29': <span style="color: #ee4231">4657</span>, '30': <span style="color: #ee4231">4658</span>, '31': 4689} || {'0': 3635, '1': 994, '2': 2777, '3': 2861, '4': 880, '5': 3731, '6': 4446, '7': 990, '8': 947, '9': 4447, '10': 4448, '11': 4682, '12': 4686, '13': 4684, '14': 4687, '15': 4685, '16': 4683, '17': 4680, '18': 4681, '19': 991, '20': 956, '21': 957, '22': 1013, '23': 348, '24': 4690, '25': <span style="color: #6bc71f">1745</span>, '26': <span style="color: #6bc71f">1810</span>, '27': <span style="color: #6bc71f">1812</span>, '28': <span style="color: #6bc71f">1938</span>, '29': <span style="color: #6bc71f">1804</span>, '30': <span style="color: #6bc71f">349</span>, '31': <span style="color: #6bc71f">350, '32': 351, '33': 4656, '34': 4657, '35': 4658, '36': </span>4689}
+|-
+| rowspan="2" | [https://chisel.weirdgloop.org/structs/index.html?type=enums&id=1745 1745][https://abextm.github.io/cache2/#/viewer/enum/1745 (1)]
+|-
+| map || {'10551297': 39387140, '10551298': 39387141, '10551299': 39387142, '10551300': 39387145, '10551301': 39387149, '10551302': 39387148, '10551303': 39387144, '10551304': 39387150, '10551305': 39387151, '10551306': 39387152, '10551307': 39387146, '10551308': 39387147, '10551309': 39387153, '10551310': 39387154, '10551311': <span style="color: #ee4231">39387161</span>, '10551312': <span style="color: #ee4231">39387162</span>, '10551313': <span style="color: #ee4231">39387163</span>, '10551314': <span style="color: #ee4231">39387164</span>, '10551315': <span style="color: #ee4231">39387165</span>, '10551316': <span style="color: #ee4231">39387159</span>, '10551317': <span style="color: #ee4231">39387160</span>, '10551326': 39387170, '10551327': 39387171, '10551329': 39387173, '10551330': 39387156, '10551331': 39387267, '10551332': 39387269, '10551333': 39387268, '10551334': 39387249, '10551338': 39387206, '10551339': 39387210, '10551340': 39387212, '10551341': 39387211, '10551342': 39387180, '10551343': 39387213, '10551344': 39387208, '10551345': 39387209, '10551346': 39387217, '10551347': 39387219, '10551348': 39387218, '10551349': 39387181, '10551350': 39387220, '10551351': 39387215, '10551352': 39387216, '10551354': 39387232, '10551355': 39387237, '10551356': 39387207, '10551357': 39387238, '10551358': 39387233, '10551359': 39387234, '10551360': 39387235, '10551361': 39387236, '10551362': 39387244, '10551363': 39387214, '10551364': 39387245, '10551365': 39387240, '10551366': 39387241, '10551367': 39387242, '10551368': 39387243, '10551370': 39387250, '10551371': 39387251, '10551372': 39387252, '10551373': 39387253, '10551374': 39387254, '10551375': 39387255, '10551376': 39387256, '10551377': 39387257, '10551378': 39387258, '10551379': 39387259, '10551380': 39387260, '10551381': 39387261, '10551382': 39387262, '10551383': 39387263, '10551384': 39387264, '10551385': 39387265, '10551386': 39387266, '10551388': 39387139, '10551389': 39387157, '10551390': <span style="color: #ee4231">39387158</span>, '10551391': <span style="color: #ee4231">39387166</span>, '10551392': 39387185, '10748000': 39387247, '39387176': 39387176, '39387177': 39387177, '39387178': 39387178, '39387182': 39387182, '39387183': 39387183, '39387184': 39387184, '39387186': 39387186, '39387221': 39387221, '39387239': 39387239, '39387246': 39387246, '39387248': 39387248} || {'10551297': 39387140, '10551298': 39387141, '10551299': 39387142, '10551300': 39387145, '10551301': 39387149, '10551302': 39387148, '10551303': 39387144, '10551304': 39387150, '10551305': 39387151, '10551306': 39387152, '10551307': 39387146, '10551308': 39387147, '10551309': 39387153, '10551310': 39387154, '10551311': <span style="color: #6bc71f">39387162</span>, '10551312': <span style="color: #6bc71f">39387163</span>, '10551313': <span style="color: #6bc71f">39387164</span>, '10551314': <span style="color: #6bc71f">39387165</span>, '10551315': <span style="color: #6bc71f">39387166</span>, '10551316': <span style="color: #6bc71f">39387160</span>, '10551317': <span style="color: #6bc71f">39387161</span>, '10551326': 39387170, '10551327': 39387171, '10551329': 39387173, '10551330': 39387156, '10551331': 39387267, '10551332': 39387269, '10551333': 39387268, '10551334': 39387249, '10551338': 39387206, '10551339': 39387210, '10551340': 39387212, '10551341': 39387211, '10551342': 39387180, '10551343': 39387213, '10551344': 39387208, '10551345': 39387209, '10551346': 39387217, '10551347': 39387219, '10551348': 39387218, '10551349': 39387181, '10551350': 39387220, '10551351': 39387215, '10551352': 39387216, '10551354': 39387232, '10551355': 39387237, '10551356': 39387207, '10551357': 39387238, '10551358': 39387233, '10551359': 39387234, '10551360': 39387235, '10551361': 39387236, '10551362': 39387244, '10551363': 39387214, '10551364': 39387245, '10551365': 39387240, '10551366': 39387241, '10551367': 39387242, '10551368': 39387243, '10551370': 39387250, '10551371': 39387251, '10551372': 39387252, '10551373': 39387253, '10551374': 39387254, '10551375': 39387255, '10551376': 39387256, '10551377': 39387257, '10551378': 39387258, '10551379': 39387259, '10551380': 39387260, '10551381': 39387261, '10551382': 39387262, '10551383': 39387263, '10551384': 39387264, '10551385': 39387265, '10551386': 39387266, '10551388': 39387139, '10551389': 39387157, '10551390': <span style="color: #6bc71f">39387159</span>, '10551391': <span style="color: #6bc71f">39387158</span>, '10551392': 39387185, '10748000': 39387247, '39387176': 39387176, '39387177': 39387177, '39387178': 39387178, '39387182': 39387182, '39387183': 39387183, '39387184': 39387184, '39387186': 39387186, '39387221': 39387221, '39387239': 39387239, '39387246': 39387246, '39387248': 39387248}
+|}
+==Npcs==
+===New Npcs===
+{| class="wikitable sortable"
+|-
+! colspan="4" | New Npcs
+|-
+! style="width: 15em" | name !! id !! combatLevel !! actions
+|}
+===Removed Npcs===
+{| class="wikitable sortable"
+|-
+! colspan="4" | Removed Npcs
+|-
+! style="width: 15em" | name !! id !! combatLevel !! actions
+|}
+===Diff Npcs===
+{| class="wikitable sortable sticky-header"
+|-
+! colspan="5" | Diff Npcs
+|-
+! style="width: 15em" | Name !! Id !! Key !! Previous Value !! New Value
+|-
+| rowspan="3" | [[Treasure fairy]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/npc_id.html#154 154][https://abextm.github.io/cache2/#/viewer/npc/154 (1)]
+|-
+| recolorFrom || [9447] || [<span style="color: #6bc71f">22753, </span>9447]
+|-
+| recolorTo || [8] || [<span style="color: #6bc71f">43239, </span>8]
+|-
+| rowspan="3" | [[Major Defend]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/npc_id.html#1664 1664][https://abextm.github.io/cache2/#/viewer/npc/1664 (1)]
+|-
+| recolorFrom || [22439] || [<span style="color: #6bc71f">939, </span>22439]
+|-
+| recolorTo || [43955] || [<span style="color: #6bc71f">4550, </span>43955]
+|-
+| rowspan="2" | [[Fur trader]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/npc_id.html#3210 3210][https://abextm.github.io/cache2/#/viewer/npc/3210 (1)]
+|-
+| recolorFrom || [8741] || [<span style="color: #6bc71f">25238, </span>8741]
+|-
+| rowspan="3" | [[Farmer]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/npc_id.html#3244 3244][https://abextm.github.io/cache2/#/viewer/npc/3244 (1)]
+|-
+| recolorFrom || [25238, 906] || [25238, <span style="color: #6bc71f">8741, 9096, </span>906]
+|-
+| recolorTo || [7843, 6930] || [7843, <span style="color: #6bc71f">14748, 6028, </span>6930]
+|-
+| rowspan="3" | [[Chuck]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/npc_id.html#3303 3303][https://abextm.github.io/cache2/#/viewer/npc/3303 (1)]
+|-
+| recolorFrom || [25238] || [<span style="color: #6bc71f">43072, </span>25238]
+|-
+| recolorTo || [10128] || [<span style="color: #6bc71f">4550, </span>10128]
+|-
+| rowspan="3" | [[Grizzly bear cub]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/npc_id.html#3424 3424][https://abextm.github.io/cache2/#/viewer/npc/3424 (1)]
+|-
+| recolorFrom || [<span style="color: #ee4231">3491</span>, 5157] || [<span style="color: #6bc71f">7442</span>, 5157]
+|-
+| recolorTo || [<span style="color: #ee4231">520</span>, 5272] || [<span style="color: #6bc71f">5268</span>, 5272]
+|-
+| rowspan="3" | [[Grizzly bear cub]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/npc_id.html#3425 3425][https://abextm.github.io/cache2/#/viewer/npc/3425 (1)]
+|-
+| recolorFrom || [<span style="color: #ee4231">3491</span>, 5157] || [<span style="color: #6bc71f">7442</span>, 5157]
+|-
+| recolorTo || [<span style="color: #ee4231">520</span>, 5272] || [<span style="color: #6bc71f">5268</span>, 5272]
+|-
+| rowspan="3" | [[Ragnvald]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/npc_id.html#3687 3687][https://abextm.github.io/cache2/#/viewer/npc/3687 (1)]
+|-
+| recolorFrom || [6798, 25238, 8741, 7952, <span style="color: #ee4231">10351, </span>4550] || [6798, 25238, 8741, 7952, 4550]
+|-
+| recolorTo || [4771, 5413, 5413, 5532, <span style="color: #ee4231">10574, </span>2524] || [4771, 5413, 5413, 5532, 2524]
+|-
+| rowspan="3" | [[Meiyerditch citizen]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/npc_id.html#3783 3783][https://abextm.github.io/cache2/#/viewer/npc/3783 (1)]
+|-
+| recolorFrom || [<span style="color: #ee4231">4550</span>, 8741, 21526] || [<span style="color: #6bc71f">25238</span>, 8741, <span style="color: #6bc71f">4550, </span>21526]
+|-
+| recolorTo || [<span style="color: #ee4231">94</span>, 16540, 16540] || [<span style="color: #6bc71f">5409</span>, 16540, <span style="color: #6bc71f">94, </span>16540]
+|-
+| rowspan="3" | [[Melana Moonlander]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/npc_id.html#3840 3840][https://abextm.github.io/cache2/#/viewer/npc/3840 (1)]
+|-
+| recolorFrom || [<span style="color: #ee4231">25238</span>, 8621, 8615, 8865] || [<span style="color: #6bc71f">15009</span>, 8621, 8615, 8865<span style="color: #6bc71f">, 8741, 25238</span>]
+|-
+| recolorTo || [<span style="color: #ee4231">32815</span>, 28868, 32815, 32809] || [<span style="color: #6bc71f">4919</span>, 28868, 32815, 32809<span style="color: #6bc71f">, 32811, 32815</span>]
+|-
+| rowspan="2" | [[Soldier]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/npc_id.html#4091 4091][https://abextm.github.io/cache2/#/viewer/npc/4091 (1)]
+|-
+| recolorFrom || [8090, 61, 25238, 4626, 6798] || [8090, 61, 25238, 4626, <span style="color: #6bc71f">7952, </span>6798]
+|-
+| rowspan="2" | [[Fur trader]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/npc_id.html#4580 4580][https://abextm.github.io/cache2/#/viewer/npc/4580 (1)]
+|-
+| recolorFrom || [8741] || [<span style="color: #6bc71f">25238, </span>8741]
+|-
+| rowspan="2" | [[Mine cart driver]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/npc_id.html#4653 4653][https://abextm.github.io/cache2/#/viewer/npc/4653 (1)]
+|-
+| recolorFrom || [8741, 25238, 4626, 908<span style="color: #ee4231">, 7073</span>] || [8741, 25238, 4626, 908]
+|-
+| rowspan="3" | [[Tarik]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/npc_id.html#4757 4757][https://abextm.github.io/cache2/#/viewer/npc/4757 (1)]
+|-
+| recolorFrom || [<span style="color: #ee4231">25238</span>, <span style="color: #ee4231">8741</span>, <span style="color: #ee4231">61</span>, 25238, 8078, 4550] || [<span style="color: #6bc71f">9019</span>, <span style="color: #6bc71f">35245</span>, <span style="color: #6bc71f">49054</span>, 25238, 8078, 4550<span style="color: #6bc71f">, 35365</span>]
+|-
+| recolorTo || [<span style="color: #ee4231">10508</span>, <span style="color: #ee4231">6930</span>, <span style="color: #ee4231">5652</span>, 54317, 289, 3489] || [<span style="color: #6bc71f">6724</span>, <span style="color: #6bc71f">289</span>, <span style="color: #6bc71f">289</span>, 54317, 289, 3489<span style="color: #6bc71f">, 289</span>]
+|-
+| rowspan="3" | [[Poltenip]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/npc_id.html#4758 4758][https://abextm.github.io/cache2/#/viewer/npc/4758 (1)]
+|-
+| recolorFrom || [<span style="color: #ee4231">25238</span>, <span style="color: #ee4231">8741</span>, <span style="color: #ee4231">61</span>, 25238, 8078, 4550] || [<span style="color: #6bc71f">9019</span>, <span style="color: #6bc71f">35245</span>, <span style="color: #6bc71f">49054</span>, 25238, 8078, 4550<span style="color: #6bc71f">, 35365</span>]
+|-
+| recolorTo || [<span style="color: #ee4231">10508</span>, <span style="color: #ee4231">6930</span>, <span style="color: #ee4231">5652</span>, 54317, 289, 3489] || [<span style="color: #6bc71f">6724</span>, <span style="color: #6bc71f">289</span>, <span style="color: #6bc71f">289</span>, 54317, 289, 3489<span style="color: #6bc71f">, 289</span>]
+|-
+| rowspan="3" | [[Radat]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/npc_id.html#4759 4759][https://abextm.github.io/cache2/#/viewer/npc/4759 (1)]
+|-
+| recolorFrom || [<span style="color: #ee4231">25238</span>, <span style="color: #ee4231">8741</span>, <span style="color: #ee4231">61</span>, 25238, 8078, 4550] || [<span style="color: #6bc71f">9019</span>, <span style="color: #6bc71f">35245</span>, <span style="color: #6bc71f">49054</span>, 25238, 8078, 4550<span style="color: #6bc71f">, 35365</span>]
+|-
+| recolorTo || [<span style="color: #ee4231">10508</span>, <span style="color: #ee4231">6930</span>, <span style="color: #ee4231">5652</span>, 54317, 289, 3489] || [<span style="color: #6bc71f">6724</span>, <span style="color: #6bc71f">289</span>, <span style="color: #6bc71f">289</span>, 54317, 289, 3489<span style="color: #6bc71f">, 289</span>]
+|-
+| rowspan="3" | [[Advisor Ghrim]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/npc_id.html#5447 5447][https://abextm.github.io/cache2/#/viewer/npc/5447 (1)]
+|-
+| recolorFrom || [<span style="color: #ee4231">6798</span>, 8741, 25238, 6038, 11183, 54397] || [<span style="color: #6bc71f">4550</span>, 8741, 25238, 6038, 11183, 54397<span style="color: #6bc71f">, 6798</span>]
+|-
+| recolorTo || [<span style="color: #ee4231">7498</span>, 1686, 1686, 926, 10475, 920] || [<span style="color: #6bc71f">2524</span>, 1686, 1686, 926, 10475, 920<span style="color: #6bc71f">, 7498</span>]
+|-
+| rowspan="3" | [[Advisor Ghrim]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/npc_id.html#5448 5448][https://abextm.github.io/cache2/#/viewer/npc/5448 (1)]
+|-
+| recolorFrom || [<span style="color: #ee4231">6798</span>, 8741, 25238, 6038, 11183, 54397] || [<span style="color: #6bc71f">4550</span>, 8741, 25238, 6038, 11183, 54397<span style="color: #6bc71f">, 6798</span>]
+|-
+| recolorTo || [<span style="color: #ee4231">7498</span>, 1686, 1686, 926, 10475, 920] || [<span style="color: #6bc71f">2524</span>, 1686, 1686, 926, 10475, 920<span style="color: #6bc71f">, 7498</span>]
+|-
+| rowspan="3" | [[Zombie]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/npc_id.html#5647 5647][https://abextm.github.io/cache2/#/viewer/npc/5647 (1)]
+|-
+| recolorFrom || [13506, 13501, 13493, 13489, 61] || [13506, 13501, 13493, 13489, <span style="color: #6bc71f">13497, </span>61]
+|-
+| recolorTo || [15405, 15405, 15397, 15397, 5652] || [15405, 15405, 15397, 15397, <span style="color: #6bc71f">16425, </span>5652]
+|-
+| rowspan="3" | [[Nurse Inn'Juree]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/npc_id.html#6874 6874][https://abextm.github.io/cache2/#/viewer/npc/6874 (1)]
+|-
+| recolorFrom || [8741, 25238, 6798, 4550, 3012, 3008] || [8741, 25238, <span style="color: #6bc71f">54397, </span>6798, 4550, 3012, 3008]
+|-
+| recolorTo || [1814, 1814, 63397, 6705, 1825, 1825] || [1814, 1814, <span style="color: #6bc71f">18, </span>63397, 6705, 1825, 1825]
+|-
+| rowspan="3" | [[Nurse Boubou]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/npc_id.html#6875 6875][https://abextm.github.io/cache2/#/viewer/npc/6875 (1)]
+|-
+| recolorFrom || [8741, 25238, 6798, 4550, 3012, 3008] || [8741, 25238, <span style="color: #6bc71f">54397, </span>6798, 4550, 3012, 3008]
+|-
+| recolorTo || [1814, 1814, 138, 6705, 1825, 1825] || [1814, 1814, <span style="color: #6bc71f">18, </span>138, 6705, 1825, 1825]
+|-
+| rowspan="3" | [[Utrec]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/npc_id.html#7720 7720][https://abextm.github.io/cache2/#/viewer/npc/7720 (1)]
+|-
+| recolorFrom || [<span style="color: #ee4231">803</span>, 7473, 10330, 8604, 61, 5784] || [<span style="color: #6bc71f">8485</span>, 7473, 10330, 8604, 61, 5784]
+|-
+| recolorTo || [<span style="color: #ee4231">5652</span>, 9529, 7729, 10417, 9529, 2851] || [<span style="color: #6bc71f">16</span>, 9529, 7729, 10417, 9529, 2851]
+|-
+| rowspan="3" | [[Harpert]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/npc_id.html#8212 8212][https://abextm.github.io/cache2/#/viewer/npc/8212 (1)]
+|-
+| recolorFrom || [<span style="color: #ee4231">4550</span>, 8741, 21526] || [<span style="color: #6bc71f">25238</span>, 8741, <span style="color: #6bc71f">4550, </span>21526]
+|-
+| recolorTo || [<span style="color: #ee4231">94</span>, 16540, 16540] || [<span style="color: #6bc71f">5409</span>, 16540, <span style="color: #6bc71f">94, </span>16540]
+|-
+| rowspan="3" | [[Nurse Emma Gentsy]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/npc_id.html#8571 8571][https://abextm.github.io/cache2/#/viewer/npc/8571 (1)]
+|-
+| recolorFrom || [8741, 25238, 6798, 4550, 3012, 3008] || [8741, 25238, <span style="color: #6bc71f">54397, </span>6798, 4550, 3012, 3008]
+|-
+| recolorTo || [1814, 1814, 37322, 6705, 1825, 1825] || [1814, 1814, <span style="color: #6bc71f">18, </span>37322, 6705, 1825, 1825]
+|-
+| rowspan="2" | [[Fat Tony]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/npc_id.html#8688 8688][https://abextm.github.io/cache2/#/viewer/npc/8688 (1)]
+|-
+| recolorFrom || [25238, 8741, 107, 4550] || [25238, 8741, 107, <span style="color: #6bc71f">43072, </span>4550]
+|-
+| rowspan="2" | [[Fur trader]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/npc_id.html#8727 8727][https://abextm.github.io/cache2/#/viewer/npc/8727 (1)]
+|-
+| recolorFrom || [8741] || [<span style="color: #6bc71f">25238, </span>8741]
+|-
+| rowspan="3" | [[Red fireflies]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/npc_id.html#10561 10561][https://abextm.github.io/cache2/#/viewer/npc/10561 (1)]
+|-
+| recolorFrom || [<span style="color: #ee4231">6430</span>, 4506] || [<span style="color: #6bc71f">8623</span>, 4506<span style="color: #6bc71f">, 6430</span>]
+|-
+| recolorTo || [<span style="color: #ee4231">964</span>, 929] || [<span style="color: #6bc71f">474</span>, 929<span style="color: #6bc71f">, 964</span>]
+|-
+| rowspan="3" | [[Green fireflies]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/npc_id.html#10564 10564][https://abextm.github.io/cache2/#/viewer/npc/10564 (1)]
+|-
+| recolorFrom || [<span style="color: #ee4231">6430</span>, 4506] || [<span style="color: #6bc71f">8623</span>, 4506<span style="color: #6bc71f">, 6430</span>]
+|-
+| recolorTo || [<span style="color: #ee4231">21454</span>, 21415] || [<span style="color: #6bc71f">20954</span>, 21415<span style="color: #6bc71f">, 21454</span>]
+|-
+| rowspan="3" | [[Banker]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/npc_id.html#10737 10737][https://abextm.github.io/cache2/#/viewer/npc/10737 (1)]
+|-
+| recolorFrom || [25238, 8741, 55232] || [25238, 8741, <span style="color: #6bc71f">4550, </span>55232]
+|-
+| recolorTo || [45, 45, 7704] || [45, 45, <span style="color: #6bc71f">6709, </span>7704]
+|-
+| rowspan="3" | [[D3ad1i F15her]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/npc_id.html#11225 11225][https://abextm.github.io/cache2/#/viewer/npc/11225 (1)]
+|-
+| recolorFrom || <span style="color: #ee4231">[61, 41, 57, 5916, 123]</span> || 
+|-
+| recolorTo || <span style="color: #ee4231">[33, 24, 33, 127, 33678]</span> || 
+|-
+| rowspan="3" | [[Boar31337Killer]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/npc_id.html#11226 11226][https://abextm.github.io/cache2/#/viewer/npc/11226 (1)]
+|-
+| recolorFrom || <span style="color: #ee4231">[61, 41, 57, 5916, 123]</span> || 
+|-
+| recolorTo || <span style="color: #ee4231">[33, 24, 33, 127, 41781]</span> || 
+|-
+| rowspan="3" | [[R0ck 5masher]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/npc_id.html#11228 11228][https://abextm.github.io/cache2/#/viewer/npc/11228 (1)]
+|-
+| recolorFrom || <span style="color: #ee4231">[61, 41, 57, 5916, 123]</span> || 
+|-
+| recolorTo || <span style="color: #ee4231">[33, 24, 33, 127, 59288]</span> || 
+|-
+| rowspan="3" | [[Regent]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/npc_id.html#11229 11229][https://abextm.github.io/cache2/#/viewer/npc/11229 (1)]
+|-
+| recolorFrom || <span style="color: #ee4231">[61, 41, 57, 5916, 4882]</span> || 
+|-
+| recolorTo || <span style="color: #ee4231">[33, 24, 33, 127, 127]</span> || 
+|-
+| rowspan="2" | [[Messenger]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/npc_id.html#11817 11817][https://abextm.github.io/cache2/#/viewer/npc/11817 (1)]
+|-
+| recolorFrom || [25238, 8741, 4550, 55232] || [25238, 8741, 4550, <span style="color: #6bc71f">6798, </span>55232]
+|-
+| rowspan="3" | [[Farmer]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/npc_id.html#11920 11920][https://abextm.github.io/cache2/#/viewer/npc/11920 (1)]
+|-
+| recolorFrom || [25238, 9096, 4550, 4550, 6798, 55232] || [25238, <span style="color: #6bc71f">8741, </span>9096, 4550, 4550, 6798, 55232]
+|-
+| recolorTo || [7843, 6028, 5687, 5687, 0, 8] || [7843, <span style="color: #6bc71f">14748, </span>6028, 5687, 5687, 0, 8]
+|-
+| rowspan="3" | [[Passionate Supporter]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/npc_id.html#12833 12833][https://abextm.github.io/cache2/#/viewer/npc/12833 (1)]
+|-
+| recolorFrom || [<span style="color: #ee4231">6798</span>, 6798, 55232, 8741, 24, 7281, 908, 25238, 4626] || [<span style="color: #6bc71f">4550</span>, 6798, 55232, 8741, 24, 7281, 908, 25238, 4626]
+|-
+| recolorTo || [<span style="color: #ee4231">4888</span>, 8134, 8134, 8078, 8070, 7566, 11144, 11148, 5786] || [<span style="color: #6bc71f">4550</span>, 8134, 8134, 8078, 8070, 7566, 11144, 11148, 5786]
+|-
+| rowspan="3" | [[Gladiator]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/npc_id.html#12836 12836][https://abextm.github.io/cache2/#/viewer/npc/12836 (1)]
+|-
+| recolorFrom || [4550, 4544, 4661] || [4550, 4544, <span style="color: #6bc71f">4550, 1944, </span>4661]
+|-
+| recolorTo || [4525, 4647, 4643] || [4525, 4647, <span style="color: #6bc71f">4525, 3992, </span>4643]
+|-
+| rowspan="3" | [[Gladiator]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/npc_id.html#12837 12837][https://abextm.github.io/cache2/#/viewer/npc/12837 (1)]
+|-
+| recolorFrom || [4550, 4544, 4661] || [4550, 4544, <span style="color: #6bc71f">4550, 1944, </span>4661]
+|-
+| recolorTo || [4525, 4647, 4643] || [4525, 4647, <span style="color: #6bc71f">4525, 3992, </span>4643]
+|-
+| rowspan="3" | [[Citizen]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/npc_id.html#13164 13164][https://abextm.github.io/cache2/#/viewer/npc/13164 (1)]
+|-
+| recolorFrom || [4550<span style="color: #ee4231">, 3594</span>] || [4550]
+|-
+| recolorTo || [7062<span style="color: #ee4231">, 127</span>] || [7062]
+|-
+| rowspan="2" | [[Felius]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/npc_id.html#13700 13700][https://abextm.github.io/cache2/#/viewer/npc/13700 (1)]
+|-
+| recolorFrom || [4550, <span style="color: #ee4231">3594</span>] || [4550, <span style="color: #6bc71f">6798</span>]
+|-
+| rowspan="4" | [[Head Butler]]
+| rowspan="4" | [https://chisel.weirdgloop.org/moid/npc_id.html#13833 13833][https://abextm.github.io/cache2/#/viewer/npc/13833 (1)]
+|-
+| models || [55281, 55216, 55248, 179, 50778, 55263] || [55281, 55216, 55248, 179, 50778, <span style="color: #6bc71f">246, </span>55263]
+|-
+| recolorFrom || [4550, 6798, 4550, 4661, 43072, 10004, 16695] || [4550, 6798, 4550, 4661, 43072, <span style="color: #6bc71f">43303, </span>10004, 16695]
+|-
+| recolorTo || [4636, 4, 4636, 4758, 4636, 5198, 26913] || [4636, 4, 4636, 4758, 4636, <span style="color: #6bc71f">4750, </span>5198, 26913]
+|-
+| rowspan="3" | [[null]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/npc_id.html#13855 13855][https://abextm.github.io/cache2/#/viewer/npc/13855 (1)]
+|-
+| recolorFrom || [4550, 6798, 4550, 4661, 43072, 10004] || [4550, 6798, 4550, 4661, 43072, <span style="color: #6bc71f">43303, </span>10004]
+|-
+| recolorTo || [4636, 4, 4636, 4758, 4636, 5198] || [4636, 4, 4636, 4758, 4636, <span style="color: #6bc71f">4750, </span>5198]
+|-
+| rowspan="3" | [[Butler]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/npc_id.html#13856 13856][https://abextm.github.io/cache2/#/viewer/npc/13856 (1)]
+|-
+| recolorFrom || [4550, 6798, 4550, 4661, 43072, 10004] || [4550, 6798, 4550, 4661, 43072, <span style="color: #6bc71f">43303, </span>10004]
+|-
+| recolorTo || [4636, 4, 4636, 4758, 4636, 5198] || [4636, 4, 4636, 4758, 4636, <span style="color: #6bc71f">4750, </span>5198]
+|-
+| rowspan="3" | [[null]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/npc_id.html#13859 13859][https://abextm.github.io/cache2/#/viewer/npc/13859 (1)]
+|-
+| recolorFrom || [4550, 6798, 4550, 4661, 43072, 10004] || [4550, 6798, 4550, 4661, 43072, <span style="color: #6bc71f">43303, </span>10004]
+|-
+| recolorTo || [4636, 4, 4636, 4758, 4636, 5198] || [4636, 4, 4636, 4758, 4636, <span style="color: #6bc71f">4750, </span>5198]
+|-
+| rowspan="3" | [[Butler]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/npc_id.html#13860 13860][https://abextm.github.io/cache2/#/viewer/npc/13860 (1)]
+|-
+| recolorFrom || [4550, 6798, 4550, 4661, 43072, 10004] || [4550, 6798, 4550, 4661, 43072, <span style="color: #6bc71f">43303, </span>10004]
+|-
+| recolorTo || [4636, 4, 4636, 4758, 4636, 5198] || [4636, 4, 4636, 4758, 4636, <span style="color: #6bc71f">4750, </span>5198]
+|}
+==Items==
+===New Items===
+{| class="wikitable sortable"
+|-
+! colspan="11" | New Items
+|-
+! style="width: 15em" | name !! id !! examine !! isMembers !! isGrandExchangable !! isStackable !! noteLinkedItem !! inventoryActions !! placeholderLinkedItem !! price !! weight
+|-
+| [[Hunters' loot sack (supplies)]] || [https://chisel.weirdgloop.org/moid/item_id.html#30644 30644][https://abextm.github.io/cache2/#/viewer/item/30644 (1)] || I wonder what might be caught in this. || true ||  || true || -1 || [Open, None, None, None, Destroy] || 30645 || 1 || 1000
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#30645 30645][https://abextm.github.io/cache2/#/viewer/item/30645 (1)] ||  ||  ||  ||  || -1 || [None, None, None, None, Drop] || 30644 || 1 || 
+|}
+===Removed Items===
+{| class="wikitable sortable"
+|-
+! colspan="11" | Removed Items
+|-
+! style="width: 15em" | name !! id !! examine !! isMembers !! isGrandExchangable !! isStackable !! noteLinkedItem !! inventoryActions !! placeholderLinkedItem !! price !! weight
+|}
+===Diff Items===
+{| class="wikitable sortable sticky-header"
+|-
+! colspan="5" | Diff Items
+|-
+! style="width: 15em" | Name !! Id !! Key !! Previous Value !! New Value
+|-
+| rowspan="3" | [[Silver sickle (b)]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/item_id.html#2963 2963][https://abextm.github.io/cache2/#/viewer/item/2963 (1)]
+|-
+| recolorFrom || [33, 24] || [33, <span style="color: #6bc71f">49, </span>24]
+|-
+| recolorTo || [127, 43059] || [127, <span style="color: #6bc71f">43086, </span>43059]
+|-
+| rowspan="3" | [[Tribal mask]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/item_id.html#6335 6335][https://abextm.github.io/cache2/#/viewer/item/6335 (1)]
+|-
+| recolorFrom || [6585, 35047, 35047, 119, 37394] || [6585, 35047, 35047, 119, <span style="color: #6bc71f">37444, </span>37394]
+|-
+| recolorTo || [13980, 15165, 17193, 119, 10902] || [13980, 15165, 17193, 119, <span style="color: #6bc71f">37444, </span>10902]
+|-
+| rowspan="3" | [[Robe of elidinis]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/item_id.html#6786 6786][https://abextm.github.io/cache2/#/viewer/item/6786 (1)]
+|-
+| recolorFrom || <span style="color: #ee4231">[8741]</span> || 
+|-
+| recolorTo || <span style="color: #ee4231">[6740]</span> || 
+|-
+| rowspan="3" | [[Wooden sword]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/item_id.html#7675 7675][https://abextm.github.io/cache2/#/viewer/item/7675 (1)]
+|-
+| recolorFrom || [11200] || [<span style="color: #6bc71f">61, </span>11200]
+|-
+| recolorTo || [7952] || [<span style="color: #6bc71f">6707, </span>7952]
+|-
+| rowspan="3" | [[Emerald sickle (b)]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/item_id.html#22433 22433][https://abextm.github.io/cache2/#/viewer/item/22433 (1)]
+|-
+| recolorFrom || [33, 24] || [33, <span style="color: #6bc71f">49, </span>24]
+|-
+| recolorTo || [127, 43059] || [127, <span style="color: #6bc71f">43086, </span>43059]
+|-
+| rowspan="3" | [[Enchanted emerald sickle (b)]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/item_id.html#22435 22435][https://abextm.github.io/cache2/#/viewer/item/22435 (1)]
+|-
+| recolorFrom || [33, 24] || [33, <span style="color: #6bc71f">49, </span>24]
+|-
+| recolorTo || [127, 43059] || [127, <span style="color: #6bc71f">43086, </span>43059]
+|-
+| rowspan="3" | [[Amulet of avarice]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/item_id.html#22557 22557][https://abextm.github.io/cache2/#/viewer/item/22557 (1)]
+|-
+| recolorFrom || <span style="color: #ee4231">[926]</span> || 
+|-
+| recolorTo || <span style="color: #ee4231">[22193]</span> || 
+|-
+| rowspan="2" | [[Pendant of ates]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#29893 29893][https://abextm.github.io/cache2/#/viewer/item/29893 (1)]
+|-
+| subops ||  || <span style="color: #6bc71f">[null, null, [The Darkfrost, Twilight Temple, Ralos' Rise, North Aldarin]]</span>
+|}
+==Params==
+===New Params===
+{| class="wikitable sortable"
+|-
+! colspan="5" | New Params
+|-
+! style="width: 15em" | id !! type !! defaultInt !! defaultString !! isMembers
+|-
+| [https://chisel.weirdgloop.org/structs/index.html?type=enums&id=2246 2246][https://abextm.github.io/cache2/#/viewer/enum/2246 (1)] ||  ||  ||  || true
+|-
+| [https://chisel.weirdgloop.org/structs/index.html?type=enums&id=2247 2247][https://abextm.github.io/cache2/#/viewer/enum/2247 (1)] ||  ||  ||  || 
+|-
+| [https://chisel.weirdgloop.org/structs/index.html?type=enums&id=2248 2248][https://abextm.github.io/cache2/#/viewer/enum/2248 (1)] ||  ||  ||  || 
+|}
+===Removed Params===
+{| class="wikitable sortable"
+|-
+! colspan="5" | Removed Params
+|-
+! style="width: 15em" | id !! type !! defaultInt !! defaultString !! isMembers
+|}
+===Diff Params===
+{| class="wikitable sortable sticky-header"
+|-
+! colspan="5" | Diff Params
+|-
+! style="width: 15em" | Id !! Key !! Previous Value !! New Value
+|}
+==Structs==
+===New Structs===
+{| class="wikitable sortable"
+|-
+! colspan="2" | New Structs
+|-
+! style="width: 15em" | id !! params
+|-
+| [https://chisel.weirdgloop.org/structs/index.html?type=structs&id=1745 1745][https://abextm.github.io/cache2/#/viewer/struct/1745 (1)] || {'1077': 425, '1078': 0, '1086': 'Toggle all combat camera shake effects', '1088': 'camera, toggle, bob, effect, accessibility', '1096': 'When disabled,  all combat camera shake effects will be off by default.'}
+|-
+| [https://chisel.weirdgloop.org/structs/index.html?type=structs&id=1804 1804][https://abextm.github.io/cache2/#/viewer/struct/1804 (1)] || {'1077': 426, '1078': 0, '1085': 1, '1086': 'Toggle all atmospheric camera shake effects', '1088': 'camera, toggle, bob, effect, accessibility', '1096': 'When disabled,  all atmospheric camera shake effects will be off by default.'}
+|-
+| [https://chisel.weirdgloop.org/structs/index.html?type=structs&id=1810 1810][https://abextm.github.io/cache2/#/viewer/struct/1810 (1)] || {'1077': 427, '1078': 0, '1080': 3335, '1085': 1, '1086': 'Show the camera effect when fighting Lizardman Shamans', '1088': 'camera, toggle, bob, effect, accessibility', '1096': 'When enabled,  there is a camera effect when fighting Lizardman shamans.', '1119': 0}
+|-
+| [https://chisel.weirdgloop.org/structs/index.html?type=structs&id=1812 1812][https://abextm.github.io/cache2/#/viewer/struct/1812 (1)] || {'1077': 428, '1078': 0, '1080': 3335, '1085': 1, '1086': 'Show the camera effect when fighting the Great Olm', '1088': 'camera, toggle, bob, effect, accessibility', '1096': 'When enabled,  there is a camera effect when fighting the Great Olm.', '1119': 0}
+|-
+| [https://chisel.weirdgloop.org/structs/index.html?type=structs&id=1938 1938][https://abextm.github.io/cache2/#/viewer/struct/1938 (1)] || {'1077': 429, '1078': 0, '1080': 3335, '1085': 1, '1086': 'Show the camera effect before a rock fall in the Ape Atoll tunnels.', '1088': 'camera, toggle, bob, effect, accessibility', '1096': 'When enabled,  there is a camera effect before a rock fall in the Ape Atoll tunnels.', '1119': 0}
+|-
+| [https://chisel.weirdgloop.org/structs/index.html?type=structs&id=2030 2030][https://abextm.github.io/cache2/#/viewer/struct/2030 (1)] || {'740': 1, '1077': 430, '1078': 0, '1085': 1, '1086': 'Always show chat filters', '1088': 'chat, filter, collapse, hidden, hide', '1096': 'When enabled,  chat filters will be displayed even with chat collapsed.'}
+|}
+===Removed Structs===
+{| class="wikitable sortable"
+|-
+! colspan="2" | Removed Structs
+|-
+! style="width: 15em" | id !! params
+|}
+===Diff Structs===
+{| class="wikitable sortable sticky-header"
+|-
+! colspan="5" | Diff Structs
+|-
+! style="width: 15em" | Id !! Key !! Previous Value !! New Value
+|-
+| rowspan="2" | [https://chisel.weirdgloop.org/structs/index.html?type=structs&id=349 349][https://abextm.github.io/cache2/#/viewer/struct/349 (1)]
+|-
+| params || {'1077': 281, '1078': 0, '1085': 1, '1086': 'Show the camera effect when in Baba Yaga's house', '1088': 'Show the camera effect when in Baba Yaga's house, baba, yaga, camera, toggle, bob, effect, accessibility', '1096': 'When enabled,  there is a camera effect when inside Baba Yaga's house.'} || {'1077': 281, '1078': 0, '<span style="color: #6bc71f">1080': 5198, '</span>1085': 1, '1086': 'Show the camera effect when in Baba Yaga's house', '1088': 'Show the camera effect when in Baba Yaga's house, baba, yaga, camera, toggle, bob, effect, accessibility', '1096': 'When enabled,  there is a camera effect when inside Baba Yaga's house.'}
+|-
+| rowspan="2" | [https://chisel.weirdgloop.org/structs/index.html?type=structs&id=350 350][https://abextm.github.io/cache2/#/viewer/struct/350 (1)]
+|-
+| params || {'1077': 282, '1078': 0, '1085': 1, '1086': 'Show the camera effect when on the Fishing Trawler', '1088': 'Show the camera effect when on the Fishing Trawler, fishing, trawler, camera, toggle, bob, effect, accessibility', '1096': 'When enabled,  there is a camera effect when on the Fishing Trawler.', '1119': 0} || {'1077': 282, '1078': 0, '<span style="color: #6bc71f">1080': 5198, '</span>1085': 1, '1086': 'Show the camera effect when on the Fishing Trawler', '1088': 'Show the camera effect when on the Fishing Trawler, fishing, trawler, camera, toggle, bob, effect, accessibility', '1096': 'When enabled,  there is a camera effect when on the Fishing Trawler.', '1119': 0}
+|-
+| rowspan="2" | [https://chisel.weirdgloop.org/structs/index.html?type=structs&id=351 351][https://abextm.github.io/cache2/#/viewer/struct/351 (1)]
+|-
+| params || {'1077': 283, '1078': 0, '1085': 1, '1086': 'Show the camera effect after looting the Barrows' chest', '1088': 'Show the camera effect after looting the barrows chest, barrows', camera, toggle, bob, effect, accessibility', '1096': 'When enabled,  there is a camera effect after looting the Barrows' chest.', '1119': 0} || {'1077': 283, '1078': 0, '<span style="color: #6bc71f">1080': 5198, '</span>1085': 1, '1086': 'Show the camera effect after looting the Barrows' chest', '1088': 'Show the camera effect after looting the barrows chest, barrows', camera, toggle, bob, effect, accessibility', '1096': 'When enabled,  there is a camera effect after looting the Barrows' chest.', '1119': 0}
+|-
+| rowspan="2" | [https://chisel.weirdgloop.org/structs/index.html?type=structs&id=1078 1078][https://abextm.github.io/cache2/#/viewer/struct/1078 (1)]
+|-
+| params || {'740': 1, '1077': 410, '1078': 0, '1085': 1, '1087': 'Tile highlighting<span style="color: #ee4231"> option</span>', '1088': 'player tile highlighting op', '1097': 'When enabled,  <span style="color: #ee4231">long-press</span> the ground to place highlights.', '1157': 1} || {'740': 1, '1077': 410, '1078': 0, '1085': 1, '1087': 'Tile highlighting', '1088': 'player tile highlighting op', '1097': 'When enabled,  <span style="color: #6bc71f">tap</span> the ground to place highlights.', '1157': 1}
+|-
+| rowspan="2" | [https://chisel.weirdgloop.org/structs/index.html?type=structs&id=4510 4510][https://abextm.github.io/cache2/#/viewer/struct/4510 (1)]
+|-
+| params || {'1077': 321, '1078': 0, '1086': 'Ground Items Overlay', '1088': 'ground, items, item, objects, object, overlay, loot, drop, drops, reward, rewardsstack, stacks, pile, piles', '1096': 'When enabled,  items on the ground may display an overlay to tell you what items are available,  and how much they are worth.', '1157': 1} || {'1077': 321, '1078': 0, '<span style="color: #6bc71f">1085': 1, '</span>1086': 'Ground Items Overlay', '1088': 'ground, items, item, objects, object, overlay, loot, drop, drops, reward, rewardsstack, stacks, pile, piles', '1096': 'When enabled,  items on the ground may display an overlay to tell you what items are available,  and how much they are worth.', '1157': 1}
+|}
+==Database Rows==
+===New Database Rows===
+{| class="wikitable sortable"
+|-
+! colspan="3" | New Database Rows
+|-
+! style="width: 15em" | id !! table !! values
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4235 4235] || 86 || 
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4236 4236] || 86 || 
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4237 4237] || 86 || 
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4238 4238] || 86 || 
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4239 4239] || 86 || 
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4240 4240] || 86 || 
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4241 4241] || 86 || 
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4242 4242] || 86 || 
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4243 4243] || 86 || 
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4244 4244] || 86 || 
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4245 4245] || 86 || 
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4246 4246] || 86 || 
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4247 4247] || 86 || 
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4248 4248] || 86 || 
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4249 4249] || 86 || 
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4250 4250] || 86 || 
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4251 4251] || 86 || 
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4252 4252] || 86 || 
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4253 4253] || 86 || 
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4254 4254] || 86 || 
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4255 4255] || 86 || 
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4256 4256] || 86 || 
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4257 4257] || 86 || 
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4258 4258] || 86 || 
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4259 4259] || 86 || 
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4260 4260] || 86 || 
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4261 4261] || 86 || 
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4262 4262] || 86 || 
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4263 4263] || 86 || 
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4264 4264] || 86 || 
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4265 4265] || 86 || 
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4266 4266] || 86 || 
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4267 4267] || 86 || 
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4268 4268] || 86 || 
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4269 4269] || 86 || 
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4270 4270] || 86 || 
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4271 4271] || 86 || 
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4272 4272] || 86 || 
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4273 4273] || 86 || 
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4274 4274] || 86 || 
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4275 4275] || 86 || 
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4276 4276] || 86 || 
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4277 4277] || 86 || 
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4278 4278] || 86 || 
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4279 4279] || 86 || 
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4280 4280] || 86 || 
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4281 4281] || 86 || 
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4282 4282] || 86 || 
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4283 4283] || 86 || 
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4284 4284] || 86 || 
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4285 4285] || 86 || 
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4286 4286] || 86 || 
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4287 4287] || 86 || 
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4288 4288] || 86 || 
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4289 4289] || 86 || 
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4290 4290] || 86 || 
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4291 4291] || 86 || 
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4292 4292] || 86 || 
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4293 4293] || 86 || 
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4294 4294] || 86 || 
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4295 4295] || 86 || 
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4296 4296] || 86 || 
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4297 4297] || 86 || 
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4298 4298] || 86 || 
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4299 4299] || 86 || 
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4300 4300] || 86 || 
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4301 4301] || 86 || 
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4302 4302] || 86 || 
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4303 4303] || 86 || 
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4304 4304] || 86 || 
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4305 4305] || 86 || 
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4306 4306] || 86 || 
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4307 4307] || 86 || 
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4308 4308] || 86 || 
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4309 4309] || 86 || 
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4310 4310] || 86 || 
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4311 4311] || 86 || 
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4312 4312] || 86 || 
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4313 4313] || 86 || 
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4314 4314] || 86 || 
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4315 4315] || 86 || 
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4316 4316] || 86 || 
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4317 4317] || 86 || 
+|}
+===Removed Database Rows===
+{| class="wikitable sortable"
+|-
+! colspan="3" | Removed Database Rows
+|-
+! style="width: 15em" | id !! table !! values
+|}
+===Diff Database Rows===
+{| class="wikitable sortable sticky-header"
+|-
+! colspan="5" | Diff Database Rows
+|-
+! style="width: 15em" | Id !! Key !! Previous Value !! New Value
+|}
+==Sprites==
+===New Sprites===
+{| class="wikitable sortable"
+|-
+! colspan="3" | New Sprites
+|-
+! style="width: 15em" | id !! width !! height
+|}
+===Removed Sprites===
+{| class="wikitable sortable"
+|-
+! colspan="3" | Removed Sprites
+|-
+! style="width: 15em" | id !! width !! height
+|}
+===Diff Sprites===
+{| class="wikitable sortable sticky-header"
+|-
+! colspan="5" | Diff Sprites
+|-
+! style="width: 15em" | Id !! Key !! Previous Value !! New Value
+|-
+| rowspan="2" | [423 423][https://abextm.github.io/cache2/#/viewer/sprite/423 (1)]
+|-
+| sprites || [{offsetX:0, offsetY:1, pixelsWidth:13, pixelsHeight:11, encodingMode:1, pixelsLength:143}, {offsetX:0, offsetY:1, pixelsWidth:13, pixelsHeight:11, encodingMode:1, pixelsLength:143}, {offsetX:1, offsetY:0, pixelsWidth:10, pixelsHeight:13, encodingMode:0, pixelsLength:130}, {offsetX:0, offsetY:0, pixelsWidth:13, pixelsHeight:13, encodingMode:0, pixelsLength:169}, {offsetX:0, offsetY:1, pixelsWidth:13, pixelsHeight:12, encodingMode:0, pixelsLength:156}, {offsetX:0, offsetY:1, pixelsWidth:13, pixelsHeight:12, encodingMode:0, pixelsLength:156}, {offsetX:0, offsetY:1, pixelsWidth:13, pixelsHeight:12, encodingMode:0, pixelsLength:156}, {offsetX:0, offsetY:1, pixelsWidth:13, pixelsHeight:12, encodingMode:<span style="color: #ee4231">0</span>, pixelsLength:156}, {offsetX:0, offsetY:1, pixelsWidth:13, pixelsHeight:12, encodingMode:0, pixelsLength:156}, {offsetX:0, offsetY:1, pixelsWidth:13, pixelsHeight:12, encodingMode:0, pixelsLength:156}, {offsetX:1, offsetY:0, pixelsWidth:10, pixelsHeight:13, encodingMode:0, pixelsLength:130}, {offsetX:0, offsetY:0, pixelsWidth:13, pixelsHeight:13, encodingMode:0, pixelsLength:169}, {offsetX:0, offsetY:0, pixelsWidth:13, pixelsHeight:13, encodingMode:1, pixelsLength:169}, {offsetX:0, offsetY:0, pixelsWidth:13, pixelsHeight:13, encodingMode:0, pixelsLength:169}, {offsetX:2, offsetY:2, pixelsWidth:9, pixelsHeight:9, encodingMode:0, pixelsLength:81}, {offsetX:0, offsetY:0, pixelsWidth:13, pixelsHeight:13, encodingMode:1, pixelsLength:169}, {offsetX:0, offsetY:0, pixelsWidth:13, pixelsHeight:13, encodingMode:1, pixelsLength:169}, {offsetX:0, offsetY:0, pixelsWidth:13, pixelsHeight:13, encodingMode:1, pixelsLength:169}, {offsetX:0, offsetY:0, pixelsWidth:13, pixelsHeight:13, encodingMode:0, pixelsLength:169}, {offsetX:0, offsetY:2, pixelsWidth:13, pixelsHeight:11, encodingMode:0, pixelsLength:143}, {offsetX:1, offsetY:2, pixelsWidth:11, pixelsHeight:11, encodingMode:1, pixelsLength:121}, {offsetX:2, offsetY:1, pixelsWidth:10, pixelsHeight:12, encodingMode:0, pixelsLength:120}, {offsetX:2, offsetY:1, pixelsWidth:9, pixelsHeight:12, encodingMode:1, pixelsLength:108}, {offsetX:0, offsetY:0, pixelsWidth:13, pixelsHeight:13, encodingMode:0, pixelsLength:169}, {offsetX:3, offsetY:4, pixelsWidth:7, pixelsHeight:9, encodingMode:0, pixelsLength:63}, {offsetX:3, offsetY:4, pixelsWidth:7, pixelsHeight:9, encodingMode:0, pixelsLength:63}, {offsetX:2, offsetY:3, pixelsWidth:9, pixelsHeight:10, encodingMode:0, pixelsLength:90}, {offsetX:2, offsetY:3, pixelsWidth:9, pixelsHeight:10, encodingMode:0, pixelsLength:90}, {offsetX:0, offsetY:2, pixelsWidth:13, pixelsHeight:11, encodingMode:0, pixelsLength:143}, {offsetX:0, offsetY:2, pixelsWidth:13, pixelsHeight:11, encodingMode:0, pixelsLength:143}, {offsetX:0, offsetY:0, pixelsWidth:13, pixelsHeight:13, encodingMode:0, pixelsLength:169}, {offsetX:0, offsetY:0, pixelsWidth:13, pixelsHeight:13, encodingMode:1, pixelsLength:169}, {offsetX:2, offsetY:2, pixelsWidth:9, pixelsHeight:9, encodingMode:0, pixelsLength:81}, {offsetX:3, offsetY:5, pixelsWidth:7, pixelsHeight:3, encodingMode:0, pixelsLength:21}, {offsetX:3, offsetY:4, pixelsWidth:7, pixelsHeight:5, encodingMode:0, pixelsLength:35}, {offsetX:3, offsetY:3, pixelsWidth:7, pixelsHeight:7, encodingMode:0, pixelsLength:49}, {offsetX:2, offsetY:2, pixelsWidth:9, pixelsHeight:9, encodingMode:0, pixelsLength:81}, {offsetX:2, offsetY:2, pixelsWidth:9, pixelsHeight:9, encodingMode:0, pixelsLength:81}, {offsetX:2, offsetY:2, pixelsWidth:9, pixelsHeight:9, encodingMode:0, pixelsLength:81}, {offsetX:2, offsetY:2, pixelsWidth:9, pixelsHeight:9, encodingMode:0, pixelsLength:81}, {offsetX:2, offsetY:3, pixelsWidth:9, pixelsHeight:7, encodingMode:1, pixelsLength:63}, {offsetX:1, offsetY:0, pixelsWidth:10, pixelsHeight:13, encodingMode:0, pixelsLength:130}, {offsetX:1, offsetY:0, pixelsWidth:10, pixelsHeight:13, encodingMode:0, pixelsLength:130}, {offsetX:1, offsetY:0, pixelsWidth:10, pixelsHeight:13, encodingMode:0, pixelsLength:130}, {offsetX:0, offsetY:0, pixelsWidth:13, pixelsHeight:13, encodingMode:1, pixelsLength:169}, {offsetX:0, offsetY:0, pixelsWidth:13, pixelsHeight:13, encodingMode:1, pixelsLength:169}, {offsetX:0, offsetY:0, pixelsWidth:13, pixelsHeight:13, encodingMode:1, pixelsLength:169}, {offsetX:0, offsetY:0, pixelsWidth:13, pixelsHeight:13, encodingMode:1, pixelsLength:169}, {offsetX:0, offsetY:0, pixelsWidth:13, pixelsHeight:13, encodingMode:<span style="color: #ee4231">0</span>, pixelsLength:169}, {offsetX:0, offsetY:0, pixelsWidth:13, pixelsHeight:13, encodingMode:1, pixelsLength:169}, {offsetX:0, offsetY:0, pixelsWidth:13, pixelsHeight:13, encodingMode:1, pixelsLength:169}, {offsetX:0, offsetY:0, pixelsWidth:13, pixelsHeight:13, encodingMode:0, pixelsLength:169}, {offsetX:1, offsetY:0, pixelsWidth:11, pixelsHeight:13, encodingMode:1, pixelsLength:143}, {offsetX:0, offsetY:<span style="color: #ee4231">0</span>, pixelsWidth:<span style="color: #ee4231">0</span>, pixelsHeight:<span style="color: #ee4231">0</span>, encodingMode:<span style="color: #ee4231">0</span>, pixelsLength:<span style="color: #ee4231">0</span>}, {offsetX:0, offsetY:0, pixelsWidth:0, pixelsHeight:0, encodingMode:0, pixelsLength:0}, {offsetX:0, offsetY:0, pixelsWidth:0, pixelsHeight:0, encodingMode:0, pixelsLength:0}, {offsetX:0, offsetY:0, pixelsWidth:0, pixelsHeight:0, encodingMode:0, pixelsLength:0}, {offsetX:0, offsetY:0, pixelsWidth:0, pixelsHeight:0, encodingMode:0, pixelsLength:0}, {offsetX:0, offsetY:0, pixelsWidth:0, pixelsHeight:0, encodingMode:0, pixelsLength:0}, {offsetX:0, offsetY:0, pixelsWidth:0, pixelsHeight:0, encodingMode:0, pixelsLength:0}] || [{offsetX:0, offsetY:1, pixelsWidth:13, pixelsHeight:11, encodingMode:1, pixelsLength:143}, {offsetX:0, offsetY:1, pixelsWidth:13, pixelsHeight:11, encodingMode:1, pixelsLength:143}, {offsetX:1, offsetY:0, pixelsWidth:10, pixelsHeight:13, encodingMode:0, pixelsLength:130}, {offsetX:0, offsetY:0, pixelsWidth:13, pixelsHeight:13, encodingMode:0, pixelsLength:169}, {offsetX:0, offsetY:1, pixelsWidth:13, pixelsHeight:12, encodingMode:0, pixelsLength:156}, {offsetX:0, offsetY:1, pixelsWidth:13, pixelsHeight:12, encodingMode:0, pixelsLength:156}, {offsetX:0, offsetY:1, pixelsWidth:13, pixelsHeight:12, encodingMode:0, pixelsLength:156}, {offsetX:0, offsetY:1, pixelsWidth:13, pixelsHeight:12, encodingMode:<span style="color: #6bc71f">1</span>, pixelsLength:156}, {offsetX:0, offsetY:1, pixelsWidth:13, pixelsHeight:12, encodingMode:0, pixelsLength:156}, {offsetX:0, offsetY:1, pixelsWidth:13, pixelsHeight:12, encodingMode:0, pixelsLength:156}, {offsetX:1, offsetY:0, pixelsWidth:10, pixelsHeight:13, encodingMode:0, pixelsLength:130}, {offsetX:0, offsetY:0, pixelsWidth:13, pixelsHeight:13, encodingMode:0, pixelsLength:169}, {offsetX:0, offsetY:0, pixelsWidth:13, pixelsHeight:13, encodingMode:1, pixelsLength:169}, {offsetX:0, offsetY:0, pixelsWidth:13, pixelsHeight:13, encodingMode:0, pixelsLength:169}, {offsetX:2, offsetY:2, pixelsWidth:9, pixelsHeight:9, encodingMode:0, pixelsLength:81}, {offsetX:0, offsetY:0, pixelsWidth:13, pixelsHeight:13, encodingMode:1, pixelsLength:169}, {offsetX:0, offsetY:0, pixelsWidth:13, pixelsHeight:13, encodingMode:1, pixelsLength:169}, {offsetX:0, offsetY:0, pixelsWidth:13, pixelsHeight:13, encodingMode:1, pixelsLength:169}, {offsetX:0, offsetY:0, pixelsWidth:13, pixelsHeight:13, encodingMode:0, pixelsLength:169}, {offsetX:0, offsetY:2, pixelsWidth:13, pixelsHeight:11, encodingMode:0, pixelsLength:143}, {offsetX:1, offsetY:2, pixelsWidth:11, pixelsHeight:11, encodingMode:1, pixelsLength:121}, {offsetX:2, offsetY:1, pixelsWidth:10, pixelsHeight:12, encodingMode:0, pixelsLength:120}, {offsetX:2, offsetY:1, pixelsWidth:9, pixelsHeight:12, encodingMode:1, pixelsLength:108}, {offsetX:0, offsetY:0, pixelsWidth:13, pixelsHeight:13, encodingMode:0, pixelsLength:169}, {offsetX:3, offsetY:4, pixelsWidth:7, pixelsHeight:9, encodingMode:0, pixelsLength:63}, {offsetX:3, offsetY:4, pixelsWidth:7, pixelsHeight:9, encodingMode:0, pixelsLength:63}, {offsetX:2, offsetY:3, pixelsWidth:9, pixelsHeight:10, encodingMode:0, pixelsLength:90}, {offsetX:2, offsetY:3, pixelsWidth:9, pixelsHeight:10, encodingMode:0, pixelsLength:90}, {offsetX:0, offsetY:2, pixelsWidth:13, pixelsHeight:11, encodingMode:0, pixelsLength:143}, {offsetX:0, offsetY:2, pixelsWidth:13, pixelsHeight:11, encodingMode:0, pixelsLength:143}, {offsetX:0, offsetY:0, pixelsWidth:13, pixelsHeight:13, encodingMode:0, pixelsLength:169}, {offsetX:0, offsetY:0, pixelsWidth:13, pixelsHeight:13, encodingMode:1, pixelsLength:169}, {offsetX:2, offsetY:2, pixelsWidth:9, pixelsHeight:9, encodingMode:0, pixelsLength:81}, {offsetX:3, offsetY:5, pixelsWidth:7, pixelsHeight:3, encodingMode:0, pixelsLength:21}, {offsetX:3, offsetY:4, pixelsWidth:7, pixelsHeight:5, encodingMode:0, pixelsLength:35}, {offsetX:3, offsetY:3, pixelsWidth:7, pixelsHeight:7, encodingMode:0, pixelsLength:49}, {offsetX:2, offsetY:2, pixelsWidth:9, pixelsHeight:9, encodingMode:0, pixelsLength:81}, {offsetX:2, offsetY:2, pixelsWidth:9, pixelsHeight:9, encodingMode:0, pixelsLength:81}, {offsetX:2, offsetY:2, pixelsWidth:9, pixelsHeight:9, encodingMode:0, pixelsLength:81}, {offsetX:2, offsetY:2, pixelsWidth:9, pixelsHeight:9, encodingMode:0, pixelsLength:81}, {offsetX:2, offsetY:3, pixelsWidth:9, pixelsHeight:7, encodingMode:1, pixelsLength:63}, {offsetX:1, offsetY:0, pixelsWidth:10, pixelsHeight:13, encodingMode:0, pixelsLength:130}, {offsetX:1, offsetY:0, pixelsWidth:10, pixelsHeight:13, encodingMode:0, pixelsLength:130}, {offsetX:1, offsetY:0, pixelsWidth:10, pixelsHeight:13, encodingMode:0, pixelsLength:130}, {offsetX:0, offsetY:0, pixelsWidth:13, pixelsHeight:13, encodingMode:1, pixelsLength:169}, {offsetX:0, offsetY:0, pixelsWidth:13, pixelsHeight:13, encodingMode:1, pixelsLength:169}, {offsetX:0, offsetY:0, pixelsWidth:13, pixelsHeight:13, encodingMode:1, pixelsLength:169}, {offsetX:0, offsetY:0, pixelsWidth:13, pixelsHeight:13, encodingMode:1, pixelsLength:169}, {offsetX:0, offsetY:0, pixelsWidth:13, pixelsHeight:13, encodingMode:<span style="color: #6bc71f">1</span>, pixelsLength:169}, {offsetX:0, offsetY:0, pixelsWidth:13, pixelsHeight:13, encodingMode:1, pixelsLength:169}, {offsetX:0, offsetY:0, pixelsWidth:13, pixelsHeight:13, encodingMode:1, pixelsLength:169}, {offsetX:0, offsetY:0, pixelsWidth:13, pixelsHeight:13, encodingMode:0, pixelsLength:169}, {offsetX:1, offsetY:0, pixelsWidth:11, pixelsHeight:13, encodingMode:1, pixelsLength:143}, {offsetX:0, offsetY:<span style="color: #6bc71f">1</span>, pixelsWidth:<span style="color: #6bc71f">13</span>, pixelsHeight:<span style="color: #6bc71f">12</span>, encodingMode:<span style="color: #6bc71f">1</span>, pixelsLength:<span style="color: #6bc71f">156</span>}, {offsetX:0, offsetY:0, pixelsWidth:0, pixelsHeight:0, encodingMode:0, pixelsLength:0}, {offsetX:0, offsetY:0, pixelsWidth:0, pixelsHeight:0, encodingMode:0, pixelsLength:0}, {offsetX:0, offsetY:0, pixelsWidth:0, pixelsHeight:0, encodingMode:0, pixelsLength:0}, {offsetX:0, offsetY:0, pixelsWidth:0, pixelsHeight:0, encodingMode:0, pixelsLength:0}, {offsetX:0, offsetY:0, pixelsWidth:0, pixelsHeight:0, encodingMode:0, pixelsLength:0}, {offsetX:0, offsetY:0, pixelsWidth:0, pixelsHeight:0, encodingMode:0, pixelsLength:0}]
+|-
+| rowspan="2" | [2156 2156][https://abextm.github.io/cache2/#/viewer/sprite/2156 (1)]
+|-
+| sprites || [{offsetX:0, offsetY:1, pixelsWidth:13, pixelsHeight:11, encodingMode:1, pixelsLength:143}] || [{offsetX:0, offsetY:1, pixelsWidth:13, pixelsHeight:11, encodingMode:1, pixelsLength:143}]
+|-
+| rowspan="2" | [2157 2157][https://abextm.github.io/cache2/#/viewer/sprite/2157 (1)]
+|-
+| sprites || [{offsetX:0, offsetY:1, pixelsWidth:13, pixelsHeight:11, encodingMode:1, pixelsLength:143}] || [{offsetX:0, offsetY:1, pixelsWidth:13, pixelsHeight:11, encodingMode:1, pixelsLength:143}]
+|-
+| rowspan="2" | [2158 2158][https://abextm.github.io/cache2/#/viewer/sprite/2158 (1)]
+|-
+| sprites || [{offsetX:1, offsetY:0, pixelsWidth:10, pixelsHeight:13, encodingMode:0, pixelsLength:130}] || [{offsetX:1, offsetY:0, pixelsWidth:10, pixelsHeight:13, encodingMode:0, pixelsLength:130}]
+|-
+| rowspan="2" | [2159 2159][https://abextm.github.io/cache2/#/viewer/sprite/2159 (1)]
+|-
+| sprites || [{offsetX:0, offsetY:0, pixelsWidth:13, pixelsHeight:13, encodingMode:0, pixelsLength:169}] || [{offsetX:0, offsetY:0, pixelsWidth:13, pixelsHeight:13, encodingMode:0, pixelsLength:169}]
+|-
+| rowspan="2" | [2160 2160][https://abextm.github.io/cache2/#/viewer/sprite/2160 (1)]
+|-
+| sprites || [{offsetX:0, offsetY:1, pixelsWidth:13, pixelsHeight:12, encodingMode:0, pixelsLength:156}] || [{offsetX:0, offsetY:1, pixelsWidth:13, pixelsHeight:12, encodingMode:0, pixelsLength:156}]
+|-
+| rowspan="2" | [2161 2161][https://abextm.github.io/cache2/#/viewer/sprite/2161 (1)]
+|-
+| sprites || [{offsetX:0, offsetY:1, pixelsWidth:13, pixelsHeight:12, encodingMode:0, pixelsLength:156}] || [{offsetX:0, offsetY:1, pixelsWidth:13, pixelsHeight:12, encodingMode:0, pixelsLength:156}]
+|-
+| rowspan="2" | [2162 2162][https://abextm.github.io/cache2/#/viewer/sprite/2162 (1)]
+|-
+| sprites || [{offsetX:0, offsetY:1, pixelsWidth:13, pixelsHeight:12, encodingMode:0, pixelsLength:156}] || [{offsetX:0, offsetY:1, pixelsWidth:13, pixelsHeight:12, encodingMode:0, pixelsLength:156}]
+|-
+| rowspan="2" | [2163 2163][https://abextm.github.io/cache2/#/viewer/sprite/2163 (1)]
+|-
+| sprites || [{offsetX:0, offsetY:1, pixelsWidth:13, pixelsHeight:12, encodingMode:<span style="color: #ee4231">0</span>, pixelsLength:156}] || [{offsetX:0, offsetY:1, pixelsWidth:13, pixelsHeight:12, encodingMode:<span style="color: #6bc71f">1</span>, pixelsLength:156}]
+|-
+| rowspan="2" | [2164 2164][https://abextm.github.io/cache2/#/viewer/sprite/2164 (1)]
+|-
+| sprites || [{offsetX:0, offsetY:1, pixelsWidth:13, pixelsHeight:12, encodingMode:0, pixelsLength:156}] || [{offsetX:0, offsetY:1, pixelsWidth:13, pixelsHeight:12, encodingMode:0, pixelsLength:156}]
+|-
+| rowspan="2" | [2165 2165][https://abextm.github.io/cache2/#/viewer/sprite/2165 (1)]
+|-
+| sprites || [{offsetX:0, offsetY:1, pixelsWidth:13, pixelsHeight:12, encodingMode:0, pixelsLength:156}] || [{offsetX:0, offsetY:1, pixelsWidth:13, pixelsHeight:12, encodingMode:0, pixelsLength:156}]
+|-
+| rowspan="2" | [2166 2166][https://abextm.github.io/cache2/#/viewer/sprite/2166 (1)]
+|-
+| sprites || [{offsetX:1, offsetY:0, pixelsWidth:10, pixelsHeight:13, encodingMode:0, pixelsLength:130}] || [{offsetX:1, offsetY:0, pixelsWidth:10, pixelsHeight:13, encodingMode:0, pixelsLength:130}]
+|-
+| rowspan="2" | [2167 2167][https://abextm.github.io/cache2/#/viewer/sprite/2167 (1)]
+|-
+| sprites || [{offsetX:0, offsetY:0, pixelsWidth:13, pixelsHeight:13, encodingMode:0, pixelsLength:169}] || [{offsetX:0, offsetY:0, pixelsWidth:13, pixelsHeight:13, encodingMode:0, pixelsLength:169}]
+|-
+| rowspan="2" | [2168 2168][https://abextm.github.io/cache2/#/viewer/sprite/2168 (1)]
+|-
+| sprites || [{offsetX:0, offsetY:0, pixelsWidth:13, pixelsHeight:13, encodingMode:1, pixelsLength:169}] || [{offsetX:0, offsetY:0, pixelsWidth:13, pixelsHeight:13, encodingMode:1, pixelsLength:169}]
+|-
+| rowspan="2" | [2169 2169][https://abextm.github.io/cache2/#/viewer/sprite/2169 (1)]
+|-
+| sprites || [{offsetX:0, offsetY:0, pixelsWidth:13, pixelsHeight:13, encodingMode:0, pixelsLength:169}] || [{offsetX:0, offsetY:0, pixelsWidth:13, pixelsHeight:13, encodingMode:0, pixelsLength:169}]
+|-
+| rowspan="2" | [2170 2170][https://abextm.github.io/cache2/#/viewer/sprite/2170 (1)]
+|-
+| sprites || [{offsetX:2, offsetY:2, pixelsWidth:9, pixelsHeight:9, encodingMode:0, pixelsLength:81}] || [{offsetX:2, offsetY:2, pixelsWidth:9, pixelsHeight:9, encodingMode:0, pixelsLength:81}]
+|-
+| rowspan="2" | [2171 2171][https://abextm.github.io/cache2/#/viewer/sprite/2171 (1)]
+|-
+| sprites || [{offsetX:0, offsetY:0, pixelsWidth:13, pixelsHeight:13, encodingMode:1, pixelsLength:169}] || [{offsetX:0, offsetY:0, pixelsWidth:13, pixelsHeight:13, encodingMode:1, pixelsLength:169}]
+|-
+| rowspan="2" | [2172 2172][https://abextm.github.io/cache2/#/viewer/sprite/2172 (1)]
+|-
+| sprites || [{offsetX:0, offsetY:0, pixelsWidth:13, pixelsHeight:13, encodingMode:1, pixelsLength:169}] || [{offsetX:0, offsetY:0, pixelsWidth:13, pixelsHeight:13, encodingMode:1, pixelsLength:169}]
+|-
+| rowspan="2" | [2173 2173][https://abextm.github.io/cache2/#/viewer/sprite/2173 (1)]
+|-
+| sprites || [{offsetX:0, offsetY:0, pixelsWidth:13, pixelsHeight:13, encodingMode:1, pixelsLength:169}] || [{offsetX:0, offsetY:0, pixelsWidth:13, pixelsHeight:13, encodingMode:1, pixelsLength:169}]
+|-
+| rowspan="2" | [2174 2174][https://abextm.github.io/cache2/#/viewer/sprite/2174 (1)]
+|-
+| sprites || [{offsetX:0, offsetY:0, pixelsWidth:13, pixelsHeight:13, encodingMode:0, pixelsLength:169}] || [{offsetX:0, offsetY:0, pixelsWidth:13, pixelsHeight:13, encodingMode:0, pixelsLength:169}]
+|-
+| rowspan="2" | [2175 2175][https://abextm.github.io/cache2/#/viewer/sprite/2175 (1)]
+|-
+| sprites || [{offsetX:0, offsetY:2, pixelsWidth:13, pixelsHeight:11, encodingMode:0, pixelsLength:143}] || [{offsetX:0, offsetY:2, pixelsWidth:13, pixelsHeight:11, encodingMode:0, pixelsLength:143}]
+|-
+| rowspan="2" | [2506 2506][https://abextm.github.io/cache2/#/viewer/sprite/2506 (1)]
+|-
+| sprites || [{offsetX:1, offsetY:2, pixelsWidth:11, pixelsHeight:11, encodingMode:1, pixelsLength:121}] || [{offsetX:1, offsetY:2, pixelsWidth:11, pixelsHeight:11, encodingMode:1, pixelsLength:121}]
+|-
+| rowspan="2" | [2507 2507][https://abextm.github.io/cache2/#/viewer/sprite/2507 (1)]
+|-
+| sprites || [{offsetX:2, offsetY:1, pixelsWidth:10, pixelsHeight:12, encodingMode:0, pixelsLength:120}] || [{offsetX:2, offsetY:1, pixelsWidth:10, pixelsHeight:12, encodingMode:0, pixelsLength:120}]
+|-
+| rowspan="2" | [2508 2508][https://abextm.github.io/cache2/#/viewer/sprite/2508 (1)]
+|-
+| sprites || [{offsetX:2, offsetY:1, pixelsWidth:9, pixelsHeight:12, encodingMode:1, pixelsLength:108}] || [{offsetX:2, offsetY:1, pixelsWidth:9, pixelsHeight:12, encodingMode:1, pixelsLength:108}]
+|-
+| rowspan="2" | [2509 2509][https://abextm.github.io/cache2/#/viewer/sprite/2509 (1)]
+|-
+| sprites || [{offsetX:0, offsetY:0, pixelsWidth:13, pixelsHeight:13, encodingMode:0, pixelsLength:169}] || [{offsetX:0, offsetY:0, pixelsWidth:13, pixelsHeight:13, encodingMode:0, pixelsLength:169}]
+|-
+| rowspan="2" | [2510 2510][https://abextm.github.io/cache2/#/viewer/sprite/2510 (1)]
+|-
+| sprites || [{offsetX:3, offsetY:4, pixelsWidth:7, pixelsHeight:9, encodingMode:0, pixelsLength:63}] || [{offsetX:3, offsetY:4, pixelsWidth:7, pixelsHeight:9, encodingMode:0, pixelsLength:63}]
+|-
+| rowspan="2" | [2511 2511][https://abextm.github.io/cache2/#/viewer/sprite/2511 (1)]
+|-
+| sprites || [{offsetX:3, offsetY:4, pixelsWidth:7, pixelsHeight:9, encodingMode:0, pixelsLength:63}] || [{offsetX:3, offsetY:4, pixelsWidth:7, pixelsHeight:9, encodingMode:0, pixelsLength:63}]
+|-
+| rowspan="2" | [2512 2512][https://abextm.github.io/cache2/#/viewer/sprite/2512 (1)]
+|-
+| sprites || [{offsetX:2, offsetY:3, pixelsWidth:9, pixelsHeight:10, encodingMode:0, pixelsLength:90}] || [{offsetX:2, offsetY:3, pixelsWidth:9, pixelsHeight:10, encodingMode:0, pixelsLength:90}]
+|-
+| rowspan="2" | [2513 2513][https://abextm.github.io/cache2/#/viewer/sprite/2513 (1)]
+|-
+| sprites || [{offsetX:2, offsetY:3, pixelsWidth:9, pixelsHeight:10, encodingMode:0, pixelsLength:90}] || [{offsetX:2, offsetY:3, pixelsWidth:9, pixelsHeight:10, encodingMode:0, pixelsLength:90}]
+|-
+| rowspan="2" | [2514 2514][https://abextm.github.io/cache2/#/viewer/sprite/2514 (1)]
+|-
+| sprites || [{offsetX:0, offsetY:2, pixelsWidth:13, pixelsHeight:11, encodingMode:0, pixelsLength:143}] || [{offsetX:0, offsetY:2, pixelsWidth:13, pixelsHeight:11, encodingMode:0, pixelsLength:143}]
+|-
+| rowspan="2" | [2515 2515][https://abextm.github.io/cache2/#/viewer/sprite/2515 (1)]
+|-
+| sprites || [{offsetX:0, offsetY:2, pixelsWidth:13, pixelsHeight:11, encodingMode:0, pixelsLength:143}] || [{offsetX:0, offsetY:2, pixelsWidth:13, pixelsHeight:11, encodingMode:0, pixelsLength:143}]
+|-
+| rowspan="2" | [2580 2580][https://abextm.github.io/cache2/#/viewer/sprite/2580 (1)]
+|-
+| sprites || [{offsetX:0, offsetY:0, pixelsWidth:13, pixelsHeight:13, encodingMode:0, pixelsLength:169}] || [{offsetX:0, offsetY:0, pixelsWidth:13, pixelsHeight:13, encodingMode:0, pixelsLength:169}]
+|-
+| rowspan="2" | [2581 2581][https://abextm.github.io/cache2/#/viewer/sprite/2581 (1)]
+|-
+| sprites || [{offsetX:0, offsetY:0, pixelsWidth:13, pixelsHeight:13, encodingMode:1, pixelsLength:169}] || [{offsetX:0, offsetY:0, pixelsWidth:13, pixelsHeight:13, encodingMode:1, pixelsLength:169}]
+|-
+| rowspan="2" | [2582 2582][https://abextm.github.io/cache2/#/viewer/sprite/2582 (1)]
+|-
+| sprites || [{offsetX:2, offsetY:2, pixelsWidth:9, pixelsHeight:9, encodingMode:0, pixelsLength:81}] || [{offsetX:2, offsetY:2, pixelsWidth:9, pixelsHeight:9, encodingMode:0, pixelsLength:81}]
+|-
+| rowspan="2" | [2583 2583][https://abextm.github.io/cache2/#/viewer/sprite/2583 (1)]
+|-
+| sprites || [{offsetX:3, offsetY:5, pixelsWidth:7, pixelsHeight:3, encodingMode:0, pixelsLength:21}] || [{offsetX:3, offsetY:5, pixelsWidth:7, pixelsHeight:3, encodingMode:0, pixelsLength:21}]
+|-
+| rowspan="2" | [2584 2584][https://abextm.github.io/cache2/#/viewer/sprite/2584 (1)]
+|-
+| sprites || [{offsetX:3, offsetY:4, pixelsWidth:7, pixelsHeight:5, encodingMode:0, pixelsLength:35}] || [{offsetX:3, offsetY:4, pixelsWidth:7, pixelsHeight:5, encodingMode:0, pixelsLength:35}]
+|-
+| rowspan="2" | [2585 2585][https://abextm.github.io/cache2/#/viewer/sprite/2585 (1)]
+|-
+| sprites || [{offsetX:3, offsetY:3, pixelsWidth:7, pixelsHeight:7, encodingMode:0, pixelsLength:49}] || [{offsetX:3, offsetY:3, pixelsWidth:7, pixelsHeight:7, encodingMode:0, pixelsLength:49}]
+|-
+| rowspan="2" | [2586 2586][https://abextm.github.io/cache2/#/viewer/sprite/2586 (1)]
+|-
+| sprites || [{offsetX:2, offsetY:2, pixelsWidth:9, pixelsHeight:9, encodingMode:0, pixelsLength:81}] || [{offsetX:2, offsetY:2, pixelsWidth:9, pixelsHeight:9, encodingMode:0, pixelsLength:81}]
+|-
+| rowspan="2" | [2587 2587][https://abextm.github.io/cache2/#/viewer/sprite/2587 (1)]
+|-
+| sprites || [{offsetX:2, offsetY:2, pixelsWidth:9, pixelsHeight:9, encodingMode:0, pixelsLength:81}] || [{offsetX:2, offsetY:2, pixelsWidth:9, pixelsHeight:9, encodingMode:0, pixelsLength:81}]
+|-
+| rowspan="2" | [2588 2588][https://abextm.github.io/cache2/#/viewer/sprite/2588 (1)]
+|-
+| sprites || [{offsetX:2, offsetY:2, pixelsWidth:9, pixelsHeight:9, encodingMode:0, pixelsLength:81}] || [{offsetX:2, offsetY:2, pixelsWidth:9, pixelsHeight:9, encodingMode:0, pixelsLength:81}]
+|-
+| rowspan="2" | [2589 2589][https://abextm.github.io/cache2/#/viewer/sprite/2589 (1)]
+|-
+| sprites || [{offsetX:2, offsetY:2, pixelsWidth:9, pixelsHeight:9, encodingMode:0, pixelsLength:81}] || [{offsetX:2, offsetY:2, pixelsWidth:9, pixelsHeight:9, encodingMode:0, pixelsLength:81}]
+|-
+| rowspan="2" | [3370 3370][https://abextm.github.io/cache2/#/viewer/sprite/3370 (1)]
+|-
+| sprites || [{offsetX:2, offsetY:3, pixelsWidth:9, pixelsHeight:7, encodingMode:1, pixelsLength:63}] || [{offsetX:2, offsetY:3, pixelsWidth:9, pixelsHeight:7, encodingMode:1, pixelsLength:63}]
+|-
+| rowspan="2" | [3371 3371][https://abextm.github.io/cache2/#/viewer/sprite/3371 (1)]
+|-
+| sprites || [{offsetX:1, offsetY:0, pixelsWidth:10, pixelsHeight:13, encodingMode:0, pixelsLength:130}] || [{offsetX:1, offsetY:0, pixelsWidth:10, pixelsHeight:13, encodingMode:0, pixelsLength:130}]
+|-
+| rowspan="2" | [3372 3372][https://abextm.github.io/cache2/#/viewer/sprite/3372 (1)]
+|-
+| sprites || [{offsetX:1, offsetY:0, pixelsWidth:10, pixelsHeight:13, encodingMode:0, pixelsLength:130}] || [{offsetX:1, offsetY:0, pixelsWidth:10, pixelsHeight:13, encodingMode:0, pixelsLength:130}]
+|-
+| rowspan="2" | [3373 3373][https://abextm.github.io/cache2/#/viewer/sprite/3373 (1)]
+|-
+| sprites || [{offsetX:1, offsetY:0, pixelsWidth:10, pixelsHeight:13, encodingMode:0, pixelsLength:130}] || [{offsetX:1, offsetY:0, pixelsWidth:10, pixelsHeight:13, encodingMode:0, pixelsLength:130}]
+|-
+| rowspan="2" | [3374 3374][https://abextm.github.io/cache2/#/viewer/sprite/3374 (1)]
+|-
+| sprites || [{offsetX:0, offsetY:0, pixelsWidth:13, pixelsHeight:13, encodingMode:1, pixelsLength:169}] || [{offsetX:0, offsetY:0, pixelsWidth:13, pixelsHeight:13, encodingMode:1, pixelsLength:169}]
+|-
+| rowspan="2" | [3375 3375][https://abextm.github.io/cache2/#/viewer/sprite/3375 (1)]
+|-
+| sprites || [{offsetX:0, offsetY:0, pixelsWidth:13, pixelsHeight:13, encodingMode:1, pixelsLength:169}] || [{offsetX:0, offsetY:0, pixelsWidth:13, pixelsHeight:13, encodingMode:1, pixelsLength:169}]
+|-
+| rowspan="2" | [3376 3376][https://abextm.github.io/cache2/#/viewer/sprite/3376 (1)]
+|-
+| sprites || [{offsetX:0, offsetY:0, pixelsWidth:13, pixelsHeight:13, encodingMode:1, pixelsLength:169}] || [{offsetX:0, offsetY:0, pixelsWidth:13, pixelsHeight:13, encodingMode:1, pixelsLength:169}]
+|-
+| rowspan="2" | [3377 3377][https://abextm.github.io/cache2/#/viewer/sprite/3377 (1)]
+|-
+| sprites || [{offsetX:0, offsetY:0, pixelsWidth:13, pixelsHeight:13, encodingMode:1, pixelsLength:169}] || [{offsetX:0, offsetY:0, pixelsWidth:13, pixelsHeight:13, encodingMode:1, pixelsLength:169}]
+|-
+| rowspan="2" | [3378 3378][https://abextm.github.io/cache2/#/viewer/sprite/3378 (1)]
+|-
+| sprites || [{offsetX:0, offsetY:0, pixelsWidth:13, pixelsHeight:13, encodingMode:<span style="color: #ee4231">0</span>, pixelsLength:169}] || [{offsetX:0, offsetY:0, pixelsWidth:13, pixelsHeight:13, encodingMode:<span style="color: #6bc71f">1</span>, pixelsLength:169}]
+|-
+| rowspan="2" | [3379 3379][https://abextm.github.io/cache2/#/viewer/sprite/3379 (1)]
+|-
+| sprites || [{offsetX:0, offsetY:0, pixelsWidth:13, pixelsHeight:13, encodingMode:1, pixelsLength:169}] || [{offsetX:0, offsetY:0, pixelsWidth:13, pixelsHeight:13, encodingMode:1, pixelsLength:169}]
+|-
+| rowspan="2" | [4523 4523][https://abextm.github.io/cache2/#/viewer/sprite/4523 (1)]
+|-
+| sprites || [{offsetX:0, offsetY:0, pixelsWidth:13, pixelsHeight:13, encodingMode:1, pixelsLength:169}] || [{offsetX:0, offsetY:0, pixelsWidth:13, pixelsHeight:13, encodingMode:1, pixelsLength:169}]
+|-
+| rowspan="2" | [4524 4524][https://abextm.github.io/cache2/#/viewer/sprite/4524 (1)]
+|-
+| sprites || [{offsetX:0, offsetY:0, pixelsWidth:13, pixelsHeight:13, encodingMode:0, pixelsLength:169}] || [{offsetX:0, offsetY:0, pixelsWidth:13, pixelsHeight:13, encodingMode:0, pixelsLength:169}]
+|-
+| rowspan="2" | [4525 4525][https://abextm.github.io/cache2/#/viewer/sprite/4525 (1)]
+|-
+| sprites || [{offsetX:1, offsetY:0, pixelsWidth:11, pixelsHeight:13, encodingMode:1, pixelsLength:143}] || [{offsetX:1, offsetY:0, pixelsWidth:11, pixelsHeight:13, encodingMode:1, pixelsLength:143}]
+|-
+| rowspan="2" | [4526 4526][https://abextm.github.io/cache2/#/viewer/sprite/4526 (1)]
+|-
+| sprites || [{offsetX:0, offsetY:<span style="color: #ee4231">0</span>, pixelsWidth:<span style="color: #ee4231">0</span>, pixelsHeight:<span style="color: #ee4231">0</span>, encodingMode:<span style="color: #ee4231">0</span>, pixelsLength:<span style="color: #ee4231">0</span>}] || [{offsetX:0, offsetY:<span style="color: #6bc71f">1</span>, pixelsWidth:<span style="color: #6bc71f">13</span>, pixelsHeight:<span style="color: #6bc71f">12</span>, encodingMode:<span style="color: #6bc71f">1</span>, pixelsLength:<span style="color: #6bc71f">156</span>}]
+|}

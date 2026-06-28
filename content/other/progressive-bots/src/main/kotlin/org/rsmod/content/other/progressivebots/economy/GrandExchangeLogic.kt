@@ -14,13 +14,13 @@ object GrandExchangeLogic {
 class GrandExchangeNode : ActionNode() {
     override fun execute(player: Player, state: BotState): NodeStatus {
         val dist = player.coords.chebyshevDistance(GrandExchangeLogic.GE_COORDS)
-        
+
         if (dist > 10) {
             // Path towards the GE
             player.walk(GrandExchangeLogic.GE_COORDS)
             return NodeStatus.RUNNING
         }
-        
+
         // At the GE, interact with the clerk and place offers
         // In a full implementation, we'd queue an InteractionOp with the GE Clerk NPC
         return NodeStatus.SUCCESS

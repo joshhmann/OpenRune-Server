@@ -1,0 +1,308 @@
+{{ToC}}
+==Items==
+===New Items===
+{| class="wikitable sortable"
+!colspan='11'|New Items
+|-
+! style=width:15em | Name !! ID !! Members !! Tradeable in GE !! Equipable !! Stackable !! Noteable !! Options !! Placeholder !! Cost
+|-
+| [[Marble lectern]] || [https://chisel.weirdgloop.org/moid/item_id.html#24132 24132] || No || No || No || No || No ||     Drop || No || 1
+|-
+|-
+|}
+===Removed Items===
+{| class="wikitable sortable"
+!colspan='2'|Removed Items
+|-
+! style=width:15em | Name !! ID
+|-
+|-
+|}
+===Diff Items===
+{| class="wikitable sortable"
+!colspan='5'|Diff Items
+|-
+! style=width:15em | Name !! ID !! Key !! Previous Value !! New Value
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#8092 8092]
+|-
+|params || {'365': 563, '366': 1, '367': 566, '336': 3, '368': 1, '596': 14287004, '597': 1300, '598': 1319, '599': 2077, '600': 2117, '601': 'Respawn Teleport', '602': 'Teleports you to your respawn location', '603': 1, '604': 34, '605': 2} || {'608': 8092, '365': 563, '366': 1, '367': 566, '336': 3, '368': 1, '596': 14287004, '597': 1300, '598': 1319, '599': 2077, '600': 2117, '601': 'Respawn Teleport', '602': 'Teleports you to your respawn location', '603': 1, '604': 34, '605': 2}
+|-
+|rowspan="2"|[[Cave worms]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#20853 20853]
+|-
+|cost || 1 || 0
+|-
+|}
+
+==Non-Player Characters==
+===New NPCs===
+{| class="wikitable sortable"
+!colspan='4'|New NPCs
+|-
+! style=width:15em | Name !! ID !! Combat Level !! Options
+|-
+| [[Arianwyn (hard)]] || [https://chisel.weirdgloop.org/moid/npc_id.html#9246 9246] || 368 || Attack
+|-
+| [[Essyllt (hard)]] || [https://chisel.weirdgloop.org/moid/npc_id.html#9247 9247] || 474 || Attack
+|-
+| [[Arianwyn]] || [https://chisel.weirdgloop.org/moid/npc_id.html#9248 9248] || 182 || Attack
+|-
+| [[Essyllt]] || [https://chisel.weirdgloop.org/moid/npc_id.html#9249 9249] || 236 || Attack
+|-
+|-
+|}
+===Removed NPCs===
+{| class="wikitable sortable"
+!colspan='2'|Removed NPCs
+|-
+! style=width:15em | Name !! ID
+|-
+|-
+|}
+===Diff NPCs===
+{| class="wikitable sortable"
+!colspan='5'|Diff NPCs
+|-
+! style=width:15em | Name !! ID !! Key !! Previous Value !! New Value
+|-
+|}
+
+==Objects==
+===New Objects=== 
+{| class="wikitable sortable"
+!colspan='3'|New Objects
+|-
+! style=width:15em | Name !! ID !! Options
+|-
+| [[Lectern]] || [https://chisel.weirdgloop.org/moid/object_id.html#37349 37349] || Study, Remove
+|-
+| [[Hull]] || [https://chisel.weirdgloop.org/moid/object_id.html#37350 37350] || None
+|-
+| [[Leak]] || [https://chisel.weirdgloop.org/moid/object_id.html#37351 37351] || Fill
+|-
+| [[Repaired leak]] || [https://chisel.weirdgloop.org/moid/object_id.html#37352 37352] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#37353 37353] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#37354 37354] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#37355 37355] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#37356 37356] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#37357 37357] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#37358 37358] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#37359 37359] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#37360 37360] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#37361 37361] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#37362 37362] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#37363 37363] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#37364 37364] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#37365 37365] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#37366 37366] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#37367 37367] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#37368 37368] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#37369 37369] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#37370 37370] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#37371 37371] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#37372 37372] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#37373 37373] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#37374 37374] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#37375 37375] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#37376 37376] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#37377 37377] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#37378 37378] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#37379 37379] || None
+|-
+| [[Books]] || [https://chisel.weirdgloop.org/moid/object_id.html#37380 37380] || None
+|-
+| [[Noticeboard]] || [https://chisel.weirdgloop.org/moid/object_id.html#37381 37381] || Read
+|-
+|-
+|}
+===Removed Objects===
+{| class="wikitable sortable"
+!colspan='2'|Removed Objects
+|-
+! style=width:15em | Name !! ID
+|-
+|-
+|}
+===Diff Objects===
+{| class="wikitable sortable"
+!colspan='5'|Diff Objects
+|-
+! style=width:15em | Name !! ID !! Key !! Previous Value !! New Value
+|-
+|rowspan="12"|[[Hopper controls]]
+|rowspan="12"|[https://chisel.weirdgloop.org/moid/object_id.html#2484 2484]
+|-
+|name || [[Leak]] || [[Hopper controls]]
+|-
+| sizeX || 2 || 1
+|-
+| anInt2083 || 5 || 0
+|-
+| animationID || 464 || -1
+|-
+| actions || ['Fill', None, None, None, None] || ['Operate', None, None, None, None]
+|-
+| interactType || 0 || 2
+|-
+| blockingMask || 11 || 14
+|-
+| supportsItems || 0 || 1
+|-
+| ambientSoundId || 2150 || -1
+|-
+| blocksProjectile || False || True
+|-
+| objectModels || [2216] || [1381]
+|-
+|rowspan="10"|[[null]]
+|rowspan="10"|[https://chisel.weirdgloop.org/moid/object_id.html#2485 2485]
+|-
+|name || [[Repaired leak]] || [[null]]
+|-
+| wallOrDoor || 1 || 0
+|-
+| ambient || 0 || 10
+|-
+| contrast || 0 || 1100
+|-
+| interactType || 0 || 2
+|-
+| contouredGround || -1 || 0
+|-
+| supportsItems || 0 || 1
+|-
+| blocksProjectile || False || True
+|-
+| objectModels || [1865] || [38084]
+|-
+|rowspan="2"|[[Hopper]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#2586 2586]
+|-
+|actions || [None, None, None, None, None] || ['Fill', None, None, None, None]
+|-
+|rowspan="8"|[[null]]
+|rowspan="8"|[https://chisel.weirdgloop.org/moid/object_id.html#4140 4140]
+|-
+|name || [[Hole]] || [[null]]
+|-
+| sizeX || 2 || 3
+|-
+| wallOrDoor || 1 || 0
+|-
+| ambient || 0 || 10
+|-
+| contrast || 0 || 1100
+|-
+| contouredGround || -1 || 0
+|-
+| objectModels || [1860] || [38218]
+|-
+|rowspan="11"|[[null]]
+|rowspan="11"|[https://chisel.weirdgloop.org/moid/object_id.html#4976 4976]
+|-
+|name || [[Hull]] || [[null]]
+|-
+| sizeX || 2 || 4
+|-
+| wallOrDoor || 1 || 0
+|-
+| ambient || 0 || 10
+|-
+| contrast || 0 || 1100
+|-
+| interactType || 0 || 2
+|-
+| contouredGround || -1 || 0
+|-
+| supportsItems || 0 || 1
+|-
+| blocksProjectile || False || True
+|-
+| objectModels || [9594] || [9658]
+|-
+|rowspan="2"|[[Handy portal]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#34827 34827]
+|-
+|name || [[Hub portal]] || [[Handy portal]]
+|-
+|rowspan="8"|[[Stairs]]
+|rowspan="8"|[https://chisel.weirdgloop.org/moid/object_id.html#35387 35387]
+|-
+|name || [[Teleport Platform]] || [[Stairs]]
+|-
+| anInt2083 || 3 || 0
+|-
+| animationID || 8455 || -1
+|-
+| actions || ['Teleport-up', None, None, None, None] || ['Climb-up', None, None, None, None]
+|-
+| mapSceneID || -1 || 7
+|-
+| ambientSoundId || 4157 || -1
+|-
+| objectModels || [37646] || [1860]
+|-
+|rowspan="8"|[[Stairs]]
+|rowspan="8"|[https://chisel.weirdgloop.org/moid/object_id.html#35388 35388]
+|-
+|name || [[Teleport Platform]] || [[Stairs]]
+|-
+| anInt2083 || 3 || 0
+|-
+| animationID || 8455 || -1
+|-
+| actions || ['Teleport-down', None, None, None, None] || ['Climb-down', None, None, None, None]
+|-
+| mapSceneID || -1 || 7
+|-
+| ambientSoundId || 4157 || -1
+|-
+| objectModels || [37646] || [8260]
+|-
+|rowspan="8"|[[Stairs]]
+|rowspan="8"|[https://chisel.weirdgloop.org/moid/object_id.html#35389 35389]
+|-
+|name || [[Teleport Platform]] || [[Stairs]]
+|-
+| anInt2083 || 3 || 0
+|-
+| animationID || 8455 || -1
+|-
+| actions || ['Teleport', 'Teleport-up', 'Teleport-down', None, None] || ['Climb', 'Climb-up', 'Climb-down', None, None]
+|-
+| mapSceneID || -1 || 7
+|-
+| ambientSoundId || 4157 || -1
+|-
+| objectModels || [37646] || [8261]
+|-
+|}

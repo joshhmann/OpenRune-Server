@@ -10,23 +10,23 @@ import org.rsmod.content.skills.runecrafting.tiara.TiaraAction.createTiara
 import org.rsmod.plugin.scripts.PluginScript
 import org.rsmod.plugin.scripts.ScriptContext
 
-class TiaraEvents @Inject constructor(
-    private val xpMods: XpModifiers,
-) : PluginScript() {
+class TiaraEvents @Inject constructor(private val xpMods: XpModifiers) : PluginScript() {
     override fun ScriptContext.startup() {
-        RunecraftingAltarsRow.all().filter { it.tiara != null && it.talisman != null }.forEach { altar ->
-            val talisman = altar.talisman!!
-            val tiaraDef = altar.tiara!!
-            val altarLoc = altar.altarObject.internalName
+        RunecraftingAltarsRow.all()
+            .filter { it.tiara != null && it.talisman != null }
+            .forEach { altar ->
+                val talisman = altar.talisman!!
+                val tiaraDef = altar.tiara!!
+                val altarLoc = altar.altarObject.internalName
 
-            onOpHeldU(talisman.internalName, "obj.tiara") {
-                createTiara(talisman.internalName, tiaraDef, xpMods)
-            }
+                onOpHeldU(talisman.internalName, "obj.tiara") {
+                    createTiara(talisman.internalName, tiaraDef, xpMods)
+                }
 
-            onOpLocU(altarLoc, "obj.tiara") {
-                createTiara(talisman.internalName, tiaraDef, xpMods)
+                onOpLocU(altarLoc, "obj.tiara") {
+                    createTiara(talisman.internalName, tiaraDef, xpMods)
+                }
             }
-        }
 
         onOpHeldU("obj.elemental_talisman", "obj.tiara_gold") {
             createSpecialTiara(

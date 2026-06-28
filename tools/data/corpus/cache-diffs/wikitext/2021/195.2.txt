@@ -1,0 +1,128 @@
+{| class="wikitable sortable"
+!colspan="5"|Items
+|-
+! Name !! ID !! Key !! Previous Value !! Changed into
+|-
+|}
+
+{| class="wikitable sortable"
+!colspan="5"|Non-Player Characters
+|-
+! Name !! ID !! Key !! Previous Value !! Changed into
+|-
+| [[Murphy]] || 10707 || colspan = "4" | New ID
+|-
+| [[Enormous Tentacle]] || 10708 || colspan = "4" | New ID
+|-
+| [[Enormous Tentacle]] || 10709 || colspan = "4" | New ID
+|-
+| [[null]] || 10710 || colspan = "4" | New ID
+|-
+| [[null]] || 10711 || colspan = "4" | New ID
+|-
+|}
+
+{| class="wikitable sortable"
+!colspan="5"|Objects
+|-
+! Name !! ID !! Key !! Previous Value !! Changed into
+|-
+| [[Broken rail]] || 41398 || colspan = "4" | New ID
+|-
+| [[Broken rail]] || 41399 || colspan = "4" | New ID
+|-
+| [[Rail]] || 41400 || colspan = "4" | New ID
+|-
+| [[null]] || 41401 || colspan = "4" | New ID
+|-
+| [[Broken rail]] || 41402 || colspan = "4" | New ID
+|-
+| [[Broken rail]] || 41403 || colspan = "4" | New ID
+|-
+| [[null]] || 41404 || colspan = "4" | New ID
+|-
+| [[null]] || 41405 || colspan = "4" | New ID
+|-
+| [[null]] || 41406 || colspan = "4" | New ID
+|-
+| [[null]] || 41407 || colspan = "4" | New ID
+|-
+| [[Bailing buckets]] || 41408 || colspan = "4" | New ID
+|-
+| [[Hammers]] || 41409 || colspan = "4" | New ID
+|-
+| [[Axes]] || 41410 || colspan = "4" | New ID
+|-
+| [[Trap]] || 41538 || colspan = "4" | DELETED
+|-
+|rowspan="2"|[[Lantern]]
+|rowspan="2"|11468
+|-
+|blocksProjectile || True || False
+|-
+|rowspan="4"|[[Chest]]
+|rowspan="4"|29069
+|-
+|ambient || 10 || 40
+|-
+| contrast || 250 || 500
+|-
+| blocksProjectile || True || False
+|-
+|rowspan="4"|[[Chest]]
+|rowspan="4"|29070
+|-
+|ambient || 10 || 40
+|-
+| contrast || 250 || 500
+|-
+| blocksProjectile || True || False
+|-
+|rowspan="4"|[[Chest]]
+|rowspan="4"|29071
+|-
+|ambient || 10 || 30
+|-
+| contrast || 250 || 500
+|-
+| blocksProjectile || True || False
+|-
+|rowspan="5"|[[Chest]]
+|rowspan="5"|29072
+|-
+|ambient || 10 || 30
+|-
+| contrast || 250 || 500
+|-
+| blocksProjectile || True || False
+|-
+| objectModels || [40615] || [24626]
+|-
+|rowspan="2"|[[Crate]]
+|rowspan="2"|40723
+|-
+|blocksProjectile || True || False
+|-
+|rowspan="2"|[[Crates]]
+|rowspan="2"|40724
+|-
+|blocksProjectile || True || False
+|-
+|rowspan="2"|[[Barrel]]
+|rowspan="2"|40727
+|-
+|blocksProjectile || True || False
+|-
+|rowspan="3"|[[Stone table]]
+|rowspan="3"|40945
+|-
+|ambient || 20 || 10
+|-
+| blocksProjectile || True || False
+|-
+|rowspan="2"|[[Charm of Preparation]]
+|rowspan="2"|41572
+|-
+|name || [[Charm of Preperation]] || [[Charm of Preparation]]
+|-
+|}

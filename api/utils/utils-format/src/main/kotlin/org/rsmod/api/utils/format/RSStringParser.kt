@@ -1,4 +1,3 @@
-
 public enum class RsColor(public val tag: String, public val hex: String) {
     RED("red", "800000"),
     GREEN("green", "00ff00"),
@@ -24,7 +23,8 @@ public enum class RsStyle(public val tag: String, public val rsBase: String) {
     SHADOW("shad", "shad");
 
     public companion object {
-        public fun fromTag(tag: String): RsStyle? = entries.firstOrNull { it.tag.equals(tag, ignoreCase = true) }
+        public fun fromTag(tag: String): RsStyle? =
+            entries.firstOrNull { it.tag.equals(tag, ignoreCase = true) }
     }
 }
 
@@ -68,9 +68,11 @@ public fun String.toRs(inheritPreviousTags: Boolean = true, wrapAt: Int? = null)
 
                 // Style with color <strike=red>
                 Regex("^(strike|underline|shad)=([a-z0-9]+)$").matchEntire(tagContent) != null -> {
-                    val match = Regex("^(strike|underline|shad)=([a-z0-9]+)$").matchEntire(tagContent)!!
+                    val match =
+                        Regex("^(strike|underline|shad)=([a-z0-9]+)$").matchEntire(tagContent)!!
                     val style = RsStyle.fromTag(match.groupValues[1])!!
-                    val color = RsColor.lookup(match.groupValues[2]) ?: match.groupValues[2].lowercase()
+                    val color =
+                        RsColor.lookup(match.groupValues[2]) ?: match.groupValues[2].lowercase()
                     out.append("<${style.rsBase}=$color>")
                     stack.addLast(ActiveTag(style.rsBase, color))
                 }
@@ -114,13 +116,14 @@ private fun appendTag(sb: StringBuilder, tag: ActiveTag) {
     sb.append("<${tag.type}$valuePart>")
 }
 
-private fun closeTag(tag: ActiveTag) = when (tag.type) {
-    "col"  -> "</col>"
-    "str"  -> "</str>"
-    "u"    -> "</u>"
-    "shad" -> "</shad>"
-    else   -> ""
-}
+private fun closeTag(tag: ActiveTag) =
+    when (tag.type) {
+        "col" -> "</col>"
+        "str" -> "</str>"
+        "u" -> "</u>"
+        "shad" -> "</shad>"
+        else -> ""
+    }
 
 // -----------------------
 // Word-wrapping ignoring tags
@@ -150,7 +153,10 @@ private fun String.wrapLines(maxLength: Int = 60): String {
                 activeTags.addLast(tag)
             } else {
                 val closeType = tag.drop(2).takeWhile { it != '=' && it != '>' }
-                val idx = activeTags.indexOfLast { it.drop(1).takeWhile { c -> c != '=' && c != '>' } == closeType }
+                val idx =
+                    activeTags.indexOfLast {
+                        it.drop(1).takeWhile { c -> c != '=' && c != '>' } == closeType
+                    }
                 if (idx != -1) activeTags.removeAt(idx)
             }
 
@@ -171,10 +177,11 @@ private fun String.wrapLines(maxLength: Int = 60): String {
 
             // Close tags
             val tagsToClose = activeTags.toList().reversed()
-            val closeTagsStr = tagsToClose.joinToString("") { tag ->
-                val type = tag.drop(1).takeWhile { it != '=' && it != '>' }
-                "</$type>"
-            }
+            val closeTagsStr =
+                tagsToClose.joinToString("") { tag ->
+                    val type = tag.drop(1).takeWhile { it != '=' && it != '>' }
+                    "</$type>"
+                }
             out.insert(wrapPos, "$closeTagsStr<br>")
 
             // Reopen tags safely, avoiding duplicates
@@ -182,7 +189,8 @@ private fun String.wrapLines(maxLength: Int = 60): String {
             for (tag in activeTags) {
                 val checkLen = tag.length
                 val endIndex = (wrapPos + closeTagsStr.length + 4).coerceAtMost(out.length)
-                val alreadyHasTag = out.substring(endIndex - checkLen, endIndex).equals(tag, ignoreCase = true)
+                val alreadyHasTag =
+                    out.substring(endIndex - checkLen, endIndex).equals(tag, ignoreCase = true)
                 if (!alreadyHasTag) reopenTagsStr.append(tag)
             }
             out.insert(wrapPos + closeTagsStr.length + 4, reopenTagsStr.toString())

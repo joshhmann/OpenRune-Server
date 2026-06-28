@@ -90,10 +90,12 @@ public object PlayerDisease {
             return
         }
         val drain = player.vars["varp.disease_drain"]
-        val targetStat = pickDiseaseStat() ?: run {
-            clear(player)
-            return
-        }
+        val targetStat =
+            pickDiseaseStat()
+                ?: run {
+                    clear(player)
+                    return
+                }
 
         if (hasWornDiseaseMitigation(player)) {
             player.takeInstantHit(
@@ -104,7 +106,7 @@ public object PlayerDisease {
                 modifier = NoopPlayerHitModifier,
             )
         } else {
-            applyDiseaseDrain(player, RSCM.getReverseMapping(RSCMType.STAT,targetStat.id), drain)
+            applyDiseaseDrain(player, RSCM.getReverseMapping(RSCMType.STAT, targetStat.id), drain)
         }
 
         player.timer("timer.player_disease", TICK_INTERVAL)
@@ -150,9 +152,10 @@ public object PlayerDisease {
         }
     }
 
-    private fun eligibleDiseaseStats(): List<StatType> = ServerCacheManager.getStats().values.filter { st ->
-        !st.isType("stat.hitpoints") && !st.isType("stat.prayer")
-    }
+    private fun eligibleDiseaseStats(): List<StatType> =
+        ServerCacheManager.getStats().values.filter { st ->
+            !st.isType("stat.hitpoints") && !st.isType("stat.prayer")
+        }
 
     private fun pickDiseaseStat(): StatType? {
         val pool = eligibleDiseaseStats()

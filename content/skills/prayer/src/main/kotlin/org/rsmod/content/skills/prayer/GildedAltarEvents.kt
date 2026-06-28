@@ -12,29 +12,22 @@ import org.rsmod.game.loc.BoundLocInfo
 import org.rsmod.plugin.scripts.PluginScript
 import org.rsmod.plugin.scripts.ScriptContext
 
-class GildedAltarEvents @Inject constructor(
-    private val worldRepo: WorldRepository,
-) : PluginScript() {
+class GildedAltarEvents @Inject constructor(private val worldRepo: WorldRepository) :
+    PluginScript() {
 
     override fun ScriptContext.startup() {
         val bones = PrayerBuryEvents.bones.filterNot { it.ashes }
 
         bones.forEach { row ->
             registerAltar("loc.chaosaltar", row, chaos = true)
-            GILDED_ALTARS.forEach { altar ->
-                registerAltar(altar, row, chaos = false)
-            }
+            GILDED_ALTARS.forEach { altar -> registerAltar(altar, row, chaos = false) }
         }
 
-        onPlayerQueueWithArgs("queue.prayer_altar_sacrifice") {
-            processSacrificeTick(it.args)
-        }
+        onPlayerQueueWithArgs("queue.prayer_altar_sacrifice") { processSacrificeTick(it.args) }
     }
 
     private fun ScriptContext.registerAltar(altar: String, row: SkillPrayerRow, chaos: Boolean) {
-        onOpLocU(altar, row.item.internalName) {
-            startSacrifice(it, row, chaos)
-        }
+        onOpLocU(altar, row.item.internalName) { startSacrifice(it, row, chaos) }
     }
 
     private fun ProtectedAccess.startSacrifice(
@@ -65,11 +58,7 @@ class GildedAltarEvents @Inject constructor(
     private fun ProtectedAccess.performSacrifice(task: SacrificeTask) {
         anim("seq.human_bone_sacrifice")
 
-        spotanimMap(
-            worldRepo,
-            "spotanim.poh_bone_sacrifice",
-            task.altar.coords,
-        )
+        spotanimMap(worldRepo, "spotanim.poh_bone_sacrifice", task.altar.coords)
 
         statAdvance("stat.prayer", task.row.exp * 3.5)
 
@@ -109,10 +98,11 @@ class GildedAltarEvents @Inject constructor(
     )
 
     private companion object {
-        val GILDED_ALTARS = listOf(
-            "loc.poh_altar_saradomin_7",
-            "loc.poh_altar_zamorak_7",
-            "loc.poh_altar_gnomechild_7",
-        )
+        val GILDED_ALTARS =
+            listOf(
+                "loc.poh_altar_saradomin_7",
+                "loc.poh_altar_zamorak_7",
+                "loc.poh_altar_gnomechild_7",
+            )
     }
 }

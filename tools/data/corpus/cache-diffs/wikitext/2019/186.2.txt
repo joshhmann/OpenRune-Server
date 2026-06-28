@@ -1,0 +1,228 @@
+{{ToC}}
+==Items==
+===New Items===
+{| class="wikitable sortable"
+!colspan='11'|New Items
+|-
+! style=width:15em | Name !! ID !! Members !! Tradeable in GE !! Equipable !! Stackable !! Noteable !! Options !! Placeholder !! Cost
+|-
+| [[Cabbage]] || [https://chisel.weirdgloop.org/moid/item_id.html#24426 24426] || No || No || No || Yes || No ||     Drop || No || 1
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#24427 24427] || No || No || No || No || No ||     Drop || No || 1
+|-
+|-
+|}
+===Removed Items===
+{| class="wikitable sortable"
+!colspan='2'|Removed Items
+|-
+! style=width:15em | Name !! ID
+|-
+|-
+|}
+===Diff Items===
+{| class="wikitable sortable"
+!colspan='5'|Diff Items
+|-
+! style=width:15em | Name !! ID !! Key !! Previous Value !! New Value
+|-
+|rowspan="2"|[[Teleport card]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#13658 13658]
+|-
+|isTradeable || False || True
+|-
+|}
+
+==Non-Player Characters==
+===New NPCs===
+{| class="wikitable sortable"
+!colspan='4'|New NPCs
+|-
+! style=width:15em | Name !! ID !! Combat Level !! Options
+|-
+|-
+|}
+===Removed NPCs===
+{| class="wikitable sortable"
+!colspan='2'|Removed NPCs
+|-
+! style=width:15em | Name !! ID
+|-
+|-
+|}
+===Diff NPCs===
+{| class="wikitable sortable"
+!colspan='5'|Diff NPCs
+|-
+! style=width:15em | Name !! ID !! Key !! Previous Value !! New Value
+|-
+|}
+
+==Objects==
+===New Objects=== 
+{| class="wikitable sortable"
+!colspan='3'|New Objects
+|-
+! style=width:15em | Name !! ID !! Options
+|-
+| [[Basic Jewellery Box]] || [https://chisel.weirdgloop.org/moid/object_id.html#37492 37492] || Teleport Menu, Upgrade, Remove
+|-
+| [[Basic Jewellery Box]] || [https://chisel.weirdgloop.org/moid/object_id.html#37493 37493] || Teleport Menu, Duel Arena, Upgrade, Remove
+|-
+| [[Basic Jewellery Box]] || [https://chisel.weirdgloop.org/moid/object_id.html#37494 37494] || Teleport Menu, Castle Wars, Upgrade, Remove
+|-
+| [[Basic Jewellery Box]] || [https://chisel.weirdgloop.org/moid/object_id.html#37495 37495] || Teleport Menu, Clan Wars, Upgrade, Remove
+|-
+| [[Basic Jewellery Box]] || [https://chisel.weirdgloop.org/moid/object_id.html#37496 37496] || Teleport Menu, Burthorpe, Upgrade, Remove
+|-
+| [[Basic Jewellery Box]] || [https://chisel.weirdgloop.org/moid/object_id.html#37497 37497] || Teleport Menu, Barbarian Outpost, Upgrade, Remove
+|-
+| [[Basic Jewellery Box]] || [https://chisel.weirdgloop.org/moid/object_id.html#37498 37498] || Teleport Menu, Corporeal Beast, Upgrade, Remove
+|-
+| [[Basic Jewellery Box]] || [https://chisel.weirdgloop.org/moid/object_id.html#37499 37499] || Teleport Menu, Tears of Guthix, Upgrade, Remove
+|-
+| [[Basic Jewellery Box]] || [https://chisel.weirdgloop.org/moid/object_id.html#37500 37500] || Teleport Menu, Wintertodt Camp, Upgrade, Remove
+|-
+| [[Fancy Jewellery Box]] || [https://chisel.weirdgloop.org/moid/object_id.html#37501 37501] || Teleport Menu, Upgrade, Remove
+|-
+| [[Fancy Jewellery Box]] || [https://chisel.weirdgloop.org/moid/object_id.html#37502 37502] || Teleport Menu, Duel Arena, Upgrade, Remove
+|-
+| [[Fancy Jewellery Box]] || [https://chisel.weirdgloop.org/moid/object_id.html#37503 37503] || Teleport Menu, Castle Wars, Upgrade, Remove
+|-
+| [[Fancy Jewellery Box]] || [https://chisel.weirdgloop.org/moid/object_id.html#37504 37504] || Teleport Menu, Clan Wars, Upgrade, Remove
+|-
+| [[Fancy Jewellery Box]] || [https://chisel.weirdgloop.org/moid/object_id.html#37505 37505] || Teleport Menu, Burthorpe, Upgrade, Remove
+|-
+| [[Fancy Jewellery Box]] || [https://chisel.weirdgloop.org/moid/object_id.html#37506 37506] || Teleport Menu, Barbarian Outpost, Upgrade, Remove
+|-
+| [[Fancy Jewellery Box]] || [https://chisel.weirdgloop.org/moid/object_id.html#37507 37507] || Teleport Menu, Corporeal Beast, Upgrade, Remove
+|-
+| [[Fancy Jewellery Box]] || [https://chisel.weirdgloop.org/moid/object_id.html#37508 37508] || Teleport Menu, Tears of Guthix, Upgrade, Remove
+|-
+| [[Fancy Jewellery Box]] || [https://chisel.weirdgloop.org/moid/object_id.html#37509 37509] || Teleport Menu, Wintertodt Camp, Upgrade, Remove
+|-
+| [[Fancy Jewellery Box]] || [https://chisel.weirdgloop.org/moid/object_id.html#37510 37510] || Teleport Menu, "Warriors Guild", Upgrade, Remove
+|-
+| [[Fancy Jewellery Box]] || [https://chisel.weirdgloop.org/moid/object_id.html#37511 37511] || Teleport Menu, "Champions Guild", Upgrade, Remove
+|-
+| [[Fancy Jewellery Box]] || [https://chisel.weirdgloop.org/moid/object_id.html#37512 37512] || Teleport Menu, Monastery, Upgrade, Remove
+|-
+| [[Fancy Jewellery Box]] || [https://chisel.weirdgloop.org/moid/object_id.html#37513 37513] || Teleport Menu, Ranging Guild, Upgrade, Remove
+|-
+| [[Fancy Jewellery Box]] || [https://chisel.weirdgloop.org/moid/object_id.html#37514 37514] || Teleport Menu, Fishing Guild, Upgrade, Remove
+|-
+| [[Fancy Jewellery Box]] || [https://chisel.weirdgloop.org/moid/object_id.html#37515 37515] || Teleport Menu, Mining Guild, Upgrade, Remove
+|-
+| [[Fancy Jewellery Box]] || [https://chisel.weirdgloop.org/moid/object_id.html#37516 37516] || Teleport Menu, Crafting Guild, Upgrade, Remove
+|-
+| [[Fancy Jewellery Box]] || [https://chisel.weirdgloop.org/moid/object_id.html#37517 37517] || Teleport Menu, Cooking Guild, Upgrade, Remove
+|-
+| [[Fancy Jewellery Box]] || [https://chisel.weirdgloop.org/moid/object_id.html#37518 37518] || Teleport Menu, Woodcutting Guild, Upgrade, Remove
+|-
+| [[Fancy Jewellery Box]] || [https://chisel.weirdgloop.org/moid/object_id.html#37519 37519] || Teleport Menu, Farming Guild, Upgrade, Remove
+|-
+| [[Ornate Jewellery Box]] || [https://chisel.weirdgloop.org/moid/object_id.html#37520 37520] || Teleport Menu, Remove
+|-
+| [[Ornate Jewellery Box]] || [https://chisel.weirdgloop.org/moid/object_id.html#37521 37521] || Teleport Menu, Duel Arena, Remove
+|-
+| [[Ornate Jewellery Box]] || [https://chisel.weirdgloop.org/moid/object_id.html#37522 37522] || Teleport Menu, Castle Wars, Remove
+|-
+| [[Ornate Jewellery Box]] || [https://chisel.weirdgloop.org/moid/object_id.html#37523 37523] || Teleport Menu, Clan Wars, Remove
+|-
+| [[Ornate Jewellery Box]] || [https://chisel.weirdgloop.org/moid/object_id.html#37524 37524] || Teleport Menu, Burthorpe, Remove
+|-
+| [[Ornate Jewellery Box]] || [https://chisel.weirdgloop.org/moid/object_id.html#37525 37525] || Teleport Menu, Barbarian Outpost, Remove
+|-
+| [[Ornate Jewellery Box]] || [https://chisel.weirdgloop.org/moid/object_id.html#37526 37526] || Teleport Menu, Corporeal Beast, Remove
+|-
+| [[Ornate Jewellery Box]] || [https://chisel.weirdgloop.org/moid/object_id.html#37527 37527] || Teleport Menu, Tears of Guthix, Remove
+|-
+| [[Ornate Jewellery Box]] || [https://chisel.weirdgloop.org/moid/object_id.html#37528 37528] || Teleport Menu, Wintertodt Camp, Remove
+|-
+| [[Ornate Jewellery Box]] || [https://chisel.weirdgloop.org/moid/object_id.html#37529 37529] || Teleport Menu, "Warriors Guild", Remove
+|-
+| [[Ornate Jewellery Box]] || [https://chisel.weirdgloop.org/moid/object_id.html#37530 37530] || Teleport Menu, "Champions Guild", Remove
+|-
+| [[Ornate Jewellery Box]] || [https://chisel.weirdgloop.org/moid/object_id.html#37531 37531] || Teleport Menu, Monastery, Remove
+|-
+| [[Ornate Jewellery Box]] || [https://chisel.weirdgloop.org/moid/object_id.html#37532 37532] || Teleport Menu, Ranging Guild, Remove
+|-
+| [[Ornate Jewellery Box]] || [https://chisel.weirdgloop.org/moid/object_id.html#37533 37533] || Teleport Menu, Fishing Guild, Remove
+|-
+| [[Ornate Jewellery Box]] || [https://chisel.weirdgloop.org/moid/object_id.html#37534 37534] || Teleport Menu, Mining Guild, Remove
+|-
+| [[Ornate Jewellery Box]] || [https://chisel.weirdgloop.org/moid/object_id.html#37535 37535] || Teleport Menu, Crafting Guild, Remove
+|-
+| [[Ornate Jewellery Box]] || [https://chisel.weirdgloop.org/moid/object_id.html#37536 37536] || Teleport Menu, Cooking Guild, Remove
+|-
+| [[Ornate Jewellery Box]] || [https://chisel.weirdgloop.org/moid/object_id.html#37537 37537] || Teleport Menu, Woodcutting Guild, Remove
+|-
+| [[Ornate Jewellery Box]] || [https://chisel.weirdgloop.org/moid/object_id.html#37538 37538] || Teleport Menu, Farming Guild, Remove
+|-
+| [[Ornate Jewellery Box]] || [https://chisel.weirdgloop.org/moid/object_id.html#37539 37539] || Teleport Menu, Miscellania, Remove
+|-
+| [[Ornate Jewellery Box]] || [https://chisel.weirdgloop.org/moid/object_id.html#37540 37540] || Teleport Menu, Grand Exchange, Remove
+|-
+| [[Ornate Jewellery Box]] || [https://chisel.weirdgloop.org/moid/object_id.html#37541 37541] || Teleport Menu, Falador Park, Remove
+|-
+| [[Ornate Jewellery Box]] || [https://chisel.weirdgloop.org/moid/object_id.html#37542 37542] || Teleport Menu, "Dondakans Rock", Remove
+|-
+| [[Ornate Jewellery Box]] || [https://chisel.weirdgloop.org/moid/object_id.html#37543 37543] || Teleport Menu, Edgeville, Remove
+|-
+| [[Ornate Jewellery Box]] || [https://chisel.weirdgloop.org/moid/object_id.html#37544 37544] || Teleport Menu, Karamja, Remove
+|-
+| [[Ornate Jewellery Box]] || [https://chisel.weirdgloop.org/moid/object_id.html#37545 37545] || Teleport Menu, Draynor Village, Remove
+|-
+| [[Ornate Jewellery Box]] || [https://chisel.weirdgloop.org/moid/object_id.html#37546 37546] || Teleport Menu, Al Kharid, Remove
+|-
+|-
+|}
+===Removed Objects===
+{| class="wikitable sortable"
+!colspan='2'|Removed Objects
+|-
+! style=width:15em | Name !! ID
+|-
+|-
+|}
+===Diff Objects===
+{| class="wikitable sortable"
+!colspan='5'|Diff Objects
+|-
+! style=width:15em | Name !! ID !! Key !! Previous Value !! New Value
+|-
+|rowspan="3"|[[Black Chest]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#4125 4125]
+|-
+| recolorToFind ||<span style = "background-color: #5f6104;color:white">11171</span>||<span style = "background-color: #3f3a3a;color:white">41</span>,<span style = "background-color: #5f6104;color:white">11171</span>
+|-
+| recolorToReplace ||<span style = "background-color: #31033e;color:white">-13418</span>||<span style = "background-color: #000000;color:white">0</span>,<span style = "background-color: #31033e;color:white">-13418</span>
+|-
+|rowspan="4"|[[null]]
+|rowspan="4"|[https://chisel.weirdgloop.org/moid/object_id.html#29154 29154]
+|-
+|name || [[Basic Jewellery Box]] || [[null]]
+|-
+| varbitID || -1 || 2308
+|-
+| actions || ['Teleport', None, None, 'Upgrade', 'Remove'] || [None, None, None, None, None]
+|-
+|rowspan="4"|[[null]]
+|rowspan="4"|[https://chisel.weirdgloop.org/moid/object_id.html#29155 29155]
+|-
+|name || [[Fancy Jewellery Box]] || [[null]]
+|-
+| varbitID || -1 || 2308
+|-
+| actions || ['Teleport', None, None, 'Upgrade', 'Remove'] || [None, None, None, None, None]
+|-
+|rowspan="4"|[[null]]
+|rowspan="4"|[https://chisel.weirdgloop.org/moid/object_id.html#29156 29156]
+|-
+|name || [[Ornate Jewellery Box]] || [[null]]
+|-
+| varbitID || -1 || 2308
+|-
+| actions || ['Teleport', None, None, None, 'Remove'] || [None, None, None, None, None]
+|-
+|}

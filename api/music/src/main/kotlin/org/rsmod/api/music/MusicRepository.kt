@@ -2,7 +2,6 @@ package org.rsmod.api.music
 
 import dev.openrune.rscm.RSCM.asRSCM
 import dev.openrune.rscm.RSCMType
-import dev.openrune.types.varp.VarpServerType
 import it.unimi.dsi.fastutil.ints.Int2ObjectMap
 import it.unimi.dsi.fastutil.ints.Int2ObjectOpenHashMap
 import jakarta.inject.Inject

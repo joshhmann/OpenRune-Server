@@ -1,0 +1,79 @@
+{{ToC}}
+==Items==
+{| class="wikitable sortable"
+!colspan='13'|Items
+|-
+! Name !! ID !! Key !! Previous Value !! New Value !! Members !! Tradeable in GE !! Equipable !! Stackable !! Noteable !! Options !! Placeholder !! Cost
+|-
+|rowspan="2"|[[Nihil shard]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26231 26231]
+|-
+|cost || 500 || 5000
+|-
+|rowspan="2"|[[Nihil horn]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26372 26372]
+|-
+|cost || 150000 || 2000000
+|-
+|rowspan="2"|[[Ecumenical key shard]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26388 26388]
+|-
+|cost || 1 || 1200
+|-
+|rowspan="2"|[[Blood essence]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26390 26390]
+|-
+|cost || 200000 || 100000
+|-
+|rowspan="2"|[[Blood essence (active)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26392 26392]
+|-
+|cost || 200000 || 100000
+|-
+|}
+
+==Non-Player Characters==
+{| class="wikitable sortable"
+!colspan='5'|Non-Player Characters
+|-
+! Name !! ID !! Key !! Previous Value !! Changed into
+|-
+|}
+
+==Objects==
+{| class="wikitable sortable"
+!colspan='5'|Objects
+|-
+! Name !! ID !! Key !! Previous Value !! Changed into
+|-
+| [[Door]] || [https://chisel.weirdgloop.org/moid/object_id.html#42855 42855] || colspan = "4" | New ID
+|-
+| [[Ancient Plaque]] || [https://chisel.weirdgloop.org/moid/object_id.html#42856 42856] || colspan = "4" | New ID
+|-
+| [[Scoreboard]] || [https://chisel.weirdgloop.org/moid/object_id.html#42857 42857] || colspan = "4" | New ID
+|-
+| [[Chest]] || [https://chisel.weirdgloop.org/moid/object_id.html#42858 42858] || colspan = "4" | New ID
+|-
+| [[Ancient Forge]] || [https://chisel.weirdgloop.org/moid/object_id.html#42859 42859] || colspan = "4" | New ID
+|-
+| [[Anvil]] || [https://chisel.weirdgloop.org/moid/object_id.html#42860 42860] || colspan = "4" | New ID
+|-
+|rowspan="4"|[[null]]
+|rowspan="4"|[https://chisel.weirdgloop.org/moid/object_id.html#26387 26387]
+|-
+|interactType || 0 || 1
+|-
+| supportsItems || 0 || 1
+|-
+| blocksProjectile || False || True
+|-
+|rowspan="4"|[[null]]
+|rowspan="4"|[https://chisel.weirdgloop.org/moid/object_id.html#26388 26388]
+|-
+|interactType || 0 || 1
+|-
+| supportsItems || 0 || 1
+|-
+| blocksProjectile || False || True
+|-
+|}

@@ -53,7 +53,14 @@ constructor(private val mapClock: MapClock, private val registry: ObjRegistry) {
         count: Int = 1,
         reveal: Int = DEFAULT_REVEAL_DELAY,
     ): Obj {
-        return add(RSCM.getReverseMapping(RSCMType.OBJ, type.id), coords, duration, receiver, count, reveal)
+        return add(
+            RSCM.getReverseMapping(RSCMType.OBJ, type.id),
+            coords,
+            duration,
+            receiver,
+            count,
+            reveal,
+        )
     }
 
     public fun add(

@@ -1,0 +1,1969 @@
+__TOC__
+==Objects==
+===New Objects===
+{| class="wikitable sortable"
+|-
+! colspan="3" | New Objects
+|-
+! style="width: 15em" | name !! id !! actions
+|}
+===Removed Objects===
+{| class="wikitable sortable"
+|-
+! colspan="3" | Removed Objects
+|-
+! style="width: 15em" | name !! id !! actions
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#44936 44936][https://abextm.github.io/cache2/#/viewer/obj/44936 (1)] || [None, None, None, None, None]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#44937 44937][https://abextm.github.io/cache2/#/viewer/obj/44937 (1)] || [None, None, None, None, None]
+|}
+===Diff Objects===
+{| class="wikitable sortable sticky-header"
+|-
+! colspan="5" | Diff Objects
+|-
+! style="width: 15em" | Name !! Id !! Key !! Previous Value !! New Value
+|-
+| rowspan="3" | [[null]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/object_id.html#24125 24125][https://abextm.github.io/cache2/#/viewer/obj/24125 (1)]
+|-
+| retextureFrom || [<span style="color: #ee4231">6, </span>44] || [44]
+|-
+| retextureTo || [<span style="color: #ee4231">92, 93</span>] || [<span style="color: #6bc71f">6</span>]
+|-
+| rowspan="3" | [[null]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/object_id.html#24126 24126][https://abextm.github.io/cache2/#/viewer/obj/24126 (1)]
+|-
+| retextureFrom || <span style="color: #ee4231">[6]</span> || 
+|-
+| retextureTo || <span style="color: #ee4231">[92]</span> || 
+|-
+| rowspan="3" | [[null]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/object_id.html#24127 24127][https://abextm.github.io/cache2/#/viewer/obj/24127 (1)]
+|-
+| retextureFrom || <span style="color: #ee4231">[6]</span> || 
+|-
+| retextureTo || <span style="color: #ee4231">[92]</span> || 
+|-
+| rowspan="3" | [[null]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/object_id.html#24128 24128][https://abextm.github.io/cache2/#/viewer/obj/24128 (1)]
+|-
+| retextureFrom || <span style="color: #ee4231">[6]</span> || 
+|-
+| retextureTo || <span style="color: #ee4231">[92]</span> || 
+|-
+| rowspan="3" | [[null]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/object_id.html#24129 24129][https://abextm.github.io/cache2/#/viewer/obj/24129 (1)]
+|-
+| retextureFrom || <span style="color: #ee4231">[6]</span> || 
+|-
+| retextureTo || <span style="color: #ee4231">[92]</span> || 
+|-
+| rowspan="3" | [[null]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/object_id.html#24130 24130][https://abextm.github.io/cache2/#/viewer/obj/24130 (1)]
+|-
+| retextureFrom || <span style="color: #ee4231">[6]</span> || 
+|-
+| retextureTo || <span style="color: #ee4231">[92]</span> || 
+|-
+| rowspan="3" | [[null]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/object_id.html#24131 24131][https://abextm.github.io/cache2/#/viewer/obj/24131 (1)]
+|-
+| retextureFrom || <span style="color: #ee4231">[6]</span> || 
+|-
+| retextureTo || <span style="color: #ee4231">[92]</span> || 
+|-
+| rowspan="3" | [[null]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/object_id.html#24132 24132][https://abextm.github.io/cache2/#/viewer/obj/24132 (1)]
+|-
+| retextureFrom || <span style="color: #ee4231">[6]</span> || 
+|-
+| retextureTo || <span style="color: #ee4231">[92]</span> || 
+|-
+| rowspan="3" | [[null]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/object_id.html#24133 24133][https://abextm.github.io/cache2/#/viewer/obj/24133 (1)]
+|-
+| retextureFrom || <span style="color: #ee4231">[6]</span> || 
+|-
+| retextureTo || <span style="color: #ee4231">[92]</span> || 
+|-
+| rowspan="3" | [[null]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/object_id.html#24134 24134][https://abextm.github.io/cache2/#/viewer/obj/24134 (1)]
+|-
+| retextureFrom || <span style="color: #ee4231">[6]</span> || 
+|-
+| retextureTo || <span style="color: #ee4231">[92]</span> || 
+|-
+| rowspan="3" | [[null]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/object_id.html#24135 24135][https://abextm.github.io/cache2/#/viewer/obj/24135 (1)]
+|-
+| retextureFrom || <span style="color: #ee4231">[6]</span> || 
+|-
+| retextureTo || <span style="color: #ee4231">[92]</span> || 
+|-
+| rowspan="3" | [[null]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/object_id.html#24136 24136][https://abextm.github.io/cache2/#/viewer/obj/24136 (1)]
+|-
+| retextureFrom || <span style="color: #ee4231">[6]</span> || 
+|-
+| retextureTo || <span style="color: #ee4231">[92]</span> || 
+|-
+| rowspan="3" | [[null]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/object_id.html#24137 24137][https://abextm.github.io/cache2/#/viewer/obj/24137 (1)]
+|-
+| retextureFrom || <span style="color: #ee4231">[6]</span> || 
+|-
+| retextureTo || <span style="color: #ee4231">[92]</span> || 
+|-
+| rowspan="3" | [[null]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/object_id.html#24138 24138][https://abextm.github.io/cache2/#/viewer/obj/24138 (1)]
+|-
+| retextureFrom || <span style="color: #ee4231">[6]</span> || 
+|-
+| retextureTo || <span style="color: #ee4231">[92]</span> || 
+|-
+| rowspan="3" | [[null]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/object_id.html#24198 24198][https://abextm.github.io/cache2/#/viewer/obj/24198 (1)]
+|-
+| retextureFrom || <span style="color: #ee4231">[6]</span> || 
+|-
+| retextureTo || <span style="color: #ee4231">[92]</span> || 
+|-
+| rowspan="3" | [[null]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/object_id.html#24199 24199][https://abextm.github.io/cache2/#/viewer/obj/24199 (1)]
+|-
+| retextureFrom || <span style="color: #ee4231">[6]</span> || 
+|-
+| retextureTo || <span style="color: #ee4231">[92]</span> || 
+|-
+| rowspan="3" | [[null]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/object_id.html#24200 24200][https://abextm.github.io/cache2/#/viewer/obj/24200 (1)]
+|-
+| retextureFrom || <span style="color: #ee4231">[6]</span> || 
+|-
+| retextureTo || <span style="color: #ee4231">[92]</span> || 
+|-
+| rowspan="3" | [[null]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/object_id.html#24201 24201][https://abextm.github.io/cache2/#/viewer/obj/24201 (1)]
+|-
+| retextureFrom || <span style="color: #ee4231">[6]</span> || 
+|-
+| retextureTo || <span style="color: #ee4231">[92]</span> || 
+|-
+| rowspan="3" | [[null]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/object_id.html#24202 24202][https://abextm.github.io/cache2/#/viewer/obj/24202 (1)]
+|-
+| retextureFrom || <span style="color: #ee4231">[6]</span> || 
+|-
+| retextureTo || <span style="color: #ee4231">[92]</span> || 
+|-
+| rowspan="3" | [[null]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/object_id.html#24203 24203][https://abextm.github.io/cache2/#/viewer/obj/24203 (1)]
+|-
+| retextureFrom || <span style="color: #ee4231">[6]</span> || 
+|-
+| retextureTo || <span style="color: #ee4231">[92]</span> || 
+|-
+| rowspan="3" | [[null]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/object_id.html#24204 24204][https://abextm.github.io/cache2/#/viewer/obj/24204 (1)]
+|-
+| retextureFrom || <span style="color: #ee4231">[6]</span> || 
+|-
+| retextureTo || <span style="color: #ee4231">[92]</span> || 
+|-
+| rowspan="3" | [[null]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/object_id.html#24205 24205][https://abextm.github.io/cache2/#/viewer/obj/24205 (1)]
+|-
+| retextureFrom || <span style="color: #ee4231">[6]</span> || 
+|-
+| retextureTo || <span style="color: #ee4231">[92]</span> || 
+|-
+| rowspan="3" | [[null]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/object_id.html#24206 24206][https://abextm.github.io/cache2/#/viewer/obj/24206 (1)]
+|-
+| retextureFrom || <span style="color: #ee4231">[6]</span> || 
+|-
+| retextureTo || <span style="color: #ee4231">[92]</span> || 
+|-
+| rowspan="3" | [[null]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/object_id.html#24207 24207][https://abextm.github.io/cache2/#/viewer/obj/24207 (1)]
+|-
+| retextureFrom || <span style="color: #ee4231">[6]</span> || 
+|-
+| retextureTo || <span style="color: #ee4231">[92]</span> || 
+|-
+| rowspan="3" | [[null]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/object_id.html#24208 24208][https://abextm.github.io/cache2/#/viewer/obj/24208 (1)]
+|-
+| retextureFrom || <span style="color: #ee4231">[6]</span> || 
+|-
+| retextureTo || <span style="color: #ee4231">[92]</span> || 
+|-
+| rowspan="3" | [[null]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/object_id.html#24209 24209][https://abextm.github.io/cache2/#/viewer/obj/24209 (1)]
+|-
+| retextureFrom || <span style="color: #ee4231">[6]</span> || 
+|-
+| retextureTo || <span style="color: #ee4231">[92]</span> || 
+|-
+| rowspan="3" | [[null]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/object_id.html#24210 24210][https://abextm.github.io/cache2/#/viewer/obj/24210 (1)]
+|-
+| retextureFrom || <span style="color: #ee4231">[6]</span> || 
+|-
+| retextureTo || <span style="color: #ee4231">[92]</span> || 
+|-
+| rowspan="3" | [[null]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/object_id.html#24211 24211][https://abextm.github.io/cache2/#/viewer/obj/24211 (1)]
+|-
+| retextureFrom || <span style="color: #ee4231">[6]</span> || 
+|-
+| retextureTo || <span style="color: #ee4231">[92]</span> || 
+|-
+| rowspan="3" | [[null]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/object_id.html#24212 24212][https://abextm.github.io/cache2/#/viewer/obj/24212 (1)]
+|-
+| retextureFrom || <span style="color: #ee4231">[6]</span> || 
+|-
+| retextureTo || <span style="color: #ee4231">[92]</span> || 
+|-
+| rowspan="3" | [[null]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/object_id.html#24213 24213][https://abextm.github.io/cache2/#/viewer/obj/24213 (1)]
+|-
+| retextureFrom || <span style="color: #ee4231">[6]</span> || 
+|-
+| retextureTo || <span style="color: #ee4231">[92]</span> || 
+|-
+| rowspan="3" | [[null]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/object_id.html#24214 24214][https://abextm.github.io/cache2/#/viewer/obj/24214 (1)]
+|-
+| retextureFrom || <span style="color: #ee4231">[6]</span> || 
+|-
+| retextureTo || <span style="color: #ee4231">[92]</span> || 
+|-
+| rowspan="3" | [[null]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/object_id.html#24215 24215][https://abextm.github.io/cache2/#/viewer/obj/24215 (1)]
+|-
+| retextureFrom || <span style="color: #ee4231">[6]</span> || 
+|-
+| retextureTo || <span style="color: #ee4231">[92]</span> || 
+|-
+| rowspan="3" | [[null]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/object_id.html#24225 24225][https://abextm.github.io/cache2/#/viewer/obj/24225 (1)]
+|-
+| retextureFrom || <span style="color: #ee4231">[6]</span> || 
+|-
+| retextureTo || <span style="color: #ee4231">[92]</span> || 
+|-
+| rowspan="3" | [[null]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/object_id.html#24226 24226][https://abextm.github.io/cache2/#/viewer/obj/24226 (1)]
+|-
+| retextureFrom || <span style="color: #ee4231">[6]</span> || 
+|-
+| retextureTo || <span style="color: #ee4231">[92]</span> || 
+|-
+| rowspan="3" | [[null]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/object_id.html#24227 24227][https://abextm.github.io/cache2/#/viewer/obj/24227 (1)]
+|-
+| retextureFrom || <span style="color: #ee4231">[6]</span> || 
+|-
+| retextureTo || <span style="color: #ee4231">[92]</span> || 
+|-
+| rowspan="3" | [[null]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/object_id.html#26581 26581][https://abextm.github.io/cache2/#/viewer/obj/26581 (1)]
+|-
+| retextureFrom || <span style="color: #ee4231">[6]</span> || 
+|-
+| retextureTo || <span style="color: #ee4231">[92]</span> || 
+|-
+| rowspan="3" | [[null]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/object_id.html#26583 26583][https://abextm.github.io/cache2/#/viewer/obj/26583 (1)]
+|-
+| retextureFrom || <span style="color: #ee4231">[6]</span> || 
+|-
+| retextureTo || <span style="color: #ee4231">[92]</span> || 
+|-
+| rowspan="3" | [[null]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/object_id.html#26584 26584][https://abextm.github.io/cache2/#/viewer/obj/26584 (1)]
+|-
+| retextureFrom || <span style="color: #ee4231">[6]</span> || 
+|-
+| retextureTo || <span style="color: #ee4231">[92]</span> || 
+|-
+| rowspan="2" | [[Large hole]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#29880 29880][https://abextm.github.io/cache2/#/viewer/obj/29880 (1)]
+|-
+| models || [32523, 32522<span style="color: #ee4231">, 41459</span>] || [32523, 32522]
+|-
+| rowspan="2" | [[Large hole]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#29881 29881][https://abextm.github.io/cache2/#/viewer/obj/29881 (1)]
+|-
+| models || [32523, 32522<span style="color: #ee4231">, 41459</span>] || [32523, 32522]
+|-
+| rowspan="3" | [[null]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/object_id.html#42898 42898][https://abextm.github.io/cache2/#/viewer/obj/42898 (1)]
+|-
+| retextureFrom || <span style="color: #ee4231">[6, 44]</span> || 
+|-
+| retextureTo || <span style="color: #ee4231">[93, 92]</span> || 
+|-
+| rowspan="3" | [[null]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/object_id.html#42899 42899][https://abextm.github.io/cache2/#/viewer/obj/42899 (1)]
+|-
+| retextureFrom || <span style="color: #ee4231">[6]</span> || 
+|-
+| retextureTo || <span style="color: #ee4231">[93]</span> || 
+|-
+| rowspan="3" | [[null]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/object_id.html#42900 42900][https://abextm.github.io/cache2/#/viewer/obj/42900 (1)]
+|-
+| retextureFrom || <span style="color: #ee4231">[6]</span> || 
+|-
+| retextureTo || <span style="color: #ee4231">[93]</span> || 
+|-
+| rowspan="3" | [[null]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/object_id.html#42901 42901][https://abextm.github.io/cache2/#/viewer/obj/42901 (1)]
+|-
+| retextureFrom || <span style="color: #ee4231">[6]</span> || 
+|-
+| retextureTo || <span style="color: #ee4231">[93]</span> || 
+|-
+| rowspan="3" | [[null]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/object_id.html#42902 42902][https://abextm.github.io/cache2/#/viewer/obj/42902 (1)]
+|-
+| retextureFrom || <span style="color: #ee4231">[6]</span> || 
+|-
+| retextureTo || <span style="color: #ee4231">[93]</span> || 
+|-
+| rowspan="3" | [[null]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/object_id.html#42903 42903][https://abextm.github.io/cache2/#/viewer/obj/42903 (1)]
+|-
+| retextureFrom || <span style="color: #ee4231">[6]</span> || 
+|-
+| retextureTo || <span style="color: #ee4231">[93]</span> || 
+|-
+| rowspan="3" | [[null]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/object_id.html#42904 42904][https://abextm.github.io/cache2/#/viewer/obj/42904 (1)]
+|-
+| retextureFrom || <span style="color: #ee4231">[6]</span> || 
+|-
+| retextureTo || <span style="color: #ee4231">[93]</span> || 
+|}
+==Enums==
+===New Enums===
+{| class="wikitable sortable"
+|-
+! colspan="3" | New Enums
+|-
+! style="width: 15em" | id !! defaultValue !! map
+|-
+| [https://chisel.weirdgloop.org/structs/index.html?type=enums&id=2734 2734][https://abextm.github.io/cache2/#/viewer/enum/2734 (1)] || -1 || {'0': 58261508, '1': 58261509, '2': 58261510, '3': 58261511, '4': 58261512, '5': 58261513, '6': 58261514, '7': 58261515, '8': 58261516, '9': 58261517, '10': 58261518}
+|-
+| [https://chisel.weirdgloop.org/structs/index.html?type=enums&id=2735 2735][https://abextm.github.io/cache2/#/viewer/enum/2735 (1)] ||  || 
+|}
+===Removed Enums===
+{| class="wikitable sortable"
+|-
+! colspan="3" | Removed Enums
+|-
+! style="width: 15em" | id !! defaultValue !! map
+|-
+| [https://chisel.weirdgloop.org/structs/index.html?type=enums&id=1895 1895][https://abextm.github.io/cache2/#/viewer/enum/1895 (1)] ||  || 
+|}
+===Diff Enums===
+{| class="wikitable sortable sticky-header"
+|-
+! colspan="5" | Diff Enums
+|-
+! style="width: 15em" | Id !! Key !! Previous Value !! New Value
+|-
+| rowspan="2" | [https://chisel.weirdgloop.org/structs/index.html?type=enums&id=3970 3970][https://abextm.github.io/cache2/#/viewer/enum/3970 (1)]
+|-
+| map || {'0': 'All', '1': 'Abyssal Sire', '2': 'Alchemical Hydra', '3': 'Amoxliatl', '4': 'Araxxor', '5': 'Barrows', '6': 'Bryophyta', '7': 'Callisto', '8': 'Cerberus', '9': 'Chaos Elemental', '10': 'Chaos Fanatic', '11': 'Crazy Archaeologist', '12': 'Chambers of Xeric', '13': 'CM:  Chambers of Xeric', '14': 'Corporeal Beast', '15': 'Commander Zilyana', '16': 'Crystalline Hunllef', '17': 'Corrupted Hunllef', '18': 'DK:  Prime', '19': 'DK:  Rex', '20': 'DK:  Supreme', '21': 'Deranged Archaeologist', '22': 'Duke Sucellus', '23': 'Fortis Colosseum', '24': 'General Graardor', '25': 'Giant Mole', '26': 'Grotesque Guardians', '27': 'Hespori', '28': 'Hueycoatl,  The', '29': 'Kalphite Queen', '30': 'King Black Dragon', '31': 'Kraken', '32': 'Kree'arra', '33': 'K'ril Tsutsaroth', '34': 'Leviathan,  The', '35': 'Mimic,  The', '36': 'Moons of Peril', '37': 'Nex', '38': 'Nightmare,  The', '39': 'Phosani's Nightmare', '40': 'Obor', '41': 'Phantom Muspah', '42': 'Scurrius', '43': 'Sarachnis', '44': 'Scorpia', '45': 'Skotizo', '46': 'Tempoross', '47': 'EM:  Theatre of Blood', '48': 'Theatre of Blood', '49': 'HM:  Theatre of Blood', '50': 'Thermy', '51': 'EM:  Tombs of Amascut', '52': 'Tombs of Amascut', '53': 'XM:  Tombs of Amascut', '54': 'TzHaar-Ket-Rak', '55': 'TzKal-Zuk', '56': 'TzTok-Jad', '57': 'Vardorvis', '58': 'Venenatis', '59': 'Vet'ion', '60': 'Vorkath', '61': 'Whisperer,  The', '62': 'Wintertodt', '63': 'Zalcano', '64': 'Zulrah', '65': 'Fragment of Seren', '66': 'Glough', '67': 'Galvek', '68': 'Other', '-1': 'Monster'} || {'0': 'All', '1': 'Abyssal Sire', '2': 'Alchemical Hydra', '3': 'Amoxliatl', '4': 'Araxxor', '5': 'Barrows', '6': 'Bryophyta', '7': 'Callisto', '8': 'Cerberus', '9': 'Chaos Elemental', '10': 'Chaos Fanatic', '11': 'Crazy Archaeologist', '12': 'Chambers of Xeric', '13': 'CM:  Chambers of Xeric', '14': 'Corporeal Beast', '15': 'Commander Zilyana', '16': 'Crystalline Hunllef', '17': 'Corrupted Hunllef', '18': 'DK:  Prime', '19': 'DK:  Rex', '20': 'DK:  Supreme', '21': 'Deranged Archaeologist', '22': 'Duke Sucellus', '23': 'Fortis Colosseum', '24': 'General Graardor', '25': 'Giant Mole', '26': 'Grotesque Guardians', '27': 'Hespori', '28': 'Hueycoatl,  The', '29': 'Kalphite Queen', '30': 'King Black Dragon', '31': 'Kraken', '32': 'Kree'arra', '33': 'K'ril Tsutsaroth', '34': 'Leviathan,  The', '35': 'Mimic,  The', '36': 'Moons of Peril', '37': 'Nex', '38': 'Nightmare,  The', '39': 'Phosani's Nightmare', '40': 'Obor', '41': 'Phantom Muspah', '42': 'Scurrius', '43': 'Sarachnis', '44': 'Scorpia', '45': 'Skotizo', '46': 'Tempoross', '47': 'EM:  Theatre of Blood', '48': 'Theatre of Blood', '49': 'HM:  Theatre of Blood', '50': 'Thermy', '51': 'EM:  Tombs of Amascut', '52': 'Tombs of Amascut', '53': 'XM:  Tombs of Amascut', '54': 'TzHaar-Ket-Rak', '55': 'TzKal-Zuk', '56': 'TzTok-Jad', '57': 'Vardorvis', '58': 'Venenatis', '59': 'Vet'ion', '60': 'Vorkath', '61': 'Whisperer,  The', '62': 'Wintertodt', '63': 'Zalcano', '64': 'Zulrah', '65': 'Fragment of Seren', '66': 'Glough', '67': 'Galvek', '68': 'Other', '<span style="color: #6bc71f">69': 'Greater Demons', '70': 'Lizardman Shamans', '71': 'Wyrms', '72': 'Black Dragons', '73': 'Fire Giants', '74': 'Hellhounds', '75': 'Bloodvelds', '76': 'Aberrant Spectres', '77': 'Demonic Gorillas', '78': 'Basilisk Knights', '79': 'Gargoyles', '80': 'Skeletal Wyverns', '81': 'Kurasks', '82': 'Brutal Black Dragons', '83': 'Giants', '84': 'Tormented Demons', '</span>-1': 'Monster'}
+|-
+| rowspan="2" | [https://chisel.weirdgloop.org/structs/index.html?type=enums&id=4026 4026][https://abextm.github.io/cache2/#/viewer/enum/4026 (1)]
+|-
+| map || {'0': 3637, '1': 996, '2': 2778, '3': 2779, '4': 2797, '5': 2781, '6': 2782, '7': 4362, '8': 4363, '9': 2795, '10': 2794, '11': 3638, '12': 968, '13': 2788, '14': 2798, '15': 2790, '16': 2791, '17': 2786, '18': 2787, '19': 2785, '20': 2793, '21': 2792, '22': 3639, '23': 2765, '24': 2766, '25': 2783, '26': 2784, '27': 345, '28': 4390, '29': 4391, '30': 3743, '31': 4392, '32': 4551, '33': 848, '34': <span style="color: #ee4231">3730</span>, '35': <span style="color: #ee4231">3733</span>, '36': <span style="color: #ee4231">4364</span>, '37': <span style="color: #ee4231">4458</span>, '38': <span style="color: #ee4231">4365</span>, '39': <span style="color: #ee4231">4459</span>, '40': <span style="color: #ee4231">4444</span>, '41': 4445} || {'0': 3637, '1': 996, '2': 2778, '3': 2779, '4': 2797, '5': 2781, '6': 2782, '7': 4362, '8': 4363, '9': 2795, '10': 2794, '11': 3638, '12': 968, '13': 2788, '14': 2798, '15': 2790, '16': 2791, '17': 2786, '18': 2787, '19': 2785, '20': 2793, '21': 2792, '22': 3639, '23': 2765, '24': 2766, '25': 2783, '26': 2784, '27': 345, '28': 4390, '29': 4391, '30': 3743, '31': 4392, '32': 4551, '33': 848, '34': <span style="color: #6bc71f">1235</span>, '35': <span style="color: #6bc71f">1236</span>, '36': <span style="color: #6bc71f">1237</span>, '37': <span style="color: #6bc71f">1238</span>, '38': <span style="color: #6bc71f">3730</span>, '39': <span style="color: #6bc71f">3733</span>, '40': <span style="color: #6bc71f">4364</span>, '41': <span style="color: #6bc71f">4458, '42': 4365, '43': 4459, '44': 4444, '45': </span>4445}
+|-
+| rowspan="2" | [https://chisel.weirdgloop.org/structs/index.html?type=enums&id=4088 4088][https://abextm.github.io/cache2/#/viewer/enum/4088 (1)]
+|-
+| map || {'3336': 1, '3396': 1, '3398': 1, '3400': 1, '3436': 1, '3438': 1, '3465': 1, '3467': 1, '3522': 1, '3523': 1, '3524': 1, '4395': 1} || {'3336': 1, '3396': 1, '3398': 1, '3400': 1, '3436': 1, '3438': 1, '3465': 1, '3467': 1, '<span style="color: #6bc71f">3513': 1, '</span>3522': 1, '3523': 1, '3524': 1, '4395': 1}
+|}
+==Npcs==
+===New Npcs===
+{| class="wikitable sortable"
+|-
+! colspan="4" | New Npcs
+|-
+! style="width: 15em" | name !! id !! combatLevel !! actions
+|}
+===Removed Npcs===
+{| class="wikitable sortable"
+|-
+! colspan="4" | Removed Npcs
+|-
+! style="width: 15em" | name !! id !! combatLevel !! actions
+|-
+| [[Shepherd Dog]] || [https://chisel.weirdgloop.org/moid/npc_id.html#10476 10476][https://abextm.github.io/cache2/#/viewer/npc/10476 (1)] ||  || [None, None, None, None, None]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12592 12592][https://abextm.github.io/cache2/#/viewer/npc/12592 (1)] ||  || [None, None, None, None, None]
+|-
+| [[Corgi]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12593 12593][https://abextm.github.io/cache2/#/viewer/npc/12593 (1)] ||  || [None, None, None, None, None]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12595 12595][https://abextm.github.io/cache2/#/viewer/npc/12595 (1)] ||  || [None, None, None, None, None]
+|-
+| [[Yorkie]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12596 12596][https://abextm.github.io/cache2/#/viewer/npc/12596 (1)] ||  || [None, None, None, None, None]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/npc_id.html#14147 14147][https://abextm.github.io/cache2/#/viewer/npc/14147 (1)] ||  || [None, None, None, None, None]
+|-
+| [[Stray dog]] || [https://chisel.weirdgloop.org/moid/npc_id.html#14148 14148][https://abextm.github.io/cache2/#/viewer/npc/14148 (1)] ||  || [None, None, None, None, None]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/npc_id.html#14149 14149][https://abextm.github.io/cache2/#/viewer/npc/14149 (1)] ||  || [None, None, None, None, None]
+|-
+| [[Unidentified dog]] || [https://chisel.weirdgloop.org/moid/npc_id.html#14150 14150][https://abextm.github.io/cache2/#/viewer/npc/14150 (1)] ||  || [None, None, None, None, None]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/npc_id.html#14151 14151][https://abextm.github.io/cache2/#/viewer/npc/14151 (1)] ||  || [None, None, None, None, None]
+|-
+| [[Shepherd Dog]] || [https://chisel.weirdgloop.org/moid/npc_id.html#14152 14152][https://abextm.github.io/cache2/#/viewer/npc/14152 (1)] ||  || [None, None, None, None, None]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/npc_id.html#14153 14153][https://abextm.github.io/cache2/#/viewer/npc/14153 (1)] ||  || [None, None, None, None, None]
+|-
+| [[Corgi]] || [https://chisel.weirdgloop.org/moid/npc_id.html#14154 14154][https://abextm.github.io/cache2/#/viewer/npc/14154 (1)] ||  || [None, None, None, None, None]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/npc_id.html#14155 14155][https://abextm.github.io/cache2/#/viewer/npc/14155 (1)] ||  || [None, None, None, None, None]
+|-
+| [[Yorkie]] || [https://chisel.weirdgloop.org/moid/npc_id.html#14156 14156][https://abextm.github.io/cache2/#/viewer/npc/14156 (1)] ||  || [None, None, None, None, None]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/npc_id.html#14157 14157][https://abextm.github.io/cache2/#/viewer/npc/14157 (1)] ||  || [None, None, None, None, None]
+|-
+| [[Stray dog]] || [https://chisel.weirdgloop.org/moid/npc_id.html#14158 14158][https://abextm.github.io/cache2/#/viewer/npc/14158 (1)] ||  || [None, None, None, None, None]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/npc_id.html#14159 14159][https://abextm.github.io/cache2/#/viewer/npc/14159 (1)] ||  || [None, None, None, None, None]
+|-
+| [[Unidentified festive dog]] || [https://chisel.weirdgloop.org/moid/npc_id.html#14160 14160][https://abextm.github.io/cache2/#/viewer/npc/14160 (1)] ||  || [None, None, None, None, None]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/npc_id.html#14161 14161][https://abextm.github.io/cache2/#/viewer/npc/14161 (1)] ||  || [None, None, None, None, None]
+|-
+| [[Sadie]] || [https://chisel.weirdgloop.org/moid/npc_id.html#14162 14162][https://abextm.github.io/cache2/#/viewer/npc/14162 (1)] ||  || [Pet, None, None, None, None]
+|-
+| [[Sir Burrus]] || [https://chisel.weirdgloop.org/moid/npc_id.html#14164 14164][https://abextm.github.io/cache2/#/viewer/npc/14164 (1)] ||  || [Pet, None, None, None, None]
+|-
+| [[Archibald (dog)]] || [https://chisel.weirdgloop.org/moid/npc_id.html#14166 14166][https://abextm.github.io/cache2/#/viewer/npc/14166 (1)] ||  || [Pet, None, None, None, None]
+|-
+| [[Duke (dog)]] || [https://chisel.weirdgloop.org/moid/npc_id.html#14168 14168][https://abextm.github.io/cache2/#/viewer/npc/14168 (1)] ||  || [Pet, None, None, None, None]
+|-
+| [[Kimba]] || [https://chisel.weirdgloop.org/moid/npc_id.html#14170 14170][https://abextm.github.io/cache2/#/viewer/npc/14170 (1)] ||  || [Pet, None, None, None, None]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/npc_id.html#14172 14172][https://abextm.github.io/cache2/#/viewer/npc/14172 (1)] ||  || [None, None, None, None, None]
+|-
+| [[Cecilia]] || [https://chisel.weirdgloop.org/moid/npc_id.html#14173 14173][https://abextm.github.io/cache2/#/viewer/npc/14173 (1)] ||  || [Talk-to, None, None, None, None]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/npc_id.html#14174 14174][https://abextm.github.io/cache2/#/viewer/npc/14174 (1)] ||  || [None, None, None, None, None]
+|-
+| [[Gertrude]] || [https://chisel.weirdgloop.org/moid/npc_id.html#14175 14175][https://abextm.github.io/cache2/#/viewer/npc/14175 (1)] ||  || [Talk-to, None, None, None, None]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/npc_id.html#14176 14176][https://abextm.github.io/cache2/#/viewer/npc/14176 (1)] ||  || [None, None, None, None, None]
+|-
+| [[Hairdresser]] || [https://chisel.weirdgloop.org/moid/npc_id.html#14177 14177][https://abextm.github.io/cache2/#/viewer/npc/14177 (1)] ||  || [Talk-to, None, None, None, None]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/npc_id.html#14178 14178][https://abextm.github.io/cache2/#/viewer/npc/14178 (1)] ||  || [None, None, None, None, None]
+|-
+| [[Sir Amik Varze]] || [https://chisel.weirdgloop.org/moid/npc_id.html#14179 14179][https://abextm.github.io/cache2/#/viewer/npc/14179 (1)] ||  || [Talk-to, None, None, None, None]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/npc_id.html#14180 14180][https://abextm.github.io/cache2/#/viewer/npc/14180 (1)] ||  || [Talk-to, None, None, None, None]
+|-
+| [[Sarah]] || [https://chisel.weirdgloop.org/moid/npc_id.html#14181 14181][https://abextm.github.io/cache2/#/viewer/npc/14181 (1)] ||  || [Talk-to, None, None, None, None]
+|-
+| [[Shepherd Dog]] || [https://chisel.weirdgloop.org/moid/npc_id.html#14182 14182][https://abextm.github.io/cache2/#/viewer/npc/14182 (1)] ||  || [None, None, None, None, None]
+|-
+| [[Corgi]] || [https://chisel.weirdgloop.org/moid/npc_id.html#14183 14183][https://abextm.github.io/cache2/#/viewer/npc/14183 (1)] ||  || [None, None, None, None, None]
+|-
+| [[Yorkie]] || [https://chisel.weirdgloop.org/moid/npc_id.html#14184 14184][https://abextm.github.io/cache2/#/viewer/npc/14184 (1)] ||  || [None, None, None, None, None]
+|-
+| [[Stray dog]] || [https://chisel.weirdgloop.org/moid/npc_id.html#14185 14185][https://abextm.github.io/cache2/#/viewer/npc/14185 (1)] ||  || [None, None, None, None, None]
+|-
+| [[Unidentified festive object]] || [https://chisel.weirdgloop.org/moid/npc_id.html#14186 14186][https://abextm.github.io/cache2/#/viewer/npc/14186 (1)] ||  || [None, None, None, None, None]
+|-
+| [[Cecilia]] || [https://chisel.weirdgloop.org/moid/npc_id.html#14187 14187][https://abextm.github.io/cache2/#/viewer/npc/14187 (1)] ||  || [None, None, None, None, None]
+|-
+| [[Gertrude]] || [https://chisel.weirdgloop.org/moid/npc_id.html#14188 14188][https://abextm.github.io/cache2/#/viewer/npc/14188 (1)] ||  || [None, None, None, None, None]
+|-
+| [[Hairdresser]] || [https://chisel.weirdgloop.org/moid/npc_id.html#14189 14189][https://abextm.github.io/cache2/#/viewer/npc/14189 (1)] ||  || [Talk-to, None, None, None, None]
+|-
+| [[Sir Amik Varze]] || [https://chisel.weirdgloop.org/moid/npc_id.html#14190 14190][https://abextm.github.io/cache2/#/viewer/npc/14190 (1)] ||  || [None, None, None, None, None]
+|-
+| [[Sarah]] || [https://chisel.weirdgloop.org/moid/npc_id.html#14191 14191][https://abextm.github.io/cache2/#/viewer/npc/14191 (1)] ||  || [None, None, None, None, None]
+|-
+| [[Party Pete]] || [https://chisel.weirdgloop.org/moid/npc_id.html#14192 14192][https://abextm.github.io/cache2/#/viewer/npc/14192 (1)] ||  || [None, None, None, None, None]
+|-
+| [[Charlie the Tramp]] || [https://chisel.weirdgloop.org/moid/npc_id.html#14193 14193][https://abextm.github.io/cache2/#/viewer/npc/14193 (1)] ||  || [None, None, None, None, None]
+|}
+===Diff Npcs===
+{| class="wikitable sortable sticky-header"
+|-
+! colspan="5" | Diff Npcs
+|-
+! style="width: 15em" | Name !! Id !! Key !! Previous Value !! New Value
+|-
+| rowspan="2" | [[King Black Dragon]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/npc_id.html#239 239][https://abextm.github.io/cache2/#/viewer/npc/239 (1)]
+|-
+| models || [17414, 17415, 17429, 17422, 17423<span style="color: #ee4231">, 41464</span>] || [17414, 17415, 17429, 17422, 17423]
+|-
+| rowspan="2" | [[Dark core]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/npc_id.html#318 318][https://abextm.github.io/cache2/#/viewer/npc/318 (1)]
+|-
+| models || [11069<span style="color: #ee4231">, 41453</span>] || [11069]
+|-
+| rowspan="2" | [[Corporeal Beast]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/npc_id.html#319 319][https://abextm.github.io/cache2/#/viewer/npc/319 (1)]
+|-
+| models || [11056<span style="color: #ee4231">, 50069</span>] || [11056]
+|-
+| rowspan="2" | [[Dark energy core]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/npc_id.html#320 320][https://abextm.github.io/cache2/#/viewer/npc/320 (1)]
+|-
+| models || [11069<span style="color: #ee4231">, 41453</span>] || [11069]
+|-
+| rowspan="2" | [[Phosani's Nightmare]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/npc_id.html#377 377][https://abextm.github.io/cache2/#/viewer/npc/377 (1)]
+|-
+| models || [39196<span style="color: #ee4231">, 41454</span>] || [39196]
+|-
+| rowspan="2" | [[The Nightmare]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/npc_id.html#378 378][https://abextm.github.io/cache2/#/viewer/npc/378 (1)]
+|-
+| models || [39196<span style="color: #ee4231">, 41454</span>] || [39196]
+|-
+| rowspan="2" | [[Dark Core]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/npc_id.html#388 388][https://abextm.github.io/cache2/#/viewer/npc/388 (1)]
+|-
+| models || [11069<span style="color: #ee4231">, 41453</span>] || [11069]
+|-
+| rowspan="2" | [[Bloodveld]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/npc_id.html#484 484][https://abextm.github.io/cache2/#/viewer/npc/484 (1)]
+|-
+| models || [5065<span style="color: #ee4231">, 46916</span>] || [5065]
+|-
+| rowspan="2" | [[Bloodveld]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/npc_id.html#485 485][https://abextm.github.io/cache2/#/viewer/npc/485 (1)]
+|-
+| models || [5065<span style="color: #ee4231">, 46916</span>] || [5065]
+|-
+| rowspan="2" | [[Bloodveld]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/npc_id.html#486 486][https://abextm.github.io/cache2/#/viewer/npc/486 (1)]
+|-
+| models || [5065<span style="color: #ee4231">, 46916</span>] || [5065]
+|-
+| rowspan="2" | [[Bloodveld]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/npc_id.html#487 487][https://abextm.github.io/cache2/#/viewer/npc/487 (1)]
+|-
+| models || [5065<span style="color: #ee4231">, 46916</span>] || [5065]
+|-
+| rowspan="2" | [[Kraken]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/npc_id.html#494 494][https://abextm.github.io/cache2/#/viewer/npc/494 (1)]
+|-
+| models || [28231<span style="color: #ee4231">, 41466</span>] || [28231]
+|-
+| rowspan="2" | [[Hellpuppy]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/npc_id.html#964 964][https://abextm.github.io/cache2/#/viewer/npc/964 (1)]
+|-
+| models || [29240<span style="color: #ee4231">, 41447</span>] || [29240]
+|-
+| rowspan="2" | [[Squirrel]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/npc_id.html#1416 1416][https://abextm.github.io/cache2/#/viewer/npc/1416 (1)]
+|-
+| models || [11723<span style="color: #ee4231">, 41462</span>] || [11723]
+|-
+| rowspan="2" | [[Squirrel]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/npc_id.html#1417 1417][https://abextm.github.io/cache2/#/viewer/npc/1417 (1)]
+|-
+| models || [11723<span style="color: #ee4231">, 41462</span>] || [11723]
+|-
+| rowspan="2" | [[Squirrel]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/npc_id.html#1418 1418][https://abextm.github.io/cache2/#/viewer/npc/1418 (1)]
+|-
+| models || [11723<span style="color: #ee4231">, 41462</span>] || [11723]
+|-
+| rowspan="3" | [[Banker]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/npc_id.html#1613 1613][https://abextm.github.io/cache2/#/viewer/npc/1613 (1)]
+|-
+| models || [215, 246, 28515, 26630, 176, 28285, 181, 320<span style="color: #ee4231">, 189</span>] || [215, 246, 28515, 26630, 176, 28285, 181, 320]
+|-
+| chatheadModels || [53<span style="color: #ee4231">, 69</span>] || [53]
+|-
+| rowspan="3" | [[Banker]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/npc_id.html#1618 1618][https://abextm.github.io/cache2/#/viewer/npc/1618 (1)]
+|-
+| models || [<span style="color: #ee4231">390</span>, 15939, 487, 353, 14423, 358, 437<span style="color: #ee4231">, 366</span>] || [<span style="color: #6bc71f">378</span>, 15939, 487, 353, 14423, 358, 437]
+|-
+| chatheadModels || [<span style="color: #ee4231">10031, 127</span>] || [<span style="color: #6bc71f">103</span>]
+|-
+| rowspan="3" | [[Banker]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/npc_id.html#1633 1633][https://abextm.github.io/cache2/#/viewer/npc/1633 (1)]
+|-
+| models || [408, 15939, 487, 353, 14423, 358, 437<span style="color: #ee4231">, 366</span>] || [408, 15939, 487, 353, 14423, 358, 437]
+|-
+| chatheadModels || [125<span style="color: #ee4231">, 127</span>] || [125]
+|-
+| rowspan="3" | [[Banker]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/npc_id.html#1634 1634][https://abextm.github.io/cache2/#/viewer/npc/1634 (1)]
+|-
+| models || [<span style="color: #ee4231">390</span>, 15939, 487, 353, 14423, 358, <span style="color: #ee4231">366</span>] || [<span style="color: #6bc71f">378</span>, 15939, 487, 353, 14423, 358, <span style="color: #6bc71f">437</span>]
+|-
+| chatheadModels || [<span style="color: #ee4231">10031, 127</span>] || [<span style="color: #6bc71f">103</span>]
+|-
+| rowspan="2" | [[Zulrah]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/npc_id.html#2042 2042][https://abextm.github.io/cache2/#/viewer/npc/2042 (1)]
+|-
+| models || [14408<span style="color: #ee4231">, 41457</span>] || [14408]
+|-
+| rowspan="2" | [[Zulrah]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/npc_id.html#2043 2043][https://abextm.github.io/cache2/#/viewer/npc/2043 (1)]
+|-
+| models || [14409<span style="color: #ee4231">, 41455</span>] || [14409]
+|-
+| rowspan="2" | [[Zulrah]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/npc_id.html#2044 2044][https://abextm.github.io/cache2/#/viewer/npc/2044 (1)]
+|-
+| models || [14407<span style="color: #ee4231">, 41456</span>] || [14407]
+|-
+| rowspan="3" | [[Grand Exchange Clerk]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/npc_id.html#2148 2148][https://abextm.github.io/cache2/#/viewer/npc/2148 (1)]
+|-
+| models || [215, 246, 17365, 27154, 10218, 12138, 181<span style="color: #ee4231">, 189</span>] || [215, 246, 17365, 27154, 10218, 12138, 181]
+|-
+| chatheadModels || [53<span style="color: #ee4231">, 69</span>] || [53]
+|-
+| rowspan="3" | [[Grand Exchange Clerk]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/npc_id.html#2149 2149][https://abextm.github.io/cache2/#/viewer/npc/2149 (1)]
+|-
+| models || [<span style="color: #ee4231">390</span>, 25868, 487, 353, 433, 358, 437<span style="color: #ee4231">, 366</span>] || [<span style="color: #6bc71f">378</span>, 25868, 487, 353, 433, 358, 437]
+|-
+| chatheadModels || [<span style="color: #ee4231">10031, 127</span>] || [<span style="color: #6bc71f">103</span>]
+|-
+| rowspan="3" | [[Grand Exchange Clerk]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/npc_id.html#2150 2150][https://abextm.github.io/cache2/#/viewer/npc/2150 (1)]
+|-
+| models || [235, 247, 17365, 27154, 10218, 12138, 181<span style="color: #ee4231">, 189</span>] || [235, 247, 17365, 27154, 10218, 12138, 181]
+|-
+| chatheadModels || [67, 79<span style="color: #ee4231">, 69</span>] || [67, 79]
+|-
+| rowspan="3" | [[Grand Exchange Clerk]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/npc_id.html#2151 2151][https://abextm.github.io/cache2/#/viewer/npc/2151 (1)]
+|-
+| models || [393, 25868, 487, 353, 433, 358, 437<span style="color: #ee4231">, 366</span>] || [393, 25868, 487, 353, 433, 358, 437]
+|-
+| chatheadModels || [115<span style="color: #ee4231">, 127</span>] || [115]
+|-
+| rowspan="3" | [[Jade]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/npc_id.html#2472 2472][https://abextm.github.io/cache2/#/viewer/npc/2472 (1)]
+|-
+| models || [408, 418, 15320, 487, 10706, 435, 437<span style="color: #ee4231">, 366</span>] || [408, 418, 15320, 487, 10706, 435, 437]
+|-
+| chatheadModels || [114, 137<span style="color: #ee4231">, 127</span>] || [114, 137]
+|-
+| rowspan="2" | [[King Black Dragon]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/npc_id.html#2642 2642][https://abextm.github.io/cache2/#/viewer/npc/2642 (1)]
+|-
+| models || [17414, 17415, 17429, 17422, 17423<span style="color: #ee4231">, 41464</span>] || [17414, 17415, 17429, 17422, 17423]
+|-
+| rowspan="3" | [[Baraek]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/npc_id.html#2881 2881][https://abextm.github.io/cache2/#/viewer/npc/2881 (1)]
+|-
+| models || [230, 244, 248, 299, 25866, 25680, 177, 28285, 19947<span style="color: #ee4231">, 189</span>] || [230, 244, 248, 299, 25866, 25680, 177, 28285, 19947]
+|-
+| chatheadModels || [63, 77, 80<span style="color: #ee4231">, 69</span>] || [63, 77, 80]
+|-
+| rowspan="3" | [[Banker]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/npc_id.html#2897 2897][https://abextm.github.io/cache2/#/viewer/npc/2897 (1)]
+|-
+| models || [215, 246, 17365, 27154, 10218, 12138, 181<span style="color: #ee4231">, 189</span>] || [215, 246, 17365, 27154, 10218, 12138, 181]
+|-
+| chatheadModels || [53<span style="color: #ee4231">, 69</span>] || [53]
+|-
+| rowspan="3" | [[Banker]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/npc_id.html#2898 2898][https://abextm.github.io/cache2/#/viewer/npc/2898 (1)]
+|-
+| models || [<span style="color: #ee4231">390</span>, 25868, 487, 353, 433, 358, 437<span style="color: #ee4231">, 366</span>] || [<span style="color: #6bc71f">378</span>, 25868, 487, 353, 433, 358, 437]
+|-
+| chatheadModels || [<span style="color: #ee4231">10031, 127</span>] || [<span style="color: #6bc71f">103</span>]
+|-
+| rowspan="3" | [[Iffie]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/npc_id.html#2899 2899][https://abextm.github.io/cache2/#/viewer/npc/2899 (1)]
+|-
+| models || [<span style="color: #ee4231">50064</span>, 393, 18914, 15123, 10706, 12805, 11357, 358, 25690, 25682, 25706, 437] || [<span style="color: #6bc71f">25705</span>, 393, 18914, 15123, 10706, 12805, 11357, 358, 25690, 25682, 25706, 437]
+|-
+| chatheadModels || [16233, <span style="color: #ee4231">50081</span>, 16234] || [16233, <span style="color: #6bc71f">15255</span>, 16234]
+|-
+| rowspan="3" | [[Elsie]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/npc_id.html#2900 2900][https://abextm.github.io/cache2/#/viewer/npc/2900 (1)]
+|-
+| models || [<span style="color: #ee4231">50064</span>, 393, 18914, 15123, 10706, 12805, 11357, 358, 25690, 25682, 25706, 437] || [<span style="color: #6bc71f">25705</span>, 393, 18914, 15123, 10706, 12805, 11357, 358, 25690, 25682, 25706, 437]
+|-
+| chatheadModels || [16233, <span style="color: #ee4231">50081</span>, 16234] || [16233, <span style="color: #6bc71f">15255</span>, 16234]
+|-
+| rowspan="2" | [[Stray dog]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/npc_id.html#2902 2902][https://abextm.github.io/cache2/#/viewer/npc/2902 (1)]
+|-
+| models || [18168, 18170, 18167<span style="color: #ee4231">, 41465</span>] || [18168, 18170, 18167]
+|-
+| rowspan="2" | [[Stray dog]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/npc_id.html#2922 2922][https://abextm.github.io/cache2/#/viewer/npc/2922 (1)]
+|-
+| models || [18168, 18170, 18167<span style="color: #ee4231">, 41465</span>] || [18168, 18170, 18167]
+|-
+| rowspan="3" | [[Banker]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/npc_id.html#3089 3089][https://abextm.github.io/cache2/#/viewer/npc/3089 (1)]
+|-
+| models || [235, 246, 28515, 26630, 176, 28285, 181, 320<span style="color: #ee4231">, 189</span>] || [235, 246, 28515, 26630, 176, 28285, 181, 320]
+|-
+| chatheadModels || [67<span style="color: #ee4231">, 69</span>] || [67]
+|-
+| rowspan="3" | [[Banker]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/npc_id.html#3090 3090][https://abextm.github.io/cache2/#/viewer/npc/3090 (1)]
+|-
+| models || [215, 246, 28515, 26630, 176, 28285, 181, 320<span style="color: #ee4231">, 189</span>] || [215, 246, 28515, 26630, 176, 28285, 181, 320]
+|-
+| chatheadModels || [53<span style="color: #ee4231">, 69</span>] || [53]
+|-
+| rowspan="3" | [[Banker]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/npc_id.html#3091 3091][https://abextm.github.io/cache2/#/viewer/npc/3091 (1)]
+|-
+| models || [<span style="color: #ee4231">390</span>, 15939, 487, 353, 14423, 358, 437<span style="color: #ee4231">, 366</span>] || [<span style="color: #6bc71f">378</span>, 15939, 487, 353, 14423, 358, 437]
+|-
+| chatheadModels || [<span style="color: #ee4231">10031, 127</span>] || [<span style="color: #6bc71f">103</span>]
+|-
+| rowspan="3" | [[Banker]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/npc_id.html#3093 3093][https://abextm.github.io/cache2/#/viewer/npc/3093 (1)]
+|-
+| models || [206, 246, 28515, 26630, 176, 28337, 181, 320<span style="color: #ee4231">, 189</span>] || [206, 246, 28515, 26630, 176, 28337, 181, 320]
+|-
+| chatheadModels || [46<span style="color: #ee4231">, 69</span>] || [46]
+|-
+| rowspan="3" | [[Banker]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/npc_id.html#3094 3094][https://abextm.github.io/cache2/#/viewer/npc/3094 (1)]
+|-
+| models || [215, 246, 28515, 26630, 176, 28285, 181, 320<span style="color: #ee4231">, 189</span>] || [215, 246, 28515, 26630, 176, 28285, 181, 320]
+|-
+| chatheadModels || [53<span style="color: #ee4231">, 69</span>] || [53]
+|-
+| rowspan="2" | [[Hellpuppy]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/npc_id.html#3099 3099][https://abextm.github.io/cache2/#/viewer/npc/3099 (1)]
+|-
+| models || [29240<span style="color: #ee4231">, 41447</span>] || [29240]
+|-
+| rowspan="3" | [[Hans]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/npc_id.html#3105 3105][https://abextm.github.io/cache2/#/viewer/npc/3105 (1)]
+|-
+| models || [217, 246, 28515, 26630, 176, 28285, 185, 320<span style="color: #ee4231">, 189</span>] || [217, 246, 28515, 26630, 176, 28285, 185, 320]
+|-
+| chatheadModels || [55<span style="color: #ee4231">, 69</span>] || [55]
+|-
+| rowspan="3" | [[Man]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/npc_id.html#3106 3106][https://abextm.github.io/cache2/#/viewer/npc/3106 (1)]
+|-
+| models || [215, 246, 28515, 326, 26632, 177, 12138, 181<span style="color: #ee4231">, 189</span>] || [215, 246, 28515, 326, 26632, 177, 12138, 181]
+|-
+| chatheadModels || [53<span style="color: #ee4231">, 69</span>] || [53]
+|-
+| rowspan="3" | [[Man]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/npc_id.html#3107 3107][https://abextm.github.io/cache2/#/viewer/npc/3107 (1)]
+|-
+| models || [217, 246, 28515, 326, 26619, 177, 28346, 185<span style="color: #ee4231">, 189</span>] || [217, 246, 28515, 326, 26619, 177, 28346, 185]
+|-
+| chatheadModels || [55<span style="color: #ee4231">, 69</span>] || [55]
+|-
+| rowspan="3" | [[Man]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/npc_id.html#3108 3108][https://abextm.github.io/cache2/#/viewer/npc/3108 (1)]
+|-
+| models || [235, 253, 28515, 326, 26632, 177, 27639, 181<span style="color: #ee4231">, 189</span>] || [235, 253, 28515, 326, 26632, 177, 27639, 181]
+|-
+| chatheadModels || [67, 85<span style="color: #ee4231">, 69</span>] || [67, 85]
+|-
+| rowspan="3" | [[Man]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/npc_id.html#3109 3109][https://abextm.github.io/cache2/#/viewer/npc/3109 (1)]
+|-
+| models || [215, 246, 28515, 3707, 26632, 176, 3711, 28285, 181<span style="color: #ee4231">, 189</span>] || [215, 246, 28515, 3707, 26632, 176, 3711, 28285, 181]
+|-
+| chatheadModels || [53<span style="color: #ee4231">, 69</span>] || [53]
+|-
+| rowspan="3" | [[Woman]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/npc_id.html#3111 3111][https://abextm.github.io/cache2/#/viewer/npc/3111 (1)]
+|-
+| models || [390, 18554, 3476, 353, 14397, 358, 437<span style="color: #ee4231">, 366</span>] || [390, 18554, 3476, 353, 14397, 358, 437]
+|-
+| chatheadModels || [113<span style="color: #ee4231">, 127</span>] || [113]
+|-
+| rowspan="3" | [[Woman]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/npc_id.html#3112 3112][https://abextm.github.io/cache2/#/viewer/npc/3112 (1)]
+|-
+| models || [391, 18914, 3476, 353, 14423, 358, 437<span style="color: #ee4231">, 366</span>] || [391, 18914, 3476, 353, 14423, 358, 437]
+|-
+| chatheadModels || [114, 131<span style="color: #ee4231">, 127</span>] || [114, 131]
+|-
+| rowspan="3" | [[Woman]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/npc_id.html#3113 3113][https://abextm.github.io/cache2/#/viewer/npc/3113 (1)]
+|-
+| models || [393, 18554, 10685, 353, 435, 414, 437<span style="color: #ee4231">, 366</span>] || [393, 18554, 10685, 353, 435, 414, 437]
+|-
+| chatheadModels || [115, 131<span style="color: #ee4231">, 127</span>] || [115, 131]
+|-
+| rowspan="2" | [[TzTok-Jad]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/npc_id.html#3127 3127][https://abextm.github.io/cache2/#/viewer/npc/3127 (1)]
+|-
+| models || [9319<span style="color: #ee4231">, 41469</span>] || [9319]
+|-
+| rowspan="2" | [[Bloodveld]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/npc_id.html#3138 3138][https://abextm.github.io/cache2/#/viewer/npc/3138 (1)]
+|-
+| models || [5065<span style="color: #ee4231">, 46916</span>] || [5065]
+|-
+| rowspan="3" | [[Guard]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/npc_id.html#3254 3254][https://abextm.github.io/cache2/#/viewer/npc/3254 (1)]
+|-
+| models || [<span style="color: #ee4231">189</span>, 246, 294, 26632, 176, 28285, 185, 519, 541, 215] || [<span style="color: #6bc71f">233</span>, 246, 294, 26632, 176, 28285, 185, 519, 541, 215]
+|-
+| chatheadModels || [<span style="color: #ee4231">53, 69</span>] || [<span style="color: #6bc71f">66</span>]
+|-
+| rowspan="3" | [[Man]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/npc_id.html#3264 3264][https://abextm.github.io/cache2/#/viewer/npc/3264 (1)]
+|-
+| models || [217, 6087, 299, 26619, 10218, 263, 185, 330, <span style="color: #ee4231">189</span>] || [217, 6087, 299, 26619, 10218, 263, 185, 330, <span style="color: #6bc71f">198</span>]
+|-
+| chatheadModels || [55, 6081, <span style="color: #ee4231">69</span>] || [55, 6081, <span style="color: #6bc71f">40</span>]
+|-
+| rowspan="3" | [[Cecilia]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/npc_id.html#3267 3267][https://abextm.github.io/cache2/#/viewer/npc/3267 (1)]
+|-
+| models || [390, 18554, 3476, 10706, 14397, 358, 437<span style="color: #ee4231">, 366</span>] || [390, 18554, 3476, 10706, 14397, 358, 437]
+|-
+| chatheadModels || [113<span style="color: #ee4231">, 127</span>] || [113]
+|-
+| rowspan="3" | [[Woman]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/npc_id.html#3268 3268][https://abextm.github.io/cache2/#/viewer/npc/3268 (1)]
+|-
+| models || [391, 15939, 487, 10706, 429, 4930, 414, 437<span style="color: #ee4231">, 366</span>] || [391, 15939, 487, 10706, 429, 4930, 414, 437]
+|-
+| chatheadModels || [114, <span style="color: #ee4231">127</span>] || [114, <span style="color: #6bc71f">131</span>]
+|-
+| rowspan="3" | [[Guard]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/npc_id.html#3269 3269][https://abextm.github.io/cache2/#/viewer/npc/3269 (1)]
+|-
+| models || [<span style="color: #ee4231">189</span>, 248, 294, 10374, 176, 28285, 185, 519, 541, 215] || [<span style="color: #6bc71f">233</span>, 248, 294, 10374, 176, 28285, 185, 519, 541, 215]
+|-
+| chatheadModels || [<span style="color: #ee4231">53</span>, 80<span style="color: #ee4231">, 69</span>] || [<span style="color: #6bc71f">66</span>, 80]
+|-
+| rowspan="3" | [[Guard]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/npc_id.html#3270 3270][https://abextm.github.io/cache2/#/viewer/npc/3270 (1)]
+|-
+| models || [<span style="color: #ee4231">189</span>, 249, 294, 10374, 176, 28285, 185, 16846, 215] || [<span style="color: #6bc71f">233</span>, 249, 294, 10374, 176, 28285, 185, 16846, 215]
+|-
+| chatheadModels || [<span style="color: #ee4231">53</span>, 81<span style="color: #ee4231">, 69</span>] || [<span style="color: #6bc71f">66</span>, 81]
+|-
+| rowspan="3" | [[Guard]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/npc_id.html#3271 3271][https://abextm.github.io/cache2/#/viewer/npc/3271 (1)]
+|-
+| models || [<span style="color: #ee4231">189</span>, 247, 294, 10374, 176, 28285, 185, 550, 215, 541] || [<span style="color: #6bc71f">233</span>, 247, 294, 10374, 176, 28285, 185, 550, 215, 541]
+|-
+| chatheadModels || [<span style="color: #ee4231">53</span>, 79<span style="color: #ee4231">, 69</span>] || [<span style="color: #6bc71f">66</span>, 79]
+|-
+| rowspan="3" | [[Guard]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/npc_id.html#3272 3272][https://abextm.github.io/cache2/#/viewer/npc/3272 (1)]
+|-
+| models || [<span style="color: #ee4231">189</span>, 250, 9458, 9450, 176, 28285, 185, 563, 215] || [<span style="color: #6bc71f">233</span>, 250, 9458, 9450, 176, 28285, 185, 563, 215]
+|-
+| chatheadModels || [<span style="color: #ee4231">53</span>, 82<span style="color: #ee4231">, 69</span>] || [<span style="color: #6bc71f">66</span>, 82]
+|-
+| rowspan="3" | [[Guard]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/npc_id.html#3273 3273][https://abextm.github.io/cache2/#/viewer/npc/3273 (1)]
+|-
+| models || [<span style="color: #ee4231">189</span>, 247, 9458, 9450, 176, 28285, 185, 563, 215] || [<span style="color: #6bc71f">233</span>, 247, 9458, 9450, 176, 28285, 185, 563, 215]
+|-
+| chatheadModels || [<span style="color: #ee4231">53</span>, 79<span style="color: #ee4231">, 69</span>] || [<span style="color: #6bc71f">66</span>, 79]
+|-
+| rowspan="3" | [[Guard]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/npc_id.html#3274 3274][https://abextm.github.io/cache2/#/viewer/npc/3274 (1)]
+|-
+| models || [<span style="color: #ee4231">189</span>, 246, 9458, 9450, 176, 28285, 185, 563, 215] || [<span style="color: #6bc71f">233</span>, 246, 9458, 9450, 176, 28285, 185, 563, 215]
+|-
+| chatheadModels || [<span style="color: #ee4231">53</span>, 85<span style="color: #ee4231">, 69</span>] || [<span style="color: #6bc71f">66</span>, 85]
+|-
+| rowspan="2" | [[Stray dog]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/npc_id.html#3829 3829][https://abextm.github.io/cache2/#/viewer/npc/3829 (1)]
+|-
+| models || [18168, 18169, 18167<span style="color: #ee4231">, 41465</span>] || [18168, 18169, 18167]
+|-
+| rowspan="2" | [[Stray dog]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/npc_id.html#3830 3830][https://abextm.github.io/cache2/#/viewer/npc/3830 (1)]
+|-
+| models || [18169, 18168, 18167<span style="color: #ee4231">, 41465</span>] || [18169, 18168, 18167]
+|-
+| rowspan="2" | [[Crocodile]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/npc_id.html#4184 4184][https://abextm.github.io/cache2/#/viewer/npc/4184 (1)]
+|-
+| models || [6454<span style="color: #ee4231">, 50075</span>] || [6454]
+|-
+| rowspan="2" | [[Imp]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/npc_id.html#5007 5007][https://abextm.github.io/cache2/#/viewer/npc/5007 (1)]
+|-
+| models || [19982<span style="color: #ee4231">, 41458</span>] || [19982]
+|-
+| rowspan="3" | [[Romeo]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/npc_id.html#5037 5037][https://abextm.github.io/cache2/#/viewer/npc/5037 (1)]
+|-
+| models || [12137, 10075, 246, 10077, 12086, 10073, 10074, 677, 10076, 185<span style="color: #ee4231">, 189</span>] || [12137, 10075, 246, 10077, 12086, 10073, 10074, 677, 10076, 185]
+|-
+| chatheadModels || [12132<span style="color: #ee4231">, 69</span>] || [12132]
+|-
+| rowspan="2" | [[Giant Mole]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/npc_id.html#5779 5779][https://abextm.github.io/cache2/#/viewer/npc/5779 (1)]
+|-
+| models || [12076, 12075, 12074, 12077<span style="color: #ee4231">, 41450</span>] || [12076, 12075, 12074, 12077]
+|-
+| rowspan="2" | [[Party Pete]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/npc_id.html#5792 5792][https://abextm.github.io/cache2/#/viewer/npc/5792 (1)]
+|-
+| recolorTo || [42093, <span style="color: #ee4231">7863</span>, <span style="color: #ee4231">916</span>] || [42093, <span style="color: #6bc71f">41682</span>, <span style="color: #6bc71f">43162</span>]
+|-
+| rowspan="2" | [[Knight]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/npc_id.html#5793 5793][https://abextm.github.io/cache2/#/viewer/npc/5793 (1)]
+|-
+| recolorTo || [5214, 5206, 5206, 5223, 7269, <span style="color: #ee4231">916</span>] || [5214, 5206, 5206, 5223, 7269, <span style="color: #6bc71f">926</span>]
+|-
+| rowspan="2" | [[Megan]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/npc_id.html#5794 5794][https://abextm.github.io/cache2/#/viewer/npc/5794 (1)]
+|-
+| recolorTo || [<span style="color: #ee4231">7863</span>, <span style="color: #ee4231">916</span>] || [<span style="color: #6bc71f">41682</span>, <span style="color: #6bc71f">43162</span>]
+|-
+| rowspan="2" | [[Lucy]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/npc_id.html#5795 5795][https://abextm.github.io/cache2/#/viewer/npc/5795 (1)]
+|-
+| recolorTo || [<span style="color: #ee4231">7863</span>, <span style="color: #ee4231">916</span>, 2981] || [<span style="color: #6bc71f">41682</span>, <span style="color: #6bc71f">43162</span>, 2981]
+|-
+| rowspan="2" | [[Cerberus]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/npc_id.html#5862 5862][https://abextm.github.io/cache2/#/viewer/npc/5862 (1)]
+|-
+| models || [29270<span style="color: #ee4231">, 41449</span>] || [29270]
+|-
+| rowspan="2" | [[Cerberus]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/npc_id.html#5863 5863][https://abextm.github.io/cache2/#/viewer/npc/5863 (1)]
+|-
+| models || [29270<span style="color: #ee4231">, 41449</span>] || [29270]
+|-
+| rowspan="2" | [[Cerberus]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/npc_id.html#5866 5866][https://abextm.github.io/cache2/#/viewer/npc/5866 (1)]
+|-
+| models || [29270<span style="color: #ee4231">, 41449</span>] || [29270]
+|-
+| rowspan="2" | [[TzRek-Jad]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/npc_id.html#5892 5892][https://abextm.github.io/cache2/#/viewer/npc/5892 (1)]
+|-
+| models || [9319<span style="color: #ee4231">, 41469</span>] || [9319]
+|-
+| rowspan="2" | [[TzRek-Jad]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/npc_id.html#5893 5893][https://abextm.github.io/cache2/#/viewer/npc/5893 (1)]
+|-
+| models || [9319<span style="color: #ee4231">, 41469</span>] || [9319]
+|-
+| rowspan="2" | [[<col=ff9040>Pet rock</col>]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/npc_id.html#5983 5983][https://abextm.github.io/cache2/#/viewer/npc/5983 (1)]
+|-
+| models || [4271<span style="color: #ee4231">, 41452</span>] || [4271]
+|-
+| rowspan="2" | [[Mammoth]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/npc_id.html#6604 6604][https://abextm.github.io/cache2/#/viewer/npc/6604 (1)]
+|-
+| models || [3005<span style="color: #ee4231">, 41463</span>] || [3005]
+|-
+| rowspan="2" | [[Baby Mole]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/npc_id.html#6635 6635][https://abextm.github.io/cache2/#/viewer/npc/6635 (1)]
+|-
+| models || [42012<span style="color: #ee4231">, 41451</span>] || [42012]
+|-
+| rowspan="2" | [[Prince Black Dragon]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/npc_id.html#6636 6636][https://abextm.github.io/cache2/#/viewer/npc/6636 (1)]
+|-
+| models || [17414, 17415, 17429, 17422, 17423<span style="color: #ee4231">, 41464</span>] || [17414, 17415, 17429, 17422, 17423]
+|-
+| rowspan="2" | [[Kraken]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/npc_id.html#6640 6640][https://abextm.github.io/cache2/#/viewer/npc/6640 (1)]
+|-
+| models || [28231<span style="color: #ee4231">, 41466</span>] || [28231]
+|-
+| rowspan="2" | [[Baby Mole]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/npc_id.html#6651 6651][https://abextm.github.io/cache2/#/viewer/npc/6651 (1)]
+|-
+| models || [42012<span style="color: #ee4231">, 41451</span>] || [42012]
+|-
+| rowspan="2" | [[Prince Black Dragon]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/npc_id.html#6652 6652][https://abextm.github.io/cache2/#/viewer/npc/6652 (1)]
+|-
+| models || [17414, 17415, 17429, 17422, 17423<span style="color: #ee4231">, 41464</span>] || [17414, 17415, 17429, 17422, 17423]
+|-
+| rowspan="2" | [[Kraken]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/npc_id.html#6656 6656][https://abextm.github.io/cache2/#/viewer/npc/6656 (1)]
+|-
+| models || [28231<span style="color: #ee4231">, 41466</span>] || [28231]
+|-
+| rowspan="2" | [[Pet rock]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/npc_id.html#6657 6657][https://abextm.github.io/cache2/#/viewer/npc/6657 (1)]
+|-
+| models || [4271<span style="color: #ee4231">, 41452</span>] || [4271]
+|-
+| rowspan="3" | [[Nieve]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/npc_id.html#6797 6797][https://abextm.github.io/cache2/#/viewer/npc/6797 (1)]
+|-
+| models || [392, 27644, 27640, 19951, 3661, 28827, 9644, 27654, 9640, 11048<span style="color: #ee4231">, 366</span>] || [392, 27644, 27640, 19951, 3661, 28827, 9644, 27654, 9640, 11048]
+|-
+| chatheadModels || [10031<span style="color: #ee4231">, 127</span>] || [10031]
+|-
+| rowspan="3" | [[Banker]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/npc_id.html#6859 6859][https://abextm.github.io/cache2/#/viewer/npc/6859 (1)]
+|-
+| models || [230, 248, 29772, 29766, 29699, 29711, 29781<span style="color: #ee4231">, 189</span>] || [230, 248, 29772, 29766, 29699, 29711, 29781]
+|-
+| chatheadModels || [63, 80<span style="color: #ee4231">, 69</span>] || [63, 80]
+|-
+| rowspan="3" | [[Banker]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/npc_id.html#6860 6860][https://abextm.github.io/cache2/#/viewer/npc/6860 (1)]
+|-
+| models || [230, 248, 29775, 29767, 29702, 29709, 29780<span style="color: #ee4231">, 189</span>] || [230, 248, 29775, 29767, 29702, 29709, 29780]
+|-
+| chatheadModels || [63, 80<span style="color: #ee4231">, 69</span>] || [63, 80]
+|-
+| rowspan="3" | [[Banker]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/npc_id.html#6861 6861][https://abextm.github.io/cache2/#/viewer/npc/6861 (1)]
+|-
+| models || [230, 248, 29777, 29738, 29700, 29704, 29779<span style="color: #ee4231">, 189</span>] || [230, 248, 29777, 29738, 29700, 29704, 29779]
+|-
+| chatheadModels || [63, 80<span style="color: #ee4231">, 69</span>] || [63, 80]
+|-
+| rowspan="3" | [[Banker]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/npc_id.html#6862 6862][https://abextm.github.io/cache2/#/viewer/npc/6862 (1)]
+|-
+| models || [408, 29809, 29805, 29791, 29798, 29814, 437<span style="color: #ee4231">, 366</span>] || [408, 29809, 29805, 29791, 29798, 29814, 437]
+|-
+| chatheadModels || [125<span style="color: #ee4231">, 127</span>] || [125]
+|-
+| rowspan="3" | [[Banker]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/npc_id.html#6863 6863][https://abextm.github.io/cache2/#/viewer/npc/6863 (1)]
+|-
+| models || [408, 29808, 29802, 29792, 29799, 29816, 437<span style="color: #ee4231">, 366</span>] || [408, 29808, 29802, 29792, 29799, 29816, 437]
+|-
+| chatheadModels || [125<span style="color: #ee4231">, 127</span>] || [125]
+|-
+| rowspan="3" | [[Banker]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/npc_id.html#6864 6864][https://abextm.github.io/cache2/#/viewer/npc/6864 (1)]
+|-
+| models || [391, 29809, 29805, 29791, 29798, 29814, 437<span style="color: #ee4231">, 366</span>] || [391, 29809, 29805, 29791, 29798, 29814, 437]
+|-
+| chatheadModels || [114<span style="color: #ee4231">, 127</span>] || [114]
+|-
+| rowspan="3" | [[Banker]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/npc_id.html#6939 6939][https://abextm.github.io/cache2/#/viewer/npc/6939 (1)]
+|-
+| models || [235, 246, 28515, 26630, 10218, 28285, 181, 320<span style="color: #ee4231">, 189</span>] || [235, 246, 28515, 26630, 10218, 28285, 181, 320]
+|-
+| chatheadModels || [67<span style="color: #ee4231">, 69</span>] || [67]
+|-
+| rowspan="3" | [[Banker]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/npc_id.html#6940 6940][https://abextm.github.io/cache2/#/viewer/npc/6940 (1)]
+|-
+| models || [12137, 246, 28515, 26630, 10218, 28285, 181, 320<span style="color: #ee4231">, 189</span>] || [12137, 246, 28515, 26630, 10218, 28285, 181, 320]
+|-
+| chatheadModels || [14371<span style="color: #ee4231">, 69</span>] || [14371]
+|-
+| rowspan="3" | [[Banker]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/npc_id.html#6941 6941][https://abextm.github.io/cache2/#/viewer/npc/6941 (1)]
+|-
+| models || [<span style="color: #ee4231">390</span>, 15939, 487, 10706, 14423, 358, 437<span style="color: #ee4231">, 366</span>] || [<span style="color: #6bc71f">378</span>, 15939, 487, 10706, 14423, 358, 437]
+|-
+| chatheadModels || [<span style="color: #ee4231">10031, 127</span>] || [<span style="color: #6bc71f">103</span>]
+|-
+| rowspan="3" | [[Banker]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/npc_id.html#6942 6942][https://abextm.github.io/cache2/#/viewer/npc/6942 (1)]
+|-
+| models || [408, 15939, 487, 10706, 14423, 358, 437<span style="color: #ee4231">, 366</span>] || [408, 15939, 487, 10706, 14423, 358, 437]
+|-
+| chatheadModels || [125<span style="color: #ee4231">, 127</span>] || [125]
+|-
+| rowspan="2" | [[Mutated Bloodveld]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/npc_id.html#7276 7276][https://abextm.github.io/cache2/#/viewer/npc/7276 (1)]
+|-
+| models || [5065<span style="color: #ee4231">, 46916</span>] || [5065]
+|-
+| rowspan="2" | [[Giant Squirrel]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/npc_id.html#7334 7334][https://abextm.github.io/cache2/#/viewer/npc/7334 (1)]
+|-
+| models || [32206<span style="color: #ee4231">, 41446</span>] || [32206]
+|-
+| rowspan="2" | [[Giant Squirrel]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/npc_id.html#7351 7351][https://abextm.github.io/cache2/#/viewer/npc/7351 (1)]
+|-
+| models || [32206<span style="color: #ee4231">, 41446</span>] || [32206]
+|-
+| rowspan="2" | [[Olmlet]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/npc_id.html#7519 7519][https://abextm.github.io/cache2/#/viewer/npc/7519 (1)]
+|-
+| models || [32697<span style="color: #ee4231">, 41460</span>] || [32697]
+|-
+| rowspan="2" | [[Olmlet]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/npc_id.html#7520 7520][https://abextm.github.io/cache2/#/viewer/npc/7520 (1)]
+|-
+| models || [32697<span style="color: #ee4231">, 41460</span>] || [32697]
+|-
+| rowspan="3" | [[Krystilia]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/npc_id.html#7663 7663][https://abextm.github.io/cache2/#/viewer/npc/7663 (1)]
+|-
+| models || [390, <span style="color: #ee4231">50063</span>, 462, 3848, 353, 481, 440, 444, 450, 32970, 437] || [390, <span style="color: #6bc71f">377</span>, 462, 3848, 353, 481, 440, 444, 450, 32970, 437]
+|-
+| chatheadModels || [<span style="color: #ee4231">50079</span>] || [<span style="color: #6bc71f">32971</span>]
+|-
+| rowspan="3" | [[Jal-Nib-Rek]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/npc_id.html#7674 7674][https://abextm.github.io/cache2/#/viewer/npc/7674 (1)]
+|-
+| models || [33005<span style="color: #ee4231">, 43084</span>] || [33005]
+|-
+| chatheadModels || [33136<span style="color: #ee4231">, 50077</span>] || [33136]
+|-
+| rowspan="2" | [[Jal-Nib]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/npc_id.html#7691 7691][https://abextm.github.io/cache2/#/viewer/npc/7691 (1)]
+|-
+| models || [33005<span style="color: #ee4231">, 43084</span>] || [33005]
+|-
+| rowspan="2" | [[TzKal-Zuk]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/npc_id.html#7706 7706][https://abextm.github.io/cache2/#/viewer/npc/7706 (1)]
+|-
+| models || [33011<span style="color: #ee4231">, 41444</span>] || [33011]
+|-
+| rowspan="2" | [[TzRek-Zuk]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/npc_id.html#8009 8009][https://abextm.github.io/cache2/#/viewer/npc/8009 (1)]
+|-
+| models || [34586<span style="color: #ee4231">, 41461</span>] || [34586]
+|-
+| rowspan="2" | [[TzRek-Zuk]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/npc_id.html#8011 8011][https://abextm.github.io/cache2/#/viewer/npc/8011 (1)]
+|-
+| models || [34586<span style="color: #ee4231">, 41461</span>] || [34586]
+|-
+| rowspan="2" | [[Vorki]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/npc_id.html#8025 8025][https://abextm.github.io/cache2/#/viewer/npc/8025 (1)]
+|-
+| models || [35023<span style="color: #ee4231">, 41468</span>] || [35023]
+|-
+| rowspan="2" | [[Vorki]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/npc_id.html#8029 8029][https://abextm.github.io/cache2/#/viewer/npc/8029 (1)]
+|-
+| models || [35023<span style="color: #ee4231">, 41468</span>] || [35023]
+|-
+| rowspan="2" | [[Vorkath]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/npc_id.html#8058 8058][https://abextm.github.io/cache2/#/viewer/npc/8058 (1)]
+|-
+| models || [35023<span style="color: #ee4231">, 41468</span>] || [35023]
+|-
+| rowspan="2" | [[Vorkath]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/npc_id.html#8059 8059][https://abextm.github.io/cache2/#/viewer/npc/8059 (1)]
+|-
+| models || [35023<span style="color: #ee4231">, 41468</span>] || [35023]
+|-
+| rowspan="2" | [[Vorkath]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/npc_id.html#8060 8060][https://abextm.github.io/cache2/#/viewer/npc/8060 (1)]
+|-
+| models || [35023<span style="color: #ee4231">, 41468</span>] || [35023]
+|-
+| rowspan="2" | [[Vorkath]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/npc_id.html#8061 8061][https://abextm.github.io/cache2/#/viewer/npc/8061 (1)]
+|-
+| models || [35023<span style="color: #ee4231">, 41468</span>] || [35023]
+|-
+| rowspan="2" | [[Pestilent Bloat]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/npc_id.html#8359 8359][https://abextm.github.io/cache2/#/viewer/npc/8359 (1)]
+|-
+| models || [35404<span style="color: #ee4231">, 50070</span>] || [35404]
+|-
+| rowspan="2" | [[Squirrel]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/npc_id.html#8422 8422][https://abextm.github.io/cache2/#/viewer/npc/8422 (1)]
+|-
+| models || [11723<span style="color: #ee4231">, 41462</span>] || [11723]
+|-
+| rowspan="2" | [[Maz]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/npc_id.html#9298 9298][https://abextm.github.io/cache2/#/viewer/npc/9298 (1)]
+|-
+| models || [11723<span style="color: #ee4231">, 41462</span>] || [11723]
+|-
+| rowspan="2" | [[Little Nightmare]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/npc_id.html#9398 9398][https://abextm.github.io/cache2/#/viewer/npc/9398 (1)]
+|-
+| models || [39196<span style="color: #ee4231">, 41454</span>] || [39196]
+|-
+| rowspan="2" | [[Little Nightmare]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/npc_id.html#9399 9399][https://abextm.github.io/cache2/#/viewer/npc/9399 (1)]
+|-
+| models || [39196<span style="color: #ee4231">, 41454</span>] || [39196]
+|-
+| rowspan="2" | [[Phosani's Nightmare]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/npc_id.html#9416 9416][https://abextm.github.io/cache2/#/viewer/npc/9416 (1)]
+|-
+| models || [39182<span style="color: #ee4231">, 41454</span>] || [39182]
+|-
+| rowspan="2" | [[Phosani's Nightmare]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/npc_id.html#9417 9417][https://abextm.github.io/cache2/#/viewer/npc/9417 (1)]
+|-
+| models || [42590<span style="color: #ee4231">, 41454</span>] || [42590]
+|-
+| rowspan="2" | [[Phosani's Nightmare]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/npc_id.html#9418 9418][https://abextm.github.io/cache2/#/viewer/npc/9418 (1)]
+|-
+| models || [42592<span style="color: #ee4231">, 41454</span>] || [42592]
+|-
+| rowspan="2" | [[Phosani's Nightmare]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/npc_id.html#9419 9419][https://abextm.github.io/cache2/#/viewer/npc/9419 (1)]
+|-
+| models || [39196<span style="color: #ee4231">, 41454</span>] || [39196]
+|-
+| rowspan="2" | [[Phosani's Nightmare]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/npc_id.html#9420 9420][https://abextm.github.io/cache2/#/viewer/npc/9420 (1)]
+|-
+| models || [42591<span style="color: #ee4231">, 41454</span>] || [42591]
+|-
+| rowspan="2" | [[Phosani's Nightmare]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/npc_id.html#9421 9421][https://abextm.github.io/cache2/#/viewer/npc/9421 (1)]
+|-
+| models || [42587<span style="color: #ee4231">, 41454</span>] || [42587]
+|-
+| rowspan="2" | [[Phosani's Nightmare]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/npc_id.html#9422 9422][https://abextm.github.io/cache2/#/viewer/npc/9422 (1)]
+|-
+| models || [39208<span style="color: #ee4231">, 41454</span>] || [39208]
+|-
+| rowspan="2" | [[Phosani's Nightmare]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/npc_id.html#9423 9423][https://abextm.github.io/cache2/#/viewer/npc/9423 (1)]
+|-
+| models || [39196<span style="color: #ee4231">, 41454</span>] || [39196]
+|-
+| rowspan="2" | [[Phosani's Nightmare]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/npc_id.html#9424 9424][https://abextm.github.io/cache2/#/viewer/npc/9424 (1)]
+|-
+| models || [39196<span style="color: #ee4231">, 41454</span>] || [39196]
+|-
+| rowspan="2" | [[The Nightmare]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/npc_id.html#9425 9425][https://abextm.github.io/cache2/#/viewer/npc/9425 (1)]
+|-
+| models || [39182<span style="color: #ee4231">, 41454</span>] || [39182]
+|-
+| rowspan="2" | [[The Nightmare]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/npc_id.html#9426 9426][https://abextm.github.io/cache2/#/viewer/npc/9426 (1)]
+|-
+| models || [39186<span style="color: #ee4231">, 41454</span>] || [39186]
+|-
+| rowspan="2" | [[The Nightmare]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/npc_id.html#9427 9427][https://abextm.github.io/cache2/#/viewer/npc/9427 (1)]
+|-
+| models || [39188<span style="color: #ee4231">, 41454</span>] || [39188]
+|-
+| rowspan="2" | [[The Nightmare]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/npc_id.html#9428 9428][https://abextm.github.io/cache2/#/viewer/npc/9428 (1)]
+|-
+| models || [39196<span style="color: #ee4231">, 41454</span>] || [39196]
+|-
+| rowspan="2" | [[The Nightmare]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/npc_id.html#9429 9429][https://abextm.github.io/cache2/#/viewer/npc/9429 (1)]
+|-
+| models || [39185<span style="color: #ee4231">, 41454</span>] || [39185]
+|-
+| rowspan="2" | [[The Nightmare]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/npc_id.html#9430 9430][https://abextm.github.io/cache2/#/viewer/npc/9430 (1)]
+|-
+| models || [39195<span style="color: #ee4231">, 41454</span>] || [39195]
+|-
+| rowspan="2" | [[The Nightmare]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/npc_id.html#9431 9431][https://abextm.github.io/cache2/#/viewer/npc/9431 (1)]
+|-
+| models || [39208<span style="color: #ee4231">, 41454</span>] || [39208]
+|-
+| rowspan="2" | [[The Nightmare]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/npc_id.html#9432 9432][https://abextm.github.io/cache2/#/viewer/npc/9432 (1)]
+|-
+| models || [39196<span style="color: #ee4231">, 41454</span>] || [39196]
+|-
+| rowspan="2" | [[The Nightmare]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/npc_id.html#9433 9433][https://abextm.github.io/cache2/#/viewer/npc/9433 (1)]
+|-
+| models || [39196<span style="color: #ee4231">, 41454</span>] || [39196]
+|-
+| rowspan="2" | [[The Nightmare]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/npc_id.html#9460 9460][https://abextm.github.io/cache2/#/viewer/npc/9460 (1)]
+|-
+| models || [39184<span style="color: #ee4231">, 41454</span>] || [39184]
+|-
+| rowspan="2" | [[The Nightmare]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/npc_id.html#9461 9461][https://abextm.github.io/cache2/#/viewer/npc/9461 (1)]
+|-
+| models || [39190<span style="color: #ee4231">, 41454</span>] || [39190]
+|-
+| rowspan="2" | [[The Nightmare]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/npc_id.html#9462 9462][https://abextm.github.io/cache2/#/viewer/npc/9462 (1)]
+|-
+| models || [39187<span style="color: #ee4231">, 41454</span>] || [39187]
+|-
+| rowspan="2" | [[The Nightmare]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/npc_id.html#9463 9463][https://abextm.github.io/cache2/#/viewer/npc/9463 (1)]
+|-
+| models || [39192<span style="color: #ee4231">, 41454</span>] || [39192]
+|-
+| rowspan="2" | [[The Nightmare]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/npc_id.html#9464 9464][https://abextm.github.io/cache2/#/viewer/npc/9464 (1)]
+|-
+| models || [39191<span style="color: #ee4231">, 41454</span>] || [39191]
+|-
+| rowspan="2" | [[Acidic Bloodveld]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/npc_id.html#9573 9573][https://abextm.github.io/cache2/#/viewer/npc/9573 (1)]
+|-
+| models || [5065<span style="color: #ee4231">, 46916</span>] || [5065]
+|-
+| rowspan="2" | [[Mutated Bloodveld]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/npc_id.html#9610 9610][https://abextm.github.io/cache2/#/viewer/npc/9610 (1)]
+|-
+| models || [5065<span style="color: #ee4231">, 46916</span>] || [5065]
+|-
+| rowspan="2" | [[Mutated Bloodveld]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/npc_id.html#9611 9611][https://abextm.github.io/cache2/#/viewer/npc/9611 (1)]
+|-
+| models || [5065<span style="color: #ee4231">, 46916</span>] || [5065]
+|-
+| rowspan="2" | [[Dark Squirrel]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/npc_id.html#9637 9637][https://abextm.github.io/cache2/#/viewer/npc/9637 (1)]
+|-
+| models || [32206<span style="color: #ee4231">, 41446</span>] || [32206]
+|-
+| rowspan="2" | [[Dark Squirrel]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/npc_id.html#9638 9638][https://abextm.github.io/cache2/#/viewer/npc/9638 (1)]
+|-
+| models || [32206<span style="color: #ee4231">, 41446</span>] || [32206]
+|-
+| rowspan="2" | [[Giant Squirrel]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/npc_id.html#9666 9666][https://abextm.github.io/cache2/#/viewer/npc/9666 (1)]
+|-
+| models || [32206<span style="color: #ee4231">, 41446</span>] || [32206]
+|-
+| rowspan="4" | [[Frank]]
+| rowspan="4" | [https://chisel.weirdgloop.org/moid/npc_id.html#9749 9749][https://abextm.github.io/cache2/#/viewer/npc/9749 (1)]
+|-
+| models || [5065<span style="color: #ee4231">, 41445</span>] || [5065]
+|-
+| recolorFrom || [553, 1455, 561, 2332, 3379<span style="color: #ee4231">, 933</span>] || [553, 1455, 561, 2332, 3379]
+|-
+| recolorTo || [16937, 18861, 13857, 11160, 13619<span style="color: #ee4231">, 12</span>] || [16937, 18861, 13857, 11160, 13619]
+|-
+| rowspan="2" | [[Baby Mole-rat]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/npc_id.html#10650 10650][https://abextm.github.io/cache2/#/viewer/npc/10650 (1)]
+|-
+| models || [42012<span style="color: #ee4231">, 41451</span>] || [42012]
+|-
+| rowspan="2" | [[Baby Mole-rat]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/npc_id.html#10651 10651][https://abextm.github.io/cache2/#/viewer/npc/10651 (1)]
+|-
+| models || [42012<span style="color: #ee4231">, 41451</span>] || [42012]
+|-
+| rowspan="2" | [[Stray dog]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/npc_id.html#10675 10675][https://abextm.github.io/cache2/#/viewer/npc/10675 (1)]
+|-
+| models || [18168, 18170, 18167<span style="color: #ee4231">, 41465</span>] || [18168, 18170, 18167]
+|-
+| rowspan="3" | [[Baraek]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/npc_id.html#10683 10683][https://abextm.github.io/cache2/#/viewer/npc/10683 (1)]
+|-
+| models || [230, 244, 248, 299, 25866, 25680, 177, 28285, 19947<span style="color: #ee4231">, 189</span>] || [230, 244, 248, 299, 25866, 25680, 177, 28285, 19947]
+|-
+| chatheadModels || [63, 77, 80<span style="color: #ee4231">, 69</span>] || [63, 77, 80]
+|-
+| rowspan="3" | [[Banker]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/npc_id.html#10734 10734][https://abextm.github.io/cache2/#/viewer/npc/10734 (1)]
+|-
+| models || [28321, 28332, 28515, 26630, 176, 28285, 181, 320<span style="color: #ee4231">, 189</span>] || [28321, 28332, 28515, 26630, 176, 28285, 181, 320]
+|-
+| chatheadModels || [<span style="color: #ee4231">67</span>, 28399<span style="color: #ee4231">, 69</span>] || [<span style="color: #6bc71f">28383</span>, 28399]
+|-
+| rowspan="3" | [[Banker]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/npc_id.html#10735 10735][https://abextm.github.io/cache2/#/viewer/npc/10735 (1)]
+|-
+| models || [399, 15939, 487, 353, 14423, 358, 437<span style="color: #ee4231">, 366</span>] || [399, 15939, 487, 353, 14423, 358, 437]
+|-
+| chatheadModels || [118<span style="color: #ee4231">, 127</span>] || [118]
+|-
+| rowspan="3" | [[Banker]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/npc_id.html#10736 10736][https://abextm.github.io/cache2/#/viewer/npc/10736 (1)]
+|-
+| models || [235, 246, 28515, 26630, 176, 28285, 181, 320<span style="color: #ee4231">, 189</span>] || [235, 246, 28515, 26630, 176, 28285, 181, 320]
+|-
+| chatheadModels || [67<span style="color: #ee4231">, 69</span>] || [67]
+|-
+| rowspan="3" | [[Banker]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/npc_id.html#10737 10737][https://abextm.github.io/cache2/#/viewer/npc/10737 (1)]
+|-
+| models || [28356, 15939, 487, 353, 14423, 358, 437<span style="color: #ee4231">, 366</span>] || [28356, 15939, 487, 353, 14423, 358, 437]
+|-
+| chatheadModels || [28419<span style="color: #ee4231">, 127</span>] || [28419]
+|-
+| rowspan="3" | [[Raqueel]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/npc_id.html#10739 10739][https://abextm.github.io/cache2/#/viewer/npc/10739 (1)]
+|-
+| models || [399, 467, 3848, 353, 14423, 358, 437<span style="color: #ee4231">, 366</span>] || [399, 467, 3848, 353, 14423, 358, 437]
+|-
+| chatheadModels || [118<span style="color: #ee4231">, 127</span>] || [118]
+|-
+| rowspan="3" | [[Raqueel]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/npc_id.html#10740 10740][https://abextm.github.io/cache2/#/viewer/npc/10740 (1)]
+|-
+| models || [399, 467, 3848, 353, 14423, 358, 437<span style="color: #ee4231">, 366</span>] || [399, 467, 3848, 353, 14423, 358, 437]
+|-
+| chatheadModels || [118<span style="color: #ee4231">, 127</span>] || [118]
+|-
+| rowspan="3" | [[Raqueel]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/npc_id.html#10741 10741][https://abextm.github.io/cache2/#/viewer/npc/10741 (1)]
+|-
+| models || [399, 467, 3848, 353, 14423, 358, 437<span style="color: #ee4231">, 366</span>] || [399, 467, 3848, 353, 14423, 358, 437]
+|-
+| chatheadModels || [118<span style="color: #ee4231">, 127</span>] || [118]
+|-
+| rowspan="3" | [[Raqueel]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/npc_id.html#10742 10742][https://abextm.github.io/cache2/#/viewer/npc/10742 (1)]
+|-
+| models || [399, 467, 3848, 353, 14423, 358, 437<span style="color: #ee4231">, 366</span>] || [399, 467, 3848, 353, 14423, 358, 437]
+|-
+| chatheadModels || [118<span style="color: #ee4231">, 127</span>] || [118]
+|-
+| rowspan="3" | [[Raqueel]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/npc_id.html#10743 10743][https://abextm.github.io/cache2/#/viewer/npc/10743 (1)]
+|-
+| models || [399, 467, 3848, 353, 14423, 358, 437<span style="color: #ee4231">, 366</span>] || [399, 467, 3848, 353, 14423, 358, 437]
+|-
+| chatheadModels || [118<span style="color: #ee4231">, 127</span>] || [118]
+|-
+| rowspan="3" | [[Raqueel]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/npc_id.html#10744 10744][https://abextm.github.io/cache2/#/viewer/npc/10744 (1)]
+|-
+| models || [399, 467, 3848, 353, 14423, 358, 437<span style="color: #ee4231">, 366</span>] || [399, 467, 3848, 353, 14423, 358, 437]
+|-
+| chatheadModels || [118<span style="color: #ee4231">, 127</span>] || [118]
+|-
+| rowspan="3" | [[Raqueel]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/npc_id.html#10745 10745][https://abextm.github.io/cache2/#/viewer/npc/10745 (1)]
+|-
+| models || [399, 467, 3848, 353, 14423, 358, 437<span style="color: #ee4231">, 366</span>] || [399, 467, 3848, 353, 14423, 358, 437]
+|-
+| chatheadModels || [118<span style="color: #ee4231">, 127</span>] || [118]
+|-
+| rowspan="3" | [[Raqueel]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/npc_id.html#10746 10746][https://abextm.github.io/cache2/#/viewer/npc/10746 (1)]
+|-
+| models || [399, 467, 3848, 353, 14423, 358, 437<span style="color: #ee4231">, 366</span>] || [399, 467, 3848, 353, 14423, 358, 437]
+|-
+| chatheadModels || [118<span style="color: #ee4231">, 127</span>] || [118]
+|-
+| rowspan="3" | [[Gem]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/npc_id.html#10748 10748][https://abextm.github.io/cache2/#/viewer/npc/10748 (1)]
+|-
+| models || [28356, 467, 3848, 353, 14423, 358, 437<span style="color: #ee4231">, 366</span>] || [28356, 467, 3848, 353, 14423, 358, 437]
+|-
+| chatheadModels || [28403<span style="color: #ee4231">, 127</span>] || [28403]
+|-
+| rowspan="3" | [[Gem]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/npc_id.html#10749 10749][https://abextm.github.io/cache2/#/viewer/npc/10749 (1)]
+|-
+| models || [28356, 467, 3848, 353, 14423, 358, 437<span style="color: #ee4231">, 366</span>] || [28356, 467, 3848, 353, 14423, 358, 437]
+|-
+| chatheadModels || [28403<span style="color: #ee4231">, 127</span>] || [28403]
+|-
+| rowspan="3" | [[Gem]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/npc_id.html#10750 10750][https://abextm.github.io/cache2/#/viewer/npc/10750 (1)]
+|-
+| models || [28356, 467, 3848, 353, 14423, 358, 437<span style="color: #ee4231">, 366</span>] || [28356, 467, 3848, 353, 14423, 358, 437]
+|-
+| chatheadModels || [28403<span style="color: #ee4231">, 69</span>] || [28403]
+|-
+| rowspan="3" | [[Gem]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/npc_id.html#10751 10751][https://abextm.github.io/cache2/#/viewer/npc/10751 (1)]
+|-
+| models || [28356, 467, 3848, 353, 14423, 358, 437<span style="color: #ee4231">, 366</span>] || [28356, 467, 3848, 353, 14423, 358, 437]
+|-
+| chatheadModels || [28403<span style="color: #ee4231">, 127</span>] || [28403]
+|-
+| rowspan="3" | [[Gem]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/npc_id.html#10752 10752][https://abextm.github.io/cache2/#/viewer/npc/10752 (1)]
+|-
+| models || [28356, 467, 3848, 353, 14423, 358, 437<span style="color: #ee4231">, 366</span>] || [28356, 467, 3848, 353, 14423, 358, 437]
+|-
+| chatheadModels || [28403<span style="color: #ee4231">, 127</span>] || [28403]
+|-
+| rowspan="3" | [[Gem]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/npc_id.html#10753 10753][https://abextm.github.io/cache2/#/viewer/npc/10753 (1)]
+|-
+| models || [28356, 467, 3848, 353, 14423, 358, 437<span style="color: #ee4231">, 366</span>] || [28356, 467, 3848, 353, 14423, 358, 437]
+|-
+| chatheadModels || [28403<span style="color: #ee4231">, 127</span>] || [28403]
+|-
+| rowspan="3" | [[Gem]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/npc_id.html#10754 10754][https://abextm.github.io/cache2/#/viewer/npc/10754 (1)]
+|-
+| models || [28356, 467, 3848, 353, 14423, 358, 437<span style="color: #ee4231">, 366</span>] || [28356, 467, 3848, 353, 14423, 358, 437]
+|-
+| chatheadModels || [28403<span style="color: #ee4231">, 127</span>] || [28403]
+|-
+| rowspan="3" | [[Gem]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/npc_id.html#10755 10755][https://abextm.github.io/cache2/#/viewer/npc/10755 (1)]
+|-
+| models || [28356, 467, 3848, 353, 14423, 358, 437<span style="color: #ee4231">, 366</span>] || [28356, 467, 3848, 353, 14423, 358, 437]
+|-
+| chatheadModels || [28403<span style="color: #ee4231">, 127</span>] || [28403]
+|-
+| rowspan="2" | [[Stray dog]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/npc_id.html#10760 10760][https://abextm.github.io/cache2/#/viewer/npc/10760 (1)]
+|-
+| models || [18168, 18169<span style="color: #ee4231">, 41465</span>] || [18168, 18169]
+|-
+| rowspan="2" | [[Pestilent Bloat]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/npc_id.html#10812 10812][https://abextm.github.io/cache2/#/viewer/npc/10812 (1)]
+|-
+| models || [35404<span style="color: #ee4231">, 50070</span>] || [35404]
+|-
+| rowspan="2" | [[Pestilent Bloat]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/npc_id.html#10813 10813][https://abextm.github.io/cache2/#/viewer/npc/10813 (1)]
+|-
+| models || [35404<span style="color: #ee4231">, 50070</span>] || [35404]
+|-
+| rowspan="2" | [[Phosani's Nightmare]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/npc_id.html#11153 11153][https://abextm.github.io/cache2/#/viewer/npc/11153 (1)]
+|-
+| models || [42590<span style="color: #ee4231">, 41454</span>] || [42590]
+|-
+| rowspan="2" | [[Phosani's Nightmare]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/npc_id.html#11154 11154][https://abextm.github.io/cache2/#/viewer/npc/11154 (1)]
+|-
+| models || [39182<span style="color: #ee4231">, 41454</span>] || [39182]
+|-
+| rowspan="2" | [[Pestilent Bloat]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/npc_id.html#11184 11184][https://abextm.github.io/cache2/#/viewer/npc/11184 (1)]
+|-
+| models || [35404<span style="color: #ee4231">, 50070</span>] || [35404]
+|-
+| rowspan="2" | [[Crocodile]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/npc_id.html#11513 11513][https://abextm.github.io/cache2/#/viewer/npc/11513 (1)]
+|-
+| models || [6454<span style="color: #ee4231">, 50075</span>] || [6454]
+|-
+| rowspan="2" | [[Roger]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/npc_id.html#11514 11514][https://abextm.github.io/cache2/#/viewer/npc/11514 (1)]
+|-
+| models || [6454<span style="color: #ee4231">, 50075</span>] || [6454]
+|-
+| rowspan="2" | [[Crocodile]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/npc_id.html#11581 11581][https://abextm.github.io/cache2/#/viewer/npc/11581 (1)]
+|-
+| models || [6454<span style="color: #ee4231">, 50075</span>] || [6454]
+|-
+| rowspan="2" | [[Crocodile]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/npc_id.html#11582 11582][https://abextm.github.io/cache2/#/viewer/npc/11582 (1)]
+|-
+| models || [6454<span style="color: #ee4231">, 50075</span>] || [6454]
+|-
+| rowspan="3" | [[Guard]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/npc_id.html#11922 11922][https://abextm.github.io/cache2/#/viewer/npc/11922 (1)]
+|-
+| models || [<span style="color: #ee4231">189</span>, 246, 294, 26632, 176, 28285, 185, 519, 541, 215] || [<span style="color: #6bc71f">233</span>, 246, 294, 26632, 176, 28285, 185, 519, 541, 215]
+|-
+| chatheadModels || [<span style="color: #ee4231">53</span>] || [<span style="color: #6bc71f">66</span>]
+|-
+| rowspan="3" | [[Guard]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/npc_id.html#11923 11923][https://abextm.github.io/cache2/#/viewer/npc/11923 (1)]
+|-
+| models || [<span style="color: #ee4231">390</span>, 23179, 46956, 3476, 353, 14423, 361, 23178, 437<span style="color: #ee4231">, 366</span>] || [<span style="color: #6bc71f">407</span>, 23179, 46956, 3476, 353, 14423, 361, 23178, 437]
+|-
+| chatheadModels || [<span style="color: #ee4231">10031, 127</span>] || [<span style="color: #6bc71f">124</span>]
+|-
+| rowspan="3" | [[Guard]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/npc_id.html#11924 11924][https://abextm.github.io/cache2/#/viewer/npc/11924 (1)]
+|-
+| models || [<span style="color: #ee4231">390</span>, 23179, 46956, 3476, 353, 14423, 361, 23178, 437<span style="color: #ee4231">, 366</span>] || [<span style="color: #6bc71f">407</span>, 23179, 46956, 3476, 353, 14423, 361, 23178, 437]
+|-
+| chatheadModels || [<span style="color: #ee4231">10031, 127</span>] || [<span style="color: #6bc71f">124</span>]
+|-
+| rowspan="3" | [[Guard]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/npc_id.html#11942 11942][https://abextm.github.io/cache2/#/viewer/npc/11942 (1)]
+|-
+| models || [<span style="color: #ee4231">189</span>, 246, 294, 10374, 176, 28285, 185, 519, 541, 215] || [<span style="color: #6bc71f">233</span>, 246, 294, 10374, 176, 28285, 185, 519, 541, 215]
+|-
+| chatheadModels || [<span style="color: #ee4231">53, 69</span>] || [<span style="color: #6bc71f">66</span>]
+|-
+| rowspan="3" | [[Guard]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/npc_id.html#11943 11943][https://abextm.github.io/cache2/#/viewer/npc/11943 (1)]
+|-
+| models || [<span style="color: #ee4231">390</span>, 23179, 46956, 46769, 353, 14423, 361, 23178, 437<span style="color: #ee4231">, 366</span>] || [<span style="color: #6bc71f">407</span>, 23179, 46956, 46769, 353, 14423, 361, 23178, 437]
+|-
+| chatheadModels || [<span style="color: #ee4231">10031, 127</span>] || [<span style="color: #6bc71f">124</span>]
+|-
+| rowspan="3" | [[Guard]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/npc_id.html#11944 11944][https://abextm.github.io/cache2/#/viewer/npc/11944 (1)]
+|-
+| models || [<span style="color: #ee4231">189</span>, 247, 294, 10374, 176, 28285, 185, 519, 541, 215] || [<span style="color: #6bc71f">233</span>, 247, 294, 10374, 176, 28285, 185, 519, 541, 215]
+|-
+| chatheadModels || [<span style="color: #ee4231">53</span>, 79<span style="color: #ee4231">, 69</span>] || [<span style="color: #6bc71f">66</span>, 79]
+|-
+| rowspan="3" | [[Guard]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/npc_id.html#11945 11945][https://abextm.github.io/cache2/#/viewer/npc/11945 (1)]
+|-
+| models || [<span style="color: #ee4231">390</span>, 42622, 46956, 46769, 353, 14423, 361, 437<span style="color: #ee4231">, 366</span>] || [<span style="color: #6bc71f">407</span>, 42622, 46956, 46769, 353, 14423, 361, 437]
+|-
+| chatheadModels || [<span style="color: #ee4231">10031, 127</span>] || [<span style="color: #6bc71f">124</span>]
+|-
+| rowspan="3" | [[Guard]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/npc_id.html#11946 11946][https://abextm.github.io/cache2/#/viewer/npc/11946 (1)]
+|-
+| models || [<span style="color: #ee4231">390</span>, 46956, 46769, 353, 14423, 361, 437, 23179<span style="color: #ee4231">, 366</span>] || [<span style="color: #6bc71f">407</span>, 46956, 46769, 353, 14423, 361, 437, 23179]
+|-
+| chatheadModels || [<span style="color: #ee4231">10031, 127</span>] || [<span style="color: #6bc71f">124</span>]
+|-
+| rowspan="3" | [[Guard]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/npc_id.html#11947 11947][https://abextm.github.io/cache2/#/viewer/npc/11947 (1)]
+|-
+| models || [<span style="color: #ee4231">390</span>, 23177, 46765, 46770, 353, 14423, 361, 437<span style="color: #ee4231">, 366</span>] || [<span style="color: #6bc71f">407</span>, 23177, 46765, 46770, 353, 14423, 361, 437]
+|-
+| chatheadModels || [<span style="color: #ee4231">10031, 127</span>] || [<span style="color: #6bc71f">124</span>]
+|-
+| rowspan="2" | [[Vorkath]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/npc_id.html#11959 11959][https://abextm.github.io/cache2/#/viewer/npc/11959 (1)]
+|-
+| models || [35023<span style="color: #ee4231">, 41468</span>] || [35023]
+|-
+| rowspan="3" | [[Baron]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/npc_id.html#12155 12155][https://abextm.github.io/cache2/#/viewer/npc/12155 (1)]
+|-
+| models || [49195<span style="color: #ee4231">, 50071</span>] || [49195]
+|-
+| chatheadModels || [49382<span style="color: #ee4231">, 50078</span>] || [49382]
+|-
+| rowspan="2" | [[Scarred imp]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/npc_id.html#12377 12377][https://abextm.github.io/cache2/#/viewer/npc/12377 (1)]
+|-
+| models || [49217<span style="color: #ee4231">, 41458</span>] || [49217]
+|-
+| rowspan="2" | [[Bone Squirrel]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/npc_id.html#14032 14032][https://abextm.github.io/cache2/#/viewer/npc/14032 (1)]
+|-
+| models || [54969<span style="color: #ee4231">, 41446</span>] || [54969]
+|-
+| rowspan="2" | [[Bone Squirrel]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/npc_id.html#14044 14044][https://abextm.github.io/cache2/#/viewer/npc/14044 (1)]
+|-
+| models || [54969<span style="color: #ee4231">, 41446</span>] || [54969]
+|-
+| rowspan="2" | [[Black dragon]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/npc_id.html#14146 14146][https://abextm.github.io/cache2/#/viewer/npc/14146 (1)]
+|-
+| models || [55553<span style="color: #ee4231">, 41464</span>] || [55553]
+|-
+| rowspan="6" | [[Sadie]]
+| rowspan="6" | [https://chisel.weirdgloop.org/moid/npc_id.html#14163 14163][https://abextm.github.io/cache2/#/viewer/npc/14163 (1)]
+|-
+| models ||  || <span style="color: #6bc71f">[55846]</span>
+|-
+| name || <span style="color: #ee4231">null</span> || <span style="color: #6bc71f">Sadie</span>
+|-
+| actions || [<span style="color: #ee4231">None</span>, None, None, None, None] || [<span style="color: #6bc71f">Pet</span>, None, None, None, None]
+|-
+| varbit || <span style="color: #ee4231">6275</span> || <span style="color: #6bc71f">-1</span>
+|-
+| multiChildren || <span style="color: #ee4231">[-1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 14162, -1, -1, -1, -1, 14162, -1, -1, -1, -1, 14162]</span> || 
+|-
+| rowspan="6" | [[Sir Burrus]]
+| rowspan="6" | [https://chisel.weirdgloop.org/moid/npc_id.html#14165 14165][https://abextm.github.io/cache2/#/viewer/npc/14165 (1)]
+|-
+| models ||  || <span style="color: #6bc71f">[55847]</span>
+|-
+| name || <span style="color: #ee4231">null</span> || <span style="color: #6bc71f">Sir Burrus</span>
+|-
+| actions || [<span style="color: #ee4231">None</span>, None, None, None, None] || [<span style="color: #6bc71f">Pet</span>, None, None, None, None]
+|-
+| varbit || <span style="color: #ee4231">6275</span> || <span style="color: #6bc71f">-1</span>
+|-
+| multiChildren || <span style="color: #ee4231">[-1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 14164, -1, -1, -1, -1, 14164, -1, -1, -1, -1, 14164]</span> || 
+|-
+| rowspan="6" | [[Archibald (dog)]]
+| rowspan="6" | [https://chisel.weirdgloop.org/moid/npc_id.html#14167 14167][https://abextm.github.io/cache2/#/viewer/npc/14167 (1)]
+|-
+| models ||  || <span style="color: #6bc71f">[55852]</span>
+|-
+| name || <span style="color: #ee4231">null</span> || <span style="color: #6bc71f">Archibald</span>
+|-
+| actions || [<span style="color: #ee4231">None</span>, None, None, None, None] || [<span style="color: #6bc71f">Pet</span>, None, None, None, None]
+|-
+| varbit || <span style="color: #ee4231">6275</span> || <span style="color: #6bc71f">-1</span>
+|-
+| multiChildren || <span style="color: #ee4231">[-1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 14166, -1, -1, -1, -1, 14166, -1, -1, -1, -1, 14166]</span> || 
+|-
+| rowspan="6" | [[Duke (dog)]]
+| rowspan="6" | [https://chisel.weirdgloop.org/moid/npc_id.html#14169 14169][https://abextm.github.io/cache2/#/viewer/npc/14169 (1)]
+|-
+| models ||  || <span style="color: #6bc71f">[18168, 18170, 18167]</span>
+|-
+| name || <span style="color: #ee4231">null</span> || <span style="color: #6bc71f">Duke</span>
+|-
+| actions || [<span style="color: #ee4231">None</span>, None, None, None, None] || [<span style="color: #6bc71f">Pet</span>, None, None, None, None]
+|-
+| varbit || <span style="color: #ee4231">6275</span> || <span style="color: #6bc71f">-1</span>
+|-
+| multiChildren || <span style="color: #ee4231">[-1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 14168, -1, -1, -1, -1, 14168, -1, -1, -1, -1, 14168]</span> || 
+|-
+| rowspan="6" | [[Kimba]]
+| rowspan="6" | [https://chisel.weirdgloop.org/moid/npc_id.html#14171 14171][https://abextm.github.io/cache2/#/viewer/npc/14171 (1)]
+|-
+| models ||  || <span style="color: #6bc71f">[55826]</span>
+|-
+| name || <span style="color: #ee4231">null</span> || <span style="color: #6bc71f">Kimba</span>
+|-
+| actions || [<span style="color: #ee4231">None</span>, None, None, None, None] || [<span style="color: #6bc71f">Pet</span>, None, None, None, None]
+|-
+| varbit || <span style="color: #ee4231">6275</span> || <span style="color: #6bc71f">-1</span>
+|-
+| multiChildren || <span style="color: #ee4231">[-1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 14170, -1, -1, -1, -1, 14170, -1, -1, -1, -1, 14170]</span> || 
+|}
+==Items==
+===New Items===
+{| class="wikitable sortable"
+|-
+! colspan="11" | New Items
+|-
+! style="width: 15em" | name !! id !! examine !! isMembers !! isGrandExchangable !! isStackable !! noteLinkedItem !! inventoryActions !! placeholderLinkedItem !! price !! weight
+|}
+===Removed Items===
+{| class="wikitable sortable"
+|-
+! colspan="11" | Removed Items
+|-
+! style="width: 15em" | name !! id !! examine !! isMembers !! isGrandExchangable !! isStackable !! noteLinkedItem !! inventoryActions !! placeholderLinkedItem !! price !! weight
+|}
+===Diff Items===
+{| class="wikitable sortable sticky-header"
+|-
+! colspan="5" | Diff Items
+|-
+! style="width: 15em" | Name !! Id !! Key !! Previous Value !! New Value
+|-
+| rowspan="2" | [[Cat ears]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#24525 24525][https://abextm.github.io/cache2/#/viewer/item/24525 (1)]
+|-
+| params || {'451': 'Chase'} || {'<span style="color: #6bc71f">295': 1, '</span>451': 'Chase'}
+|-
+| rowspan="2" | [[Hell cat ears]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#24527 24527][https://abextm.github.io/cache2/#/viewer/item/24527 (1)]
+|-
+| params ||  || <span style="color: #6bc71f">{'295': 1}</span>
+|-
+| rowspan="2" | [[Magic egg ball]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#24535 24535][https://abextm.github.io/cache2/#/viewer/item/24535 (1)]
+|-
+| params ||  || <span style="color: #6bc71f">{'295': 1}</span>
+|-
+| rowspan="2" | [[Carrot sword]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#24537 24537][https://abextm.github.io/cache2/#/viewer/item/24537 (1)]
+|-
+| params || {'0': -100, '1': -100, '2': -100, '10': -100, '14': 4} || {'0': -100, '1': -100, '2': -100, '10': -100, '14': 4<span style="color: #6bc71f">, '295': 1</span>}
+|-
+| rowspan="2" | [['24-carat' sword]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#24539 24539][https://abextm.github.io/cache2/#/viewer/item/24539 (1)]
+|-
+| params || {'0': -100, '1': -100, '2': -50, '10': -10, '14': 4} || {'0': -100, '1': -100, '2': -50, '10': -10, '14': 4<span style="color: #6bc71f">, '295': 1</span>}
+|-
+| rowspan="2" | [[20th anniversary hat]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#25322 25322][https://abextm.github.io/cache2/#/viewer/item/25322 (1)]
+|-
+| params ||  || <span style="color: #6bc71f">{'295': 1}</span>
+|-
+| rowspan="2" | [[20th anniversary top]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#25324 25324][https://abextm.github.io/cache2/#/viewer/item/25324 (1)]
+|-
+| params ||  || <span style="color: #6bc71f">{'295': 1}</span>
+|-
+| rowspan="2" | [[20th anniversary bottom]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#25326 25326][https://abextm.github.io/cache2/#/viewer/item/25326 (1)]
+|-
+| params ||  || <span style="color: #6bc71f">{'295': 1}</span>
+|-
+| rowspan="2" | [[20th anniversary boots]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#25328 25328][https://abextm.github.io/cache2/#/viewer/item/25328 (1)]
+|-
+| params ||  || <span style="color: #6bc71f">{'295': 1}</span>
+|-
+| rowspan="2" | [[20th anniversary gloves]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#25330 25330][https://abextm.github.io/cache2/#/viewer/item/25330 (1)]
+|-
+| params ||  || <span style="color: #6bc71f">{'295': 1}</span>
+|-
+| rowspan="2" | [[20th anniversary necklace]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#25332 25332][https://abextm.github.io/cache2/#/viewer/item/25332 (1)]
+|-
+| params ||  || <span style="color: #6bc71f">{'295': 1}</span>
+|-
+| rowspan="2" | [[20th anniversary cape]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#25334 25334][https://abextm.github.io/cache2/#/viewer/item/25334 (1)]
+|-
+| params ||  || <span style="color: #6bc71f">{'295': 1}</span>
+|-
+| rowspan="2" | [[Gnome child mask]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#25336 25336][https://abextm.github.io/cache2/#/viewer/item/25336 (1)]
+|-
+| params ||  || <span style="color: #6bc71f">{'295': 1}</span>
+|-
+| rowspan="2" | [[Potion storage]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#29999 29999][https://abextm.github.io/cache2/#/viewer/item/29999 (1)]
+|-
+| examine || Unlocks the ability to store potions within a <span style="color: #ee4231">seperate</span> area of the bank. || Unlocks the ability to store potions within a <span style="color: #6bc71f">separate</span> area of the bank.
+|-
+| rowspan="18" | [[Null]]
+| rowspan="18" | [https://chisel.weirdgloop.org/moid/item_id.html#30493 30493][https://abextm.github.io/cache2/#/viewer/item/30493 (1)]
+|-
+| inventoryModel || <span style="color: #ee4231">55831</span> || <span style="color: #6bc71f">2521</span>
+|-
+| name || <span style="color: #ee4231">Invitations</span> || <span style="color: #6bc71f">Null</span>
+|-
+| examine || <span style="color: #ee4231">Tastefully decorated invitations to a once-in-a-lifetime adoption event!</span> || <span style="color: #6bc71f">null</span>
+|-
+| zoom2d || <span style="color: #ee4231">690</span> || <span style="color: #6bc71f">1940</span>
+|-
+| xan2d || <span style="color: #ee4231">518</span> || <span style="color: #6bc71f">572</span>
+|-
+| yan2d || <span style="color: #ee4231">141</span> || 
+|-
+| offsetX2d || <span style="color: #ee4231">1</span> || 
+|-
+| weight || <span style="color: #ee4231">20</span> || <span style="color: #6bc71f">9071</span>
+|-
+| inventoryActions || [<span style="color: #ee4231">Read-address</span>, None, None, None, <span style="color: #ee4231">Destroy</span>] || [<span style="color: #6bc71f">None</span>, None, None, None, <span style="color: #6bc71f">Drop</span>]
+|-
+| recolorFrom ||  || <span style="color: #6bc71f">[25238]</span>
+|-
+| recolorTo ||  || <span style="color: #6bc71f">[62928]</span>
+|-
+| category || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">15</span>
+|-
+| zan2d || <span style="color: #ee4231">20</span> || 
+|-
+| ambient || <span style="color: #ee4231">30</span> || 
+|-
+| contrast || <span style="color: #ee4231">10</span> || 
+|-
+| placeholderLinkedItem || <span style="color: #ee4231">30494</span> || <span style="color: #6bc71f">-1</span>
+|-
+| params || <span style="color: #ee4231">{'295': 1}</span> || 
+|-
+| rowspan="13" | [[Null]]
+| rowspan="13" | [https://chisel.weirdgloop.org/moid/item_id.html#30494 30494][https://abextm.github.io/cache2/#/viewer/item/30494 (1)]
+|-
+| inventoryModel || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">2521</span>
+|-
+| name || <span style="color: #ee4231">null</span> || <span style="color: #6bc71f">Null</span>
+|-
+| examine ||  || <span style="color: #6bc71f">null</span>
+|-
+| zoom2d || <span style="color: #ee4231">2000</span> || <span style="color: #6bc71f">1940</span>
+|-
+| xan2d ||  || <span style="color: #6bc71f">572</span>
+|-
+| offsetY2d ||  || <span style="color: #6bc71f">1</span>
+|-
+| weight ||  || <span style="color: #6bc71f">9071</span>
+|-
+| recolorFrom ||  || <span style="color: #6bc71f">[25238]</span>
+|-
+| recolorTo ||  || <span style="color: #6bc71f">[62928]</span>
+|-
+| category || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">15</span>
+|-
+| placeholderLinkedItem || <span style="color: #ee4231">30493</span> || <span style="color: #6bc71f">-1</span>
+|-
+| placeholderTemplate || <span style="color: #ee4231">14401</span> || <span style="color: #6bc71f">-1</span>
+|}
+==Params==
+===New Params===
+{| class="wikitable sortable"
+|-
+! colspan="5" | New Params
+|-
+! style="width: 15em" | id !! type !! defaultInt !! defaultString !! isMembers
+|-
+| [https://chisel.weirdgloop.org/structs/index.html?type=enums&id=175 175][https://abextm.github.io/cache2/#/viewer/enum/175 (1)] ||  ||  ||  || 
+|-
+| [https://chisel.weirdgloop.org/structs/index.html?type=enums&id=635 635][https://abextm.github.io/cache2/#/viewer/enum/635 (1)] ||  ||  ||  || 
+|}
+===Removed Params===
+{| class="wikitable sortable"
+|-
+! colspan="5" | Removed Params
+|-
+! style="width: 15em" | id !! type !! defaultInt !! defaultString !! isMembers
+|}
+===Diff Params===
+{| class="wikitable sortable sticky-header"
+|-
+! colspan="5" | Diff Params
+|-
+! style="width: 15em" | Id !! Key !! Previous Value !! New Value
+|}
+==Structs==
+===New Structs===
+{| class="wikitable sortable"
+|-
+! colspan="2" | New Structs
+|-
+! style="width: 15em" | id !! params
+|-
+| [https://chisel.weirdgloop.org/structs/index.html?type=structs&id=1235 1235][https://abextm.github.io/cache2/#/viewer/struct/1235 (1)] || {'1077': 420, '1078': 0, '1084': 1, '1085': 1, '1086': 'Plank Make basic confirmation', '1088': 'plank, make, spell, logs, fee, pay, coins, cost, confirmation, warning', '1096': 'When enabled,  you will be warned before the Plank Make spell takes your coins for converting basic logs to planks.'}
+|-
+| [https://chisel.weirdgloop.org/structs/index.html?type=structs&id=1236 1236][https://abextm.github.io/cache2/#/viewer/struct/1236 (1)] || {'1077': 421, '1078': 0, '1084': 1, '1085': 1, '1086': 'Plank Make oak confirmation', '1088': 'plank, make, spell, logs, fee, pay, coins, cost, confirmation, warning', '1096': 'When enabled,  you will be warned before the Plank Make spell takes your coins for converting oak logs to planks.'}
+|-
+| [https://chisel.weirdgloop.org/structs/index.html?type=structs&id=1237 1237][https://abextm.github.io/cache2/#/viewer/struct/1237 (1)] || {'1077': 422, '1078': 0, '1084': 1, '1085': 1, '1086': 'Plank Make teak confirmation', '1088': 'plank, make, spell, logs, fee, pay, coins, cost, confirmation, warning', '1096': 'When enabled,  you will be warned before the Plank Make spell takes your coins for converting teak logs to planks.'}
+|-
+| [https://chisel.weirdgloop.org/structs/index.html?type=structs&id=1238 1238][https://abextm.github.io/cache2/#/viewer/struct/1238 (1)] || {'1077': 423, '1078': 0, '1084': 1, '1085': 1, '1086': 'Plank Make mahogany confirmation', '1088': 'plank, make, spell, logs, fee, pay, coins, cost, confirmation, warning', '1096': 'When enabled,  you will be warned before the Plank Make spell takes your coins for converting mahogany logs to planks.'}
+|}
+===Removed Structs===
+{| class="wikitable sortable"
+|-
+! colspan="2" | Removed Structs
+|-
+! style="width: 15em" | id !! params
+|}
+===Diff Structs===
+{| class="wikitable sortable sticky-header"
+|-
+! colspan="5" | Diff Structs
+|-
+! style="width: 15em" | Id !! Key !! Previous Value !! New Value
+|}
+==Sprites==
+===New Sprites===
+{| class="wikitable sortable"
+|-
+! colspan="3" | New Sprites
+|-
+! style="width: 15em" | id !! width !! height
+|}
+===Removed Sprites===
+{| class="wikitable sortable"
+|-
+! colspan="3" | Removed Sprites
+|-
+! style="width: 15em" | id !! width !! height
+|}
+===Diff Sprites===
+{| class="wikitable sortable sticky-header"
+|-
+! colspan="5" | Diff Sprites
+|-
+! style="width: 15em" | Id !! Key !! Previous Value !! New Value
+|-
+| rowspan="2" | [501 501][https://abextm.github.io/cache2/#/viewer/sprite/501 (1)]
+|-
+| sprites || [{offsetX:<span style="color: #ee4231">0</span>, offsetY:<span style="color: #ee4231">0</span>, pixelsWidth:<span style="color: #ee4231">96</span>, pixelsHeight:<span style="color: #ee4231">86</span>, encodingMode:<span style="color: #ee4231">0</span>, pixelsLength:<span style="color: #ee4231">8256</span>}, {offsetX:<span style="color: #ee4231">0</span>, offsetY:<span style="color: #ee4231">0</span>, pixelsWidth:<span style="color: #ee4231">96</span>, pixelsHeight:<span style="color: #ee4231">91</span>, encodingMode:<span style="color: #ee4231">0</span>, pixelsLength:<span style="color: #ee4231">8736</span>}, {offsetX:<span style="color: #ee4231">0</span>, offsetY:<span style="color: #ee4231">0</span>, pixelsWidth:<span style="color: #ee4231">96</span>, pixelsHeight:<span style="color: #ee4231">91</span>, encodingMode:0, pixelsLength:<span style="color: #ee4231">8736</span>}, {offsetX:<span style="color: #ee4231">0</span>, offsetY:<span style="color: #ee4231">0</span>, pixelsWidth:<span style="color: #ee4231">96</span>, pixelsHeight:<span style="color: #ee4231">91</span>, encodingMode:<span style="color: #ee4231">0</span>, pixelsLength:<span style="color: #ee4231">8736</span>}, {offsetX:<span style="color: #ee4231">4</span>, offsetY:<span style="color: #ee4231">9</span>, pixelsWidth:<span style="color: #ee4231">83</span>, pixelsHeight:<span style="color: #ee4231">77</span>, encodingMode:0, pixelsLength:<span style="color: #ee4231">6391</span>}, {offsetX:<span style="color: #ee4231">1</span>, offsetY:<span style="color: #ee4231">4</span>, pixelsWidth:<span style="color: #ee4231">93</span>, pixelsHeight:<span style="color: #ee4231">87</span>, encodingMode:<span style="color: #ee4231">0</span>, pixelsLength:<span style="color: #ee4231">8091</span>}, {offsetX:<span style="color: #ee4231">0</span>, offsetY:<span style="color: #ee4231">8</span>, pixelsWidth:<span style="color: #ee4231">93</span>, pixelsHeight:<span style="color: #ee4231">83</span>, encodingMode:1, pixelsLength:<span style="color: #ee4231">7719</span>}, {offsetX:9, offsetY:<span style="color: #ee4231">6</span>, pixelsWidth:<span style="color: #ee4231">85</span>, pixelsHeight:<span style="color: #ee4231">85</span>, encodingMode:1, pixelsLength:<span style="color: #ee4231">7225</span>}, {offsetX:<span style="color: #ee4231">4</span>, offsetY:<span style="color: #ee4231">8</span>, pixelsWidth:<span style="color: #ee4231">83</span>, pixelsHeight:<span style="color: #ee4231">77</span>, encodingMode:<span style="color: #ee4231">0</span>, pixelsLength:<span style="color: #ee4231">6391</span>}, {offsetX:<span style="color: #ee4231">1</span>, offsetY:<span style="color: #ee4231">3</span>, pixelsWidth:<span style="color: #ee4231">93</span>, pixelsHeight:<span style="color: #ee4231">87</span>, encodingMode:<span style="color: #ee4231">0</span>, pixelsLength:<span style="color: #ee4231">8091</span>}, {offsetX:<span style="color: #ee4231">0</span>, offsetY:<span style="color: #ee4231">7</span>, pixelsWidth:<span style="color: #ee4231">93</span>, pixelsHeight:<span style="color: #ee4231">83</span>, encodingMode:<span style="color: #ee4231">1</span>, pixelsLength:<span style="color: #ee4231">7719</span>}, {offsetX:<span style="color: #ee4231">9</span>, offsetY:<span style="color: #ee4231">5</span>, pixelsWidth:<span style="color: #ee4231">85</span>, pixelsHeight:<span style="color: #ee4231">85</span>, encodingMode:1, pixelsLength:<span style="color: #ee4231">7225</span>}] || [{offsetX:<span style="color: #6bc71f">10</span>, offsetY:<span style="color: #6bc71f">11</span>, pixelsWidth:<span style="color: #6bc71f">74</span>, pixelsHeight:<span style="color: #6bc71f">74</span>, encodingMode:<span style="color: #6bc71f">1</span>, pixelsLength:<span style="color: #6bc71f">5476</span>}, {offsetX:<span style="color: #6bc71f">25</span>, offsetY:<span style="color: #6bc71f">14</span>, pixelsWidth:<span style="color: #6bc71f">38</span>, pixelsHeight:<span style="color: #6bc71f">61</span>, encodingMode:<span style="color: #6bc71f">1</span>, pixelsLength:<span style="color: #6bc71f">2318</span>}, {offsetX:<span style="color: #6bc71f">5</span>, offsetY:<span style="color: #6bc71f">23</span>, pixelsWidth:<span style="color: #6bc71f">83</span>, pixelsHeight:<span style="color: #6bc71f">56</span>, encodingMode:0, pixelsLength:<span style="color: #6bc71f">4648</span>}, {offsetX:<span style="color: #6bc71f">7</span>, offsetY:<span style="color: #6bc71f">8</span>, pixelsWidth:<span style="color: #6bc71f">73</span>, pixelsHeight:<span style="color: #6bc71f">79</span>, encodingMode:<span style="color: #6bc71f">1</span>, pixelsLength:<span style="color: #6bc71f">5767</span>}, {offsetX:<span style="color: #6bc71f">3</span>, offsetY:<span style="color: #6bc71f">3</span>, pixelsWidth:<span style="color: #6bc71f">90</span>, pixelsHeight:<span style="color: #6bc71f">89</span>, encodingMode:0, pixelsLength:<span style="color: #6bc71f">8010</span>}, {offsetX:<span style="color: #6bc71f">6</span>, offsetY:<span style="color: #6bc71f">19</span>, pixelsWidth:<span style="color: #6bc71f">85</span>, pixelsHeight:<span style="color: #6bc71f">60</span>, encodingMode:<span style="color: #6bc71f">1</span>, pixelsLength:<span style="color: #6bc71f">5100</span>}, {offsetX:<span style="color: #6bc71f">16</span>, offsetY:<span style="color: #6bc71f">14</span>, pixelsWidth:<span style="color: #6bc71f">61</span>, pixelsHeight:<span style="color: #6bc71f">68</span>, encodingMode:1, pixelsLength:<span style="color: #6bc71f">4148</span>}, {offsetX:9, offsetY:<span style="color: #6bc71f">12</span>, pixelsWidth:<span style="color: #6bc71f">80</span>, pixelsHeight:<span style="color: #6bc71f">73</span>, encodingMode:1, pixelsLength:<span style="color: #6bc71f">5840</span>}, {offsetX:<span style="color: #6bc71f">13</span>, offsetY:<span style="color: #6bc71f">6</span>, pixelsWidth:<span style="color: #6bc71f">67</span>, pixelsHeight:<span style="color: #6bc71f">79</span>, encodingMode:<span style="color: #6bc71f">1</span>, pixelsLength:<span style="color: #6bc71f">5293</span>}, {offsetX:<span style="color: #6bc71f">7</span>, offsetY:<span style="color: #6bc71f">15</span>, pixelsWidth:<span style="color: #6bc71f">80</span>, pixelsHeight:<span style="color: #6bc71f">67</span>, encodingMode:<span style="color: #6bc71f">1</span>, pixelsLength:<span style="color: #6bc71f">5360</span>}, {offsetX:<span style="color: #6bc71f">13</span>, offsetY:<span style="color: #6bc71f">5</span>, pixelsWidth:<span style="color: #6bc71f">67</span>, pixelsHeight:<span style="color: #6bc71f">84</span>, encodingMode:<span style="color: #6bc71f">0</span>, pixelsLength:<span style="color: #6bc71f">5628</span>}, {offsetX:<span style="color: #6bc71f">4</span>, offsetY:<span style="color: #6bc71f">20</span>, pixelsWidth:<span style="color: #6bc71f">86</span>, pixelsHeight:<span style="color: #6bc71f">61</span>, encodingMode:1, pixelsLength:<span style="color: #6bc71f">5246</span>}]
+|}

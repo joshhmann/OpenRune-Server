@@ -1,0 +1,133 @@
+{{ToC}}
+==Items==
+{| class="wikitable sortable"
+!colspan='13'|Items
+|-
+! Name !! ID !! Key !! Previous Value !! New Value !! Members !! Tradeable in GE !! Equipable !! Stackable !! Noteable !! Options !! Placeholder !! Cost
+|-
+|rowspan="2"|[[Clue scroll (hard)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#2741 2741]
+|-
+|params || {'623': 2010} || {'623': 1999}
+|-
+|rowspan="2"|[[Opal bolts (e)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#9236 9236]
+|-
+|params || {'436': 4, '434': 6, '23': 1} || {'604': 4, '23': 1}
+|-
+|rowspan="2"|[[Jade bolts (e)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#9237 9237]
+|-
+|params || {'436': 14, '434': 6, '23': 15} || {'604': 14, '23': 15}
+|-
+|rowspan="2"|[[Pearl bolts (e)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#9238 9238]
+|-
+|params || {'436': 24, '434': 6, '23': 26} || {'604': 24, '23': 26}
+|-
+|rowspan="2"|[[Topaz bolts (e)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#9239 9239]
+|-
+|params || {'436': 29, '434': 6, '23': 31} || {'604': 29, '23': 31}
+|-
+|rowspan="2"|[[Sapphire bolts (e)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#9240 9240]
+|-
+|params || {'436': 7, '434': 6, '23': 36} || {'604': 7, '23': 36}
+|-
+|rowspan="2"|[[Emerald bolts (e)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#9241 9241]
+|-
+|params || {'436': 27, '434': 6, '23': 36} || {'604': 27, '23': 36}
+|-
+|rowspan="2"|[[Ruby bolts (e)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#9242 9242]
+|-
+|params || {'436': 49, '434': 6, '23': 46} || {'604': 49, '23': 46}
+|-
+|rowspan="2"|[[Diamond bolts (e)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#9243 9243]
+|-
+|params || {'1562': 5, '434': 6, '1563': 46, '1564': 13, '436': 57, '23': 46} || {'434': 4, '436': 46, '23': 46, '1562': 5, '1563': 46, '1564': 13, '604': 57}
+|-
+|rowspan="2"|[[Dragonstone bolts (e)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#9244 9244]
+|-
+|params || {'1562': 5, '434': 6, '1563': 61, '1564': 13, '436': 68, '23': 61} || {'434': 4, '436': 61, '23': 61, '1562': 5, '1563': 61, '1564': 13, '604': 68}
+|-
+|rowspan="2"|[[Onyx bolts (e)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#9245 9245]
+|-
+|params || {'1562': 5, '434': 6, '1563': 61, '1564': 13, '436': 87, '23': 61} || {'434': 4, '436': 61, '23': 61, '1562': 5, '1563': 61, '1564': 13, '604': 87}
+|-
+|rowspan="2"|[[Opal dragon bolts (e)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#21932 21932]
+|-
+|params || {'1562': 5, '434': 6, '1563': 64, '1564': 13, '436': 4, '23': 64} || {'434': 4, '436': 64, '23': 64, '1562': 5, '1563': 64, '1564': 13, '604': 4}
+|-
+|rowspan="2"|[[Jade dragon bolts (e)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#21934 21934]
+|-
+|params || {'1562': 5, '434': 6, '1563': 64, '1564': 13, '436': 14, '23': 64} || {'434': 4, '436': 64, '23': 64, '1562': 5, '1563': 64, '1564': 13, '604': 14}
+|-
+|rowspan="2"|[[Pearl dragon bolts (e)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#21936 21936]
+|-
+|params || {'1562': 5, '434': 6, '1563': 64, '1564': 13, '436': 24, '23': 64} || {'434': 4, '436': 64, '23': 64, '1562': 5, '1563': 64, '1564': 13, '604': 24}
+|-
+|rowspan="2"|[[Topaz dragon bolts (e)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#21938 21938]
+|-
+|params || {'1562': 5, '434': 6, '1563': 64, '1564': 13, '436': 29, '23': 64} || {'434': 4, '436': 64, '23': 64, '1562': 5, '1563': 64, '1564': 13, '604': 29}
+|-
+|rowspan="2"|[[Sapphire dragon bolts (e)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#21940 21940]
+|-
+|params || {'1562': 5, '434': 6, '1563': 64, '1564': 13, '436': 7, '23': 64} || {'434': 4, '436': 64, '23': 64, '1562': 5, '1563': 64, '1564': 13, '604': 7}
+|-
+|rowspan="2"|[[Emerald dragon bolts (e)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#21942 21942]
+|-
+|params || {'1562': 5, '434': 6, '1563': 64, '1564': 13, '436': 27, '23': 64} || {'434': 4, '436': 64, '23': 64, '1562': 5, '1563': 64, '1564': 13, '604': 27}
+|-
+|rowspan="2"|[[Ruby dragon bolts (e)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#21944 21944]
+|-
+|params || {'1562': 5, '434': 6, '1563': 64, '1564': 13, '436': 49, '23': 64} || {'434': 4, '436': 64, '23': 64, '1562': 5, '1563': 64, '1564': 13, '604': 49}
+|-
+|rowspan="2"|[[Diamond dragon bolts (e)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#21946 21946]
+|-
+|params || {'1562': 5, '434': 6, '1563': 64, '1564': 13, '436': 57, '23': 64} || {'434': 4, '436': 64, '23': 64, '1562': 5, '1563': 64, '1564': 13, '604': 57}
+|-
+|rowspan="2"|[[Dragonstone dragon bolts (e)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#21948 21948]
+|-
+|params || {'1562': 5, '434': 6, '1563': 64, '1564': 13, '436': 68, '23': 64} || {'434': 4, '436': 64, '23': 64, '1562': 5, '1563': 64, '1564': 13, '604': 68}
+|-
+|rowspan="2"|[[Onyx dragon bolts (e)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#21950 21950]
+|-
+|params || {'1562': 5, '434': 6, '1563': 64, '1564': 13, '436': 87, '23': 64} || {'434': 4, '436': 64, '23': 64, '1562': 5, '1563': 64, '1564': 13, '604': 87}
+|-
+|}
+
+==Non-Player Characters==
+{| class="wikitable sortable"
+!colspan='5'|Non-Player Characters
+|-
+! Name !! ID !! Key !! Previous Value !! Changed into
+|-
+|}
+
+==Objects==
+{| class="wikitable sortable"
+!colspan='5'|Objects
+|-
+! Name !! ID !! Key !! Previous Value !! Changed into
+|-
+| [[Skull slope]] || [https://chisel.weirdgloop.org/moid/object_id.html#1747 1747] || colspan = "4" | New ID
+|-
+| [[Skull slope]] || [https://chisel.weirdgloop.org/moid/object_id.html#15483 15483] || colspan = "4" | Removed
+|-
+|}

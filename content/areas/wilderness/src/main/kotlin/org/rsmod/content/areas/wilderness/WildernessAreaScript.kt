@@ -17,11 +17,7 @@ import org.rsmod.game.entity.Player
 import org.rsmod.plugin.scripts.PluginScript
 import org.rsmod.plugin.scripts.ScriptContext
 
-class WildernessAreaScript
-@Inject
-constructor(
-    private val eventBus: EventBus,
-) : PluginScript() {
+class WildernessAreaScript @Inject constructor(private val eventBus: EventBus) : PluginScript() {
 
     private var Player.insideWilderness by boolVarBit("varbit.inside_wilderness")
     private var Player.specialSpecOrb by intVarBit("varbit.pvp_area_client")
@@ -86,7 +82,8 @@ constructor(
     }
 
     companion object {
-        private val WILDERNESS_OPT_OUT = AttributeKey<Boolean>(persistenceKey = "wilderness_opt_out")
+        private val WILDERNESS_OPT_OUT =
+            AttributeKey<Boolean>(persistenceKey = "wilderness_opt_out")
         private val CAN_PVP = AttributeKey<Boolean>()
         private val DUEL_FLAG = AttributeKey<Boolean>()
 
@@ -113,13 +110,15 @@ constructor(
 
         private fun Player.refreshPlayerOptions() {
             when {
-                canPvp() -> MiscOutput.setPlayerOp(
-                    this,
-                    slot = 1,
-                    op = if (isDueling()) "Fight" else "Attack",
-                    priority = true,
-                )
-                isDueling() -> MiscOutput.setPlayerOp(this, slot = 1, op = "Challenge", priority = false)
+                canPvp() ->
+                    MiscOutput.setPlayerOp(
+                        this,
+                        slot = 1,
+                        op = if (isDueling()) "Fight" else "Attack",
+                        priority = true,
+                    )
+                isDueling() ->
+                    MiscOutput.setPlayerOp(this, slot = 1, op = "Challenge", priority = false)
                 else -> {
                     MiscOutput.clearPlayerOp(this, 1, "Attack")
                     MiscOutput.clearPlayerOp(this, 1, "Fight")

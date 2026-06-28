@@ -19,7 +19,8 @@ internal fun buildCompletionJournal(
 }
 
 @QuestJournalDsl
-class QuestJournalBuilder internal constructor(
+class QuestJournalBuilder
+internal constructor(
     val access: ProtectedAccess,
     val quest: Quest,
     private val isCompletion: Boolean = false,
@@ -62,7 +63,8 @@ class QuestJournalBuilder internal constructor(
     fun build(): String = lines.joinToString("\n")
 
     @QuestJournalDsl
-    class LineContext internal constructor(
+    class LineContext
+    internal constructor(
         private val access: ProtectedAccess,
         private val quest: Quest,
         initialText: String,
@@ -179,10 +181,7 @@ class QuestJournalBuilder internal constructor(
             finalised = true
         }
 
-        private fun setLine(
-            value: String,
-            strike: Boolean,
-        ) {
+        private fun setLine(value: String, strike: Boolean) {
             text = value
             struck = strike
         }
@@ -192,10 +191,8 @@ class QuestJournalBuilder internal constructor(
             return if (shouldStrike) "<str>$text</str>" else text
         }
 
-        class ConditionHandle internal constructor(
-            private val context: LineContext,
-            private val applied: Boolean,
-        ) {
+        class ConditionHandle
+        internal constructor(private val context: LineContext, private val applied: Boolean) {
             fun strike(colour: String = DEFAULT_UNUSED_COLOUR): ConditionHandle {
                 if (applied) {
                     context.struck = true
@@ -212,10 +209,7 @@ class QuestJournalBuilder internal constructor(
                 return this
             }
 
-            fun finalise(
-                strike: Boolean = false,
-                strikeColour: String = DEFAULT_UNUSED_COLOUR,
-            ) {
+            fun finalise(strike: Boolean = false, strikeColour: String = DEFAULT_UNUSED_COLOUR) {
                 if (applied) {
                     context.finalise(strike)
                 }
@@ -224,9 +218,7 @@ class QuestJournalBuilder internal constructor(
     }
 
     @QuestJournalDsl
-    inner class ObjectiveContext internal constructor(
-        private val lineContext: LineContext,
-    ) {
+    inner class ObjectiveContext internal constructor(private val lineContext: LineContext) {
         fun attribute(
             attribute: QuestAttribute<Boolean>,
             text: String,
@@ -242,8 +234,7 @@ class QuestJournalBuilder internal constructor(
             strike: Boolean = false,
             colour: String = DEFAULT_UNUSED_COLOUR,
             finalise: Boolean = false,
-        ): LineContext.ConditionHandle =
-            lineContext.hasItem(item, text, strike, colour, finalise)
+        ): LineContext.ConditionHandle = lineContext.hasItem(item, text, strike, colour, finalise)
 
         fun stageAtLeast(
             stage: Int,
@@ -272,10 +263,7 @@ class QuestJournalBuilder internal constructor(
         ): LineContext.ConditionHandle =
             lineContext.custom(condition, text, strike, colour, finalise)
 
-        fun finalise(
-            strike: Boolean = false,
-            strikeColour: String = DEFAULT_UNUSED_COLOUR,
-        ) {
+        fun finalise(strike: Boolean = false, strikeColour: String = DEFAULT_UNUSED_COLOUR) {
             lineContext.finalise(strike)
         }
 

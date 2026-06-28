@@ -37,12 +37,13 @@ class EctoMovementEvents @Inject constructor(private val locRepo: LocRepository)
     }
 
     private fun ProtectedAccess.climbStairsDown() {
-        val dest = when (player.coords.level) {
-            3 -> CoordGrid(3688, 9888, 2)
-            2 -> CoordGrid(3675, 9888, 1)
-            1 -> CoordGrid(3683, 9888, 0)
-            else -> null
-        }
+        val dest =
+            when (player.coords.level) {
+                3 -> CoordGrid(3688, 9888, 2)
+                2 -> CoordGrid(3675, 9888, 1)
+                1 -> CoordGrid(3683, 9888, 0)
+                else -> null
+            }
         if (dest == null) {
             return
         }
@@ -50,12 +51,13 @@ class EctoMovementEvents @Inject constructor(private val locRepo: LocRepository)
     }
 
     private fun ProtectedAccess.climbStairsUp() {
-        val dest = when (player.coords.level) {
-            0 -> CoordGrid(3687, 9888, 1)
-            1 -> CoordGrid(3671, 9888, 2)
-            2 -> CoordGrid(3692, 9888, 3)
-            else -> null
-        }
+        val dest =
+            when (player.coords.level) {
+                0 -> CoordGrid(3687, 9888, 1)
+                1 -> CoordGrid(3671, 9888, 2)
+                2 -> CoordGrid(3692, 9888, 3)
+                else -> null
+            }
         if (dest == null) {
             return
         }

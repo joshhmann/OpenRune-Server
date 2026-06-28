@@ -16,8 +16,12 @@ class CakeEvents : PluginScript() {
     }
 
     private fun ProtectedAccess.tryCake() {
-        if (!inv.contains("obj.cake_tin") || !inv.contains("obj.egg") ||
-            !inv.contains("obj.bucket_milk") || !inv.contains("obj.pot_flour")) {
+        if (
+            !inv.contains("obj.cake_tin") ||
+                !inv.contains("obj.egg") ||
+                !inv.contains("obj.bucket_milk") ||
+                !inv.contains("obj.pot_flour")
+        ) {
             mes("You need a cake tin, an egg, a bucket of milk, and a pot of flour to make a cake.")
             return
         }

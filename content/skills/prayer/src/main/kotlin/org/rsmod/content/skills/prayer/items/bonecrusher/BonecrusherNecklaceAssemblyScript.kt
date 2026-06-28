@@ -7,7 +7,6 @@ import org.rsmod.api.player.protect.ProtectedAccess
 import org.rsmod.api.player.stat.basePrayerLvl
 import org.rsmod.api.script.onOpHeldU
 import org.rsmod.game.inv.Inventory
-import org.rsmod.game.inv.isType
 import org.rsmod.plugin.scripts.PluginScript
 import org.rsmod.plugin.scripts.ScriptContext
 
@@ -29,16 +28,20 @@ public class BonecrusherNecklaceAssemblyScript : PluginScript() {
             return
         }
 
-        val reagents = inv.findBonecrusherCraftReagents() ?: run {
-            mes(
-                "You need a bonecrusher, hydra tail and dragonbone necklace to make the bonecrusher necklace.",
-            )
-            return
-        }
+        val reagents =
+            inv.findBonecrusherCraftReagents()
+                ?: run {
+                    mes(
+                        "You need a bonecrusher, hydra tail and dragonbone necklace to make the bonecrusher necklace."
+                    )
+                    return
+                }
 
         val usedSlots = setOf(ev.firstSlot, ev.secondSlot)
         if (!usedSlots.all(reagents.values::contains)) {
-            mes("You need a bonecrusher, hydra tail and dragonbone necklace to make the bonecrusher necklace.")
+            mes(
+                "You need a bonecrusher, hydra tail and dragonbone necklace to make the bonecrusher necklace."
+            )
             return
         }
 
@@ -59,9 +62,10 @@ public class BonecrusherNecklaceAssemblyScript : PluginScript() {
         val crusherObj = inv[crusherSlot] ?: return
         val crusherVars = crusherObj.vars
 
-        val deleteOrder = listOf("obj.bonecrusher", "obj.hydra_tail", "obj.dragonbone_necklace").map {
-            type -> type to reagents.getValue(type)
-        }.sortedByDescending { (_, slot) -> slot }
+        val deleteOrder =
+            listOf("obj.bonecrusher", "obj.hydra_tail", "obj.dragonbone_necklace")
+                .map { type -> type to reagents.getValue(type) }
+                .sortedByDescending { (_, slot) -> slot }
 
         for ((type, slot) in deleteOrder) {
             if (invDel(inv, type, count = 1, slot = slot).failure) {
@@ -95,5 +99,4 @@ public class BonecrusherNecklaceAssemblyScript : PluginScript() {
         }
         return found.takeIf { it.size == required.size }
     }
-
 }

@@ -11,8 +11,7 @@ import org.rsmod.api.server.config.ServerConfig
 public object EmbeddedSameInstancePostgres {
     private val logger = InlineLogger()
 
-    @Volatile
-    private var embedded: EmbeddedPostgres? = null
+    @Volatile private var embedded: EmbeddedPostgres? = null
 
     /**
      * Starts embedded PostgreSQL when same-instance Central is enabled and no JDBC URL is set.

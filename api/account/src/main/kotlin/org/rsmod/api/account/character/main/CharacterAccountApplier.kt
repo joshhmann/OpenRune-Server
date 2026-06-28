@@ -63,7 +63,11 @@ public class CharacterAccountApplier @Inject constructor() :
                 return null
             }
             val tokens =
-                rights.split(',').map { it.trim() }.filter { it.isNotEmpty() }.map { it.lowercase() }
+                rights
+                    .split(',')
+                    .map { it.trim() }
+                    .filter { it.isNotEmpty() }
+                    .map { it.lowercase() }
             for (internal in RIGHTS_MOD_LEVEL_PRIORITY) {
                 if (tokens.contains(internal.lowercase())) {
                     return ServerCacheManager.getModLevel(internal.asRSCM(RSCMType.MODLEVEL))
@@ -73,4 +77,3 @@ public class CharacterAccountApplier @Inject constructor() :
         }
     }
 }
-

@@ -1,0 +1,263 @@
+{{ToC}}
+==Items==
+===New Items===
+{| class="wikitable sortable"
+!colspan='11'|New Items
+|-
+! style=width:15em | Name !! ID !! Members !! Tradeable in GE !! Equipable !! Stackable !! Noteable !! Options !! Placeholder !! Cost !! Weight
+|-
+|-
+|}
+===Removed Items===
+{| class="wikitable sortable"
+!colspan='2'|Removed Items
+|-
+! style=width:15em | Name !! ID
+|-
+|-
+|}
+===Diff Items===
+{| class="wikitable sortable"
+!colspan='5'|Diff Items
+|-
+! style=width:15em | Name !! ID !! Key !! Previous Value !! New Value
+|-
+|rowspan="2"|[[Null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#15297 15297]
+|-
+|params || {'630': 9, '1751': 35454994, '1752': 'Deflect Magic', '1753': 65, '1754': 'Reduces Magic damage taken by 90%, 50% chance to deal 10% of pre-mitigated damage back to opponent.', '1755': 2675, '1756': 4871, '1757': 4847} || {'630': 9, '1751': 35454994, '1752': 'Deflect Magic', '1753': 65, '1754': 'Provides up to 90% protection from magic damage with a 50% chance to reflect 10% of the original damage back at the opponent.', '1755': 2675, '1756': 4871, '1757': 4847}
+|-
+|rowspan="2"|[[Null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#25945 25945]
+|-
+|params || {'630': 22, '1751': 35455007, '1752': 'Vindication', '1753': 90, '1754': 'Drains prayer points & heals you when damaged and your health falls below 10%. Heal amount is based on prayer level, also strengthens your next attack.', '1755': 2665, '1756': 4887, '1757': 4863} || {'630': 22, '1751': 35455007, '1752': 'Vindication', '1753': 90, '1754': 'Heals you by 15% of your Prayer level and provides 10% bonus damage on your next attack if your health falls below 10%.', '1755': 2665, '1756': 4887, '1757': 4863}
+|-
+|rowspan="2"|[[Null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#25948 25948]
+|-
+|params || {'630': 21, '1751': 35455006, '1752': 'Rebuke', '1753': 81, '1754': 'Increases damage taken from NPCs by 15%. Reflect 15% of damage taken by NPCs.', '1755': 2668, '1756': 4881, '1757': 4857} || {'630': 21, '1751': 35455006, '1752': 'Rebuke', '1753': 81, '1754': 'Increases damage taken by 15%, but also reflects 15% of the damage taken back at the opponent.', '1755': 2668, '1756': 4881, '1757': 4857}
+|-
+|rowspan="2"|[[Null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#25951 25951]
+|-
+|params || {'630': 20, '1751': 35455005, '1752': 'Gambit', '1753': 92, '1754': 'Increases your accuracy by 8%', '1755': 2666, '1756': 4888, '1757': 4864} || {'630': 20, '1751': 35455005, '1752': 'Gambit', '1753': 92, '1754': 'Increases your accuracy with all styles by 8%.', '1755': 2666, '1756': 4888, '1757': 4864}
+|-
+|rowspan="2"|[[Null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#25954 25954]
+|-
+|params || {'630': 19, '1751': 35455004, '1752': "Glacie's Vow", '1753': 88, '1754': 'Attacks have a 20% chance to deal 10% of the damage dealt as an additional magic-based hit.', '1755': 2670, '1756': 4885, '1757': 4861} || {'630': 19, '1751': 35455004, '1752': "Glacies' Vow", '1753': 88, '1754': 'Attacks have a 20% chance to deal 10% of the damage dealt as an additional magic-based hit.', '1755': 2670, '1756': 4885, '1757': 4861}
+|-
+|rowspan="2"|[[Null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#25969 25969]
+|-
+|params || {'630': 5, '1751': 35454990, '1752': 'Annihilate', '1753': 78, '1754': 'Increases your Ranged attack by 20% and Ranged stength by 30%.', '1755': 2670, '1756': 4879, '1757': 4855} || {'630': 5, '1751': 35454990, '1752': 'Annihilate', '1753': 78, '1754': 'Increases your Ranged Attack by 20% and Ranged Stength by 30%.', '1755': 2670, '1756': 4879, '1757': 4855}
+|-
+|rowspan="2"|[[Null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#25971 25971]
+|-
+|params || {'630': 3, '1751': 35454988, '1752': 'Trinitas', '1753': 71, '1754': 'Increases your Ranged and Melee attack and strength by 15% and your Magic attack by 15%.', '1755': 2662, '1756': 4874, '1757': 4850} || {'630': 3, '1751': 35454988, '1752': 'Trinitas', '1753': 71, '1754': 'Increases your Attack, Strength, Ranged and Magic by 15%.', '1755': 2662, '1756': 4874, '1757': 4850}
+|-
+|rowspan="2"|[[Null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#25973 25973]
+|-
+|params || {'630': 13, '1751': 35454998, '1752': 'Wrath', '1753': 89, '1754': 'On death, deal 25% of your prayer level in damage to a large area.', '1755': 2682, '1756': 4886, '1757': 4862} || {'630': 13, '1751': 35454998, '1752': 'Wrath', '1753': 89, '1754': 'On death, deal 25% of your Prayer level in damage to nearby opponents.', '1755': 2682, '1756': 4886, '1757': 4862}
+|-
+|rowspan="2"|[[Null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#25974 25974]
+|-
+|params || {'630': 12, '1751': 35454997, '1752': 'Ruinous Grace', '1753': 64, '1754': 'Prayer points are drained instead of run energy.', '1755': 1982, '1756': 4870, '1757': 4846} || {'630': 12, '1751': 35454997, '1752': 'Ruinous Grace', '1753': 64, '1754': 'When running, Prayer points are drained instead of run energy.', '1755': 1982, '1756': 4870, '1757': 4846}
+|-
+|rowspan="2"|[[Null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#25977 25977]
+|-
+|params || {'630': 18, '1751': 35455003, '1752': "Umbra's Vow", '1753': 84, '1754': 'Attacks reduce your targets defence level by 5% of the damage dealt, up to -15%.', '1755': 2685, '1756': 4883, '1757': 4859} || {'630': 18, '1751': 35455003, '1752': "Umbra's Vow", '1753': 84, '1754': "Attacks reduce your opponent's Defence by 5% of the damage dealt, up to 15%.", '1755': 2685, '1756': 4883, '1757': 4859}
+|-
+|rowspan="2"|[[Null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#25978 25978]
+|-
+|params || {'630': 17, '1751': 35455002, '1752': "Cruor's Vow", '1753': 86, '1754': 'Attacks have a 10% chance to heal 10% of the damage you dealt.', '1755': 2686, '1756': 4884, '1757': 4860} || {'630': 17, '1751': 35455002, '1752': "Cruor's Vow", '1753': 86, '1754': 'Attacks have a 10% chance to heal you for 10% of the damage you dealt.', '1755': 2686, '1756': 4884, '1757': 4860}
+|-
+|rowspan="2"|[[Null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#25983 25983]
+|-
+|params || {'630': 11, '1751': 35454996, '1752': 'Rejuvenation', '1753': 60, '1754': 'Regenerate hitpoints 66% faster.', '1755': 2678, '1756': 4866, '1757': 4842, '1758': 1} || {'630': 11, '1751': 35454996, '1752': 'Rejuvenation', '1753': 60, '1754': 'Hitpoints regenerate 3x faster.', '1755': 2678, '1756': 4866, '1757': 4842, '1758': 1}
+|-
+|rowspan="2"|[[Null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#25984 25984]
+|-
+|params || {'630': 10, '1751': 35454995, '1752': 'Purge', '1753': 74, '1754': "1/3 of damage dealt is also removed from you and your opponent's prayer.", '1755': 2686, '1756': 4876, '1757': 4852} || {'630': 10, '1751': 35454995, '1752': 'Purge', '1753': 74, '1754': "1/3 of damage dealt is also removed from both yours and your opponent's Prayer points.", '1755': 2686, '1756': 4876, '1757': 4852}
+|-
+|rowspan="2"|[[Null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#25987 25987]
+|-
+|params || {'630': 8, '1751': 35454993, '1752': 'Deflect Ranged', '1753': 68, '1754': 'Reduces Ranged damage taken by 90%, 50% chance to deal 10% of pre-mitigated damage back to opponent.', '1755': 2677, '1756': 4872, '1757': 4848} || {'630': 8, '1751': 35454993, '1752': 'Deflect Ranged', '1753': 68, '1754': 'Provides up to 90% protection from ranged damage with a 50% chance to reflect 10% of the original damage back at the opponent.', '1755': 2677, '1756': 4872, '1757': 4848}
+|-
+|rowspan="2"|[[Null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#25988 25988]
+|-
+|params || {'630': 7, '1751': 35454992, '1752': 'Deflect Melee', '1753': 70, '1754': 'Reduces Melee damage taken by 90%, 50% chance to deal 10% of pre-mitigated damage back to opponent.', '1755': 2676, '1756': 4873, '1757': 4849} || {'630': 7, '1751': 35454992, '1752': 'Deflect Melee', '1753': 70, '1754': 'Provides up to 90% protection from melee damage with a 50% chance to reflect 10% of the original damage back at the opponent.', '1755': 2676, '1756': 4873, '1757': 4849}
+|-
+|rowspan="2"|[[Null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#25989 25989]
+|-
+|params || {'630': 6, '1751': 35454991, '1752': 'Vaporise', '1753': 80, '1754': 'Increases your Magic attack by 25% and Magic damage by 4%', '1755': 2668, '1756': 4880, '1757': 4856} || {'630': 6, '1751': 35454991, '1752': 'Vaporise', '1753': 80, '1754': 'Increases your Magic Attack by 25% and Magic Damage by 4%.', '1755': 2668, '1756': 4880, '1757': 4856}
+|-
+|rowspan="2"|[[Null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26981 26981]
+|-
+|params || {'630': 16, '1751': 35455001, '1752': "Fumus' Vow", '1753': 82, '1754': 'Attacks consume 20% of your poison to deal the same amount in bonus poison damage.', '1755': 2680, '1756': 4882, '1757': 4858} || {'630': 16, '1751': 35455001, '1752': "Fumus' Vow", '1753': 82, '1754': 'Attacks consume 20% of your poison severity to deal the same amount in bonus poison damage.', '1755': 2680, '1756': 4882, '1757': 4858}
+|-
+|rowspan="2"|[[Null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26982 26982]
+|-
+|params || {'630': 15, '1751': 35455000, '1752': 'Berserker', '1753': 73, '1754': 'Boosted combat stats decay 50% slower.', '1755': 2687, '1756': 4875, '1757': 4851} || {'630': 15, '1751': 35455000, '1752': 'Berserker', '1753': 73, '1754': 'Boosted combat stats last 50% longer.', '1755': 2687, '1756': 4875, '1757': 4851}
+|-
+|rowspan="2"|[[Null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26983 26983]
+|-
+|params || {'630': 14, '1751': 35454999, '1752': 'Metabolise', '1753': 75, '1754': 'Attack delay caused by eating food is one cycle shorter.', '1755': 2687, '1756': 4877, '1757': 4853} || {'630': 14, '1751': 35454999, '1752': 'Metabolise', '1753': 75, '1754': 'The delay before you can attack after eating food is reduced.', '1755': 2687, '1756': 4877, '1757': 4853}
+|-
+|}
+
+==Non-Player Characters==
+===New NPCs===
+{| class="wikitable sortable"
+!colspan='4'|New NPCs
+|-
+! style=width:15em | Name !! ID !! Combat Level !! Options
+|-
+| [[Emma]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12116 12116] || No Combat Level || Talk-to, Haircut, Shave
+|-
+| [[Suzie]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12117 12117] || No Combat Level || Talk-to
+|-
+|-
+|}
+===Removed NPCs===
+{| class="wikitable sortable"
+!colspan='2'|Removed NPCs
+|-
+! style=width:15em | Name !! ID
+|-
+|-
+|}
+===Diff NPCs===
+{| class="wikitable sortable"
+!colspan='5'|Diff NPCs
+|-
+! style=width:15em | Name !! ID !! Key !! Previous Value !! New Value
+|-
+|rowspan="2"|[[Hairdresser]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#1305 1305]
+|-
+|actions || ['Talk-to', None, None, 'Haircut', None] || ['Talk-to', None, None, 'Haircut', 'Shave']
+|-
+|rowspan="2"|[[Makeover Mage]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#1307 1307]
+|-
+|chatheadModels || [113, 9601] || [28408, 9601]
+|-
+|rowspan="2"|[[Nex]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#11282 11282]
+|-
+|headIconSpriteIndex || [21] || [10]
+|-
+|}
+
+==Objects==
+===New Objects=== 
+{| class="wikitable sortable"
+!colspan='3'|New Objects
+|-
+! style=width:15em | Name !! ID !! Options
+|-
+| [[Shelves]] || [https://chisel.weirdgloop.org/moid/object_id.html#47397 47397] || None
+|-
+| [[Shelves]] || [https://chisel.weirdgloop.org/moid/object_id.html#47398 47398] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#47399 47399] || None
+|-
+| [[Shelf]] || [https://chisel.weirdgloop.org/moid/object_id.html#47400 47400] || None
+|-
+| [[Table]] || [https://chisel.weirdgloop.org/moid/object_id.html#47401 47401] || None
+|-
+| [[Fabric rolls]] || [https://chisel.weirdgloop.org/moid/object_id.html#47402 47402] || None
+|-
+| [[Cloth]] || [https://chisel.weirdgloop.org/moid/object_id.html#47403 47403] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#47404 47404] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#47405 47405] || None
+|-
+| [[Table]] || [https://chisel.weirdgloop.org/moid/object_id.html#47406 47406] || None
+|-
+| [[Hairstyles Poster]] || [https://chisel.weirdgloop.org/moid/object_id.html#47407 47407] || None
+|-
+| [[Hairstyles Poster]] || [https://chisel.weirdgloop.org/moid/object_id.html#47408 47408] || None
+|-
+| [[Rio the Parrot]] || [https://chisel.weirdgloop.org/moid/object_id.html#47409 47409] || None
+|-
+| [[Portraits]] || [https://chisel.weirdgloop.org/moid/object_id.html#47410 47410] || None
+|-
+| [[Portraits]] || [https://chisel.weirdgloop.org/moid/object_id.html#47411 47411] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#47412 47412] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#47413 47413] || None
+|-
+| [[Painting]] || [https://chisel.weirdgloop.org/moid/object_id.html#47414 47414] || None
+|-
+| [[Vanity dresser]] || [https://chisel.weirdgloop.org/moid/object_id.html#47415 47415] || None
+|-
+| [[Vanity dresser]] || [https://chisel.weirdgloop.org/moid/object_id.html#47416 47416] || None
+|-
+| [[Chair]] || [https://chisel.weirdgloop.org/moid/object_id.html#47417 47417] || None
+|-
+| [[Bed]] || [https://chisel.weirdgloop.org/moid/object_id.html#47418 47418] || None
+|-
+|-
+|}
+===Removed Objects===
+{| class="wikitable sortable"
+!colspan='2'|Removed Objects
+|-
+! style=width:15em | Name !! ID
+|-
+|-
+|}
+===Diff Objects===
+{| class="wikitable sortable"
+!colspan='5'|Diff Objects
+|-
+! style=width:15em | Name !! ID !! Key !! Previous Value !! New Value
+|-
+|rowspan="2"|[[Shaving stand]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#13163 13163]
+|-
+|actions || ['Preen', None, None, None, 'Remove'] || ['Preen', 'Haircut', 'Shave', None, 'Remove']
+|-
+|rowspan="2"|[[Dresser]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#13164 13164]
+|-
+|actions || ['Preen', None, None, None, 'Remove'] || ['Preen', 'Haircut', 'Shave', None, 'Remove']
+|-
+|rowspan="2"|[[Dresser]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#13165 13165]
+|-
+|actions || ['Preen', None, None, None, 'Remove'] || ['Preen', 'Haircut', 'Shave', None, 'Remove']
+|-
+|rowspan="2"|[[Dresser]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#13166 13166]
+|-
+|actions || ['Preen', None, None, None, 'Remove'] || ['Preen', 'Haircut', 'Shave', None, 'Remove']
+|-
+|rowspan="2"|[[Dresser]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#13167 13167]
+|-
+|actions || ['Preen', None, None, None, 'Remove'] || ['Preen', 'Haircut', 'Shave', None, 'Remove']
+|-
+|rowspan="2"|[[Dresser]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#13168 13168]
+|-
+|actions || ['Preen', None, None, None, 'Remove'] || ['Preen', 'Haircut', 'Shave', None, 'Remove']
+|-
+|}

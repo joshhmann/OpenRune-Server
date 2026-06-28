@@ -1,0 +1,427 @@
+{{ToC}}
+==Items==
+===New Items===
+{| class="wikitable sortable"
+!colspan='11'|New Items
+|-
+! style=width:15em | Name !! ID !! Members !! Tradeable in GE !! Equipable !! Stackable !! Noteable !! Options !! Placeholder !! Cost !! Weight
+|-
+|-
+|}
+===Removed Items===
+{| class="wikitable sortable"
+!colspan='2'|Removed Items
+|-
+! style=width:15em | Name !! ID
+|-
+|-
+|}
+===Diff Items===
+{| class="wikitable sortable"
+!colspan='5'|Diff Items
+|-
+! style=width:15em | Name !! ID !! Key !! Previous Value !! New Value
+|-
+|}
+
+==Non-Player Characters==
+===New NPCs===
+{| class="wikitable sortable"
+!colspan='4'|New NPCs
+|-
+! style=width:15em | Name !! ID !! Combat Level !! Options
+|-
+|-
+|}
+===Removed NPCs===
+{| class="wikitable sortable"
+!colspan='2'|Removed NPCs
+|-
+! style=width:15em | Name !! ID
+|-
+|-
+|}
+===Diff NPCs===
+{| class="wikitable sortable"
+!colspan='5'|Diff NPCs
+|-
+! style=width:15em | Name !! ID !! Key !! Previous Value !! New Value
+|-
+|rowspan="2"|[[Duke Horacio]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#815 815]
+|-
+|actions || ['Talk-to', None, None, 'Trick-or-treat', None] || ['Talk-to', None, None, None, None]
+|-
+|rowspan="2"|[[Guard]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#3010 3010]
+|-
+|actions || [None, 'Attack', 'Pickpocket', 'Trick-or-treat', None] || [None, 'Attack', 'Pickpocket', None, None]
+|-
+|rowspan="2"|[[Guard]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#3011 3011]
+|-
+|actions || [None, 'Attack', 'Pickpocket', 'Trick-or-treat', None] || [None, 'Attack', 'Pickpocket', None, None]
+|-
+|rowspan="2"|[[Man]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#3014 3014]
+|-
+|actions || ['Talk-to', 'Attack', 'Pickpocket', 'Trick-or-treat', None] || ['Talk-to', 'Attack', 'Pickpocket', None, None]
+|-
+|rowspan="2"|[[Woman]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#3015 3015]
+|-
+|actions || ['Talk-to', 'Attack', 'Pickpocket', 'Trick-or-treat', None] || ['Talk-to', 'Attack', 'Pickpocket', None, None]
+|-
+|rowspan="2"|[[Man]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#3106 3106]
+|-
+|actions || ['Talk-to', 'Attack', 'Pickpocket', 'Trick-or-treat', None] || ['Talk-to', 'Attack', 'Pickpocket', None, None]
+|-
+|rowspan="2"|[[Man]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#3107 3107]
+|-
+|actions || ['Talk-to', 'Attack', 'Pickpocket', 'Trick-or-treat', None] || ['Talk-to', 'Attack', 'Pickpocket', None, None]
+|-
+|rowspan="2"|[[Man]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#3108 3108]
+|-
+|actions || ['Talk-to', 'Attack', 'Pickpocket', 'Trick-or-treat', None] || ['Talk-to', 'Attack', 'Pickpocket', None, None]
+|-
+|rowspan="2"|[[Man]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#3109 3109]
+|-
+|actions || ['Talk-to', 'Attack', 'Pickpocket', 'Trick-or-treat', None] || ['Talk-to', 'Attack', 'Pickpocket', None, None]
+|-
+|rowspan="2"|[[Man]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#3110 3110]
+|-
+|actions || ['Talk-to', 'Attack', 'Pickpocket', 'Trick-or-treat', None] || ['Talk-to', 'Attack', 'Pickpocket', None, None]
+|-
+|rowspan="2"|[[Woman]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#3111 3111]
+|-
+|actions || ['Talk-to', 'Attack', 'Pickpocket', 'Trick-or-treat', None] || ['Talk-to', 'Attack', 'Pickpocket', None, None]
+|-
+|rowspan="2"|[[Woman]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#3112 3112]
+|-
+|actions || ['Talk-to', 'Attack', 'Pickpocket', 'Trick-or-treat', None] || ['Talk-to', 'Attack', 'Pickpocket', None, None]
+|-
+|rowspan="2"|[[Woman]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#3113 3113]
+|-
+|actions || ['Talk-to', 'Attack', 'Pickpocket', 'Trick-or-treat', None] || ['Talk-to', 'Attack', 'Pickpocket', None, None]
+|-
+|rowspan="2"|[[Guard]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#3254 3254]
+|-
+|actions || [None, 'Attack', 'Pickpocket', 'Trick-or-treat', None] || [None, 'Attack', 'Pickpocket', None, None]
+|-
+|rowspan="2"|[[Man]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#3261 3261]
+|-
+|actions || [None, 'Attack', 'Pickpocket', 'Trick-or-treat', None] || [None, 'Attack', 'Pickpocket', None, None]
+|-
+|rowspan="2"|[[Drunken man]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#3263 3263]
+|-
+|actions || ['Talk-to', 'Attack', 'Pickpocket', 'Trick-or-treat', None] || ['Talk-to', 'Attack', 'Pickpocket', None, None]
+|-
+|rowspan="2"|[[Man]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#3264 3264]
+|-
+|actions || ['Talk-to', 'Attack', 'Pickpocket', 'Trick-or-treat', None] || ['Talk-to', 'Attack', 'Pickpocket', None, None]
+|-
+|rowspan="2"|[[Man]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#3265 3265]
+|-
+|actions || ['Talk-to', 'Attack', 'Pickpocket', 'Trick-or-treat', None] || ['Talk-to', 'Attack', 'Pickpocket', None, None]
+|-
+|rowspan="2"|[[Norman]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#3266 3266]
+|-
+|actions || ['Talk-to', None, None, 'Trick-or-treat', None] || ['Talk-to', None, None, None, None]
+|-
+|rowspan="2"|[[Woman]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#3268 3268]
+|-
+|actions || ['Talk-to', 'Attack', 'Pickpocket', 'Trick-or-treat', None] || ['Talk-to', 'Attack', 'Pickpocket', None, None]
+|-
+|rowspan="2"|[[Guard]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#3269 3269]
+|-
+|actions || [None, 'Attack', 'Pickpocket', 'Trick-or-treat', None] || [None, 'Attack', 'Pickpocket', None, None]
+|-
+|rowspan="2"|[[Guard]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#3270 3270]
+|-
+|actions || [None, 'Attack', 'Pickpocket', 'Trick-or-treat', None] || [None, 'Attack', 'Pickpocket', None, None]
+|-
+|rowspan="2"|[[Guard]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#3271 3271]
+|-
+|actions || [None, 'Attack', 'Pickpocket', 'Trick-or-treat', None] || [None, 'Attack', 'Pickpocket', None, None]
+|-
+|rowspan="2"|[[Guard]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#3272 3272]
+|-
+|actions || [None, 'Attack', 'Pickpocket', 'Trick-or-treat', None] || [None, 'Attack', 'Pickpocket', None, None]
+|-
+|rowspan="2"|[[Guard]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#3273 3273]
+|-
+|actions || [None, 'Attack', 'Pickpocket', 'Trick-or-treat', None] || [None, 'Attack', 'Pickpocket', None, None]
+|-
+|rowspan="2"|[[Guard]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#3274 3274]
+|-
+|actions || [None, 'Attack', 'Pickpocket', 'Trick-or-treat', None] || [None, 'Attack', 'Pickpocket', None, None]
+|-
+|rowspan="2"|[[Guard]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#3283 3283]
+|-
+|actions || ['Talk-to', 'Attack', 'Pickpocket', 'Trick-or-treat', None] || ['Talk-to', 'Attack', 'Pickpocket', None, None]
+|-
+|rowspan="2"|[[Man]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#3652 3652]
+|-
+|actions || ['Talk-to', 'Attack', 'Pickpocket', 'Trick-or-treat', None] || ['Talk-to', 'Attack', 'Pickpocket', None, None]
+|-
+|rowspan="2"|[[Aggie]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#4284 4284]
+|-
+|actions || ['Talk-to', None, None, 'Trick-or-treat', None] || ['Talk-to', None, None, None, None]
+|-
+|rowspan="2"|[[Ogre shaman]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#4384 4384]
+|-
+|combatLevel || 1 || 113
+|-
+|rowspan="2"|[[Blue dragon]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#4385 4385]
+|-
+|combatLevel || 27 || 111
+|-
+|rowspan="2"|[[Hetty]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#4619 4619]
+|-
+|actions || ['Talk-to', None, None, 'Trick-or-treat', None] || ['Talk-to', None, None, None, None]
+|-
+|rowspan="2"|[[King Roald]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#5215 5215]
+|-
+|actions || ['Talk-to', None, None, 'Trick-or-treat', None] || ['Talk-to', None, None, None, None]
+|-
+|rowspan="2"|[[Party Pete]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#5792 5792]
+|-
+|actions || ['Talk-to', None, None, 'Trick-or-treat', None] || ['Talk-to', None, None, None, None]
+|-
+|rowspan="2"|[[Man]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#6818 6818]
+|-
+|actions || ['Talk-to', 'Attack', 'Pickpocket', 'Trick-or-treat', None] || ['Talk-to', 'Attack', 'Pickpocket', None, None]
+|-
+|rowspan="2"|[[Man]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#6987 6987]
+|-
+|actions || ['Talk-to', 'Attack', 'Pickpocket', 'Trick-or-treat', None] || ['Talk-to', 'Attack', 'Pickpocket', None, None]
+|-
+|rowspan="2"|[[Man]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#6988 6988]
+|-
+|actions || ['Talk-to', 'Attack', 'Pickpocket', 'Trick-or-treat', None] || ['Talk-to', 'Attack', 'Pickpocket', None, None]
+|-
+|rowspan="2"|[[Man]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#6989 6989]
+|-
+|actions || ['Talk-to', 'Attack', 'Pickpocket', 'Trick-or-treat', None] || ['Talk-to', 'Attack', 'Pickpocket', None, None]
+|-
+|rowspan="2"|[[Woman]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#6990 6990]
+|-
+|actions || ['Talk-to', 'Attack', 'Pickpocket', 'Trick-or-treat', None] || ['Talk-to', 'Attack', 'Pickpocket', None, None]
+|-
+|rowspan="2"|[[Woman]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#6991 6991]
+|-
+|actions || ['Talk-to', 'Attack', 'Pickpocket', 'Trick-or-treat', None] || ['Talk-to', 'Attack', 'Pickpocket', None, None]
+|-
+|rowspan="2"|[[Woman]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#6992 6992]
+|-
+|actions || ['Talk-to', 'Attack', 'Pickpocket', 'Trick-or-treat', None] || ['Talk-to', 'Attack', 'Pickpocket', None, None]
+|-
+|rowspan="2"|[[Woman]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#10728 10728]
+|-
+|actions || ['Talk-to', 'Attack', 'Pickpocket', 'Trick-or-treat', None] || ['Talk-to', 'Attack', 'Pickpocket', None, None]
+|-
+|rowspan="2"|[[Woman]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#11053 11053]
+|-
+|actions || ['Talk-to', 'Attack', 'Pickpocket', 'Trick-or-treat', None] || ['Talk-to', 'Attack', 'Pickpocket', None, None]
+|-
+|rowspan="2"|[[Woman]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#11054 11054]
+|-
+|actions || ['Talk-to', 'Attack', 'Pickpocket', 'Trick-or-treat', None] || ['Talk-to', 'Attack', 'Pickpocket', None, None]
+|-
+|rowspan="2"|[[Man]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#11057 11057]
+|-
+|actions || ['Talk-to', 'Attack', 'Pickpocket', 'Trick-or-treat', None] || ['Talk-to', 'Attack', 'Pickpocket', None, None]
+|-
+|rowspan="2"|[[Man]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#11058 11058]
+|-
+|actions || ['Talk-to', 'Attack', 'Pickpocket', 'Trick-or-treat', None] || ['Talk-to', 'Attack', 'Pickpocket', None, None]
+|-
+|rowspan="2"|[[Guard]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#11092 11092]
+|-
+|actions || [None, 'Attack', 'Pickpocket', 'Trick-or-treat', None] || [None, 'Attack', 'Pickpocket', None, None]
+|-
+|rowspan="2"|[[Guard]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#11094 11094]
+|-
+|actions || [None, 'Attack', 'Pickpocket', 'Trick-or-treat', None] || [None, 'Attack', 'Pickpocket', None, None]
+|-
+|rowspan="2"|[[Guard]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#11096 11096]
+|-
+|actions || [None, 'Attack', 'Pickpocket', 'Trick-or-treat', None] || [None, 'Attack', 'Pickpocket', None, None]
+|-
+|rowspan="2"|[[Guard]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#11098 11098]
+|-
+|actions || [None, 'Attack', 'Pickpocket', 'Trick-or-treat', None] || [None, 'Attack', 'Pickpocket', None, None]
+|-
+|rowspan="2"|[[Guard]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#11100 11100]
+|-
+|actions || [None, 'Attack', 'Pickpocket', 'Trick-or-treat', None] || [None, 'Attack', 'Pickpocket', None, None]
+|-
+|rowspan="2"|[[Guard]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#11102 11102]
+|-
+|actions || [None, 'Attack', 'Pickpocket', 'Trick-or-treat', None] || [None, 'Attack', 'Pickpocket', None, None]
+|-
+|rowspan="2"|[[Guard]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#11104 11104]
+|-
+|actions || [None, 'Attack', 'Pickpocket', 'Trick-or-treat', None] || [None, 'Attack', 'Pickpocket', None, None]
+|-
+|rowspan="2"|[[Guard]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#11106 11106]
+|-
+|actions || [None, 'Attack', 'Pickpocket', 'Trick-or-treat', None] || [None, 'Attack', 'Pickpocket', None, None]
+|-
+|rowspan="2"|[[Guard]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#11911 11911]
+|-
+|actions || [None, 'Attack', 'Pickpocket', 'Trick-or-treat', None] || [None, 'Attack', 'Pickpocket', None, None]
+|-
+|rowspan="2"|[[Guard]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#11912 11912]
+|-
+|actions || [None, 'Attack', 'Pickpocket', 'Trick-or-treat', None] || [None, 'Attack', 'Pickpocket', None, None]
+|-
+|rowspan="2"|[[Guard]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#11913 11913]
+|-
+|actions || [None, 'Attack', 'Pickpocket', 'Trick-or-treat', None] || [None, 'Attack', 'Pickpocket', None, None]
+|-
+|rowspan="2"|[[Guard]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#11914 11914]
+|-
+|actions || [None, 'Attack', 'Pickpocket', 'Trick-or-treat', None] || [None, 'Attack', 'Pickpocket', None, None]
+|-
+|rowspan="2"|[[Guard]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#11915 11915]
+|-
+|actions || [None, 'Attack', 'Pickpocket', 'Trick-or-treat', None] || [None, 'Attack', 'Pickpocket', None, None]
+|-
+|rowspan="2"|[[Guard]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#11916 11916]
+|-
+|actions || [None, 'Attack', 'Pickpocket', 'Trick-or-treat', None] || [None, 'Attack', 'Pickpocket', None, None]
+|-
+|rowspan="2"|[[Guard]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#11917 11917]
+|-
+|actions || [None, 'Attack', 'Pickpocket', 'Trick-or-treat', None] || [None, 'Attack', 'Pickpocket', None, None]
+|-
+|rowspan="2"|[[Guard]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#11922 11922]
+|-
+|actions || [None, 'Attack', 'Pickpocket', 'Trick-or-treat', None] || [None, 'Attack', 'Pickpocket', None, None]
+|-
+|rowspan="2"|[[Guard]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#11923 11923]
+|-
+|actions || [None, 'Attack', 'Pickpocket', 'Trick-or-treat', None] || [None, 'Attack', 'Pickpocket', None, None]
+|-
+|rowspan="2"|[[Guard]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#11924 11924]
+|-
+|actions || [None, 'Attack', 'Pickpocket', 'Trick-or-treat', None] || [None, 'Attack', 'Pickpocket', None, None]
+|-
+|rowspan="2"|[[Guard]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#11942 11942]
+|-
+|actions || [None, 'Attack', 'Pickpocket', 'Trick-or-treat', None] || [None, 'Attack', 'Pickpocket', None, None]
+|-
+|rowspan="2"|[[Guard]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#11943 11943]
+|-
+|actions || [None, 'Attack', 'Pickpocket', 'Trick-or-treat', None] || [None, 'Attack', 'Pickpocket', None, None]
+|-
+|rowspan="2"|[[Guard]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#11944 11944]
+|-
+|actions || [None, 'Attack', 'Pickpocket', 'Trick-or-treat', None] || [None, 'Attack', 'Pickpocket', None, None]
+|-
+|rowspan="2"|[[Guard]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#11945 11945]
+|-
+|actions || [None, 'Attack', 'Pickpocket', 'Trick-or-treat', None] || [None, 'Attack', 'Pickpocket', None, None]
+|-
+|rowspan="2"|[[Guard]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#11946 11946]
+|-
+|actions || [None, 'Attack', 'Pickpocket', 'Trick-or-treat', None] || [None, 'Attack', 'Pickpocket', None, None]
+|-
+|rowspan="2"|[[Guard]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#11947 11947]
+|-
+|actions || [None, 'Attack', 'Pickpocket', 'Trick-or-treat', None] || [None, 'Attack', 'Pickpocket', None, None]
+|-
+|}
+
+==Objects==
+===New Objects=== 
+{| class="wikitable sortable"
+!colspan='3'|New Objects
+|-
+! style=width:15em | Name !! ID !! Options
+|-
+| [[Spooky cauldron]] || [https://chisel.weirdgloop.org/moid/object_id.html#46323 46323] || Rummage, Stats
+|-
+|-
+|}
+===Removed Objects===
+{| class="wikitable sortable"
+!colspan='2'|Removed Objects
+|-
+! style=width:15em | Name !! ID
+|-
+|-
+|}
+===Diff Objects===
+{| class="wikitable sortable"
+!colspan='5'|Diff Objects
+|-
+! style=width:15em | Name !! ID !! Key !! Previous Value !! New Value
+|-
+|}

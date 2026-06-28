@@ -32,11 +32,7 @@ internal object GameSchemaBootstrap {
                 .split(';')
                 .asSequence()
                 .map { chunk ->
-                    chunk
-                        .lines()
-                        .filterNot { it.trim().startsWith("--") }
-                        .joinToString("\n")
-                        .trim()
+                    chunk.lines().filterNot { it.trim().startsWith("--") }.joinToString("\n").trim()
                 }
                 .filter { it.isNotEmpty() }
                 .toList()
@@ -55,12 +51,16 @@ internal object GameSchemaBootstrap {
         if (!columns.contains("online_central_world_id")) {
             connection
                 .createStatement()
-                .execute("ALTER TABLE account_characters ADD COLUMN online_central_world_id INTEGER NULL")
+                .execute(
+                    "ALTER TABLE account_characters ADD COLUMN online_central_world_id INTEGER NULL"
+                )
         }
         if (!columns.contains("online_session_heartbeat")) {
             connection
                 .createStatement()
-                .execute("ALTER TABLE account_characters ADD COLUMN online_session_heartbeat TIMESTAMP NULL")
+                .execute(
+                    "ALTER TABLE account_characters ADD COLUMN online_session_heartbeat TIMESTAMP NULL"
+                )
         }
     }
 
@@ -79,29 +79,21 @@ internal object GameSchemaBootstrap {
         }
     }
 
-    private fun columnDataType(
-        connection: Connection,
-        table: String,
-        column: String,
-    ): String? {
+    private fun columnDataType(connection: Connection, table: String, column: String): String? {
         val sql =
             """
             SELECT data_type FROM information_schema.columns
             WHERE table_schema = 'public' AND table_name = ? AND column_name = ?
-            """.trimIndent()
+            """
+                .trimIndent()
         return connection.prepareStatement(sql).use { ps ->
             ps.setString(1, table.lowercase())
             ps.setString(2, column.lowercase())
-            ps.executeQuery().use { rs ->
-                if (rs.next()) rs.getString(1) else null
-            }
+            ps.executeQuery().use { rs -> if (rs.next()) rs.getString(1) else null }
         }
     }
 
-    private fun columnNames(
-        connection: Connection,
-        table: String,
-    ): Set<String> {
+    private fun columnNames(connection: Connection, table: String): Set<String> {
         val names = mutableSetOf<String>()
         val sql = OpenRuneSql.text("game/schema/column_names.sql")
         connection.prepareStatement(sql).use { ps ->
@@ -115,16 +107,11 @@ internal object GameSchemaBootstrap {
         return names
     }
 
-    private fun tableExists(
-        connection: Connection,
-        name: String,
-    ): Boolean {
+    private fun tableExists(connection: Connection, name: String): Boolean {
         val sql = OpenRuneSql.text("game/schema/table_exists.sql")
         return connection.prepareStatement(sql).use { ps ->
             ps.setString(1, "public.$name")
-            ps.executeQuery().use { rs ->
-                rs.next() && rs.getBoolean(1)
-            }
+            ps.executeQuery().use { rs -> rs.next() && rs.getBoolean(1) }
         }
     }
 

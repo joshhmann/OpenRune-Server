@@ -1,0 +1,87 @@
+{{ToC}}
+==Items==
+{| class="wikitable sortable"
+!colspan='13'|Items
+|-
+! Name !! ID !! Key !! Previous Value !! New Value !! Members !! Tradeable in GE !! Equipable !! Stackable !! Noteable !! Options !! Placeholder !! Cost
+|-
+|}
+
+==Non-Player Characters==
+{| class="wikitable sortable"
+!colspan='5'|Non-Player Characters
+|-
+! Name !! ID !! Key !! Previous Value !! Changed into
+|-
+| [[Apprentice Tamara]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11464 11464] || colspan = "4" | New ID
+|-
+| [[Apprentice Tamara]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11465 11465] || colspan = "4" | New ID
+|-
+|rowspan="4"|[[null]]
+|rowspan="4"|[https://chisel.weirdgloop.org/moid/npc_id.html#11426 11426]
+|-
+|name || [[Apprentice Tamara]] || [[null]]
+|-
+| combatLevel || 0 || 3
+|-
+| varbitId || -1 || 13897
+|-
+|}
+
+==Objects==
+{| class="wikitable sortable"
+!colspan='5'|Objects
+|-
+! Name !! ID !! Key !! Previous Value !! Changed into
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#42835 42835]
+|-
+|configChangeDest || [42821, 42821, 42821, 42821, 42820, 42820, 42821, 42821, -1] || [42821, 42821, 42821, 42821, 42820, 42820, 42820, 42821, -1]
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#42836 42836]
+|-
+|configChangeDest || [42822, 42822, 42822, 42822, 42822, 42823, -1] || [42822, 42822, 42822, 42822, 42822, 42823, 42822, -1]
+|-
+|rowspan="2"|[[Weak Barrier]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#43744 43744]
+|-
+|actions || ['Inspect', None, None, None, None] || [None, None, None, None, None]
+|-
+|rowspan="2"|[[Weak Barrier]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#43745 43745]
+|-
+|actions || ['Inspect', None, None, None, None] || [None, None, None, None, None]
+|-
+|rowspan="2"|[[Medium Barrier]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#43746 43746]
+|-
+|actions || ['Inspect', None, None, None, None] || [None, None, None, None, None]
+|-
+|rowspan="2"|[[Medium Barrier]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#43747 43747]
+|-
+|actions || ['Inspect', None, None, None, None] || [None, None, None, None, None]
+|-
+|rowspan="2"|[[Strong Barrier]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#43748 43748]
+|-
+|actions || ['Inspect', None, None, None, None] || [None, None, None, None, None]
+|-
+|rowspan="2"|[[Strong Barrier]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#43749 43749]
+|-
+|actions || ['Inspect', None, None, None, None] || [None, None, None, None, None]
+|-
+|rowspan="2"|[[Overcharged Barrier]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#43750 43750]
+|-
+|actions || ['Inspect', None, None, None, None] || [None, None, None, None, None]
+|-
+|rowspan="2"|[[Overcharged Barrier]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#43751 43751]
+|-
+|actions || ['Inspect', None, None, None, None] || [None, None, None, None, None]
+|-
+|}

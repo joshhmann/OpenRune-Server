@@ -101,7 +101,8 @@ public fun Player.statAdd(stat: String, constant: Int, percent: Int) {
 
     statMap.setCurrentLevel(stat, cappedLevel.toByte())
 
-    val statType = ServerCacheManager.getStats(stat.asRSCM(RSCMType.STAT))?: error("No stat found for $stat")
+    val statType =
+        ServerCacheManager.getStats(stat.asRSCM(RSCMType.STAT)) ?: error("No stat found for $stat")
 
     updateStat(stat)
 
@@ -174,7 +175,8 @@ public fun Player.statSub(stat: String, constant: Int, percent: Int) {
 
     statMap.setCurrentLevel(stat, cappedLevel.toByte())
 
-    val statType = ServerCacheManager.getStats(stat.asRSCM(RSCMType.STAT)) ?: error("No stat found for $stat")
+    val statType =
+        ServerCacheManager.getStats(stat.asRSCM(RSCMType.STAT)) ?: error("No stat found for $stat")
 
     updateStat(stat)
 
@@ -251,8 +253,9 @@ public fun Player.statHeal(internal: String, constant: Int, percent: Int) {
 
     statMap.setCurrentLevel(internal, cappedLevel.toByte())
 
-    val stat = ServerCacheManager.getStats(internal.asRSCM(RSCMType.STAT))
-        ?: error("No stat found for $internal")
+    val stat =
+        ServerCacheManager.getStats(internal.asRSCM(RSCMType.STAT))
+            ?: error("No stat found for $internal")
 
     updateStat(internal)
 
@@ -287,8 +290,9 @@ public fun Player.statRandom(
     invisibleBoost: Int,
 ): Boolean {
 
-    val stat = ServerCacheManager.getStats(internal.asRSCM(RSCMType.STAT))
-        ?: error("No stat found for $internal")
+    val stat =
+        ServerCacheManager.getStats(internal.asRSCM(RSCMType.STAT))
+            ?: error("No stat found for $internal")
 
     val visibleLevel = stat(internal)
     val effectiveLevel = visibleLevel.coerceIn(1, stat.maxLevel) + invisibleBoost

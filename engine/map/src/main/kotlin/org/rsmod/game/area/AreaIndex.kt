@@ -44,10 +44,7 @@ public class AreaIndex {
         mapSquareAreas.get(mapSquare, dest)
     }
 
-    public fun putAreasIncludingParents(
-        coord: CoordGrid,
-        dest: ShortArrayList,
-    ) {
+    public fun putAreasIncludingParents(coord: CoordGrid, dest: ShortArrayList) {
         putAreas(coord, dest)
 
         val queue = ShortArrayList(dest)
@@ -112,9 +109,7 @@ public class AreaIndex {
         while (it.hasNext()) {
             val child = it.nextShort()
 
-            val parents = parentAreas.getOrPut(child) {
-                ShortArraySet()
-            }
+            val parents = parentAreas.getOrPut(child) { ShortArraySet() }
 
             parents.add(area)
         }

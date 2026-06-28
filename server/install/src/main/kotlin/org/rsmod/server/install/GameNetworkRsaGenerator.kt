@@ -38,9 +38,7 @@ class GameNetworkRsaGenerator : CliktCommand(name = "generate-rsa") {
         val gameKeyFile = cacheDir.resolve(privateKeyFileName)
         val clientModFile = cacheDir.resolve(publicModFileName)
         if (!fileOverwrite && gameKeyFile.exists() && clientModFile.exists()) {
-            logger.info {
-                "RSA key files already found: $gameKeyFile and $clientModFile"
-            }
+            logger.info { "RSA key files already found: $gameKeyFile and $clientModFile" }
             return
         }
         cacheDir.createDirectories()

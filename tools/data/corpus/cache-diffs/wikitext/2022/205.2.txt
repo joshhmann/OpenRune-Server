@@ -1,0 +1,83 @@
+{{ToC}}
+==Items==
+{| class="wikitable sortable"
+!colspan='13'|Items
+|-
+! Name !! ID !! Key !! Previous Value !! New Value !! Members !! Tradeable in GE !! Equipable !! Stackable !! Noteable !! Options !! Placeholder !! Cost
+|-
+| [[Ensouled hellhound head]] || [https://chisel.weirdgloop.org/moid/item_id.html#26996 26996] || colspan = "3" | New ID || Yes || No || No || No || No ||     Drop || No || 540
+|-
+| [[Ensouled hellhound head]] || [https://chisel.weirdgloop.org/moid/item_id.html#26997 26997] || colspan = "3" | New ID || Yes || Yes || No || No || Yes ||     Drop || Yes || 536
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#26998 26998] || colspan = "3" | New ID || No || No || No || No || Yes ||     Drop || No || 1
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#26999 26999] || colspan = "3" | New ID || No || No || No || No || No ||     Drop || Yes || 1
+|-
+| [[Void knight top (l)(or)]] || [https://chisel.weirdgloop.org/moid/item_id.html#27000 27000] || colspan = "3" | New ID || Yes || No || Yes || No || No ||  Wear, Dismantle,  Drop || No || 48000
+|-
+| [[Void knight robe (l)(or)]] || [https://chisel.weirdgloop.org/moid/item_id.html#27001 27001] || colspan = "3" | New ID || Yes || No || Yes || No || No ||  Wear, Dismantle,  Drop || No || 45000
+|-
+| [[Void knight gloves (l)(or)]] || [https://chisel.weirdgloop.org/moid/item_id.html#27002 27002] || colspan = "3" | New ID || Yes || No || Yes || No || No ||  Wear, Dismantle,  Drop || No || 6052
+|-
+| [[Elite void top (l)(or)]] || [https://chisel.weirdgloop.org/moid/item_id.html#27003 27003] || colspan = "3" | New ID || Yes || No || Yes || No || No ||  Wear, Dismantle,  Drop || No || 48500
+|-
+| [[Elite void robe (l)(or)]] || [https://chisel.weirdgloop.org/moid/item_id.html#27004 27004] || colspan = "3" | New ID || Yes || No || Yes || No || No ||  Wear, Dismantle,  Drop || No || 45500
+|-
+| [[Void mage helm (l)(or)]] || [https://chisel.weirdgloop.org/moid/item_id.html#27005 27005] || colspan = "3" | New ID || Yes || No || Yes || No || No ||  Wear, Dismantle,  Drop || No || 9851
+|-
+| [[Void ranger helm (l)(or)]] || [https://chisel.weirdgloop.org/moid/item_id.html#27006 27006] || colspan = "3" | New ID || Yes || No || Yes || No || No ||  Wear, Dismantle,  Drop || No || 9851
+|-
+| [[Void melee helm (l)(or)]] || [https://chisel.weirdgloop.org/moid/item_id.html#27007 27007] || colspan = "3" | New ID || Yes || No || Yes || No || No ||  Wear, Dismantle,  Drop || No || 9851
+|-
+| [[Dragon defender (l)(t)]] || [https://chisel.weirdgloop.org/moid/item_id.html#27008 27008] || colspan = "3" | New ID || Yes || No || Yes || No || No ||  Wield,   Dismantle || No || 68007
+|-
+| [[Rune defender (l)(t)]] || [https://chisel.weirdgloop.org/moid/item_id.html#27009 27009] || colspan = "3" | New ID || Yes || No || Yes || No || No ||  Wield,   Dismantle || No || 65004
+|-
+|rowspan="6"|[[Null]]
+|rowspan="6"|[https://chisel.weirdgloop.org/moid/item_id.html#26248 26248]
+|-
+|xan2d || 192 || 81
+|-
+| yan2d || 104 || 1872
+|-
+| inventoryModel || 2767 || 32299
+|-
+| zoom2d || 950 || 4379
+|-
+| yOffset2d || -9 || -12
+|-
+|rowspan="2"|[[Pharaoh's sceptre]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26948 26948]
+|-
+|ambient || -25 || 0
+|-
+|rowspan="2"|[[Pharaoh's sceptre]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26950 26950]
+|-
+|ambient || -25 || 0
+|-
+|}
+
+==Non-Player Characters==
+{| class="wikitable sortable"
+!colspan='5'|Non-Player Characters
+|-
+! Name !! ID !! Key !! Previous Value !! Changed into
+|-
+| [[Reanimated hellhound]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11463 11463] || colspan = "4" | New ID
+|-
+|}
+
+==Objects==
+{| class="wikitable sortable"
+!colspan='5'|Objects
+|-
+! Name !! ID !! Key !! Previous Value !! Changed into
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43851 43851] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43852 43852] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43853 43853] || colspan = "4" | New ID
+|-
+|}

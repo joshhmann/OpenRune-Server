@@ -13,12 +13,13 @@ object ExceptionHandlersProvider {
     private val logger = InlineLogger()
 
     fun provide(): ExceptionHandlers<Player> {
-        val channelHandler = ChannelExceptionHandler { ctx: ChannelHandlerContext, cause: Throwable ->
-            logger.warn(cause) {
-                "Network channel exception from ${ctx.channel().remoteAddress()}: ${cause.message}"
+        val channelHandler =
+            ChannelExceptionHandler { ctx: ChannelHandlerContext, cause: Throwable ->
+                logger.warn(cause) {
+                    "Network channel exception from ${ctx.channel().remoteAddress()}: ${cause.message}"
+                }
+                throw cause
             }
-            throw cause
-        }
         val messageHandler =
             IncomingGameMessageConsumerExceptionHandler {
                 _: Session<Player>,

@@ -1,0 +1,243 @@
+{{ToC}}
+==Items==
+===New Items===
+{| class="wikitable sortable"
+!colspan='11'|New Items
+|-
+! style=width:15em | Name !! ID !! Members !! Tradeable in GE !! Equipable !! Stackable !! Noteable !! Options !! Placeholder !! Cost !! Weight
+|-
+|-
+|}
+===Removed Items===
+{| class="wikitable sortable"
+!colspan='2'|Removed Items
+|-
+! style=width:15em | Name !! ID
+|-
+|-
+|}
+===Diff Items===
+{| class="wikitable sortable"
+!colspan='5'|Diff Items
+|-
+! style=width:15em | Name !! ID !! Key !! Previous Value !! New Value
+|-
+|rowspan="2"|[[Viggora's chainmace]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#22545 22545]
+|-
+|params || {'434': 0, '595': 'Check', '451': 'Check', '436': 60, '1733': "Viggora's chainmace", '23': 60, '41': 1, '1564': 3} || {'434': 0, '451': 'Check', '436': 60, '1733': "Viggora's chainmace", '23': 60, '41': 1, '1564': 3}
+|-
+|rowspan="2"|[[Craw's bow]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#22550 22550]
+|-
+|params || {'434': 4, '595': 'Check', '451': 'Check', '436': 60, '1733': "Craw's bow", '23': 60, '1564': 3} || {'434': 4, '451': 'Check', '1564': 3, '436': 60, '1733': "Craw's bow", '23': 60}
+|-
+|rowspan="2"|[[Thammaron's sceptre]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#22555 22555]
+|-
+|params || {'434': 6, '595': 'Check', '451': 'Check', '436': 60, '452': 'Swap', '1733': "Thammaron's Sceptre", '23': 60, '41': 1, '1564': 3} || {'434': 6, '451': 'Check', '436': 60, '452': 'Swap', '1733': "Thammaron's Sceptre", '23': 60, '41': 1, '1564': 3}
+|-
+|rowspan="2"|[[Webweaver bow]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#27655 27655]
+|-
+|params || {'434': 4, '595': 'Check', '451': 'Check', '436': 70, '1733': "Webweaver's bow", '23': 70, '1564': 3} || {'434': 4, '451': 'Check', '1564': 3, '436': 70, '1733': "Webweaver's bow", '23': 70}
+|-
+|rowspan="2"|[[Ursine chainmace]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#27660 27660]
+|-
+|params || {'434': 0, '595': 'Check', '451': 'Check', '436': 70, '1733': 'Ursine chainmace', '23': 70, '41': 1, '1564': 3} || {'434': 0, '451': 'Check', '436': 70, '1733': 'Ursine chainmace', '23': 70, '41': 1, '1564': 3}
+|-
+|rowspan="2"|[[Accursed sceptre]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#27665 27665]
+|-
+|params || {'434': 6, '595': 'Check', '451': 'Check', '436': 70, '452': 'Swap', '1733': 'Accursed sceptre', '23': 70, '41': 1, '1564': 3} || {'434': 6, '451': 'Check', '436': 70, '452': 'Swap', '1733': 'Accursed sceptre', '23': 70, '41': 1, '1564': 3}
+|-
+|rowspan="2"|[[Accursed sceptre (a)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#27679 27679]
+|-
+|params || {'434': 6, '595': 'Check', '451': 'Check', '436': 70, '452': 'Swap', '1733': 'Accursed sceptre', '23': 70, '41': 1, '1737': 1, '1564': 3} || {'434': 6, '451': 'Check', '436': 70, '452': 'Swap', '1733': 'Accursed sceptre', '23': 70, '41': 1, '1737': 1, '1564': 3}
+|-
+|rowspan="2"|[[Thammaron's sceptre (a)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#27788 27788]
+|-
+|params || {'434': 6, '595': 'Check', '451': 'Check', '436': 60, '452': 'Swap', '23': 60, '41': 1, '1737': 1, '1564': 3} || {'434': 6, '451': 'Check', '436': 60, '452': 'Swap', '23': 60, '41': 1, '1737': 1, '1564': 3}
+|-
+|rowspan="5"|[[Null]]
+|rowspan="5"|[https://chisel.weirdgloop.org/moid/item_id.html#27878 27878]
+|-
+|name || [[Easter egg]] || [[Null]]
+|-
+| cost || 5 || 1
+|-
+| interfaceOptions || [None, None, None, None, 'Destroy'] || [None, None, None, None, 'Drop']
+|-
+| category || 0 || 15
+|-
+|rowspan="5"|[[Null]]
+|rowspan="5"|[https://chisel.weirdgloop.org/moid/item_id.html#27880 27880]
+|-
+|name || [[Warm easter egg]] || [[Null]]
+|-
+| cost || 5 || 1
+|-
+| interfaceOptions || [None, None, None, None, 'Destroy'] || [None, None, None, None, 'Drop']
+|-
+| category || 0 || 15
+|-
+|rowspan="5"|[[Null]]
+|rowspan="5"|[https://chisel.weirdgloop.org/moid/item_id.html#27882 27882]
+|-
+|name || [[Easter egg half]] || [[Null]]
+|-
+| cost || 5 || 1
+|-
+| interfaceOptions || [None, None, None, None, 'Destroy'] || [None, None, None, None, 'Drop']
+|-
+| category || 0 || 15
+|-
+|rowspan="5"|[[Null]]
+|rowspan="5"|[https://chisel.weirdgloop.org/moid/item_id.html#27884 27884]
+|-
+|name || [[Egg mould]] || [[Null]]
+|-
+| cost || 5 || 1
+|-
+| interfaceOptions || [None, None, None, None, 'Destroy'] || [None, None, None, None, 'Drop']
+|-
+| category || 0 || 15
+|-
+|rowspan="5"|[[Null]]
+|rowspan="5"|[https://chisel.weirdgloop.org/moid/item_id.html#27886 27886]
+|-
+|name || [[Dusted egg mould]] || [[Null]]
+|-
+| cost || 5 || 1
+|-
+| interfaceOptions || [None, None, None, None, 'Destroy'] || [None, None, None, None, 'Drop']
+|-
+| category || 0 || 15
+|-
+|rowspan="5"|[[Null]]
+|rowspan="5"|[https://chisel.weirdgloop.org/moid/item_id.html#27888 27888]
+|-
+|name || [[Hot egg mould]] || [[Null]]
+|-
+| cost || 5 || 1
+|-
+| interfaceOptions || ['Empty', None, None, None, 'Destroy'] || [None, None, None, None, 'Drop']
+|-
+| category || 0 || 15
+|-
+|rowspan="5"|[[Null]]
+|rowspan="5"|[https://chisel.weirdgloop.org/moid/item_id.html#27890 27890]
+|-
+|name || [[Bucket of freezing milk]] || [[Null]]
+|-
+| cost || 6 || 1
+|-
+| interfaceOptions || [None, None, None, 'Empty', 'Destroy'] || [None, None, None, None, 'Drop']
+|-
+| category || 0 || 15
+|-
+|rowspan="5"|[[Null]]
+|rowspan="5"|[https://chisel.weirdgloop.org/moid/item_id.html#27892 27892]
+|-
+|name || [[Easter chocolate dust]] || [[Null]]
+|-
+| cost || 6 || 1
+|-
+| interfaceOptions || [None, None, None, None, 'Destroy'] || [None, None, None, None, 'Drop']
+|-
+| category || 0 || 15
+|-
+|}
+
+==Non-Player Characters==
+===New NPCs===
+{| class="wikitable sortable"
+!colspan='4'|New NPCs
+|-
+! style=width:15em | Name !! ID !! Combat Level !! Options
+|-
+|-
+|}
+===Removed NPCs===
+{| class="wikitable sortable"
+!colspan='2'|Removed NPCs
+|-
+! style=width:15em | Name !! ID
+|-
+| [[Easter Bunny]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12109 12109]
+|-
+| [[Easter Bunny]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12110 12110]
+|-
+| [[Chicken]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12111 12111]
+|-
+| [[Rabbit]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12112 12112]
+|-
+| [[Wilough]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12113 12113]
+|-
+| [[Horvik]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12114 12114]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12115 12115]
+|-
+|-
+|}
+===Diff NPCs===
+{| class="wikitable sortable"
+!colspan='5'|Diff NPCs
+|-
+! style=width:15em | Name !! ID !! Key !! Previous Value !! New Value
+|-
+|}
+
+==Objects==
+===New Objects=== 
+{| class="wikitable sortable"
+!colspan='3'|New Objects
+|-
+! style=width:15em | Name !! ID !! Options
+|-
+| [[Bank chest]] || [https://chisel.weirdgloop.org/moid/object_id.html#47419 47419] || None
+|-
+| [[Bank chest]] || [https://chisel.weirdgloop.org/moid/object_id.html#47420 47420] || Use, Collect
+|-
+|-
+|}
+===Removed Objects===
+{| class="wikitable sortable"
+!colspan='2'|Removed Objects
+|-
+! style=width:15em | Name !! ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#47337 47337]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#47338 47338]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#47339 47339]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#47340 47340]
+|-
+| [[Crate]] || [https://chisel.weirdgloop.org/moid/object_id.html#47341 47341]
+|-
+| [[Crate]] || [https://chisel.weirdgloop.org/moid/object_id.html#47342 47342]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#47343 47343]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#47344 47344]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#47345 47345]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#47346 47346]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#47347 47347]
+|-
+|-
+|}
+===Diff Objects===
+{| class="wikitable sortable"
+!colspan='5'|Diff Objects
+|-
+! style=width:15em | Name !! ID !! Key !! Previous Value !! New Value
+|-
+|}

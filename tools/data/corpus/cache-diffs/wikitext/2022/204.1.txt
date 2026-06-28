@@ -1,0 +1,1516 @@
+{{ToC}}
+==Items==
+{| class="wikitable sortable"
+!colspan='13'|Items
+|-
+! Name !! ID !! Key !! Previous Value !! New Value !! Members !! Tradeable in GE !! Equipable !! Stackable !! Noteable !! Options !! Placeholder !! Cost
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#26783 26783] || colspan = "3" | New ID || No || No || No || No || No ||     Drop || Yes || 1
+|-
+| [[Colossal pouch]] || [https://chisel.weirdgloop.org/moid/item_id.html#26784 26784] || colspan = "3" | New ID || Yes || No || No || No || No || Fill, Empty, Check,  Drop || Yes || 1200
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#26785 26785] || colspan = "3" | New ID || No || No || No || No || No ||     Drop || Yes || 1
+|-
+| [[Colossal pouch]] || [https://chisel.weirdgloop.org/moid/item_id.html#26786 26786] || colspan = "3" | New ID || Yes || No || No || No || No || Fill, Empty, Check,  Drop || Yes || 1200
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#26787 26787] || colspan = "3" | New ID || No || No || No || No || No ||     Drop || Yes || 1
+|-
+| [[Gold tiara]] || [https://chisel.weirdgloop.org/moid/item_id.html#26788 26788] || colspan = "3" | New ID || Yes || Yes || Yes || No || Yes ||  Wear,   Drop || Yes || 100
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#26789 26789] || colspan = "3" | New ID || No || No || No || No || Yes ||     Drop || No || 1
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#26790 26790] || colspan = "3" | New ID || No || No || No || No || No ||     Drop || Yes || 1
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#26791 26791] || colspan = "3" | New ID || No || No || No || No || No ||     Drop || Yes || 1
+|-
+| [[Abyssal pearls]] || [https://chisel.weirdgloop.org/moid/item_id.html#26792 26792] || colspan = "3" | New ID || Yes || No || No || Yes || No ||     Drop || Yes || 50
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#26793 26793] || colspan = "3" | New ID || No || No || No || No || No ||     Drop || Yes || 1
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#26794 26794] || colspan = "3" | New ID || No || No || No || Yes || No ||     Drop || No || 1
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#26795 26795] || colspan = "3" | New ID || No || No || No || Yes || No ||     Drop || No || 1
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#26796 26796] || colspan = "3" | New ID || No || No || No || Yes || No ||     Drop || No || 1
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#26797 26797] || colspan = "3" | New ID || No || No || No || Yes || No ||     Drop || No || 1
+|-
+| [[Catalytic talisman]] || [https://chisel.weirdgloop.org/moid/item_id.html#26798 26798] || colspan = "3" | New ID || Yes || Yes || No || No || Yes ||    Locate, Drop || Yes || 2000
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#26799 26799] || colspan = "3" | New ID || No || No || No || No || Yes ||     Drop || No || 1
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#26800 26800] || colspan = "3" | New ID || No || No || No || No || No ||     Drop || Yes || 1
+|-
+| [[Catalytic tiara]] || [https://chisel.weirdgloop.org/moid/item_id.html#26801 26801] || colspan = "3" | New ID || Yes || Yes || Yes || No || Yes ||  Wear,   Drop || Yes || 100
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#26802 26802] || colspan = "3" | New ID || No || No || No || No || Yes ||     Drop || No || 1
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#26803 26803] || colspan = "3" | New ID || No || No || No || No || No ||     Drop || Yes || 1
+|-
+| [[Elemental tiara]] || [https://chisel.weirdgloop.org/moid/item_id.html#26804 26804] || colspan = "3" | New ID || Yes || Yes || Yes || No || Yes ||  Wear,   Drop || Yes || 100
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#26805 26805] || colspan = "3" | New ID || No || No || No || No || Yes ||     Drop || No || 1
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#26806 26806] || colspan = "3" | New ID || No || No || No || No || No ||     Drop || Yes || 1
+|-
+| [[Abyssal green dye]] || [https://chisel.weirdgloop.org/moid/item_id.html#26807 26807] || colspan = "3" | New ID || Yes || No || No || No || No ||     Drop || Yes || 3000
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#26808 26808] || colspan = "3" | New ID || No || No || No || No || No ||     Drop || Yes || 1
+|-
+| [[Abyssal blue dye]] || [https://chisel.weirdgloop.org/moid/item_id.html#26809 26809] || colspan = "3" | New ID || Yes || No || No || No || No ||     Drop || Yes || 3000
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#26810 26810] || colspan = "3" | New ID || No || No || No || No || No ||     Drop || Yes || 1
+|-
+| [[Abyssal red dye]] || [https://chisel.weirdgloop.org/moid/item_id.html#26811 26811] || colspan = "3" | New ID || Yes || No || No || No || No ||     Drop || Yes || 3000
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#26812 26812] || colspan = "3" | New ID || No || No || No || No || No ||     Drop || Yes || 1
+|-
+| [[Abyssal needle]] || [https://chisel.weirdgloop.org/moid/item_id.html#26813 26813] || colspan = "3" | New ID || Yes || No || No || No || No ||     Drop || Yes || 3000
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#26814 26814] || colspan = "3" | New ID || No || No || No || No || No ||     Drop || Yes || 1
+|-
+| [[Ring of the elements]] || [https://chisel.weirdgloop.org/moid/item_id.html#26815 26815] || colspan = "3" | New ID || Yes || Yes || No || No || Yes ||  Wear, Rub,  Drop || Yes || 2000
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#26816 26816] || colspan = "3" | New ID || No || No || No || No || Yes ||     Drop || No || 1
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#26817 26817] || colspan = "3" | New ID || No || No || No || No || No ||     Drop || Yes || 1
+|-
+| [[Ring of the elements]] || [https://chisel.weirdgloop.org/moid/item_id.html#26818 26818] || colspan = "3" | New ID || Yes || No || No || No || No ||  Wear, Rub, Last Destination, Check || Yes || 2000
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#26819 26819] || colspan = "3" | New ID || No || No || No || No || No ||     Drop || Yes || 1
+|-
+| [[Guardian's eye]] || [https://chisel.weirdgloop.org/moid/item_id.html#26820 26820] || colspan = "3" | New ID || Yes || No || No || No || No ||     Drop || Yes || 3000
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#26821 26821] || colspan = "3" | New ID || No || No || No || No || No ||     Drop || Yes || 1
+|-
+| [[Abyssal lantern]] || [https://chisel.weirdgloop.org/moid/item_id.html#26822 26822] || colspan = "3" | New ID || Yes || No || Yes || No || No ||  Wield,   Drop || Yes || 100
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#26823 26823] || colspan = "3" | New ID || No || No || No || No || No ||     Drop || Yes || 1
+|-
+| [[Abyssal lantern (normal logs)]] || [https://chisel.weirdgloop.org/moid/item_id.html#26824 26824] || colspan = "3" | New ID || Yes || No || Yes || No || No ||  Wield, Extinguish, Inspect, Destroy || Yes || 100
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#26825 26825] || colspan = "3" | New ID || No || No || No || No || No ||     Drop || Yes || 1
+|-
+| [[Abyssal lantern (blue logs)]] || [https://chisel.weirdgloop.org/moid/item_id.html#26826 26826] || colspan = "3" | New ID || Yes || No || Yes || No || No ||  Wield, Extinguish, Inspect, Destroy || Yes || 100
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#26827 26827] || colspan = "3" | New ID || No || No || No || No || No ||     Drop || Yes || 1
+|-
+| [[Abyssal lantern (red logs)]] || [https://chisel.weirdgloop.org/moid/item_id.html#26828 26828] || colspan = "3" | New ID || Yes || No || Yes || No || No ||  Wield, Extinguish, Inspect, Destroy || Yes || 100
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#26829 26829] || colspan = "3" | New ID || No || No || No || No || No ||     Drop || Yes || 1
+|-
+| [[Abyssal lantern (white logs)]] || [https://chisel.weirdgloop.org/moid/item_id.html#26830 26830] || colspan = "3" | New ID || Yes || No || Yes || No || No ||  Wield, Extinguish, Inspect, Destroy || Yes || 100
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#26831 26831] || colspan = "3" | New ID || No || No || No || No || No ||     Drop || Yes || 1
+|-
+| [[Abyssal lantern (purple logs)]] || [https://chisel.weirdgloop.org/moid/item_id.html#26832 26832] || colspan = "3" | New ID || Yes || No || Yes || No || No ||  Wield, Extinguish, Inspect, Destroy || Yes || 100
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#26833 26833] || colspan = "3" | New ID || No || No || No || No || No ||     Drop || Yes || 1
+|-
+| [[Abyssal lantern (green logs)]] || [https://chisel.weirdgloop.org/moid/item_id.html#26834 26834] || colspan = "3" | New ID || Yes || No || Yes || No || No ||  Wield, Extinguish, Inspect, Destroy || Yes || 100
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#26835 26835] || colspan = "3" | New ID || No || No || No || No || No ||     Drop || Yes || 1
+|-
+| [[Abyssal lantern (oak logs)]] || [https://chisel.weirdgloop.org/moid/item_id.html#26836 26836] || colspan = "3" | New ID || Yes || No || Yes || No || No ||  Wield, Extinguish, Inspect, Destroy || Yes || 100
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#26837 26837] || colspan = "3" | New ID || No || No || No || No || No ||     Drop || Yes || 1
+|-
+| [[Abyssal lantern (willow logs)]] || [https://chisel.weirdgloop.org/moid/item_id.html#26838 26838] || colspan = "3" | New ID || Yes || No || Yes || No || No ||  Wield, Extinguish, Inspect, Destroy || Yes || 100
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#26839 26839] || colspan = "3" | New ID || No || No || No || No || No ||     Drop || Yes || 1
+|-
+| [[Abyssal lantern (maple logs)]] || [https://chisel.weirdgloop.org/moid/item_id.html#26840 26840] || colspan = "3" | New ID || Yes || No || Yes || No || No ||  Wield, Extinguish, Inspect, Destroy || Yes || 100
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#26841 26841] || colspan = "3" | New ID || No || No || No || No || No ||     Drop || Yes || 1
+|-
+| [[Abyssal lantern (yew logs)]] || [https://chisel.weirdgloop.org/moid/item_id.html#26842 26842] || colspan = "3" | New ID || Yes || No || Yes || No || No ||  Wield, Extinguish, Inspect, Destroy || Yes || 100
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#26843 26843] || colspan = "3" | New ID || No || No || No || No || No ||     Drop || Yes || 1
+|-
+| [[Abyssal lantern (blisterwood logs)]] || [https://chisel.weirdgloop.org/moid/item_id.html#26844 26844] || colspan = "3" | New ID || Yes || No || Yes || No || No ||  Wield, Extinguish, Inspect, Destroy || Yes || 100
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#26845 26845] || colspan = "3" | New ID || No || No || No || No || No ||     Drop || Yes || 1
+|-
+| [[Abyssal lantern (magic logs)]] || [https://chisel.weirdgloop.org/moid/item_id.html#26846 26846] || colspan = "3" | New ID || Yes || No || Yes || No || No ||  Wield, Extinguish, Inspect, Destroy || Yes || 100
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#26847 26847] || colspan = "3" | New ID || No || No || No || No || No ||     Drop || Yes || 1
+|-
+| [[Abyssal lantern (redwood logs)]] || [https://chisel.weirdgloop.org/moid/item_id.html#26848 26848] || colspan = "3" | New ID || Yes || No || Yes || No || No ||  Wield, Extinguish, Inspect, Destroy || Yes || 100
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#26849 26849] || colspan = "3" | New ID || No || No || No || No || No ||     Drop || Yes || 1
+|-
+| [[Hat of the eye]] || [https://chisel.weirdgloop.org/moid/item_id.html#26850 26850] || colspan = "3" | New ID || Yes || No || Yes || No || No ||  Wear,  Check, Drop || Yes || 500
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#26851 26851] || colspan = "3" | New ID || No || No || No || No || No ||     Drop || Yes || 1
+|-
+| [[Robe top of the eye]] || [https://chisel.weirdgloop.org/moid/item_id.html#26852 26852] || colspan = "3" | New ID || Yes || No || Yes || No || No ||  Wear,   Drop || Yes || 400
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#26853 26853] || colspan = "3" | New ID || No || No || No || No || No ||     Drop || Yes || 1
+|-
+| [[Robe bottoms of the eye]] || [https://chisel.weirdgloop.org/moid/item_id.html#26854 26854] || colspan = "3" | New ID || Yes || No || Yes || No || No ||  Wear,   Drop || Yes || 400
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#26855 26855] || colspan = "3" | New ID || No || No || No || No || No ||     Drop || Yes || 1
+|-
+| [[Boots of the eye]] || [https://chisel.weirdgloop.org/moid/item_id.html#26856 26856] || colspan = "3" | New ID || Yes || No || Yes || No || No ||  Wear,   Drop || Yes || 300
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#26857 26857] || colspan = "3" | New ID || No || No || No || No || No ||     Drop || Yes || 1
+|-
+| [[Hat of the eye (red)]] || [https://chisel.weirdgloop.org/moid/item_id.html#26858 26858] || colspan = "3" | New ID || Yes || No || Yes || No || No ||  Wear, Revert, Check, Drop || Yes || 500
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#26859 26859] || colspan = "3" | New ID || No || No || No || No || No ||     Drop || Yes || 1
+|-
+| [[Robe top of the eye (red)]] || [https://chisel.weirdgloop.org/moid/item_id.html#26860 26860] || colspan = "3" | New ID || Yes || No || Yes || No || No ||  Wear, Revert,  Drop || Yes || 400
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#26861 26861] || colspan = "3" | New ID || No || No || No || No || No ||     Drop || Yes || 1
+|-
+| [[Robe bottoms of the eye (red)]] || [https://chisel.weirdgloop.org/moid/item_id.html#26862 26862] || colspan = "3" | New ID || Yes || No || Yes || No || No ||  Wear, Revert,  Drop || Yes || 400
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#26863 26863] || colspan = "3" | New ID || No || No || No || No || No ||     Drop || Yes || 1
+|-
+| [[Hat of the eye (green)]] || [https://chisel.weirdgloop.org/moid/item_id.html#26864 26864] || colspan = "3" | New ID || Yes || No || Yes || No || No ||  Wear, Revert, Check, Drop || Yes || 500
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#26865 26865] || colspan = "3" | New ID || No || No || No || No || No ||     Drop || Yes || 1
+|-
+| [[Robe top of the eye (green)]] || [https://chisel.weirdgloop.org/moid/item_id.html#26866 26866] || colspan = "3" | New ID || Yes || No || Yes || No || No ||  Wear, Revert,  Drop || Yes || 400
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#26867 26867] || colspan = "3" | New ID || No || No || No || No || No ||     Drop || Yes || 1
+|-
+| [[Robe bottoms of the eye (green)]] || [https://chisel.weirdgloop.org/moid/item_id.html#26868 26868] || colspan = "3" | New ID || Yes || No || Yes || No || No ||  Wear, Revert,  Drop || Yes || 400
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#26869 26869] || colspan = "3" | New ID || No || No || No || No || No ||     Drop || Yes || 1
+|-
+| [[Hat of the eye (blue)]] || [https://chisel.weirdgloop.org/moid/item_id.html#26870 26870] || colspan = "3" | New ID || Yes || No || Yes || No || No ||  Wear, Revert, Check, Drop || Yes || 500
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#26871 26871] || colspan = "3" | New ID || No || No || No || No || No ||     Drop || Yes || 1
+|-
+| [[Robe top of the eye (blue)]] || [https://chisel.weirdgloop.org/moid/item_id.html#26872 26872] || colspan = "3" | New ID || Yes || No || Yes || No || No ||  Wear, Revert,  Drop || Yes || 400
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#26873 26873] || colspan = "3" | New ID || No || No || No || No || No ||     Drop || Yes || 1
+|-
+| [[Robe bottoms of the eye (blue)]] || [https://chisel.weirdgloop.org/moid/item_id.html#26874 26874] || colspan = "3" | New ID || Yes || No || Yes || No || No ||  Wear, Revert,  Drop || Yes || 400
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#26875 26875] || colspan = "3" | New ID || No || No || No || No || No ||     Drop || Yes || 1
+|-
+| [[Atlax's diary]] || [https://chisel.weirdgloop.org/moid/item_id.html#26876 26876] || colspan = "3" | New ID || Yes || No || No || No || No || Read,    Drop || Yes || 30
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#26877 26877] || colspan = "3" | New ID || No || No || No || No || No ||     Drop || Yes || 1
+|-
+| [[Guardian fragments]] || [https://chisel.weirdgloop.org/moid/item_id.html#26878 26878] || colspan = "3" | New ID || Yes || No || No || Yes || No ||     Destroy || No || 20
+|-
+| [[Guardian essence]] || [https://chisel.weirdgloop.org/moid/item_id.html#26879 26879] || colspan = "3" | New ID || Yes || No || Yes || No || No ||     Destroy || No || 30
+|-
+| [[Catalytic guardian stone]] || [https://chisel.weirdgloop.org/moid/item_id.html#26880 26880] || colspan = "3" | New ID || Yes || No || Yes || Yes || No ||     Destroy || No || 30
+|-
+| [[Elemental guardian stone]] || [https://chisel.weirdgloop.org/moid/item_id.html#26881 26881] || colspan = "3" | New ID || Yes || No || Yes || Yes || No ||     Destroy || No || 30
+|-
+| [[Uncharged cell]] || [https://chisel.weirdgloop.org/moid/item_id.html#26882 26882] || colspan = "3" | New ID || Yes || No || No || Yes || No || Inspect,    Destroy || No || 30
+|-
+| [[Weak cell]] || [https://chisel.weirdgloop.org/moid/item_id.html#26883 26883] || colspan = "3" | New ID || Yes || No || No || No || No || Inspect,    Destroy || No || 30
+|-
+| [[Medium cell]] || [https://chisel.weirdgloop.org/moid/item_id.html#26884 26884] || colspan = "3" | New ID || Yes || No || No || No || No || Inspect,    Destroy || No || 30
+|-
+| [[Strong cell]] || [https://chisel.weirdgloop.org/moid/item_id.html#26885 26885] || colspan = "3" | New ID || Yes || No || No || No || No || Inspect,    Destroy || No || 30
+|-
+| [[Overcharged cell]] || [https://chisel.weirdgloop.org/moid/item_id.html#26886 26886] || colspan = "3" | New ID || Yes || No || No || No || No || Inspect,    Destroy || No || 30
+|-
+| [[Portal talisman (air)]] || [https://chisel.weirdgloop.org/moid/item_id.html#26887 26887] || colspan = "3" | New ID || Yes || No || No || Yes || No ||    Inspect, Destroy || No || 1
+|-
+| [[Portal talisman (water)]] || [https://chisel.weirdgloop.org/moid/item_id.html#26888 26888] || colspan = "3" | New ID || Yes || No || No || Yes || No ||    Inspect, Destroy || No || 1
+|-
+| [[Portal talisman (earth)]] || [https://chisel.weirdgloop.org/moid/item_id.html#26889 26889] || colspan = "3" | New ID || Yes || No || No || Yes || No ||    Inspect, Destroy || No || 1
+|-
+| [[Portal talisman (fire)]] || [https://chisel.weirdgloop.org/moid/item_id.html#26890 26890] || colspan = "3" | New ID || Yes || No || No || Yes || No ||    Inspect, Destroy || No || 1
+|-
+| [[Portal talisman (mind)]] || [https://chisel.weirdgloop.org/moid/item_id.html#26891 26891] || colspan = "3" | New ID || Yes || No || No || Yes || No ||    Inspect, Destroy || No || 1
+|-
+| [[Portal talisman (chaos)]] || [https://chisel.weirdgloop.org/moid/item_id.html#26892 26892] || colspan = "3" | New ID || Yes || No || No || Yes || No ||    Inspect, Destroy || No || 1
+|-
+| [[Portal talisman (death)]] || [https://chisel.weirdgloop.org/moid/item_id.html#26893 26893] || colspan = "3" | New ID || Yes || No || No || Yes || No ||    Inspect, Destroy || No || 1
+|-
+| [[Portal talisman (blood)]] || [https://chisel.weirdgloop.org/moid/item_id.html#26894 26894] || colspan = "3" | New ID || Yes || No || No || Yes || No ||    Inspect, Destroy || No || 1
+|-
+| [[Portal talisman (body)]] || [https://chisel.weirdgloop.org/moid/item_id.html#26895 26895] || colspan = "3" | New ID || Yes || No || No || Yes || No ||    Inspect, Destroy || No || 1
+|-
+| [[Portal talisman (cosmic)]] || [https://chisel.weirdgloop.org/moid/item_id.html#26896 26896] || colspan = "3" | New ID || Yes || No || No || Yes || No ||    Inspect, Destroy || No || 1
+|-
+| [[Portal talisman (nature)]] || [https://chisel.weirdgloop.org/moid/item_id.html#26897 26897] || colspan = "3" | New ID || Yes || No || No || Yes || No ||    Inspect, Destroy || No || 1
+|-
+| [[Portal talisman (law)]] || [https://chisel.weirdgloop.org/moid/item_id.html#26898 26898] || colspan = "3" | New ID || Yes || No || No || Yes || No ||    Inspect, Destroy || No || 1
+|-
+| [[Greatish guardian]] || [https://chisel.weirdgloop.org/moid/item_id.html#26899 26899] || colspan = "3" | New ID || Yes || No || No || No || No ||     Drop || Yes || 1
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#26900 26900] || colspan = "3" | New ID || No || No || No || No || No ||     Drop || Yes || 1
+|-
+| [[Abyssal protector]] || [https://chisel.weirdgloop.org/moid/item_id.html#26901 26901] || colspan = "3" | New ID || Yes || No || No || No || No ||     Drop || Yes || 1
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#26902 26902] || colspan = "3" | New ID || No || No || No || No || No ||     Drop || Yes || 1
+|-
+| [[Eye amulet]] || [https://chisel.weirdgloop.org/moid/item_id.html#26903 26903] || colspan = "3" | New ID || Yes || No || Yes || No || No || Inspect,    Destroy || No || 30
+|-
+| [[Strong cup of tea]] || [https://chisel.weirdgloop.org/moid/item_id.html#26904 26904] || colspan = "3" | New ID || Yes || No || No || No || No || Drink,    Destroy || No || 30
+|-
+| [[Abyssal incantation]] || [https://chisel.weirdgloop.org/moid/item_id.html#26905 26905] || colspan = "3" | New ID || Yes || No || No || No || No || Read,    Destroy || No || 30
+|-
+| [[Colossal pouch]] || [https://chisel.weirdgloop.org/moid/item_id.html#26906 26906] || colspan = "3" | New ID || Yes || No || No || No || No || Fill, Empty, Check,  Destroy || Yes || 1
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#26907 26907] || colspan = "3" | New ID || No || No || No || No || No ||     Drop || Yes || 1
+|-
+| [[Intricate pouch]] || [https://chisel.weirdgloop.org/moid/item_id.html#26908 26908] || colspan = "3" | New ID || Yes || No || No || No || No || Open,    Drop || Yes || 50
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#26909 26909] || colspan = "3" | New ID || No || No || No || No || No ||     Drop || Yes || 1
+|-
+| [[Tarnished locket]] || [https://chisel.weirdgloop.org/moid/item_id.html#26910 26910] || colspan = "3" | New ID || Yes || No || Yes || No || No || Inspect, Wear,   Destroy || Yes || 100
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#26911 26911] || colspan = "3" | New ID || No || No || No || No || No ||     Drop || Yes || 1
+|-
+| [[Lost bag]] || [https://chisel.weirdgloop.org/moid/item_id.html#26912 26912] || colspan = "3" | New ID || Yes || No || Yes || No || No ||  Wear, Inspect,  Destroy || Yes || 100
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#26913 26913] || colspan = "3" | New ID || No || No || No || No || No ||     Drop || Yes || 1
+|-
+| [[Amulet of the eye]] || [https://chisel.weirdgloop.org/moid/item_id.html#26914 26914] || colspan = "3" | New ID || Yes || No || Yes || No || No ||  Wear,   Destroy || Yes || 30
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#26915 26915] || colspan = "3" | New ID || No || No || No || No || No ||     Drop || Yes || 1
+|-
+|rowspan="3"|[[Research package]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/item_id.html#290 290]
+|-
+|cost || 2 || 30
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || [None, None, None, None, 'Destroy']
+|-
+|rowspan="4"|[[Research notes]]
+|rowspan="4"|[https://chisel.weirdgloop.org/moid/item_id.html#291 291]
+|-
+|name || [[Notes]] || [[Research notes]]
+|-
+| cost || 5 || 30
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || [None, None, None, None, 'Destroy']
+|-
+|rowspan="15"|[[Blood talisman]]
+|rowspan="15"|[https://chisel.weirdgloop.org/moid/item_id.html#1450 1450]
+|-
+|name || [[Null]] || [[Blood talisman]]
+|-
+| xan2d || 572 || 352
+|-
+| yan2d || 0 || 160
+|-
+| cost || 1 || 4
+|-
+| isTradeable || False || True
+|-
+| inventoryModel || 2521 || 2475
+|-
+| members || False || True
+|-
+| zoom2d || 1940 || 1160
+|-
+| xOffset2d || 0 || 2
+|-
+| yOffset2d || 1 || 20
+|-
+| interfaceOptions || ['Wear', None, None, None, 'Drop'] || [None, None, None, 'Locate', 'Drop']
+|-
+| notedID || -1 || 1451
+|-
+| placeholderId || -1 || 26783
+|-
+| category || 15 || 0
+|-
+|rowspan="8"|[[null]]
+|rowspan="8"|[https://chisel.weirdgloop.org/moid/item_id.html#1451 1451]
+|-
+|xan2d || 81 || 0
+|-
+| yan2d || 1872 || 0
+|-
+| inventoryModel || 32299 || 0
+|-
+| zoom2d || 4379 || 2000
+|-
+| yOffset2d || -12 || 0
+|-
+| notedID || -1 || 1450
+|-
+| notedTemplate || -1 || 799
+|-
+|rowspan="3"|[[Scrying orb]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/item_id.html#5518 5518]
+|-
+|cost || 1 || 30
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || [None, None, None, None, 'Destroy']
+|-
+|rowspan="3"|[[Scrying orb]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/item_id.html#5519 5519]
+|-
+|cost || 1 || 30
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || [None, None, None, None, 'Destroy']
+|-
+|rowspan="2"|[[Air tiara]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#5527 5527]
+|-
+|category || 0 || 1611
+|-
+|rowspan="2"|[[Mind tiara]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#5529 5529]
+|-
+|category || 0 || 1611
+|-
+|rowspan="2"|[[Water tiara]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#5531 5531]
+|-
+|category || 0 || 1611
+|-
+|rowspan="2"|[[Body tiara]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#5533 5533]
+|-
+|category || 0 || 1611
+|-
+|rowspan="2"|[[Earth tiara]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#5535 5535]
+|-
+|category || 0 || 1611
+|-
+|rowspan="2"|[[Fire tiara]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#5537 5537]
+|-
+|category || 0 || 1611
+|-
+|rowspan="2"|[[Cosmic tiara]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#5539 5539]
+|-
+|category || 0 || 1611
+|-
+|rowspan="2"|[[Nature tiara]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#5541 5541]
+|-
+|category || 0 || 1611
+|-
+|rowspan="2"|[[Chaos tiara]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#5543 5543]
+|-
+|category || 0 || 1611
+|-
+|rowspan="2"|[[Law tiara]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#5545 5545]
+|-
+|category || 0 || 1611
+|-
+|rowspan="2"|[[Death tiara]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#5547 5547]
+|-
+|category || 0 || 1611
+|-
+|rowspan="19"|[[Blood tiara]]
+|rowspan="19"|[https://chisel.weirdgloop.org/moid/item_id.html#5549 5549]
+|-
+|name || [[Null]] || [[Blood tiara]]
+|-
+| xan2d || 572 || 232
+|-
+| cost || 1 || 500
+|-
+| isTradeable || False || True
+|-
+| inventoryModel || 2521 || 7524
+|-
+| members || False || True
+|-
+| zoom2d || 1940 || 480
+|-
+| yOffset2d || 1 || -25
+|-
+| interfaceOptions || ['Wear', None, None, None, 'Drop'] || [None, 'Wear', None, None, 'Drop']
+|-
+| maleModel0 || -1 || 7481
+|-
+| maleHeadModel || -1 || 7467
+|-
+| femaleModel0 || -1 || 7495
+|-
+| femaleHeadModel || -1 || 7467
+|-
+| notedID || -1 || 5550
+|-
+| placeholderId || -1 || 26791
+|-
+| colorFind || [25238] || [-22440]
+|-
+| colorReplace || [-2608] || [-4004]
+|-
+| category || 15 || 1611
+|-
+|rowspan="10"|[[null]]
+|rowspan="10"|[https://chisel.weirdgloop.org/moid/item_id.html#5550 5550]
+|-
+|name || [[Null]] || [[null]]
+|-
+| xan2d || 572 || 0
+|-
+| inventoryModel || 2521 || 0
+|-
+| zoom2d || 1940 || 2000
+|-
+| yOffset2d || 1 || 0
+|-
+| interfaceOptions || ['Wear', None, None, None, 'Drop'] || [None, None, None, None, 'Drop']
+|-
+| notedID || -1 || 5549
+|-
+| notedTemplate || -1 || 799
+|-
+| category || 15 || 0
+|-
+|rowspan="2"|[[Astral tiara]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#9106 9106]
+|-
+|category || 0 || 1611
+|-
+|rowspan="2"|[[Wrath tiara]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#22121 22121]
+|-
+|category || 0 || 1611
+|-
+|rowspan="8"|[[null]]
+|rowspan="8"|[https://chisel.weirdgloop.org/moid/item_id.html#26248 26248]
+|-
+|name || [[Null]] || [[null]]
+|-
+| xan2d || 192 || 81
+|-
+| yan2d || 104 || 1872
+|-
+| inventoryModel || 2767 || 32299
+|-
+| zoom2d || 950 || 4379
+|-
+| yOffset2d || -9 || -12
+|-
+| category || 15 || 0
+|-
+|}
+
+==Non-Player Characters==
+{| class="wikitable sortable"
+!colspan='5'|Non-Player Characters
+|-
+! Name !! ID !! Key !! Previous Value !! Changed into
+|-
+| [[Wizard Distentor]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11399 11399] || colspan = "4" | New ID
+|-
+| [[Wizard Distentor]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11400 11400] || colspan = "4" | New ID
+|-
+| [[Greatish guardian]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11401 11401] || colspan = "4" | New ID
+|-
+| [[Abyssal protector]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11402 11402] || colspan = "4" | New ID
+|-
+| [[The Great Guardian]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11403 11403] || colspan = "4" | New ID
+|-
+| [[Apprentice Felix]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11404 11404] || colspan = "4" | New ID
+|-
+| [[Abyssal guardian]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11405 11405] || colspan = "4" | New ID
+|-
+| [[Abyssal walker]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11406 11406] || colspan = "4" | New ID
+|-
+| [[Abyssal leech]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11407 11407] || colspan = "4" | New ID
+|-
+| [[Weak catalytic guardian]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11408 11408] || colspan = "4" | New ID
+|-
+| [[Medium catalytic guardian]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11411 11411] || colspan = "4" | New ID
+|-
+| [[Strong catalytic guardian]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11412 11412] || colspan = "4" | New ID
+|-
+| [[Overcharged catalytic guardian]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11413 11413] || colspan = "4" | New ID
+|-
+| [[Weak elemental guardian]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11414 11414] || colspan = "4" | New ID
+|-
+| [[Medium elemental guardian]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11415 11415] || colspan = "4" | New ID
+|-
+| [[Strong elemental guardian]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11416 11416] || colspan = "4" | New ID
+|-
+| [[Overcharged elemental guardian]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11417 11417] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11418 11418] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11419 11419] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11420 11420] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11421 11421] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11422 11422] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11423 11423] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11424 11424] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11425 11425] || colspan = "4" | New ID
+|-
+| [[Apprentice Tamara]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11426 11426] || colspan = "4" | New ID
+|-
+| [[Apprentice Cordelia]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11427 11427] || colspan = "4" | New ID
+|-
+| [[Greatish guardian]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11428 11428] || colspan = "4" | New ID
+|-
+| [[Abyssal protector]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11429 11429] || colspan = "4" | New ID
+|-
+| [[Brimstail]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11430 11430] || colspan = "4" | New ID
+|-
+| [[Brimstail]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11431 11431] || colspan = "4" | New ID
+|-
+| [[Archmage Sedridor]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11432 11432] || colspan = "4" | New ID
+|-
+| [[Archmage Sedridor]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11433 11433] || colspan = "4" | New ID
+|-
+| [[Aubury]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11434 11434] || colspan = "4" | New ID
+|-
+| [[Aubury]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11435 11435] || colspan = "4" | New ID
+|-
+| [[Wizard Persten]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11436 11436] || colspan = "4" | New ID
+|-
+| [[Wizard Persten]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11437 11437] || colspan = "4" | New ID
+|-
+| [[Wizard Persten]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11438 11438] || colspan = "4" | New ID
+|-
+| [[Wizard Persten]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11439 11439] || colspan = "4" | New ID
+|-
+| [[Apprentice Tamara]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11440 11440] || colspan = "4" | New ID
+|-
+| [[Apprentice Tamara]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11441 11441] || colspan = "4" | New ID
+|-
+| [[Apprentice Tamara]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11442 11442] || colspan = "4" | New ID
+|-
+| [[Apprentice Cordelia]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11443 11443] || colspan = "4" | New ID
+|-
+| [[Apprentice Cordelia]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11444 11444] || colspan = "4" | New ID
+|-
+| [[Apprentice Cordelia]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11445 11445] || colspan = "4" | New ID
+|-
+| [[Apprentice Felix]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11446 11446] || colspan = "4" | New ID
+|-
+| [[Apprentice Felix]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11447 11447] || colspan = "4" | New ID
+|-
+| [[Apprentice Felix]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11448 11448] || colspan = "4" | New ID
+|-
+| [[Wizard Traiborn]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11449 11449] || colspan = "4" | New ID
+|-
+| [[Archmage Sedridor]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11450 11450] || colspan = "4" | New ID
+|-
+| [[Mysterious Voice]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11451 11451] || colspan = "4" | New ID
+|-
+| [[Mysterious Voice]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11452 11452] || colspan = "4" | New ID
+|-
+| [[Abyssal guardian]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11453 11453] || colspan = "4" | New ID
+|-
+| [[Abyssal walker]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11454 11454] || colspan = "4" | New ID
+|-
+| [[The Great Guardian]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11455 11455] || colspan = "4" | New ID
+|-
+| [[The Great Guardian]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11456 11456] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11457 11457] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11458 11458] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11459 11459] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11460 11460] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11461 11461] || colspan = "4" | New ID
+|-
+|rowspan="2"|[[Mage of Zamorak]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#2580 2580]
+|-
+|hasRenderPriority || False || True
+|-
+|rowspan="2"|[[Mage of Zamorak]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#2581 2581]
+|-
+|hasRenderPriority || False || True
+|-
+|rowspan="2"|[[Mage of Zamorak]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#2582 2582]
+|-
+|hasRenderPriority || False || True
+|-
+|rowspan="3"|[[Dark Mage]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/npc_id.html#2583 2583]
+|-
+|name || [[Dark mage]] || [[Dark Mage]]
+|-
+| hasRenderPriority || False || True
+|-
+|rowspan="4"|[[null]]
+|rowspan="4"|[https://chisel.weirdgloop.org/moid/npc_id.html#2886 2886]
+|-
+|name || [[Aubury]] || [[null]]
+|-
+| actions || ['Talk-to', None, 'Trade', 'Teleport', None] || [None, None, None, None, None]
+|-
+| varpIndex || -1 || 63
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#3228 3228]
+|-
+|hasRenderPriority || False || True
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#3229 3229]
+|-
+|hasRenderPriority || False || True
+|-
+|rowspan="4"|[[Wizard Jalarast]]
+|rowspan="4"|[https://chisel.weirdgloop.org/moid/npc_id.html#3232 3232]
+|-
+|name || [[Wizard]] || [[Wizard Jalarast]]
+|-
+| models || [215, 4114, 250, 4117, 4112, 4113, 4116, 4115] || [391, 4120, 4123, 4118, 4119, 4122, 4121]
+|-
+| chatheadModels || [53, 4110, 82] || [114, 4111]
+|-
+|rowspan="4"|[[null]]
+|rowspan="4"|[https://chisel.weirdgloop.org/moid/npc_id.html#3248 3248]
+|-
+|name || [[Wizard Distentor]] || [[null]]
+|-
+| actions || ['Talk-to', None, 'Teleport', None, None] || [None, None, None, None, None]
+|-
+| varpIndex || -1 || 63
+|-
+|rowspan="4"|[[null]]
+|rowspan="4"|[https://chisel.weirdgloop.org/moid/npc_id.html#4913 4913]
+|-
+|name || [[Brimstail]] || [[null]]
+|-
+| actions || ['Talk-to', None, 'Teleport', None, None] || [None, None, None, None, None]
+|-
+| varpIndex || -1 || 63
+|-
+|rowspan="4"|[[null]]
+|rowspan="4"|[https://chisel.weirdgloop.org/moid/npc_id.html#5034 5034]
+|-
+|name || [[Sedridor]] || [[null]]
+|-
+| actions || ['Talk-to', None, 'Teleport', None, None] || [None, None, None, None, None]
+|-
+| varpIndex || -1 || 63
+|-
+|rowspan="2"|[[Wizard Traiborn]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#5081 5081]
+|-
+|name || [[Traiborn]] || [[Wizard Traiborn]]
+|-
+|rowspan="2"|[[Tea Seller]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#8687 8687]
+|-
+|name || [[Tea seller]] || [[Tea Seller]]
+|-
+|}
+
+==Objects==
+{| class="wikitable sortable"
+!colspan='5'|Objects
+|-
+! Name !! ID !! Key !! Previous Value !! Changed into
+|-
+| [[Mysterious ruins]] || [https://chisel.weirdgloop.org/moid/object_id.html#43476 43476] || colspan = "4" | New ID
+|-
+| [[Mysterious ruins]] || [https://chisel.weirdgloop.org/moid/object_id.html#43477 43477] || colspan = "4" | New ID
+|-
+| [[Portal]] || [https://chisel.weirdgloop.org/moid/object_id.html#43478 43478] || colspan = "4" | New ID
+|-
+| [[Altar]] || [https://chisel.weirdgloop.org/moid/object_id.html#43479 43479] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43480 43480] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43481 43481] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43482 43482] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43483 43483] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43500 43500] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43501 43501] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43502 43502] || colspan = "4" | New ID
+|-
+| [[Rain]] || [https://chisel.weirdgloop.org/moid/object_id.html#43503 43503] || colspan = "4" | New ID
+|-
+| [[Rain]] || [https://chisel.weirdgloop.org/moid/object_id.html#43504 43504] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43505 43505] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43506 43506] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43507 43507] || colspan = "4" | New ID
+|-
+| [[Skeleton]] || [https://chisel.weirdgloop.org/moid/object_id.html#43508 43508] || colspan = "4" | New ID
+|-
+| [[Pillar]] || [https://chisel.weirdgloop.org/moid/object_id.html#43509 43509] || colspan = "4" | New ID
+|-
+| [[Pillar]] || [https://chisel.weirdgloop.org/moid/object_id.html#43510 43510] || colspan = "4" | New ID
+|-
+| [[Pillar]] || [https://chisel.weirdgloop.org/moid/object_id.html#43511 43511] || colspan = "4" | New ID
+|-
+| [[Ruined Pillar]] || [https://chisel.weirdgloop.org/moid/object_id.html#43512 43512] || colspan = "4" | New ID
+|-
+| [[Ruined Pillar]] || [https://chisel.weirdgloop.org/moid/object_id.html#43513 43513] || colspan = "4" | New ID
+|-
+| [[Pillar]] || [https://chisel.weirdgloop.org/moid/object_id.html#43514 43514] || colspan = "4" | New ID
+|-
+| [[Ruined Pillar]] || [https://chisel.weirdgloop.org/moid/object_id.html#43515 43515] || colspan = "4" | New ID
+|-
+| [[Pillar]] || [https://chisel.weirdgloop.org/moid/object_id.html#43516 43516] || colspan = "4" | New ID
+|-
+| [[Rubble]] || [https://chisel.weirdgloop.org/moid/object_id.html#43517 43517] || colspan = "4" | New ID
+|-
+| [[Rubble]] || [https://chisel.weirdgloop.org/moid/object_id.html#43518 43518] || colspan = "4" | New ID
+|-
+| [[Rubble]] || [https://chisel.weirdgloop.org/moid/object_id.html#43519 43519] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43520 43520] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43521 43521] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43522 43522] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43523 43523] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43524 43524] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43525 43525] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43526 43526] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43527 43527] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43528 43528] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43529 43529] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43530 43530] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43531 43531] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43532 43532] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43533 43533] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43534 43534] || colspan = "4" | New ID
+|-
+| [[Cart]] || [https://chisel.weirdgloop.org/moid/object_id.html#43535 43535] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43536 43536] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43537 43537] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43538 43538] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43539 43539] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43540 43540] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43541 43541] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43542 43542] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43543 43543] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43544 43544] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43545 43545] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43546 43546] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43547 43547] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43548 43548] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43549 43549] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43550 43550] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43551 43551] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43552 43552] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43553 43553] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43554 43554] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43555 43555] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43556 43556] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43557 43557] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43558 43558] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43559 43559] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43560 43560] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43561 43561] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43562 43562] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43563 43563] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43564 43564] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43565 43565] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43566 43566] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43567 43567] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43568 43568] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43569 43569] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43570 43570] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43571 43571] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43572 43572] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43573 43573] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43574 43574] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43575 43575] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43576 43576] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43577 43577] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43578 43578] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43579 43579] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43580 43580] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43581 43581] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43582 43582] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43583 43583] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43584 43584] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43585 43585] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43586 43586] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43587 43587] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43588 43588] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43589 43589] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43590 43590] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43591 43591] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43592 43592] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43593 43593] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43594 43594] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43595 43595] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43596 43596] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43597 43597] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43598 43598] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43599 43599] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43600 43600] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43601 43601] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43602 43602] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43603 43603] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43604 43604] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43605 43605] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43606 43606] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43607 43607] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43608 43608] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43609 43609] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43610 43610] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43611 43611] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43612 43612] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43613 43613] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43614 43614] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43615 43615] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43616 43616] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43617 43617] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43618 43618] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43619 43619] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43620 43620] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43621 43621] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43622 43622] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43623 43623] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43624 43624] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43625 43625] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43626 43626] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43627 43627] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43628 43628] || colspan = "4" | New ID
+|-
+| [[Whale-fall]] || [https://chisel.weirdgloop.org/moid/object_id.html#43629 43629] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43630 43630] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43631 43631] || colspan = "4" | New ID
+|-
+| [[Elk kelp]] || [https://chisel.weirdgloop.org/moid/object_id.html#43632 43632] || colspan = "4" | New ID
+|-
+| [[Elk kelp]] || [https://chisel.weirdgloop.org/moid/object_id.html#43633 43633] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43634 43634] || colspan = "4" | New ID
+|-
+| [[Dark lace]] || [https://chisel.weirdgloop.org/moid/object_id.html#43635 43635] || colspan = "4" | New ID
+|-
+| [[Dark lace]] || [https://chisel.weirdgloop.org/moid/object_id.html#43636 43636] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43637 43637] || colspan = "4" | New ID
+|-
+| [[Elk kelp]] || [https://chisel.weirdgloop.org/moid/object_id.html#43638 43638] || colspan = "4" | New ID
+|-
+| [[Elk kelp]] || [https://chisel.weirdgloop.org/moid/object_id.html#43639 43639] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43640 43640] || colspan = "4" | New ID
+|-
+| [[Elk kelp]] || [https://chisel.weirdgloop.org/moid/object_id.html#43641 43641] || colspan = "4" | New ID
+|-
+| [[Elk kelp]] || [https://chisel.weirdgloop.org/moid/object_id.html#43642 43642] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43643 43643] || colspan = "4" | New ID
+|-
+| [[Dark lace]] || [https://chisel.weirdgloop.org/moid/object_id.html#43644 43644] || colspan = "4" | New ID
+|-
+| [[Dark lace]] || [https://chisel.weirdgloop.org/moid/object_id.html#43645 43645] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43646 43646] || colspan = "4" | New ID
+|-
+| [[Elk kelp]] || [https://chisel.weirdgloop.org/moid/object_id.html#43647 43647] || colspan = "4" | New ID
+|-
+| [[Elk kelp]] || [https://chisel.weirdgloop.org/moid/object_id.html#43648 43648] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43649 43649] || colspan = "4" | New ID
+|-
+| [[Elk kelp]] || [https://chisel.weirdgloop.org/moid/object_id.html#43650 43650] || colspan = "4" | New ID
+|-
+| [[Elk kelp]] || [https://chisel.weirdgloop.org/moid/object_id.html#43651 43651] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43652 43652] || colspan = "4" | New ID
+|-
+| [[Dark lace]] || [https://chisel.weirdgloop.org/moid/object_id.html#43653 43653] || colspan = "4" | New ID
+|-
+| [[Dark lace]] || [https://chisel.weirdgloop.org/moid/object_id.html#43654 43654] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43655 43655] || colspan = "4" | New ID
+|-
+| [[Elk kelp]] || [https://chisel.weirdgloop.org/moid/object_id.html#43656 43656] || colspan = "4" | New ID
+|-
+| [[Elk kelp]] || [https://chisel.weirdgloop.org/moid/object_id.html#43657 43657] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43658 43658] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43659 43659] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43660 43660] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43661 43661] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43662 43662] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43663 43663] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43664 43664] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43665 43665] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43666 43666] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43667 43667] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43668 43668] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43669 43669] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43670 43670] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43671 43671] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43672 43672] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43673 43673] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43674 43674] || colspan = "4" | New ID
+|-
+| [[Pineapple]] || [https://chisel.weirdgloop.org/moid/object_id.html#43675 43675] || colspan = "4" | New ID
+|-
+| [[Head]] || [https://chisel.weirdgloop.org/moid/object_id.html#43676 43676] || colspan = "4" | New ID
+|-
+| [[Rock]] || [https://chisel.weirdgloop.org/moid/object_id.html#43677 43677] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43678 43678] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43679 43679] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43680 43680] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43681 43681] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43682 43682] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43683 43683] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43684 43684] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43685 43685] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43686 43686] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43687 43687] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43688 43688] || colspan = "4" | New ID
+|-
+| [[Fountain]] || [https://chisel.weirdgloop.org/moid/object_id.html#43689 43689] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43690 43690] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43691 43691] || colspan = "4" | New ID
+|-
+| [[Portal]] || [https://chisel.weirdgloop.org/moid/object_id.html#43692 43692] || colspan = "4" | New ID
+|-
+| [[Portal]] || [https://chisel.weirdgloop.org/moid/object_id.html#43693 43693] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43694 43694] || colspan = "4" | New ID
+|-
+| [[<col=ffff00>Rewards Guardian</col>]] || [https://chisel.weirdgloop.org/moid/object_id.html#43695 43695] || colspan = "4" | New ID
+|-
+| [[Deposit Pool]] || [https://chisel.weirdgloop.org/moid/object_id.html#43696 43696] || colspan = "4" | New ID
+|-
+| [[Bank Chest]] || [https://chisel.weirdgloop.org/moid/object_id.html#43697 43697] || colspan = "4" | New ID
+|-
+| [[Statue]] || [https://chisel.weirdgloop.org/moid/object_id.html#43698 43698] || colspan = "4" | New ID
+|-
+| [[Statue]] || [https://chisel.weirdgloop.org/moid/object_id.html#43699 43699] || colspan = "4" | New ID
+|-
+| [[Barrier]] || [https://chisel.weirdgloop.org/moid/object_id.html#43700 43700] || colspan = "4" | New ID
+|-
+| [[Guardian of Air]] || [https://chisel.weirdgloop.org/moid/object_id.html#43701 43701] || colspan = "4" | New ID
+|-
+| [[Guardian of Water]] || [https://chisel.weirdgloop.org/moid/object_id.html#43702 43702] || colspan = "4" | New ID
+|-
+| [[Guardian of Earth]] || [https://chisel.weirdgloop.org/moid/object_id.html#43703 43703] || colspan = "4" | New ID
+|-
+| [[Guardian of Fire]] || [https://chisel.weirdgloop.org/moid/object_id.html#43704 43704] || colspan = "4" | New ID
+|-
+| [[Guardian of Mind]] || [https://chisel.weirdgloop.org/moid/object_id.html#43705 43705] || colspan = "4" | New ID
+|-
+| [[Guardian of Chaos]] || [https://chisel.weirdgloop.org/moid/object_id.html#43706 43706] || colspan = "4" | New ID
+|-
+| [[Guardian of Death]] || [https://chisel.weirdgloop.org/moid/object_id.html#43707 43707] || colspan = "4" | New ID
+|-
+| [[Guardian of Blood]] || [https://chisel.weirdgloop.org/moid/object_id.html#43708 43708] || colspan = "4" | New ID
+|-
+| [[Guardian of Body]] || [https://chisel.weirdgloop.org/moid/object_id.html#43709 43709] || colspan = "4" | New ID
+|-
+| [[Guardian of Cosmic]] || [https://chisel.weirdgloop.org/moid/object_id.html#43710 43710] || colspan = "4" | New ID
+|-
+| [[Guardian of Nature]] || [https://chisel.weirdgloop.org/moid/object_id.html#43711 43711] || colspan = "4" | New ID
+|-
+| [[Guardian of Law]] || [https://chisel.weirdgloop.org/moid/object_id.html#43712 43712] || colspan = "4" | New ID
+|-
+| [[Abyssal Rift]] || [https://chisel.weirdgloop.org/moid/object_id.html#43713 43713] || colspan = "4" | New ID
+|-
+| [[Abyssal Rift]] || [https://chisel.weirdgloop.org/moid/object_id.html#43714 43714] || colspan = "4" | New ID
+|-
+| [[Guardian parts]] || [https://chisel.weirdgloop.org/moid/object_id.html#43715 43715] || colspan = "4" | New ID
+|-
+| [[Guardian parts]] || [https://chisel.weirdgloop.org/moid/object_id.html#43716 43716] || colspan = "4" | New ID
+|-
+| [[Guardian remains]] || [https://chisel.weirdgloop.org/moid/object_id.html#43717 43717] || colspan = "4" | New ID
+|-
+| [[Guardian remains]] || [https://chisel.weirdgloop.org/moid/object_id.html#43718 43718] || colspan = "4" | New ID
+|-
+| [[Large guardian remains]] || [https://chisel.weirdgloop.org/moid/object_id.html#43719 43719] || colspan = "4" | New ID
+|-
+| [[Huge guardian remains]] || [https://chisel.weirdgloop.org/moid/object_id.html#43720 43720] || colspan = "4" | New ID
+|-
+| [[Fallen guardian]] || [https://chisel.weirdgloop.org/moid/object_id.html#43721 43721] || colspan = "4" | New ID
+|-
+| [[Essence pile (elemental)]] || [https://chisel.weirdgloop.org/moid/object_id.html#43722 43722] || colspan = "4" | New ID
+|-
+| [[Essence pile (catalytic)]] || [https://chisel.weirdgloop.org/moid/object_id.html#43723 43723] || colspan = "4" | New ID
+|-
+| [[Rubble]] || [https://chisel.weirdgloop.org/moid/object_id.html#43724 43724] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43725 43725] || colspan = "4" | New ID
+|-
+| [[Rubble]] || [https://chisel.weirdgloop.org/moid/object_id.html#43726 43726] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43727 43727] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43728 43728] || colspan = "4" | New ID
+|-
+| [[Portal]] || [https://chisel.weirdgloop.org/moid/object_id.html#43729 43729] || colspan = "4" | New ID
+|-
+| [[Portal]] || [https://chisel.weirdgloop.org/moid/object_id.html#43730 43730] || colspan = "4" | New ID
+|-
+| [[Uncharged cells]] || [https://chisel.weirdgloop.org/moid/object_id.html#43731 43731] || colspan = "4" | New ID
+|-
+| [[Uncharged cells]] || [https://chisel.weirdgloop.org/moid/object_id.html#43732 43732] || colspan = "4" | New ID
+|-
+| [[Weak cells]] || [https://chisel.weirdgloop.org/moid/object_id.html#43733 43733] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43734 43734] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43735 43735] || colspan = "4" | New ID
+|-
+| [[Cell tile (broken)]] || [https://chisel.weirdgloop.org/moid/object_id.html#43736 43736] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43737 43737] || colspan = "4" | New ID
+|-
+| [[Inactive cell tile]] || [https://chisel.weirdgloop.org/moid/object_id.html#43738 43738] || colspan = "4" | New ID
+|-
+| [[Inactive cell tile]] || [https://chisel.weirdgloop.org/moid/object_id.html#43739 43739] || colspan = "4" | New ID
+|-
+| [[Weak cell tile]] || [https://chisel.weirdgloop.org/moid/object_id.html#43740 43740] || colspan = "4" | New ID
+|-
+| [[Medium cell tile]] || [https://chisel.weirdgloop.org/moid/object_id.html#43741 43741] || colspan = "4" | New ID
+|-
+| [[Strong cell tile]] || [https://chisel.weirdgloop.org/moid/object_id.html#43742 43742] || colspan = "4" | New ID
+|-
+| [[Overpowered cell tile]] || [https://chisel.weirdgloop.org/moid/object_id.html#43743 43743] || colspan = "4" | New ID
+|-
+| [[Weak Barrier]] || [https://chisel.weirdgloop.org/moid/object_id.html#43744 43744] || colspan = "4" | New ID
+|-
+| [[Weak Barrier]] || [https://chisel.weirdgloop.org/moid/object_id.html#43745 43745] || colspan = "4" | New ID
+|-
+| [[Medium Barrier]] || [https://chisel.weirdgloop.org/moid/object_id.html#43746 43746] || colspan = "4" | New ID
+|-
+| [[Medium Barrier]] || [https://chisel.weirdgloop.org/moid/object_id.html#43747 43747] || colspan = "4" | New ID
+|-
+| [[Strong Barrier]] || [https://chisel.weirdgloop.org/moid/object_id.html#43748 43748] || colspan = "4" | New ID
+|-
+| [[Strong Barrier]] || [https://chisel.weirdgloop.org/moid/object_id.html#43749 43749] || colspan = "4" | New ID
+|-
+| [[Overcharged Barrier]] || [https://chisel.weirdgloop.org/moid/object_id.html#43750 43750] || colspan = "4" | New ID
+|-
+| [[Overcharged Barrier]] || [https://chisel.weirdgloop.org/moid/object_id.html#43751 43751] || colspan = "4" | New ID
+|-
+| [[Elemental guide]] || [https://chisel.weirdgloop.org/moid/object_id.html#43752 43752] || colspan = "4" | New ID
+|-
+| [[Catalytic guide]] || [https://chisel.weirdgloop.org/moid/object_id.html#43753 43753] || colspan = "4" | New ID
+|-
+| [[Workbench]] || [https://chisel.weirdgloop.org/moid/object_id.html#43754 43754] || colspan = "4" | New ID
+|-
+| [[Cave]] || [https://chisel.weirdgloop.org/moid/object_id.html#43755 43755] || colspan = "4" | New ID
+|-
+| [[Cave]] || [https://chisel.weirdgloop.org/moid/object_id.html#43756 43756] || colspan = "4" | New ID
+|-
+| [[Cave]] || [https://chisel.weirdgloop.org/moid/object_id.html#43757 43757] || colspan = "4" | New ID
+|-
+| [[Cave]] || [https://chisel.weirdgloop.org/moid/object_id.html#43758 43758] || colspan = "4" | New ID
+|-
+| [[Cave]] || [https://chisel.weirdgloop.org/moid/object_id.html#43759 43759] || colspan = "4" | New ID
+|-
+| [[Strange Wall]] || [https://chisel.weirdgloop.org/moid/object_id.html#43760 43760] || colspan = "4" | New ID
+|-
+| [[Cave]] || [https://chisel.weirdgloop.org/moid/object_id.html#43761 43761] || colspan = "4" | New ID
+|-
+| [[Cave]] || [https://chisel.weirdgloop.org/moid/object_id.html#43762 43762] || colspan = "4" | New ID
+|-
+| [[Cave]] || [https://chisel.weirdgloop.org/moid/object_id.html#43763 43763] || colspan = "4" | New ID
+|-
+| [[Ladder]] || [https://chisel.weirdgloop.org/moid/object_id.html#43764 43764] || colspan = "4" | New ID
+|-
+| [[Portal]] || [https://chisel.weirdgloop.org/moid/object_id.html#43765 43765] || colspan = "4" | New ID
+|-
+| [[Stool]] || [https://chisel.weirdgloop.org/moid/object_id.html#43766 43766] || colspan = "4" | New ID
+|-
+| [[Portal]] || [https://chisel.weirdgloop.org/moid/object_id.html#43767 43767] || colspan = "4" | New ID
+|-
+| [[Earth Energy]] || [https://chisel.weirdgloop.org/moid/object_id.html#43768 43768] || colspan = "4" | New ID
+|-
+| [[Cosmic Energy]] || [https://chisel.weirdgloop.org/moid/object_id.html#43769 43769] || colspan = "4" | New ID
+|-
+| [[Death Energy]] || [https://chisel.weirdgloop.org/moid/object_id.html#43770 43770] || colspan = "4" | New ID
+|-
+| [[Nature Energy]] || [https://chisel.weirdgloop.org/moid/object_id.html#43771 43771] || colspan = "4" | New ID
+|-
+| [[Law Energy]] || [https://chisel.weirdgloop.org/moid/object_id.html#43772 43772] || colspan = "4" | New ID
+|-
+| [[Fire Energy]] || [https://chisel.weirdgloop.org/moid/object_id.html#43773 43773] || colspan = "4" | New ID
+|-
+| [[Earth Energy]] || [https://chisel.weirdgloop.org/moid/object_id.html#43774 43774] || colspan = "4" | New ID
+|-
+| [[Cosmic Energy]] || [https://chisel.weirdgloop.org/moid/object_id.html#43775 43775] || colspan = "4" | New ID
+|-
+| [[Death Energy]] || [https://chisel.weirdgloop.org/moid/object_id.html#43776 43776] || colspan = "4" | New ID
+|-
+| [[Nature Energy]] || [https://chisel.weirdgloop.org/moid/object_id.html#43777 43777] || colspan = "4" | New ID
+|-
+| [[Law Energy]] || [https://chisel.weirdgloop.org/moid/object_id.html#43778 43778] || colspan = "4" | New ID
+|-
+| [[Fire Energy]] || [https://chisel.weirdgloop.org/moid/object_id.html#43779 43779] || colspan = "4" | New ID
+|-
+| [[Mysterious Stone]] || [https://chisel.weirdgloop.org/moid/object_id.html#43780 43780] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43781 43781] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43782 43782] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43783 43783] || colspan = "4" | New ID
+|-
+| [[Statue]] || [https://chisel.weirdgloop.org/moid/object_id.html#43784 43784] || colspan = "4" | New ID
+|-
+| [[Statue]] || [https://chisel.weirdgloop.org/moid/object_id.html#43785 43785] || colspan = "4" | New ID
+|-
+| [[Statue]] || [https://chisel.weirdgloop.org/moid/object_id.html#43786 43786] || colspan = "4" | New ID
+|-
+| [[Statue]] || [https://chisel.weirdgloop.org/moid/object_id.html#43787 43787] || colspan = "4" | New ID
+|-
+| [[Statue]] || [https://chisel.weirdgloop.org/moid/object_id.html#43788 43788] || colspan = "4" | New ID
+|-
+| [[Statue]] || [https://chisel.weirdgloop.org/moid/object_id.html#43789 43789] || colspan = "4" | New ID
+|-
+| [[Statue]] || [https://chisel.weirdgloop.org/moid/object_id.html#43790 43790] || colspan = "4" | New ID
+|-
+| [[Statue]] || [https://chisel.weirdgloop.org/moid/object_id.html#43791 43791] || colspan = "4" | New ID
+|-
+| [[Statue]] || [https://chisel.weirdgloop.org/moid/object_id.html#43792 43792] || colspan = "4" | New ID
+|-
+| [[Statue]] || [https://chisel.weirdgloop.org/moid/object_id.html#43793 43793] || colspan = "4" | New ID
+|-
+| [[Statue]] || [https://chisel.weirdgloop.org/moid/object_id.html#43794 43794] || colspan = "4" | New ID
+|-
+| [[Statue]] || [https://chisel.weirdgloop.org/moid/object_id.html#43795 43795] || colspan = "4" | New ID
+|-
+| [[Guardian remains]] || [https://chisel.weirdgloop.org/moid/object_id.html#43796 43796] || colspan = "4" | New ID
+|-
+| [[Guardian remains]] || [https://chisel.weirdgloop.org/moid/object_id.html#43797 43797] || colspan = "4" | New ID
+|-
+| [[Guardian remains]] || [https://chisel.weirdgloop.org/moid/object_id.html#43798 43798] || colspan = "4" | New ID
+|-
+| [[Guardian remains]] || [https://chisel.weirdgloop.org/moid/object_id.html#43799 43799] || colspan = "4" | New ID
+|-
+| [[Guardian remains]] || [https://chisel.weirdgloop.org/moid/object_id.html#43800 43800] || colspan = "4" | New ID
+|-
+| [[Guardian remains]] || [https://chisel.weirdgloop.org/moid/object_id.html#43801 43801] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43802 43802] || colspan = "4" | New ID
+|-
+| [[Rubble]] || [https://chisel.weirdgloop.org/moid/object_id.html#43803 43803] || colspan = "4" | New ID
+|-
+| [[Guardian remains]] || [https://chisel.weirdgloop.org/moid/object_id.html#43804 43804] || colspan = "4" | New ID
+|-
+| [[Guardian remains]] || [https://chisel.weirdgloop.org/moid/object_id.html#43805 43805] || colspan = "4" | New ID
+|-
+| [[Table]] || [https://chisel.weirdgloop.org/moid/object_id.html#43806 43806] || colspan = "4" | New ID
+|-
+| [[Table]] || [https://chisel.weirdgloop.org/moid/object_id.html#43807 43807] || colspan = "4" | New ID
+|-
+| [[Table]] || [https://chisel.weirdgloop.org/moid/object_id.html#43808 43808] || colspan = "4" | New ID
+|-
+| [[Guardian of Air]] || [https://chisel.weirdgloop.org/moid/object_id.html#43809 43809] || colspan = "4" | New ID
+|-
+| [[Guardian of Water]] || [https://chisel.weirdgloop.org/moid/object_id.html#43810 43810] || colspan = "4" | New ID
+|-
+| [[Guardian of Earth]] || [https://chisel.weirdgloop.org/moid/object_id.html#43811 43811] || colspan = "4" | New ID
+|-
+| [[Guardian of Fire]] || [https://chisel.weirdgloop.org/moid/object_id.html#43812 43812] || colspan = "4" | New ID
+|-
+| [[Guardian of Mind]] || [https://chisel.weirdgloop.org/moid/object_id.html#43813 43813] || colspan = "4" | New ID
+|-
+| [[Guardian of Chaos]] || [https://chisel.weirdgloop.org/moid/object_id.html#43814 43814] || colspan = "4" | New ID
+|-
+| [[Guardian of Death]] || [https://chisel.weirdgloop.org/moid/object_id.html#43815 43815] || colspan = "4" | New ID
+|-
+| [[Guardian of Blood]] || [https://chisel.weirdgloop.org/moid/object_id.html#43816 43816] || colspan = "4" | New ID
+|-
+| [[Guardian of Body]] || [https://chisel.weirdgloop.org/moid/object_id.html#43817 43817] || colspan = "4" | New ID
+|-
+| [[Guardian of Cosmic]] || [https://chisel.weirdgloop.org/moid/object_id.html#43818 43818] || colspan = "4" | New ID
+|-
+| [[Guardian of Nature]] || [https://chisel.weirdgloop.org/moid/object_id.html#43819 43819] || colspan = "4" | New ID
+|-
+| [[Guardian of Law]] || [https://chisel.weirdgloop.org/moid/object_id.html#43820 43820] || colspan = "4" | New ID
+|-
+| [[Guardian of Water]] || [https://chisel.weirdgloop.org/moid/object_id.html#43821 43821] || colspan = "4" | New ID
+|-
+| [[Guardian of Mind]] || [https://chisel.weirdgloop.org/moid/object_id.html#43822 43822] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43823 43823] || colspan = "4" | New ID
+|-
+| [[Blood rift]] || [https://chisel.weirdgloop.org/moid/object_id.html#43824 43824] || colspan = "4" | New ID
+|-
+| [[Blood rift]] || [https://chisel.weirdgloop.org/moid/object_id.html#43825 43825] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43826 43826] || colspan = "4" | New ID
+|-
+| [[Plant]] || [https://chisel.weirdgloop.org/moid/object_id.html#43827 43827] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43828 43828] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43829 43829] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43830 43830] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43831 43831] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43832 43832] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43833 43833] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43834 43834] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43835 43835] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43836 43836] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43837 43837] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43838 43838] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43839 43839] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43840 43840] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43841 43841] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43842 43842] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43843 43843] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43844 43844] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43845 43845] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43846 43846] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43847 43847] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43848 43848] || colspan = "4" | New ID
+|-
+|rowspan="2"|[[Eye decoration]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#910 910]
+|-
+|name || [[Evil eye decoration]] || [[Eye decoration]]
+|-
+|rowspan="2"|[[Ladder]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#2147 2147]
+|-
+|blockingMask || 0 || 11
+|-
+|rowspan="2"|[[Ladder]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#2148 2148]
+|-
+|blockingMask || 0 || 11
+|-
+|rowspan="3"|[[Cave entrance]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#5046 5046]
+|-
+|ambient || 0 || 15
+|-
+| contrast || 0 || 375
+|-
+|rowspan="3"|[[Cave entrance]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#16308 16308]
+|-
+|ambient || 0 || 15
+|-
+| contrast || 0 || 375
+|-
+|rowspan="11"|[[null]]
+|rowspan="11"|[https://chisel.weirdgloop.org/moid/object_id.html#25380 25380]
+|-
+|name || [[Blood rift]] || [[null]]
+|-
+| sizeX || 2 || 3
+|-
+| sizeY || 1 || 3
+|-
+| anInt2083 || 0 || 5
+|-
+| animationID || 2178 || 2714
+|-
+| varbitID || -1 || 13782
+|-
+| ambient || 50 || 0
+|-
+| contrast || 1250 || 0
+|-
+| actions || ['Exit-through', None, None, None, None] || [None, None, None, None, None]
+|-
+| ambientSoundId || -1 || 3141
+|-
+|rowspan="2"|[[Abyssal Rift]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#26149 26149]
+|-
+|name || [[Abyssal rift]] || [[Abyssal Rift]]
+|-
+|rowspan="2"|[[Altar]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#29631 29631]
+|-
+|name || [[Runecrafting altar]] || [[Altar]]
+|-
+|rowspan="10"|[[null]]
+|rowspan="10"|[https://chisel.weirdgloop.org/moid/object_id.html#38044 38044]
+|-
+|name || [[Mysterious ruins]] || [[null]]
+|-
+| sizeX || 3 || 1
+|-
+| sizeY || 3 || 1
+|-
+| anInt2083 || 5 || 0
+|-
+| animationID || 2714 || 2260
+|-
+| varbitID || -1 || 13687
+|-
+| interactType || 2 || 1
+|-
+| mapSceneID || -1 || 12
+|-
+| ambientSoundId || 3141 || -1
+|-
+|}

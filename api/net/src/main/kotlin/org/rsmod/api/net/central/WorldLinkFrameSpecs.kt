@@ -21,8 +21,7 @@ public object WorldLinkFrameSpecs {
 
     public const val LOGIN_FAIL_SCRIPT_LINE_MAX_UTF8_BYTES: Int = 512
 
-    private const val LOGIN_FAIL_MAX_BODY: Int =
-        4 + 3 * (2 + LOGIN_FAIL_SCRIPT_LINE_MAX_UTF8_BYTES)
+    private const val LOGIN_FAIL_MAX_BODY: Int = 4 + 3 * (2 + LOGIN_FAIL_SCRIPT_LINE_MAX_UTF8_BYTES)
     private const val LOGIN_USERNAME_MAX_UTF8: Int = 64 * 4
     private const val LOGIN_PASSWORD_MAX_UTF8: Int = 256 * 4
     private const val TOKEN_BODY_BYTES: Int = 2 + TOKEN_BYTES
@@ -69,45 +68,69 @@ public object WorldLinkFrameSpecs {
             "empty" -> "frame was empty (expected at least an opcode byte)"
             "hello_ack_size" -> "HELLO_ACK must have no body after the opcode"
             "hello_reject_size" -> "HELLO_REJECT must have exactly one reason byte after the opcode"
-            "login_fail_short" -> "LOGIN_FAIL body too short (need at least the 4-byte failure code)"
+            "login_fail_short" ->
+                "LOGIN_FAIL body too short (need at least the 4-byte failure code)"
             "login_fail_long" -> "LOGIN_FAIL body exceeds the maximum allowed size"
             "login_fail_script" -> "LOGIN_FAIL optional script trailer is truncated or malformed"
             "login_fail_script_line" -> "LOGIN_FAIL script line exceeds max UTF-8 length"
-            "login_fail_trailing" -> "LOGIN_FAIL has unexpected trailing bytes after the script lines"
-            "login_ok_size" -> "LOGIN_OK body length is outside the allowed range for token + account id + rights"
+            "login_fail_trailing" ->
+                "LOGIN_FAIL has unexpected trailing bytes after the script lines"
+            "login_ok_size" ->
+                "LOGIN_OK body length is outside the allowed range for token + account id + rights"
             "logout_ack_size" -> "LOGOUT_ACK must have no body after the opcode"
             "push_subscribe_ack_size" -> "PUSH_SUBSCRIBE_ACK must have no body after the opcode"
-            "server_revoke_login_size" -> "SERVER_REVOKE_LOGIN body must be exactly 12 bytes (account id + character id)"
+            "server_revoke_login_size" ->
+                "SERVER_REVOKE_LOGIN body must be exactly 12 bytes (account id + character id)"
             "server_mute_update_size" -> "SERVER_MUTE_UPDATE body must be exactly 20 bytes"
-            "server_kick_size" -> "SERVER_KICK body must be exactly 12 bytes (account id + character id)"
-            "server_private_message_size" -> "SERVER_PRIVATE_MESSAGE body length is outside the allowed range"
-            "server_private_message_truncated" -> "SERVER_PRIVATE_MESSAGE is truncated before a length-prefixed string"
-            "server_private_message_chunk_len" -> "SERVER_PRIVATE_MESSAGE string length exceeds maximum UTF-8 size"
+            "server_kick_size" ->
+                "SERVER_KICK body must be exactly 12 bytes (account id + character id)"
+            "server_private_message_size" ->
+                "SERVER_PRIVATE_MESSAGE body length is outside the allowed range"
+            "server_private_message_truncated" ->
+                "SERVER_PRIVATE_MESSAGE is truncated before a length-prefixed string"
+            "server_private_message_chunk_len" ->
+                "SERVER_PRIVATE_MESSAGE string length exceeds maximum UTF-8 size"
             "server_private_message_chunk_data" -> "SERVER_PRIVATE_MESSAGE string data is truncated"
-            "server_private_message_trailing" -> "SERVER_PRIVATE_MESSAGE has unexpected trailing bytes"
+            "server_private_message_trailing" ->
+                "SERVER_PRIVATE_MESSAGE has unexpected trailing bytes"
             "pm_relay_ok_size" -> "WORLD_PM_RELAY_OK must have no body after the opcode"
-            "pm_relay_fail_size" -> "WORLD_PM_RELAY_FAIL must have exactly one reason byte after the opcode"
-            "server_reboot_short" -> "SERVER_REBOOT body is shorter than the minimum fixed fields + message length"
+            "pm_relay_fail_size" ->
+                "WORLD_PM_RELAY_FAIL must have exactly one reason byte after the opcode"
+            "server_reboot_short" ->
+                "SERVER_REBOOT body is shorter than the minimum fixed fields + message length"
             "server_reboot_long" -> "SERVER_REBOOT body exceeds the maximum allowed size"
             "server_reboot_msg_len" -> "SERVER_REBOOT message UTF-8 block length is invalid"
-            "server_reboot_msg_mismatch" -> "SERVER_REBOOT declared message length does not match frame size"
+            "server_reboot_msg_mismatch" ->
+                "SERVER_REBOOT declared message length does not match frame size"
             "server_broadcast_size" -> "SERVER_BROADCAST body length is outside the allowed range"
-            "server_broadcast_truncated" -> "SERVER_BROADCAST is truncated before a length-prefixed string"
-            "server_broadcast_chunk_len" -> "SERVER_BROADCAST string length exceeds maximum UTF-8 size"
+            "server_broadcast_truncated" ->
+                "SERVER_BROADCAST is truncated before a length-prefixed string"
+            "server_broadcast_chunk_len" ->
+                "SERVER_BROADCAST string length exceeds maximum UTF-8 size"
             "server_broadcast_chunk_data" -> "SERVER_BROADCAST string data is truncated"
             "server_broadcast_trailing" -> "SERVER_BROADCAST has unexpected trailing bytes"
             "friend_fanout_ok_size" -> "WORLD_FRIEND_FANOUT_ACK must have no body after the opcode"
-            "friend_fanout_fail_size" -> "WORLD_FRIEND_FANOUT_FAIL must have exactly one reason byte after the opcode"
-            "server_friend_presence_size" -> "SERVER_FRIEND_PRESENCE body length is outside the allowed range"
-            "server_friend_presence_truncated" -> "SERVER_FRIEND_PRESENCE is truncated before a length-prefixed string"
-            "server_friend_presence_chunk_len" -> "SERVER_FRIEND_PRESENCE string length exceeds maximum UTF-8 size"
+            "friend_fanout_fail_size" ->
+                "WORLD_FRIEND_FANOUT_FAIL must have exactly one reason byte after the opcode"
+            "server_friend_presence_size" ->
+                "SERVER_FRIEND_PRESENCE body length is outside the allowed range"
+            "server_friend_presence_truncated" ->
+                "SERVER_FRIEND_PRESENCE is truncated before a length-prefixed string"
+            "server_friend_presence_chunk_len" ->
+                "SERVER_FRIEND_PRESENCE string length exceeds maximum UTF-8 size"
             "server_friend_presence_chunk_data" -> "SERVER_FRIEND_PRESENCE string data is truncated"
-            "server_friend_presence_trailing" -> "SERVER_FRIEND_PRESENCE has unexpected trailing bytes"
-            "server_display_name_sync_size" -> "SERVER_DISPLAY_NAME_SYNC body length is outside the allowed range"
-            "server_display_name_sync_truncated" -> "SERVER_DISPLAY_NAME_SYNC is truncated before a length-prefixed string"
-            "server_display_name_sync_chunk_len" -> "SERVER_DISPLAY_NAME_SYNC string length exceeds maximum UTF-8 size"
-            "server_display_name_sync_chunk_data" -> "SERVER_DISPLAY_NAME_SYNC string data is truncated"
-            "server_display_name_sync_trailing" -> "SERVER_DISPLAY_NAME_SYNC has unexpected trailing bytes"
+            "server_friend_presence_trailing" ->
+                "SERVER_FRIEND_PRESENCE has unexpected trailing bytes"
+            "server_display_name_sync_size" ->
+                "SERVER_DISPLAY_NAME_SYNC body length is outside the allowed range"
+            "server_display_name_sync_truncated" ->
+                "SERVER_DISPLAY_NAME_SYNC is truncated before a length-prefixed string"
+            "server_display_name_sync_chunk_len" ->
+                "SERVER_DISPLAY_NAME_SYNC string length exceeds maximum UTF-8 size"
+            "server_display_name_sync_chunk_data" ->
+                "SERVER_DISPLAY_NAME_SYNC string data is truncated"
+            "server_display_name_sync_trailing" ->
+                "SERVER_DISPLAY_NAME_SYNC has unexpected trailing bytes"
             "unexpected_opcode" -> "opcode is not defined for this direction in the protocol"
             "too_short" -> "frame body is shorter than the minimum for this opcode"
             "too_long" -> "frame body is longer than the maximum for this opcode"
@@ -117,10 +140,7 @@ public object WorldLinkFrameSpecs {
             else -> "validation code: $reason"
         }
 
-    public fun validateGameToCentralBody(
-        opcode: Int,
-        bodyLen: Int,
-    ): String? =
+    public fun validateGameToCentralBody(opcode: Int, bodyLen: Int): String? =
         when (opcode) {
             OP_WORLD_HELLO -> {
                 val min = 4 + 2 + 4 + 2 + 0
@@ -138,7 +158,8 @@ public object WorldLinkFrameSpecs {
                 } else {
                     null
                 }
-            OP_HEARTBEAT, OP_LOGOUT -> {
+            OP_HEARTBEAT,
+            OP_LOGOUT -> {
                 if (bodyLen != TOKEN_BODY_BYTES) "bad_token_frame" else null
             }
 
@@ -308,15 +329,9 @@ public object WorldLinkFrameSpecs {
         return if (buf.remaining() != 0) "server_display_name_sync_trailing" else null
     }
 
-    public data class ServerRevokeLoginPayload(
-        val accountId: Long,
-        val characterId: Int,
-    )
+    public data class ServerRevokeLoginPayload(val accountId: Long, val characterId: Int)
 
-    public data class ServerKickPayload(
-        val accountId: Long,
-        val characterId: Int,
-    )
+    public data class ServerKickPayload(val accountId: Long, val characterId: Int)
 
     public data class ServerMuteUpdatePayload(
         val accountId: Long,
@@ -378,7 +393,6 @@ public object WorldLinkFrameSpecs {
         return ServerBroadcastPayload(worldScope, message, url, icon)
     }
 
-
     public fun decodeServerDisplayNameSync(frame: ByteArray): ServerDisplayNameSyncPayload {
         val buf = ByteBuffer.wrap(frame, 1, frame.size - 1)
         val accountId = buf.long
@@ -399,6 +413,4 @@ public object WorldLinkFrameSpecs {
         buf.get(bytes)
         return String(bytes, StandardCharsets.UTF_8)
     }
-
-
 }

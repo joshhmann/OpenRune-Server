@@ -1,0 +1,39 @@
+{{ToC}}
+==Items==
+{| class="wikitable sortable"
+!colspan='5'|Items
+|-
+! Name !! ID !! Key !! Previous Value !! Changed into
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|6884
+|-
+|params || {'365': 561, '366': 2, '367': 555, '336': 0, '368': 4, '369': 557, '370': 4, '596': 14286893, '597': 354, '598': 404, '599': 1801, '600': 1881, '601': 'Bones to Peaches', '602': 'Turns Bones into Peaches', '603': 1, '604': 60, '605': 1} || {'1416': 1, '365': 561, '366': 2, '367': 555, '336': 0, '368': 4, '369': 557, '370': 4, '596': 14286893, '597': 354, '598': 404, '599': 1801, '600': 1881, '601': 'Bones to Peaches', '602': 'Turns Bones into Peaches', '603': 1, '604': 60, '605': 1}
+|-
+|rowspan="2"|[[Dead orb]]
+|rowspan="2"|17152
+|-
+|params || {'365': 563, '366': 1, '367': 560, '336': -1, '368': 1, '369': 562, '370': 1, '596': 14286917, '597': 359, '598': 409, '599': 1799, '600': 1879, '601': 'Teleport to Target', '602': 'Teleports you near your Target', '603': 1, '604': 85, '605': 2} || {'1416': 1, '365': 563, '366': 1, '367': 560, '336': -1, '368': 1, '369': 562, '370': 1, '596': 14286917, '597': 359, '598': 409, '599': 1799, '600': 1879, '601': 'Teleport to Target', '602': 'Teleports you near your Target', '603': 1, '604': 85, '605': 2}
+|-
+|rowspan="2"|[[Bandos godsword (or)]]
+|rowspan="2"|20370
+|-
+|femaleModel0 || 42637 || 42640
+|-
+|}
+
+==Non-Player Characters==
+{| class="wikitable sortable"
+!colspan='5'|Non-Player Characters
+|-
+! Name !! ID !! Key !! Previous Value !! Changed into
+|-
+|}
+
+==Objects==
+{| class="wikitable sortable"
+!colspan='5'|Objects
+|-
+! Name !! ID !! Key !! Previous Value !! Changed into
+|-
+|}

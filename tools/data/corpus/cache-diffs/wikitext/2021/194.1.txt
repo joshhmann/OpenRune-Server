@@ -1,0 +1,54 @@
+{| class="wikitable sortable"
+!colspan="5"|Items
+|-
+! Name !! ID !! Key !! Previous Value !! Changed into
+|-
+| [[Dharok's platebody]] || 25515 || NEW ID || NEW ID || NEW ID
+|-
+| [[Dharok's greataxe]] || 25516 || NEW ID || NEW ID || NEW ID
+|-
+| [[Volatile nightmare staff]] || 25517 || NEW ID || NEW ID || NEW ID
+|-
+| [[Ancestral hat]] || 25518 || NEW ID || NEW ID || NEW ID
+|-
+| [[Bronze coffin]] || 25459 || interfaceOptions || ['Fill', 'Wear', 'Configure', 'Remove lock', 'Destroy'] || ['Fill', 'Wear', 'Configure', 'Open', 'Destroy']
+|-
+| [[Bronze coffin]] || 25459 || params || {'452': 'Configure', '1152': 3, '451': 'Fill'} || {'1152': 3, '451': 'Fill', '452': 'Configure', '453': 'Open'}
+|-
+| [[Steel coffin]] || 25461 || interfaceOptions || ['Fill', 'Wear', 'Configure', 'Remove lock', 'Destroy'] || ['Fill', 'Wear', 'Configure', 'Open', 'Destroy']
+|-
+| [[Steel coffin]] || 25461 || params || {'452': 'Configure', '1152': 8, '451': 'Fill'} || {'1152': 8, '451': 'Fill', '452': 'Configure', '453': 'Open'}
+|-
+| [[Black coffin]] || 25463 || interfaceOptions || ['Fill', 'Wear', 'Configure', 'Remove lock', 'Destroy'] || ['Fill', 'Wear', 'Configure', 'Open', 'Destroy']
+|-
+| [[Black coffin]] || 25463 || params || {'452': 'Configure', '1152': 14, '451': 'Fill'} || {'1152': 14, '451': 'Fill', '452': 'Configure', '453': 'Open'}
+|-
+| [[Silver coffin]] || 25465 || interfaceOptions || ['Fill', 'Wear', 'Configure', 'Remove lock', 'Destroy'] || ['Fill', 'Wear', 'Configure', 'Open', 'Destroy']
+|-
+| [[Silver coffin]] || 25465 || params || {'452': 'Configure', '1152': 20, '451': 'Fill'} || {'1152': 20, '451': 'Fill', '452': 'Configure', '453': 'Open'}
+|-
+| [[Gold coffin]] || 25467 || interfaceOptions || ['Fill', 'Wear', 'Configure', 'Remove lock', 'Destroy'] || ['Fill', 'Wear', 'Configure', 'Open', 'Destroy']
+|-
+| [[Gold coffin]] || 25467 || params || {'452': 'Configure', '1152': 28, '451': 'Fill'} || {'1152': 28, '451': 'Fill', '452': 'Configure', '453': 'Open'}
+|-
+| [[Open bronze coffin]] || 25469 || interfaceOptions || ['Fill', 'Wear', 'Configure', 'Remove lock', 'Destroy'] || ['Fill', 'Wear', 'Configure', 'Close', 'Destroy']
+|-
+| [[Open bronze coffin]] || 25469 || params || {'452': 'Configure', '1152': 3, '451': 'Fill'} || {'1152': 3, '451': 'Fill', '452': 'Configure', '453': 'Close'}
+|-
+| [[Open steel coffin]] || 25470 || interfaceOptions || ['Fill', 'Wear', 'Configure', 'Remove lock', 'Destroy'] || ['Fill', 'Wear', 'Configure', 'Close', 'Destroy']
+|-
+| [[Open steel coffin]] || 25470 || params || {'452': 'Configure', '1152': 8, '451': 'Fill'} || {'1152': 8, '451': 'Fill', '452': 'Configure', '453': 'Close'}
+|-
+| [[Open black coffin]] || 25471 || interfaceOptions || ['Fill', 'Wear', 'Configure', 'Remove lock', 'Destroy'] || ['Fill', 'Wear', 'Configure', 'Close', 'Destroy']
+|-
+| [[Open black coffin]] || 25471 || params || {'452': 'Configure', '1152': 14, '451': 'Fill'} || {'1152': 14, '451': 'Fill', '452': 'Configure', '453': 'Close'}
+|-
+| [[Open silver coffin]] || 25472 || interfaceOptions || ['Fill', 'Wear', 'Configure', 'Remove lock', 'Destroy'] || ['Fill', 'Wear', 'Configure', 'Close', 'Destroy']
+|-
+| [[Open silver coffin]] || 25472 || params || {'452': 'Configure', '1152': 20, '451': 'Fill'} || {'1152': 20, '451': 'Fill', '452': 'Configure', '453': 'Close'}
+|-
+| [[Open gold coffin]] || 25473 || interfaceOptions || ['Fill', 'Wear', 'Configure', 'Remove lock', 'Destroy'] || ['Fill', 'Wear', 'Configure', 'Close', 'Destroy']
+|-
+| [[Open gold coffin]] || 25473 || params || {'452': 'Configure', '1152': 28, '451': 'Fill'} || {'1152': 28, '451': 'Fill', '452': 'Configure', '453': 'Close'}
+|-
+|}

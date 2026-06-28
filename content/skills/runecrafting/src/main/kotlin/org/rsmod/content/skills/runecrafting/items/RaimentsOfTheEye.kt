@@ -5,11 +5,7 @@ import org.rsmod.game.entity.Player
 
 object RaimentsOfTheEye {
     private val hatVariants =
-        setOf(
-            "obj.hat_of_the_eye",
-            "obj.hat_of_the_eye_blue",
-            "obj.hat_of_the_eye_green",
-        )
+        setOf("obj.hat_of_the_eye", "obj.hat_of_the_eye_blue", "obj.hat_of_the_eye_green")
 
     private val topVariants =
         setOf(

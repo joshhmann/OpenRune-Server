@@ -3,7 +3,6 @@ package org.rsmod.api.server.config
 import com.fasterxml.jackson.databind.ObjectMapper
 import com.github.michaelbull.logging.InlineLogger
 import java.nio.file.Path
-import kotlin.io.path.exists
 import kotlin.io.path.notExists
 import kotlin.io.path.writeText
 
@@ -14,17 +13,15 @@ import kotlin.io.path.writeText
 internal object SameInstanceCentralWorldMigrator {
     private val logger = InlineLogger()
 
-    fun migrateIfNeeded(
-        gameYml: Path,
-        exampleYml: Path,
-        yamlMapper: ObjectMapper,
-    ) {
+    fun migrateIfNeeded(gameYml: Path, exampleYml: Path, yamlMapper: ObjectMapper) {
         if (gameYml.notExists() || exampleYml.notExists()) {
             return
         }
         val game =
             runCatching { yamlMapper.readValue(gameYml.toFile(), ServerConfig::class.java) }
-                .getOrElse { return }
+                .getOrElse {
+                    return
+                }
         val central = game.central ?: return
         if (!central.sameInstance) {
             return
@@ -34,7 +31,9 @@ internal object SameInstanceCentralWorldMigrator {
         }
         val example =
             runCatching { yamlMapper.readValue(exampleYml.toFile(), ServerConfig::class.java) }
-                .getOrElse { return }
+                .getOrElse {
+                    return
+                }
         val targetWorld = example.world
         if (targetWorld == game.world) {
             return

@@ -1,0 +1,201 @@
+
+{{ToC}}
+==Items==
+===New Items===
+{| class="wikitable sortable"
+!colspan='11'|New Items
+|-
+! style=width:15em | Name !! ID !! Members !! Tradeable in GE !! Equipable !! Stackable !! Noteable !! Options !! Placeholder !! Cost !! Weight
+|-
+|-
+|}
+===Removed Items===
+{| class="wikitable sortable"
+!colspan='2'|Removed Items
+|-
+! style=width:15em | Name !! ID
+|-
+|-
+|}
+===Diff Items===
+{| class="wikitable sortable"
+!colspan='5'|Diff Items
+|-
+! style=width:15em | Name !! ID !! Key !! Previous Value !! New Value
+|-
+|}
+
+==Non-Player Characters==
+===New NPCs===
+{| class="wikitable sortable"
+!colspan='4'|New NPCs
+|-
+! style=width:15em | Name !! ID !! Combat Level !! Options
+|-
+|-
+|}
+===Removed NPCs===
+{| class="wikitable sortable"
+!colspan='2'|Removed NPCs
+|-
+! style=width:15em | Name !! ID
+|-
+|-
+|}
+===Diff NPCs===
+{| class="wikitable sortable"
+!colspan='5'|Diff NPCs
+|-
+! style=width:15em | Name !! ID !! Key !! Previous Value !! New Value
+|-
+|}
+
+==Objects==
+===New Objects=== 
+{| class="wikitable sortable"
+!colspan='3'|New Objects
+|-
+! style=width:15em | Name !! ID !! Options
+|-
+|-
+|}
+===Removed Objects===
+{| class="wikitable sortable"
+!colspan='2'|Removed Objects
+|-
+! style=width:15em | Name !! ID
+|-
+|-
+|}
+===Diff Objects===
+{| class="wikitable sortable"
+!colspan='5'|Diff Objects
+|-
+! style=width:15em | Name !! ID !! Key !! Previous Value !! New Value
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#27268 27268]
+|-
+|actions || ['Open', None, None, None, None] || ['Open', 'Toggle XP', None, None, None]
+|-
+|rowspan="2"|[[Deadman chest]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#27269 27269]
+|-
+|actions || ['Open', None, None, None, None] || ['Open', 'Toggle XP', None, None, None]
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#27270 27270]
+|-
+|actions || ['Open', None, None, None, None] || ['Open', 'Toggle XP', None, None, None]
+|-
+|rowspan="2"|[[Deadman chest]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#27271 27271]
+|-
+|actions || ['Open', None, None, None, None] || ['Open', 'Toggle XP', None, None, None]
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#27272 27272]
+|-
+|actions || ['Open', None, None, None, None] || ['Open', 'Toggle XP', None, None, None]
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#27273 27273]
+|-
+|actions || ['Open', None, None, None, None] || ['Open', 'Toggle XP', None, None, None]
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#27274 27274]
+|-
+|actions || ['Open', None, None, None, None] || ['Open', 'Toggle XP', None, None, None]
+|-
+|rowspan="2"|[[Deadman chest]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#27275 27275]
+|-
+|actions || ['Open', None, None, None, None] || ['Open', 'Toggle XP', None, None, None]
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#27276 27276]
+|-
+|actions || ['Open', None, None, None, None] || ['Open', 'Toggle XP', None, None, None]
+|-
+|rowspan="2"|[[Deadman chest]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#27277 27277]
+|-
+|actions || ['Open', None, None, None, None] || ['Open', 'Toggle XP', None, None, None]
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#27278 27278]
+|-
+|actions || ['Open', None, None, None, None] || ['Open', 'Toggle XP', None, None, None]
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#27279 27279]
+|-
+|actions || ['Open', None, None, None, None] || ['Open', 'Toggle XP', None, None, None]
+|-
+|rowspan="2"|[[Deadman chest]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#27280 27280]
+|-
+|actions || ['Open', None, None, None, None] || ['Open', 'Toggle XP', None, None, None]
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#27281 27281]
+|-
+|actions || ['Open', None, None, None, None] || ['Open', 'Toggle XP', None, None, None]
+|-
+|rowspan="2"|[[Deadman chest]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#27282 27282]
+|-
+|actions || ['Open', None, None, None, None] || ['Open', 'Toggle XP', None, None, None]
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#27283 27283]
+|-
+|actions || ['Open', None, None, None, None] || ['Open', 'Toggle XP', None, None, None]
+|-
+|rowspan="2"|[[Deadman chest]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#27284 27284]
+|-
+|actions || ['Open', None, None, None, None] || ['Open', 'Toggle XP', None, None, None]
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#27285 27285]
+|-
+|actions || ['Open', None, None, None, None] || ['Open', 'Toggle XP', None, None, None]
+|-
+|rowspan="2"|[[Deadman chest]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#27286 27286]
+|-
+|actions || ['Open', None, None, None, None] || ['Open', 'Toggle XP', None, None, None]
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#27287 27287]
+|-
+|actions || ['Open', None, None, None, None] || ['Open', 'Toggle XP', None, None, None]
+|-
+|rowspan="2"|[[Deadman chest]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#27288 27288]
+|-
+|actions || ['Open', None, None, None, None] || ['Open', 'Toggle XP', None, None, None]
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#27289 27289]
+|-
+|actions || ['Open', None, None, None, None] || ['Open', 'Toggle XP', None, None, None]
+|-
+|rowspan="2"|[[Deadman chest]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#27290 27290]
+|-
+|actions || ['Open', None, None, None, None] || ['Open', 'Toggle XP', None, None, None]
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#31483 31483]
+|-
+|actions || ['Open', None, None, None, None] || ['Open', 'Toggle XP', None, None, None]
+|-
+|rowspan="2"|[[Deadman chest]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#31484 31484]
+|-
+|actions || ['Open', None, None, None, None] || ['Open', 'Toggle XP', None, None, None]
+|-
+|}

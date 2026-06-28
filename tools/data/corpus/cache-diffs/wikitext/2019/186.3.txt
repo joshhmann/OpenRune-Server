@@ -1,0 +1,573 @@
+{{ToC}}
+==Items==
+===New Items===
+{| class="wikitable sortable"
+!colspan='11'|New Items
+|-
+! style=width:15em | Name !! ID !! Members !! Tradeable in GE !! Equipable !! Stackable !! Noteable !! Options !! Placeholder !! Cost
+|-
+| [[Green gingerbread shield]] || [https://chisel.weirdgloop.org/moid/item_id.html#24428 24428] || No || No || Yes || No || No ||  Wield, Transform,  Destroy || Yes || 0
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#24429 24429] || No || No || No || No || No ||     Drop || Yes || 1
+|-
+| [[Red gingerbread shield]] || [https://chisel.weirdgloop.org/moid/item_id.html#24430 24430] || No || No || Yes || No || No ||  Wield, Transform,  Destroy || No || 0
+|-
+| [[Blue gingerbread shield]] || [https://chisel.weirdgloop.org/moid/item_id.html#24431 24431] || No || No || Yes || No || No ||  Wield, Transform,  Destroy || No || 0
+|-
+| [[Festive cinnamon stick]] || [https://chisel.weirdgloop.org/moid/item_id.html#24432 24432] || No || No || No || No || No ||     Destroy || No || 0
+|-
+| [[Festive ginger powder]] || [https://chisel.weirdgloop.org/moid/item_id.html#24433 24433] || No || No || No || No || No ||     Destroy || No || 0
+|-
+| [[Festive egg]] || [https://chisel.weirdgloop.org/moid/item_id.html#24434 24434] || No || No || No || No || No ||     Destroy || No || 0
+|-
+| [[Festive pot]] || [https://chisel.weirdgloop.org/moid/item_id.html#24435 24435] || No || No || Yes || No || No ||     Destroy || No || 0
+|-
+| [[Festive flour]] || [https://chisel.weirdgloop.org/moid/item_id.html#24436 24436] || No || No || No || No || No ||     Destroy || No || 0
+|-
+| [[Gingerbread shield]] || [https://chisel.weirdgloop.org/moid/item_id.html#24437 24437] || No || No || Yes || No || No ||  Wield,   Destroy || No || 0
+|-
+| [[Iced gingerbread shield]] || [https://chisel.weirdgloop.org/moid/item_id.html#24438 24438] || No || No || Yes || No || No ||  Wield,   Destroy || No || 0
+|-
+| [[Iced gingerbread shield]] || [https://chisel.weirdgloop.org/moid/item_id.html#24439 24439] || No || No || Yes || No || No ||  Wield,   Destroy || No || 0
+|-
+| [[Iced gingerbread shield]] || [https://chisel.weirdgloop.org/moid/item_id.html#24440 24440] || No || No || Yes || No || No ||  Wield,   Destroy || No || 0
+|-
+| [[Scaperune teleport]] || [https://chisel.weirdgloop.org/moid/item_id.html#24441 24441] || No || No || No || Yes || No ||    Break, Destroy || No || 0
+|-
+| [[Bakery storage key]] || [https://chisel.weirdgloop.org/moid/item_id.html#24442 24442] || No || No || No || No || No ||     Destroy || No || 0
+|-
+| [[Gingerbread gnome]] || [https://chisel.weirdgloop.org/moid/item_id.html#24443 24443] || No || No || No || No || No || Eat,    Destroy || No || 0
+|-
+|-
+|}
+===Removed Items===
+{| class="wikitable sortable"
+!colspan='2'|Removed Items
+|-
+! style=width:15em | Name !! ID
+|-
+|-
+|}
+===Diff Items===
+{| class="wikitable sortable"
+!colspan='5'|Diff Items
+|-
+! style=width:15em | Name !! ID !! Key !! Previous Value !! New Value
+|-
+|rowspan="2"|[[Death rune]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#560 560]
+|-
+|boughtId || -1 || 24415
+|-
+|rowspan="3"|[[Granite cannonball]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/item_id.html#21728 21728]
+|-
+| colorFind ||<span style = "background-color: #121111;color:white">12</span>||<span style = "background-color: #312424;color:white">158</span>
+|-
+| colorReplace ||<span style = "background-color: #594f4f;color:white">57</span>||<span style = "background-color: #534b4b;color:white">53</span>
+|-
+|rowspan="9"|[[null]]
+|rowspan="9"|[https://chisel.weirdgloop.org/moid/item_id.html#24415 24415]
+|-
+|name || [[Null]] || [[null]]
+|-
+| xan2d || 572 || 0
+|-
+| inventoryModel || 2521 || 0
+|-
+| zoom2d || 1940 || 2000
+|-
+| yOffset2d || 1 || 0
+|-
+| interfaceOptions || ['Wear', None, None, None, 'Drop'] || [None, None, None, None, 'Drop']
+|-
+| boughtId || -1 || 560
+|-
+| boughtTemplateId || -1 || 13189
+|-
+|}
+
+==Non-Player Characters==
+===New NPCs===
+{| class="wikitable sortable"
+!colspan='4'|New NPCs
+|-
+! style=width:15em | Name !! ID !! Combat Level !! Options
+|-
+| [[Trader Stan]] || [https://chisel.weirdgloop.org/moid/npc_id.html#9299 9299] || No Combat Level || Talk-To, Trade, Charter
+|-
+| [[Trader Stan]] || [https://chisel.weirdgloop.org/moid/npc_id.html#9300 9300] || No Combat Level || Talk-To, Trade, Charter, Charter-to Brimhaven
+|-
+| [[Trader Stan]] || [https://chisel.weirdgloop.org/moid/npc_id.html#9301 9301] || No Combat Level || Talk-To, Trade, Charter, Charter-to Catherby
+|-
+| [[Trader Stan]] || [https://chisel.weirdgloop.org/moid/npc_id.html#9302 9302] || No Combat Level || Talk-To, Trade, Charter, "Charter-to Mos LeHarmless"
+|-
+| [[Trader Stan]] || [https://chisel.weirdgloop.org/moid/npc_id.html#9303 9303] || No Combat Level || Talk-To, Trade, Charter, Charter-to Musa Point
+|-
+| [[Trader Stan]] || [https://chisel.weirdgloop.org/moid/npc_id.html#9304 9304] || No Combat Level || Talk-To, Trade, Charter, Charter-to Port Khazard
+|-
+| [[Trader Stan]] || [https://chisel.weirdgloop.org/moid/npc_id.html#9305 9305] || No Combat Level || Talk-To, Trade, Charter, Charter-to Port Phasmatys
+|-
+| [[Trader Stan]] || [https://chisel.weirdgloop.org/moid/npc_id.html#9307 9307] || No Combat Level || Talk-To, Trade, Charter, Charter-to Port Sarim
+|-
+| [[Trader Stan]] || [https://chisel.weirdgloop.org/moid/npc_id.html#9308 9308] || No Combat Level || Talk-To, Trade, Charter, Charter-to Shipyard
+|-
+| [[Trader Stan]] || [https://chisel.weirdgloop.org/moid/npc_id.html#9309 9309] || No Combat Level || Talk-To, Trade, Charter, Charter-to Corsair Cove
+|-
+| [[Trader Stan]] || [https://chisel.weirdgloop.org/moid/npc_id.html#9310 9310] || No Combat Level || Talk-To, Trade, Charter, Charter-to Prifddinas
+|-
+| [[Trader Stan]] || [https://chisel.weirdgloop.org/moid/npc_id.html#9311 9311] || No Combat Level || Talk-To, Trade, Charter, Charter-to Port Tyras
+|-
+| [[Trader Crewmember]] || [https://chisel.weirdgloop.org/moid/npc_id.html#9312 9312] || No Combat Level || Talk-To, Trade, Charter
+|-
+| [[Trader Crewmember]] || [https://chisel.weirdgloop.org/moid/npc_id.html#9313 9313] || No Combat Level || Talk-To, Trade, Charter, Charter-to Brimhaven
+|-
+| [[Trader Crewmember]] || [https://chisel.weirdgloop.org/moid/npc_id.html#9314 9314] || No Combat Level || Talk-To, Trade, Charter, Charter-to Catherby
+|-
+| [[Trader Crewmember]] || [https://chisel.weirdgloop.org/moid/npc_id.html#9315 9315] || No Combat Level || Talk-To, Trade, Charter, "Charter-to Mos LeHarmless"
+|-
+| [[Trader Crewmember]] || [https://chisel.weirdgloop.org/moid/npc_id.html#9316 9316] || No Combat Level || Talk-To, Trade, Charter, Charter-to Musa Point
+|-
+| [[Trader Crewmember]] || [https://chisel.weirdgloop.org/moid/npc_id.html#9317 9317] || No Combat Level || Talk-To, Trade, Charter, Charter-to Port Khazard
+|-
+| [[Trader Crewmember]] || [https://chisel.weirdgloop.org/moid/npc_id.html#9318 9318] || No Combat Level || Talk-To, Trade, Charter, Charter-to Port Phasmatys
+|-
+| [[Trader Crewmember]] || [https://chisel.weirdgloop.org/moid/npc_id.html#9319 9319] || No Combat Level || Talk-To, Trade, Charter, Charter-to Port Sarim
+|-
+| [[Trader Crewmember]] || [https://chisel.weirdgloop.org/moid/npc_id.html#9320 9320] || No Combat Level || Talk-To, Trade, Charter, Charter-to Shipyard
+|-
+| [[Trader Crewmember]] || [https://chisel.weirdgloop.org/moid/npc_id.html#9321 9321] || No Combat Level || Talk-To, Trade, Charter, Charter-to Port Tyras
+|-
+| [[Trader Crewmember]] || [https://chisel.weirdgloop.org/moid/npc_id.html#9322 9322] || No Combat Level || Talk-To, Trade, Charter, Charter-to Corsair Cove
+|-
+| [[Trader Crewmember]] || [https://chisel.weirdgloop.org/moid/npc_id.html#9323 9323] || No Combat Level || Talk-To, Trade, Charter, Charter-to Prifddinas
+|-
+| [[Trader Crewmember]] || [https://chisel.weirdgloop.org/moid/npc_id.html#9324 9324] || No Combat Level || Talk-To, Trade, Charter
+|-
+| [[Trader Crewmember]] || [https://chisel.weirdgloop.org/moid/npc_id.html#9325 9325] || No Combat Level || Talk-To, Trade, Charter, Charter-to Brimhaven
+|-
+| [[Trader Crewmember]] || [https://chisel.weirdgloop.org/moid/npc_id.html#9326 9326] || No Combat Level || Talk-To, Trade, Charter, Charter-to Catherby
+|-
+| [[Trader Crewmember]] || [https://chisel.weirdgloop.org/moid/npc_id.html#9327 9327] || No Combat Level || Talk-To, Trade, Charter, "Charter-to Mos LeHarmless"
+|-
+| [[Trader Crewmember]] || [https://chisel.weirdgloop.org/moid/npc_id.html#9328 9328] || No Combat Level || Talk-To, Trade, Charter, Charter-to Musa Point
+|-
+| [[Trader Crewmember]] || [https://chisel.weirdgloop.org/moid/npc_id.html#9329 9329] || No Combat Level || Talk-To, Trade, Charter, Charter-to Port Khazard
+|-
+| [[Trader Crewmember]] || [https://chisel.weirdgloop.org/moid/npc_id.html#9330 9330] || No Combat Level || Talk-To, Trade, Charter, Charter-to Port Phasmatys
+|-
+| [[Trader Crewmember]] || [https://chisel.weirdgloop.org/moid/npc_id.html#9331 9331] || No Combat Level || Talk-To, Trade, Charter, Charter-to Port Sarim
+|-
+| [[Trader Crewmember]] || [https://chisel.weirdgloop.org/moid/npc_id.html#9332 9332] || No Combat Level || Talk-To, Trade, Charter, Charter-to Shipyard
+|-
+| [[Trader Crewmember]] || [https://chisel.weirdgloop.org/moid/npc_id.html#9333 9333] || No Combat Level || Talk-To, Trade, Charter, Charter-to Port Tyras
+|-
+| [[Trader Crewmember]] || [https://chisel.weirdgloop.org/moid/npc_id.html#9334 9334] || No Combat Level || Talk-To, Trade, Charter, Charter-to Corsair Cove
+|-
+| [[Trader Crewmember]] || [https://chisel.weirdgloop.org/moid/npc_id.html#9335 9335] || No Combat Level || Talk-To, Trade, Charter, Charter-to Prifddinas
+|-
+| [[Trader Crewmember]] || [https://chisel.weirdgloop.org/moid/npc_id.html#9336 9336] || No Combat Level || Talk-To, Trade, Charter
+|-
+| [[Trader Crewmember]] || [https://chisel.weirdgloop.org/moid/npc_id.html#9337 9337] || No Combat Level || Talk-To, Trade, Charter, Charter-to Brimhaven
+|-
+| [[Trader Crewmember]] || [https://chisel.weirdgloop.org/moid/npc_id.html#9338 9338] || No Combat Level || Talk-To, Trade, Charter, Charter-to Catherby
+|-
+| [[Trader Crewmember]] || [https://chisel.weirdgloop.org/moid/npc_id.html#9339 9339] || No Combat Level || Talk-To, Trade, Charter, "Charter-to Mos LeHarmless"
+|-
+| [[Trader Crewmember]] || [https://chisel.weirdgloop.org/moid/npc_id.html#9340 9340] || No Combat Level || Talk-To, Trade, Charter, Charter-to Musa Point
+|-
+| [[Trader Crewmember]] || [https://chisel.weirdgloop.org/moid/npc_id.html#9341 9341] || No Combat Level || Talk-To, Trade, Charter, Charter-to Port Khazard
+|-
+| [[Trader Crewmember]] || [https://chisel.weirdgloop.org/moid/npc_id.html#9342 9342] || No Combat Level || Talk-To, Trade, Charter, Charter-to Port Phasmatys
+|-
+| [[Trader Crewmember]] || [https://chisel.weirdgloop.org/moid/npc_id.html#9343 9343] || No Combat Level || Talk-To, Trade, Charter, Charter-to Port Sarim
+|-
+| [[Trader Crewmember]] || [https://chisel.weirdgloop.org/moid/npc_id.html#9344 9344] || No Combat Level || Talk-To, Trade, Charter, Charter-to Shipyard
+|-
+| [[Trader Crewmember]] || [https://chisel.weirdgloop.org/moid/npc_id.html#9345 9345] || No Combat Level || Talk-To, Trade, Charter, Charter-to Port Tyras
+|-
+| [[Trader Crewmember]] || [https://chisel.weirdgloop.org/moid/npc_id.html#9346 9346] || No Combat Level || Talk-To, Trade, Charter, Charter-to Corsair Cove
+|-
+| [[Trader Crewmember]] || [https://chisel.weirdgloop.org/moid/npc_id.html#9347 9347] || No Combat Level || Talk-To, Trade, Charter, Charter-to Prifddinas
+|-
+| [[Trader Crewmember]] || [https://chisel.weirdgloop.org/moid/npc_id.html#9348 9348] || No Combat Level || Talk-To, Trade, Charter
+|-
+| [[Trader Crewmember]] || [https://chisel.weirdgloop.org/moid/npc_id.html#9349 9349] || No Combat Level || Talk-To, Trade, Charter, Charter-to Brimhaven
+|-
+| [[Trader Crewmember]] || [https://chisel.weirdgloop.org/moid/npc_id.html#9350 9350] || No Combat Level || Talk-To, Trade, Charter, Charter-to Catherby
+|-
+| [[Trader Crewmember]] || [https://chisel.weirdgloop.org/moid/npc_id.html#9351 9351] || No Combat Level || Talk-To, Trade, Charter, "Charter-to Mos LeHarmless"
+|-
+| [[Trader Crewmember]] || [https://chisel.weirdgloop.org/moid/npc_id.html#9352 9352] || No Combat Level || Talk-To, Trade, Charter, Charter-to Musa Point
+|-
+| [[Trader Crewmember]] || [https://chisel.weirdgloop.org/moid/npc_id.html#9353 9353] || No Combat Level || Talk-To, Trade, Charter, Charter-to Port Khazard
+|-
+| [[Trader Crewmember]] || [https://chisel.weirdgloop.org/moid/npc_id.html#9354 9354] || No Combat Level || Talk-To, Trade, Charter, Charter-to Port Phasmatys
+|-
+| [[Trader Crewmember]] || [https://chisel.weirdgloop.org/moid/npc_id.html#9355 9355] || No Combat Level || Talk-To, Trade, Charter, Charter-to Port Sarim
+|-
+| [[Trader Crewmember]] || [https://chisel.weirdgloop.org/moid/npc_id.html#9356 9356] || No Combat Level || Talk-To, Trade, Charter, Charter-to Shipyard
+|-
+| [[Trader Crewmember]] || [https://chisel.weirdgloop.org/moid/npc_id.html#9357 9357] || No Combat Level || Talk-To, Trade, Charter, Charter-to Port Tyras
+|-
+| [[Trader Crewmember]] || [https://chisel.weirdgloop.org/moid/npc_id.html#9358 9358] || No Combat Level || Talk-To, Trade, Charter, Charter-to Corsair Cove
+|-
+| [[Trader Crewmember]] || [https://chisel.weirdgloop.org/moid/npc_id.html#9359 9359] || No Combat Level || Talk-To, Trade, Charter, Charter-to Prifddinas
+|-
+| [[Trader Crewmember]] || [https://chisel.weirdgloop.org/moid/npc_id.html#9360 9360] || No Combat Level || Talk-To, Trade, Charter
+|-
+| [[Trader Crewmember]] || [https://chisel.weirdgloop.org/moid/npc_id.html#9361 9361] || No Combat Level || Talk-To, Trade, Charter, Charter-to Brimhaven
+|-
+| [[Trader Crewmember]] || [https://chisel.weirdgloop.org/moid/npc_id.html#9362 9362] || No Combat Level || Talk-To, Trade, Charter, Charter-to Catherby
+|-
+| [[Trader Crewmember]] || [https://chisel.weirdgloop.org/moid/npc_id.html#9363 9363] || No Combat Level || Talk-To, Trade, Charter, "Charter-to Mos LeHarmless"
+|-
+| [[Trader Crewmember]] || [https://chisel.weirdgloop.org/moid/npc_id.html#9364 9364] || No Combat Level || Talk-To, Trade, Charter, Charter-to Musa Point
+|-
+| [[Trader Crewmember]] || [https://chisel.weirdgloop.org/moid/npc_id.html#9365 9365] || No Combat Level || Talk-To, Trade, Charter, Charter-to Port Khazard
+|-
+| [[Trader Crewmember]] || [https://chisel.weirdgloop.org/moid/npc_id.html#9366 9366] || No Combat Level || Talk-To, Trade, Charter, Charter-to Port Phasmatys
+|-
+| [[Trader Crewmember]] || [https://chisel.weirdgloop.org/moid/npc_id.html#9367 9367] || No Combat Level || Talk-To, Trade, Charter, Charter-to Port Sarim
+|-
+| [[Trader Crewmember]] || [https://chisel.weirdgloop.org/moid/npc_id.html#9368 9368] || No Combat Level || Talk-To, Trade, Charter, Charter-to Shipyard
+|-
+| [[Trader Crewmember]] || [https://chisel.weirdgloop.org/moid/npc_id.html#9369 9369] || No Combat Level || Talk-To, Trade, Charter, Charter-to Port Tyras
+|-
+| [[Trader Crewmember]] || [https://chisel.weirdgloop.org/moid/npc_id.html#9370 9370] || No Combat Level || Talk-To, Trade, Charter, Charter-to Corsair Cove
+|-
+| [[Trader Crewmember]] || [https://chisel.weirdgloop.org/moid/npc_id.html#9371 9371] || No Combat Level || Talk-To, Trade, Charter, Charter-to Prifddinas
+|-
+| [[Trader Crewmember]] || [https://chisel.weirdgloop.org/moid/npc_id.html#9372 9372] || No Combat Level || Talk-To, Trade, Charter
+|-
+| [[Trader Crewmember]] || [https://chisel.weirdgloop.org/moid/npc_id.html#9373 9373] || No Combat Level || Talk-To, Trade, Charter, Charter-to Brimhaven
+|-
+| [[Trader Crewmember]] || [https://chisel.weirdgloop.org/moid/npc_id.html#9374 9374] || No Combat Level || Talk-To, Trade, Charter, Charter-to Catherby
+|-
+| [[Trader Crewmember]] || [https://chisel.weirdgloop.org/moid/npc_id.html#9375 9375] || No Combat Level || Talk-To, Trade, Charter, "Charter-to Mos LeHarmless"
+|-
+| [[Trader Crewmember]] || [https://chisel.weirdgloop.org/moid/npc_id.html#9376 9376] || No Combat Level || Talk-To, Trade, Charter, Charter-to Musa Point
+|-
+| [[Trader Crewmember]] || [https://chisel.weirdgloop.org/moid/npc_id.html#9377 9377] || No Combat Level || Talk-To, Trade, Charter, Charter-to Port Khazard
+|-
+| [[Trader Crewmember]] || [https://chisel.weirdgloop.org/moid/npc_id.html#9378 9378] || No Combat Level || Talk-To, Trade, Charter, Charter-to Port Phasmatys
+|-
+| [[Trader Crewmember]] || [https://chisel.weirdgloop.org/moid/npc_id.html#9379 9379] || No Combat Level || Talk-To, Trade, Charter, Charter-to Port Sarim
+|-
+| [[Trader Crewmember]] || [https://chisel.weirdgloop.org/moid/npc_id.html#9380 9380] || No Combat Level || Talk-To, Trade, Charter, Charter-to Shipyard
+|-
+| [[Trader Crewmember]] || [https://chisel.weirdgloop.org/moid/npc_id.html#9381 9381] || No Combat Level || Talk-To, Trade, Charter, Charter-to Port Tyras
+|-
+| [[Trader Crewmember]] || [https://chisel.weirdgloop.org/moid/npc_id.html#9382 9382] || No Combat Level || Talk-To, Trade, Charter, Charter-to Corsair Cove
+|-
+| [[Trader Crewmember]] || [https://chisel.weirdgloop.org/moid/npc_id.html#9383 9383] || No Combat Level || Talk-To, Trade, Charter, Charter-to Prifddinas
+|-
+| [[Jack Frost]] || [https://chisel.weirdgloop.org/moid/npc_id.html#9384 9384] || No Combat Level || Talk-to
+|-
+| [[Santa]] || [https://chisel.weirdgloop.org/moid/npc_id.html#9385 9385] || No Combat Level || Talk-to
+|-
+| [[Anti-Santa]] || [https://chisel.weirdgloop.org/moid/npc_id.html#9386 9386] || No Combat Level || Talk-to
+|-
+| [[Anti-Santa]] || [https://chisel.weirdgloop.org/moid/npc_id.html#9387 9387] || No Combat Level || None
+|-
+| [[Icelord]] || [https://chisel.weirdgloop.org/moid/npc_id.html#9388 9388] || No Combat Level || None
+|-
+| [[Worried Baker]] || [https://chisel.weirdgloop.org/moid/npc_id.html#9389 9389] || No Combat Level || Talk-to
+|-
+| [[Paul]] || [https://chisel.weirdgloop.org/moid/npc_id.html#9390 9390] || No Combat Level || Talk-to
+|-
+| [[Mary]] || [https://chisel.weirdgloop.org/moid/npc_id.html#9391 9391] || No Combat Level || Talk-to
+|-
+| [[Georgie]] || [https://chisel.weirdgloop.org/moid/npc_id.html#9392 9392] || No Combat Level || Talk-to
+|-
+| [[Georgie]] || [https://chisel.weirdgloop.org/moid/npc_id.html#9393 9393] || No Combat Level || Talk-to
+|-
+| [[Beverly]] || [https://chisel.weirdgloop.org/moid/npc_id.html#9394 9394] || No Combat Level || Talk-to
+|-
+| [[Beverly]] || [https://chisel.weirdgloop.org/moid/npc_id.html#9395 9395] || No Combat Level || Talk-to
+|-
+| [[Bill]] || [https://chisel.weirdgloop.org/moid/npc_id.html#9396 9396] || No Combat Level || Talk-to
+|-
+| [[Bill]] || [https://chisel.weirdgloop.org/moid/npc_id.html#9397 9397] || No Combat Level || Talk-to
+|-
+| [[Jess]] || [https://chisel.weirdgloop.org/moid/npc_id.html#9398 9398] || No Combat Level || Talk-to
+|-
+| [[Jess]] || [https://chisel.weirdgloop.org/moid/npc_id.html#9399 9399] || No Combat Level || Talk-to
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/npc_id.html#9400 9400] || No Combat Level || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/npc_id.html#9401 9401] || No Combat Level || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/npc_id.html#9402 9402] || No Combat Level || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/npc_id.html#9403 9403] || No Combat Level || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/npc_id.html#9404 9404] || No Combat Level || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/npc_id.html#9405 9405] || No Combat Level || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/npc_id.html#9406 9406] || No Combat Level || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/npc_id.html#9407 9407] || No Combat Level || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/npc_id.html#9408 9408] || No Combat Level || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/npc_id.html#9409 9409] || No Combat Level || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/npc_id.html#9410 9410] || No Combat Level || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/npc_id.html#9411 9411] || No Combat Level || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/npc_id.html#9412 9412] || No Combat Level || None
+|-
+|-
+|}
+===Removed NPCs===
+{| class="wikitable sortable"
+!colspan='2'|Removed NPCs
+|-
+! style=width:15em | Name !! ID
+|-
+|-
+|}
+===Diff NPCs===
+{| class="wikitable sortable"
+!colspan='5'|Diff NPCs
+|-
+! style=width:15em | Name !! ID !! Key !! Previous Value !! New Value
+|-
+|rowspan="5"|[[null]]
+|rowspan="5"|[https://chisel.weirdgloop.org/moid/npc_id.html#1328 1328]
+|-
+|name || [[Trader Stan]] || [[null]]
+|-
+| actions || ['Talk-To', None, 'Trade', 'Charter', None] || [None, None, None, None, None]
+|-
+| combatLevel || 0 || 1
+|-
+| varbitId || -1 || 10068
+|-
+|rowspan="5"|[[null]]
+|rowspan="5"|[https://chisel.weirdgloop.org/moid/npc_id.html#1329 1329]
+|-
+|name || [[Trader Crewmember]] || [[null]]
+|-
+| actions || ['Talk-To', None, 'Trade', 'Charter', None] || [None, None, None, None, None]
+|-
+| combatLevel || 0 || 1
+|-
+| varbitId || -1 || 10068
+|-
+|rowspan="5"|[[null]]
+|rowspan="5"|[https://chisel.weirdgloop.org/moid/npc_id.html#1330 1330]
+|-
+|name || [[Trader Crewmember]] || [[null]]
+|-
+| actions || ['Talk-To', None, 'Trade', 'Charter', None] || [None, None, None, None, None]
+|-
+| combatLevel || 0 || 1
+|-
+| varbitId || -1 || 10068
+|-
+|rowspan="5"|[[null]]
+|rowspan="5"|[https://chisel.weirdgloop.org/moid/npc_id.html#1331 1331]
+|-
+|name || [[Trader Crewmember]] || [[null]]
+|-
+| actions || ['Talk-To', None, 'Trade', 'Charter', None] || [None, None, None, None, None]
+|-
+| combatLevel || 0 || 1
+|-
+| varbitId || -1 || 10068
+|-
+|rowspan="5"|[[null]]
+|rowspan="5"|[https://chisel.weirdgloop.org/moid/npc_id.html#1332 1332]
+|-
+|name || [[Trader Crewmember]] || [[null]]
+|-
+| actions || ['Talk-To', None, 'Trade', 'Charter', None] || [None, None, None, None, None]
+|-
+| combatLevel || 0 || 1
+|-
+| varbitId || -1 || 10068
+|-
+|rowspan="5"|[[null]]
+|rowspan="5"|[https://chisel.weirdgloop.org/moid/npc_id.html#1333 1333]
+|-
+|name || [[Trader Crewmember]] || [[null]]
+|-
+| actions || ['Talk-To', None, 'Trade', 'Charter', None] || [None, None, None, None, None]
+|-
+| combatLevel || 0 || 1
+|-
+| varbitId || -1 || 10068
+|-
+|rowspan="5"|[[null]]
+|rowspan="5"|[https://chisel.weirdgloop.org/moid/npc_id.html#1334 1334]
+|-
+|name || [[Trader Crewmember]] || [[null]]
+|-
+| actions || ['Talk-To', None, 'Trade', 'Charter', None] || [None, None, None, None, None]
+|-
+| combatLevel || 0 || 1
+|-
+| varbitId || -1 || 10068
+|-
+|rowspan="4"|[[Baraek]]
+|rowspan="4"|[https://chisel.weirdgloop.org/moid/npc_id.html#2881 2881]
+|-
+|actions || ['Talk-to', None, None, None, None] || ['Talk-to', None, None, None, 'Pelt']
+|-
+| models || [230, 244, 248, 299, 25866, 25680, 177, 254, 19947] || [230, 244, 248, 299, 25866, 25680, 177, 254, 19947, 189]
+|-
+| chatheadModels || [63, 77, 80] || [63, 77, 80, 69]
+|-
+|rowspan="2"|[[Stray dog]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#2902 2902]
+|-
+|actions || [None, None, None, None, 'Shoo-away'] || [None, None, None, None, 'Pet']
+|-
+|rowspan="2"|[[Stray dog]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#2922 2922]
+|-
+|actions || [None, None, None, None, 'Shoo-away'] || [None, None, None, None, 'Pet']
+|-
+|rowspan="4"|[[Romeo]]
+|rowspan="4"|[https://chisel.weirdgloop.org/moid/npc_id.html#5037 5037]
+|-
+|actions || ['Talk-to', None, None, None, None] || ['Talk-to', None, None, None, 'Pelt']
+|-
+| models || [12137, 10075, 246, 10077, 12086, 10073, 10074, 677, 10076, 185] || [12137, 10075, 246, 10077, 12086, 10073, 10074, 677, 10076, 185, 189]
+|-
+| chatheadModels || [12132] || [12132, 69]
+|-
+|}
+
+==Objects==
+===New Objects=== 
+{| class="wikitable sortable"
+!colspan='3'|New Objects
+|-
+! style=width:15em | Name !! ID !! Options
+|-
+| [[Cell door]] || [https://chisel.weirdgloop.org/moid/object_id.html#37547 37547] || Pass-through
+|-
+| [[Trapdoor]] || [https://chisel.weirdgloop.org/moid/object_id.html#37548 37548] || Open
+|-
+| [[Trapdoor]] || [https://chisel.weirdgloop.org/moid/object_id.html#37549 37549] || Go-down
+|-
+| [[Barrel of Festive Branches]] || [https://chisel.weirdgloop.org/moid/object_id.html#37550 37550] || Take, Take-X
+|-
+| [[Sack of Flour]] || [https://chisel.weirdgloop.org/moid/object_id.html#37551 37551] || Take, Take-X
+|-
+| [[Sack of Ginger]] || [https://chisel.weirdgloop.org/moid/object_id.html#37552 37552] || Take, Take-X
+|-
+| [[Bucket of Eggs]] || [https://chisel.weirdgloop.org/moid/object_id.html#37553 37553] || Take, Take-X
+|-
+| [[Ladder]] || [https://chisel.weirdgloop.org/moid/object_id.html#37554 37554] || Climb-up
+|-
+| [[Door]] || [https://chisel.weirdgloop.org/moid/object_id.html#37555 37555] || Talk-to, Open
+|-
+| [[Door]] || [https://chisel.weirdgloop.org/moid/object_id.html#37556 37556] || None
+|-
+| [[Fireplace]] || [https://chisel.weirdgloop.org/moid/object_id.html#37557 37557] || None
+|-
+| [[Logs]] || [https://chisel.weirdgloop.org/moid/object_id.html#37558 37558] || None
+|-
+| [[Shelves]] || [https://chisel.weirdgloop.org/moid/object_id.html#37559 37559] || None
+|-
+| [[Santa's Sack]] || [https://chisel.weirdgloop.org/moid/object_id.html#37560 37560] || Take
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#37561 37561] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#37562 37562] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#37563 37563] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#37564 37564] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#37565 37565] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#37566 37566] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#37567 37567] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#37568 37568] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#37569 37569] || None
+|-
+| [[Tree]] || [https://chisel.weirdgloop.org/moid/object_id.html#37570 37570] || None
+|-
+| [[Gifts]] || [https://chisel.weirdgloop.org/moid/object_id.html#37571 37571] || None
+|-
+| [[Gifts]] || [https://chisel.weirdgloop.org/moid/object_id.html#37572 37572] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#37573 37573] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#37574 37574] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#37575 37575] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#37576 37576] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#37577 37577] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#37578 37578] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#37579 37579] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#37580 37580] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#37581 37581] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#37582 37582] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#37583 37583] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#37584 37584] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#37585 37585] || None
+|-
+| [[Tree]] || [https://chisel.weirdgloop.org/moid/object_id.html#37586 37586] || Chop down
+|-
+| [[Tree stump]] || [https://chisel.weirdgloop.org/moid/object_id.html#37587 37587] || None
+|-
+| [[Lever]] || [https://chisel.weirdgloop.org/moid/object_id.html#37588 37588] || Pull
+|-
+| [[Lever]] || [https://chisel.weirdgloop.org/moid/object_id.html#37589 37589] || None
+|-
+| [[Table]] || [https://chisel.weirdgloop.org/moid/object_id.html#37590 37590] || None
+|-
+| [[Receiver]] || [https://chisel.weirdgloop.org/moid/object_id.html#37591 37591] || Add-Ingredient, Check, Empty
+|-
+| [[Mixer]] || [https://chisel.weirdgloop.org/moid/object_id.html#37592 37592] || None
+|-
+| [[Convayer belt]] || [https://chisel.weirdgloop.org/moid/object_id.html#37593 37593] || None
+|-
+| [[Hopper]] || [https://chisel.weirdgloop.org/moid/object_id.html#37594 37594] || None
+|-
+| [[Support]] || [https://chisel.weirdgloop.org/moid/object_id.html#37595 37595] || None
+|-
+| [[Oven]] || [https://chisel.weirdgloop.org/moid/object_id.html#37596 37596] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#37597 37597] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#37598 37598] || None
+|-
+|-
+|}
+===Removed Objects===
+{| class="wikitable sortable"
+!colspan='2'|Removed Objects
+|-
+! style=width:15em | Name !! ID
+|-
+|-
+|}
+===Diff Objects===
+{| class="wikitable sortable"
+!colspan='5'|Diff Objects
+|-
+! style=width:15em | Name !! ID !! Key !! Previous Value !! New Value
+|-
+|}

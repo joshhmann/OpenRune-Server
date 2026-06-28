@@ -2,11 +2,11 @@ package org.rsmod.api.account.character.main
 
 import com.fasterxml.jackson.core.type.TypeReference
 import com.fasterxml.jackson.databind.ObjectMapper
+import dev.openrune.ServerCacheManager
+import dev.openrune.types.varp.VarpLifetime
 import dev.or2.central.account.AccountData
 import dev.or2.central.account.CharacterData
 import dev.or2.sql.OpenRuneSql
-import dev.openrune.ServerCacheManager
-import dev.openrune.types.varp.VarpLifetime
 import jakarta.inject.Inject
 import java.sql.Statement
 import java.sql.Timestamp
@@ -41,7 +41,7 @@ constructor(
 
         val insert =
             connection.prepareStatement(
-                OpenRuneSql.text("game/character/accounts_insert_conflict_do_nothing.sql"),
+                OpenRuneSql.text("game/character/accounts_insert_conflict_do_nothing.sql")
             )
         insert.use {
             it.setString(1, lowercaseName)
@@ -51,7 +51,7 @@ constructor(
 
         val select =
             connection.prepareStatement(
-                OpenRuneSql.text("game/character/accounts_select_id_by_account_name.sql"),
+                OpenRuneSql.text("game/character/accounts_select_id_by_account_name.sql")
             )
         val accountId =
             select.use {
@@ -115,7 +115,7 @@ constructor(
 
         val select =
             connection.prepareStatement(
-                OpenRuneSql.text("game/character/characters_select_metadata_by_login.sql"),
+                OpenRuneSql.text("game/character/characters_select_metadata_by_login.sql")
             )
 
         select.use {
@@ -235,11 +235,13 @@ constructor(
             it.executeUpdate()
         }
 
-        connection.prepareStatement(OpenRuneSql.text("game/character/accounts_update_known_device.sql")).use { ps ->
-            ps.setNullableInt(1, player.lastKnownDevice)
-            ps.setInt(2, accountId)
-            ps.executeUpdate()
-        }
+        connection
+            .prepareStatement(OpenRuneSql.text("game/character/accounts_update_known_device.sql"))
+            .use { ps ->
+                ps.setNullableInt(1, player.lastKnownDevice)
+                ps.setInt(2, accountId)
+                ps.executeUpdate()
+            }
 
         replacePersistentVarps(connection, characterId, persistentVarps)
         replacePersistentAttrs(connection, characterId, persistentAttrs)
@@ -257,8 +259,7 @@ constructor(
                     while (rs.next()) {
                         val key = rs.getString("attr_key")
                         val json = rs.getString("value_json")
-                        val value =
-                            objectMapper.readValue(json, object : TypeReference<Any>() {})
+                        val value = objectMapper.readValue(json, object : TypeReference<Any>() {})
                         put(key, value)
                     }
                 }

@@ -204,10 +204,12 @@ private fun clearGeneratedTableSources(root: File) {
         return
     }
     check(root.isDirectory) { "Table output path is not a directory: ${root.absolutePath}" }
-    root.walkBottomUp()
+    root
+        .walkBottomUp()
         .filter { it.isFile && it.extension.equals("kt", ignoreCase = true) }
         .forEach { it.delete() }
-    root.walkBottomUp()
+    root
+        .walkBottomUp()
         .filter { it.isDirectory && it != root && it.listFiles().isNullOrEmpty() }
         .forEach { it.delete() }
 }
@@ -540,7 +542,9 @@ private class RowPropertyCodegen(
         if (multi) {
             tupleAsLists += n
             val tupleT =
-                tupleClass.parameterizedBy(*slots.map { kotlinTypeForVarType(it, false) }.toTypedArray())
+                tupleClass.parameterizedBy(
+                    *slots.map { kotlinTypeForVarType(it, false) }.toTypedArray()
+                )
             addProp(
                 prop,
                 listType.parameterizedBy(tupleT),
@@ -600,9 +604,7 @@ private class RowPropertyCodegen(
                     selfReferentialDbRow(col) &&
                         first == VarType.DBROW &&
                         slots.all { it == VarType.DBROW }
-                else ->
-                    first == VarType.DBROW &&
-                        col.dbRowTargetTable != null
+                else -> first == VarType.DBROW && col.dbRowTargetTable != null
             }
         addProp(prop, ty, init, lazyInit)
     }

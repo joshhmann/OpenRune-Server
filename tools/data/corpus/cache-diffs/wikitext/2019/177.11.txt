@@ -1,0 +1,199 @@
+{{ToC}}
+==Items==
+===New Items===
+{| class="wikitable sortable"
+!colspan='11'|New Items
+|-
+! Name !! ID !! Members !! Tradeable in GE !! Equipable !! Stackable !! Noteable !! Options !! Placeholder !! Cost
+|-
+|-
+|}
+===Removed Items===
+{| class="wikitable sortable"
+!colspan='2'|Removed Items
+|-
+! Name !! ID
+|-
+|-
+|}
+===Diff Items===
+{| class="wikitable sortable"
+!colspan='5'|Diff Items
+|-
+! Name !! ID !! Key !! Previous Value !! New Value
+|-
+|}
+
+==Non-Player Characters==
+===New NPCs===
+{| class="wikitable sortable"
+!colspan='4'|New NPCs
+|-
+! Name !! ID !! Combat Level !! Options
+|-
+|-
+|}
+===Removed NPCs===
+{| class="wikitable sortable"
+!colspan='2'|Removed NPCs
+|-
+! Name !! ID
+|-
+| [[Leprechaun]] || [https://chisel.weirdgloop.org/moid/npc_id.html#2830 2830]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/npc_id.html#7979 7979]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/npc_id.html#8633 8633]
+|-
+|-
+|}
+===Diff NPCs===
+{| class="wikitable sortable"
+!colspan='5'|Diff NPCs
+|-
+! Name !! ID !! Key !! Previous Value !! New Value
+|-
+|rowspan="2"|[[Tool Leprechaun]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#0 0]
+|-
+|hasRenderPriority || False || True
+|-
+|rowspan="16"|[[null]]
+|rowspan="16"|[https://chisel.weirdgloop.org/moid/npc_id.html#1063 1063]
+|-
+|name || [[Angry giant rat]] || [[null]]
+|-
+| size || 2 || 1
+|-
+| standingAnimation || 4932 || 813
+|-
+| walkingAnimation || 4931 || 1205
+|-
+| rotate180Animation || -1 || 1206
+|-
+| rotate90RightAnimation || -1 || 1207
+|-
+| rotate90LeftAnimation || -1 || 1208
+|-
+| actions || [None, 'Attack', None, None, None] || [None, None, None, None, None]
+|-
+| combatLevel || 45 || 1
+|-
+| widthScale || 64 || 128
+|-
+| heightScale || 64 || 128
+|-
+| hasRenderPriority || False || True
+|-
+| ambient || 30 || 0
+|-
+| contrast || 30 || 0
+|-
+| varbitId || -1 || 4897
+|-
+|rowspan="13"|[[null]]
+|rowspan="13"|[https://chisel.weirdgloop.org/moid/npc_id.html#1064 1064]
+|-
+|name || [[Angry giant rat]] || [[null]]
+|-
+| size || 2 || 1
+|-
+| standingAnimation || 4932 || 808
+|-
+| walkingAnimation || 4931 || 808
+|-
+| actions || [None, 'Attack', None, None, None] || [None, None, None, None, None]
+|-
+| combatLevel || 45 || 0
+|-
+| widthScale || 64 || 128
+|-
+| heightScale || 64 || 128
+|-
+| hasRenderPriority || False || True
+|-
+| ambient || 30 || 0
+|-
+| contrast || 30 || 0
+|-
+| varbitId || -1 || 6071
+|-
+|rowspan="2"|[[Tool Leprechaun]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#7757 7757]
+|-
+|hasRenderPriority || False || True
+|-
+|}
+
+==Objects==
+===New Objects=== 
+{| class="wikitable sortable"
+!colspan='3'|New Objects
+|-
+! Name !! ID !! Options
+|-
+| [[Rubble]] || [https://chisel.weirdgloop.org/moid/object_id.html#34663 34663] || Take-rock
+|-
+| [[Rubble]] || [https://chisel.weirdgloop.org/moid/object_id.html#34664 34664] || Take-rock
+|-
+| [[Rubble]] || [https://chisel.weirdgloop.org/moid/object_id.html#34665 34665] || Take-rock
+|-
+| [[Rubble]] || [https://chisel.weirdgloop.org/moid/object_id.html#34666 34666] || None
+|-
+| [[Gangplank]] || [https://chisel.weirdgloop.org/moid/object_id.html#34667 34667] || Cross
+|-
+| [[Gangplank]] || [https://chisel.weirdgloop.org/moid/object_id.html#34668 34668] || Cross
+|-
+| [[Gangplank]] || [https://chisel.weirdgloop.org/moid/object_id.html#34669 34669] || Cross
+|-
+| [[Gangplank]] || [https://chisel.weirdgloop.org/moid/object_id.html#34670 34670] || Cross
+|-
+| [[Gangplank]] || [https://chisel.weirdgloop.org/moid/object_id.html#34671 34671] || Cross
+|-
+| [[Gangplank]] || [https://chisel.weirdgloop.org/moid/object_id.html#34672 34672] || Cross
+|-
+|-
+|}
+===Removed Objects===
+{| class="wikitable sortable"
+!colspan='2'|Removed Objects
+|-
+! Name !! ID
+|-
+| [[Gangplank]] || [https://chisel.weirdgloop.org/moid/object_id.html#34657 34657]
+|-
+| [[Gangplank]] || [https://chisel.weirdgloop.org/moid/object_id.html#34658 34658]
+|-
+|-
+|}
+===Diff Objects===
+{| class="wikitable sortable"
+!colspan='5'|Diff Objects
+|-
+! Name !! ID !! Key !! Previous Value !! New Value
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#8718 8718]
+|-
+|mapSceneID || -1 || 46
+|-
+|rowspan="4"|[[null]]
+|rowspan="4"|[https://chisel.weirdgloop.org/moid/object_id.html#11040 11040]
+|-
+|name || [[Rubble]] || [[null]]
+|-
+| varbitID || -1 || 8067
+|-
+| actions || ['Take-rock', None, None, None, None] || [None, None, None, None, None]
+|-
+|rowspan="2"|[[Gangplank]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#14304 14304]
+|-
+|mapSceneID || 46 || -1
+|-
+|rowspan="2"|[[Gangplank]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#14305 14305]
+|-
+|mapSceneID || 46 || -1
+|-
+|}

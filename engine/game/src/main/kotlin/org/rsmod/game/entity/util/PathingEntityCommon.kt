@@ -2,7 +2,6 @@ package org.rsmod.game.entity.util
 
 import dev.openrune.rscm.RSCM.asRSCM
 import dev.openrune.rscm.RSCMType
-import dev.openrune.types.SequenceServerType
 import org.rsmod.game.entity.Npc
 import org.rsmod.game.entity.PathingEntity
 import org.rsmod.game.entity.Player
@@ -115,12 +114,7 @@ public object PathingEntityCommon {
         entity.faceEntity = EntityFaceTarget.NULL
     }
 
-    public fun anim(
-        entity: PathingEntity,
-        seq: String,
-        delay: Int,
-        priority: Int,
-    ): Boolean {
+    public fun anim(entity: PathingEntity, seq: String, delay: Int, priority: Int): Boolean {
         require(delay in 0..254) { "`delay` must be within range [0..254]." }
         require(priority in 0..254) { "`priority` must be within range [0..254]." }
 

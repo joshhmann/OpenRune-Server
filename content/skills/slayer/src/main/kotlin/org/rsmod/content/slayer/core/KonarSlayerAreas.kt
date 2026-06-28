@@ -13,23 +13,20 @@ object KonarSlayerAreas {
     fun resolveTaskArea(
         player: Player,
         masterTask: SlayerMasterTaskRow,
-        preferredAreaId: Int?
+        preferredAreaId: Int?,
     ): Int? {
         val eligible = eligibleAreas(player, masterTask)
         if (eligible.isEmpty()) {
             return null
         }
 
-        val preferred = preferredAreaId?.takeIf { it != 0 }
-            ?.takeIf { id -> eligible.any { it.areaId == id } }
+        val preferred =
+            preferredAreaId?.takeIf { it != 0 }?.takeIf { id -> eligible.any { it.areaId == id } }
 
         return preferred ?: eligible.random().areaId
     }
 
-    fun eligibleAreas(
-        player: Player,
-        masterTask: SlayerMasterTaskRow
-    ): List<SlayerAreaRow> {
+    fun eligibleAreas(player: Player, masterTask: SlayerMasterTaskRow): List<SlayerAreaRow> {
         if (masterTask.areas.isEmpty()) {
             return emptyList()
         }
@@ -51,11 +48,7 @@ object KonarSlayerAreas {
             area.areaText.contains("Wilderness", ignoreCase = true)
     }
 
-    fun countsKillInTaskArea(
-        player: Player,
-        npc: Npc,
-        areaChecker: AreaChecker
-    ): Boolean {
+    fun countsKillInTaskArea(player: Player, npc: Npc, areaChecker: AreaChecker): Boolean {
         if (player.vars["varbit.slayer_master"] != 8) {
             return true
         }

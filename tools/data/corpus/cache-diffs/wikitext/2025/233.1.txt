@@ -1,0 +1,894 @@
+__TOC__
+==Enums==
+===New Enums===
+{| class="wikitable sortable sticky-header mw-collapsible"
+|-
+! colspan="3" | New Enums
+|-
+! style="width: 15em" | id !! defaultValue !! map
+|-
+| [https://chisel.weirdgloop.org/structs/index.html?type=enums&id=203 203][https://abextm.github.io/cache2/#/viewer/enum/203 (1)] ||  || 
+|}
+===Diff Enums===
+{| class="wikitable sortable sticky-header mw-collapsible"
+|-
+! colspan="5" | Diff Enums
+|-
+! style="width: 15em" | Id !! Key !! Previous Value !! New Value
+|-
+| rowspan="2" | [https://chisel.weirdgloop.org/structs/index.html?type=enums&id=3829 3829][https://abextm.github.io/cache2/#/viewer/enum/3829 (1)]
+|-
+| map || {'0': 2966, '1': 2967, '-1': 2965} || {'0': 2966, '1': <span style="color: #6bc71f">4570, '2': </span>2967, '-1': 2965}
+|-
+| rowspan="2" | [https://chisel.weirdgloop.org/structs/index.html?type=enums&id=4228 4228][https://abextm.github.io/cache2/#/viewer/enum/4228 (1)]
+|-
+| map || {'0': 3106, '1': <span style="color: #ee4231">4230</span>, '2': <span style="color: #ee4231">4233</span>, '3': <span style="color: #ee4231">4231</span>, '4': 4234, '5': 4232, '-1': 4229} || {'0': 3106, '1': <span style="color: #6bc71f">4572</span>, '2': <span style="color: #6bc71f">4230</span>, '3': <span style="color: #6bc71f">4233</span>, '4': 4234, '5': <span style="color: #6bc71f">4231, '6': 4571, '7': </span>4232, '-1': 4229}
+|-
+| rowspan="2" | [https://chisel.weirdgloop.org/structs/index.html?type=enums&id=4593 4593][https://abextm.github.io/cache2/#/viewer/enum/4593 (1)]
+|-
+| map || {'0': <span style="color: #ee4231">3784</span>} || {'0': <span style="color: #6bc71f">4143</span>}
+|-
+| rowspan="2" | [https://chisel.weirdgloop.org/structs/index.html?type=enums&id=5565 5565][https://abextm.github.io/cache2/#/viewer/enum/5565 (1)]
+|-
+| map || {'0': <span style="color: #ee4231">3805</span>, '1': <span style="color: #ee4231">3789</span>, '2': <span style="color: #ee4231">3790</span>, '3': <span style="color: #ee4231">3791</span>, '4': <span style="color: #ee4231">3792</span>, '5': <span style="color: #ee4231">3793</span>, '6': <span style="color: #ee4231">3794</span>, '7': <span style="color: #ee4231">3788</span>, '8': <span style="color: #ee4231">3795</span>, '9': <span style="color: #ee4231">3796</span>, '10': <span style="color: #ee4231">3797</span>, '11': <span style="color: #ee4231">3798</span>, '12': <span style="color: #ee4231">3799</span>, '13': <span style="color: #ee4231">3800</span>, '14': <span style="color: #ee4231">3801</span>, '15': <span style="color: #ee4231">3802</span>, '16': <span style="color: #ee4231">3803</span>, '17': <span style="color: #ee4231">3804</span>} || {'0': <span style="color: #6bc71f">4164</span>, '1': <span style="color: #6bc71f">4148</span>, '2': <span style="color: #6bc71f">4149</span>, '3': <span style="color: #6bc71f">4150</span>, '4': <span style="color: #6bc71f">4151</span>, '5': <span style="color: #6bc71f">4152</span>, '6': <span style="color: #6bc71f">4153</span>, '7': <span style="color: #6bc71f">4147</span>, '8': <span style="color: #6bc71f">4154</span>, '9': <span style="color: #6bc71f">4155</span>, '10': <span style="color: #6bc71f">4156</span>, '11': <span style="color: #6bc71f">4157</span>, '12': <span style="color: #6bc71f">4158</span>, '13': <span style="color: #6bc71f">4159</span>, '14': <span style="color: #6bc71f">4160</span>, '15': <span style="color: #6bc71f">4161</span>, '16': <span style="color: #6bc71f">4162</span>, '17': <span style="color: #6bc71f">4163</span>}
+|}
+==Varbits==
+===New Varbits===
+{| class="wikitable sortable sticky-header mw-collapsible"
+|-
+! colspan="5" | New Varbits
+|-
+! style="width: 15em" | id !! gameVal !! index !! leastSignificantBit !! mostSignificantBit
+|-
+| [https://chisel.weirdgloop.org/varbs/display?varbit=3210 3210] || pet_insurance_credits_processed || 3444 || 24 || 31
+|-
+| [https://chisel.weirdgloop.org/varbs/display?varbit=3211 3211] || toa_kicked_from_raid || 3589 || 30 || 30
+|}
+===Removed Varbits===
+{| class="wikitable sortable sticky-header mw-collapsible"
+|-
+! colspan="5" | Removed Varbits
+|-
+! style="width: 15em" | id !! gameVal !! index !! leastSignificantBit !! mostSignificantBit
+|-
+| [https://chisel.weirdgloop.org/varbs/display?varbit=10726 10726] ||  || 1341 || 31 || 31
+|-
+| [https://chisel.weirdgloop.org/varbs/display?varbit=11321 11321] || mm_lab_current_mox || 4422 || 0 || 8
+|-
+| [https://chisel.weirdgloop.org/varbs/display?varbit=11322 11322] || mm_lab_current_aga || 4422 || 9 || 17
+|-
+| [https://chisel.weirdgloop.org/varbs/display?varbit=11323 11323] || mm_lab_current_lye || 4422 || 18 || 26
+|-
+| [https://chisel.weirdgloop.org/varbs/display?varbit=14688 14688] || poh_menagerie_multiform_vetionpet_deprecated || 783 || 3 || 3
+|}
+===Diff Varbits===
+{| class="wikitable sortable sticky-header mw-collapsible"
+|-
+! colspan="5" | Diff Varbits
+|-
+! style="width: 15em" | Id !! GameVal !! Key !! Previous Value !! New Value
+|-
+| rowspan="4" | [https://chisel.weirdgloop.org/varbs/display?varbit=4893 4893]
+| rowspan="4" | hosidius_tithe_rewardpoints
+|-
+| index || <span style="color: #ee4231">1105</span> || <span style="color: #6bc71f">3072</span>
+|-
+| leastSignificantBit || <span style="color: #ee4231">11</span> || <span style="color: #6bc71f">17</span>
+|-
+| mostSignificantBit || <span style="color: #ee4231">20</span> || <span style="color: #6bc71f">30</span>
+|}
+==VarPlayers==
+===New VarPlayers===
+{| class="wikitable sortable sticky-header mw-collapsible"
+|-
+! colspan="2" | New VarPlayers
+|-
+! style="width: 15em" | id !! gameVal
+|-
+| [https://chisel.weirdgloop.org/varbs/display?varplayer=4846 4846] || dom_previous_deepest_level
+|-
+| [https://chisel.weirdgloop.org/varbs/display?varplayer=4847 4847] || 
+|-
+| [https://chisel.weirdgloop.org/varbs/display?varplayer=4848 4848] || collection_count_unsynced
+|}
+==Structs==
+===New Structs===
+{| class="wikitable sortable sticky-header mw-collapsible"
+|-
+! colspan="2" | New Structs
+|-
+! style="width: 15em" | id !! params
+|-
+| [https://chisel.weirdgloop.org/structs/index.html?type=structs&id=4570 4570][https://abextm.github.io/cache2/#/viewer/struct/4570 (1)] || {'1251': 'Event starting notification', '1252': 'Send a notification to players when an event is an hour from starting.', '1255': 1}
+|-
+| [https://chisel.weirdgloop.org/structs/index.html?type=structs&id=4571 4571][https://abextm.github.io/cache2/#/viewer/struct/4571 (1)] || {'1251': 'Collection log broadcast every x logs', '1252': 'Only send a collection log broadcast every X amount of logs.', '1255': 1}
+|-
+| [https://chisel.weirdgloop.org/structs/index.html?type=structs&id=4572 4572][https://abextm.github.io/cache2/#/viewer/struct/4572 (1)] || {'1251': 'Broadcasts from main world only', '1252': 'Only send notifications from the main game worlds only.', '1255': 1}
+|}
+===Diff Structs===
+{| class="wikitable sortable sticky-header mw-collapsible"
+|-
+! colspan="5" | Diff Structs
+|-
+! style="width: 15em" | Id !! Key !! Previous Value !! New Value
+|-
+| rowspan="2" | [https://chisel.weirdgloop.org/structs/index.html?type=structs&id=4559 4559][https://abextm.github.io/cache2/#/viewer/struct/4559 (1)]
+|-
+| params || {'1306': 614, '1307': 3594, '1308': 'Mokhaiotl Drift', '1309': 'Defeat the Doom of Mokhaiotl at level 8 before he finishes the first burrow phase.', '1310': 5, '1311': 4, '1312': 22} || {'1306': 614, '1307': 3594, '1308': 'Mokhaiotl Drift', '1309': 'Defeat the Doom of Mokhaiotl at level 8 <span style="color: #6bc71f">or above </span>before he finishes the first burrow phase.', '1310': 5, '1311': 4, '1312': 22}
+|}
+==Database Rows==
+===New Database Rows===
+{| class="wikitable sortable sticky-header mw-collapsible mw-collapsed"
+|-
+! colspan="4" | New Database Rows
+|-
+! style="width: 15em" | id !! gameVal !! table !! values
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4100 4100] || clan_setting_options_collection_broadcasts_every_x_logs || 62 || [[Collection log brodcast every X logs], [100, 100, 3404, 75, 75, 3403, 50, 50, 3402, 25, 25, 3401, 10, 10, 3400, 5, 5, 3399, 0, All, 3023], [32], None, [24]]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4101 4101] || clan_setting_options_broadcastevents_notification || 62 || [[Send an event notification 1 hour before the start], [1, Yes, 3023, 0, No, 3023], [32], None, [24]]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4102 4102] || clan_setting_options_broadcastmaingame_notification || 62 || [[Send broadcasts from the main game only], [1, Yes, 3023, 0, No, 3023], [32], None, [24]]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4103 4103] || fairyrings_dkp || 89 || [[120], [24], [47516711], [D K P], [24969339], [24969340], [986], [Fairy ring (DKP)], [<br>Karamja: Gnome Glider], None, [1], None]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4104 4104] || fairyrings_dks || 89 || [[121], [25], [44961415], [D K S], [24969345], [24969346], [987], [Fairy ring (DKS)], [<br>Fremennik Province: Polar Hunter area], None, [1], None]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4105 4105] || fairyrings_dkr || 89 || [[122], [26], [51269032], [D K R], [24969343], [24969344], [988], [Fairy ring (DKR)], [<br>Misthalin: Edgeville ], None, [1], None]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4106 4106] || fairyrings_dkq || 89 || [[123], [27], [269500481], [D K Q], [24969341], [24969342], [989], [Fairy ring (DKQ)], None, None, None, None]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4107 4107] || fairyrings_djp || 89 || [[130], [28], [43551902], [D J P], [24969331], [24969332], [990], [Fairy ring (DJP)], [<br>Kandarin: Tower of Life], None, [1], None]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4108 4108] || fairyrings_djs || 89 || [[131], [29], [269500481], [D J S], [24969337], [24969338], [991], [Fairy ring (DJS)], None, None, None, None]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4109 4109] || fairyrings_djr || 89 || [[132], [30], [23842378], [D J R], [24969335], [24969336], [992], [Fairy ring (DJR)], [<br>Great Kourend: Chasm of Fire], None, None, None]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4110 4110] || fairyrings_djq || 89 || [[133], [31], [269500481], [D J Q], [24969333], [24969334], [993], [Fairy ring (DJQ)], None, None, None, None]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4111 4111] || fairyrings_cip || 89 || [[200], [32], [41176876], [C I P], [24969291], [24969292], [994], [Fairy ring (CIP)], [<br>Islands: Miscellania ], None, [1], None]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4112 4112] || fairyrings_cis || 89 || [[201], [33], [26857244], [C I S], [24969297], [24969298], [995], [Fairy ring (CIS)], [<br>Great Kourend: Arceuus Library], None, None, None]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4113 4113] || fairyrings_cir || 89 || [[202], [34], [21335730], [C I R], [24969295], [24969296], [996], [Fairy ring (CIR)], [<br>Kebos Lowlands: South of Mount Karuulm], None, [1], None]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4114 4114] || fairyrings_ciq || 89 || [[203], [35], [41421879], [C I Q], [24969293], [24969294], [997], [Fairy ring (CIQ)], [<br>Kandarin: North-west of Yanille], None, [1], None]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4115 4115] || fairyrings_clp || 89 || [[210], [36], [50498694], [C L P], [24969315], [24969316], [998], [Fairy ring (CLP)], [<br>Islands: South of Draynor Village], None, [1], [1]]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4116 4116] || fairyrings_cls || 89 || [[211], [37], [43944969], [C L S], [24969321], [24969322], [999], [Fairy ring (CLS)], [<br>Kandarin: Hazelmere's home], None, [1], None]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4117 4117] || fairyrings_clr || 89 || [[212], [38], [44894898], [C L R], [24969319], [24969320], [1000], [Fairy ring (CLR)], [<br>Islands: Ape Atoll ], [1462], None, [1]]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4118 4118] || fairyrings_clq || 89 || [[213], [39], [269500481], [C L Q], [24969317], [24969318], [1001], [Fairy ring (CLQ)], None, None, None, None]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4119 4119] || fairyrings_ckp || 89 || [[220], [40], [34001648], [C K P], [24969307], [24969308], [1002], [Fairy ring (CKP)], [<br>Other Realms: Cosmic Entity's plane], None, None, [1]]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4120 4120] || fairyrings_cks || 89 || [[221], [41], [56479118], [C K S], [24969313], [24969314], [1003], [Fairy ring (CKS)], [<br>Morytania: Canifis ], None, None, None]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4121 4121] || fairyrings_ckr || 89 || [[222], [42], [45894587], [C K R], [24969311], [24969312], [1004], [Fairy ring (CKR)], [<br>Karamja: Tai Bwo Wannai Village], None, None, None]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4122 4122] || fairyrings_ckq || 89 || [[223], [43], [22268797], [C K Q], [24969309], [24969310], [1005], [Fairy ring (CKQ)], [<br>Varlamore: Aldarin], None, None, None]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4123 4123] || fairyrings_cjp || 89 || [[230], [44], [269500481], [C J P], [24969299], [24969300], [1006], [Fairy ring (CJP)], None, None, None, None]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4124 4124] || fairyrings_cjs || 89 || [[231], [45], [269500481], [C J S], [24969305], [24969306], [1007], [Fairy ring (CJS)], None, None, None, None]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4125 4125] || fairyrings_cjr || 89 || [[232], [46], [44322296], [C J R], [24969303], [24969304], [1008], [Fairy ring (CJR)], [<br>Kandarin: Sinclair Mansion], None, None, None]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4126 4126] || fairyrings_cjq || 89 || [[233], [47], [269500481], [C J Q], [24969301], [24969302], [1009], [Fairy ring (CJQ)], None, None, None, None]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4127 4127] || fairyrings_bip || 89 || [[300], [48], [55872764], [B I P], [24969259], [24969260], [1010], [Fairy ring (BIP)], [<br>Islands: River Salve ], None, [1], [1]]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4128 4128] || fairyrings_bis || 89 || [[301], [49], [43175106], [B I S], [24969265], [24969266], [1011], [Fairy ring (BIS)], [<br>Kandarin: Ardougne Zoo unicorns], None, None, [1]]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4129 4129] || fairyrings_bir || 89 || [[302], [50], [269500481], [B I R], [24969263], [24969264], [1012], [Fairy ring (BIR)], None, None, None, None]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4130 4130] || fairyrings_biq || 89 || [[303], [51], [53267479], [B I Q], [24969261], [24969262], [1013], [Fairy ring (BIQ)], [<br>Kharidian Desert: Near the Kalphite Hive ], [4185], None, None]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4131 4131] || fairyrings_blp || 89 || [[310], [52], [39932934], [B L P], [24969283], [24969284], [1014], [Fairy ring (BLP)], [<br>Dungeons: Mor Ul Rek], None, None, None]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4132 4132] || fairyrings_bls || 89 || [[311], [53], [21220773], [B L S], [24969289], [24969290], [1015], [Fairy ring (BLS)], [<br>Kebos Lowlands: South of Mount Quidamortem], None, None, None]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4133 4133] || fairyrings_blr || 89 || [[312], [54], [44895511], [B L R], [24969287], [24969288], [1016], [Fairy ring (BLR)], [<br>Kandarin: Legends' Guild], None, [1], None]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4134 4134] || fairyrings_blq || 89 || [[313], [55], [58528020], [B L Q], [24969285], [24969286], [1017], [Fairy ring (BLQ)], [<br>Other Realms: Yu'biusk], None, None, None]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4135 4135] || fairyrings_bkp || 89 || [[320], [56], [39078875], [B K P], [24969275], [24969276], [1018], [Fairy ring (BKP)], [<br>Feldip Hills: South of Castle Wars ], None, [1], None]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4136 4136] || fairyrings_bks || 89 || [[321], [57], [39522642], [B K S], [24969281], [24969282], [1019], [Fairy ring (BKS)], [<br>Other Realms: Zanaris ], None, None, None]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4137 4137] || fairyrings_bkr || 89 || [[322], [58], [56839527], [B K R], [24969279], [24969280], [1020], [Fairy ring (BKR)], [<br>Morytania: Mort Myre ], None, None, None]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4138 4138] || fairyrings_bkq || 89 || [[323], [59], [49828276], [B K Q], [24969277], [24969278], [1021], [Fairy ring (BKQ)], [<br>Other Realms: Enchanted Valley ], None, [1], [1]]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4139 4139] || fairyrings_bjp || 89 || [[330], [60], [37145504], [B J P], [24969267], [24969268], [1022], [Fairy ring (BJP)], [<br>Islands: Isle of Souls], None, None, None]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4140 4140] || fairyrings_bjs || 89 || [[331], [61], [35228670], [B J S], [24969273], [24969274], [1023], [Fairy ring (BJS)], [<br>Islands: Near Zul-Andra], None, [1], [1]]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4141 4141] || fairyrings_bjr || 89 || [[332], [62], [43422330], [B J R], [24969271], [24969272], [1024], [Fairy ring (BJR)], [<br>Other Realms: Fisher King], None, [1], [1]]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4142 4142] || fairyrings_bjq || 89 || [[333], [63], [269500481], [B J Q], [24969269], [24969270], [1025], [Fairy ring (BJQ)], None, None, None, None]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4143 4143] || cr_module_quests || 2 || [[Quests], [835, 18, 18], None, [24379400]]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4144 4144] || cr_module_skills || 2 || [[Skills], [3387, 18, 18], None, [24379401]]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4145 4145] || cr_module_utility || 2 || [[Utility], [3390, 18, 18], None, [24379402]]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4146 4146] || cr_module_misc || 2 || [[Other], [1439, 16, 16], None, [24379403]]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4147 4147] || chartering_destination_portsarim || 76 || [[7], [Port Sarim], [4718620], [4718619]]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4148 4148] || chartering_destination_brimhaven || 76 || [[1], [Brimhaven], [4718614], [4718613]]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4149 4149] || chartering_destination_catherby || 76 || [[2], [Catherby], [4718602], [4718601]]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4150 4150] || chartering_destination_mosleharmless || 76 || [[3], [Mos Le'Harmless], [4718623], [4718622]]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4151 4151] || chartering_destination_musapoint || 76 || [[4], [Musa Point], [4718608], [4718607]]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4152 4152] || chartering_destination_portkhazard || 76 || [[5], [Port Khazard], [4718617], [4718616]]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4153 4153] || chartering_destination_portphasmatys || 76 || [[6], [Port Phasmatys], [4718599], [4718598]]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4154 4154] || chartering_destination_shipyard || 76 || [[8], [Karamja Shipyard], [4718605], [4718604]]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4155 4155] || chartering_destination_porttyras || 76 || [[9], [Port Tyras], [4718596], [4718595]]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4156 4156] || chartering_destination_corsaircove || 76 || [[10], [Corsair Cove], [4718626], [4718625]]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4157 4157] || chartering_destination_prifddinas || 76 || [[11], [Prifddinas], [4718629], [4718628]]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4158 4158] || chartering_destination_piscarilius || 76 || [[12], [Port Piscarilius], [4718632], [4718631]]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4159 4159] || chartering_destination_landsend || 76 || [[13], [Land's End], [4718635], [4718634]]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4160 4160] || chartering_destination_fortis || 76 || [[14], [Civitas illa Fortis], [4718638], [4718637]]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4161 4161] || chartering_destination_aldarin || 76 || [[15], [Aldarin], [4718641], [4718640]]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4162 4162] || chartering_destination_sunsetcoast || 76 || [[16], [Sunset Coast], [4718644], [4718643]]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4163 4163] || chartering_destination_tempestus || 76 || [[17], [Tempestus], [4718647], [4718646]]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4164 4164] || chartering_destination_crandor || 76 || [[0], [Crandor], [4718611], [4718610]]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4165 4165] || poh_dummy_null || 111 || [[], [], [0], [-1], [22, 1], [0, 0], None, None, None, None, [8245], [13893637]]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4166 4166] || poh_dummy_parlour || 111 || [[parlour], [Parlour], [1000], [1], [22, 1], [0, 56], [1, 3, 2], [6030, 6030, 6030, 6031, 6032, 6033, 6034], None, None, [8395], [13893637]]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4167 4167] || poh_dummy_garden || 111 || [[garden], [Garden], [1000], [2], [22, 1], [0, 8], [1, 3, 0, 2], [6107, 6109, 6109, 6110, 6111, 6112, 6113, 6114], [2], [0], [8415], [13893639]]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4168 4168] || poh_dummy_kitchen || 111 || [[kitchen], [Kitchen], [5000], [3], [22, 5], [16, 56], [3, 2], [6035, 6036, 6037, 6038, 6039, 6040, 6041, 6042], None, None, [8396], [13893641]]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4169 4169] || poh_dummy_dining_room || 111 || [[dining room], [Dining room], [5000], [4], [22, 10], [32, 56], [3, 1, 2], [6043, 6044, 6044, 6033, 6034, 6046, 6049], None, None, [8397], [13893643]]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4170 4170] || poh_dummy_bedroom || 111 || [[bedroom], [Bedroom], [10000], [5], [22, 20], [48, 56], [3, 2], [6050, 6051, 6052, 6034, 6031, 6033, 6053], None, None, [8398], [13893645]]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4171 4171] || poh_dummy_games_room || 111 || [[games room], [Games room], [25000], [6], [22, 30], [40, 32], [1, 3, 2], [6029, 6054, 6029, 6055, 6056, 6057, 6058], None, None, [8399], [13893647]]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4172 4172] || poh_dummy_hall1 || 111 || [[skill hall], [Skill hall], [15000], [7], [22, 25], [8, 48], [1, 3, 0, 2], [6062, 6063, 6029, 6064, 6065, 6066, 6067], None, None, [8401], [13893649]]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4173 4173] || poh_dummy_hall1a || 111 || [[skill hall], [Skill hall], [15000], [8], [22, 25], [24, 48], [1, 3, 0, 2], [6062, 6063, 6029, 6064, 6065, 6066, 6067], None, None, [8402], [13893649]]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4174 4174] || poh_dummy_hall2 || 111 || [[quest hall], [Quest hall], [25000], [9], [22, 35], [40, 48], [1, 3, 0, 2], [6062, 6068, 6069, 6070, 6071, 6072, 6032], None, None, [8403], [13893651]]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4175 4175] || poh_dummy_hall2a || 111 || [[quest hall], [Quest hall], [25000], [10], [22, 35], [56, 48], [1, 3, 0, 2], [6062, 6068, 6069, 6070, 6071, 6072, 6032], None, None, [8404], [13893651]]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4176 4176] || poh_dummy_chapel || 111 || [[chapel], [Chapel], [50000], [11], [22, 45], [16, 40], [3, 2], [6073, 6074, 6075, 6076, 6031, 6077, 6078], None, None, [8405], [13893653]]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4177 4177] || poh_dummy_workshop || 111 || [[workshop], [Workshop], [10000], [12], [22, 15], [0, 40], [0, 2], [6079, 6080, 6081, 6082, 6083], None, None, [8406], [13893655]]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4178 4178] || poh_dummy_study || 111 || [[study], [Study], [50000], [13], [22, 40], [32, 40], [1, 3, 2], [6084, 6085, 6029, 6086, 6087, 6088, 6032], None, None, [8407], [13893657]]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4179 4179] || poh_dummy_portalroom || 111 || [[portal room], [Portal room], [100000], [14], [22, 50], [8, 32], None, [6029, 6029, 6029, 6089, 6089, 6089, 6090], None, None, [8408], [13893659]]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4180 4180] || poh_dummy_throneroom || 111 || [[throne room], [Throne room], [150000], [15], [22, 60], [48, 40], None, [6093, 6094, 6048, 6095, 6045, 6045, 6096], [2], None, [8409], [13893662]]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4181 4181] || poh_dummy_oubliette || 111 || [[oubliette], [Oubliette], [150000], [16], [22, 65], [48, 24], [1, 3, 0], [6097, 6098, 6099, 6101, 6102, 6029, 6103], [1], None, [8410], [13893664]]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4182 4182] || poh_dummy_dungeon_corridor || 111 || [[dungeon corridor], [Dungeon corridor], [7500], [17], [22, 70], [32, 24], [0, 2], [6099, 6104, 6104, 6105, 6105, 6101, 6103], [1], None, [8411], [13893666]]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4183 4183] || poh_dummy_dungeon_cross || 111 || [[dungeon cross], [Dungeon cross], [7500], [18], [22, 70], [0, 24], [1, 3, 0, 2], [6099, 6104, 6104, 6105, 6105, 6101, 6103], [1], None, [8412], [13893670]]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4184 4184] || poh_dummy_dungeon_stairs || 111 || [[dungeon stairs], [Dungeon stairs], [7500], [19], [22, 70], [16, 24], [1, 3, 0, 2], [6062, 6099, 6099, 6105, 6105, 6101, 6103], [1], None, [8413], [13893675]]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4185 4185] || poh_dummy_dungeon_treasure || 111 || [[treasure room], [Treasure room], [250000], [20], [22, 75], [56, 32], None, [6106, 6100, 6029, 6105, 6047, 6101, 6103], [1], None, [8414], [13893678]]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4186 4186] || poh_dummy_formal_garden || 111 || [[formal garden], [Formal garden], [75000], [21], [22, 55], [16, 8], [1, 3, 0, 2], [6108, 6115, 6116, 6117, 6118, 6119, 6120, 6114], [2], [0], [8416], [13893680]]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4187 4187] || poh_dummy_combat_room || 111 || [[combat room], [Combat room], [25000], [22], [22, 32], [24, 32], [1, 3, 2], [6059, 6029, 6029, 6060, 6046, 6061], None, None, [8400], [13893682]]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4188 4188] || poh_dummy_costume_room || 111 || [[costume room], [Costume room], [50000], [23], [22, 42], [48, 8], None, [6121, 6122, 6029, 6123, 6124, 6125, 6126], None, None, [9842], [13893684]]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4189 4189] || poh_dummy_menagerie_indoors || 111 || [[menagerie], [Menagerie], [30000], [24], [22, 37], [56, 16], [1, 3, 0, 2], [6127, 6029, 6029, 6128, 6129, 6130, 6131], None, None, [12725], [13893686]]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4190 4190] || poh_dummy_menagerie_outdoors || 111 || [[menagerie outdoors], [Menagerie outdoors], [30000], [25], [22, 37], [56, 0], [1, 3, 0, 2], [6127, 6029, 6132, 6128, 6129, 6130, 6131], [2], [0], [12726], [13893689]]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4191 4191] || poh_dummy_superior_garden || 111 || [[superior garden], [Superior garden], [75000], [26], [22, 65], [40, 0], [1, 3, 0, 2], [6133, 6134, 6135, 6136, 6137, 6138, 6138], [2], [0], [20653], [13893692]]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4192 4192] || poh_dummy_achievement_gallery || 111 || [[achievement gallery], [Achievement gallery], [200000], [27], [22, 80], [8, 64], [0, 2], [6139, 6140, 6141, 6142, 6143, 6144], None, None, [20654], [13893694]]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4193 4193] || poh_dummy_portalnexus || 111 || [[portal nexus], [Portal nexus], [200000], [28], [22, 72], [24, 64], [0, 1, 3, 2], [6091, 6031, 6034, 6092, 6092], None, None, [22704], [13893660]]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4194 4194] || poh_dummy_leaguehall || 111 || [[league hall], [League hall], [15000], [29], [22, 27], [40, 64], [1, 3, 2], [6145, 6145, 6145, 6146, 6147, 6148, 6149, 6150, 6151], None, None, [25366], [13893695]]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4195 4195] || prepot_device_loadout_0_ui || 77 || [[0], [983094], [983109], [983107], [983108]]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4196 4196] || prepot_device_loadout_1_ui || 77 || [[1], [983095], [983100], [983098], [983099]]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4197 4197] || prepot_device_loadout_2_ui || 77 || [[2], [983096], [983103], [983101], [983102]]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4198 4198] || prepot_device_loadout_3_ui || 77 || [[3], [983097], [983106], [983104], [983105]]
+|}
+===Removed Database Rows===
+{| class="wikitable sortable sticky-header mw-collapsible mw-collapsed"
+|-
+! colspan="4" | Removed Database Rows
+|-
+! style="width: 15em" | id !! gameVal !! table !! values
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4999 4999] || fairyrings_aip || 89 || [[0], [0], [269500481], [A I P], [24969227], [24969228], [962], [Fairy ring (AIP)], None, None, None, None]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/5000 5000] || fairyrings_ais || 89 || [[1], [1], [23416060], [A I S], [24969233], [24969234], [963], [Fairy ring (AIS)], [<br>Varlamore: Auburn Valley], None, None, None]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/5001 5001] || fairyrings_air || 89 || [[2], [2], [44240047], [A I R], [24969231], [24969232], [964], [Fairy ring (AIR)], [<br>Islands: South-east of Ardougne], None, [1], [1]]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/5002 5002] || fairyrings_aiq || 89 || [[3], [3], [49089578], [A I Q], [24969229], [24969230], [965], [Fairy ring (AIQ)], [<br>Asgarnia: Mudskipper Point ], None, [1], None]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/5003 5003] || fairyrings_alp || 89 || [[10], [4], [41012788], [A L P], [24969251], [24969252], [966], [Fairy ring (ALP)], [<br>Fremennik Province: Lighthouse], None, None, None]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/5004 5004] || fairyrings_als || 89 || [[11], [5], [43322791], [A L S], [24969257], [24969258], [967], [Fairy ring (ALS)], [<br>Kandarin: McGrubor's Wood], None, None, None]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/5005 5005] || fairyrings_alr || 89 || [[12], [6], [50123531], [A L R], [24969255], [24969256], [968], [Fairy ring (ALR)], [<br>Other Realms: Abyss], None, None, [1]]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/5006 5006] || fairyrings_alq || 89 || [[13], [7], [58936743], [A L Q], [24969253], [24969254], [969], [Fairy ring (ALQ)], [<br>Morytania: Haunted Woods ], None, None, None]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/5007 5007] || fairyrings_akp || 89 || [[20], [8], [53807762], [A K P], [24969243], [24969244], [970], [Fairy ring (AKP)], [<br>Kharidian Desert: Necropolis ], None, None, None]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/5008 5008] || fairyrings_aks || 89 || [[21], [9], [42126220], [A K S], [24969249], [24969250], [971], [Fairy ring (AKS)], [<br>Feldip Hills: Jungle Hunter area], None, [1], None]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/5009 5009] || fairyrings_akr || 89 || [[22], [10], [29920724], [A K R], [24969247], [24969248], [972], [Fairy ring (AKR)], [<br>Great Kourend: Hosidius Vinery], None, None, None]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/5010 5010] || fairyrings_akq || 89 || [[23], [11], [37998115], [A K Q], [24969245], [24969246], [973], [Fairy ring (AKQ)], [<br>Kandarin: Piscatoris Hunter area], [2910], None, None]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/5011 5011] || fairyrings_ajp || 89 || [[30], [12], [27052994], [A J P], [24969235], [24969236], [974], [Fairy ring (AJP)], [<br>Varlamore: Avium Savannah], None, None, None]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/5012 5012] || fairyrings_ajs || 89 || [[31], [13], [40963896], [A J S], [24969241], [24969242], [975], [Fairy ring (AJS)], [<br>Islands: Penguins], [2063], None, [1]]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/5013 5013] || fairyrings_ajr || 89 || [[32], [14], [45551133], [A J R], [24969239], [24969240], [976], [Fairy ring (AJR)], [<br>Fremennik Province: Fremennik Slayer Cave], None, [1], None]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/5014 5014] || fairyrings_ajq || 89 || [[33], [15], [44815461], [A J Q], [24969237], [24969238], [977], [Fairy ring (AJQ)], [<br>Dungeons: Dorgesh-Kaan cave], None, None, None]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/5015 5015] || fairyrings_dip || 89 || [[100], [16], [49762971], [D I P], [24969323], [24969324], [978], [Fairy ring (DIP)], [<br>Other Realms: Abyssal Nexus], [5917], [1], [1]]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/5016 5016] || fairyrings_dis || 89 || [[101], [17], [50924621], [D I S], [24969329], [24969330], [979], [Fairy ring (DIS)], [<br>Misthalin: Wizards' Tower], None, [1], None]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/5017 5017] || fairyrings_dir || 89 || [[102], [18], [49779940], [D I R], [24969327], [24969328], [980], [Fairy ring (DIR)], [<br>Other Realms: Goraks' plane], None, None, [1]]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/5018 5018] || fairyrings_diq || 89 || [[103], [19], [0], [D I Q], [24969325], [24969326], [981], [Fairy ring (DIQ)], None, None, None, None]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/5019 5019] || fairyrings_dlp || 89 || [[110], [20], [269500481], [D L P], [24969347], [24969348], [982], [Fairy ring (DLP)], None, None, None, None]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/5020 5020] || fairyrings_dls || 89 || [[111], [21], [56485472], [D L S], [24969353], [24969354], [983], [Fairy ring (DLS)], [<br>Dungeons: Myreque hideout under The Hollows], None, [1], None]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/5021 5021] || fairyrings_dlr || 89 || [[112], [22], [36260891], [D L R], [24969351], [24969352], [984], [Fairy ring (DLR)], [<br>Islands: Poison Waste], [2126], None, [1]]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/5022 5022] || fairyrings_dlq || 89 || [[113], [23], [56085448], [D L Q], [24969349], [24969350], [985], [Fairy ring (DLQ)], [<br>Kharidian Desert: North of Nardah], [4185], None, None]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/5023 5023] || fairyrings_dkp || 89 || [[120], [24], [47516711], [D K P], [24969339], [24969340], [986], [Fairy ring (DKP)], [<br>Karamja: Gnome Glider], None, [1], None]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/5024 5024] || fairyrings_dks || 89 || [[121], [25], [44961415], [D K S], [24969345], [24969346], [987], [Fairy ring (DKS)], [<br>Fremennik Province: Polar Hunter area], None, [1], None]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/5025 5025] || fairyrings_dkr || 89 || [[122], [26], [51269032], [D K R], [24969343], [24969344], [988], [Fairy ring (DKR)], [<br>Misthalin: Edgeville ], None, [1], None]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/5026 5026] || fairyrings_dkq || 89 || [[123], [27], [269500481], [D K Q], [24969341], [24969342], [989], [Fairy ring (DKQ)], None, None, None, None]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/5027 5027] || fairyrings_djp || 89 || [[130], [28], [43551902], [D J P], [24969331], [24969332], [990], [Fairy ring (DJP)], [<br>Kandarin: Tower of Life], None, [1], None]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/5028 5028] || fairyrings_djs || 89 || [[131], [29], [269500481], [D J S], [24969337], [24969338], [991], [Fairy ring (DJS)], None, None, None, None]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/5029 5029] || fairyrings_djr || 89 || [[132], [30], [23842378], [D J R], [24969335], [24969336], [992], [Fairy ring (DJR)], [<br>Great Kourend: Chasm of Fire], None, None, None]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/5030 5030] || fairyrings_djq || 89 || [[133], [31], [269500481], [D J Q], [24969333], [24969334], [993], [Fairy ring (DJQ)], None, None, None, None]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/5031 5031] || fairyrings_cip || 89 || [[200], [32], [41176876], [C I P], [24969291], [24969292], [994], [Fairy ring (CIP)], [<br>Islands: Miscellania ], None, [1], None]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/5032 5032] || fairyrings_cis || 89 || [[201], [33], [26857244], [C I S], [24969297], [24969298], [995], [Fairy ring (CIS)], [<br>Great Kourend: Arceuus Library], None, None, None]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/5033 5033] || fairyrings_cir || 89 || [[202], [34], [21335730], [C I R], [24969295], [24969296], [996], [Fairy ring (CIR)], [<br>Kebos Lowlands: South of Mount Karuulm], None, [1], None]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/5034 5034] || fairyrings_ciq || 89 || [[203], [35], [41421879], [C I Q], [24969293], [24969294], [997], [Fairy ring (CIQ)], [<br>Kandarin: North-west of Yanille], None, [1], None]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/5035 5035] || fairyrings_clp || 89 || [[210], [36], [50498694], [C L P], [24969315], [24969316], [998], [Fairy ring (CLP)], [<br>Islands: South of Draynor Village], None, [1], [1]]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/5036 5036] || fairyrings_cls || 89 || [[211], [37], [43944969], [C L S], [24969321], [24969322], [999], [Fairy ring (CLS)], [<br>Kandarin: Hazelmere's home], None, [1], None]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/5037 5037] || fairyrings_clr || 89 || [[212], [38], [44894898], [C L R], [24969319], [24969320], [1000], [Fairy ring (CLR)], [<br>Islands: Ape Atoll ], [1462], None, [1]]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/5038 5038] || fairyrings_clq || 89 || [[213], [39], [269500481], [C L Q], [24969317], [24969318], [1001], [Fairy ring (CLQ)], None, None, None, None]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/5039 5039] || fairyrings_ckp || 89 || [[220], [40], [34001648], [C K P], [24969307], [24969308], [1002], [Fairy ring (CKP)], [<br>Other Realms: Cosmic Entity's plane], None, None, [1]]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/5040 5040] || fairyrings_cks || 89 || [[221], [41], [56479118], [C K S], [24969313], [24969314], [1003], [Fairy ring (CKS)], [<br>Morytania: Canifis ], None, None, None]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/5041 5041] || fairyrings_ckr || 89 || [[222], [42], [45894587], [C K R], [24969311], [24969312], [1004], [Fairy ring (CKR)], [<br>Karamja: Tai Bwo Wannai Village], None, None, None]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/5042 5042] || fairyrings_ckq || 89 || [[223], [43], [22268797], [C K Q], [24969309], [24969310], [1005], [Fairy ring (CKQ)], [<br>Varlamore: Aldarin], None, None, None]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/5043 5043] || fairyrings_cjp || 89 || [[230], [44], [269500481], [C J P], [24969299], [24969300], [1006], [Fairy ring (CJP)], None, None, None, None]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/5044 5044] || fairyrings_cjs || 89 || [[231], [45], [269500481], [C J S], [24969305], [24969306], [1007], [Fairy ring (CJS)], None, None, None, None]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/5045 5045] || fairyrings_cjr || 89 || [[232], [46], [44322296], [C J R], [24969303], [24969304], [1008], [Fairy ring (CJR)], [<br>Kandarin: Sinclair Mansion], None, None, None]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/5046 5046] || fairyrings_cjq || 89 || [[233], [47], [269500481], [C J Q], [24969301], [24969302], [1009], [Fairy ring (CJQ)], None, None, None, None]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/5047 5047] || fairyrings_bip || 89 || [[300], [48], [55872764], [B I P], [24969259], [24969260], [1010], [Fairy ring (BIP)], [<br>Islands: River Salve ], None, [1], [1]]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/5048 5048] || fairyrings_bis || 89 || [[301], [49], [43175106], [B I S], [24969265], [24969266], [1011], [Fairy ring (BIS)], [<br>Kandarin: Ardougne Zoo unicorns], None, None, [1]]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/5049 5049] || fairyrings_bir || 89 || [[302], [50], [269500481], [B I R], [24969263], [24969264], [1012], [Fairy ring (BIR)], None, None, None, None]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/5050 5050] || fairyrings_biq || 89 || [[303], [51], [53267479], [B I Q], [24969261], [24969262], [1013], [Fairy ring (BIQ)], [<br>Kharidian Desert: Near the Kalphite Hive ], [4185], None, None]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/5051 5051] || fairyrings_blp || 89 || [[310], [52], [39932934], [B L P], [24969283], [24969284], [1014], [Fairy ring (BLP)], [<br>Dungeons: Mor Ul Rek], None, None, None]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/5052 5052] || fairyrings_bls || 89 || [[311], [53], [21220773], [B L S], [24969289], [24969290], [1015], [Fairy ring (BLS)], [<br>Kebos Lowlands: South of Mount Quidamortem], None, None, None]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/5053 5053] || fairyrings_blr || 89 || [[312], [54], [44895511], [B L R], [24969287], [24969288], [1016], [Fairy ring (BLR)], [<br>Kandarin: Legends' Guild], None, [1], None]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/5054 5054] || fairyrings_blq || 89 || [[313], [55], [58528020], [B L Q], [24969285], [24969286], [1017], [Fairy ring (BLQ)], [<br>Other Realms: Yu'biusk], None, None, None]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/5055 5055] || fairyrings_bkp || 89 || [[320], [56], [39078875], [B K P], [24969275], [24969276], [1018], [Fairy ring (BKP)], [<br>Feldip Hills: South of Castle Wars ], None, [1], None]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/5056 5056] || fairyrings_bks || 89 || [[321], [57], [39522642], [B K S], [24969281], [24969282], [1019], [Fairy ring (BKS)], [<br>Other Realms: Zanaris ], None, None, None]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/5057 5057] || fairyrings_bkr || 89 || [[322], [58], [56839527], [B K R], [24969279], [24969280], [1020], [Fairy ring (BKR)], [<br>Morytania: Mort Myre ], None, None, None]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/5058 5058] || fairyrings_bkq || 89 || [[323], [59], [49828276], [B K Q], [24969277], [24969278], [1021], [Fairy ring (BKQ)], [<br>Other Realms: Enchanted Valley ], None, [1], [1]]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/5059 5059] || fairyrings_bjp || 89 || [[330], [60], [37145504], [B J P], [24969267], [24969268], [1022], [Fairy ring (BJP)], [<br>Islands: Isle of Souls], None, None, None]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/5060 5060] || fairyrings_bjs || 89 || [[331], [61], [35228670], [B J S], [24969273], [24969274], [1023], [Fairy ring (BJS)], [<br>Islands: Near Zul-Andra], None, [1], [1]]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/5061 5061] || fairyrings_bjr || 89 || [[332], [62], [43422330], [B J R], [24969271], [24969272], [1024], [Fairy ring (BJR)], [<br>Other Realms: Fisher King], None, [1], [1]]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/5062 5062] || fairyrings_bjq || 89 || [[333], [63], [269500481], [B J Q], [24969269], [24969270], [1025], [Fairy ring (BJQ)], None, None, None, None]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/5485 5485] || pendant_of_ates_tlati || 72 || [[5], [Kastori], [22400014], [57606177]]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/5486 5486] || pendant_of_ates_auburn || 72 || [[6], [Nemus Retreat], [22351052], [57606172]]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/5487 5487] || poh_dummy_null || 111 || [[], [], [0], [-1], [22, 1], [0, 0], None, None, None, None, [8245], [13893637]]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/5488 5488] || poh_dummy_parlour || 111 || [[parlour], [Parlour], [1000], [1], [22, 1], [0, 56], [1, 3, 2], [6030, 6030, 6030, 6031, 6032, 6033, 6034], None, None, [8395], [13893637]]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/5489 5489] || poh_dummy_garden || 111 || [[garden], [Garden], [1000], [2], [22, 1], [0, 8], [1, 3, 0, 2], [6107, 6109, 6109, 6110, 6111, 6112, 6113, 6114], [2], [0], [8415], [13893639]]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/5490 5490] || poh_dummy_kitchen || 111 || [[kitchen], [Kitchen], [5000], [3], [22, 5], [16, 56], [3, 2], [6035, 6036, 6037, 6038, 6039, 6040, 6041, 6042], None, None, [8396], [13893641]]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/5491 5491] || poh_dummy_dining_room || 111 || [[dining room], [Dining room], [5000], [4], [22, 10], [32, 56], [3, 1, 2], [6043, 6044, 6044, 6033, 6034, 6046, 6049], None, None, [8397], [13893643]]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/5492 5492] || poh_dummy_bedroom || 111 || [[bedroom], [Bedroom], [10000], [5], [22, 20], [48, 56], [3, 2], [6050, 6051, 6052, 6034, 6031, 6033, 6053], None, None, [8398], [13893645]]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/5493 5493] || poh_dummy_games_room || 111 || [[games room], [Games room], [25000], [6], [22, 30], [40, 32], [1, 3, 2], [6029, 6054, 6029, 6055, 6056, 6057, 6058], None, None, [8399], [13893647]]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/5494 5494] || poh_dummy_hall1 || 111 || [[skill hall], [Skill hall], [15000], [7], [22, 25], [8, 48], [1, 3, 0, 2], [6062, 6063, 6029, 6064, 6065, 6066, 6067], None, None, [8401], [13893649]]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/5495 5495] || poh_dummy_hall1a || 111 || [[skill hall], [Skill hall], [15000], [8], [22, 25], [24, 48], [1, 3, 0, 2], [6062, 6063, 6029, 6064, 6065, 6066, 6067], None, None, [8402], [13893649]]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/5496 5496] || poh_dummy_hall2 || 111 || [[quest hall], [Quest hall], [25000], [9], [22, 35], [40, 48], [1, 3, 0, 2], [6062, 6068, 6069, 6070, 6071, 6072, 6032], None, None, [8403], [13893651]]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/5497 5497] || poh_dummy_hall2a || 111 || [[quest hall], [Quest hall], [25000], [10], [22, 35], [56, 48], [1, 3, 0, 2], [6062, 6068, 6069, 6070, 6071, 6072, 6032], None, None, [8404], [13893651]]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/5498 5498] || poh_dummy_chapel || 111 || [[chapel], [Chapel], [50000], [11], [22, 45], [16, 40], [3, 2], [6073, 6074, 6075, 6076, 6031, 6077, 6078], None, None, [8405], [13893653]]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/5499 5499] || poh_dummy_workshop || 111 || [[workshop], [Workshop], [10000], [12], [22, 15], [0, 40], [0, 2], [6079, 6080, 6081, 6082, 6083], None, None, [8406], [13893655]]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/5500 5500] || poh_dummy_study || 111 || [[study], [Study], [50000], [13], [22, 40], [32, 40], [1, 3, 2], [6084, 6085, 6029, 6086, 6087, 6088, 6032], None, None, [8407], [13893657]]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/5501 5501] || poh_dummy_portalroom || 111 || [[portal room], [Portal room], [100000], [14], [22, 50], [8, 32], None, [6029, 6029, 6029, 6089, 6089, 6089, 6090], None, None, [8408], [13893659]]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/5502 5502] || poh_dummy_throneroom || 111 || [[throne room], [Throne room], [150000], [15], [22, 60], [48, 40], None, [6093, 6094, 6048, 6095, 6045, 6045, 6096], [2], None, [8409], [13893662]]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/5503 5503] || poh_dummy_oubliette || 111 || [[oubliette], [Oubliette], [150000], [16], [22, 65], [48, 24], [1, 3, 0], [6097, 6098, 6099, 6101, 6102, 6029, 6103], [1], None, [8410], [13893664]]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/5504 5504] || poh_dummy_dungeon_corridor || 111 || [[dungeon corridor], [Dungeon corridor], [7500], [17], [22, 70], [32, 24], [0, 2], [6099, 6104, 6104, 6105, 6105, 6101, 6103], [1], None, [8411], [13893666]]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/5505 5505] || poh_dummy_dungeon_cross || 111 || [[dungeon cross], [Dungeon cross], [7500], [18], [22, 70], [0, 24], [1, 3, 0, 2], [6099, 6104, 6104, 6105, 6105, 6101, 6103], [1], None, [8412], [13893670]]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/5506 5506] || poh_dummy_dungeon_stairs || 111 || [[dungeon stairs], [Dungeon stairs], [7500], [19], [22, 70], [16, 24], [1, 3, 0, 2], [6062, 6099, 6099, 6105, 6105, 6101, 6103], [1], None, [8413], [13893675]]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/5507 5507] || poh_dummy_dungeon_treasure || 111 || [[treasure room], [Treasure room], [250000], [20], [22, 75], [56, 32], None, [6106, 6100, 6029, 6105, 6047, 6101, 6103], [1], None, [8414], [13893678]]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/5508 5508] || poh_dummy_formal_garden || 111 || [[formal garden], [Formal garden], [75000], [21], [22, 55], [16, 8], [1, 3, 0, 2], [6108, 6115, 6116, 6117, 6118, 6119, 6120, 6114], [2], [0], [8416], [13893680]]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/5509 5509] || poh_dummy_combat_room || 111 || [[combat room], [Combat room], [25000], [22], [22, 32], [24, 32], [1, 3, 2], [6059, 6029, 6029, 6060, 6046, 6061], None, None, [8400], [13893682]]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/5510 5510] || poh_dummy_costume_room || 111 || [[costume room], [Costume room], [50000], [23], [22, 42], [48, 8], None, [6121, 6122, 6029, 6123, 6124, 6125, 6126], None, None, [9842], [13893684]]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/5511 5511] || poh_dummy_menagerie_indoors || 111 || [[menagerie], [Menagerie], [30000], [24], [22, 37], [56, 16], [1, 3, 0, 2], [6127, 6029, 6029, 6128, 6129, 6130, 6131], None, None, [12725], [13893686]]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/5512 5512] || poh_dummy_menagerie_outdoors || 111 || [[menagerie outdoors], [Menagerie outdoors], [30000], [25], [22, 37], [56, 0], [1, 3, 0, 2], [6127, 6029, 6132, 6128, 6129, 6130, 6131], [2], [0], [12726], [13893689]]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/5513 5513] || poh_dummy_superior_garden || 111 || [[superior garden], [Superior garden], [75000], [26], [22, 65], [40, 0], [1, 3, 0, 2], [6133, 6134, 6135, 6136, 6137, 6138, 6138], [2], [0], [20653], [13893692]]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/5514 5514] || poh_dummy_achievement_gallery || 111 || [[achievement gallery], [Achievement gallery], [200000], [27], [22, 80], [8, 64], [0, 2], [6139, 6140, 6141, 6142, 6143, 6144], None, None, [20654], [13893694]]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/5515 5515] || poh_dummy_portalnexus || 111 || [[portal nexus], [Portal nexus], [200000], [28], [22, 72], [24, 64], [0, 1, 3, 2], [6091, 6031, 6034, 6092, 6092], None, None, [22704], [13893660]]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/5516 5516] || poh_dummy_leaguehall || 111 || [[league hall], [League hall], [15000], [29], [22, 27], [40, 64], [1, 3, 2], [6145, 6145, 6145, 6146, 6147, 6148, 6149, 6150, 6151], None, None, [25366], [13893695]]
+|}
+===Diff Database Rows===
+{| class="wikitable sortable sticky-header mw-collapsible mw-collapsed"
+|-
+! colspan="5" | Diff Database Rows
+|-
+! style="width: 15em" | Id !! GameVal !! Key !! Previous Value !! New Value
+|-
+| rowspan="5" | [https://abextm.github.io/cache2/#/viewer/dbrow/3784 3784]
+| rowspan="5" | pendant_of_ates_tlati
+|-
+| table || <span style="color: #ee4231">2</span> || <span style="color: #6bc71f">72</span>
+|-
+| values || [[<span style="color: #ee4231">Quests</span>], [<span style="color: #ee4231">835</span>, <span style="color: #ee4231">18, 18</span>], <span style="color: #ee4231">None, </span>[<span style="color: #ee4231">24379400</span>]] || [[<span style="color: #6bc71f">5</span>], [<span style="color: #6bc71f">Kastori]</span>, <span style="color: #6bc71f">[22400014</span>], [<span style="color: #6bc71f">57606177</span>]]
+|-
+| types || [[<span style="color: #ee4231">36</span>], [<span style="color: #ee4231">23</span>, <span style="color: #ee4231">0, 0</span>], <span style="color: #ee4231">None, </span>[9]] || [[<span style="color: #6bc71f">0</span>], [<span style="color: #6bc71f">36]</span>, <span style="color: #6bc71f">[22</span>], [9]]
+|-
+| gameVal || <span style="color: #ee4231">cr_module_quests</span> || <span style="color: #6bc71f">pendant_of_ates_tlati</span>
+|-
+| rowspan="5" | [https://abextm.github.io/cache2/#/viewer/dbrow/3785 3785]
+| rowspan="5" | pendant_of_ates_auburn
+|-
+| table || <span style="color: #ee4231">2</span> || <span style="color: #6bc71f">72</span>
+|-
+| values || [[<span style="color: #ee4231">Skills</span>], [<span style="color: #ee4231">3387</span>, <span style="color: #ee4231">18, 18</span>], <span style="color: #ee4231">None, </span>[<span style="color: #ee4231">24379401</span>]] || [[<span style="color: #6bc71f">6</span>], [<span style="color: #6bc71f">Nemus Retreat]</span>, <span style="color: #6bc71f">[22351052</span>], [<span style="color: #6bc71f">57606172</span>]]
+|-
+| types || [[<span style="color: #ee4231">36</span>], [<span style="color: #ee4231">23</span>, <span style="color: #ee4231">0, 0</span>], <span style="color: #ee4231">None, </span>[9]] || [[<span style="color: #6bc71f">0</span>], [<span style="color: #6bc71f">36]</span>, <span style="color: #6bc71f">[22</span>], [9]]
+|-
+| gameVal || <span style="color: #ee4231">cr_module_skills</span> || <span style="color: #6bc71f">pendant_of_ates_auburn</span>
+|-
+| rowspan="5" | [https://abextm.github.io/cache2/#/viewer/dbrow/3786 3786]
+| rowspan="5" | fairyrings_aip
+|-
+| table || <span style="color: #ee4231">2</span> || <span style="color: #6bc71f">89</span>
+|-
+| values || [[<span style="color: #ee4231">Utility</span>], [<span style="color: #ee4231">3390</span>, <span style="color: #ee4231">18</span>, <span style="color: #ee4231">18</span>], <span style="color: #ee4231">None</span>, [<span style="color: #ee4231">24379402</span>]] || [[<span style="color: #6bc71f">0</span>], [<span style="color: #6bc71f">0]</span>, <span style="color: #6bc71f">[269500481]</span>, <span style="color: #6bc71f">[A I P</span>], <span style="color: #6bc71f">[24969227]</span>, [<span style="color: #6bc71f">24969228</span>]<span style="color: #6bc71f">, [962</span>]<span style="color: #6bc71f">, [Fairy ring (AIP)], None, None, None, None]</span>
+|-
+| types || [[<span style="color: #ee4231">36</span>], [<span style="color: #ee4231">23, </span>0, <span style="color: #ee4231">0</span>], <span style="color: #ee4231">None</span>, [9]] || [[<span style="color: #6bc71f">0</span>], [0<span style="color: #6bc71f">]</span>, <span style="color: #6bc71f">[22</span>], <span style="color: #6bc71f">[36]</span>, [9]<span style="color: #6bc71f">, [9</span>]<span style="color: #6bc71f">, [59], [36], None, None, None, None]</span>
+|-
+| gameVal || <span style="color: #ee4231">cr_module_utility</span> || <span style="color: #6bc71f">fairyrings_aip</span>
+|-
+| rowspan="5" | [https://abextm.github.io/cache2/#/viewer/dbrow/3787 3787]
+| rowspan="5" | fairyrings_ais
+|-
+| table || <span style="color: #ee4231">2</span> || <span style="color: #6bc71f">89</span>
+|-
+| values || [[<span style="color: #ee4231">Other</span>], [<span style="color: #ee4231">1439</span>, <span style="color: #ee4231">16</span>, <span style="color: #ee4231">16</span>], <span style="color: #ee4231">None</span>, [<span style="color: #ee4231">24379403</span>]] || [[<span style="color: #6bc71f">1</span>], [<span style="color: #6bc71f">1]</span>, <span style="color: #6bc71f">[23416060]</span>, <span style="color: #6bc71f">[A I S</span>], <span style="color: #6bc71f">[24969233]</span>, [<span style="color: #6bc71f">24969234</span>]<span style="color: #6bc71f">, [963</span>]<span style="color: #6bc71f">, [Fairy ring (AIS)], [<br>Varlamore: Auburn Valley], None, None, None]</span>
+|-
+| types || [[<span style="color: #ee4231">36</span>], [<span style="color: #ee4231">23, </span>0, <span style="color: #ee4231">0</span>], <span style="color: #ee4231">None</span>, [9]] || [[<span style="color: #6bc71f">0</span>], [0<span style="color: #6bc71f">]</span>, <span style="color: #6bc71f">[22</span>], <span style="color: #6bc71f">[36]</span>, [9]<span style="color: #6bc71f">, [9</span>]<span style="color: #6bc71f">, [59], [36], [36], None, None, None]</span>
+|-
+| gameVal || <span style="color: #ee4231">cr_module_misc</span> || <span style="color: #6bc71f">fairyrings_ais</span>
+|-
+| rowspan="5" | [https://abextm.github.io/cache2/#/viewer/dbrow/3788 3788]
+| rowspan="5" | fairyrings_air
+|-
+| table || <span style="color: #ee4231">76</span> || <span style="color: #6bc71f">89</span>
+|-
+| values || [[<span style="color: #ee4231">7</span>], [<span style="color: #ee4231">Port Sarim</span>], [<span style="color: #ee4231">4718620</span>], [<span style="color: #ee4231">4718619</span>]] || [[<span style="color: #6bc71f">2</span>], [<span style="color: #6bc71f">2</span>], [<span style="color: #6bc71f">44240047</span>], [<span style="color: #6bc71f">A I R</span>]<span style="color: #6bc71f">, [24969231</span>]<span style="color: #6bc71f">, [24969232], [964], [Fairy ring (AIR)], [<br>Islands: South-east of Ardougne], None, [1], [1]]</span>
+|-
+| types || [[0], [36], [9], [9]] || [[0], [<span style="color: #6bc71f">0], [22], [</span>36], [9], [9]<span style="color: #6bc71f">, [59</span>]<span style="color: #6bc71f">, [36], [36], None, [1], [1]]</span>
+|-
+| gameVal || <span style="color: #ee4231">chartering_destination_portsarim</span> || <span style="color: #6bc71f">fairyrings_air</span>
+|-
+| rowspan="5" | [https://abextm.github.io/cache2/#/viewer/dbrow/3789 3789]
+| rowspan="5" | fairyrings_aiq
+|-
+| table || <span style="color: #ee4231">76</span> || <span style="color: #6bc71f">89</span>
+|-
+| values || [[<span style="color: #ee4231">1</span>], [<span style="color: #ee4231">Brimhaven</span>], [<span style="color: #ee4231">4718614</span>], [<span style="color: #ee4231">4718613</span>]] || [[<span style="color: #6bc71f">3</span>], [<span style="color: #6bc71f">3</span>], [<span style="color: #6bc71f">49089578</span>], [<span style="color: #6bc71f">A I Q</span>]<span style="color: #6bc71f">, [24969229</span>]<span style="color: #6bc71f">, [24969230], [965], [Fairy ring (AIQ)], [<br>Asgarnia: Mudskipper Point ], None, [1], None]</span>
+|-
+| types || [[0], [36], [9], [9]] || [[0], [<span style="color: #6bc71f">0], [22], [</span>36], [9], [9]<span style="color: #6bc71f">, [59</span>]<span style="color: #6bc71f">, [36], [36], None, [1], None]</span>
+|-
+| gameVal || <span style="color: #ee4231">chartering_destination_brimhaven</span> || <span style="color: #6bc71f">fairyrings_aiq</span>
+|-
+| rowspan="5" | [https://abextm.github.io/cache2/#/viewer/dbrow/3790 3790]
+| rowspan="5" | fairyrings_alp
+|-
+| table || <span style="color: #ee4231">76</span> || <span style="color: #6bc71f">89</span>
+|-
+| values || [[<span style="color: #ee4231">2</span>], [<span style="color: #ee4231">Catherby</span>], [<span style="color: #ee4231">4718602</span>], [<span style="color: #ee4231">4718601</span>]] || [[<span style="color: #6bc71f">10</span>], [<span style="color: #6bc71f">4</span>], [<span style="color: #6bc71f">41012788</span>], [<span style="color: #6bc71f">A L P</span>]<span style="color: #6bc71f">, [24969251</span>]<span style="color: #6bc71f">, [24969252], [966], [Fairy ring (ALP)], [<br>Fremennik Province: Lighthouse], None, None, None]</span>
+|-
+| types || [[0], [36], [9], [9]] || [[0], [<span style="color: #6bc71f">0], [22], [</span>36], [9], [9]<span style="color: #6bc71f">, [59</span>]<span style="color: #6bc71f">, [36], [36], None, None, None]</span>
+|-
+| gameVal || <span style="color: #ee4231">chartering_destination_catherby</span> || <span style="color: #6bc71f">fairyrings_alp</span>
+|-
+| rowspan="5" | [https://abextm.github.io/cache2/#/viewer/dbrow/3791 3791]
+| rowspan="5" | fairyrings_als
+|-
+| table || <span style="color: #ee4231">76</span> || <span style="color: #6bc71f">89</span>
+|-
+| values || [[<span style="color: #ee4231">3</span>], [<span style="color: #ee4231">Mos Le'Harmless</span>], [<span style="color: #ee4231">4718623</span>], [<span style="color: #ee4231">4718622</span>]] || [[<span style="color: #6bc71f">11</span>], [<span style="color: #6bc71f">5</span>], [<span style="color: #6bc71f">43322791</span>], [<span style="color: #6bc71f">A L S</span>]<span style="color: #6bc71f">, [24969257</span>]<span style="color: #6bc71f">, [24969258], [967], [Fairy ring (ALS)], [<br>Kandarin: McGrubor's Wood], None, None, None]</span>
+|-
+| types || [[0], [36], [9], [9]] || [[0], [<span style="color: #6bc71f">0], [22], [</span>36], [9], [9]<span style="color: #6bc71f">, [59</span>]<span style="color: #6bc71f">, [36], [36], None, None, None]</span>
+|-
+| gameVal || <span style="color: #ee4231">chartering_destination_mosleharmless</span> || <span style="color: #6bc71f">fairyrings_als</span>
+|-
+| rowspan="5" | [https://abextm.github.io/cache2/#/viewer/dbrow/3792 3792]
+| rowspan="5" | fairyrings_alr
+|-
+| table || <span style="color: #ee4231">76</span> || <span style="color: #6bc71f">89</span>
+|-
+| values || [[<span style="color: #ee4231">4</span>], [<span style="color: #ee4231">Musa Point</span>], [<span style="color: #ee4231">4718608</span>], [<span style="color: #ee4231">4718607</span>]] || [[<span style="color: #6bc71f">12</span>], [<span style="color: #6bc71f">6</span>], [<span style="color: #6bc71f">50123531</span>], [<span style="color: #6bc71f">A L R</span>]<span style="color: #6bc71f">, [24969255</span>]<span style="color: #6bc71f">, [24969256], [968], [Fairy ring (ALR)], [<br>Other Realms: Abyss], None, None, [1]]</span>
+|-
+| types || [[0], [36], [9], [9]] || [[0], [<span style="color: #6bc71f">0], [22], [</span>36], [9], [9]<span style="color: #6bc71f">, [59</span>]<span style="color: #6bc71f">, [36], [36], None, None, [1]]</span>
+|-
+| gameVal || <span style="color: #ee4231">chartering_destination_musapoint</span> || <span style="color: #6bc71f">fairyrings_alr</span>
+|-
+| rowspan="5" | [https://abextm.github.io/cache2/#/viewer/dbrow/3793 3793]
+| rowspan="5" | fairyrings_alq
+|-
+| table || <span style="color: #ee4231">76</span> || <span style="color: #6bc71f">89</span>
+|-
+| values || [[<span style="color: #ee4231">5</span>], [<span style="color: #ee4231">Port Khazard</span>], [<span style="color: #ee4231">4718617</span>], [<span style="color: #ee4231">4718616</span>]] || [[<span style="color: #6bc71f">13</span>], [<span style="color: #6bc71f">7</span>], [<span style="color: #6bc71f">58936743</span>], [<span style="color: #6bc71f">A L Q</span>]<span style="color: #6bc71f">, [24969253</span>]<span style="color: #6bc71f">, [24969254], [969], [Fairy ring (ALQ)], [<br>Morytania: Haunted Woods ], None, None, None]</span>
+|-
+| types || [[0], [36], [9], [9]] || [[0], [<span style="color: #6bc71f">0], [22], [</span>36], [9], [9]<span style="color: #6bc71f">, [59</span>]<span style="color: #6bc71f">, [36], [36], None, None, None]</span>
+|-
+| gameVal || <span style="color: #ee4231">chartering_destination_portkhazard</span> || <span style="color: #6bc71f">fairyrings_alq</span>
+|-
+| rowspan="5" | [https://abextm.github.io/cache2/#/viewer/dbrow/3794 3794]
+| rowspan="5" | fairyrings_akp
+|-
+| table || <span style="color: #ee4231">76</span> || <span style="color: #6bc71f">89</span>
+|-
+| values || [[<span style="color: #ee4231">6</span>], [<span style="color: #ee4231">Port Phasmatys</span>], [<span style="color: #ee4231">4718599</span>], [<span style="color: #ee4231">4718598</span>]] || [[<span style="color: #6bc71f">20</span>], [<span style="color: #6bc71f">8</span>], [<span style="color: #6bc71f">53807762</span>], [<span style="color: #6bc71f">A K P</span>]<span style="color: #6bc71f">, [24969243</span>]<span style="color: #6bc71f">, [24969244], [970], [Fairy ring (AKP)], [<br>Kharidian Desert: Necropolis ], None, None, None]</span>
+|-
+| types || [[0], [36], [9], [9]] || [[0], [<span style="color: #6bc71f">0], [22], [</span>36], [9], [9]<span style="color: #6bc71f">, [59</span>]<span style="color: #6bc71f">, [36], [36], None, None, None]</span>
+|-
+| gameVal || <span style="color: #ee4231">chartering_destination_portphasmatys</span> || <span style="color: #6bc71f">fairyrings_akp</span>
+|-
+| rowspan="5" | [https://abextm.github.io/cache2/#/viewer/dbrow/3795 3795]
+| rowspan="5" | fairyrings_aks
+|-
+| table || <span style="color: #ee4231">76</span> || <span style="color: #6bc71f">89</span>
+|-
+| values || [[<span style="color: #ee4231">8</span>], [<span style="color: #ee4231">Karamja Shipyard</span>], [<span style="color: #ee4231">4718605</span>], [<span style="color: #ee4231">4718604</span>]] || [[<span style="color: #6bc71f">21</span>], [<span style="color: #6bc71f">9</span>], [<span style="color: #6bc71f">42126220</span>], [<span style="color: #6bc71f">A K S</span>]<span style="color: #6bc71f">, [24969249</span>]<span style="color: #6bc71f">, [24969250], [971], [Fairy ring (AKS)], [<br>Feldip Hills: Jungle Hunter area], None, [1], None]</span>
+|-
+| types || [[0], [36], [9], [9]] || [[0], [<span style="color: #6bc71f">0], [22], [</span>36], [9], [9]<span style="color: #6bc71f">, [59</span>]<span style="color: #6bc71f">, [36], [36], None, [1], None]</span>
+|-
+| gameVal || <span style="color: #ee4231">chartering_destination_shipyard</span> || <span style="color: #6bc71f">fairyrings_aks</span>
+|-
+| rowspan="5" | [https://abextm.github.io/cache2/#/viewer/dbrow/3796 3796]
+| rowspan="5" | fairyrings_akr
+|-
+| table || <span style="color: #ee4231">76</span> || <span style="color: #6bc71f">89</span>
+|-
+| values || [[<span style="color: #ee4231">9</span>], [<span style="color: #ee4231">Port Tyras</span>], [<span style="color: #ee4231">4718596</span>], [<span style="color: #ee4231">4718595</span>]] || [[<span style="color: #6bc71f">22</span>], [<span style="color: #6bc71f">10</span>], [<span style="color: #6bc71f">29920724</span>], [<span style="color: #6bc71f">A K R</span>]<span style="color: #6bc71f">, [24969247</span>]<span style="color: #6bc71f">, [24969248], [972], [Fairy ring (AKR)], [<br>Great Kourend: Hosidius Vinery], None, None, None]</span>
+|-
+| types || [[0], [36], [9], [9]] || [[0], [<span style="color: #6bc71f">0], [22], [</span>36], [9], [9]<span style="color: #6bc71f">, [59</span>]<span style="color: #6bc71f">, [36], [36], None, None, None]</span>
+|-
+| gameVal || <span style="color: #ee4231">chartering_destination_porttyras</span> || <span style="color: #6bc71f">fairyrings_akr</span>
+|-
+| rowspan="5" | [https://abextm.github.io/cache2/#/viewer/dbrow/3797 3797]
+| rowspan="5" | fairyrings_akq
+|-
+| table || <span style="color: #ee4231">76</span> || <span style="color: #6bc71f">89</span>
+|-
+| values || [[<span style="color: #ee4231">10</span>], [<span style="color: #ee4231">Corsair Cove</span>], [<span style="color: #ee4231">4718626</span>], [<span style="color: #ee4231">4718625</span>]] || [[<span style="color: #6bc71f">23</span>], [<span style="color: #6bc71f">11</span>], [<span style="color: #6bc71f">37998115</span>], [<span style="color: #6bc71f">A K Q</span>]<span style="color: #6bc71f">, [24969245</span>]<span style="color: #6bc71f">, [24969246], [973], [Fairy ring (AKQ)], [<br>Kandarin: Piscatoris Hunter area], [2910], None, None]</span>
+|-
+| types || [[0], [36], [9], [9]] || [[0], [<span style="color: #6bc71f">0], [22], [</span>36], [9], [9]<span style="color: #6bc71f">, [59</span>]<span style="color: #6bc71f">, [36], [36], [32], None, None]</span>
+|-
+| gameVal || <span style="color: #ee4231">chartering_destination_corsaircove</span> || <span style="color: #6bc71f">fairyrings_akq</span>
+|-
+| rowspan="5" | [https://abextm.github.io/cache2/#/viewer/dbrow/3798 3798]
+| rowspan="5" | fairyrings_ajp
+|-
+| table || <span style="color: #ee4231">76</span> || <span style="color: #6bc71f">89</span>
+|-
+| values || [[<span style="color: #ee4231">11</span>], [<span style="color: #ee4231">Prifddinas</span>], [<span style="color: #ee4231">4718629</span>], [<span style="color: #ee4231">4718628</span>]] || [[<span style="color: #6bc71f">30</span>], [<span style="color: #6bc71f">12</span>], [<span style="color: #6bc71f">27052994</span>], [<span style="color: #6bc71f">A J P</span>]<span style="color: #6bc71f">, [24969235</span>]<span style="color: #6bc71f">, [24969236], [974], [Fairy ring (AJP)], [<br>Varlamore: Avium Savannah], None, None, None]</span>
+|-
+| types || [[0], [36], [9], [9]] || [[0], [<span style="color: #6bc71f">0], [22], [</span>36], [9], [9]<span style="color: #6bc71f">, [59</span>]<span style="color: #6bc71f">, [36], [36], None, None, None]</span>
+|-
+| gameVal || <span style="color: #ee4231">chartering_destination_prifddinas</span> || <span style="color: #6bc71f">fairyrings_ajp</span>
+|-
+| rowspan="5" | [https://abextm.github.io/cache2/#/viewer/dbrow/3799 3799]
+| rowspan="5" | fairyrings_ajs
+|-
+| table || <span style="color: #ee4231">76</span> || <span style="color: #6bc71f">89</span>
+|-
+| values || [[<span style="color: #ee4231">12</span>], [<span style="color: #ee4231">Port Piscarilius</span>], [<span style="color: #ee4231">4718632</span>], [<span style="color: #ee4231">4718631</span>]] || [[<span style="color: #6bc71f">31</span>], [<span style="color: #6bc71f">13</span>], [<span style="color: #6bc71f">40963896</span>], [<span style="color: #6bc71f">A J S</span>]<span style="color: #6bc71f">, [24969241</span>]<span style="color: #6bc71f">, [24969242], [975], [Fairy ring (AJS)], [<br>Islands: Penguins], [2063], None, [1]]</span>
+|-
+| types || [[0], [36], [9], [9]] || [[0], [<span style="color: #6bc71f">0], [22], [</span>36], [9], [9]<span style="color: #6bc71f">, [59</span>]<span style="color: #6bc71f">, [36], [36], [32], None, [1]]</span>
+|-
+| gameVal || <span style="color: #ee4231">chartering_destination_piscarilius</span> || <span style="color: #6bc71f">fairyrings_ajs</span>
+|-
+| rowspan="5" | [https://abextm.github.io/cache2/#/viewer/dbrow/3800 3800]
+| rowspan="5" | fairyrings_ajr
+|-
+| table || <span style="color: #ee4231">76</span> || <span style="color: #6bc71f">89</span>
+|-
+| values || [[<span style="color: #ee4231">13</span>], [<span style="color: #ee4231">Land's End</span>], [<span style="color: #ee4231">4718635</span>], [<span style="color: #ee4231">4718634</span>]] || [[<span style="color: #6bc71f">32</span>], [<span style="color: #6bc71f">14</span>], [<span style="color: #6bc71f">45551133</span>], [<span style="color: #6bc71f">A J R</span>]<span style="color: #6bc71f">, [24969239</span>]<span style="color: #6bc71f">, [24969240], [976], [Fairy ring (AJR)], [<br>Fremennik Province: Fremennik Slayer Cave], None, [1], None]</span>
+|-
+| types || [[0], [36], [9], [9]] || [[0], [<span style="color: #6bc71f">0], [22], [</span>36], [9], [9]<span style="color: #6bc71f">, [59</span>]<span style="color: #6bc71f">, [36], [36], None, [1], None]</span>
+|-
+| gameVal || <span style="color: #ee4231">chartering_destination_landsend</span> || <span style="color: #6bc71f">fairyrings_ajr</span>
+|-
+| rowspan="5" | [https://abextm.github.io/cache2/#/viewer/dbrow/3801 3801]
+| rowspan="5" | fairyrings_ajq
+|-
+| table || <span style="color: #ee4231">76</span> || <span style="color: #6bc71f">89</span>
+|-
+| values || [[<span style="color: #ee4231">14</span>], [<span style="color: #ee4231">Civitas illa Fortis</span>], [<span style="color: #ee4231">4718638</span>], [<span style="color: #ee4231">4718637</span>]] || [[<span style="color: #6bc71f">33</span>], [<span style="color: #6bc71f">15</span>], [<span style="color: #6bc71f">44815461</span>], [<span style="color: #6bc71f">A J Q</span>]<span style="color: #6bc71f">, [24969237</span>]<span style="color: #6bc71f">, [24969238], [977], [Fairy ring (AJQ)], [<br>Dungeons: Dorgesh-Kaan cave], None, None, None]</span>
+|-
+| types || [[0], [36], [9], [9]] || [[0], [<span style="color: #6bc71f">0], [22], [</span>36], [9], [9]<span style="color: #6bc71f">, [59</span>]<span style="color: #6bc71f">, [36], [36], None, None, None]</span>
+|-
+| gameVal || <span style="color: #ee4231">chartering_destination_fortis</span> || <span style="color: #6bc71f">fairyrings_ajq</span>
+|-
+| rowspan="5" | [https://abextm.github.io/cache2/#/viewer/dbrow/3802 3802]
+| rowspan="5" | fairyrings_dip
+|-
+| table || <span style="color: #ee4231">76</span> || <span style="color: #6bc71f">89</span>
+|-
+| values || [[<span style="color: #ee4231">15</span>], [<span style="color: #ee4231">Aldarin</span>], [<span style="color: #ee4231">4718641</span>], [<span style="color: #ee4231">4718640</span>]] || [[<span style="color: #6bc71f">100</span>], [<span style="color: #6bc71f">16</span>], [<span style="color: #6bc71f">49762971</span>], [<span style="color: #6bc71f">D I P</span>]<span style="color: #6bc71f">, [24969323</span>]<span style="color: #6bc71f">, [24969324], [978], [Fairy ring (DIP)], [<br>Other Realms: Abyssal Nexus], [5917], [1], [1]]</span>
+|-
+| types || [[0], [36], [9], [9]] || [[0], [<span style="color: #6bc71f">0], [22], [</span>36], [9], [9]<span style="color: #6bc71f">, [59</span>]<span style="color: #6bc71f">, [36], [36], [32], [1], [1]]</span>
+|-
+| gameVal || <span style="color: #ee4231">chartering_destination_aldarin</span> || <span style="color: #6bc71f">fairyrings_dip</span>
+|-
+| rowspan="5" | [https://abextm.github.io/cache2/#/viewer/dbrow/3803 3803]
+| rowspan="5" | fairyrings_dis
+|-
+| table || <span style="color: #ee4231">76</span> || <span style="color: #6bc71f">89</span>
+|-
+| values || [[<span style="color: #ee4231">16</span>], [<span style="color: #ee4231">Sunset Coast</span>], [<span style="color: #ee4231">4718644</span>], [<span style="color: #ee4231">4718643</span>]] || [[<span style="color: #6bc71f">101</span>], [<span style="color: #6bc71f">17</span>], [<span style="color: #6bc71f">50924621</span>], [<span style="color: #6bc71f">D I S</span>]<span style="color: #6bc71f">, [24969329</span>]<span style="color: #6bc71f">, [24969330], [979], [Fairy ring (DIS)], [<br>Misthalin: Wizards' Tower], None, [1], None]</span>
+|-
+| types || [[0], [36], [9], [9]] || [[0], [<span style="color: #6bc71f">0], [22], [</span>36], [9], [9]<span style="color: #6bc71f">, [59</span>]<span style="color: #6bc71f">, [36], [36], None, [1], None]</span>
+|-
+| gameVal || <span style="color: #ee4231">chartering_destination_sunsetcoast</span> || <span style="color: #6bc71f">fairyrings_dis</span>
+|-
+| rowspan="5" | [https://abextm.github.io/cache2/#/viewer/dbrow/3804 3804]
+| rowspan="5" | fairyrings_dir
+|-
+| table || <span style="color: #ee4231">76</span> || <span style="color: #6bc71f">89</span>
+|-
+| values || [[<span style="color: #ee4231">17</span>], [<span style="color: #ee4231">Tempestus</span>], [<span style="color: #ee4231">4718647</span>], [<span style="color: #ee4231">4718646</span>]] || [[<span style="color: #6bc71f">102</span>], [<span style="color: #6bc71f">18</span>], [<span style="color: #6bc71f">49779940</span>], [<span style="color: #6bc71f">D I R</span>]<span style="color: #6bc71f">, [24969327</span>]<span style="color: #6bc71f">, [24969328], [980], [Fairy ring (DIR)], [<br>Other Realms: Goraks' plane], None, None, [1]]</span>
+|-
+| types || [[0], [36], [9], [9]] || [[0], [<span style="color: #6bc71f">0], [22], [</span>36], [9], [9]<span style="color: #6bc71f">, [59</span>]<span style="color: #6bc71f">, [36], [36], None, None, [1]]</span>
+|-
+| gameVal || <span style="color: #ee4231">chartering_destination_tempestus</span> || <span style="color: #6bc71f">fairyrings_dir</span>
+|-
+| rowspan="5" | [https://abextm.github.io/cache2/#/viewer/dbrow/3805 3805]
+| rowspan="5" | fairyrings_diq
+|-
+| table || <span style="color: #ee4231">76</span> || <span style="color: #6bc71f">89</span>
+|-
+| values || [[0], [<span style="color: #ee4231">Crandor</span>], [<span style="color: #ee4231">4718611</span>], [<span style="color: #ee4231">4718610</span>]] || [[<span style="color: #6bc71f">103], [19], [</span>0], [<span style="color: #6bc71f">D I Q</span>], [<span style="color: #6bc71f">24969325</span>], [<span style="color: #6bc71f">24969326</span>]<span style="color: #6bc71f">, [981</span>]<span style="color: #6bc71f">, [Fairy ring (DIQ)], None, None, None, None]</span>
+|-
+| types || [[0], [36], [9], [9]] || [[0], [<span style="color: #6bc71f">0], [22], [</span>36], [9], [9]<span style="color: #6bc71f">, [59</span>]<span style="color: #6bc71f">, [36], None, None, None, None]</span>
+|-
+| gameVal || <span style="color: #ee4231">chartering_destination_crandor</span> || <span style="color: #6bc71f">fairyrings_diq</span>
+|-
+| rowspan="5" | [https://abextm.github.io/cache2/#/viewer/dbrow/3806 3806]
+| rowspan="5" | fairyrings_dlp
+|-
+| table || <span style="color: #ee4231">77</span> || <span style="color: #6bc71f">89</span>
+|-
+| values || [[<span style="color: #ee4231">0</span>], [<span style="color: #ee4231">983094</span>], [<span style="color: #ee4231">983109</span>], [<span style="color: #ee4231">983107</span>], [<span style="color: #ee4231">983108</span>]] || [[<span style="color: #6bc71f">110</span>], [<span style="color: #6bc71f">20</span>], [<span style="color: #6bc71f">269500481</span>], [<span style="color: #6bc71f">D L P</span>], [<span style="color: #6bc71f">24969347</span>]<span style="color: #6bc71f">, [24969348</span>]<span style="color: #6bc71f">, [982], [Fairy ring (DLP)], None, None, None, None]</span>
+|-
+| types || [[0], [<span style="color: #ee4231">9</span>], [<span style="color: #ee4231">9</span>], [9], [9]] || [[0], [<span style="color: #6bc71f">0</span>], [<span style="color: #6bc71f">22</span>], [<span style="color: #6bc71f">36], [</span>9], [9]<span style="color: #6bc71f">, [59</span>]<span style="color: #6bc71f">, [36], None, None, None, None]</span>
+|-
+| gameVal || <span style="color: #ee4231">prepot_device_loadout_0_ui</span> || <span style="color: #6bc71f">fairyrings_dlp</span>
+|-
+| rowspan="5" | [https://abextm.github.io/cache2/#/viewer/dbrow/3807 3807]
+| rowspan="5" | fairyrings_dls
+|-
+| table || <span style="color: #ee4231">77</span> || <span style="color: #6bc71f">89</span>
+|-
+| values || [[<span style="color: #ee4231">1</span>], [<span style="color: #ee4231">983095</span>], [<span style="color: #ee4231">983100</span>], [<span style="color: #ee4231">983098</span>], [<span style="color: #ee4231">983099</span>]] || [[<span style="color: #6bc71f">111</span>], [<span style="color: #6bc71f">21</span>], [<span style="color: #6bc71f">56485472</span>], [<span style="color: #6bc71f">D L S</span>], [<span style="color: #6bc71f">24969353</span>]<span style="color: #6bc71f">, [24969354</span>]<span style="color: #6bc71f">, [983], [Fairy ring (DLS)], [<br>Dungeons: Myreque hideout under The Hollows], None, [1], None]</span>
+|-
+| types || [[0], [<span style="color: #ee4231">9</span>], [<span style="color: #ee4231">9</span>], [9], [9]] || [[0], [<span style="color: #6bc71f">0</span>], [<span style="color: #6bc71f">22</span>], [<span style="color: #6bc71f">36], [</span>9], [9]<span style="color: #6bc71f">, [59</span>]<span style="color: #6bc71f">, [36], [36], None, [1], None]</span>
+|-
+| gameVal || <span style="color: #ee4231">prepot_device_loadout_1_ui</span> || <span style="color: #6bc71f">fairyrings_dls</span>
+|-
+| rowspan="5" | [https://abextm.github.io/cache2/#/viewer/dbrow/3808 3808]
+| rowspan="5" | fairyrings_dlr
+|-
+| table || <span style="color: #ee4231">77</span> || <span style="color: #6bc71f">89</span>
+|-
+| values || [[<span style="color: #ee4231">2</span>], [<span style="color: #ee4231">983096</span>], [<span style="color: #ee4231">983103</span>], [<span style="color: #ee4231">983101</span>], [<span style="color: #ee4231">983102</span>]] || [[<span style="color: #6bc71f">112</span>], [<span style="color: #6bc71f">22</span>], [<span style="color: #6bc71f">36260891</span>], [<span style="color: #6bc71f">D L R</span>], [<span style="color: #6bc71f">24969351</span>]<span style="color: #6bc71f">, [24969352</span>]<span style="color: #6bc71f">, [984], [Fairy ring (DLR)], [<br>Islands: Poison Waste], [2126], None, [1]]</span>
+|-
+| types || [[0], [<span style="color: #ee4231">9</span>], [<span style="color: #ee4231">9</span>], [9], [9]] || [[0], [<span style="color: #6bc71f">0</span>], [<span style="color: #6bc71f">22</span>], [<span style="color: #6bc71f">36], [</span>9], [9]<span style="color: #6bc71f">, [59</span>]<span style="color: #6bc71f">, [36], [36], [32], None, [1]]</span>
+|-
+| gameVal || <span style="color: #ee4231">prepot_device_loadout_2_ui</span> || <span style="color: #6bc71f">fairyrings_dlr</span>
+|-
+| rowspan="5" | [https://abextm.github.io/cache2/#/viewer/dbrow/3809 3809]
+| rowspan="5" | fairyrings_dlq
+|-
+| table || <span style="color: #ee4231">77</span> || <span style="color: #6bc71f">89</span>
+|-
+| values || [[<span style="color: #ee4231">3</span>], [<span style="color: #ee4231">983097</span>], [<span style="color: #ee4231">983106</span>], [<span style="color: #ee4231">983104</span>], [<span style="color: #ee4231">983105</span>]] || [[<span style="color: #6bc71f">113</span>], [<span style="color: #6bc71f">23</span>], [<span style="color: #6bc71f">56085448</span>], [<span style="color: #6bc71f">D L Q</span>], [<span style="color: #6bc71f">24969349</span>]<span style="color: #6bc71f">, [24969350</span>]<span style="color: #6bc71f">, [985], [Fairy ring (DLQ)], [<br>Kharidian Desert: North of Nardah], [4185], None, None]</span>
+|-
+| types || [[0], [<span style="color: #ee4231">9</span>], [<span style="color: #ee4231">9</span>], [9], [9]] || [[0], [<span style="color: #6bc71f">0</span>], [<span style="color: #6bc71f">22</span>], [<span style="color: #6bc71f">36], [</span>9], [9]<span style="color: #6bc71f">, [59</span>]<span style="color: #6bc71f">, [36], [36], [32], None, None]</span>
+|-
+| gameVal || <span style="color: #ee4231">prepot_device_loadout_3_ui</span> || <span style="color: #6bc71f">fairyrings_dlq</span>
+|-
+| rowspan="3" | [https://abextm.github.io/cache2/#/viewer/dbrow/6647 6647]
+| rowspan="3" | chaeldar_lizardmen
+|-
+| values || [[4], [6302], [8], [50], [90], None, <span style="color: #ee4231">None</span>] || [[4], [6302], [8], [50], [90], None, <span style="color: #6bc71f">[6423</span>]<span style="color: #6bc71f">]</span>
+|-
+| types || [[0], [74], [0], [0], [0], None, <span style="color: #ee4231">None</span>] || [[0], [74], [0], [0], [0], None, <span style="color: #6bc71f">[74</span>]<span style="color: #6bc71f">]</span>
+|}
+==Widgets==
+===Diff Widgets===
+{| class="wikitable sortable sticky-header mw-collapsible"
+|-
+! colspan="5" | Diff Widgets
+|-
+! style="width: 15em" | Id !! GameVal !! Key !! Previous Value !! New Value
+|-
+| rowspan="2" | [https://abextm.github.io/cache2/#/viewer/interface/9699328 9699328]
+| rowspan="2" | pet_insurance
+|-
+| name ||  || 
+|-
+| rowspan="2" | [https://abextm.github.io/cache2/#/viewer/interface/17956864 17956864]
+| rowspan="2" | trek_rewards
+|-
+| name ||  || 
+|}
+==Sprites==
+===Diff Sprites===
+{| class="wikitable sortable sticky-header mw-collapsible"
+|-
+! colspan="5" | Diff Sprites
+|-
+! style="width: 15em" | Id !! GameVal !! Key !! Previous Value !! New Value
+|-
+| rowspan="2" | [499 499][https://abextm.github.io/cache2/#/viewer/sprite/499 (1)]
+| rowspan="2" | titlebox
+|-
+| sprites || [{offsetX:0, offsetY:0, pixelsWidth:360, pixelsHeight:200, encodingFlags:0, pixelsLength:72000}] || [{offsetX:0, offsetY:0, pixelsWidth:360, pixelsHeight:200, encodingFlags:0, pixelsLength:72000}]
+|-
+| rowspan="2" | [500 500][https://abextm.github.io/cache2/#/viewer/sprite/500 (1)]
+| rowspan="2" | titlebutton
+|-
+| sprites || [{offsetX:0, offsetY:0, pixelsWidth:147, pixelsHeight:41, encodingFlags:0, pixelsLength:6027}] || [{offsetX:0, offsetY:0, pixelsWidth:147, pixelsHeight:41, encodingFlags:0, pixelsLength:6027}]
+|-
+| rowspan="2" | [501 501][https://abextm.github.io/cache2/#/viewer/sprite/501 (1)]
+| rowspan="2" | runes
+|-
+| sprites || [{offsetX:<span style="color: #ee4231">8</span>, offsetY:<span style="color: #ee4231">8</span>, pixelsWidth:<span style="color: #ee4231">80</span>, pixelsHeight:<span style="color: #ee4231">80</span>, encodingFlags:<span style="color: #ee4231">0</span>, pixelsLength:<span style="color: #ee4231">6400</span>}, {offsetX:<span style="color: #ee4231">20</span>, offsetY:<span style="color: #ee4231">4</span>, pixelsWidth:<span style="color: #ee4231">55</span>, pixelsHeight:<span style="color: #ee4231">88</span>, encodingFlags:1, pixelsLength:<span style="color: #ee4231">4840</span>}, {offsetX:<span style="color: #ee4231">8</span>, offsetY:<span style="color: #ee4231">8</span>, pixelsWidth:<span style="color: #ee4231">80</span>, pixelsHeight:<span style="color: #ee4231">80</span>, encodingFlags:0, pixelsLength:<span style="color: #ee4231">6400</span>}, {offsetX:<span style="color: #ee4231">20</span>, offsetY:<span style="color: #ee4231">4</span>, pixelsWidth:<span style="color: #ee4231">55</span>, pixelsHeight:<span style="color: #ee4231">88</span>, encodingFlags:1, pixelsLength:<span style="color: #ee4231">4840</span>}, {offsetX:<span style="color: #ee4231">8</span>, offsetY:<span style="color: #ee4231">8</span>, pixelsWidth:<span style="color: #ee4231">80</span>, pixelsHeight:<span style="color: #ee4231">80</span>, encodingFlags:0, pixelsLength:<span style="color: #ee4231">6400</span>}, {offsetX:<span style="color: #ee4231">20</span>, offsetY:<span style="color: #ee4231">4</span>, pixelsWidth:<span style="color: #ee4231">55</span>, pixelsHeight:<span style="color: #ee4231">88</span>, encodingFlags:1, pixelsLength:<span style="color: #ee4231">4840</span>}, {offsetX:<span style="color: #ee4231">8</span>, offsetY:<span style="color: #ee4231">8</span>, pixelsWidth:<span style="color: #ee4231">80</span>, pixelsHeight:<span style="color: #ee4231">80</span>, encodingFlags:<span style="color: #ee4231">0</span>, pixelsLength:<span style="color: #ee4231">6400</span>}, {offsetX:<span style="color: #ee4231">20</span>, offsetY:<span style="color: #ee4231">4</span>, pixelsWidth:<span style="color: #ee4231">55</span>, pixelsHeight:<span style="color: #ee4231">88</span>, encodingFlags:1, pixelsLength:<span style="color: #ee4231">4840</span>}, {offsetX:<span style="color: #ee4231">8</span>, offsetY:<span style="color: #ee4231">8</span>, pixelsWidth:<span style="color: #ee4231">80</span>, pixelsHeight:<span style="color: #ee4231">80</span>, encodingFlags:<span style="color: #ee4231">0</span>, pixelsLength:<span style="color: #ee4231">6400</span>}, {offsetX:<span style="color: #ee4231">20</span>, offsetY:<span style="color: #ee4231">4</span>, pixelsWidth:<span style="color: #ee4231">55</span>, pixelsHeight:<span style="color: #ee4231">88</span>, encodingFlags:1, pixelsLength:<span style="color: #ee4231">4840</span>}, {offsetX:<span style="color: #ee4231">8</span>, offsetY:<span style="color: #ee4231">8</span>, pixelsWidth:<span style="color: #ee4231">80</span>, pixelsHeight:<span style="color: #ee4231">80</span>, encodingFlags:0, pixelsLength:<span style="color: #ee4231">6400</span>}, {offsetX:<span style="color: #ee4231">20</span>, offsetY:<span style="color: #ee4231">4</span>, pixelsWidth:<span style="color: #ee4231">55</span>, pixelsHeight:<span style="color: #ee4231">88</span>, encodingFlags:1, pixelsLength:<span style="color: #ee4231">4840</span>}] || [{offsetX:<span style="color: #6bc71f">10</span>, offsetY:<span style="color: #6bc71f">11</span>, pixelsWidth:<span style="color: #6bc71f">74</span>, pixelsHeight:<span style="color: #6bc71f">74</span>, encodingFlags:<span style="color: #6bc71f">1</span>, pixelsLength:<span style="color: #6bc71f">5476</span>}, {offsetX:<span style="color: #6bc71f">25</span>, offsetY:<span style="color: #6bc71f">14</span>, pixelsWidth:<span style="color: #6bc71f">38</span>, pixelsHeight:<span style="color: #6bc71f">61</span>, encodingFlags:1, pixelsLength:<span style="color: #6bc71f">2318</span>}, {offsetX:<span style="color: #6bc71f">5</span>, offsetY:<span style="color: #6bc71f">23</span>, pixelsWidth:<span style="color: #6bc71f">83</span>, pixelsHeight:<span style="color: #6bc71f">56</span>, encodingFlags:0, pixelsLength:<span style="color: #6bc71f">4648</span>}, {offsetX:<span style="color: #6bc71f">7</span>, offsetY:<span style="color: #6bc71f">8</span>, pixelsWidth:<span style="color: #6bc71f">73</span>, pixelsHeight:<span style="color: #6bc71f">79</span>, encodingFlags:1, pixelsLength:<span style="color: #6bc71f">5767</span>}, {offsetX:<span style="color: #6bc71f">3</span>, offsetY:<span style="color: #6bc71f">3</span>, pixelsWidth:<span style="color: #6bc71f">90</span>, pixelsHeight:<span style="color: #6bc71f">89</span>, encodingFlags:0, pixelsLength:<span style="color: #6bc71f">8010</span>}, {offsetX:<span style="color: #6bc71f">6</span>, offsetY:<span style="color: #6bc71f">19</span>, pixelsWidth:<span style="color: #6bc71f">85</span>, pixelsHeight:<span style="color: #6bc71f">60</span>, encodingFlags:1, pixelsLength:<span style="color: #6bc71f">5100</span>}, {offsetX:<span style="color: #6bc71f">16</span>, offsetY:<span style="color: #6bc71f">14</span>, pixelsWidth:<span style="color: #6bc71f">61</span>, pixelsHeight:<span style="color: #6bc71f">68</span>, encodingFlags:<span style="color: #6bc71f">1</span>, pixelsLength:<span style="color: #6bc71f">4148</span>}, {offsetX:<span style="color: #6bc71f">9</span>, offsetY:<span style="color: #6bc71f">12</span>, pixelsWidth:<span style="color: #6bc71f">80</span>, pixelsHeight:<span style="color: #6bc71f">73</span>, encodingFlags:1, pixelsLength:<span style="color: #6bc71f">5840</span>}, {offsetX:<span style="color: #6bc71f">13</span>, offsetY:<span style="color: #6bc71f">6</span>, pixelsWidth:<span style="color: #6bc71f">67</span>, pixelsHeight:<span style="color: #6bc71f">79</span>, encodingFlags:<span style="color: #6bc71f">1</span>, pixelsLength:<span style="color: #6bc71f">5293</span>}, {offsetX:<span style="color: #6bc71f">7</span>, offsetY:<span style="color: #6bc71f">15</span>, pixelsWidth:<span style="color: #6bc71f">80</span>, pixelsHeight:<span style="color: #6bc71f">67</span>, encodingFlags:1, pixelsLength:<span style="color: #6bc71f">5360</span>}, {offsetX:<span style="color: #6bc71f">13</span>, offsetY:<span style="color: #6bc71f">5</span>, pixelsWidth:<span style="color: #6bc71f">67</span>, pixelsHeight:<span style="color: #6bc71f">84</span>, encodingFlags:0, pixelsLength:<span style="color: #6bc71f">5628</span>}, {offsetX:<span style="color: #6bc71f">4</span>, offsetY:<span style="color: #6bc71f">20</span>, pixelsWidth:<span style="color: #6bc71f">86</span>, pixelsHeight:<span style="color: #6bc71f">61</span>, encodingFlags:1, pixelsLength:<span style="color: #6bc71f">5246</span>}]
+|-
+| rowspan="2" | [811 811][https://abextm.github.io/cache2/#/viewer/sprite/811 (1)]
+| rowspan="2" | title_mute
+|-
+| sprites || [{offsetX:0, offsetY:0, pixelsWidth:36, pixelsHeight:36, encodingFlags:0, pixelsLength:1296}, {offsetX:0, offsetY:0, pixelsWidth:36, pixelsHeight:36, encodingFlags:0, pixelsLength:1296}] || [{offsetX:0, offsetY:0, pixelsWidth:36, pixelsHeight:36, encodingFlags:0, pixelsLength:1296}, {offsetX:0, offsetY:0, pixelsWidth:36, pixelsHeight:36, encodingFlags:0, pixelsLength:1296}]
+|-
+| rowspan="2" | [818 818][https://abextm.github.io/cache2/#/viewer/sprite/818 (1)]
+| rowspan="2" | sl_button
+|-
+| sprites || [{offsetX:0, offsetY:0, pixelsWidth:100, pixelsHeight:35, encodingFlags:0, pixelsLength:3500}] || [{offsetX:0, offsetY:0, pixelsWidth:100, pixelsHeight:35, encodingFlags:0, pixelsLength:3500}]
+|-
+| rowspan="2" | [1649 1649][https://abextm.github.io/cache2/#/viewer/sprite/1649 (1)]
+| rowspan="2" | titlebutton_large
+|-
+| sprites || [{offsetX:0, offsetY:0, pixelsWidth:218, pixelsHeight:68, encodingFlags:0, pixelsLength:14824}] || [{offsetX:0, offsetY:0, pixelsWidth:218, pixelsHeight:68, encodingFlags:0, pixelsLength:14824}]
+|-
+| rowspan="2" | [2135 2135][https://abextm.github.io/cache2/#/viewer/sprite/2135 (1)]
+| rowspan="2" | titlebutton_wide
+|-
+| sprites || [{offsetX:0, offsetY:0, pixelsWidth:286, pixelsHeight:40, encodingFlags:0, pixelsLength:11440}] || [{offsetX:0, offsetY:0, pixelsWidth:286, pixelsHeight:40, encodingFlags:0, pixelsLength:11440}]
+|-
+| rowspan="2" | [2136 2136][https://abextm.github.io/cache2/#/viewer/sprite/2136 (1)]
+| rowspan="2" | titlebutton_wide42,0
+|-
+| sprites || [{offsetX:<span style="color: #ee4231">17</span>, offsetY:0, pixelsWidth:<span style="color: #ee4231">254</span>, pixelsHeight:42, encodingFlags:0, pixelsLength:<span style="color: #ee4231">10668</span>}] || [{offsetX:<span style="color: #6bc71f">16</span>, offsetY:0, pixelsWidth:<span style="color: #6bc71f">255</span>, pixelsHeight:42, encodingFlags:0, pixelsLength:<span style="color: #6bc71f">10710</span>}]
+|-
+| rowspan="2" | [2137 2137][https://abextm.github.io/cache2/#/viewer/sprite/2137 (1)]
+| rowspan="2" | titlebutton_wide42,1
+|-
+| sprites || [{offsetX:1, offsetY:0, pixelsWidth:286, pixelsHeight:42, encodingFlags:0, pixelsLength:12012}] || [{offsetX:1, offsetY:0, pixelsWidth:286, pixelsHeight:42, encodingFlags:0, pixelsLength:12012}]
+|}

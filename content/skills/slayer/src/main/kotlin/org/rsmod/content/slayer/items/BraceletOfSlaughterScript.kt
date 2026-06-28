@@ -31,13 +31,14 @@ class BraceletOfSlaughterScript : PluginScript() {
 
     private suspend fun ProtectedAccess.breakBracelet(slot: Int) {
         inv[slot]?.takeIf { it.isType(ITEM) } ?: return
-        val confirmed = choice2(
-            choice1 = "Break the bracelet of slaughter?",
-            result1 = true,
-            choice2 = "Cancel.",
-            result2 = false,
-            title = "This will destroy the bracelet."
-        )
+        val confirmed =
+            choice2(
+                choice1 = "Break the bracelet of slaughter?",
+                result1 = true,
+                choice2 = "Cancel.",
+                result2 = false,
+                title = "This will destroy the bracelet.",
+            )
         if (!confirmed) {
             return
         }
@@ -45,6 +46,9 @@ class BraceletOfSlaughterScript : PluginScript() {
             return
         }
         BraceletOfSlaughter.prepareBreak(player)
-        mes("You destroy the bracelet. Your next bracelet of slaughter will have " + "${BraceletOfSlaughter.MAX_CHARGES} charges.",)
+        mes(
+            "You destroy the bracelet. Your next bracelet of slaughter will have " +
+                "${BraceletOfSlaughter.MAX_CHARGES} charges."
+        )
     }
 }

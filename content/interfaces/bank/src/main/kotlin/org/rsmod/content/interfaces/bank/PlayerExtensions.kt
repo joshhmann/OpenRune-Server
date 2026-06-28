@@ -107,7 +107,10 @@ internal fun Player.setBankWornBonuses(wornBonuses: WornBonuses, weaponSpeeds: W
     ifSetText("component.bankmain:rangestrength", "Ranged STR: ${stats.rangedStr.signed}")
     ifSetText("component.bankmain:magicdamage", "Magic DMG: $magicDmg$magicDmgSuffix")
     ifSetText("component.bankmain:prayer", "Prayer: ${stats.prayer.signed}")
-    ifSetText("component.bankmain:typemultiplier", "Undead: ${stats.undead.formatWholePercent}$undeadSuffix")
+    ifSetText(
+        "component.bankmain:typemultiplier",
+        "Undead: ${stats.undead.formatWholePercent}$undeadSuffix",
+    )
     statGroupTooltip(
         this,
         "component.bankmain:tooltip",
@@ -116,7 +119,10 @@ internal fun Player.setBankWornBonuses(wornBonuses: WornBonuses, weaponSpeeds: W
             "For multi-target Ranged and Magic attacks, this applies only to the " +
             "primary target. It does not stack with the Slayer multiplier.",
     )
-    ifSetText("component.bankmain:slayermultiplier", "Slayer: ${stats.slayer.formatWholePercent}$slayerSuffix")
+    ifSetText(
+        "component.bankmain:slayermultiplier",
+        "Slayer: ${stats.slayer.formatWholePercent}$slayerSuffix",
+    )
 }
 
 private val Int.signed: String

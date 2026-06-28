@@ -15,7 +15,8 @@ class WikiInfoboxNpcIdsTest {
             |id10 = 3014
             |id9 = 3652
             }}
-            """.trimIndent()
+            """
+                .trimIndent()
 
         val lines = WikiInfoboxNpcIds.parseMonsterIdLines(snippet)
         assertEquals(listOf(1, 2, 9, 10), lines.map { it.label.removePrefix("id").toInt() })
@@ -33,7 +34,8 @@ class WikiInfoboxNpcIdsTest {
             |name = Rat
             |id = 47
             }}
-            """.trimIndent()
+            """
+                .trimIndent()
 
         val lines = WikiInfoboxNpcIds.parseMonsterIdLines(snippet)
         assertEquals(1, lines.size)
@@ -47,7 +49,8 @@ class WikiInfoboxNpcIdsTest {
             """
             |id1 = 1,2
             |id = 99
-            """.trimIndent()
+            """
+                .trimIndent()
 
         val lines = WikiInfoboxNpcIds.parseMonsterIdLines(snippet)
         assertEquals(1, lines.size)

@@ -1,0 +1,1078 @@
+{{ToC}}
+==Items==
+===New Items===
+{| class="wikitable sortable"
+!colspan='11'|New Items
+|-
+! style=width:15em | Name !! ID !! Members !! Tradeable in GE !! Equipable !! Stackable !! Noteable !! Options !! Placeholder !! Cost
+|-
+| [[Enchanted lyre(i)]] || [https://chisel.weirdgloop.org/moid/item_id.html#23458 23458] || Yes || No || Yes || No || No || Play, Equip,   Drop || Yes || 1000
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#23459 23459] || No || No || No || No || No ||     Drop || Yes || 1
+|-
+| [[Attacker icon]] || [https://chisel.weirdgloop.org/moid/item_id.html#23460 23460] || No || No || Yes || No || No ||  Equip,   Drop || No || 1
+|-
+| [[Attacker icon]] || [https://chisel.weirdgloop.org/moid/item_id.html#23461 23461] || No || No || Yes || No || No ||  Equip,   Drop || No || 1
+|-
+| [[Attacker icon]] || [https://chisel.weirdgloop.org/moid/item_id.html#23462 23462] || No || No || Yes || No || No ||  Equip,   Drop || No || 1
+|-
+| [[Attacker icon]] || [https://chisel.weirdgloop.org/moid/item_id.html#23463 23463] || No || No || Yes || No || No ||  Equip,   Drop || No || 1
+|-
+| [[Attacker icon]] || [https://chisel.weirdgloop.org/moid/item_id.html#23464 23464] || No || No || Yes || No || No ||  Equip,   Drop || No || 1
+|-
+| [[Attacker icon]] || [https://chisel.weirdgloop.org/moid/item_id.html#23465 23465] || No || No || Yes || No || No ||  Equip,   Drop || No || 1
+|-
+| [[Defender icon]] || [https://chisel.weirdgloop.org/moid/item_id.html#23466 23466] || No || No || Yes || No || No ||  Equip,   Drop || No || 1
+|-
+| [[Defender icon]] || [https://chisel.weirdgloop.org/moid/item_id.html#23467 23467] || No || No || Yes || No || No ||  Equip,   Drop || No || 1
+|-
+| [[Defender icon]] || [https://chisel.weirdgloop.org/moid/item_id.html#23468 23468] || No || No || Yes || No || No ||  Equip,   Drop || No || 1
+|-
+| [[Defender icon]] || [https://chisel.weirdgloop.org/moid/item_id.html#23469 23469] || No || No || Yes || No || No ||  Equip,   Drop || No || 1
+|-
+| [[Defender icon]] || [https://chisel.weirdgloop.org/moid/item_id.html#23470 23470] || No || No || Yes || No || No ||  Equip,   Drop || No || 1
+|-
+| [[Collector icon]] || [https://chisel.weirdgloop.org/moid/item_id.html#23471 23471] || No || No || Yes || No || No ||  Equip,   Drop || No || 1
+|-
+| [[Collector icon]] || [https://chisel.weirdgloop.org/moid/item_id.html#23472 23472] || No || No || Yes || No || No ||  Equip,   Drop || No || 1
+|-
+| [[Collector icon]] || [https://chisel.weirdgloop.org/moid/item_id.html#23473 23473] || No || No || Yes || No || No ||  Equip,   Drop || No || 1
+|-
+| [[Collector icon]] || [https://chisel.weirdgloop.org/moid/item_id.html#23474 23474] || No || No || Yes || No || No ||  Equip,   Drop || No || 1
+|-
+| [[Collector icon]] || [https://chisel.weirdgloop.org/moid/item_id.html#23475 23475] || No || No || Yes || No || No ||  Equip,   Drop || No || 1
+|-
+| [[Collector icon]] || [https://chisel.weirdgloop.org/moid/item_id.html#23476 23476] || No || No || Yes || No || No ||  Equip,   Drop || No || 1
+|-
+| [[Collector icon]] || [https://chisel.weirdgloop.org/moid/item_id.html#23477 23477] || No || No || Yes || No || No ||  Equip,   Drop || No || 1
+|-
+| [[Healer icon]] || [https://chisel.weirdgloop.org/moid/item_id.html#23478 23478] || No || No || Yes || No || No ||  Equip,   Drop || No || 1
+|-
+| [[Healer icon]] || [https://chisel.weirdgloop.org/moid/item_id.html#23479 23479] || No || No || Yes || No || No ||  Equip,   Drop || No || 1
+|-
+| [[Healer icon]] || [https://chisel.weirdgloop.org/moid/item_id.html#23480 23480] || No || No || Yes || No || No ||  Equip,   Drop || No || 1
+|-
+| [[Healer icon]] || [https://chisel.weirdgloop.org/moid/item_id.html#23481 23481] || No || No || Yes || No || No ||  Equip,   Drop || No || 1
+|-
+| [[Healer icon]] || [https://chisel.weirdgloop.org/moid/item_id.html#23482 23482] || No || No || Yes || No || No ||  Equip,   Drop || No || 1
+|-
+| [[Healer icon]] || [https://chisel.weirdgloop.org/moid/item_id.html#23483 23483] || No || No || Yes || No || No ||  Equip,   Drop || No || 1
+|-
+| [[Healer icon]] || [https://chisel.weirdgloop.org/moid/item_id.html#23484 23484] || No || No || Yes || No || No ||  Equip,   Drop || No || 1
+|-
+| [[Healer icon]] || [https://chisel.weirdgloop.org/moid/item_id.html#23485 23485] || No || No || Yes || No || No ||  Equip,   Drop || No || 1
+|-
+| [[Healer icon]] || [https://chisel.weirdgloop.org/moid/item_id.html#23486 23486] || No || No || Yes || No || No ||  Equip,   Drop || No || 1
+|-
+|-
+|}
+===Removed Items===
+{| class="wikitable sortable"
+!colspan='2'|Removed Items
+|-
+! style=width:15em | Name !! ID
+|-
+|-
+|}
+===Diff Items===
+{| class="wikitable sortable"
+!colspan='5'|Diff Items
+|-
+! style=width:15em | Name !! ID !! Key !! Previous Value !! New Value
+|-
+|rowspan="5"|[[Attacker icon]]
+|rowspan="5"|[https://chisel.weirdgloop.org/moid/item_id.html#10556 10556]
+|-
+|members || True || False
+|-
+| interfaceOptions || [None, 'Wear', None, None, 'Drop'] || [None, 'Equip', None, None, 'Drop']
+|-
+| maleModel0 || 19260 || 596
+|-
+| maleModel1 || -1 || 19260
+|-
+|rowspan="5"|[[Collector icon]]
+|rowspan="5"|[https://chisel.weirdgloop.org/moid/item_id.html#10557 10557]
+|-
+|members || True || False
+|-
+| interfaceOptions || [None, 'Wear', None, None, 'Drop'] || [None, 'Equip', None, None, 'Drop']
+|-
+| maleModel0 || 19259 || 596
+|-
+| maleModel1 || -1 || 19259
+|-
+|rowspan="5"|[[Defender icon]]
+|rowspan="5"|[https://chisel.weirdgloop.org/moid/item_id.html#10558 10558]
+|-
+|members || True || False
+|-
+| interfaceOptions || [None, 'Wear', None, None, 'Drop'] || [None, 'Equip', None, None, 'Drop']
+|-
+| maleModel0 || 19261 || 596
+|-
+| maleModel1 || -1 || 19261
+|-
+|rowspan="5"|[[Healer icon]]
+|rowspan="5"|[https://chisel.weirdgloop.org/moid/item_id.html#10559 10559]
+|-
+|members || True || False
+|-
+| interfaceOptions || [None, 'Wear', None, None, 'Drop'] || [None, 'Equip', None, None, 'Drop']
+|-
+| maleModel0 || 19262 || 596
+|-
+| maleModel1 || -1 || 19262
+|-
+|rowspan="12"|[[Healer icon]]
+|rowspan="12"|[https://chisel.weirdgloop.org/moid/item_id.html#10567 10567]
+|-
+|name || [[Null]] || [[Healer icon]]
+|-
+| xan2d || 424 || 512
+|-
+| yan2d || 68 || 1024
+|-
+| inventoryModel || 2796 || 20578
+|-
+| zoom2d || 620 || 1049
+|-
+| xOffset2d || 1 || -32
+|-
+| yOffset2d || 16 || -32
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || [None, 'Equip', None, None, 'Drop']
+|-
+| maleModel0 || -1 || 28327
+|-
+| maleModel1 || -1 || 19262
+|-
+| femaleModel0 || -1 || 20520
+|-
+|rowspan="14"|[[Healer icon]]
+|rowspan="14"|[https://chisel.weirdgloop.org/moid/item_id.html#20802 20802]
+|-
+|name || [[Null]] || [[Healer icon]]
+|-
+| xan2d || 572 || 512
+|-
+| yan2d || 0 || 1024
+|-
+| inventoryModel || 2521 || 20578
+|-
+| zoom2d || 1940 || 1049
+|-
+| xOffset2d || 0 || -32
+|-
+| yOffset2d || 1 || -32
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || [None, 'Equip', None, None, 'Drop']
+|-
+| maleModel0 || -1 || 28330
+|-
+| maleModel1 || -1 || 19262
+|-
+| femaleModel0 || -1 || 20520
+|-
+| colorFind ||<span style = "background-color: #0b3618;color:white">25238</span>||<span style = "background-color: #05700a;color:white">22439</span>
+|-
+| colorReplace ||<span style = "background-color: #ad415c;color:white">-2608</span>||<span style = "background-color: #06920d;color:white">22451</span>
+|-
+|rowspan="12"|[[Healer icon]]
+|rowspan="12"|[https://chisel.weirdgloop.org/moid/item_id.html#22308 22308]
+|-
+|name || [[Null]] || [[Healer icon]]
+|-
+| xan2d || 380 || 512
+|-
+| yan2d || 120 || 1024
+|-
+| inventoryModel || 34584 || 20578
+|-
+| zoom2d || 1680 || 1049
+|-
+| xOffset2d || -1 || -32
+|-
+| yOffset2d || -7 || -32
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || [None, 'Equip', None, None, 'Drop']
+|-
+| maleModel0 || -1 || 28329
+|-
+| maleModel1 || -1 || 19262
+|-
+| femaleModel0 || -1 || 20520
+|-
+|rowspan="14"|[[Healer icon]]
+|rowspan="14"|[https://chisel.weirdgloop.org/moid/item_id.html#22309 22309]
+|-
+|name || [[Null]] || [[Healer icon]]
+|-
+| xan2d || 380 || 512
+|-
+| yan2d || 120 || 1024
+|-
+| inventoryModel || 34584 || 20578
+|-
+| zoom2d || 1680 || 1049
+|-
+| xOffset2d || -1 || -32
+|-
+| yOffset2d || -7 || -32
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || [None, 'Equip', None, None, 'Drop']
+|-
+| maleModel0 || -1 || 248
+|-
+| maleModel1 || -1 || 19262
+|-
+| femaleModel0 || -1 || 20520
+|-
+| colorFind ||<span style = "background-color: #847070;color:white">82</span>||<span style = "background-color: #05700a;color:white">22439</span>
+|-
+| colorReplace ||<span style = "background-color: #d58c05;color:white">7114</span>||<span style = "background-color: #06920d;color:white">22451</span>
+|-
+|rowspan="14"|[[Healer icon]]
+|rowspan="14"|[https://chisel.weirdgloop.org/moid/item_id.html#22310 22310]
+|-
+|name || [[Null]] || [[Healer icon]]
+|-
+| xan2d || 179 || 512
+|-
+| yan2d || 1997 || 1024
+|-
+| inventoryModel || 34580 || 20578
+|-
+| zoom2d || 784 || 1049
+|-
+| xOffset2d || 1 || -32
+|-
+| yOffset2d || -5 || -32
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || [None, 'Equip', None, None, 'Drop']
+|-
+| maleModel0 || -1 || 247
+|-
+| maleModel1 || -1 || 19262
+|-
+| femaleModel0 || -1 || 20520
+|-
+| colorFind ||<span style = "background-color: #e4be15;color:white">9044</span>,<span style = "background-color: #d09a05;color:white">8136</span>,<span style = "background-color: #d58c05;color:white">7114</span>,<span style = "background-color: #d07505;color:white">6088</span>,<span style = "background-color: #d06005;color:white">5064</span>||<span style = "background-color: #05700a;color:white">22439</span>
+|-
+| colorReplace ||<span style = "background-color: #a38e8e;color:white">103</span>,<span style = "background-color: #968181;color:white">94</span>,<span style = "background-color: #897575;color:white">86</span>,<span style = "background-color: #756565;color:white">74</span>,<span style = "background-color: #615656;color:white">61</span>||<span style = "background-color: #06920d;color:white">22451</span>
+|-
+|rowspan="12"|[[Healer icon]]
+|rowspan="12"|[https://chisel.weirdgloop.org/moid/item_id.html#22311 22311]
+|-
+|name || [[Null]] || [[Healer icon]]
+|-
+| xan2d || 179 || 512
+|-
+| yan2d || 1997 || 1024
+|-
+| inventoryModel || 34580 || 20578
+|-
+| zoom2d || 784 || 1049
+|-
+| xOffset2d || 1 || -32
+|-
+| yOffset2d || -5 || -32
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || [None, 'Equip', None, None, 'Drop']
+|-
+| maleModel0 || -1 || 250
+|-
+| maleModel1 || -1 || 19262
+|-
+| femaleModel0 || -1 || 20520
+|-
+|rowspan="12"|[[Collector icon]]
+|rowspan="12"|[https://chisel.weirdgloop.org/moid/item_id.html#22312 22312]
+|-
+|name || [[Null]] || [[Collector icon]]
+|-
+| xan2d || 380 || 553
+|-
+| yan2d || 120 || 0
+|-
+| inventoryModel || 34577 || 20578
+|-
+| zoom2d || 1040 || 1114
+|-
+| xOffset2d || 1 || 34
+|-
+| yOffset2d || 7 || -28
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || [None, 'Equip', None, None, 'Drop']
+|-
+| maleModel0 || -1 || 28333
+|-
+| maleModel1 || -1 || 19259
+|-
+| femaleModel0 || -1 || 20518
+|-
+|rowspan="12"|[[Collector icon]]
+|rowspan="12"|[https://chisel.weirdgloop.org/moid/item_id.html#22313 22313]
+|-
+|name || [[Null]] || [[Collector icon]]
+|-
+| xan2d || 380 || 553
+|-
+| yan2d || 120 || 0
+|-
+| inventoryModel || 34578 || 20578
+|-
+| zoom2d || 1040 || 1114
+|-
+| xOffset2d || 1 || 34
+|-
+| yOffset2d || 7 || -28
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || [None, 'Equip', None, None, 'Drop']
+|-
+| maleModel0 || -1 || 28328
+|-
+| maleModel1 || -1 || 19259
+|-
+| femaleModel0 || -1 || 20518
+|-
+|rowspan="13"|[[Collector icon]]
+|rowspan="13"|[https://chisel.weirdgloop.org/moid/item_id.html#22314 22314]
+|-
+|name || [[Null]] || [[Collector icon]]
+|-
+| xan2d || 761 || 553
+|-
+| yan2d || 968 || 0
+|-
+| zan2d || 954 || 0
+|-
+| inventoryModel || 34583 || 20578
+|-
+| zoom2d || 1243 || 1114
+|-
+| xOffset2d || -1 || 34
+|-
+| yOffset2d || -4 || -28
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || [None, 'Equip', None, None, 'Drop']
+|-
+| maleModel0 || -1 || 28331
+|-
+| maleModel1 || -1 || 19259
+|-
+| femaleModel0 || -1 || 20518
+|-
+|rowspan="14"|[[Collector icon]]
+|rowspan="14"|[https://chisel.weirdgloop.org/moid/item_id.html#22315 22315]
+|-
+|name || [[Null]] || [[Collector icon]]
+|-
+| xan2d || 503 || 553
+|-
+| yan2d || 1946 || 0
+|-
+| cost || 5 || 1
+|-
+| inventoryModel || 34581 || 20578
+|-
+| zoom2d || 1608 || 1114
+|-
+| xOffset2d || 3 || 34
+|-
+| yOffset2d || 5 || -28
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || [None, 'Equip', None, None, 'Drop']
+|-
+| maleModel0 || 34144 || 252
+|-
+| maleModel1 || -1 || 19259
+|-
+| femaleModel0 || 34144 || 20518
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="12"|[[Collector icon]]
+|rowspan="12"|[https://chisel.weirdgloop.org/moid/item_id.html#22337 22337]
+|-
+|name || [[Null]] || [[Collector icon]]
+|-
+| xan2d || 153 || 553
+|-
+| yan2d || 110 || 0
+|-
+| inventoryModel || 35126 || 20578
+|-
+| zoom2d || 661 || 1114
+|-
+| xOffset2d || 0 || 34
+|-
+| yOffset2d || 0 || -28
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || [None, 'Equip', None, None, 'Drop']
+|-
+| maleModel0 || -1 || 248
+|-
+| maleModel1 || -1 || 19259
+|-
+| femaleModel0 || -1 || 20518
+|-
+|rowspan="14"|[[Collector icon]]
+|rowspan="14"|[https://chisel.weirdgloop.org/moid/item_id.html#22338 22338]
+|-
+|name || [[Null]] || [[Collector icon]]
+|-
+| xan2d || 153 || 553
+|-
+| yan2d || 110 || 0
+|-
+| inventoryModel || 35126 || 20578
+|-
+| zoom2d || 661 || 1114
+|-
+| xOffset2d || 0 || 34
+|-
+| yOffset2d || 0 || -28
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || [None, 'Equip', None, None, 'Drop']
+|-
+| maleModel0 || -1 || 247
+|-
+| maleModel1 || -1 || 19259
+|-
+| femaleModel0 || -1 || 20518
+|-
+| colorFind ||<span style = "background-color: #b70517;color:white">-1088</span>,<span style = "background-color: #890515;color:white">-1103</span>,<span style = "background-color: #750412;color:white">-1111</span>||<span style = "background-color: #05700a;color:white">22439</span>
+|-
+| colorReplace ||<span style = "background-color: #2a1d18;color:white">3350</span>,<span style = "background-color: #1c110c;color:white">3470</span>,<span style = "background-color: #000000;color:white">0</span>||<span style = "background-color: #b4b705;color:white">11200</span>
+|-
+|rowspan="14"|[[Collector icon]]
+|rowspan="14"|[https://chisel.weirdgloop.org/moid/item_id.html#22339 22339]
+|-
+|name || [[Null]] || [[Collector icon]]
+|-
+| xan2d || 153 || 553
+|-
+| yan2d || 110 || 0
+|-
+| inventoryModel || 35126 || 20578
+|-
+| zoom2d || 661 || 1114
+|-
+| xOffset2d || 0 || 34
+|-
+| yOffset2d || 0 || -28
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || [None, 'Equip', None, None, 'Drop']
+|-
+| maleModel0 || -1 || 249
+|-
+| maleModel1 || -1 || 19259
+|-
+| femaleModel0 || -1 || 20518
+|-
+| colorFind ||<span style = "background-color: #b70517;color:white">-1088</span>,<span style = "background-color: #890515;color:white">-1103</span>,<span style = "background-color: #750412;color:white">-1111</span>||<span style = "background-color: #05700a;color:white">22439</span>
+|-
+| colorReplace ||<span style = "background-color: #925306;color:white">6067</span>,<span style = "background-color: #7f3c05;color:white">5037</span>,<span style = "background-color: #68340c;color:white">4903</span>||<span style = "background-color: #b4b705;color:white">11200</span>
+|-
+|rowspan="14"|[[Defender icon]]
+|rowspan="14"|[https://chisel.weirdgloop.org/moid/item_id.html#22340 22340]
+|-
+|name || [[Null]] || [[Defender icon]]
+|-
+| xan2d || 153 || 526
+|-
+| yan2d || 110 || 1010
+|-
+| inventoryModel || 35126 || 20578
+|-
+| zoom2d || 661 || 1049
+|-
+| xOffset2d || 0 || 35
+|-
+| yOffset2d || 0 || -30
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || [None, 'Equip', None, None, 'Drop']
+|-
+| maleModel0 || -1 || 28327
+|-
+| maleModel1 || -1 || 19261
+|-
+| femaleModel0 || -1 || 20519
+|-
+| colorFind ||<span style = "background-color: #b70517;color:white">-1088</span>,<span style = "background-color: #890515;color:white">-1103</span>,<span style = "background-color: #750412;color:white">-1111</span>||<span style = "background-color: #05700a;color:white">22439</span>
+|-
+| colorReplace ||<span style = "background-color: #d07505;color:white">6088</span>,<span style = "background-color: #da9005;color:white">7116</span>,<span style = "background-color: #dab705;color:white">9164</span>||<span style = "background-color: #080692;color:white">-21581</span>
+|-
+|rowspan="14"|[[Defender icon]]
+|rowspan="14"|[https://chisel.weirdgloop.org/moid/item_id.html#22341 22341]
+|-
+|name || [[Null]] || [[Defender icon]]
+|-
+| xan2d || 153 || 526
+|-
+| yan2d || 110 || 1010
+|-
+| inventoryModel || 35126 || 20578
+|-
+| zoom2d || 661 || 1049
+|-
+| xOffset2d || 0 || 35
+|-
+| yOffset2d || 0 || -30
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || [None, 'Equip', None, None, 'Drop']
+|-
+| maleModel0 || -1 || 28330
+|-
+| maleModel1 || -1 || 19261
+|-
+| femaleModel0 || -1 || 20519
+|-
+| colorFind ||<span style = "background-color: #b70517;color:white">-1088</span>,<span style = "background-color: #890515;color:white">-1103</span>,<span style = "background-color: #750412;color:white">-1111</span>||<span style = "background-color: #05700a;color:white">22439</span>
+|-
+| colorReplace ||<span style = "background-color: #058453;color:white">28591</span>,<span style = "background-color: #057a35;color:white">26539</span>,<span style = "background-color: #057028;color:white">25511</span>||<span style = "background-color: #080692;color:white">-21581</span>
+|-
+|rowspan="12"|[[Defender icon]]
+|rowspan="12"|[https://chisel.weirdgloop.org/moid/item_id.html#22342 22342]
+|-
+|name || [[Null]] || [[Defender icon]]
+|-
+| xan2d || 48 || 526
+|-
+| yan2d || 1924 || 1010
+|-
+| inventoryModel || 35126 || 20578
+|-
+| zoom2d || 1045 || 1049
+|-
+| xOffset2d || 0 || 35
+|-
+| yOffset2d || 0 || -30
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || [None, 'Equip', None, None, 'Drop']
+|-
+| maleModel0 || -1 || 28329
+|-
+| maleModel1 || -1 || 19261
+|-
+| femaleModel0 || -1 || 20519
+|-
+|rowspan="12"|[[Defender icon]]
+|rowspan="12"|[https://chisel.weirdgloop.org/moid/item_id.html#22343 22343]
+|-
+|name || [[Null]] || [[Defender icon]]
+|-
+| xan2d || 195 || 526
+|-
+| yan2d || 1861 || 1010
+|-
+| inventoryModel || 35126 || 20578
+|-
+| zoom2d || 912 || 1049
+|-
+| xOffset2d || 0 || 35
+|-
+| yOffset2d || -9 || -30
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || [None, 'Equip', None, None, 'Drop']
+|-
+| maleModel0 || -1 || 253
+|-
+| maleModel1 || -1 || 19261
+|-
+| femaleModel0 || -1 || 20519
+|-
+|rowspan="12"|[[Defender icon]]
+|rowspan="12"|[https://chisel.weirdgloop.org/moid/item_id.html#22344 22344]
+|-
+|name || [[Null]] || [[Defender icon]]
+|-
+| xan2d || 147 || 526
+|-
+| yan2d || 1942 || 1010
+|-
+| inventoryModel || 35126 || 20578
+|-
+| zoom2d || 661 || 1049
+|-
+| xOffset2d || 0 || 35
+|-
+| yOffset2d || -3 || -30
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || [None, 'Equip', None, None, 'Drop']
+|-
+| maleModel0 || -1 || 247
+|-
+| maleModel1 || -1 || 19261
+|-
+| femaleModel0 || -1 || 20519
+|-
+|rowspan="15"|[[Defender icon]]
+|rowspan="15"|[https://chisel.weirdgloop.org/moid/item_id.html#22345 22345]
+|-
+|name || [[Null]] || [[Defender icon]]
+|-
+| xan2d || 191 || 526
+|-
+| yan2d || 190 || 1010
+|-
+| cost || 3 || 1
+|-
+| inventoryModel || 35126 || 20578
+|-
+| zoom2d || 1016 || 1049
+|-
+| xOffset2d || 5 || 35
+|-
+| yOffset2d || -14 || -30
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || [None, 'Equip', None, None, 'Drop']
+|-
+| maleModel0 || -1 || 250
+|-
+| maleModel1 || -1 || 19261
+|-
+| femaleModel0 || -1 || 20519
+|-
+| colorFind ||<span style = "background-color: #3e2903;color:white">7062</span>||<span style = "background-color: #05700a;color:white">22439</span>
+|-
+| colorReplace ||<span style = "background-color: #2a1c0d;color:white">5652</span>||<span style = "background-color: #080692;color:white">-21581</span>
+|-
+|rowspan="14"|[[Attacker icon]]
+|rowspan="14"|[https://chisel.weirdgloop.org/moid/item_id.html#22346 22346]
+|-
+|name || [[Null]] || [[Attacker icon]]
+|-
+| xan2d || 216 || 567
+|-
+| yan2d || 624 || 1024
+|-
+| inventoryModel || 35126 || 20578
+|-
+| zoom2d || 1616 || 919
+|-
+| xOffset2d || 0 || 35
+|-
+| yOffset2d || 0 || 30
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || [None, 'Equip', None, None, 'Drop']
+|-
+| maleModel0 || -1 || 28332
+|-
+| maleModel1 || -1 || 19260
+|-
+| femaleModel0 || -1 || 20517
+|-
+| colorFind ||<span style = "background-color: #472c0f;color:white">5790</span>||<span style = "background-color: #05700a;color:white">22439</span>
+|-
+| colorReplace ||<span style = "background-color: #775c17;color:white">7857</span>||<span style = "background-color: #921106;color:white">947</span>
+|-
+|rowspan="15"|[[Attacker icon]]
+|rowspan="15"|[https://chisel.weirdgloop.org/moid/item_id.html#22347 22347]
+|-
+|name || [[Null]] || [[Attacker icon]]
+|-
+| xan2d || 84 || 567
+|-
+| yan2d || 1996 || 1024
+|-
+| cost || 3 || 1
+|-
+| inventoryModel || 35126 || 20578
+|-
+| zoom2d || 550 || 919
+|-
+| xOffset2d || 0 || 35
+|-
+| yOffset2d || -1 || 30
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || [None, 'Equip', None, None, 'Drop']
+|-
+| maleModel0 || -1 || 28327
+|-
+| maleModel1 || -1 || 19260
+|-
+| femaleModel0 || -1 || 20517
+|-
+| colorFind ||<span style = "background-color: #615656;color:white">61</span>||<span style = "background-color: #05700a;color:white">22439</span>
+|-
+| colorReplace ||<span style = "background-color: #629697;color:white">-32556</span>||<span style = "background-color: #921106;color:white">947</span>
+|-
+|rowspan="12"|[[Attacker icon]]
+|rowspan="12"|[https://chisel.weirdgloop.org/moid/item_id.html#22348 22348]
+|-
+|name || [[Null]] || [[Attacker icon]]
+|-
+| xan2d || 296 || 567
+|-
+| yan2d || 1797 || 1024
+|-
+| inventoryModel || 35126 || 20578
+|-
+| zoom2d || 752 || 919
+|-
+| xOffset2d || 1 || 35
+|-
+| yOffset2d || -5 || 30
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || [None, 'Equip', None, None, 'Drop']
+|-
+| maleModel0 || -1 || 28330
+|-
+| maleModel1 || -1 || 19260
+|-
+| femaleModel0 || -1 || 20517
+|-
+|rowspan="12"|[[Attacker icon]]
+|rowspan="12"|[https://chisel.weirdgloop.org/moid/item_id.html#22349 22349]
+|-
+|name || [[Null]] || [[Attacker icon]]
+|-
+| xan2d || 144 || 567
+|-
+| yan2d || 68 || 1024
+|-
+| inventoryModel || 35126 || 20578
+|-
+| zoom2d || 630 || 919
+|-
+| xOffset2d || 1 || 35
+|-
+| yOffset2d || 0 || 30
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || [None, 'Equip', None, None, 'Drop']
+|-
+| maleModel0 || -1 || 28329
+|-
+| maleModel1 || -1 || 19260
+|-
+| femaleModel0 || -1 || 20517
+|-
+|rowspan="12"|[[Attacker icon]]
+|rowspan="12"|[https://chisel.weirdgloop.org/moid/item_id.html#22721 22721]
+|-
+|name || [[Null]] || [[Attacker icon]]
+|-
+| xan2d || 380 || 567
+|-
+| yan2d || 120 || 1024
+|-
+| inventoryModel || 2521 || 20578
+|-
+| zoom2d || 1040 || 919
+|-
+| xOffset2d || 1 || 35
+|-
+| yOffset2d || 7 || 30
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || [None, 'Equip', None, None, 'Drop']
+|-
+| maleModel0 || -1 || 253
+|-
+| maleModel1 || -1 || 19260
+|-
+| femaleModel0 || -1 || 20517
+|-
+|rowspan="14"|[[Attacker icon]]
+|rowspan="14"|[https://chisel.weirdgloop.org/moid/item_id.html#22722 22722]
+|-
+|name || [[Null]] || [[Attacker icon]]
+|-
+| xan2d || 0 || 567
+|-
+| yan2d || 0 || 1024
+|-
+| inventoryModel || 2521 || 20578
+|-
+| zoom2d || 2000 || 919
+|-
+| xOffset2d || 0 || 35
+|-
+| yOffset2d || 0 || 30
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || [None, 'Equip', None, None, 'Drop']
+|-
+| maleModel0 || -1 || 247
+|-
+| maleModel1 || -1 || 19260
+|-
+| femaleModel0 || -1 || 20517
+|-
+| colorFind ||<span style = "background-color: #311d06;color:white">5908</span>||<span style = "background-color: #05700a;color:white">22439</span>
+|-
+| colorReplace ||<span style = "background-color: #520a04;color:white">926</span>||<span style = "background-color: #921106;color:white">947</span>
+|-
+|rowspan="12"|[[Attacker icon]]
+|rowspan="12"|[https://chisel.weirdgloop.org/moid/item_id.html#22723 22723]
+|-
+|name || [[Null]] || [[Attacker icon]]
+|-
+| xan2d || 252 || 567
+|-
+| yan2d || 1940 || 1024
+|-
+| inventoryModel || 2521 || 20578
+|-
+| zoom2d || 1616 || 919
+|-
+| xOffset2d || 0 || 35
+|-
+| yOffset2d || 0 || 30
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || [None, 'Equip', None, None, 'Drop']
+|-
+| maleModel0 || -1 || 250
+|-
+| maleModel1 || -1 || 19260
+|-
+| femaleModel0 || -1 || 20517
+|-
+|rowspan="12"|[[Collector icon]]
+|rowspan="12"|[https://chisel.weirdgloop.org/moid/item_id.html#22724 22724]
+|-
+|name || [[Null]] || [[Collector icon]]
+|-
+| xan2d || 135 || 553
+|-
+| yan2d || 69 || 0
+|-
+| inventoryModel || 2521 || 20578
+|-
+| zoom2d || 528 || 1114
+|-
+| xOffset2d || 0 || 34
+|-
+| yOffset2d || 0 || -28
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || [None, 'Equip', None, None, 'Drop']
+|-
+| maleModel0 || -1 || 28327
+|-
+| maleModel1 || -1 || 19259
+|-
+| femaleModel0 || -1 || 20518
+|-
+|rowspan="14"|[[Defender icon]]
+|rowspan="14"|[https://chisel.weirdgloop.org/moid/item_id.html#22725 22725]
+|-
+|name || [[Null]] || [[Defender icon]]
+|-
+| xan2d || 237 || 526
+|-
+| yan2d || 164 || 1010
+|-
+| inventoryModel || 2521 || 20578
+|-
+| zoom2d || 720 || 1049
+|-
+| xOffset2d || -7 || 35
+|-
+| yOffset2d || 64 || -30
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || [None, 'Equip', None, None, 'Drop']
+|-
+| maleModel0 || -1 || 28332
+|-
+| maleModel1 || -1 || 19261
+|-
+| femaleModel0 || -1 || 20519
+|-
+| colorFind ||<span style = "background-color: #b6b48a;color:white">10475</span>,<span style = "background-color: #443f3f;color:white">45</span>,<span style = "background-color: #2a2727;color:white">28</span>,<span style = "background-color: #756565;color:white">74</span>||<span style = "background-color: #05700a;color:white">22439</span>
+|-
+| colorReplace ||<span style = "background-color: #c58206;color:white">7108</span>,<span style = "background-color: #925f06;color:white">7091</span>,<span style = "background-color: #664204;color:white">7077</span>,<span style = "background-color: #845505;color:white">7087</span>||<span style = "background-color: #080692;color:white">-21581</span>
+|-
+|rowspan="12"|[[Defender icon]]
+|rowspan="12"|[https://chisel.weirdgloop.org/moid/item_id.html#22726 22726]
+|-
+|name || [[Null]] || [[Defender icon]]
+|-
+| xan2d || 64 || 526
+|-
+| yan2d || 1824 || 1010
+|-
+| inventoryModel || 2521 || 20578
+|-
+| zoom2d || 1910 || 1049
+|-
+| xOffset2d || 0 || 35
+|-
+| yOffset2d || -11 || -30
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || [None, 'Equip', None, None, 'Drop']
+|-
+| maleModel0 || -1 || 28333
+|-
+| maleModel1 || -1 || 19261
+|-
+| femaleModel0 || -1 || 20519
+|-
+|rowspan="15"|[[Defender icon]]
+|rowspan="15"|[https://chisel.weirdgloop.org/moid/item_id.html#22727 22727]
+|-
+|name || [[Null]] || [[Defender icon]]
+|-
+| xan2d || 424 || 526
+|-
+| yan2d || 68 || 1010
+|-
+| cost || 0 || 1
+|-
+| inventoryModel || 2521 || 20578
+|-
+| zoom2d || 620 || 1049
+|-
+| xOffset2d || 1 || 35
+|-
+| yOffset2d || 16 || -30
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || [None, 'Equip', None, None, 'Drop']
+|-
+| maleModel0 || -1 || 28328
+|-
+| maleModel1 || -1 || 19261
+|-
+| femaleModel0 || -1 || 20519
+|-
+| colorFind ||<span style = "background-color: #b4b705;color:white">11200</span>,<span style = "background-color: #c6b7b7;color:white">127</span>||<span style = "background-color: #05700a;color:white">22439</span>
+|-
+| colorReplace ||<span style = "background-color: #a38e8e;color:white">103</span>,<span style = "background-color: #05a8b7;color:white">-31808</span>||<span style = "background-color: #080692;color:white">-21581</span>
+|-
+|rowspan="12"|[[Defender icon]]
+|rowspan="12"|[https://chisel.weirdgloop.org/moid/item_id.html#22728 22728]
+|-
+|name || [[Null]] || [[Defender icon]]
+|-
+| xan2d || 170 || 526
+|-
+| yan2d || 164 || 1010
+|-
+| inventoryModel || 2521 || 20578
+|-
+| zoom2d || 1040 || 1049
+|-
+| xOffset2d || -9 || 35
+|-
+| yOffset2d || -17 || -30
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || [None, 'Equip', None, None, 'Drop']
+|-
+| maleModel0 || -1 || 251
+|-
+| maleModel1 || -1 || 19261
+|-
+| femaleModel0 || -1 || 20519
+|-
+|rowspan="12"|[[Attacker icon]]
+|rowspan="12"|[https://chisel.weirdgloop.org/moid/item_id.html#22729 22729]
+|-
+|name || [[Null]] || [[Attacker icon]]
+|-
+| xan2d || 152 || 567
+|-
+| yan2d || 1208 || 1024
+|-
+| inventoryModel || 2521 || 20578
+|-
+| zoom2d || 490 || 919
+|-
+| xOffset2d || 0 || 35
+|-
+| yOffset2d || -2 || 30
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || [None, 'Equip', None, None, 'Drop']
+|-
+| maleModel0 || -1 || 28328
+|-
+| maleModel1 || -1 || 19260
+|-
+| femaleModel0 || -1 || 20517
+|-
+|rowspan="12"|[[Attacker icon]]
+|rowspan="12"|[https://chisel.weirdgloop.org/moid/item_id.html#22730 22730]
+|-
+|name || [[Null]] || [[Attacker icon]]
+|-
+| xan2d || 152 || 567
+|-
+| yan2d || 1208 || 1024
+|-
+| inventoryModel || 2521 || 20578
+|-
+| zoom2d || 490 || 919
+|-
+| xOffset2d || 0 || 35
+|-
+| yOffset2d || -2 || 30
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || [None, 'Equip', None, None, 'Drop']
+|-
+| maleModel0 || -1 || 28331
+|-
+| maleModel1 || -1 || 19260
+|-
+| femaleModel0 || -1 || 20517
+|-
+|}
+
+==Non-Player Characters==
+===New NPCs===
+{| class="wikitable sortable"
+!colspan='4'|New NPCs
+|-
+! style=width:15em | Name !! ID !! Combat Level !! Options
+|-
+|-
+|}
+===Removed NPCs===
+{| class="wikitable sortable"
+!colspan='2'|Removed NPCs
+|-
+! style=width:15em | Name !! ID
+|-
+|-
+|}
+===Diff NPCs===
+{| class="wikitable sortable"
+!colspan='5'|Diff NPCs
+|-
+! style=width:15em | Name !! ID !! Key !! Previous Value !! New Value
+|-
+|}
+
+==Objects==
+===New Objects=== 
+{| class="wikitable sortable"
+!colspan='3'|New Objects
+|-
+! style=width:15em | Name !! ID !! Options
+|-
+|-
+|}
+===Removed Objects===
+{| class="wikitable sortable"
+!colspan='2'|Removed Objects
+|-
+! style=width:15em | Name !! ID
+|-
+|-
+|}
+===Diff Objects===
+{| class="wikitable sortable"
+!colspan='5'|Diff Objects
+|-
+! style=width:15em | Name !! ID !! Key !! Previous Value !! New Value
+|-
+|rowspan="3"|[[Strange altar]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#4141 4141]
+|-
+|actions || [None, None, None, None, None] || ['Summon', None, None, None, None]
+|-
+| blocksProjectile || True || False
+|-
+|rowspan="2"|[[Ladder]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#7221 7221]
+|-
+|actions || ['Leave area', 'Climb-down', None, None, None] || ['Leave-area', 'Climb-down', None, None, None]
+|-
+|}

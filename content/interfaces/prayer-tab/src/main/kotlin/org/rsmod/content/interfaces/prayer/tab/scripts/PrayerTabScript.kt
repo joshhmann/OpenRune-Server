@@ -32,7 +32,10 @@ private constructor(
     private val protectedAccess: ProtectedAccessLauncher,
 ) : PluginScript() {
     override fun ScriptContext.startup() {
-        for ((component, prayer) in repo.prayerComponents.map { RSCM.getReverseMapping(RSCMType.COMPONENT,it.key.packed) to it.value }) {
+        for ((component, prayer) in
+            repo.prayerComponents.map {
+                RSCM.getReverseMapping(RSCMType.COMPONENT, it.key.packed) to it.value
+            }) {
             onIfOverlayButton(component) { player.selectPrayer(prayer) }
         }
         onPlayerQueueWithArgs("queue.prayer_toggle") { togglePrayer(it.args) }

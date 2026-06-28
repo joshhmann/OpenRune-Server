@@ -6,10 +6,10 @@ import dev.openrune.rscm.RSCMType
 import org.rsmod.api.bosses.spec.BossSpec
 import org.rsmod.api.bosses.validation.SpecValidator
 import org.rsmod.api.npc.access.StandardNpcAccess
+import org.rsmod.api.npc.events.NpcHitEvents
 import org.rsmod.api.script.onAiApPlayer2
 import org.rsmod.api.script.onAiOpPlayer2
 import org.rsmod.api.script.onModifyNpcHit
-import org.rsmod.api.npc.events.NpcHitEvents
 import org.rsmod.game.entity.Npc
 import org.rsmod.game.entity.Player
 import org.rsmod.plugin.scripts.ScriptContext
@@ -30,8 +30,8 @@ object BossCombat {
         }
 
         val npcId = spec.npcType.asRSCM(RSCMType.NPC)
-        val npcType = ServerCacheManager.getNpc(npcId)
-            ?: error("Boss NPC type not found: ${spec.npcType}")
+        val npcType =
+            ServerCacheManager.getNpc(npcId) ?: error("Boss NPC type not found: ${spec.npcType}")
 
         deps.encounterRegistry.register(npcId, spec)
 
@@ -43,7 +43,9 @@ object BossCombat {
                 hit.damage =
                     if (encounter.invulnerable) 0 else (hit.damage * encounter.damageScale).toInt()
                 onModifyHit?.invoke(this)
-                if (onLethal != null && !encounter.lethalHandled && npc.hitpoints - hit.damage <= 0) {
+                if (
+                    onLethal != null && !encounter.lethalHandled && npc.hitpoints - hit.damage <= 0
+                ) {
                     encounter.lethalHandled = true
                     onLethal(npc)
                 }
@@ -78,8 +80,8 @@ object BossCombat {
         for ((name, phase) in spec.phases) {
             if (name == encounter.currentPhaseName) continue
             val entryHp = phase.entryHp ?: continue
-            val hpFraction = encounter.npc.hitpoints.toDouble() /
-                encounter.npc.baseHitpointsLvl.coerceAtLeast(1)
+            val hpFraction =
+                encounter.npc.hitpoints.toDouble() / encounter.npc.baseHitpointsLvl.coerceAtLeast(1)
             if (hpFraction <= entryHp) {
                 encounter.transitionTo(name, tick)
                 return

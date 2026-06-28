@@ -1,0 +1,1726 @@
+{| class="wikitable sortable"
+!colspan="5"|Items
+|-
+! Name !! ID !! Key !! Previous Value !! Changed into
+|-
+| [[Barronite mace (broken)]] || 25625 || colspan = "4" | New ID
+|-
+| [[null]] || 25626 || colspan = "4" | New ID
+|-
+| [[Coal bag]] || 25627 || colspan = "4" | New ID
+|-
+| [[Gem bag]] || 25628 || colspan = "4" | New ID
+|-
+| [[Plank sack]] || 25629 || colspan = "4" | New ID
+|-
+| [[Flamtaer bag]] || 25630 || colspan = "4" | New ID
+|-
+| [[Steak sandwich]] || 25631 || colspan = "4" | New ID
+|-
+| [[null]] || 25632 || colspan = "4" | New ID
+|-
+| [[Imcando hammer (broken)]] || 25633 || colspan = "4" | New ID
+|-
+| [[null]] || 25634 || colspan = "4" | New ID
+|-
+| [[Barronite head]] || 25635 || colspan = "4" | New ID
+|-
+| [[null]] || 25636 || colspan = "4" | New ID
+|-
+| [[Barronite handle]] || 25637 || colspan = "4" | New ID
+|-
+| [[null]] || 25638 || colspan = "4" | New ID
+|-
+| [[Barronite guard]] || 25639 || colspan = "4" | New ID
+|-
+| [[null]] || 25640 || colspan = "4" | New ID
+|-
+| [[Barronite mace]] || 25641 || colspan = "4" | New ID
+|-
+| [[null]] || 25642 || colspan = "4" | New ID
+|-
+| [[Barronite mace (l)]] || 25643 || colspan = "4" | New ID
+|-
+| [[Imcando hammer]] || 25644 || colspan = "4" | New ID
+|-
+| [[null]] || 25645 || colspan = "4" | New ID
+|-
+| [[Simple lockbox]] || 25646 || colspan = "4" | New ID
+|-
+| [[Simple lockbox]] || 25647 || colspan = "4" | New ID
+|-
+| [[Elaborate lockbox]] || 25648 || colspan = "4" | New ID
+|-
+| [[Elaborate lockbox]] || 25649 || colspan = "4" | New ID
+|-
+| [[Ornate lockbox]] || 25650 || colspan = "4" | New ID
+|-
+| [[Ornate lockbox]] || 25651 || colspan = "4" | New ID
+|-
+| [[Raw guppy]] || 25652 || colspan = "4" | New ID
+|-
+| [[null]] || 25653 || colspan = "4" | New ID
+|-
+| [[Guppy]] || 25654 || colspan = "4" | New ID
+|-
+| [[null]] || 25655 || colspan = "4" | New ID
+|-
+| [[Ruined guppy]] || 25656 || colspan = "4" | New ID
+|-
+| [[null]] || 25657 || colspan = "4" | New ID
+|-
+| [[Raw cavefish]] || 25658 || colspan = "4" | New ID
+|-
+| [[null]] || 25659 || colspan = "4" | New ID
+|-
+| [[Cavefish]] || 25660 || colspan = "4" | New ID
+|-
+| [[null]] || 25661 || colspan = "4" | New ID
+|-
+| [[Ruined cavefish]] || 25662 || colspan = "4" | New ID
+|-
+| [[null]] || 25663 || colspan = "4" | New ID
+|-
+| [[Raw tetra]] || 25664 || colspan = "4" | New ID
+|-
+| [[null]] || 25665 || colspan = "4" | New ID
+|-
+| [[Tetra]] || 25666 || colspan = "4" | New ID
+|-
+| [[null]] || 25667 || colspan = "4" | New ID
+|-
+| [[Ruined tetra]] || 25668 || colspan = "4" | New ID
+|-
+| [[null]] || 25669 || colspan = "4" | New ID
+|-
+| [[Raw catfish]] || 25670 || colspan = "4" | New ID
+|-
+| [[null]] || 25671 || colspan = "4" | New ID
+|-
+| [[Catfish]] || 25672 || colspan = "4" | New ID
+|-
+| [[null]] || 25673 || colspan = "4" | New ID
+|-
+| [[Ruined catfish]] || 25674 || colspan = "4" | New ID
+|-
+| [[null]] || 25675 || colspan = "4" | New ID
+|-
+| [[Barronite shards]] || 25676 || colspan = "4" | New ID
+|-
+| [[null]] || 25677 || colspan = "4" | New ID
+|-
+| [[null]] || 25678 || colspan = "4" | New ID
+|-
+| [[null]] || 25679 || colspan = "4" | New ID
+|-
+| [[null]] || 25680 || colspan = "4" | New ID
+|-
+| [[null]] || 25681 || colspan = "4" | New ID
+|-
+| [[null]] || 25682 || colspan = "4" | New ID
+|-
+| [[null]] || 25683 || colspan = "4" | New ID
+|-
+| [[Barronite deposit]] || 25684 || colspan = "4" | New ID
+|-
+| [[null]] || 25685 || colspan = "4" | New ID
+|-
+| [[Ancient globe]] || 25686 || colspan = "4" | New ID
+|-
+| [[null]] || 25687 || colspan = "4" | New ID
+|-
+| [[Ancient ledger]] || 25688 || colspan = "4" | New ID
+|-
+| [[null]] || 25689 || colspan = "4" | New ID
+|-
+| [[Ancient astroscope]] || 25690 || colspan = "4" | New ID
+|-
+| [[null]] || 25691 || colspan = "4" | New ID
+|-
+| [[Ancient treatise]] || 25692 || colspan = "4" | New ID
+|-
+| [[null]] || 25693 || colspan = "4" | New ID
+|-
+| [[Ancient carcanet]] || 25694 || colspan = "4" | New ID
+|-
+| [[null]] || 25695 || colspan = "4" | New ID
+|-
+| [[Mind core]] || 25696 || colspan = "4" | New ID
+|-
+| [[null]] || 25697 || colspan = "4" | New ID
+|-
+| [[Body core]] || 25698 || colspan = "4" | New ID
+|-
+| [[null]] || 25699 || colspan = "4" | New ID
+|-
+| [[Chaos core]] || 25700 || colspan = "4" | New ID
+|-
+| [[null]] || 25701 || colspan = "4" | New ID
+|-
+|rowspan="2"|[[Gregg's iou]]
+|rowspan="2"|25608
+|-
+|interfaceOptions || ['Read', None, None, None, 'Destroy'] || [None, None, None, None, 'Drop']
+|-
+|}
+
+{| class="wikitable sortable"
+!colspan="5"|Non-Player Characters
+|-
+! Name !! ID !! Key !! Previous Value !! Changed into
+|-
+| [[Spider]] || 10652 || colspan = "4" | New ID
+|-
+| [[Fishing spot]] || 10653 || colspan = "4" | New ID
+|-
+| [[Ancient Guardian]] || 10654 || colspan = "4" | New ID
+|-
+| [[Willow]] || 10655 || colspan = "4" | New ID
+|-
+| [[Marley]] || 10656 || colspan = "4" | New ID
+|-
+| [[Checkal]] || 10657 || colspan = "4" | New ID
+|-
+| [[Atlas]] || 10658 || colspan = "4" | New ID
+|-
+| [[Burntof]] || 10659 || colspan = "4" | New ID
+|-
+| [[Burntof]] || 10660 || colspan = "4" | New ID
+|-
+| [[Willow]] || 10661 || colspan = "4" | New ID
+|-
+| [[Marley]] || 10662 || colspan = "4" | New ID
+|-
+| [[Checkal]] || 10663 || colspan = "4" | New ID
+|-
+| [[Burntof]] || 10664 || colspan = "4" | New ID
+|-
+| [[Ancient Guardian]] || 10665 || colspan = "4" | New ID
+|-
+| [[<col=00ffff>Rubble</col>]] || 10666 || colspan = "4" | New ID
+|-
+| [[<col=00ffff>Fuse</col>]] || 10667 || colspan = "4" | New ID
+|-
+| [[Tina]] || 10668 || colspan = "4" | New ID
+|-
+| [[Atlas]] || 10669 || colspan = "4" | New ID
+|-
+| [[Ramarno]] || 10670 || colspan = "4" | New ID
+|-
+| [[Tramp]] || 10671 || colspan = "4" | New ID
+|-
+| [[Man]] || 10672 || colspan = "4" | New ID
+|-
+| [[Man]] || 10673 || colspan = "4" | New ID
+|-
+| [[Woman]] || 10674 || colspan = "4" | New ID
+|-
+| [[Stray dog]] || 10675 || colspan = "4" | New ID
+|-
+| [[Barbarian]] || 10676 || colspan = "4" | New ID
+|-
+| [[Barbarian]] || 10677 || colspan = "4" | New ID
+|-
+| [[Barbarian]] || 10678 || colspan = "4" | New ID
+|-
+| [[Barbarian]] || 10679 || colspan = "4" | New ID
+|-
+| [[Guard]] || 10680 || colspan = "4" | New ID
+|-
+| [[Aubury]] || 10681 || colspan = "4" | New ID
+|-
+| [[Rat]] || 10682 || colspan = "4" | New ID
+|-
+| [[Baraek]] || 10683 || colspan = "4" | New ID
+|-
+| [[Ramarno]] || 10684 || colspan = "4" | New ID
+|-
+| [[Ramarno]] || 10685 || colspan = "4" | New ID
+|-
+| [[Fishing spot]] || 10686 || colspan = "4" | New ID
+|-
+| [[Fishing spot]] || 10687 || colspan = "4" | New ID
+|-
+| [[Fishing spot]] || 10688 || colspan = "4" | New ID
+|-
+| [[Chaos Golem]] || 10689 || colspan = "4" | New ID
+|-
+| [[<col=00ffff>Rubble</col>]] || 10690 || colspan = "4" | New ID
+|-
+| [[Body Golem]] || 10691 || colspan = "4" | New ID
+|-
+| [[<col=00ffff>Rubble</col>]] || 10692 || colspan = "4" | New ID
+|-
+| [[Mind Golem]] || 10693 || colspan = "4" | New ID
+|-
+| [[<col=00ffff>Rubble</col>]] || 10694 || colspan = "4" | New ID
+|-
+| [[Flawed Golem]] || 10695 || colspan = "4" | New ID
+|-
+| [[<col=00ffff>Rubble</col>]] || 10696 || colspan = "4" | New ID
+|-
+| [[Ghost]] || 10697 || colspan = "4" | New ID
+|-
+| [[Ghost]] || 10698 || colspan = "4" | New ID
+|-
+| [[Ghost]] || 10699 || colspan = "4" | New ID
+|-
+| [[Frog]] || 10700 || colspan = "4" | New ID
+|-
+| [[null]] || 10701 || colspan = "4" | New ID
+|-
+| [[null]] || 10702 || colspan = "4" | New ID
+|-
+| [[null]] || 10703 || colspan = "4" | New ID
+|-
+| [[null]] || 10704 || colspan = "4" | New ID
+|-
+| [[null]] || 10705 || colspan = "4" | New ID
+|-
+| [[null]] || 10706 || colspan = "4" | New ID
+|-
+|rowspan="12"|[[null]]
+|rowspan="12"|10638
+|-
+|name || [[Gregg]] || [[null]]
+|-
+| standingAnimation || 8910 || 808
+|-
+| walkingAnimation || 8909 || 819
+|-
+| rotate180Animation || -1 || 820
+|-
+| rotate90RightAnimation || -1 || 821
+|-
+| rotate90LeftAnimation || -1 || 822
+|-
+| actions || ['Talk-to', None, None, None, None] || [None, None, None, None, None]
+|-
+| combatLevel || 0 || 1
+|-
+| ambient || 20 || 0
+|-
+| contrast || 10 || 0
+|-
+| varbitId || -1 || 12063
+|-
+|rowspan="12"|[[null]]
+|rowspan="12"|10639
+|-
+|name || [[Gregg]] || [[null]]
+|-
+| standingAnimation || 8910 || 808
+|-
+| walkingAnimation || 8909 || 819
+|-
+| rotate180Animation || -1 || 820
+|-
+| rotate90RightAnimation || -1 || 821
+|-
+| rotate90LeftAnimation || -1 || 822
+|-
+| actions || ['Talk-to', None, None, None, None] || [None, None, None, None, None]
+|-
+| combatLevel || 0 || 1
+|-
+| ambient || 20 || 0
+|-
+| contrast || 10 || 0
+|-
+| varbitId || -1 || 12063
+|-
+|rowspan="12"|[[null]]
+|rowspan="12"|10640
+|-
+|name || [[Gregg]] || [[null]]
+|-
+| standingAnimation || 8910 || 808
+|-
+| walkingAnimation || 8909 || 819
+|-
+| rotate180Animation || -1 || 820
+|-
+| rotate90RightAnimation || -1 || 821
+|-
+| rotate90LeftAnimation || -1 || 822
+|-
+| actions || ['Talk-to', None, None, None, None] || [None, None, None, None, None]
+|-
+| combatLevel || 0 || 1
+|-
+| ambient || 20 || 0
+|-
+| contrast || 10 || 0
+|-
+| varbitId || -1 || 12063
+|-
+|rowspan="11"|[[null]]
+|rowspan="11"|10641
+|-
+|name || [[Gregg]] || [[null]]
+|-
+| standingAnimation || 8910 || 808
+|-
+| walkingAnimation || 8909 || 819
+|-
+| rotate180Animation || -1 || 820
+|-
+| rotate90RightAnimation || -1 || 821
+|-
+| rotate90LeftAnimation || -1 || 822
+|-
+| actions || ['Talk-to', None, None, None, None] || [None, None, None, None, None]
+|-
+| ambient || 20 || 0
+|-
+| contrast || 10 || 0
+|-
+| varbitId || -1 || 12063
+|-
+|rowspan="11"|[[null]]
+|rowspan="11"|10642
+|-
+|name || [[Gregg]] || [[null]]
+|-
+| standingAnimation || 8910 || 808
+|-
+| walkingAnimation || 8909 || 819
+|-
+| rotate180Animation || -1 || 820
+|-
+| rotate90RightAnimation || -1 || 821
+|-
+| rotate90LeftAnimation || -1 || 822
+|-
+| actions || ['Talk-to', None, None, None, None] || [None, None, None, None, None]
+|-
+| ambient || 20 || 0
+|-
+| contrast || 10 || 0
+|-
+| varbitId || -1 || 12064
+|-
+|rowspan="10"|[[null]]
+|rowspan="10"|10643
+|-
+|name || [[Gregg]] || [[null]]
+|-
+| standingAnimation || 8910 || 808
+|-
+| walkingAnimation || 8909 || 819
+|-
+| rotate180Animation || -1 || 820
+|-
+| rotate90RightAnimation || -1 || 821
+|-
+| rotate90LeftAnimation || -1 || 822
+|-
+| ambient || 20 || 0
+|-
+| contrast || 10 || 0
+|-
+| varbitId || -1 || 12064
+|-
+|rowspan="12"|[[null]]
+|rowspan="12"|10644
+|-
+|name || [[Cat]] || [[null]]
+|-
+| standingAnimation || 317 || 808
+|-
+| walkingAnimation || 314 || 819
+|-
+| rotate180Animation || -1 || 820
+|-
+| rotate90RightAnimation || -1 || 821
+|-
+| rotate90LeftAnimation || -1 || 822
+|-
+| isMinimapVisible || False || True
+|-
+| widthScale || 60 || 128
+|-
+| heightScale || 60 || 128
+|-
+| hasRenderPriority || False || True
+|-
+| varbitId || -1 || 12063
+|-
+|rowspan="4"|[[null]]
+|rowspan="4"|10645
+|-
+|name || [[Aggie]] || [[null]]
+|-
+| hasRenderPriority || False || True
+|-
+| varbitId || -1 || 12065
+|-
+|rowspan="8"|[[null]]
+|rowspan="8"|10646
+|-
+|standingAnimation || 8910 || 808
+|-
+| walkingAnimation || 8909 || 819
+|-
+| rotate180Animation || -1 || 820
+|-
+| rotate90RightAnimation || -1 || 821
+|-
+| rotate90LeftAnimation || -1 || 822
+|-
+| varbitId || 11951 || 12065
+|-
+| configs || [-1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 10639, 10639, 10639, 10639, 10639, 10639, 10639, 10639, 10639, 10639, 10639, 10639, 10639, 10639, 10639, 10639, 10639, 10639, -1] || [-1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 10657, 10657, 10657, 10657, 10657, -1]
+|-
+|rowspan="8"|[[null]]
+|rowspan="8"|10647
+|-
+|standingAnimation || 8910 || 808
+|-
+| walkingAnimation || 8909 || 819
+|-
+| rotate180Animation || -1 || 820
+|-
+| rotate90RightAnimation || -1 || 821
+|-
+| rotate90LeftAnimation || -1 || 822
+|-
+| varbitId || 11951 || 12063
+|-
+| configs || [-1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 10640, 10640, 10640, 10640, 10640, 10640, 10640, 10640, 10640, 10640, 10640, 10640, 10640, 10640, 10640, 10640, 10640, 10640, 10640, 10640, 10640, 10640, 10640, 10640, 10640, 10640, 10640, 10640, 10640, 10640, -1] || [-1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 10657, -1]
+|-
+|rowspan="5"|[[null]]
+|rowspan="5"|10648
+|-
+|standingAnimation || 8910 || 900
+|-
+| walkingAnimation || 8909 || 104
+|-
+| varbitId || 11951 || 12066
+|-
+| configs || [-1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 10641, 10641, 10641, 10641, 10641, 10641, 10641, 10641, 10641, 10641, 10641, 10641, 10641, 10641, 10641, 10641, 10641, 10641, 10641, 10641, 10641, 10641, 10641, 10641, -1] || [10659, 10659, 10659, 10659, 10659, 10659, 10659, 10659, 10659, 10659, 10659, 10659, 10659, 10659, 10659, 10659, 10659, 10659, 10659, 10659, 10659, 10659, 10659, 10659, 10659, 10659, 10659, 10659, 10659, 10659, 10659, 10659, 10659, 10659, 10659, 10659, 10659, 10659, 10659, 10659, -1]
+|-
+|rowspan="5"|[[null]]
+|rowspan="5"|10649
+|-
+|standingAnimation || 8910 || 900
+|-
+| walkingAnimation || 8909 || 104
+|-
+| varbitId || 11951 || 12066
+|-
+| configs || [-1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 10642, 10642, 10642, 10642, 10642, 10642, 10642, 10642, 10642, 10642, 10642, 10642, 10642, 10642, 10642, 10642, 10642, 10642, 10642, 10642, 10642, 10642, 10642, 10642, 10642, 10642, -1] || [-1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 10660, 10660, 10660, 10660, 10660, -1]
+|-
+|}
+
+{| class="wikitable sortable"
+!colspan="5"|Objects
+|-
+! Name !! ID !! Key !! Previous Value !! Changed into
+|-
+| [[Ruins Entrance]] || 41439 || colspan = "4" | New ID
+|-
+| [[Ruins Entrance]] || 41440 || colspan = "4" | New ID
+|-
+| [[Blocked entry]] || 41441 || colspan = "4" | New ID
+|-
+| [[Tripwire]] || 41442 || colspan = "4" | New ID
+|-
+| [[Rock pile]] || 41443 || colspan = "4" | New ID
+|-
+| [[Rock pile]] || 41444 || colspan = "4" | New ID
+|-
+| [[Rock debris]] || 41445 || colspan = "4" | New ID
+|-
+| [[Ruins Exit]] || 41446 || colspan = "4" | New ID
+|-
+| [[Ruins Exit]] || 41447 || colspan = "4" | New ID
+|-
+| [[Willow's bag]] || 41448 || colspan = "4" | New ID
+|-
+| [[Willow's bag]] || 41449 || colspan = "4" | New ID
+|-
+| [[Crate]] || 41450 || colspan = "4" | New ID
+|-
+| [[Rubble]] || 41451 || colspan = "4" | New ID
+|-
+| [[Crate]] || 41452 || colspan = "4" | New ID
+|-
+| [[Rubble]] || 41453 || colspan = "4" | New ID
+|-
+| [[Rubble]] || 41454 || colspan = "4" | New ID
+|-
+| [[Barrel]] || 41455 || colspan = "4" | New ID
+|-
+| [[Bush]] || 41456 || colspan = "4" | New ID
+|-
+| [[Cart]] || 41457 || colspan = "4" | New ID
+|-
+| [[Structural pillar]] || 41458 || colspan = "4" | New ID
+|-
+| [[Broken pillar]] || 41459 || colspan = "4" | New ID
+|-
+| [[Structural pillar]] || 41460 || colspan = "4" | New ID
+|-
+| [[null]] || 41461 || colspan = "4" | New ID
+|-
+| [[null]] || 41462 || colspan = "4" | New ID
+|-
+| [[null]] || 41463 || colspan = "4" | New ID
+|-
+| [[null]] || 41464 || colspan = "4" | New ID
+|-
+| [[null]] || 41465 || colspan = "4" | New ID
+|-
+| [[null]] || 41466 || colspan = "4" | New ID
+|-
+| [[null]] || 41467 || colspan = "4" | New ID
+|-
+| [[null]] || 41468 || colspan = "4" | New ID
+|-
+| [[null]] || 41469 || colspan = "4" | New ID
+|-
+| [[null]] || 41470 || colspan = "4" | New ID
+|-
+| [[null]] || 41471 || colspan = "4" | New ID
+|-
+| [[null]] || 41472 || colspan = "4" | New ID
+|-
+| [[null]] || 41473 || colspan = "4" | New ID
+|-
+| [[null]] || 41474 || colspan = "4" | New ID
+|-
+| [[null]] || 41475 || colspan = "4" | New ID
+|-
+| [[null]] || 41476 || colspan = "4" | New ID
+|-
+| [[null]] || 41477 || colspan = "4" | New ID
+|-
+| [[null]] || 41478 || colspan = "4" | New ID
+|-
+| [[null]] || 41479 || colspan = "4" | New ID
+|-
+| [[null]] || 41480 || colspan = "4" | New ID
+|-
+| [[Sacred Forge]] || 41481 || colspan = "4" | New ID
+|-
+| [[Big Door]] || 41482 || colspan = "4" | New ID
+|-
+| [[Big Door]] || 41483 || colspan = "4" | New ID
+|-
+| [[Big Door]] || 41484 || colspan = "4" | New ID
+|-
+| [[null]] || 41485 || colspan = "4" | New ID
+|-
+| [[null]] || 41486 || colspan = "4" | New ID
+|-
+| [[null]] || 41487 || colspan = "4" | New ID
+|-
+| [[null]] || 41488 || colspan = "4" | New ID
+|-
+| [[null]] || 41489 || colspan = "4" | New ID
+|-
+| [[null]] || 41490 || colspan = "4" | New ID
+|-
+| [[null]] || 41491 || colspan = "4" | New ID
+|-
+| [[null]] || 41492 || colspan = "4" | New ID
+|-
+| [[Bank chest]] || 41493 || colspan = "4" | New ID
+|-
+| [[Table]] || 41494 || colspan = "4" | New ID
+|-
+| [[Workbench]] || 41495 || colspan = "4" | New ID
+|-
+| [[null]] || 41496 || colspan = "4" | New ID
+|-
+| [[null]] || 41497 || colspan = "4" | New ID
+|-
+| [[null]] || 41498 || colspan = "4" | New ID
+|-
+| [[null]] || 41499 || colspan = "4" | New ID
+|-
+| [[null]] || 41500 || colspan = "4" | New ID
+|-
+| [[null]] || 41501 || colspan = "4" | New ID
+|-
+| [[null]] || 41502 || colspan = "4" | New ID
+|-
+| [[null]] || 41503 || colspan = "4" | New ID
+|-
+| [[null]] || 41504 || colspan = "4" | New ID
+|-
+| [[null]] || 41505 || colspan = "4" | New ID
+|-
+| [[null]] || 41506 || colspan = "4" | New ID
+|-
+| [[null]] || 41507 || colspan = "4" | New ID
+|-
+| [[null]] || 41508 || colspan = "4" | New ID
+|-
+| [[null]] || 41509 || colspan = "4" | New ID
+|-
+| [[null]] || 41510 || colspan = "4" | New ID
+|-
+| [[Mine cart]] || 41511 || colspan = "4" | New ID
+|-
+| [[Mine cart]] || 41512 || colspan = "4" | New ID
+|-
+| [[null]] || 41513 || colspan = "4" | New ID
+|-
+| [[null]] || 41514 || colspan = "4" | New ID
+|-
+| [[null]] || 41515 || colspan = "4" | New ID
+|-
+| [[null]] || 41516 || colspan = "4" | New ID
+|-
+| [[null]] || 41517 || colspan = "4" | New ID
+|-
+| [[null]] || 41518 || colspan = "4" | New ID
+|-
+| [[null]] || 41519 || colspan = "4" | New ID
+|-
+| [[null]] || 41520 || colspan = "4" | New ID
+|-
+| [[null]] || 41521 || colspan = "4" | New ID
+|-
+| [[null]] || 41522 || colspan = "4" | New ID
+|-
+| [[null]] || 41523 || colspan = "4" | New ID
+|-
+| [[null]] || 41524 || colspan = "4" | New ID
+|-
+| [[null]] || 41525 || colspan = "4" | New ID
+|-
+| [[null]] || 41526 || colspan = "4" | New ID
+|-
+| [[null]] || 41527 || colspan = "4" | New ID
+|-
+| [[null]] || 41528 || colspan = "4" | New ID
+|-
+| [[null]] || 41529 || colspan = "4" | New ID
+|-
+| [[null]] || 41530 || colspan = "4" | New ID
+|-
+| [[null]] || 41531 || colspan = "4" | New ID
+|-
+| [[null]] || 41532 || colspan = "4" | New ID
+|-
+| [[null]] || 41533 || colspan = "4" | New ID
+|-
+| [[null]] || 41534 || colspan = "4" | New ID
+|-
+| [[null]] || 41535 || colspan = "4" | New ID
+|-
+| [[null]] || 41536 || colspan = "4" | New ID
+|-
+| [[Vault Door]] || 41537 || colspan = "4" | New ID
+|-
+| [[Trap]] || 41538 || colspan = "4" | New ID
+|-
+| [[Security Barrier]] || 41539 || colspan = "4" | New ID
+|-
+| [[Security Barrier]] || 41540 || colspan = "4" | New ID
+|-
+| [[Simple lockbox]] || 41541 || colspan = "4" | New ID
+|-
+| [[Elaborate lockbox]] || 41542 || colspan = "4" | New ID
+|-
+| [[Ornate lockbox]] || 41543 || colspan = "4" | New ID
+|-
+| [[Empty pedestal]] || 41544 || colspan = "4" | New ID
+|-
+| [[Preparation Table]] || 41545 || colspan = "4" | New ID
+|-
+| [[Altar]] || 41546 || colspan = "4" | New ID
+|-
+| [[Rocks]] || 41547 || colspan = "4" | New ID
+|-
+| [[Rocks]] || 41548 || colspan = "4" | New ID
+|-
+| [[Rocks]] || 41549 || colspan = "4" | New ID
+|-
+| [[Rocks]] || 41550 || colspan = "4" | New ID
+|-
+| [[Barronite Crusher]] || 41551 || colspan = "4" | New ID
+|-
+| [[null]] || 41552 || colspan = "4" | New ID
+|-
+| [[null]] || 41553 || colspan = "4" | New ID
+|-
+| [[null]] || 41554 || colspan = "4" | New ID
+|-
+| [[null]] || 41555 || colspan = "4" | New ID
+|-
+| [[null]] || 41556 || colspan = "4" | New ID
+|-
+| [[null]] || 41557 || colspan = "4" | New ID
+|-
+| [[Cave]] || 41558 || colspan = "4" | New ID
+|-
+| [[null]] || 41559 || colspan = "4" | New ID
+|-
+| [[null]] || 41560 || colspan = "4" | New ID
+|-
+| [[null]] || 41561 || colspan = "4" | New ID
+|-
+| [[Rock]] || 41562 || colspan = "4" | New ID
+|-
+| [[Small rock]] || 41563 || colspan = "4" | New ID
+|-
+| [[Rock]] || 41564 || colspan = "4" | New ID
+|-
+| [[null]] || 41565 || colspan = "4" | New ID
+|-
+| [[null]] || 41566 || colspan = "4" | New ID
+|-
+| [[null]] || 41567 || colspan = "4" | New ID
+|-
+| [[null]] || 41568 || colspan = "4" | New ID
+|-
+| [[null]] || 41569 || colspan = "4" | New ID
+|-
+| [[null]] || 41570 || colspan = "4" | New ID
+|-
+| [[Charm of Fishing]] || 41571 || colspan = "4" | New ID
+|-
+| [[Charm of Preperation]] || 41572 || colspan = "4" | New ID
+|-
+| [[Charm of Defence]] || 41573 || colspan = "4" | New ID
+|-
+| [[Charm of Mining]] || 41574 || colspan = "4" | New ID
+|-
+| [[Charm of Boost]] || 41575 || colspan = "4" | New ID
+|-
+| [[Charm of Luck]] || 41576 || colspan = "4" | New ID
+|-
+| [[null]] || 41577 || colspan = "4" | New ID
+|-
+| [[null]] || 41578 || colspan = "4" | New ID
+|-
+| [[null]] || 41579 || colspan = "4" | New ID
+|-
+| [[null]] || 41580 || colspan = "4" | New ID
+|-
+| [[Fern]] || 41581 || colspan = "4" | New ID
+|-
+| [[Fern]] || 41582 || colspan = "4" | New ID
+|-
+| [[Fern]] || 41583 || colspan = "4" | New ID
+|-
+| [[Fern]] || 41584 || colspan = "4" | New ID
+|-
+| [[null]] || 41585 || colspan = "4" | New ID
+|-
+| [[null]] || 41586 || colspan = "4" | New ID
+|-
+| [[null]] || 41587 || colspan = "4" | New ID
+|-
+| [[Water]] || 41588 || colspan = "4" | New ID
+|-
+| [[Golem rubble]] || 41589 || colspan = "4" | New ID
+|-
+| [[Golem rubble]] || 41590 || colspan = "4" | New ID
+|-
+| [[null]] || 41591 || colspan = "4" | New ID
+|-
+| [[null]] || 41592 || colspan = "4" | New ID
+|-
+| [[Barrel]] || 41593 || colspan = "4" | New ID
+|-
+| [[null]] || 41594 || colspan = "4" | New ID
+|-
+| [[null]] || 41595 || colspan = "4" | New ID
+|-
+| [[null]] || 41596 || colspan = "4" | New ID
+|-
+| [[null]] || 41597 || colspan = "4" | New ID
+|-
+| [[null]] || 41598 || colspan = "4" | New ID
+|-
+| [[null]] || 41599 || colspan = "4" | New ID
+|-
+| [[null]] || 41398 || colspan = "4" | DELETED
+|-
+| [[null]] || 41399 || colspan = "4" | DELETED
+|-
+| [[null]] || 41400 || colspan = "4" | DELETED
+|-
+| [[null]] || 41401 || colspan = "4" | DELETED
+|-
+| [[null]] || 41402 || colspan = "4" | DELETED
+|-
+| [[null]] || 41403 || colspan = "4" | DELETED
+|-
+| [[null]] || 41404 || colspan = "4" | DELETED
+|-
+| [[null]] || 41405 || colspan = "4" | DELETED
+|-
+| [[null]] || 41406 || colspan = "4" | DELETED
+|-
+| [[null]] || 41407 || colspan = "4" | DELETED
+|-
+| [[null]] || 41408 || colspan = "4" | DELETED
+|-
+| [[null]] || 41409 || colspan = "4" | DELETED
+|-
+| [[null]] || 41410 || colspan = "4" | DELETED
+|-
+| [[null]] || 41411 || colspan = "4" | DELETED
+|-
+| [[null]] || 41412 || colspan = "4" | DELETED
+|-
+| [[null]] || 41413 || colspan = "4" | DELETED
+|-
+| [[null]] || 41414 || colspan = "4" | DELETED
+|-
+| [[null]] || 41415 || colspan = "4" | DELETED
+|-
+| [[null]] || 41416 || colspan = "4" | DELETED
+|-
+| [[null]] || 41417 || colspan = "4" | DELETED
+|-
+| [[null]] || 41418 || colspan = "4" | DELETED
+|-
+| [[null]] || 41419 || colspan = "4" | DELETED
+|-
+| [[null]] || 41420 || colspan = "4" | DELETED
+|-
+| [[null]] || 41421 || colspan = "4" | DELETED
+|-
+| [[null]] || 41422 || colspan = "4" | DELETED
+|-
+| [[null]] || 41423 || colspan = "4" | DELETED
+|-
+| [[null]] || 41424 || colspan = "4" | DELETED
+|-
+| [[null]] || 41425 || colspan = "4" | DELETED
+|-
+| [[null]] || 41426 || colspan = "4" | DELETED
+|-
+| [[null]] || 41427 || colspan = "4" | DELETED
+|-
+| [[null]] || 41428 || colspan = "4" | DELETED
+|-
+| [[null]] || 41429 || colspan = "4" | DELETED
+|-
+| [[null]] || 41430 || colspan = "4" | DELETED
+|-
+| [[null]] || 41431 || colspan = "4" | DELETED
+|-
+| [[null]] || 41432 || colspan = "4" | DELETED
+|-
+| [[null]] || 41433 || colspan = "4" | DELETED
+|-
+|rowspan="8"|[[null]]
+|rowspan="8"|41357
+|-
+|name || [[Door]] || [[null]]
+|-
+| sizeX || 1 || 3
+|-
+| sizeY || 1 || 2
+|-
+| mergeNormals || False || True
+|-
+| varbitID || -1 || 12063
+|-
+| actions || ['Open', None, None, None, None] || [None, None, None, None, None]
+|-
+| blockingMask || 0 || 11
+|-
+|rowspan="7"|[[null]]
+|rowspan="7"|41358
+|-
+|name || [[Door]] || [[null]]
+|-
+| varbitID || -1 || 12063
+|-
+| ambient || 30 || 0
+|-
+| contrast || 750 || 0
+|-
+| actions || ['Open', None, None, None, None] || [None, None, None, None, None]
+|-
+| contouredGround || -1 || 0
+|-
+|rowspan="8"|[[null]]
+|rowspan="8"|41359
+|-
+|name || [[Door]] || [[null]]
+|-
+| varbitID || -1 || 12063
+|-
+| ambient || 30 || 0
+|-
+| contrast || 750 || 0
+|-
+| actions || ['Open', None, None, None, None] || [None, None, None, None, None]
+|-
+| contouredGround || -1 || 0
+|-
+| supportsItems || 0 || 1
+|-
+|rowspan="5"|[[null]]
+|rowspan="5"|41360
+|-
+|name || [[Door]] || [[null]]
+|-
+| varbitID || -1 || 12063
+|-
+| actions || ['Close', None, None, None, None] || [None, None, None, None, None]
+|-
+| contouredGround || -1 || 0
+|-
+|rowspan="9"|[[null]]
+|rowspan="9"|41361
+|-
+|name || [[Door]] || [[null]]
+|-
+| sizeX || 1 || 2
+|-
+| sizeY || 1 || 3
+|-
+| varbitID || -1 || 12063
+|-
+| ambient || 30 || 0
+|-
+| contrast || 750 || 0
+|-
+| actions || ['Close', None, None, None, None] || [None, None, None, None, None]
+|-
+| contouredGround || -1 || 0
+|-
+|rowspan="9"|[[null]]
+|rowspan="9"|41362
+|-
+|name || [[Door]] || [[null]]
+|-
+| sizeY || 1 || 2
+|-
+| animationID || -1 || 8934
+|-
+| varbitID || -1 || 12069
+|-
+| ambient || 30 || 0
+|-
+| contrast || 750 || 0
+|-
+| actions || ['Close', None, None, None, None] || [None, None, None, None, None]
+|-
+| supportsItems || 0 || 1
+|-
+|rowspan="5"|[[null]]
+|rowspan="5"|41363
+|-
+|sizeY || 1 || 2
+|-
+| wallOrDoor || 0 || 1
+|-
+| animationID || -1 || 8934
+|-
+| varbitID || -1 || 12069
+|-
+|rowspan="8"|[[null]]
+|rowspan="8"|41364
+|-
+|sizeY || 1 || 2
+|-
+| wallOrDoor || 0 || 1
+|-
+| animationID || -1 || 8934
+|-
+| varbitID || -1 || 12070
+|-
+| ambient || 30 || 0
+|-
+| contrast || 750 || 0
+|-
+| supportsItems || 0 || 1
+|-
+|rowspan="7"|[[null]]
+|rowspan="7"|41365
+|-
+|name || [[Door]] || [[null]]
+|-
+| sizeY || 1 || 2
+|-
+| animationID || -1 || 8934
+|-
+| varbitID || -1 || 12070
+|-
+| actions || ['Open', None, None, None, None] || [None, None, None, None, None]
+|-
+| isRotated || True || False
+|-
+|rowspan="10"|[[null]]
+|rowspan="10"|41366
+|-
+|name || [[Door]] || [[null]]
+|-
+| sizeY || 1 || 2
+|-
+| animationID || -1 || 8934
+|-
+| varbitID || -1 || 12071
+|-
+| ambient || 30 || 0
+|-
+| contrast || 750 || 0
+|-
+| actions || ['Open', None, None, None, None] || [None, None, None, None, None]
+|-
+| supportsItems || 0 || 1
+|-
+| isRotated || True || False
+|-
+|rowspan="7"|[[null]]
+|rowspan="7"|41367
+|-
+|name || [[Door]] || [[null]]
+|-
+| sizeY || 1 || 2
+|-
+| animationID || -1 || 8934
+|-
+| varbitID || -1 || 12071
+|-
+| actions || ['Close', None, None, None, None] || [None, None, None, None, None]
+|-
+| isRotated || True || False
+|-
+|rowspan="10"|[[null]]
+|rowspan="10"|41368
+|-
+|name || [[Door]] || [[null]]
+|-
+| sizeY || 1 || 2
+|-
+| animationID || -1 || 8934
+|-
+| varbitID || -1 || 12071
+|-
+| ambient || 30 || 0
+|-
+| contrast || 750 || 0
+|-
+| actions || ['Close', None, None, None, None] || [None, None, None, None, None]
+|-
+| supportsItems || 0 || 1
+|-
+| isRotated || True || False
+|-
+|rowspan="7"|[[null]]
+|rowspan="7"|41369
+|-
+|name || [[Crate]] || [[null]]
+|-
+| sizeY || 1 || 2
+|-
+| animationID || -1 || 8934
+|-
+| varbitID || -1 || 12072
+|-
+| interactType || 1 || 2
+|-
+| blocksProjectile || False || True
+|-
+|rowspan="7"|[[null]]
+|rowspan="7"|41370
+|-
+|name || [[Easter eggs]] || [[null]]
+|-
+| sizeY || 1 || 2
+|-
+| animationID || -1 || 8934
+|-
+| varbitID || -1 || 12072
+|-
+| interactType || 1 || 2
+|-
+| blocksProjectile || False || True
+|-
+|rowspan="7"|[[null]]
+|rowspan="7"|41371
+|-
+|name || [[Basket]] || [[null]]
+|-
+| sizeY || 1 || 2
+|-
+| animationID || -1 || 8934
+|-
+| varbitID || -1 || 12072
+|-
+| interactType || 1 || 2
+|-
+| blocksProjectile || False || True
+|-
+|rowspan="8"|[[null]]
+|rowspan="8"|41372
+|-
+|sizeY || 1 || 2
+|-
+| wallOrDoor || 0 || 1
+|-
+| animationID || -1 || 8934
+|-
+| varbitID || -1 || 12073
+|-
+| ambient || 40 || 0
+|-
+| contrast || 750 || 0
+|-
+| blocksProjectile || False || True
+|-
+|rowspan="8"|[[null]]
+|rowspan="8"|41373
+|-
+|name || [[Post]] || [[null]]
+|-
+| sizeY || 1 || 2
+|-
+| animationID || -1 || 8934
+|-
+| varbitID || -1 || 12073
+|-
+| ambient || 40 || 0
+|-
+| contrast || 750 || 0
+|-
+| blocksProjectile || False || True
+|-
+|rowspan="8"|[[null]]
+|rowspan="8"|41374
+|-
+|sizeY || 1 || 2
+|-
+| wallOrDoor || 0 || 1
+|-
+| animationID || -1 || 8934
+|-
+| varbitID || -1 || 12074
+|-
+| ambient || 40 || 0
+|-
+| contrast || 750 || 0
+|-
+| blocksProjectile || False || True
+|-
+|rowspan="11"|[[null]]
+|rowspan="11"|41375
+|-
+|sizeY || 1 || 2
+|-
+| mergeNormals || True || False
+|-
+| wallOrDoor || 0 || 1
+|-
+| animationID || -1 || 8934
+|-
+| varbitID || -1 || 12074
+|-
+| ambient || 40 || 0
+|-
+| contrast || 750 || 0
+|-
+| interactType || 0 || 2
+|-
+| supportsItems || 0 || 1
+|-
+| blocksProjectile || False || True
+|-
+|rowspan="11"|[[null]]
+|rowspan="11"|41376
+|-
+|sizeY || 1 || 2
+|-
+| mergeNormals || True || False
+|-
+| wallOrDoor || 0 || 1
+|-
+| animationID || -1 || 8934
+|-
+| varbitID || -1 || 12074
+|-
+| ambient || 40 || 0
+|-
+| contrast || 750 || 0
+|-
+| interactType || 0 || 2
+|-
+| supportsItems || 0 || 1
+|-
+| blocksProjectile || False || True
+|-
+|rowspan="11"|[[null]]
+|rowspan="11"|41377
+|-
+|sizeY || 1 || 2
+|-
+| mergeNormals || True || False
+|-
+| wallOrDoor || 0 || 1
+|-
+| animationID || -1 || 8934
+|-
+| varbitID || -1 || 12075
+|-
+| ambient || 40 || 0
+|-
+| contrast || 750 || 0
+|-
+| interactType || 0 || 2
+|-
+| supportsItems || 0 || 1
+|-
+| blocksProjectile || False || True
+|-
+|rowspan="11"|[[null]]
+|rowspan="11"|41378
+|-
+|sizeY || 1 || 2
+|-
+| mergeNormals || True || False
+|-
+| wallOrDoor || 0 || 1
+|-
+| animationID || -1 || 8934
+|-
+| varbitID || -1 || 12075
+|-
+| ambient || 40 || 0
+|-
+| contrast || 750 || 0
+|-
+| interactType || 0 || 2
+|-
+| supportsItems || 0 || 1
+|-
+| blocksProjectile || False || True
+|-
+|rowspan="11"|[[null]]
+|rowspan="11"|41379
+|-
+|sizeX || 1 || 2
+|-
+| sizeY || 1 || 2
+|-
+| mergeNormals || True || False
+|-
+| wallOrDoor || 0 || 1
+|-
+| varbitID || -1 || 12078
+|-
+| ambient || 40 || 0
+|-
+| contrast || 750 || 0
+|-
+| interactType || 0 || 2
+|-
+| supportsItems || 0 || 1
+|-
+| blocksProjectile || False || True
+|-
+|rowspan="11"|[[null]]
+|rowspan="11"|41380
+|-
+|sizeX || 1 || 2
+|-
+| sizeY || 1 || 2
+|-
+| mergeNormals || True || False
+|-
+| wallOrDoor || 0 || 1
+|-
+| varbitID || -1 || 12079
+|-
+| ambient || 40 || 0
+|-
+| contrast || 750 || 0
+|-
+| interactType || 0 || 2
+|-
+| supportsItems || 0 || 1
+|-
+| blocksProjectile || False || True
+|-
+|rowspan="11"|[[null]]
+|rowspan="11"|41381
+|-
+|sizeX || 1 || 2
+|-
+| sizeY || 1 || 2
+|-
+| mergeNormals || True || False
+|-
+| wallOrDoor || 0 || 1
+|-
+| varbitID || -1 || 12080
+|-
+| ambient || 40 || 0
+|-
+| contrast || 750 || 0
+|-
+| interactType || 0 || 2
+|-
+| supportsItems || 0 || 1
+|-
+| blocksProjectile || False || True
+|-
+|rowspan="11"|[[null]]
+|rowspan="11"|41382
+|-
+|sizeX || 1 || 2
+|-
+| sizeY || 1 || 2
+|-
+| mergeNormals || True || False
+|-
+| wallOrDoor || 0 || 1
+|-
+| varbitID || -1 || 12081
+|-
+| ambient || 40 || 0
+|-
+| contrast || 750 || 0
+|-
+| interactType || 0 || 2
+|-
+| supportsItems || 0 || 1
+|-
+| blocksProjectile || False || True
+|-
+|rowspan="11"|[[null]]
+|rowspan="11"|41383
+|-
+|sizeX || 1 || 2
+|-
+| sizeY || 1 || 2
+|-
+| mergeNormals || True || False
+|-
+| wallOrDoor || 0 || 1
+|-
+| varbitID || -1 || 12082
+|-
+| ambient || 40 || 0
+|-
+| contrast || 750 || 0
+|-
+| interactType || 0 || 2
+|-
+| supportsItems || 0 || 1
+|-
+| blocksProjectile || False || True
+|-
+|rowspan="11"|[[null]]
+|rowspan="11"|41384
+|-
+|sizeX || 1 || 2
+|-
+| sizeY || 1 || 2
+|-
+| mergeNormals || True || False
+|-
+| wallOrDoor || 0 || 1
+|-
+| varbitID || -1 || 12083
+|-
+| ambient || 40 || 0
+|-
+| contrast || 750 || 0
+|-
+| interactType || 0 || 2
+|-
+| supportsItems || 0 || 1
+|-
+| blocksProjectile || False || True
+|-
+|rowspan="11"|[[null]]
+|rowspan="11"|41385
+|-
+|sizeX || 1 || 2
+|-
+| sizeY || 1 || 2
+|-
+| mergeNormals || True || False
+|-
+| wallOrDoor || 0 || 1
+|-
+| varbitID || -1 || 12084
+|-
+| ambient || 40 || 0
+|-
+| contrast || 750 || 0
+|-
+| interactType || 0 || 2
+|-
+| supportsItems || 0 || 1
+|-
+| blocksProjectile || False || True
+|-
+|rowspan="11"|[[null]]
+|rowspan="11"|41386
+|-
+|sizeX || 1 || 2
+|-
+| sizeY || 1 || 2
+|-
+| mergeNormals || True || False
+|-
+| wallOrDoor || 0 || 1
+|-
+| varbitID || -1 || 12085
+|-
+| ambient || 40 || 0
+|-
+| contrast || 750 || 0
+|-
+| interactType || 0 || 2
+|-
+| supportsItems || 0 || 1
+|-
+| blocksProjectile || False || True
+|-
+|rowspan="11"|[[null]]
+|rowspan="11"|41387
+|-
+|sizeX || 1 || 2
+|-
+| sizeY || 1 || 2
+|-
+| mergeNormals || True || False
+|-
+| wallOrDoor || 0 || 1
+|-
+| varbitID || -1 || 12086
+|-
+| ambient || 40 || 0
+|-
+| contrast || 750 || 0
+|-
+| interactType || 0 || 2
+|-
+| supportsItems || 0 || 1
+|-
+| blocksProjectile || False || True
+|-
+|rowspan="11"|[[null]]
+|rowspan="11"|41388
+|-
+|sizeX || 1 || 2
+|-
+| sizeY || 1 || 2
+|-
+| mergeNormals || True || False
+|-
+| wallOrDoor || 0 || 1
+|-
+| varbitID || -1 || 12087
+|-
+| ambient || 40 || 0
+|-
+| contrast || 750 || 0
+|-
+| interactType || 0 || 2
+|-
+| supportsItems || 0 || 1
+|-
+| blocksProjectile || False || True
+|-
+|rowspan="11"|[[null]]
+|rowspan="11"|41389
+|-
+|sizeX || 1 || 2
+|-
+| sizeY || 1 || 2
+|-
+| mergeNormals || True || False
+|-
+| wallOrDoor || 0 || 1
+|-
+| varbitID || -1 || 12088
+|-
+| ambient || 40 || 0
+|-
+| contrast || 750 || 0
+|-
+| interactType || 0 || 2
+|-
+| supportsItems || 0 || 1
+|-
+| blocksProjectile || False || True
+|-
+|rowspan="11"|[[null]]
+|rowspan="11"|41390
+|-
+|sizeX || 1 || 2
+|-
+| sizeY || 1 || 2
+|-
+| mergeNormals || True || False
+|-
+| wallOrDoor || 0 || 1
+|-
+| varbitID || -1 || 12089
+|-
+| ambient || 40 || 0
+|-
+| contrast || 750 || 0
+|-
+| interactType || 0 || 2
+|-
+| supportsItems || 0 || 1
+|-
+| blocksProjectile || False || True
+|-
+|rowspan="11"|[[null]]
+|rowspan="11"|41391
+|-
+|sizeX || 1 || 2
+|-
+| sizeY || 1 || 2
+|-
+| mergeNormals || True || False
+|-
+| wallOrDoor || 0 || 1
+|-
+| varbitID || -1 || 12090
+|-
+| ambient || 40 || 0
+|-
+| contrast || 750 || 0
+|-
+| interactType || 0 || 2
+|-
+| supportsItems || 0 || 1
+|-
+| blocksProjectile || False || True
+|-
+|rowspan="10"|[[null]]
+|rowspan="10"|41392
+|-
+|mergeNormals || True || False
+|-
+| wallOrDoor || 0 || 1
+|-
+| animationID || -1 || 2178
+|-
+| varbitID || -1 || 12099
+|-
+| ambient || 40 || 0
+|-
+| contrast || 750 || 0
+|-
+| interactType || 0 || 2
+|-
+| supportsItems || 0 || 1
+|-
+| blocksProjectile || False || True
+|-
+|rowspan="10"|[[null]]
+|rowspan="10"|41393
+|-
+|mergeNormals || True || False
+|-
+| wallOrDoor || 0 || 1
+|-
+| animationID || -1 || 2178
+|-
+| varbitID || -1 || 12100
+|-
+| ambient || 40 || 0
+|-
+| contrast || 750 || 0
+|-
+| interactType || 0 || 2
+|-
+| supportsItems || 0 || 1
+|-
+| blocksProjectile || False || True
+|-
+|rowspan="10"|[[null]]
+|rowspan="10"|41394
+|-
+|mergeNormals || True || False
+|-
+| wallOrDoor || 0 || 1
+|-
+| animationID || -1 || 2178
+|-
+| varbitID || -1 || 12101
+|-
+| ambient || 40 || 0
+|-
+| contrast || 750 || 0
+|-
+| interactType || 0 || 2
+|-
+| supportsItems || 0 || 1
+|-
+| blocksProjectile || False || True
+|-
+|rowspan="10"|[[null]]
+|rowspan="10"|41395
+|-
+|mergeNormals || True || False
+|-
+| wallOrDoor || 0 || 1
+|-
+| animationID || -1 || 2178
+|-
+| varbitID || -1 || 12102
+|-
+| ambient || 40 || 0
+|-
+| contrast || 750 || 0
+|-
+| interactType || 0 || 2
+|-
+| supportsItems || 0 || 1
+|-
+| blocksProjectile || False || True
+|-
+|rowspan="10"|[[null]]
+|rowspan="10"|41396
+|-
+|mergeNormals || True || False
+|-
+| wallOrDoor || 0 || 1
+|-
+| animationID || -1 || 2178
+|-
+| varbitID || -1 || 12104
+|-
+| ambient || 30 || 0
+|-
+| contrast || 750 || 0
+|-
+| interactType || 0 || 2
+|-
+| supportsItems || 0 || 1
+|-
+| blocksProjectile || False || True
+|-
+|rowspan="10"|[[null]]
+|rowspan="10"|41397
+|-
+|mergeNormals || True || False
+|-
+| wallOrDoor || 0 || 1
+|-
+| animationID || -1 || 2178
+|-
+| varbitID || -1 || 12103
+|-
+| ambient || 30 || 0
+|-
+| contrast || 750 || 0
+|-
+| interactType || 0 || 2
+|-
+| supportsItems || 0 || 1
+|-
+| blocksProjectile || False || True
+|-
+|}

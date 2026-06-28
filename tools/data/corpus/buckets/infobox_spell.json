@@ -1,0 +1,2523 @@
+[
+  {
+    "page_name": "Fire Blast",
+    "image": "[[File:Fire Blast.png]]",
+    "is_members_only": false,
+    "page_name_sub": "Fire Blast",
+    "json": "{\"slayerlevel\":\"\",\"exp\":\"34.5\",\"cost\":\"<span style=\\\"white-space:nowrap\\\"><sup>4</sup>[[File:Air rune.png|Air|link=Air rune]]  <sup>5</sup>[[File:Fire rune.png|Fire|link=Fire rune]]       <sup>1</sup>[[File:Death rune.png|Death|link=Death rune]]           </span>\",\"level\":\"59\",\"type\":\"Combat\",\"spellbook\":\"Normal\"}",
+    "uses_material": [
+      "Air rune",
+      "Fire rune",
+      "Death rune"
+    ],
+    "spellbook": "normal"
+  },
+  {
+    "page_name": "Fire Bolt",
+    "image": "[[File:Fire Bolt.png]]",
+    "is_members_only": false,
+    "page_name_sub": "Fire Bolt",
+    "json": "{\"slayerlevel\":\"\",\"exp\":\"22.5\",\"cost\":\"<span style=\\\"white-space:nowrap\\\"><sup>3</sup>[[File:Air rune.png|Air|link=Air rune]]  <sup>4</sup>[[File:Fire rune.png|Fire|link=Fire rune]]     <sup>1</sup>[[File:Chaos rune.png|Chaos|link=Chaos rune]]             </span>\",\"level\":\"35\",\"type\":\"Combat\",\"spellbook\":\"Normal\"}",
+    "uses_material": [
+      "Air rune",
+      "Fire rune",
+      "Chaos rune"
+    ],
+    "spellbook": "normal"
+  },
+  {
+    "page_name": "Fire Wave",
+    "image": "[[File:Fire Wave.png]]",
+    "is_members_only": true,
+    "page_name_sub": "Fire Wave",
+    "json": "{\"slayerlevel\":\"\",\"exp\":\"42.5\",\"cost\":\"<span style=\\\"white-space:nowrap\\\"><sup>5</sup>[[File:Air rune.png|Air|link=Air rune]]  <sup>7</sup>[[File:Fire rune.png|Fire|link=Fire rune]]   <sup>1</sup>[[File:Blood rune.png|Blood|link=Blood rune]]               </span>\",\"level\":\"75\",\"type\":\"Combat\",\"spellbook\":\"Normal\"}",
+    "uses_material": [
+      "Air rune",
+      "Fire rune",
+      "Blood rune"
+    ],
+    "spellbook": "normal"
+  },
+  {
+    "page_name": "Ice Barrage",
+    "image": "[[File:Ice Barrage.png]]",
+    "is_members_only": true,
+    "page_name_sub": "Ice Barrage",
+    "json": "{\"slayerlevel\":\"\",\"exp\":\"52\",\"cost\":\"<span style=\\\"white-space:nowrap\\\">   <sup>6</sup>[[File:Water rune.png|Water|link=Water rune]]  <sup>2</sup>[[File:Blood rune.png|Blood|link=Blood rune]]    <sup>4</sup>[[File:Death rune.png|Death|link=Death rune]]           </span>\",\"level\":\"94\",\"type\":\"Combat\",\"spellbook\":\"Ancient\"}",
+    "uses_material": [
+      "Water rune",
+      "Blood rune",
+      "Death rune"
+    ],
+    "spellbook": "ancient"
+  },
+  {
+    "page_name": "Ice Blitz",
+    "image": "[[File:Ice Blitz.png]]",
+    "is_members_only": true,
+    "page_name_sub": "Ice Blitz",
+    "json": "{\"slayerlevel\":\"\",\"exp\":\"46\",\"cost\":\"<span style=\\\"white-space:nowrap\\\">   <sup>3</sup>[[File:Water rune.png|Water|link=Water rune]]  <sup>2</sup>[[File:Blood rune.png|Blood|link=Blood rune]]    <sup>2</sup>[[File:Death rune.png|Death|link=Death rune]]           </span>\",\"level\":\"82\",\"type\":\"Combat\",\"spellbook\":\"Ancient\"}",
+    "uses_material": [
+      "Water rune",
+      "Blood rune",
+      "Death rune"
+    ],
+    "spellbook": "ancient"
+  },
+  {
+    "page_name": "Ice Burst",
+    "image": "[[File:Ice Burst.png]]",
+    "is_members_only": true,
+    "page_name_sub": "Ice Burst",
+    "json": "{\"slayerlevel\":\"\",\"exp\":\"40\",\"cost\":\"<span style=\\\"white-space:nowrap\\\">   <sup>4</sup>[[File:Water rune.png|Water|link=Water rune]]    <sup>4</sup>[[File:Chaos rune.png|Chaos|link=Chaos rune]]  <sup>2</sup>[[File:Death rune.png|Death|link=Death rune]]           </span>\",\"level\":\"70\",\"type\":\"Combat\",\"spellbook\":\"Ancient\"}",
+    "uses_material": [
+      "Water rune",
+      "Chaos rune",
+      "Death rune"
+    ],
+    "spellbook": "ancient"
+  },
+  {
+    "page_name": "Ice Rush",
+    "image": "[[File:Ice Rush.png]]",
+    "is_members_only": true,
+    "page_name_sub": "Ice Rush",
+    "json": "{\"slayerlevel\":\"\",\"exp\":\"34\",\"cost\":\"<span style=\\\"white-space:nowrap\\\">   <sup>2</sup>[[File:Water rune.png|Water|link=Water rune]]    <sup>2</sup>[[File:Chaos rune.png|Chaos|link=Chaos rune]]  <sup>2</sup>[[File:Death rune.png|Death|link=Death rune]]           </span>\",\"level\":\"58\",\"type\":\"Combat\",\"spellbook\":\"Ancient\"}",
+    "uses_material": [
+      "Water rune",
+      "Chaos rune",
+      "Death rune"
+    ],
+    "spellbook": "ancient"
+  },
+  {
+    "page_name": "High Level Alchemy",
+    "image": "[[File:High Level Alchemy.png]]",
+    "is_members_only": false,
+    "page_name_sub": "High Level Alchemy",
+    "json": "{\"slayerlevel\":\"\",\"exp\":\"65\",\"cost\":\"<span style=\\\"white-space:nowrap\\\">  <sup>5</sup>[[File:Fire rune.png|Fire|link=Fire rune]]          <sup>1</sup>[[File:Nature rune.png|Nature|link=Nature rune]]        </span>\",\"level\":\"55\",\"type\":\"Utility\",\"spellbook\":\"Normal\"}",
+    "uses_material": [
+      "Fire rune",
+      "Nature rune"
+    ],
+    "spellbook": "normal"
+  },
+  {
+    "page_name": "Low Level Alchemy",
+    "image": "[[File:Low Level Alchemy.png]]",
+    "is_members_only": false,
+    "page_name_sub": "Low Level Alchemy",
+    "json": "{\"slayerlevel\":\"\",\"exp\":\"31\",\"cost\":\"<span style=\\\"white-space:nowrap\\\">  <sup>3</sup>[[File:Fire rune.png|Fire|link=Fire rune]]          <sup>1</sup>[[File:Nature rune.png|Nature|link=Nature rune]]        </span>\",\"level\":\"21\",\"type\":\"Utility\",\"spellbook\":\"Normal\"}",
+    "uses_material": [
+      "Fire rune",
+      "Nature rune"
+    ],
+    "spellbook": "normal"
+  },
+  {
+    "page_name": "Superheat Item",
+    "image": "[[File:Superheat Item.png]]",
+    "is_members_only": false,
+    "page_name_sub": "Superheat Item",
+    "json": "{\"slayerlevel\":\"\",\"exp\":\"53\",\"cost\":\"<span style=\\\"white-space:nowrap\\\">  <sup>4</sup>[[File:Fire rune.png|Fire|link=Fire rune]]          <sup>1</sup>[[File:Nature rune.png|Nature|link=Nature rune]]        </span>\",\"level\":\"43\",\"type\":\"Utility\",\"spellbook\":\"Normal\"}",
+    "uses_material": [
+      "Fire rune",
+      "Nature rune"
+    ],
+    "spellbook": "normal"
+  },
+  {
+    "page_name": "Iban Blast",
+    "image": "[[File:Iban Blast.png]]",
+    "is_members_only": true,
+    "page_name_sub": "Iban Blast",
+    "json": "{\"slayerlevel\":\"\",\"exp\":\"30\",\"cost\":\"<span style=\\\"white-space:nowrap\\\">  <sup>5</sup>[[File:Fire rune.png|Fire|link=Fire rune]]       <sup>1</sup>[[File:Death rune.png|Death|link=Death rune]]           </span><span class=\\\"plinkp-template\\\">[[File:Iban's staff.png|link=Iban's staff]]</span>\",\"level\":\"50\",\"type\":\"Combat\",\"spellbook\":\"Normal\"}",
+    "uses_material": [
+      "Fire rune",
+      "Death rune"
+    ],
+    "spellbook": "normal"
+  },
+  {
+    "page_name": "Bones to Bananas",
+    "image": "[[File:Bones to Bananas.png]]",
+    "is_members_only": false,
+    "page_name_sub": "Bones to Bananas",
+    "json": "{\"slayerlevel\":\"\",\"exp\":\"25\",\"cost\":\"<span style=\\\"white-space:nowrap\\\"> <sup>2</sup>[[File:Earth rune.png|Earth|link=Earth rune]]  <sup>2</sup>[[File:Water rune.png|Water|link=Water rune]]         <sup>1</sup>[[File:Nature rune.png|Nature|link=Nature rune]]        </span>\",\"level\":\"15\",\"type\":\"Utility\",\"spellbook\":\"Normal\"}",
+    "uses_material": [
+      "Earth rune",
+      "Water rune",
+      "Nature rune"
+    ],
+    "spellbook": "normal"
+  },
+  {
+    "page_name": "Earth Wave",
+    "image": "[[File:Earth Wave.png]]",
+    "is_members_only": true,
+    "page_name_sub": "Earth Wave",
+    "json": "{\"slayerlevel\":\"\",\"exp\":\"40\",\"cost\":\"<span style=\\\"white-space:nowrap\\\"><sup>5</sup>[[File:Air rune.png|Air|link=Air rune]] <sup>7</sup>[[File:Earth rune.png|Earth|link=Earth rune]]    <sup>1</sup>[[File:Blood rune.png|Blood|link=Blood rune]]               </span>\",\"level\":\"70\",\"type\":\"Combat\",\"spellbook\":\"Normal\"}",
+    "uses_material": [
+      "Air rune",
+      "Earth rune",
+      "Blood rune"
+    ],
+    "spellbook": "normal"
+  },
+  {
+    "page_name": "Confuse",
+    "image": "[[File:Confuse.png]]",
+    "is_members_only": false,
+    "page_name_sub": "Confuse",
+    "json": "{\"slayerlevel\":\"\",\"exp\":\"13\",\"cost\":\"<span style=\\\"white-space:nowrap\\\"> <sup>2</sup>[[File:Earth rune.png|Earth|link=Earth rune]]  <sup>3</sup>[[File:Water rune.png|Water|link=Water rune]]   <sup>1</sup>[[File:Body rune.png|Body|link=Body rune]]              </span>\",\"level\":\"3\",\"type\":\"Combat\",\"spellbook\":\"Normal\"}",
+    "uses_material": [
+      "Earth rune",
+      "Water rune",
+      "Body rune"
+    ],
+    "spellbook": "normal"
+  },
+  {
+    "page_name": "Crumble Undead",
+    "image": "[[File:Crumble Undead.png]]",
+    "is_members_only": false,
+    "page_name_sub": "Crumble Undead",
+    "json": "{\"slayerlevel\":\"\",\"exp\":\"24.5\",\"cost\":\"<span style=\\\"white-space:nowrap\\\"><sup>2</sup>[[File:Air rune.png|Air|link=Air rune]] <sup>2</sup>[[File:Earth rune.png|Earth|link=Earth rune]]      <sup>1</sup>[[File:Chaos rune.png|Chaos|link=Chaos rune]]             </span>\",\"level\":\"39\",\"type\":\"Combat\",\"spellbook\":\"Normal\"}",
+    "uses_material": [
+      "Air rune",
+      "Earth rune",
+      "Chaos rune"
+    ],
+    "spellbook": "normal"
+  },
+  {
+    "page_name": "Saradomin Strike",
+    "image": "[[File:Saradomin Strike.png|Saradomin Strike]]",
+    "is_members_only": true,
+    "page_name_sub": "Saradomin Strike",
+    "json": "{\"slayerlevel\":\"\",\"exp\":\"35\",\"cost\":\"<span style=\\\"white-space:nowrap\\\"><sup>4</sup>[[File:Air rune.png|Air|link=Air rune]]  <sup>2</sup>[[File:Fire rune.png|Fire|link=Fire rune]]   <sup>2</sup>[[File:Blood rune.png|Blood|link=Blood rune]]               </span>\",\"level\":\"60\",\"type\":\"Combat\",\"spellbook\":\"Normal\"}",
+    "uses_material": [
+      "Air rune",
+      "Fire rune",
+      "Blood rune"
+    ],
+    "spellbook": "normal"
+  },
+  {
+    "page_name": "Telekinetic Grab",
+    "image": "[[File:Telekinetic Grab.png]]",
+    "is_members_only": false,
+    "page_name_sub": "Telekinetic Grab",
+    "json": "{\"slayerlevel\":\"\",\"exp\":\"43\",\"cost\":\"<span style=\\\"white-space:nowrap\\\"><sup>1</sup>[[File:Air rune.png|Air|link=Air rune]]          <sup>1</sup>[[File:Law rune.png|Law|link=Law rune]]          </span>\",\"level\":\"33\",\"type\":\"Utility\",\"spellbook\":\"Normal\"}",
+    "uses_material": [
+      "Air rune",
+      "Law rune"
+    ],
+    "spellbook": "normal"
+  },
+  {
+    "page_name": "Paddewwa Teleport",
+    "image": "[[File:Paddewwa Teleport.png]]",
+    "is_members_only": true,
+    "page_name_sub": "Paddewwa Teleport",
+    "json": "{\"slayerlevel\":\"\",\"exp\":\"64\",\"cost\":\"<span style=\\\"white-space:nowrap\\\"><sup>1</sup>[[File:Air rune.png|Air|link=Air rune]]  <sup>1</sup>[[File:Fire rune.png|Fire|link=Fire rune]]        <sup>2</sup>[[File:Law rune.png|Law|link=Law rune]]          </span>\",\"level\":\"54\",\"type\":\"Teleport\",\"spellbook\":\"Ancient\"}",
+    "uses_material": [
+      "Air rune",
+      "Fire rune",
+      "Law rune"
+    ],
+    "spellbook": "ancient"
+  },
+  {
+    "page_name": "Earth Bolt",
+    "image": "[[File:Earth Bolt.png]]",
+    "is_members_only": false,
+    "page_name_sub": "Earth Bolt",
+    "json": "{\"slayerlevel\":\"\",\"exp\":\"19.5\",\"cost\":\"<span style=\\\"white-space:nowrap\\\"><sup>2</sup>[[File:Air rune.png|Air|link=Air rune]] <sup>3</sup>[[File:Earth rune.png|Earth|link=Earth rune]]      <sup>1</sup>[[File:Chaos rune.png|Chaos|link=Chaos rune]]             </span>\",\"level\":\"29\",\"type\":\"Combat\",\"spellbook\":\"Normal\"}",
+    "uses_material": [
+      "Air rune",
+      "Earth rune",
+      "Chaos rune"
+    ],
+    "spellbook": "normal"
+  },
+  {
+    "page_name": "Earth Strike",
+    "image": "[[File:Earth Strike.png]]",
+    "is_members_only": false,
+    "page_name_sub": "Earth Strike",
+    "json": "{\"slayerlevel\":\"\",\"exp\":\"9.5\",\"cost\":\"<span style=\\\"white-space:nowrap\\\"><sup>1</sup>[[File:Air rune.png|Air|link=Air rune]] <sup>2</sup>[[File:Earth rune.png|Earth|link=Earth rune]]          <sup>1</sup>[[File:Mind rune.png|Mind|link=Mind rune]]         </span>\",\"level\":\"9\",\"type\":\"Combat\",\"spellbook\":\"Normal\"}",
+    "uses_material": [
+      "Air rune",
+      "Earth rune",
+      "Mind rune"
+    ],
+    "spellbook": "normal"
+  },
+  {
+    "page_name": "Fire Strike",
+    "image": "[[File:Fire Strike.png]]",
+    "is_members_only": false,
+    "page_name_sub": "Fire Strike",
+    "json": "{\"slayerlevel\":\"\",\"exp\":\"11.5\",\"cost\":\"<span style=\\\"white-space:nowrap\\\"><sup>2</sup>[[File:Air rune.png|Air|link=Air rune]]  <sup>3</sup>[[File:Fire rune.png|Fire|link=Fire rune]]         <sup>1</sup>[[File:Mind rune.png|Mind|link=Mind rune]]         </span>\",\"level\":\"13\",\"type\":\"Combat\",\"spellbook\":\"Normal\"}",
+    "uses_material": [
+      "Air rune",
+      "Fire rune",
+      "Mind rune"
+    ],
+    "spellbook": "normal"
+  },
+  {
+    "page_name": "Lvl-4 Enchant",
+    "image": "[[File:Lvl-4 Enchant.png]]",
+    "is_members_only": false,
+    "page_name_sub": "Lvl-4 Enchant",
+    "json": "{\"slayerlevel\":\"\",\"exp\":\"67\",\"cost\":\"<span style=\\\"white-space:nowrap\\\"> <sup>10</sup>[[File:Earth rune.png|Earth|link=Earth rune]]       <sup>1</sup>[[File:Cosmic rune.png|Cosmic|link=Cosmic rune]]            </span>\",\"level\":\"57\",\"type\":\"Utility\",\"spellbook\":\"Normal\"}",
+    "uses_material": [
+      "Earth rune",
+      "Cosmic rune"
+    ],
+    "spellbook": "normal"
+  },
+  {
+    "page_name": "Flames of Zamorak",
+    "image": "[[File:Flames of Zamorak.png]]",
+    "is_members_only": true,
+    "page_name_sub": "Flames of Zamorak",
+    "json": "{\"slayerlevel\":\"\",\"exp\":\"35\",\"cost\":\"<span style=\\\"white-space:nowrap\\\"><sup>1</sup>[[File:Air rune.png|Air|link=Air rune]]  <sup>4</sup>[[File:Fire rune.png|Fire|link=Fire rune]]   <sup>2</sup>[[File:Blood rune.png|Blood|link=Blood rune]]               </span>\",\"level\":\"60\",\"type\":\"Combat\",\"spellbook\":\"Normal\"}",
+    "uses_material": [
+      "Air rune",
+      "Fire rune",
+      "Blood rune"
+    ],
+    "spellbook": "normal"
+  },
+  {
+    "page_name": "Trollheim Teleport",
+    "image": "[[File:Trollheim Teleport.png]]",
+    "is_members_only": true,
+    "page_name_sub": "Trollheim Teleport",
+    "json": "{\"slayerlevel\":\"\",\"exp\":\"68\",\"cost\":\"<span style=\\\"white-space:nowrap\\\">  <sup>2</sup>[[File:Fire rune.png|Fire|link=Fire rune]]        <sup>2</sup>[[File:Law rune.png|Law|link=Law rune]]          </span>\",\"level\":\"61\",\"type\":\"Teleport\",\"spellbook\":\"Normal\"}",
+    "uses_material": [
+      "Fire rune",
+      "Law rune"
+    ],
+    "spellbook": "normal"
+  },
+  {
+    "page_name": "Lvl-6 Enchant",
+    "image": "[[File:Lvl-6 Enchant.png]]",
+    "is_members_only": true,
+    "page_name_sub": "Lvl-6 Enchant",
+    "json": "{\"slayerlevel\":\"\",\"exp\":\"97\",\"cost\":\"<span style=\\\"white-space:nowrap\\\"> <sup>20</sup>[[File:Earth rune.png|Earth|link=Earth rune]] <sup>20</sup>[[File:Fire rune.png|Fire|link=Fire rune]]      <sup>1</sup>[[File:Cosmic rune.png|Cosmic|link=Cosmic rune]]            </span>\",\"level\":\"87\",\"type\":\"Utility\",\"spellbook\":\"Normal\"}",
+    "uses_material": [
+      "Earth rune",
+      "Fire rune",
+      "Cosmic rune"
+    ],
+    "spellbook": "normal"
+  },
+  {
+    "page_name": "Water Blast",
+    "image": "[[File:Water Blast.png]]",
+    "is_members_only": false,
+    "page_name_sub": "Water Blast",
+    "json": "{\"slayerlevel\":\"\",\"exp\":\"28.5\",\"cost\":\"<span style=\\\"white-space:nowrap\\\"><sup>3</sup>[[File:Air rune.png|Air|link=Air rune]]   <sup>3</sup>[[File:Water rune.png|Water|link=Water rune]]      <sup>1</sup>[[File:Death rune.png|Death|link=Death rune]]           </span>\",\"level\":\"47\",\"type\":\"Combat\",\"spellbook\":\"Normal\"}",
+    "uses_material": [
+      "Air rune",
+      "Water rune",
+      "Death rune"
+    ],
+    "spellbook": "normal"
+  },
+  {
+    "page_name": "Tele Block",
+    "image": "[[File:Tele Block.png]]",
+    "is_members_only": false,
+    "page_name_sub": "Tele Block",
+    "json": "{\"slayerlevel\":\"\",\"exp\":\"83.6\",\"cost\":\"<span style=\\\"white-space:nowrap\\\">       <sup>1</sup>[[File:Chaos rune.png|Chaos|link=Chaos rune]]  <sup>1</sup>[[File:Death rune.png|Death|link=Death rune]] <sup>1</sup>[[File:Law rune.png|Law|link=Law rune]]          </span>\",\"level\":\"85\",\"type\":\"Combat\",\"spellbook\":\"Normal\"}",
+    "uses_material": [
+      "Chaos rune",
+      "Death rune",
+      "Law rune"
+    ],
+    "spellbook": "normal"
+  },
+  {
+    "page_name": "Smoke Rush",
+    "image": "[[File:Smoke Rush.png]]",
+    "is_members_only": true,
+    "page_name_sub": "Smoke Rush",
+    "json": "{\"slayerlevel\":\"\",\"exp\":\"30\",\"cost\":\"<span style=\\\"white-space:nowrap\\\"><sup>1</sup>[[File:Air rune.png|Air|link=Air rune]]  <sup>1</sup>[[File:Fire rune.png|Fire|link=Fire rune]]     <sup>2</sup>[[File:Chaos rune.png|Chaos|link=Chaos rune]]  <sup>2</sup>[[File:Death rune.png|Death|link=Death rune]]           </span>\",\"level\":\"50\",\"type\":\"Combat\",\"spellbook\":\"Ancient\"}",
+    "uses_material": [
+      "Air rune",
+      "Fire rune",
+      "Chaos rune",
+      "Death rune"
+    ],
+    "spellbook": "ancient"
+  },
+  {
+    "page_name": "Shadow Rush",
+    "image": "[[File:Shadow Rush.png]]",
+    "is_members_only": true,
+    "page_name_sub": "Shadow Rush",
+    "json": "{\"slayerlevel\":\"\",\"exp\":\"31\",\"cost\":\"<span style=\\\"white-space:nowrap\\\"><sup>1</sup>[[File:Air rune.png|Air|link=Air rune]]       <sup>2</sup>[[File:Chaos rune.png|Chaos|link=Chaos rune]]  <sup>2</sup>[[File:Death rune.png|Death|link=Death rune]]    <sup>1</sup>[[File:Soul rune.png|Soul|link=Soul rune]]       </span>\",\"level\":\"52\",\"type\":\"Combat\",\"spellbook\":\"Ancient\"}",
+    "uses_material": [
+      "Air rune",
+      "Chaos rune",
+      "Death rune",
+      "Soul rune"
+    ],
+    "spellbook": "ancient"
+  },
+  {
+    "page_name": "Wind Strike",
+    "image": "[[File:Wind Strike.png]]",
+    "is_members_only": false,
+    "page_name_sub": "Wind Strike",
+    "json": "{\"slayerlevel\":\"\",\"exp\":\"5.5\",\"cost\":\"<span style=\\\"white-space:nowrap\\\"><sup>1</sup>[[File:Air rune.png|Air|link=Air rune]]           <sup>1</sup>[[File:Mind rune.png|Mind|link=Mind rune]]         </span>\",\"level\":\"1\",\"type\":\"Combat\",\"spellbook\":\"Normal\"}",
+    "uses_material": [
+      "Air rune",
+      "Mind rune"
+    ],
+    "spellbook": "normal"
+  },
+  {
+    "page_name": "Claws of Guthix",
+    "image": "[[File:Claws of Guthix.png|Claws of Guthix]]",
+    "is_members_only": true,
+    "page_name_sub": "Claws of Guthix",
+    "json": "{\"slayerlevel\":\"\",\"exp\":\"35\",\"cost\":\"<span style=\\\"white-space:nowrap\\\"><sup>4</sup>[[File:Air rune.png|Air|link=Air rune]]  <sup>1</sup>[[File:Fire rune.png|Fire|link=Fire rune]]   <sup>2</sup>[[File:Blood rune.png|Blood|link=Blood rune]]               </span>\",\"level\":\"60\",\"type\":\"Combat\",\"spellbook\":\"Normal\"}",
+    "uses_material": [
+      "Air rune",
+      "Fire rune",
+      "Blood rune"
+    ],
+    "spellbook": "normal"
+  },
+  {
+    "page_name": "Bones to Peaches",
+    "image": "[[File:Bones to Peaches.png]]",
+    "is_members_only": true,
+    "page_name_sub": "Bones to Peaches",
+    "json": "{\"slayerlevel\":\"\",\"exp\":\"35.5\",\"cost\":\"<span style=\\\"white-space:nowrap\\\"> <sup>4</sup>[[File:Earth rune.png|Earth|link=Earth rune]]  <sup>4</sup>[[File:Water rune.png|Water|link=Water rune]]         <sup>2</sup>[[File:Nature rune.png|Nature|link=Nature rune]]        </span>\",\"level\":\"60\",\"type\":\"Utility\",\"spellbook\":\"Normal\"}",
+    "uses_material": [
+      "Earth rune",
+      "Water rune",
+      "Nature rune"
+    ],
+    "spellbook": "normal"
+  },
+  {
+    "page_name": "Lvl-3 Enchant",
+    "image": "[[File:Lvl-3 Enchant.png]]",
+    "is_members_only": false,
+    "page_name_sub": "Lvl-3 Enchant",
+    "json": "{\"slayerlevel\":\"\",\"exp\":\"59\",\"cost\":\"<span style=\\\"white-space:nowrap\\\">  <sup>5</sup>[[File:Fire rune.png|Fire|link=Fire rune]]      <sup>1</sup>[[File:Cosmic rune.png|Cosmic|link=Cosmic rune]]            </span>\",\"level\":\"49\",\"type\":\"Utility\",\"spellbook\":\"Normal\"}",
+    "uses_material": [
+      "Fire rune",
+      "Cosmic rune"
+    ],
+    "spellbook": "normal"
+  },
+  {
+    "page_name": "Water Bolt",
+    "image": "[[File:Water Bolt.png]]",
+    "is_members_only": false,
+    "page_name_sub": "Water Bolt",
+    "json": "{\"slayerlevel\":\"\",\"exp\":\"16.5\",\"cost\":\"<span style=\\\"white-space:nowrap\\\"><sup>2</sup>[[File:Air rune.png|Air|link=Air rune]]   <sup>2</sup>[[File:Water rune.png|Water|link=Water rune]]    <sup>1</sup>[[File:Chaos rune.png|Chaos|link=Chaos rune]]             </span>\",\"level\":\"23\",\"type\":\"Combat\",\"spellbook\":\"Normal\"}",
+    "uses_material": [
+      "Air rune",
+      "Water rune",
+      "Chaos rune"
+    ],
+    "spellbook": "normal"
+  },
+  {
+    "page_name": "Water Wave",
+    "image": "[[File:Water Wave.png]]",
+    "is_members_only": true,
+    "page_name_sub": "Water Wave",
+    "json": "{\"slayerlevel\":\"\",\"exp\":\"37.5\",\"cost\":\"<span style=\\\"white-space:nowrap\\\"><sup>5</sup>[[File:Air rune.png|Air|link=Air rune]]   <sup>7</sup>[[File:Water rune.png|Water|link=Water rune]]  <sup>1</sup>[[File:Blood rune.png|Blood|link=Blood rune]]               </span>\",\"level\":\"65\",\"type\":\"Combat\",\"spellbook\":\"Normal\"}",
+    "uses_material": [
+      "Air rune",
+      "Water rune",
+      "Blood rune"
+    ],
+    "spellbook": "normal"
+  },
+  {
+    "page_name": "Wind Bolt",
+    "image": "[[File:Wind Bolt.png]]",
+    "is_members_only": false,
+    "page_name_sub": "Wind Bolt",
+    "json": "{\"slayerlevel\":\"\",\"exp\":\"13.5\",\"cost\":\"<span style=\\\"white-space:nowrap\\\"><sup>2</sup>[[File:Air rune.png|Air|link=Air rune]]       <sup>1</sup>[[File:Chaos rune.png|Chaos|link=Chaos rune]]             </span>\",\"level\":\"17\",\"type\":\"Combat\",\"spellbook\":\"Normal\"}",
+    "uses_material": [
+      "Air rune",
+      "Chaos rune"
+    ],
+    "spellbook": "normal"
+  },
+  {
+    "page_name": "Water Strike",
+    "image": "[[File:Water Strike.png]]",
+    "is_members_only": false,
+    "page_name_sub": "Water Strike",
+    "json": "{\"slayerlevel\":\"\",\"exp\":\"7.5\",\"cost\":\"<span style=\\\"white-space:nowrap\\\"><sup>1</sup>[[File:Air rune.png|Air|link=Air rune]]   <sup>1</sup>[[File:Water rune.png|Water|link=Water rune]]        <sup>1</sup>[[File:Mind rune.png|Mind|link=Mind rune]]         </span>\",\"level\":\"5\",\"type\":\"Combat\",\"spellbook\":\"Normal\"}",
+    "uses_material": [
+      "Air rune",
+      "Water rune",
+      "Mind rune"
+    ],
+    "spellbook": "normal"
+  },
+  {
+    "page_name": "Lumbridge Teleport",
+    "image": "[[File:Lumbridge Teleport.png]]",
+    "is_members_only": false,
+    "page_name_sub": "Lumbridge Teleport",
+    "json": "{\"slayerlevel\":\"\",\"exp\":\"41\",\"cost\":\"<span style=\\\"white-space:nowrap\\\"><sup>3</sup>[[File:Air rune.png|Air|link=Air rune]] <sup>1</sup>[[File:Earth rune.png|Earth|link=Earth rune]]         <sup>1</sup>[[File:Law rune.png|Law|link=Law rune]]          </span>\",\"level\":\"31\",\"type\":\"Teleport\",\"spellbook\":\"Normal\"}",
+    "uses_material": [
+      "Air rune",
+      "Earth rune",
+      "Law rune"
+    ],
+    "spellbook": "normal"
+  },
+  {
+    "page_name": "Falador Teleport",
+    "image": "[[File:Falador Teleport.png]]",
+    "is_members_only": false,
+    "page_name_sub": "Falador Teleport",
+    "json": "{\"slayerlevel\":\"\",\"exp\":\"48\",\"cost\":\"<span style=\\\"white-space:nowrap\\\"><sup>3</sup>[[File:Air rune.png|Air|link=Air rune]]   <sup>1</sup>[[File:Water rune.png|Water|link=Water rune]]       <sup>1</sup>[[File:Law rune.png|Law|link=Law rune]]          </span>\",\"level\":\"37\",\"type\":\"Teleport\",\"spellbook\":\"Normal\"}",
+    "uses_material": [
+      "Air rune",
+      "Water rune",
+      "Law rune"
+    ],
+    "spellbook": "normal"
+  },
+  {
+    "page_name": "Charge Air Orb",
+    "image": "[[File:Charge Air Orb.png]]",
+    "is_members_only": true,
+    "page_name_sub": "Charge Air Orb",
+    "json": "{\"slayerlevel\":\"\",\"exp\":\"76\",\"cost\":\"<span style=\\\"white-space:nowrap\\\"><sup>30</sup>[[File:Air rune.png|Air|link=Air rune]]        <sup>3</sup>[[File:Cosmic rune.png|Cosmic|link=Cosmic rune]]        <sup>1</sup>[[File:Unpowered orb.png|Unpowered Orb|link=Unpowered orb]]    </span>\",\"level\":\"66\",\"type\":\"Utility\",\"spellbook\":\"Normal\"}",
+    "uses_material": [
+      "Air rune",
+      "Cosmic rune",
+      "Unpowered orb"
+    ],
+    "spellbook": "normal"
+  },
+  {
+    "page_name_sub": "RuneScape:Templates",
+    "json": "{\"slayerlevel\":\"\",\"exp\":\"\",\"cost\":\"\",\"level\":\"\",\"type\":\"\",\"spellbook\":\"\"}",
+    "page_name": "RuneScape:Templates"
+  },
+  {
+    "page_name": "Varrock Teleport",
+    "image": "[[File:Varrock Teleport.png]]",
+    "is_members_only": false,
+    "page_name_sub": "Varrock Teleport",
+    "json": "{\"slayerlevel\":\"\",\"exp\":\"35\",\"cost\":\"<span style=\\\"white-space:nowrap\\\"><sup>3</sup>[[File:Air rune.png|Air|link=Air rune]]  <sup>1</sup>[[File:Fire rune.png|Fire|link=Fire rune]]        <sup>1</sup>[[File:Law rune.png|Law|link=Law rune]]          </span>\",\"level\":\"25\",\"type\":\"Teleport\",\"spellbook\":\"Normal\"}",
+    "uses_material": [
+      "Air rune",
+      "Fire rune",
+      "Law rune"
+    ],
+    "spellbook": "normal"
+  },
+  {
+    "page_name": "Wind Blast",
+    "image": "[[File:Wind Blast.png]]",
+    "is_members_only": false,
+    "page_name_sub": "Wind Blast",
+    "json": "{\"slayerlevel\":\"\",\"exp\":\"25.5\",\"cost\":\"<span style=\\\"white-space:nowrap\\\"><sup>3</sup>[[File:Air rune.png|Air|link=Air rune]]         <sup>1</sup>[[File:Death rune.png|Death|link=Death rune]]           </span>\",\"level\":\"41\",\"type\":\"Combat\",\"spellbook\":\"Normal\"}",
+    "uses_material": [
+      "Air rune",
+      "Death rune"
+    ],
+    "spellbook": "normal"
+  },
+  {
+    "page_name": "Earth Blast",
+    "image": "[[File:Earth Blast.png]]",
+    "is_members_only": false,
+    "page_name_sub": "Earth Blast",
+    "json": "{\"slayerlevel\":\"\",\"exp\":\"31.5\",\"cost\":\"<span style=\\\"white-space:nowrap\\\"><sup>3</sup>[[File:Air rune.png|Air|link=Air rune]] <sup>4</sup>[[File:Earth rune.png|Earth|link=Earth rune]]        <sup>1</sup>[[File:Death rune.png|Death|link=Death rune]]           </span>\",\"level\":\"53\",\"type\":\"Combat\",\"spellbook\":\"Normal\"}",
+    "uses_material": [
+      "Air rune",
+      "Earth rune",
+      "Death rune"
+    ],
+    "spellbook": "normal"
+  },
+  {
+    "page_name": "Wind Wave",
+    "image": "[[File:Wind Wave.png]]",
+    "is_members_only": true,
+    "page_name_sub": "Wind Wave",
+    "json": "{\"slayerlevel\":\"\",\"exp\":\"36\",\"cost\":\"<span style=\\\"white-space:nowrap\\\"><sup>5</sup>[[File:Air rune.png|Air|link=Air rune]]     <sup>1</sup>[[File:Blood rune.png|Blood|link=Blood rune]]               </span>\",\"level\":\"62\",\"type\":\"Combat\",\"spellbook\":\"Normal\"}",
+    "uses_material": [
+      "Air rune",
+      "Blood rune"
+    ],
+    "spellbook": "normal"
+  },
+  {
+    "page_name": "Magic Dart",
+    "image": "[[File:Magic Dart.png]]",
+    "is_members_only": true,
+    "page_name_sub": "Magic Dart",
+    "json": "{\"slayerlevel\":\"55\",\"exp\":\"30\",\"cost\":\"<span style=\\\"white-space:nowrap\\\">         <sup>1</sup>[[File:Death rune.png|Death|link=Death rune]]  <sup>4</sup>[[File:Mind rune.png|Mind|link=Mind rune]]         </span><br/>\",\"level\":\"50\",\"type\":\"Combat\",\"spellbook\":\"Normal\"}",
+    "uses_material": [
+      "Death rune",
+      "Mind rune"
+    ],
+    "spellbook": "normal"
+  },
+  {
+    "page_name": "Charge",
+    "image": "[[File:Charge.png]]",
+    "is_members_only": true,
+    "page_name_sub": "Charge",
+    "json": "{\"slayerlevel\":\"\",\"exp\":\"180\",\"cost\":\"<span style=\\\"white-space:nowrap\\\"><sup>3</sup>[[File:Air rune.png|Air|link=Air rune]]  <sup>3</sup>[[File:Fire rune.png|Fire|link=Fire rune]]   <sup>3</sup>[[File:Blood rune.png|Blood|link=Blood rune]]               </span>\",\"level\":\"80\",\"type\":\"Combat\",\"spellbook\":\"Normal\"}",
+    "uses_material": [
+      "Air rune",
+      "Fire rune",
+      "Blood rune"
+    ],
+    "spellbook": "normal"
+  },
+  {
+    "page_name": "Teleport to House",
+    "image": "[[File:Teleport to House.png]]",
+    "is_members_only": true,
+    "page_name_sub": "Teleport to House",
+    "json": "{\"slayerlevel\":\"\",\"exp\":\"30\",\"cost\":\"<span style=\\\"white-space:nowrap\\\"><sup>1</sup>[[File:Air rune.png|Air|link=Air rune]] <sup>1</sup>[[File:Earth rune.png|Earth|link=Earth rune]]         <sup>1</sup>[[File:Law rune.png|Law|link=Law rune]]          </span>\",\"level\":\"40\",\"type\":\"Teleport\",\"spellbook\":\"Normal\"}",
+    "uses_material": [
+      "Air rune",
+      "Earth rune",
+      "Law rune"
+    ],
+    "spellbook": "normal"
+  },
+  {
+    "page_name": "NPC Contact",
+    "image": "[[File:NPC Contact.png]]",
+    "is_members_only": true,
+    "page_name_sub": "NPC Contact",
+    "json": "{\"slayerlevel\":\"\",\"exp\":\"63\",\"cost\":\"<span style=\\\"white-space:nowrap\\\"><sup>2</sup>[[File:Air rune.png|Air|link=Air rune]]    <sup>1</sup>[[File:Astral rune.png|Astral|link=Astral rune]]    <sup>1</sup>[[File:Cosmic rune.png|Cosmic|link=Cosmic rune]]            </span>\",\"level\":\"67\",\"type\":\"Utility\",\"spellbook\":\"Lunar\"}",
+    "uses_material": [
+      "Air rune",
+      "Astral rune",
+      "Cosmic rune"
+    ],
+    "spellbook": "lunar"
+  },
+  {
+    "page_name": "Barbarian Teleport",
+    "image": "[[File:Barbarian Teleport.png]]",
+    "is_members_only": true,
+    "page_name_sub": "Barbarian Teleport",
+    "json": "{\"slayerlevel\":\"\",\"exp\":\"76\",\"cost\":\"<span style=\\\"white-space:nowrap\\\">  <sup>3</sup>[[File:Fire rune.png|Fire|link=Fire rune]]  <sup>2</sup>[[File:Astral rune.png|Astral|link=Astral rune]]      <sup>2</sup>[[File:Law rune.png|Law|link=Law rune]]          </span>\",\"level\":\"75\",\"type\":\"Teleport\",\"spellbook\":\"Lunar\"}",
+    "uses_material": [
+      "Fire rune",
+      "Astral rune",
+      "Law rune"
+    ],
+    "spellbook": "lunar"
+  },
+  {
+    "page_name": "Lumbridge Home Teleport",
+    "image": "[[File:Lumbridge Home Teleport.png]]",
+    "is_members_only": false,
+    "page_name_sub": "Lumbridge Home Teleport",
+    "json": "{\"slayerlevel\":\"\",\"exp\":\"0\",\"cost\":\"None (see article)\",\"level\":\"0\",\"type\":\"Teleport\",\"spellbook\":\"Normal\"}",
+    "spellbook": "normal"
+  },
+  {
+    "page_name": "Camelot Teleport",
+    "image": "[[File:Camelot Teleport.png]]",
+    "is_members_only": true,
+    "page_name_sub": "Camelot Teleport",
+    "json": "{\"slayerlevel\":\"\",\"exp\":\"55.5\",\"cost\":\"<span style=\\\"white-space:nowrap\\\"><sup>5</sup>[[File:Air rune.png|Air|link=Air rune]]          <sup>1</sup>[[File:Law rune.png|Law|link=Law rune]]          </span>\",\"level\":\"45\",\"type\":\"Teleport\",\"spellbook\":\"Normal\"}",
+    "uses_material": [
+      "Air rune",
+      "Law rune"
+    ],
+    "spellbook": "normal"
+  },
+  {
+    "page_name": "Ardougne Teleport",
+    "image": "[[File:Ardougne Teleport.png]]",
+    "is_members_only": true,
+    "page_name_sub": "Ardougne Teleport",
+    "json": "{\"slayerlevel\":\"\",\"exp\":\"61\",\"cost\":\"<span style=\\\"white-space:nowrap\\\">   <sup>2</sup>[[File:Water rune.png|Water|link=Water rune]]       <sup>2</sup>[[File:Law rune.png|Law|link=Law rune]]          </span>\",\"level\":\"51\",\"type\":\"Teleport\",\"spellbook\":\"Normal\"}",
+    "uses_material": [
+      "Water rune",
+      "Law rune"
+    ],
+    "spellbook": "normal"
+  },
+  {
+    "page_name": "Watchtower Teleport",
+    "image": "[[File:Watchtower Teleport.png]]",
+    "is_members_only": true,
+    "page_name_sub": "Watchtower Teleport",
+    "json": "{\"slayerlevel\":\"\",\"exp\":\"68\",\"cost\":\"<span style=\\\"white-space:nowrap\\\"> <sup>2</sup>[[File:Earth rune.png|Earth|link=Earth rune]]         <sup>2</sup>[[File:Law rune.png|Law|link=Law rune]]          </span>\",\"level\":\"58\",\"type\":\"Teleport\",\"spellbook\":\"Normal\"}",
+    "uses_material": [
+      "Earth rune",
+      "Law rune"
+    ],
+    "spellbook": "normal"
+  },
+  {
+    "page_name": "Ape Atoll Teleport (standard)",
+    "image": "[[File:Ape Atoll Teleport (standard).png]]",
+    "is_members_only": true,
+    "page_name_sub": "Ape Atoll Teleport (standard)",
+    "json": "{\"slayerlevel\":\"\",\"exp\":\"74\",\"cost\":\"<span style=\\\"white-space:nowrap\\\">  <sup>2</sup>[[File:Fire rune.png|Fire|link=Fire rune]] <sup>2</sup>[[File:Water rune.png|Water|link=Water rune]]       <sup>2</sup>[[File:Law rune.png|Law|link=Law rune]]     <sup>1</sup>[[File:Banana.png|Banana|link=Banana]]     </span>\",\"level\":\"64\",\"type\":\"Teleport\",\"spellbook\":\"Normal\"}",
+    "uses_material": [
+      "Fire rune",
+      "Water rune",
+      "Law rune",
+      "Banana"
+    ],
+    "spellbook": "normal"
+  },
+  {
+    "page_name": "Enchant Crossbow Bolt (Red Topaz)",
+    "image": "[[File:Enchant Crossbow Bolt.png]]",
+    "is_members_only": true,
+    "page_name_sub": "Enchant Crossbow Bolt (Red Topaz)",
+    "json": "{\"slayerlevel\":\"\",\"exp\":\"33.5\",\"cost\":\"<span style=\\\"white-space:nowrap\\\">  <sup>2</sup>[[File:Fire rune.png|Fire|link=Fire rune]]      <sup>1</sup>[[File:Cosmic rune.png|Cosmic|link=Cosmic rune]]            </span>\",\"level\":\"29\",\"type\":\"Utility\",\"spellbook\":\"Normal\"}",
+    "uses_material": [
+      "Fire rune",
+      "Cosmic rune"
+    ],
+    "spellbook": "normal"
+  },
+  {
+    "page_name": "Lvl-1 Enchant",
+    "image": "[[File:Lvl-1 Enchant.png]]",
+    "is_members_only": false,
+    "page_name_sub": "Lvl-1 Enchant",
+    "json": "{\"slayerlevel\":\"\",\"exp\":\"17.5\",\"cost\":\"<span style=\\\"white-space:nowrap\\\">   <sup>1</sup>[[File:Water rune.png|Water|link=Water rune]]     <sup>1</sup>[[File:Cosmic rune.png|Cosmic|link=Cosmic rune]]            </span>\",\"level\":\"7\",\"type\":\"Utility\",\"spellbook\":\"Normal\"}",
+    "uses_material": [
+      "Water rune",
+      "Cosmic rune"
+    ],
+    "spellbook": "normal"
+  },
+  {
+    "page_name": "Blood Barrage",
+    "image": "[[File:Blood Barrage.png]]",
+    "is_members_only": true,
+    "page_name_sub": "Blood Barrage",
+    "json": "{\"slayerlevel\":\"\",\"exp\":\"51\",\"cost\":\"<span style=\\\"white-space:nowrap\\\">     <sup>4</sup>[[File:Blood rune.png|Blood|link=Blood rune]]    <sup>4</sup>[[File:Death rune.png|Death|link=Death rune]]    <sup>1</sup>[[File:Soul rune.png|Soul|link=Soul rune]]       </span>\",\"level\":\"92\",\"type\":\"Combat\",\"spellbook\":\"Ancient\"}",
+    "uses_material": [
+      "Blood rune",
+      "Death rune",
+      "Soul rune"
+    ],
+    "spellbook": "ancient"
+  },
+  {
+    "page_name": "Lvl-2 Enchant",
+    "image": "[[File:Lvl-2 Enchant.png]]",
+    "is_members_only": false,
+    "page_name_sub": "Lvl-2 Enchant",
+    "json": "{\"slayerlevel\":\"\",\"exp\":\"37\",\"cost\":\"<span style=\\\"white-space:nowrap\\\"><sup>3</sup>[[File:Air rune.png|Air|link=Air rune]]        <sup>1</sup>[[File:Cosmic rune.png|Cosmic|link=Cosmic rune]]            </span>\",\"level\":\"27\",\"type\":\"Utility\",\"spellbook\":\"Normal\"}",
+    "uses_material": [
+      "Air rune",
+      "Cosmic rune"
+    ],
+    "spellbook": "normal"
+  },
+  {
+    "page_name": "Weaken",
+    "image": "[[File:Weaken.png]]",
+    "is_members_only": false,
+    "page_name_sub": "Weaken",
+    "json": "{\"slayerlevel\":\"\",\"exp\":\"21\",\"cost\":\"<span style=\\\"white-space:nowrap\\\"> <sup>2</sup>[[File:Earth rune.png|Earth|link=Earth rune]]  <sup>3</sup>[[File:Water rune.png|Water|link=Water rune]]   <sup>1</sup>[[File:Body rune.png|Body|link=Body rune]]              </span>\",\"level\":\"11\",\"type\":\"Combat\",\"spellbook\":\"Normal\"}",
+    "uses_material": [
+      "Earth rune",
+      "Water rune",
+      "Body rune"
+    ],
+    "spellbook": "normal"
+  },
+  {
+    "page_name": "Curse",
+    "image": "[[File:Curse.png]]",
+    "is_members_only": false,
+    "page_name_sub": "Curse",
+    "json": "{\"slayerlevel\":\"\",\"exp\":\"29\",\"cost\":\"<span style=\\\"white-space:nowrap\\\"> <sup>3</sup>[[File:Earth rune.png|Earth|link=Earth rune]]  <sup>2</sup>[[File:Water rune.png|Water|link=Water rune]]   <sup>1</sup>[[File:Body rune.png|Body|link=Body rune]]              </span>\",\"level\":\"19\",\"type\":\"Combat\",\"spellbook\":\"Normal\"}",
+    "uses_material": [
+      "Earth rune",
+      "Water rune",
+      "Body rune"
+    ],
+    "spellbook": "normal"
+  },
+  {
+    "page_name": "Bind",
+    "image": "[[File:Bind.png]]",
+    "is_members_only": false,
+    "page_name_sub": "Bind",
+    "json": "{\"slayerlevel\":\"\",\"exp\":\"31\",\"cost\":\"<span style=\\\"white-space:nowrap\\\"> <sup>3</sup>[[File:Earth rune.png|Earth|link=Earth rune]]  <sup>3</sup>[[File:Water rune.png|Water|link=Water rune]]         <sup>2</sup>[[File:Nature rune.png|Nature|link=Nature rune]]        </span>\",\"level\":\"20\",\"type\":\"Combat\",\"spellbook\":\"Normal\"}",
+    "uses_material": [
+      "Earth rune",
+      "Water rune",
+      "Nature rune"
+    ],
+    "spellbook": "normal"
+  },
+  {
+    "page_name": "Snare",
+    "image": "[[File:Snare.png]]",
+    "is_members_only": false,
+    "page_name_sub": "Snare",
+    "json": "{\"slayerlevel\":\"\",\"exp\":\"61\",\"cost\":\"<span style=\\\"white-space:nowrap\\\"> <sup>4</sup>[[File:Earth rune.png|Earth|link=Earth rune]]  <sup>4</sup>[[File:Water rune.png|Water|link=Water rune]]         <sup>3</sup>[[File:Nature rune.png|Nature|link=Nature rune]]        </span>\",\"level\":\"50\",\"type\":\"Combat\",\"spellbook\":\"Normal\"}",
+    "uses_material": [
+      "Earth rune",
+      "Water rune",
+      "Nature rune"
+    ],
+    "spellbook": "normal"
+  },
+  {
+    "page_name": "Vulnerability",
+    "image": "[[File:Vulnerability.png]]",
+    "is_members_only": true,
+    "page_name_sub": "Vulnerability",
+    "json": "{\"slayerlevel\":\"\",\"exp\":\"76\",\"cost\":\"<span style=\\\"white-space:nowrap\\\"> <sup>5</sup>[[File:Earth rune.png|Earth|link=Earth rune]]  <sup>5</sup>[[File:Water rune.png|Water|link=Water rune]]          <sup>1</sup>[[File:Soul rune.png|Soul|link=Soul rune]]       </span>\",\"level\":\"66\",\"type\":\"Combat\",\"spellbook\":\"Normal\"}",
+    "uses_material": [
+      "Earth rune",
+      "Water rune",
+      "Soul rune"
+    ],
+    "spellbook": "normal"
+  },
+  {
+    "page_name": "Enfeeble",
+    "image": "[[File:Enfeeble.png]]",
+    "is_members_only": true,
+    "page_name_sub": "Enfeeble",
+    "json": "{\"slayerlevel\":\"\",\"exp\":\"83\",\"cost\":\"<span style=\\\"white-space:nowrap\\\"> <sup>8</sup>[[File:Earth rune.png|Earth|link=Earth rune]]  <sup>8</sup>[[File:Water rune.png|Water|link=Water rune]]          <sup>1</sup>[[File:Soul rune.png|Soul|link=Soul rune]]       </span>\",\"level\":\"73\",\"type\":\"Combat\",\"spellbook\":\"Normal\"}",
+    "uses_material": [
+      "Earth rune",
+      "Water rune",
+      "Soul rune"
+    ],
+    "spellbook": "normal"
+  },
+  {
+    "page_name": "Entangle",
+    "image": "[[File:Entangle.png]]",
+    "is_members_only": true,
+    "page_name_sub": "Entangle",
+    "json": "{\"slayerlevel\":\"\",\"exp\":\"89\",\"cost\":\"<span style=\\\"white-space:nowrap\\\"> <sup>5</sup>[[File:Earth rune.png|Earth|link=Earth rune]]  <sup>5</sup>[[File:Water rune.png|Water|link=Water rune]]         <sup>4</sup>[[File:Nature rune.png|Nature|link=Nature rune]]        </span>\",\"level\":\"79\",\"type\":\"Combat\",\"spellbook\":\"Normal\"}",
+    "uses_material": [
+      "Earth rune",
+      "Water rune",
+      "Nature rune"
+    ],
+    "spellbook": "normal"
+  },
+  {
+    "page_name": "Stun",
+    "image": "[[File:Stun.png]]",
+    "is_members_only": true,
+    "page_name_sub": "Stun",
+    "json": "{\"slayerlevel\":\"\",\"exp\":\"90\",\"cost\":\"<span style=\\\"white-space:nowrap\\\"> <sup>12</sup>[[File:Earth rune.png|Earth|link=Earth rune]]  <sup>12</sup>[[File:Water rune.png|Water|link=Water rune]]          <sup>1</sup>[[File:Soul rune.png|Soul|link=Soul rune]]       </span>\",\"level\":\"80\",\"type\":\"Combat\",\"spellbook\":\"Normal\"}",
+    "uses_material": [
+      "Earth rune",
+      "Water rune",
+      "Soul rune"
+    ],
+    "spellbook": "normal"
+  },
+  {
+    "page_name": "Tele Group Moonclan",
+    "image": "[[File:Tele Group Moonclan.png]]",
+    "is_members_only": true,
+    "page_name_sub": "Tele Group Moonclan",
+    "json": "{\"slayerlevel\":\"\",\"exp\":\"67\",\"cost\":\"<span style=\\\"white-space:nowrap\\\"> <sup>4</sup>[[File:Earth rune.png|Earth|link=Earth rune]]   <sup>2</sup>[[File:Astral rune.png|Astral|link=Astral rune]]      <sup>1</sup>[[File:Law rune.png|Law|link=Law rune]]          </span>\",\"level\":\"70\",\"type\":\"Teleport\",\"spellbook\":\"Lunar\"}",
+    "uses_material": [
+      "Earth rune",
+      "Astral rune",
+      "Law rune"
+    ],
+    "spellbook": "lunar"
+  },
+  {
+    "page_name": "Moonclan Teleport",
+    "image": "[[File:Moonclan Teleport.png]]",
+    "is_members_only": true,
+    "page_name_sub": "Moonclan Teleport",
+    "json": "{\"slayerlevel\":\"\",\"exp\":\"66\",\"cost\":\"<span style=\\\"white-space:nowrap\\\"> <sup>2</sup>[[File:Earth rune.png|Earth|link=Earth rune]]   <sup>2</sup>[[File:Astral rune.png|Astral|link=Astral rune]]      <sup>1</sup>[[File:Law rune.png|Law|link=Law rune]]          </span>\",\"level\":\"69\",\"type\":\"Teleport\",\"spellbook\":\"Lunar\"}",
+    "uses_material": [
+      "Earth rune",
+      "Astral rune",
+      "Law rune"
+    ],
+    "spellbook": "lunar"
+  },
+  {
+    "page_name": "Spellbook Swap",
+    "image": "[[File:Spellbook Swap.png]]",
+    "is_members_only": true,
+    "page_name_sub": "Spellbook Swap",
+    "json": "{\"slayerlevel\":\"\",\"exp\":\"130\",\"cost\":\"<span style=\\\"white-space:nowrap\\\">    <sup>3</sup>[[File:Astral rune.png|Astral|link=Astral rune]]    <sup>2</sup>[[File:Cosmic rune.png|Cosmic|link=Cosmic rune]]  <sup>1</sup>[[File:Law rune.png|Law|link=Law rune]]          </span>\",\"level\":\"96\",\"type\":\"Utility\",\"spellbook\":\"Lunar\"}",
+    "uses_material": [
+      "Astral rune",
+      "Cosmic rune",
+      "Law rune"
+    ],
+    "spellbook": "lunar"
+  },
+  {
+    "page_name": "Ghorrock Teleport",
+    "image": "[[File:Ghorrock Teleport.png]]",
+    "is_members_only": true,
+    "page_name_sub": "Ghorrock Teleport",
+    "json": "{\"slayerlevel\":\"\",\"exp\":\"106\",\"cost\":\"<span style=\\\"white-space:nowrap\\\">   <sup>8</sup>[[File:Water rune.png|Water|link=Water rune]]       <sup>2</sup>[[File:Law rune.png|Law|link=Law rune]]          </span>\",\"level\":\"96\",\"type\":\"Teleport\",\"spellbook\":\"Ancient\"}",
+    "uses_material": [
+      "Water rune",
+      "Law rune"
+    ],
+    "spellbook": "ancient"
+  },
+  {
+    "page_name": "Humidify",
+    "image": "[[File:Humidify.png]]",
+    "is_members_only": true,
+    "page_name_sub": "Humidify",
+    "json": "{\"slayerlevel\":\"\",\"exp\":\"65\",\"cost\":\"<span style=\\\"white-space:nowrap\\\">  <sup>1</sup>[[File:Fire rune.png|Fire|link=Fire rune]] <sup>3</sup>[[File:Water rune.png|Water|link=Water rune]] <sup>1</sup>[[File:Astral rune.png|Astral|link=Astral rune]]                </span>\",\"level\":\"68\",\"type\":\"Utility\",\"spellbook\":\"Lunar\"}",
+    "uses_material": [
+      "Fire rune",
+      "Water rune",
+      "Astral rune"
+    ],
+    "spellbook": "lunar"
+  },
+  {
+    "page_name": "Superglass Make",
+    "image": "[[File:Superglass Make.png]]",
+    "is_members_only": true,
+    "page_name_sub": "Superglass Make",
+    "json": "{\"slayerlevel\":\"\",\"exp\":\"78\",\"cost\":\"<span style=\\\"white-space:nowrap\\\"><sup>10</sup>[[File:Air rune.png|Air|link=Air rune]]  <sup>6</sup>[[File:Fire rune.png|Fire|link=Fire rune]]  <sup>2</sup>[[File:Astral rune.png|Astral|link=Astral rune]]                </span>\",\"level\":\"77\",\"type\":\"Utility\",\"spellbook\":\"Lunar\"}",
+    "uses_material": [
+      "Air rune",
+      "Fire rune",
+      "Astral rune"
+    ],
+    "spellbook": "lunar"
+  },
+  {
+    "page_name": "Waterbirth Teleport",
+    "image": "[[File:Waterbirth Teleport.png]]",
+    "is_members_only": true,
+    "page_name_sub": "Waterbirth Teleport",
+    "json": "{\"slayerlevel\":\"\",\"exp\":\"71\",\"cost\":\"<span style=\\\"white-space:nowrap\\\">   <sup>1</sup>[[File:Water rune.png|Water|link=Water rune]] <sup>2</sup>[[File:Astral rune.png|Astral|link=Astral rune]]      <sup>1</sup>[[File:Law rune.png|Law|link=Law rune]]          </span>\",\"level\":\"72\",\"type\":\"Teleport\",\"spellbook\":\"Lunar\"}",
+    "uses_material": [
+      "Water rune",
+      "Astral rune",
+      "Law rune"
+    ],
+    "spellbook": "lunar"
+  },
+  {
+    "page_name": "Khazard Teleport",
+    "image": "[[File:Khazard Teleport.png]]",
+    "is_members_only": true,
+    "page_name_sub": "Khazard Teleport",
+    "json": "{\"slayerlevel\":\"\",\"exp\":\"80\",\"cost\":\"<span style=\\\"white-space:nowrap\\\">   <sup>4</sup>[[File:Water rune.png|Water|link=Water rune]] <sup>2</sup>[[File:Astral rune.png|Astral|link=Astral rune]]      <sup>2</sup>[[File:Law rune.png|Law|link=Law rune]]          </span>\",\"level\":\"78\",\"type\":\"Teleport\",\"spellbook\":\"Lunar\"}",
+    "uses_material": [
+      "Water rune",
+      "Astral rune",
+      "Law rune"
+    ],
+    "spellbook": "lunar"
+  },
+  {
+    "page_name": "Fishing Guild Teleport",
+    "image": "[[File:Fishing Guild Teleport.png]]",
+    "is_members_only": true,
+    "page_name_sub": "Fishing Guild Teleport",
+    "json": "{\"slayerlevel\":\"\",\"exp\":\"89\",\"cost\":\"<span style=\\\"white-space:nowrap\\\">   <sup>10</sup>[[File:Water rune.png|Water|link=Water rune]] <sup>3</sup>[[File:Astral rune.png|Astral|link=Astral rune]]      <sup>3</sup>[[File:Law rune.png|Law|link=Law rune]]          </span>\",\"level\":\"85\",\"type\":\"Teleport\",\"spellbook\":\"Lunar\"}",
+    "uses_material": [
+      "Water rune",
+      "Astral rune",
+      "Law rune"
+    ],
+    "spellbook": "lunar"
+  },
+  {
+    "page_name": "Catherby Teleport",
+    "image": "[[File:Catherby Teleport.png]]",
+    "is_members_only": true,
+    "page_name_sub": "Catherby Teleport",
+    "json": "{\"slayerlevel\":\"\",\"exp\":\"92\",\"cost\":\"<span style=\\\"white-space:nowrap\\\">   <sup>10</sup>[[File:Water rune.png|Water|link=Water rune]] <sup>3</sup>[[File:Astral rune.png|Astral|link=Astral rune]]      <sup>3</sup>[[File:Law rune.png|Law|link=Law rune]]          </span>\",\"level\":\"87\",\"type\":\"Teleport\",\"spellbook\":\"Lunar\"}",
+    "uses_material": [
+      "Water rune",
+      "Astral rune",
+      "Law rune"
+    ],
+    "spellbook": "lunar"
+  },
+  {
+    "page_name": "Ice Plateau Teleport",
+    "image": "[[File:Ice Plateau Teleport.png]]",
+    "is_members_only": true,
+    "page_name_sub": "Ice Plateau Teleport",
+    "json": "{\"slayerlevel\":\"\",\"exp\":\"96\",\"cost\":\"<span style=\\\"white-space:nowrap\\\">   <sup>8</sup>[[File:Water rune.png|Water|link=Water rune]] <sup>3</sup>[[File:Astral rune.png|Astral|link=Astral rune]]      <sup>3</sup>[[File:Law rune.png|Law|link=Law rune]]          </span>\",\"level\":\"89\",\"type\":\"Teleport\",\"spellbook\":\"Lunar\"}",
+    "uses_material": [
+      "Water rune",
+      "Astral rune",
+      "Law rune"
+    ],
+    "spellbook": "lunar"
+  },
+  {
+    "page_name": "Lunar Home Teleport",
+    "image": "[[File:Lunar Home Teleport.png]]",
+    "is_members_only": true,
+    "page_name_sub": "Lunar Home Teleport",
+    "json": "{\"slayerlevel\":\"\",\"exp\":\"0\",\"cost\":\"None ''(see article)''\",\"level\":\"1\",\"type\":\"Teleport\",\"spellbook\":\"Lunar\"}",
+    "spellbook": "lunar"
+  },
+  {
+    "page_name": "Teleother Lumbridge",
+    "image": "[[File:Teleother Lumbridge.png]]",
+    "is_members_only": true,
+    "page_name_sub": "Teleother Lumbridge",
+    "json": "{\"slayerlevel\":\"\",\"exp\":\"84\",\"cost\":\"<span style=\\\"white-space:nowrap\\\"> <sup>1</sup>[[File:Earth rune.png|Earth|link=Earth rune]]         <sup>1</sup>[[File:Law rune.png|Law|link=Law rune]]   <sup>1</sup>[[File:Soul rune.png|Soul|link=Soul rune]]       </span>\",\"level\":\"74\",\"type\":\"teleport\",\"spellbook\":\"Normal\"}",
+    "uses_material": [
+      "Earth rune",
+      "Law rune",
+      "Soul rune"
+    ],
+    "spellbook": "normal"
+  },
+  {
+    "page_name": "String Jewellery",
+    "image": "[[File:String Jewellery.png]]",
+    "is_members_only": true,
+    "page_name_sub": "String Jewellery",
+    "json": "{\"slayerlevel\":\"\",\"exp\":\"83\",\"cost\":\"<span style=\\\"white-space:nowrap\\\"> <sup>10</sup>[[File:Earth rune.png|Earth|link=Earth rune]]  <sup>5</sup>[[File:Water rune.png|Water|link=Water rune]] <sup>2</sup>[[File:Astral rune.png|Astral|link=Astral rune]]                </span>\",\"level\":\"80\",\"type\":\"Utility\",\"spellbook\":\"Lunar\"}",
+    "uses_material": [
+      "Earth rune",
+      "Water rune",
+      "Astral rune"
+    ],
+    "spellbook": "lunar"
+  },
+  {
+    "page_name": "Smoke Barrage",
+    "image": "[[File:Smoke Barrage.png]]",
+    "is_members_only": true,
+    "page_name_sub": "Smoke Barrage",
+    "json": "{\"slayerlevel\":\"\",\"exp\":\"48\",\"cost\":\"<span style=\\\"white-space:nowrap\\\"><sup>4</sup>[[File:Air rune.png|Air|link=Air rune]]  <sup>4</sup>[[File:Fire rune.png|Fire|link=Fire rune]]   <sup>2</sup>[[File:Blood rune.png|Blood|link=Blood rune]]    <sup>4</sup>[[File:Death rune.png|Death|link=Death rune]]           </span>\",\"level\":\"86\",\"type\":\"Combat\",\"spellbook\":\"Ancient\"}",
+    "uses_material": [
+      "Air rune",
+      "Fire rune",
+      "Blood rune",
+      "Death rune"
+    ],
+    "spellbook": "ancient"
+  },
+  {
+    "page_name": "Plank Make",
+    "image": "[[File:Plank Make.png]]",
+    "is_members_only": true,
+    "page_name_sub": "Plank Make",
+    "json": "{\"slayerlevel\":\"\",\"exp\":\"90\",\"cost\":\"<span style=\\\"white-space:nowrap\\\"> <sup>15</sup>[[File:Earth rune.png|Earth|link=Earth rune]]   <sup>2</sup>[[File:Astral rune.png|Astral|link=Astral rune]]        <sup>1</sup>[[File:Nature rune.png|Nature|link=Nature rune]]        </span><sup></sup><span class=\\\"plinkp-template\\\">[[File:Coins 25.png|link=Coins]]</span>\",\"level\":\"86\",\"type\":\"Utility\",\"spellbook\":\"Lunar\"}",
+    "uses_material": [
+      "Earth rune",
+      "Astral rune",
+      "Nature rune"
+    ],
+    "spellbook": "lunar"
+  },
+  {
+    "page_name": "Kharyrll Teleport",
+    "image": "[[File:Kharyrll Teleport.png]]",
+    "is_members_only": true,
+    "page_name_sub": "Kharyrll Teleport",
+    "json": "{\"slayerlevel\":\"\",\"exp\":\"76\",\"cost\":\"<span style=\\\"white-space:nowrap\\\">     <sup>1</sup>[[File:Blood rune.png|Blood|link=Blood rune]]     <sup>2</sup>[[File:Law rune.png|Law|link=Law rune]]          </span>\",\"level\":\"66\",\"type\":\"Teleport\",\"spellbook\":\"Ancient\"}",
+    "uses_material": [
+      "Blood rune",
+      "Law rune"
+    ],
+    "spellbook": "ancient"
+  },
+  {
+    "page_name": "Blood Burst",
+    "image": "[[File:Blood Burst.png]]",
+    "is_members_only": true,
+    "page_name_sub": "Blood Burst",
+    "json": "{\"slayerlevel\":\"\",\"exp\":\"39\",\"cost\":\"<span style=\\\"white-space:nowrap\\\">     <sup>2</sup>[[File:Blood rune.png|Blood|link=Blood rune]]  <sup>4</sup>[[File:Chaos rune.png|Chaos|link=Chaos rune]]  <sup>2</sup>[[File:Death rune.png|Death|link=Death rune]]           </span>\",\"level\":\"68\",\"type\":\"Combat\",\"spellbook\":\"Ancient\"}",
+    "uses_material": [
+      "Blood rune",
+      "Chaos rune",
+      "Death rune"
+    ],
+    "spellbook": "ancient"
+  },
+  {
+    "page_name": "Hunter Kit (spell)",
+    "image": "[[File:Hunter Kit.png]]",
+    "is_members_only": true,
+    "page_name_sub": "Hunter Kit (spell)",
+    "json": "{\"slayerlevel\":\"\",\"exp\":\"70\",\"cost\":\"<span style=\\\"white-space:nowrap\\\"> <sup>2</sup>[[File:Earth rune.png|Earth|link=Earth rune]]   <sup>2</sup>[[File:Astral rune.png|Astral|link=Astral rune]]                </span>\",\"level\":\"71\",\"type\":\"Utility\",\"spellbook\":\"Lunar\"}",
+    "uses_material": [
+      "Earth rune",
+      "Astral rune"
+    ],
+    "spellbook": "lunar"
+  },
+  {
+    "page_name": "Vengeance",
+    "image": "[[File:Vengeance.png]]",
+    "is_members_only": true,
+    "page_name_sub": "Vengeance",
+    "json": "{\"slayerlevel\":\"\",\"exp\":\"112\",\"cost\":\"<span style=\\\"white-space:nowrap\\\"> <sup>10</sup>[[File:Earth rune.png|Earth|link=Earth rune]]   <sup>4</sup>[[File:Astral rune.png|Astral|link=Astral rune]]     <sup>2</sup>[[File:Death rune.png|Death|link=Death rune]]           </span>\",\"level\":\"94\",\"type\":\"Combat\",\"spellbook\":\"Lunar\"}",
+    "uses_material": [
+      "Earth rune",
+      "Astral rune",
+      "Death rune"
+    ],
+    "spellbook": "lunar"
+  },
+  {
+    "page_name": "Blood Rush",
+    "image": "[[File:Blood Rush.png]]",
+    "is_members_only": true,
+    "page_name_sub": "Blood Rush",
+    "json": "{\"slayerlevel\":\"\",\"exp\":\"33\",\"cost\":\"<span style=\\\"white-space:nowrap\\\">     <sup>1</sup>[[File:Blood rune.png|Blood|link=Blood rune]]  <sup>2</sup>[[File:Chaos rune.png|Chaos|link=Chaos rune]]  <sup>2</sup>[[File:Death rune.png|Death|link=Death rune]]           </span>\",\"level\":\"56\",\"type\":\"Combat\",\"spellbook\":\"Ancient\"}",
+    "uses_material": [
+      "Blood rune",
+      "Chaos rune",
+      "Death rune"
+    ],
+    "spellbook": "ancient"
+  },
+  {
+    "page_name": "Monster Examine",
+    "image": "[[File:Monster Examine.png]]",
+    "is_members_only": true,
+    "page_name_sub": "Monster Examine",
+    "json": "{\"slayerlevel\":\"\",\"exp\":\"61\",\"cost\":\"<span style=\\\"white-space:nowrap\\\">    <sup>1</sup>[[File:Astral rune.png|Astral|link=Astral rune]]    <sup>1</sup>[[File:Cosmic rune.png|Cosmic|link=Cosmic rune]]   <sup>1</sup>[[File:Mind rune.png|Mind|link=Mind rune]]         </span>\",\"level\":\"66\",\"type\":\"Combat\",\"spellbook\":\"Lunar\"}",
+    "uses_material": [
+      "Astral rune",
+      "Cosmic rune",
+      "Mind rune"
+    ],
+    "spellbook": "lunar"
+  },
+  {
+    "page_name": "Ape Atoll Teleport (Arceuus)",
+    "image": "[[File:Ape Atoll Teleport (Arceuus).png]]",
+    "is_members_only": true,
+    "page_name_sub": "Ape Atoll Teleport (Arceuus)",
+    "json": "{\"slayerlevel\":\"\",\"exp\":\"100\",\"cost\":\"<span style=\\\"white-space:nowrap\\\">     <sup>2</sup>[[File:Blood rune.png|Blood|link=Blood rune]]     <sup>2</sup>[[File:Law rune.png|Law|link=Law rune]]   <sup>2</sup>[[File:Soul rune.png|Soul|link=Soul rune]]       </span>\",\"level\":\"90\",\"type\":\"Teleport\",\"spellbook\":\"Arceuus\"}",
+    "uses_material": [
+      "Blood rune",
+      "Law rune",
+      "Soul rune"
+    ],
+    "spellbook": "arceuus"
+  },
+  {
+    "page_name": "Lvl-5 Enchant",
+    "image": "[[File:Lvl-5 Enchant.png]]",
+    "is_members_only": true,
+    "page_name_sub": "Lvl-5 Enchant",
+    "json": "{\"slayerlevel\":\"\",\"exp\":\"78\",\"cost\":\"<span style=\\\"white-space:nowrap\\\"> <sup>15</sup>[[File:Earth rune.png|Earth|link=Earth rune]]  <sup>15</sup>[[File:Water rune.png|Water|link=Water rune]]     <sup>1</sup>[[File:Cosmic rune.png|Cosmic|link=Cosmic rune]]            </span>\",\"level\":\"68\",\"type\":\"Utility\",\"spellbook\":\"Normal\"}",
+    "uses_material": [
+      "Earth rune",
+      "Water rune",
+      "Cosmic rune"
+    ],
+    "spellbook": "normal"
+  },
+  {
+    "page_name": "Vengeance Other",
+    "image": "[[File:Vengeance Other.png]]",
+    "is_members_only": true,
+    "page_name_sub": "Vengeance Other",
+    "json": "{\"slayerlevel\":\"\",\"exp\":\"108\",\"cost\":\"<span style=\\\"white-space:nowrap\\\"> <sup>10</sup>[[File:Earth rune.png|Earth|link=Earth rune]]   <sup>3</sup>[[File:Astral rune.png|Astral|link=Astral rune]]     <sup>2</sup>[[File:Death rune.png|Death|link=Death rune]]           </span>\",\"level\":\"93\",\"type\":\"Combat\",\"spellbook\":\"Lunar\"}",
+    "uses_material": [
+      "Earth rune",
+      "Astral rune",
+      "Death rune"
+    ],
+    "spellbook": "lunar"
+  },
+  {
+    "page_name": "Tele Group Waterbirth",
+    "image": "[[File:Tele Group Waterbirth.png]]",
+    "is_members_only": true,
+    "page_name_sub": "Tele Group Waterbirth",
+    "json": "{\"slayerlevel\":\"\",\"exp\":\"72\",\"cost\":\"<span style=\\\"white-space:nowrap\\\">   <sup>5</sup>[[File:Water rune.png|Water|link=Water rune]] <sup>2</sup>[[File:Astral rune.png|Astral|link=Astral rune]]      <sup>1</sup>[[File:Law rune.png|Law|link=Law rune]]          </span>\",\"level\":\"73\",\"type\":\"Teleport\",\"spellbook\":\"Lunar\"}",
+    "uses_material": [
+      "Water rune",
+      "Astral rune",
+      "Law rune"
+    ],
+    "spellbook": "lunar"
+  },
+  {
+    "page_name": "Tele Group Barbarian",
+    "image": "[[File:Tele Group Barbarian.png]]",
+    "is_members_only": true,
+    "page_name_sub": "Tele Group Barbarian",
+    "json": "{\"slayerlevel\":\"\",\"exp\":\"77\",\"cost\":\"<span style=\\\"white-space:nowrap\\\">  <sup>6</sup>[[File:Fire rune.png|Fire|link=Fire rune]]  <sup>2</sup>[[File:Astral rune.png|Astral|link=Astral rune]]      <sup>2</sup>[[File:Law rune.png|Law|link=Law rune]]          </span>\",\"level\":\"76\",\"type\":\"Teleport\",\"spellbook\":\"Lunar\"}",
+    "uses_material": [
+      "Fire rune",
+      "Astral rune",
+      "Law rune"
+    ],
+    "spellbook": "lunar"
+  },
+  {
+    "page_name": "Tele Group Khazard",
+    "image": "[[File:Tele Group Khazard.png]]",
+    "is_members_only": true,
+    "page_name_sub": "Tele Group Khazard",
+    "json": "{\"slayerlevel\":\"\",\"exp\":\"81\",\"cost\":\"<span style=\\\"white-space:nowrap\\\">   <sup>8</sup>[[File:Water rune.png|Water|link=Water rune]] <sup>2</sup>[[File:Astral rune.png|Astral|link=Astral rune]]      <sup>2</sup>[[File:Law rune.png|Law|link=Law rune]]          </span>\",\"level\":\"79\",\"type\":\"Teleport\",\"spellbook\":\"Lunar\"}",
+    "uses_material": [
+      "Water rune",
+      "Astral rune",
+      "Law rune"
+    ],
+    "spellbook": "lunar"
+  },
+  {
+    "page_name": "Smoke Burst",
+    "image": "[[File:Smoke Burst.png]]",
+    "is_members_only": true,
+    "page_name_sub": "Smoke Burst",
+    "json": "{\"slayerlevel\":\"\",\"exp\":\"36\",\"cost\":\"<span style=\\\"white-space:nowrap\\\"><sup>2</sup>[[File:Air rune.png|Air|link=Air rune]]  <sup>2</sup>[[File:Fire rune.png|Fire|link=Fire rune]]     <sup>4</sup>[[File:Chaos rune.png|Chaos|link=Chaos rune]]  <sup>2</sup>[[File:Death rune.png|Death|link=Death rune]]           </span>\",\"level\":\"62\",\"type\":\"Combat\",\"spellbook\":\"Ancient\"}",
+    "uses_material": [
+      "Air rune",
+      "Fire rune",
+      "Chaos rune",
+      "Death rune"
+    ],
+    "spellbook": "ancient"
+  },
+  {
+    "page_name": "Shadow Barrage",
+    "image": "[[File:Shadow Barrage.png]]",
+    "is_members_only": true,
+    "page_name_sub": "Shadow Barrage",
+    "json": "{\"slayerlevel\":\"\",\"exp\":\"49\",\"cost\":\"<span style=\\\"white-space:nowrap\\\"><sup>4</sup>[[File:Air rune.png|Air|link=Air rune]]     <sup>2</sup>[[File:Blood rune.png|Blood|link=Blood rune]]    <sup>4</sup>[[File:Death rune.png|Death|link=Death rune]]    <sup>3</sup>[[File:Soul rune.png|Soul|link=Soul rune]]       </span>\",\"level\":\"88\",\"type\":\"Combat\",\"spellbook\":\"Ancient\"}",
+    "uses_material": [
+      "Air rune",
+      "Blood rune",
+      "Death rune",
+      "Soul rune"
+    ],
+    "spellbook": "ancient"
+  },
+  {
+    "page_name": "Enchant Crossbow Bolt (Onyx)",
+    "image": "[[File:Enchant Crossbow Bolt.png]]",
+    "is_members_only": true,
+    "page_name_sub": "Enchant Crossbow Bolt (Onyx)",
+    "json": "{\"slayerlevel\":\"\",\"exp\":\"97\",\"cost\":\"<span style=\\\"white-space:nowrap\\\">  <sup>20</sup>[[File:Fire rune.png|Fire|link=Fire rune]]      <sup>1</sup>[[File:Cosmic rune.png|Cosmic|link=Cosmic rune]] <sup>1</sup>[[File:Death rune.png|Death|link=Death rune]]           </span>\",\"level\":\"87\",\"type\":\"Utility\",\"spellbook\":\"Normal\"}",
+    "uses_material": [
+      "Fire rune",
+      "Cosmic rune",
+      "Death rune"
+    ],
+    "spellbook": "normal"
+  },
+  {
+    "page_name": "Enchant Crossbow Bolt (Dragonstone)",
+    "image": "[[File:Enchant Crossbow Bolt.png]]",
+    "is_members_only": true,
+    "page_name_sub": "Enchant Crossbow Bolt (Dragonstone)",
+    "json": "{\"slayerlevel\":\"\",\"exp\":\"78\",\"cost\":\"<span style=\\\"white-space:nowrap\\\"> <sup>15</sup>[[File:Earth rune.png|Earth|link=Earth rune]]       <sup>1</sup>[[File:Cosmic rune.png|Cosmic|link=Cosmic rune]]     <sup>1</sup>[[File:Soul rune.png|Soul|link=Soul rune]]       </span>\",\"level\":\"68\",\"type\":\"Utility\",\"spellbook\":\"Normal\"}",
+    "uses_material": [
+      "Earth rune",
+      "Cosmic rune",
+      "Soul rune"
+    ],
+    "spellbook": "normal"
+  },
+  {
+    "page_name": "Enchant Crossbow Bolt (Diamond)",
+    "image": "[[File:Enchant Crossbow Bolt.png]]",
+    "is_members_only": true,
+    "page_name_sub": "Enchant Crossbow Bolt (Diamond)",
+    "json": "{\"slayerlevel\":\"\",\"exp\":\"67\",\"cost\":\"<span style=\\\"white-space:nowrap\\\"> <sup>10</sup>[[File:Earth rune.png|Earth|link=Earth rune]]       <sup>1</sup>[[File:Cosmic rune.png|Cosmic|link=Cosmic rune]]  <sup>2</sup>[[File:Law rune.png|Law|link=Law rune]]          </span>\",\"level\":\"57\",\"type\":\"Utility\",\"spellbook\":\"Normal\"}",
+    "uses_material": [
+      "Earth rune",
+      "Cosmic rune",
+      "Law rune"
+    ],
+    "spellbook": "normal"
+  },
+  {
+    "page_name": "Enchant Crossbow Bolt (Ruby)",
+    "image": "[[File:Enchant Crossbow Bolt.png]]",
+    "is_members_only": true,
+    "page_name_sub": "Enchant Crossbow Bolt (Ruby)",
+    "json": "{\"slayerlevel\":\"\",\"exp\":\"59\",\"cost\":\"<span style=\\\"white-space:nowrap\\\">  <sup>5</sup>[[File:Fire rune.png|Fire|link=Fire rune]]   <sup>1</sup>[[File:Blood rune.png|Blood|link=Blood rune]]   <sup>1</sup>[[File:Cosmic rune.png|Cosmic|link=Cosmic rune]]            </span>\",\"level\":\"49\",\"type\":\"Utility\",\"spellbook\":\"Normal\"}",
+    "uses_material": [
+      "Fire rune",
+      "Blood rune",
+      "Cosmic rune"
+    ],
+    "spellbook": "normal"
+  },
+  {
+    "page_name": "Enchant Crossbow Bolt (Emerald)",
+    "image": "[[File:Enchant Crossbow Bolt.png]]",
+    "is_members_only": true,
+    "page_name_sub": "Enchant Crossbow Bolt (Emerald)",
+    "json": "{\"slayerlevel\":\"\",\"exp\":\"37\",\"cost\":\"<span style=\\\"white-space:nowrap\\\"><sup>3</sup>[[File:Air rune.png|Air|link=Air rune]]        <sup>1</sup>[[File:Cosmic rune.png|Cosmic|link=Cosmic rune]]    <sup>1</sup>[[File:Nature rune.png|Nature|link=Nature rune]]        </span>\",\"level\":\"27\",\"type\":\"Utility\",\"spellbook\":\"Normal\"}",
+    "uses_material": [
+      "Air rune",
+      "Cosmic rune",
+      "Nature rune"
+    ],
+    "spellbook": "normal"
+  },
+  {
+    "page_name": "Enchant Crossbow Bolt (Pearl)",
+    "image": "[[File:Enchant Crossbow Bolt.png]]",
+    "is_members_only": true,
+    "page_name_sub": "Enchant Crossbow Bolt (Pearl)",
+    "json": "{\"slayerlevel\":\"\",\"exp\":\"29\",\"cost\":\"<span style=\\\"white-space:nowrap\\\">   <sup>2</sup>[[File:Water rune.png|Water|link=Water rune]]     <sup>1</sup>[[File:Cosmic rune.png|Cosmic|link=Cosmic rune]]            </span>\",\"level\":\"24\",\"type\":\"Utility\",\"spellbook\":\"Normal\"}",
+    "uses_material": [
+      "Water rune",
+      "Cosmic rune"
+    ],
+    "spellbook": "normal"
+  },
+  {
+    "page_name": "Enchant Crossbow Bolt (Jade)",
+    "image": "[[File:Enchant Crossbow Bolt.png]]",
+    "is_members_only": true,
+    "page_name_sub": "Enchant Crossbow Bolt (Jade)",
+    "json": "{\"slayerlevel\":\"\",\"exp\":\"19\",\"cost\":\"<span style=\\\"white-space:nowrap\\\"> <sup>2</sup>[[File:Earth rune.png|Earth|link=Earth rune]]       <sup>1</sup>[[File:Cosmic rune.png|Cosmic|link=Cosmic rune]]            </span>\",\"level\":\"14\",\"type\":\"Utility\",\"spellbook\":\"Normal\"}",
+    "uses_material": [
+      "Earth rune",
+      "Cosmic rune"
+    ],
+    "spellbook": "normal"
+  },
+  {
+    "page_name": "Enchant Crossbow Bolt (Sapphire)",
+    "image": "[[File:Enchant Crossbow Bolt.png]]",
+    "is_members_only": true,
+    "page_name_sub": "Enchant Crossbow Bolt (Sapphire)",
+    "json": "{\"slayerlevel\":\"\",\"exp\":\"17.5\",\"cost\":\"<span style=\\\"white-space:nowrap\\\">   <sup>1</sup>[[File:Water rune.png|Water|link=Water rune]]     <sup>1</sup>[[File:Cosmic rune.png|Cosmic|link=Cosmic rune]]   <sup>1</sup>[[File:Mind rune.png|Mind|link=Mind rune]]         </span>\",\"level\":\"7\",\"type\":\"Utility\",\"spellbook\":\"Normal\"}",
+    "uses_material": [
+      "Water rune",
+      "Cosmic rune",
+      "Mind rune"
+    ],
+    "spellbook": "normal"
+  },
+  {
+    "page_name": "Enchant Crossbow Bolt (Opal)",
+    "image": "[[File:Enchant Crossbow Bolt.png]]",
+    "is_members_only": true,
+    "page_name_sub": "Enchant Crossbow Bolt (Opal)",
+    "json": "{\"slayerlevel\":\"\",\"exp\":\"9\",\"cost\":\"<span style=\\\"white-space:nowrap\\\"><sup>2</sup>[[File:Air rune.png|Air|link=Air rune]]        <sup>1</sup>[[File:Cosmic rune.png|Cosmic|link=Cosmic rune]]            </span>\",\"level\":\"4\",\"type\":\"Utility\",\"spellbook\":\"Normal\"}",
+    "uses_material": [
+      "Air rune",
+      "Cosmic rune"
+    ],
+    "spellbook": "normal"
+  },
+  {
+    "page_name": "Charge Fire Orb",
+    "image": "[[File:Charge Fire Orb.png]]",
+    "is_members_only": true,
+    "page_name_sub": "Charge Fire Orb",
+    "json": "{\"slayerlevel\":\"\",\"exp\":\"73\",\"cost\":\"<span style=\\\"white-space:nowrap\\\">  <sup>30</sup>[[File:Fire rune.png|Fire|link=Fire rune]]      <sup>3</sup>[[File:Cosmic rune.png|Cosmic|link=Cosmic rune]]        <sup>1</sup>[[File:Unpowered orb.png|Unpowered Orb|link=Unpowered orb]]    </span>\",\"level\":\"63\",\"type\":\"Utility\",\"spellbook\":\"Normal\"}",
+    "uses_material": [
+      "Fire rune",
+      "Cosmic rune",
+      "Unpowered orb"
+    ],
+    "spellbook": "normal"
+  },
+  {
+    "page_name": "Charge Earth Orb",
+    "image": "[[File:Charge Earth Orb.png]]",
+    "is_members_only": true,
+    "page_name_sub": "Charge Earth Orb",
+    "json": "{\"slayerlevel\":\"\",\"exp\":\"70\",\"cost\":\"<span style=\\\"white-space:nowrap\\\"> <sup>30</sup>[[File:Earth rune.png|Earth|link=Earth rune]]       <sup>3</sup>[[File:Cosmic rune.png|Cosmic|link=Cosmic rune]]        <sup>1</sup>[[File:Unpowered orb.png|Unpowered Orb|link=Unpowered orb]]    </span>\",\"level\":\"60\",\"type\":\"Utility\",\"spellbook\":\"Normal\"}",
+    "uses_material": [
+      "Earth rune",
+      "Cosmic rune",
+      "Unpowered orb"
+    ],
+    "spellbook": "normal"
+  },
+  {
+    "page_name": "Charge Water Orb",
+    "image": "[[File:Charge Water Orb.png]]",
+    "is_members_only": true,
+    "page_name_sub": "Charge Water Orb",
+    "json": "{\"slayerlevel\":\"\",\"exp\":\"66\",\"cost\":\"<span style=\\\"white-space:nowrap\\\">   <sup>30</sup>[[File:Water rune.png|Water|link=Water rune]]     <sup>3</sup>[[File:Cosmic rune.png|Cosmic|link=Cosmic rune]]        <sup>1</sup>[[File:Unpowered orb.png|Unpowered Orb|link=Unpowered orb]]    </span>\",\"level\":\"56\",\"type\":\"Utility\",\"spellbook\":\"Normal\"}",
+    "uses_material": [
+      "Water rune",
+      "Cosmic rune",
+      "Unpowered orb"
+    ],
+    "spellbook": "normal"
+  },
+  {
+    "page_name": "Tele Group Fishing Guild",
+    "image": "[[File:Tele Group Fishing Guild.png]]",
+    "is_members_only": true,
+    "page_name_sub": "Tele Group Fishing Guild",
+    "json": "{\"slayerlevel\":\"\",\"exp\":\"90\",\"cost\":\"<span style=\\\"white-space:nowrap\\\">   <sup>14</sup>[[File:Water rune.png|Water|link=Water rune]] <sup>3</sup>[[File:Astral rune.png|Astral|link=Astral rune]]      <sup>3</sup>[[File:Law rune.png|Law|link=Law rune]]          </span>\",\"level\":\"86\",\"type\":\"Teleport\",\"spellbook\":\"Lunar\"}",
+    "uses_material": [
+      "Water rune",
+      "Astral rune",
+      "Law rune"
+    ],
+    "spellbook": "lunar"
+  },
+  {
+    "page_name": "Teleother Falador",
+    "image": "[[File:Teleother Falador.png]]",
+    "is_members_only": true,
+    "page_name_sub": "Teleother Falador",
+    "json": "{\"slayerlevel\":\"\",\"exp\":\"92\",\"cost\":\"<span style=\\\"white-space:nowrap\\\">   <sup>1</sup>[[File:Water rune.png|Water|link=Water rune]]       <sup>1</sup>[[File:Law rune.png|Law|link=Law rune]]   <sup>1</sup>[[File:Soul rune.png|Soul|link=Soul rune]]       </span>\",\"level\":\"82\",\"type\":\"teleport\",\"spellbook\":\"Normal\"}",
+    "uses_material": [
+      "Water rune",
+      "Law rune",
+      "Soul rune"
+    ],
+    "spellbook": "normal"
+  },
+  {
+    "page_name": "Teleother Camelot",
+    "image": "[[File:Teleother Camelot.png]]",
+    "is_members_only": true,
+    "page_name_sub": "Teleother Camelot",
+    "json": "{\"slayerlevel\":\"\",\"exp\":\"100\",\"cost\":\"<span style=\\\"white-space:nowrap\\\">          <sup>1</sup>[[File:Law rune.png|Law|link=Law rune]]   <sup>2</sup>[[File:Soul rune.png|Soul|link=Soul rune]]       </span>\",\"level\":\"90\",\"type\":\"teleport\",\"spellbook\":\"Normal\"}",
+    "uses_material": [
+      "Law rune",
+      "Soul rune"
+    ],
+    "spellbook": "normal"
+  },
+  {
+    "page_name": "Edgeville Home Teleport",
+    "image": "[[File:Edgeville Home Teleport.png]]",
+    "is_members_only": false,
+    "page_name_sub": "Edgeville Home Teleport",
+    "json": "{\"slayerlevel\":\"\",\"exp\":\"0\",\"cost\":\"None ''(see article)''\",\"level\":\"1\",\"type\":\"Teleport\",\"spellbook\":\"Ancient\"}",
+    "spellbook": "ancient"
+  },
+  {
+    "page_name": "Senntisten Teleport",
+    "image": "[[File:Senntisten Teleport.png]]",
+    "is_members_only": true,
+    "page_name_sub": "Senntisten Teleport",
+    "json": "{\"slayerlevel\":\"\",\"exp\":\"70\",\"cost\":\"<span style=\\\"white-space:nowrap\\\">          <sup>2</sup>[[File:Law rune.png|Law|link=Law rune]]   <sup>1</sup>[[File:Soul rune.png|Soul|link=Soul rune]]       </span>\",\"level\":\"60\",\"type\":\"teleport\",\"spellbook\":\"Ancient\"}",
+    "uses_material": [
+      "Law rune",
+      "Soul rune"
+    ],
+    "spellbook": "ancient"
+  },
+  {
+    "page_name": "Lassar Teleport",
+    "image": "[[File:Lassar Teleport.png]]",
+    "is_members_only": true,
+    "page_name_sub": "Lassar Teleport",
+    "json": "{\"slayerlevel\":\"\",\"exp\":\"82\",\"cost\":\"<span style=\\\"white-space:nowrap\\\">   <sup>4</sup>[[File:Water rune.png|Water|link=Water rune]]       <sup>2</sup>[[File:Law rune.png|Law|link=Law rune]]          </span>\",\"level\":\"72\",\"type\":\"teleport\",\"spellbook\":\"Ancient\"}",
+    "uses_material": [
+      "Water rune",
+      "Law rune"
+    ],
+    "spellbook": "ancient"
+  },
+  {
+    "page_name": "Tele Group Catherby",
+    "image": "[[File:Tele Group Catherby.png]]",
+    "is_members_only": true,
+    "page_name_sub": "Tele Group Catherby",
+    "json": "{\"slayerlevel\":\"\",\"exp\":\"93\",\"cost\":\"<span style=\\\"white-space:nowrap\\\">   <sup>15</sup>[[File:Water rune.png|Water|link=Water rune]] <sup>3</sup>[[File:Astral rune.png|Astral|link=Astral rune]]      <sup>3</sup>[[File:Law rune.png|Law|link=Law rune]]          </span>\",\"level\":\"88\",\"type\":\"Teleport\",\"spellbook\":\"Lunar\"}",
+    "uses_material": [
+      "Water rune",
+      "Astral rune",
+      "Law rune"
+    ],
+    "spellbook": "lunar"
+  },
+  {
+    "page_name": "Dareeyak Teleport",
+    "image": "[[File:Dareeyak Teleport.png]]",
+    "is_members_only": true,
+    "page_name_sub": "Dareeyak Teleport",
+    "json": "{\"slayerlevel\":\"\",\"exp\":\"88\",\"cost\":\"<span style=\\\"white-space:nowrap\\\"><sup>2</sup>[[File:Air rune.png|Air|link=Air rune]]  <sup>3</sup>[[File:Fire rune.png|Fire|link=Fire rune]]        <sup>2</sup>[[File:Law rune.png|Law|link=Law rune]]          </span>\",\"level\":\"78\",\"type\":\"Teleport\",\"spellbook\":\"Ancient\"}",
+    "uses_material": [
+      "Air rune",
+      "Fire rune",
+      "Law rune"
+    ],
+    "spellbook": "ancient"
+  },
+  {
+    "page_name": "Blood Blitz",
+    "image": "[[File:Blood Blitz.png]]",
+    "is_members_only": true,
+    "page_name_sub": "Blood Blitz",
+    "json": "{\"slayerlevel\":\"\",\"exp\":\"45\",\"cost\":\"<span style=\\\"white-space:nowrap\\\">     <sup>4</sup>[[File:Blood rune.png|Blood|link=Blood rune]]    <sup>2</sup>[[File:Death rune.png|Death|link=Death rune]]           </span>\",\"level\":\"80\",\"type\":\"Combat\",\"spellbook\":\"Ancient\"}",
+    "uses_material": [
+      "Blood rune",
+      "Death rune"
+    ],
+    "spellbook": "ancient"
+  },
+  {
+    "page_name": "Shadow Burst",
+    "image": "[[File:Shadow Burst.png]]",
+    "is_members_only": true,
+    "page_name_sub": "Shadow Burst",
+    "json": "{\"slayerlevel\":\"\",\"exp\":\"37\",\"cost\":\"<span style=\\\"white-space:nowrap\\\"><sup>1</sup>[[File:Air rune.png|Air|link=Air rune]]       <sup>4</sup>[[File:Chaos rune.png|Chaos|link=Chaos rune]]  <sup>2</sup>[[File:Death rune.png|Death|link=Death rune]]    <sup>2</sup>[[File:Soul rune.png|Soul|link=Soul rune]]       </span>\",\"level\":\"64\",\"type\":\"Combat\",\"spellbook\":\"Ancient\"}",
+    "uses_material": [
+      "Air rune",
+      "Chaos rune",
+      "Death rune",
+      "Soul rune"
+    ],
+    "spellbook": "ancient"
+  },
+  {
+    "page_name": "Shadow Blitz",
+    "image": "[[File:Shadow Blitz.png]]",
+    "is_members_only": true,
+    "page_name_sub": "Shadow Blitz",
+    "json": "{\"slayerlevel\":\"\",\"exp\":\"43\",\"cost\":\"<span style=\\\"white-space:nowrap\\\"><sup>2</sup>[[File:Air rune.png|Air|link=Air rune]]     <sup>2</sup>[[File:Blood rune.png|Blood|link=Blood rune]]    <sup>2</sup>[[File:Death rune.png|Death|link=Death rune]]    <sup>2</sup>[[File:Soul rune.png|Soul|link=Soul rune]]       </span>\",\"level\":\"76\",\"type\":\"Combat\",\"spellbook\":\"Ancient\"}",
+    "uses_material": [
+      "Air rune",
+      "Blood rune",
+      "Death rune",
+      "Soul rune"
+    ],
+    "spellbook": "ancient"
+  },
+  {
+    "page_name": "Smoke Blitz",
+    "image": "[[File:Smoke Blitz.png]]",
+    "is_members_only": true,
+    "page_name_sub": "Smoke Blitz",
+    "json": "{\"slayerlevel\":\"\",\"exp\":\"42\",\"cost\":\"<span style=\\\"white-space:nowrap\\\"><sup>2</sup>[[File:Air rune.png|Air|link=Air rune]]  <sup>2</sup>[[File:Fire rune.png|Fire|link=Fire rune]]   <sup>2</sup>[[File:Blood rune.png|Blood|link=Blood rune]]    <sup>2</sup>[[File:Death rune.png|Death|link=Death rune]]           </span>\",\"level\":\"74\",\"type\":\"Combat\",\"spellbook\":\"Ancient\"}",
+    "uses_material": [
+      "Air rune",
+      "Fire rune",
+      "Blood rune",
+      "Death rune"
+    ],
+    "spellbook": "ancient"
+  },
+  {
+    "page_name": "Carrallanger Teleport",
+    "image": "[[File:Carrallanger Teleport.png]]",
+    "is_members_only": true,
+    "page_name_sub": "Carrallanger Teleport",
+    "json": "{\"slayerlevel\":\"\",\"exp\":\"94\",\"cost\":\"<span style=\\\"white-space:nowrap\\\">          <sup>2</sup>[[File:Law rune.png|Law|link=Law rune]]   <sup>2</sup>[[File:Soul rune.png|Soul|link=Soul rune]]       </span>\",\"level\":\"84\",\"type\":\"Teleport\",\"spellbook\":\"Ancient\"}",
+    "uses_material": [
+      "Law rune",
+      "Soul rune"
+    ],
+    "spellbook": "ancient"
+  },
+  {
+    "page_name": "Annakarl Teleport",
+    "image": "[[File:Annakarl Teleport.png]]",
+    "is_members_only": true,
+    "page_name_sub": "Annakarl Teleport",
+    "json": "{\"slayerlevel\":\"\",\"exp\":\"100\",\"cost\":\"<span style=\\\"white-space:nowrap\\\">     <sup>2</sup>[[File:Blood rune.png|Blood|link=Blood rune]]     <sup>2</sup>[[File:Law rune.png|Law|link=Law rune]]          </span>\",\"level\":\"90\",\"type\":\"Teleport\",\"spellbook\":\"Ancient\"}",
+    "uses_material": [
+      "Blood rune",
+      "Law rune"
+    ],
+    "spellbook": "ancient"
+  },
+  {
+    "page_name": "Tele Group Ice Plateau",
+    "image": "[[File:Tele Group Ice Plateau.png]]",
+    "is_members_only": true,
+    "page_name_sub": "Tele Group Ice Plateau",
+    "json": "{\"slayerlevel\":\"\",\"exp\":\"99\",\"cost\":\"<span style=\\\"white-space:nowrap\\\">   <sup>16</sup>[[File:Water rune.png|Water|link=Water rune]] <sup>3</sup>[[File:Astral rune.png|Astral|link=Astral rune]]      <sup>3</sup>[[File:Law rune.png|Law|link=Law rune]]          </span>\",\"level\":\"90\",\"type\":\"Teleport\",\"spellbook\":\"Lunar\"}",
+    "uses_material": [
+      "Water rune",
+      "Astral rune",
+      "Law rune"
+    ],
+    "spellbook": "lunar"
+  },
+  {
+    "page_name": "Dream",
+    "image": "[[File:Dream.png]]",
+    "is_members_only": true,
+    "page_name_sub": "Dream",
+    "json": "{\"slayerlevel\":\"\",\"exp\":\"82\",\"cost\":\"<span style=\\\"white-space:nowrap\\\">    <sup>2</sup>[[File:Astral rune.png|Astral|link=Astral rune]]  <sup>5</sup>[[File:Body rune.png|Body|link=Body rune]]  <sup>1</sup>[[File:Cosmic rune.png|Cosmic|link=Cosmic rune]]            </span>\",\"level\":\"79\",\"type\":\"Combat\",\"spellbook\":\"Lunar\"}",
+    "uses_material": [
+      "Astral rune",
+      "Body rune",
+      "Cosmic rune"
+    ],
+    "spellbook": "lunar"
+  },
+  {
+    "page_name": "Stat Spy",
+    "image": "[[File:Stat Spy.png]]",
+    "is_members_only": true,
+    "page_name_sub": "Stat Spy",
+    "json": "{\"slayerlevel\":\"\",\"exp\":\"76\",\"cost\":\"<span style=\\\"white-space:nowrap\\\">    <sup>2</sup>[[File:Astral rune.png|Astral|link=Astral rune]]  <sup>5</sup>[[File:Body rune.png|Body|link=Body rune]]  <sup>2</sup>[[File:Cosmic rune.png|Cosmic|link=Cosmic rune]]            </span>\",\"level\":\"75\",\"type\":\"Combat\",\"spellbook\":\"Lunar\"}",
+    "uses_material": [
+      "Astral rune",
+      "Body rune",
+      "Cosmic rune"
+    ],
+    "spellbook": "lunar"
+  },
+  {
+    "page_name": "Fertile Soil",
+    "image": "[[File:Fertile Soil.png]]",
+    "is_members_only": true,
+    "page_name_sub": "Fertile Soil",
+    "json": "{\"slayerlevel\":\"\",\"exp\":\"87\",\"cost\":\"<span style=\\\"white-space:nowrap\\\"> <sup>15</sup>[[File:Earth rune.png|Earth|link=Earth rune]]   <sup>3</sup>[[File:Astral rune.png|Astral|link=Astral rune]]        <sup>2</sup>[[File:Nature rune.png|Nature|link=Nature rune]]        </span>\",\"level\":\"83\",\"type\":\"Utility\",\"spellbook\":\"Lunar\"}",
+    "uses_material": [
+      "Earth rune",
+      "Astral rune",
+      "Nature rune"
+    ],
+    "spellbook": "lunar"
+  },
+  {
+    "page_name": "Energy Transfer",
+    "image": "[[File:Energy Transfer.png]]",
+    "is_members_only": true,
+    "page_name_sub": "Energy Transfer",
+    "json": "{\"slayerlevel\":\"\",\"exp\":\"100\",\"cost\":\"<span style=\\\"white-space:nowrap\\\">    <sup>3</sup>[[File:Astral rune.png|Astral|link=Astral rune]]      <sup>2</sup>[[File:Law rune.png|Law|link=Law rune]]  <sup>1</sup>[[File:Nature rune.png|Nature|link=Nature rune]]        </span>\",\"level\":\"91\",\"type\":\"Combat\",\"spellbook\":\"Lunar\"}",
+    "uses_material": [
+      "Astral rune",
+      "Law rune",
+      "Nature rune"
+    ],
+    "spellbook": "lunar"
+  },
+  {
+    "page_name": "Cure Other",
+    "image": "[[File:Cure Other.png]]",
+    "is_members_only": true,
+    "page_name_sub": "Cure Other",
+    "json": "{\"slayerlevel\":\"\",\"exp\":\"65\",\"cost\":\"<span style=\\\"white-space:nowrap\\\"> <sup>10</sup>[[File:Earth rune.png|Earth|link=Earth rune]]   <sup>1</sup>[[File:Astral rune.png|Astral|link=Astral rune]]      <sup>1</sup>[[File:Law rune.png|Law|link=Law rune]]          </span>\",\"level\":\"68\",\"type\":\"Combat\",\"spellbook\":\"Lunar\"}",
+    "uses_material": [
+      "Earth rune",
+      "Astral rune",
+      "Law rune"
+    ],
+    "spellbook": "lunar"
+  },
+  {
+    "page_name": "Magic Imbue",
+    "image": "[[File:Magic Imbue.png]]",
+    "is_members_only": true,
+    "page_name_sub": "Magic Imbue",
+    "json": "{\"slayerlevel\":\"\",\"exp\":\"86\",\"cost\":\"<span style=\\\"white-space:nowrap\\\">  <sup>7</sup>[[File:Fire rune.png|Fire|link=Fire rune]] <sup>7</sup>[[File:Water rune.png|Water|link=Water rune]] <sup>2</sup>[[File:Astral rune.png|Astral|link=Astral rune]]                </span>\",\"level\":\"82\",\"type\":\"Utility\",\"spellbook\":\"Lunar\"}",
+    "uses_material": [
+      "Fire rune",
+      "Water rune",
+      "Astral rune"
+    ],
+    "spellbook": "lunar"
+  },
+  {
+    "page_name": "Bake Pie",
+    "image": "[[File:Bake Pie.png]]",
+    "is_members_only": true,
+    "page_name_sub": "Bake Pie",
+    "json": "{\"slayerlevel\":\"\",\"exp\":\"60\",\"cost\":\"<span style=\\\"white-space:nowrap\\\">  <sup>5</sup>[[File:Fire rune.png|Fire|link=Fire rune]] <sup>4</sup>[[File:Water rune.png|Water|link=Water rune]] <sup>1</sup>[[File:Astral rune.png|Astral|link=Astral rune]]                </span>\",\"level\":\"65\",\"type\":\"Utility\",\"spellbook\":\"Lunar\"}",
+    "uses_material": [
+      "Fire rune",
+      "Water rune",
+      "Astral rune"
+    ],
+    "spellbook": "lunar"
+  },
+  {
+    "page_name": "Cure Plant",
+    "image": "[[File:Cure Plant.png]]",
+    "is_members_only": true,
+    "page_name_sub": "Cure Plant",
+    "json": "{\"slayerlevel\":\"\",\"exp\":\"60\",\"cost\":\"<span style=\\\"white-space:nowrap\\\"> <sup>8</sup>[[File:Earth rune.png|Earth|link=Earth rune]]   <sup>1</sup>[[File:Astral rune.png|Astral|link=Astral rune]]                </span>\",\"level\":\"66\",\"type\":\"Utility\",\"spellbook\":\"Lunar\"}",
+    "uses_material": [
+      "Earth rune",
+      "Astral rune"
+    ],
+    "spellbook": "lunar"
+  },
+  {
+    "page_name": "Cure Me",
+    "image": "[[File:Cure Me.png]]",
+    "is_members_only": true,
+    "page_name_sub": "Cure Me",
+    "json": "{\"slayerlevel\":\"\",\"exp\":\"69\",\"cost\":\"<span style=\\\"white-space:nowrap\\\">    <sup>2</sup>[[File:Astral rune.png|Astral|link=Astral rune]]    <sup>2</sup>[[File:Cosmic rune.png|Cosmic|link=Cosmic rune]]  <sup>1</sup>[[File:Law rune.png|Law|link=Law rune]]          </span>\",\"level\":\"71\",\"type\":\"combat\",\"spellbook\":\"Lunar\"}",
+    "uses_material": [
+      "Astral rune",
+      "Cosmic rune",
+      "Law rune"
+    ],
+    "spellbook": "lunar"
+  },
+  {
+    "page_name": "Cure Group",
+    "image": "[[File:Cure Group.png]]",
+    "is_members_only": true,
+    "page_name_sub": "Cure Group",
+    "json": "{\"slayerlevel\":\"\",\"exp\":\"74\",\"cost\":\"<span style=\\\"white-space:nowrap\\\">    <sup>2</sup>[[File:Astral rune.png|Astral|link=Astral rune]]    <sup>2</sup>[[File:Cosmic rune.png|Cosmic|link=Cosmic rune]]  <sup>2</sup>[[File:Law rune.png|Law|link=Law rune]]          </span>\",\"level\":\"74\",\"type\":\"Combat\",\"spellbook\":\"Lunar\"}",
+    "uses_material": [
+      "Astral rune",
+      "Cosmic rune",
+      "Law rune"
+    ],
+    "spellbook": "lunar"
+  },
+  {
+    "page_name": "Heal Other",
+    "image": "[[File:Heal Other.png]]",
+    "is_members_only": true,
+    "page_name_sub": "Heal Other",
+    "json": "{\"slayerlevel\":\"\",\"exp\":\"101\",\"cost\":\"<span style=\\\"white-space:nowrap\\\">    <sup>3</sup>[[File:Astral rune.png|Astral|link=Astral rune]] <sup>1</sup>[[File:Blood rune.png|Blood|link=Blood rune]]     <sup>3</sup>[[File:Law rune.png|Law|link=Law rune]]          </span>\",\"level\":\"92\",\"type\":\"combat\",\"spellbook\":\"Lunar\"}",
+    "uses_material": [
+      "Astral rune",
+      "Blood rune",
+      "Law rune"
+    ],
+    "spellbook": "lunar"
+  },
+  {
+    "page_name": "Heal Group",
+    "image": "[[File:Heal Group.png]]",
+    "is_members_only": true,
+    "page_name_sub": "Heal Group",
+    "json": "{\"slayerlevel\":\"\",\"exp\":\"124\",\"cost\":\"<span style=\\\"white-space:nowrap\\\">    <sup>4</sup>[[File:Astral rune.png|Astral|link=Astral rune]] <sup>3</sup>[[File:Blood rune.png|Blood|link=Blood rune]]     <sup>6</sup>[[File:Law rune.png|Law|link=Law rune]]          </span>\",\"level\":\"95\",\"type\":\"combat\",\"spellbook\":\"Lunar\"}",
+    "uses_material": [
+      "Astral rune",
+      "Blood rune",
+      "Law rune"
+    ],
+    "spellbook": "lunar"
+  },
+  {
+    "page_name": "Stat Restore Pot Share",
+    "image": "[[File:Stat Restore Pot Share.png]]",
+    "is_members_only": true,
+    "page_name_sub": "Stat Restore Pot Share",
+    "json": "{\"slayerlevel\":\"\",\"exp\":\"84\",\"cost\":\"<span style=\\\"white-space:nowrap\\\"> <sup>10</sup>[[File:Earth rune.png|Earth|link=Earth rune]]  <sup>10</sup>[[File:Water rune.png|Water|link=Water rune]] <sup>2</sup>[[File:Astral rune.png|Astral|link=Astral rune]]                </span>\",\"level\":\"81\",\"type\":\"Combat\",\"spellbook\":\"Lunar\"}",
+    "uses_material": [
+      "Earth rune",
+      "Water rune",
+      "Astral rune"
+    ],
+    "spellbook": "lunar"
+  },
+  {
+    "page_name": "Boost Potion Share",
+    "image": "[[File:Boost Potion Share.png]]",
+    "is_members_only": true,
+    "page_name_sub": "Boost Potion Share",
+    "json": "{\"slayerlevel\":\"\",\"exp\":\"88\",\"cost\":\"<span style=\\\"white-space:nowrap\\\"> <sup>12</sup>[[File:Earth rune.png|Earth|link=Earth rune]]  <sup>10</sup>[[File:Water rune.png|Water|link=Water rune]] <sup>3</sup>[[File:Astral rune.png|Astral|link=Astral rune]]                </span>\",\"level\":\"84\",\"type\":\"combat\",\"spellbook\":\"Lunar\"}",
+    "uses_material": [
+      "Earth rune",
+      "Water rune",
+      "Astral rune"
+    ],
+    "spellbook": "lunar"
+  },
+  {
+    "page_name": "Teleport to Target",
+    "image": "[[File:Teleport to Target.png]]",
+    "is_members_only": true,
+    "page_name_sub": "Teleport to Target",
+    "json": "{\"slayerlevel\":\"\",\"exp\":\"45\",\"cost\":\"<span style=\\\"white-space:nowrap\\\">       <sup>1</sup>[[File:Chaos rune.png|Chaos|link=Chaos rune]]  <sup>1</sup>[[File:Death rune.png|Death|link=Death rune]] <sup>1</sup>[[File:Law rune.png|Law|link=Law rune]]          </span>\",\"level\":\"85\",\"type\":\"Teleport\",\"spellbook\":\"all\"}",
+    "uses_material": [
+      "Chaos rune",
+      "Death rune",
+      "Law rune"
+    ],
+    "spellbook": "all"
+  },
+  {
+    "page_name": "Tan Leather",
+    "image": "[[File:Tan Leather.png]]",
+    "is_members_only": true,
+    "page_name_sub": "Tan Leather",
+    "json": "{\"slayerlevel\":\"\",\"exp\":\"81\",\"cost\":\"<span style=\\\"white-space:nowrap\\\">  <sup>5</sup>[[File:Fire rune.png|Fire|link=Fire rune]]  <sup>2</sup>[[File:Astral rune.png|Astral|link=Astral rune]]        <sup>1</sup>[[File:Nature rune.png|Nature|link=Nature rune]]        </span>\",\"level\":\"78\",\"type\":\"Utility\",\"spellbook\":\"Lunar\"}",
+    "uses_material": [
+      "Fire rune",
+      "Astral rune",
+      "Nature rune"
+    ],
+    "spellbook": "lunar"
+  },
+  {
+    "page_name": "Recharge Dragonstone",
+    "image": "[[File:Recharge Dragonstone.png]]",
+    "is_members_only": true,
+    "page_name_sub": "Recharge Dragonstone",
+    "json": "{\"slayerlevel\":\"\",\"exp\":\"97.5\",\"cost\":\"<span style=\\\"white-space:nowrap\\\">   <sup>4</sup>[[File:Water rune.png|Water|link=Water rune]] <sup>1</sup>[[File:Astral rune.png|Astral|link=Astral rune]]         <sup>1</sup>[[File:Soul rune.png|Soul|link=Soul rune]]       </span>\",\"level\":\"89\",\"type\":\"Utility\",\"spellbook\":\"Lunar\"}",
+    "uses_material": [
+      "Water rune",
+      "Astral rune",
+      "Soul rune"
+    ],
+    "spellbook": "lunar"
+  },
+  {
+    "page_name": "Geomancy",
+    "image": "[[File:Geomancy.png]]",
+    "is_members_only": true,
+    "page_name_sub": "Geomancy",
+    "json": "{\"slayerlevel\":\"\",\"exp\":\"60\",\"cost\":\"<span style=\\\"white-space:nowrap\\\"> <sup>8</sup>[[File:Earth rune.png|Earth|link=Earth rune]]   <sup>3</sup>[[File:Astral rune.png|Astral|link=Astral rune]]        <sup>3</sup>[[File:Nature rune.png|Nature|link=Nature rune]]        </span>\",\"level\":\"65\",\"type\":\"Utility\",\"spellbook\":\"Lunar\"}",
+    "uses_material": [
+      "Earth rune",
+      "Astral rune",
+      "Nature rune"
+    ],
+    "spellbook": "lunar"
+  },
+  {
+    "page_name": "Kourend Castle Teleport",
+    "image": "[[File:Kourend Castle Teleport.png]]",
+    "is_members_only": true,
+    "page_name_sub": "Kourend Castle Teleport",
+    "json": "{\"slayerlevel\":\"\",\"exp\":\"58\",\"cost\":\"<span style=\\\"white-space:nowrap\\\">  <sup>1</sup>[[File:Fire rune.png|Fire|link=Fire rune]] <sup>1</sup>[[File:Water rune.png|Water|link=Water rune]]       <sup>2</sup>[[File:Law rune.png|Law|link=Law rune]]          </span>\",\"level\":\"48\",\"type\":\"Teleport\",\"spellbook\":\"Normal\"}",
+    "uses_material": [
+      "Fire rune",
+      "Water rune",
+      "Law rune"
+    ],
+    "spellbook": "normal"
+  },
+  {
+    "page_name": "Arceuus Home Teleport",
+    "image": "[[File:Arceuus Home Teleport.png]]",
+    "is_members_only": true,
+    "page_name_sub": "Arceuus Home Teleport",
+    "json": "{\"slayerlevel\":\"\",\"exp\":\"0\",\"cost\":\"None ''(see article)''\",\"level\":\"1\",\"type\":\"Teleport\",\"spellbook\":\"Arceuus\"}",
+    "spellbook": "arceuus"
+  },
+  {
+    "page_name": "Draynor Manor Teleport",
+    "image": "[[File:Draynor Manor Teleport.png]]",
+    "is_members_only": true,
+    "page_name_sub": "Draynor Manor Teleport",
+    "json": "{\"slayerlevel\":\"\",\"exp\":\"16\",\"cost\":\"<span style=\\\"white-space:nowrap\\\"> <sup>1</sup>[[File:Earth rune.png|Earth|link=Earth rune]]  <sup>1</sup>[[File:Water rune.png|Water|link=Water rune]]       <sup>1</sup>[[File:Law rune.png|Law|link=Law rune]]          </span>\",\"level\":\"17\",\"type\":\"Teleport\",\"spellbook\":\"Arceuus\"}",
+    "uses_material": [
+      "Earth rune",
+      "Water rune",
+      "Law rune"
+    ],
+    "spellbook": "arceuus"
+  },
+  {
+    "page_name": "Mind Altar Teleport",
+    "image": "[[File:Mind Altar Teleport.png]]",
+    "is_members_only": true,
+    "page_name_sub": "Mind Altar Teleport",
+    "json": "{\"slayerlevel\":\"\",\"exp\":\"22\",\"cost\":\"<span style=\\\"white-space:nowrap\\\">          <sup>1</sup>[[File:Law rune.png|Law|link=Law rune]] <sup>2</sup>[[File:Mind rune.png|Mind|link=Mind rune]]         </span>\",\"level\":\"28\",\"type\":\"Teleport\",\"spellbook\":\"Arceuus\"}",
+    "uses_material": [
+      "Law rune",
+      "Mind rune"
+    ],
+    "spellbook": "arceuus"
+  },
+  {
+    "page_name": "Respawn Teleport",
+    "image": "[[File:Respawn Teleport.png]]",
+    "is_members_only": true,
+    "page_name_sub": "Respawn Teleport",
+    "json": "{\"slayerlevel\":\"\",\"exp\":\"27\",\"cost\":\"<span style=\\\"white-space:nowrap\\\">          <sup>1</sup>[[File:Law rune.png|Law|link=Law rune]]   <sup>1</sup>[[File:Soul rune.png|Soul|link=Soul rune]]       </span>\",\"level\":\"34\",\"type\":\"Teleport\",\"spellbook\":\"Arceuus\"}",
+    "uses_material": [
+      "Law rune",
+      "Soul rune"
+    ],
+    "spellbook": "arceuus"
+  },
+  {
+    "page_name": "Salve Graveyard Teleport",
+    "image": "[[File:Salve Graveyard Teleport.png]]",
+    "is_members_only": true,
+    "page_name_sub": "Salve Graveyard Teleport",
+    "json": "{\"slayerlevel\":\"\",\"exp\":\"30\",\"cost\":\"<span style=\\\"white-space:nowrap\\\">          <sup>1</sup>[[File:Law rune.png|Law|link=Law rune]]   <sup>2</sup>[[File:Soul rune.png|Soul|link=Soul rune]]       </span>\",\"level\":\"40\",\"type\":\"Teleport\",\"spellbook\":\"Arceuus\"}",
+    "uses_material": [
+      "Law rune",
+      "Soul rune"
+    ],
+    "spellbook": "arceuus"
+  },
+  {
+    "page_name": "Fenkenstrain's Castle Teleport",
+    "image": "[[File:Fenkenstrain's Castle Teleport.png]]",
+    "is_members_only": true,
+    "page_name_sub": "Fenkenstrain's Castle Teleport",
+    "json": "{\"slayerlevel\":\"\",\"exp\":\"50\",\"cost\":\"<span style=\\\"white-space:nowrap\\\"> <sup>1</sup>[[File:Earth rune.png|Earth|link=Earth rune]]         <sup>1</sup>[[File:Law rune.png|Law|link=Law rune]]   <sup>1</sup>[[File:Soul rune.png|Soul|link=Soul rune]]       </span>\",\"level\":\"48\",\"type\":\"Teleport\",\"spellbook\":\"Arceuus\"}",
+    "uses_material": [
+      "Earth rune",
+      "Law rune",
+      "Soul rune"
+    ],
+    "spellbook": "arceuus"
+  },
+  {
+    "page_name": "West Ardougne Teleport",
+    "image": "[[File:West Ardougne Teleport.png]]",
+    "is_members_only": true,
+    "page_name_sub": "West Ardougne Teleport",
+    "json": "{\"slayerlevel\":\"\",\"exp\":\"68\",\"cost\":\"<span style=\\\"white-space:nowrap\\\">          <sup>2</sup>[[File:Law rune.png|Law|link=Law rune]]   <sup>2</sup>[[File:Soul rune.png|Soul|link=Soul rune]]       </span>\",\"level\":\"61\",\"type\":\"Teleport\",\"spellbook\":\"Arceuus\"}",
+    "uses_material": [
+      "Law rune",
+      "Soul rune"
+    ],
+    "spellbook": "arceuus"
+  },
+  {
+    "page_name": "Harmony Island Teleport",
+    "image": "[[File:Harmony Island Teleport.png]]",
+    "is_members_only": true,
+    "page_name_sub": "Harmony Island Teleport",
+    "json": "{\"slayerlevel\":\"\",\"exp\":\"74\",\"cost\":\"<span style=\\\"white-space:nowrap\\\">          <sup>1</sup>[[File:Law rune.png|Law|link=Law rune]]  <sup>1</sup>[[File:Nature rune.png|Nature|link=Nature rune]] <sup>1</sup>[[File:Soul rune.png|Soul|link=Soul rune]]       </span>\",\"level\":\"65\",\"type\":\"Teleport\",\"spellbook\":\"Arceuus\"}",
+    "uses_material": [
+      "Law rune",
+      "Nature rune",
+      "Soul rune"
+    ],
+    "spellbook": "arceuus"
+  },
+  {
+    "page_name": "Cemetery Teleport",
+    "image": "[[File:Cemetery Teleport.png]]",
+    "is_members_only": true,
+    "page_name_sub": "Cemetery Teleport",
+    "json": "{\"slayerlevel\":\"\",\"exp\":\"82\",\"cost\":\"<span style=\\\"white-space:nowrap\\\">     <sup>1</sup>[[File:Blood rune.png|Blood|link=Blood rune]]     <sup>1</sup>[[File:Law rune.png|Law|link=Law rune]]   <sup>1</sup>[[File:Soul rune.png|Soul|link=Soul rune]]       </span>\",\"level\":\"71\",\"type\":\"Teleport\",\"spellbook\":\"Arceuus\"}",
+    "uses_material": [
+      "Blood rune",
+      "Law rune",
+      "Soul rune"
+    ],
+    "spellbook": "arceuus"
+  },
+  {
+    "page_name": "Barrows Teleport",
+    "image": "[[File:Barrows Teleport.png]]",
+    "is_members_only": true,
+    "page_name_sub": "Barrows Teleport",
+    "json": "{\"slayerlevel\":\"\",\"exp\":\"90\",\"cost\":\"<span style=\\\"white-space:nowrap\\\">     <sup>1</sup>[[File:Blood rune.png|Blood|link=Blood rune]]     <sup>2</sup>[[File:Law rune.png|Law|link=Law rune]]   <sup>2</sup>[[File:Soul rune.png|Soul|link=Soul rune]]       </span>\",\"level\":\"83\",\"type\":\"Teleport\",\"spellbook\":\"Arceuus\"}",
+    "uses_material": [
+      "Blood rune",
+      "Law rune",
+      "Soul rune"
+    ],
+    "spellbook": "arceuus"
+  },
+  {
+    "page_name": "Resurrect Crops",
+    "image": "[[File:Resurrect Crops.png]]",
+    "is_members_only": true,
+    "page_name_sub": "Resurrect Crops",
+    "json": "{\"slayerlevel\":\"\",\"exp\":\"90\",\"cost\":\"<span style=\\\"white-space:nowrap\\\"> <sup>25</sup>[[File:Earth rune.png|Earth|link=Earth rune]]    <sup>8</sup>[[File:Blood rune.png|Blood|link=Blood rune]]       <sup>12</sup>[[File:Nature rune.png|Nature|link=Nature rune]] <sup>8</sup>[[File:Soul rune.png|Soul|link=Soul rune]]       </span>\",\"level\":\"78\",\"type\":\"Utility\",\"spellbook\":\"Arceuus\"}",
+    "uses_material": [
+      "Earth rune",
+      "Blood rune",
+      "Nature rune",
+      "Soul rune"
+    ],
+    "spellbook": "arceuus"
+  },
+  {
+    "page_name": "Lvl-7 Enchant",
+    "image": "[[File:Lvl-7 Enchant.png]]",
+    "is_members_only": true,
+    "page_name_sub": "Lvl-7 Enchant",
+    "json": "{\"slayerlevel\":\"\",\"exp\":\"110\",\"cost\":\"<span style=\\\"white-space:nowrap\\\">     <sup>20</sup>[[File:Blood rune.png|Blood|link=Blood rune]]   <sup>1</sup>[[File:Cosmic rune.png|Cosmic|link=Cosmic rune]]     <sup>20</sup>[[File:Soul rune.png|Soul|link=Soul rune]]       </span>\",\"level\":\"93\",\"type\":\"Utility\",\"spellbook\":\"Normal\"}",
+    "uses_material": [
+      "Blood rune",
+      "Cosmic rune",
+      "Soul rune"
+    ],
+    "spellbook": "normal"
+  },
+  {
+    "page_name": "Spin Flax",
+    "image": "[[File:Spin Flax.png]]",
+    "is_members_only": true,
+    "page_name_sub": "Spin Flax",
+    "json": "{\"slayerlevel\":\"\",\"exp\":\"75\",\"cost\":\"<span style=\\\"white-space:nowrap\\\"><sup>5</sup>[[File:Air rune.png|Air|link=Air rune]]    <sup>1</sup>[[File:Astral rune.png|Astral|link=Astral rune]]        <sup>2</sup>[[File:Nature rune.png|Nature|link=Nature rune]]        </span>\",\"level\":\"76\",\"type\":\"Utility\",\"spellbook\":\"Lunar\"}",
+    "uses_material": [
+      "Air rune",
+      "Astral rune",
+      "Nature rune"
+    ],
+    "spellbook": "lunar"
+  },
+  {
+    "page_name": "Ourania Teleport",
+    "image": "[[File:Ourania Teleport.png]]",
+    "is_members_only": true,
+    "page_name_sub": "Ourania Teleport",
+    "json": "{\"slayerlevel\":\"\",\"exp\":\"69\",\"cost\":\"<span style=\\\"white-space:nowrap\\\"> <sup>6</sup>[[File:Earth rune.png|Earth|link=Earth rune]]   <sup>2</sup>[[File:Astral rune.png|Astral|link=Astral rune]]      <sup>1</sup>[[File:Law rune.png|Law|link=Law rune]]          </span>\",\"level\":\"71\",\"type\":\"Teleport\",\"spellbook\":\"Lunar\"}",
+    "uses_material": [
+      "Earth rune",
+      "Astral rune",
+      "Law rune"
+    ],
+    "spellbook": "lunar"
+  },
+  {
+    "page_name": "Wind Surge",
+    "image": "[[File:Wind Surge.png]]",
+    "is_members_only": true,
+    "page_name_sub": "Wind Surge",
+    "json": "{\"slayerlevel\":\"\",\"exp\":\"44.5\",\"cost\":\"<span style=\\\"white-space:nowrap\\\"><sup>7</sup>[[File:Air rune.png|Air|link=Air rune]]              <sup>1</sup>[[File:Wrath rune.png|Wrath|link=Wrath rune]]      </span>\",\"level\":\"81\",\"type\":\"Combat\",\"spellbook\":\"Normal\"}",
+    "uses_material": [
+      "Air rune",
+      "Wrath rune"
+    ],
+    "spellbook": "normal"
+  },
+  {
+    "page_name": "Water Surge",
+    "image": "[[File:Water Surge.png]]",
+    "is_members_only": true,
+    "page_name_sub": "Water Surge",
+    "json": "{\"slayerlevel\":\"\",\"exp\":\"46.5\",\"cost\":\"<span style=\\\"white-space:nowrap\\\"><sup>7</sup>[[File:Air rune.png|Air|link=Air rune]]   <sup>10</sup>[[File:Water rune.png|Water|link=Water rune]]           <sup>1</sup>[[File:Wrath rune.png|Wrath|link=Wrath rune]]      </span>\",\"level\":\"85\",\"type\":\"Combat\",\"spellbook\":\"Normal\"}",
+    "uses_material": [
+      "Air rune",
+      "Water rune",
+      "Wrath rune"
+    ],
+    "spellbook": "normal"
+  },
+  {
+    "page_name": "Earth Surge",
+    "image": "[[File:Earth Surge.png]]",
+    "is_members_only": true,
+    "page_name_sub": "Earth Surge",
+    "json": "{\"slayerlevel\":\"\",\"exp\":\"48.2\",\"cost\":\"<span style=\\\"white-space:nowrap\\\"><sup>7</sup>[[File:Air rune.png|Air|link=Air rune]] <sup>10</sup>[[File:Earth rune.png|Earth|link=Earth rune]]             <sup>1</sup>[[File:Wrath rune.png|Wrath|link=Wrath rune]]      </span>\",\"level\":\"90\",\"type\":\"Combat\",\"spellbook\":\"Normal\"}",
+    "uses_material": [
+      "Air rune",
+      "Earth rune",
+      "Wrath rune"
+    ],
+    "spellbook": "normal"
+  },
+  {
+    "page_name": "Fire Surge",
+    "image": "[[File:Fire Surge.png]]",
+    "is_members_only": true,
+    "page_name_sub": "Fire Surge",
+    "json": "{\"slayerlevel\":\"\",\"exp\":\"50.5\",\"cost\":\"<span style=\\\"white-space:nowrap\\\"><sup>7</sup>[[File:Air rune.png|Air|link=Air rune]]  <sup>10</sup>[[File:Fire rune.png|Fire|link=Fire rune]]            <sup>1</sup>[[File:Wrath rune.png|Wrath|link=Wrath rune]]      </span>\",\"level\":\"95\",\"type\":\"Combat\",\"spellbook\":\"Normal\"}",
+    "uses_material": [
+      "Air rune",
+      "Fire rune",
+      "Wrath rune"
+    ],
+    "spellbook": "normal"
+  },
+  {
+    "page_name": "Minigame Teleport",
+    "image": "[[File:Minigame Teleport.png]]",
+    "is_members_only": false,
+    "page_name_sub": "Minigame Teleport",
+    "json": "{\"slayerlevel\":\"\",\"exp\":\"0\",\"cost\":\"None ''(see article)''\",\"level\":\"1\",\"type\":\"Teleport\",\"spellbook\":\"All\"}",
+    "spellbook": "all"
+  },
+  {
+    "page_name": "Battlefront Teleport",
+    "image": "[[File:Battlefront Teleport.png]]",
+    "is_members_only": true,
+    "page_name_sub": "Battlefront Teleport",
+    "json": "{\"slayerlevel\":\"\",\"exp\":\"19\",\"cost\":\"<span style=\\\"white-space:nowrap\\\"> <sup>1</sup>[[File:Earth rune.png|Earth|link=Earth rune]] <sup>1</sup>[[File:Fire rune.png|Fire|link=Fire rune]]        <sup>1</sup>[[File:Law rune.png|Law|link=Law rune]]          </span>\",\"level\":\"23\",\"type\":\"Teleport\",\"spellbook\":\"Arceuus\"}",
+    "uses_material": [
+      "Earth rune",
+      "Fire rune",
+      "Law rune"
+    ],
+    "spellbook": "arceuus"
+  },
+  {
+    "page_name": "Lesser Corruption",
+    "image": "[[File:Lesser Corruption.png]]",
+    "is_members_only": true,
+    "page_name_sub": "Lesser Corruption",
+    "json": "{\"slayerlevel\":\"\",\"exp\":\"75\",\"cost\":\"<span style=\\\"white-space:nowrap\\\">         <sup>1</sup>[[File:Death rune.png|Death|link=Death rune]]    <sup>2</sup>[[File:Soul rune.png|Soul|link=Soul rune]]       </span>\",\"level\":\"64\",\"type\":\"Combat\",\"spellbook\":\"Arceuus\"}",
+    "uses_material": [
+      "Death rune",
+      "Soul rune"
+    ],
+    "spellbook": "arceuus"
+  },
+  {
+    "page_name": "Greater Corruption",
+    "image": "[[File:Greater Corruption.png]]",
+    "is_members_only": true,
+    "page_name_sub": "Greater Corruption",
+    "json": "{\"slayerlevel\":\"\",\"exp\":\"95\",\"cost\":\"<span style=\\\"white-space:nowrap\\\">     <sup>1</sup>[[File:Blood rune.png|Blood|link=Blood rune]]        <sup>3</sup>[[File:Soul rune.png|Soul|link=Soul rune]]       </span>\",\"level\":\"85\",\"type\":\"Combat\",\"spellbook\":\"Arceuus\"}",
+    "uses_material": [
+      "Blood rune",
+      "Soul rune"
+    ],
+    "spellbook": "arceuus"
+  },
+  {
+    "page_name": "Ghostly Grasp",
+    "image": "[[File:Ghostly Grasp.png]]",
+    "is_members_only": true,
+    "page_name_sub": "Ghostly Grasp",
+    "json": "{\"slayerlevel\":\"\",\"exp\":\"22.5\",\"cost\":\"<span style=\\\"white-space:nowrap\\\"><sup>4</sup>[[File:Air rune.png|Air|link=Air rune]]       <sup>1</sup>[[File:Chaos rune.png|Chaos|link=Chaos rune]]             </span>\",\"level\":\"35\",\"type\":\"Combat\",\"spellbook\":\"Arceuus\"}",
+    "uses_material": [
+      "Air rune",
+      "Chaos rune"
+    ],
+    "spellbook": "arceuus"
+  },
+  {
+    "page_name": "Skeletal Grasp",
+    "image": "[[File:Skeletal Grasp.png]]",
+    "is_members_only": true,
+    "page_name_sub": "Skeletal Grasp",
+    "json": "{\"slayerlevel\":\"\",\"exp\":\"33\",\"cost\":\"<span style=\\\"white-space:nowrap\\\"> <sup>8</sup>[[File:Earth rune.png|Earth|link=Earth rune]]        <sup>1</sup>[[File:Death rune.png|Death|link=Death rune]]           </span>\",\"level\":\"56\",\"type\":\"Combat\",\"spellbook\":\"Arceuus\"}",
+    "uses_material": [
+      "Earth rune",
+      "Death rune"
+    ],
+    "spellbook": "arceuus"
+  },
+  {
+    "page_name": "Undead Grasp",
+    "image": "[[File:Undead Grasp.png]]",
+    "is_members_only": true,
+    "page_name_sub": "Undead Grasp",
+    "json": "{\"slayerlevel\":\"\",\"exp\":\"46.5\",\"cost\":\"<span style=\\\"white-space:nowrap\\\">  <sup>12</sup>[[File:Fire rune.png|Fire|link=Fire rune]]   <sup>1</sup>[[File:Blood rune.png|Blood|link=Blood rune]]               </span>\",\"level\":\"79\",\"type\":\"Combat\",\"spellbook\":\"Arceuus\"}",
+    "uses_material": [
+      "Fire rune",
+      "Blood rune"
+    ],
+    "spellbook": "arceuus"
+  },
+  {
+    "page_name": "Inferior Demonbane",
+    "image": "[[File:Inferior Demonbane.png]]",
+    "is_members_only": true,
+    "page_name_sub": "Inferior Demonbane",
+    "json": "{\"slayerlevel\":\"\",\"exp\":\"27\",\"cost\":\"<span style=\\\"white-space:nowrap\\\">  <sup>3</sup>[[File:Fire rune.png|Fire|link=Fire rune]]     <sup>1</sup>[[File:Chaos rune.png|Chaos|link=Chaos rune]]             </span>\",\"level\":\"44\",\"type\":\"Combat\",\"spellbook\":\"Arceuus\"}",
+    "uses_material": [
+      "Fire rune",
+      "Chaos rune"
+    ],
+    "spellbook": "arceuus"
+  },
+  {
+    "page_name": "Superior Demonbane",
+    "image": "[[File:Superior Demonbane.png]]",
+    "is_members_only": true,
+    "page_name_sub": "Superior Demonbane",
+    "json": "{\"slayerlevel\":\"\",\"exp\":\"36\",\"cost\":\"<span style=\\\"white-space:nowrap\\\">  <sup>5</sup>[[File:Fire rune.png|Fire|link=Fire rune]]           <sup>1</sup>[[File:Soul rune.png|Soul|link=Soul rune]]       </span>\",\"level\":\"62\",\"type\":\"Combat\",\"spellbook\":\"Arceuus\"}",
+    "uses_material": [
+      "Fire rune",
+      "Soul rune"
+    ],
+    "spellbook": "arceuus"
+  },
+  {
+    "page_name": "Dark Demonbane",
+    "image": "[[File:Dark Demonbane.png]]",
+    "is_members_only": true,
+    "page_name_sub": "Dark Demonbane",
+    "json": "{\"slayerlevel\":\"\",\"exp\":\"43.5\",\"cost\":\"<span style=\\\"white-space:nowrap\\\">  <sup>7</sup>[[File:Fire rune.png|Fire|link=Fire rune]]           <sup>2</sup>[[File:Soul rune.png|Soul|link=Soul rune]]       </span>\",\"level\":\"82\",\"type\":\"Combat\",\"spellbook\":\"Arceuus\"}",
+    "uses_material": [
+      "Fire rune",
+      "Soul rune"
+    ],
+    "spellbook": "arceuus"
+  },
+  {
+    "page_name": "Demonic Offering",
+    "image": "[[File:Demonic Offering.png]]",
+    "is_members_only": true,
+    "page_name_sub": "Demonic Offering",
+    "json": "{\"slayerlevel\":\"\",\"exp\":\"175\",\"cost\":\"<span style=\\\"white-space:nowrap\\\">             <sup>1</sup>[[File:Soul rune.png|Soul|link=Soul rune]] <sup>1</sup>[[File:Wrath rune.png|Wrath|link=Wrath rune]]      </span>\",\"level\":\"84\",\"type\":\"Utility\",\"spellbook\":\"Arceuus\"}",
+    "uses_material": [
+      "Soul rune",
+      "Wrath rune"
+    ],
+    "spellbook": "arceuus"
+  },
+  {
+    "page_name": "Sinister Offering",
+    "image": "[[File:Sinister Offering.png]]",
+    "is_members_only": true,
+    "page_name_sub": "Sinister Offering",
+    "json": "{\"slayerlevel\":\"\",\"exp\":\"180\",\"cost\":\"<span style=\\\"white-space:nowrap\\\">     <sup>1</sup>[[File:Blood rune.png|Blood|link=Blood rune]]         <sup>1</sup>[[File:Wrath rune.png|Wrath|link=Wrath rune]]      </span>\",\"level\":\"92\",\"type\":\"Utility\",\"spellbook\":\"Arceuus\"}",
+    "uses_material": [
+      "Blood rune",
+      "Wrath rune"
+    ],
+    "spellbook": "arceuus"
+  },
+  {
+    "page_name": "Degrime",
+    "image": "[[File:Degrime.png]]",
+    "is_members_only": true,
+    "page_name_sub": "Degrime",
+    "json": "{\"slayerlevel\":\"\",\"exp\":\"83\",\"cost\":\"<span style=\\\"white-space:nowrap\\\"> <sup>4</sup>[[File:Earth rune.png|Earth|link=Earth rune]]           <sup>2</sup>[[File:Nature rune.png|Nature|link=Nature rune]]        </span>\",\"level\":\"70\",\"type\":\"Utility\",\"spellbook\":\"Arceuus\"}",
+    "uses_material": [
+      "Earth rune",
+      "Nature rune"
+    ],
+    "spellbook": "arceuus"
+  },
+  {
+    "page_name": "Dark Lure",
+    "image": "[[File:Dark Lure.png]]",
+    "is_members_only": true,
+    "page_name_sub": "Dark Lure",
+    "json": "{\"slayerlevel\":\"\",\"exp\":\"60\",\"cost\":\"<span style=\\\"white-space:nowrap\\\">         <sup>1</sup>[[File:Death rune.png|Death|link=Death rune]]   <sup>1</sup>[[File:Nature rune.png|Nature|link=Nature rune]]        </span>\",\"level\":\"50\",\"type\":\"Combat\",\"spellbook\":\"Arceuus\"}",
+    "uses_material": [
+      "Death rune",
+      "Nature rune"
+    ],
+    "spellbook": "arceuus"
+  },
+  {
+    "page_name": "Death Charge",
+    "image": "[[File:Death Charge.png]]",
+    "is_members_only": true,
+    "page_name_sub": "Death Charge",
+    "json": "{\"slayerlevel\":\"\",\"exp\":\"90\",\"cost\":\"<span style=\\\"white-space:nowrap\\\">     <sup>1</sup>[[File:Blood rune.png|Blood|link=Blood rune]]    <sup>1</sup>[[File:Death rune.png|Death|link=Death rune]]    <sup>1</sup>[[File:Soul rune.png|Soul|link=Soul rune]]       </span>\",\"level\":\"80\",\"type\":\"Utility\",\"spellbook\":\"Arceuus\"}",
+    "uses_material": [
+      "Blood rune",
+      "Death rune",
+      "Soul rune"
+    ],
+    "spellbook": "arceuus"
+  },
+  {
+    "page_name": "Mark of Darkness",
+    "image": "[[File:Mark of Darkness.png]]",
+    "is_members_only": true,
+    "page_name_sub": "Mark of Darkness",
+    "json": "{\"slayerlevel\":\"\",\"exp\":\"70\",\"cost\":\"<span style=\\\"white-space:nowrap\\\">        <sup>1</sup>[[File:Cosmic rune.png|Cosmic|link=Cosmic rune]]     <sup>1</sup>[[File:Soul rune.png|Soul|link=Soul rune]]       </span>\",\"level\":\"59\",\"type\":\"Combat\",\"spellbook\":\"Arceuus\"}",
+    "uses_material": [
+      "Cosmic rune",
+      "Soul rune"
+    ],
+    "spellbook": "arceuus"
+  },
+  {
+    "page_name": "Ward of Arceuus",
+    "image": "[[File:Ward of Arceuus.png]]",
+    "is_members_only": true,
+    "page_name_sub": "Ward of Arceuus",
+    "json": "{\"slayerlevel\":\"\",\"exp\":\"83\",\"cost\":\"<span style=\\\"white-space:nowrap\\\">        <sup>1</sup>[[File:Cosmic rune.png|Cosmic|link=Cosmic rune]]    <sup>2</sup>[[File:Nature rune.png|Nature|link=Nature rune]] <sup>4</sup>[[File:Soul rune.png|Soul|link=Soul rune]]       </span>\",\"level\":\"73\",\"type\":\"Combat\",\"spellbook\":\"Arceuus\"}",
+    "uses_material": [
+      "Cosmic rune",
+      "Nature rune",
+      "Soul rune"
+    ],
+    "spellbook": "arceuus"
+  },
+  {
+    "page_name": "Shadow Veil",
+    "image": "[[File:Shadow Veil.png]]",
+    "is_members_only": true,
+    "page_name_sub": "Shadow Veil",
+    "json": "{\"slayerlevel\":\"\",\"exp\":\"58\",\"cost\":\"<span style=\\\"white-space:nowrap\\\"> <sup>5</sup>[[File:Earth rune.png|Earth|link=Earth rune]] <sup>5</sup>[[File:Fire rune.png|Fire|link=Fire rune]]      <sup>5</sup>[[File:Cosmic rune.png|Cosmic|link=Cosmic rune]]            </span>\",\"level\":\"47\",\"type\":\"Utility\",\"spellbook\":\"Arceuus\"}",
+    "uses_material": [
+      "Earth rune",
+      "Fire rune",
+      "Cosmic rune"
+    ],
+    "spellbook": "arceuus"
+  },
+  {
+    "page_name": "Vile Vigour",
+    "image": "[[File:Vile Vigour.png]]",
+    "is_members_only": true,
+    "page_name_sub": "Vile Vigour",
+    "json": "{\"slayerlevel\":\"\",\"exp\":\"76\",\"cost\":\"<span style=\\\"white-space:nowrap\\\"><sup>3</sup>[[File:Air rune.png|Air|link=Air rune]]             <sup>1</sup>[[File:Soul rune.png|Soul|link=Soul rune]]       </span>\",\"level\":\"66\",\"type\":\"Utility\",\"spellbook\":\"Arceuus\"}",
+    "uses_material": [
+      "Air rune",
+      "Soul rune"
+    ],
+    "spellbook": "arceuus"
+  },
+  {
+    "page_name": "Arceuus Library Teleport",
+    "image": "[[File:Arceuus Library Teleport.png]]",
+    "is_members_only": true,
+    "page_name_sub": "Arceuus Library Teleport",
+    "json": "{\"slayerlevel\":\"\",\"exp\":\"9\",\"cost\":\"<span style=\\\"white-space:nowrap\\\"> <sup>2</sup>[[File:Earth rune.png|Earth|link=Earth rune]]         <sup>1</sup>[[File:Law rune.png|Law|link=Law rune]]          </span>\",\"level\":\"6\",\"type\":\"Teleport\",\"spellbook\":\"Arceuus\"}",
+    "uses_material": [
+      "Earth rune",
+      "Law rune"
+    ],
+    "spellbook": "arceuus"
+  },
+  {
+    "page_name": "Basic Reanimation",
+    "image": "[[File:Basic Reanimation.png]]",
+    "is_members_only": true,
+    "page_name_sub": "Basic Reanimation",
+    "json": "{\"slayerlevel\":\"\",\"exp\":\"32\",\"cost\":\"<span style=\\\"white-space:nowrap\\\">      <sup>4</sup>[[File:Body rune.png|Body|link=Body rune]]      <sup>2</sup>[[File:Nature rune.png|Nature|link=Nature rune]]        </span>\",\"level\":\"16\",\"type\":\"Utility\",\"spellbook\":\"Arceuus\"}",
+    "uses_material": [
+      "Body rune",
+      "Nature rune"
+    ],
+    "spellbook": "arceuus"
+  },
+  {
+    "page_name": "Adept Reanimation",
+    "image": "[[File:Adept Reanimation.png]]",
+    "is_members_only": true,
+    "page_name_sub": "Adept Reanimation",
+    "json": "{\"slayerlevel\":\"\",\"exp\":\"80\",\"cost\":\"<span style=\\\"white-space:nowrap\\\">      <sup>4</sup>[[File:Body rune.png|Body|link=Body rune]]      <sup>3</sup>[[File:Nature rune.png|Nature|link=Nature rune]] <sup>1</sup>[[File:Soul rune.png|Soul|link=Soul rune]]       </span>\",\"level\":\"41\",\"type\":\"Utility\",\"spellbook\":\"Arceuus\"}",
+    "uses_material": [
+      "Body rune",
+      "Nature rune",
+      "Soul rune"
+    ],
+    "spellbook": "arceuus"
+  },
+  {
+    "page_name": "Expert Reanimation",
+    "image": "[[File:Expert Reanimation.png]]",
+    "is_members_only": true,
+    "page_name_sub": "Expert Reanimation",
+    "json": "{\"slayerlevel\":\"\",\"exp\":\"138\",\"cost\":\"<span style=\\\"white-space:nowrap\\\">     <sup>1</sup>[[File:Blood rune.png|Blood|link=Blood rune]]       <sup>3</sup>[[File:Nature rune.png|Nature|link=Nature rune]] <sup>2</sup>[[File:Soul rune.png|Soul|link=Soul rune]]       </span>\",\"level\":\"72\",\"type\":\"Utility\",\"spellbook\":\"Arceuus\"}",
+    "uses_material": [
+      "Blood rune",
+      "Nature rune",
+      "Soul rune"
+    ],
+    "spellbook": "arceuus"
+  },
+  {
+    "page_name": "Master Reanimation",
+    "image": "[[File:Master Reanimation.png]]",
+    "is_members_only": true,
+    "page_name_sub": "Master Reanimation",
+    "json": "{\"slayerlevel\":\"\",\"exp\":\"170\",\"cost\":\"<span style=\\\"white-space:nowrap\\\">     <sup>2</sup>[[File:Blood rune.png|Blood|link=Blood rune]]       <sup>4</sup>[[File:Nature rune.png|Nature|link=Nature rune]] <sup>4</sup>[[File:Soul rune.png|Soul|link=Soul rune]]       </span>\",\"level\":\"90\",\"type\":\"Utility\",\"spellbook\":\"Arceuus\"}",
+    "uses_material": [
+      "Blood rune",
+      "Nature rune",
+      "Soul rune"
+    ],
+    "spellbook": "arceuus"
+  },
+  {
+    "page_name": "Resurrect Lesser Ghost",
+    "image": "[[File:Resurrect Lesser Ghost.png]]",
+    "is_members_only": true,
+    "page_name_sub": "Resurrect Lesser Ghost",
+    "json": "{\"slayerlevel\":\"\",\"exp\":\"55\",\"cost\":\"<span style=\\\"white-space:nowrap\\\"><sup>10</sup>[[File:Air rune.png|Air|link=Air rune]]        <sup>1</sup>[[File:Cosmic rune.png|Cosmic|link=Cosmic rune]]   <sup>5</sup>[[File:Mind rune.png|Mind|link=Mind rune]]         </span> <sup>2</sup> <span class=\\\"scp\\\" data-skill=\\\"Prayer\\\" style=\\\"position:relative;display:inline-block;height:1em;\\\">[[File:Prayer icon.png|link=Prayer|alt=Prayer]] </span> <span class=\\\"plinkp-template\\\">[[File:Book of the dead.png|link=Book of the dead]]</span>\",\"level\":\"38\",\"type\":\"Combat\",\"spellbook\":\"Arceuus\"}",
+    "uses_material": [
+      "Air rune",
+      "Cosmic rune",
+      "Mind rune"
+    ],
+    "spellbook": "arceuus"
+  },
+  {
+    "page_name": "Resurrect Lesser Skeleton",
+    "image": "[[File:Resurrect Lesser Skeleton.png]]",
+    "is_members_only": true,
+    "page_name_sub": "Resurrect Lesser Skeleton",
+    "json": "{\"slayerlevel\":\"\",\"exp\":\"55\",\"cost\":\"<span style=\\\"white-space:nowrap\\\"><sup>10</sup>[[File:Air rune.png|Air|link=Air rune]]        <sup>1</sup>[[File:Cosmic rune.png|Cosmic|link=Cosmic rune]]   <sup>5</sup>[[File:Mind rune.png|Mind|link=Mind rune]]         </span> <sup>2</sup> <span class=\\\"scp\\\" data-skill=\\\"Prayer\\\" style=\\\"position:relative;display:inline-block;height:1em;\\\">[[File:Prayer icon.png|link=Prayer|alt=Prayer]] </span> <span class=\\\"plinkp-template\\\">[[File:Book of the dead.png|link=Book of the dead]]</span>\",\"level\":\"38\",\"type\":\"Combat\",\"spellbook\":\"Arceuus\"}",
+    "uses_material": [
+      "Air rune",
+      "Cosmic rune",
+      "Mind rune"
+    ],
+    "spellbook": "arceuus"
+  },
+  {
+    "page_name": "Resurrect Lesser Zombie",
+    "image": "[[File:Resurrect Lesser Zombie.png]]",
+    "is_members_only": true,
+    "page_name_sub": "Resurrect Lesser Zombie",
+    "json": "{\"slayerlevel\":\"\",\"exp\":\"55\",\"cost\":\"<span style=\\\"white-space:nowrap\\\"><sup>10</sup>[[File:Air rune.png|Air|link=Air rune]]        <sup>1</sup>[[File:Cosmic rune.png|Cosmic|link=Cosmic rune]]   <sup>5</sup>[[File:Mind rune.png|Mind|link=Mind rune]]         </span> <sup>2</sup> <span class=\\\"scp\\\" data-skill=\\\"Prayer\\\" style=\\\"position:relative;display:inline-block;height:1em;\\\">[[File:Prayer icon.png|link=Prayer|alt=Prayer]] </span> <span class=\\\"plinkp-template\\\">[[File:Book of the dead.png|link=Book of the dead]]</span>\",\"level\":\"38\",\"type\":\"Combat\",\"spellbook\":\"Arceuus\"}",
+    "uses_material": [
+      "Air rune",
+      "Cosmic rune",
+      "Mind rune"
+    ],
+    "spellbook": "arceuus"
+  },
+  {
+    "page_name": "Resurrect Superior Ghost",
+    "image": "[[File:Resurrect Superior Ghost.png]]",
+    "is_members_only": true,
+    "page_name_sub": "Resurrect Superior Ghost",
+    "json": "{\"slayerlevel\":\"\",\"exp\":\"70\",\"cost\":\"<span style=\\\"white-space:nowrap\\\"> <sup>10</sup>[[File:Earth rune.png|Earth|link=Earth rune]]       <sup>1</sup>[[File:Cosmic rune.png|Cosmic|link=Cosmic rune]] <sup>5</sup>[[File:Death rune.png|Death|link=Death rune]]           </span> <sup>4</sup> <span class=\\\"scp\\\" data-skill=\\\"Prayer\\\" style=\\\"position:relative;display:inline-block;height:1em;\\\">[[File:Prayer icon.png|link=Prayer|alt=Prayer]] </span> <span class=\\\"plinkp-template\\\">[[File:Book of the dead.png|link=Book of the dead]]</span>\",\"level\":\"57\",\"type\":\"Combat\",\"spellbook\":\"Arceuus\"}",
+    "uses_material": [
+      "Earth rune",
+      "Cosmic rune",
+      "Death rune"
+    ],
+    "spellbook": "arceuus"
+  },
+  {
+    "page_name": "Resurrect Superior Skeleton",
+    "image": "[[File:Resurrect Superior Skeleton.png]]",
+    "is_members_only": true,
+    "page_name_sub": "Resurrect Superior Skeleton",
+    "json": "{\"slayerlevel\":\"\",\"exp\":\"70\",\"cost\":\"<span style=\\\"white-space:nowrap\\\"> <sup>10</sup>[[File:Earth rune.png|Earth|link=Earth rune]]       <sup>1</sup>[[File:Cosmic rune.png|Cosmic|link=Cosmic rune]] <sup>5</sup>[[File:Death rune.png|Death|link=Death rune]]           </span> <sup>4</sup> <span class=\\\"scp\\\" data-skill=\\\"Prayer\\\" style=\\\"position:relative;display:inline-block;height:1em;\\\">[[File:Prayer icon.png|link=Prayer|alt=Prayer]] </span> <span class=\\\"plinkp-template\\\">[[File:Book of the dead.png|link=Book of the dead]]</span>\",\"level\":\"57\",\"type\":\"Combat\",\"spellbook\":\"Arceuus\"}",
+    "uses_material": [
+      "Earth rune",
+      "Cosmic rune",
+      "Death rune"
+    ],
+    "spellbook": "arceuus"
+  },
+  {
+    "page_name": "Resurrect Superior Zombie",
+    "image": "[[File:Resurrect Superior Zombie.png]]",
+    "is_members_only": true,
+    "page_name_sub": "Resurrect Superior Zombie",
+    "json": "{\"slayerlevel\":\"\",\"exp\":\"70\",\"cost\":\"<span style=\\\"white-space:nowrap\\\"> <sup>10</sup>[[File:Earth rune.png|Earth|link=Earth rune]]       <sup>1</sup>[[File:Cosmic rune.png|Cosmic|link=Cosmic rune]] <sup>5</sup>[[File:Death rune.png|Death|link=Death rune]]           </span> <sup>4</sup> <span class=\\\"scp\\\" data-skill=\\\"Prayer\\\" style=\\\"position:relative;display:inline-block;height:1em;\\\">[[File:Prayer icon.png|link=Prayer|alt=Prayer]] </span> <span class=\\\"plinkp-template\\\">[[File:Book of the dead.png|link=Book of the dead]]</span>\",\"level\":\"57\",\"type\":\"Combat\",\"spellbook\":\"Arceuus\"}",
+    "uses_material": [
+      "Earth rune",
+      "Cosmic rune",
+      "Death rune"
+    ],
+    "spellbook": "arceuus"
+  },
+  {
+    "page_name": "Resurrect Greater Ghost",
+    "image": "[[File:Resurrect Greater Ghost.png]]",
+    "is_members_only": true,
+    "page_name_sub": "Resurrect Greater Ghost",
+    "json": "{\"slayerlevel\":\"\",\"exp\":\"88\",\"cost\":\"<span style=\\\"white-space:nowrap\\\">  <sup>10</sup>[[File:Fire rune.png|Fire|link=Fire rune]]   <sup>5</sup>[[File:Blood rune.png|Blood|link=Blood rune]]   <sup>1</sup>[[File:Cosmic rune.png|Cosmic|link=Cosmic rune]]            </span> <sup>6</sup> <span class=\\\"scp\\\" data-skill=\\\"Prayer\\\" style=\\\"position:relative;display:inline-block;height:1em;\\\">[[File:Prayer icon.png|link=Prayer|alt=Prayer]] </span> <span class=\\\"plinkp-template\\\">[[File:Book of the dead.png|link=Book of the dead]]</span>\",\"level\":\"76\",\"type\":\"Combat\",\"spellbook\":\"Arceuus\"}",
+    "uses_material": [
+      "Fire rune",
+      "Blood rune",
+      "Cosmic rune"
+    ],
+    "spellbook": "arceuus"
+  },
+  {
+    "page_name": "Resurrect Greater Skeleton",
+    "image": "[[File:Resurrect Greater Skeleton.png]]",
+    "is_members_only": true,
+    "page_name_sub": "Resurrect Greater Skeleton",
+    "json": "{\"slayerlevel\":\"\",\"exp\":\"88\",\"cost\":\"<span style=\\\"white-space:nowrap\\\">  <sup>10</sup>[[File:Fire rune.png|Fire|link=Fire rune]]   <sup>5</sup>[[File:Blood rune.png|Blood|link=Blood rune]]   <sup>1</sup>[[File:Cosmic rune.png|Cosmic|link=Cosmic rune]]            </span> <sup>6</sup> <span class=\\\"scp\\\" data-skill=\\\"Prayer\\\" style=\\\"position:relative;display:inline-block;height:1em;\\\">[[File:Prayer icon.png|link=Prayer|alt=Prayer]] </span> <span class=\\\"plinkp-template\\\">[[File:Book of the dead.png|link=Book of the dead]]</span>\",\"level\":\"76\",\"type\":\"Combat\",\"spellbook\":\"Arceuus\"}",
+    "uses_material": [
+      "Fire rune",
+      "Blood rune",
+      "Cosmic rune"
+    ],
+    "spellbook": "arceuus"
+  },
+  {
+    "page_name": "Resurrect Greater Zombie",
+    "image": "[[File:Resurrect Greater Zombie.png]]",
+    "is_members_only": true,
+    "page_name_sub": "Resurrect Greater Zombie",
+    "json": "{\"slayerlevel\":\"\",\"exp\":\"88\",\"cost\":\"<span style=\\\"white-space:nowrap\\\">  <sup>10</sup>[[File:Fire rune.png|Fire|link=Fire rune]]   <sup>5</sup>[[File:Blood rune.png|Blood|link=Blood rune]]   <sup>1</sup>[[File:Cosmic rune.png|Cosmic|link=Cosmic rune]]            </span> <sup>6</sup> <span class=\\\"scp\\\" data-skill=\\\"Prayer\\\" style=\\\"position:relative;display:inline-block;height:1em;\\\">[[File:Prayer icon.png|link=Prayer|alt=Prayer]] </span> <span class=\\\"plinkp-template\\\">[[File:Book of the dead.png|link=Book of the dead]]</span>\",\"level\":\"76\",\"type\":\"Combat\",\"spellbook\":\"Arceuus\"}",
+    "uses_material": [
+      "Fire rune",
+      "Blood rune",
+      "Cosmic rune"
+    ],
+    "spellbook": "arceuus"
+  },
+  {
+    "page_name": "Civitas illa Fortis Teleport",
+    "image": "[[File:Civitas illa Fortis Teleport.png]]",
+    "is_members_only": true,
+    "page_name_sub": "Civitas illa Fortis Teleport",
+    "json": "{\"slayerlevel\":\"\",\"exp\":\"64\",\"cost\":\"<span style=\\\"white-space:nowrap\\\"> <sup>1</sup>[[File:Earth rune.png|Earth|link=Earth rune]] <sup>1</sup>[[File:Fire rune.png|Fire|link=Fire rune]]        <sup>2</sup>[[File:Law rune.png|Law|link=Law rune]]          </span>\",\"level\":\"54\",\"type\":\"Teleport\",\"spellbook\":\"Normal\"}",
+    "uses_material": [
+      "Earth rune",
+      "Fire rune",
+      "Law rune"
+    ],
+    "spellbook": "normal"
+  },
+  {
+    "page_name": "Monster Inspect",
+    "image": "[[File:Monster Inspect.png]]",
+    "is_members_only": false,
+    "page_name_sub": "Monster Inspect",
+    "json": "{\"slayerlevel\":\"\",\"exp\":\"30.5\",\"cost\":\"<span style=\\\"white-space:nowrap\\\">      <sup>2</sup>[[File:Body rune.png|Body|link=Body rune]]     <sup>2</sup>[[File:Mind rune.png|Mind|link=Mind rune]]         </span>\",\"level\":\"42\",\"type\":\"Utility\",\"spellbook\":\"Normal\"}",
+    "uses_material": [
+      "Body rune",
+      "Mind rune"
+    ],
+    "spellbook": "normal"
+  },
+  {
+    "page_name": "Teleport to Boat",
+    "image": "[[File:Teleport to Boat.png]]",
+    "is_members_only": true,
+    "page_name_sub": "Teleport to Boat",
+    "json": "{\"slayerlevel\":\"\",\"exp\":\"77\",\"cost\":\"<span style=\\\"white-space:nowrap\\\"> <sup>2</sup>[[File:Earth rune.png|Earth|link=Earth rune]]  <sup>2</sup>[[File:Water rune.png|Water|link=Water rune]]       <sup>2</sup>[[File:Law rune.png|Law|link=Law rune]]          </span>\",\"level\":\"67\",\"type\":\"Teleport\",\"spellbook\":\"Normal\"}",
+    "uses_material": [
+      "Earth rune",
+      "Water rune",
+      "Law rune"
+    ],
+    "spellbook": "normal"
+  },
+  {
+    "page_name": "Summon Boat",
+    "image": "[[File:Summon Boat.png]]",
+    "is_members_only": true,
+    "page_name_sub": "Summon Boat",
+    "json": "{\"slayerlevel\":\"\",\"exp\":\"66\",\"cost\":\"<span style=\\\"white-space:nowrap\\\"> <sup>1</sup>[[File:Earth rune.png|Earth|link=Earth rune]]  <sup>1</sup>[[File:Water rune.png|Water|link=Water rune]]       <sup>2</sup>[[File:Law rune.png|Law|link=Law rune]]          </span>\",\"level\":\"56\",\"type\":\"Teleport\",\"spellbook\":\"Normal\"}",
+    "uses_material": [
+      "Earth rune",
+      "Water rune",
+      "Law rune"
+    ],
+    "spellbook": "normal"
+  },
+  {
+    "page_name": "Alchemic Divergence",
+    "image": "[[File:Alchemic Divergence.png]]",
+    "is_members_only": true,
+    "page_name_sub": "Alchemic Divergence",
+    "json": "{\"slayerlevel\":\"\",\"exp\":\"10 * items\",\"cost\":\"None\",\"level\":\"1\",\"type\":\"Utility\",\"spellbook\":\"Normal\"}",
+    "spellbook": "normal"
+  },
+  {
+    "page_name": "Alchemic Convergence",
+    "image": "[[File:Alchemic Convergence.png]]",
+    "is_members_only": true,
+    "page_name_sub": "Alchemic Convergence",
+    "json": "{\"slayerlevel\":\"\",\"exp\":\"10 * items\",\"cost\":\"None\",\"level\":\"1\",\"type\":\"Utility\",\"spellbook\":\"Normal\"}",
+    "spellbook": "normal"
+  },
+  {
+    "page_name": "League Home Teleport",
+    "image": "[[File:League Home Teleport.png]]",
+    "is_members_only": true,
+    "page_name_sub": "League Home Teleport",
+    "json": "{\"slayerlevel\":\"\",\"exp\":\"0\",\"cost\":\"None ''(see article)''\",\"level\":\"1\",\"type\":\"Teleport\",\"spellbook\":\"All\"}",
+    "spellbook": "all"
+  }
+]

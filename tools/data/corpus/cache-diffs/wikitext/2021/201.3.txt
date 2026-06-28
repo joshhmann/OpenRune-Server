@@ -1,0 +1,59 @@
+{{ToC}}
+==Items==
+{| class="wikitable sortable"
+!colspan='5'|Items
+|-
+! Name !! ID !! Key !! Previous Value !! Changed into
+|-
+|rowspan="2"|[[Small ninja monkey bones]]
+|rowspan="2"|3179
+|-
+|name || [[Monkey bones]] || [[Small ninja monkey bones]]
+|-
+|rowspan="2"|[[Medium ninja monkey bones]]
+|rowspan="2"|3180
+|-
+|name || [[Monkey bones]] || [[Medium ninja monkey bones]]
+|-
+|rowspan="2"|[[Gorilla bones]]
+|rowspan="2"|3181
+|-
+|name || [[Monkey bones]] || [[Gorilla bones]]
+|-
+|rowspan="2"|[[Bearded gorilla bones]]
+|rowspan="2"|3182
+|-
+|name || [[Monkey bones]] || [[Bearded gorilla bones]]
+|-
+|rowspan="2"|[[Small zombie monkey bones]]
+|rowspan="2"|3185
+|-
+|name || [[Monkey bones]] || [[Small zombie monkey bones]]
+|-
+|rowspan="2"|[[Large zombie monkey bones]]
+|rowspan="2"|3186
+|-
+|name || [[Monkey bones]] || [[Large zombie monkey bones]]
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|3311
+|-
+|params || {'1189': 3146, '365': 2415, '366': 1, '367': 565, '336': 0, '368': 2, '369': 556, '370': 4, '596': 14286894, '597': 61, '598': 111, '599': 1775, '600': 1855, '601': 'Saradomin strike', '602': 'Summons the power of Saradomin', '603': 1, '604': 60, '605': 0, '606': 554, '607': 2} || {'1189': 3146, '365': 2415, '366': 1, '367': 565, '336': 0, '368': 2, '369': 556, '370': 4, '596': 14286894, '597': 61, '598': 111, '599': 1775, '600': 1855, '601': 'Saradomin Strike', '602': 'Summons the power of Saradomin', '603': 1, '604': 60, '605': 0, '606': 554, '607': 2}
+|-
+|}
+
+==Non-Player Characters==
+{| class="wikitable sortable"
+!colspan='5'|Non-Player Characters
+|-
+! Name !! ID !! Key !! Previous Value !! Changed into
+|-
+|}
+
+==Objects==
+{| class="wikitable sortable"
+!colspan='5'|Objects
+|-
+! Name !! ID !! Key !! Previous Value !! Changed into
+|-
+|}

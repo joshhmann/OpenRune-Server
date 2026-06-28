@@ -1,0 +1,4569 @@
+[
+  {
+    "page_name": "Bob's Brilliant Axes.",
+    "is_members_only": false,
+    "owner": "[[Bob]]",
+    "page_name_sub": "Bob's Brilliant Axes.",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Lumbridge]]",
+    "specialty": "[[Axe]]s"
+  },
+  {
+    "page_name": "Nurmof's Pickaxe Shop.",
+    "is_members_only": false,
+    "owner": "[[Nurmof]]",
+    "page_name_sub": "Nurmof's Pickaxe Shop.",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Dwarven Mine]]s",
+    "specialty": "Mining shop"
+  },
+  {
+    "page_name": "Varrock Swordshop",
+    "is_members_only": false,
+    "owner": "[[Shop keeper (Varrock Swordshop)|Shop keeper]]",
+    "page_name_sub": "Varrock Swordshop",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Varrock]]",
+    "specialty": "Sword shop"
+  },
+  {
+    "page_name": "Zeke's Superior Scimitars.",
+    "is_members_only": false,
+    "owner": "[[Zeke]]",
+    "page_name_sub": "Zeke's Superior Scimitars.",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Al Kharid]]",
+    "specialty": "Scimitar shop"
+  },
+  {
+    "page_name": "Blue Moon Inn",
+    "is_members_only": false,
+    "owner": "[[Bartender (Blue Moon Inn)|Bartender]]",
+    "page_name_sub": "Blue Moon Inn",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Varrock]]",
+    "specialty": "[[Beer]]"
+  },
+  {
+    "page_name": "Zaff's Superior Staffs!",
+    "is_members_only": false,
+    "owner": "[[Zaff]]",
+    "page_name_sub": "Zaff's Superior Staffs!",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Varrock]]",
+    "specialty": "Staff shop"
+  },
+  {
+    "page_name": "Scavvo's Rune Store.",
+    "is_members_only": false,
+    "owner": "[[Scavvo]]",
+    "page_name_sub": "Scavvo's Rune Store.",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Champions' Guild]]",
+    "specialty": "Chainmail shop"
+  },
+  {
+    "page_name": "Gerrant's Fishy Business.",
+    "is_members_only": false,
+    "owner": "[[Gerrant]]",
+    "page_name_sub": "Gerrant's Fishy Business.",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Port Sarim]]",
+    "specialty": "Fishing shop"
+  },
+  {
+    "page_name": "Ranael's Super Skirt Store.",
+    "is_members_only": false,
+    "owner": "[[Ranael]]",
+    "page_name_sub": "Ranael's Super Skirt Store.",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Al Kharid]]",
+    "specialty": "Plateskirt shop"
+  },
+  {
+    "page_name": "Louie's Armoured Legs Bazaar.",
+    "is_members_only": false,
+    "owner": "[[Louie Legs]]",
+    "page_name_sub": "Louie's Armoured Legs Bazaar.",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Al Kharid]]",
+    "specialty": "Platelegs shop"
+  },
+  {
+    "page_name": "Oziach (shop)",
+    "is_members_only": false,
+    "owner": "[[Oziach]]",
+    "page_name_sub": "Oziach (shop)",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Edgeville]]",
+    "specialty": "[[Armour]]"
+  },
+  {
+    "page_name": "Horvik's Armour Shop.",
+    "is_members_only": false,
+    "owner": "[[Horvik]]",
+    "page_name_sub": "Horvik's Armour Shop.",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Varrock]]",
+    "specialty": "Platebody shop"
+  },
+  {
+    "page_name": "TzHaar-Hur-Lek's Ore and Gem Store",
+    "is_members_only": true,
+    "owner": "[[TzHaar-Hur-Lek]]",
+    "page_name_sub": "TzHaar-Hur-Lek's Ore and Gem Store",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Mor Ul Rek]]",
+    "specialty": "Gem shop"
+  },
+  {
+    "page_name": "Flying Horse Inn",
+    "is_members_only": true,
+    "owner": "[[Bartender (Flying Horse Inn)|Bartender]]",
+    "page_name_sub": "Flying Horse Inn",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[East Ardougne]]",
+    "specialty": "[[Beer]]"
+  },
+  {
+    "page_name": "Dead Man's Chest",
+    "is_members_only": true,
+    "owner": "[[Bartender (Dead Man's Chest)|Bartender]]",
+    "page_name_sub": "Dead Man's Chest",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Brimhaven]]",
+    "specialty": "[[Karamjan rum]], [[Grog]]"
+  },
+  {
+    "page_name": "Culinaromancer's Chest",
+    "is_members_only": true,
+    "owner": "None",
+    "page_name_sub": "Culinaromancer's Chest",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Lumbridge Castle]] basement",
+    "specialty": "[[Cooking]] supplies <br/> [[Culinaromancer's gloves]] <br/> [[Kitchen weaponry]]"
+  },
+  {
+    "page_name": "The Toad and Chicken",
+    "is_members_only": true,
+    "owner": "[[Sam (barmaid)|Sam]], [[Rachael]]",
+    "page_name_sub": "The Toad and Chicken#Games Room",
+    "shop_version": "(2)",
+    "location": "[[Burthorpe Games Room]]",
+    "specialty": "Pub"
+  },
+  {
+    "page_name": "The Toad and Chicken",
+    "is_members_only": true,
+    "owner": "[[Tostig]]",
+    "page_name_sub": "The Toad and Chicken#Burthorpe",
+    "shop_version": "(1)",
+    "location": "[[Burthorpe]]",
+    "specialty": "Pub"
+  },
+  {
+    "page_name": "Cassie's Shield Shop.",
+    "is_members_only": false,
+    "owner": "[[Cassie]]",
+    "page_name_sub": "Cassie's Shield Shop.",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Falador]]",
+    "specialty": "Shield shop"
+  },
+  {
+    "page_name": "Valaine's Shop of Champions.",
+    "is_members_only": false,
+    "owner": "[[Valaine]]",
+    "page_name_sub": "Valaine's Shop of Champions.",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "<span class=\"floornumber\"><span class=\"floornumber-gb\">1<sup class=\"floornumber-ordinal-suffix\">st</sup>&nbsp;floor<sup class=\"floornumber-help noexcerpt\">&#91;<span class=\"fact-text floor-convention\" title=\"British convention; floor 2 in the US\">UK</span>&#93;</sup></span><span class=\"floornumber-us noexcerpt\">2<sup class=\"floornumber-ordinal-suffix\">nd</sup>&nbsp;floor<sup class=\"floornumber-help noexcerpt\">&#91;<span class=\"fact-text floor-convention\" title=\"US convention; floor 1 in the UK\">US</span>&#93;</sup></span></span> of [[Champions' Guild]]",
+    "specialty": "[[Melee armour]]"
+  },
+  {
+    "page_name": "Dragon Inn",
+    "is_members_only": true,
+    "owner": "[[Bartender (Dragon Inn)|Bartender]]",
+    "page_name_sub": "Dragon Inn",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Yanille]]",
+    "specialty": "<span style=\"user-select:none;\">'''&bull;'''</span> [[Dragon bitter]]<br/><span style=\"user-select:none;\">'''&bull;'''</span> [[Greenman's ale]]<br/><span style=\"user-select:none;\">'''&bull;'''</span> [[Beer]]"
+  },
+  {
+    "page_name": "Helmet Shop.",
+    "is_members_only": false,
+    "owner": "[[Peksa]]",
+    "page_name_sub": "Helmet Shop.",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Barbarian Village]]",
+    "specialty": "Helmet shop"
+  },
+  {
+    "page_name": "Aubury's Rune Shop.",
+    "is_members_only": false,
+    "owner": "[[Aubury]]",
+    "page_name_sub": "Aubury's Rune Shop.",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Varrock]]",
+    "specialty": "[[Magic shop]]"
+  },
+  {
+    "page_name": "Dommik's Crafting Store.",
+    "is_members_only": false,
+    "owner": "[[Dommik]]",
+    "page_name_sub": "Dommik's Crafting Store.",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Al Kharid]]",
+    "specialty": "Crafting shop"
+  },
+  {
+    "page_name": "Rasolo the Wandering Merchant",
+    "is_members_only": true,
+    "owner": "[[Rasolo]]",
+    "page_name_sub": "Rasolo the Wandering Merchant",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "South of [[Baxtorian Falls]]",
+    "specialty": "General store"
+  },
+  {
+    "page_name_sub": "RuneScape:Templates",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "page_name": "RuneScape:Templates"
+  },
+  {
+    "page_name": "Thessalia's Fine Clothes.",
+    "is_members_only": false,
+    "owner": "[[Thessalia]]",
+    "page_name_sub": "Thessalia's Fine Clothes.",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Varrock]]",
+    "specialty": "Clothes shop"
+  },
+  {
+    "page_name": "Jolly Boar Inn",
+    "is_members_only": false,
+    "owner": "[[Bartender (Jolly Boar Inn)|Bartender]]",
+    "page_name_sub": "Jolly Boar Inn",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "North-east of [[Varrock]]",
+    "specialty": "[[Beer]]"
+  },
+  {
+    "page_name": "Grum's Gold Exchange.",
+    "is_members_only": false,
+    "owner": "[[Grum]]",
+    "page_name_sub": "Grum's Gold Exchange.",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Port Sarim]]",
+    "specialty": "Jewellery shop"
+  },
+  {
+    "page_name": "Warrior Guild Potion Shop",
+    "is_members_only": true,
+    "owner": "[[Lilly]]",
+    "page_name_sub": "Warrior Guild Potion Shop",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "<span class=\"floornumber\"><span class=\"floornumber-gb\">ground&nbsp;floor<sup class=\"floornumber-help noexcerpt\">&#91;<span class=\"fact-text floor-convention\" title=\"British convention; floor 1 in the US\">UK</span>&#93;</sup></span><span class=\"floornumber-us noexcerpt\">1<sup class=\"floornumber-ordinal-suffix\">st</sup>&nbsp;floor<sup class=\"floornumber-help noexcerpt\">&#91;<span class=\"fact-text floor-convention\" title=\"US convention; ground floor in the UK\">US</span>&#93;</sup></span></span> of the [[Warriors' Guild]]",
+    "specialty": "Apothecary"
+  },
+  {
+    "page_name": "Karamja Wines, Spirits, and Beers.",
+    "is_members_only": false,
+    "owner": "[[Zembo]]",
+    "page_name_sub": "Karamja Wines, Spirits, and Beers.",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Karamja]]",
+    "specialty": "Pub"
+  },
+  {
+    "page_name": "Pickaxe-Is-Mine",
+    "is_members_only": true,
+    "owner": "[[Tati]] and [[Sune]]",
+    "page_name_sub": "Pickaxe-Is-Mine",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Keldagrim]]",
+    "specialty": "Mining shop"
+  },
+  {
+    "page_name": "Sawmill",
+    "is_members_only": true,
+    "owner": "[[Sawmill Operator (Auburnvale)]]",
+    "page_name_sub": "Sawmill#Auburnvale",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Auburnvale]]",
+    "specialty": "[[Planks]]"
+  },
+  {
+    "page_name": "Sawmill",
+    "is_members_only": true,
+    "owner": "[[Sawmill Operator (Prifddinas)]]",
+    "page_name_sub": "Sawmill#Prifddinas",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Prifddinas]]",
+    "specialty": "[[Planks]]"
+  },
+  {
+    "page_name": "Sawmill",
+    "is_members_only": true,
+    "owner": "[[Sawmill operator]]",
+    "page_name_sub": "Sawmill#Woodcutting Guild",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Woodcutting Guild]]",
+    "specialty": "[[Planks]]"
+  },
+  {
+    "page_name": "Sawmill",
+    "is_members_only": true,
+    "owner": "[[Sawmill operator]]",
+    "page_name_sub": "Sawmill#Lumber Yard",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Lumber Yard]]",
+    "specialty": "[[Planks]]"
+  },
+  {
+    "page_name": "Armour Shop (Jatizso)",
+    "is_members_only": true,
+    "owner": "[[Raum Urda-Stein]]",
+    "page_name_sub": "Armour Shop (Jatizso)",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Jatizso]]",
+    "specialty": "Chainmail shop"
+  },
+  {
+    "page_name": "Fine Fashions",
+    "is_members_only": true,
+    "owner": "[[Rometti]]",
+    "page_name_sub": "Fine Fashions",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Grand Tree]]",
+    "specialty": "[[Gnome robes]]"
+  },
+  {
+    "page_name": "Betty's Magic Emporium.",
+    "is_members_only": false,
+    "owner": "[[Betty]]",
+    "page_name_sub": "Betty's Magic Emporium.",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Port Sarim]]",
+    "specialty": "[[Magic shop]]"
+  },
+  {
+    "page_name": "Hickton's Archery Emporium.",
+    "is_members_only": true,
+    "owner": "[[Hickton]]",
+    "page_name_sub": "Hickton's Archery Emporium.",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Catherby]]",
+    "specialty": "Archery shop"
+  },
+  {
+    "page_name": "Daga's Scimitar Smithy",
+    "is_members_only": true,
+    "owner": "[[Daga]]",
+    "page_name_sub": "Daga's Scimitar Smithy",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Ape Atoll]]",
+    "specialty": "Scimitar shop"
+  },
+  {
+    "page_name": "Happy Heroes' H'emporium.",
+    "is_members_only": true,
+    "owner": "[[Helemos]]",
+    "page_name_sub": "Happy Heroes' H'emporium.",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "<span class=\"floornumber\"><span class=\"floornumber-gb\">1<sup class=\"floornumber-ordinal-suffix\">st</sup>&nbsp;floor<sup class=\"floornumber-help noexcerpt\">&#91;<span class=\"fact-text floor-convention\" title=\"British convention; floor 2 in the US\">UK</span>&#93;</sup></span><span class=\"floornumber-us noexcerpt\">2<sup class=\"floornumber-ordinal-suffix\">nd</sup>&nbsp;floor<sup class=\"floornumber-help noexcerpt\">&#91;<span class=\"fact-text floor-convention\" title=\"US convention; floor 1 in the UK\">US</span>&#93;</sup></span></span> of the [[Heroes' Guild]]",
+    "specialty": "[[Dragon weapons]]"
+  },
+  {
+    "page_name": "Rok's Chocs Box.",
+    "is_members_only": true,
+    "owner": "[[Rokuh]]",
+    "page_name_sub": "Rok's Chocs Box.",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Nardah]]",
+    "specialty": "Chocolate shop"
+  },
+  {
+    "page_name": "Herquin's Gems.",
+    "is_members_only": false,
+    "owner": "[[Herquin]]",
+    "page_name_sub": "Herquin's Gems.",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Falador]]",
+    "specialty": "Gem shop"
+  },
+  {
+    "page_name": "Diango's Toy Store",
+    "is_members_only": false,
+    "owner": "[[Diango]]",
+    "page_name_sub": "Diango's Toy Store",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Draynor Village]]",
+    "specialty": "Holiday item trader"
+  },
+  {
+    "page_name": "Gem Trader.",
+    "is_members_only": false,
+    "owner": "[[Gem trader]]",
+    "page_name_sub": "Gem Trader.",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Al Kharid]]",
+    "specialty": "Gem shop"
+  },
+  {
+    "page_name": "The Asp & Snake Bar.",
+    "is_members_only": true,
+    "owner": "[[Ali the Barman]]",
+    "page_name_sub": "The Asp & Snake Bar.",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Pollnivneach]]",
+    "specialty": "Pub"
+  },
+  {
+    "page_name": "Funch's Fine Groceries",
+    "is_members_only": true,
+    "owner": "[[Heckel Funch]]",
+    "page_name_sub": "Funch's Fine Groceries",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Grand Tree]]",
+    "specialty": "Cookery shop"
+  },
+  {
+    "page_name": "Vanessa's Farming shop.",
+    "is_members_only": true,
+    "owner": "[[Vanessa]]",
+    "page_name_sub": "Vanessa's Farming shop.",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Catherby]]",
+    "specialty": "Farming shop"
+  },
+  {
+    "page_name": "Richard's Farming shop.",
+    "is_members_only": true,
+    "owner": "[[Richard (Ardougne)|Richard]]",
+    "page_name_sub": "Richard's Farming shop.",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "North of [[East Ardougne]]",
+    "specialty": "Farming shop"
+  },
+  {
+    "page_name": "Sarah's Farming shop.",
+    "is_members_only": true,
+    "owner": "[[Sarah]]",
+    "page_name_sub": "Sarah's Farming shop.",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[South Falador Farm]]",
+    "specialty": "Farming shop"
+  },
+  {
+    "page_name": "Alice's Farming shop.",
+    "is_members_only": true,
+    "owner": "[[Alice]]",
+    "page_name_sub": "Alice's Farming shop.",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Alice's farm]]",
+    "specialty": "Farming shop"
+  },
+  {
+    "page_name": "Brian's Battleaxe Bazaar.",
+    "is_members_only": false,
+    "owner": "[[Brian]]",
+    "page_name_sub": "Brian's Battleaxe Bazaar.",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Port Sarim]]",
+    "specialty": "Axe shop"
+  },
+  {
+    "page_name": "Lowe's Archery Emporium",
+    "is_members_only": false,
+    "owner": "[[Lowe]]",
+    "page_name_sub": "Lowe's Archery Emporium",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Varrock]]",
+    "specialty": "Archery shop"
+  },
+  {
+    "page_name": "Falador Party Room",
+    "is_members_only": false,
+    "owner": "[[Lucy]], [[Megan]]",
+    "page_name_sub": "Falador Party Room",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Falador]]",
+    "specialty": "[[Beer]]"
+  },
+  {
+    "page_name": "Aemad's Adventuring Supplies.",
+    "is_members_only": true,
+    "owner": "[[Aemad]]",
+    "page_name_sub": "Aemad's Adventuring Supplies.",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[East Ardougne]]",
+    "specialty": "General store"
+  },
+  {
+    "page_name": "Skulgrimen's Battle Gear",
+    "is_members_only": true,
+    "owner": "[[Skulgrimen]]",
+    "page_name_sub": "Skulgrimen's Battle Gear",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Rellekka]]",
+    "specialty": "Helmet shop"
+  },
+  {
+    "page_name": "Fancy Clothes Store",
+    "is_members_only": true,
+    "owner": "[[Asyff]]",
+    "page_name_sub": "Fancy Clothes Store",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Varrock]]",
+    "specialty": "Clothes shop"
+  },
+  {
+    "page_name": "Fernahei's Fishing Hut.",
+    "is_members_only": true,
+    "owner": "[[Fernahei]]",
+    "page_name_sub": "Fernahei's Fishing Hut.",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Shilo Village (location)|Shilo Village]]",
+    "specialty": "Fishing shop"
+  },
+  {
+    "page_name": "Ardougne Baker's Stall.",
+    "is_members_only": true,
+    "owner": "[[Baker]]",
+    "page_name_sub": "Ardougne Baker's Stall.",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[East Ardougne]]",
+    "specialty": "Food shop"
+  },
+  {
+    "page_name": "Wine Shop.",
+    "is_members_only": false,
+    "owner": "[[Fortunato]]",
+    "page_name_sub": "Wine Shop.",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Draynor Village]]",
+    "specialty": "Wine trader"
+  },
+  {
+    "page_name": "The Green Ghost",
+    "is_members_only": true,
+    "owner": "[[Metarialus]]",
+    "page_name_sub": "The Green Ghost",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Port Phasmatys]]",
+    "specialty": "Nothing"
+  },
+  {
+    "page_name": "The Other Inn.",
+    "is_members_only": true,
+    "owner": "[[Mama]]",
+    "page_name_sub": "The Other Inn.",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Mos Le'Harmless]]",
+    "specialty": "Pub"
+  },
+  {
+    "page_name": "Harpoon Joe's House of 'Rum'.",
+    "is_members_only": true,
+    "owner": "[[Joe]]",
+    "page_name_sub": "Harpoon Joe's House of 'Rum'.",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Mos Le'Harmless]]",
+    "specialty": "Pub"
+  },
+  {
+    "page_name": "Food Store",
+    "is_members_only": false,
+    "owner": "[[Wydin]]",
+    "page_name_sub": "Food Store",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Port Sarim]]",
+    "specialty": "Food shop"
+  },
+  {
+    "page_name": "Drogo's Mining Emporium.",
+    "is_members_only": false,
+    "owner": "[[Drogo dwarf]]",
+    "page_name_sub": "Drogo's Mining Emporium.",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Dwarven Mine]]s",
+    "specialty": "Mining shop"
+  },
+  {
+    "page_name": "Seddu's Adventurer's Store.",
+    "is_members_only": true,
+    "owner": "[[Seddu]]",
+    "page_name_sub": "Seddu's Adventurer's Store.",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Nardah]]",
+    "specialty": "Platelegs shop"
+  },
+  {
+    "page_name": "Grand Tree Groceries",
+    "is_members_only": true,
+    "owner": "[[Hudo]]",
+    "page_name_sub": "Grand Tree Groceries",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Grand Tree]]",
+    "specialty": "Cookery shop"
+  },
+  {
+    "page_name": "Grace's Graceful Clothing",
+    "is_members_only": true,
+    "owner": "[[Grace]]",
+    "page_name_sub": "Grace's Graceful Clothing",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Rogues' Den]] ([[Burthorpe]])",
+    "specialty": "Clothes shop"
+  },
+  {
+    "page_name": "TzHaar-Hur-Tel's Equipment Store",
+    "is_members_only": true,
+    "owner": "[[TzHaar-Hur-Tel]]",
+    "page_name_sub": "TzHaar-Hur-Tel's Equipment Store",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Mor Ul Rek]]",
+    "specialty": "Sword shop"
+  },
+  {
+    "page_name": "Magic Guild Store (Mystic Robes)",
+    "is_members_only": true,
+    "owner": "[[Wizard Sinina]]",
+    "page_name_sub": "Magic Guild Store (Mystic Robes)",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Wizards' Guild]]",
+    "specialty": "Magic shop"
+  },
+  {
+    "page_name": "Magic Guild Store (Runes and Staves)",
+    "is_members_only": true,
+    "owner": "[[Wizard Akutha]]",
+    "page_name_sub": "Magic Guild Store (Runes and Staves)",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Wizards' Guild]]",
+    "specialty": "[[Magic shop]]"
+  },
+  {
+    "page_name": "Pie Shop",
+    "is_members_only": true,
+    "owner": "[[Romily Weaklax]]",
+    "page_name_sub": "Pie Shop",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Cooks' Guild]]",
+    "specialty": "Cookery shop"
+  },
+  {
+    "page_name": "Ye olde Tea Shoppe.",
+    "is_members_only": true,
+    "owner": "[[Tea seller]]",
+    "page_name_sub": "Ye olde Tea Shoppe.",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Varrock]]",
+    "specialty": "Tea trader"
+  },
+  {
+    "page_name": "Baba Yaga's Magic Shop.",
+    "is_members_only": true,
+    "owner": "[[Baba Yaga]]",
+    "page_name_sub": "Baba Yaga's Magic Shop.",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Lunar Isle]]",
+    "specialty": "[[Magic shop]]"
+  },
+  {
+    "page_name": "Blades by Urbi.",
+    "is_members_only": true,
+    "owner": "[[Urbi]]",
+    "page_name_sub": "Blades by Urbi.",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Sophanem]]",
+    "specialty": "Sword shop"
+  },
+  {
+    "page_name": "Castle Wars Ticket Exchange",
+    "is_members_only": false,
+    "owner": "[[Lanthus]]",
+    "page_name_sub": "Castle Wars Ticket Exchange",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Castle Wars]]",
+    "specialty": "Castle Wars rewards"
+  },
+  {
+    "page_name": "Rellekka Longhall Bar",
+    "is_members_only": true,
+    "owner": "[[Thora the Barkeep]]",
+    "page_name_sub": "Rellekka Longhall Bar",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Rellekka]]",
+    "specialty": "Pub"
+  },
+  {
+    "page_name": "Miltog's Lamps",
+    "is_members_only": true,
+    "owner": "[[Miltog]]",
+    "page_name_sub": "Miltog's Lamps",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Dorgesh-Kaan]]",
+    "specialty": "[[Lamp]]s"
+  },
+  {
+    "page_name": "Dancing Donkey Inn",
+    "is_members_only": false,
+    "owner": "[[Bartender (Dancing Donkey Inn)|Bartender]]",
+    "page_name_sub": "Dancing Donkey Inn",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Varrock]]",
+    "specialty": "[[Beer]]"
+  },
+  {
+    "page_name": "Miscellanian Clothes Shop",
+    "is_members_only": true,
+    "owner": "[[Halla]]",
+    "page_name_sub": "Miscellanian Clothes Shop",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Miscellania and Etceteria Dungeon]]",
+    "specialty": "Clothes shop"
+  },
+  {
+    "page_name": "Miscellanian Food Shop",
+    "is_members_only": true,
+    "owner": "[[Osvald]]",
+    "page_name_sub": "Miscellanian Food Shop",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Miscellania and Etceteria Dungeon]]",
+    "specialty": "Food shop"
+  },
+  {
+    "page_name": "Davon's Amulet Store.",
+    "is_members_only": true,
+    "owner": "[[Davon]]",
+    "page_name_sub": "Davon's Amulet Store.",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Brimhaven]]",
+    "specialty": "Amulet shop"
+  },
+  {
+    "page_name": "Keldagrim Stonemason",
+    "is_members_only": true,
+    "owner": "[[Stonemason]]",
+    "page_name_sub": "Keldagrim Stonemason",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Keldagrim]]",
+    "specialty": "Stonemason"
+  },
+  {
+    "page_name": "Aaron's Archery Appendages.",
+    "is_members_only": true,
+    "owner": "[[Armour salesman]]",
+    "page_name_sub": "Aaron's Archery Appendages.",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Ranging Guild]]",
+    "specialty": "[[Ranged armour]]"
+  },
+  {
+    "page_name": "Lletya Seamstress",
+    "is_members_only": true,
+    "owner": "[[Oronwen]]",
+    "page_name_sub": "Lletya Seamstress",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Lletya]]",
+    "specialty": "Clothes shop"
+  },
+  {
+    "page_name": "Rimmington General Store",
+    "is_members_only": false,
+    "owner": "[[Shop keeper (Rimmington)]]",
+    "page_name_sub": "Rimmington General Store",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Rimmington]]",
+    "specialty": "General store"
+  },
+  {
+    "page_name": "Quality Armour Shop",
+    "is_members_only": true,
+    "owner": "[[Saro]]",
+    "page_name_sub": "Quality Armour Shop",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Keldagrim]]",
+    "specialty": "Shield shop"
+  },
+  {
+    "page_name": "Trader Stan's Trading Post",
+    "is_members_only": true,
+    "owner": "[[Trader Crewmember]]",
+    "page_name_sub": "Trader Stan's Trading Post#Port Piscarilius",
+    "shop_version": "(13)",
+    "location": "[[Port Piscarilius]]",
+    "specialty": "General store"
+  },
+  {
+    "page_name": "Trader Stan's Trading Post",
+    "is_members_only": true,
+    "owner": "[[Trader Crewmember]]",
+    "page_name_sub": "Trader Stan's Trading Post#The Pandemonium",
+    "shop_version": "(17)",
+    "location": "[[The Pandemonium]]",
+    "specialty": "General store"
+  },
+  {
+    "page_name": "Trader Stan's Trading Post",
+    "is_members_only": true,
+    "owner": "[[Trader Crewmember]]",
+    "page_name_sub": "Trader Stan's Trading Post#Corsair Cove",
+    "shop_version": "(6)",
+    "location": "[[Corsair Cove]]",
+    "specialty": "General store"
+  },
+  {
+    "page_name": "Trader Stan's Trading Post",
+    "is_members_only": true,
+    "owner": "[[Trader Crewmember]]",
+    "page_name_sub": "Trader Stan's Trading Post#Deepfin Point",
+    "shop_version": "(19)",
+    "location": "[[Deepfin Point]]",
+    "specialty": "General store"
+  },
+  {
+    "page_name": "Trader Stan's Trading Post",
+    "is_members_only": true,
+    "owner": "[[Trader Crewmember]]",
+    "page_name_sub": "Trader Stan's Trading Post#Mos Le'Harmless",
+    "shop_version": "(10)",
+    "location": "[[Mos Le'Harmless]]",
+    "specialty": "General store"
+  },
+  {
+    "page_name": "Trader Stan's Trading Post",
+    "is_members_only": true,
+    "owner": "[[Trader Crewmember]]",
+    "page_name_sub": "Trader Stan's Trading Post#Red Rock",
+    "shop_version": "(21)",
+    "location": "[[Red Rock]]",
+    "specialty": "General store"
+  },
+  {
+    "page_name": "Trader Stan's Trading Post",
+    "is_members_only": true,
+    "owner": "[[Trader Crewmember]]",
+    "page_name_sub": "Trader Stan's Trading Post#Port Khazard",
+    "shop_version": "(5)",
+    "location": "[[Port Khazard]]",
+    "specialty": "General store"
+  },
+  {
+    "page_name": "Trader Stan's Trading Post",
+    "is_members_only": true,
+    "owner": "[[Trader Crewmember]]",
+    "page_name_sub": "Trader Stan's Trading Post#Musa Point",
+    "shop_version": "(3)",
+    "location": "[[Musa Point]]",
+    "specialty": "General store"
+  },
+  {
+    "page_name": "Trader Stan's Trading Post",
+    "is_members_only": true,
+    "owner": "[[Trader Crewmember]]",
+    "page_name_sub": "Trader Stan's Trading Post#Catherby",
+    "shop_version": "(8)",
+    "location": "[[Catherby]]",
+    "specialty": "General store"
+  },
+  {
+    "page_name": "Trader Stan's Trading Post",
+    "is_members_only": true,
+    "owner": "[[Trader Crewmember]]",
+    "page_name_sub": "Trader Stan's Trading Post#Aldarin",
+    "shop_version": "(16)",
+    "location": "[[Aldarin]]",
+    "specialty": "General store"
+  },
+  {
+    "page_name": "Trader Stan's Trading Post",
+    "is_members_only": true,
+    "owner": "[[Trader Crewmember]]",
+    "page_name_sub": "Trader Stan's Trading Post#Port Tyras",
+    "shop_version": "(7)",
+    "location": "[[Port Tyras]]",
+    "specialty": "General store"
+  },
+  {
+    "page_name": "Trader Stan's Trading Post",
+    "is_members_only": true,
+    "owner": "[[Trader Crewmember]]",
+    "page_name_sub": "Trader Stan's Trading Post#Brimhaven",
+    "shop_version": "(4)",
+    "location": "[[Brimhaven]]",
+    "specialty": "General store"
+  },
+  {
+    "page_name": "Trader Stan's Trading Post",
+    "is_members_only": true,
+    "owner": "[[Trader Stan]]",
+    "page_name_sub": "Trader Stan's Trading Post#Port Sarim",
+    "shop_version": "(1)",
+    "location": "[[Port Sarim]]",
+    "specialty": "General store"
+  },
+  {
+    "page_name": "Trader Stan's Trading Post",
+    "is_members_only": true,
+    "owner": "[[Trader Crewmember]]",
+    "page_name_sub": "Trader Stan's Trading Post#Port Phasmatys",
+    "shop_version": "(2)",
+    "location": "[[Port Phasmatys]]",
+    "specialty": "General store"
+  },
+  {
+    "page_name": "Trader Stan's Trading Post",
+    "is_members_only": true,
+    "owner": "[[Trader Crewmember]]",
+    "page_name_sub": "Trader Stan's Trading Post#Port Roberts",
+    "shop_version": "(20)",
+    "location": "[[Port Roberts]]",
+    "specialty": "General store"
+  },
+  {
+    "page_name": "Trader Stan's Trading Post",
+    "is_members_only": true,
+    "owner": "[[Trader Crewmember]]",
+    "page_name_sub": "Trader Stan's Trading Post#Civitas illa Fortis",
+    "shop_version": "(14)",
+    "location": "[[Civitas illa Fortis]]",
+    "specialty": "General store"
+  },
+  {
+    "page_name": "Trader Stan's Trading Post",
+    "is_members_only": true,
+    "owner": "[[Trader Crewmember]]",
+    "page_name_sub": "Trader Stan's Trading Post#Prifddinas",
+    "shop_version": "(9)",
+    "location": "[[Prifddinas]]",
+    "specialty": "General store"
+  },
+  {
+    "page_name": "Trader Stan's Trading Post",
+    "is_members_only": true,
+    "owner": "[[Trader Crewmember]]",
+    "page_name_sub": "Trader Stan's Trading Post#The Summer Shore",
+    "shop_version": "(18)",
+    "location": "[[The Summer Shore]]",
+    "specialty": "General store"
+  },
+  {
+    "page_name": "Trader Stan's Trading Post",
+    "is_members_only": true,
+    "owner": "[[Trader Crewmember]]",
+    "page_name_sub": "Trader Stan's Trading Post#Sunset Coast",
+    "shop_version": "(15)",
+    "location": "[[Sunset Coast]]",
+    "specialty": "General store"
+  },
+  {
+    "page_name": "Trader Stan's Trading Post",
+    "is_members_only": true,
+    "owner": "[[Trader Crewmember]]",
+    "page_name_sub": "Trader Stan's Trading Post#Land's End",
+    "shop_version": "(12)",
+    "location": "[[Land's End]]",
+    "specialty": "General store"
+  },
+  {
+    "page_name": "Trader Stan's Trading Post",
+    "is_members_only": true,
+    "owner": "[[Trader Crewmember]]",
+    "page_name_sub": "Trader Stan's Trading Post#Karamja Shipyard",
+    "shop_version": "(11)",
+    "location": "[[Shipyard (Karamja)|Karamja Shipyard]]",
+    "specialty": "General store"
+  },
+  {
+    "page_name": "Lundail's Arena-side Rune Shop.",
+    "is_members_only": true,
+    "owner": "[[Lundail]]",
+    "page_name_sub": "Lundail's Arena-side Rune Shop.",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Mage Arena]]",
+    "specialty": "[[Magic shop]]"
+  },
+  {
+    "page_name": "The Lighthouse Store",
+    "is_members_only": true,
+    "owner": "[[Jossik]]",
+    "page_name_sub": "The Lighthouse Store",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Lighthouse]]",
+    "specialty": "General store"
+  },
+  {
+    "page_name": "Paramaya Inn",
+    "is_members_only": true,
+    "owner": "[[Kaleb Paramaya]]",
+    "page_name_sub": "Paramaya Inn",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Shilo Village (location)|Shilo Village]]",
+    "specialty": "[[jug of wine|Wine]], [[Beer]]"
+  },
+  {
+    "page_name": "Laughing Miner Pub",
+    "is_members_only": true,
+    "owner": "[[Barmaid]]",
+    "page_name_sub": "Laughing Miner Pub",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "Eastern [[Keldagrim]]",
+    "specialty": "[[Beer]], [[Stew]]"
+  },
+  {
+    "page_name": "Ratpit bar (Keldagrim)",
+    "is_members_only": true,
+    "owner": "[[Rauborn]]",
+    "page_name_sub": "Ratpit bar (Keldagrim)",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "Under [[Keldagrim]]",
+    "specialty": "[[Beer]], [[Stew]]"
+  },
+  {
+    "page_name": "Frincos' Fabulous Herb Store.",
+    "is_members_only": true,
+    "owner": "[[Frincos]]",
+    "page_name_sub": "Frincos' Fabulous Herb Store.",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Entrana]]",
+    "specialty": "Herbalist"
+  },
+  {
+    "page_name": "Void Knight Magic Store",
+    "is_members_only": true,
+    "owner": "[[Squire (Void Knights magic shop)|Squire]]",
+    "page_name_sub": "Void Knight Magic Store",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Void Knights' Outpost]]",
+    "specialty": "[[Magic shop]]"
+  },
+  {
+    "page_name": "The Shrimp and Parrot",
+    "is_members_only": true,
+    "owner": "[[Alfonse the waiter]]/[[Charlie the cook]]",
+    "page_name_sub": "The Shrimp and Parrot",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Brimhaven]]",
+    "specialty": "Food shop"
+  },
+  {
+    "page_name": "Crossbow Shop (Dwarven Mine)",
+    "is_members_only": true,
+    "owner": "[[Hura]]",
+    "page_name_sub": "Crossbow Shop (Dwarven Mine)",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Dwarven Mines]]",
+    "specialty": "Archery shop"
+  },
+  {
+    "page_name": "Grud's Herblore Stall.",
+    "is_members_only": true,
+    "owner": "[[Ogre merchant]]",
+    "page_name_sub": "Grud's Herblore Stall.",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Gu'Tanoth]]",
+    "specialty": "Herbalist"
+  },
+  {
+    "page_name": "Warrior Guild Armoury",
+    "is_members_only": true,
+    "owner": "[[Anton]]",
+    "page_name_sub": "Warrior Guild Armoury",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "<span class=\"floornumber\"><span class=\"floornumber-gb\">1<sup class=\"floornumber-ordinal-suffix\">st</sup>&nbsp;floor<sup class=\"floornumber-help noexcerpt\">&#91;<span class=\"fact-text floor-convention\" title=\"British convention; floor 2 in the US\">UK</span>&#93;</sup></span><span class=\"floornumber-us noexcerpt\">2<sup class=\"floornumber-ordinal-suffix\">nd</sup>&nbsp;floor<sup class=\"floornumber-help noexcerpt\">&#91;<span class=\"fact-text floor-convention\" title=\"US convention; floor 1 in the UK\">US</span>&#93;</sup></span></span> of [[Warriors' Guild]]",
+    "specialty": "Sword shop"
+  },
+  {
+    "page_name": "Bolkoy's Village Shop",
+    "is_members_only": true,
+    "owner": "[[Bolkoy]]",
+    "page_name_sub": "Bolkoy's Village Shop",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Tree Gnome Village (location)|Tree Gnome Village]], <span class=\"floornumber\"><span class=\"floornumber-gb\">1<sup class=\"floornumber-ordinal-suffix\">st</sup>&nbsp;floor<sup class=\"floornumber-help noexcerpt\">&#91;<span class=\"fact-text floor-convention\" title=\"British convention; floor 2 in the US\">UK</span>&#93;</sup></span><span class=\"floornumber-us noexcerpt\">2<sup class=\"floornumber-ordinal-suffix\">nd</sup>&nbsp;floor<sup class=\"floornumber-help noexcerpt\">&#91;<span class=\"fact-text floor-convention\" title=\"US convention; floor 1 in the UK\">US</span>&#93;</sup></span></span>",
+    "specialty": "General store"
+  },
+  {
+    "page_name": "Aurel's Supplies",
+    "is_members_only": true,
+    "owner": "[[Aurel]]",
+    "page_name_sub": "Aurel's Supplies",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Burgh de Rott]]",
+    "specialty": "General store"
+  },
+  {
+    "page_name": "Forester's Arms",
+    "is_members_only": true,
+    "owner": "[[Bartender (Forester's Arms)|Bartender]]",
+    "page_name_sub": "Forester's Arms",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Seers' Village]]",
+    "specialty": "[[Beer]], [[Meat pie]], [[Stew]]"
+  },
+  {
+    "page_name": "Moon Clan General Store.",
+    "is_members_only": true,
+    "owner": "[[Melana Moonlander]]",
+    "page_name_sub": "Moon Clan General Store.",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Lunar Isle]]",
+    "specialty": "General store"
+  },
+  {
+    "page_name": "Pollnivneach general store.",
+    "is_members_only": true,
+    "owner": "[[Market seller]]",
+    "page_name_sub": "Pollnivneach general store.",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Pollnivneach]]",
+    "specialty": "General store"
+  },
+  {
+    "page_name": "Tutab's Magical Market",
+    "is_members_only": true,
+    "owner": "[[Tutab]]",
+    "page_name_sub": "Tutab's Magical Market",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Ape Atoll]]",
+    "specialty": "[[Magic shop]]"
+  },
+  {
+    "page_name": "Jatix's Herblore Shop.",
+    "is_members_only": true,
+    "owner": "[[Jatix]]",
+    "page_name_sub": "Jatix's Herblore Shop.",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Taverley]]",
+    "specialty": "Herbalist"
+  },
+  {
+    "page_name": "Draynor Seed Market",
+    "is_members_only": true,
+    "owner": "[[Olivia]]",
+    "page_name_sub": "Draynor Seed Market",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Draynor Village]]",
+    "specialty": "Farming shop"
+  },
+  {
+    "page_name": "Rommik's Crafty Supplies.",
+    "is_members_only": false,
+    "owner": "[[Rommik]]",
+    "page_name_sub": "Rommik's Crafty Supplies.",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Rimmington]]",
+    "specialty": "Crafting shop"
+  },
+  {
+    "page_name": "Brian's Archery Supplies.",
+    "is_members_only": false,
+    "owner": "[[Brian (Rimmington)|Brian]]",
+    "page_name_sub": "Brian's Archery Supplies.",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Rimmington]]",
+    "specialty": "Archery shop"
+  },
+  {
+    "page_name": "Wayne's Chains! - Chainmail specialist.",
+    "is_members_only": false,
+    "owner": "[[Wayne]]",
+    "page_name_sub": "Wayne's Chains! - Chainmail specialist.",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Falador]]",
+    "specialty": "Chainmail shop"
+  },
+  {
+    "page_name": "Prospector Percy's Nugget Shop",
+    "is_members_only": true,
+    "owner": "[[Prospector Percy]]",
+    "page_name_sub": "Prospector Percy's Nugget Shop",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Motherlode Mine]]",
+    "specialty": "Clothing"
+  },
+  {
+    "page_name": "Gabooty's Tai Bwo Wannai Drinky Store.",
+    "is_members_only": true,
+    "owner": "[[Gabooty]]",
+    "page_name_sub": "Gabooty's Tai Bwo Wannai Drinky Store.",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Tai Bwo Wannai]]",
+    "specialty": "[[Gnome cocktails]]"
+  },
+  {
+    "page_name": "Gabooty's Tai Bwo Wannai Cooperative.",
+    "is_members_only": true,
+    "owner": "[[Gabooty]]",
+    "page_name_sub": "Gabooty's Tai Bwo Wannai Cooperative.",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Tai Bwo Wannai]]",
+    "specialty": "Machetes, clothing"
+  },
+  {
+    "page_name": "Ardougne Silver Stall.",
+    "is_members_only": true,
+    "owner": "[[Silver merchant]]",
+    "page_name_sub": "Ardougne Silver Stall.",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[East Ardougne]]",
+    "specialty": "Silver shop"
+  },
+  {
+    "page_name": "Ava's Odds and Ends",
+    "is_members_only": true,
+    "owner": "[[Ava]]",
+    "page_name_sub": "Ava's Odds and Ends",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Draynor Manor]]",
+    "specialty": "Archery shop"
+  },
+  {
+    "page_name": "Barkers' Haberdashery",
+    "is_members_only": true,
+    "owner": "[[Barker]]",
+    "page_name_sub": "Barkers' Haberdashery",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Canifis]]",
+    "specialty": "Clothing"
+  },
+  {
+    "page_name": "Arhein's General Goods",
+    "is_members_only": true,
+    "owner": "[[Arhein]]",
+    "page_name_sub": "Arhein's General Goods",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Catherby]]",
+    "specialty": "General store"
+  },
+  {
+    "page_name": "Candle Shop",
+    "is_members_only": true,
+    "owner": "[[Candle maker]]",
+    "page_name_sub": "Candle Shop",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Catherby]]",
+    "specialty": "Candle shop"
+  },
+  {
+    "page_name": "Harry's Fishing Shop.",
+    "is_members_only": true,
+    "owner": "[[Harry]]",
+    "page_name_sub": "Harry's Fishing Shop.",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Catherby]]",
+    "specialty": "Fishing shop"
+  },
+  {
+    "page_name": "Gaius' Two Handed Shop.",
+    "is_members_only": true,
+    "owner": "[[Gaius]]",
+    "page_name_sub": "Gaius' Two Handed Shop.",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Taverley]]",
+    "specialty": "Sword shop"
+  },
+  {
+    "page_name": "Razmire General Store.",
+    "is_members_only": true,
+    "owner": "[[Razmire Keelgan]]",
+    "page_name_sub": "Razmire General Store.",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Mort'ton]]",
+    "specialty": "General store"
+  },
+  {
+    "page_name": "West Ardougne General Store",
+    "is_members_only": true,
+    "owner": "[[Chadwell]]",
+    "page_name_sub": "West Ardougne General Store",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[West Ardougne]]",
+    "specialty": "General store"
+  },
+  {
+    "page_name": "Obli's General Store.",
+    "is_members_only": true,
+    "owner": "[[Obli]]",
+    "page_name_sub": "Obli's General Store.",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Shilo Village (location)|Shilo Village]]",
+    "specialty": "General store"
+  },
+  {
+    "page_name": "Ali's Discount Wares.",
+    "is_members_only": true,
+    "owner": "[[Ali Morrisane]]",
+    "page_name_sub": "Ali's Discount Wares.",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Al Kharid]]",
+    "specialty": "None"
+  },
+  {
+    "page_name": "Shantay Pass Shop",
+    "is_members_only": true,
+    "owner": "[[Shantay]]",
+    "page_name_sub": "Shantay Pass Shop#Shantay Pass",
+    "shop_version": "(1)",
+    "location": "[[Shantay Pass]]",
+    "specialty": "Yes"
+  },
+  {
+    "page_name": "Shantay Pass Shop",
+    "is_members_only": true,
+    "owner": "[[Shantay Guard (Ruins of Unkah)|Shantay Guard]]",
+    "page_name_sub": "Shantay Pass Shop#Ruins of Unkah",
+    "shop_version": "(2)",
+    "location": "[[Ruins of Unkah]]",
+    "specialty": "Yes"
+  },
+  {
+    "page_name": "Nardah General Store.",
+    "is_members_only": true,
+    "owner": "[[Kazemde]]",
+    "page_name_sub": "Nardah General Store.",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Nardah]]",
+    "specialty": "General store"
+  },
+  {
+    "page_name": "Nardah Hunter Shop.",
+    "is_members_only": true,
+    "owner": "[[Artimeus]]",
+    "page_name_sub": "Nardah Hunter Shop.",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Nardah]]",
+    "specialty": "Hunter shop"
+  },
+  {
+    "page_name": "Falador General Store",
+    "is_members_only": false,
+    "owner": "[[Shop keeper (Falador)|Shop keeper]]",
+    "page_name_sub": "Falador General Store",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Falador]]",
+    "specialty": "General store"
+  },
+  {
+    "page_name": "Garden Centre",
+    "is_members_only": true,
+    "owner": "[[Garden supplier]]",
+    "page_name_sub": "Garden Centre#Falador Park",
+    "shop_version": "(1)",
+    "location": "[[Falador Park]]",
+    "specialty": "Garden supplier"
+  },
+  {
+    "page_name": "Garden Centre",
+    "is_members_only": true,
+    "owner": "[[Garden supplier]]",
+    "page_name_sub": "Garden Centre#Farming Guild",
+    "shop_version": "(2)",
+    "location": "[[Farming Guild]]",
+    "specialty": "Garden supplier"
+  },
+  {
+    "page_name": "Flynn's Mace Market.",
+    "is_members_only": false,
+    "owner": "[[Flynn]]",
+    "page_name_sub": "Flynn's Mace Market.",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Falador]]",
+    "specialty": "Mace shop"
+  },
+  {
+    "page_name": "Martin Thwait's Lost and Found.",
+    "is_members_only": true,
+    "owner": "[[Martin Thwait]]",
+    "page_name_sub": "Martin Thwait's Lost and Found.",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Rogues' Den]]",
+    "specialty": "General store"
+  },
+  {
+    "page_name": "Leprechaun Larry's Farming Supplies.",
+    "is_members_only": true,
+    "owner": "[[Tool Leprechaun (Larry)|Leprechaun Larry]]",
+    "page_name_sub": "Leprechaun Larry's Farming Supplies.",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Troll Stronghold (location)|Troll Stronghold]]",
+    "specialty": "Farming shop"
+  },
+  {
+    "page_name": "Void Knight General Store",
+    "is_members_only": true,
+    "owner": "[[Squire (Void Knights general store)|Squire]]",
+    "page_name_sub": "Void Knight General Store",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Void Knights' Outpost]]",
+    "specialty": "General store"
+  },
+  {
+    "page_name": "Void Knight Archery Store",
+    "is_members_only": true,
+    "owner": "[[Squire (Void Knights ranged shop)|Squire]]",
+    "page_name_sub": "Void Knight Archery Store",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Void Knights' Outpost]]",
+    "specialty": "Archery shop"
+  },
+  {
+    "page_name": "Ifaba's General Store",
+    "is_members_only": true,
+    "owner": "[[Ifaba]]",
+    "page_name_sub": "Ifaba's General Store",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Ape Atoll]]",
+    "specialty": "General store"
+  },
+  {
+    "page_name": "Hamab's Crafting Emporium",
+    "is_members_only": true,
+    "owner": "[[Hamab]]",
+    "page_name_sub": "Hamab's Crafting Emporium",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Ape Atoll]]",
+    "specialty": "Crafting shop"
+  },
+  {
+    "page_name": "Solihib's Food Stall",
+    "is_members_only": true,
+    "owner": "[[Solihib]]",
+    "page_name_sub": "Solihib's Food Stall",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Ape Atoll]]",
+    "specialty": "Food shop"
+  },
+  {
+    "page_name": "Crossbow Shop (White Wolf Mountain)",
+    "is_members_only": true,
+    "owner": "[[Holoy]]",
+    "page_name_sub": "Crossbow Shop (White Wolf Mountain)",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[White Wolf Mountain]]",
+    "specialty": "Archery shop"
+  },
+  {
+    "page_name": "Hair of the Dog",
+    "is_members_only": true,
+    "owner": "[[Roavar]]",
+    "page_name_sub": "Hair of the Dog",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Canifis]]",
+    "specialty": "[[Moonlight mead]]"
+  },
+  {
+    "page_name": "Jiminua's Jungle Store.",
+    "is_members_only": true,
+    "owner": "[[Jiminua]]",
+    "page_name_sub": "Jiminua's Jungle Store.",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Karamja]]",
+    "specialty": "General store"
+  },
+  {
+    "page_name": "Thessalia's Makeovers",
+    "is_members_only": false,
+    "owner": "[[Thessalia]]",
+    "page_name_sub": "Thessalia's Makeovers",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Varrock]]",
+    "specialty": "Clothes shop"
+  },
+  {
+    "page_name": "Lumbridge General Store",
+    "is_members_only": false,
+    "owner": "[[Shop keeper (Lumbridge)|Shop keeper]], [[Shop assistant (Lumbridge)|Shop assistant]]",
+    "page_name_sub": "Lumbridge General Store",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Lumbridge]]",
+    "specialty": "General store"
+  },
+  {
+    "page_name": "Authentic Throwing Weapons.",
+    "is_members_only": true,
+    "owner": "[[Tribal Weapon Salesman]]",
+    "page_name_sub": "Authentic Throwing Weapons.",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Ranging Guild]]",
+    "specialty": "Archery shop"
+  },
+  {
+    "page_name": "Construction supplies",
+    "is_members_only": true,
+    "owner": "[[Sawmill operator]]",
+    "page_name_sub": "Construction supplies#Sawmill",
+    "shop_version": "(1)",
+    "location": "[[Sawmill]]",
+    "specialty": "Sawmill"
+  },
+  {
+    "page_name": "Construction supplies",
+    "is_members_only": true,
+    "owner": "[[Sawmill Operator (Auburnvale)|Sawmill Operator]]",
+    "page_name_sub": "Construction supplies#Auburnvale",
+    "shop_version": "(4)",
+    "location": "[[Auburnvale]]",
+    "specialty": "Sawmill"
+  },
+  {
+    "page_name": "Construction supplies",
+    "is_members_only": true,
+    "owner": "[[Sawmill operator]]",
+    "page_name_sub": "Construction supplies#Woodcutting Guild",
+    "shop_version": "(2)",
+    "location": "[[Woodcutting Guild]]",
+    "specialty": "Sawmill"
+  },
+  {
+    "page_name": "Construction supplies",
+    "is_members_only": true,
+    "owner": "[[Sawmill Operator (Prifddinas)|Sawmill Operator]]",
+    "page_name_sub": "Construction supplies#Prifddinas",
+    "shop_version": "(3)",
+    "location": "[[Prifddinas]]",
+    "specialty": "Sawmill"
+  },
+  {
+    "page_name": "Varrock General Store",
+    "is_members_only": false,
+    "owner": "[[Shop keeper (Varrock)|Shop keeper]]",
+    "page_name_sub": "Varrock General Store",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Varrock]]",
+    "specialty": "General store"
+  },
+  {
+    "page_name": "Zanaris General Store",
+    "is_members_only": true,
+    "owner": "[[Fairy shop keeper]]",
+    "page_name_sub": "Zanaris General Store",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Zanaris]]",
+    "specialty": "General store"
+  },
+  {
+    "page_name": "Irksol (shop)",
+    "is_members_only": true,
+    "owner": "[[Irksol]]",
+    "page_name_sub": "Irksol (shop)",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Zanaris]]",
+    "specialty": "Gem shop"
+  },
+  {
+    "page_name": "Ardougne Spice Stall.",
+    "is_members_only": true,
+    "owner": "[[Spice seller]]",
+    "page_name_sub": "Ardougne Spice Stall.",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[East Ardougne]]",
+    "specialty": "Spice shop"
+  },
+  {
+    "page_name": "Jukat (shop)",
+    "is_members_only": true,
+    "owner": "[[Jukat]]",
+    "page_name_sub": "Jukat (shop)",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Zanaris]]",
+    "specialty": "Sword shop"
+  },
+  {
+    "page_name": "Ardougne Fur Stall.",
+    "is_members_only": true,
+    "owner": "[[Fur trader (East Ardougne)|Fur Trader]]",
+    "page_name_sub": "Ardougne Fur Stall.",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[East Ardougne]]",
+    "specialty": "Fur trader"
+  },
+  {
+    "page_name": "Zenesha's Plate Mail Body Shop.",
+    "is_members_only": true,
+    "owner": "[[Zenesha]]",
+    "page_name_sub": "Zenesha's Plate Mail Body Shop.",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[East Ardougne]]",
+    "specialty": "Platebody shop"
+  },
+  {
+    "page_name": "Ardougne Gem Stall.",
+    "is_members_only": true,
+    "owner": "[[Gem merchant]]",
+    "page_name_sub": "Ardougne Gem Stall.",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[East Ardougne]]",
+    "specialty": "Gem shop"
+  },
+  {
+    "page_name": "Raetul and Co's Cloth Store.",
+    "is_members_only": true,
+    "owner": "[[Raetul]]",
+    "page_name_sub": "Raetul and Co's Cloth Store.",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Sophanem]]",
+    "specialty": "Crafting shop"
+  },
+  {
+    "page_name": "Nardok's Bone Weapons",
+    "is_members_only": true,
+    "owner": "[[Nardok]]",
+    "page_name_sub": "Nardok's Bone Weapons",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Dorgesh-Kaan mine]]",
+    "specialty": "Sword shop"
+  },
+  {
+    "page_name": "Dorgesh-Kaan General Supplies",
+    "is_members_only": true,
+    "owner": "[[Lurgon]]",
+    "page_name_sub": "Dorgesh-Kaan General Supplies",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Dorgesh-Kaan]]",
+    "specialty": "General store"
+  },
+  {
+    "page_name": "Reldak's Leather Armour",
+    "is_members_only": true,
+    "owner": "[[Reldak]]",
+    "page_name_sub": "Reldak's Leather Armour",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Dorgesh-Kaan]]",
+    "specialty": "[[Frog-leather armour]]"
+  },
+  {
+    "page_name": "Al Kharid General Store",
+    "is_members_only": false,
+    "owner": "[[Shop keeper (Al Kharid)|Shop keeper]]",
+    "page_name_sub": "Al Kharid General Store",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Al Kharid]]",
+    "specialty": "General store"
+  },
+  {
+    "page_name": "Gulluck and Sons",
+    "is_members_only": true,
+    "owner": "[[Gulluck]]",
+    "page_name_sub": "Gulluck and Sons",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Grand Tree]], <span class=\"floornumber\"><span class=\"floornumber-gb\">2<sup class=\"floornumber-ordinal-suffix\">nd</sup>&nbsp;floor<sup class=\"floornumber-help noexcerpt\">&#91;<span class=\"fact-text floor-convention\" title=\"British convention; floor 3 in the US\">UK</span>&#93;</sup></span><span class=\"floornumber-us noexcerpt\">3<sup class=\"floornumber-ordinal-suffix\">rd</sup>&nbsp;floor<sup class=\"floornumber-help noexcerpt\">&#91;<span class=\"fact-text floor-convention\" title=\"US convention; floor 2 in the UK\">US</span>&#93;</sup></span></span>",
+    "specialty": "Sword shop"
+  },
+  {
+    "page_name": "Gianne's Restaurant",
+    "is_members_only": true,
+    "owner": "[[Gnome Waiter]]",
+    "page_name_sub": "Gianne's Restaurant",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Grand Tree]]",
+    "specialty": "Cookery shop"
+  },
+  {
+    "page_name": "Aleck's Hunter Emporium.",
+    "is_members_only": true,
+    "owner": "[[Aleck]]",
+    "page_name_sub": "Aleck's Hunter Emporium.",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Yanille]]",
+    "specialty": "Hunter shop"
+  },
+  {
+    "page_name": "Frenita's Cookery Shop.",
+    "is_members_only": true,
+    "owner": "[[Frenita]]",
+    "page_name_sub": "Frenita's Cookery Shop.",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Yanille]]",
+    "specialty": "[[Cookery shop]]"
+  },
+  {
+    "page_name": "Dal's General Ogre Supplies",
+    "is_members_only": true,
+    "owner": "[[Dal]]",
+    "page_name_sub": "Dal's General Ogre Supplies",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Gu'Tanoth]]",
+    "specialty": "General store"
+  },
+  {
+    "page_name": "Sigmund the Merchant (shop)",
+    "is_members_only": true,
+    "owner": "[[Sigmund the Merchant]]",
+    "page_name_sub": "Sigmund the Merchant (shop)",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Rellekka]]",
+    "specialty": "General store"
+  },
+  {
+    "page_name": "Yrsa's Accoutrements",
+    "is_members_only": true,
+    "owner": "[[Yrsa]]",
+    "page_name_sub": "Yrsa's Accoutrements",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Rellekka]]",
+    "specialty": "Clothes shop"
+  },
+  {
+    "page_name": "Fremennik Fur Trader",
+    "is_members_only": true,
+    "owner": "[[Fur trader (Rellekka)|Fur trader]]",
+    "page_name_sub": "Fremennik Fur Trader",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Rellekka]]",
+    "specialty": "Fur trader"
+  },
+  {
+    "page_name": "Fremennik Fish Monger",
+    "is_members_only": true,
+    "owner": "[[Fish monger]]",
+    "page_name_sub": "Fremennik Fish Monger",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Rellekka]]",
+    "specialty": "Fish"
+  },
+  {
+    "page_name": "Contraband yak produce.",
+    "is_members_only": true,
+    "owner": "[[Vanligga Gastfrihet]]",
+    "page_name_sub": "Contraband yak produce.",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Jatizso]]",
+    "specialty": "[[Yak]]s"
+  },
+  {
+    "page_name": "Keepa Kettilon's store",
+    "is_members_only": true,
+    "owner": "[[Keepa Kettilon]]",
+    "page_name_sub": "Keepa Kettilon's store",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Jatizso]]",
+    "specialty": "Cooked [[fish]]"
+  },
+  {
+    "page_name": "Flosi's Fishmongers",
+    "is_members_only": true,
+    "owner": "[[Flosi Dalksson]]",
+    "page_name_sub": "Flosi's Fishmongers",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Jatizso]]",
+    "specialty": "Fishing shop"
+  },
+  {
+    "page_name": "Weapons galore",
+    "is_members_only": true,
+    "owner": "[[Skuli Myrka]]",
+    "page_name_sub": "Weapons galore",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Jatizso]]",
+    "specialty": "Sword shop"
+  },
+  {
+    "page_name": "Ore store",
+    "is_members_only": true,
+    "owner": "[[Hring Hring]]",
+    "page_name_sub": "Ore store",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Jatizso]]",
+    "specialty": "Mining shop"
+  },
+  {
+    "page_name": "Yrsa's Shoe Store",
+    "is_members_only": true,
+    "owner": "[[Yrsa]]",
+    "page_name_sub": "Yrsa's Shoe Store",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Rellekka]]",
+    "specialty": "Clothes shop"
+  },
+  {
+    "page_name": "Neitiznot supplies.",
+    "is_members_only": true,
+    "owner": "[[Jofridr Mordstatter]]",
+    "page_name_sub": "Neitiznot supplies.",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Neitiznot]]",
+    "specialty": "Crafting shop"
+  },
+  {
+    "page_name": "Greengrocer of Miscellania",
+    "is_members_only": true,
+    "owner": "[[Greengrocer]]",
+    "page_name_sub": "Greengrocer of Miscellania",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Miscellania]]",
+    "specialty": "Vegetable shop"
+  },
+  {
+    "page_name": "Island Fishmonger",
+    "is_members_only": true,
+    "owner": "[[Fishmonger]]",
+    "page_name_sub": "Island Fishmonger",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Miscellania]]",
+    "specialty": "Fishing shop"
+  },
+  {
+    "page_name": "Miscellanian General Store",
+    "is_members_only": true,
+    "owner": "[[Finn]]",
+    "page_name_sub": "Miscellanian General Store",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Miscellania and Etceteria Dungeon]]",
+    "specialty": "General store"
+  },
+  {
+    "page_name": "Island Greengrocer",
+    "is_members_only": true,
+    "owner": "[[Greengrocer]]",
+    "page_name_sub": "Island Greengrocer",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Etceteria]]",
+    "specialty": "Vegetable shop"
+  },
+  {
+    "page_name": "Etceteria Fish",
+    "is_members_only": true,
+    "owner": "[[Fishmonger]]",
+    "page_name_sub": "Etceteria Fish",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Etceteria]]",
+    "specialty": "Fishing shop"
+  },
+  {
+    "page_name": "The Esoterican Arms",
+    "is_members_only": true,
+    "owner": "[[Runa]]",
+    "page_name_sub": "The Esoterican Arms",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Miscellania and Etceteria dungeon]]",
+    "specialty": "Pub"
+  },
+  {
+    "page_name": "Lletya Archery Shop",
+    "is_members_only": true,
+    "owner": "[[Dalldav]]",
+    "page_name_sub": "Lletya Archery Shop",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Lletya]]",
+    "specialty": "Archery shop"
+  },
+  {
+    "page_name": "Ak-Haranu's Exotic Shop.",
+    "is_members_only": true,
+    "owner": "[[Ak-Haranu]]",
+    "page_name_sub": "Ak-Haranu's Exotic Shop.",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Port Phasmatys]] docks",
+    "specialty": "[[Bolt rack]]s"
+  },
+  {
+    "page_name": "Agmundi Quality Clothes",
+    "is_members_only": true,
+    "owner": "[[Agmundi]]",
+    "page_name_sub": "Agmundi Quality Clothes",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Keldagrim]]",
+    "specialty": "Clothes shop"
+  },
+  {
+    "page_name": "Dwarven shopping store",
+    "is_members_only": false,
+    "owner": "[[Dwarf (Dwarven shopping store)|Dwarf]]",
+    "page_name_sub": "Dwarven shopping store",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Dwarven Mine]]",
+    "specialty": "General store"
+  },
+  {
+    "page_name": "Lovecraft's Tackle",
+    "is_members_only": true,
+    "owner": "[[Ezekial Lovecraft]]",
+    "page_name_sub": "Lovecraft's Tackle",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Witchaven]]",
+    "specialty": "Fishing shop"
+  },
+  {
+    "page_name": "Dargaud's Bow and Arrows.",
+    "is_members_only": true,
+    "owner": "[[Bow and Arrow salesman]]",
+    "page_name_sub": "Dargaud's Bow and Arrows.",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Ranging Guild]]",
+    "specialty": "Archery shop"
+  },
+  {
+    "page_name": "Port Phasmatys General Store",
+    "is_members_only": true,
+    "owner": "[[Ghost shopkeeper]]",
+    "page_name_sub": "Port Phasmatys General Store",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Port Phasmatys]]",
+    "specialty": "General store"
+  },
+  {
+    "page_name": "Tamayu's Spear Stall",
+    "is_members_only": true,
+    "owner": "[[Tamayu]]",
+    "page_name_sub": "Tamayu's Spear Stall",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Tai Bwo Wannai]]",
+    "specialty": "[[Spear]]s"
+  },
+  {
+    "page_name": "Tiadeche's Karambwan Stall",
+    "is_members_only": true,
+    "owner": "[[Tiadeche]]",
+    "page_name_sub": "Tiadeche's Karambwan Stall",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Tai Bwo Wannai]]",
+    "specialty": "[[Raw karambwan|Karambwan]]"
+  },
+  {
+    "page_name": "Karamja General Store",
+    "is_members_only": false,
+    "owner": "[[Shop keeper (Musa Point)|Shop keeper]]",
+    "page_name_sub": "Karamja General Store",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Musa Point]] ([[Karamja]])",
+    "specialty": "General store"
+  },
+  {
+    "page_name": "Blurberry Bar",
+    "is_members_only": true,
+    "owner": "[[Barman (Blurberry Bar)|Barman]]",
+    "page_name_sub": "Blurberry Bar#Gnome Stronghold",
+    "shop_version": "(2)",
+    "location": "[[Gnome Stronghold]], east of Gnomeball",
+    "specialty": "Pub"
+  },
+  {
+    "page_name": "Blurberry Bar",
+    "is_members_only": true,
+    "owner": "[[Barman (Blurberry Bar)|Barman]]",
+    "page_name_sub": "Blurberry Bar#Grand Tree",
+    "shop_version": "(1)",
+    "location": "[[Grand Tree]] (<span class=\"floornumber\"><span class=\"floornumber-gb\">1<sup class=\"floornumber-ordinal-suffix\">st</sup>&nbsp;floor<sup class=\"floornumber-help noexcerpt\">&#91;<span class=\"fact-text floor-convention\" title=\"British convention; floor 2 in the US\">UK</span>&#93;</sup></span><span class=\"floornumber-us noexcerpt\">2<sup class=\"floornumber-ordinal-suffix\">nd</sup>&nbsp;floor<sup class=\"floornumber-help noexcerpt\">&#91;<span class=\"fact-text floor-convention\" title=\"US convention; floor 1 in the UK\">US</span>&#93;</sup></span></span>)",
+    "specialty": "Pub"
+  },
+  {
+    "page_name": "Legends Guild General Store.",
+    "is_members_only": true,
+    "owner": "[[Fionella]]",
+    "page_name_sub": "Legends Guild General Store.",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "<span class=\"floornumber\"><span class=\"floornumber-gb\">1<sup class=\"floornumber-ordinal-suffix\">st</sup>&nbsp;floor<sup class=\"floornumber-help noexcerpt\">&#91;<span class=\"fact-text floor-convention\" title=\"British convention; floor 2 in the US\">UK</span>&#93;</sup></span><span class=\"floornumber-us noexcerpt\">2<sup class=\"floornumber-ordinal-suffix\">nd</sup>&nbsp;floor<sup class=\"floornumber-help noexcerpt\">&#91;<span class=\"fact-text floor-convention\" title=\"US convention; floor 1 in the UK\">US</span>&#93;</sup></span></span> of [[Legends' Guild]]",
+    "specialty": "General store"
+  },
+  {
+    "page_name": "Legends Guild Shop of Useful Items.",
+    "is_members_only": true,
+    "owner": "[[Siegfried Erkle]]",
+    "page_name_sub": "Legends Guild Shop of Useful Items.",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "<span class=\"floornumber\"><span class=\"floornumber-gb\">2<sup class=\"floornumber-ordinal-suffix\">nd</sup>&nbsp;floor<sup class=\"floornumber-help noexcerpt\">&#91;<span class=\"fact-text floor-convention\" title=\"British convention; floor 3 in the US\">UK</span>&#93;</sup></span><span class=\"floornumber-us noexcerpt\">3<sup class=\"floornumber-ordinal-suffix\">rd</sup>&nbsp;floor<sup class=\"floornumber-help noexcerpt\">&#91;<span class=\"fact-text floor-convention\" title=\"US convention; floor 2 in the UK\">US</span>&#93;</sup></span></span> of [[Legends' Guild]] (west side)",
+    "specialty": "Miscellaneous"
+  },
+  {
+    "page_name": "Sam's Wilderness Cape Shop.",
+    "is_members_only": false,
+    "owner": "[[Sam (merchant)]]",
+    "page_name_sub": "Sam's Wilderness Cape Shop.",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "East of [[Dark Warriors' Fortress]]",
+    "specialty": "[[Team cape]]s"
+  },
+  {
+    "page_name": "Simon's Wilderness Cape Shop.",
+    "is_members_only": false,
+    "owner": "[[Simon]]",
+    "page_name_sub": "Simon's Wilderness Cape Shop.",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Chaos Temple]]",
+    "specialty": "[[Team cape]]s"
+  },
+  {
+    "page_name": "Edgeville General Store",
+    "is_members_only": false,
+    "owner": "[[Shop keeper (Edgeville)|Shop keeper]]",
+    "page_name_sub": "Edgeville General Store",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Edgeville]]",
+    "specialty": "General store"
+  },
+  {
+    "page_name": "Razmire Builders Merchants.",
+    "is_members_only": true,
+    "owner": "[[Razmire Keelgan]]",
+    "page_name_sub": "Razmire Builders Merchants.",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Mort'ton]]",
+    "specialty": "Building supplies"
+  },
+  {
+    "page_name": "Rufus' Meat Emporium",
+    "is_members_only": true,
+    "owner": "[[Rufus]]",
+    "page_name_sub": "Rufus' Meat Emporium",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Canifis]]",
+    "specialty": "Food"
+  },
+  {
+    "page_name": "General Store (Canifis)",
+    "is_members_only": true,
+    "owner": "[[Fidelio]]",
+    "page_name_sub": "General Store (Canifis)",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Canifis]]",
+    "specialty": "General store"
+  },
+  {
+    "page_name": "~ Uglug's stuffsies ~",
+    "is_members_only": true,
+    "owner": "[[Uglug Nar]]",
+    "page_name_sub": "~ Uglug's stuffsies ~",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Jiggig]]",
+    "specialty": "Archery shop"
+  },
+  {
+    "page_name": "Bedabin Village Bartering",
+    "is_members_only": true,
+    "owner": "[[Bedabin Nomad]]",
+    "page_name_sub": "Bedabin Village Bartering",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Bedabin Camp]]",
+    "specialty": "Yes"
+  },
+  {
+    "page_name": "Rising Sun Inn",
+    "is_members_only": false,
+    "owner": "[[Kaylee]], [[Emily]], [[Tina]]",
+    "page_name_sub": "Rising Sun Inn",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Falador]]",
+    "specialty": "<span style=\"user-select:none;\">'''&bull;'''</span>[[Wizard's mind bomb]]<br/><span style=\"user-select:none;\">'''&bull;'''</span>[[Dwarven stout]]<br/><span style=\"user-select:none;\">'''&bull;'''</span>[[Asgarnian ale]]"
+  },
+  {
+    "page_name": "Carefree Crafting Stall",
+    "is_members_only": true,
+    "owner": "[[Nolar]]",
+    "page_name_sub": "Carefree Crafting Stall",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Keldagrim]]",
+    "specialty": "Crafting shop"
+  },
+  {
+    "page_name": "Vigr's Warhammers",
+    "is_members_only": true,
+    "owner": "[[Vigr]]",
+    "page_name_sub": "Vigr's Warhammers",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Keldagrim]]",
+    "specialty": "Sword shop"
+  },
+  {
+    "page_name": "Crossbow Shop (Keldagrim)",
+    "is_members_only": true,
+    "owner": "[[Hirko]]",
+    "page_name_sub": "Crossbow Shop (Keldagrim)",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Keldagrim Palace]]",
+    "specialty": "Archery shop"
+  },
+  {
+    "page_name": "Keldagrim's Best Bread",
+    "is_members_only": true,
+    "owner": "[[Randivor]]",
+    "page_name_sub": "Keldagrim's Best Bread",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Keldagrim Palace]]",
+    "specialty": "Food shop"
+  },
+  {
+    "page_name": "Vermundi's Clothes Stall",
+    "is_members_only": true,
+    "owner": "[[Vermundi]]",
+    "page_name_sub": "Vermundi's Clothes Stall",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Keldagrim Palace]]",
+    "specialty": "Silk trader"
+  },
+  {
+    "page_name": "Green Gemstone Gems",
+    "is_members_only": true,
+    "owner": "[[Hervi]]",
+    "page_name_sub": "Green Gemstone Gems",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Keldagrim]]",
+    "specialty": "Gem shop"
+  },
+  {
+    "page_name": "Gunslik's Assorted Items",
+    "is_members_only": true,
+    "owner": "[[Gunslik]]",
+    "page_name_sub": "Gunslik's Assorted Items",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Keldagrim]]",
+    "specialty": "General store"
+  },
+  {
+    "page_name": "Quality Weapons Shop",
+    "is_members_only": true,
+    "owner": "[[Santiri]]",
+    "page_name_sub": "Quality Weapons Shop",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "North-west corner of [[Keldagrim]]",
+    "specialty": "Sword shop"
+  },
+  {
+    "page_name": "Silver Cog Silver Stall",
+    "is_members_only": true,
+    "owner": "[[Gulldamar]]",
+    "page_name_sub": "Silver Cog Silver Stall",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Keldagrim]]",
+    "specialty": "Silver shop"
+  },
+  {
+    "page_name": "Shop of Distaste",
+    "is_members_only": true,
+    "owner": "[[Fadli]]",
+    "page_name_sub": "Shop of Distaste",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Emir's Arena]]",
+    "specialty": "[[Rotten tomato]]es"
+  },
+  {
+    "page_name": "Kjut's Kebabs",
+    "is_members_only": true,
+    "owner": "[[Kjut]]",
+    "page_name_sub": "Kjut's Kebabs",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Keldagrim]]",
+    "specialty": "Kebab shop"
+  },
+  {
+    "page_name": "Armoury",
+    "is_members_only": true,
+    "owner": "[[Shop keeper (Combat Training Camp)]]",
+    "page_name_sub": "Armoury",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Combat Training Camp]]",
+    "specialty": "Archery shop"
+  },
+  {
+    "page_name": "Ore seller.",
+    "is_members_only": true,
+    "owner": "[[Ordan]]",
+    "page_name_sub": "Ore seller.",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Blast Furnace]] in [[Keldagrim]]",
+    "specialty": "Mining shop"
+  },
+  {
+    "page_name": "Armour store.",
+    "is_members_only": true,
+    "owner": "[[Jorzik]]",
+    "page_name_sub": "Armour store.",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Blast Furnace]] in [[Keldagrim]]",
+    "specialty": "Chainmail shop"
+  },
+  {
+    "page_name": "Mage Arena Staffs.",
+    "is_members_only": true,
+    "owner": "[[Chamber guardian]]",
+    "page_name_sub": "Mage Arena Staffs.",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Mage Arena]]",
+    "specialty": "[[God staves]]"
+  },
+  {
+    "page_name": "Khazard General Store",
+    "is_members_only": true,
+    "owner": "[[Shop keeper (Port Khazard)|Shop keeper]]",
+    "page_name_sub": "Khazard General Store",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Port Khazard]]",
+    "specialty": "General store"
+  },
+  {
+    "page_name": "TzHaar-Mej-Roh's Rune Store",
+    "is_members_only": true,
+    "owner": "[[TzHaar-Mej-Roh]]",
+    "page_name_sub": "TzHaar-Mej-Roh's Rune Store",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Mor Ul Rek]]",
+    "specialty": "[[Magic shop]]"
+  },
+  {
+    "page_name": "Dodgy Mike's Second Hand Clothing.",
+    "is_members_only": true,
+    "owner": "[[Mike]]",
+    "page_name_sub": "Dodgy Mike's Second Hand Clothing.",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Mos Le'Harmless]]",
+    "specialty": "Clothes shop"
+  },
+  {
+    "page_name": "Two Feet Charley's Fish Shop.",
+    "is_members_only": true,
+    "owner": "[[Charley]]",
+    "page_name_sub": "Two Feet Charley's Fish Shop.",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Mos Le'Harmless]]",
+    "specialty": "Fishing shop"
+  },
+  {
+    "page_name": "Trader Sven's Black-market Goods.",
+    "is_members_only": true,
+    "owner": "[[Trader Sven]]",
+    "page_name_sub": "Trader Sven's Black-market Goods.",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Meiyerditch]]",
+    "specialty": "Clothing"
+  },
+  {
+    "page_name": "Multicannon parts for sale",
+    "is_members_only": true,
+    "owner": "[[Nulodion]]",
+    "page_name_sub": "Multicannon parts for sale",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Ice Mountain]] workshop",
+    "specialty": "[[Dwarf multicannon]] parts"
+  },
+  {
+    "page_name": "Bandit Bargains",
+    "is_members_only": true,
+    "owner": "[[Bandit shopkeeper]]",
+    "page_name_sub": "Bandit Bargains",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Bandit Camp (Kharidian Desert)|Bandit Camp]]",
+    "specialty": "Yes"
+  },
+  {
+    "page_name": "Richard's Wilderness Cape Shop.",
+    "is_members_only": false,
+    "owner": "[[Richard (merchant)|Richard]]",
+    "page_name_sub": "Richard's Wilderness Cape Shop.",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Edgeville]]",
+    "specialty": "[[Team cape]]s"
+  },
+  {
+    "page_name": "Lletya General Store",
+    "is_members_only": true,
+    "owner": "[[Eudav]]",
+    "page_name_sub": "Lletya General Store",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Lletya]]",
+    "specialty": "General store"
+  },
+  {
+    "page_name": "Lletya Food Store",
+    "is_members_only": true,
+    "owner": "[[Gethin]]",
+    "page_name_sub": "Lletya Food Store",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Lletya]]",
+    "specialty": "Food shop"
+  },
+  {
+    "page_name": "Moon Clan Fine Clothes.",
+    "is_members_only": true,
+    "owner": "[[Rimae Sirsalis]]",
+    "page_name_sub": "Moon Clan Fine Clothes.",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Lunar Isle]]",
+    "specialty": "Clothes shop"
+  },
+  {
+    "page_name": "Quartermaster's Stores",
+    "is_members_only": true,
+    "owner": "[[Quartermaster]]",
+    "page_name_sub": "Quartermaster's Stores",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Tyras Camp]]",
+    "specialty": "General store"
+  },
+  {
+    "page_name": "Warrior Guild Food Shop",
+    "is_members_only": true,
+    "owner": "[[Lidio]]",
+    "page_name_sub": "Warrior Guild Food Shop",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "<span class=\"floornumber\"><span class=\"floornumber-gb\">Ground&nbsp;floor<sup class=\"floornumber-help noexcerpt\">&#91;<span class=\"fact-text floor-convention\" title=\"British convention; floor 1 in the US\">UK</span>&#93;</sup></span><span class=\"floornumber-us noexcerpt\">1<sup class=\"floornumber-ordinal-suffix\">st</sup>&nbsp;floor<sup class=\"floornumber-help noexcerpt\">&#91;<span class=\"fact-text floor-convention\" title=\"US convention; ground floor in the UK\">US</span>&#93;</sup></span></span> of [[Warriors' Guild]]",
+    "specialty": "Food shop"
+  },
+  {
+    "page_name": "Smithing Smith's Shop.",
+    "is_members_only": true,
+    "owner": "[[Smith]]",
+    "page_name_sub": "Smithing Smith's Shop.",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Mos Le'Harmless]]",
+    "specialty": "Sword shop"
+  },
+  {
+    "page_name": "Tony's Pizza Bases",
+    "is_members_only": false,
+    "owner": "[[Fat Tony]]",
+    "page_name_sub": "Tony's Pizza Bases",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Wilderness Bandit Camp]]",
+    "specialty": "Food shop"
+  },
+  {
+    "page_name": "Bandit Duty Free",
+    "is_members_only": false,
+    "owner": "[[Noterazzo]]",
+    "page_name_sub": "Bandit Duty Free",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Bandit Camp (Wilderness)|Wilderness Bandit Camp]]",
+    "specialty": "General store"
+  },
+  {
+    "page_name": "Arnold's Eclectic Supplies.",
+    "is_members_only": true,
+    "owner": "[[Arnold Lydspor]]",
+    "page_name_sub": "Arnold's Eclectic Supplies.",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Piscatoris Fishing Colony]]",
+    "specialty": "General store"
+  },
+  {
+    "page_name": "Nathifa's Bake Stall.",
+    "is_members_only": true,
+    "owner": "[[Nathifa]]",
+    "page_name_sub": "Nathifa's Bake Stall.",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Sophanem]]",
+    "specialty": "Food shop"
+  },
+  {
+    "page_name": "Jamila's Craft Stall.",
+    "is_members_only": true,
+    "owner": "[[Jamila]]",
+    "page_name_sub": "Jamila's Craft Stall.",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Sophanem]]",
+    "specialty": "Crafting shop"
+  },
+  {
+    "page_name": "The Spice Is Right.",
+    "is_members_only": true,
+    "owner": "[[Embalmer]]",
+    "page_name_sub": "The Spice Is Right.",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Sophanem]]",
+    "specialty": "Spice shop"
+  },
+  {
+    "page_name": "Fishing Guild Shop.",
+    "is_members_only": true,
+    "owner": "[[Roachey]]",
+    "page_name_sub": "Fishing Guild Shop.",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Fishing Guild]]",
+    "specialty": "Fishing shop"
+  },
+  {
+    "page_name": "William's Wilderness Cape Shop.",
+    "is_members_only": false,
+    "owner": "[[William]]",
+    "page_name_sub": "William's Wilderness Cape Shop.",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Lava Dragon Isle]]",
+    "specialty": "[[Team cape]]s"
+  },
+  {
+    "page_name": "Ian's Wilderness Cape Shop.",
+    "is_members_only": false,
+    "owner": "[[Ian]]",
+    "page_name_sub": "Ian's Wilderness Cape Shop.",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Forgotten Cemetery]]",
+    "specialty": "[[Team cape]]s"
+  },
+  {
+    "page_name": "Bounty Hunter Shop (historical)",
+    "is_members_only": true,
+    "owner": "[[Emblem Trader]]",
+    "page_name_sub": "Bounty Hunter Shop (historical)",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Edgeville]]",
+    "specialty": "Bounty Hunter trader"
+  },
+  {
+    "page_name": "Battle Runes",
+    "is_members_only": true,
+    "owner": "[[Mage of Zamorak]]",
+    "page_name_sub": "Battle Runes",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Wilderness]]",
+    "specialty": "[[Magic shop]]"
+  },
+  {
+    "page_name": "Fight Arena Bar",
+    "is_members_only": true,
+    "owner": "[[Khazard barman]]",
+    "page_name_sub": "Fight Arena Bar",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "South-western corner of the [[Fight Arena (location)|Fight Arena]]",
+    "specialty": "[[Beer]], [[Khali brew]]"
+  },
+  {
+    "page_name": "Larry's Wilderness Cape Shop.",
+    "is_members_only": false,
+    "owner": "[[Larry (merchant)|Larry]]",
+    "page_name_sub": "Larry's Wilderness Cape Shop.",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Graveyard of Shadows]]/[[Bone Yard]]",
+    "specialty": "[[Team cape]]s"
+  },
+  {
+    "page_name": "Darren's Wilderness Cape Shop.",
+    "is_members_only": true,
+    "owner": "[[Darren]]",
+    "page_name_sub": "Darren's Wilderness Cape Shop.",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "East of [[Wilderness Agility Course]]",
+    "specialty": "[[Team cape]]s"
+  },
+  {
+    "page_name": "Edward's Wilderness Cape Shop.",
+    "is_members_only": true,
+    "owner": "[[Edward]]",
+    "page_name_sub": "Edward's Wilderness Cape Shop.",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "Around the [[Rogues' Castle]]",
+    "specialty": "[[Team cape]]s"
+  },
+  {
+    "page_name": "Neil's Wilderness Cape Shop.",
+    "is_members_only": false,
+    "owner": "[[Neil]]",
+    "page_name_sub": "Neil's Wilderness Cape Shop.",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Bandit Camp (Wilderness)|Bandit Camp]]",
+    "specialty": "[[Team cape]]s"
+  },
+  {
+    "page_name": "Edmond's Wilderness Cape Shop.",
+    "is_members_only": false,
+    "owner": "[[Edmond (merchant)|Edmond]]",
+    "page_name_sub": "Edmond's Wilderness Cape Shop.",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "South of [[lava maze]]",
+    "specialty": "[[Team cape]]s"
+  },
+  {
+    "page_name": "The Big Heist Lodge",
+    "is_members_only": true,
+    "owner": "[[Bartender (The Big Heist Lodge)|Bartender]]",
+    "page_name_sub": "The Big Heist Lodge",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Bandit Camp (Kharidian Desert)|Bandit Village]] in the [[Kharidian Desert]]",
+    "specialty": "Pub"
+  },
+  {
+    "page_name": "The Long Hall",
+    "is_members_only": false,
+    "owner": "[[Gunthor the brave]]",
+    "page_name_sub": "The Long Hall",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Barbarian Village]]",
+    "specialty": "Nothing"
+  },
+  {
+    "page_name": "Frankie's Fishing Emporium",
+    "is_members_only": true,
+    "owner": "[[Frankie]]",
+    "page_name_sub": "Frankie's Fishing Emporium",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Port Piscarilius]]",
+    "specialty": "Food shop"
+  },
+  {
+    "page_name": "Vannah's Farming Stall",
+    "is_members_only": true,
+    "owner": "[[Vannah]]",
+    "page_name_sub": "Vannah's Farming Stall",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Hosidius]]",
+    "specialty": "Farming shop"
+  },
+  {
+    "page_name": "Little Shop of Horace",
+    "is_members_only": true,
+    "owner": "[[Horace]]",
+    "page_name_sub": "Little Shop of Horace",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Hosidius]]",
+    "specialty": "General store"
+  },
+  {
+    "page_name": "Tynan's Fishing Supplies",
+    "is_members_only": true,
+    "owner": "[[Tynan]]",
+    "page_name_sub": "Tynan's Fishing Supplies",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Port Piscarilius]]",
+    "specialty": "Fishing shop"
+  },
+  {
+    "page_name": "Toothy's Pickaxes",
+    "is_members_only": true,
+    "owner": "[[Toothy]]",
+    "page_name_sub": "Toothy's Pickaxes",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Lovakengj]]",
+    "specialty": "Mining shop"
+  },
+  {
+    "page_name": "Little Munty's Little Shop",
+    "is_members_only": true,
+    "owner": "[[Munty]]",
+    "page_name_sub": "Little Munty's Little Shop",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Lovakengj]]",
+    "specialty": "General store"
+  },
+  {
+    "page_name": "The Deeper Lode",
+    "is_members_only": true,
+    "owner": "[[Fuggy]]",
+    "page_name_sub": "The Deeper Lode",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Lovakengj]]",
+    "specialty": "Pub"
+  },
+  {
+    "page_name": "Regath's Wares",
+    "is_members_only": true,
+    "owner": "[[Regath]]",
+    "page_name_sub": "Regath's Wares",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Arceuus]]",
+    "specialty": "General store"
+  },
+  {
+    "page_name": "Logava Gricoller's Cooking Supplies",
+    "is_members_only": true,
+    "owner": "[[Logava]]",
+    "page_name_sub": "Logava Gricoller's Cooking Supplies",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Hosidius]]",
+    "specialty": "Cookery shop"
+  },
+  {
+    "page_name": "The Haymaker's Arms",
+    "is_members_only": true,
+    "owner": "[[Golova]]",
+    "page_name_sub": "The Haymaker's Arms",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Hosidius]]",
+    "specialty": "Pub"
+  },
+  {
+    "page_name": "The Golden Field",
+    "is_members_only": true,
+    "owner": "[[Richard (Hosidius)|Richard]], [[Golova]]",
+    "page_name_sub": "The Golden Field",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Hosidius]]",
+    "specialty": "Pub"
+  },
+  {
+    "page_name": "Leenz's General Supplies",
+    "is_members_only": true,
+    "owner": "[[Leenz]]",
+    "page_name_sub": "Leenz's General Supplies",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Port Piscarilius]]",
+    "specialty": "General store"
+  },
+  {
+    "page_name": "Rusty Anchor Inn",
+    "is_members_only": false,
+    "owner": "[[Bartender (Rusty Anchor Inn)]]",
+    "page_name_sub": "Rusty Anchor Inn",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Port Sarim]]",
+    "specialty": "[[Beer]]"
+  },
+  {
+    "page_name": "Honest Jimmy's House of Stuff",
+    "is_members_only": true,
+    "owner": "[[Honest Jimmy]]",
+    "page_name_sub": "Honest Jimmy's House of Stuff",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Trouble Brewing]]",
+    "specialty": "[[Trouble Brewing]] rewards"
+  },
+  {
+    "page_name": "Oobapohk's Javelin Store",
+    "is_members_only": true,
+    "owner": "[[Oobapohk]]",
+    "page_name_sub": "Oobapohk's Javelin Store",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Marim]]",
+    "specialty": "Archery shop"
+  },
+  {
+    "page_name": "Thyria's Wares",
+    "is_members_only": true,
+    "owner": "[[Thyria]]",
+    "page_name_sub": "Thyria's Wares",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Arceuus]]",
+    "specialty": "[[Magic shop]]"
+  },
+  {
+    "page_name": "Filamina's Wares",
+    "is_members_only": true,
+    "owner": "[[Filamina]]",
+    "page_name_sub": "Filamina's Wares",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Arceuus]]",
+    "specialty": "Staff shop"
+  },
+  {
+    "page_name": "Kenelme's Wares",
+    "is_members_only": true,
+    "owner": "[[Kenelme]]",
+    "page_name_sub": "Kenelme's Wares",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Port Piscarilius]]",
+    "specialty": "Food shop"
+  },
+  {
+    "page_name": "Briget's Weapons",
+    "is_members_only": true,
+    "owner": "[[Briget]]",
+    "page_name_sub": "Briget's Weapons",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Shayzien]]",
+    "specialty": "Sword shop"
+  },
+  {
+    "page_name": "Blair's Armour",
+    "is_members_only": true,
+    "owner": "[[Blair]]",
+    "page_name_sub": "Blair's Armour",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Shayzien]]",
+    "specialty": "Armour shop"
+  },
+  {
+    "page_name": "Thirus Urkar's Fine Dynamite Store",
+    "is_members_only": true,
+    "owner": "[[Thirus]]",
+    "page_name_sub": "Thirus Urkar's Fine Dynamite Store",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Lovakengj]]",
+    "specialty": "Mining shop"
+  },
+  {
+    "page_name": "Perry's Chop-chop Shop",
+    "is_members_only": true,
+    "owner": "[[Perry]]",
+    "page_name_sub": "Perry's Chop-chop Shop",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Woodcutting Guild]]",
+    "specialty": "Axe shop"
+  },
+  {
+    "page_name": "King's Axe Inn",
+    "is_members_only": true,
+    "owner": "[[Barman (King's Axe Inn)|Barman]]",
+    "page_name_sub": "King's Axe Inn",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "Western [[Keldagrim]]",
+    "specialty": "[[Beer]], [[Dwarven stout]], [[Jug of wine]]"
+  },
+  {
+    "page_name": "Fairy Fixit's Fairy Enchantment",
+    "is_members_only": true,
+    "owner": "[[Fairy Fixit]]",
+    "page_name_sub": "Fairy Fixit's Fairy Enchantment",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Zanaris]] [[fairy ring]]",
+    "specialty": "[[Fairy enchantment]]s"
+  },
+  {
+    "page_name": "Skull in a Chest Inn",
+    "is_members_only": true,
+    "owner": "None",
+    "page_name_sub": "Skull in a Chest Inn",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "North-eastern [[Meiyerditch]]",
+    "specialty": "None"
+  },
+  {
+    "page_name": "Slayer Equipment (shop)",
+    "is_members_only": true,
+    "owner": "[[Konar quo Maten]]",
+    "page_name_sub": "Slayer Equipment (shop)#Konar quo Maten",
+    "shop_version": "(7)",
+    "location": "[[Mount Karuulm]]",
+    "specialty": "Slayer Master"
+  },
+  {
+    "page_name": "Slayer Equipment (shop)",
+    "is_members_only": true,
+    "owner": "[[Krystilia]]",
+    "page_name_sub": "Slayer Equipment (shop)#Krystilia",
+    "shop_version": "(3)",
+    "location": "[[Edgeville]]",
+    "specialty": "Slayer Master"
+  },
+  {
+    "page_name": "Slayer Equipment (shop)",
+    "is_members_only": true,
+    "owner": "[[Turael]]/[[Aya]]",
+    "page_name_sub": "Slayer Equipment (shop)#Turael/Aya",
+    "shop_version": "(1)",
+    "location": "[[Burthorpe]]",
+    "specialty": "Slayer Master"
+  },
+  {
+    "page_name": "Slayer Equipment (shop)",
+    "is_members_only": true,
+    "owner": "[[Spria]]",
+    "page_name_sub": "Slayer Equipment (shop)#Spria",
+    "shop_version": "(2)",
+    "location": "[[Draynor Village]]",
+    "specialty": "Slayer Master"
+  },
+  {
+    "page_name": "Slayer Equipment (shop)",
+    "is_members_only": true,
+    "owner": "[[Mazchna]]/[[Achtryn]]",
+    "page_name_sub": "Slayer Equipment (shop)#Mazchna/Achtryn",
+    "shop_version": "(4)",
+    "location": "[[Canifis]]",
+    "specialty": "Slayer Master"
+  },
+  {
+    "page_name": "Slayer Equipment (shop)",
+    "is_members_only": true,
+    "owner": "[[Duradel]]/[[Kuradal]]",
+    "page_name_sub": "Slayer Equipment (shop)#Duradel/Kuradal",
+    "shop_version": "(9)",
+    "location": "[[Shilo Village (location)|Shilo Village]]",
+    "specialty": "Slayer Master"
+  },
+  {
+    "page_name": "Slayer Equipment (shop)",
+    "is_members_only": true,
+    "owner": "[[Vannaka]]",
+    "page_name_sub": "Slayer Equipment (shop)#Vannaka",
+    "shop_version": "(5)",
+    "location": "[[Edgeville Dungeon]]",
+    "specialty": "Slayer Master"
+  },
+  {
+    "page_name": "Slayer Equipment (shop)",
+    "is_members_only": true,
+    "owner": "[[Chaeldar]]",
+    "page_name_sub": "Slayer Equipment (shop)#Chaeldar",
+    "shop_version": "(6)",
+    "location": "[[Zanaris]]",
+    "specialty": "Slayer Master"
+  },
+  {
+    "page_name": "Slayer Equipment (shop)",
+    "is_members_only": true,
+    "owner": "[[Nieve]]/[[Steve]]",
+    "page_name_sub": "Slayer Equipment (shop)#Nieve/Steve",
+    "shop_version": "(8)",
+    "location": "[[Tree Gnome Stronghold]]",
+    "specialty": "Slayer Master"
+  },
+  {
+    "page_name": "Jennifer's General Supplies",
+    "is_members_only": true,
+    "owner": "[[Jennifer (Shayzien)|Jennifer]]",
+    "page_name_sub": "Jennifer's General Supplies",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Shayzien]]",
+    "specialty": "General store"
+  },
+  {
+    "page_name": "TzHaar-Hur-Zal's Equipment Store",
+    "is_members_only": true,
+    "owner": "[[TzHaar-Hur-Zal]]",
+    "page_name_sub": "TzHaar-Hur-Zal's Equipment Store",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Mor Ul Rek]]",
+    "specialty": "Chainmail shop"
+  },
+  {
+    "page_name": "TzHaar-Hur-Rin's Ore and Gem Store",
+    "is_members_only": true,
+    "owner": "[[TzHaar-Hur-Rin]]",
+    "page_name_sub": "TzHaar-Hur-Rin's Ore and Gem Store",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Mor Ul Rek]]",
+    "specialty": "Mining shop"
+  },
+  {
+    "page_name": "Yarsul's Prodigious Pickaxes",
+    "is_members_only": false,
+    "owner": "[[Yarsul]]",
+    "page_name_sub": "Yarsul's Prodigious Pickaxes",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Mining Guild]]",
+    "specialty": "Mining shop"
+  },
+  {
+    "page_name": "Hendor's Awesome Ores",
+    "is_members_only": false,
+    "owner": "[[Hendor]]",
+    "page_name_sub": "Hendor's Awesome Ores",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Mining Guild]]",
+    "specialty": "[[Mining shop]]"
+  },
+  {
+    "page_name": "Mining Guild Mineral Exchange",
+    "is_members_only": true,
+    "owner": "[[Belona]]",
+    "page_name_sub": "Mining Guild Mineral Exchange",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Mining Guild]]",
+    "specialty": "Mining gloves"
+  },
+  {
+    "page_name": "Burthorpe Supplies",
+    "is_members_only": true,
+    "owner": "[[Wistan]]",
+    "page_name_sub": "Burthorpe Supplies",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Burthorpe]]",
+    "specialty": "General store"
+  },
+  {
+    "page_name": "Ratpit bar (Port Sarim)",
+    "is_members_only": true,
+    "owner": "[[Barman (Ratpit bar)|Barman]]",
+    "page_name_sub": "Ratpit bar (Port Sarim)",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "Under [[Port Sarim]]",
+    "specialty": "[[Beer]], [[Stew]]"
+  },
+  {
+    "page_name": "Ratpit bar (Varrock)",
+    "is_members_only": true,
+    "owner": "[[Barman (Ratpit bar)|Barman]]",
+    "page_name_sub": "Ratpit bar (Varrock)",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "Under [[Varrock]]",
+    "specialty": "[[Beer]], [[Stew]]"
+  },
+  {
+    "page_name": "Mairin's Market",
+    "is_members_only": true,
+    "owner": "[[Mairin]]",
+    "page_name_sub": "Mairin's Market",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Underwater]]",
+    "specialty": "Fishing shop"
+  },
+  {
+    "page_name": "Petrified Pete's Ore Shop",
+    "is_members_only": true,
+    "owner": "[[Petrified Pete]]",
+    "page_name_sub": "Petrified Pete's Ore Shop",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Volcanic Mine]]",
+    "specialty": "Mining shop"
+  },
+  {
+    "page_name": "Fossil Island General Store",
+    "is_members_only": true,
+    "owner": "[[Shop keeper (Fossil Island)|Shop keeper]]",
+    "page_name_sub": "Fossil Island General Store",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Museum Camp]]",
+    "specialty": "General store"
+  },
+  {
+    "page_name": "Warrens Fish Monger",
+    "is_members_only": true,
+    "owner": "[[Fish monger (The Warrens)|Fish monger]]",
+    "page_name_sub": "Warrens Fish Monger",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[The Warrens]]",
+    "specialty": "Fishing shop"
+  },
+  {
+    "page_name": "Warrens General Store",
+    "is_members_only": true,
+    "owner": "[[Shop keeper (The Warrens)|Shop keeper]]",
+    "page_name_sub": "Warrens General Store",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[The Warrens]]",
+    "specialty": "General store"
+  },
+  {
+    "page_name": "Kourend Castle Gem Stall.",
+    "is_members_only": true,
+    "owner": "[[Gem merchant (Kourend Castle)|Gem merchant]]",
+    "page_name_sub": "Kourend Castle Gem Stall.",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Kourend Castle]]",
+    "specialty": "Gem shop"
+  },
+  {
+    "page_name": "Myths' Guild Armoury",
+    "is_members_only": true,
+    "owner": "[[Erdan]]",
+    "page_name_sub": "Myths' Guild Armoury",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "<span class=\"floornumber\"><span class=\"floornumber-gb\">2<sup class=\"floornumber-ordinal-suffix\">nd</sup>&nbsp;floor<sup class=\"floornumber-help noexcerpt\">&#91;<span class=\"fact-text floor-convention\" title=\"British convention; floor 3 in the US\">UK</span>&#93;</sup></span><span class=\"floornumber-us noexcerpt\">3<sup class=\"floornumber-ordinal-suffix\">rd</sup>&nbsp;floor<sup class=\"floornumber-help noexcerpt\">&#91;<span class=\"fact-text floor-convention\" title=\"US convention; floor 2 in the UK\">US</span>&#93;</sup></span></span> of [[Myths' Guild]]",
+    "specialty": "Platebody shop"
+  },
+  {
+    "page_name": "Myths' Guild Weaponry",
+    "is_members_only": true,
+    "owner": "[[Diana]]",
+    "page_name_sub": "Myths' Guild Weaponry",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "<span class=\"floornumber\"><span class=\"floornumber-gb\">2<sup class=\"floornumber-ordinal-suffix\">nd</sup>&nbsp;floor<sup class=\"floornumber-help noexcerpt\">&#91;<span class=\"fact-text floor-convention\" title=\"British convention; floor 3 in the US\">UK</span>&#93;</sup></span><span class=\"floornumber-us noexcerpt\">3<sup class=\"floornumber-ordinal-suffix\">rd</sup>&nbsp;floor<sup class=\"floornumber-help noexcerpt\">&#91;<span class=\"fact-text floor-convention\" title=\"US convention; floor 2 in the UK\">US</span>&#93;</sup></span></span> of [[Myths' Guild]]",
+    "specialty": "Sword shop"
+  },
+  {
+    "page_name": "Mythical Cape Store",
+    "is_members_only": true,
+    "owner": "[[Jack]]",
+    "page_name_sub": "Mythical Cape Store",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "<span class=\"floornumber\"><span class=\"floornumber-gb\">2<sup class=\"floornumber-ordinal-suffix\">nd</sup>&nbsp;floor<sup class=\"floornumber-help noexcerpt\">&#91;<span class=\"fact-text floor-convention\" title=\"British convention; floor 3 in the US\">UK</span>&#93;</sup></span><span class=\"floornumber-us noexcerpt\">3<sup class=\"floornumber-ordinal-suffix\">rd</sup>&nbsp;floor<sup class=\"floornumber-help noexcerpt\">&#91;<span class=\"fact-text floor-convention\" title=\"US convention; floor 2 in the UK\">US</span>&#93;</sup></span></span> of [[Myths' Guild]]",
+    "specialty": "Clothes shop"
+  },
+  {
+    "page_name": "Myths' Guild Herbalist",
+    "is_members_only": true,
+    "owner": "[[Primula]]",
+    "page_name_sub": "Myths' Guild Herbalist",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Myths' Guild]], <span class=\"floornumber\"><span class=\"floornumber-gb\">1<sup class=\"floornumber-ordinal-suffix\">st</sup>&nbsp;floor<sup class=\"floornumber-help noexcerpt\">&#91;<span class=\"fact-text floor-convention\" title=\"British convention; floor 2 in the US\">UK</span>&#93;</sup></span><span class=\"floornumber-us noexcerpt\">2<sup class=\"floornumber-ordinal-suffix\">nd</sup>&nbsp;floor<sup class=\"floornumber-help noexcerpt\">&#91;<span class=\"fact-text floor-convention\" title=\"US convention; floor 1 in the UK\">US</span>&#93;</sup></span></span>",
+    "specialty": "Herbalist"
+  },
+  {
+    "page_name": "King Narnode's Royal Seed Pods",
+    "is_members_only": true,
+    "owner": "[[King Narnode Shareen]]",
+    "page_name_sub": "King Narnode's Royal Seed Pods",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Grand Tree]]",
+    "specialty": "Miscellaneous"
+  },
+  {
+    "page_name": "Leon's Prototype Crossbow.",
+    "is_members_only": true,
+    "owner": "[[Leon]]",
+    "page_name_sub": "Leon's Prototype Crossbow.",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Yanille]]",
+    "specialty": "[[Hunters' crossbow]]"
+  },
+  {
+    "page_name": "Rat & Bat",
+    "is_members_only": true,
+    "owner": "[[Carl]] <br/> [[Roy]] (After [[Sins of the Father]])",
+    "page_name_sub": "Rat & Bat",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Slepe]]",
+    "specialty": "[[Bloody bracer]]"
+  },
+  {
+    "page_name": "Ranging Guild Ticket Exchange",
+    "is_members_only": true,
+    "owner": "[[Ticket Merchant]]",
+    "page_name_sub": "Ranging Guild Ticket Exchange",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Ranging Guild]]",
+    "specialty": "None"
+  },
+  {
+    "page_name": "Mount Karuulm Weapon Shop",
+    "is_members_only": true,
+    "owner": "[[Leke quo Keran]]",
+    "page_name_sub": "Mount Karuulm Weapon Shop",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Mount Karuulm]]",
+    "specialty": "Axe shop"
+  },
+  {
+    "page_name": "Alry the Angler's Angling Accessories",
+    "is_members_only": true,
+    "owner": "[[Alry the Angler]]",
+    "page_name_sub": "Alry the Angler's Angling Accessories",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Molch lake]]",
+    "specialty": "Fishing related items"
+  },
+  {
+    "page_name": "Amelia's Seed Shop",
+    "is_members_only": true,
+    "owner": "[[Amelia (Farming Guild)|Amelia]]",
+    "page_name_sub": "Amelia's Seed Shop",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Farming Guild]]",
+    "specialty": "Farming shop"
+  },
+  {
+    "page_name": "Allanna's Farming Shop",
+    "is_members_only": true,
+    "owner": "[[Allanna]]",
+    "page_name_sub": "Allanna's Farming Shop",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Farming Guild]]",
+    "specialty": "Farming shop"
+  },
+  {
+    "page_name": "The Sheared Ram",
+    "is_members_only": false,
+    "owner": "[[Bartender (Sheared Ram)|Bartender]]",
+    "page_name_sub": "The Sheared Ram",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Lumbridge]]",
+    "specialty": "[[Beer]]"
+  },
+  {
+    "page_name": "Ned's Handmade Rope (100% Wool)",
+    "is_members_only": false,
+    "owner": "[[Ned]]",
+    "page_name_sub": "Ned's Handmade Rope (100% Wool)",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Draynor Village]]",
+    "specialty": "Rope trader"
+  },
+  {
+    "page_name": "Kourend Castle Baker's Stall.",
+    "is_members_only": true,
+    "owner": "[[Baker]]",
+    "page_name_sub": "Kourend Castle Baker's Stall.",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Kourend Castle]]",
+    "specialty": "Food shop"
+  },
+  {
+    "page_name": "The Legless Faun",
+    "is_members_only": true,
+    "owner": "[[Bast]]",
+    "page_name_sub": "The Legless Faun",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Kingstown]]",
+    "specialty": "[[Beer]]"
+  },
+  {
+    "page_name": "Dom Onion's Reward Shop",
+    "is_members_only": true,
+    "owner": "[[Dominic Onion]]",
+    "page_name_sub": "Dom Onion's Reward Shop",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Yanille]]",
+    "specialty": "[[Nightmare Zone]] Rewards"
+  },
+  {
+    "page_name": "Brimhaven Agility Arena Ticket Exchange",
+    "is_members_only": true,
+    "owner": "[[Pirate Jackie the Fruit]]",
+    "page_name_sub": "Brimhaven Agility Arena Ticket Exchange",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Brimhaven]]",
+    "specialty": "[[Brimhaven Agility Arena]] Rewards"
+  },
+  {
+    "page_name": "Farmer Gricoller's Rewards",
+    "is_members_only": true,
+    "owner": "[[Farmer Gricoller]]",
+    "page_name_sub": "Farmer Gricoller's Rewards",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Hosidius]]",
+    "specialty": "[[Tithe Farm]] Rewards"
+  },
+  {
+    "page_name": "Prifddinas Herbal Supplies",
+    "is_members_only": true,
+    "owner": "[[Llio]]",
+    "page_name_sub": "Prifddinas Herbal Supplies",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Prifddinas]]",
+    "specialty": "Herbalist"
+  },
+  {
+    "page_name": "Prifddinas Foodstuffs",
+    "is_members_only": true,
+    "owner": "[[Derwen (elf)|Derwen]]",
+    "page_name_sub": "Prifddinas Foodstuffs",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Prifddinas]]",
+    "specialty": "Food shop"
+  },
+  {
+    "page_name": "Prifddinas Silver Stall",
+    "is_members_only": true,
+    "owner": "[[Osian]]",
+    "page_name_sub": "Prifddinas Silver Stall",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Prifddinas]]",
+    "specialty": "Silver shop"
+  },
+  {
+    "page_name": "Prifddinas Gem Stall",
+    "is_members_only": true,
+    "owner": "[[Glenda]]",
+    "page_name_sub": "Prifddinas Gem Stall",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Prifddinas]]",
+    "specialty": "Gem shop"
+  },
+  {
+    "page_name": "Prifddinas Spice Stall",
+    "is_members_only": true,
+    "owner": "[[Caerwyn]]",
+    "page_name_sub": "Prifddinas Spice Stall",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Prifddinas]]",
+    "specialty": "Spice shop"
+  },
+  {
+    "page_name": "Branwen's Farming Shop",
+    "is_members_only": true,
+    "owner": "[[Branwen]]",
+    "page_name_sub": "Branwen's Farming Shop",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Prifddinas]]",
+    "specialty": "Farming shop"
+  },
+  {
+    "page_name": "Sian's Ranged Weaponry",
+    "is_members_only": true,
+    "owner": "[[Sian]]",
+    "page_name_sub": "Sian's Ranged Weaponry",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Prifddinas]]",
+    "specialty": "Archery shop"
+  },
+  {
+    "page_name": "Prifddinas General Store",
+    "is_members_only": true,
+    "owner": "[[Gwallter]]",
+    "page_name_sub": "Prifddinas General Store",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Prifddinas]]",
+    "specialty": "General store"
+  },
+  {
+    "page_name": "Gwyn's Mining Emporium",
+    "is_members_only": true,
+    "owner": "[[Gwyn]]",
+    "page_name_sub": "Gwyn's Mining Emporium",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Prifddinas]]",
+    "specialty": "Mining shop"
+  },
+  {
+    "page_name": "Iorwerth's Arms",
+    "is_members_only": true,
+    "owner": "[[Celyn]]",
+    "page_name_sub": "Iorwerth's Arms",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Prifddinas]]",
+    "specialty": "Sword shop"
+  },
+  {
+    "page_name": "Aneirin's Armour",
+    "is_members_only": true,
+    "owner": "[[Aneirin]]",
+    "page_name_sub": "Aneirin's Armour",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Prifddinas]]",
+    "specialty": "Platebody shop"
+  },
+  {
+    "page_name": "Guinevere's Dyes",
+    "is_members_only": true,
+    "owner": "[[Guinevere]]",
+    "page_name_sub": "Guinevere's Dyes",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Prifddinas]]",
+    "specialty": "Dye trader"
+  },
+  {
+    "page_name": "Lliann's Wares",
+    "is_members_only": true,
+    "owner": "[[Lliann]]",
+    "page_name_sub": "Lliann's Wares",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Prifddinas]]",
+    "specialty": "Clothes shop"
+  },
+  {
+    "page_name": "Prifddinas' Seamstress",
+    "is_members_only": true,
+    "owner": "[[Nia]]",
+    "page_name_sub": "Prifddinas' Seamstress",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Prifddinas]]",
+    "specialty": "Crafting shop"
+  },
+  {
+    "page_name": "Elgan's Exceptional Staffs!",
+    "is_members_only": true,
+    "owner": "[[Elgan]]",
+    "page_name_sub": "Elgan's Exceptional Staffs!",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Prifddinas]]",
+    "specialty": "Staff shop"
+  },
+  {
+    "page_name": "Amlodd's Magical Supplies",
+    "is_members_only": true,
+    "owner": "[[Efa]]",
+    "page_name_sub": "Amlodd's Magical Supplies",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Prifddinas]]",
+    "specialty": "[[Magic shop]]"
+  },
+  {
+    "page_name": "Hefin Inn",
+    "is_members_only": true,
+    "owner": "[[Eira]]",
+    "page_name_sub": "Hefin Inn",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Prifddinas]]",
+    "specialty": "Pub"
+  },
+  {
+    "page_name": "Iwan's Maces",
+    "is_members_only": true,
+    "owner": "[[Iwan]]",
+    "page_name_sub": "Iwan's Maces",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Prifddinas]]",
+    "specialty": "Mace shop"
+  },
+  {
+    "page_name": "Justine's stuff for the Last Shopper Standing",
+    "is_members_only": true,
+    "owner": "[[Justine]]",
+    "page_name_sub": "Justine's stuff for the Last Shopper Standing",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Last Man Standing]] lobby",
+    "specialty": "Last Man Standing rewards"
+  },
+  {
+    "page_name": "Bounty Hunter Store",
+    "is_members_only": true,
+    "owner": "[[Emblem Trader]]",
+    "page_name_sub": "Bounty Hunter Store",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Daimon's Crater]]",
+    "specialty": "Bounty Hunter trader"
+  },
+  {
+    "page_name": "Beach Cocktails",
+    "is_members_only": true,
+    "owner": "[[Cocktail seller]]",
+    "page_name_sub": "Beach Cocktails#Thanksgiving",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Catherby]] beach",
+    "specialty": "[[Gnome cocktails]]"
+  },
+  {
+    "page_name": "Beach Cocktails",
+    "is_members_only": true,
+    "owner": "[[Cocktail seller]]",
+    "page_name_sub": "Beach Cocktails#Midsummer",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Catherby]] beach, [[Al Kharid]], [[Brimhaven]]",
+    "specialty": "[[Gnome cocktails]]"
+  },
+  {
+    "page_name": "Beach Kit",
+    "is_members_only": true,
+    "owner": "[[Romettini]]",
+    "page_name_sub": "Beach Kit",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Catherby]], [[Al Kharid]], [[Brimhaven]]",
+    "specialty": "[[Beach boxing gloves]]"
+  },
+  {
+    "page_name": "Leagues Reward Shop",
+    "is_members_only": true,
+    "owner": "[[Leagues Tutor (Raging Echoes League)|Leagues Tutor]]",
+    "page_name_sub": "Leagues Reward Shop",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Lumbridge Castle]]",
+    "specialty": "[[Leagues]] rewards"
+  },
+  {
+    "page_name": "Bunbridge General Store",
+    "is_members_only": false,
+    "owner": "[[Shop keeper (2020 Easter event)|Shop keeper]]",
+    "page_name_sub": "Bunbridge General Store",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Bunbridge]]",
+    "specialty": "General store"
+  },
+  {
+    "page_name": "White Knight Armoury",
+    "is_members_only": true,
+    "owner": "[[Sir Vyvin]]",
+    "page_name_sub": "White Knight Armoury",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Falador]]",
+    "specialty": "Combat"
+  },
+  {
+    "page_name": "Darkmeyer Seamstress",
+    "is_members_only": true,
+    "owner": "[[Varrian Sobak]]",
+    "page_name_sub": "Darkmeyer Seamstress",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Darkmeyer]]",
+    "specialty": "Clothes shop"
+  },
+  {
+    "page_name": "Darkmeyer Meat Shop",
+    "is_members_only": true,
+    "owner": "[[Lenyig Karna]]",
+    "page_name_sub": "Darkmeyer Meat Shop",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Darkmeyer]]",
+    "specialty": "Food shop"
+  },
+  {
+    "page_name": "Darkmeyer Lantern Shop",
+    "is_members_only": true,
+    "owner": "[[Grinka Krast]]",
+    "page_name_sub": "Darkmeyer Lantern Shop",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Darkmeyer]]",
+    "specialty": "Candle shop"
+  },
+  {
+    "page_name": "Darkmeyer General Store",
+    "is_members_only": true,
+    "owner": "[[Drasdan Ranor]]",
+    "page_name_sub": "Darkmeyer General Store",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Darkmeyer]]",
+    "specialty": "General store"
+  },
+  {
+    "page_name": "Ivan's Supplies",
+    "is_members_only": true,
+    "owner": "[[Ivan Strom]]",
+    "page_name_sub": "Ivan's Supplies",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Meiyerditch]]",
+    "specialty": "[[Weapon]]s"
+  },
+  {
+    "page_name": "Mysterious Hallowed Goods",
+    "is_members_only": true,
+    "owner": "[[Mysterious Stranger (Hallowed Sepulchre)|Mysterious Stranger]]",
+    "page_name_sub": "Mysterious Hallowed Goods",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Hallowed Sepulchre]] lobby",
+    "specialty": "Hallowed Sepulchre rewards"
+  },
+  {
+    "page_name": "The Crypt",
+    "is_members_only": true,
+    "owner": "[[Despoina Callidra]]",
+    "page_name_sub": "The Crypt",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Darkmeyer]]",
+    "specialty": "[[Blood pint]]"
+  },
+  {
+    "page_name": "The Old Nite",
+    "is_members_only": false,
+    "owner": "[[Camarst]]",
+    "page_name_sub": "The Old Nite",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Ferox Enclave]]",
+    "specialty": "Pub"
+  },
+  {
+    "page_name": "Lost Property shop",
+    "is_members_only": true,
+    "owner": "[[Perdu]]",
+    "page_name_sub": "Lost Property shop#Edgeville",
+    "shop_version": "(3)",
+    "location": "[[Edgeville]]",
+    "specialty": "Item retrieval"
+  },
+  {
+    "page_name": "Lost Property shop",
+    "is_members_only": true,
+    "owner": "[[Perdu]]",
+    "page_name_sub": "Lost Property shop#Daimon's Crater",
+    "shop_version": "(7)",
+    "location": "[[Daimon's Crater]]",
+    "specialty": "Item retrieval"
+  },
+  {
+    "page_name": "Lost Property shop",
+    "is_members_only": true,
+    "owner": "[[Perdu]]",
+    "page_name_sub": "Lost Property shop#Lumbridge",
+    "shop_version": "(1)",
+    "location": "[[Lumbridge]]",
+    "specialty": "Item retrieval"
+  },
+  {
+    "page_name": "Lost Property shop",
+    "is_members_only": true,
+    "owner": "[[Perdu]]",
+    "page_name_sub": "Lost Property shop#Ferox Enclave",
+    "shop_version": "(5)",
+    "location": "[[Ferox Enclave]]",
+    "specialty": "Item retrieval"
+  },
+  {
+    "page_name": "Lost Property shop",
+    "is_members_only": true,
+    "owner": "[[Chris]]",
+    "page_name_sub": "Lost Property shop#Emir's Arena",
+    "shop_version": "(6)",
+    "location": "[[Emir's Arena]]",
+    "specialty": "Item retrieval"
+  },
+  {
+    "page_name": "Lost Property shop",
+    "is_members_only": true,
+    "owner": "[[Perdu]]",
+    "page_name_sub": "Lost Property shop#Catherby",
+    "shop_version": "(2)",
+    "location": "[[Catherby]]",
+    "specialty": "Item retrieval"
+  },
+  {
+    "page_name": "Lost Property shop",
+    "is_members_only": true,
+    "owner": "[[Perdu]]",
+    "page_name_sub": "Lost Property shop#Falador",
+    "shop_version": "(4)",
+    "location": "[[Falador]]",
+    "specialty": "Item retrieval"
+  },
+  {
+    "page_name": "Mahogany Homes Reward Shop",
+    "is_members_only": true,
+    "owner": "[[Amy]]",
+    "page_name_sub": "Mahogany Homes Reward Shop",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Falador]]",
+    "specialty": "Mahogany Homes rewards"
+  },
+  {
+    "page_name": "Barbarian Assault Reward Shop",
+    "is_members_only": true,
+    "owner": "[[Commander Connad]]",
+    "page_name_sub": "Barbarian Assault Reward Shop",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Barbarian Assault]]",
+    "specialty": "Penance gear"
+  },
+  {
+    "page_name": "Mysterious Stranger (shop)",
+    "is_members_only": true,
+    "owner": "[[Mysterious Stranger]]",
+    "page_name_sub": "Mysterious Stranger (shop)",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Theatre of Blood]]",
+    "specialty": "[[Teleport]]s"
+  },
+  {
+    "page_name": "Pelters' Veg Stall",
+    "is_members_only": true,
+    "owner": "[[Tramp (pillory)|Tramp]]",
+    "page_name_sub": "Pelters' Veg Stall#Varrock",
+    "shop_version": "(1)",
+    "location": "[[Varrock]]",
+    "specialty": "[[Rotten tomato]]es"
+  },
+  {
+    "page_name": "Pelters' Veg Stall",
+    "is_members_only": true,
+    "owner": "[[Tramp (pillory)|Tramp]]",
+    "page_name_sub": "Pelters' Veg Stall#Hosidius",
+    "shop_version": "(4)",
+    "location": "[[Hosidius]]",
+    "specialty": "[[Rotten tomato]]es"
+  },
+  {
+    "page_name": "Pelters' Veg Stall",
+    "is_members_only": true,
+    "owner": "[[Tramp (pillory)|Tramp]]",
+    "page_name_sub": "Pelters' Veg Stall#Seers' Village",
+    "shop_version": "(2)",
+    "location": "[[Seers' Village]]",
+    "specialty": "[[Rotten tomato]]es"
+  },
+  {
+    "page_name": "Pelters' Veg Stall",
+    "is_members_only": true,
+    "owner": "[[Tramp (pillory)|Tramp]]",
+    "page_name_sub": "Pelters' Veg Stall#Yanille",
+    "shop_version": "(3)",
+    "location": "[[Yanille]]",
+    "specialty": "[[Rotten tomato]]es"
+  },
+  {
+    "page_name": "Pelters' Veg Stall",
+    "is_members_only": true,
+    "owner": "[[Fadli]]",
+    "page_name_sub": "Pelters' Veg Stall#Emir's Arena",
+    "shop_version": "(5)",
+    "location": "[[Emir's Arena]]",
+    "specialty": "[[Rotten tomato]]es"
+  },
+  {
+    "page_name": "Dusuri's Star Shop",
+    "is_members_only": true,
+    "owner": "[[Dusuri]]",
+    "page_name_sub": "Dusuri's Star Shop",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Falador]]",
+    "specialty": "Misc"
+  },
+  {
+    "page_name": "Ishmael's Fish He Sells",
+    "is_members_only": true,
+    "owner": "[[Ishmael]]",
+    "page_name_sub": "Ishmael's Fish He Sells",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Ruins of Unkah]]",
+    "specialty": "Fishing shop"
+  },
+  {
+    "page_name": "Soul Wars Reward Shop",
+    "is_members_only": true,
+    "owner": "[[Nomad]]",
+    "page_name_sub": "Soul Wars Reward Shop",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Isle of Souls]]",
+    "specialty": "[[Soul Wars]] rewards"
+  },
+  {
+    "page_name": "Ramarno's Shard Exchange",
+    "is_members_only": false,
+    "owner": "[[Ramarno]]",
+    "page_name_sub": "Ramarno's Shard Exchange",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Ruins of Camdozaal]]",
+    "specialty": "Buffs"
+  },
+  {
+    "page_name": "Shayzien Styles",
+    "is_members_only": true,
+    "owner": "[[Robyn]]",
+    "page_name_sub": "Shayzien Styles",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Shayzien]]",
+    "specialty": "Clothes shop"
+  },
+  {
+    "page_name": "Daryl's Ranging Surplus",
+    "is_members_only": true,
+    "owner": "[[Daryl]]",
+    "page_name_sub": "Daryl's Ranging Surplus",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Shayzien]]",
+    "specialty": "Archery shop"
+  },
+  {
+    "page_name": "The Cloak and Stagger",
+    "is_members_only": true,
+    "owner": "[[Oswald]]",
+    "page_name_sub": "The Cloak and Stagger",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Shayzien]]",
+    "specialty": "Pub"
+  },
+  {
+    "page_name": "Slayer Rewards",
+    "is_members_only": true,
+    "owner": "[[Konar quo Maten]]",
+    "page_name_sub": "Slayer Rewards#Konar quo Maten",
+    "shop_version": "(7)",
+    "location": "[[Mount Karuulm]]",
+    "specialty": "Slayer Master"
+  },
+  {
+    "page_name": "Slayer Rewards",
+    "is_members_only": true,
+    "owner": "[[Krystilia]]",
+    "page_name_sub": "Slayer Rewards#Krystilia",
+    "shop_version": "(3)",
+    "location": "[[Edgeville]]",
+    "specialty": "Slayer Master"
+  },
+  {
+    "page_name": "Slayer Rewards",
+    "is_members_only": true,
+    "owner": "[[Turael]]/[[Aya]]",
+    "page_name_sub": "Slayer Rewards#Turael/Aya",
+    "shop_version": "(1)",
+    "location": "[[Burthorpe]]",
+    "specialty": "Slayer Master"
+  },
+  {
+    "page_name": "Slayer Rewards",
+    "is_members_only": true,
+    "owner": "[[Spria]]",
+    "page_name_sub": "Slayer Rewards#Spria",
+    "shop_version": "(2)",
+    "location": "[[Draynor Village]]",
+    "specialty": "Slayer Master"
+  },
+  {
+    "page_name": "Slayer Rewards",
+    "is_members_only": true,
+    "owner": "[[Mazchna]]/[[Achtryn]]",
+    "page_name_sub": "Slayer Rewards#Mazchna/Achtryn",
+    "shop_version": "(4)",
+    "location": "[[Canifis]]",
+    "specialty": "Slayer Master"
+  },
+  {
+    "page_name": "Slayer Rewards",
+    "is_members_only": true,
+    "owner": "[[Duradel]]/[[Kuradal]]",
+    "page_name_sub": "Slayer Rewards#Duradel/Kuradal",
+    "shop_version": "(9)",
+    "location": "[[Shilo Village (location)|Shilo Village]]",
+    "specialty": "Slayer Master"
+  },
+  {
+    "page_name": "Slayer Rewards",
+    "is_members_only": true,
+    "owner": "[[Vannaka]]",
+    "page_name_sub": "Slayer Rewards#Vannaka",
+    "shop_version": "(5)",
+    "location": "[[Edgeville Dungeon]]",
+    "specialty": "Slayer Master"
+  },
+  {
+    "page_name": "Slayer Rewards",
+    "is_members_only": true,
+    "owner": "[[Chaeldar]]",
+    "page_name_sub": "Slayer Rewards#Chaeldar",
+    "shop_version": "(6)",
+    "location": "[[Zanaris]]",
+    "specialty": "Slayer Master"
+  },
+  {
+    "page_name": "Slayer Rewards",
+    "is_members_only": true,
+    "owner": "[[Nieve]]/[[Steve]]",
+    "page_name_sub": "Slayer Rewards#Nieve/Steve",
+    "shop_version": "(8)",
+    "location": "[[Tree Gnome Stronghold]]",
+    "specialty": "Slayer Master"
+  },
+  {
+    "page_name": "Temple Supplies",
+    "is_members_only": true,
+    "owner": "[[Apprentice Felix]]",
+    "page_name_sub": "Temple Supplies",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Temple of the Eye (location)|Temple of the Eye]]",
+    "specialty": "[[Guardians of the Rift]] rewards"
+  },
+  {
+    "page_name": "Giants' Foundry Reward Shop",
+    "is_members_only": true,
+    "owner": "[[Kovac]]",
+    "page_name_sub": "Giants' Foundry Reward Shop",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Giants' Foundry]]",
+    "specialty": "[[Giants' Foundry]] rewards"
+  },
+  {
+    "page_name": "PvP Arena Rewards",
+    "is_members_only": true,
+    "owner": "[[Mubariz]]",
+    "page_name_sub": "PvP Arena Rewards",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Emir's Arena]]",
+    "specialty": "Emir's Arena rewards"
+  },
+  {
+    "page_name": "Void Knights' Reward Options",
+    "is_members_only": true,
+    "owner": "[[Void Knight]]",
+    "page_name_sub": "Void Knights' Reward Options",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Void Knights' Outpost]]",
+    "specialty": "[[Pest Control]] rewards"
+  },
+  {
+    "page_name": "Speedrunning Reward Shop",
+    "is_members_only": true,
+    "owner": "[[Eliza]]",
+    "page_name_sub": "Speedrunning Reward Shop",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Varrock]]",
+    "specialty": "[[Quest Speedrunning]] rewards"
+  },
+  {
+    "page_name": "The Nutcracker",
+    "is_members_only": false,
+    "owner": "[[Santa Claus]]",
+    "page_name_sub": "The Nutcracker",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Land of Snow]]",
+    "specialty": "[[Light beer]], [[eggnog]], [[mulled pine]]"
+  },
+  {
+    "page_name": "Bounty Hunter Shop (Deadman Mode)",
+    "is_members_only": true,
+    "owner": "[[Emblem Trader]]",
+    "page_name_sub": "Bounty Hunter Shop (Deadman Mode)",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Grand Exchange]], [[Edgeville]]",
+    "specialty": "Bounty Hunter trader"
+  },
+  {
+    "page_name": "Forestry Shop",
+    "is_members_only": false,
+    "owner": "[[Friendly Forester]]",
+    "page_name_sub": "Forestry Shop#Draynor Village",
+    "shop_version": "(1)",
+    "location": "[[Draynor Village]]",
+    "specialty": "[[Forestry]] rewards shop"
+  },
+  {
+    "page_name": "Forestry Shop",
+    "is_members_only": true,
+    "owner": "[[Friendly Forester]]",
+    "page_name_sub": "Forestry Shop#Prifddinas",
+    "shop_version": "(3)",
+    "location": "[[Prifddinas]]",
+    "specialty": "[[Forestry]] rewards shop"
+  },
+  {
+    "page_name": "Forestry Shop",
+    "is_members_only": true,
+    "owner": "[[Friendly Forester]]",
+    "page_name_sub": "Forestry Shop#Nemus Retreat",
+    "shop_version": "(4)",
+    "location": "[[Nemus Retreat]]",
+    "specialty": "[[Forestry]] rewards shop"
+  },
+  {
+    "page_name": "Forestry Shop",
+    "is_members_only": true,
+    "owner": "[[Friendly Forester]]",
+    "page_name_sub": "Forestry Shop#Seers' Village",
+    "shop_version": "(2)",
+    "location": "[[Seers' Village]]",
+    "specialty": "[[Forestry]] rewards shop"
+  },
+  {
+    "page_name": "Initiate Temple Knight Armoury",
+    "is_members_only": true,
+    "owner": "[[Sir Tiffy Cashien]]",
+    "page_name_sub": "Initiate Temple Knight Armoury",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Falador Park]]",
+    "specialty": "Armour"
+  },
+  {
+    "page_name": "Proselyte Temple Knight Armoury",
+    "is_members_only": true,
+    "owner": "[[Sir Tiffy Cashien]]",
+    "page_name_sub": "Proselyte Temple Knight Armoury",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Falador Park]]",
+    "specialty": "Armour"
+  },
+  {
+    "page_name": "Fortis Blacksmith",
+    "is_members_only": true,
+    "owner": "[[Blacksmith]]",
+    "page_name_sub": "Fortis Blacksmith",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Civitas illa Fortis]]",
+    "specialty": "Sword shop"
+  },
+  {
+    "page_name": "Fortis General Store",
+    "is_members_only": true,
+    "owner": "[[Shopkeeper (Civitas illa Fortis)|Shopkeeper]]",
+    "page_name_sub": "Fortis General Store",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Civitas illa Fortis]]",
+    "specialty": "General store"
+  },
+  {
+    "page_name": "Sunset Coast General Store",
+    "is_members_only": true,
+    "owner": "[[Shopkeeper (Sunset Coast)|Shopkeeper]]",
+    "page_name_sub": "Sunset Coast General Store",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Sunset Coast]]",
+    "specialty": "General store"
+  },
+  {
+    "page_name": "The Lost Pickaxe",
+    "is_members_only": true,
+    "owner": "[[Bartender (The Lost Pickaxe)|Bartender]]",
+    "page_name_sub": "The Lost Pickaxe",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Cam Torum]]",
+    "specialty": "Pub"
+  },
+  {
+    "page_name": "Floria's Fashion",
+    "is_members_only": true,
+    "owner": "[[Floria]]",
+    "page_name_sub": "Floria's Fashion",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Civitas illa Fortis]]",
+    "specialty": "Clothes shop"
+  },
+  {
+    "page_name": "The Runic Emporium",
+    "is_members_only": true,
+    "owner": "[[Nahta]]",
+    "page_name_sub": "The Runic Emporium",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Cam Torum]]",
+    "specialty": "[[Magic shop]]"
+  },
+  {
+    "page_name": "Imia's Supplies",
+    "is_members_only": true,
+    "owner": "[[Imia]]",
+    "page_name_sub": "Imia's Supplies",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Hunter Guild]]",
+    "specialty": "Hunter shop"
+  },
+  {
+    "page_name": "Fortis Gem Stall",
+    "is_members_only": true,
+    "owner": "[[Gem Merchant (Civitas illa Fortis)|Gem Merchant]]",
+    "page_name_sub": "Fortis Gem Stall",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Civitas illa Fortis]]",
+    "specialty": "Gem shop"
+  },
+  {
+    "page_name": "Fortis Fur Stall",
+    "is_members_only": true,
+    "owner": "[[Fur Merchant]]",
+    "page_name_sub": "Fortis Fur Stall",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Civitas illa Fortis]]",
+    "specialty": "Furs"
+  },
+  {
+    "page_name": "Atlazora's Rest",
+    "is_members_only": true,
+    "owner": "[[Bartender (Atlazora's Rest)|Bartender]]",
+    "page_name_sub": "Atlazora's Rest",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Outer Fortis]]",
+    "specialty": "Pub"
+  },
+  {
+    "page_name": "Thurid's Brain Buckets",
+    "is_members_only": true,
+    "owner": "[[Thurid]]",
+    "page_name_sub": "Thurid's Brain Buckets",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Sunset Coast]]",
+    "specialty": "Helmet shop"
+  },
+  {
+    "page_name": "Spike's Spikes",
+    "is_members_only": true,
+    "owner": "[[Spike]]",
+    "page_name_sub": "Spike's Spikes",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Outer Fortis]]",
+    "specialty": "Mace shop"
+  },
+  {
+    "page_name": "Outer Fortis General Store",
+    "is_members_only": true,
+    "owner": "[[Shopkeeper (Outer Fortis)]]",
+    "page_name_sub": "Outer Fortis General Store",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Outer Fortis]]",
+    "specialty": "General store"
+  },
+  {
+    "page_name": "Picaria's Fishing Shop",
+    "is_members_only": true,
+    "owner": "[[Picaria]]",
+    "page_name_sub": "Picaria's Fishing Shop",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Sunset Coast]]",
+    "specialty": "Fishing shop"
+  },
+  {
+    "page_name": "Tizoro's Pickaxes",
+    "is_members_only": true,
+    "owner": "[[Tizoro]]",
+    "page_name_sub": "Tizoro's Pickaxes",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Cam Torum]]",
+    "specialty": "Mining Shop"
+  },
+  {
+    "page_name": "Yarnio's Baked Goods",
+    "is_members_only": true,
+    "owner": "[[Yarnio]]",
+    "page_name_sub": "Yarnio's Baked Goods",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Cam Torum]]",
+    "specialty": "Cookery shop"
+  },
+  {
+    "page_name": "Conara's Jewels",
+    "is_members_only": true,
+    "owner": "[[Conara]]",
+    "page_name_sub": "Conara's Jewels",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Cam Torum]]",
+    "specialty": "Jewellery shop"
+  },
+  {
+    "page_name": "Huito's Herbal Supplies",
+    "is_members_only": true,
+    "owner": "[[Huito]]",
+    "page_name_sub": "Huito's Herbal Supplies",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Cam Torum]]",
+    "specialty": "Herbalist"
+  },
+  {
+    "page_name": "Cobado's Groceries",
+    "is_members_only": true,
+    "owner": "[[Cobado]]",
+    "page_name_sub": "Cobado's Groceries",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Civitas illa Fortis]]",
+    "specialty": "Cookery shop"
+  },
+  {
+    "page_name": "The Flaming Arrow",
+    "is_members_only": true,
+    "owner": "[[Bartender (The Flaming Arrow)|Bartender]]",
+    "page_name_sub": "The Flaming Arrow",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Civitas illa Fortis]]",
+    "specialty": "Pub"
+  },
+  {
+    "page_name": "Cam Torum Blacksmith",
+    "is_members_only": true,
+    "owner": "[[Blacksmith (Cam Torum)|Blacksmith]]",
+    "page_name_sub": "Cam Torum Blacksmith",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Cam Torum]]",
+    "specialty": "Weapons and square shields"
+  },
+  {
+    "page_name": "Cam Torum General Store",
+    "is_members_only": true,
+    "owner": "[[Shopkeeper (Cam Torum)|Shopkeeeper]]",
+    "page_name_sub": "Cam Torum General Store",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Cam Torum]]",
+    "specialty": "General store"
+  },
+  {
+    "page_name": "Pellem's Fur Store",
+    "is_members_only": true,
+    "owner": "[[Pellem]]",
+    "page_name_sub": "Pellem's Fur Store",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Hunter Guild]]",
+    "specialty": "Fur trader"
+  },
+  {
+    "page_name": "Artima's Crafting Supplies",
+    "is_members_only": true,
+    "owner": "[[Artima]]",
+    "page_name_sub": "Artima's Crafting Supplies",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Civitas illa Fortis]]",
+    "specialty": "Crafting shop"
+  },
+  {
+    "page_name": "Agelus' Farm Shop",
+    "is_members_only": true,
+    "owner": "[[Agelus]]",
+    "page_name_sub": "Agelus' Farm Shop",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Ortus Farm]]",
+    "specialty": "Farming shop"
+  },
+  {
+    "page_name": "Fortis Spice Stall",
+    "is_members_only": true,
+    "owner": "[[Spice Merchant]]",
+    "page_name_sub": "Fortis Spice Stall",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Civitas illa Fortis]]",
+    "specialty": "Spice shop"
+  },
+  {
+    "page_name": "Stonecutter Supplies",
+    "is_members_only": true,
+    "owner": "[[Metla]]",
+    "page_name_sub": "Stonecutter Supplies",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Stonecutter Outpost]]",
+    "specialty": "Stonemason"
+  },
+  {
+    "page_name": "Fortis Silk Stall",
+    "is_members_only": true,
+    "owner": "[[Silk Merchant (Civitas illa Fortis)|Silk Merchant]]",
+    "page_name_sub": "Fortis Silk Stall",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Civitas illa Fortis]]",
+    "specialty": "Silk shop"
+  },
+  {
+    "page_name": "Fortis Baker's Stall",
+    "is_members_only": true,
+    "owner": "[[Baker (Civitas illa Fortis)|Baker]]",
+    "page_name_sub": "Fortis Baker's Stall",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Civitas illa Fortis]]",
+    "specialty": "Food shop"
+  },
+  {
+    "page_name": "The Burrow",
+    "is_members_only": true,
+    "owner": "[[Huntmaster Gilman (Novice)|Huntmaster Gilman]]",
+    "page_name_sub": "The Burrow",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Hunter Guild]]",
+    "specialty": "[[Trapper's tipple]]"
+  },
+  {
+    "page_name": "Agility Arena Store",
+    "is_members_only": true,
+    "owner": "[[Pirate Jackie the Fruit]]",
+    "page_name_sub": "Agility Arena Store",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Brimhaven]]",
+    "specialty": "[[Brimhaven Agility Arena]] Rewards"
+  },
+  {
+    "page_name": "Deadman Reward Store",
+    "is_members_only": true,
+    "owner": "[[Nigel]]",
+    "page_name_sub": "Deadman Reward Store",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Lumbridge]] graveyard",
+    "specialty": "[[Deadman]] rewards"
+  },
+  {
+    "page_name": "Moonrise Wines",
+    "is_members_only": true,
+    "owner": "[[Antonius]]",
+    "page_name_sub": "Moonrise Wines",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Moonrise Brewery and Winery]]",
+    "specialty": "Wine shop"
+  },
+  {
+    "page_name": "Stick Your Ore Inn",
+    "is_members_only": true,
+    "owner": "[[Bartender (Stick Your Ore Inn)|Bartender]]",
+    "page_name_sub": "Stick Your Ore Inn",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Mistrock]], South of [[Aldarin]]",
+    "specialty": "Pub"
+  },
+  {
+    "page_name": "Sunlight's Sanctum",
+    "is_members_only": true,
+    "owner": "[[Bartender (Sunlight's Sanctum)|Bartender]]",
+    "page_name_sub": "Sunlight's Sanctum",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Aldarin]]",
+    "specialty": "Pub"
+  },
+  {
+    "page_name": "Aldarin General Store",
+    "is_members_only": true,
+    "owner": "[[Shopkeeper (Aldarin)|Shopkeeper]]",
+    "page_name_sub": "Aldarin General Store",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Aldarin]]",
+    "specialty": "General store"
+  },
+  {
+    "page_name": "Toci's Gem Store",
+    "is_members_only": true,
+    "owner": "[[Toci]]",
+    "page_name_sub": "Toci's Gem Store",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Aldarin]]",
+    "specialty": "Gem Shop"
+  },
+  {
+    "page_name": "Faustus' Fruit and Veg",
+    "is_members_only": true,
+    "owner": "[[Faustus]]",
+    "page_name_sub": "Faustus' Fruit and Veg",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Aldarin]]",
+    "specialty": "Food"
+  },
+  {
+    "page_name": "Salvager Overlook General Store",
+    "is_members_only": true,
+    "owner": "[[Shopkeeper (Salvager Overlook)]]",
+    "page_name_sub": "Salvager Overlook General Store",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Salvager Overlook]]",
+    "specialty": "General store"
+  },
+  {
+    "page_name": "Salius' Armour Shop",
+    "is_members_only": true,
+    "owner": "[[Salius]]",
+    "page_name_sub": "Salius' Armour Shop",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Salvager Overlook]]",
+    "specialty": "Platebodies"
+  },
+  {
+    "page_name": "Quetzacalli Gorge General Store",
+    "is_members_only": true,
+    "owner": "[[Shopkeeper (Quetzacalli Gorge)|Shopkeeper]]",
+    "page_name_sub": "Quetzacalli Gorge General Store",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Quetzacalli Gorge]]",
+    "specialty": "General store"
+  },
+  {
+    "page_name": "The Windbreaker",
+    "is_members_only": true,
+    "owner": "[[Bartender (The Windbreaker)]]",
+    "page_name_sub": "The Windbreaker",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Quetzacalli Gorge]]",
+    "specialty": "Pub"
+  },
+  {
+    "page_name": "Mixology Rewards",
+    "is_members_only": true,
+    "owner": "[[Supervisor Lalo]]",
+    "page_name_sub": "Mixology Rewards",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Mastering Mixology]]",
+    "specialty": "[[Mastering Mixology]] rewards shop"
+  },
+  {
+    "page_name": "Worm Tongue's Wares",
+    "is_members_only": true,
+    "owner": "[[Worm Tongue]]",
+    "page_name_sub": "Worm Tongue's Wares",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Colossal Wyrm Remains]]",
+    "specialty": "[[Colossal Wyrm Agility Course]] rewards"
+  },
+  {
+    "page_name": "Mistrock Mining Supplies",
+    "is_members_only": true,
+    "owner": "[[Necto]]",
+    "page_name_sub": "Mistrock Mining Supplies",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Mistrock]]",
+    "specialty": "Mining shop"
+  },
+  {
+    "page_name": "Emelio's Kebab Shop",
+    "is_members_only": true,
+    "owner": "[[Emelio]]",
+    "page_name_sub": "Emelio's Kebab Shop",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Varlamore]]",
+    "specialty": "Kebab shop"
+  },
+  {
+    "page_name": "Shields of Mistrock",
+    "is_members_only": true,
+    "owner": "[[Ichta]]",
+    "page_name_sub": "Shields of Mistrock",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Mistrock]]",
+    "specialty": "Shield shop"
+  },
+  {
+    "page_name": "Farming Supplies",
+    "is_members_only": true,
+    "owner": "No",
+    "page_name_sub": "Farming Supplies",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "Any [[Group of Advanced Gardeners]] member",
+    "specialty": "Farming"
+  },
+  {
+    "page_name": "The Pandemonium (pub)",
+    "is_members_only": true,
+    "owner": "[['Squawking' Steve Beanie]]",
+    "page_name_sub": "The Pandemonium (pub)",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[The Pandemonium]]",
+    "specialty": "Pub"
+  },
+  {
+    "page_name": "Henderson's Catch of the Day",
+    "is_members_only": true,
+    "owner": "[[Henderson]]",
+    "page_name_sub": "Henderson's Catch of the Day",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[The Pandemonium]]",
+    "specialty": "Fish"
+  },
+  {
+    "page_name": "Lunami's Axe Shop",
+    "is_members_only": true,
+    "owner": "[[Lunami]]",
+    "page_name_sub": "Lunami's Axe Shop",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Auburnvale]]",
+    "specialty": "Axe shop"
+  },
+  {
+    "page_name": "Auburn Pub",
+    "is_members_only": true,
+    "owner": "[[Bartender (Auburn Pub)|Bartender]]",
+    "page_name_sub": "Auburn Pub",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Auburnvale]]",
+    "specialty": "Pub"
+  },
+  {
+    "page_name": "Sebamo's Sublime Staffs",
+    "is_members_only": true,
+    "owner": "[[Sebamo]]",
+    "page_name_sub": "Sebamo's Sublime Staffs",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Auburnvale]]",
+    "specialty": "Staff shop"
+  },
+  {
+    "page_name": "Arcuani's Archery Supplies",
+    "is_members_only": true,
+    "owner": "[[Arcuani]]",
+    "page_name_sub": "Arcuani's Archery Supplies",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Tal Teklan]]",
+    "specialty": "Archery shop"
+  },
+  {
+    "page_name": "Tal Teklan Rune Shop",
+    "is_members_only": true,
+    "owner": "[[Teicuh]]",
+    "page_name_sub": "Tal Teklan Rune Shop",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Tal Teklan]]",
+    "specialty": "[[Magic shop]]"
+  },
+  {
+    "page_name": "Dyes to Die For",
+    "is_members_only": true,
+    "owner": "[[Xochitl]]",
+    "page_name_sub": "Dyes to Die For",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Tal Teklan]]",
+    "specialty": "Dye trader"
+  },
+  {
+    "page_name": "Auburnvale General Store",
+    "is_members_only": true,
+    "owner": "[[Shopkeeper (Auburnvale)|Shopkeeper]]",
+    "page_name_sub": "Auburnvale General Store",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Auburnvale]]",
+    "specialty": "General store"
+  },
+  {
+    "page_name": "Vale Research Exchange",
+    "is_members_only": true,
+    "page_name_sub": "Vale Research Exchange",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "owner": "[[Ranulph]]",
+    "location": "[[Auburnvale]]"
+  },
+  {
+    "page_name": "Sulisal's Superb Fishing Store",
+    "is_members_only": true,
+    "owner": "[[Sulisal]]",
+    "page_name_sub": "Sulisal's Superb Fishing Store",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Kastori]]",
+    "specialty": "Fishing shop"
+  },
+  {
+    "page_name": "Kastori General Store",
+    "is_members_only": true,
+    "owner": "[[Shopkeeper (Kastori)|Shopkeeper]]",
+    "page_name_sub": "Kastori General Store",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Kastori]]",
+    "specialty": "General store"
+  },
+  {
+    "page_name": "Kastori Farming Supplies",
+    "is_members_only": true,
+    "owner": "[[Ameyalli]]",
+    "page_name_sub": "Kastori Farming Supplies",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Kastori]]",
+    "specialty": "Farming shop"
+  },
+  {
+    "page_name": "The King's Inn",
+    "is_members_only": true,
+    "owner": "[[King (Tal Teklan)|King]]",
+    "page_name_sub": "The King's Inn",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Tal Teklan]]",
+    "specialty": "Pub"
+  },
+  {
+    "page_name": "Tal Teklan General Store",
+    "is_members_only": true,
+    "owner": "[[Shopkeeper (Tal Teklan)|Shopkeeper]]",
+    "page_name_sub": "Tal Teklan General Store",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Tal Teklan]]",
+    "specialty": "General store"
+  },
+  {
+    "page_name": "Nemus Retreat (pub)",
+    "is_members_only": true,
+    "owner": "[[Bartender (Nemus Retreat)|Bartender]]",
+    "page_name_sub": "Nemus Retreat (pub)",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Nemus Retreat]]",
+    "specialty": "Pub"
+  },
+  {
+    "page_name": "Events Reward Shop",
+    "is_members_only": true,
+    "owner": "[[Nevet]]",
+    "page_name_sub": "Events Reward Shop",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Varrock Square]]",
+    "specialty": "[[Community Event]] rewards"
+  },
+  {
+    "page_name": "Seb's Shipyard Supplies",
+    "is_members_only": true,
+    "owner": "[[Shipwright Seb]]",
+    "page_name_sub": "Seb's Shipyard Supplies",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Shipyard]]",
+    "specialty": "Shipbuilding supplies"
+  },
+  {
+    "page_name": "Port Roberts Cannonball Stall",
+    "is_members_only": true,
+    "owner": "[[Iron Bill]]",
+    "page_name_sub": "Port Roberts Cannonball Stall",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Port Roberts]]",
+    "specialty": "Cannonball stall"
+  },
+  {
+    "page_name": "Elder Coco's Crafting Stall",
+    "is_members_only": true,
+    "owner": "[[Elder Coco]]",
+    "page_name_sub": "Elder Coco's Crafting Stall",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[The Summer Shore]]",
+    "specialty": "Crafting shop"
+  },
+  {
+    "page_name": "Elder Blunn's Spear and Shield Stall",
+    "is_members_only": true,
+    "owner": "[[Elder Blunn]]",
+    "page_name_sub": "Elder Blunn's Spear and Shield Stall",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[The Summer Shore]]",
+    "specialty": "Sword shop"
+  },
+  {
+    "page_name": "Elder Krill's Fishing Stall",
+    "is_members_only": true,
+    "owner": "[[Elder Krill]]",
+    "page_name_sub": "Elder Krill's Fishing Stall",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[The Summer Shore]]",
+    "specialty": "Fishing shop"
+  },
+  {
+    "page_name": "Elder Raley's Herblore Stall",
+    "is_members_only": true,
+    "owner": "[[Mag]]",
+    "page_name_sub": "Elder Raley's Herblore Stall",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[The Summer Shore]]",
+    "specialty": "Herbalist"
+  },
+  {
+    "page_name": "Elder Strom's Hunting Stall",
+    "is_members_only": true,
+    "owner": "[[Elder Strom]]",
+    "page_name_sub": "Elder Strom's Hunting Stall",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[The Summer Shore]]",
+    "specialty": "Hunter shop"
+  },
+  {
+    "page_name": "Elder Reggle's Farming Shop",
+    "is_members_only": true,
+    "owner": "[[Elder Reggle]]",
+    "page_name_sub": "Elder Reggle's Farming Shop",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[The Great Conch]]",
+    "specialty": "Farming shop"
+  },
+  {
+    "page_name": "Durrik's Goods",
+    "is_members_only": true,
+    "owner": "[[Durrik]]",
+    "page_name_sub": "Durrik's Goods",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Deepfin Mine]]",
+    "specialty": "General store"
+  },
+  {
+    "page_name": "Port Roberts Veg Stall",
+    "is_members_only": true,
+    "owner": "[[Marla (Port Roberts)|Marla]]",
+    "page_name_sub": "Port Roberts Veg Stall",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Port Roberts]]",
+    "specialty": "Vegetable shop"
+  },
+  {
+    "page_name": "Port Roberts Ore Stall",
+    "is_members_only": true,
+    "owner": "[[Delf]]",
+    "page_name_sub": "Port Roberts Ore Stall",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Port Roberts]]",
+    "specialty": "Mining shop"
+  },
+  {
+    "page_name": "Port Roberts Fish Stall",
+    "is_members_only": true,
+    "owner": "[[Gregory]]",
+    "page_name_sub": "Port Roberts Fish Stall",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Port Roberts]]",
+    "specialty": "Fishing shop"
+  },
+  {
+    "page_name": "Port Roberts Spice Stall",
+    "is_members_only": true,
+    "owner": "[[Samir]]",
+    "page_name_sub": "Port Roberts Spice Stall",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Port Roberts]]",
+    "specialty": "Spice shop"
+  },
+  {
+    "page_name": "Port Roberts Silver Stall",
+    "is_members_only": true,
+    "owner": "[[Amos]]",
+    "page_name_sub": "Port Roberts Silver Stall",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Port Roberts]]",
+    "specialty": "Silver shop"
+  },
+  {
+    "page_name": "Port Roberts Gem Stall",
+    "is_members_only": true,
+    "owner": "[[Eleanor]]",
+    "page_name_sub": "Port Roberts Gem Stall",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Port Roberts]]",
+    "specialty": "Gem shop"
+  },
+  {
+    "page_name": "Port Roberts Fur Stall",
+    "is_members_only": true,
+    "owner": "[[Perdie]]",
+    "page_name_sub": "Port Roberts Fur Stall",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Port Roberts]]",
+    "specialty": "Furs"
+  },
+  {
+    "page_name": "The Rolling Tide",
+    "is_members_only": true,
+    "owner": "[[Bartender (Port Roberts)]]",
+    "page_name_sub": "The Rolling Tide",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Port Roberts]]",
+    "specialty": "Pub"
+  },
+  {
+    "page_name": "Port Roberts Silk Stall",
+    "is_members_only": true,
+    "owner": "[[Doria]]",
+    "page_name_sub": "Port Roberts Silk Stall",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Port Roberts]]",
+    "specialty": "Silk shop"
+  },
+  {
+    "page_name": "Port Roberts General Store",
+    "is_members_only": true,
+    "owner": "[[Shopkeeper (Port Roberts)]]",
+    "page_name_sub": "Port Roberts General Store",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Port Roberts]]",
+    "specialty": "General store"
+  },
+  {
+    "page_name": "Deepfin Point Ore Exchange",
+    "is_members_only": true,
+    "owner": "[[Korgan]]",
+    "page_name_sub": "Deepfin Point Ore Exchange",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Deepfin Point]]",
+    "specialty": "Mining shop"
+  },
+  {
+    "page_name": "Deepfin Inn",
+    "is_members_only": true,
+    "owner": "[[Brikka]]",
+    "page_name_sub": "Deepfin Inn",
+    "shop_version": "DEFAULT,DEFAULT,DEFAULT",
+    "location": "[[Deepfin Point]]",
+    "specialty": "Pub"
+  }
+]

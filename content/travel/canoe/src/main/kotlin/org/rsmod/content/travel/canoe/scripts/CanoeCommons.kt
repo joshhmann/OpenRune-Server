@@ -1,6 +1,5 @@
 package org.rsmod.content.travel.canoe.scripts
 
-import dev.openrune.definition.type.VarBitType
 import dev.openrune.types.ItemServerType
 import dev.openrune.types.SequenceServerType
 import dev.openrune.types.enums.EnumTypeMap

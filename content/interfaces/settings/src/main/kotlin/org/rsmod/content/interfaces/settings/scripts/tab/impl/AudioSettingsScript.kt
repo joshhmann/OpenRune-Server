@@ -15,7 +15,8 @@ import org.rsmod.game.entity.Player
 import org.rsmod.plugin.scripts.PluginScript
 import org.rsmod.plugin.scripts.ScriptContext
 
-class AudioSettingsScript @Inject constructor(private val musicPlayer: MusicPlayer) : PluginScript() {
+class AudioSettingsScript @Inject constructor(private val musicPlayer: MusicPlayer) :
+    PluginScript() {
 
     internal data class VolumeWithOpArg(val volume: Int, val option: Int) : IfScriptArgs
 
@@ -45,14 +46,13 @@ class AudioSettingsScript @Inject constructor(private val musicPlayer: MusicPlay
 
         onPlayerLogin {
             listOf(
-                "component.settings_side:master_slider_bobble",
-                "component.settings_side:music_slider_bobble",
-                "component.settings_side:sound_slider_bobble",
-                "component.settings_side:areasounds_slider_bobble",
-                "component.settings:settings_clickzone",
-            ).forEach {
-                player.ifSetEvents(it, -1..-1, IfEvent.ScriptTrigger)
-            }
+                    "component.settings_side:master_slider_bobble",
+                    "component.settings_side:music_slider_bobble",
+                    "component.settings_side:sound_slider_bobble",
+                    "component.settings_side:areasounds_slider_bobble",
+                    "component.settings:settings_clickzone",
+                )
+                .forEach { player.ifSetEvents(it, -1..-1, IfEvent.ScriptTrigger) }
         }
 
         onIfOverlayButton("component.settings_side:master_icon") { player.toggleMaster() }
@@ -93,10 +93,11 @@ class AudioSettingsScript @Inject constructor(private val musicPlayer: MusicPlay
     }
 
     private fun Player.toggleMaster() {
-        val volume = when {
-            optionMaster > 0 -> 0
-            else -> UNMUTE_VOLUME
-        }
+        val volume =
+            when {
+                optionMaster > 0 -> 0
+                else -> UNMUTE_VOLUME
+            }
         setMasterVolume(volume, forceMusicResume = volume > 0)
     }
 
@@ -119,10 +120,11 @@ class AudioSettingsScript @Inject constructor(private val musicPlayer: MusicPlay
     }
 
     private fun Player.toggleMusic() {
-        val volume = when {
-            optionMusic > 0 -> 0
-            else -> UNMUTE_VOLUME
-        }
+        val volume =
+            when {
+                optionMusic > 0 -> 0
+                else -> UNMUTE_VOLUME
+            }
         setMusicVolume(volume, forceMusicResume = volume > 0)
     }
 
@@ -145,10 +147,11 @@ class AudioSettingsScript @Inject constructor(private val musicPlayer: MusicPlay
     }
 
     private fun Player.toggleSounds() {
-        val volume = when {
-            optionSounds > 0 -> 0
-            else -> UNMUTE_VOLUME
-        }
+        val volume =
+            when {
+                optionSounds > 0 -> 0
+                else -> UNMUTE_VOLUME
+            }
         setSoundsVolume(volume)
     }
 
@@ -164,10 +167,11 @@ class AudioSettingsScript @Inject constructor(private val musicPlayer: MusicPlay
     }
 
     private fun Player.toggleAreaSounds() {
-        val volume = when {
-            optionAreaSounds > 0 -> 0
-            else -> UNMUTE_VOLUME
-        }
+        val volume =
+            when {
+                optionAreaSounds > 0 -> 0
+                else -> UNMUTE_VOLUME
+            }
         setAreaSoundsVolume(volume)
     }
 

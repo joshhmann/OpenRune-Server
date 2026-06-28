@@ -3,7 +3,6 @@ package org.rsmod.content.other.special.attacks.ranged
 import dev.openrune.rscm.RSCM
 import dev.openrune.rscm.RSCMType
 import dev.openrune.types.ItemServerType
-import dev.openrune.types.aconverted.SpotanimType
 import jakarta.inject.Inject
 import org.rsmod.api.combat.commons.CombatAttack
 import org.rsmod.api.combat.manager.RangedAmmoManager
@@ -76,12 +75,22 @@ class DarkBowSpecialAttack @Inject constructor(private val ammunition: RangedAmm
 
             val descentOfDragons = quiverType.isCategoryType("category.dragon_arrow")
             if (descentOfDragons) {
-                descentOfDragons(target, attack, quiverType, RSCM.getReverseMapping(RSCMType.SPOTANIM, travelSpotanim.id))
+                descentOfDragons(
+                    target,
+                    attack,
+                    quiverType,
+                    RSCM.getReverseMapping(RSCMType.SPOTANIM, travelSpotanim.id),
+                )
                 manager.continueCombat(this, target)
                 return true
             }
 
-            descentOfDarkness(target, attack, quiverType, RSCM.getReverseMapping(RSCMType.SPOTANIM, travelSpotanim.id))
+            descentOfDarkness(
+                target,
+                attack,
+                quiverType,
+                RSCM.getReverseMapping(RSCMType.SPOTANIM, travelSpotanim.id),
+            )
             manager.continueCombat(this, target)
             return true
         }
@@ -96,19 +105,25 @@ class DarkBowSpecialAttack @Inject constructor(private val ammunition: RangedAmm
             anim("seq.human_bow")
             soundSynth("synth.darkbow_doublefire")
             soundSynth("synth.darkbow_shadow_attack")
-            spotanim(RSCM.getReverseMapping(RSCMType.SPOTANIM,launchSpot!!.id), height = 96, slot = constants.spotanim_slot_combat)
+            spotanim(
+                RSCM.getReverseMapping(RSCMType.SPOTANIM, launchSpot!!.id),
+                height = 96,
+                slot = constants.spotanim_slot_combat,
+            )
 
             val descentTravel = "spotanim.darkbow_generic_smoke_arrow_flight"
             val descentImpact = "spotanim.darkbow_smoke_arrow_impact"
             val impactSynth = "synth.darkbow_shadow_impact"
 
             manager.spawnProjectile(this, target, descentTravel, "projanim.doublearrow_one")
-            val proj1 = manager.spawnProjectile(this, target, travelSpot, "projanim.doublearrow_one")
+            val proj1 =
+                manager.spawnProjectile(this, target, travelSpot, "projanim.doublearrow_one")
             val clientDelay1 = proj1.clientCycles
             manager.soundArea(target, impactSynth, delay = clientDelay1, radius = 10)
 
             manager.spawnProjectile(this, target, descentTravel, "projanim.doublearrow_two")
-            val proj2 = manager.spawnProjectile(this, target, travelSpot, "projanim.doublearrow_two")
+            val proj2 =
+                manager.spawnProjectile(this, target, travelSpot, "projanim.doublearrow_two")
             val clientDelay2 = proj2.clientCycles
             manager.soundArea(target, impactSynth, delay = clientDelay2, radius = 10)
 
@@ -154,19 +169,25 @@ class DarkBowSpecialAttack @Inject constructor(private val ammunition: RangedAmm
             anim("seq.human_bow")
             soundSynth("synth.darkbow_doublefire")
             soundSynth("synth.darkbow_dragon_attack")
-            spotanim(RSCM.getReverseMapping(RSCMType.SPOTANIM,launchSpot!!.id), height = 96, slot = constants.spotanim_slot_combat)
+            spotanim(
+                RSCM.getReverseMapping(RSCMType.SPOTANIM, launchSpot!!.id),
+                height = 96,
+                slot = constants.spotanim_slot_combat,
+            )
 
             val descentTravel = "spotanim.darkbow_dragon_head_flying_projanim"
             val descentImpact = "spotanim.darkbow_dragon_head_flying_impact_anim"
             val impactSynth = "synth.darkbow_shadow_impact"
 
             manager.spawnProjectile(this, target, descentTravel, "projanim.doublearrow_one")
-            val proj1 = manager.spawnProjectile(this, target, travelSpot, "projanim.doublearrow_one")
+            val proj1 =
+                manager.spawnProjectile(this, target, travelSpot, "projanim.doublearrow_one")
             val clientDelay1 = proj1.clientCycles
             manager.soundArea(target, impactSynth, delay = clientDelay1, radius = 10)
 
             manager.spawnProjectile(this, target, descentTravel, "projanim.doublearrow_two")
-            val proj2 = manager.spawnProjectile(this, target, travelSpot, "projanim.doublearrow_two")
+            val proj2 =
+                manager.spawnProjectile(this, target, travelSpot, "projanim.doublearrow_two")
             val clientDelay2 = proj2.clientCycles
             manager.soundArea(target, impactSynth, delay = clientDelay2, radius = 10)
 

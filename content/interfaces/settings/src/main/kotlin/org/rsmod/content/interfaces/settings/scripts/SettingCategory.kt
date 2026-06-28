@@ -11,15 +11,15 @@ data class SettingCategory(private val struct: StructType) {
     val settings: List<Setting> = populateSettings()
 
     private fun populateSettings(): List<Setting> {
-        val enumId = struct.params?.get(SETTINGS_CATEGORY_SETTINGS_LIST_PARAM) as? Int ?: return emptyList()
+        val enumId =
+            struct.params?.get(SETTINGS_CATEGORY_SETTINGS_LIST_PARAM) as? Int ?: return emptyList()
 
         return enum<Int, Int>(enumId).filterValuesNotNull().values.mapNotNull { settingId ->
             ServerCacheManager.getStruct(settingId)?.let(::Setting)
         }
     }
 
-    override fun toString(): String =
-        "SettingCategory(id=$id, name='$name', settings=$settings)"
+    override fun toString(): String = "SettingCategory(id=$id, name='$name', settings=$settings)"
 
     companion object {
         private const val SETTINGS_CATEGORY_SETTINGS_LIST_PARAM = 745

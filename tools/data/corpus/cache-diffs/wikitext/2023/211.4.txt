@@ -1,0 +1,199 @@
+{{ToC}}
+==Items==
+===New Items===
+{| class="wikitable sortable"
+!colspan='11'|New Items
+|-
+! style=width:15em | Name !! ID !! Members !! Tradeable in GE !! Equipable !! Stackable !! Noteable !! Options !! Placeholder !! Cost !! Weight
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#27830 27830] || No || No || No || No || No ||     Drop || Yes || 1
+|| 0
+|-
+|-
+|}
+===Removed Items===
+{| class="wikitable sortable"
+!colspan='2'|Removed Items
+|-
+! style=width:15em | Name !! ID
+|-
+|-
+|}
+===Diff Items===
+{| class="wikitable sortable"
+!colspan='5'|Diff Items
+|-
+! style=width:15em | Name !! ID !! Key !! Previous Value !! New Value
+|-
+|rowspan="2"|[[Bob the cat slippers]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#27806 27806]
+|-
+|placeholderId || 27807 || -1
+|-
+|rowspan="14"|[[Null]]
+|rowspan="14"|[https://chisel.weirdgloop.org/moid/item_id.html#27807 27807]
+|-
+|name || [[null]] || [[Null]]
+|-
+| xan2d || 0 || 168
+|-
+| yan2d || 0 || 126
+|-
+| inventoryModel || 0 || 47506
+|-
+| wearPos1 || 0 || 10
+|-
+| zoom2d || 2000 || 848
+|-
+| xOffset2d || 0 || 4
+|-
+| yOffset2d || 0 || -12
+|-
+| maleModel0 || -1 || 47435
+|-
+| femaleModel0 || -1 || 47442
+|-
+| weight || 0 || 200
+|-
+| placeholderId || 27806 || -1
+|-
+| placeholderTemplateId || 14401 || -1
+|-
+|rowspan="2"|[[Dragon candle dagger]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#27810 27810]
+|-
+|category || 25 || 55
+|-
+|rowspan="2"|[[Stray dog plush]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#27816 27816]
+|-
+|placeholderId || 27817 || -1
+|-
+|rowspan="14"|[[Null]]
+|rowspan="14"|[https://chisel.weirdgloop.org/moid/item_id.html#27817 27817]
+|-
+|name || [[null]] || [[Null]]
+|-
+| xan2d || 0 || 121
+|-
+| yan2d || 0 || 1811
+|-
+| inventoryModel || 0 || 47518
+|-
+| wearPos1 || 0 || 5
+|-
+| zoom2d || 2000 || 888
+|-
+| xOffset2d || 0 || -2
+|-
+| yOffset2d || 0 || -9
+|-
+| maleModel0 || -1 || 47443
+|-
+| femaleModel0 || -1 || 47449
+|-
+| weight || 0 || 1
+|-
+| placeholderId || 27816 || -1
+|-
+| placeholderTemplateId || 14401 || -1
+|-
+|rowspan="2"|[[Gnome child plush]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#27818 27818]
+|-
+|placeholderId || 27819 || -1
+|-
+|rowspan="15"|[[Null]]
+|rowspan="15"|[https://chisel.weirdgloop.org/moid/item_id.html#27819 27819]
+|-
+|name || [[null]] || [[Null]]
+|-
+| xan2d || 0 || 162
+|-
+| yan2d || 0 || 1885
+|-
+| zan2d || 0 || 2027
+|-
+| inventoryModel || 0 || 47519
+|-
+| wearPos1 || 0 || 5
+|-
+| zoom2d || 2000 || 888
+|-
+| xOffset2d || 0 || 1
+|-
+| yOffset2d || 0 || -4
+|-
+| maleModel0 || -1 || 47447
+|-
+| femaleModel0 || -1 || 47448
+|-
+| weight || 0 || 1
+|-
+| placeholderId || 27818 || -1
+|-
+| placeholderTemplateId || 14401 || -1
+|-
+|rowspan="2"|[[Oldschool jumper]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#27822 27822]
+|-
+|placeholderId || -1 || 27830
+|-
+|}
+
+==Non-Player Characters==
+===New NPCs===
+{| class="wikitable sortable"
+!colspan='4'|New NPCs
+|-
+! style=width:15em | Name !! ID !! Combat Level !! Options
+|-
+|-
+|}
+===Removed NPCs===
+{| class="wikitable sortable"
+!colspan='2'|Removed NPCs
+|-
+! style=width:15em | Name !! ID
+|-
+|-
+|}
+===Diff NPCs===
+{| class="wikitable sortable"
+!colspan='5'|Diff NPCs
+|-
+! style=width:15em | Name !! ID !! Key !! Previous Value !! New Value
+|-
+|rowspan="2"|[[Warmhandz]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#12109 12109]
+|-
+|actions || ['Talk to', None, None, None, None] || ['Talk-to', None, None, None, None]
+|-
+|}
+
+==Objects==
+===New Objects=== 
+{| class="wikitable sortable"
+!colspan='3'|New Objects
+|-
+! style=width:15em | Name !! ID !! Options
+|-
+| [[Barrier]] || [https://chisel.weirdgloop.org/moid/object_id.html#47336 47336] || Resign
+|-
+|-
+|}
+===Removed Objects===
+{| class="wikitable sortable"
+!colspan='2'|Removed Objects
+|-
+! style=width:15em | Name !! ID
+|-
+|-
+|}
+===Diff Objects===
+{| class="wikitable sortable"
+!colspan='5'|Diff Objects
+|-
+! style=width:15em | Name !! ID !! Key !! Previous Value !! New Value
+|-
+|}

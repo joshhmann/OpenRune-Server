@@ -11,8 +11,7 @@ import java.util.concurrent.ConcurrentHashMap
 
 enum class CacheKind {
     LIVE,
-    SERVER,
-    ;
+    SERVER;
 
     companion object {
         fun parse(value: String): CacheKind? =
@@ -33,8 +32,7 @@ enum class CacheSearchType(val key: String) {
     Varp("varp"),
     DbRow("dbrow"),
     DbTable("dbtable"),
-    All("all"),
-    ;
+    All("all");
 
     companion object {
         fun parse(value: String): CacheSearchType? {
@@ -66,10 +64,7 @@ class CacheTool {
         val truncated: Boolean,
     )
 
-    internal data class IndexedHit(
-        val hit: SearchHit,
-        val searchBlob: String,
-    )
+    internal data class IndexedHit(val hit: SearchHit, val searchBlob: String)
 
     internal data class Snapshot(
         val revision: Int,
@@ -82,12 +77,20 @@ class CacheTool {
         snapshots.clear()
     }
 
-    fun search(cacheKind: CacheKind, type: CacheSearchType, query: String?, id: Int?, limit: Int): SearchResult {
+    fun search(
+        cacheKind: CacheKind,
+        type: CacheSearchType,
+        query: String?,
+        id: Int?,
+        limit: Int,
+    ): SearchResult {
         val root = resolveRoot(cacheKind)
         val revision = resolveRevision(root)
-        val snapshot = snapshots.compute(cacheKind) { _, existing ->
-            if (existing?.revision == revision) existing else buildSnapshot(cacheKind, root, revision)
-        } ?: error("Failed to load cache snapshot.")
+        val snapshot =
+            snapshots.compute(cacheKind) { _, existing ->
+                if (existing?.revision == revision) existing
+                else buildSnapshot(cacheKind, root, revision)
+            } ?: error("Failed to load cache snapshot.")
 
         return searchSnapshot(snapshot, cacheKind, type, query, id, limit)
     }
@@ -113,7 +116,8 @@ class CacheTool {
         val filtered =
             pool.filter { indexed ->
                 val byId = id == null || indexed.hit.id == id
-                val byQuery = normalizedQuery.isBlank() || indexed.searchBlob.contains(normalizedQuery)
+                val byQuery =
+                    normalizedQuery.isBlank() || indexed.searchBlob.contains(normalizedQuery)
                 byId && byQuery
             }
 
@@ -144,12 +148,15 @@ class CacheTool {
             byType[CacheSearchType.Anim] = indexGeneric(CacheSearchType.Anim, provider.anims)
             byType[CacheSearchType.Enum] = indexGeneric(CacheSearchType.Enum, provider.enums)
             byType[CacheSearchType.Struct] = indexGeneric(CacheSearchType.Struct, provider.structs)
-            byType[CacheSearchType.HealthBar] = indexGeneric(CacheSearchType.HealthBar, provider.healthBars)
-            byType[CacheSearchType.HitSplat] = indexGeneric(CacheSearchType.HitSplat, provider.hitsplats)
+            byType[CacheSearchType.HealthBar] =
+                indexGeneric(CacheSearchType.HealthBar, provider.healthBars)
+            byType[CacheSearchType.HitSplat] =
+                indexGeneric(CacheSearchType.HitSplat, provider.hitsplats)
             byType[CacheSearchType.Varbit] = indexGeneric(CacheSearchType.Varbit, provider.varbits)
             byType[CacheSearchType.Varp] = indexGeneric(CacheSearchType.Varp, provider.varps)
             byType[CacheSearchType.DbRow] = indexGeneric(CacheSearchType.DbRow, provider.dbrows)
-            byType[CacheSearchType.DbTable] = indexGeneric(CacheSearchType.DbTable, provider.dbtables)
+            byType[CacheSearchType.DbTable] =
+                indexGeneric(CacheSearchType.DbTable, provider.dbtables)
 
             return Snapshot(revision = revision, byType = byType)
         } finally {
@@ -171,14 +178,25 @@ class CacheTool {
             indexed(CacheSearchType.Item, id, name, summary, describeValue(item))
         }
 
-    private fun <T : Any> indexGeneric(type: CacheSearchType, values: Map<Int, T>): List<IndexedHit> =
+    private fun <T : Any> indexGeneric(
+        type: CacheSearchType,
+        values: Map<Int, T>,
+    ): List<IndexedHit> =
         values.map { (id, value) ->
-            val extractedName = runCatching { value.javaClass.getMethod("getName").invoke(value) as? String }.getOrNull()
+            val extractedName =
+                runCatching { value.javaClass.getMethod("getName").invoke(value) as? String }
+                    .getOrNull()
             val name = extractedName?.ifBlank { null } ?: "(${type.key} $id)"
             indexed(type, id, name, value.toString(), describeValue(value))
         }
 
-    internal fun indexed(type: CacheSearchType, id: Int, name: String, summary: String, data: String): IndexedHit {
+    internal fun indexed(
+        type: CacheSearchType,
+        id: Int,
+        name: String,
+        summary: String,
+        data: String,
+    ): IndexedHit {
         val hit = SearchHit(type = type.key, id = id, name = name, summary = summary, data = data)
         val searchBlob = "${hit.type} ${hit.id} ${hit.name} ${hit.summary}".lowercase()
         return IndexedHit(hit = hit, searchBlob = searchBlob)
@@ -194,9 +212,10 @@ class CacheTool {
                 }
                 val extracted =
                     runCatching {
-                        field.isAccessible = true
-                        field.get(value)
-                    }.getOrNull()
+                            field.isAccessible = true
+                            field.get(value)
+                        }
+                        .getOrNull()
                 fields.putIfAbsent(field.name, formatFieldValue(extracted))
             }
             type = type.superclass
@@ -222,7 +241,10 @@ class CacheTool {
             is CharArray -> value.joinToString(prefix = "[", postfix = "]")
             is Array<*> -> value.joinToString(prefix = "[", postfix = "]") { formatScalar(it) }
             is Iterable<*> -> value.joinToString(prefix = "[", postfix = "]") { formatScalar(it) }
-            is Map<*, *> -> value.entries.joinToString(prefix = "{", postfix = "}") { "${formatScalar(it.key)}=${formatScalar(it.value)}" }
+            is Map<*, *> ->
+                value.entries.joinToString(prefix = "{", postfix = "}") {
+                    "${formatScalar(it.key)}=${formatScalar(it.value)}"
+                }
             else -> formatScalar(value)
         }
     }
@@ -233,7 +255,9 @@ class CacheTool {
         }
         return when (value) {
             is String -> value
-            is Number, is Boolean, is Char -> value.toString()
+            is Number,
+            is Boolean,
+            is Char -> value.toString()
             else -> value.toString()
         }
     }
@@ -243,8 +267,7 @@ class CacheTool {
         require(Files.isRegularFile(gameFile)) { "Unable to find game.yml at: $gameFile" }
 
         val revisionLine =
-            Files.readAllLines(gameFile)
-                .firstOrNull { it.trimStart().startsWith("revision:") }
+            Files.readAllLines(gameFile).firstOrNull { it.trimStart().startsWith("revision:") }
                 ?: error("No revision line found in game.yml")
 
         val raw = revisionLine.substringAfter("revision:").trim().trim('"')
@@ -278,7 +301,7 @@ class CacheTool {
         }
 
         throw IllegalStateException(
-            "Unable to locate repository root containing '.data/cache/${cacheKind.name}'. Set RSPS_ROOT.",
+            "Unable to locate repository root containing '.data/cache/${cacheKind.name}'. Set RSPS_ROOT."
         )
     }
 

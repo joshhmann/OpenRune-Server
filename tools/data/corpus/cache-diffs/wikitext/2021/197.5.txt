@@ -1,0 +1,619 @@
+{{ToC}}
+==Items==
+{| class="wikitable sortable"
+!colspan='5'|Items
+|-
+! Name !! ID !! Key !! Previous Value !! Changed into
+|-
+|rowspan="6"|[[Slayer helmet]]
+|rowspan="6"|11864
+|-
+|inventoryModel || 36005 || 42707
+|-
+| maleModel0 || 36006 || 42679
+|-
+| maleHeadModel || 36008 || 42699
+|-
+| femaleModel0 || 36007 || 42686
+|-
+| femaleHeadModel || 36008 || 42699
+|-
+|rowspan="6"|[[Slayer helmet (i)]]
+|rowspan="6"|11865
+|-
+|inventoryModel || 16269 || 42702
+|-
+| maleModel0 || 16274 || 42677
+|-
+| maleHeadModel || 16277 || 42696
+|-
+| femaleModel0 || 16276 || 42688
+|-
+| femaleHeadModel || 16278 || 42696
+|-
+|rowspan="6"|[[Black slayer helmet]]
+|rowspan="6"|19639
+|-
+|inventoryModel || 31545 || 42700
+|-
+| maleModel0 || 31549 || 42676
+|-
+| maleHeadModel || 31558 || 42695
+|-
+| femaleModel0 || 31552 || 42684
+|-
+| femaleHeadModel || 31558 || 42695
+|-
+|rowspan="6"|[[Black slayer helmet (i)]]
+|rowspan="6"|19641
+|-
+|inventoryModel || 31545 || 42700
+|-
+| maleModel0 || 31549 || 42676
+|-
+| maleHeadModel || 31558 || 42695
+|-
+| femaleModel0 || 31552 || 42684
+|-
+| femaleHeadModel || 31558 || 42695
+|-
+|rowspan="6"|[[Green slayer helmet]]
+|rowspan="6"|19643
+|-
+|inventoryModel || 31546 || 42705
+|-
+| maleModel0 || 31548 || 42681
+|-
+| maleHeadModel || 31557 || 42697
+|-
+| femaleModel0 || 31553 || 42682
+|-
+| femaleHeadModel || 31557 || 42697
+|-
+|rowspan="6"|[[Green slayer helmet (i)]]
+|rowspan="6"|19645
+|-
+|inventoryModel || 31546 || 42705
+|-
+| maleModel0 || 31548 || 42681
+|-
+| maleHeadModel || 31557 || 42697
+|-
+| femaleModel0 || 31553 || 42682
+|-
+| femaleHeadModel || 31557 || 42697
+|-
+|rowspan="6"|[[Red slayer helmet]]
+|rowspan="6"|19647
+|-
+|inventoryModel || 31547 || 42708
+|-
+| maleModel0 || 31550 || 42674
+|-
+| maleHeadModel || 31556 || 42694
+|-
+| femaleModel0 || 31551 || 42689
+|-
+| femaleHeadModel || 31556 || 42694
+|-
+|rowspan="6"|[[Red slayer helmet (i)]]
+|rowspan="6"|19649
+|-
+|inventoryModel || 31547 || 42708
+|-
+| maleModel0 || 31550 || 42674
+|-
+| maleHeadModel || 31556 || 42694
+|-
+| femaleModel0 || 31551 || 42689
+|-
+| femaleHeadModel || 31556 || 42694
+|-
+|rowspan="6"|[[Purple slayer helmet]]
+|rowspan="6"|21264
+|-
+|inventoryModel || 32991 || 42704
+|-
+| maleModel0 || 32992 || 42673
+|-
+| maleHeadModel || 32995 || 42692
+|-
+| femaleModel0 || 32993 || 42685
+|-
+| femaleHeadModel || 32995 || 42692
+|-
+|rowspan="6"|[[Purple slayer helmet (i)]]
+|rowspan="6"|21266
+|-
+|inventoryModel || 32991 || 42704
+|-
+| maleModel0 || 32992 || 42673
+|-
+| maleHeadModel || 32995 || 42692
+|-
+| femaleModel0 || 32993 || 42685
+|-
+| femaleHeadModel || 32995 || 42692
+|-
+|rowspan="6"|[[Turquoise slayer helmet]]
+|rowspan="6"|21888
+|-
+|inventoryModel || 34619 || 42701
+|-
+| maleModel0 || 34626 || 42680
+|-
+| maleHeadModel || 35090 || 42691
+|-
+| femaleModel0 || 34638 || 42690
+|-
+| femaleHeadModel || 35090 || 42691
+|-
+|rowspan="6"|[[Turquoise slayer helmet (i)]]
+|rowspan="6"|21890
+|-
+|inventoryModel || 34619 || 42701
+|-
+| maleModel0 || 34626 || 42680
+|-
+| maleHeadModel || 35090 || 42691
+|-
+| femaleModel0 || 34638 || 42690
+|-
+| femaleHeadModel || 35090 || 42691
+|-
+|rowspan="6"|[[Hydra slayer helmet]]
+|rowspan="6"|23073
+|-
+|inventoryModel || 36941 || 42703
+|-
+| maleModel0 || 36949 || 42675
+|-
+| maleHeadModel || 36954 || 42693
+|-
+| femaleModel0 || 36950 || 42687
+|-
+| femaleHeadModel || 36954 || 42693
+|-
+|rowspan="6"|[[Hydra slayer helmet (i)]]
+|rowspan="6"|23075
+|-
+|inventoryModel || 36941 || 42703
+|-
+| maleModel0 || 36949 || 42675
+|-
+| maleHeadModel || 36954 || 42693
+|-
+| femaleModel0 || 36950 || 42687
+|-
+| femaleHeadModel || 36954 || 42693
+|-
+|rowspan="6"|[[Twisted slayer helmet]]
+|rowspan="6"|24370
+|-
+|inventoryModel || 38958 || 42706
+|-
+| maleModel0 || 38960 || 42678
+|-
+| maleHeadModel || 38997 || 42698
+|-
+| femaleModel0 || 38970 || 42683
+|-
+| femaleHeadModel || 38997 || 42698
+|-
+|rowspan="6"|[[Twisted slayer helmet (i)]]
+|rowspan="6"|24444
+|-
+|inventoryModel || 38958 || 42706
+|-
+| maleModel0 || 38960 || 42678
+|-
+| maleHeadModel || 38997 || 42698
+|-
+| femaleModel0 || 38970 || 42683
+|-
+| femaleHeadModel || 38997 || 42698
+|-
+|rowspan="6"|[[Slayer helmet (i)]]
+|rowspan="6"|25177
+|-
+|inventoryModel || 16269 || 42702
+|-
+| maleModel0 || 16274 || 42677
+|-
+| maleHeadModel || 16277 || 42696
+|-
+| femaleModel0 || 16276 || 42688
+|-
+| femaleHeadModel || 16278 || 42696
+|-
+|rowspan="6"|[[Black slayer helmet (i)]]
+|rowspan="6"|25179
+|-
+|inventoryModel || 31545 || 42700
+|-
+| maleModel0 || 31549 || 42676
+|-
+| maleHeadModel || 31558 || 42695
+|-
+| femaleModel0 || 31552 || 42684
+|-
+| femaleHeadModel || 31558 || 42695
+|-
+|rowspan="6"|[[Green slayer helmet (i)]]
+|rowspan="6"|25181
+|-
+|inventoryModel || 31546 || 42705
+|-
+| maleModel0 || 31548 || 42681
+|-
+| maleHeadModel || 31557 || 42697
+|-
+| femaleModel0 || 31553 || 42682
+|-
+| femaleHeadModel || 31557 || 42697
+|-
+|rowspan="6"|[[Red slayer helmet (i)]]
+|rowspan="6"|25183
+|-
+|inventoryModel || 31547 || 42708
+|-
+| maleModel0 || 31550 || 42674
+|-
+| maleHeadModel || 31556 || 42694
+|-
+| femaleModel0 || 31551 || 42689
+|-
+| femaleHeadModel || 31556 || 42694
+|-
+|rowspan="6"|[[Purple slayer helmet (i)]]
+|rowspan="6"|25185
+|-
+|inventoryModel || 32991 || 42704
+|-
+| maleModel0 || 32992 || 42673
+|-
+| maleHeadModel || 32995 || 42692
+|-
+| femaleModel0 || 32993 || 42685
+|-
+| femaleHeadModel || 32995 || 42692
+|-
+|rowspan="6"|[[Turquoise slayer helmet (i)]]
+|rowspan="6"|25187
+|-
+|inventoryModel || 34619 || 42701
+|-
+| maleModel0 || 34626 || 42680
+|-
+| maleHeadModel || 35090 || 42691
+|-
+| femaleModel0 || 34638 || 42690
+|-
+| femaleHeadModel || 35090 || 42691
+|-
+|rowspan="6"|[[Hydra slayer helmet (i)]]
+|rowspan="6"|25189
+|-
+|inventoryModel || 36941 || 42703
+|-
+| maleModel0 || 36949 || 42675
+|-
+| maleHeadModel || 36954 || 42693
+|-
+| femaleModel0 || 36950 || 42687
+|-
+| femaleHeadModel || 36954 || 42693
+|-
+|rowspan="6"|[[Twisted slayer helmet (i)]]
+|rowspan="6"|25191
+|-
+|inventoryModel || 38958 || 42706
+|-
+| maleModel0 || 38960 || 42678
+|-
+| maleHeadModel || 38997 || 42698
+|-
+| femaleModel0 || 38970 || 42683
+|-
+| femaleHeadModel || 38997 || 42698
+|-
+|}
+
+==Non-Player Characters==
+{| class="wikitable sortable"
+!colspan='5'|Non-Player Characters
+|-
+! Name !! ID !! Key !! Previous Value !! Changed into
+|-
+| [[Dusty Aliv]] || 11161 || colspan = "4" | New ID
+|-
+|}
+
+==Objects==
+{| class="wikitable sortable"
+!colspan='5'|Objects
+|-
+! Name !! ID !! Key !! Previous Value !! Changed into
+|-
+| [[null]] || 42488 || colspan = "4" | New ID
+|-
+| [[null]] || 42489 || colspan = "4" | New ID
+|-
+| [[null]] || 42490 || colspan = "4" | New ID
+|-
+| [[null]] || 42491 || colspan = "4" | New ID
+|-
+| [[null]] || 42492 || colspan = "4" | New ID
+|-
+| [[null]] || 42493 || colspan = "4" | New ID
+|-
+| [[null]] || 42494 || colspan = "4" | New ID
+|-
+| [[null]] || 42495 || colspan = "4" | New ID
+|-
+| [[null]] || 42496 || colspan = "4" | New ID
+|-
+| [[null]] || 42497 || colspan = "4" | New ID
+|-
+| [[null]] || 42498 || colspan = "4" | New ID
+|-
+| [[null]] || 42499 || colspan = "4" | New ID
+|-
+| [[null]] || 42500 || colspan = "4" | New ID
+|-
+| [[null]] || 42501 || colspan = "4" | New ID
+|-
+| [[null]] || 42502 || colspan = "4" | New ID
+|-
+| [[null]] || 42503 || colspan = "4" | New ID
+|-
+| [[null]] || 42504 || colspan = "4" | New ID
+|-
+| [[null]] || 42505 || colspan = "4" | New ID
+|-
+| [[Tunnel]] || 42506 || colspan = "4" | New ID
+|-
+| [[Tunnel]] || 42507 || colspan = "4" | New ID
+|-
+| [[Rocks]] || 42508 || colspan = "4" | New ID
+|-
+| [[Rocks]] || 42509 || colspan = "4" | New ID
+|-
+| [[Rocks]] || 42510 || colspan = "4" | New ID
+|-
+| [[Rocks]] || 42511 || colspan = "4" | New ID
+|-
+| [[Rocks]] || 42512 || colspan = "4" | New ID
+|-
+| [[Rocks]] || 42513 || colspan = "4" | New ID
+|-
+|rowspan="3"|[[null]]
+|rowspan="3"|1417
+|-
+|ambient || 0 || 15
+|-
+| contrast || 0 || 375
+|-
+|rowspan="3"|[[null]]
+|rowspan="3"|1434
+|-
+|ambient || 0 || 15
+|-
+| contrast || 0 || 375
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|1489
+|-
+|contrast || 0 || 500
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|1490
+|-
+|contrast || 0 || 500
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|1491
+|-
+|contrast || 0 || 500
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|1492
+|-
+|contrast || 0 || 500
+|-
+|rowspan="3"|[[null]]
+|rowspan="3"|1493
+|-
+|ambient || 50 || 20
+|-
+| contrast || 2500 || 500
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|1494
+|-
+|contrast || 0 || 500
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|1495
+|-
+|contrast || 0 || 500
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|6417
+|-
+|contrast || 0 || 500
+|-
+|rowspan="2"|[[Sacrificial boat]]
+|rowspan="2"|10068
+|-
+|actions || ['Board', None, None, None, None] || ['Board', 'Quick-Board', None, None, None]
+|-
+|rowspan="3"|[[null]]
+|rowspan="3"|10588
+|-
+|ambient || 0 || 15
+|-
+| contrast || 0 || 375
+|-
+|rowspan="3"|[[null]]
+|rowspan="3"|10589
+|-
+|ambient || 0 || 15
+|-
+| contrast || 0 || 375
+|-
+|rowspan="3"|[[null]]
+|rowspan="3"|10590
+|-
+|ambient || 20 || 15
+|-
+| contrast || 0 || 375
+|-
+|rowspan="3"|[[null]]
+|rowspan="3"|10591
+|-
+|ambient || 20 || 15
+|-
+| contrast || 0 || 375
+|-
+|rowspan="3"|[[null]]
+|rowspan="3"|10592
+|-
+|ambient || 0 || 15
+|-
+| contrast || 0 || 375
+|-
+|rowspan="3"|[[null]]
+|rowspan="3"|10593
+|-
+|ambient || 0 || 15
+|-
+| contrast || 0 || 375
+|-
+|rowspan="3"|[[null]]
+|rowspan="3"|10594
+|-
+|ambient || 0 || 15
+|-
+| contrast || 0 || 375
+|-
+|rowspan="3"|[[Icy Cavern]]
+|rowspan="3"|10595
+|-
+|ambient || 0 || 15
+|-
+| contrast || 0 || 375
+|-
+|rowspan="3"|[[Icy Cavern]]
+|rowspan="3"|10596
+|-
+|ambient || 0 || 15
+|-
+| contrast || 0 || 375
+|-
+|rowspan="3"|[[null]]
+|rowspan="3"|10597
+|-
+|ambient || 0 || 15
+|-
+| contrast || 0 || 375
+|-
+|rowspan="3"|[[null]]
+|rowspan="3"|10598
+|-
+|ambient || 0 || 15
+|-
+| contrast || 0 || 375
+|-
+|rowspan="3"|[[null]]
+|rowspan="3"|10599
+|-
+|ambient || 0 || 15
+|-
+| contrast || 0 || 375
+|-
+|rowspan="3"|[[null]]
+|rowspan="3"|10600
+|-
+|ambient || 0 || 15
+|-
+| contrast || 0 || 375
+|-
+|rowspan="3"|[[null]]
+|rowspan="3"|10601
+|-
+|ambient || 0 || 15
+|-
+| contrast || 0 || 375
+|-
+|rowspan="3"|[[Rockslide]]
+|rowspan="3"|11190
+|-
+|ambient || 0 || 15
+|-
+| contrast || 0 || 375
+|-
+|rowspan="3"|[[Rockslide]]
+|rowspan="3"|11191
+|-
+|ambient || 0 || 15
+|-
+| contrast || 0 || 375
+|-
+|rowspan="3"|[[Rockslide]]
+|rowspan="3"|11192
+|-
+|ambient || 0 || 15
+|-
+| contrast || 0 || 375
+|-
+|rowspan="3"|[[Rockslide]]
+|rowspan="3"|11193
+|-
+|ambient || 0 || 15
+|-
+| contrast || 0 || 375
+|-
+|rowspan="3"|[[null]]
+|rowspan="3"|11194
+|-
+|ambient || 0 || 15
+|-
+| contrast || 0 || 375
+|-
+|rowspan="3"|[[null]]
+|rowspan="3"|11195
+|-
+|ambient || 0 || 15
+|-
+| contrast || 0 || 375
+|-
+|rowspan="3"|[[Stalagmite]]
+|rowspan="3"|12575
+|-
+|ambient || 0 || 15
+|-
+| contrast || 0 || 375
+|-
+|rowspan="3"|[[Stalagmite]]
+|rowspan="3"|12576
+|-
+|ambient || 0 || 15
+|-
+| contrast || 0 || 375
+|-
+|rowspan="3"|[[Stalactite]]
+|rowspan="3"|12577
+|-
+|ambient || 0 || 15
+|-
+| contrast || 0 || 375
+|-
+|rowspan="3"|[[Stalagmite]]
+|rowspan="3"|12578
+|-
+|ambient || 0 || 15
+|-
+| contrast || 0 || 375
+|-
+|}

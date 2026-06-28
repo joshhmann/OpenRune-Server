@@ -1,0 +1,108 @@
+{| class="wikitable sortable"
+!colspan="5"|Items
+|-
+! Name !! ID !! Key !! Previous Value !! Changed into
+|-
+| [[Ornate undead combat dummy]] || 25154 || NEW ID || NEW ID || NEW ID
+|-
+| [[Decorative boots (broken)]] || 25155 || NEW ID || NEW ID || NEW ID
+|-
+| [[null]] || 25156 || NEW ID || NEW ID || NEW ID
+|-
+| [[Decorative full helm (broken)]] || 25157 || NEW ID || NEW ID || NEW ID
+|-
+| [[null]] || 25158 || NEW ID || NEW ID || NEW ID
+|-
+| [[Castlewars brew(4)]] || 25159 || NEW ID || NEW ID || NEW ID
+|-
+| [[Castlewars brew(3)]] || 25160 || NEW ID || NEW ID || NEW ID
+|-
+| [[Castlewars brew(2)]] || 25161 || NEW ID || NEW ID || NEW ID
+|-
+| [[Castlewars brew(1)]] || 25162 || NEW ID || NEW ID || NEW ID
+|-
+| [[Decorative boots]] || 25163 || NEW ID || NEW ID || NEW ID
+|-
+| [[null]] || 25164 || NEW ID || NEW ID || NEW ID
+|-
+| [[Decorative full helm]] || 25165 || NEW ID || NEW ID || NEW ID
+|-
+| [[null]] || 25166 || NEW ID || NEW ID || NEW ID
+|-
+| [[Decorative boots]] || 25167 || NEW ID || NEW ID || NEW ID
+|-
+| [[null]] || 25168 || NEW ID || NEW ID || NEW ID
+|-
+| [[Decorative full helm]] || 25169 || NEW ID || NEW ID || NEW ID
+|-
+| [[null]] || 25170 || NEW ID || NEW ID || NEW ID
+|-
+| [[Decorative boots]] || 25171 || NEW ID || NEW ID || NEW ID
+|-
+| [[null]] || 25172 || NEW ID || NEW ID || NEW ID
+|-
+| [[Decorative boots (l)]] || 25173 || NEW ID || NEW ID || NEW ID
+|-
+| [[Decorative full helm]] || 25174 || NEW ID || NEW ID || NEW ID
+|-
+| [[null]] || 25175 || NEW ID || NEW ID || NEW ID
+|-
+| [[Decorative full helm (l)]] || 25176 || NEW ID || NEW ID || NEW ID
+|-
+|}
+
+{| class="wikitable sortable"
+!colspan="5"|Non-Player Characters
+|-
+! Name !! ID !! Key !! Previous Value !! Changed into
+|-
+| [[Ornate undead combat dummy]] || 10507 || NEW ID || NEW ID || NEW ID
+|-
+| [[Ornate wilderness combat dummy]] || 10508 || NEW ID || NEW ID || NEW ID
+|-
+| [[Ornate kalphite combat dummy]] || 10509 || NEW ID || NEW ID || NEW ID
+|-
+| [[Ornate kurask combat dummy]] || 10510 || NEW ID || NEW ID || NEW ID
+|-
+| [[Ornate undead combat dummy]] || 10511 || NEW ID || NEW ID || NEW ID
+|-
+| [[Ornate undead combat dummy]] || 10512 || NEW ID || NEW ID || NEW ID
+|-
+| [[Ornate combat dummy]] || 8598 || NEW ID || NEW ID || NEW ID
+|-
+| [[Undead Combat dummy]] || 7413 || actions || [None, 'Attack', 'Detach', None, 'Remove'] || [None, 'Attack', 'Detach', 'Upgrade', 'Remove']
+|-
+| [[Peter]] || 7772 || actions || ['Talk to', None, None, None, None] || ['Talk to', None, 'Toggle Fossils', None, None]
+|-
+|}
+
+{| class="wikitable sortable"
+!colspan="5"|Objects
+|-
+! Name !! ID !! Key !! Previous Value !! Changed into
+|-
+| [[Ornate vampyre combat dummy]] || 40430 || NEW ID || NEW ID || NEW ID
+|-
+| [[Ornate dragon combat dummy]] || 40431 || NEW ID || NEW ID || NEW ID
+|-
+| [[Table]] || 40432 || NEW ID || NEW ID || NEW ID
+|-
+| [[Ornate combat dummy]] || 9354 || NEW ID || NEW ID || NEW ID
+|-
+| [[Ornate undead combat dummy]] || 9355 || NEW ID || NEW ID || NEW ID
+|-
+| [[Ornate wilderness combat dummy]] || 9356 || NEW ID || NEW ID || NEW ID
+|-
+| [[Ornate kalphite combat dummy]] || 9357 || NEW ID || NEW ID || NEW ID
+|-
+| [[Ornate kurask combat dummy]] || 9358 || NEW ID || NEW ID || NEW ID
+|-
+| [[Lever]] || 4959 || actions || [None, None, None, None, None] || ['Pull', None, None, None, None]
+|-
+| [[Lever]] || 4960 || actions || [None, None, None, None, None] || ['Pull', None, None, None, None]
+|-
+| [[Lever]] || 4961 || actions || [None, None, None, None, None] || ['Pull', None, None, None, None]
+|-
+| [[Undead combat dummy]] || 29337 || actions || ['Attach', None, None, None, 'Remove'] || ['Attach', None, None, 'Upgrade', 'Remove']
+|-
+|}

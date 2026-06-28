@@ -1,0 +1,1631 @@
+{{ToC}}
+==Items==
+===New Items===
+{| class="wikitable sortable"
+!colspan='11'|New Items
+|-
+! style=width:15em | Name !! ID !! Members !! Tradeable in GE !! Equipable !! Stackable !! Noteable !! Options !! Placeholder !! Cost !! Weight
+|-
+|-
+|}
+===Removed Items===
+{| class="wikitable sortable"
+!colspan='2'|Removed Items
+|-
+! style=width:15em | Name !! ID
+|-
+|-
+|}
+===Diff Items===
+{| class="wikitable sortable"
+!colspan='5'|Diff Items
+|-
+! style=width:15em | Name !! ID !! Key !! Previous Value !! New Value
+|-
+|rowspan="13"|[[Null]]
+|rowspan="13"|[https://chisel.weirdgloop.org/moid/item_id.html#10639 10639]
+|-
+|name || [[Sarachnis chitin]] || [[Null]]
+|-
+| xan2d || 290 || 572
+|-
+| yan2d || 1311 || 0
+|-
+| stackable || 1 || 0
+|-
+| inventoryModel || 47492 || 2521
+|-
+| members || True || False
+|-
+| zoom2d || 1364 || 1940
+|-
+| xOffset2d || -4 || 0
+|-
+| yOffset2d || 0 || 1
+|-
+| interfaceOptions || ['Check-Progress', None, None, None, 'Destroy'] || ['Wear', None, None, None, 'Drop']
+|-
+| weight || 0 || 9071
+|-
+| category || 1765 || 15
+|-
+|rowspan="14"|[[Null]]
+|rowspan="14"|[https://chisel.weirdgloop.org/moid/item_id.html#10641 10641]
+|-
+|name || [[Vampyric essence]] || [[Null]]
+|-
+| xan2d || 183 || 572
+|-
+| yan2d || 54 || 0
+|-
+| stackable || 1 || 0
+|-
+| inventoryModel || 47096 || 2521
+|-
+| members || True || False
+|-
+| zoom2d || 1020 || 1940
+|-
+| xOffset2d || 3 || 0
+|-
+| yOffset2d || -19 || 1
+|-
+| ambient || 40 || 0
+|-
+| interfaceOptions || ['Check-Progress', None, None, None, 'Destroy'] || ['Wear', None, None, None, 'Drop']
+|-
+| weight || 0 || 9071
+|-
+| category || 1765 || 15
+|-
+|rowspan="12"|[[Null]]
+|rowspan="12"|[https://chisel.weirdgloop.org/moid/item_id.html#10644 10644]
+|-
+|name || [[Forinthry sigil]] || [[Null]]
+|-
+| xan2d || 267 || 572
+|-
+| yan2d || 216 || 0
+|-
+| stackable || 1 || 0
+|-
+| inventoryModel || 47490 || 2521
+|-
+| members || True || False
+|-
+| zoom2d || 625 || 1940
+|-
+| yOffset2d || -7 || 1
+|-
+| interfaceOptions || ['Check-Progress', None, None, None, 'Destroy'] || ['Wear', None, None, None, 'Drop']
+|-
+| weight || 0 || 9071
+|-
+| category || 1765 || 15
+|-
+|rowspan="13"|[[Null]]
+|rowspan="13"|[https://chisel.weirdgloop.org/moid/item_id.html#10646 10646]
+|-
+|name || [[Muspah spike]] || [[Null]]
+|-
+| xan2d || 213 || 572
+|-
+| yan2d || 1006 || 0
+|-
+| stackable || 1 || 0
+|-
+| inventoryModel || 47513 || 2521
+|-
+| members || True || False
+|-
+| zoom2d || 757 || 1940
+|-
+| xOffset2d || 3 || 0
+|-
+| yOffset2d || 3 || 1
+|-
+| interfaceOptions || ['Check-Progress', None, None, None, 'Destroy'] || ['Wear', None, None, None, 'Drop']
+|-
+| weight || 0 || 9071
+|-
+| category || 1765 || 15
+|-
+|rowspan="12"|[[Null]]
+|rowspan="12"|[https://chisel.weirdgloop.org/moid/item_id.html#10647 10647]
+|-
+|name || [[Zarosian emblem]] || [[Null]]
+|-
+| xan2d || 363 || 572
+|-
+| yan2d || 250 || 0
+|-
+| stackable || 1 || 0
+|-
+| inventoryModel || 2449 || 2521
+|-
+| members || True || False
+|-
+| zoom2d || 1088 || 1940
+|-
+| yOffset2d || 5 || 1
+|-
+| interfaceOptions || ['Check-Progress', None, None, None, 'Destroy'] || ['Wear', None, None, None, 'Drop']
+|-
+| weight || 0 || 9071
+|-
+| category || 1765 || 15
+|-
+|rowspan="13"|[[Null]]
+|rowspan="13"|[https://chisel.weirdgloop.org/moid/item_id.html#10648 10648]
+|-
+|name || [[Crystal chunk]] || [[Null]]
+|-
+| xan2d || 213 || 572
+|-
+| yan2d || 1006 || 0
+|-
+| stackable || 1 || 0
+|-
+| inventoryModel || 47513 || 2521
+|-
+| members || True || False
+|-
+| zoom2d || 757 || 1940
+|-
+| xOffset2d || 3 || 0
+|-
+| yOffset2d || 3 || 1
+|-
+| interfaceOptions || ['Check-Progress', None, None, None, 'Destroy'] || ['Wear', None, None, None, 'Drop']
+|-
+| weight || 0 || 9071
+|-
+| category || 1765 || 15
+|-
+|rowspan="13"|[[Null]]
+|rowspan="13"|[https://chisel.weirdgloop.org/moid/item_id.html#10649 10649]
+|-
+|name || [[Osmumten's coin]] || [[Null]]
+|-
+| xan2d || 273 || 572
+|-
+| yan2d || 334 || 0
+|-
+| stackable || 1 || 0
+|-
+| inventoryModel || 47510 || 2521
+|-
+| members || True || False
+|-
+| zoom2d || 300 || 1940
+|-
+| yOffset2d || 0 || 1
+|-
+| ambient || 30 || 0
+|-
+| interfaceOptions || ['Check-Progress', None, None, None, 'Destroy'] || ['Wear', None, None, None, 'Drop']
+|-
+| weight || 0 || 9071
+|-
+| category || 1765 || 15
+|-
+|rowspan="13"|[[Null]]
+|rowspan="13"|[https://chisel.weirdgloop.org/moid/item_id.html#10651 10651]
+|-
+|name || [[Hallowed bricks]] || [[Null]]
+|-
+| xan2d || 159 || 572
+|-
+| yan2d || 1287 || 0
+|-
+| stackable || 1 || 0
+|-
+| inventoryModel || 47501 || 2521
+|-
+| members || True || False
+|-
+| zoom2d || 1104 || 1940
+|-
+| xOffset2d || 4 || 0
+|-
+| yOffset2d || 0 || 1
+|-
+| interfaceOptions || ['Check-Progress', None, None, None, 'Destroy'] || ['Wear', None, None, None, 'Drop']
+|-
+| weight || 0 || 9071
+|-
+| category || 1765 || 15
+|-
+|rowspan="11"|[[Null]]
+|rowspan="11"|[https://chisel.weirdgloop.org/moid/item_id.html#10652 10652]
+|-
+|name || [[Abyssal-tainted essence]] || [[Null]]
+|-
+| xan2d || 528 || 572
+|-
+| yan2d || 1012 || 0
+|-
+| stackable || 1 || 0
+|-
+| inventoryModel || 2349 || 2521
+|-
+| members || True || False
+|-
+| zoom2d || 740 || 1940
+|-
+| interfaceOptions || ['Check-Progress', None, None, None, 'Destroy'] || ['Wear', None, None, None, 'Drop']
+|-
+| weight || 0 || 9071
+|-
+| category || 1765 || 15
+|-
+|rowspan="11"|[[Null]]
+|rowspan="11"|[https://chisel.weirdgloop.org/moid/item_id.html#10654 10654]
+|-
+|name || [[Casket piece]] || [[Null]]
+|-
+| xan2d || 220 || 572
+|-
+| yan2d || 1453 || 0
+|-
+| stackable || 1 || 0
+|-
+| inventoryModel || 47498 || 2521
+|-
+| zoom2d || 1772 || 1940
+|-
+| yOffset2d || -5 || 1
+|-
+| interfaceOptions || ['Check-Progress', None, None, None, 'Destroy'] || ['Wear', None, None, None, 'Drop']
+|-
+| weight || 0 || 9071
+|-
+| category || 1765 || 15
+|-
+|rowspan="12"|[[Null]]
+|rowspan="12"|[https://chisel.weirdgloop.org/moid/item_id.html#10657 10657]
+|-
+|name || [[Chunk of barronite]] || [[Null]]
+|-
+| xan2d || 213 || 572
+|-
+| yan2d || 1006 || 0
+|-
+| stackable || 1 || 0
+|-
+| inventoryModel || 47513 || 2521
+|-
+| zoom2d || 757 || 1940
+|-
+| xOffset2d || 3 || 0
+|-
+| yOffset2d || 3 || 1
+|-
+| interfaceOptions || ['Check-Progress', None, None, None, 'Destroy'] || ['Wear', None, None, None, 'Drop']
+|-
+| weight || 0 || 9071
+|-
+| category || 1765 || 15
+|-
+|rowspan="14"|[[Null]]
+|rowspan="14"|[https://chisel.weirdgloop.org/moid/item_id.html#10658 10658]
+|-
+|name || [[Death's fabric]] || [[Null]]
+|-
+| xan2d || 783 || 572
+|-
+| yan2d || 1450 || 0
+|-
+| zan2d || 1553 || 0
+|-
+| stackable || 1 || 0
+|-
+| inventoryModel || 46707 || 2521
+|-
+| members || True || False
+|-
+| zoom2d || 724 || 1940
+|-
+| xOffset2d || -4 || 0
+|-
+| yOffset2d || -9 || 1
+|-
+| interfaceOptions || ['Check-Progress', None, None, None, 'Destroy'] || ['Wear', None, None, None, 'Drop']
+|-
+| weight || 0 || 9071
+|-
+| category || 1765 || 15
+|-
+|rowspan="13"|[[Null]]
+|rowspan="13"|[https://chisel.weirdgloop.org/moid/item_id.html#10659 10659]
+|-
+|name || [[Star shard]] || [[Null]]
+|-
+| xan2d || 319 || 572
+|-
+| yan2d || 547 || 0
+|-
+| stackable || 1 || 0
+|-
+| inventoryModel || 47494 || 2521
+|-
+| members || True || False
+|-
+| zoom2d || 1112 || 1940
+|-
+| xOffset2d || -10 || 0
+|-
+| yOffset2d || 36 || 1
+|-
+| interfaceOptions || ['Check-Progress', None, None, None, 'Destroy'] || ['Wear', None, None, None, 'Drop']
+|-
+| weight || 0 || 9071
+|-
+| category || 1765 || 15
+|-
+|rowspan="12"|[[Null]]
+|rowspan="12"|[https://chisel.weirdgloop.org/moid/item_id.html#10661 10661]
+|-
+|name || [[Tempoross remnant]] || [[Null]]
+|-
+| xan2d || 204 || 572
+|-
+| yan2d || 1660 || 0
+|-
+| stackable || 1 || 0
+|-
+| inventoryModel || 2504 || 2521
+|-
+| members || True || False
+|-
+| zoom2d || 1020 || 1940
+|-
+| yOffset2d || -18 || 1
+|-
+| interfaceOptions || ['Check-Progress', None, None, None, 'Destroy'] || ['Wear', None, None, None, 'Drop']
+|-
+| weight || 0 || 9071
+|-
+| category || 1765 || 15
+|-
+|rowspan="2"|[[Null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#20803 20803]
+|-
+|params || {'1760': 20806, '630': 0, '1751': 35454985, '1752': '"Thick Skin"', '1753': 1, '1754': '"Increases your defence by 5%."', '1755': 2690, '1756': 135, '1757': 115} || {'1760': 20806, '630': 0, '1751': 35454985, '1752': 'Thick Skin', '1753': 1, '1754': 'Increases your defence by 5%.', '1755': 2690, '1756': 135, '1757': 115}
+|-
+|rowspan="2"|[[Null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#20804 20804]
+|-
+|params || {'1760': 20807, '630': 1, '1751': 35454986, '1752': '"Burst of Strength"', '1753': 4, '1754': '"Increases your strength by 5%."', '1755': 2688, '1756': 136, '1757': 116} || {'1760': 20807, '630': 1, '1751': 35454986, '1752': 'Burst of Strength', '1753': 4, '1754': 'Increases your strength by 5%.', '1755': 2688, '1756': 136, '1757': 116}
+|-
+|rowspan="2"|[[Null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#20805 20805]
+|-
+|params || {'1760': 20808, '630': 2, '1751': 35454987, '1752': '"Clarity of Thought"', '1753': 7, '1754': '"Increases your attack by 5%."', '1755': 2664, '1756': 137, '1757': 117} || {'1760': 20808, '630': 2, '1751': 35454987, '1752': 'Clarity of Thought', '1753': 7, '1754': 'Increases your attack by 5%.', '1755': 2664, '1756': 137, '1757': 117}
+|-
+|rowspan="2"|[[Null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#20806 20806]
+|-
+|params || {'1760': 20812, '630': 3, '1751': 35454988, '1752': '"Rock Skin"', '1753': 10, '1754': '"Increases your defence by 10%."', '1755': 2684, '1756': 138, '1757': 118} || {'1760': 20812, '630': 3, '1751': 35454988, '1752': 'Rock Skin', '1753': 10, '1754': 'Increases your defence by 10%.', '1755': 2684, '1756': 138, '1757': 118}
+|-
+|rowspan="2"|[[Null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#20807 20807]
+|-
+|params || {'1760': 20813, '630': 4, '1751': 35454989, '1752': '"Superhuman Strength"', '1753': 13, '1754': '"Increases your strength by 10%."', '1755': 2689, '1756': 139, '1757': 119} || {'1760': 20813, '630': 4, '1751': 35454989, '1752': 'Superhuman Strength', '1753': 13, '1754': 'Increases your strength by 10%.', '1755': 2689, '1756': 139, '1757': 119}
+|-
+|rowspan="2"|[[Null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#20808 20808]
+|-
+|params || {'1760': 20814, '630': 5, '1751': 35454990, '1752': '"Improved Reflexes"', '1753': 16, '1754': '"Increases your attack by 10%."', '1755': 2662, '1756': 140, '1757': 120} || {'1760': 20814, '630': 5, '1751': 35454990, '1752': 'Improved Reflexes', '1753': 16, '1754': 'Increases your attack by 10%.', '1755': 2662, '1756': 140, '1757': 120}
+|-
+|rowspan="2"|[[Null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#20809 20809]
+|-
+|params || {'630': 6, '1751': 35454991, '1752': '"Rapid Restore"', '1753': 19, '1754': '"2x restore rate for all stats<br>except Hitpoints and Prayer."', '1755': 2679, '1756': 141, '1757': 121, '1758': 1} || {'630': 6, '1751': 35454991, '1752': 'Rapid Restore', '1753': 19, '1754': '2x restore rate for all stats<br>except Hitpoints and Prayer.', '1755': 2679, '1756': 141, '1757': 121, '1758': 1}
+|-
+|rowspan="2"|[[Null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#20810 20810]
+|-
+|params || {'630': 7, '1751': 35454992, '1752': '"Rapid Heal"', '1753': 22, '1754': '"2x restore rate for<br>Hitpoints stat."', '1755': 2678, '1756': 142, '1757': 122, '1758': 1} || {'630': 7, '1751': 35454992, '1752': 'Rapid Heal', '1753': 22, '1754': '2x restore rate for<br>Hitpoints stat.', '1755': 2678, '1756': 142, '1757': 122, '1758': 1}
+|-
+|rowspan="2"|[[Null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#20811 20811]
+|-
+|params || {'630': 8, '1751': 35454993, '1752': '"Protect Item"', '1753': 25, '1754': '"Keep 1 extra item if you die."', '1755': 1982, '1756': 143, '1757': 123} || {'630': 8, '1751': 35454993, '1752': 'Protect Item', '1753': 25, '1754': 'Keep 1 extra item if you die.', '1755': 1982, '1756': 143, '1757': 123}
+|-
+|rowspan="2"|[[Null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#20812 20812]
+|-
+|params || {'1760': 20828, '630': 9, '1751': 35454994, '1752': '"Steel Skin"', '1753': 28, '1754': '"Increases your defence by 15%."', '1755': 2687, '1756': 144, '1757': 124} || {'1760': 20828, '630': 9, '1751': 35454994, '1752': 'Steel Skin', '1753': 28, '1754': 'Increases your defence by 15%.', '1755': 2687, '1756': 144, '1757': 124}
+|-
+|rowspan="2"|[[Null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#20813 20813]
+|-
+|params || {'1760': 20828, '630': 10, '1751': 35454995, '1752': '"Ultimate Strength"', '1753': 31, '1754': '"Increases your strength by 15%."', '1755': 2691, '1756': 145, '1757': 125} || {'1760': 20828, '630': 10, '1751': 35454995, '1752': 'Ultimate Strength', '1753': 31, '1754': 'Increases your strength by 15%.', '1755': 2691, '1756': 145, '1757': 125}
+|-
+|rowspan="2"|[[Null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#20814 20814]
+|-
+|params || {'1760': 20828, '630': 11, '1751': 35454996, '1752': '"Incredible Reflexes"', '1753': 34, '1754': '"Increases your attack by 15%."', '1755': 2667, '1756': 146, '1757': 126} || {'1760': 20828, '630': 11, '1751': 35454996, '1752': 'Incredible Reflexes', '1753': 34, '1754': 'Increases your attack by 15%.', '1755': 2667, '1756': 146, '1757': 126}
+|-
+|rowspan="2"|[[Null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#20815 20815]
+|-
+|params || {'630': 12, '1751': 35454997, '1752': '"Protect from Magic"', '1753': 37, '1754': '"Protection from magical attacks."', '1755': 2675, '1756': 147, '1757': 127} || {'630': 12, '1751': 35454997, '1752': 'Protect from Magic', '1753': 37, '1754': 'Protection from magical attacks.', '1755': 2675, '1756': 147, '1757': 127}
+|-
+|rowspan="2"|[[Null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#20816 20816]
+|-
+|params || {'630': 13, '1751': 35454998, '1752': '"Protect from Missiles"', '1753': 40, '1754': '"Protection from ranged attacks."', '1755': 2677, '1756': 148, '1757': 128} || {'630': 13, '1751': 35454998, '1752': 'Protect from Missiles', '1753': 40, '1754': 'Protection from ranged attacks.', '1755': 2677, '1756': 148, '1757': 128}
+|-
+|rowspan="2"|[[Null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#20817 20817]
+|-
+|params || {'630': 14, '1751': 35454999, '1752': '"Protect from Melee"', '1753': 43, '1754': '"Protection from close attacks."', '1755': 2676, '1756': 149, '1757': 129} || {'630': 14, '1751': 35454999, '1752': 'Protect from Melee', '1753': 43, '1754': 'Protection from close attacks.', '1755': 2676, '1756': 149, '1757': 129}
+|-
+|rowspan="2"|[[Null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#20818 20818]
+|-
+|params || {'630': 15, '1751': 35455000, '1752': '"Retribution"', '1753': 46, '1754': '"Inflicts damage to nearby<br>targets if you die."', '1755': 2682, '1756': 151, '1757': 131} || {'630': 15, '1751': 35455000, '1752': 'Retribution', '1753': 46, '1754': 'Inflicts damage to nearby<br>targets if you die.', '1755': 2682, '1756': 151, '1757': 131}
+|-
+|rowspan="2"|[[Null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#20819 20819]
+|-
+|params || {'630': 16, '1751': 35455001, '1752': '"Redemption"', '1753': 49, '1754': '"Heals you when damaged<br>and health falls<br>below 10%."', '1755': 2680, '1756': 150, '1757': 130} || {'630': 16, '1751': 35455001, '1752': 'Redemption', '1753': 49, '1754': 'Heals you when damaged<br>and health falls<br>below 10%.', '1755': 2680, '1756': 150, '1757': 130}
+|-
+|rowspan="2"|[[Null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#20820 20820]
+|-
+|params || {'630': 17, '1751': 35455002, '1752': '"Smite"', '1753': 52, '1754': '"1/4 of damage dealt is<br>also removed from<br>opponent\'s Prayer."', '1755': 2686, '1756': 152, '1757': 132} || {'630': 17, '1751': 35455002, '1752': 'Smite', '1753': 52, '1754': "1/4 of damage dealt is<br>also removed from<br>opponent's Prayer.", '1755': 2686, '1756': 152, '1757': 132}
+|-
+|rowspan="2"|[[Null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#20821 20821]
+|-
+|params || {'1760': 20823, '630': 18, '1751': 35455003, '1752': '"Sharp Eye"', '1753': 8, '1754': '"Increases your Ranging by 5%."', '1755': 2685, '1756': 153, '1757': 133} || {'1760': 20823, '630': 18, '1751': 35455003, '1752': 'Sharp Eye', '1753': 8, '1754': 'Increases your Ranging by 5%.', '1755': 2685, '1756': 153, '1757': 133}
+|-
+|rowspan="2"|[[Null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#20822 20822]
+|-
+|params || {'1760': 20824, '630': 19, '1751': 35455004, '1752': '"Mystic Will"', '1753': 9, '1754': '"Increases your magical attack and defence by 5%."', '1755': 2670, '1756': 154, '1757': 134} || {'1760': 20824, '630': 19, '1751': 35455004, '1752': 'Mystic Will', '1753': 9, '1754': 'Increases your magical attack and defence by 5%.', '1755': 2670, '1756': 154, '1757': 134}
+|-
+|rowspan="2"|[[Null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#20823 20823]
+|-
+|params || {'1760': 20825, '630': 20, '1751': 35455005, '1752': '"Hawk Eye"', '1753': 26, '1754': '"Increases your Ranging by 10%."', '1755': 2666, '1756': 506, '1757': 502} || {'1760': 20825, '630': 20, '1751': 35455005, '1752': 'Hawk Eye', '1753': 26, '1754': 'Increases your Ranging by 10%.', '1755': 2666, '1756': 506, '1757': 502}
+|-
+|rowspan="2"|[[Null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#20824 20824]
+|-
+|params || {'1760': 20826, '630': 21, '1751': 35455006, '1752': '"Mystic Lore"', '1753': 27, '1754': '"Increases your magical attack and defence by 10%."', '1755': 2668, '1756': 507, '1757': 503} || {'1760': 20826, '630': 21, '1751': 35455006, '1752': 'Mystic Lore', '1753': 27, '1754': 'Increases your magical attack and defence by 10%.', '1755': 2668, '1756': 507, '1757': 503}
+|-
+|rowspan="2"|[[Null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#20825 20825]
+|-
+|params || {'1760': 20827, '630': 22, '1751': 35455007, '1752': '"Eagle Eye"', '1753': 44, '1754': '"Increases your Ranging by 15%."', '1755': 2665, '1756': 508, '1757': 504} || {'1760': 20827, '630': 22, '1751': 35455007, '1752': 'Eagle Eye', '1753': 44, '1754': 'Increases your Ranging by 15%.', '1755': 2665, '1756': 508, '1757': 504}
+|-
+|rowspan="2"|[[Null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#20826 20826]
+|-
+|params || {'1760': 20830, '630': 23, '1751': 35455008, '1752': '"Mystic Might"', '1753': 45, '1754': '"Increases your magical attack and defence by 15%."', '1755': 2669, '1756': 509, '1757': 505} || {'1760': 20830, '630': 23, '1751': 35455008, '1752': 'Mystic Might', '1753': 45, '1754': 'Increases your magical attack and defence by 15%.', '1755': 2669, '1756': 509, '1757': 505}
+|-
+|rowspan="2"|[[Null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#20827 20827]
+|-
+|params || {'630': 24, '1751': 35455011, '1752': '"Rigour"', '1753': 74, '1754': '"Increases your ranged attack by 20% and damage by 23%, and your defence by 25%."', '1755': 2685, '1756': 1424, '1757': 1420, '1759': 1} || {'630': 24, '1751': 35455011, '1752': 'Rigour', '1753': 74, '1754': 'Increases your ranged attack by 20% and damage by 23%, and your defence by 25%.', '1755': 2685, '1756': 1424, '1757': 1420, '1759': 1}
+|-
+|rowspan="2"|[[Null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#20828 20828]
+|-
+|params || {'1760': 20829, '630': 25, '1751': 35455009, '1752': '"Chivalry"', '1753': 60, '1754': '"Increases your defence by 20%, strength by 18%, and attack by 15%."', '1755': 3826, '1756': 949, '1757': 945, '1759': 1} || {'1760': 20829, '630': 25, '1751': 35455009, '1752': 'Chivalry', '1753': 60, '1754': 'Increases your defence by 20%, strength by 18%, and attack by 15%.', '1755': 3826, '1756': 949, '1757': 945, '1759': 1}
+|-
+|rowspan="2"|[[Null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#20829 20829]
+|-
+|params || {'630': 26, '1751': 35455010, '1752': '"Piety"', '1753': 70, '1754': '"Increases your defence by 25%, strength by 23%, and attack by 20%."', '1755': 3825, '1756': 950, '1757': 946, '1759': 1} || {'630': 26, '1751': 35455010, '1752': 'Piety', '1753': 70, '1754': 'Increases your defence by 25%, strength by 23%, and attack by 20%.', '1755': 3825, '1756': 950, '1757': 946, '1759': 1}
+|-
+|rowspan="2"|[[Null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#20830 20830]
+|-
+|params || {'630': 27, '1751': 35455012, '1752': '"Augury"', '1753': 77, '1754': '"Increases your magical attack and defence by 25%, and your defence by 25%."', '1755': 2670, '1756': 1425, '1757': 1421, '1759': 1} || {'630': 27, '1751': 35455012, '1752': 'Augury', '1753': 77, '1754': 'Increases your magical attack and defence by 25%, and your defence by 25%.', '1755': 2670, '1756': 1425, '1757': 1421, '1759': 1}
+|-
+|rowspan="2"|[[Null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#20831 20831]
+|-
+|params || {'630': 28, '1751': 35455013, '1752': '"Preserve"', '1753': 55, '1754': '"Boosted stats last 50% longer."', '1755': 2679, '1756': 951, '1757': 947} || {'630': 28, '1751': 35455013, '1752': 'Preserve', '1753': 55, '1754': 'Boosted stats last 50% longer.', '1755': 2679, '1756': 951, '1757': 947}
+|-
+|rowspan="11"|[[Null]]
+|rowspan="11"|[https://chisel.weirdgloop.org/moid/item_id.html#27794 27794]
+|-
+|name || [[Cracked cake tin]] || [[Null]]
+|-
+| xan2d || 249 || 572
+|-
+| yan2d || 94 || 0
+|-
+| cost || 0 || 1
+|-
+| inventoryModel || 47502 || 2521
+|-
+| zoom2d || 770 || 1940
+|-
+| yOffset2d || -29 || 1
+|-
+| interfaceOptions || [None, None, None, None, 'Destroy'] || [None, None, None, None, 'Drop']
+|-
+| weight || 100 || 9071
+|-
+| category || 1749 || 15
+|-
+|rowspan="11"|[[Null]]
+|rowspan="11"|[https://chisel.weirdgloop.org/moid/item_id.html#27795 27795]
+|-
+|name || [[Prized cake tin]] || [[Null]]
+|-
+| xan2d || 172 || 572
+|-
+| yan2d || 144 || 0
+|-
+| cost || 0 || 1
+|-
+| inventoryModel || 2596 || 2521
+|-
+| zoom2d || 770 || 1940
+|-
+| yOffset2d || 0 || 1
+|-
+| interfaceOptions || [None, None, None, None, 'Destroy'] || [None, None, None, None, 'Drop']
+|-
+| weight || 100 || 9071
+|-
+| category || 1749 || 15
+|-
+|rowspan="10"|[[Null]]
+|rowspan="10"|[https://chisel.weirdgloop.org/moid/item_id.html#27796 27796]
+|-
+|name || [[Promissory note]] || [[Null]]
+|-
+| xan2d || 335 || 572
+|-
+| yan2d || 37 || 0
+|-
+| inventoryModel || 47495 || 2521
+|-
+| zoom2d || 1316 || 1940
+|-
+| yOffset2d || 0 || 1
+|-
+| interfaceOptions || [None, None, None, None, 'Destroy'] || [None, None, None, None, 'Drop']
+|-
+| weight || 20 || 9071
+|-
+| category || 1749 || 15
+|-
+|rowspan="10"|[[Null]]
+|rowspan="10"|[https://chisel.weirdgloop.org/moid/item_id.html#27797 27797]
+|-
+|name || [[Special cake]] || [[Null]]
+|-
+| xan2d || 164 || 572
+|-
+| yan2d || 120 || 0
+|-
+| inventoryModel || 2531 || 2521
+|-
+| zoom2d || 670 || 1940
+|-
+| yOffset2d || -8 || 1
+|-
+| interfaceOptions || [None, None, None, None, 'Destroy'] || [None, None, None, None, 'Drop']
+|-
+| weight || 300 || 9071
+|-
+| category || 1749 || 15
+|-
+|rowspan="12"|[[Null]]
+|rowspan="12"|[https://chisel.weirdgloop.org/moid/item_id.html#27798 27798]
+|-
+|name || [[Varrock cake]] || [[Null]]
+|-
+| xan2d || 164 || 572
+|-
+| yan2d || 120 || 0
+|-
+| inventoryModel || 2531 || 2521
+|-
+| zoom2d || 670 || 1940
+|-
+| yOffset2d || -8 || 1
+|-
+| options || ['Check', None, 'Take', None, None] || [None, None, 'Take', None, None]
+|-
+| weight || 150 || 9071
+|-
+| colorFind ||<span style = "background-color: #351e03;color:white">6036</span>,<span style = "background-color: #523d04;color:white">8094</span>||<span style = "background-color: #0b3618;color:white">25238</span>
+|-
+| colorReplace ||<span style = "background-color: #0a0a0a;color:white">8</span>,<span style = "background-color: #2a2727;color:white">28</span>||<span style = "background-color: #ad415c;color:white">-2608</span>
+|-
+| category || 1749 || 15
+|-
+|rowspan="14"|[[Null]]
+|rowspan="14"|[https://chisel.weirdgloop.org/moid/item_id.html#27799 27799]
+|-
+|name || [[Gnome cake]] || [[Null]]
+|-
+| xan2d || 252 || 572
+|-
+| yan2d || 1664 || 0
+|-
+| cost || 2 || 1
+|-
+| inventoryModel || 2352 || 2521
+|-
+| zoom2d || 650 || 1940
+|-
+| xOffset2d || -2 || 0
+|-
+| yOffset2d || 0 || 1
+|-
+| options || ['Check', None, 'Take', None, None] || [None, None, 'Take', None, None]
+|-
+| weight || 350 || 9071
+|-
+| colorFind ||<span style = "background-color: #8f7c37;color:white">8642</span>||<span style = "background-color: #0b3618;color:white">25238</span>
+|-
+| colorReplace ||<span style = "background-color: #6e4c15;color:white">6829</span>||<span style = "background-color: #ad415c;color:white">-2608</span>
+|-
+| category || 1749 || 15
+|-
+|rowspan="13"|[[Null]]
+|rowspan="13"|[https://chisel.weirdgloop.org/moid/item_id.html#27800 27800]
+|-
+|name || [[Goblin cake]] || [[Null]]
+|-
+| xan2d || 164 || 572
+|-
+| yan2d || 120 || 0
+|-
+| cost || 70 || 1
+|-
+| inventoryModel || 2531 || 2521
+|-
+| zoom2d || 670 || 1940
+|-
+| yOffset2d || -8 || 1
+|-
+| options || ['Check', None, 'Take', None, None] || [None, None, 'Take', None, None]
+|-
+| weight || 300 || 9071
+|-
+| colorFind ||<span style = "background-color: #c6b7b7;color:white">127</span>,<span style = "background-color: #523d04;color:white">8094</span>,<span style = "background-color: #750e04;color:white">937</span>||<span style = "background-color: #0b3618;color:white">25238</span>
+|-
+| colorReplace ||<span style = "background-color: #352203;color:white">7060</span>,<span style = "background-color: #2b1402;color:white">5008</span>,<span style = "background-color: #352203;color:white">7060</span>||<span style = "background-color: #ad415c;color:white">-2608</span>
+|-
+| category || 1749 || 15
+|-
+|rowspan="13"|[[Null]]
+|rowspan="13"|[https://chisel.weirdgloop.org/moid/item_id.html#27801 27801]
+|-
+|name || [[Dwarf cake]] || [[Null]]
+|-
+| xan2d || 192 || 572
+|-
+| yan2d || 104 || 0
+|-
+| cost || 12 || 1
+|-
+| inventoryModel || 2767 || 2521
+|-
+| zoom2d || 950 || 1940
+|-
+| yOffset2d || -9 || 1
+|-
+| options || ['Check', None, 'Take', None, None] || [None, None, 'Take', None, None]
+|-
+| weight || 450 || 9071
+|-
+| colorFind ||<span style = "background-color: #c2aa56;color:white">8670</span>,<span style = "background-color: #261202;color:white">5006</span>,<span style = "background-color: #615656;color:white">61</span>||<span style = "background-color: #0b3618;color:white">25238</span>
+|-
+| colorReplace ||<span style = "background-color: #835525;color:white">5689</span>,<span style = "background-color: #5a2f1a;color:white">3623</span>,<span style = "background-color: #7b5841;color:white">4416</span>||<span style = "background-color: #ad415c;color:white">-2608</span>
+|-
+| category || 1749 || 15
+|-
+|}
+
+==Non-Player Characters==
+===New NPCs===
+{| class="wikitable sortable"
+!colspan='4'|New NPCs
+|-
+! style=width:15em | Name !! ID !! Combat Level !! Options
+|-
+|-
+|}
+===Removed NPCs===
+{| class="wikitable sortable"
+!colspan='2'|Removed NPCs
+|-
+! style=width:15em | Name !! ID
+|-
+| [[Warmhandz]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12109 12109]
+|-
+| [[Patty Seer]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12110 12110]
+|-
+| [[Archmage Sedridor]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12111 12111]
+|-
+| [[King Roald]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12112 12112]
+|-
+| [[Gnome child]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12113 12113]
+|-
+| [[Thurgo]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12114 12114]
+|-
+| [[General Bentnoze]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12115 12115]
+|-
+| [[General Wartface]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12116 12116]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12117 12117]
+|-
+| [[Elvarg]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12118 12118]
+|-
+| [[Alvarg]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12119 12119]
+|-
+| [[Party Pete]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12120 12120]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12133 12133]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12134 12134]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12135 12135]
+|-
+|-
+|}
+===Diff NPCs===
+{| class="wikitable sortable"
+!colspan='5'|Diff NPCs
+|-
+! style=width:15em | Name !! ID !! Key !! Previous Value !! New Value
+|-
+|rowspan="3"|[[<col=00ffff>Runite rocks</col>]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/npc_id.html#6601 6601]
+|-
+|name || [[<col=00ffff>Rocks</col>]] || [[<col=00ffff>Runite rocks</col>]]
+|-
+| actions || ['Mine', None, 'Prospect', None, None] || ['Mine', None, None, None, None]
+|-
+|rowspan="2"|[[Sir Pear Visor]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#12122 12122]
+|-
+|actions || ['Talk-to', None, 'Hand-in', 'Check-progress', None] || ['Talk-to', None, None, None, None]
+|-
+|}
+
+==Objects==
+===New Objects=== 
+{| class="wikitable sortable"
+!colspan='3'|New Objects
+|-
+! style=width:15em | Name !! ID !! Options
+|-
+|-
+|}
+===Removed Objects===
+{| class="wikitable sortable"
+!colspan='2'|Removed Objects
+|-
+! style=width:15em | Name !! ID
+|-
+|-
+|}
+===Diff Objects===
+{| class="wikitable sortable"
+!colspan='5'|Diff Objects
+|-
+! style=width:15em | Name !! ID !! Key !! Previous Value !! New Value
+|-
+|rowspan="2"|[[Rocks]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#2704 2704]
+|-
+|actions || ['Mine', 'Prospect', None, None, None] || ['Mine', None, None, None, None]
+|-
+|rowspan="3"|[[Coal rocks]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#4676 4676]
+|-
+|name || [[Rocks]] || [[Coal rocks]]
+|-
+| actions || ['Mine', 'Prospect', None, None, None] || ['Mine', None, None, None, None]
+|-
+|rowspan="3"|[[Gold vein]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#5989 5989]
+|-
+|name || [[Mineral vein]] || [[Gold vein]]
+|-
+| actions || ['Mine', 'Prospect', None, None, None] || ['Mine', None, None, None, None]
+|-
+|rowspan="3"|[[Gold vein]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#5990 5990]
+|-
+|name || [[Mineral vein]] || [[Gold vein]]
+|-
+| actions || ['Mine', 'Prospect', None, None, None] || ['Mine', None, None, None, None]
+|-
+|rowspan="3"|[[Gold vein]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#5991 5991]
+|-
+|name || [[Mineral vein]] || [[Gold vein]]
+|-
+| actions || ['Mine', 'Prospect', None, None, None] || ['Mine', None, None, None, None]
+|-
+|rowspan="3"|[[Magical rocks]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#6669 6669]
+|-
+|name || [[Rocks]] || [[Magical rocks]]
+|-
+| actions || ['Mine', 'Prospect', None, None, None] || ['Mine', None, None, None, None]
+|-
+|rowspan="3"|[[Magical rocks]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#6670 6670]
+|-
+|name || [[Rocks]] || [[Magical rocks]]
+|-
+| actions || ['Mine', 'Prospect', None, None, None] || ['Mine', None, None, None, None]
+|-
+|rowspan="3"|[[Magical rocks]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#6671 6671]
+|-
+|name || [[Rocks]] || [[Magical rocks]]
+|-
+| actions || ['Mine', 'Prospect', None, None, None] || ['Mine', None, None, None, None]
+|-
+|rowspan="2"|[[Gem Rock]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#9030 9030]
+|-
+|actions || ['Mine', 'Prospect', None, None, None] || ['Mine', None, None, None, None]
+|-
+|rowspan="2"|[[Gem Rock]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#9031 9031]
+|-
+|actions || ['Mine', 'Prospect', None, None, None] || ['Mine', None, None, None, None]
+|-
+|rowspan="2"|[[Gem Rock]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#9032 9032]
+|-
+|actions || ['Mine', 'Prospect', None, None, None] || ['Mine', None, None, None, None]
+|-
+|rowspan="3"|[[Copper rocks]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#10079 10079]
+|-
+|name || [[Rocks]] || [[Copper rocks]]
+|-
+| actions || ['Mine', 'Prospect', None, None, None] || ['Mine', None, None, None, None]
+|-
+|rowspan="3"|[[Tin rocks]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#10080 10080]
+|-
+|name || [[Rocks]] || [[Tin rocks]]
+|-
+| actions || ['Mine', 'Prospect', None, None, None] || ['Mine', None, None, None, None]
+|-
+|rowspan="2"|[[Rocks]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#10081 10081]
+|-
+|actions || ['Mine', 'Prospect', None, None, None] || ['Mine', None, None, None, None]
+|-
+|rowspan="3"|[[Copper rocks]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#10943 10943]
+|-
+|name || [[Rocks]] || [[Copper rocks]]
+|-
+| actions || ['Mine', 'Prospect', None, None, None] || ['Mine', None, None, None, None]
+|-
+|rowspan="3"|[[Copper rocks]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#11161 11161]
+|-
+|name || [[Rocks]] || [[Copper rocks]]
+|-
+| actions || ['Mine', 'Prospect', None, None, None] || ['Mine', None, None, None, None]
+|-
+|rowspan="3"|[[Tin rocks]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#11360 11360]
+|-
+|name || [[Rocks]] || [[Tin rocks]]
+|-
+| actions || ['Mine', 'Prospect', None, None, None] || ['Mine', None, None, None, None]
+|-
+|rowspan="3"|[[Tin rocks]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#11361 11361]
+|-
+|name || [[Rocks]] || [[Tin rocks]]
+|-
+| actions || ['Mine', 'Prospect', None, None, None] || ['Mine', None, None, None, None]
+|-
+|rowspan="3"|[[Clay rocks]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#11362 11362]
+|-
+|name || [[Rocks]] || [[Clay rocks]]
+|-
+| actions || ['Mine', 'Prospect', None, None, None] || ['Mine', None, None, None, None]
+|-
+|rowspan="3"|[[Clay rocks]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#11363 11363]
+|-
+|name || [[Rocks]] || [[Clay rocks]]
+|-
+| actions || ['Mine', 'Prospect', None, None, None] || ['Mine', None, None, None, None]
+|-
+|rowspan="3"|[[Iron rocks]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#11364 11364]
+|-
+|name || [[Rocks]] || [[Iron rocks]]
+|-
+| actions || ['Mine', 'Prospect', None, None, None] || ['Mine', None, None, None, None]
+|-
+|rowspan="3"|[[Iron rocks]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#11365 11365]
+|-
+|name || [[Rocks]] || [[Iron rocks]]
+|-
+| actions || ['Mine', 'Prospect', None, None, None] || ['Mine', None, None, None, None]
+|-
+|rowspan="3"|[[Coal rocks]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#11366 11366]
+|-
+|name || [[Rocks]] || [[Coal rocks]]
+|-
+| actions || ['Mine', 'Prospect', None, None, None] || ['Mine', None, None, None, None]
+|-
+|rowspan="3"|[[Coal rocks]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#11367 11367]
+|-
+|name || [[Rocks]] || [[Coal rocks]]
+|-
+| actions || ['Mine', 'Prospect', None, None, None] || ['Mine', None, None, None, None]
+|-
+|rowspan="3"|[[Silver rocks]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#11368 11368]
+|-
+|name || [[Rocks]] || [[Silver rocks]]
+|-
+| actions || ['Mine', 'Prospect', None, None, None] || ['Mine', None, None, None, None]
+|-
+|rowspan="3"|[[Silver rocks]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#11369 11369]
+|-
+|name || [[Rocks]] || [[Silver rocks]]
+|-
+| actions || ['Mine', 'Prospect', None, None, None] || ['Mine', None, None, None, None]
+|-
+|rowspan="3"|[[Gold rocks]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#11370 11370]
+|-
+|name || [[Rocks]] || [[Gold rocks]]
+|-
+| actions || ['Mine', 'Prospect', None, None, None] || ['Mine', None, None, None, None]
+|-
+|rowspan="3"|[[Gold rocks]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#11371 11371]
+|-
+|name || [[Rocks]] || [[Gold rocks]]
+|-
+| actions || ['Mine', 'Prospect', None, None, None] || ['Mine', None, None, None, None]
+|-
+|rowspan="3"|[[Mithril rocks]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#11372 11372]
+|-
+|name || [[Rocks]] || [[Mithril rocks]]
+|-
+| actions || ['Mine', 'Prospect', None, None, None] || ['Mine', None, None, None, None]
+|-
+|rowspan="3"|[[Mithril rocks]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#11373 11373]
+|-
+|name || [[Rocks]] || [[Mithril rocks]]
+|-
+| actions || ['Mine', 'Prospect', None, None, None] || ['Mine', None, None, None, None]
+|-
+|rowspan="3"|[[Adamantite rocks]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#11374 11374]
+|-
+|name || [[Rocks]] || [[Adamantite rocks]]
+|-
+| actions || ['Mine', 'Prospect', None, None, None] || ['Mine', None, None, None, None]
+|-
+|rowspan="3"|[[Adamantite rocks]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#11375 11375]
+|-
+|name || [[Rocks]] || [[Adamantite rocks]]
+|-
+| actions || ['Mine', 'Prospect', None, None, None] || ['Mine', None, None, None, None]
+|-
+|rowspan="3"|[[Runite rocks]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#11376 11376]
+|-
+|name || [[Rocks]] || [[Runite rocks]]
+|-
+| actions || ['Mine', 'Prospect', None, None, None] || ['Mine', None, None, None, None]
+|-
+|rowspan="3"|[[Runite rocks]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#11377 11377]
+|-
+|name || [[Rocks]] || [[Runite rocks]]
+|-
+| actions || ['Mine', 'Prospect', None, None, None] || ['Mine', None, None, None, None]
+|-
+|rowspan="3"|[[Blurite rocks]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#11378 11378]
+|-
+|name || [[Rocks]] || [[Blurite rocks]]
+|-
+| actions || ['Mine', 'Prospect', None, None, None] || ['Mine', None, None, None, None]
+|-
+|rowspan="3"|[[Blurite rocks]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#11379 11379]
+|-
+|name || [[Rocks]] || [[Blurite rocks]]
+|-
+| actions || ['Mine', 'Prospect', None, None, None] || ['Mine', None, None, None, None]
+|-
+|rowspan="3"|[[Gem rocks]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#11380 11380]
+|-
+|name || [[Rocks]] || [[Gem rocks]]
+|-
+| actions || ['Mine', 'Prospect', None, None, None] || ['Mine', None, None, None, None]
+|-
+|rowspan="3"|[[Gem rocks]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#11381 11381]
+|-
+|name || [[Rocks]] || [[Gem rocks]]
+|-
+| actions || ['Mine', 'Prospect', None, None, None] || ['Mine', None, None, None, None]
+|-
+|rowspan="3"|[[Limestone rock]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#11382 11382]
+|-
+|name || [[Pile of Rock]] || [[Limestone rock]]
+|-
+| actions || ['Mine', 'Prospect', None, None, None] || ['Mine', None, None, None, None]
+|-
+|rowspan="3"|[[Limestone rock]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#11383 11383]
+|-
+|name || [[Pile of Rock]] || [[Limestone rock]]
+|-
+| actions || ['Mine', 'Prospect', None, None, None] || ['Mine', None, None, None, None]
+|-
+|rowspan="3"|[[Limestone rock]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#11384 11384]
+|-
+|name || [[Pile of Rock]] || [[Limestone rock]]
+|-
+| actions || ['Mine', 'Prospect', None, None, None] || ['Mine', None, None, None, None]
+|-
+|rowspan="3"|[[Pile of rock]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#11385 11385]
+|-
+|name || [[Pile of Rock]] || [[Pile of rock]]
+|-
+| actions || ['Mine', 'Prospect', None, None, None] || ['Mine', None, None, None, None]
+|-
+|rowspan="3"|[[Sandstone rocks]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#11386 11386]
+|-
+|name || [[Rocks]] || [[Sandstone rocks]]
+|-
+| actions || ['Mine', 'Prospect', None, None, None] || ['Mine', None, None, None, None]
+|-
+|rowspan="3"|[[Granite rocks]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#11387 11387]
+|-
+|name || [[Rocks]] || [[Granite rocks]]
+|-
+| actions || ['Mine', 'Prospect', None, None, None] || ['Mine', None, None, None, None]
+|-
+|rowspan="3"|[[Amethyst crystals]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#11388 11388]
+|-
+|name || [[Crystals]] || [[Amethyst crystals]]
+|-
+| actions || ['Mine', 'Prospect', None, None, None] || ['Mine', None, None, None, None]
+|-
+|rowspan="3"|[[Amethyst crystals]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#11389 11389]
+|-
+|name || [[Crystals]] || [[Amethyst crystals]]
+|-
+| actions || ['Mine', 'Prospect', None, None, None] || ['Mine', None, None, None, None]
+|-
+|rowspan="2"|[[Rocks]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#11390 11390]
+|-
+|actions || ['Mine', 'Prospect', None, None, None] || ['Mine', None, None, None, None]
+|-
+|rowspan="2"|[[Rocks]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#11391 11391]
+|-
+|actions || ['Mine', 'Prospect', None, None, None] || ['Mine', None, None, None, None]
+|-
+|rowspan="2"|[[Rocks]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#11392 11392]
+|-
+|actions || ['Mine', 'Prospect', None, None, None] || ['Mine', None, None, None, None]
+|-
+|rowspan="2"|[[Empty wall]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#11393 11393]
+|-
+|actions || ['Mine', 'Prospect', None, None, None] || ['Mine', None, None, None, None]
+|-
+|rowspan="2"|[[Pile of Rock]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#12564 12564]
+|-
+|actions || ['Mine', 'Prospect', None, None, None] || ['Mine', None, None, None, None]
+|-
+|rowspan="2"|[[Pile of Rock]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#12565 12565]
+|-
+|actions || ['Mine', 'Prospect', None, None, None] || ['Mine', None, None, None, None]
+|-
+|rowspan="2"|[[Pile of Rock]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#12566 12566]
+|-
+|actions || ['Mine', 'Prospect', None, None, None] || ['Mine', None, None, None, None]
+|-
+|rowspan="2"|[[Pile of Rock]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#12567 12567]
+|-
+|actions || ['Mine', 'Prospect', None, None, None] || ['Mine', None, None, None, None]
+|-
+|rowspan="2"|[[Rubble]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#12746 12746]
+|-
+|actions || ['Mine', 'Prospect', None, None, None] || ['Mine', None, None, None, None]
+|-
+|rowspan="3"|[[Rune essence]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#15410 15410]
+|-
+|name || [[Rock]] || [[Rune essence]]
+|-
+| actions || ['Mine', 'Prospect', None, None, None] || ['Mine', None, None, None, None]
+|-
+|rowspan="2"|[[Rune essence]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#16687 16687]
+|-
+|actions || ['Mine', 'Prospect', None, None, None] || ['Mine', None, None, None, None]
+|-
+|rowspan="2"|[[Daeyalt rocks]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#17962 17962]
+|-
+|actions || ['Mine', 'Prospect', None, None, None] || ['Mine', None, None, None, None]
+|-
+|rowspan="2"|[[Daeyalt rocks]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#17963 17963]
+|-
+|actions || ['Mine', 'Prospect', None, None, None] || ['Mine', None, None, None, None]
+|-
+|rowspan="2"|[[Daeyalt rocks]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#17964 17964]
+|-
+|actions || ['Mine', 'Prospect', None, None, None] || ['Mine', None, None, None, None]
+|-
+|rowspan="4"|[[null]]
+|rowspan="4"|[https://chisel.weirdgloop.org/moid/object_id.html#17965 17965]
+|-
+|name || [[Daeyalt rocks]] || [[null]]
+|-
+| wallOrDoor || 1 || 0
+|-
+| actions || [None, 'Prospect', None, None, None] || [None, None, None, None, None]
+|-
+|rowspan="2"|[[Rocks]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#18961 18961]
+|-
+|actions || ['Mine', 'Prospect', None, None, None] || ['Mine', None, None, None, None]
+|-
+|rowspan="3"|[[Tin ore vein]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#20407 20407]
+|-
+|name || [[Ore vein]] || [[Tin ore vein]]
+|-
+| actions || ['Mine', 'Prospect', None, None, None] || ['Mine', None, None, None, None]
+|-
+|rowspan="3"|[[Copper ore vein]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#20408 20408]
+|-
+|name || [[Ore vein]] || [[Copper ore vein]]
+|-
+| actions || ['Mine', 'Prospect', None, None, None] || ['Mine', None, None, None, None]
+|-
+|rowspan="3"|[[Clay ore vein]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#20409 20409]
+|-
+|name || [[Ore vein]] || [[Clay ore vein]]
+|-
+| actions || ['Mine', 'Prospect', None, None, None] || ['Mine', None, None, None, None]
+|-
+|rowspan="3"|[[Coal ore vein]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#20410 20410]
+|-
+|name || [[Ore vein]] || [[Coal ore vein]]
+|-
+| actions || ['Mine', 'Prospect', None, None, None] || ['Mine', None, None, None, None]
+|-
+|rowspan="3"|[[Coal ore vein]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#20411 20411]
+|-
+|name || [[Ore vein]] || [[Coal ore vein]]
+|-
+| actions || ['Mine', 'Prospect', None, None, None] || ['Mine', None, None, None, None]
+|-
+|rowspan="3"|[[Coal ore vein]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#20412 20412]
+|-
+|name || [[Ore vein]] || [[Coal ore vein]]
+|-
+| actions || ['Mine', 'Prospect', None, None, None] || ['Mine', None, None, None, None]
+|-
+|rowspan="3"|[[Coal ore vein]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#20413 20413]
+|-
+|name || [[Ore vein]] || [[Coal ore vein]]
+|-
+| actions || ['Mine', 'Prospect', None, None, None] || ['Mine', None, None, None, None]
+|-
+|rowspan="3"|[[Adamant ore vein]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#20414 20414]
+|-
+|name || [[Ore vein]] || [[Adamant ore vein]]
+|-
+| actions || ['Mine', 'Prospect', None, None, None] || ['Mine', None, None, None, None]
+|-
+|rowspan="3"|[[Adamant ore vein]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#20415 20415]
+|-
+|name || [[Ore vein]] || [[Adamant ore vein]]
+|-
+| actions || ['Mine', 'Prospect', None, None, None] || ['Mine', None, None, None, None]
+|-
+|rowspan="3"|[[Adamant ore vein]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#20416 20416]
+|-
+|name || [[Ore vein]] || [[Adamant ore vein]]
+|-
+| actions || ['Mine', 'Prospect', None, None, None] || ['Mine', None, None, None, None]
+|-
+|rowspan="3"|[[Adamant ore vein]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#20417 20417]
+|-
+|name || [[Ore vein]] || [[Adamant ore vein]]
+|-
+| actions || ['Mine', 'Prospect', None, None, None] || ['Mine', None, None, None, None]
+|-
+|rowspan="3"|[[Mithril ore vein]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#20418 20418]
+|-
+|name || [[Ore vein]] || [[Mithril ore vein]]
+|-
+| actions || ['Mine', 'Prospect', None, None, None] || ['Mine', None, None, None, None]
+|-
+|rowspan="3"|[[Mithril ore vein]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#20419 20419]
+|-
+|name || [[Ore vein]] || [[Mithril ore vein]]
+|-
+| actions || ['Mine', 'Prospect', None, None, None] || ['Mine', None, None, None, None]
+|-
+|rowspan="3"|[[Mithril ore vein]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#20420 20420]
+|-
+|name || [[Ore vein]] || [[Mithril ore vein]]
+|-
+| actions || ['Mine', 'Prospect', None, None, None] || ['Mine', None, None, None, None]
+|-
+|rowspan="3"|[[Mithril ore vein]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#20421 20421]
+|-
+|name || [[Ore vein]] || [[Mithril ore vein]]
+|-
+| actions || ['Mine', 'Prospect', None, None, None] || ['Mine', None, None, None, None]
+|-
+|rowspan="3"|[[Iron ore vein]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#20422 20422]
+|-
+|name || [[Ore vein]] || [[Iron ore vein]]
+|-
+| actions || ['Mine', 'Prospect', None, None, None] || ['Mine', None, None, None, None]
+|-
+|rowspan="3"|[[Iron ore vein]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#20423 20423]
+|-
+|name || [[Ore vein]] || [[Iron ore vein]]
+|-
+| actions || ['Mine', 'Prospect', None, None, None] || ['Mine', None, None, None, None]
+|-
+|rowspan="3"|[[Iron ore vein]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#20424 20424]
+|-
+|name || [[Ore vein]] || [[Iron ore vein]]
+|-
+| actions || ['Mine', 'Prospect', None, None, None] || ['Mine', None, None, None, None]
+|-
+|rowspan="3"|[[Iron ore vein]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#20425 20425]
+|-
+|name || [[Ore vein]] || [[Iron ore vein]]
+|-
+| actions || ['Mine', 'Prospect', None, None, None] || ['Mine', None, None, None, None]
+|-
+|rowspan="2"|[[Depleted vein]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#20439 20439]
+|-
+|actions || ['Mine', 'Prospect', None, None, None] || ['Mine', None, None, None, None]
+|-
+|rowspan="2"|[[Depleted vein]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#20440 20440]
+|-
+|actions || ['Mine', 'Prospect', None, None, None] || ['Mine', None, None, None, None]
+|-
+|rowspan="2"|[[Depleted vein]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#20441 20441]
+|-
+|actions || ['Mine', 'Prospect', None, None, None] || ['Mine', None, None, None, None]
+|-
+|rowspan="2"|[[Depleted vein]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#20442 20442]
+|-
+|actions || ['Mine', 'Prospect', None, None, None] || ['Mine', None, None, None, None]
+|-
+|rowspan="3"|[[Tin ore vein]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#20443 20443]
+|-
+|name || [[Ore vein]] || [[Tin ore vein]]
+|-
+| actions || ['Mine', 'Prospect', None, None, None] || ['Mine', None, None, None, None]
+|-
+|rowspan="3"|[[Tin ore vein]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#20444 20444]
+|-
+|name || [[Ore vein]] || [[Tin ore vein]]
+|-
+| actions || ['Mine', 'Prospect', None, None, None] || ['Mine', None, None, None, None]
+|-
+|rowspan="3"|[[Tin ore vein]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#20445 20445]
+|-
+|name || [[Ore vein]] || [[Tin ore vein]]
+|-
+| actions || ['Mine', 'Prospect', None, None, None] || ['Mine', None, None, None, None]
+|-
+|rowspan="3"|[[Copper ore vein]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#20446 20446]
+|-
+|name || [[Ore vein]] || [[Copper ore vein]]
+|-
+| actions || ['Mine', 'Prospect', None, None, None] || ['Mine', None, None, None, None]
+|-
+|rowspan="3"|[[Copper ore vein]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#20447 20447]
+|-
+|name || [[Ore vein]] || [[Copper ore vein]]
+|-
+| actions || ['Mine', 'Prospect', None, None, None] || ['Mine', None, None, None, None]
+|-
+|rowspan="3"|[[Copper ore vein]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#20448 20448]
+|-
+|name || [[Ore vein]] || [[Copper ore vein]]
+|-
+| actions || ['Mine', 'Prospect', None, None, None] || ['Mine', None, None, None, None]
+|-
+|rowspan="3"|[[Clay ore vein]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#20449 20449]
+|-
+|name || [[Ore vein]] || [[Clay ore vein]]
+|-
+| actions || ['Mine', 'Prospect', None, None, None] || ['Mine', None, None, None, None]
+|-
+|rowspan="3"|[[Clay ore vein]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#20450 20450]
+|-
+|name || [[Ore vein]] || [[Clay ore vein]]
+|-
+| actions || ['Mine', 'Prospect', None, None, None] || ['Mine', None, None, None, None]
+|-
+|rowspan="3"|[[Clay ore vein]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#20451 20451]
+|-
+|name || [[Ore vein]] || [[Clay ore vein]]
+|-
+| actions || ['Mine', 'Prospect', None, None, None] || ['Mine', None, None, None, None]
+|-
+|rowspan="2"|[[Rocks]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#26873 26873]
+|-
+|actions || ['Mine', 'Prospect', None, None, None] || ['Mine', None, None, None, None]
+|-
+|rowspan="2"|[[Rocks]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#26874 26874]
+|-
+|actions || ['Mine', 'Prospect', None, None, None] || ['Mine', None, None, None, None]
+|-
+|rowspan="3"|[[Lovakite rocks]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#28596 28596]
+|-
+|name || [[Rocks]] || [[Lovakite rocks]]
+|-
+| actions || ['Mine', 'Prospect', None, None, None] || ['Mine', None, None, None, None]
+|-
+|rowspan="3"|[[Lovakite rocks]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#28597 28597]
+|-
+|name || [[Rocks]] || [[Lovakite rocks]]
+|-
+| actions || ['Mine', 'Prospect', None, None, None] || ['Mine', None, None, None, None]
+|-
+|rowspan="2"|[[Urt salt rocks]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#33254 33254]
+|-
+|name || [[Rocks]] || [[Urt salt rocks]]
+|-
+|rowspan="2"|[[Efh salt rocks]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#33255 33255]
+|-
+|name || [[Rocks]] || [[Efh salt rocks]]
+|-
+|rowspan="2"|[[Te salt rocks]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#33256 33256]
+|-
+|name || [[Rocks]] || [[Te salt rocks]]
+|-
+|rowspan="2"|[[Basalt rocks]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#33257 33257]
+|-
+|name || [[Rocks]] || [[Basalt rocks]]
+|-
+|rowspan="2"|[[Rune Essence]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#34773 34773]
+|-
+|actions || ['Mine', 'Prospect', None, None, None] || ['Mine', None, None, None, None]
+|-
+|rowspan="3"|[[Soft clay rocks]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#34956 34956]
+|-
+|name || [[Rocks]] || [[Soft clay rocks]]
+|-
+| actions || ['Mine', 'Prospect', None, None, None] || ['Mine', None, None, None, None]
+|-
+|rowspan="3"|[[Soft clay rocks]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#34957 34957]
+|-
+|name || [[Rocks]] || [[Soft clay rocks]]
+|-
+| actions || ['Mine', 'Prospect', None, None, None] || ['Mine', None, None, None, None]
+|-
+|rowspan="2"|[[Rocks]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#36202 36202]
+|-
+|actions || ['Mine', 'Prospect', None, None, None] || ['Mine', None, None, None, None]
+|-
+|rowspan="3"|[[Iron rocks]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#36203 36203]
+|-
+|name || [[Rocks]] || [[Iron rocks]]
+|-
+| actions || ['Mine', 'Prospect', None, None, None] || ['Mine', None, None, None, None]
+|-
+|rowspan="3"|[[Coal rocks]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#36204 36204]
+|-
+|name || [[Rocks]] || [[Coal rocks]]
+|-
+| actions || ['Mine', 'Prospect', None, None, None] || ['Mine', None, None, None, None]
+|-
+|rowspan="3"|[[Silver rocks]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#36205 36205]
+|-
+|name || [[Rocks]] || [[Silver rocks]]
+|-
+| actions || ['Mine', 'Prospect', None, None, None] || ['Mine', None, None, None, None]
+|-
+|rowspan="3"|[[Gold rocks]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#36206 36206]
+|-
+|name || [[Rocks]] || [[Gold rocks]]
+|-
+| actions || ['Mine', 'Prospect', None, None, None] || ['Mine', None, None, None, None]
+|-
+|rowspan="3"|[[Mithril rocks]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#36207 36207]
+|-
+|name || [[Rocks]] || [[Mithril rocks]]
+|-
+| actions || ['Mine', 'Prospect', None, None, None] || ['Mine', None, None, None, None]
+|-
+|rowspan="3"|[[Adamantite rocks]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#36208 36208]
+|-
+|name || [[Rocks]] || [[Adamantite rocks]]
+|-
+| actions || ['Mine', 'Prospect', None, None, None] || ['Mine', None, None, None, None]
+|-
+|rowspan="3"|[[Runite rocks]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#36209 36209]
+|-
+|name || [[Rocks]] || [[Runite rocks]]
+|-
+| actions || ['Mine', 'Prospect', None, None, None] || ['Mine', None, None, None, None]
+|-
+|rowspan="3"|[[Soft clay rocks]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#36210 36210]
+|-
+|name || [[Rocks]] || [[Soft clay rocks]]
+|-
+| actions || ['Mine', 'Prospect', None, None, None] || ['Mine', None, None, None, None]
+|-
+|rowspan="3"|[[Copper rocks]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#37944 37944]
+|-
+|name || [[Rocks]] || [[Copper rocks]]
+|-
+| actions || ['Mine', 'Prospect', None, None, None] || ['Mine', None, None, None, None]
+|-
+|rowspan="3"|[[Tin rocks]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#37945 37945]
+|-
+|name || [[Rocks]] || [[Tin rocks]]
+|-
+| actions || ['Mine', 'Prospect', None, None, None] || ['Mine', None, None, None, None]
+|-
+|rowspan="3"|[[Rocks]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#37946 37946]
+|-
+|actions || ['Mine', 'Prospect', None, None, None] || ['Mine', None, None, None, None]
+|-
+| blocksProjectile || False || True
+|-
+|rowspan="2"|[[Daeyalt Essence]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#39095 39095]
+|-
+|actions || ['Mine', 'Prospect', None, None, None] || ['Mine', None, None, None, None]
+|-
+|rowspan="3"|[[Barronite rocks]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#41547 41547]
+|-
+|name || [[Rocks]] || [[Barronite rocks]]
+|-
+| actions || ['Mine', 'Prospect', None, None, None] || ['Mine', None, None, None, None]
+|-
+|rowspan="3"|[[Barronite rocks]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#41548 41548]
+|-
+|name || [[Rocks]] || [[Barronite rocks]]
+|-
+| actions || ['Mine', 'Prospect', None, None, None] || ['Mine', None, None, None, None]
+|-
+|rowspan="2"|[[Rocks]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#41549 41549]
+|-
+|actions || ['Mine', 'Prospect', None, None, None] || ['Mine', None, None, None, None]
+|-
+|rowspan="2"|[[Rocks]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#41550 41550]
+|-
+|actions || ['Mine', 'Prospect', None, None, None] || ['Mine', None, None, None, None]
+|-
+|rowspan="3"|[[Iron rocks]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#42833 42833]
+|-
+|name || [[Rocks]] || [[Iron rocks]]
+|-
+| actions || ['Mine', 'Prospect', None, None, None] || ['Mine', None, None, None, None]
+|-
+|rowspan="3"|[[Ancient essence crystals]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#46701 46701]
+|-
+|name || [[Crystals]] || [[Ancient essence crystals]]
+|-
+| actions || ['Mine', 'Prospect', None, None, None] || ['Mine', None, None, None, None]
+|-
+|rowspan="2"|[[Wall]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#46702 46702]
+|-
+|actions || ['Mine', 'Prospect', None, None, None] || ['Mine', None, None, None, None]
+|-
+|}

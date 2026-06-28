@@ -1,0 +1,2145 @@
+{
+  "normal": [
+    {
+      "name": "Fire Blast",
+      "level": "59",
+      "xp": "34.5",
+      "materials": [
+        "Air rune",
+        "Fire rune",
+        "Death rune"
+      ],
+      "spellbook": "normal"
+    },
+    {
+      "name": "Fire Bolt",
+      "level": "35",
+      "xp": "22.5",
+      "materials": [
+        "Air rune",
+        "Fire rune",
+        "Chaos rune"
+      ],
+      "spellbook": "normal"
+    },
+    {
+      "name": "Fire Wave",
+      "level": "75",
+      "xp": "42.5",
+      "materials": [
+        "Air rune",
+        "Fire rune",
+        "Blood rune"
+      ],
+      "spellbook": "normal"
+    },
+    {
+      "name": "High Level Alchemy",
+      "level": "55",
+      "xp": "65",
+      "materials": [
+        "Fire rune",
+        "Nature rune"
+      ],
+      "spellbook": "normal"
+    },
+    {
+      "name": "Low Level Alchemy",
+      "level": "21",
+      "xp": "31",
+      "materials": [
+        "Fire rune",
+        "Nature rune"
+      ],
+      "spellbook": "normal"
+    },
+    {
+      "name": "Superheat Item",
+      "level": "43",
+      "xp": "53",
+      "materials": [
+        "Fire rune",
+        "Nature rune"
+      ],
+      "spellbook": "normal"
+    },
+    {
+      "name": "Iban Blast",
+      "level": "50",
+      "xp": "30",
+      "materials": [
+        "Fire rune",
+        "Death rune"
+      ],
+      "spellbook": "normal"
+    },
+    {
+      "name": "Bones to Bananas",
+      "level": "15",
+      "xp": "25",
+      "materials": [
+        "Earth rune",
+        "Water rune",
+        "Nature rune"
+      ],
+      "spellbook": "normal"
+    },
+    {
+      "name": "Earth Wave",
+      "level": "70",
+      "xp": "40",
+      "materials": [
+        "Air rune",
+        "Earth rune",
+        "Blood rune"
+      ],
+      "spellbook": "normal"
+    },
+    {
+      "name": "Confuse",
+      "level": "3",
+      "xp": "13",
+      "materials": [
+        "Earth rune",
+        "Water rune",
+        "Body rune"
+      ],
+      "spellbook": "normal"
+    },
+    {
+      "name": "Crumble Undead",
+      "level": "39",
+      "xp": "24.5",
+      "materials": [
+        "Air rune",
+        "Earth rune",
+        "Chaos rune"
+      ],
+      "spellbook": "normal"
+    },
+    {
+      "name": "Saradomin Strike",
+      "level": "60",
+      "xp": "35",
+      "materials": [
+        "Air rune",
+        "Fire rune",
+        "Blood rune"
+      ],
+      "spellbook": "normal"
+    },
+    {
+      "name": "Telekinetic Grab",
+      "level": "33",
+      "xp": "43",
+      "materials": [
+        "Air rune",
+        "Law rune"
+      ],
+      "spellbook": "normal"
+    },
+    {
+      "name": "Earth Bolt",
+      "level": "29",
+      "xp": "19.5",
+      "materials": [
+        "Air rune",
+        "Earth rune",
+        "Chaos rune"
+      ],
+      "spellbook": "normal"
+    },
+    {
+      "name": "Earth Strike",
+      "level": "9",
+      "xp": "9.5",
+      "materials": [
+        "Air rune",
+        "Earth rune",
+        "Mind rune"
+      ],
+      "spellbook": "normal"
+    },
+    {
+      "name": "Fire Strike",
+      "level": "13",
+      "xp": "11.5",
+      "materials": [
+        "Air rune",
+        "Fire rune",
+        "Mind rune"
+      ],
+      "spellbook": "normal"
+    },
+    {
+      "name": "Lvl-4 Enchant",
+      "level": "57",
+      "xp": "67",
+      "materials": [
+        "Earth rune",
+        "Cosmic rune"
+      ],
+      "spellbook": "normal"
+    },
+    {
+      "name": "Flames of Zamorak",
+      "level": "60",
+      "xp": "35",
+      "materials": [
+        "Air rune",
+        "Fire rune",
+        "Blood rune"
+      ],
+      "spellbook": "normal"
+    },
+    {
+      "name": "Trollheim Teleport",
+      "level": "61",
+      "xp": "68",
+      "materials": [
+        "Fire rune",
+        "Law rune"
+      ],
+      "spellbook": "normal"
+    },
+    {
+      "name": "Lvl-6 Enchant",
+      "level": "87",
+      "xp": "97",
+      "materials": [
+        "Earth rune",
+        "Fire rune",
+        "Cosmic rune"
+      ],
+      "spellbook": "normal"
+    },
+    {
+      "name": "Water Blast",
+      "level": "47",
+      "xp": "28.5",
+      "materials": [
+        "Air rune",
+        "Water rune",
+        "Death rune"
+      ],
+      "spellbook": "normal"
+    },
+    {
+      "name": "Tele Block",
+      "level": "85",
+      "xp": "83.6",
+      "materials": [
+        "Chaos rune",
+        "Death rune",
+        "Law rune"
+      ],
+      "spellbook": "normal"
+    },
+    {
+      "name": "Wind Strike",
+      "level": "1",
+      "xp": "5.5",
+      "materials": [
+        "Air rune",
+        "Mind rune"
+      ],
+      "spellbook": "normal"
+    },
+    {
+      "name": "Claws of Guthix",
+      "level": "60",
+      "xp": "35",
+      "materials": [
+        "Air rune",
+        "Fire rune",
+        "Blood rune"
+      ],
+      "spellbook": "normal"
+    },
+    {
+      "name": "Bones to Peaches",
+      "level": "60",
+      "xp": "35.5",
+      "materials": [
+        "Earth rune",
+        "Water rune",
+        "Nature rune"
+      ],
+      "spellbook": "normal"
+    },
+    {
+      "name": "Lvl-3 Enchant",
+      "level": "49",
+      "xp": "59",
+      "materials": [
+        "Fire rune",
+        "Cosmic rune"
+      ],
+      "spellbook": "normal"
+    },
+    {
+      "name": "Water Bolt",
+      "level": "23",
+      "xp": "16.5",
+      "materials": [
+        "Air rune",
+        "Water rune",
+        "Chaos rune"
+      ],
+      "spellbook": "normal"
+    },
+    {
+      "name": "Water Wave",
+      "level": "65",
+      "xp": "37.5",
+      "materials": [
+        "Air rune",
+        "Water rune",
+        "Blood rune"
+      ],
+      "spellbook": "normal"
+    },
+    {
+      "name": "Wind Bolt",
+      "level": "17",
+      "xp": "13.5",
+      "materials": [
+        "Air rune",
+        "Chaos rune"
+      ],
+      "spellbook": "normal"
+    },
+    {
+      "name": "Water Strike",
+      "level": "5",
+      "xp": "7.5",
+      "materials": [
+        "Air rune",
+        "Water rune",
+        "Mind rune"
+      ],
+      "spellbook": "normal"
+    },
+    {
+      "name": "Lumbridge Teleport",
+      "level": "31",
+      "xp": "41",
+      "materials": [
+        "Air rune",
+        "Earth rune",
+        "Law rune"
+      ],
+      "spellbook": "normal"
+    },
+    {
+      "name": "Falador Teleport",
+      "level": "37",
+      "xp": "48",
+      "materials": [
+        "Air rune",
+        "Water rune",
+        "Law rune"
+      ],
+      "spellbook": "normal"
+    },
+    {
+      "name": "Charge Air Orb",
+      "level": "66",
+      "xp": "76",
+      "materials": [
+        "Air rune",
+        "Cosmic rune",
+        "Unpowered orb"
+      ],
+      "spellbook": "normal"
+    },
+    {
+      "name": "Varrock Teleport",
+      "level": "25",
+      "xp": "35",
+      "materials": [
+        "Air rune",
+        "Fire rune",
+        "Law rune"
+      ],
+      "spellbook": "normal"
+    },
+    {
+      "name": "Wind Blast",
+      "level": "41",
+      "xp": "25.5",
+      "materials": [
+        "Air rune",
+        "Death rune"
+      ],
+      "spellbook": "normal"
+    },
+    {
+      "name": "Earth Blast",
+      "level": "53",
+      "xp": "31.5",
+      "materials": [
+        "Air rune",
+        "Earth rune",
+        "Death rune"
+      ],
+      "spellbook": "normal"
+    },
+    {
+      "name": "Wind Wave",
+      "level": "62",
+      "xp": "36",
+      "materials": [
+        "Air rune",
+        "Blood rune"
+      ],
+      "spellbook": "normal"
+    },
+    {
+      "name": "Magic Dart",
+      "level": "50",
+      "xp": "30",
+      "materials": [
+        "Death rune",
+        "Mind rune"
+      ],
+      "spellbook": "normal"
+    },
+    {
+      "name": "Charge",
+      "level": "80",
+      "xp": "180",
+      "materials": [
+        "Air rune",
+        "Fire rune",
+        "Blood rune"
+      ],
+      "spellbook": "normal"
+    },
+    {
+      "name": "Teleport to House",
+      "level": "40",
+      "xp": "30",
+      "materials": [
+        "Air rune",
+        "Earth rune",
+        "Law rune"
+      ],
+      "spellbook": "normal"
+    },
+    {
+      "name": "Lumbridge Home Teleport",
+      "level": "0",
+      "xp": "0",
+      "materials": [],
+      "spellbook": "normal"
+    },
+    {
+      "name": "Camelot Teleport",
+      "level": "45",
+      "xp": "55.5",
+      "materials": [
+        "Air rune",
+        "Law rune"
+      ],
+      "spellbook": "normal"
+    },
+    {
+      "name": "Ardougne Teleport",
+      "level": "51",
+      "xp": "61",
+      "materials": [
+        "Water rune",
+        "Law rune"
+      ],
+      "spellbook": "normal"
+    },
+    {
+      "name": "Watchtower Teleport",
+      "level": "58",
+      "xp": "68",
+      "materials": [
+        "Earth rune",
+        "Law rune"
+      ],
+      "spellbook": "normal"
+    },
+    {
+      "name": "Ape Atoll Teleport (standard)",
+      "level": "64",
+      "xp": "74",
+      "materials": [
+        "Fire rune",
+        "Water rune",
+        "Law rune",
+        "Banana"
+      ],
+      "spellbook": "normal"
+    },
+    {
+      "name": "Enchant Crossbow Bolt (Red Topaz)",
+      "level": "29",
+      "xp": "33.5",
+      "materials": [
+        "Fire rune",
+        "Cosmic rune"
+      ],
+      "spellbook": "normal"
+    },
+    {
+      "name": "Lvl-1 Enchant",
+      "level": "7",
+      "xp": "17.5",
+      "materials": [
+        "Water rune",
+        "Cosmic rune"
+      ],
+      "spellbook": "normal"
+    },
+    {
+      "name": "Lvl-2 Enchant",
+      "level": "27",
+      "xp": "37",
+      "materials": [
+        "Air rune",
+        "Cosmic rune"
+      ],
+      "spellbook": "normal"
+    },
+    {
+      "name": "Weaken",
+      "level": "11",
+      "xp": "21",
+      "materials": [
+        "Earth rune",
+        "Water rune",
+        "Body rune"
+      ],
+      "spellbook": "normal"
+    },
+    {
+      "name": "Curse",
+      "level": "19",
+      "xp": "29",
+      "materials": [
+        "Earth rune",
+        "Water rune",
+        "Body rune"
+      ],
+      "spellbook": "normal"
+    },
+    {
+      "name": "Bind",
+      "level": "20",
+      "xp": "31",
+      "materials": [
+        "Earth rune",
+        "Water rune",
+        "Nature rune"
+      ],
+      "spellbook": "normal"
+    },
+    {
+      "name": "Snare",
+      "level": "50",
+      "xp": "61",
+      "materials": [
+        "Earth rune",
+        "Water rune",
+        "Nature rune"
+      ],
+      "spellbook": "normal"
+    },
+    {
+      "name": "Vulnerability",
+      "level": "66",
+      "xp": "76",
+      "materials": [
+        "Earth rune",
+        "Water rune",
+        "Soul rune"
+      ],
+      "spellbook": "normal"
+    },
+    {
+      "name": "Enfeeble",
+      "level": "73",
+      "xp": "83",
+      "materials": [
+        "Earth rune",
+        "Water rune",
+        "Soul rune"
+      ],
+      "spellbook": "normal"
+    },
+    {
+      "name": "Entangle",
+      "level": "79",
+      "xp": "89",
+      "materials": [
+        "Earth rune",
+        "Water rune",
+        "Nature rune"
+      ],
+      "spellbook": "normal"
+    },
+    {
+      "name": "Stun",
+      "level": "80",
+      "xp": "90",
+      "materials": [
+        "Earth rune",
+        "Water rune",
+        "Soul rune"
+      ],
+      "spellbook": "normal"
+    },
+    {
+      "name": "Teleother Lumbridge",
+      "level": "74",
+      "xp": "84",
+      "materials": [
+        "Earth rune",
+        "Law rune",
+        "Soul rune"
+      ],
+      "spellbook": "normal"
+    },
+    {
+      "name": "Lvl-5 Enchant",
+      "level": "68",
+      "xp": "78",
+      "materials": [
+        "Earth rune",
+        "Water rune",
+        "Cosmic rune"
+      ],
+      "spellbook": "normal"
+    },
+    {
+      "name": "Enchant Crossbow Bolt (Onyx)",
+      "level": "87",
+      "xp": "97",
+      "materials": [
+        "Fire rune",
+        "Cosmic rune",
+        "Death rune"
+      ],
+      "spellbook": "normal"
+    },
+    {
+      "name": "Enchant Crossbow Bolt (Dragonstone)",
+      "level": "68",
+      "xp": "78",
+      "materials": [
+        "Earth rune",
+        "Cosmic rune",
+        "Soul rune"
+      ],
+      "spellbook": "normal"
+    },
+    {
+      "name": "Enchant Crossbow Bolt (Diamond)",
+      "level": "57",
+      "xp": "67",
+      "materials": [
+        "Earth rune",
+        "Cosmic rune",
+        "Law rune"
+      ],
+      "spellbook": "normal"
+    },
+    {
+      "name": "Enchant Crossbow Bolt (Ruby)",
+      "level": "49",
+      "xp": "59",
+      "materials": [
+        "Fire rune",
+        "Blood rune",
+        "Cosmic rune"
+      ],
+      "spellbook": "normal"
+    },
+    {
+      "name": "Enchant Crossbow Bolt (Emerald)",
+      "level": "27",
+      "xp": "37",
+      "materials": [
+        "Air rune",
+        "Cosmic rune",
+        "Nature rune"
+      ],
+      "spellbook": "normal"
+    },
+    {
+      "name": "Enchant Crossbow Bolt (Pearl)",
+      "level": "24",
+      "xp": "29",
+      "materials": [
+        "Water rune",
+        "Cosmic rune"
+      ],
+      "spellbook": "normal"
+    },
+    {
+      "name": "Enchant Crossbow Bolt (Jade)",
+      "level": "14",
+      "xp": "19",
+      "materials": [
+        "Earth rune",
+        "Cosmic rune"
+      ],
+      "spellbook": "normal"
+    },
+    {
+      "name": "Enchant Crossbow Bolt (Sapphire)",
+      "level": "7",
+      "xp": "17.5",
+      "materials": [
+        "Water rune",
+        "Cosmic rune",
+        "Mind rune"
+      ],
+      "spellbook": "normal"
+    },
+    {
+      "name": "Enchant Crossbow Bolt (Opal)",
+      "level": "4",
+      "xp": "9",
+      "materials": [
+        "Air rune",
+        "Cosmic rune"
+      ],
+      "spellbook": "normal"
+    },
+    {
+      "name": "Charge Fire Orb",
+      "level": "63",
+      "xp": "73",
+      "materials": [
+        "Fire rune",
+        "Cosmic rune",
+        "Unpowered orb"
+      ],
+      "spellbook": "normal"
+    },
+    {
+      "name": "Charge Earth Orb",
+      "level": "60",
+      "xp": "70",
+      "materials": [
+        "Earth rune",
+        "Cosmic rune",
+        "Unpowered orb"
+      ],
+      "spellbook": "normal"
+    },
+    {
+      "name": "Charge Water Orb",
+      "level": "56",
+      "xp": "66",
+      "materials": [
+        "Water rune",
+        "Cosmic rune",
+        "Unpowered orb"
+      ],
+      "spellbook": "normal"
+    },
+    {
+      "name": "Teleother Falador",
+      "level": "82",
+      "xp": "92",
+      "materials": [
+        "Water rune",
+        "Law rune",
+        "Soul rune"
+      ],
+      "spellbook": "normal"
+    },
+    {
+      "name": "Teleother Camelot",
+      "level": "90",
+      "xp": "100",
+      "materials": [
+        "Law rune",
+        "Soul rune"
+      ],
+      "spellbook": "normal"
+    },
+    {
+      "name": "Kourend Castle Teleport",
+      "level": "48",
+      "xp": "58",
+      "materials": [
+        "Fire rune",
+        "Water rune",
+        "Law rune"
+      ],
+      "spellbook": "normal"
+    },
+    {
+      "name": "Lvl-7 Enchant",
+      "level": "93",
+      "xp": "110",
+      "materials": [
+        "Blood rune",
+        "Cosmic rune",
+        "Soul rune"
+      ],
+      "spellbook": "normal"
+    },
+    {
+      "name": "Wind Surge",
+      "level": "81",
+      "xp": "44.5",
+      "materials": [
+        "Air rune",
+        "Wrath rune"
+      ],
+      "spellbook": "normal"
+    },
+    {
+      "name": "Water Surge",
+      "level": "85",
+      "xp": "46.5",
+      "materials": [
+        "Air rune",
+        "Water rune",
+        "Wrath rune"
+      ],
+      "spellbook": "normal"
+    },
+    {
+      "name": "Earth Surge",
+      "level": "90",
+      "xp": "48.2",
+      "materials": [
+        "Air rune",
+        "Earth rune",
+        "Wrath rune"
+      ],
+      "spellbook": "normal"
+    },
+    {
+      "name": "Fire Surge",
+      "level": "95",
+      "xp": "50.5",
+      "materials": [
+        "Air rune",
+        "Fire rune",
+        "Wrath rune"
+      ],
+      "spellbook": "normal"
+    },
+    {
+      "name": "Civitas illa Fortis Teleport",
+      "level": "54",
+      "xp": "64",
+      "materials": [
+        "Earth rune",
+        "Fire rune",
+        "Law rune"
+      ],
+      "spellbook": "normal"
+    },
+    {
+      "name": "Monster Inspect",
+      "level": "42",
+      "xp": "30.5",
+      "materials": [
+        "Body rune",
+        "Mind rune"
+      ],
+      "spellbook": "normal"
+    },
+    {
+      "name": "Teleport to Boat",
+      "level": "67",
+      "xp": "77",
+      "materials": [
+        "Earth rune",
+        "Water rune",
+        "Law rune"
+      ],
+      "spellbook": "normal"
+    },
+    {
+      "name": "Summon Boat",
+      "level": "56",
+      "xp": "66",
+      "materials": [
+        "Earth rune",
+        "Water rune",
+        "Law rune"
+      ],
+      "spellbook": "normal"
+    },
+    {
+      "name": "Alchemic Divergence",
+      "level": "1",
+      "xp": "10 * items",
+      "materials": [],
+      "spellbook": "normal"
+    },
+    {
+      "name": "Alchemic Convergence",
+      "level": "1",
+      "xp": "10 * items",
+      "materials": [],
+      "spellbook": "normal"
+    }
+  ],
+  "ancient": [
+    {
+      "name": "Ice Barrage",
+      "level": "94",
+      "xp": "52",
+      "materials": [
+        "Water rune",
+        "Blood rune",
+        "Death rune"
+      ],
+      "spellbook": "ancient"
+    },
+    {
+      "name": "Ice Blitz",
+      "level": "82",
+      "xp": "46",
+      "materials": [
+        "Water rune",
+        "Blood rune",
+        "Death rune"
+      ],
+      "spellbook": "ancient"
+    },
+    {
+      "name": "Ice Burst",
+      "level": "70",
+      "xp": "40",
+      "materials": [
+        "Water rune",
+        "Chaos rune",
+        "Death rune"
+      ],
+      "spellbook": "ancient"
+    },
+    {
+      "name": "Ice Rush",
+      "level": "58",
+      "xp": "34",
+      "materials": [
+        "Water rune",
+        "Chaos rune",
+        "Death rune"
+      ],
+      "spellbook": "ancient"
+    },
+    {
+      "name": "Paddewwa Teleport",
+      "level": "54",
+      "xp": "64",
+      "materials": [
+        "Air rune",
+        "Fire rune",
+        "Law rune"
+      ],
+      "spellbook": "ancient"
+    },
+    {
+      "name": "Smoke Rush",
+      "level": "50",
+      "xp": "30",
+      "materials": [
+        "Air rune",
+        "Fire rune",
+        "Chaos rune",
+        "Death rune"
+      ],
+      "spellbook": "ancient"
+    },
+    {
+      "name": "Shadow Rush",
+      "level": "52",
+      "xp": "31",
+      "materials": [
+        "Air rune",
+        "Chaos rune",
+        "Death rune",
+        "Soul rune"
+      ],
+      "spellbook": "ancient"
+    },
+    {
+      "name": "Blood Barrage",
+      "level": "92",
+      "xp": "51",
+      "materials": [
+        "Blood rune",
+        "Death rune",
+        "Soul rune"
+      ],
+      "spellbook": "ancient"
+    },
+    {
+      "name": "Ghorrock Teleport",
+      "level": "96",
+      "xp": "106",
+      "materials": [
+        "Water rune",
+        "Law rune"
+      ],
+      "spellbook": "ancient"
+    },
+    {
+      "name": "Smoke Barrage",
+      "level": "86",
+      "xp": "48",
+      "materials": [
+        "Air rune",
+        "Fire rune",
+        "Blood rune",
+        "Death rune"
+      ],
+      "spellbook": "ancient"
+    },
+    {
+      "name": "Kharyrll Teleport",
+      "level": "66",
+      "xp": "76",
+      "materials": [
+        "Blood rune",
+        "Law rune"
+      ],
+      "spellbook": "ancient"
+    },
+    {
+      "name": "Blood Burst",
+      "level": "68",
+      "xp": "39",
+      "materials": [
+        "Blood rune",
+        "Chaos rune",
+        "Death rune"
+      ],
+      "spellbook": "ancient"
+    },
+    {
+      "name": "Blood Rush",
+      "level": "56",
+      "xp": "33",
+      "materials": [
+        "Blood rune",
+        "Chaos rune",
+        "Death rune"
+      ],
+      "spellbook": "ancient"
+    },
+    {
+      "name": "Smoke Burst",
+      "level": "62",
+      "xp": "36",
+      "materials": [
+        "Air rune",
+        "Fire rune",
+        "Chaos rune",
+        "Death rune"
+      ],
+      "spellbook": "ancient"
+    },
+    {
+      "name": "Shadow Barrage",
+      "level": "88",
+      "xp": "49",
+      "materials": [
+        "Air rune",
+        "Blood rune",
+        "Death rune",
+        "Soul rune"
+      ],
+      "spellbook": "ancient"
+    },
+    {
+      "name": "Edgeville Home Teleport",
+      "level": "1",
+      "xp": "0",
+      "materials": [],
+      "spellbook": "ancient"
+    },
+    {
+      "name": "Senntisten Teleport",
+      "level": "60",
+      "xp": "70",
+      "materials": [
+        "Law rune",
+        "Soul rune"
+      ],
+      "spellbook": "ancient"
+    },
+    {
+      "name": "Lassar Teleport",
+      "level": "72",
+      "xp": "82",
+      "materials": [
+        "Water rune",
+        "Law rune"
+      ],
+      "spellbook": "ancient"
+    },
+    {
+      "name": "Dareeyak Teleport",
+      "level": "78",
+      "xp": "88",
+      "materials": [
+        "Air rune",
+        "Fire rune",
+        "Law rune"
+      ],
+      "spellbook": "ancient"
+    },
+    {
+      "name": "Blood Blitz",
+      "level": "80",
+      "xp": "45",
+      "materials": [
+        "Blood rune",
+        "Death rune"
+      ],
+      "spellbook": "ancient"
+    },
+    {
+      "name": "Shadow Burst",
+      "level": "64",
+      "xp": "37",
+      "materials": [
+        "Air rune",
+        "Chaos rune",
+        "Death rune",
+        "Soul rune"
+      ],
+      "spellbook": "ancient"
+    },
+    {
+      "name": "Shadow Blitz",
+      "level": "76",
+      "xp": "43",
+      "materials": [
+        "Air rune",
+        "Blood rune",
+        "Death rune",
+        "Soul rune"
+      ],
+      "spellbook": "ancient"
+    },
+    {
+      "name": "Smoke Blitz",
+      "level": "74",
+      "xp": "42",
+      "materials": [
+        "Air rune",
+        "Fire rune",
+        "Blood rune",
+        "Death rune"
+      ],
+      "spellbook": "ancient"
+    },
+    {
+      "name": "Carrallanger Teleport",
+      "level": "84",
+      "xp": "94",
+      "materials": [
+        "Law rune",
+        "Soul rune"
+      ],
+      "spellbook": "ancient"
+    },
+    {
+      "name": "Annakarl Teleport",
+      "level": "90",
+      "xp": "100",
+      "materials": [
+        "Blood rune",
+        "Law rune"
+      ],
+      "spellbook": "ancient"
+    }
+  ],
+  "unknown": [
+    {
+      "name": "RuneScape:Templates",
+      "level": "",
+      "xp": "",
+      "materials": [],
+      "spellbook": ""
+    }
+  ],
+  "lunar": [
+    {
+      "name": "NPC Contact",
+      "level": "67",
+      "xp": "63",
+      "materials": [
+        "Air rune",
+        "Astral rune",
+        "Cosmic rune"
+      ],
+      "spellbook": "lunar"
+    },
+    {
+      "name": "Barbarian Teleport",
+      "level": "75",
+      "xp": "76",
+      "materials": [
+        "Fire rune",
+        "Astral rune",
+        "Law rune"
+      ],
+      "spellbook": "lunar"
+    },
+    {
+      "name": "Tele Group Moonclan",
+      "level": "70",
+      "xp": "67",
+      "materials": [
+        "Earth rune",
+        "Astral rune",
+        "Law rune"
+      ],
+      "spellbook": "lunar"
+    },
+    {
+      "name": "Moonclan Teleport",
+      "level": "69",
+      "xp": "66",
+      "materials": [
+        "Earth rune",
+        "Astral rune",
+        "Law rune"
+      ],
+      "spellbook": "lunar"
+    },
+    {
+      "name": "Spellbook Swap",
+      "level": "96",
+      "xp": "130",
+      "materials": [
+        "Astral rune",
+        "Cosmic rune",
+        "Law rune"
+      ],
+      "spellbook": "lunar"
+    },
+    {
+      "name": "Humidify",
+      "level": "68",
+      "xp": "65",
+      "materials": [
+        "Fire rune",
+        "Water rune",
+        "Astral rune"
+      ],
+      "spellbook": "lunar"
+    },
+    {
+      "name": "Superglass Make",
+      "level": "77",
+      "xp": "78",
+      "materials": [
+        "Air rune",
+        "Fire rune",
+        "Astral rune"
+      ],
+      "spellbook": "lunar"
+    },
+    {
+      "name": "Waterbirth Teleport",
+      "level": "72",
+      "xp": "71",
+      "materials": [
+        "Water rune",
+        "Astral rune",
+        "Law rune"
+      ],
+      "spellbook": "lunar"
+    },
+    {
+      "name": "Khazard Teleport",
+      "level": "78",
+      "xp": "80",
+      "materials": [
+        "Water rune",
+        "Astral rune",
+        "Law rune"
+      ],
+      "spellbook": "lunar"
+    },
+    {
+      "name": "Fishing Guild Teleport",
+      "level": "85",
+      "xp": "89",
+      "materials": [
+        "Water rune",
+        "Astral rune",
+        "Law rune"
+      ],
+      "spellbook": "lunar"
+    },
+    {
+      "name": "Catherby Teleport",
+      "level": "87",
+      "xp": "92",
+      "materials": [
+        "Water rune",
+        "Astral rune",
+        "Law rune"
+      ],
+      "spellbook": "lunar"
+    },
+    {
+      "name": "Ice Plateau Teleport",
+      "level": "89",
+      "xp": "96",
+      "materials": [
+        "Water rune",
+        "Astral rune",
+        "Law rune"
+      ],
+      "spellbook": "lunar"
+    },
+    {
+      "name": "Lunar Home Teleport",
+      "level": "1",
+      "xp": "0",
+      "materials": [],
+      "spellbook": "lunar"
+    },
+    {
+      "name": "String Jewellery",
+      "level": "80",
+      "xp": "83",
+      "materials": [
+        "Earth rune",
+        "Water rune",
+        "Astral rune"
+      ],
+      "spellbook": "lunar"
+    },
+    {
+      "name": "Plank Make",
+      "level": "86",
+      "xp": "90",
+      "materials": [
+        "Earth rune",
+        "Astral rune",
+        "Nature rune"
+      ],
+      "spellbook": "lunar"
+    },
+    {
+      "name": "Hunter Kit (spell)",
+      "level": "71",
+      "xp": "70",
+      "materials": [
+        "Earth rune",
+        "Astral rune"
+      ],
+      "spellbook": "lunar"
+    },
+    {
+      "name": "Vengeance",
+      "level": "94",
+      "xp": "112",
+      "materials": [
+        "Earth rune",
+        "Astral rune",
+        "Death rune"
+      ],
+      "spellbook": "lunar"
+    },
+    {
+      "name": "Monster Examine",
+      "level": "66",
+      "xp": "61",
+      "materials": [
+        "Astral rune",
+        "Cosmic rune",
+        "Mind rune"
+      ],
+      "spellbook": "lunar"
+    },
+    {
+      "name": "Vengeance Other",
+      "level": "93",
+      "xp": "108",
+      "materials": [
+        "Earth rune",
+        "Astral rune",
+        "Death rune"
+      ],
+      "spellbook": "lunar"
+    },
+    {
+      "name": "Tele Group Waterbirth",
+      "level": "73",
+      "xp": "72",
+      "materials": [
+        "Water rune",
+        "Astral rune",
+        "Law rune"
+      ],
+      "spellbook": "lunar"
+    },
+    {
+      "name": "Tele Group Barbarian",
+      "level": "76",
+      "xp": "77",
+      "materials": [
+        "Fire rune",
+        "Astral rune",
+        "Law rune"
+      ],
+      "spellbook": "lunar"
+    },
+    {
+      "name": "Tele Group Khazard",
+      "level": "79",
+      "xp": "81",
+      "materials": [
+        "Water rune",
+        "Astral rune",
+        "Law rune"
+      ],
+      "spellbook": "lunar"
+    },
+    {
+      "name": "Tele Group Fishing Guild",
+      "level": "86",
+      "xp": "90",
+      "materials": [
+        "Water rune",
+        "Astral rune",
+        "Law rune"
+      ],
+      "spellbook": "lunar"
+    },
+    {
+      "name": "Tele Group Catherby",
+      "level": "88",
+      "xp": "93",
+      "materials": [
+        "Water rune",
+        "Astral rune",
+        "Law rune"
+      ],
+      "spellbook": "lunar"
+    },
+    {
+      "name": "Tele Group Ice Plateau",
+      "level": "90",
+      "xp": "99",
+      "materials": [
+        "Water rune",
+        "Astral rune",
+        "Law rune"
+      ],
+      "spellbook": "lunar"
+    },
+    {
+      "name": "Dream",
+      "level": "79",
+      "xp": "82",
+      "materials": [
+        "Astral rune",
+        "Body rune",
+        "Cosmic rune"
+      ],
+      "spellbook": "lunar"
+    },
+    {
+      "name": "Stat Spy",
+      "level": "75",
+      "xp": "76",
+      "materials": [
+        "Astral rune",
+        "Body rune",
+        "Cosmic rune"
+      ],
+      "spellbook": "lunar"
+    },
+    {
+      "name": "Fertile Soil",
+      "level": "83",
+      "xp": "87",
+      "materials": [
+        "Earth rune",
+        "Astral rune",
+        "Nature rune"
+      ],
+      "spellbook": "lunar"
+    },
+    {
+      "name": "Energy Transfer",
+      "level": "91",
+      "xp": "100",
+      "materials": [
+        "Astral rune",
+        "Law rune",
+        "Nature rune"
+      ],
+      "spellbook": "lunar"
+    },
+    {
+      "name": "Cure Other",
+      "level": "68",
+      "xp": "65",
+      "materials": [
+        "Earth rune",
+        "Astral rune",
+        "Law rune"
+      ],
+      "spellbook": "lunar"
+    },
+    {
+      "name": "Magic Imbue",
+      "level": "82",
+      "xp": "86",
+      "materials": [
+        "Fire rune",
+        "Water rune",
+        "Astral rune"
+      ],
+      "spellbook": "lunar"
+    },
+    {
+      "name": "Bake Pie",
+      "level": "65",
+      "xp": "60",
+      "materials": [
+        "Fire rune",
+        "Water rune",
+        "Astral rune"
+      ],
+      "spellbook": "lunar"
+    },
+    {
+      "name": "Cure Plant",
+      "level": "66",
+      "xp": "60",
+      "materials": [
+        "Earth rune",
+        "Astral rune"
+      ],
+      "spellbook": "lunar"
+    },
+    {
+      "name": "Cure Me",
+      "level": "71",
+      "xp": "69",
+      "materials": [
+        "Astral rune",
+        "Cosmic rune",
+        "Law rune"
+      ],
+      "spellbook": "lunar"
+    },
+    {
+      "name": "Cure Group",
+      "level": "74",
+      "xp": "74",
+      "materials": [
+        "Astral rune",
+        "Cosmic rune",
+        "Law rune"
+      ],
+      "spellbook": "lunar"
+    },
+    {
+      "name": "Heal Other",
+      "level": "92",
+      "xp": "101",
+      "materials": [
+        "Astral rune",
+        "Blood rune",
+        "Law rune"
+      ],
+      "spellbook": "lunar"
+    },
+    {
+      "name": "Heal Group",
+      "level": "95",
+      "xp": "124",
+      "materials": [
+        "Astral rune",
+        "Blood rune",
+        "Law rune"
+      ],
+      "spellbook": "lunar"
+    },
+    {
+      "name": "Stat Restore Pot Share",
+      "level": "81",
+      "xp": "84",
+      "materials": [
+        "Earth rune",
+        "Water rune",
+        "Astral rune"
+      ],
+      "spellbook": "lunar"
+    },
+    {
+      "name": "Boost Potion Share",
+      "level": "84",
+      "xp": "88",
+      "materials": [
+        "Earth rune",
+        "Water rune",
+        "Astral rune"
+      ],
+      "spellbook": "lunar"
+    },
+    {
+      "name": "Tan Leather",
+      "level": "78",
+      "xp": "81",
+      "materials": [
+        "Fire rune",
+        "Astral rune",
+        "Nature rune"
+      ],
+      "spellbook": "lunar"
+    },
+    {
+      "name": "Recharge Dragonstone",
+      "level": "89",
+      "xp": "97.5",
+      "materials": [
+        "Water rune",
+        "Astral rune",
+        "Soul rune"
+      ],
+      "spellbook": "lunar"
+    },
+    {
+      "name": "Geomancy",
+      "level": "65",
+      "xp": "60",
+      "materials": [
+        "Earth rune",
+        "Astral rune",
+        "Nature rune"
+      ],
+      "spellbook": "lunar"
+    },
+    {
+      "name": "Spin Flax",
+      "level": "76",
+      "xp": "75",
+      "materials": [
+        "Air rune",
+        "Astral rune",
+        "Nature rune"
+      ],
+      "spellbook": "lunar"
+    },
+    {
+      "name": "Ourania Teleport",
+      "level": "71",
+      "xp": "69",
+      "materials": [
+        "Earth rune",
+        "Astral rune",
+        "Law rune"
+      ],
+      "spellbook": "lunar"
+    }
+  ],
+  "arceuus": [
+    {
+      "name": "Ape Atoll Teleport (Arceuus)",
+      "level": "90",
+      "xp": "100",
+      "materials": [
+        "Blood rune",
+        "Law rune",
+        "Soul rune"
+      ],
+      "spellbook": "arceuus"
+    },
+    {
+      "name": "Arceuus Home Teleport",
+      "level": "1",
+      "xp": "0",
+      "materials": [],
+      "spellbook": "arceuus"
+    },
+    {
+      "name": "Draynor Manor Teleport",
+      "level": "17",
+      "xp": "16",
+      "materials": [
+        "Earth rune",
+        "Water rune",
+        "Law rune"
+      ],
+      "spellbook": "arceuus"
+    },
+    {
+      "name": "Mind Altar Teleport",
+      "level": "28",
+      "xp": "22",
+      "materials": [
+        "Law rune",
+        "Mind rune"
+      ],
+      "spellbook": "arceuus"
+    },
+    {
+      "name": "Respawn Teleport",
+      "level": "34",
+      "xp": "27",
+      "materials": [
+        "Law rune",
+        "Soul rune"
+      ],
+      "spellbook": "arceuus"
+    },
+    {
+      "name": "Salve Graveyard Teleport",
+      "level": "40",
+      "xp": "30",
+      "materials": [
+        "Law rune",
+        "Soul rune"
+      ],
+      "spellbook": "arceuus"
+    },
+    {
+      "name": "Fenkenstrain's Castle Teleport",
+      "level": "48",
+      "xp": "50",
+      "materials": [
+        "Earth rune",
+        "Law rune",
+        "Soul rune"
+      ],
+      "spellbook": "arceuus"
+    },
+    {
+      "name": "West Ardougne Teleport",
+      "level": "61",
+      "xp": "68",
+      "materials": [
+        "Law rune",
+        "Soul rune"
+      ],
+      "spellbook": "arceuus"
+    },
+    {
+      "name": "Harmony Island Teleport",
+      "level": "65",
+      "xp": "74",
+      "materials": [
+        "Law rune",
+        "Nature rune",
+        "Soul rune"
+      ],
+      "spellbook": "arceuus"
+    },
+    {
+      "name": "Cemetery Teleport",
+      "level": "71",
+      "xp": "82",
+      "materials": [
+        "Blood rune",
+        "Law rune",
+        "Soul rune"
+      ],
+      "spellbook": "arceuus"
+    },
+    {
+      "name": "Barrows Teleport",
+      "level": "83",
+      "xp": "90",
+      "materials": [
+        "Blood rune",
+        "Law rune",
+        "Soul rune"
+      ],
+      "spellbook": "arceuus"
+    },
+    {
+      "name": "Resurrect Crops",
+      "level": "78",
+      "xp": "90",
+      "materials": [
+        "Earth rune",
+        "Blood rune",
+        "Nature rune",
+        "Soul rune"
+      ],
+      "spellbook": "arceuus"
+    },
+    {
+      "name": "Battlefront Teleport",
+      "level": "23",
+      "xp": "19",
+      "materials": [
+        "Earth rune",
+        "Fire rune",
+        "Law rune"
+      ],
+      "spellbook": "arceuus"
+    },
+    {
+      "name": "Lesser Corruption",
+      "level": "64",
+      "xp": "75",
+      "materials": [
+        "Death rune",
+        "Soul rune"
+      ],
+      "spellbook": "arceuus"
+    },
+    {
+      "name": "Greater Corruption",
+      "level": "85",
+      "xp": "95",
+      "materials": [
+        "Blood rune",
+        "Soul rune"
+      ],
+      "spellbook": "arceuus"
+    },
+    {
+      "name": "Ghostly Grasp",
+      "level": "35",
+      "xp": "22.5",
+      "materials": [
+        "Air rune",
+        "Chaos rune"
+      ],
+      "spellbook": "arceuus"
+    },
+    {
+      "name": "Skeletal Grasp",
+      "level": "56",
+      "xp": "33",
+      "materials": [
+        "Earth rune",
+        "Death rune"
+      ],
+      "spellbook": "arceuus"
+    },
+    {
+      "name": "Undead Grasp",
+      "level": "79",
+      "xp": "46.5",
+      "materials": [
+        "Fire rune",
+        "Blood rune"
+      ],
+      "spellbook": "arceuus"
+    },
+    {
+      "name": "Inferior Demonbane",
+      "level": "44",
+      "xp": "27",
+      "materials": [
+        "Fire rune",
+        "Chaos rune"
+      ],
+      "spellbook": "arceuus"
+    },
+    {
+      "name": "Superior Demonbane",
+      "level": "62",
+      "xp": "36",
+      "materials": [
+        "Fire rune",
+        "Soul rune"
+      ],
+      "spellbook": "arceuus"
+    },
+    {
+      "name": "Dark Demonbane",
+      "level": "82",
+      "xp": "43.5",
+      "materials": [
+        "Fire rune",
+        "Soul rune"
+      ],
+      "spellbook": "arceuus"
+    },
+    {
+      "name": "Demonic Offering",
+      "level": "84",
+      "xp": "175",
+      "materials": [
+        "Soul rune",
+        "Wrath rune"
+      ],
+      "spellbook": "arceuus"
+    },
+    {
+      "name": "Sinister Offering",
+      "level": "92",
+      "xp": "180",
+      "materials": [
+        "Blood rune",
+        "Wrath rune"
+      ],
+      "spellbook": "arceuus"
+    },
+    {
+      "name": "Degrime",
+      "level": "70",
+      "xp": "83",
+      "materials": [
+        "Earth rune",
+        "Nature rune"
+      ],
+      "spellbook": "arceuus"
+    },
+    {
+      "name": "Dark Lure",
+      "level": "50",
+      "xp": "60",
+      "materials": [
+        "Death rune",
+        "Nature rune"
+      ],
+      "spellbook": "arceuus"
+    },
+    {
+      "name": "Death Charge",
+      "level": "80",
+      "xp": "90",
+      "materials": [
+        "Blood rune",
+        "Death rune",
+        "Soul rune"
+      ],
+      "spellbook": "arceuus"
+    },
+    {
+      "name": "Mark of Darkness",
+      "level": "59",
+      "xp": "70",
+      "materials": [
+        "Cosmic rune",
+        "Soul rune"
+      ],
+      "spellbook": "arceuus"
+    },
+    {
+      "name": "Ward of Arceuus",
+      "level": "73",
+      "xp": "83",
+      "materials": [
+        "Cosmic rune",
+        "Nature rune",
+        "Soul rune"
+      ],
+      "spellbook": "arceuus"
+    },
+    {
+      "name": "Shadow Veil",
+      "level": "47",
+      "xp": "58",
+      "materials": [
+        "Earth rune",
+        "Fire rune",
+        "Cosmic rune"
+      ],
+      "spellbook": "arceuus"
+    },
+    {
+      "name": "Vile Vigour",
+      "level": "66",
+      "xp": "76",
+      "materials": [
+        "Air rune",
+        "Soul rune"
+      ],
+      "spellbook": "arceuus"
+    },
+    {
+      "name": "Arceuus Library Teleport",
+      "level": "6",
+      "xp": "9",
+      "materials": [
+        "Earth rune",
+        "Law rune"
+      ],
+      "spellbook": "arceuus"
+    },
+    {
+      "name": "Basic Reanimation",
+      "level": "16",
+      "xp": "32",
+      "materials": [
+        "Body rune",
+        "Nature rune"
+      ],
+      "spellbook": "arceuus"
+    },
+    {
+      "name": "Adept Reanimation",
+      "level": "41",
+      "xp": "80",
+      "materials": [
+        "Body rune",
+        "Nature rune",
+        "Soul rune"
+      ],
+      "spellbook": "arceuus"
+    },
+    {
+      "name": "Expert Reanimation",
+      "level": "72",
+      "xp": "138",
+      "materials": [
+        "Blood rune",
+        "Nature rune",
+        "Soul rune"
+      ],
+      "spellbook": "arceuus"
+    },
+    {
+      "name": "Master Reanimation",
+      "level": "90",
+      "xp": "170",
+      "materials": [
+        "Blood rune",
+        "Nature rune",
+        "Soul rune"
+      ],
+      "spellbook": "arceuus"
+    },
+    {
+      "name": "Resurrect Lesser Ghost",
+      "level": "38",
+      "xp": "55",
+      "materials": [
+        "Air rune",
+        "Cosmic rune",
+        "Mind rune"
+      ],
+      "spellbook": "arceuus"
+    },
+    {
+      "name": "Resurrect Lesser Skeleton",
+      "level": "38",
+      "xp": "55",
+      "materials": [
+        "Air rune",
+        "Cosmic rune",
+        "Mind rune"
+      ],
+      "spellbook": "arceuus"
+    },
+    {
+      "name": "Resurrect Lesser Zombie",
+      "level": "38",
+      "xp": "55",
+      "materials": [
+        "Air rune",
+        "Cosmic rune",
+        "Mind rune"
+      ],
+      "spellbook": "arceuus"
+    },
+    {
+      "name": "Resurrect Superior Ghost",
+      "level": "57",
+      "xp": "70",
+      "materials": [
+        "Earth rune",
+        "Cosmic rune",
+        "Death rune"
+      ],
+      "spellbook": "arceuus"
+    },
+    {
+      "name": "Resurrect Superior Skeleton",
+      "level": "57",
+      "xp": "70",
+      "materials": [
+        "Earth rune",
+        "Cosmic rune",
+        "Death rune"
+      ],
+      "spellbook": "arceuus"
+    },
+    {
+      "name": "Resurrect Superior Zombie",
+      "level": "57",
+      "xp": "70",
+      "materials": [
+        "Earth rune",
+        "Cosmic rune",
+        "Death rune"
+      ],
+      "spellbook": "arceuus"
+    },
+    {
+      "name": "Resurrect Greater Ghost",
+      "level": "76",
+      "xp": "88",
+      "materials": [
+        "Fire rune",
+        "Blood rune",
+        "Cosmic rune"
+      ],
+      "spellbook": "arceuus"
+    },
+    {
+      "name": "Resurrect Greater Skeleton",
+      "level": "76",
+      "xp": "88",
+      "materials": [
+        "Fire rune",
+        "Blood rune",
+        "Cosmic rune"
+      ],
+      "spellbook": "arceuus"
+    },
+    {
+      "name": "Resurrect Greater Zombie",
+      "level": "76",
+      "xp": "88",
+      "materials": [
+        "Fire rune",
+        "Blood rune",
+        "Cosmic rune"
+      ],
+      "spellbook": "arceuus"
+    }
+  ],
+  "all": [
+    {
+      "name": "Teleport to Target",
+      "level": "85",
+      "xp": "45",
+      "materials": [
+        "Chaos rune",
+        "Death rune",
+        "Law rune"
+      ],
+      "spellbook": "all"
+    },
+    {
+      "name": "Minigame Teleport",
+      "level": "1",
+      "xp": "0",
+      "materials": [],
+      "spellbook": "all"
+    },
+    {
+      "name": "League Home Teleport",
+      "level": "1",
+      "xp": "0",
+      "materials": [],
+      "spellbook": "all"
+    }
+  ]
+}

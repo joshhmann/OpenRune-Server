@@ -1,0 +1,673 @@
+__TOC__
+==Objects==
+===Removed Objects===
+{| class="wikitable sortable sticky-header mw-collapsible"
+|-
+! colspan="4" | Removed Objects
+|-
+! style="width: 15em" | name !! id !! gameVal !! actions
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#56234 56234][https://abextm.github.io/cache2/#/viewer/obj/56234 (1)] || easter25_carrot_crate_trail_investigate_1 || [None, None, None, None, None]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#56238 56238][https://abextm.github.io/cache2/#/viewer/obj/56238 (1)] || easter25_carrot_scraps_trail_investigate_2 || [None, None, None, None, None]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#56242 56242][https://abextm.github.io/cache2/#/viewer/obj/56242 (1)] || easter25_carrot_scraps_trail_investigate_3 || [None, None, None, None, None]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#56246 56246][https://abextm.github.io/cache2/#/viewer/obj/56246 (1)] || easter25_carrot_trail_1 || [None, None, None, None, None]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#56247 56247][https://abextm.github.io/cache2/#/viewer/obj/56247 (1)] || easter25_carrot_trail_2 || [None, None, None, None, None]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#56248 56248][https://abextm.github.io/cache2/#/viewer/obj/56248 (1)] || easter25_carrot_trail_3 || [None, None, None, None, None]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#56249 56249][https://abextm.github.io/cache2/#/viewer/obj/56249 (1)] || easter25_rabbithole_entrance || [None, None, None, None, None]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#56264 56264][https://abextm.github.io/cache2/#/viewer/obj/56264 (1)] || easter25_stall01_default01_multi01 || [None, None, None, None, None]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#56265 56265][https://abextm.github.io/cache2/#/viewer/obj/56265 (1)] || easter25_stall01_default01_multi02 || [None, None, None, None, None]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#56266 56266][https://abextm.github.io/cache2/#/viewer/obj/56266 (1)] || easter25_stall01_default01_multi03 || [None, None, None, None, None]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#56273 56273][https://abextm.github.io/cache2/#/viewer/obj/56273 (1)] || easter25_eggs01_multi || [None, None, None, None, None]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#56274 56274][https://abextm.github.io/cache2/#/viewer/obj/56274 (1)] || easter25_eggs02_multi || [None, None, None, None, None]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#56275 56275][https://abextm.github.io/cache2/#/viewer/obj/56275 (1)] || easter25_eggs03_multi || [None, None, None, None, None]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#56276 56276][https://abextm.github.io/cache2/#/viewer/obj/56276 (1)] || easter25_eggs04_multi || [None, None, None, None, None]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#56297 56297][https://abextm.github.io/cache2/#/viewer/obj/56297 (1)] || easter25_sack_multi || [None, None, None, None, None]
+|}
+===Diff Objects===
+{| class="wikitable sortable sticky-header mw-collapsible"
+|-
+! colspan="5" | Diff Objects
+|-
+! style="width: 15em" | Name !! Id !! Key !! Previous Value !! New Value
+|-
+| rowspan="3" | [[<col=ffff00>Eric</col>]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/object_id.html#10250 10250][https://abextm.github.io/cache2/#/viewer/obj/10250 (1)]
+|-
+| name || Eric || <span style="color: #6bc71f"><col=ffff00></span>Eric<span style="color: #6bc71f"></col></span>
+|-
+| mapSceneId || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">82</span>
+|}
+==Enums==
+===Diff Enums===
+{| class="wikitable sortable sticky-header mw-collapsible"
+|-
+! colspan="5" | Diff Enums
+|-
+! style="width: 15em" | Id !! Key !! Previous Value !! New Value
+|-
+| rowspan="2" | [https://chisel.weirdgloop.org/structs/index.html?type=enums&id=1697 1697][https://abextm.github.io/cache2/#/viewer/enum/1697 (1)]
+|-
+| map || {'0': 0, '1': 1, '2': 2, '3': 3, '4': 4, '5': 5, '6': 6, '7': 7, '8': 9, '9': 10, '10': 38, '11': 36, '12': 11, '13': 12, '14': 13, '15': 14, '16': 15, '17': 16, '18': 39, '19': 17, '20': 18, '21': 20, '22': 21, '23': 22, '24': 23, '25': 24, '26': 25, '27': 26, '28': 27, '29': 28, '30': 19, '31': 32, '32': 30, '33': 31, '34': 33, '35': 29, '36': 34, '37': 35, '38': 40, '39': 42, '40': 8, '41': 41, '42': 43, '43': 44, '44': 45<span style="color: #ee4231">, '45': 46</span>} || {'0': 0, '1': 1, '2': 2, '3': 3, '4': 4, '5': 5, '6': 6, '7': 7, '8': 9, '9': 10, '10': 38, '11': 36, '12': 11, '13': 12, '14': 13, '15': 14, '16': 15, '17': 16, '18': 39, '19': 17, '20': 18, '21': 20, '22': 21, '23': 22, '24': 23, '25': 24, '26': 25, '27': 26, '28': 27, '29': 28, '30': 19, '31': 32, '32': 30, '33': 31, '34': 33, '35': 29, '36': 34, '37': 35, '38': 40, '39': 42, '40': 8, '41': 41, '42': 43, '43': 44, '44': 45}
+|}
+==Npcs==
+===Removed Npcs===
+{| class="wikitable sortable sticky-header mw-collapsible"
+|-
+! colspan="5" | Removed Npcs
+|-
+! style="width: 15em" | name !! id !! gameVal !! combatLevel !! actions
+|-
+| [[Concerned man]] || [https://chisel.weirdgloop.org/moid/npc_id.html#14179 14179][https://abextm.github.io/cache2/#/viewer/npc/14179 (1)] || easter25_concerned_man_01 || 0 || [Talk-to, None, None, None, None]
+|-
+| [[Easter Bunny]] || [https://chisel.weirdgloop.org/moid/npc_id.html#14180 14180][https://abextm.github.io/cache2/#/viewer/npc/14180 (1)] || easter25_easter_bunny || 0 || [Talk-to, None, None, None, None]
+|-
+| [[Glanton]] || [https://chisel.weirdgloop.org/moid/npc_id.html#14181 14181][https://abextm.github.io/cache2/#/viewer/npc/14181 (1)] || easter25_glanton || 0 || [Talk-to, None, None, None, None]
+|-
+| [[Glanton]] || [https://chisel.weirdgloop.org/moid/npc_id.html#14182 14182][https://abextm.github.io/cache2/#/viewer/npc/14182 (1)] || easter25_glanton_cutscene || 0 || [None, None, None, None, None]
+|-
+| [[Rinder]] || [https://chisel.weirdgloop.org/moid/npc_id.html#14183 14183][https://abextm.github.io/cache2/#/viewer/npc/14183 (1)] || easter25_rinder || 0 || [Talk-to, None, None, None, None]
+|-
+| [[Rinder]] || [https://chisel.weirdgloop.org/moid/npc_id.html#14184 14184][https://abextm.github.io/cache2/#/viewer/npc/14184 (1)] || easter25_rinder_cutscene || 0 || [None, None, None, None, None]
+|-
+| [[Cooky Weasel]] || [https://chisel.weirdgloop.org/moid/npc_id.html#14185 14185][https://abextm.github.io/cache2/#/viewer/npc/14185 (1)] || easter25_cook_weasel || 0 || [Talk-to, None, None, None, None]
+|-
+| [[Wheeler]] || [https://chisel.weirdgloop.org/moid/npc_id.html#14186 14186][https://abextm.github.io/cache2/#/viewer/npc/14186 (1)] || easter25_wheeler || 0 || [Talk-to, None, None, None, None]
+|-
+| [[Eggus Manus]] || [https://chisel.weirdgloop.org/moid/npc_id.html#14187 14187][https://abextm.github.io/cache2/#/viewer/npc/14187 (1)] || easter25_priest_eggus_manus || 0 || [Talk-to, None, None, None, None]
+|-
+| [[Bowley Moley]] || [https://chisel.weirdgloop.org/moid/npc_id.html#14188 14188][https://abextm.github.io/cache2/#/viewer/npc/14188 (1)] || easter25_bowley_moley || 0 || [Talk-to, None, None, None, None]
+|-
+| [[Fry]] || [https://chisel.weirdgloop.org/moid/npc_id.html#14189 14189][https://abextm.github.io/cache2/#/viewer/npc/14189 (1)] || easter25_fry || 0 || [Talk-to, None, None, None, None]
+|-
+| [[Scorpion]] || [https://chisel.weirdgloop.org/moid/npc_id.html#14190 14190][https://abextm.github.io/cache2/#/viewer/npc/14190 (1)] || easter25_scorpion_cutscene || 14 || [None, None, None, None, None]
+|-
+| [[Bowley Moley]] || [https://chisel.weirdgloop.org/moid/npc_id.html#14191 14191][https://abextm.github.io/cache2/#/viewer/npc/14191 (1)] || easter25_bowley_moley_cutscene || 0 || [Talk-to, None, None, None, None]
+|-
+| [[Easter Bunny]] || [https://chisel.weirdgloop.org/moid/npc_id.html#14192 14192][https://abextm.github.io/cache2/#/viewer/npc/14192 (1)] || easter25_easter_bunny_cutscene || 0 || [Talk-to, None, None, None, None]
+|-
+| [[Eggus Manus]] || [https://chisel.weirdgloop.org/moid/npc_id.html#14193 14193][https://abextm.github.io/cache2/#/viewer/npc/14193 (1)] || easter25_priest_eggus_manus_cutscene || 0 || [None, None, None, None, None]
+|-
+| [[Fry]] || [https://chisel.weirdgloop.org/moid/npc_id.html#14194 14194][https://abextm.github.io/cache2/#/viewer/npc/14194 (1)] || easter25_fry_cutscene || 0 || [None, None, None, None, None]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/npc_id.html#14195 14195][https://abextm.github.io/cache2/#/viewer/npc/14195 (1)] || easter25_varrock_end_glanton_multi || 0 || [None, None, None, None, None]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/npc_id.html#14196 14196][https://abextm.github.io/cache2/#/viewer/npc/14196 (1)] || easter25_varrock_end_rinder_multi || 0 || [None, None, None, None, None]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/npc_id.html#14197 14197][https://abextm.github.io/cache2/#/viewer/npc/14197 (1)] || easter25_varrock_end_bowley_moley_multi || 0 || [None, None, None, None, None]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/npc_id.html#14198 14198][https://abextm.github.io/cache2/#/viewer/npc/14198 (1)] || easter25_varrock_end_cooky_weasel_multi || 0 || [None, None, None, None, None]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/npc_id.html#14199 14199][https://abextm.github.io/cache2/#/viewer/npc/14199 (1)] || easter25_varrock_end_priest_eggus_manus_multi || 0 || [None, None, None, None, None]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/npc_id.html#14200 14200][https://abextm.github.io/cache2/#/viewer/npc/14200 (1)] || easter25_varrock_end_easter_bunny_multi || 0 || [None, None, None, None, None]
+|-
+| [[Clarence]] || [https://chisel.weirdgloop.org/moid/npc_id.html#14201 14201][https://abextm.github.io/cache2/#/viewer/npc/14201 (1)] || easter25_clarence_chicken || 0 || [None, None, None, None, None]
+|-
+| [[The mouth of Clarence]] || [https://chisel.weirdgloop.org/moid/npc_id.html#14202 14202][https://abextm.github.io/cache2/#/viewer/npc/14202 (1)] || easter25_clarence_mouth || 0 || [Talk-to, None, None, None, None]
+|-
+| [[Doughphie]] || [https://chisel.weirdgloop.org/moid/npc_id.html#14203 14203][https://abextm.github.io/cache2/#/viewer/npc/14203 (1)] || easter25_doughphie || 0 || [Talk-to, None, None, None, None]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/npc_id.html#14204 14204][https://abextm.github.io/cache2/#/viewer/npc/14204 (1)] || easter25_invis_npc || 0 || [None, None, None, None, None]
+|-
+| [[Eggus manus]] || [https://chisel.weirdgloop.org/moid/npc_id.html#14205 14205][https://abextm.github.io/cache2/#/viewer/npc/14205 (1)] || easter25_priest_eggus_manus_cutscene_dance || 0 || [None, None, None, None, None]
+|-
+| [[Glanton]] || [https://chisel.weirdgloop.org/moid/npc_id.html#14206 14206][https://abextm.github.io/cache2/#/viewer/npc/14206 (1)] || easter25_glanton_cutscene_dance || 0 || [None, None, None, None, None]
+|-
+| [[Rinder]] || [https://chisel.weirdgloop.org/moid/npc_id.html#14207 14207][https://abextm.github.io/cache2/#/viewer/npc/14207 (1)] || easter25_rinder_cutscene_dance || 0 || [None, None, None, None, None]
+|-
+| [[Bella Le Bowle]] || [https://chisel.weirdgloop.org/moid/npc_id.html#14208 14208][https://abextm.github.io/cache2/#/viewer/npc/14208 (1)] || easter25_bella || 0 || [Talk-to, None, None, None, None]
+|}
+==Items==
+===New Items===
+{| class="wikitable sortable sticky-header mw-collapsible"
+|-
+! colspan="12" | New Items
+|-
+! style="width: 15em" | name !! id !! gameVal !! examine !! isMembers !! isGrandExchangable !! isStackable !! noteLinkedItem !! inventoryActions !! placeholderLinkedItem !! price !! weight
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#30728 30728][https://abextm.github.io/cache2/#/viewer/item/30728 (1)] || placeholder_easter25_fancy_carrot || null || false || false || false || -1 || [None, None, None, None, Drop] || 30706 || 1 || 0
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#30729 30729][https://abextm.github.io/cache2/#/viewer/item/30729 (1)] || placeholder_easter25_fancy_carrotjuice || null || false || false || false || -1 || [None, None, None, None, Drop] || 30707 || 1 || 0
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#30730 30730][https://abextm.github.io/cache2/#/viewer/item/30730 (1)] || placeholder_easter25_carrotjuice_glass || null || false || false || false || -1 || [None, None, None, None, Drop] || 30708 || 1 || 0
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#30731 30731][https://abextm.github.io/cache2/#/viewer/item/30731 (1)] || placeholder_easter25_bun_recipe || null || false || false || false || -1 || [None, None, None, None, Drop] || 30709 || 1 || 0
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#30732 30732][https://abextm.github.io/cache2/#/viewer/item/30732 (1)] || placeholder_easter25_spices || null || false || false || false || -1 || [None, None, None, None, Drop] || 30710 || 1 || 0
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#30733 30733][https://abextm.github.io/cache2/#/viewer/item/30733 (1)] || placeholder_easter25_raisins || null || false || false || false || -1 || [None, None, None, None, Drop] || 30711 || 1 || 0
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#30734 30734][https://abextm.github.io/cache2/#/viewer/item/30734 (1)] || placeholder_easter25_dough || null || false || false || false || -1 || [None, None, None, None, Drop] || 30712 || 1 || 0
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#30735 30735][https://abextm.github.io/cache2/#/viewer/item/30735 (1)] || placeholder_easter25_egg || null || false || false || false || -1 || [None, None, None, None, Drop] || 30713 || 1 || 0
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#30736 30736][https://abextm.github.io/cache2/#/viewer/item/30736 (1)] || placeholder_easter25_bun_raw || null || false || false || false || -1 || [None, None, None, None, Drop] || 30714 || 1 || 0
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#30737 30737][https://abextm.github.io/cache2/#/viewer/item/30737 (1)] || placeholder_easter25_bun || null || false || false || false || -1 || [None, None, None, None, Drop] || 30715 || 1 || 0
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#30738 30738][https://abextm.github.io/cache2/#/viewer/item/30738 (1)] || placeholder_easter25_grapes_cutscene || null || false || false || false || -1 || [None, None, None, None, Drop] || 30716 || 1 || 0
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#30739 30739][https://abextm.github.io/cache2/#/viewer/item/30739 (1)] || placeholder_easter25_raisins_cutscene || null || false || false || false || -1 || [None, None, None, None, Drop] || 30717 || 1 || 0
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#30740 30740][https://abextm.github.io/cache2/#/viewer/item/30740 (1)] || placeholder_easter25_performance_script || null || false || false || false || -1 || [None, None, None, None, Drop] || 30718 || 1 || 0
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#30741 30741][https://abextm.github.io/cache2/#/viewer/item/30741 (1)] || placeholder_easter25_performance_script_sort || null || false || false || false || -1 || [None, None, None, None, Drop] || 30719 || 1 || 0
+|}
+===Diff Items===
+{| class="wikitable sortable sticky-header mw-collapsible mw-collapsed"
+|-
+! colspan="5" | Diff Items
+|-
+! style="width: 15em" | Name !! Id !! Key !! Previous Value !! New Value
+|-
+| rowspan="2" | [[Snakeskin bandana]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#6326 6326][https://abextm.github.io/cache2/#/viewer/item/6326 (1)]
+|-
+| femaleChatheadModel || <span style="color: #ee4231">8910</span> || <span style="color: #6bc71f">8913</span>
+|-
+| rowspan="17" | [[Null]]
+| rowspan="17" | [https://chisel.weirdgloop.org/moid/item_id.html#30706 30706][https://abextm.github.io/cache2/#/viewer/item/30706 (1)]
+|-
+| inventoryModel || <span style="color: #ee4231">35340</span> || <span style="color: #6bc71f">55645</span>
+|-
+| name || <span style="color: #ee4231">Fancy carrot</span> || <span style="color: #6bc71f">Null</span>
+|-
+| examine || <span style="color: #ee4231">A particularly tasty root.</span> || <span style="color: #6bc71f">null</span>
+|-
+| zoom2d || <span style="color: #ee4231">2092</span> || <span style="color: #6bc71f">2086</span>
+|-
+| xan2d || <span style="color: #ee4231">1577</span> || <span style="color: #6bc71f">332</span>
+|-
+| yan2d || <span style="color: #ee4231">1770</span> || <span style="color: #6bc71f">1290</span>
+|-
+| offsetX2d || <span style="color: #ee4231">2</span> || <span style="color: #6bc71f">-8</span>
+|-
+| offsetY2d || <span style="color: #ee4231">1</span> || <span style="color: #6bc71f">0</span>
+|-
+| price || <span style="color: #ee4231">10</span> || <span style="color: #6bc71f">1</span>
+|-
+| weight || <span style="color: #ee4231">28</span> || <span style="color: #6bc71f">453</span>
+|-
+| inventoryActions || [<span style="color: #ee4231">Eat</span>, None, None, None, <span style="color: #ee4231">Destroy</span>] || [<span style="color: #6bc71f">None</span>, None, None, None, <span style="color: #6bc71f">Drop</span>]
+|-
+| category || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">15</span>
+|-
+| ambient || <span style="color: #ee4231">0</span> || <span style="color: #6bc71f">15</span>
+|-
+| contrast || <span style="color: #ee4231">0</span> || <span style="color: #6bc71f">10</span>
+|-
+| placeholderLinkedItem || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">30728</span>
+|-
+| params || <span style="color: #ee4231">{'59': 1, '295': 1}</span> || 
+|-
+| rowspan="21" | [[Null]]
+| rowspan="21" | [https://chisel.weirdgloop.org/moid/item_id.html#30707 30707][https://abextm.github.io/cache2/#/viewer/item/30707 (1)]
+|-
+| inventoryModel || <span style="color: #ee4231">2491</span> || <span style="color: #6bc71f">55645</span>
+|-
+| name || <span style="color: #ee4231">Fancy carrot juice</span> || <span style="color: #6bc71f">Null</span>
+|-
+| examine || <span style="color: #ee4231">A delicious looking drink.</span> || <span style="color: #6bc71f">null</span>
+|-
+| zoom2d || <span style="color: #ee4231">660</span> || <span style="color: #6bc71f">2086</span>
+|-
+| xan2d || <span style="color: #ee4231">140</span> || <span style="color: #6bc71f">332</span>
+|-
+| yan2d || <span style="color: #ee4231">1904</span> || <span style="color: #6bc71f">1290</span>
+|-
+| offsetX2d || -<span style="color: #ee4231">3</span> || -<span style="color: #6bc71f">8</span>
+|-
+| offsetY2d || <span style="color: #ee4231">2</span> || <span style="color: #6bc71f">0</span>
+|-
+| price || <span style="color: #ee4231">10</span> || <span style="color: #6bc71f">1</span>
+|-
+| wearpos1 || <span style="color: #ee4231">3</span> || <span style="color: #6bc71f">-1</span>
+|-
+| weight || <span style="color: #ee4231">550</span> || <span style="color: #6bc71f">453</span>
+|-
+| maleModel || <span style="color: #ee4231">6098</span> || <span style="color: #6bc71f">-1</span>
+|-
+| femaleModel || <span style="color: #ee4231">6098</span> || <span style="color: #6bc71f">-1</span>
+|-
+| femaleOffset || <span style="color: #ee4231">6</span> || <span style="color: #6bc71f">0</span>
+|-
+| inventoryActions || [<span style="color: #ee4231">Drink</span>, None, None, None, <span style="color: #ee4231">Destroy</span>] || [<span style="color: #6bc71f">None</span>, None, None, None, <span style="color: #6bc71f">Drop</span>]
+|-
+| category || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">15</span>
+|-
+| ambient || <span style="color: #ee4231">0</span> || <span style="color: #6bc71f">15</span>
+|-
+| contrast || <span style="color: #ee4231">0</span> || <span style="color: #6bc71f">10</span>
+|-
+| placeholderLinkedItem || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">30729</span>
+|-
+| params || <span style="color: #ee4231">{'59': 1, '148': -1, '295': 1, '468': 44}</span> || 
+|-
+| rowspan="19" | [[Null]]
+| rowspan="19" | [https://chisel.weirdgloop.org/moid/item_id.html#30708 30708][https://abextm.github.io/cache2/#/viewer/item/30708 (1)]
+|-
+| inventoryModel || <span style="color: #ee4231">2548</span> || <span style="color: #6bc71f">55645</span>
+|-
+| name || <span style="color: #ee4231">Carrot juice glass</span> || <span style="color: #6bc71f">Null</span>
+|-
+| examine || <span style="color: #ee4231">Definitely not for beer!</span> || <span style="color: #6bc71f">null</span>
+|-
+| zoom2d || <span style="color: #ee4231">660</span> || <span style="color: #6bc71f">2086</span>
+|-
+| xan2d || <span style="color: #ee4231">140</span> || <span style="color: #6bc71f">332</span>
+|-
+| yan2d || <span style="color: #ee4231">1904</span> || <span style="color: #6bc71f">1290</span>
+|-
+| offsetX2d || -<span style="color: #ee4231">3</span> || -<span style="color: #6bc71f">8</span>
+|-
+| offsetY2d || <span style="color: #ee4231">2</span> || <span style="color: #6bc71f">0</span>
+|-
+| price || <span style="color: #ee4231">2</span> || <span style="color: #6bc71f">1</span>
+|-
+| weight || <span style="color: #ee4231">50</span> || <span style="color: #6bc71f">453</span>
+|-
+| maleModel || <span style="color: #ee4231">8234</span> || <span style="color: #6bc71f">-1</span>
+|-
+| femaleModel || <span style="color: #ee4231">8234</span> || <span style="color: #6bc71f">-1</span>
+|-
+| inventoryActions || [None, None, None, None, <span style="color: #ee4231">Destroy</span>] || [None, None, None, None, <span style="color: #6bc71f">Drop</span>]
+|-
+| category || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">15</span>
+|-
+| ambient || <span style="color: #ee4231">0</span> || <span style="color: #6bc71f">15</span>
+|-
+| contrast || <span style="color: #ee4231">0</span> || <span style="color: #6bc71f">10</span>
+|-
+| placeholderLinkedItem || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">30730</span>
+|-
+| params || <span style="color: #ee4231">{'59': 1, '295': 1}</span> || 
+|-
+| rowspan="15" | [[Null]]
+| rowspan="15" | [https://chisel.weirdgloop.org/moid/item_id.html#30709 30709][https://abextm.github.io/cache2/#/viewer/item/30709 (1)]
+|-
+| inventoryModel || <span style="color: #ee4231">23964</span> || <span style="color: #6bc71f">55645</span>
+|-
+| name || <span style="color: #ee4231">Recipe for easter buns</span> || <span style="color: #6bc71f">Null</span>
+|-
+| examine || <span style="color: #ee4231">I can just about read the handwriting...</span> || <span style="color: #6bc71f">null</span>
+|-
+| zoom2d || <span style="color: #ee4231">848</span> || <span style="color: #6bc71f">2086</span>
+|-
+| xan2d || <span style="color: #ee4231">387</span> || <span style="color: #6bc71f">332</span>
+|-
+| yan2d || <span style="color: #ee4231">1799</span> || <span style="color: #6bc71f">1290</span>
+|-
+| offsetX2d || <span style="color: #ee4231">0</span> || <span style="color: #6bc71f">-8</span>
+|-
+| weight || <span style="color: #ee4231">3</span> || <span style="color: #6bc71f">453</span>
+|-
+| inventoryActions || [<span style="color: #ee4231">Read</span>, None, None, None, <span style="color: #ee4231">Destroy</span>] || [<span style="color: #6bc71f">None</span>, None, None, None, <span style="color: #6bc71f">Drop</span>]
+|-
+| category || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">15</span>
+|-
+| ambient || <span style="color: #ee4231">0</span> || <span style="color: #6bc71f">15</span>
+|-
+| contrast || <span style="color: #ee4231">0</span> || <span style="color: #6bc71f">10</span>
+|-
+| placeholderLinkedItem || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">30731</span>
+|-
+| params || <span style="color: #ee4231">{'59': 1, '295': 1}</span> || 
+|-
+| rowspan="17" | [[Null]]
+| rowspan="17" | [https://chisel.weirdgloop.org/moid/item_id.html#30710 30710][https://abextm.github.io/cache2/#/viewer/item/30710 (1)]
+|-
+| inventoryModel || <span style="color: #ee4231">2742</span> || <span style="color: #6bc71f">55645</span>
+|-
+| name || <span style="color: #ee4231">Easter spices</span> || <span style="color: #6bc71f">Null</span>
+|-
+| examine || <span style="color: #ee4231">Fragrant!</span> || <span style="color: #6bc71f">null</span>
+|-
+| zoom2d || <span style="color: #ee4231">1210</span> || <span style="color: #6bc71f">2086</span>
+|-
+| xan2d || <span style="color: #ee4231">264</span> || <span style="color: #6bc71f">332</span>
+|-
+| yan2d || <span style="color: #ee4231">1892</span> || <span style="color: #6bc71f">1290</span>
+|-
+| offsetX2d || -<span style="color: #ee4231">6</span> || -<span style="color: #6bc71f">8</span>
+|-
+| weight || <span style="color: #ee4231">3</span> || <span style="color: #6bc71f">453</span>
+|-
+| inventoryActions || [None, None, None, None, <span style="color: #ee4231">Destroy</span>] || [None, None, None, None, <span style="color: #6bc71f">Drop</span>]
+|-
+| recolorFrom || <span style="color: #ee4231">[82]</span> || 
+|-
+| recolorTo || <span style="color: #ee4231">[3738]</span> || 
+|-
+| category || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">15</span>
+|-
+| ambient || <span style="color: #ee4231">0</span> || <span style="color: #6bc71f">15</span>
+|-
+| contrast || <span style="color: #ee4231">0</span> || <span style="color: #6bc71f">10</span>
+|-
+| placeholderLinkedItem || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">30732</span>
+|-
+| params || <span style="color: #ee4231">{'59': 1, '295': 1}</span> || 
+|-
+| rowspan="18" | [[Null]]
+| rowspan="18" | [https://chisel.weirdgloop.org/moid/item_id.html#30711 30711][https://abextm.github.io/cache2/#/viewer/item/30711 (1)]
+|-
+| inventoryModel || <span style="color: #ee4231">2358</span> || <span style="color: #6bc71f">55645</span>
+|-
+| name || <span style="color: #ee4231">Raisins</span> || <span style="color: #6bc71f">Null</span>
+|-
+| examine || <span style="color: #ee4231">The foodstuff formerly known as grapes.</span> || <span style="color: #6bc71f">null</span>
+|-
+| zoom2d || <span style="color: #ee4231">970</span> || <span style="color: #6bc71f">2086</span>
+|-
+| xan2d || <span style="color: #ee4231">404</span> || <span style="color: #6bc71f">332</span>
+|-
+| yan2d || <span style="color: #ee4231">668</span> || <span style="color: #6bc71f">1290</span>
+|-
+| offsetX2d || <span style="color: #ee4231">1</span> || <span style="color: #6bc71f">-8</span>
+|-
+| offsetY2d || <span style="color: #ee4231">4</span> || <span style="color: #6bc71f">0</span>
+|-
+| weight || <span style="color: #ee4231">3</span> || <span style="color: #6bc71f">453</span>
+|-
+| inventoryActions || [None, None, None, None, <span style="color: #ee4231">Destroy</span>] || [None, None, None, None, <span style="color: #6bc71f">Drop</span>]
+|-
+| recolorFrom || <span style="color: #ee4231">[960, 22412, 6040]</span> || 
+|-
+| recolorTo || <span style="color: #ee4231">[64394, 22404, 6028]</span> || 
+|-
+| category || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">15</span>
+|-
+| ambient || <span style="color: #ee4231">0</span> || <span style="color: #6bc71f">15</span>
+|-
+| contrast || <span style="color: #ee4231">0</span> || <span style="color: #6bc71f">10</span>
+|-
+| placeholderLinkedItem || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">30733</span>
+|-
+| params || <span style="color: #ee4231">{'59': 1, '295': 1}</span> || 
+|-
+| rowspan="16" | [[Null]]
+| rowspan="16" | [https://chisel.weirdgloop.org/moid/item_id.html#30712 30712][https://abextm.github.io/cache2/#/viewer/item/30712 (1)]
+|-
+| inventoryModel || <span style="color: #ee4231">2756</span> || <span style="color: #6bc71f">55645</span>
+|-
+| name || <span style="color: #ee4231">Yeastier dough</span> || <span style="color: #6bc71f">Null</span>
+|-
+| examine || <span style="color: #ee4231">Yeasty dough for an easter treat.</span> || <span style="color: #6bc71f">null</span>
+|-
+| zoom2d || <span style="color: #ee4231">440</span> || <span style="color: #6bc71f">2086</span>
+|-
+| xan2d || <span style="color: #ee4231">264</span> || <span style="color: #6bc71f">332</span>
+|-
+| yan2d || <span style="color: #ee4231">92</span> || <span style="color: #6bc71f">1290</span>
+|-
+| offsetX2d || <span style="color: #ee4231">1</span> || <span style="color: #6bc71f">-8</span>
+|-
+| offsetY2d || <span style="color: #ee4231">129</span> || <span style="color: #6bc71f">0</span>
+|-
+| weight || <span style="color: #ee4231">600</span> || <span style="color: #6bc71f">453</span>
+|-
+| inventoryActions || [None, None, None, None, <span style="color: #ee4231">Destroy</span>] || [None, None, None, None, <span style="color: #6bc71f">Drop</span>]
+|-
+| category || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">15</span>
+|-
+| ambient || <span style="color: #ee4231">0</span> || <span style="color: #6bc71f">15</span>
+|-
+| contrast || <span style="color: #ee4231">0</span> || <span style="color: #6bc71f">10</span>
+|-
+| placeholderLinkedItem || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">30734</span>
+|-
+| params || <span style="color: #ee4231">{'59': 1, '295': 1}</span> || 
+|-
+| rowspan="16" | [[Null]]
+| rowspan="16" | [https://chisel.weirdgloop.org/moid/item_id.html#30713 30713][https://abextm.github.io/cache2/#/viewer/item/30713 (1)]
+|-
+| inventoryModel || <span style="color: #ee4231">2437</span> || <span style="color: #6bc71f">55645</span>
+|-
+| name || <span style="color: #ee4231">Special egg</span> || <span style="color: #6bc71f">Null</span>
+|-
+| examine || <span style="color: #ee4231">Perfect and unique, just like every other egg.</span> || <span style="color: #6bc71f">null</span>
+|-
+| zoom2d || <span style="color: #ee4231">630</span> || <span style="color: #6bc71f">2086</span>
+|-
+| xan2d || <span style="color: #ee4231">144</span> || <span style="color: #6bc71f">332</span>
+|-
+| yan2d || <span style="color: #ee4231">68</span> || <span style="color: #6bc71f">1290</span>
+|-
+| offsetX2d || <span style="color: #ee4231">1</span> || <span style="color: #6bc71f">-8</span>
+|-
+| price || <span style="color: #ee4231">4</span> || <span style="color: #6bc71f">1</span>
+|-
+| weight || <span style="color: #ee4231">100</span> || <span style="color: #6bc71f">453</span>
+|-
+| inventoryActions || [None, None, None, None, <span style="color: #ee4231">Destroy</span>] || [None, None, None, None, <span style="color: #6bc71f">Drop</span>]
+|-
+| category || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">15</span>
+|-
+| ambient || <span style="color: #ee4231">0</span> || <span style="color: #6bc71f">15</span>
+|-
+| contrast || <span style="color: #ee4231">0</span> || <span style="color: #6bc71f">10</span>
+|-
+| placeholderLinkedItem || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">30735</span>
+|-
+| params || <span style="color: #ee4231">{'59': 1, '295': 1}</span> || 
+|-
+| rowspan="16" | [[Null]]
+| rowspan="16" | [https://chisel.weirdgloop.org/moid/item_id.html#30714 30714][https://abextm.github.io/cache2/#/viewer/item/30714 (1)]
+|-
+| inventoryModel || <span style="color: #ee4231">2907</span> || <span style="color: #6bc71f">55645</span>
+|-
+| name || <span style="color: #ee4231">Uncooked easter bun</span> || <span style="color: #6bc71f">Null</span>
+|-
+| examine || <span style="color: #ee4231">Needs to sit in an oven for a while.</span> || <span style="color: #6bc71f">null</span>
+|-
+| zoom2d || <span style="color: #ee4231">830</span> || <span style="color: #6bc71f">2086</span>
+|-
+| xan2d || <span style="color: #ee4231">343</span> || <span style="color: #6bc71f">332</span>
+|-
+| yan2d || <span style="color: #ee4231">268</span> || <span style="color: #6bc71f">1290</span>
+|-
+| offsetX2d || <span style="color: #ee4231">0</span> || <span style="color: #6bc71f">-8</span>
+|-
+| offsetY2d || <span style="color: #ee4231">5</span> || <span style="color: #6bc71f">0</span>
+|-
+| weight || <span style="color: #ee4231">500</span> || <span style="color: #6bc71f">453</span>
+|-
+| inventoryActions || [None, None, None, None, <span style="color: #ee4231">Destroy</span>] || [None, None, None, None, <span style="color: #6bc71f">Drop</span>]
+|-
+| category || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">15</span>
+|-
+| ambient || <span style="color: #ee4231">10</span> || <span style="color: #6bc71f">15</span>
+|-
+| contrast || <span style="color: #ee4231">35</span> || <span style="color: #6bc71f">10</span>
+|-
+| placeholderLinkedItem || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">30736</span>
+|-
+| params || <span style="color: #ee4231">{'59': 1, '295': 1}</span> || 
+|-
+| rowspan="16" | [[Null]]
+| rowspan="16" | [https://chisel.weirdgloop.org/moid/item_id.html#30715 30715][https://abextm.github.io/cache2/#/viewer/item/30715 (1)]
+|-
+| inventoryModel || <span style="color: #ee4231">2906</span> || <span style="color: #6bc71f">55645</span>
+|-
+| name || <span style="color: #ee4231">Easter bun</span> || <span style="color: #6bc71f">Null</span>
+|-
+| examine || <span style="color: #ee4231">A delicious treat!</span> || <span style="color: #6bc71f">null</span>
+|-
+| zoom2d || <span style="color: #ee4231">830</span> || <span style="color: #6bc71f">2086</span>
+|-
+| xan2d || <span style="color: #ee4231">343</span> || <span style="color: #6bc71f">332</span>
+|-
+| yan2d || <span style="color: #ee4231">268</span> || <span style="color: #6bc71f">1290</span>
+|-
+| offsetX2d || <span style="color: #ee4231">0</span> || <span style="color: #6bc71f">-8</span>
+|-
+| offsetY2d || <span style="color: #ee4231">5</span> || <span style="color: #6bc71f">0</span>
+|-
+| weight || <span style="color: #ee4231">0</span> || <span style="color: #6bc71f">453</span>
+|-
+| inventoryActions || [<span style="color: #ee4231">Eat</span>, None, None, None, <span style="color: #ee4231">Destroy</span>] || [<span style="color: #6bc71f">None</span>, None, None, None, <span style="color: #6bc71f">Drop</span>]
+|-
+| category || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">15</span>
+|-
+| ambient || <span style="color: #ee4231">25</span> || <span style="color: #6bc71f">15</span>
+|-
+| contrast || <span style="color: #ee4231">40</span> || <span style="color: #6bc71f">10</span>
+|-
+| placeholderLinkedItem || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">30737</span>
+|-
+| params || <span style="color: #ee4231">{'59': 1, '295': 1}</span> || 
+|-
+| rowspan="18" | [[Null]]
+| rowspan="18" | [https://chisel.weirdgloop.org/moid/item_id.html#30716 30716][https://abextm.github.io/cache2/#/viewer/item/30716 (1)]
+|-
+| inventoryModel || <span style="color: #ee4231">2358</span> || <span style="color: #6bc71f">55645</span>
+|-
+| name || <span style="color: #ee4231">Grapes</span> || <span style="color: #6bc71f">Null</span>
+|-
+| examine || <span style="color: #ee4231">About to be a lot less juicy.</span> || <span style="color: #6bc71f">null</span>
+|-
+| zoom2d || <span style="color: #ee4231">970</span> || <span style="color: #6bc71f">2086</span>
+|-
+| xan2d || <span style="color: #ee4231">404</span> || <span style="color: #6bc71f">332</span>
+|-
+| yan2d || <span style="color: #ee4231">668</span> || <span style="color: #6bc71f">1290</span>
+|-
+| offsetX2d || <span style="color: #ee4231">1</span> || <span style="color: #6bc71f">-8</span>
+|-
+| offsetY2d || <span style="color: #ee4231">4</span> || <span style="color: #6bc71f">0</span>
+|-
+| weight || <span style="color: #ee4231">3</span> || <span style="color: #6bc71f">453</span>
+|-
+| inventoryActions || [None, None, None, None, <span style="color: #ee4231">Destroy</span>] || [None, None, None, None, <span style="color: #6bc71f">Drop</span>]
+|-
+| recolorFrom || <span style="color: #ee4231">[960]</span> || 
+|-
+| recolorTo || <span style="color: #ee4231">[59301]</span> || 
+|-
+| category || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">15</span>
+|-
+| ambient || <span style="color: #ee4231">0</span> || <span style="color: #6bc71f">15</span>
+|-
+| contrast || <span style="color: #ee4231">0</span> || <span style="color: #6bc71f">10</span>
+|-
+| placeholderLinkedItem || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">30738</span>
+|-
+| params || <span style="color: #ee4231">{'59': 1, '295': 1}</span> || 
+|-
+| rowspan="18" | [[Null]]
+| rowspan="18" | [https://chisel.weirdgloop.org/moid/item_id.html#30717 30717][https://abextm.github.io/cache2/#/viewer/item/30717 (1)]
+|-
+| inventoryModel || <span style="color: #ee4231">2358</span> || <span style="color: #6bc71f">55645</span>
+|-
+| name || <span style="color: #ee4231">Raisins</span> || <span style="color: #6bc71f">Null</span>
+|-
+| examine || <span style="color: #ee4231">The foodstuff formerly known as grapes.</span> || <span style="color: #6bc71f">null</span>
+|-
+| zoom2d || <span style="color: #ee4231">970</span> || <span style="color: #6bc71f">2086</span>
+|-
+| xan2d || <span style="color: #ee4231">404</span> || <span style="color: #6bc71f">332</span>
+|-
+| yan2d || <span style="color: #ee4231">668</span> || <span style="color: #6bc71f">1290</span>
+|-
+| offsetX2d || <span style="color: #ee4231">1</span> || <span style="color: #6bc71f">-8</span>
+|-
+| offsetY2d || <span style="color: #ee4231">4</span> || <span style="color: #6bc71f">0</span>
+|-
+| weight || <span style="color: #ee4231">3</span> || <span style="color: #6bc71f">453</span>
+|-
+| inventoryActions || [None, None, None, None, <span style="color: #ee4231">Destroy</span>] || [None, None, None, None, <span style="color: #6bc71f">Drop</span>]
+|-
+| recolorFrom || <span style="color: #ee4231">[960, 22412, 6040]</span> || 
+|-
+| recolorTo || <span style="color: #ee4231">[64394, 22404, 6028]</span> || 
+|-
+| category || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">15</span>
+|-
+| ambient || <span style="color: #ee4231">0</span> || <span style="color: #6bc71f">15</span>
+|-
+| contrast || <span style="color: #ee4231">0</span> || <span style="color: #6bc71f">10</span>
+|-
+| placeholderLinkedItem || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">30739</span>
+|-
+| params || <span style="color: #ee4231">{'59': 1, '295': 1}</span> || 
+|-
+| rowspan="16" | [[Null]]
+| rowspan="16" | [https://chisel.weirdgloop.org/moid/item_id.html#30718 30718][https://abextm.github.io/cache2/#/viewer/item/30718 (1)]
+|-
+| inventoryModel || <span style="color: #ee4231">18024</span> || <span style="color: #6bc71f">55645</span>
+|-
+| name || <span style="color: #ee4231">Jumbled script</span> || <span style="color: #6bc71f">Null</span>
+|-
+| examine || <span style="color: #ee4231">Completely out of order.</span> || <span style="color: #6bc71f">null</span>
+|-
+| zoom2d || <span style="color: #ee4231">1110</span> || <span style="color: #6bc71f">2086</span>
+|-
+| xan2d || <span style="color: #ee4231">415</span> || <span style="color: #6bc71f">332</span>
+|-
+| yan2d || <span style="color: #ee4231">401</span> || <span style="color: #6bc71f">1290</span>
+|-
+| offsetX2d || -<span style="color: #ee4231">4</span> || -<span style="color: #6bc71f">8</span>
+|-
+| offsetY2d || <span style="color: #ee4231">9</span> || <span style="color: #6bc71f">0</span>
+|-
+| weight || <span style="color: #ee4231">20</span> || <span style="color: #6bc71f">453</span>
+|-
+| inventoryActions || [<span style="color: #ee4231">Read</span>, None, None, None, <span style="color: #ee4231">Destroy</span>] || [<span style="color: #6bc71f">None</span>, None, None, None, <span style="color: #6bc71f">Drop</span>]
+|-
+| category || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">15</span>
+|-
+| ambient || <span style="color: #ee4231">0</span> || <span style="color: #6bc71f">15</span>
+|-
+| contrast || <span style="color: #ee4231">0</span> || <span style="color: #6bc71f">10</span>
+|-
+| placeholderLinkedItem || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">30740</span>
+|-
+| params || <span style="color: #ee4231">{'59': 1, '295': 1}</span> || 
+|-
+| rowspan="16" | [[Null]]
+| rowspan="16" | [https://chisel.weirdgloop.org/moid/item_id.html#30719 30719][https://abextm.github.io/cache2/#/viewer/item/30719 (1)]
+|-
+| inventoryModel || <span style="color: #ee4231">18024</span> || <span style="color: #6bc71f">55645</span>
+|-
+| name || <span style="color: #ee4231">Jumbled script</span> || <span style="color: #6bc71f">Null</span>
+|-
+| examine || <span style="color: #ee4231">Completely out of order.</span> || <span style="color: #6bc71f">null</span>
+|-
+| zoom2d || <span style="color: #ee4231">1110</span> || <span style="color: #6bc71f">2086</span>
+|-
+| xan2d || <span style="color: #ee4231">415</span> || <span style="color: #6bc71f">332</span>
+|-
+| yan2d || <span style="color: #ee4231">401</span> || <span style="color: #6bc71f">1290</span>
+|-
+| offsetX2d || -<span style="color: #ee4231">4</span> || -<span style="color: #6bc71f">8</span>
+|-
+| offsetY2d || <span style="color: #ee4231">9</span> || <span style="color: #6bc71f">0</span>
+|-
+| weight || <span style="color: #ee4231">20</span> || <span style="color: #6bc71f">453</span>
+|-
+| inventoryActions || [<span style="color: #ee4231">Sort</span>, None, None, None, <span style="color: #ee4231">Destroy</span>] || [<span style="color: #6bc71f">None</span>, None, None, None, <span style="color: #6bc71f">Drop</span>]
+|-
+| category || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">15</span>
+|-
+| ambient || <span style="color: #ee4231">0</span> || <span style="color: #6bc71f">15</span>
+|-
+| contrast || <span style="color: #ee4231">0</span> || <span style="color: #6bc71f">10</span>
+|-
+| placeholderLinkedItem || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">30741</span>
+|-
+| params || <span style="color: #ee4231">{'59': 1, '295': 1}</span> || 
+|}

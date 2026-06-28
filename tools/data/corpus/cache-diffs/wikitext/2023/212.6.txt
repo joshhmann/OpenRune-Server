@@ -1,0 +1,1109 @@
+{{ToC}}
+==Items==
+===New Items===
+{| class="wikitable sortable"
+!colspan='11'|New Items
+|-
+! style=width:15em | Name !! ID !! Members !! Tradeable in GE !! Equipable !! Stackable !! Noteable !! Options !! Placeholder !! Cost !! Weight
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#27894 27894] || No || No || No || No || Yes ||     Drop || No || 1
+|| 0
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#27895 27895] || No || No || No || No || Yes ||     Drop || No || 1
+|| 0
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#27896 27896] || No || No || No || No || Yes ||     Drop || No || 1
+|| 0
+|-
+|-
+|}
+===Removed Items===
+{| class="wikitable sortable"
+!colspan='2'|Removed Items
+|-
+! style=width:15em | Name !! ID
+|-
+|-
+|}
+===Diff Items===
+{| class="wikitable sortable"
+!colspan='5'|Diff Items
+|-
+! style=width:15em | Name !! ID !! Key !! Previous Value !! New Value
+|-
+|rowspan="12"|[[Boss helper tool]]
+|rowspan="12"|[https://chisel.weirdgloop.org/moid/item_id.html#3667 3667]
+|-
+|name || [[Null]] || [[Boss helper tool]]
+|-
+| xan2d || 68 || 76
+|-
+| yan2d || 244 || 16
+|-
+| inventoryModel || 4243 || 7171
+|-
+| zoom2d || 1160 || 650
+|-
+| xOffset2d || 1 || 0
+|-
+| yOffset2d || -3 || 0
+|-
+| ambient || 20 || 0
+|-
+| contrast || 20 || 0
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Debug', None, None, None, 'Drop']
+|-
+| weight || 9071 || 1814
+|-
+|rowspan="2"|[[Mystery box]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#6199 6199]
+|-
+|cost || 1 || 5
+|-
+|rowspan="6"|[[null]]
+|rowspan="6"|[https://chisel.weirdgloop.org/moid/item_id.html#11634 11634]
+|-
+|xan2d || 0 || 186
+|-
+| yan2d || 0 || 144
+|-
+| inventoryModel || 2674 || 34156
+|-
+| xOffset2d || 0 || 4
+|-
+| yOffset2d || 0 || 10
+|-
+|rowspan="2"|[[Null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#15297 15297]
+|-
+|interfaceOptions || ['Wear', None, None, None, 'Drop'] || [None, None, None, None, 'Drop']
+|-
+|rowspan="2"|[[Null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#20822 20822]
+|-
+|params || {'1760': 20824, '630': 19, '1751': 35455004, '1752': 'Mystic Will', '1753': 9, '1754': 'Increases your magical attack and defence by 5%.', '1755': 2670, '1756': 154, '1757': 134} || {'1760': 20824, '630': 19, '1751': 35455006, '1752': 'Mystic Will', '1753': 9, '1754': 'Increases your magical attack and defence by 5%.', '1755': 2670, '1756': 154, '1757': 134}
+|-
+|rowspan="2"|[[Null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#20823 20823]
+|-
+|params || {'1760': 20825, '630': 20, '1751': 35455005, '1752': 'Hawk Eye', '1753': 26, '1754': 'Increases your Ranging by 10%.', '1755': 2666, '1756': 506, '1757': 502} || {'1760': 20825, '630': 20, '1751': 35455004, '1752': 'Hawk Eye', '1753': 26, '1754': 'Increases your Ranging by 10%.', '1755': 2666, '1756': 506, '1757': 502}
+|-
+|rowspan="2"|[[Null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#20824 20824]
+|-
+|params || {'1760': 20826, '630': 21, '1751': 35455006, '1752': 'Mystic Lore', '1753': 27, '1754': 'Increases your magical attack and defence by 10%.', '1755': 2668, '1756': 507, '1757': 503} || {'1760': 20826, '630': 21, '1751': 35455007, '1752': 'Mystic Lore', '1753': 27, '1754': 'Increases your magical attack and defence by 10%.', '1755': 2668, '1756': 507, '1757': 503}
+|-
+|rowspan="2"|[[Null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#20825 20825]
+|-
+|params || {'1760': 20827, '630': 22, '1751': 35455007, '1752': 'Eagle Eye', '1753': 44, '1754': 'Increases your Ranging by 15%.', '1755': 2665, '1756': 508, '1757': 504} || {'1760': 20827, '630': 22, '1751': 35455005, '1752': 'Eagle Eye', '1753': 44, '1754': 'Increases your Ranging by 15%.', '1755': 2665, '1756': 508, '1757': 504}
+|-
+|rowspan="2"|[[Null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#20827 20827]
+|-
+|params || {'630': 24, '1751': 35455011, '1752': 'Rigour', '1753': 74, '1754': 'Increases your ranged attack by 20% and damage by 23%, and your defence by 25%.', '1755': 2685, '1756': 1424, '1757': 1420, '1759': 1} || {'630': 24, '1751': 35455009, '1752': 'Rigour', '1753': 74, '1754': 'Increases your ranged attack by 20% and damage by 23%, and your defence by 25%.', '1755': 2685, '1756': 1424, '1757': 1420, '1759': 1}
+|-
+|rowspan="2"|[[Null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#20828 20828]
+|-
+|params || {'1760': 20829, '630': 25, '1751': 35455009, '1752': 'Chivalry', '1753': 60, '1754': 'Increases your defence by 20%, strength by 18%, and attack by 15%.', '1755': 3826, '1756': 949, '1757': 945, '1759': 1} || {'1760': 20829, '630': 25, '1751': 35455010, '1752': 'Chivalry', '1753': 60, '1754': 'Increases your defence by 20%, strength by 18%, and attack by 15%.', '1755': 3826, '1756': 949, '1757': 945, '1759': 1}
+|-
+|rowspan="2"|[[Null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#20829 20829]
+|-
+|params || {'630': 26, '1751': 35455010, '1752': 'Piety', '1753': 70, '1754': 'Increases your defence by 25%, strength by 23%, and attack by 20%.', '1755': 3825, '1756': 950, '1757': 946, '1759': 1} || {'630': 26, '1751': 35455011, '1752': 'Piety', '1753': 70, '1754': 'Increases your defence by 25%, strength by 23%, and attack by 20%.', '1755': 3825, '1756': 950, '1757': 946, '1759': 1}
+|-
+|rowspan="3"|[[Larran's key]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/item_id.html#23490 23490]
+|-
+|isTradeable || False || True
+|-
+| interfaceOptions || [None, None, None, None, 'Destroy'] || [None, None, None, None, 'Drop']
+|-
+|rowspan="17"|[[Soulreaper axe]]
+|rowspan="17"|[https://chisel.weirdgloop.org/moid/item_id.html#25484 25484]
+|-
+|name || [[Webweaver bow (u)]] || [[Soulreaper axe]]
+|-
+| xan2d || 1463 || 280
+|-
+| yan2d || 510 || 1623
+|-
+| zan2d || 835 || 0
+|-
+| cost || 120000 || 240000
+|-
+| inventoryModel || 35777 || 6579
+|-
+| members || False || True
+|-
+| zoom2d || 2107 || 1710
+|-
+| yOffset2d || -3 || 51
+|-
+| interfaceOptions || [None, 'Wield', 'Dismantle', None, 'Drop'] || [None, 'Wield', 'Check', None, 'Drop']
+|-
+| maleModel0 || 35768 || 6702
+|-
+| femaleModel0 || 35768 || 39606
+|-
+| femaleOffset || 6 || 0
+|-
+| colorFind ||<span style = "background-color: #797b8f;color:white">-22440</span>||<span style = "background-color: #5b5b51;color:white">10299</span>,<span style = "background-color: #504f48;color:white">10291</span>
+|-
+| colorReplace ||<span style = "background-color: #20d005;color:white">20424</span>||<span style = "background-color: #5357bf;color:white">-22052</span>,<span style = "background-color: #5357bf;color:white">-22052</span>
+|-
+| category || 106 || 35
+|-
+|rowspan="21"|[[Ring of true blood]]
+|rowspan="21"|[https://chisel.weirdgloop.org/moid/item_id.html#25485 25485]
+|-
+|name || [[Webweaver bow]] || [[Ring of true blood]]
+|-
+| xan2d || 1463 || 324
+|-
+| yan2d || 510 || 1916
+|-
+| zan2d || 835 || 0
+|-
+| cost || 120000 || 140000
+|-
+| inventoryModel || 35775 || 9931
+|-
+| wearPos1 || 3 || 12
+|-
+| wearPos2 || 5 || 0
+|-
+| members || False || True
+|-
+| zoom2d || 2107 || 600
+|-
+| xOffset2d || 0 || 3
+|-
+| yOffset2d || -3 || -15
+|-
+| interfaceOptions || [None, 'Wield', 'Check', None, 'Uncharge'] || [None, 'Wear', None, None, 'Drop']
+|-
+| maleModel0 || 35769 || -1
+|-
+| femaleModel0 || 35769 || -1
+|-
+| femaleOffset || 6 || 0
+|-
+| weight || 3175 || 12
+|-
+| colorFind ||<span style = "background-color: #797b8f;color:white">-22440</span>||<span style = "background-color: #8d8ab6;color:white">-21269</span>,<span style = "background-color: #7173a2;color:white">-22308</span>,<span style = "background-color: #acadbd;color:white">-22407</span>,<span style = "background-color: #c6b7b7;color:white">127</span>,<span style = "background-color: #9b9daf;color:white">-22417</span>
+|-
+| colorReplace ||<span style = "background-color: #20d005;color:white">20424</span>||<span style = "background-color: #b11406;color:white">957</span>,<span style = "background-color: #b11406;color:white">957</span>,<span style = "background-color: #b11406;color:white">957</span>,<span style = "background-color: #b11406;color:white">957</span>,<span style = "background-color: #b11406;color:white">957</span>
+|-
+| category || 106 || 0
+|-
+|rowspan="19"|[[Ring of true ice]]
+|rowspan="19"|[https://chisel.weirdgloop.org/moid/item_id.html#25486 25486]
+|-
+|name || [[Ursine chainmace (u)]] || [[Ring of true ice]]
+|-
+| xan2d || 1495 || 324
+|-
+| yan2d || 256 || 1916
+|-
+| cost || 120000 || 140000
+|-
+| inventoryModel || 35778 || 9932
+|-
+| wearPos1 || 3 || 12
+|-
+| members || False || True
+|-
+| zoom2d || 1351 || 600
+|-
+| xOffset2d || 8 || 3
+|-
+| yOffset2d || -14 || -15
+|-
+| interfaceOptions || [None, 'Wield', 'Dismantle', None, 'Drop'] || [None, 'Wear', None, None, 'Drop']
+|-
+| maleModel0 || 35770 || -1
+|-
+| femaleModel0 || 35770 || -1
+|-
+| femaleOffset || 6 || 0
+|-
+| weight || 2000 || 12
+|-
+| colorFind ||<span style = "background-color: #19181a;color:white">-11246</span>||<span style = "background-color: #b07920;color:white">6854</span>,<span style = "background-color: #7a4723;color:white">4661</span>,<span style = "background-color: #a8731e;color:white">6850</span>,<span style = "background-color: #b77805;color:white">7104</span>,<span style = "background-color: #7a3723;color:white">2613</span>,<span style = "background-color: #7a3723;color:white">2613</span>
+|-
+| colorReplace ||<span style = "background-color: #20d005;color:white">20424</span>||<span style = "background-color: #0589d5;color:white">-28726</span>,<span style = "background-color: #0589d5;color:white">-28726</span>,<span style = "background-color: #0589d5;color:white">-28726</span>,<span style = "background-color: #0589d5;color:white">-28726</span>,<span style = "background-color: #0589d5;color:white">-28726</span>,<span style = "background-color: #0589d5;color:white">-28726</span>
+|-
+| category || 39 || 0
+|-
+|rowspan="19"|[[Ring of true smoke]]
+|rowspan="19"|[https://chisel.weirdgloop.org/moid/item_id.html#25487 25487]
+|-
+|name || [[Ursine chainmace]] || [[Ring of true smoke]]
+|-
+| xan2d || 1495 || 324
+|-
+| yan2d || 256 || 1916
+|-
+| cost || 120000 || 140000
+|-
+| inventoryModel || 35780 || 9930
+|-
+| wearPos1 || 3 || 12
+|-
+| members || False || True
+|-
+| zoom2d || 1351 || 600
+|-
+| xOffset2d || 8 || 3
+|-
+| yOffset2d || -14 || -15
+|-
+| interfaceOptions || [None, 'Wield', 'Check', None, 'Uncharge'] || [None, 'Wear', None, None, 'Drop']
+|-
+| maleModel0 || 35771 || -1
+|-
+| femaleModel0 || 35771 || -1
+|-
+| femaleOffset || 6 || 0
+|-
+| weight || 2000 || 12
+|-
+| colorFind ||<span style = "background-color: #19181a;color:white">-11246</span>||<span style = "background-color: #c28213;color:white">6984</span>,<span style = "background-color: #877534;color:white">8640</span>,<span style = "background-color: #bca033;color:white">8784</span>,<span style = "background-color: #b09320;color:white">8902</span>,<span style = "background-color: #766522;color:white">8755</span>,<span style = "background-color: #b07920;color:white">6854</span>
+|-
+| colorReplace ||<span style = "background-color: #20d005;color:white">20424</span>||<span style = "background-color: #3baf31;color:white">21068</span>,<span style = "background-color: #3baf31;color:white">21068</span>,<span style = "background-color: #3baf31;color:white">21068</span>,<span style = "background-color: #3baf31;color:white">21068</span>,<span style = "background-color: #3baf31;color:white">21068</span>,<span style = "background-color: #3baf31;color:white">21068</span>
+|-
+| category || 39 || 0
+|-
+|rowspan="18"|[[Ring of true shadow]]
+|rowspan="18"|[https://chisel.weirdgloop.org/moid/item_id.html#25488 25488]
+|-
+|name || [[Accursed sceptre (u)]] || [[Ring of true shadow]]
+|-
+| xan2d || 400 || 324
+|-
+| yan2d || 1020 || 1916
+|-
+| cost || 120000 || 140000
+|-
+| inventoryModel || 35776 || 9933
+|-
+| wearPos1 || 3 || 12
+|-
+| members || False || True
+|-
+| zoom2d || 2105 || 600
+|-
+| xOffset2d || 0 || 3
+|-
+| yOffset2d || 0 || -15
+|-
+| interfaceOptions || [None, 'Wield', 'Dismantle', 'Swap', 'Drop'] || [None, 'Wear', None, None, 'Drop']
+|-
+| maleModel0 || 35772 || -1
+|-
+| femaleModel0 || 35772 || -1
+|-
+| weight || 198 || 12
+|-
+| colorFind ||<span style = "background-color: #5c0b04;color:white">929</span>,<span style = "background-color: #534b4b;color:white">53</span>,<span style = "background-color: #312e2e;color:white">33</span>||<span style = "background-color: #b9cc14;color:white">12108</span>,<span style = "background-color: #8da955;color:white">14678</span>,<span style = "background-color: #9aa08b;color:white">14437</span>,<span style = "background-color: #8a9329;color:white">11840</span>,<span style = "background-color: #8da955;color:white">14678</span>,<span style = "background-color: #9ab620;color:white">13000</span>
+|-
+| colorReplace ||<span style = "background-color: #20d005;color:white">20424</span>,<span style = "background-color: #20d005;color:white">20424</span>,<span style = "background-color: #20d005;color:white">20424</span>||<span style = "background-color: #283828;color:white">21665</span>,<span style = "background-color: #283828;color:white">21665</span>,<span style = "background-color: #283828;color:white">21665</span>,<span style = "background-color: #283828;color:white">21665</span>,<span style = "background-color: #283828;color:white">21665</span>,<span style = "background-color: #283828;color:white">21665</span>
+|-
+| category || 1 || 0
+|-
+|rowspan="20"|[[Blood ancient sceptre]]
+|rowspan="20"|[https://chisel.weirdgloop.org/moid/item_id.html#25489 25489]
+|-
+|name || [[Accursed sceptre]] || [[Blood ancient sceptre]]
+|-
+| resizeX || 128 || 120
+|-
+| resizeY || 128 || 120
+|-
+| resizeZ || 128 || 120
+|-
+| xan2d || 400 || 1650
+|-
+| yan2d || 1020 || 2020
+|-
+| zan2d || 0 || 13
+|-
+| cost || 120000 || 211000
+|-
+| inventoryModel || 35774 || 47186
+|-
+| members || False || True
+|-
+| zoom2d || 2105 || 1546
+|-
+| xOffset2d || 0 || 3
+|-
+| interfaceOptions || [None, 'Wield', 'Check', 'Swap', 'Uncharge'] || [None, 'Wield', None, None, 'Drop']
+|-
+| maleModel0 || 35773 || 46959
+|-
+| femaleModel0 || 35773 || 46957
+|-
+| weight || 198 || 2267
+|-
+| colorFind ||<span style = "background-color: #b71405;color:white">960</span>,<span style = "background-color: #534b4b;color:white">53</span>,<span style = "background-color: #312e2e;color:white">33</span>||<span style = "background-color: #043d5c;color:white">-28767</span>,<span style = "background-color: #3cabcc;color:white">-30120</span>,<span style = "background-color: #128fb9;color:white">-29884</span>,<span style = "background-color: #107292;color:white">-29897</span>
+|-
+| colorReplace ||<span style = "background-color: #20d005;color:white">20424</span>,<span style = "background-color: #20d005;color:white">20424</span>,<span style = "background-color: #20d005;color:white">20424</span>||<span style = "background-color: #3e1413;color:white">540</span>,<span style = "background-color: #713c3b;color:white">315</span>,<span style = "background-color: #5a1e1a;color:white">551</span>,<span style = "background-color: #66221e;color:white">557</span>
+|-
+| params || {'434': 6, '451': 'Check', '436': 70, '452': 'Swap', '1733': 'Accursed sceptre', '23': 70, '41': 1, '1564': 3} || {'1564': 3}
+|-
+|rowspan="21"|[[Ice ancient sceptre]]
+|rowspan="21"|[https://chisel.weirdgloop.org/moid/item_id.html#25490 25490]
+|-
+|name || [[Voidwaker]] || [[Ice ancient sceptre]]
+|-
+| resizeX || 128 || 120
+|-
+| resizeY || 128 || 120
+|-
+| resizeZ || 128 || 120
+|-
+| xan2d || 456 || 1650
+|-
+| yan2d || 12 || 2020
+|-
+| zan2d || 0 || 13
+|-
+| cost || 5000000 || 211000
+|-
+| inventoryModel || 6033 || 47186
+|-
+| members || False || True
+|-
+| zoom2d || 1640 || 1546
+|-
+| xOffset2d || 0 || 3
+|-
+| yOffset2d || 6 || 0
+|-
+| interfaceOptions || [None, 'Wield', None, 'Swap', 'Drop'] || [None, 'Wield', None, None, 'Drop']
+|-
+| maleModel0 || 6031 || 46959
+|-
+| femaleModel0 || 6031 || 46957
+|-
+| femaleOffset || 6 || 0
+|-
+| weight || 1814 || 2267
+|-
+| params || {'1564': 3, '436': 75, '434': 0} || {'1564': 3}
+|-
+| category || 21 || 1
+|-
+|rowspan="20"|[[Smoke ancient sceptre]]
+|rowspan="20"|[https://chisel.weirdgloop.org/moid/item_id.html#25491 25491]
+|-
+|name || [[Accursed sceptre (au)]] || [[Smoke ancient sceptre]]
+|-
+| resizeX || 128 || 120
+|-
+| resizeY || 128 || 120
+|-
+| resizeZ || 128 || 120
+|-
+| xan2d || 400 || 1650
+|-
+| yan2d || 1020 || 2020
+|-
+| zan2d || 0 || 13
+|-
+| cost || 120000 || 211000
+|-
+| inventoryModel || 35776 || 47186
+|-
+| members || False || True
+|-
+| zoom2d || 2105 || 1546
+|-
+| xOffset2d || 0 || 3
+|-
+| interfaceOptions || [None, 'Wield', 'Dismantle', 'Swap', 'Drop'] || [None, 'Wield', None, None, 'Drop']
+|-
+| maleModel0 || 35772 || 46959
+|-
+| femaleModel0 || 35772 || 46957
+|-
+| weight || 198 || 2267
+|-
+| colorFind ||<span style = "background-color: #5c0b04;color:white">929</span>,<span style = "background-color: #534b4b;color:white">53</span>,<span style = "background-color: #312e2e;color:white">33</span>||<span style = "background-color: #043d5c;color:white">-28767</span>,<span style = "background-color: #3cabcc;color:white">-30120</span>,<span style = "background-color: #128fb9;color:white">-29884</span>,<span style = "background-color: #107292;color:white">-29897</span>
+|-
+| colorReplace ||<span style = "background-color: #a70691;color:white">-9285</span>,<span style = "background-color: #a70691;color:white">-9285</span>,<span style = "background-color: #a70691;color:white">-9285</span>||<span style = "background-color: #695d5d;color:white">66</span>,<span style = "background-color: #9e8989;color:white">99</span>,<span style = "background-color: #786868;color:white">76</span>,<span style = "background-color: #726363;color:white">72</span>
+|-
+| params || {'1733': 'Accursed sceptre', '41': 1, '23': 70} || {'1564': 3}
+|-
+|rowspan="20"|[[Shadow ancient sceptre]]
+|rowspan="20"|[https://chisel.weirdgloop.org/moid/item_id.html#25492 25492]
+|-
+|name || [[Accursed sceptre (a)]] || [[Shadow ancient sceptre]]
+|-
+| resizeX || 128 || 120
+|-
+| resizeY || 128 || 120
+|-
+| resizeZ || 128 || 120
+|-
+| xan2d || 400 || 1650
+|-
+| yan2d || 1020 || 2020
+|-
+| zan2d || 0 || 13
+|-
+| cost || 120000 || 211000
+|-
+| inventoryModel || 35774 || 47186
+|-
+| members || False || True
+|-
+| zoom2d || 2105 || 1546
+|-
+| xOffset2d || 0 || 3
+|-
+| interfaceOptions || [None, 'Wield', 'Check', 'Swap', 'Uncharge'] || [None, 'Wield', None, None, 'Drop']
+|-
+| maleModel0 || 35773 || 46959
+|-
+| femaleModel0 || 35773 || 46957
+|-
+| weight || 198 || 2267
+|-
+| colorFind ||<span style = "background-color: #b71405;color:white">960</span>,<span style = "background-color: #534b4b;color:white">53</span>,<span style = "background-color: #312e2e;color:white">33</span>||<span style = "background-color: #043d5c;color:white">-28767</span>,<span style = "background-color: #3cabcc;color:white">-30120</span>,<span style = "background-color: #128fb9;color:white">-29884</span>,<span style = "background-color: #107292;color:white">-29897</span>
+|-
+| colorReplace ||<span style = "background-color: #a70691;color:white">-9285</span>,<span style = "background-color: #a70691;color:white">-9285</span>,<span style = "background-color: #a70691;color:white">-9285</span>||<span style = "background-color: #121111;color:white">12</span>,<span style = "background-color: #2a2727;color:white">28</span>,<span style = "background-color: #171616;color:white">16</span>,<span style = "background-color: #1c1b1b;color:white">20</span>
+|-
+| params || {'434': 6, '451': 'Check', '436': 70, '452': 'Swap', '1733': 'Accursed sceptre', '23': 70, '41': 1, '1564': 3} || {'1564': 3}
+|-
+|rowspan="2"|[[Null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#25504 25504]
+|-
+|interfaceOptions || ['Wear', None, None, None, 'Drop'] || [None, None, None, None, 'Drop']
+|-
+|rowspan="2"|[[Null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#25505 25505]
+|-
+|interfaceOptions || ['Wear', None, None, None, 'Drop'] || [None, None, None, None, 'Drop']
+|-
+|rowspan="7"|[[Null]]
+|rowspan="7"|[https://chisel.weirdgloop.org/moid/item_id.html#25939 25939]
+|-
+|xan2d || 0 || 572
+|-
+| inventoryModel || 42786 || 2521
+|-
+| zoom2d || 2000 || 1940
+|-
+| yOffset2d || 0 || 1
+|-
+| maleModel0 || 42751 || -1
+|-
+| femaleModel0 || 42747 || -1
+|-
+|rowspan="7"|[[Null]]
+|rowspan="7"|[https://chisel.weirdgloop.org/moid/item_id.html#25942 25942]
+|-
+|xan2d || 0 || 572
+|-
+| inventoryModel || 42786 || 2521
+|-
+| zoom2d || 2000 || 1940
+|-
+| yOffset2d || 0 || 1
+|-
+| maleModel0 || 42751 || -1
+|-
+| femaleModel0 || 42747 || -1
+|-
+|rowspan="7"|[[Null]]
+|rowspan="7"|[https://chisel.weirdgloop.org/moid/item_id.html#25945 25945]
+|-
+|xan2d || 0 || 572
+|-
+| inventoryModel || 42786 || 2521
+|-
+| zoom2d || 2000 || 1940
+|-
+| yOffset2d || 0 || 1
+|-
+| maleModel0 || 42751 || -1
+|-
+| femaleModel0 || 42747 || -1
+|-
+|rowspan="7"|[[Null]]
+|rowspan="7"|[https://chisel.weirdgloop.org/moid/item_id.html#25948 25948]
+|-
+|xan2d || 0 || 572
+|-
+| inventoryModel || 42786 || 2521
+|-
+| zoom2d || 2000 || 1940
+|-
+| yOffset2d || 0 || 1
+|-
+| maleModel0 || 42751 || -1
+|-
+| femaleModel0 || 42747 || -1
+|-
+|rowspan="7"|[[Null]]
+|rowspan="7"|[https://chisel.weirdgloop.org/moid/item_id.html#25951 25951]
+|-
+|xan2d || 0 || 572
+|-
+| inventoryModel || 42786 || 2521
+|-
+| zoom2d || 2000 || 1940
+|-
+| yOffset2d || 0 || 1
+|-
+| maleModel0 || 42751 || -1
+|-
+| femaleModel0 || 42747 || -1
+|-
+|rowspan="7"|[[Null]]
+|rowspan="7"|[https://chisel.weirdgloop.org/moid/item_id.html#25954 25954]
+|-
+|xan2d || 0 || 572
+|-
+| inventoryModel || 42786 || 2521
+|-
+| zoom2d || 2000 || 1940
+|-
+| yOffset2d || 0 || 1
+|-
+| maleModel0 || 42751 || -1
+|-
+| femaleModel0 || 42747 || -1
+|-
+|rowspan="17"|[[Virtus mask]]
+|rowspan="17"|[https://chisel.weirdgloop.org/moid/item_id.html#26241 26241]
+|-
+|xan2d || 0 || 2047
+|-
+| yan2d || 0 || 2020
+|-
+| cost || 1 || 200000
+|-
+| isTradeable || False || True
+|-
+| inventoryModel || 3822 || 47656
+|-
+| wearPos2 || 0 || 8
+|-
+| wearPos3 || 0 || 11
+|-
+| zoom2d || 2000 || 987
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || [None, 'Wear', None, None, 'Drop']
+|-
+| maleModel0 || -1 || 47642
+|-
+| maleHeadModel || -1 || 47651
+|-
+| femaleModel0 || -1 || 47647
+|-
+| femaleHeadModel || -1 || 47652
+|-
+| notedID || -1 || 27896
+|-
+| weight || 1 || 1206
+|-
+| category || 0 || 10
+|-
+|rowspan="15"|[[Virtus robe top]]
+|rowspan="15"|[https://chisel.weirdgloop.org/moid/item_id.html#26243 26243]
+|-
+|xan2d || 0 || 518
+|-
+| cost || 1 || 600000
+|-
+| isTradeable || False || True
+|-
+| inventoryModel || 3822 || 47655
+|-
+| wearPos1 || 0 || 4
+|-
+| wearPos2 || 0 || 6
+|-
+| zoom2d || 2000 || 1414
+|-
+| yOffset2d || 0 || -6
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || [None, 'Wear', None, None, 'Drop']
+|-
+| maleModel0 || -1 || 47645
+|-
+| femaleModel0 || -1 || 47649
+|-
+| notedID || -1 || 27894
+|-
+| weight || 1 || 2895
+|-
+| category || 0 || 10
+|-
+|rowspan="18"|[[Virtus robe bottom]]
+|rowspan="18"|[https://chisel.weirdgloop.org/moid/item_id.html#26245 26245]
+|-
+|name || [[Virtus robe bottoms]] || [[Virtus robe bottom]]
+|-
+| xan2d || 0 || 435
+|-
+| cost || 1 || 400000
+|-
+| isTradeable || False || True
+|-
+| inventoryModel || 3822 || 47653
+|-
+| wearPos1 || 0 || 7
+|-
+| zoom2d || 2000 || 1842
+|-
+| xOffset2d || 0 || 2
+|-
+| yOffset2d || 0 || -11
+|-
+| ambient || 0 || 30
+|-
+| contrast || 0 || 20
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || [None, 'Wear', None, None, 'Drop']
+|-
+| maleModel0 || -1 || 47643
+|-
+| femaleModel0 || -1 || 47648
+|-
+| notedID || -1 || 27895
+|-
+| weight || 1 || 3790
+|-
+| category || 0 || 10
+|-
+|rowspan="2"|[[Null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#27033 27033]
+|-
+|interfaceOptions || ['Wear', None, None, None, 'Drop'] || [None, None, None, None, 'Drop']
+|-
+|rowspan="2"|[[Null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#27034 27034]
+|-
+|interfaceOptions || ['Wear', None, None, None, 'Drop'] || [None, None, None, None, 'Drop']
+|-
+|}
+
+==Non-Player Characters==
+===New NPCs===
+{| class="wikitable sortable"
+!colspan='4'|New NPCs
+|-
+! style=width:15em | Name !! ID !! Combat Level !! Options
+|-
+|-
+|}
+===Removed NPCs===
+{| class="wikitable sortable"
+!colspan='2'|Removed NPCs
+|-
+! style=width:15em | Name !! ID
+|-
+|-
+|}
+===Diff NPCs===
+{| class="wikitable sortable"
+!colspan='5'|Diff NPCs
+|-
+! style=width:15em | Name !! ID !! Key !! Previous Value !! New Value
+|-
+|rowspan="2"|[[Nex]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#11282 11282]
+|-
+|headIconSpriteIndex || [10] || [21]
+|-
+|}
+
+==Objects==
+===New Objects=== 
+{| class="wikitable sortable"
+!colspan='3'|New Objects
+|-
+! style=width:15em | Name !! ID !! Options
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#47348 47348] || None
+|-
+| [[Nothing]] || [https://chisel.weirdgloop.org/moid/object_id.html#47349 47349] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#47350 47350] || None
+|-
+| [[Chair]] || [https://chisel.weirdgloop.org/moid/object_id.html#47351 47351] || None
+|-
+| [[Table]] || [https://chisel.weirdgloop.org/moid/object_id.html#47352 47352] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#47353 47353] || None
+|-
+| [[Bucket]] || [https://chisel.weirdgloop.org/moid/object_id.html#47354 47354] || None
+|-
+| [[Cave]] || [https://chisel.weirdgloop.org/moid/object_id.html#47355 47355] || None
+|-
+| [[Cave]] || [https://chisel.weirdgloop.org/moid/object_id.html#47356 47356] || None
+|-
+| [[Cave]] || [https://chisel.weirdgloop.org/moid/object_id.html#47357 47357] || None
+|-
+| [[Cave]] || [https://chisel.weirdgloop.org/moid/object_id.html#47358 47358] || None
+|-
+| [[Rockslide]] || [https://chisel.weirdgloop.org/moid/object_id.html#47359 47359] || None
+|-
+| [[Rockslide]] || [https://chisel.weirdgloop.org/moid/object_id.html#47360 47360] || None
+|-
+| [[Rockslide]] || [https://chisel.weirdgloop.org/moid/object_id.html#47361 47361] || None
+|-
+| [[Rockslide]] || [https://chisel.weirdgloop.org/moid/object_id.html#47362 47362] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#47363 47363] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#47364 47364] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#47365 47365] || None
+|-
+| [[Rockslide]] || [https://chisel.weirdgloop.org/moid/object_id.html#47366 47366] || None
+|-
+| [[Rockslide]] || [https://chisel.weirdgloop.org/moid/object_id.html#47367 47367] || None
+|-
+| [[Rockslide]] || [https://chisel.weirdgloop.org/moid/object_id.html#47368 47368] || None
+|-
+| [[Rockslide]] || [https://chisel.weirdgloop.org/moid/object_id.html#47369 47369] || None
+|-
+| [[Plant]] || [https://chisel.weirdgloop.org/moid/object_id.html#47370 47370] || None
+|-
+| [[Plant]] || [https://chisel.weirdgloop.org/moid/object_id.html#47371 47371] || None
+|-
+| [[Redwood tree]] || [https://chisel.weirdgloop.org/moid/object_id.html#47372 47372] || None
+|-
+| [[Redwood tree]] || [https://chisel.weirdgloop.org/moid/object_id.html#47373 47373] || None
+|-
+| [[Redwood tree]] || [https://chisel.weirdgloop.org/moid/object_id.html#47374 47374] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#47375 47375] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#47376 47376] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#47377 47377] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#47378 47378] || None
+|-
+| [[Chair]] || [https://chisel.weirdgloop.org/moid/object_id.html#47379 47379] || None
+|-
+| [[Stool]] || [https://chisel.weirdgloop.org/moid/object_id.html#47380 47380] || None
+|-
+| [[Throne]] || [https://chisel.weirdgloop.org/moid/object_id.html#47381 47381] || None
+|-
+| [[Cupboard]] || [https://chisel.weirdgloop.org/moid/object_id.html#47382 47382] || None
+|-
+| [[Cupboard]] || [https://chisel.weirdgloop.org/moid/object_id.html#47383 47383] || None
+|-
+| [[Shelves]] || [https://chisel.weirdgloop.org/moid/object_id.html#47384 47384] || None
+|-
+| [[Hat stand]] || [https://chisel.weirdgloop.org/moid/object_id.html#47385 47385] || None
+|-
+| [[Rack]] || [https://chisel.weirdgloop.org/moid/object_id.html#47386 47386] || None
+|-
+| [[Barrel]] || [https://chisel.weirdgloop.org/moid/object_id.html#47387 47387] || None
+|-
+| [[Cabinet]] || [https://chisel.weirdgloop.org/moid/object_id.html#47388 47388] || None
+|-
+| [[Cabinet]] || [https://chisel.weirdgloop.org/moid/object_id.html#47389 47389] || None
+|-
+| [[Giant vial]] || [https://chisel.weirdgloop.org/moid/object_id.html#47390 47390] || None
+|-
+| [[Books]] || [https://chisel.weirdgloop.org/moid/object_id.html#47391 47391] || None
+|-
+| [[Range]] || [https://chisel.weirdgloop.org/moid/object_id.html#47392 47392] || None
+|-
+| [[Sink]] || [https://chisel.weirdgloop.org/moid/object_id.html#47393 47393] || None
+|-
+| [[Fireplace]] || [https://chisel.weirdgloop.org/moid/object_id.html#47394 47394] || None
+|-
+| [[Bed]] || [https://chisel.weirdgloop.org/moid/object_id.html#47395 47395] || None
+|-
+| [[Bed]] || [https://chisel.weirdgloop.org/moid/object_id.html#47396 47396] || None
+|-
+|-
+|}
+===Removed Objects===
+{| class="wikitable sortable"
+!colspan='2'|Removed Objects
+|-
+! style=width:15em | Name !! ID
+|-
+|-
+|}
+===Diff Objects===
+{| class="wikitable sortable"
+!colspan='5'|Diff Objects
+|-
+! style=width:15em | Name !! ID !! Key !! Previous Value !! New Value
+|-
+|rowspan="3"|[[null]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#3716 3716]
+|-
+|ambient || 0 || 10
+|-
+| contrast || 0 || 625
+|-
+|rowspan="3"|[[null]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#3717 3717]
+|-
+|ambient || 0 || 10
+|-
+| contrast || 0 || 625
+|-
+|rowspan="3"|[[null]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#3718 3718]
+|-
+|ambient || 0 || 10
+|-
+| contrast || 0 || 625
+|-
+|rowspan="3"|[[null]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#3719 3719]
+|-
+|ambient || 0 || 10
+|-
+| contrast || 0 || 625
+|-
+|rowspan="3"|[[null]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#3720 3720]
+|-
+|ambient || 0 || 10
+|-
+| contrast || 0 || 625
+|-
+|rowspan="3"|[[null]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#3721 3721]
+|-
+|ambient || 0 || 10
+|-
+| contrast || 0 || 625
+|-
+|rowspan="3"|[[Bench]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#5615 5615]
+|-
+|ambient || 0 || 10
+|-
+| contrast || 0 || 500
+|-
+|rowspan="3"|[[null]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#5950 5950]
+|-
+|ambient || 0 || 10
+|-
+| contrast || 0 || 500
+|-
+|rowspan="3"|[[null]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#5951 5951]
+|-
+|ambient || 0 || 10
+|-
+| contrast || 0 || 500
+|-
+|rowspan="3"|[[null]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#5952 5952]
+|-
+|ambient || 0 || 10
+|-
+| contrast || 0 || 500
+|-
+|rowspan="3"|[[null]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#5953 5953]
+|-
+|ambient || 0 || 10
+|-
+| contrast || 0 || 500
+|-
+|rowspan="3"|[[Rockslide]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#11432 11432]
+|-
+|ambient || 0 || 10
+|-
+| contrast || 0 || 500
+|-
+|rowspan="3"|[[Rockslide]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#11433 11433]
+|-
+|ambient || 0 || 10
+|-
+| contrast || 0 || 500
+|-
+|rowspan="3"|[[Rockslide]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#11434 11434]
+|-
+|ambient || 0 || 10
+|-
+| contrast || 0 || 500
+|-
+|rowspan="3"|[[Rockslide]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#11435 11435]
+|-
+|ambient || 0 || 10
+|-
+| contrast || 0 || 500
+|-
+|rowspan="3"|[[null]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#11436 11436]
+|-
+|ambient || 0 || 10
+|-
+| contrast || 0 || 500
+|-
+|rowspan="3"|[[null]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#11437 11437]
+|-
+|ambient || 0 || 10
+|-
+| contrast || 0 || 500
+|-
+|rowspan="3"|[[null]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#11438 11438]
+|-
+|ambient || 0 || 10
+|-
+| contrast || 0 || 500
+|-
+|rowspan="3"|[[null]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#11439 11439]
+|-
+|ambient || 0 || 10
+|-
+| contrast || 0 || 500
+|-
+|rowspan="3"|[[null]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#11440 11440]
+|-
+|ambient || 0 || 10
+|-
+| contrast || 0 || 500
+|-
+|rowspan="5"|[[Rockslide]]
+|rowspan="5"|[https://chisel.weirdgloop.org/moid/object_id.html#11920 11920]
+|-
+|ambient || 0 || 10
+|-
+| contrast || 0 || 500
+|-
+| mapSceneID || 12 || 118
+|-
+| shadow || True || False
+|-
+|rowspan="5"|[[Rockslide]]
+|rowspan="5"|[https://chisel.weirdgloop.org/moid/object_id.html#11921 11921]
+|-
+|ambient || 0 || 10
+|-
+| contrast || 0 || 500
+|-
+| mapSceneID || 12 || 118
+|-
+| shadow || True || False
+|-
+|rowspan="4"|[[Rockslide]]
+|rowspan="4"|[https://chisel.weirdgloop.org/moid/object_id.html#11922 11922]
+|-
+|ambient || 0 || 10
+|-
+| contrast || 0 || 500
+|-
+| mapSceneID || 12 || 119
+|-
+|rowspan="4"|[[Rockslide]]
+|rowspan="4"|[https://chisel.weirdgloop.org/moid/object_id.html#11923 11923]
+|-
+|ambient || 0 || 10
+|-
+| contrast || 0 || 500
+|-
+| mapSceneID || -1 || 119
+|-
+|rowspan="2"|[[Workbench]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#20360 20360]
+|-
+|name || [[Work bench]] || [[Workbench]]
+|-
+|rowspan="2"|[[Bank chest]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#26711 26711]
+|-
+|blockingMask || 14 || 0
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#27889 27889]
+|-
+|mapSceneID || -1 || 120
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#27892 27892]
+|-
+|mapSceneID || -1 || 122
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#27895 27895]
+|-
+|mapSceneID || -1 || 121
+|-
+|rowspan="2"|[[Crates]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#40546 40546]
+|-
+|name || [[Crate]] || [[Crates]]
+|-
+|rowspan="2"|[[Crates]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#40547 40547]
+|-
+|name || [[Crate]] || [[Crates]]
+|-
+|rowspan="2"|[[Crates]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#40589 40589]
+|-
+|name || [[Crate]] || [[Crates]]
+|-
+|rowspan="2"|[[Plant]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#42398 42398]
+|-
+|mapSceneID || 5 || 117
+|-
+|rowspan="2"|[[Plant]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#42399 42399]
+|-
+|mapSceneID || 5 || 117
+|-
+|rowspan="2"|[[Plant]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#42400 42400]
+|-
+|mapSceneID || 5 || 116
+|-
+|rowspan="2"|[[Plant]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#42401 42401]
+|-
+|mapSceneID || 5 || 117
+|-
+|rowspan="2"|[[Plant]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#42402 42402]
+|-
+|mapSceneID || 5 || 115
+|-
+|rowspan="2"|[[Plant]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#42403 42403]
+|-
+|mapSceneID || 5 || 115
+|-
+|rowspan="2"|[[Plant]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#42404 42404]
+|-
+|mapSceneID || 5 || 114
+|-
+|rowspan="2"|[[Plant]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#42405 42405]
+|-
+|mapSceneID || 5 || 115
+|-
+|}

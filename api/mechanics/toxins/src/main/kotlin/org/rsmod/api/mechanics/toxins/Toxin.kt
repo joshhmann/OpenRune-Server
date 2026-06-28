@@ -9,11 +9,12 @@ import org.rsmod.game.entity.Player
 public object Toxin {
 
     public fun syncStatusOrbs(player: Player) {
-        val poisonVenomOrb = when {
-            PlayerVenom.isEnvenomed(player) -> 1_000_000
-            PlayerPoison.isPoisoned(player) -> 1
-            else -> 0
-        }
+        val poisonVenomOrb =
+            when {
+                PlayerVenom.isEnvenomed(player) -> 1_000_000
+                PlayerPoison.isPoisoned(player) -> 1
+                else -> 0
+            }
 
         VarPlayerIntMapSetter.set(player, "varp.poison", poisonVenomOrb)
         val diseaseOrb = if (PlayerDisease.isDiseased(player)) 1 else 0

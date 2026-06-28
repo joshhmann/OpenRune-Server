@@ -1,0 +1,372 @@
+{{ToC}}
+==Items==
+===New Items===
+{| class="wikitable sortable"
+!colspan='11'|New Items
+|-
+! style=width:15em | Name !! ID !! Members !! Tradeable in GE !! Equipable !! Stackable !! Noteable !! Options !! Placeholder !! Cost
+|-
+| [[Infernal max cape (l)]] || [https://chisel.weirdgloop.org/moid/item_id.html#24133 24133] || Yes || No || Yes || No || No ||  Wear,   Drop || No || 99000
+|-
+| [[Fire max cape (l)]] || [https://chisel.weirdgloop.org/moid/item_id.html#24134 24134] || Yes || No || Yes || No || No ||  Wear,   Drop || No || 99000
+|-
+| [[Assembler max cape (l)]] || [https://chisel.weirdgloop.org/moid/item_id.html#24135 24135] || Yes || No || Yes || No || No ||  Wear,  Commune, Drop || No || 99000
+|-
+| [[Bronze defender (l)]] || [https://chisel.weirdgloop.org/moid/item_id.html#24136 24136] || Yes || No || Yes || No || No ||  Wield,   Drop || No || 1
+|-
+| [[Iron defender (l)]] || [https://chisel.weirdgloop.org/moid/item_id.html#24137 24137] || Yes || No || Yes || No || No ||  Wield,   Drop || No || 1
+|-
+| [[Steel defender (l)]] || [https://chisel.weirdgloop.org/moid/item_id.html#24138 24138] || Yes || No || Yes || No || No ||  Wield,   Drop || No || 1
+|-
+| [[Black defender (l)]] || [https://chisel.weirdgloop.org/moid/item_id.html#24139 24139] || Yes || No || Yes || No || No ||  Wield,   Drop || No || 1
+|-
+| [[Mithril defender (l)]] || [https://chisel.weirdgloop.org/moid/item_id.html#24140 24140] || Yes || No || Yes || No || No ||  Wield,   Drop || No || 1
+|-
+| [[Adamant defender (l)]] || [https://chisel.weirdgloop.org/moid/item_id.html#24141 24141] || Yes || No || Yes || No || No ||  Wield,   Drop || No || 1
+|-
+| [[Rune defender (l)]] || [https://chisel.weirdgloop.org/moid/item_id.html#24142 24142] || Yes || No || Yes || No || No ||  Wield,   Drop || No || 65004
+|-
+| [[Dragon defender (l)]] || [https://chisel.weirdgloop.org/moid/item_id.html#24143 24143] || Yes || No || Yes || No || No ||  Wield,   Drop || No || 68007
+|-
+| [[Staff of balance]] || [https://chisel.weirdgloop.org/moid/item_id.html#24144 24144] || Yes || Yes || Yes || No || Yes ||  Wield,   Drop || Yes || 1000004
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#24145 24145] || No || No || No || No || Yes ||     Drop || No || 1
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#24146 24146] || No || No || No || No || No ||     Drop || Yes || 1
+|-
+| [[Armadyl halo (broken)]] || [https://chisel.weirdgloop.org/moid/item_id.html#24147 24147] || Yes || No || No || No || No ||     Drop || Yes || 1
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#24148 24148] || No || No || No || No || No ||     Drop || Yes || 1
+|-
+| [[Bandos halo (broken)]] || [https://chisel.weirdgloop.org/moid/item_id.html#24149 24149] || Yes || No || No || No || No ||     Drop || Yes || 1
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#24150 24150] || No || No || No || No || No ||     Drop || Yes || 1
+|-
+| [[Seren halo (broken)]] || [https://chisel.weirdgloop.org/moid/item_id.html#24151 24151] || Yes || No || No || No || No ||     Drop || Yes || 1
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#24152 24152] || No || No || No || No || No ||     Drop || Yes || 1
+|-
+| [[Ancient halo (broken)]] || [https://chisel.weirdgloop.org/moid/item_id.html#24153 24153] || Yes || No || No || No || No ||     Drop || Yes || 1
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#24154 24154] || No || No || No || No || No ||     Drop || Yes || 1
+|-
+| [[Brassica halo (broken)]] || [https://chisel.weirdgloop.org/moid/item_id.html#24155 24155] || Yes || No || No || No || No ||     Drop || Yes || 1
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#24156 24156] || No || No || No || No || No ||     Drop || Yes || 1
+|-
+| [[Decorative sword (l)]] || [https://chisel.weirdgloop.org/moid/item_id.html#24157 24157] || No || No || Yes || No || No ||  Wield,   Drop || No || 3200
+|-
+| [[Decorative armour (l)]] || [https://chisel.weirdgloop.org/moid/item_id.html#24158 24158] || No || No || Yes || No || No ||  Wear,   Drop || No || 12800
+|-
+| [[Decorative armour (l)]] || [https://chisel.weirdgloop.org/moid/item_id.html#24159 24159] || No || No || Yes || No || No ||  Wear,   Drop || No || 6400
+|-
+| [[Decorative helm (l)]] || [https://chisel.weirdgloop.org/moid/item_id.html#24160 24160] || No || No || Yes || No || No ||  Wear,   Drop || No || 1920
+|-
+| [[Decorative shield (l)]] || [https://chisel.weirdgloop.org/moid/item_id.html#24161 24161] || No || No || Yes || No || No ||  Wear,   Drop || No || 5440
+|-
+| [[Decorative armour (l)]] || [https://chisel.weirdgloop.org/moid/item_id.html#24162 24162] || No || No || Yes || No || No ||  Wear,   Drop || No || 6400
+|-
+| [[Decorative armour (l)]] || [https://chisel.weirdgloop.org/moid/item_id.html#24163 24163] || Yes || No || Yes || No || No ||  Wear,   Drop || No || 48000
+|-
+| [[Decorative armour (l)]] || [https://chisel.weirdgloop.org/moid/item_id.html#24164 24164] || Yes || No || Yes || No || No ||  Wear,   Drop || No || 45000
+|-
+| [[Decorative armour (l)]] || [https://chisel.weirdgloop.org/moid/item_id.html#24165 24165] || Yes || No || Yes || No || No ||  Wear,   Drop || No || 45000
+|-
+| [[Decorative armour (l)]] || [https://chisel.weirdgloop.org/moid/item_id.html#24166 24166] || Yes || No || Yes || No || No ||  Wear,   Drop || No || 48000
+|-
+| [[Decorative armour (l)]] || [https://chisel.weirdgloop.org/moid/item_id.html#24167 24167] || Yes || No || Yes || No || No ||  Wear,   Drop || No || 45000
+|-
+| [[Decorative armour (l)]] || [https://chisel.weirdgloop.org/moid/item_id.html#24168 24168] || Yes || No || Yes || No || No ||  Wear,   Drop || No || 45000
+|-
+| [[Saradomin halo (l)]] || [https://chisel.weirdgloop.org/moid/item_id.html#24169 24169] || Yes || No || Yes || No || No ||  Wear,   Drop || No || 150000
+|-
+| [[Zamorak halo (l)]] || [https://chisel.weirdgloop.org/moid/item_id.html#24170 24170] || Yes || No || Yes || No || No ||  Wear,   Drop || No || 150000
+|-
+| [[Guthix halo (l)]] || [https://chisel.weirdgloop.org/moid/item_id.html#24171 24171] || Yes || No || Yes || No || No ||  Wear,   Drop || No || 150000
+|-
+| [[Healer hat (l)]] || [https://chisel.weirdgloop.org/moid/item_id.html#24172 24172] || Yes || No || Yes || No || No ||  Wear,   Drop || No || 65002
+|-
+| [[Fighter hat (l)]] || [https://chisel.weirdgloop.org/moid/item_id.html#24173 24173] || Yes || No || Yes || No || No ||  Wear,   Drop || No || 65002
+|-
+| [[Ranger hat (l)]] || [https://chisel.weirdgloop.org/moid/item_id.html#24174 24174] || Yes || No || Yes || No || No ||  Wear,   Drop || No || 65002
+|-
+| [[Fighter torso (l)]] || [https://chisel.weirdgloop.org/moid/item_id.html#24175 24175] || Yes || No || Yes || No || No ||  Wear,   Drop || No || 65006
+|-
+| [[Penance skirt (l)]] || [https://chisel.weirdgloop.org/moid/item_id.html#24176 24176] || Yes || No || Yes || No || No ||  Wear,   Drop || No || 65005
+|-
+| [[Void knight top (l)]] || [https://chisel.weirdgloop.org/moid/item_id.html#24177 24177] || Yes || No || Yes || No || No ||  Wear,   Drop || No || 48000
+|-
+| [[Elite void top (l)]] || [https://chisel.weirdgloop.org/moid/item_id.html#24178 24178] || Yes || No || Yes || No || No ||  Wear,   Drop || No || 48500
+|-
+| [[Void knight robe (l)]] || [https://chisel.weirdgloop.org/moid/item_id.html#24179 24179] || Yes || No || Yes || No || No ||  Wear,   Drop || No || 45000
+|-
+| [[Elite void robe (l)]] || [https://chisel.weirdgloop.org/moid/item_id.html#24180 24180] || Yes || No || Yes || No || No ||  Wear,   Drop || No || 45500
+|-
+| [[Void knight mace (l)]] || [https://chisel.weirdgloop.org/moid/item_id.html#24181 24181] || Yes || No || Yes || No || No ||  Wield,   Drop || No || 12000
+|-
+| [[Void knight gloves (l)]] || [https://chisel.weirdgloop.org/moid/item_id.html#24182 24182] || Yes || No || Yes || No || No ||  Wear,   Drop || No || 6052
+|-
+| [[Void mage helm (l)]] || [https://chisel.weirdgloop.org/moid/item_id.html#24183 24183] || Yes || No || Yes || No || No ||  Wear,   Drop || No || 9851
+|-
+| [[Void ranger helm (l)]] || [https://chisel.weirdgloop.org/moid/item_id.html#24184 24184] || Yes || No || Yes || No || No ||  Wear,   Drop || No || 9851
+|-
+| [[Void melee helm (l)]] || [https://chisel.weirdgloop.org/moid/item_id.html#24185 24185] || Yes || No || Yes || No || No ||  Wear,   Drop || No || 9851
+|-
+| [[Avernic defender (l)]] || [https://chisel.weirdgloop.org/moid/item_id.html#24186 24186] || Yes || No || Yes || No || No ||  Wield,  Dismantle, Drop || No || 2500000
+|-
+| [[Trouver parchment]] || [https://chisel.weirdgloop.org/moid/item_id.html#24187 24187] || Yes || Yes || No || Yes || No ||    Read, Drop || Yes || 200
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#24188 24188] || No || No || No || No || No ||     Drop || Yes || 1
+|-
+| [[Deadman's chest]] || [https://chisel.weirdgloop.org/moid/item_id.html#24189 24189] || No || No || Yes || No || No ||  Wear,   Drop || No || 2
+|-
+| [[Deadman's legs]] || [https://chisel.weirdgloop.org/moid/item_id.html#24190 24190] || No || No || Yes || No || No ||  Wear,   Drop || No || 1
+|-
+| [[Deadman's cape]] || [https://chisel.weirdgloop.org/moid/item_id.html#24191 24191] || No || No || Yes || No || No ||  Wear,   Drop || No || 3
+|-
+| [[Armadyl halo]] || [https://chisel.weirdgloop.org/moid/item_id.html#24192 24192] || Yes || No || Yes || No || No ||  Wear,   Drop || Yes || 1000
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#24193 24193] || No || No || No || No || No ||     Drop || Yes || 1
+|-
+| [[Armadyl halo (l)]] || [https://chisel.weirdgloop.org/moid/item_id.html#24194 24194] || Yes || No || Yes || No || No ||  Wear,   Drop || No || 1000
+|-
+| [[Bandos halo]] || [https://chisel.weirdgloop.org/moid/item_id.html#24195 24195] || Yes || No || Yes || No || No ||  Wear,   Drop || Yes || 1000
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#24196 24196] || No || No || No || No || No ||     Drop || Yes || 1
+|-
+| [[Bandos halo (l)]] || [https://chisel.weirdgloop.org/moid/item_id.html#24197 24197] || Yes || No || Yes || No || No ||  Wear,   Drop || No || 1000
+|-
+| [[Seren halo]] || [https://chisel.weirdgloop.org/moid/item_id.html#24198 24198] || Yes || No || Yes || No || No ||  Wear,   Drop || Yes || 1000
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#24199 24199] || No || No || No || No || No ||     Drop || Yes || 1
+|-
+| [[Seren halo (l)]] || [https://chisel.weirdgloop.org/moid/item_id.html#24200 24200] || Yes || No || Yes || No || No ||  Wear,   Drop || No || 1000
+|-
+| [[Ancient halo]] || [https://chisel.weirdgloop.org/moid/item_id.html#24201 24201] || Yes || No || Yes || No || No ||  Wear,   Drop || Yes || 1000
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#24202 24202] || No || No || No || No || No ||     Drop || Yes || 1
+|-
+| [[Ancient halo (l)]] || [https://chisel.weirdgloop.org/moid/item_id.html#24203 24203] || Yes || No || Yes || No || No ||  Wear,   Drop || No || 1000
+|-
+| [[Brassica halo]] || [https://chisel.weirdgloop.org/moid/item_id.html#24204 24204] || Yes || No || Yes || No || No ||  Wear,   Drop || Yes || 1000
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#24205 24205] || No || No || No || No || No ||     Drop || Yes || 1
+|-
+| [[Brassica halo (l)]] || [https://chisel.weirdgloop.org/moid/item_id.html#24206 24206] || Yes || No || Yes || No || No ||  Wear,   Drop || No || 1000
+|-
+| [[Victor's cape (1)]] || [https://chisel.weirdgloop.org/moid/item_id.html#24207 24207] || No || No || Yes || No || No ||  Wear,   Drop || Yes || 4
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#24208 24208] || No || No || No || No || No ||     Drop || Yes || 1
+|-
+| [[Victor's cape (10)]] || [https://chisel.weirdgloop.org/moid/item_id.html#24209 24209] || No || No || Yes || No || No ||  Wear,   Drop || Yes || 4
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#24210 24210] || No || No || No || No || No ||     Drop || Yes || 1
+|-
+| [[Victor's cape (50)]] || [https://chisel.weirdgloop.org/moid/item_id.html#24211 24211] || No || No || Yes || No || No ||  Wear,   Drop || Yes || 4
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#24212 24212] || No || No || No || No || No ||     Drop || Yes || 1
+|-
+| [[Victor's cape (100)]] || [https://chisel.weirdgloop.org/moid/item_id.html#24213 24213] || No || No || Yes || No || No ||  Wear,   Drop || Yes || 4
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#24214 24214] || No || No || No || No || No ||     Drop || Yes || 1
+|-
+| [[Victor's cape (500)]] || [https://chisel.weirdgloop.org/moid/item_id.html#24215 24215] || No || No || Yes || No || No ||  Wear,   Drop || Yes || 4
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#24216 24216] || No || No || No || No || No ||     Drop || Yes || 1
+|-
+| [[Guthixian icon]] || [https://chisel.weirdgloop.org/moid/item_id.html#24217 24217] || Yes || No || No || Yes || No ||    Scrutinise, Drop || Yes || 500
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#24218 24218] || No || No || No || No || No ||     Drop || Yes || 1
+|-
+| [[Swift blade]] || [https://chisel.weirdgloop.org/moid/item_id.html#24219 24219] || No || Yes || Yes || No || Yes ||  Wield,   Drop || Yes || 1500
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#24220 24220] || No || No || No || No || Yes ||     Drop || No || 1
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#24221 24221] || No || No || No || No || No ||     Drop || Yes || 1
+|-
+| [[Ava's assembler (l)]] || [https://chisel.weirdgloop.org/moid/item_id.html#24222 24222] || Yes || No || Yes || No || No ||  Wear,  Commune, Drop || No || 51000
+|-
+| [[Fire cape (l)]] || [https://chisel.weirdgloop.org/moid/item_id.html#24223 24223] || Yes || No || Yes || No || No ||  Wear,   Drop || No || 65007
+|-
+| [[Infernal cape (l)]] || [https://chisel.weirdgloop.org/moid/item_id.html#24224 24224] || Yes || No || Yes || No || No ||  Wear,   Drop || No || 80000
+|-
+|-
+|}
+===Removed Items===
+{| class="wikitable sortable"
+!colspan='2'|Removed Items
+|-
+! style=width:15em | Name !! ID
+|-
+|-
+|}
+===Diff Items===
+{| class="wikitable sortable"
+!colspan='5'|Diff Items
+|-
+! style=width:15em | Name !! ID !! Key !! Previous Value !! New Value
+|-
+|rowspan="2"|[[Decorative sword (broken)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#20483 20483]
+|-
+|members || True || False
+|-
+|rowspan="2"|[[Decorative armour (broken)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#20485 20485]
+|-
+|members || True || False
+|-
+|rowspan="2"|[[Decorative armour (broken)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#20487 20487]
+|-
+|members || True || False
+|-
+|rowspan="2"|[[Decorative helm (broken)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#20489 20489]
+|-
+|members || True || False
+|-
+|rowspan="2"|[[Decorative shield (broken)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#20491 20491]
+|-
+|members || True || False
+|-
+|rowspan="2"|[[Decorative armour (broken)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#20493 20493]
+|-
+|members || True || False
+|-
+|rowspan="2"|[[Alchemical hydra head]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#23081 23081]
+|-
+|name || [[Alchemical hydra head.]] || [[Alchemical hydra head]]
+|-
+|rowspan="2"|[[Ava's accumulator]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#23609 23609]
+|-
+|params || {'451': 'Commune'} || {'850': 1, '451': 'Commune'}
+|-
+|rowspan="2"|[[Rune pouch]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#23650 23650]
+|-
+|interfaceOptions || ['Open', None, None, None, 'Drop'] || [None, None, None, None, 'Drop']
+|-
+|}
+
+==Non-Player Characters==
+===New NPCs===
+{| class="wikitable sortable"
+!colspan='4'|New NPCs
+|-
+! style=width:15em | Name !! ID !! Combat Level !! Options
+|-
+| [[Captain Barnaby]] || [https://chisel.weirdgloop.org/moid/npc_id.html#9250 9250] || No Combat Level || Talk-to, Brimhaven, Rimmington
+|-
+|-
+|}
+===Removed NPCs===
+{| class="wikitable sortable"
+!colspan='2'|Removed NPCs
+|-
+! style=width:15em | Name !! ID
+|-
+| [[Captain Barnaby]] || [https://chisel.weirdgloop.org/moid/npc_id.html#3649 3649]
+|-
+|-
+|}
+===Diff NPCs===
+{| class="wikitable sortable"
+!colspan='5'|Diff NPCs
+|-
+! style=width:15em | Name !! ID !! Key !! Previous Value !! New Value
+|-
+|rowspan="2"|[[Banker tutor]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#3227 3227]
+|-
+|models || [408, 418, 15320, 343, 10706, 435] || [408, 417, 15320, 343, 10706, 435, 418]
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#3650 3650]
+|-
+|configs || [3649, -1] || [9250, -1]
+|-
+|rowspan="3"|[[Justine]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/npc_id.html#8721 8721]
+|-
+|models || [20184, 20213, 20194, 29254, 20180, 20177, 9644, 5601, 403] || [9020, 468, 352, 38820, 15321, 4207, 8934, 450, 490, 521, 356]
+|-
+| chatheadModels || [120, 28766] || [88, 20744]
+|-
+|rowspan="2"|[[Captain Barnaby]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#8763 8763]
+|-
+|actions || ['Talk-to', None, 'Pay-fare', None, None] || ['Talk-to', None, 'Ardougne', 'Brimhaven', None]
+|-
+|rowspan="2"|[[Captain Barnaby]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#8764 8764]
+|-
+|actions || ['Talk-to', None, 'Pay-fare', None, None] || ['Talk-to', None, 'Ardougne', 'Rimmington', None]
+|-
+|}
+
+==Objects==
+===New Objects=== 
+{| class="wikitable sortable"
+!colspan='3'|New Objects
+|-
+! style=width:15em | Name !! ID !! Options
+|-
+| [[Supply chest]] || [https://chisel.weirdgloop.org/moid/object_id.html#37382 37382] || None
+|-
+| [[Supply chest]] || [https://chisel.weirdgloop.org/moid/object_id.html#37383 37383] || Use
+|-
+|-
+|}
+===Removed Objects===
+{| class="wikitable sortable"
+!colspan='2'|Removed Objects
+|-
+! style=width:15em | Name !! ID
+|-
+|-
+|}
+===Diff Objects===
+{| class="wikitable sortable"
+!colspan='5'|Diff Objects
+|-
+! style=width:15em | Name !! ID !! Key !! Previous Value !! New Value
+|-
+|rowspan="5"|[[Reward chest]]
+|rowspan="5"|[https://chisel.weirdgloop.org/moid/object_id.html#29063 29063]
+|-
+|blockingMask || 0 || 14
+|-
+| modelSizeX || 128 || 96
+|-
+| modelSizeHeight || 128 || 96
+|-
+| modelSizeY || 128 || 96
+|-
+|rowspan="3"|[[null]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#29065 29065]
+|-
+|name || [[Plinth]] || [[null]]
+|-
+| wallOrDoor || 1 || 0
+|-
+|rowspan="7"|[[null]]
+|rowspan="7"|[https://chisel.weirdgloop.org/moid/object_id.html#29068 29068]
+|-
+|name || [[Door]] || [[null]]
+|-
+| varbitID || -1 || 5304
+|-
+| ambient || 20 || 0
+|-
+| contrast || 375 || 0
+|-
+| actions || ['Close', None, None, None, None] || [None, None, None, None, None]
+|-
+| blockingMask || 0 || 14
+|-
+|}

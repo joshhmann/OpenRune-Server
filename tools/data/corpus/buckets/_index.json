@@ -1,0 +1,221 @@
+{
+  "combat_achievement": {
+    "count": 637,
+    "fields": [
+      "page_name",
+      "page_name_sub",
+      "name",
+      "monster",
+      "task",
+      "tier",
+      "type"
+    ]
+  },
+  "dependency_list": {
+    "count": 466,
+    "fields": [
+      "page_name",
+      "page_name_sub",
+      "require"
+    ]
+  },
+  "dropsline": {
+    "count": 38707,
+    "fields": [
+      "page_name",
+      "page_name_sub",
+      "item_name",
+      "drop_json",
+      "rare_drop_table"
+    ]
+  },
+  "infobox_activity": {
+    "count": 98,
+    "fields": [
+      "page_name",
+      "page_name_sub",
+      "image",
+      "is_members_only",
+      "default_version"
+    ]
+  },
+  "infobox_construction": {
+    "count": 730,
+    "fields": [
+      "page_name",
+      "page_name_sub",
+      "default_version",
+      "image",
+      "icon",
+      "item_id",
+      "object_id",
+      "level",
+      "experience",
+      "uses_skill"
+    ]
+  },
+  "infobox_item": {
+    "count": 16320,
+    "fields": [
+      "page_name",
+      "page_name_sub",
+      "item_name",
+      "image",
+      "is_members_only",
+      "item_id",
+      "examine",
+      "high_alchemy_value",
+      "league_region",
+      "release_date",
+      "value",
+      "weight",
+      "version_anchor",
+      "buy_limit",
+      "default_version",
+      "quest",
+      "tradeable"
+    ]
+  },
+  "infobox_location": {
+    "count": 1115,
+    "fields": [
+      "page_name",
+      "page_name_sub",
+      "is_members_only"
+    ]
+  },
+  "infobox_monster": {
+    "count": 3210,
+    "fields": [
+      "page_name",
+      "page_name_sub",
+      "default_version",
+      "name",
+      "image",
+      "is_members_only",
+      "id",
+      "examine",
+      "league_region",
+      "release_date",
+      "version_anchor",
+      "combat_level",
+      "poisonous",
+      "attribute",
+      "hitpoints",
+      "max_hit",
+      "slayer_level",
+      "slayer_experience",
+      "slayer_category",
+      "assigned_by",
+      "attack_level",
+      "strength_level",
+      "defence_level",
+      "ranged_level",
+      "magic_level",
+      "magic_attack_bonus",
+      "range_attack_bonus",
+      "stab_attack_bonus",
+      "slash_attack_bonus",
+      "crush_attack_bonus",
+      "stab_defence_bonus",
+      "slash_defence_bonus",
+      "crush_defence_bonus",
+      "magic_defence_bonus",
+      "range_defence_bonus",
+      "attack_bonus",
+      "strength_bonus",
+      "range_strength_bonus",
+      "magic_damage_bonus",
+      "attack_style",
+      "attack_speed",
+      "experience_bonus",
+      "flat_armour",
+      "size",
+      "elemental_weakness",
+      "elemental_weakness_percent"
+    ]
+  },
+  "infobox_npc": {
+    "count": 7215,
+    "fields": [
+      "page_name",
+      "page_name_sub",
+      "default_version",
+      "image",
+      "is_members_only",
+      "league_region",
+      "npc_id",
+      "npc_name",
+      "release",
+      "examine",
+      "location",
+      "quest"
+    ]
+  },
+  "infobox_shop": {
+    "count": 508,
+    "fields": [
+      "page_name",
+      "page_name_sub",
+      "shop_version",
+      "specialty",
+      "location",
+      "owner",
+      "is_members_only"
+    ]
+  },
+  "infobox_spell": {
+    "count": 201,
+    "fields": [
+      "page_name",
+      "page_name_sub",
+      "image",
+      "is_members_only",
+      "spellbook",
+      "uses_material",
+      "json"
+    ]
+  },
+  "money_making_guide": {
+    "count": 627,
+    "fields": [
+      "page_name",
+      "page_name_sub",
+      "value",
+      "recurring"
+    ]
+  },
+  "quest": {
+    "count": 227,
+    "fields": [
+      "page_name",
+      "page_name_sub",
+      "description",
+      "enemies_to_defeat",
+      "ironman_concerns",
+      "items_required",
+      "official_difficulty",
+      "official_length",
+      "requirements",
+      "start_point"
+    ]
+  },
+  "transcript": {
+    "count": 986,
+    "fields": [
+      "page_name",
+      "page_name_sub",
+      "npcs"
+    ]
+  },
+  "varbit": {
+    "count": 2897,
+    "fields": [
+      "page_name",
+      "page_name_sub",
+      "content",
+      "name",
+      "index"
+    ]
+  }
+}

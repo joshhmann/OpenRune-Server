@@ -7,11 +7,11 @@ import java.nio.ByteBuffer
 import java.nio.charset.StandardCharsets
 import java.util.concurrent.ConcurrentLinkedQueue
 import net.rsprot.protocol.loginprot.outgoing.LoginResponse
+import org.rsmod.api.net.central.netty.WorldLinkNettyBlockingClient
+import org.rsmod.api.net.central.netty.WorldLinkNettyBlockingSession
 import org.rsmod.api.player.output.ChatType
 import org.rsmod.api.player.output.MiscOutput
 import org.rsmod.api.player.output.mes
-import org.rsmod.api.net.central.netty.WorldLinkNettyBlockingClient
-import org.rsmod.api.net.central.netty.WorldLinkNettyBlockingSession
 import org.rsmod.api.registry.player.PlayerRegistry
 import org.rsmod.api.server.config.OpenRuneCentralGameConfig
 import org.rsmod.api.server.config.ServerConfig
@@ -20,10 +20,7 @@ import org.rsmod.game.GameUpdate.Companion.isUpdating
 
 public class OpenRuneCentralWorldLink
 @Inject
-constructor(
-    private val serverConfig: ServerConfig,
-    private val gameUpdate: GameUpdate,
-) {
+constructor(private val serverConfig: ServerConfig, private val gameUpdate: GameUpdate) {
     private val logger = InlineLogger()
 
     private val settings: CentralSettings? = CentralSettings.resolve(serverConfig)
@@ -36,7 +33,8 @@ constructor(
     private val pendingCentralMuteUpdates =
         ConcurrentLinkedQueue<WorldLinkFrameSpecs.ServerMuteUpdatePayload>()
 
-    private val pendingCentralReboots = ConcurrentLinkedQueue<WorldLinkFrameSpecs.ServerRebootPayload>()
+    private val pendingCentralReboots =
+        ConcurrentLinkedQueue<WorldLinkFrameSpecs.ServerRebootPayload>()
 
     private val pendingCentralBroadcasts =
         ConcurrentLinkedQueue<WorldLinkFrameSpecs.ServerBroadcastPayload>()
@@ -44,8 +42,7 @@ constructor(
     private val pendingCentralDisplayNameSyncs =
         ConcurrentLinkedQueue<WorldLinkFrameSpecs.ServerDisplayNameSyncPayload>()
 
-    @Volatile
-    private var inboundWatchStop: Boolean = true
+    @Volatile private var inboundWatchStop: Boolean = true
 
     private var inboundWatchThread: Thread? = null
 
@@ -114,10 +111,7 @@ constructor(
         inboundWatchStop = false
         logger.info { "Starting Central inbound watch endpoint=${cfg.host}:${cfg.port}" }
         inboundWatchThread =
-            Thread(
-                { runInboundWatchLoop(cfg) },
-                "openrune-central-worldlink-inbound",
-            ).apply {
+            Thread({ runInboundWatchLoop(cfg) }, "openrune-central-worldlink-inbound").apply {
                 isDaemon = true
                 start()
             }
@@ -163,8 +157,7 @@ constructor(
                         MiscOutput.clearUpdateRebootTimer(player)
                     }
                     gameUpdate.reset()
-                } catch (_: Exception) {
-                }
+                } catch (_: Exception) {}
                 continue
             }
             val now = System.currentTimeMillis()
@@ -177,8 +170,7 @@ constructor(
                 if (!gameUpdate.state.isUpdating()) {
                     gameUpdate.startCountdown(cycles)
                 }
-            } catch (_: Exception) {
-            }
+            } catch (_: Exception) {}
             playerRegistry.forEachOnline { player ->
                 MiscOutput.updateRebootTimer(player, cycles, op.message)
             }
@@ -188,13 +180,16 @@ constructor(
             if (b.worldScope != 0 && b.worldScope != serverConfig.world) {
                 continue
             }
-            playerRegistry.forEachOnline { player ->
-                player.mes(b.message, ChatType.Broadcast)
-            }
+            playerRegistry.forEachOnline { player -> player.mes(b.message, ChatType.Broadcast) }
         }
         while (true) {
             val d = pendingCentralDisplayNameSyncs.poll() ?: break
-            playerRegistry.applyCentralDisplayNameSync(d.accountId, d.characterId, d.newDisplayName, d.priorDisplayName)
+            playerRegistry.applyCentralDisplayNameSync(
+                d.accountId,
+                d.characterId,
+                d.newDisplayName,
+                d.priorDisplayName,
+            )
         }
     }
 
@@ -309,7 +304,9 @@ constructor(
                         val dup = buf.duplicate()
                         val parsed = readLoginFailScriptTrailer(dup)
                         if (parsed == null || dup.hasRemaining()) {
-                            return CentralAuthResult.Denied(LoginResponse.UnknownReplyFromLoginServer)
+                            return CentralAuthResult.Denied(
+                                LoginResponse.UnknownReplyFromLoginServer
+                            )
                         }
                         buf.position(dup.position())
                         parsed
@@ -327,7 +324,10 @@ constructor(
         val buf = ByteBuffer.wrap(response)
         buf.get() // opcode
         val tokenLen = buf.short.toInt() and 0xFFFF
-        if (tokenLen != WorldLinkFrameSpecs.TOKEN_BYTES || buf.remaining() < tokenLen + Long.SIZE_BYTES) {
+        if (
+            tokenLen != WorldLinkFrameSpecs.TOKEN_BYTES ||
+                buf.remaining() < tokenLen + Long.SIZE_BYTES
+        ) {
             return CentralAuthResult.Denied(LoginResponse.UnknownReplyFromLoginServer)
         }
         val token = ByteArray(tokenLen)
@@ -352,10 +352,7 @@ constructor(
         return CentralAuthResult.Ok(token, centralRights)
     }
 
-    private fun helloRejectMessage(
-        reason: Int,
-        worldId: Int,
-    ): String {
+    private fun helloRejectMessage(reason: Int, worldId: Int): String {
         val detail =
             when (reason) {
                 1 ->
@@ -371,10 +368,7 @@ constructor(
         return "HELLO_REJECT reason=$reason ($detail)"
     }
 
-    private fun sendLogout(
-        session: WorldLinkNettyBlockingSession,
-        sessionToken: ByteArray,
-    ) {
+    private fun sendLogout(session: WorldLinkNettyBlockingSession, sessionToken: ByteArray) {
         session.send(WorldLinkPackets.logout(sessionToken))
         val response = session.recvInbound(SOCKET_TIMEOUT_MS.toLong())
         val op = response[0].toInt() and 0xFF
@@ -405,10 +399,7 @@ constructor(
         return Triple(l1, l2, l3)
     }
 
-    private fun mapLoginFail(
-        code: Int,
-        script: Triple<String, String, String>?,
-    ): LoginResponse =
+    private fun mapLoginFail(code: Int, script: Triple<String, String, String>?): LoginResponse =
         when (code) {
             1 -> LoginResponse.InvalidUsernameOrPassword
             2 -> LoginResponse.ServerFull
@@ -419,15 +410,13 @@ constructor(
             11 -> LoginResponse.UpdateInProgress
             in 12..15 ->
                 if (script != null) {
-                    // Central (v5+) sends the three lines; do not duplicate wording on the game server.
+                    // Central (v5+) sends the three lines; do not duplicate wording on the game
+                    // server.
                     LoginResponse.DisallowedByScript(script.first, script.second, script.third)
                 } else {
-                    // World-link v4 or older Central: body is code only — no per-denial copy from Central.
-                    LoginResponse.DisallowedByScript(
-                        "You cannot log in to this world.",
-                        "",
-                        "",
-                    )
+                    // World-link v4 or older Central: body is code only — no per-denial copy from
+                    // Central.
+                    LoginResponse.DisallowedByScript("You cannot log in to this world.", "", "")
                 }
             else -> LoginResponse.InvalidUsernameOrPassword
         }
@@ -499,40 +488,30 @@ constructor(
             } finally {
                 try {
                     session?.close()
-                } catch (_: Exception) {
-                }
+                } catch (_: Exception) {}
             }
         }
     }
 
-    private data class CentralSettings(
-        val host: String,
-        val port: Int,
-        val worldKey: ByteArray,
-    ) {
+    private data class CentralSettings(val host: String, val port: Int, val worldKey: ByteArray) {
         companion object {
             fun resolve(config: ServerConfig): CentralSettings? {
                 val envHost =
                     System.getenv("OPENRUNE_CENTRAL_HOST")?.trim()?.takeIf { it.isNotEmpty() }
-                val envKey =
-                    System.getenv("OPENRUNE_WORLD_KEY")?.trim()?.takeIf { it.isNotEmpty() }
+                val envKey = System.getenv("OPENRUNE_WORLD_KEY")?.trim()?.takeIf { it.isNotEmpty() }
                 val envPort = System.getenv("OPENRUNE_CENTRAL_PORT")?.trim()?.toIntOrNull()
 
                 val yml: OpenRuneCentralGameConfig? = config.central
                 val sameInstance = yml?.sameInstance == true
                 val hasRemoteYamlAuth =
-                    yml != null &&
-                        yml.host.trim().isNotEmpty() &&
-                        yml.worldKey.trim().isNotEmpty()
+                    yml != null && yml.host.trim().isNotEmpty() && yml.worldKey.trim().isNotEmpty()
                 val ymlOn = sameInstance || hasRemoteYamlAuth
 
                 val host =
                     envHost
                         ?: yml?.host?.trim()?.takeIf { it.isNotEmpty() && ymlOn }
                         ?: if (sameInstance && ymlOn) "127.0.0.1" else null
-                val keyStr =
-                    envKey
-                        ?: yml?.worldKey?.trim()?.takeIf { it.isNotEmpty() }
+                val keyStr = envKey ?: yml?.worldKey?.trim()?.takeIf { it.isNotEmpty() }
                 if (host == null) {
                     return null
                 }
@@ -540,8 +519,7 @@ constructor(
                     return null
                 }
                 val port = envPort ?: yml?.takeIf { ymlOn }?.linkPort ?: 9091
-                val worldKeyBytes =
-                    (keyStr ?: "").toByteArray(StandardCharsets.UTF_8)
+                val worldKeyBytes = (keyStr ?: "").toByteArray(StandardCharsets.UTF_8)
                 return CentralSettings(host, port, worldKeyBytes)
             }
         }
@@ -578,12 +556,8 @@ private fun isRetryableCentralNetworkFailure(e: Throwable): Boolean =
 public sealed class CentralAuthResult {
     public data object Skipped : CentralAuthResult()
 
-    public data class Ok(
-        val sessionToken: ByteArray,
-        val centralRights: String = "",
-    ) : CentralAuthResult()
+    public data class Ok(val sessionToken: ByteArray, val centralRights: String = "") :
+        CentralAuthResult()
 
-    public data class Denied(
-        val response: LoginResponse,
-    ) : CentralAuthResult()
+    public data class Denied(val response: LoginResponse) : CentralAuthResult()
 }

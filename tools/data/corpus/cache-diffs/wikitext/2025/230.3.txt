@@ -1,0 +1,242 @@
+__TOC__
+==Objects==
+===Removed Objects===
+{| class="wikitable sortable sticky-header mw-collapsible"
+|-
+! colspan="4" | Removed Objects
+|-
+! style="width: 15em" | name !! id !! gameVal !! actions
+|-
+| [[Obelisk]] || [https://chisel.weirdgloop.org/moid/object_id.html#2149 2149][https://abextm.github.io/cache2/#/viewer/obj/2149 (1)] || obelisk || [None, None, None, None, None]
+|}
+===Diff Objects===
+{| class="wikitable sortable sticky-header mw-collapsible"
+|-
+! colspan="5" | Diff Objects
+|-
+! style="width: 15em" | Name !! Id !! Key !! Previous Value !! New Value
+|-
+| rowspan="2" | [[Obelisk of Earth]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#2150 2150][https://abextm.github.io/cache2/#/viewer/obj/2150 (1)]
+|-
+| category || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">2166</span>
+|-
+| rowspan="2" | [[Obelisk of Water]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#2151 2151][https://abextm.github.io/cache2/#/viewer/obj/2151 (1)]
+|-
+| category || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">2166</span>
+|-
+| rowspan="2" | [[Obelisk of Air]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#2152 2152][https://abextm.github.io/cache2/#/viewer/obj/2152 (1)]
+|-
+| category || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">2166</span>
+|-
+| rowspan="2" | [[Obelisk of Fire]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#2153 2153][https://abextm.github.io/cache2/#/viewer/obj/2153 (1)]
+|-
+| category || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">2166</span>
+|-
+| rowspan="2" | [[Steep roof]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#28912 28912][https://abextm.github.io/cache2/#/viewer/obj/28912 (1)]
+|-
+| models || [<span style="color: #ee4231">7766</span>] || [<span style="color: #6bc71f">47599</span>]
+|}
+==Enums==
+===Diff Enums===
+{| class="wikitable sortable sticky-header mw-collapsible"
+|-
+! colspan="5" | Diff Enums
+|-
+! style="width: 15em" | Id !! Key !! Previous Value !! New Value
+|-
+| rowspan="2" | [https://chisel.weirdgloop.org/structs/index.html?type=enums&id=1561 1561][https://abextm.github.io/cache2/#/viewer/enum/1561 (1)]
+|-
+| map || {'0': 941, '1': 2760, '2': <span style="color: #ee4231">2461</span>, '3': <span style="color: #ee4231">2767</span>, '4': <span style="color: #ee4231">2757</span>, '5': <span style="color: #ee4231">2758</span>, '6': <span style="color: #ee4231">2759</span>, '7': <span style="color: #ee4231">2030</span>, '8': <span style="color: #ee4231">3012</span>, '9': <span style="color: #ee4231">2855</span>, '10': <span style="color: #ee4231">2859</span>, '11': <span style="color: #ee4231">4275</span>, '12': <span style="color: #ee4231">4276</span>, '13': <span style="color: #ee4231">3640</span>, '14': <span style="color: #ee4231">2761</span>, '15': <span style="color: #ee4231">2762</span>, '16': <span style="color: #ee4231">2763</span>, '17': <span style="color: #ee4231">2764</span>, '18': <span style="color: #ee4231">323</span>, '19': <span style="color: #ee4231">326</span>, '20': <span style="color: #ee4231">321</span>, '21': <span style="color: #ee4231">3756</span>, '22': <span style="color: #ee4231">4491</span>, '23': <span style="color: #ee4231">4492</span>, '24': <span style="color: #ee4231">2890</span>, '25': <span style="color: #ee4231">2893</span>, '26': <span style="color: #ee4231">2896</span>, '27': <span style="color: #ee4231">2898</span>, '28': <span style="color: #ee4231">2901</span>, '29': <span style="color: #ee4231">2903</span>, '30': <span style="color: #ee4231">2906</span>, '31': <span style="color: #ee4231">2908</span>, '32': <span style="color: #ee4231">2975</span>, '33': <span style="color: #ee4231">3747</span>, '34': <span style="color: #ee4231">3745</span>, '35': <span style="color: #ee4231">3749</span>, '36': <span style="color: #ee4231">2910</span>, '37': <span style="color: #ee4231">2912</span>, '38': <span style="color: #ee4231">2914</span>, '39': <span style="color: #ee4231">2891</span>, '40': <span style="color: #ee4231">2894</span>, '41': <span style="color: #ee4231">2897</span>, '42': <span style="color: #ee4231">2899</span>, '43': <span style="color: #ee4231">2902</span>, '44': <span style="color: #ee4231">2904</span>, '45': <span style="color: #ee4231">2907</span>, '46': <span style="color: #ee4231">2909</span>, '47': <span style="color: #ee4231">2976</span>, '48': <span style="color: #ee4231">3748</span>, '49': <span style="color: #ee4231">3746</span>, '50': <span style="color: #ee4231">3750</span>, '51': <span style="color: #ee4231">2911</span>, '52': <span style="color: #ee4231">2913</span>, '53': <span style="color: #ee4231">2915</span>, '54': <span style="color: #ee4231">2892</span>, '55': <span style="color: #ee4231">2895</span>, '56': <span style="color: #ee4231">2900</span>, '57': <span style="color: #ee4231">2905</span>, '58': 2916} || {'0': 941, '1': 2760, '2': <span style="color: #6bc71f">3908</span>, '3': <span style="color: #6bc71f">2461</span>, '4': <span style="color: #6bc71f">2767</span>, '5': <span style="color: #6bc71f">2757</span>, '6': <span style="color: #6bc71f">2758</span>, '7': <span style="color: #6bc71f">2759</span>, '8': <span style="color: #6bc71f">2030</span>, '9': <span style="color: #6bc71f">3012</span>, '10': <span style="color: #6bc71f">2855</span>, '11': <span style="color: #6bc71f">2859</span>, '12': <span style="color: #6bc71f">4275</span>, '13': <span style="color: #6bc71f">4276</span>, '14': <span style="color: #6bc71f">3640</span>, '15': <span style="color: #6bc71f">2761</span>, '16': <span style="color: #6bc71f">2762</span>, '17': <span style="color: #6bc71f">2763</span>, '18': <span style="color: #6bc71f">2764</span>, '19': <span style="color: #6bc71f">323</span>, '20': <span style="color: #6bc71f">326</span>, '21': <span style="color: #6bc71f">321</span>, '22': <span style="color: #6bc71f">3756</span>, '23': <span style="color: #6bc71f">4491</span>, '24': <span style="color: #6bc71f">4492</span>, '25': <span style="color: #6bc71f">2890</span>, '26': <span style="color: #6bc71f">2893</span>, '27': <span style="color: #6bc71f">2896</span>, '28': <span style="color: #6bc71f">2898</span>, '29': <span style="color: #6bc71f">2901</span>, '30': <span style="color: #6bc71f">2903</span>, '31': <span style="color: #6bc71f">2906</span>, '32': <span style="color: #6bc71f">2908</span>, '33': <span style="color: #6bc71f">2975</span>, '34': <span style="color: #6bc71f">3747</span>, '35': <span style="color: #6bc71f">3745</span>, '36': <span style="color: #6bc71f">3749</span>, '37': <span style="color: #6bc71f">2910</span>, '38': <span style="color: #6bc71f">2912</span>, '39': <span style="color: #6bc71f">4732</span>, '40': <span style="color: #6bc71f">2914</span>, '41': <span style="color: #6bc71f">2891</span>, '42': <span style="color: #6bc71f">2894</span>, '43': <span style="color: #6bc71f">2897</span>, '44': <span style="color: #6bc71f">2899</span>, '45': <span style="color: #6bc71f">2902</span>, '46': <span style="color: #6bc71f">2904</span>, '47': <span style="color: #6bc71f">2907</span>, '48': <span style="color: #6bc71f">2909</span>, '49': <span style="color: #6bc71f">2976</span>, '50': <span style="color: #6bc71f">3748</span>, '51': <span style="color: #6bc71f">3746</span>, '52': <span style="color: #6bc71f">3750</span>, '53': <span style="color: #6bc71f">2911</span>, '54': <span style="color: #6bc71f">2913</span>, '55': <span style="color: #6bc71f">4733</span>, '56': <span style="color: #6bc71f">2915</span>, '57': <span style="color: #6bc71f">2892</span>, '58': <span style="color: #6bc71f">2895, '59': 2900, '60': 2905, '61': </span>2916}
+|-
+| rowspan="2" | [https://chisel.weirdgloop.org/structs/index.html?type=enums&id=1564 1564][https://abextm.github.io/cache2/#/viewer/enum/1564 (1)]
+|-
+| map || {'0': 3635, '1': 994, '2': 2777, '3': 2861, '4': 880, '5': 3731, '6': 4446, '7': 990, '8': 947, '9': 4447, '10': 4448, '11': 4682, '12': 4686, '13': 4684, '14': 4687, '15': 4685, '16': 4683, '17': 4680, '18': 4681, '19': 991, '20': 956, '21': 957, '22': 1013, '23': 348, '24': 4690, '25': <span style="color: #ee4231">1745</span>, '26': <span style="color: #ee4231">1810</span>, '27': <span style="color: #ee4231">1812</span>, '28': <span style="color: #ee4231">1938</span>, '29': <span style="color: #ee4231">1804</span>, '30': <span style="color: #ee4231">349</span>, '31': <span style="color: #ee4231">350</span>, '32': <span style="color: #ee4231">351</span>, '33': <span style="color: #ee4231">4656</span>, '34': <span style="color: #ee4231">4657</span>, '35': <span style="color: #ee4231">4658</span>, '36': 4689} || {'0': 3635, '1': 994, '2': 2777, '3': 2861, '4': 880, '5': 3731, '6': 4446, '7': 990, '8': 947, '9': 4447, '10': 4448, '11': 4682, '12': 4686, '13': 4684, '14': 4687, '15': 4685, '16': 4683, '17': 4680, '18': 4681, '19': 991, '20': 956, '21': 957, '22': 1013, '23': 348, '24': 4690, '25': <span style="color: #6bc71f">4698</span>, '26': <span style="color: #6bc71f">1745</span>, '27': <span style="color: #6bc71f">1810</span>, '28': <span style="color: #6bc71f">1812</span>, '29': <span style="color: #6bc71f">1938</span>, '30': <span style="color: #6bc71f">1804</span>, '31': <span style="color: #6bc71f">349</span>, '32': <span style="color: #6bc71f">350</span>, '33': <span style="color: #6bc71f">351</span>, '34': <span style="color: #6bc71f">4656</span>, '35': <span style="color: #6bc71f">4657</span>, '36': <span style="color: #6bc71f">4658, '37': </span>4689}
+|}
+==Items==
+===Diff Items===
+{| class="wikitable sortable sticky-header mw-collapsible"
+|-
+! colspan="5" | Diff Items
+|-
+! style="width: 15em" | Name !! Id !! Key !! Previous Value !! New Value
+|-
+| rowspan="2" | [[Bird nest]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#5070 5070][https://abextm.github.io/cache2/#/viewer/item/5070 (1)]
+|-
+| category || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">2165</span>
+|-
+| rowspan="2" | [[Bird nest]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#5071 5071][https://abextm.github.io/cache2/#/viewer/item/5071 (1)]
+|-
+| category || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">2165</span>
+|-
+| rowspan="2" | [[Bird nest]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#5072 5072][https://abextm.github.io/cache2/#/viewer/item/5072 (1)]
+|-
+| category || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">2165</span>
+|-
+| rowspan="2" | [[Bird nest]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#5073 5073][https://abextm.github.io/cache2/#/viewer/item/5073 (1)]
+|-
+| category || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">2165</span>
+|-
+| rowspan="2" | [[Bird nest]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#5074 5074][https://abextm.github.io/cache2/#/viewer/item/5074 (1)]
+|-
+| category || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">2165</span>
+|-
+| rowspan="2" | [[Bird nest]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#7413 7413][https://abextm.github.io/cache2/#/viewer/item/7413 (1)]
+|-
+| category || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">2165</span>
+|-
+| rowspan="2" | [[Bird nest]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#13653 13653][https://abextm.github.io/cache2/#/viewer/item/13653 (1)]
+|-
+| category || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">2165</span>
+|-
+| rowspan="2" | [[Bird nest]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#22798 22798][https://abextm.github.io/cache2/#/viewer/item/22798 (1)]
+|-
+| category || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">2165</span>
+|-
+| rowspan="2" | [[Bird nest]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#22800 22800][https://abextm.github.io/cache2/#/viewer/item/22800 (1)]
+|-
+| category || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">2165</span>
+|}
+==Varbits==
+===New Varbits===
+{| class="wikitable sortable sticky-header mw-collapsible"
+|-
+! colspan="5" | New Varbits
+|-
+! style="width: 15em" | id !! gameVal !! index !! leastSignificantBit !! mostSignificantBit
+|-
+| [https://chisel.weirdgloop.org/varbs/display?varbit=16235 16235] || settings_didyouknow_disabled || 3190 || 24 || 24
+|-
+| [https://chisel.weirdgloop.org/varbs/display?varbit=16236 16236] || option_camera_effect_snow_disabled || 3552 || 25 || 25
+|-
+| [https://chisel.weirdgloop.org/varbs/display?varbit=16237 16237] ||  || 740 || 14 || 17
+|}
+==Structs==
+===New Structs===
+{| class="wikitable sortable sticky-header mw-collapsible"
+|-
+! colspan="2" | New Structs
+|-
+! style="width: 15em" | id !! params
+|-
+| [https://chisel.weirdgloop.org/structs/index.html?type=structs&id=3908 3908][https://abextm.github.io/cache2/#/viewer/struct/3908 (1)] || {'1077': 433, '1078': 0, '1084': 1, '1085': 1, '1086': ''Did you know?' tips', '1088': 'tip, help, message', '1096': 'When enabled,  you will be offerd a 'Did you know?' tip on login.'}
+|-
+| [https://chisel.weirdgloop.org/structs/index.html?type=structs&id=4698 4698][https://abextm.github.io/cache2/#/viewer/struct/4698 (1)] || {'1077': 436, '1078': 0, '1085': 1, '1086': 'Shows the snow overlays', '1088': 'snow, ice, camera, toggle, effect, accessibility, overlay', '1096': 'When enabled,  snow overlays will be shown where applicable.'}
+|-
+| [https://chisel.weirdgloop.org/structs/index.html?type=structs&id=4732 4732][https://abextm.github.io/cache2/#/viewer/struct/4732 (1)] || {'739': 1, '1077': 434, '1078': 9, '1085': 1, '1086': ''Did you know?' message', '1088': 'chat, chat, did, you, know, tip, opaque, Chat Settings', '1115': 1, '1116': 'You must have the transparent chatbox disabled or be in fixed mode to change this setting.', '1230': 26112}
+|-
+| [https://chisel.weirdgloop.org/structs/index.html?type=structs&id=4733 4733][https://abextm.github.io/cache2/#/viewer/struct/4733 (1)] || {'1077': 435, '1078': 9, '1080': 3846, '1082': 3502, '1083': 3503, '1085': 1, '1086': ''Did you know?' message', '1088': 'chat, chat, did, you, know, tip, transparent, Chat Settings', '1116': 'You must have the transparent chatbox enabled and be in resizable mode to change this setting.', '1186': 1, '1230': 16776960}
+|}
+==Database Rows==
+===New Database Rows===
+{| class="wikitable sortable sticky-header mw-collapsible"
+|-
+! colspan="4" | New Database Rows
+|-
+! style="width: 15em" | id !! gameVal !! table !! values
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/5108 5108] || didyouknow_bankhelp || 90 || 
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/5109 5109] || didyouknow_certproduce || 90 || 
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/5110 5110] || didyouknow_fairyring_desktop || 90 || 
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/5111 5111] || didyouknow_fairyring_mobile || 90 || 
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/5112 5112] || didyouknow_phials_f2p || 90 || 
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/5113 5113] || didyouknow_phials || 90 || 
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/5114 5114] || didyouknow_roofs || 90 || 
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/5115 5115] || didyouknow_lockslot || 90 || 
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/5116 5116] || didyouknow_tickeat || 90 || 
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/5117 5117] || didyouknow_viyeldi_cave_barrels || 90 || 
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/5118 5118] || didyouknow_virtual_levelling || 90 || 
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/5119 5119] || didyouknow_pizzahalves || 90 || 
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/5120 5120] || didyouknow_kebabcompost || 90 || 
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/5121 5121] || didyouknow_poisoncure1_desktop || 90 || 
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/5122 5122] || didyouknow_poisoncure1_mobile || 90 || 
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/5123 5123] || didyouknow_poisoncure2_desktop || 90 || 
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/5124 5124] || didyouknow_poisoncure2_mobile || 90 || 
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/5125 5125] || didyouknow_combine_jewellery || 90 || 
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/5126 5126] || didyouknow_combine_potions || 90 || 
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/5127 5127] || didyouknow_humidify || 90 || 
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/5128 5128] || didyouknow_tempoross_leave_desktop || 90 || 
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/5129 5129] || didyouknow_tempoross_leave_mobile || 90 || 
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/5130 5130] || didyouknow_hop_world || 90 || 
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/5131 5131] || didyouknow_glory_gems || 90 || 
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/5132 5132] || didyouknow_snowflake_basalt || 90 || 
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/5133 5133] || didyouknow_farminggear || 90 || 
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/5134 5134] || didyouknow_minimap_hide || 90 || 
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/5135 5135] || didyouknow_unkahfire || 90 || 
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/5136 5136] || didyouknow_dorgesh_kalphite || 90 || 
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/5137 5137] || didyouknow_snelms || 90 || 
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/5138 5138] || didyouknow_strange_fruit || 90 || 
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/5139 5139] || didyouknow_twinflame_staff || 90 || 
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/5140 5140] || didyouknow_boxtrap || 90 || 
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/5141 5141] || didyouknow_hunter_fail || 90 || 
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/5142 5142] || didyouknow_bolt_pouch || 90 || 
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/5143 5143] || didyouknow_supercompost || 90 || 
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/5144 5144] || didyouknow_runsetting || 90 || 
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/5145 5145] || didyouknow_house_viewer || 90 || 
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/5146 5146] || didyouknow_hitsplat_threshold || 90 || 
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/5147 5147] || didyouknow_ii_strength_xp || 90 || 
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/5148 5148] || didyouknow_smash_vials || 90 || 
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/5149 5149] || didyouknow_smash_pots || 90 || 
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/5150 5150] || didyouknow_zammy_grapes || 90 || 
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/5151 5151] || didyouknow_makeover || 90 || 
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/5152 5152] || didyouknow_peek_desktop || 90 || 
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/5153 5153] || didyouknow_peek_mobile || 90 || 
+|}

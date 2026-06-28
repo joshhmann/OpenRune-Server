@@ -2,8 +2,8 @@ package org.rsmod.content.other.progressivebots
 
 import com.fasterxml.jackson.databind.ObjectMapper
 import com.fasterxml.jackson.dataformat.yaml.YAMLFactory
-import com.fasterxml.jackson.module.kotlin.registerKotlinModule
 import com.fasterxml.jackson.module.kotlin.readValue
+import com.fasterxml.jackson.module.kotlin.registerKotlinModule
 import java.io.File
 
 /** Configuration for a single progressive bot. */
@@ -32,13 +32,17 @@ object BotConfig {
         if (file.exists()) {
             try {
                 val loaded: List<BotDef> = mapper.readValue(file)
-                logger.info { "[ProgressiveBots] Loaded ${loaded.size} bots from progressive_bots.yml" }
+                logger.info {
+                    "[ProgressiveBots] Loaded ${loaded.size} bots from progressive_bots.yml"
+                }
                 return loaded
             } catch (e: Exception) {
-                logger.warn(e) { "[ProgressiveBots] Failed to parse progressive_bots.yml, falling back to default" }
+                logger.warn(e) {
+                    "[ProgressiveBots] Failed to parse progressive_bots.yml, falling back to default"
+                }
             }
         }
-        
+
         return listOf(
             // — SKILLERS (25) —
             BotDef("fallenhero11", BotPlanner.Skiller, 3222, 3222),

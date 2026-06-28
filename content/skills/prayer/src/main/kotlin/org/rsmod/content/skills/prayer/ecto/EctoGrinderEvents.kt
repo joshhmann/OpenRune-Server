@@ -106,7 +106,11 @@ class EctoGrinderEvents : PluginScript() {
                 weakQueue(
                     "queue.prayer_ecto_grinder",
                     4,
-                    GrinderTask(stage = GrinderStage.Grinding, auto = task.auto, recipeId = recipe.id),
+                    GrinderTask(
+                        stage = GrinderStage.Grinding,
+                        auto = task.auto,
+                        recipeId = recipe.id,
+                    ),
                 )
             }
             GrinderStage.Grinding -> {
@@ -123,7 +127,11 @@ class EctoGrinderEvents : PluginScript() {
                 weakQueue(
                     "queue.prayer_ecto_grinder",
                     4,
-                    GrinderTask(stage = GrinderStage.Collecting, auto = task.auto, recipeId = recipe.id),
+                    GrinderTask(
+                        stage = GrinderStage.Collecting,
+                        auto = task.auto,
+                        recipeId = recipe.id,
+                    ),
                 )
             }
             GrinderStage.Collecting -> {
@@ -146,7 +154,11 @@ class EctoGrinderEvents : PluginScript() {
                     weakQueue(
                         "queue.prayer_ecto_grinder",
                         4,
-                        GrinderTask(stage = GrinderStage.AddingBones, auto = true, recipeId = recipe.id),
+                        GrinderTask(
+                            stage = GrinderStage.AddingBones,
+                            auto = true,
+                            recipeId = recipe.id,
+                        ),
                     )
                 }
             }
@@ -167,8 +179,12 @@ class EctoGrinderEvents : PluginScript() {
     private fun ProtectedAccess.grinderStatus() {
         val recipe = findEctoRecipe(ectoGrinderRecipe)
         when {
-            ectoGrinderStatus == 1 && recipe != null -> mes("The bone grinder contains some ${recipe.bonesName.lowercase()} inside it.")
-            ectoGrinderRecipe != 0 && recipe != null -> mes("The bone grinder contains some ground ${recipe.bonesName.lowercase()} inside it.")
+            ectoGrinderStatus == 1 && recipe != null ->
+                mes("The bone grinder contains some ${recipe.bonesName.lowercase()} inside it.")
+            ectoGrinderRecipe != 0 && recipe != null ->
+                mes(
+                    "The bone grinder contains some ground ${recipe.bonesName.lowercase()} inside it."
+                )
             else -> mes("The bone grinder is currently empty.")
         }
     }

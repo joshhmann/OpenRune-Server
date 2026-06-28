@@ -1,0 +1,176 @@
+{| class="wikitable sortable"
+!colspan="5"|Items
+|-
+! Name !! ID !! Key !! Previous Value !! Changed into
+|-
+| [[Clay head]] || 25145 || NEW ID || NEW ID || NEW ID
+|-
+| [[Fur head]] || 25146 || NEW ID || NEW ID || NEW ID
+|-
+| [[Bloody head]] || 25147 || NEW ID || NEW ID || NEW ID
+|-
+| [[null]] || 25148 || NEW ID || NEW ID || NEW ID
+|-
+| [[null]] || 25149 || NEW ID || NEW ID || NEW ID
+|-
+| [[null]] || 25150 || NEW ID || NEW ID || NEW ID
+|-
+| [[null]] || 25151 || NEW ID || NEW ID || NEW ID
+|-
+| [[Neilan's journal]] || 25152 || NEW ID || NEW ID || NEW ID
+|-
+| [[null]] || 25153 || NEW ID || NEW ID || NEW ID
+|-
+| [[Soft clay]] || 1761 || maleModel0 || -1 || 41103
+|-
+| [[Soft clay]] || 1761 || femaleModel0 || -1 || 41103
+|-
+| [[Soft clay]] || 1761 || femaleOffset || 0 || 6
+|-
+| [[Null]] || 5572 || name || [[Dial]] || [[Null]]
+|-
+| [[Null]] || 5572 || inventoryModel || 7555 || 2521
+|-
+| [[Null]] || 5572 || members || True || False
+|-
+|}
+
+{| class="wikitable sortable"
+!colspan="5"|Non-Player Characters
+|-
+! Name !! ID !! Key !! Previous Value !! Changed into
+|-
+| [[Headless Beast (hard)]] || 10492 || NEW ID || NEW ID || NEW ID
+|-
+| [[Headless Beast]] || 10493 || NEW ID || NEW ID || NEW ID
+|-
+| [[Chicken]] || 10494 || NEW ID || NEW ID || NEW ID
+|-
+| [[Chicken]] || 10495 || NEW ID || NEW ID || NEW ID
+|-
+| [[Chicken]] || 10496 || NEW ID || NEW ID || NEW ID
+|-
+| [[Chicken]] || 10497 || NEW ID || NEW ID || NEW ID
+|-
+| [[Chicken]] || 10498 || NEW ID || NEW ID || NEW ID
+|-
+| [[Chicken]] || 10499 || NEW ID || NEW ID || NEW ID
+|-
+| [[Gordon]] || 10500 || NEW ID || NEW ID || NEW ID
+|-
+| [[Gordon]] || 10501 || NEW ID || NEW ID || NEW ID
+|-
+| [[Mary]] || 10502 || NEW ID || NEW ID || NEW ID
+|-
+| [[Mary]] || 10503 || NEW ID || NEW ID || NEW ID
+|-
+| [[Mary]] || 10504 || NEW ID || NEW ID || NEW ID
+|-
+| [[Shayzien sergeant]] || 10505 || NEW ID || NEW ID || NEW ID
+|-
+| [[Headless Beast]] || 10506 || NEW ID || NEW ID || NEW ID
+|-
+| [[null]] || 8597 || name || [[Gordon]] || [[null]]
+|-
+| [[null]] || 8597 || actions || ['Talk-to', None, None, None, None] || [None, None, None, None, None]
+|-
+| [[null]] || 8597 || combatLevel || 0 || 1
+|-
+| [[null]] || 8597 || hasRenderPriority || False || True
+|-
+| [[null]] || 8597 || varbitId || -1 || 696
+|-
+|}
+
+{| class="wikitable sortable"
+!colspan="5"|Objects
+|-
+! Name !! ID !! Key !! Previous Value !! Changed into
+|-
+| [[Gate]] || 20847 || NEW ID || NEW ID || NEW ID
+|-
+| [[Gate]] || 20848 || NEW ID || NEW ID || NEW ID
+|-
+| [[Gate]] || 20849 || NEW ID || NEW ID || NEW ID
+|-
+| [[Gate]] || 20850 || NEW ID || NEW ID || NEW ID
+|-
+| [[Flour]] || 20851 || NEW ID || NEW ID || NEW ID
+|-
+| [[Cave]] || 20852 || NEW ID || NEW ID || NEW ID
+|-
+| [[Cave]] || 20853 || NEW ID || NEW ID || NEW ID
+|-
+| [[Cave]] || 20854 || NEW ID || NEW ID || NEW ID
+|-
+| [[Skeleton]] || 20855 || NEW ID || NEW ID || NEW ID
+|-
+| [[Skeleton]] || 20856 || NEW ID || NEW ID || NEW ID
+|-
+| [[null]] || 20858 || NEW ID || NEW ID || NEW ID
+|-
+| [[Mounted Head Space]] || 40360 || NEW ID || NEW ID || NEW ID
+|-
+| [[Mounted Head]] || 40361 || NEW ID || NEW ID || NEW ID
+|-
+| [[Shelves]] || 40362 || NEW ID || NEW ID || NEW ID
+|-
+| [[Shelves]] || 40363 || NEW ID || NEW ID || NEW ID
+|-
+| [[Workbench]] || 40364 || NEW ID || NEW ID || NEW ID
+|-
+| [[Rocks]] || 40365 || NEW ID || NEW ID || NEW ID
+|-
+| [[Rocks]] || 40366 || NEW ID || NEW ID || NEW ID
+|-
+| [[Barrel of flour]] || 40367 || NEW ID || NEW ID || NEW ID
+|-
+| [[null]] || 40368 || NEW ID || NEW ID || NEW ID
+|-
+| [[null]] || 40369 || NEW ID || NEW ID || NEW ID
+|-
+| [[null]] || 40370 || NEW ID || NEW ID || NEW ID
+|-
+| [[null]] || 40371 || NEW ID || NEW ID || NEW ID
+|-
+| [[null]] || 40372 || NEW ID || NEW ID || NEW ID
+|-
+| [[null]] || 40373 || NEW ID || NEW ID || NEW ID
+|-
+| [[null]] || 40374 || NEW ID || NEW ID || NEW ID
+|-
+| [[null]] || 40375 || NEW ID || NEW ID || NEW ID
+|-
+| [[null]] || 40376 || NEW ID || NEW ID || NEW ID
+|-
+| [[null]] || 40377 || NEW ID || NEW ID || NEW ID
+|-
+| [[null]] || 40378 || NEW ID || NEW ID || NEW ID
+|-
+| [[null]] || 40379 || NEW ID || NEW ID || NEW ID
+|-
+| [[null]] || 40380 || NEW ID || NEW ID || NEW ID
+|-
+| [[Staircase]] || 40381 || NEW ID || NEW ID || NEW ID
+|-
+| [[Door]] || 40382 || NEW ID || NEW ID || NEW ID
+|-
+| [[Table]] || 40423 || NEW ID || NEW ID || NEW ID
+|-
+| [[Table]] || 40424 || NEW ID || NEW ID || NEW ID
+|-
+| [[Shelves]] || 40425 || NEW ID || NEW ID || NEW ID
+|-
+| [[Wood]] || 40426 || NEW ID || NEW ID || NEW ID
+|-
+| [[null]] || 40427 || NEW ID || NEW ID || NEW ID
+|-
+| [[null]] || 40428 || NEW ID || NEW ID || NEW ID
+|-
+| [[null]] || 40429 || NEW ID || NEW ID || NEW ID
+|-
+| [[Sink]] || 1763 || name || [[Pump and drain]] || [[Sink]]
+|-
+| [[Barrel of flour]] || 26122 || actions || [None, 'Take From', None, None, None] || [None, 'Take-from', None, None, None]
+|-
+|}

@@ -80,7 +80,13 @@ constructor(
     private fun ProtectedAccess.selectCanoe(canoe: Canoe) {
         ifClose()
 
-        if (player.woodcuttingLvl < lcParam(ServerCacheManager.getObject(canoe.loc.asRSCM(RSCMType.LOC))!!, params.levelrequire)) {
+        if (
+            player.woodcuttingLvl <
+                lcParam(
+                    ServerCacheManager.getObject(canoe.loc.asRSCM(RSCMType.LOC))!!,
+                    params.levelrequire,
+                )
+        ) {
             // Cs2 removes the "Make" option on canoes when the player does not meet their level
             // requirement. No need for a message as this is not meant to be possible.
             // Could in theory test what is _meant_ to happen by faking an if_button packet
@@ -151,7 +157,11 @@ constructor(
             this[station, canoe] = CanoeState.Ready
             confirmedCanoeType = false
 
-            val xp = lcParam(ServerCacheManager.getObject(canoe.loc.asRSCM(RSCMType.LOC))!!, params.skill_xp) * xpMods.get(player, "stat.woodcutting")
+            val xp =
+                lcParam(
+                    ServerCacheManager.getObject(canoe.loc.asRSCM(RSCMType.LOC))!!,
+                    params.skill_xp,
+                ) * xpMods.get(player, "stat.woodcutting")
             resetAnim()
             statAdvance("stat.woodcutting", xp)
 

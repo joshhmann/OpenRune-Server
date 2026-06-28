@@ -1,0 +1,255 @@
+{{ToC}}
+==Items==
+{| class="wikitable sortable"
+!colspan='13'|Items
+|-
+! Name !! ID !! Key !! Previous Value !! New Value !! Members !! Tradeable in GE !! Equipable !! Stackable !! Noteable !! Options !! Placeholder !! Cost
+|-
+| [[Special hot sauce]] || [https://chisel.weirdgloop.org/moid/item_id.html#26916 26916] || colspan = "3" | New ID || No || No || No || No || No ||    Drink, Destroy || No || 0
+|-
+| [[Special super hot kebab]] || [https://chisel.weirdgloop.org/moid/item_id.html#26917 26917] || colspan = "3" | New ID || No || No || No || No || No ||    Eat, Destroy || No || 0
+|-
+| [[Secret report]] || [https://chisel.weirdgloop.org/moid/item_id.html#26918 26918] || colspan = "3" | New ID || No || No || No || No || No || Read,    Destroy || No || 1
+|-
+| [[Big bucket]] || [https://chisel.weirdgloop.org/moid/item_id.html#26919 26919] || colspan = "3" | New ID || No || No || No || No || No ||     Destroy || No || 2
+|-
+| [[Big bucket of camel milk]] || [https://chisel.weirdgloop.org/moid/item_id.html#26920 26920] || colspan = "3" | New ID || No || No || No || No || No ||   Drink, Empty, Destroy || No || 6
+|-
+| [[Big bucket of frozen camel milk]] || [https://chisel.weirdgloop.org/moid/item_id.html#26921 26921] || colspan = "3" | New ID || No || No || No || No || No ||    Empty, Drop || No || 6
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#26922 26922] || colspan = "3" | New ID || No || No || No || No || No ||     Drop || No || 1
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#26923 26923] || colspan = "3" | New ID || No || No || No || No || No ||     Drop || No || 1
+|-
+| [[Magical cleaning potion]] || [https://chisel.weirdgloop.org/moid/item_id.html#26924 26924] || colspan = "3" | New ID || No || No || No || No || No ||    Drink, Destroy || No || 0
+|-
+| [[Cooler]] || [https://chisel.weirdgloop.org/moid/item_id.html#26925 26925] || colspan = "3" | New ID || No || No || No || No || No || Check,    Destroy || No || 1
+|-
+| [[Easter egg]] || [https://chisel.weirdgloop.org/moid/item_id.html#26926 26926] || colspan = "3" | New ID || No || No || No || No || No ||     Destroy || No || 1
+|-
+| [[Melted easter egg]] || [https://chisel.weirdgloop.org/moid/item_id.html#26927 26927] || colspan = "3" | New ID || No || No || No || No || No ||  Eat,   Destroy || No || 1
+|-
+| [[Ice cream easter egg]] || [https://chisel.weirdgloop.org/moid/item_id.html#26928 26928] || colspan = "3" | New ID || No || No || No || No || No ||     Destroy || No || 1
+|-
+| [[Blunt scimitars]] || [https://chisel.weirdgloop.org/moid/item_id.html#26929 26929] || colspan = "3" | New ID || No || No || No || No || No ||     Destroy || No || 0
+|-
+| [[Washing line]] || [https://chisel.weirdgloop.org/moid/item_id.html#26930 26930] || colspan = "3" | New ID || No || No || No || No || No ||     Destroy || No || 1
+|-
+| [[Tanning wheel]] || [https://chisel.weirdgloop.org/moid/item_id.html#26931 26931] || colspan = "3" | New ID || No || No || No || No || No ||     Destroy || No || 1
+|-
+| [[Vat (dirty)]] || [https://chisel.weirdgloop.org/moid/item_id.html#26932 26932] || colspan = "3" | New ID || No || No || No || No || No ||     Destroy || No || 1
+|-
+| [[Vat (cleaned)]] || [https://chisel.weirdgloop.org/moid/item_id.html#26933 26933] || colspan = "3" | New ID || No || No || No || No || No ||     Destroy || No || 1
+|-
+| [[Wooden pole]] || [https://chisel.weirdgloop.org/moid/item_id.html#26934 26934] || colspan = "3" | New ID || No || No || No || No || No ||     Destroy || No || 1
+|-
+| [[Churning machine]] || [https://chisel.weirdgloop.org/moid/item_id.html#26935 26935] || colspan = "3" | New ID || No || No || No || No || No ||     Destroy || No || 0
+|-
+| [[Frozen churning machine]] || [https://chisel.weirdgloop.org/moid/item_id.html#26936 26936] || colspan = "3" | New ID || No || No || No || No || No ||     Destroy || No || 0
+|-
+| [[Easter hat]] || [https://chisel.weirdgloop.org/moid/item_id.html#26937 26937] || colspan = "3" | New ID || No || No || Yes || No || No ||  Wear,   Destroy || Yes || 70
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#26938 26938] || colspan = "3" | New ID || No || No || No || No || No ||     Drop || Yes || 1
+|-
+| [[Crate ring]] || [https://chisel.weirdgloop.org/moid/item_id.html#26939 26939] || colspan = "3" | New ID || No || No || No || No || No ||  Wear,   Destroy || Yes || 1
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#26940 26940] || colspan = "3" | New ID || No || No || No || No || No ||     Drop || Yes || 1
+|-
+| [[Polyelemental guardian stone]] || [https://chisel.weirdgloop.org/moid/item_id.html#26941 26941] || colspan = "3" | New ID || Yes || No || Yes || Yes || No ||     Destroy || No || 30
+|-
+|rowspan="2"|[[Rune scimitar]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26262 26262]
+|-
+|cost || 1 || 2
+|-
+|rowspan="2"|[[Guardian fragments]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26878 26878]
+|-
+|interfaceOptions || [None, None, None, None, 'Drop'] || [None, None, None, None, 'Destroy']
+|-
+|rowspan="2"|[[Catalytic guardian stone]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26880 26880]
+|-
+|interfaceOptions || [None, None, None, None, 'Drop'] || [None, None, None, None, 'Destroy']
+|-
+|rowspan="2"|[[Elemental guardian stone]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26881 26881]
+|-
+|interfaceOptions || [None, None, None, None, 'Drop'] || [None, None, None, None, 'Destroy']
+|-
+|}
+
+==Non-Player Characters==
+{| class="wikitable sortable"
+!colspan='5'|Non-Player Characters
+|-
+! Name !! ID !! Key !! Previous Value !! Changed into
+|-
+| [[<col=00ffff>Suspicious crate</col>]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11462 11462] || colspan = "4" | New ID
+|-
+| [[Suspicious crate]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11463 11463] || colspan = "4" | New ID
+|-
+| [[Phoebe Kay]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11464 11464] || colspan = "4" | New ID
+|-
+| [[Xi_plzPetDogz_xiX]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11465 11465] || colspan = "4" | New ID
+|-
+| [[Xi_plzPetDogz_xiX]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11466 11466] || colspan = "4" | New ID
+|-
+| [[Camarst]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11467 11467] || colspan = "4" | New ID
+|-
+| [[Easter Bunny]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11468 11468] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11469 11469] || colspan = "4" | New ID
+|-
+| [[Easter Bunny]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11470 11470] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11471 11471] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11472 11472] || colspan = "4" | New ID
+|-
+|rowspan="2"|[[Hiylik Myna]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#1579 1579]
+|-
+|actions || ['Talk to', None, None, None, None] || ['Talk-to', None, None, None, None]
+|-
+|rowspan="2"|[[TzHaar-Mej-Jal]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#2180 2180]
+|-
+|actions || ['Talk to', None, 'Exchange fire cape', None, None] || ['Talk-to', None, 'Exchange fire cape', None, None]
+|-
+|rowspan="2"|[[Ali the Barman]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#3535 3535]
+|-
+|name || [[Ali The barman]] || [[Ali the Barman]]
+|-
+|rowspan="2"|[[Thora the Barkeep]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#3932 3932]
+|-
+|actions || ['Talk to', None, 'Trade', None, None] || ['Talk-to', None, 'Trade', None, None]
+|-
+|rowspan="2"|[[Yohnus]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#5359 5359]
+|-
+|actions || ['Talk to', None, 'Coffer', None, None] || ['Talk-to', None, 'Coffer', None, None]
+|-
+|rowspan="2"|[[Doomsayer]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#6773 6773]
+|-
+|actions || ['Talk to', None, 'Toggle warnings', None, None] || ['Talk-to', None, 'Toggle warnings', None, None]
+|-
+|rowspan="2"|[[Doomsayer]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#6774 6774]
+|-
+|actions || ['Talk to', None, 'Toggle warnings', 'Remove PvP Protection', None] || ['Talk-to', None, 'Toggle warnings', 'Remove PvP Protection', None]
+|-
+|rowspan="2"|[[Peter]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#7772 7772]
+|-
+|actions || ['Talk to', None, 'Toggle Fossils', None, None] || ['Talk-to', None, 'Toggle Fossils', None, None]
+|-
+|rowspan="2"|[[TzHaar-Ket-Keh]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#11247 11247]
+|-
+|actions || ['Talk to', None, None, None, None] || ['Talk-to', None, None, None, None]
+|-
+|rowspan="2"|[[TzHaar-Ket-Keh]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#11248 11248]
+|-
+|actions || ['Talk to', None, 'Exchange', None, None] || ['Talk-to', None, 'Exchange', None, None]
+|-
+|}
+
+==Objects==
+{| class="wikitable sortable"
+!colspan='5'|Objects
+|-
+! Name !! ID !! Key !! Previous Value !! Changed into
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43850 43850] || colspan = "4" | New ID
+|-
+| [[Crate]] || [https://chisel.weirdgloop.org/moid/object_id.html#43851 43851] || colspan = "4" | New ID
+|-
+| [[Dirty ground]] || [https://chisel.weirdgloop.org/moid/object_id.html#43852 43852] || colspan = "4" | New ID
+|-
+| [[Dirty ground]] || [https://chisel.weirdgloop.org/moid/object_id.html#43853 43853] || colspan = "4" | New ID
+|-
+| [[Dirty ground]] || [https://chisel.weirdgloop.org/moid/object_id.html#43854 43854] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43855 43855] || colspan = "4" | New ID
+|-
+| [[Pile of junk]] || [https://chisel.weirdgloop.org/moid/object_id.html#43856 43856] || colspan = "4" | New ID
+|-
+| [[Pile of junk]] || [https://chisel.weirdgloop.org/moid/object_id.html#43857 43857] || colspan = "4" | New ID
+|-
+| [[Pile of junk]] || [https://chisel.weirdgloop.org/moid/object_id.html#43858 43858] || colspan = "4" | New ID
+|-
+| [[Pile of junk]] || [https://chisel.weirdgloop.org/moid/object_id.html#43859 43859] || colspan = "4" | New ID
+|-
+| [[Pile of junk]] || [https://chisel.weirdgloop.org/moid/object_id.html#43860 43860] || colspan = "4" | New ID
+|-
+| [[Pile of junk]] || [https://chisel.weirdgloop.org/moid/object_id.html#43861 43861] || colspan = "4" | New ID
+|-
+| [[Frozen churning machine]] || [https://chisel.weirdgloop.org/moid/object_id.html#43862 43862] || colspan = "4" | New ID
+|-
+| [[Frozen churning machine]] || [https://chisel.weirdgloop.org/moid/object_id.html#43863 43863] || colspan = "4" | New ID
+|-
+| [[Frozen churning machine]] || [https://chisel.weirdgloop.org/moid/object_id.html#43864 43864] || colspan = "4" | New ID
+|-
+| [[Frozen churning machine]] || [https://chisel.weirdgloop.org/moid/object_id.html#43865 43865] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43866 43866] || colspan = "4" | New ID
+|-
+| [[Rubble]] || [https://chisel.weirdgloop.org/moid/object_id.html#43867 43867] || colspan = "4" | New ID
+|-
+| [[Stairs]] || [https://chisel.weirdgloop.org/moid/object_id.html#43868 43868] || colspan = "4" | New ID
+|-
+|rowspan="5"|[[Trapdoor]]
+|rowspan="5"|[https://chisel.weirdgloop.org/moid/object_id.html#31557 31557]
+|-
+|name || [[Opening]] || [[Trapdoor]]
+|-
+| sizeX || 3 || 2
+|-
+| actions || ['Exit', None, None, None, None] || [None, None, None, None, None]
+|-
+| objectModels || [34134] || [44162]
+|-
+|rowspan="8"|[[Stairs]]
+|rowspan="8"|[https://chisel.weirdgloop.org/moid/object_id.html#31558 31558]
+|-
+|name || [[Opening]] || [[Stairs]]
+|-
+| sizeX || 3 || 1
+|-
+| actions || ['Exit', None, None, None, None] || ['Climb-up', None, None, None, None]
+|-
+| mapSceneID || -1 || 7
+|-
+| blockingMask || 11 || 0
+|-
+| shadow || True || False
+|-
+| objectModels || [34134] || [44161]
+|-
+|rowspan="3"|[[Crevice]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#40386 40386]
+|-
+|name || [[Cavern]] || [[Crevice]]
+|-
+| actions || ['Jump Down', None, None, None, None] || ['Jump-Down', None, None, None, None]
+|-
+|rowspan="4"|[[Blocked opening]]
+|rowspan="4"|[https://chisel.weirdgloop.org/moid/object_id.html#40387 40387]
+|-
+|name || [[Opening]] || [[Blocked opening]]
+|-
+| actions || ['Exit', None, None, None, None] || [None, None, None, None, None]
+|-
+| blockingMask || 11 || 0
+|-
+|rowspan="2"|[[Deposit Pool]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#43696 43696]
+|-
+|actions || ['Deposit', 'Deposit-runes', None, None, None] || ['Deposit-runes', 'Deposit-items', None, None, None]
+|-
+|}

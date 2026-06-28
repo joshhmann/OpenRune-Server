@@ -1,0 +1,209 @@
+{
+  "source": "Oziris Ironman Efficiency Guide v4",
+  "phases": [
+    {
+      "phase": "1.1 - Early Game",
+      "steps": 286,
+      "key_milestones": [
+        "50+ Firemaking (Wintertodt)",
+        "Ardougne Cloak 1",
+        "All novice quests completed",
+        "42 Magic, 43 Magic (after Grand Tree)",
+        "Full graceful not yet required",
+        "~200k GP from Wintertodt"
+      ],
+      "key_quests": [
+        "X Marks the Spot",
+        "Cook's Assistant",
+        "Sheep Shearer",
+        "The Restless Ghost",
+        "Rune Mysteries",
+        "Demon Slayer",
+        "Shield of Arrav",
+        "Dwarf Cannon",
+        "Waterfall Quest",
+        "The Grand Tree",
+        "Tree Gnome Village",
+        "Fight Arena",
+        "Druidic Ritual",
+        "Priest in Peril",
+        "Nature Spirit",
+        "Lost City",
+        "Fairytale I",
+        "Dragon Slayer I",
+        "Monkey Madness I",
+        "Heroes' Quest",
+        "Fremennik Trials"
+      ],
+      "key_skills": {
+        "firemaking": "50+",
+        "woodcutting": 35,
+        "thieving": 25,
+        "magic": 43,
+        "fletching": 22,
+        "construction": 20,
+        "quest_points": "~100"
+      }
+    },
+    {
+      "phase": "1.2 - Gathering Skills",
+      "steps": 33,
+      "key_milestones": [
+        "50 Thieving, then 83+ Thieving for GP",
+        "58 Fishing (trout/salmon)",
+        "50 Agility (barb fishing)",
+        "Full rogue outfit",
+        "~2.4M GP from blackjacking",
+        "2300 iron ore mined (superheated)"
+      ],
+      "key_quests": [
+        "The Feud",
+        "The Golem",
+        "Shadow of the Storm",
+        "Prince Ali Rescue",
+        "Elemental Workshop II"
+      ],
+      "key_skills": {
+        "thieving": "83+",
+        "fishing": 58,
+        "agility": 50,
+        "crafting": 32,
+        "mining": "~40"
+      }
+    },
+    {
+      "phase": "1.3 - Mid Game Unlocks",
+      "steps": 112,
+      "key_milestones": [
+        "Fairy rings unlocked",
+        "43 Prayer (protection prayers)",
+        "Miscellania Kingdom set up (maples + herbs)",
+        "Birdhouse runs started",
+        "88 Thieving (~1.4M more GP)",
+        "Dragon scimitar"
+      ],
+      "key_quests": [
+        "Priest in Peril",
+        "Nature Spirit",
+        "Lost City",
+        "Fairytale II",
+        "Dragon Slayer I",
+        "Holy Grail",
+        "Horror from the Deep",
+        "Animal Magnetism",
+        "Underground Pass",
+        "Monkey Madness I",
+        "Heroes' Quest",
+        "Fremennik Trials",
+        "Throne of Miscellania",
+        "Royal Trouble",
+        "Bone Voyage",
+        "Tears of Guthix"
+      ],
+      "key_skills": {
+        "prayer": 43,
+        "thieving": 88,
+        "slayer": "~40",
+        "attack": 50,
+        "range": 40,
+        "herblore": 25,
+        "hunter": "~20",
+        "crafting": 45
+      }
+    },
+    {
+      "phase": "1.4 - Skilling & Graceful",
+      "steps": 52,
+      "key_milestones": [
+        "Full graceful outfit",
+        "50 Construction (POH with portal rooms)",
+        "60 Smithing (gold bars + gauntlets)",
+        "70+ Magic (alching while agility)",
+        "60 Attack, dragon scimitar"
+      ],
+      "key_quests": [
+        "The Giant Dwarf",
+        "Forgettable Tale...",
+        "Garden of Tranquility",
+        "Enlightened Journey",
+        "Eyes of Glouphrie",
+        "Temple of Ikov",
+        "Big Chompy Bird Hunting",
+        "Family Crest",
+        "Death Plateau",
+        "Troll Stronghold",
+        "Regicide"
+      ],
+      "key_skills": {
+        "construction": 50,
+        "smithing": 60,
+        "agility": "60+",
+        "magic": "70+",
+        "farming": "~30",
+        "crafting": 50,
+        "fletching": 55
+      }
+    },
+    {
+      "phase": "1.5 - Diaries & RFD",
+      "steps": 20,
+      "key_milestones": [
+        "Barrows Gloves (RFD completion)",
+        "All easy + medium achievement diaries",
+        "Desert Treasure (ancient magicks)",
+        "60 Attack"
+      ],
+      "key_quests": [
+        "Recipe for Disaster (all subquests)",
+        "Desert Treasure",
+        "Rum Deal",
+        "Cabin Fever",
+        "One Small Favour",
+        "Watchtower",
+        "Eadgar's Ruse",
+        "My Arm's Big Adventure",
+        "In Search of the Myreque",
+        "In Aid of the Myreque"
+      ],
+      "key_skills": {
+        "slayer": "~42",
+        "range": 50,
+        "attack": 60,
+        "cooking": "~70",
+        "magic": "~60"
+      }
+    },
+    {
+      "phase": "2.0 - Endgame Goals",
+      "steps": 66,
+      "key_milestones": [
+        "Song of the Elves (Prifddinas access)",
+        "Dragon Slayer II (Vorkath, Ava's Assembler)",
+        "Corrupted Gauntlet (Bowfa + Crystal)",
+        "70 Mining, 70 Agility, 70 Construction, 70 Smithing",
+        "77 Herblore (boostable for brews)",
+        "Farming contracts, birdhouses, seaweed runs"
+      ],
+      "key_quests": [
+        "Song of the Elves",
+        "Dragon Slayer II",
+        "Lunar Diplomacy",
+        "Making Friends with My Arm",
+        "Dream Mentor",
+        "Mage Arena II"
+      ],
+      "key_skills": {
+        "herblore": 77,
+        "mining": 70,
+        "agility": 70,
+        "construction": 70,
+        "smithing": 70,
+        "slayer": "75+",
+        "ranged": "87+ (chins)",
+        "crafting": 61
+      }
+    }
+  ],
+  "total_steps": 569,
+  "guide_url": "https://ironman.guide/guide"
+}

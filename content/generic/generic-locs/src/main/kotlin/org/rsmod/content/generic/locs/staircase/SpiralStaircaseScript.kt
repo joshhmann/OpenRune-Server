@@ -5,7 +5,6 @@ import org.rsmod.api.script.onOpContentLoc1
 import org.rsmod.api.script.onOpContentLoc2
 import org.rsmod.api.script.onOpContentLoc3
 import org.rsmod.api.script.onOpLoc2
-import org.rsmod.api.script.onOpLoc3
 import org.rsmod.game.loc.BoundLocInfo
 import org.rsmod.game.loc.LocAngle
 import org.rsmod.map.util.Translation

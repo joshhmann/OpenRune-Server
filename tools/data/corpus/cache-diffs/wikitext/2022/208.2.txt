@@ -1,0 +1,465 @@
+{{ToC}}
+==Items==
+===New Items===
+{| class="wikitable sortable"
+!colspan='11'|New Items
+|-
+! style=width:15em | Name !! ID !! Members !! Tradeable in GE !! Equipable !! Stackable !! Noteable !! Options !! Placeholder !! Cost
+|-
+| [[Adventurer's top (t1)]] || [https://chisel.weirdgloop.org/moid/item_id.html#27388 27388] || Yes || No || Yes || No || No ||  Wear,   Drop || Yes || 2000
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#27389 27389] || No || No || No || No || No ||     Drop || Yes || 1
+|-
+| [[Adventurer's trousers (t1)]] || [https://chisel.weirdgloop.org/moid/item_id.html#27390 27390] || Yes || No || Yes || No || No ||  Wear,   Drop || Yes || 2000
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#27391 27391] || No || No || No || No || No ||     Drop || Yes || 1
+|-
+| [[Adventurer's hood (t1)]] || [https://chisel.weirdgloop.org/moid/item_id.html#27392 27392] || Yes || No || Yes || No || No ||  Wear,   Drop || Yes || 1500
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#27393 27393] || No || No || No || No || No ||     Drop || Yes || 1
+|-
+| [[Adventurer's boots (t1)]] || [https://chisel.weirdgloop.org/moid/item_id.html#27394 27394] || Yes || No || Yes || No || No ||  Wear,   Drop || Yes || 1000
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#27395 27395] || No || No || No || No || No ||     Drop || Yes || 1
+|-
+| [[Adventurer's top (t2)]] || [https://chisel.weirdgloop.org/moid/item_id.html#27396 27396] || Yes || No || Yes || No || No ||  Wear,   Drop || Yes || 10000
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#27397 27397] || No || No || No || No || No ||     Drop || Yes || 1
+|-
+| [[Adventurer's trousers (t2)]] || [https://chisel.weirdgloop.org/moid/item_id.html#27398 27398] || Yes || No || Yes || No || No ||  Wear,   Drop || Yes || 10000
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#27399 27399] || No || No || No || No || No ||     Drop || Yes || 1
+|-
+| [[Adventurer's hood (t2)]] || [https://chisel.weirdgloop.org/moid/item_id.html#27400 27400] || Yes || No || Yes || No || No ||  Wear,   Drop || Yes || 7500
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#27401 27401] || No || No || No || No || No ||     Drop || Yes || 1
+|-
+| [[Adventurer's boots (t2)]] || [https://chisel.weirdgloop.org/moid/item_id.html#27402 27402] || Yes || No || Yes || No || No ||  Wear,   Drop || Yes || 5000
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#27403 27403] || No || No || No || No || No ||     Drop || Yes || 1
+|-
+| [[Adventurer's top (t3)]] || [https://chisel.weirdgloop.org/moid/item_id.html#27404 27404] || Yes || No || Yes || No || No ||  Wear,   Drop || Yes || 50000
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#27405 27405] || No || No || No || No || No ||     Drop || Yes || 1
+|-
+| [[Adventurer's trousers (t3)]] || [https://chisel.weirdgloop.org/moid/item_id.html#27406 27406] || Yes || No || Yes || No || No ||  Wear,   Drop || Yes || 50000
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#27407 27407] || No || No || No || No || No ||     Drop || Yes || 1
+|-
+| [[Adventurer's hood (t3)]] || [https://chisel.weirdgloop.org/moid/item_id.html#27408 27408] || Yes || No || Yes || No || No ||  Wear,   Drop || Yes || 37500
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#27409 27409] || No || No || No || No || No ||     Drop || Yes || 1
+|-
+| [[Adventurer's boots (t3)]] || [https://chisel.weirdgloop.org/moid/item_id.html#27410 27410] || Yes || No || Yes || No || No ||  Wear,   Drop || Yes || 25000
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#27411 27411] || No || No || No || No || No ||     Drop || Yes || 1
+|-
+| [[Adventurer's vambraces]] || [https://chisel.weirdgloop.org/moid/item_id.html#27412 27412] || Yes || No || Yes || No || No ||  Wear,   Drop || Yes || 25000
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#27413 27413] || No || No || No || No || No ||     Drop || Yes || 1
+|-
+| [[Giant stopwatch]] || [https://chisel.weirdgloop.org/moid/item_id.html#27414 27414] || Yes || No || Yes || No || No ||  Wield,   Drop || Yes || 60000
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#27415 27415] || No || No || No || No || No ||     Drop || Yes || 1
+|-
+| [[Speedy teleport scroll]] || [https://chisel.weirdgloop.org/moid/item_id.html#27416 27416] || Yes || No || Yes || No || No || Read,    Drop || Yes || 40000
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#27417 27417] || No || No || No || No || No ||     Drop || Yes || 1
+|-
+| [[Bronze speedrun trophy]] || [https://chisel.weirdgloop.org/moid/item_id.html#27418 27418] || Yes || No || Yes || No || No ||  Wear,   Destroy || Yes || 10000
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#27419 27419] || No || No || No || No || No ||     Drop || Yes || 1
+|-
+| [[Silver speedrun trophy]] || [https://chisel.weirdgloop.org/moid/item_id.html#27420 27420] || Yes || No || Yes || No || No ||  Wear,   Destroy || Yes || 10000
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#27421 27421] || No || No || No || No || No ||     Drop || Yes || 1
+|-
+| [[Gold speedrun trophy]] || [https://chisel.weirdgloop.org/moid/item_id.html#27422 27422] || Yes || No || Yes || No || No ||  Wear,   Destroy || Yes || 10000
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#27423 27423] || No || No || No || No || No ||     Drop || Yes || 1
+|-
+| [[Platinum speedrun trophy]] || [https://chisel.weirdgloop.org/moid/item_id.html#27424 27424] || Yes || No || Yes || No || No ||  Wear,   Destroy || Yes || 10000
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#27425 27425] || No || No || No || No || No ||     Drop || Yes || 1
+|-
+| [[Dynamite(p)]] || [https://chisel.weirdgloop.org/moid/item_id.html#27426 27426] || No || No || No || No || No ||    Empty, Drop || No || 100
+|-
+|-
+|}
+===Removed Items===
+{| class="wikitable sortable"
+!colspan='2'|Removed Items
+|-
+! style=width:15em | Name !! ID
+|-
+|-
+|}
+===Diff Items===
+{| class="wikitable sortable"
+!colspan='5'|Diff Items
+|-
+! style=width:15em | Name !! ID !! Key !! Previous Value !! New Value
+|-
+|rowspan="2"|[[Goblin paint cannon]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#12727 12727]
+|-
+|name || [[Event rpg]] || [[Goblin paint cannon]]
+|-
+|rowspan="2"|[[Rotten strawberry]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#22541 22541]
+|-
+|interfaceOptions || ['Options', 'Lumbridge', 'Moss Giants', 'King Black Dragon', 'Drop'] || ['Options', None, None, None, 'Drop']
+|-
+|rowspan="2"|[[Viggora's chainmace (u)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#22542 22542]
+|-
+|params || {'41': 1, '23': 60} || {'1733': "Viggora's chainmace", '41': 1, '23': 60}
+|-
+|rowspan="2"|[[Viggora's chainmace]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#22545 22545]
+|-
+|params || {'41': 1, '434': 0, '451': 'Check', '1564': 3, '436': 60, '23': 60} || {'434': 0, '451': 'Check', '436': 60, '1733': "Viggora's chainmace", '23': 60, '41': 1, '1564': 3}
+|-
+|rowspan="2"|[[Craw's bow (u)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#22547 22547]
+|-
+|params || {'23': 60} || {'1733': "Craw's bow", '23': 60}
+|-
+|rowspan="2"|[[Craw's bow]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#22550 22550]
+|-
+|params || {'434': 4, '451': 'Check', '1564': 3, '436': 60, '23': 60} || {'434': 4, '451': 'Check', '1564': 3, '436': 60, '1733': "Craw's bow", '23': 60}
+|-
+|rowspan="2"|[[Thammaron's sceptre (u)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#22552 22552]
+|-
+|params || {'41': 1, '23': 60} || {'1733': "Thammaron's sceptre", '41': 1, '23': 60}
+|-
+|rowspan="2"|[[Thammaron's sceptre]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#22555 22555]
+|-
+|params || {'41': 1, '434': 6, '451': 'Check', '1564': 3, '436': 60, '23': 60} || {'434': 6, '451': 'Check', '436': 60, '1733': "Thammaron's sceptre", '23': 60, '41': 1, '1564': 3}
+|-
+|rowspan="15"|[[Webweaver bow (u)]]
+|rowspan="15"|[https://chisel.weirdgloop.org/moid/item_id.html#25484 25484]
+|-
+|name || [[Toxic blowpipe (beta - bronze)]] || [[Webweaver bow (u)]]
+|-
+| xan2d || 768 || 1463
+|-
+| yan2d || 189 || 510
+|-
+| zan2d || 0 || 835
+|-
+| cost || 1000 || 120000
+|-
+| inventoryModel || 19219 || 35777
+|-
+| zoom2d || 1158 || 2107
+|-
+| xOffset2d || -7 || 0
+|-
+| yOffset2d || 4 || -3
+|-
+| interfaceOptions || [None, 'Wield', None, None, 'Drop'] || [None, 'Wield', 'Dismantle', None, 'Drop']
+|-
+| maleModel0 || 14403 || 35768
+|-
+| femaleModel0 || 42632 || 35768
+|-
+| femaleOffset || 0 || 6
+|-
+| category || 24 || 106
+|-
+|rowspan="15"|[[Webweaver bow]]
+|rowspan="15"|[https://chisel.weirdgloop.org/moid/item_id.html#25485 25485]
+|-
+|name || [[Toxic blowpipe (beta - iron)]] || [[Webweaver bow]]
+|-
+| xan2d || 768 || 1463
+|-
+| yan2d || 189 || 510
+|-
+| zan2d || 0 || 835
+|-
+| cost || 1000 || 120000
+|-
+| inventoryModel || 19219 || 35775
+|-
+| zoom2d || 1158 || 2107
+|-
+| xOffset2d || -7 || 0
+|-
+| yOffset2d || 4 || -3
+|-
+| interfaceOptions || [None, 'Wield', None, None, 'Drop'] || [None, 'Wield', 'Check', None, 'Uncharge']
+|-
+| maleModel0 || 14403 || 35769
+|-
+| femaleModel0 || 42632 || 35769
+|-
+| femaleOffset || 0 || 6
+|-
+| category || 24 || 106
+|-
+|rowspan="14"|[[Ursine chainmace (u)]]
+|rowspan="14"|[https://chisel.weirdgloop.org/moid/item_id.html#25486 25486]
+|-
+|name || [[Toxic blowpipe (beta - steel)]] || [[Ursine chainmace (u)]]
+|-
+| xan2d || 768 || 1495
+|-
+| yan2d || 189 || 256
+|-
+| cost || 1000 || 120000
+|-
+| inventoryModel || 19219 || 35778
+|-
+| zoom2d || 1158 || 1351
+|-
+| xOffset2d || -7 || 8
+|-
+| yOffset2d || 4 || -14
+|-
+| interfaceOptions || [None, 'Wield', None, None, 'Drop'] || [None, 'Wield', 'Dismantle', None, 'Drop']
+|-
+| maleModel0 || 14403 || 35770
+|-
+| femaleModel0 || 42632 || 35770
+|-
+| femaleOffset || 0 || 6
+|-
+| category || 24 || 39
+|-
+|rowspan="14"|[[Ursine chainmace]]
+|rowspan="14"|[https://chisel.weirdgloop.org/moid/item_id.html#25487 25487]
+|-
+|name || [[Toxic blowpipe (beta - black)]] || [[Ursine chainmace]]
+|-
+| xan2d || 768 || 1495
+|-
+| yan2d || 189 || 256
+|-
+| cost || 1000 || 120000
+|-
+| inventoryModel || 19219 || 35780
+|-
+| zoom2d || 1158 || 1351
+|-
+| xOffset2d || -7 || 8
+|-
+| yOffset2d || 4 || -14
+|-
+| interfaceOptions || [None, 'Wield', None, None, 'Drop'] || [None, 'Wield', 'Check', None, 'Uncharge']
+|-
+| maleModel0 || 14403 || 35771
+|-
+| femaleModel0 || 42632 || 35771
+|-
+| femaleOffset || 0 || 6
+|-
+| category || 24 || 39
+|-
+|rowspan="13"|[[Accursed sceptre (u)]]
+|rowspan="13"|[https://chisel.weirdgloop.org/moid/item_id.html#25488 25488]
+|-
+|name || [[Toxic blowpipe (beta - mithril)]] || [[Accursed sceptre (u)]]
+|-
+| xan2d || 768 || 400
+|-
+| yan2d || 189 || 1020
+|-
+| cost || 1000 || 120000
+|-
+| inventoryModel || 19219 || 35776
+|-
+| zoom2d || 1158 || 2105
+|-
+| xOffset2d || -7 || 0
+|-
+| yOffset2d || 4 || 0
+|-
+| interfaceOptions || [None, 'Wield', None, None, 'Drop'] || [None, 'Wield', 'Dismantle', None, 'Drop']
+|-
+| maleModel0 || 14403 || 35772
+|-
+| femaleModel0 || 42632 || 35772
+|-
+| category || 24 || 1
+|-
+|rowspan="13"|[[Accursed sceptre]]
+|rowspan="13"|[https://chisel.weirdgloop.org/moid/item_id.html#25489 25489]
+|-
+|name || [[Toxic blowpipe (beta - adamant)]] || [[Accursed sceptre]]
+|-
+| xan2d || 768 || 400
+|-
+| yan2d || 189 || 1020
+|-
+| cost || 1000 || 120000
+|-
+| inventoryModel || 19219 || 35774
+|-
+| zoom2d || 1158 || 2105
+|-
+| xOffset2d || -7 || 0
+|-
+| yOffset2d || 4 || 0
+|-
+| interfaceOptions || [None, 'Wield', None, None, 'Drop'] || [None, 'Wield', 'Check', None, 'Uncharge']
+|-
+| maleModel0 || 14403 || 35773
+|-
+| femaleModel0 || 42632 || 35773
+|-
+| category || 24 || 1
+|-
+|rowspan="13"|[[Voidwaker]]
+|rowspan="13"|[https://chisel.weirdgloop.org/moid/item_id.html#25490 25490]
+|-
+|name || [[Toxic blowpipe (beta - rune)]] || [[Voidwaker]]
+|-
+| xan2d || 768 || 456
+|-
+| yan2d || 189 || 12
+|-
+| cost || 1000 || 5000000
+|-
+| inventoryModel || 19219 || 6033
+|-
+| zoom2d || 1158 || 1640
+|-
+| xOffset2d || -7 || 0
+|-
+| yOffset2d || 4 || 6
+|-
+| maleModel0 || 14403 || 6031
+|-
+| femaleModel0 || 42632 || 6031
+|-
+| femaleOffset || 0 || 6
+|-
+| category || 24 || 21
+|-
+|}
+
+==Non-Player Characters==
+===New NPCs===
+{| class="wikitable sortable"
+!colspan='4'|New NPCs
+|-
+! style=width:15em | Name !! ID !! Combat Level !! Options
+|-
+| [[Eliza]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11852 11852] || No Combat Level || Talk-to
+|-
+| [[Eliza]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11853 11853] || No Combat Level || Talk-to, Trade, Claim
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11854 11854] || No Combat Level || None
+|-
+|-
+|}
+===Removed NPCs===
+{| class="wikitable sortable"
+!colspan='2'|Removed NPCs
+|-
+! style=width:15em | Name !! ID
+|-
+|-
+|}
+===Diff NPCs===
+{| class="wikitable sortable"
+!colspan='5'|Diff NPCs
+|-
+! style=width:15em | Name !! ID !! Key !! Previous Value !! New Value
+|-
+|rowspan="2"|[[Chancellor Hassan]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#4285 4285]
+|-
+|name || [[Hassan]] || [[Chancellor Hassan]]
+|-
+|}
+
+==Objects==
+===New Objects=== 
+{| class="wikitable sortable"
+!colspan='3'|New Objects
+|-
+! style=width:15em | Name !! ID !! Options
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#46236 46236] || None
+|-
+| [[Coffin]] || [https://chisel.weirdgloop.org/moid/object_id.html#46237 46237] || Open
+|-
+| [[Strange tablet]] || [https://chisel.weirdgloop.org/moid/object_id.html#46238 46238] || Enter
+|-
+| [[Strange tablet]] || [https://chisel.weirdgloop.org/moid/object_id.html#46239 46239] || None
+|-
+|-
+|}
+===Removed Objects===
+{| class="wikitable sortable"
+!colspan='2'|Removed Objects
+|-
+! style=width:15em | Name !! ID
+|-
+|-
+|}
+===Diff Objects===
+{| class="wikitable sortable"
+!colspan='5'|Diff Objects
+|-
+! style=width:15em | Name !! ID !! Key !! Previous Value !! New Value
+|-
+|rowspan="9"|[[Dynamite(p)]]
+|rowspan="9"|[https://chisel.weirdgloop.org/moid/object_id.html#2614 2614]
+|-
+|name || [[Coffin]] || [[Dynamite(p)]]
+|-
+| sizeX || 2 || 1
+|-
+| sizeY || 2 || 1
+|-
+| actions || ['Open', None, None, None, None] || [None, None, None, None, None]
+|-
+| interactType || 2 || 0
+|-
+| supportsItems || 1 || 0
+|-
+| blocksProjectile || True || False
+|-
+| objectModels || [11206] || [30180]
+|-
+|rowspan="2"|[[Coffin]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#2615 2615]
+|-
+|actions || ['Search', 'Close', None, None, None] || [None, None, None, None, None]
+|-
+|rowspan="5"|[[null]]
+|rowspan="5"|[https://chisel.weirdgloop.org/moid/object_id.html#46228 46228]
+|-
+|name || [[Strange tablet]] || [[null]]
+|-
+| varbitID || -1 || 14542
+|-
+| ambient || 5 || 0
+|-
+| contrast || 250 || 0
+|-
+|rowspan="2"|[[Strange Chest]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#46229 46229]
+|-
+|blockingMask || 13 || 14
+|-
+|rowspan="2"|[[Strange Chest]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#46230 46230]
+|-
+|blockingMask || 13 || 14
+|-
+|rowspan="3"|[[null]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#46232 46232]
+|-
+|blockingMask || 13 || 14
+|-
+| blocksProjectile || True || False
+|-
+|}

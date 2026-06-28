@@ -13,7 +13,9 @@ import org.rsmod.plugin.scripts.PluginScript
 import org.rsmod.plugin.scripts.ScriptContext
 
 public class InitialStatsScript() : PluginScript() {
-    private val hitpointsStartLvl by lazy { ServerCacheManager.getStats("stat.hitpoints".asRSCM(RSCMType.STAT),)!!.minLevel }
+    private val hitpointsStartLvl by lazy {
+        ServerCacheManager.getStats("stat.hitpoints".asRSCM(RSCMType.STAT))!!.minLevel
+    }
     private val hitpointsStartFineXp by lazy { getFineXp(hitpointsStartLvl) }
 
     private val Player.newAccount by boolVarBit("varbit.new_player_account")

@@ -1,12 +1,12 @@
 package org.rsmod.content.skills.prayer.items
 
+import kotlin.random.Random
 import org.rsmod.api.player.feet
 import org.rsmod.api.player.hat
 import org.rsmod.api.player.legs
 import org.rsmod.api.player.torso
 import org.rsmod.game.entity.Player
 import org.rsmod.game.inv.isType
-import kotlin.random.Random
 
 internal object ZealotRobes {
     private const val PIECE_SAVE_CHANCE = 0.0125

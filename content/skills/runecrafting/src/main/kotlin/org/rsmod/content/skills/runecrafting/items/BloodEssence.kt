@@ -45,7 +45,7 @@ object BloodEssence {
         } else {
             mes(
                 "You manage to extract power from the Blood Essence and craft " +
-                    "$granted extra rune${if (granted != 1) "s" else ""}.",
+                    "$granted extra rune${if (granted != 1) "s" else ""}."
             )
         }
 

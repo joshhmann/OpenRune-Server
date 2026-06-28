@@ -46,7 +46,10 @@ class SmithingApprentice : PluginScript() {
                 "see the mining tutor to the south if you're not sure " +
                 "how to do this.",
         )
-        objbox("obj.mining_tutor_icon_dummy", "Look for this icon to the south of here, in the swamp.")
+        objbox(
+            "obj.mining_tutor_icon_dummy",
+            "Look for this icon to the south of here, in the swamp.",
+        )
     }
 
     private suspend fun Dialogue.invOre() {

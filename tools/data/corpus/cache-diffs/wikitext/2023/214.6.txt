@@ -1,0 +1,3235 @@
+{{ToC}}
+==Items==
+===New Items===
+{| class="wikitable sortable"
+!colspan='11'|New Items
+|-
+! style=width:15em | Name !! ID !! Members !! Tradeable in GE !! Equipable !! Stackable !! Noteable !! Options !! Placeholder !! Cost !! Weight
+|-
+|-
+|}
+===Removed Items===
+{| class="wikitable sortable"
+!colspan='2'|Removed Items
+|-
+! style=width:15em | Name !! ID
+|-
+|-
+|}
+===Diff Items===
+{| class="wikitable sortable"
+!colspan='5'|Diff Items
+|-
+! style=width:15em | Name !! ID !! Key !! Previous Value !! New Value
+|-
+|rowspan="2"|[[Clue scroll (easy)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#2677 2677]
+|-
+|params || {'623': 1328} || {'347': 1, '623': 1328}
+|-
+|rowspan="2"|[[Clue scroll (easy)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#2678 2678]
+|-
+|params || {'623': 1300} || {'347': 1, '623': 1300}
+|-
+|rowspan="2"|[[Clue scroll (easy)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#2679 2679]
+|-
+|params || {'623': 1304} || {'347': 1, '623': 1304}
+|-
+|rowspan="2"|[[Clue scroll (easy)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#2680 2680]
+|-
+|params || {'623': 1329} || {'347': 1, '623': 1329}
+|-
+|rowspan="2"|[[Clue scroll (easy)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#2681 2681]
+|-
+|params || {'623': 1247} || {'347': 1, '623': 1247}
+|-
+|rowspan="2"|[[Clue scroll (easy)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#2682 2682]
+|-
+|params || {'623': 1338} || {'347': 1, '623': 1338}
+|-
+|rowspan="2"|[[Clue scroll (easy)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#2683 2683]
+|-
+|params || {'623': 1270} || {'347': 1, '623': 1270}
+|-
+|rowspan="2"|[[Clue scroll (easy)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#2684 2684]
+|-
+|params || {'623': 1271} || {'347': 1, '623': 1271}
+|-
+|rowspan="2"|[[Clue scroll (easy)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#2685 2685]
+|-
+|params || {'623': 1291} || {'347': 1, '623': 1291}
+|-
+|rowspan="2"|[[Clue scroll (easy)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#2686 2686]
+|-
+|params || {'623': 1242} || {'347': 1, '623': 1242}
+|-
+|rowspan="2"|[[Clue scroll (easy)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#2687 2687]
+|-
+|params || {'623': 1341} || {'347': 1, '623': 1341}
+|-
+|rowspan="2"|[[Clue scroll (easy)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#2688 2688]
+|-
+|params || {'623': 1336} || {'347': 1, '623': 1336}
+|-
+|rowspan="2"|[[Clue scroll (easy)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#2689 2689]
+|-
+|params || {'623': 1317} || {'347': 1, '623': 1317}
+|-
+|rowspan="2"|[[Clue scroll (easy)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#2690 2690]
+|-
+|params || {'623': 1297} || {'347': 1, '623': 1297}
+|-
+|rowspan="2"|[[Clue scroll (easy)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#2691 2691]
+|-
+|params || {'623': 1315} || {'347': 1, '623': 1315}
+|-
+|rowspan="2"|[[Clue scroll (easy)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#2692 2692]
+|-
+|params || {'623': 1298} || {'347': 1, '623': 1298}
+|-
+|rowspan="2"|[[Clue scroll (easy)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#2693 2693]
+|-
+|params || {'623': 1266} || {'347': 1, '623': 1266}
+|-
+|rowspan="2"|[[Clue scroll (easy)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#2694 2694]
+|-
+|params || {'623': 1305} || {'347': 1, '623': 1305}
+|-
+|rowspan="2"|[[Clue scroll (easy)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#2695 2695]
+|-
+|params || {'623': 1303} || {'347': 1, '623': 1303}
+|-
+|rowspan="2"|[[Clue scroll (easy)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#2696 2696]
+|-
+|params || {'623': 1239} || {'347': 1, '623': 1239}
+|-
+|rowspan="2"|[[Clue scroll (easy)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#2697 2697]
+|-
+|params || {'623': 1246} || {'347': 1, '623': 1246}
+|-
+|rowspan="2"|[[Clue scroll (easy)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#2698 2698]
+|-
+|params || {'623': 1259} || {'347': 1, '623': 1259}
+|-
+|rowspan="2"|[[Clue scroll (easy)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#2699 2699]
+|-
+|params || {'623': 1255} || {'347': 1, '623': 1255}
+|-
+|rowspan="2"|[[Clue scroll (easy)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#2700 2700]
+|-
+|params || {'623': 1332} || {'347': 1, '623': 1332}
+|-
+|rowspan="2"|[[Clue scroll (easy)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#2701 2701]
+|-
+|params || {'623': 1258} || {'347': 1, '623': 1258}
+|-
+|rowspan="2"|[[Clue scroll (easy)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#2702 2702]
+|-
+|params || {'623': 1241} || {'347': 1, '623': 1241}
+|-
+|rowspan="2"|[[Clue scroll (easy)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#2703 2703]
+|-
+|params || {'623': 1333} || {'347': 1, '623': 1333}
+|-
+|rowspan="2"|[[Clue scroll (easy)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#2704 2704]
+|-
+|params || {'623': 1323} || {'347': 1, '623': 1323}
+|-
+|rowspan="2"|[[Clue scroll (easy)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#2705 2705]
+|-
+|params || {'623': 1330} || {'347': 1, '623': 1330}
+|-
+|rowspan="2"|[[Clue scroll (easy)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#2706 2706]
+|-
+|params || {'623': 1334} || {'347': 1, '623': 1334}
+|-
+|rowspan="2"|[[Clue scroll (easy)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#2707 2707]
+|-
+|params || {'623': 1285} || {'347': 1, '623': 1285}
+|-
+|rowspan="2"|[[Clue scroll (easy)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#2708 2708]
+|-
+|params || {'623': 1316} || {'347': 1, '623': 1316}
+|-
+|rowspan="2"|[[Clue scroll (easy)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#2709 2709]
+|-
+|params || {'623': 1290} || {'347': 1, '623': 1290}
+|-
+|rowspan="2"|[[Clue scroll (easy)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#2710 2710]
+|-
+|params || {'623': 1325} || {'347': 1, '623': 1325}
+|-
+|rowspan="2"|[[Clue scroll (easy)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#2711 2711]
+|-
+|params || {'623': 1294} || {'347': 1, '623': 1294}
+|-
+|rowspan="2"|[[Clue scroll (easy)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#2712 2712]
+|-
+|params || {'623': 1288} || {'347': 1, '623': 1288}
+|-
+|rowspan="2"|[[Clue scroll (easy)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#2713 2713]
+|-
+|params || {'623': 2229} || {'347': 1, '623': 2229}
+|-
+|rowspan="2"|[[Clue scroll (easy)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#2716 2716]
+|-
+|params || {'623': 2230} || {'347': 1, '623': 2230}
+|-
+|rowspan="2"|[[Clue scroll (easy)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#2719 2719]
+|-
+|params || {'623': 2231} || {'347': 1, '623': 2231}
+|-
+|rowspan="2"|[[Clue scroll (hard)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#2722 2722]
+|-
+|params || {'623': 2247} || {'349': 1, '623': 2247}
+|-
+|rowspan="2"|[[Clue scroll (hard)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#2723 2723]
+|-
+|params || {'623': 2004} || {'349': 1, '623': 2004}
+|-
+|rowspan="2"|[[Clue scroll (hard)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#2725 2725]
+|-
+|params || {'623': 2011} || {'349': 1, '623': 2011}
+|-
+|rowspan="2"|[[Clue scroll (hard)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#2727 2727]
+|-
+|params || {'623': 2009} || {'349': 1, '623': 2009}
+|-
+|rowspan="2"|[[Clue scroll (hard)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#2729 2729]
+|-
+|params || {'623': 2012} || {'349': 1, '623': 2012}
+|-
+|rowspan="2"|[[Clue scroll (hard)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#2731 2731]
+|-
+|params || {'623': 2005} || {'349': 1, '623': 2005}
+|-
+|rowspan="2"|[[Clue scroll (hard)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#2733 2733]
+|-
+|params || {'623': 2000} || {'349': 1, '623': 2000}
+|-
+|rowspan="2"|[[Clue scroll (hard)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#2735 2735]
+|-
+|params || {'623': 2001} || {'349': 1, '623': 2001}
+|-
+|rowspan="2"|[[Clue scroll (hard)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#2737 2737]
+|-
+|params || {'623': 2003} || {'349': 1, '623': 2003}
+|-
+|rowspan="2"|[[Clue scroll (hard)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#2739 2739]
+|-
+|params || {'623': 2010} || {'349': 1, '623': 2010}
+|-
+|rowspan="2"|[[Clue scroll (hard)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#2741 2741]
+|-
+|params || {'623': 1999} || {'349': 1, '623': 1999}
+|-
+|rowspan="2"|[[Clue scroll (hard)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#2743 2743]
+|-
+|params || {'623': 1988} || {'349': 1, '623': 1988}
+|-
+|rowspan="2"|[[Clue scroll (hard)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#2745 2745]
+|-
+|params || {'623': 1991} || {'349': 1, '623': 1991}
+|-
+|rowspan="2"|[[Clue scroll (hard)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#2747 2747]
+|-
+|params || {'623': 1997} || {'349': 1, '623': 1997}
+|-
+|rowspan="2"|[[Clue scroll (hard)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#2773 2773]
+|-
+|params || {'623': 1406} || {'349': 1, '623': 1406}
+|-
+|rowspan="2"|[[Clue scroll (hard)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#2774 2774]
+|-
+|params || {'623': 1410} || {'349': 1, '623': 1410}
+|-
+|rowspan="2"|[[Clue scroll (hard)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#2776 2776]
+|-
+|params || {'623': 1418} || {'349': 1, '623': 1418}
+|-
+|rowspan="2"|[[Clue scroll (hard)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#2778 2778]
+|-
+|params || {'623': 1385} || {'349': 1, '623': 1385}
+|-
+|rowspan="2"|[[Clue scroll (hard)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#2780 2780]
+|-
+|params || {'623': 1421} || {'349': 1, '623': 1421}
+|-
+|rowspan="2"|[[Clue scroll (hard)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#2782 2782]
+|-
+|params || {'623': 1393} || {'349': 1, '623': 1393}
+|-
+|rowspan="2"|[[Clue scroll (hard)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#2783 2783]
+|-
+|params || {'623': 1409} || {'349': 1, '623': 1409}
+|-
+|rowspan="2"|[[Clue scroll (hard)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#2785 2785]
+|-
+|params || {'623': 1395} || {'349': 1, '623': 1395}
+|-
+|rowspan="2"|[[Clue scroll (hard)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#2786 2786]
+|-
+|params || {'623': 1413} || {'349': 1, '623': 1413}
+|-
+|rowspan="2"|[[Clue scroll (hard)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#2788 2788]
+|-
+|params || {'623': 1417} || {'349': 1, '623': 1417}
+|-
+|rowspan="2"|[[Clue scroll (hard)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#2790 2790]
+|-
+|params || {'623': 1422} || {'349': 1, '623': 1422}
+|-
+|rowspan="2"|[[Clue scroll (hard)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#2792 2792]
+|-
+|params || {'623': 1374} || {'349': 1, '623': 1374}
+|-
+|rowspan="2"|[[Clue scroll (hard)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#2793 2793]
+|-
+|params || {'623': 1391} || {'349': 1, '623': 1391}
+|-
+|rowspan="2"|[[Clue scroll (hard)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#2794 2794]
+|-
+|params || {'623': 1372} || {'349': 1, '623': 1372}
+|-
+|rowspan="2"|[[Clue scroll (hard)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#2796 2796]
+|-
+|params || {'623': 1388} || {'349': 1, '623': 1388}
+|-
+|rowspan="2"|[[Clue scroll (hard)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#2797 2797]
+|-
+|params || {'623': 1384} || {'349': 1, '623': 1384}
+|-
+|rowspan="2"|[[Clue scroll (hard)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#2799 2799]
+|-
+|params || {'623': 1387} || {'349': 1, '623': 1387}
+|-
+|rowspan="2"|[[Clue scroll (medium)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#2801 2801]
+|-
+|params || {'623': 1933} || {'348': 1, '623': 1933}
+|-
+|rowspan="2"|[[Clue scroll (medium)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#2803 2803]
+|-
+|params || {'623': 1931} || {'348': 1, '623': 1931}
+|-
+|rowspan="2"|[[Clue scroll (medium)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#2805 2805]
+|-
+|params || {'623': 1930} || {'348': 1, '623': 1930}
+|-
+|rowspan="2"|[[Clue scroll (medium)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#2807 2807]
+|-
+|params || {'623': 1941} || {'348': 1, '623': 1941}
+|-
+|rowspan="2"|[[Clue scroll (medium)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#2809 2809]
+|-
+|params || {'623': 1923} || {'348': 1, '623': 1923}
+|-
+|rowspan="2"|[[Clue scroll (medium)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#2811 2811]
+|-
+|params || {'623': 1948} || {'348': 1, '623': 1948}
+|-
+|rowspan="2"|[[Clue scroll (medium)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#2813 2813]
+|-
+|params || {'623': 1934} || {'348': 1, '623': 1934}
+|-
+|rowspan="2"|[[Clue scroll (medium)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#2815 2815]
+|-
+|params || {'623': 1938} || {'348': 1, '623': 1938}
+|-
+|rowspan="2"|[[Clue scroll (medium)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#2817 2817]
+|-
+|params || {'623': 1937} || {'348': 1, '623': 1937}
+|-
+|rowspan="2"|[[Clue scroll (medium)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#2819 2819]
+|-
+|params || {'623': 1928} || {'348': 1, '623': 1928}
+|-
+|rowspan="2"|[[Clue scroll (medium)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#2821 2821]
+|-
+|params || {'623': 1945} || {'348': 1, '623': 1945}
+|-
+|rowspan="2"|[[Clue scroll (medium)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#2823 2823]
+|-
+|params || {'623': 1927} || {'348': 1, '623': 1927}
+|-
+|rowspan="2"|[[Clue scroll (medium)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#2825 2825]
+|-
+|params || {'623': 1940} || {'348': 1, '623': 1940}
+|-
+|rowspan="2"|[[Clue scroll (medium)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#2827 2827]
+|-
+|params || {'623': 2235} || {'348': 1, '623': 2235}
+|-
+|rowspan="2"|[[Clue scroll (medium)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#2829 2829]
+|-
+|params || {'623': 2246} || {'348': 1, '623': 2246}
+|-
+|rowspan="2"|[[Clue scroll (medium)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#2831 2831]
+|-
+|params || {'623': 2288} || {'348': 1, '623': 2288}
+|-
+|rowspan="2"|[[Clue scroll (medium)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#2833 2833]
+|-
+|params || {'623': 2282} || {'348': 1, '623': 2282}
+|-
+|rowspan="2"|[[Clue scroll (medium)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#2835 2835]
+|-
+|params || {'623': 2278} || {'348': 1, '623': 2278}
+|-
+|rowspan="2"|[[Clue scroll (medium)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#2837 2837]
+|-
+|params || {'623': 2286} || {'348': 1, '623': 2286}
+|-
+|rowspan="2"|[[Clue scroll (medium)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#2839 2839]
+|-
+|params || {'623': 2280} || {'348': 1, '623': 2280}
+|-
+|rowspan="2"|[[Clue scroll (medium)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#2841 2841]
+|-
+|params || {'623': 1355} || {'348': 1, '623': 1355}
+|-
+|rowspan="2"|[[Clue scroll (medium)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#2843 2843]
+|-
+|params || {'623': 1540} || {'348': 1, '623': 1540}
+|-
+|rowspan="2"|[[Clue scroll (medium)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#2845 2845]
+|-
+|params || {'623': 1521} || {'348': 1, '623': 1521}
+|-
+|rowspan="2"|[[Clue scroll (medium)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#2847 2847]
+|-
+|params || {'623': 1522} || {'348': 1, '623': 1522}
+|-
+|rowspan="2"|[[Clue scroll (medium)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#2848 2848]
+|-
+|params || {'623': 1360} || {'348': 1, '623': 1360}
+|-
+|rowspan="2"|[[Clue scroll (medium)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#2849 2849]
+|-
+|params || {'623': 1545} || {'348': 1, '623': 1545}
+|-
+|rowspan="2"|[[Clue scroll (medium)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#2851 2851]
+|-
+|params || {'623': 1515} || {'348': 1, '623': 1515}
+|-
+|rowspan="2"|[[Clue scroll (medium)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#2853 2853]
+|-
+|params || {'623': 1356} || {'348': 1, '623': 1356}
+|-
+|rowspan="2"|[[Clue scroll (medium)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#2855 2855]
+|-
+|params || {'623': 1358} || {'348': 1, '623': 1358}
+|-
+|rowspan="2"|[[Clue scroll (medium)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#2856 2856]
+|-
+|params || {'623': 1543} || {'348': 1, '623': 1543}
+|-
+|rowspan="2"|[[Clue scroll (medium)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#2857 2857]
+|-
+|params || {'623': 1524} || {'348': 1, '623': 1524}
+|-
+|rowspan="2"|[[Clue scroll (medium)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#2858 2858]
+|-
+|params || {'623': 1526} || {'348': 1, '623': 1526}
+|-
+|rowspan="2"|[[Clue scroll (easy)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#3490 3490]
+|-
+|params || {'623': 1322} || {'347': 1, '623': 1322}
+|-
+|rowspan="2"|[[Clue scroll (easy)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#3491 3491]
+|-
+|params || {'623': 1302} || {'347': 1, '623': 1302}
+|-
+|rowspan="2"|[[Clue scroll (easy)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#3492 3492]
+|-
+|params || {'623': 1321} || {'347': 1, '623': 1321}
+|-
+|rowspan="2"|[[Clue scroll (easy)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#3493 3493]
+|-
+|params || {'623': 1339} || {'347': 1, '623': 1339}
+|-
+|rowspan="2"|[[Clue scroll (easy)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#3494 3494]
+|-
+|params || {'623': 1299} || {'347': 1, '623': 1299}
+|-
+|rowspan="2"|[[Clue scroll (easy)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#3495 3495]
+|-
+|params || {'623': 1287} || {'347': 1, '623': 1287}
+|-
+|rowspan="2"|[[Clue scroll (easy)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#3496 3496]
+|-
+|params || {'623': 1244} || {'347': 1, '623': 1244}
+|-
+|rowspan="2"|[[Clue scroll (easy)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#3497 3497]
+|-
+|params || {'623': 1311} || {'347': 1, '623': 1311}
+|-
+|rowspan="2"|[[Clue scroll (easy)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#3498 3498]
+|-
+|params || {'623': 1324} || {'347': 1, '623': 1324}
+|-
+|rowspan="2"|[[Clue scroll (easy)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#3499 3499]
+|-
+|params || {'623': 1327} || {'347': 1, '623': 1327}
+|-
+|rowspan="2"|[[Clue scroll (easy)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#3500 3500]
+|-
+|params || {'623': 1319} || {'347': 1, '623': 1319}
+|-
+|rowspan="2"|[[Clue scroll (easy)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#3501 3501]
+|-
+|params || {'623': 1313} || {'347': 1, '623': 1313}
+|-
+|rowspan="2"|[[Clue scroll (easy)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#3502 3502]
+|-
+|params || {'623': 1289} || {'347': 1, '623': 1289}
+|-
+|rowspan="2"|[[Clue scroll (easy)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#3503 3503]
+|-
+|params || {'623': 1320} || {'347': 1, '623': 1320}
+|-
+|rowspan="2"|[[Clue scroll (easy)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#3504 3504]
+|-
+|params || {'623': 1284} || {'347': 1, '623': 1284}
+|-
+|rowspan="2"|[[Clue scroll (easy)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#3505 3505]
+|-
+|params || {'623': 1314} || {'347': 1, '623': 1314}
+|-
+|rowspan="2"|[[Clue scroll (easy)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#3506 3506]
+|-
+|params || {'623': 1279} || {'347': 1, '623': 1279}
+|-
+|rowspan="2"|[[Clue scroll (easy)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#3507 3507]
+|-
+|params || {'623': 1337} || {'347': 1, '623': 1337}
+|-
+|rowspan="2"|[[Clue scroll (easy)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#3508 3508]
+|-
+|params || {'623': 1308} || {'347': 1, '623': 1308}
+|-
+|rowspan="2"|[[Clue scroll (easy)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#3509 3509]
+|-
+|params || {'623': 1283} || {'347': 1, '623': 1283}
+|-
+|rowspan="2"|[[Clue scroll (easy)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#3510 3510]
+|-
+|params || {'623': 1350} || {'347': 1, '623': 1350}
+|-
+|rowspan="2"|[[Clue scroll (easy)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#3512 3512]
+|-
+|params || {'623': 1326} || {'347': 1, '623': 1326}
+|-
+|rowspan="2"|[[Clue scroll (easy)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#3513 3513]
+|-
+|params || {'623': 1251} || {'347': 1, '623': 1251}
+|-
+|rowspan="2"|[[Clue scroll (easy)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#3514 3514]
+|-
+|params || {'623': 1257} || {'347': 1, '623': 1257}
+|-
+|rowspan="2"|[[Clue scroll (easy)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#3515 3515]
+|-
+|params || {'623': 1296} || {'347': 1, '623': 1296}
+|-
+|rowspan="2"|[[Clue scroll (easy)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#3516 3516]
+|-
+|params || {'623': 2232} || {'347': 1, '623': 2232}
+|-
+|rowspan="2"|[[Clue scroll (easy)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#3518 3518]
+|-
+|params || {'623': 2233} || {'347': 1, '623': 2233}
+|-
+|rowspan="2"|[[Clue scroll (hard)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#3520 3520]
+|-
+|params || {'623': 2248} || {'349': 1, '623': 2248}
+|-
+|rowspan="2"|[[Clue scroll (hard)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#3522 3522]
+|-
+|params || {'623': 2249} || {'349': 1, '623': 2249}
+|-
+|rowspan="2"|[[Clue scroll (hard)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#3524 3524]
+|-
+|params || {'623': 2250} || {'349': 1, '623': 2250}
+|-
+|rowspan="2"|[[Clue scroll (hard)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#3525 3525]
+|-
+|params || {'623': 2251} || {'349': 1, '623': 2251}
+|-
+|rowspan="2"|[[Clue scroll (hard)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#3526 3526]
+|-
+|params || {'623': 1987} || {'349': 1, '623': 1987}
+|-
+|rowspan="2"|[[Clue scroll (hard)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#3528 3528]
+|-
+|params || {'623': 1989} || {'349': 1, '623': 1989}
+|-
+|rowspan="2"|[[Clue scroll (hard)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#3530 3530]
+|-
+|params || {'623': 1979} || {'349': 1, '623': 1979}
+|-
+|rowspan="2"|[[Clue scroll (hard)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#3532 3532]
+|-
+|params || {'623': 1985} || {'349': 1, '623': 1985}
+|-
+|rowspan="2"|[[Clue scroll (hard)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#3534 3534]
+|-
+|params || {'623': 1982} || {'349': 1, '623': 1982}
+|-
+|rowspan="2"|[[Clue scroll (hard)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#3536 3536]
+|-
+|params || {'623': 1984} || {'349': 1, '623': 1984}
+|-
+|rowspan="2"|[[Clue scroll (hard)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#3538 3538]
+|-
+|params || {'623': 1976} || {'349': 1, '623': 1976}
+|-
+|rowspan="2"|[[Clue scroll (hard)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#3540 3540]
+|-
+|params || {'623': 1981} || {'349': 1, '623': 1981}
+|-
+|rowspan="2"|[[Clue scroll (hard)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#3542 3542]
+|-
+|params || {'623': 1978} || {'349': 1, '623': 1978}
+|-
+|rowspan="2"|[[Clue scroll (hard)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#3544 3544]
+|-
+|params || {'623': 1983} || {'349': 1, '623': 1983}
+|-
+|rowspan="2"|[[Clue scroll (hard)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#3546 3546]
+|-
+|params || {'623': 1974} || {'349': 1, '623': 1974}
+|-
+|rowspan="2"|[[Clue scroll (hard)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#3548 3548]
+|-
+|params || {'623': 1975} || {'349': 1, '623': 1975}
+|-
+|rowspan="2"|[[Clue scroll (hard)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#3550 3550]
+|-
+|params || {'623': 2083} || {'349': 1, '623': 2083}
+|-
+|rowspan="2"|[[Clue scroll (hard)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#3552 3552]
+|-
+|params || {'623': 1973} || {'349': 1, '623': 1973}
+|-
+|rowspan="2"|[[Clue scroll (hard)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#3554 3554]
+|-
+|params || {'623': 1968} || {'349': 1, '623': 1968}
+|-
+|rowspan="2"|[[Clue scroll (hard)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#3556 3556]
+|-
+|params || {'623': 1996} || {'349': 1, '623': 1996}
+|-
+|rowspan="2"|[[Clue scroll (hard)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#3558 3558]
+|-
+|params || {'623': 2008} || {'349': 1, '623': 2008}
+|-
+|rowspan="2"|[[Clue scroll (hard)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#3560 3560]
+|-
+|params || {'623': 1965} || {'349': 1, '623': 1965}
+|-
+|rowspan="2"|[[Clue scroll (hard)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#3562 3562]
+|-
+|params || {'623': 1966} || {'349': 1, '623': 1966}
+|-
+|rowspan="2"|[[Clue scroll (hard)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#3564 3564]
+|-
+|params || {'623': 1392} || {'349': 1, '623': 1392}
+|-
+|rowspan="2"|[[Clue scroll (hard)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#3566 3566]
+|-
+|params || {'623': 1386} || {'349': 1, '623': 1386}
+|-
+|rowspan="2"|[[Clue scroll (hard)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#3568 3568]
+|-
+|params || {'623': 1376} || {'349': 1, '623': 1376}
+|-
+|rowspan="2"|[[Clue scroll (hard)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#3570 3570]
+|-
+|params || {'623': 1377} || {'349': 1, '623': 1377}
+|-
+|rowspan="2"|[[Clue scroll (hard)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#3572 3572]
+|-
+|params || {'623': 1401} || {'349': 1, '623': 1401}
+|-
+|rowspan="2"|[[Clue scroll (hard)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#3573 3573]
+|-
+|params || {'623': 1398} || {'349': 1, '623': 1398}
+|-
+|rowspan="2"|[[Clue scroll (hard)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#3574 3574]
+|-
+|params || {'623': 1400} || {'349': 1, '623': 1400}
+|-
+|rowspan="2"|[[Clue scroll (hard)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#3575 3575]
+|-
+|params || {'623': 1373} || {'349': 1, '623': 1373}
+|-
+|rowspan="2"|[[Clue scroll (hard)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#3577 3577]
+|-
+|params || {'623': 1381} || {'349': 1, '623': 1381}
+|-
+|rowspan="2"|[[Clue scroll (hard)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#3579 3579]
+|-
+|params || {'623': 1399} || {'349': 1, '623': 1399}
+|-
+|rowspan="2"|[[Clue scroll (hard)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#3580 3580]
+|-
+|params || {'623': 1414} || {'349': 1, '623': 1414}
+|-
+|rowspan="2"|[[Clue scroll (medium)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#3582 3582]
+|-
+|params || {'623': 1952} || {'348': 1, '623': 1952}
+|-
+|rowspan="2"|[[Clue scroll (medium)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#3584 3584]
+|-
+|params || {'623': 1944} || {'348': 1, '623': 1944}
+|-
+|rowspan="2"|[[Clue scroll (medium)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#3586 3586]
+|-
+|params || {'623': 1956} || {'348': 1, '623': 1956}
+|-
+|rowspan="2"|[[Clue scroll (medium)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#3588 3588]
+|-
+|params || {'623': 1924} || {'348': 1, '623': 1924}
+|-
+|rowspan="2"|[[Clue scroll (medium)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#3590 3590]
+|-
+|params || {'623': 1925} || {'348': 1, '623': 1925}
+|-
+|rowspan="2"|[[Clue scroll (medium)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#3592 3592]
+|-
+|params || {'623': 1947} || {'348': 1, '623': 1947}
+|-
+|rowspan="2"|[[Clue scroll (medium)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#3594 3594]
+|-
+|params || {'623': 1953} || {'348': 1, '623': 1953}
+|-
+|rowspan="2"|[[Clue scroll (medium)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#3596 3596]
+|-
+|params || {'623': 2236} || {'348': 1, '623': 2236}
+|-
+|rowspan="2"|[[Clue scroll (medium)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#3598 3598]
+|-
+|params || {'623': 2237} || {'348': 1, '623': 2237}
+|-
+|rowspan="2"|[[Clue scroll (medium)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#3599 3599]
+|-
+|params || {'623': 2238} || {'348': 1, '623': 2238}
+|-
+|rowspan="2"|[[Clue scroll (medium)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#3601 3601]
+|-
+|params || {'623': 2239} || {'348': 1, '623': 2239}
+|-
+|rowspan="2"|[[Clue scroll (medium)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#3602 3602]
+|-
+|params || {'623': 2240} || {'348': 1, '623': 2240}
+|-
+|rowspan="2"|[[Clue scroll (medium)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#3604 3604]
+|-
+|params || {'623': 1364} || {'348': 1, '623': 1364}
+|-
+|rowspan="2"|[[Clue scroll (medium)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#3605 3605]
+|-
+|params || {'623': 2285} || {'348': 1, '623': 2285}
+|-
+|rowspan="2"|[[Clue scroll (medium)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#3607 3607]
+|-
+|params || {'623': 2284} || {'348': 1, '623': 2284}
+|-
+|rowspan="2"|[[Clue scroll (medium)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#3609 3609]
+|-
+|params || {'623': 1363} || {'348': 1, '623': 1363}
+|-
+|rowspan="2"|[[Clue scroll (medium)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#3610 3610]
+|-
+|params || {'623': 1362} || {'348': 1, '623': 1362}
+|-
+|rowspan="2"|[[Clue scroll (medium)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#3611 3611]
+|-
+|params || {'623': 1538} || {'348': 1, '623': 1538}
+|-
+|rowspan="2"|[[Clue scroll (medium)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#3612 3612]
+|-
+|params || {'623': 1517} || {'348': 1, '623': 1517}
+|-
+|rowspan="2"|[[Clue scroll (medium)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#3613 3613]
+|-
+|params || {'623': 1509} || {'348': 1, '623': 1509}
+|-
+|rowspan="2"|[[Clue scroll (medium)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#3614 3614]
+|-
+|params || {'623': 1357} || {'348': 1, '623': 1357}
+|-
+|rowspan="2"|[[Clue scroll (medium)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#3615 3615]
+|-
+|params || {'623': 1361} || {'348': 1, '623': 1361}
+|-
+|rowspan="2"|[[Clue scroll (medium)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#3616 3616]
+|-
+|params || {'623': 1511} || {'348': 1, '623': 1511}
+|-
+|rowspan="2"|[[Clue scroll (medium)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#3617 3617]
+|-
+|params || {'623': 1359} || {'348': 1, '623': 1359}
+|-
+|rowspan="2"|[[Clue scroll (medium)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#3618 3618]
+|-
+|params || {'623': 1531} || {'348': 1, '623': 1531}
+|-
+|rowspan="2"|[[Clue scroll (easy)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#7236 7236]
+|-
+|params || {'623': 2234} || {'347': 1, '623': 2234}
+|-
+|rowspan="2"|[[Clue scroll (easy)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#7238 7238]
+|-
+|params || {'623': 1292} || {'347': 1, '623': 1292}
+|-
+|rowspan="2"|[[Clue scroll (hard)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#7239 7239]
+|-
+|params || {'623': 2252} || {'349': 1, '623': 2252}
+|-
+|rowspan="2"|[[Clue scroll (hard)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#7241 7241]
+|-
+|params || {'623': 2253} || {'349': 1, '623': 2253}
+|-
+|rowspan="2"|[[Clue scroll (hard)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#7243 7243]
+|-
+|params || {'623': 1415} || {'349': 1, '623': 1415}
+|-
+|rowspan="2"|[[Clue scroll (hard)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#7245 7245]
+|-
+|params || {'623': 1412} || {'349': 1, '623': 1412}
+|-
+|rowspan="2"|[[Clue scroll (hard)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#7247 7247]
+|-
+|params || {'623': 1405} || {'349': 1, '623': 1405}
+|-
+|rowspan="2"|[[Clue scroll (hard)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#7248 7248]
+|-
+|params || {'623': 1404} || {'349': 1, '623': 1404}
+|-
+|rowspan="2"|[[Clue scroll (hard)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#7249 7249]
+|-
+|params || {'623': 1396} || {'349': 1, '623': 1396}
+|-
+|rowspan="2"|[[Clue scroll (hard)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#7250 7250]
+|-
+|params || {'623': 1407} || {'349': 1, '623': 1407}
+|-
+|rowspan="2"|[[Clue scroll (hard)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#7251 7251]
+|-
+|params || {'623': 1402} || {'349': 1, '623': 1402}
+|-
+|rowspan="2"|[[Clue scroll (hard)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#7252 7252]
+|-
+|params || {'623': 1403} || {'349': 1, '623': 1403}
+|-
+|rowspan="2"|[[Clue scroll (hard)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#7253 7253]
+|-
+|params || {'623': 1394} || {'349': 1, '623': 1394}
+|-
+|rowspan="2"|[[Clue scroll (hard)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#7254 7254]
+|-
+|params || {'623': 1397} || {'349': 1, '623': 1397}
+|-
+|rowspan="2"|[[Clue scroll (hard)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#7255 7255]
+|-
+|params || {'623': 1408} || {'349': 1, '623': 1408}
+|-
+|rowspan="2"|[[Clue scroll (hard)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#7256 7256]
+|-
+|params || {'623': 1977} || {'349': 1, '623': 1977}
+|-
+|rowspan="2"|[[Clue scroll (hard)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#7258 7258]
+|-
+|params || {'623': 1980} || {'349': 1, '623': 1980}
+|-
+|rowspan="2"|[[Clue scroll (hard)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#7260 7260]
+|-
+|params || {'623': 1995} || {'349': 1, '623': 1995}
+|-
+|rowspan="2"|[[Clue scroll (hard)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#7262 7262]
+|-
+|params || {'623': 1986} || {'349': 1, '623': 1986}
+|-
+|rowspan="2"|[[Clue scroll (hard)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#7264 7264]
+|-
+|params || {'623': 1990} || {'349': 1, '623': 1990}
+|-
+|rowspan="2"|[[Clue scroll (hard)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#7266 7266]
+|-
+|params || {'623': 1994} || {'349': 1, '623': 1994}
+|-
+|rowspan="2"|[[Clue scroll (hard)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#7268 7268]
+|-
+|params || {'623': 1556} || {'349': 1, '623': 1556}
+|-
+|rowspan="2"|[[Clue scroll (hard)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#7270 7270]
+|-
+|params || {'623': 1555} || {'349': 1, '623': 1555}
+|-
+|rowspan="2"|[[Clue scroll (hard)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#7272 7272]
+|-
+|params || {'623': 1565} || {'349': 1, '623': 1565}
+|-
+|rowspan="2"|[[Clue scroll (medium)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#7274 7274]
+|-
+|params || {'623': 1520} || {'348': 1, '623': 1520}
+|-
+|rowspan="2"|[[Clue scroll (medium)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#7276 7276]
+|-
+|params || {'623': 1525} || {'348': 1, '623': 1525}
+|-
+|rowspan="2"|[[Clue scroll (medium)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#7278 7278]
+|-
+|params || {'623': 1528} || {'348': 1, '623': 1528}
+|-
+|rowspan="2"|[[Clue scroll (medium)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#7280 7280]
+|-
+|params || {'623': 1513} || {'348': 1, '623': 1513}
+|-
+|rowspan="2"|[[Clue scroll (medium)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#7282 7282]
+|-
+|params || {'623': 1539} || {'348': 1, '623': 1539}
+|-
+|rowspan="2"|[[Clue scroll (medium)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#7284 7284]
+|-
+|params || {'623': 1535} || {'348': 1, '623': 1535}
+|-
+|rowspan="2"|[[Clue scroll (medium)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#7286 7286]
+|-
+|params || {'623': 2241} || {'348': 1, '623': 2241}
+|-
+|rowspan="2"|[[Clue scroll (medium)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#7288 7288]
+|-
+|params || {'623': 2242} || {'348': 1, '623': 2242}
+|-
+|rowspan="2"|[[Clue scroll (medium)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#7290 7290]
+|-
+|params || {'623': 2243} || {'348': 1, '623': 2243}
+|-
+|rowspan="2"|[[Clue scroll (medium)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#7292 7292]
+|-
+|params || {'623': 2244} || {'348': 1, '623': 2244}
+|-
+|rowspan="2"|[[Clue scroll (medium)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#7294 7294]
+|-
+|params || {'623': 2245} || {'348': 1, '623': 2245}
+|-
+|rowspan="2"|[[Clue scroll (medium)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#7296 7296]
+|-
+|params || {'623': 2279} || {'348': 1, '623': 2279}
+|-
+|rowspan="2"|[[Clue scroll (medium)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#7298 7298]
+|-
+|params || {'623': 2283} || {'348': 1, '623': 2283}
+|-
+|rowspan="2"|[[Clue scroll (medium)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#7300 7300]
+|-
+|params || {'623': 1366} || {'348': 1, '623': 1366}
+|-
+|rowspan="2"|[[Clue scroll (medium)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#7301 7301]
+|-
+|params || {'623': 2281} || {'348': 1, '623': 2281}
+|-
+|rowspan="2"|[[Clue scroll (medium)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#7303 7303]
+|-
+|params || {'623': 1365} || {'348': 1, '623': 1365}
+|-
+|rowspan="2"|[[Clue scroll (medium)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#7304 7304]
+|-
+|params || {'623': 1367} || {'348': 1, '623': 1367}
+|-
+|rowspan="2"|[[Clue scroll (medium)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#7305 7305]
+|-
+|params || {'623': 1961} || {'348': 1, '623': 1961}
+|-
+|rowspan="2"|[[Clue scroll (medium)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#7307 7307]
+|-
+|params || {'623': 1939} || {'348': 1, '623': 1939}
+|-
+|rowspan="2"|[[Clue scroll (medium)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#7309 7309]
+|-
+|params || {'623': 1929} || {'348': 1, '623': 1929}
+|-
+|rowspan="2"|[[Clue scroll (medium)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#7311 7311]
+|-
+|params || {'623': 1950} || {'348': 1, '623': 1950}
+|-
+|rowspan="2"|[[Clue scroll (medium)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#7313 7313]
+|-
+|params || {'623': 1926} || {'348': 1, '623': 1926}
+|-
+|rowspan="2"|[[Clue scroll (medium)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#7315 7315]
+|-
+|params || {'623': 1959} || {'348': 1, '623': 1959}
+|-
+|rowspan="2"|[[Clue scroll (medium)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#7317 7317]
+|-
+|params || {'623': 1936} || {'348': 1, '623': 1936}
+|-
+|rowspan="2"|[[Clue scroll (easy)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#10180 10180]
+|-
+|params || {'623': 2104} || {'347': 1, '623': 2104}
+|-
+|rowspan="2"|[[Clue scroll (easy)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#10182 10182]
+|-
+|params || {'623': 2098} || {'347': 1, '623': 2098}
+|-
+|rowspan="2"|[[Clue scroll (easy)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#10184 10184]
+|-
+|params || {'623': 2119} || {'347': 1, '623': 2119}
+|-
+|rowspan="2"|[[Clue scroll (easy)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#10186 10186]
+|-
+|params || {'623': 2109} || {'347': 1, '623': 2109}
+|-
+|rowspan="2"|[[Clue scroll (easy)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#10188 10188]
+|-
+|params || {'623': 2093} || {'347': 1, '623': 2093}
+|-
+|rowspan="2"|[[Clue scroll (easy)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#10190 10190]
+|-
+|params || {'623': 2118} || {'347': 1, '623': 2118}
+|-
+|rowspan="2"|[[Clue scroll (easy)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#10192 10192]
+|-
+|params || {'623': 2096} || {'347': 1, '623': 2096}
+|-
+|rowspan="2"|[[Clue scroll (easy)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#10194 10194]
+|-
+|params || {'623': 2106} || {'347': 1, '623': 2106}
+|-
+|rowspan="2"|[[Clue scroll (easy)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#10196 10196]
+|-
+|params || {'623': 2113} || {'347': 1, '623': 2113}
+|-
+|rowspan="2"|[[Clue scroll (easy)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#10198 10198]
+|-
+|params || {'623': 2115} || {'347': 1, '623': 2115}
+|-
+|rowspan="2"|[[Clue scroll (easy)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#10200 10200]
+|-
+|params || {'623': 2101} || {'347': 1, '623': 2101}
+|-
+|rowspan="2"|[[Clue scroll (easy)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#10202 10202]
+|-
+|params || {'623': 2111} || {'347': 1, '623': 2111}
+|-
+|rowspan="2"|[[Clue scroll (easy)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#10204 10204]
+|-
+|params || {'623': 2120} || {'347': 1, '623': 2120}
+|-
+|rowspan="2"|[[Clue scroll (easy)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#10206 10206]
+|-
+|params || {'623': 2099} || {'347': 1, '623': 2099}
+|-
+|rowspan="2"|[[Clue scroll (easy)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#10208 10208]
+|-
+|params || {'623': 2103} || {'347': 1, '623': 2103}
+|-
+|rowspan="2"|[[Clue scroll (easy)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#10210 10210]
+|-
+|params || {'623': 2094} || {'347': 1, '623': 2094}
+|-
+|rowspan="2"|[[Clue scroll (easy)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#10212 10212]
+|-
+|params || {'623': 2095} || {'347': 1, '623': 2095}
+|-
+|rowspan="2"|[[Clue scroll (easy)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#10214 10214]
+|-
+|params || {'623': 2107} || {'347': 1, '623': 2107}
+|-
+|rowspan="2"|[[Clue scroll (easy)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#10216 10216]
+|-
+|params || {'623': 2090} || {'347': 1, '623': 2090}
+|-
+|rowspan="2"|[[Clue scroll (easy)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#10218 10218]
+|-
+|params || {'623': 2112} || {'347': 1, '623': 2112}
+|-
+|rowspan="2"|[[Clue scroll (easy)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#10220 10220]
+|-
+|params || {'623': 2100} || {'347': 1, '623': 2100}
+|-
+|rowspan="2"|[[Clue scroll (easy)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#10222 10222]
+|-
+|params || {'623': 2091} || {'347': 1, '623': 2091}
+|-
+|rowspan="2"|[[Clue scroll (easy)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#10224 10224]
+|-
+|params || {'623': 2110} || {'347': 1, '623': 2110}
+|-
+|rowspan="2"|[[Clue scroll (easy)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#10226 10226]
+|-
+|params || {'623': 2108} || {'347': 1, '623': 2108}
+|-
+|rowspan="2"|[[Clue scroll (easy)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#10228 10228]
+|-
+|params || {'623': 2097} || {'347': 1, '623': 2097}
+|-
+|rowspan="2"|[[Clue scroll (easy)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#10230 10230]
+|-
+|params || {'623': 2116} || {'347': 1, '623': 2116}
+|-
+|rowspan="2"|[[Clue scroll (easy)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#10232 10232]
+|-
+|params || {'623': 2092} || {'347': 1, '623': 2092}
+|-
+|rowspan="2"|[[Clue scroll (hard)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#10234 10234]
+|-
+|params || {'623': 2158} || {'349': 1, '623': 2158}
+|-
+|rowspan="2"|[[Clue scroll (hard)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#10236 10236]
+|-
+|params || {'623': 2146} || {'349': 1, '623': 2146}
+|-
+|rowspan="2"|[[Clue scroll (hard)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#10238 10238]
+|-
+|params || {'623': 2147} || {'349': 1, '623': 2147}
+|-
+|rowspan="2"|[[Clue scroll (hard)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#10240 10240]
+|-
+|params || {'623': 2154} || {'349': 1, '623': 2154}
+|-
+|rowspan="2"|[[Clue scroll (hard)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#10242 10242]
+|-
+|params || {'623': 2149} || {'349': 1, '623': 2149}
+|-
+|rowspan="2"|[[Clue scroll (hard)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#10244 10244]
+|-
+|params || {'623': 2159} || {'349': 1, '623': 2159}
+|-
+|rowspan="2"|[[Clue scroll (hard)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#10246 10246]
+|-
+|params || {'623': 2156} || {'349': 1, '623': 2156}
+|-
+|rowspan="2"|[[Clue scroll (hard)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#10248 10248]
+|-
+|params || {'623': 2152} || {'349': 1, '623': 2152}
+|-
+|rowspan="2"|[[Clue scroll (hard)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#10250 10250]
+|-
+|params || {'623': 2153} || {'349': 1, '623': 2153}
+|-
+|rowspan="2"|[[Clue scroll (hard)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#10252 10252]
+|-
+|params || {'623': 2145} || {'349': 1, '623': 2145}
+|-
+|rowspan="2"|[[Clue scroll (medium)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#10254 10254]
+|-
+|params || {'623': 2134} || {'348': 1, '623': 2134}
+|-
+|rowspan="2"|[[Clue scroll (medium)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#10256 10256]
+|-
+|params || {'623': 2138} || {'348': 1, '623': 2138}
+|-
+|rowspan="2"|[[Clue scroll (medium)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#10258 10258]
+|-
+|params || {'623': 2140} || {'348': 1, '623': 2140}
+|-
+|rowspan="2"|[[Clue scroll (medium)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#10260 10260]
+|-
+|params || {'623': 2121} || {'348': 1, '623': 2121}
+|-
+|rowspan="2"|[[Clue scroll (medium)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#10262 10262]
+|-
+|params || {'623': 2142} || {'348': 1, '623': 2142}
+|-
+|rowspan="2"|[[Clue scroll (medium)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#10264 10264]
+|-
+|params || {'623': 2124} || {'348': 1, '623': 2124}
+|-
+|rowspan="2"|[[Clue scroll (medium)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#10266 10266]
+|-
+|params || {'623': 2132} || {'348': 1, '623': 2132}
+|-
+|rowspan="2"|[[Clue scroll (medium)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#10268 10268]
+|-
+|params || {'623': 2137} || {'348': 1, '623': 2137}
+|-
+|rowspan="2"|[[Clue scroll (medium)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#10270 10270]
+|-
+|params || {'623': 2141} || {'348': 1, '623': 2141}
+|-
+|rowspan="2"|[[Clue scroll (medium)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#10272 10272]
+|-
+|params || {'623': 2126} || {'348': 1, '623': 2126}
+|-
+|rowspan="2"|[[Clue scroll (medium)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#10274 10274]
+|-
+|params || {'623': 2122} || {'348': 1, '623': 2122}
+|-
+|rowspan="2"|[[Clue scroll (medium)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#10276 10276]
+|-
+|params || {'623': 2129} || {'348': 1, '623': 2129}
+|-
+|rowspan="2"|[[Clue scroll (medium)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#10278 10278]
+|-
+|params || {'623': 2133} || {'348': 1, '623': 2133}
+|-
+|rowspan="2"|[[Grubs à la mode]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#10966 10966]
+|-
+|name || [[Grubs Ã  la mode]] || [[Grubs à la mode]]
+|-
+|rowspan="2"|[[Clue scroll (medium)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#12021 12021]
+|-
+|params || {'623': 2135} || {'348': 1, '623': 2135}
+|-
+|rowspan="2"|[[Clue scroll (medium)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#12023 12023]
+|-
+|params || {'623': 2139} || {'348': 1, '623': 2139}
+|-
+|rowspan="2"|[[Clue scroll (medium)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#12025 12025]
+|-
+|params || {'623': 2127} || {'348': 1, '623': 2127}
+|-
+|rowspan="2"|[[Clue scroll (medium)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#12027 12027]
+|-
+|params || {'623': 2131} || {'348': 1, '623': 2131}
+|-
+|rowspan="2"|[[Clue scroll (medium)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#12029 12029]
+|-
+|params || {'623': 2136} || {'348': 1, '623': 2136}
+|-
+|rowspan="2"|[[Clue scroll (medium)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#12031 12031]
+|-
+|params || {'623': 2125} || {'348': 1, '623': 2125}
+|-
+|rowspan="2"|[[Clue scroll (medium)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#12033 12033]
+|-
+|params || {'623': 1946} || {'348': 1, '623': 1946}
+|-
+|rowspan="2"|[[Clue scroll (medium)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#12035 12035]
+|-
+|params || {'623': 1932} || {'348': 1, '623': 1932}
+|-
+|rowspan="2"|[[Clue scroll (medium)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#12037 12037]
+|-
+|params || {'623': 1957} || {'348': 1, '623': 1957}
+|-
+|rowspan="2"|[[Clue scroll (medium)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#12039 12039]
+|-
+|params || {'623': 1960} || {'348': 1, '623': 1960}
+|-
+|rowspan="2"|[[Clue scroll (medium)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#12041 12041]
+|-
+|params || {'623': 1935} || {'348': 1, '623': 1935}
+|-
+|rowspan="2"|[[Clue scroll (medium)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#12043 12043]
+|-
+|params || {'623': 1943} || {'348': 1, '623': 1943}
+|-
+|rowspan="2"|[[Clue scroll (medium)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#12045 12045]
+|-
+|params || {'623': 1949} || {'348': 1, '623': 1949}
+|-
+|rowspan="2"|[[Clue scroll (medium)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#12047 12047]
+|-
+|params || {'623': 1955} || {'348': 1, '623': 1955}
+|-
+|rowspan="2"|[[Clue scroll (medium)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#12049 12049]
+|-
+|params || {'623': 1951} || {'348': 1, '623': 1951}
+|-
+|rowspan="2"|[[Clue scroll (medium)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#12051 12051]
+|-
+|params || {'623': 1942} || {'348': 1, '623': 1942}
+|-
+|rowspan="2"|[[Clue scroll (medium)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#12053 12053]
+|-
+|params || {'623': 1954} || {'348': 1, '623': 1954}
+|-
+|rowspan="2"|[[Clue scroll (medium)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#12055 12055]
+|-
+|params || {'623': 1523} || {'348': 1, '623': 1523}
+|-
+|rowspan="2"|[[Clue scroll (medium)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#12057 12057]
+|-
+|params || {'623': 1508} || {'348': 1, '623': 1508}
+|-
+|rowspan="2"|[[Clue scroll (medium)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#12059 12059]
+|-
+|params || {'623': 1533} || {'348': 1, '623': 1533}
+|-
+|rowspan="2"|[[Clue scroll (medium)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#12061 12061]
+|-
+|params || {'623': 1510} || {'348': 1, '623': 1510}
+|-
+|rowspan="2"|[[Clue scroll (medium)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#12063 12063]
+|-
+|params || {'623': 1546} || {'348': 1, '623': 1546}
+|-
+|rowspan="2"|[[Clue scroll (medium)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#12065 12065]
+|-
+|params || {'623': 1536} || {'348': 1, '623': 1536}
+|-
+|rowspan="2"|[[Clue scroll (medium)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#12067 12067]
+|-
+|params || {'623': 1550} || {'348': 1, '623': 1550}
+|-
+|rowspan="2"|[[Clue scroll (medium)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#12069 12069]
+|-
+|params || {'623': 1534} || {'348': 1, '623': 1534}
+|-
+|rowspan="2"|[[Clue scroll (medium)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#12071 12071]
+|-
+|params || {'623': 1527} || {'348': 1, '623': 1527}
+|-
+|rowspan="2"|[[Clue scroll (elite)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#12073 12073]
+|-
+|params || {'623': 2175} || {'350': 1, '623': 2175}
+|-
+|rowspan="2"|[[Clue scroll (elite)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#12074 12074]
+|-
+|params || {'623': 2167} || {'350': 1, '623': 2167}
+|-
+|rowspan="2"|[[Clue scroll (elite)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#12075 12075]
+|-
+|params || {'623': 2160} || {'350': 1, '623': 2160}
+|-
+|rowspan="2"|[[Clue scroll (elite)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#12076 12076]
+|-
+|params || {'623': 2163} || {'350': 1, '623': 2163}
+|-
+|rowspan="2"|[[Clue scroll (elite)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#12077 12077]
+|-
+|params || {'623': 2173} || {'350': 1, '623': 2173}
+|-
+|rowspan="2"|[[Clue scroll (elite)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#12078 12078]
+|-
+|params || {'623': 2162} || {'350': 1, '623': 2162}
+|-
+|rowspan="2"|[[Clue scroll (elite)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#12079 12079]
+|-
+|params || {'623': 2164} || {'350': 1, '623': 2164}
+|-
+|rowspan="2"|[[Clue scroll (elite)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#12080 12080]
+|-
+|params || {'623': 2165} || {'350': 1, '623': 2165}
+|-
+|rowspan="2"|[[Clue scroll (elite)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#12081 12081]
+|-
+|params || {'623': 2176} || {'350': 1, '623': 2176}
+|-
+|rowspan="2"|[[Clue scroll (elite)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#12082 12082]
+|-
+|params || {'623': 2169} || {'350': 1, '623': 2169}
+|-
+|rowspan="2"|[[Clue scroll (elite)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#12083 12083]
+|-
+|params || {'623': 2168} || {'350': 1, '623': 2168}
+|-
+|rowspan="2"|[[Clue scroll (elite)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#12085 12085]
+|-
+|params || {'623': 2031} || {'350': 1, '623': 2031}
+|-
+|rowspan="2"|[[Clue scroll (elite)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#12086 12086]
+|-
+|params || {'623': 2021} || {'350': 1, '623': 2021}
+|-
+|rowspan="2"|[[Clue scroll (elite)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#12087 12087]
+|-
+|params || {'623': 2039} || {'350': 1, '623': 2039}
+|-
+|rowspan="2"|[[Clue scroll (elite)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#12088 12088]
+|-
+|params || {'623': 2028} || {'350': 1, '623': 2028}
+|-
+|rowspan="2"|[[Clue scroll (elite)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#12089 12089]
+|-
+|params || {'623': 2018} || {'350': 1, '623': 2018}
+|-
+|rowspan="2"|[[Clue scroll (elite)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#12090 12090]
+|-
+|params || {'623': 2036} || {'350': 1, '623': 2036}
+|-
+|rowspan="2"|[[Clue scroll (elite)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#12091 12091]
+|-
+|params || {'623': 2019} || {'350': 1, '623': 2019}
+|-
+|rowspan="2"|[[Clue scroll (elite)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#12092 12092]
+|-
+|params || {'623': 2042} || {'350': 1, '623': 2042}
+|-
+|rowspan="2"|[[Clue scroll (elite)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#12093 12093]
+|-
+|params || {'623': 2045} || {'350': 1, '623': 2045}
+|-
+|rowspan="2"|[[Clue scroll (elite)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#12094 12094]
+|-
+|params || {'623': 2037} || {'350': 1, '623': 2037}
+|-
+|rowspan="2"|[[Clue scroll (elite)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#12095 12095]
+|-
+|params || {'623': 2043} || {'350': 1, '623': 2043}
+|-
+|rowspan="2"|[[Clue scroll (elite)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#12096 12096]
+|-
+|params || {'623': 2034} || {'350': 1, '623': 2034}
+|-
+|rowspan="2"|[[Clue scroll (elite)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#12097 12097]
+|-
+|params || {'623': 2044} || {'350': 1, '623': 2044}
+|-
+|rowspan="2"|[[Clue scroll (elite)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#12098 12098]
+|-
+|params || {'623': 2025} || {'350': 1, '623': 2025}
+|-
+|rowspan="2"|[[Clue scroll (elite)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#12099 12099]
+|-
+|params || {'623': 2029} || {'350': 1, '623': 2029}
+|-
+|rowspan="2"|[[Clue scroll (elite)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#12100 12100]
+|-
+|params || {'623': 2024} || {'350': 1, '623': 2024}
+|-
+|rowspan="2"|[[Clue scroll (elite)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#12101 12101]
+|-
+|params || {'623': 2041} || {'350': 1, '623': 2041}
+|-
+|rowspan="2"|[[Clue scroll (elite)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#12102 12102]
+|-
+|params || {'623': 2026} || {'350': 1, '623': 2026}
+|-
+|rowspan="2"|[[Clue scroll (elite)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#12103 12103]
+|-
+|params || {'623': 2027} || {'350': 1, '623': 2027}
+|-
+|rowspan="2"|[[Clue scroll (elite)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#12104 12104]
+|-
+|params || {'623': 2035} || {'350': 1, '623': 2035}
+|-
+|rowspan="2"|[[Clue scroll (elite)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#12105 12105]
+|-
+|params || {'623': 2038} || {'350': 1, '623': 2038}
+|-
+|rowspan="2"|[[Clue scroll (elite)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#12106 12106]
+|-
+|params || {'623': 2033} || {'350': 1, '623': 2033}
+|-
+|rowspan="2"|[[Clue scroll (elite)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#12107 12107]
+|-
+|params || {'623': 2023} || {'350': 1, '623': 2023}
+|-
+|rowspan="2"|[[Clue scroll (elite)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#12108 12108]
+|-
+|params || {'623': 2032} || {'350': 1, '623': 2032}
+|-
+|rowspan="2"|[[Clue scroll (elite)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#12109 12109]
+|-
+|params || {'623': 2040} || {'350': 1, '623': 2040}
+|-
+|rowspan="2"|[[Clue scroll (elite)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#12110 12110]
+|-
+|params || {'623': 2020} || {'350': 1, '623': 2020}
+|-
+|rowspan="2"|[[Clue scroll (elite)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#12111 12111]
+|-
+|params || {'623': 2022} || {'350': 1, '623': 2022}
+|-
+|rowspan="2"|[[Clue scroll (elite)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#12113 12113]
+|-
+|params || {'623': 1426} || {'350': 1, '623': 1426}
+|-
+|rowspan="2"|[[Clue scroll (elite)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#12114 12114]
+|-
+|params || {'623': 1426} || {'350': 1, '623': 1426}
+|-
+|rowspan="2"|[[Clue scroll (elite)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#12115 12115]
+|-
+|params || {'623': 1426} || {'350': 1, '623': 1426}
+|-
+|rowspan="2"|[[Clue scroll (elite)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#12116 12116]
+|-
+|params || {'623': 1426} || {'350': 1, '623': 1426}
+|-
+|rowspan="2"|[[Clue scroll (elite)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#12117 12117]
+|-
+|params || {'623': 1426} || {'350': 1, '623': 1426}
+|-
+|rowspan="2"|[[Clue scroll (elite)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#12118 12118]
+|-
+|params || {'623': 1426} || {'350': 1, '623': 1426}
+|-
+|rowspan="2"|[[Clue scroll (elite)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#12119 12119]
+|-
+|params || {'623': 1426} || {'350': 1, '623': 1426}
+|-
+|rowspan="2"|[[Clue scroll (elite)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#12120 12120]
+|-
+|params || {'623': 1426} || {'350': 1, '623': 1426}
+|-
+|rowspan="2"|[[Clue scroll (elite)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#12121 12121]
+|-
+|params || {'623': 1426} || {'350': 1, '623': 1426}
+|-
+|rowspan="2"|[[Clue scroll (elite)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#12122 12122]
+|-
+|params || {'623': 1426} || {'350': 1, '623': 1426}
+|-
+|rowspan="2"|[[Clue scroll (elite)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#12123 12123]
+|-
+|params || {'623': 1426} || {'350': 1, '623': 1426}
+|-
+|rowspan="2"|[[Clue scroll (elite)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#12124 12124]
+|-
+|params || {'623': 1426} || {'350': 1, '623': 1426}
+|-
+|rowspan="2"|[[Clue scroll (elite)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#12125 12125]
+|-
+|params || {'623': 1426} || {'350': 1, '623': 1426}
+|-
+|rowspan="2"|[[Clue scroll (elite)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#12126 12126]
+|-
+|params || {'623': 1426} || {'350': 1, '623': 1426}
+|-
+|rowspan="2"|[[Clue scroll (elite)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#12127 12127]
+|-
+|params || {'623': 1426} || {'350': 1, '623': 1426}
+|-
+|rowspan="2"|[[Clue scroll (elite)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#12130 12130]
+|-
+|params || {'623': 2254} || {'350': 1, '623': 2254}
+|-
+|rowspan="2"|[[Clue scroll (elite)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#12132 12132]
+|-
+|params || {'623': 1572} || {'350': 1, '623': 1572}
+|-
+|rowspan="2"|[[Clue scroll (elite)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#12133 12133]
+|-
+|params || {'623': 1577} || {'350': 1, '623': 1577}
+|-
+|rowspan="2"|[[Clue scroll (elite)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#12134 12134]
+|-
+|params || {'623': 1574} || {'350': 1, '623': 1574}
+|-
+|rowspan="2"|[[Clue scroll (elite)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#12135 12135]
+|-
+|params || {'623': 1578} || {'350': 1, '623': 1578}
+|-
+|rowspan="2"|[[Clue scroll (elite)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#12136 12136]
+|-
+|params || {'623': 1576} || {'350': 1, '623': 1576}
+|-
+|rowspan="2"|[[Clue scroll (elite)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#12137 12137]
+|-
+|params || {'623': 1581} || {'350': 1, '623': 1581}
+|-
+|rowspan="2"|[[Clue scroll (elite)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#12138 12138]
+|-
+|params || {'623': 1573} || {'350': 1, '623': 1573}
+|-
+|rowspan="2"|[[Clue scroll (elite)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#12140 12140]
+|-
+|params || {'623': 1438} || {'350': 1, '623': 1438}
+|-
+|rowspan="2"|[[Clue scroll (elite)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#12141 12141]
+|-
+|params || {'623': 1443} || {'350': 1, '623': 1443}
+|-
+|rowspan="2"|[[Clue scroll (elite)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#12142 12142]
+|-
+|params || {'623': 1448} || {'350': 1, '623': 1448}
+|-
+|rowspan="2"|[[Clue scroll (elite)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#12143 12143]
+|-
+|params || {'623': 1450} || {'350': 1, '623': 1450}
+|-
+|rowspan="2"|[[Clue scroll (elite)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#12144 12144]
+|-
+|params || {'623': 1431} || {'350': 1, '623': 1431}
+|-
+|rowspan="2"|[[Clue scroll (elite)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#12145 12145]
+|-
+|params || {'623': 1441} || {'350': 1, '623': 1441}
+|-
+|rowspan="2"|[[Clue scroll (elite)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#12146 12146]
+|-
+|params || {'623': 1442} || {'350': 1, '623': 1442}
+|-
+|rowspan="2"|[[Clue scroll (elite)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#12147 12147]
+|-
+|params || {'623': 1430} || {'350': 1, '623': 1430}
+|-
+|rowspan="2"|[[Clue scroll (elite)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#12148 12148]
+|-
+|params || {'623': 1445} || {'350': 1, '623': 1445}
+|-
+|rowspan="2"|[[Clue scroll (elite)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#12149 12149]
+|-
+|params || {'623': 1435} || {'350': 1, '623': 1435}
+|-
+|rowspan="2"|[[Clue scroll (elite)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#12150 12150]
+|-
+|params || {'623': 1444} || {'350': 1, '623': 1444}
+|-
+|rowspan="2"|[[Clue scroll (elite)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#12151 12151]
+|-
+|params || {'623': 1427} || {'350': 1, '623': 1427}
+|-
+|rowspan="2"|[[Clue scroll (elite)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#12152 12152]
+|-
+|params || {'623': 1428} || {'350': 1, '623': 1428}
+|-
+|rowspan="2"|[[Clue scroll (elite)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#12153 12153]
+|-
+|params || {'623': 1439} || {'350': 1, '623': 1439}
+|-
+|rowspan="2"|[[Clue scroll (elite)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#12154 12154]
+|-
+|params || {'623': 1434} || {'350': 1, '623': 1434}
+|-
+|rowspan="2"|[[Clue scroll (elite)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#12155 12155]
+|-
+|params || {'623': 1429} || {'350': 1, '623': 1429}
+|-
+|rowspan="2"|[[Clue scroll (elite)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#12156 12156]
+|-
+|params || {'623': 1440} || {'350': 1, '623': 1440}
+|-
+|rowspan="2"|[[Clue scroll (elite)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#12157 12157]
+|-
+|params || {'623': 1433} || {'350': 1, '623': 1433}
+|-
+|rowspan="2"|[[Clue scroll (elite)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#12158 12158]
+|-
+|params || {'623': 1449} || {'350': 1, '623': 1449}
+|-
+|rowspan="2"|[[Clue scroll (elite)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#12159 12159]
+|-
+|params || {'623': 1432} || {'350': 1, '623': 1432}
+|-
+|rowspan="2"|[[Clue scroll (easy)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#12162 12162]
+|-
+|params || {'623': 2114} || {'347': 1, '623': 2114}
+|-
+|rowspan="2"|[[Clue scroll (easy)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#12164 12164]
+|-
+|params || {'623': 2117} || {'347': 1, '623': 2117}
+|-
+|rowspan="2"|[[Clue scroll (easy)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#12166 12166]
+|-
+|params || {'623': 1312} || {'347': 1, '623': 1312}
+|-
+|rowspan="2"|[[Clue scroll (easy)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#12167 12167]
+|-
+|params || {'623': 1282} || {'347': 1, '623': 1282}
+|-
+|rowspan="2"|[[Clue scroll (easy)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#12168 12168]
+|-
+|params || {'623': 1295} || {'347': 1, '623': 1295}
+|-
+|rowspan="2"|[[Clue scroll (easy)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#12169 12169]
+|-
+|params || {'623': 1250} || {'347': 1, '623': 1250}
+|-
+|rowspan="2"|[[Clue scroll (easy)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#12170 12170]
+|-
+|params || {'623': 1349} || {'347': 1, '623': 1349}
+|-
+|rowspan="2"|[[Clue scroll (easy)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#12172 12172]
+|-
+|params || {'623': 1309} || {'347': 1, '623': 1309}
+|-
+|rowspan="2"|[[Clue scroll (easy)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#12173 12173]
+|-
+|params || {'623': 1245} || {'347': 1, '623': 1245}
+|-
+|rowspan="2"|[[Clue scroll (easy)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#12174 12174]
+|-
+|params || {'623': 1301} || {'347': 1, '623': 1301}
+|-
+|rowspan="2"|[[Clue scroll (easy)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#12175 12175]
+|-
+|params || {'623': 1306} || {'347': 1, '623': 1306}
+|-
+|rowspan="2"|[[Clue scroll (easy)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#12176 12176]
+|-
+|params || {'623': 1281} || {'347': 1, '623': 1281}
+|-
+|rowspan="2"|[[Clue scroll (easy)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#12177 12177]
+|-
+|params || {'623': 1307} || {'347': 1, '623': 1307}
+|-
+|rowspan="2"|[[Clue scroll (easy)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#12178 12178]
+|-
+|params || {'623': 1293} || {'347': 1, '623': 1293}
+|-
+|rowspan="2"|[[Clue scroll (easy)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#12179 12179]
+|-
+|params || {'623': 2228} || {'347': 1, '623': 2228}
+|-
+|rowspan="2"|[[Clue scroll (easy)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#12181 12181]
+|-
+|params || {'623': 1262} || {'347': 1, '623': 1262}
+|-
+|rowspan="2"|[[Clue scroll (easy)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#12182 12182]
+|-
+|params || {'623': 1249} || {'347': 1, '623': 1249}
+|-
+|rowspan="2"|[[Clue scroll (easy)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#12183 12183]
+|-
+|params || {'623': 1256} || {'347': 1, '623': 1256}
+|-
+|rowspan="2"|[[Clue scroll (easy)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#12184 12184]
+|-
+|params || {'623': 1254} || {'347': 1, '623': 1254}
+|-
+|rowspan="2"|[[Clue scroll (easy)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#12185 12185]
+|-
+|params || {'623': 1286} || {'347': 1, '623': 1286}
+|-
+|rowspan="2"|[[Clue scroll (easy)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#12186 12186]
+|-
+|params || {'623': 1240} || {'347': 1, '623': 1240}
+|-
+|rowspan="2"|[[Clue scroll (easy)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#12187 12187]
+|-
+|params || {'623': 1248} || {'347': 1, '623': 1248}
+|-
+|rowspan="2"|[[Clue scroll (easy)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#12188 12188]
+|-
+|params || {'623': 1318} || {'347': 1, '623': 1318}
+|-
+|rowspan="2"|[[Clue scroll (easy)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#12189 12189]
+|-
+|params || {'623': 1335} || {'347': 1, '623': 1335}
+|-
+|rowspan="2"|[[Clue scroll (easy)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#12190 12190]
+|-
+|params || {'623': 1253} || {'347': 1, '623': 1253}
+|-
+|rowspan="2"|[[Clue scroll (easy)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#12191 12191]
+|-
+|params || {'623': 1310} || {'347': 1, '623': 1310}
+|-
+|rowspan="2"|[[Clue scroll (easy)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#12192 12192]
+|-
+|params || {'623': 1280} || {'347': 1, '623': 1280}
+|-
+|rowspan="2"|[[Clue scroll (hard)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#12542 12542]
+|-
+|params || {'623': 2150} || {'349': 1, '623': 2150}
+|-
+|rowspan="2"|[[Clue scroll (hard)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#12544 12544]
+|-
+|params || {'623': 2144} || {'349': 1, '623': 2144}
+|-
+|rowspan="2"|[[Clue scroll (hard)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#12546 12546]
+|-
+|params || {'623': 2155} || {'349': 1, '623': 2155}
+|-
+|rowspan="2"|[[Clue scroll (hard)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#12548 12548]
+|-
+|params || {'623': 2151} || {'349': 1, '623': 2151}
+|-
+|rowspan="2"|[[Clue scroll (hard)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#12550 12550]
+|-
+|params || {'623': 2148} || {'349': 1, '623': 2148}
+|-
+|rowspan="2"|[[Clue scroll (hard)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#12552 12552]
+|-
+|params || {'623': 2157} || {'349': 1, '623': 2157}
+|-
+|rowspan="2"|[[Clue scroll (hard)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#12554 12554]
+|-
+|params || {'623': 1967} || {'349': 1, '623': 1967}
+|-
+|rowspan="2"|[[Clue scroll (hard)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#12556 12556]
+|-
+|params || {'623': 2007} || {'349': 1, '623': 2007}
+|-
+|rowspan="2"|[[Clue scroll (hard)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#12558 12558]
+|-
+|params || {'623': 1969} || {'349': 1, '623': 1969}
+|-
+|rowspan="2"|[[Clue scroll (hard)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#12560 12560]
+|-
+|params || {'623': 1972} || {'349': 1, '623': 1972}
+|-
+|rowspan="2"|[[Clue scroll (hard)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#12562 12562]
+|-
+|params || {'623': 1971} || {'349': 1, '623': 1971}
+|-
+|rowspan="2"|[[Clue scroll (hard)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#12564 12564]
+|-
+|params || {'623': 1992} || {'349': 1, '623': 1992}
+|-
+|rowspan="2"|[[Clue scroll (hard)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#12566 12566]
+|-
+|params || {'623': 1557} || {'349': 1, '623': 1557}
+|-
+|rowspan="2"|[[Clue scroll (hard)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#12568 12568]
+|-
+|params || {'623': 1561} || {'349': 1, '623': 1561}
+|-
+|rowspan="2"|[[Clue scroll (hard)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#12570 12570]
+|-
+|params || {'623': 1567} || {'349': 1, '623': 1567}
+|-
+|rowspan="2"|[[Clue scroll (hard)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#12572 12572]
+|-
+|params || {'623': 1568} || {'349': 1, '623': 1568}
+|-
+|rowspan="2"|[[Clue scroll (hard)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#12574 12574]
+|-
+|params || {'623': 1563} || {'349': 1, '623': 1563}
+|-
+|rowspan="2"|[[Clue scroll (hard)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#12576 12576]
+|-
+|params || {'623': 1560} || {'349': 1, '623': 1560}
+|-
+|rowspan="2"|[[Clue scroll (hard)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#12578 12578]
+|-
+|params || {'623': 1375} || {'349': 1, '623': 1375}
+|-
+|rowspan="2"|[[Clue scroll (hard)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#12581 12581]
+|-
+|params || {'623': 1380} || {'349': 1, '623': 1380}
+|-
+|rowspan="2"|[[Clue scroll (hard)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#12584 12584]
+|-
+|params || {'623': 1383} || {'349': 1, '623': 1383}
+|-
+|rowspan="2"|[[Clue scroll (hard)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#12587 12587]
+|-
+|params || {'623': 1382} || {'349': 1, '623': 1382}
+|-
+|rowspan="2"|[[Clue scroll (hard)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#12590 12590]
+|-
+|params || {'623': 1411} || {'349': 1, '623': 1411}
+|-
+|rowspan="2"|[[Clue scroll (medium)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#19734 19734]
+|-
+|params || {'623': 1541} || {'348': 1, '623': 1541}
+|-
+|rowspan="2"|[[Clue scroll (medium)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#19736 19736]
+|-
+|params || {'623': 1532} || {'348': 1, '623': 1532}
+|-
+|rowspan="2"|[[Clue scroll (medium)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#19738 19738]
+|-
+|params || {'623': 1537} || {'348': 1, '623': 1537}
+|-
+|rowspan="2"|[[Clue scroll (medium)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#19740 19740]
+|-
+|params || {'623': 1547} || {'348': 1, '623': 1547}
+|-
+|rowspan="2"|[[Clue scroll (medium)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#19742 19742]
+|-
+|params || {'623': 1529} || {'348': 1, '623': 1529}
+|-
+|rowspan="2"|[[Clue scroll (medium)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#19744 19744]
+|-
+|params || {'623': 1549} || {'348': 1, '623': 1549}
+|-
+|rowspan="2"|[[Clue scroll (medium)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#19746 19746]
+|-
+|params || {'623': 1514} || {'348': 1, '623': 1514}
+|-
+|rowspan="2"|[[Clue scroll (medium)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#19748 19748]
+|-
+|params || {'623': 1548} || {'348': 1, '623': 1548}
+|-
+|rowspan="2"|[[Clue scroll (medium)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#19750 19750]
+|-
+|params || {'623': 1516} || {'348': 1, '623': 1516}
+|-
+|rowspan="2"|[[Clue scroll (medium)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#19752 19752]
+|-
+|params || {'623': 1542} || {'348': 1, '623': 1542}
+|-
+|rowspan="2"|[[Clue scroll (medium)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#19754 19754]
+|-
+|params || {'623': 1544} || {'348': 1, '623': 1544}
+|-
+|rowspan="2"|[[Clue scroll (medium)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#19756 19756]
+|-
+|params || {'623': 1530} || {'348': 1, '623': 1530}
+|-
+|rowspan="2"|[[Clue scroll (medium)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#19758 19758]
+|-
+|params || {'623': 1512} || {'348': 1, '623': 1512}
+|-
+|rowspan="2"|[[Clue scroll (medium)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#19760 19760]
+|-
+|params || {'623': 2287} || {'348': 1, '623': 2287}
+|-
+|rowspan="2"|[[Clue scroll (medium)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#19762 19762]
+|-
+|params || {'623': 2268} || {'348': 1, '623': 2268}
+|-
+|rowspan="2"|[[Clue scroll (medium)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#19764 19764]
+|-
+|params || {'623': 2267} || {'348': 1, '623': 2267}
+|-
+|rowspan="2"|[[Clue scroll (medium)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#19766 19766]
+|-
+|params || {'623': 2266} || {'348': 1, '623': 2266}
+|-
+|rowspan="2"|[[Clue scroll (medium)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#19768 19768]
+|-
+|params || {'623': 2263} || {'348': 1, '623': 2263}
+|-
+|rowspan="2"|[[Clue scroll (medium)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#19770 19770]
+|-
+|params || {'623': 2265} || {'348': 1, '623': 2265}
+|-
+|rowspan="2"|[[Clue scroll (medium)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#19772 19772]
+|-
+|params || {'623': 2264} || {'348': 1, '623': 2264}
+|-
+|rowspan="2"|[[Clue scroll (medium)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#19774 19774]
+|-
+|params || {'623': 1958} || {'348': 1, '623': 1958}
+|-
+|rowspan="2"|[[Clue scroll (medium)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#19776 19776]
+|-
+|params || {'623': 2123} || {'348': 1, '623': 2123}
+|-
+|rowspan="2"|[[Clue scroll (medium)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#19778 19778]
+|-
+|params || {'623': 2143} || {'348': 1, '623': 2143}
+|-
+|rowspan="2"|[[Clue scroll (medium)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#19780 19780]
+|-
+|params || {'623': 2130} || {'348': 1, '623': 2130}
+|-
+|rowspan="2"|[[Clue scroll (elite)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#19782 19782]
+|-
+|params || {'623': 2255} || {'350': 1, '623': 2255}
+|-
+|rowspan="2"|[[Clue scroll (elite)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#19783 19783]
+|-
+|params || {'623': 2256} || {'350': 1, '623': 2256}
+|-
+|rowspan="2"|[[Clue scroll (elite)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#19784 19784]
+|-
+|params || {'623': 2257} || {'350': 1, '623': 2257}
+|-
+|rowspan="2"|[[Clue scroll (elite)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#19785 19785]
+|-
+|params || {'623': 2258} || {'350': 1, '623': 2258}
+|-
+|rowspan="2"|[[Clue scroll (elite)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#19786 19786]
+|-
+|params || {'623': 2259} || {'350': 1, '623': 2259}
+|-
+|rowspan="2"|[[Clue scroll (elite)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#19787 19787]
+|-
+|params || {'623': 2171} || {'350': 1, '623': 2171}
+|-
+|rowspan="2"|[[Clue scroll (elite)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#19788 19788]
+|-
+|params || {'623': 2174} || {'350': 1, '623': 2174}
+|-
+|rowspan="2"|[[Clue scroll (elite)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#19789 19789]
+|-
+|params || {'623': 2161} || {'350': 1, '623': 2161}
+|-
+|rowspan="2"|[[Clue scroll (elite)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#19790 19790]
+|-
+|params || {'623': 2170} || {'350': 1, '623': 2170}
+|-
+|rowspan="2"|[[Clue scroll (elite)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#19791 19791]
+|-
+|params || {'623': 2166} || {'350': 1, '623': 2166}
+|-
+|rowspan="2"|[[Clue scroll (elite)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#19792 19792]
+|-
+|params || {'623': 1575} || {'350': 1, '623': 1575}
+|-
+|rowspan="2"|[[Clue scroll (elite)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#19793 19793]
+|-
+|params || {'623': 1571} || {'350': 1, '623': 1571}
+|-
+|rowspan="2"|[[Clue scroll (elite)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#19794 19794]
+|-
+|params || {'623': 1579} || {'350': 1, '623': 1579}
+|-
+|rowspan="2"|[[Clue scroll (elite)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#19795 19795]
+|-
+|params || {'623': 1580} || {'350': 1, '623': 1580}
+|-
+|rowspan="2"|[[Clue scroll (elite)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#19796 19796]
+|-
+|params || {'623': 1459} || {'350': 1, '623': 1459}
+|-
+|rowspan="2"|[[Clue scroll (elite)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#19797 19797]
+|-
+|params || {'623': 1464} || {'350': 1, '623': 1464}
+|-
+|rowspan="2"|[[Clue scroll (elite)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#19798 19798]
+|-
+|params || {'623': 1456} || {'350': 1, '623': 1456}
+|-
+|rowspan="2"|[[Clue scroll (elite)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#19799 19799]
+|-
+|params || {'623': 1462} || {'350': 1, '623': 1462}
+|-
+|rowspan="2"|[[Clue scroll (elite)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#19800 19800]
+|-
+|params || {'623': 1457} || {'350': 1, '623': 1457}
+|-
+|rowspan="2"|[[Clue scroll (elite)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#19801 19801]
+|-
+|params || {'623': 1460} || {'350': 1, '623': 1460}
+|-
+|rowspan="2"|[[Clue scroll (elite)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#19802 19802]
+|-
+|params || {'623': 1454} || {'350': 1, '623': 1454}
+|-
+|rowspan="2"|[[Clue scroll (elite)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#19803 19803]
+|-
+|params || {'623': 1461} || {'350': 1, '623': 1461}
+|-
+|rowspan="2"|[[Clue scroll (elite)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#19804 19804]
+|-
+|params || {'623': 1463} || {'350': 1, '623': 1463}
+|-
+|rowspan="2"|[[Clue scroll (elite)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#19805 19805]
+|-
+|params || {'623': 1455} || {'350': 1, '623': 1455}
+|-
+|rowspan="2"|[[Clue scroll (elite)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#19806 19806]
+|-
+|params || {'623': 1458} || {'350': 1, '623': 1458}
+|-
+|rowspan="2"|[[Clue scroll (elite)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#19807 19807]
+|-
+|params || {'623': 2289} || {'350': 1, '623': 2289}
+|-
+|rowspan="2"|[[Clue scroll (elite)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#19808 19808]
+|-
+|params || {'623': 1436} || {'350': 1, '623': 1436}
+|-
+|rowspan="2"|[[Clue scroll (elite)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#19809 19809]
+|-
+|params || {'623': 1446} || {'350': 1, '623': 1446}
+|-
+|rowspan="2"|[[Clue scroll (elite)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#19810 19810]
+|-
+|params || {'623': 1447} || {'350': 1, '623': 1447}
+|-
+|rowspan="2"|[[Clue scroll (elite)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#19811 19811]
+|-
+|params || {'623': 1437} || {'350': 1, '623': 1437}
+|-
+|rowspan="2"|[[Clue scroll (elite)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#19813 19813]
+|-
+|params || {'623': 2030} || {'350': 1, '623': 2030}
+|-
+|rowspan="2"|[[Clue scroll (easy)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#19814 19814]
+|-
+|params || {'623': 1351} || {'347': 1, '623': 1351}
+|-
+|rowspan="2"|[[Clue scroll (easy)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#19816 19816]
+|-
+|params || {'623': 1252} || {'347': 1, '623': 1252}
+|-
+|rowspan="2"|[[Clue scroll (easy)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#19817 19817]
+|-
+|params || {'623': 1261} || {'347': 1, '623': 1261}
+|-
+|rowspan="2"|[[Clue scroll (easy)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#19818 19818]
+|-
+|params || {'623': 1331} || {'347': 1, '623': 1331}
+|-
+|rowspan="2"|[[Clue scroll (easy)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#19819 19819]
+|-
+|params || {'623': 1264} || {'347': 1, '623': 1264}
+|-
+|rowspan="2"|[[Clue scroll (easy)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#19820 19820]
+|-
+|params || {'623': 1243} || {'347': 1, '623': 1243}
+|-
+|rowspan="2"|[[Clue scroll (easy)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#19821 19821]
+|-
+|params || {'623': 1267} || {'347': 1, '623': 1267}
+|-
+|rowspan="2"|[[Clue scroll (easy)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#19822 19822]
+|-
+|params || {'623': 1272} || {'347': 1, '623': 1272}
+|-
+|rowspan="2"|[[Clue scroll (easy)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#19823 19823]
+|-
+|params || {'623': 1268} || {'347': 1, '623': 1268}
+|-
+|rowspan="2"|[[Clue scroll (easy)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#19824 19824]
+|-
+|params || {'623': 1265} || {'347': 1, '623': 1265}
+|-
+|rowspan="2"|[[Clue scroll (easy)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#19825 19825]
+|-
+|params || {'623': 1269} || {'347': 1, '623': 1269}
+|-
+|rowspan="2"|[[Clue scroll (easy)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#19826 19826]
+|-
+|params || {'623': 1352} || {'347': 1, '623': 1352}
+|-
+|rowspan="2"|[[Clue scroll (easy)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#19828 19828]
+|-
+|params || {'623': 1260} || {'347': 1, '623': 1260}
+|-
+|rowspan="2"|[[Clue scroll (easy)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#19829 19829]
+|-
+|params || {'623': 1340} || {'347': 1, '623': 1340}
+|-
+|rowspan="2"|[[Clue scroll (easy)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#19830 19830]
+|-
+|params || {'623': 1263} || {'347': 1, '623': 1263}
+|-
+|rowspan="2"|[[Clue scroll (easy)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#19831 19831]
+|-
+|params || {'623': 2102} || {'347': 1, '623': 2102}
+|-
+|rowspan="2"|[[Clue scroll (easy)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#19833 19833]
+|-
+|params || {'623': 2105} || {'347': 1, '623': 2105}
+|-
+|rowspan="2"|[[Clue scroll (hard)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#19840 19840]
+|-
+|params || {'623': 1993} || {'349': 1, '623': 1993}
+|-
+|rowspan="2"|[[Clue scroll (hard)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#19842 19842]
+|-
+|params || {'623': 1998} || {'349': 1, '623': 1998}
+|-
+|rowspan="2"|[[Clue scroll (hard)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#19844 19844]
+|-
+|params || {'623': 1970} || {'349': 1, '623': 1970}
+|-
+|rowspan="2"|[[Clue scroll (hard)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#19846 19846]
+|-
+|params || {'623': 1370} || {'349': 1, '623': 1370}
+|-
+|rowspan="2"|[[Clue scroll (hard)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#19848 19848]
+|-
+|params || {'623': 1416} || {'349': 1, '623': 1416}
+|-
+|rowspan="2"|[[Clue scroll (hard)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#19850 19850]
+|-
+|params || {'623': 1419} || {'349': 1, '623': 1419}
+|-
+|rowspan="2"|[[Clue scroll (hard)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#19852 19852]
+|-
+|params || {'623': 1379} || {'349': 1, '623': 1379}
+|-
+|rowspan="2"|[[Clue scroll (hard)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#19853 19853]
+|-
+|params || {'623': 1378} || {'349': 1, '623': 1378}
+|-
+|rowspan="2"|[[Clue scroll (hard)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#19854 19854]
+|-
+|params || {'623': 1369} || {'349': 1, '623': 1369}
+|-
+|rowspan="2"|[[Clue scroll (hard)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#19856 19856]
+|-
+|params || {'623': 1389} || {'349': 1, '623': 1389}
+|-
+|rowspan="2"|[[Clue scroll (hard)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#19857 19857]
+|-
+|params || {'623': 1390} || {'349': 1, '623': 1390}
+|-
+|rowspan="2"|[[Clue scroll (hard)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#19858 19858]
+|-
+|params || {'623': 1371} || {'349': 1, '623': 1371}
+|-
+|rowspan="2"|[[Clue scroll (hard)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#19860 19860]
+|-
+|params || {'623': 1420} || {'349': 1, '623': 1420}
+|-
+|rowspan="2"|[[Clue scroll (hard)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#19862 19862]
+|-
+|params || {'623': 1902} || {'349': 1, '623': 1902}
+|-
+|rowspan="2"|[[Clue scroll (hard)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#19864 19864]
+|-
+|params || {'623': 1901} || {'349': 1, '623': 1901}
+|-
+|rowspan="2"|[[Clue scroll (hard)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#19866 19866]
+|-
+|params || {'623': 1903} || {'349': 1, '623': 1903}
+|-
+|rowspan="2"|[[Clue scroll (hard)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#19868 19868]
+|-
+|params || {'623': 1906} || {'349': 1, '623': 1906}
+|-
+|rowspan="2"|[[Clue scroll (hard)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#19870 19870]
+|-
+|params || {'623': 1905} || {'349': 1, '623': 1905}
+|-
+|rowspan="2"|[[Clue scroll (hard)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#19872 19872]
+|-
+|params || {'623': 1904} || {'349': 1, '623': 1904}
+|-
+|rowspan="2"|[[Clue scroll (hard)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#19874 19874]
+|-
+|params || {'623': 1908} || {'349': 1, '623': 1908}
+|-
+|rowspan="2"|[[Clue scroll (hard)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#19876 19876]
+|-
+|params || {'623': 1909} || {'349': 1, '623': 1909}
+|-
+|rowspan="2"|[[Clue scroll (hard)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#19878 19878]
+|-
+|params || {'623': 1910} || {'349': 1, '623': 1910}
+|-
+|rowspan="2"|[[Clue scroll (hard)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#19880 19880]
+|-
+|params || {'623': 1907} || {'349': 1, '623': 1907}
+|-
+|rowspan="2"|[[Clue scroll (hard)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#19882 19882]
+|-
+|params || {'623': 1569} || {'349': 1, '623': 1569}
+|-
+|rowspan="2"|[[Clue scroll (hard)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#19884 19884]
+|-
+|params || {'623': 1570} || {'349': 1, '623': 1570}
+|-
+|rowspan="2"|[[Clue scroll (hard)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#19886 19886]
+|-
+|params || {'623': 1554} || {'349': 1, '623': 1554}
+|-
+|rowspan="2"|[[Clue scroll (hard)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#19888 19888]
+|-
+|params || {'623': 1559} || {'349': 1, '623': 1559}
+|-
+|rowspan="2"|[[Clue scroll (hard)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#19890 19890]
+|-
+|params || {'623': 1562} || {'349': 1, '623': 1562}
+|-
+|rowspan="2"|[[Clue scroll (hard)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#19892 19892]
+|-
+|params || {'623': 1566} || {'349': 1, '623': 1566}
+|-
+|rowspan="2"|[[Clue scroll (hard)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#19894 19894]
+|-
+|params || {'623': 1553} || {'349': 1, '623': 1553}
+|-
+|rowspan="2"|[[Clue scroll (hard)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#19896 19896]
+|-
+|params || {'623': 1564} || {'349': 1, '623': 1564}
+|-
+|rowspan="2"|[[Clue scroll (hard)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#19898 19898]
+|-
+|params || {'623': 2270} || {'349': 1, '623': 2270}
+|-
+|rowspan="2"|[[Clue scroll (hard)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#19900 19900]
+|-
+|params || {'623': 2272} || {'349': 1, '623': 2272}
+|-
+|rowspan="2"|[[Clue scroll (hard)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#19902 19902]
+|-
+|params || {'623': 2274} || {'349': 1, '623': 2274}
+|-
+|rowspan="2"|[[Clue scroll (hard)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#19904 19904]
+|-
+|params || {'623': 2269} || {'349': 1, '623': 2269}
+|-
+|rowspan="2"|[[Clue scroll (hard)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#19906 19906]
+|-
+|params || {'623': 2271} || {'349': 1, '623': 2271}
+|-
+|rowspan="2"|[[Clue scroll (hard)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#19908 19908]
+|-
+|params || {'623': 2273} || {'349': 1, '623': 2273}
+|-
+|rowspan="2"|[[Clue scroll (hard)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#19910 19910]
+|-
+|params || {'623': 2275} || {'349': 1, '623': 2275}
+|-
+|rowspan="2"|[[Clue scroll (elite)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#21524 21524]
+|-
+|params || {'623': 1582} || {'350': 1, '623': 1582}
+|-
+|rowspan="2"|[[Clue scroll (elite)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#21525 21525]
+|-
+|params || {'623': 1451} || {'350': 1, '623': 1451}
+|-
+|rowspan="2"|[[Clue scroll (hard)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#21526 21526]
+|-
+|params || {'623': 2002} || {'349': 1, '623': 2002}
+|-
+|rowspan="2"|[[Clue scroll (hard)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#21527 21527]
+|-
+|params || {'623': 2006} || {'349': 1, '623': 2006}
+|-
+|rowspan="2"|[[Clue scroll (elite)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#22000 22000]
+|-
+|params || {'623': 2051} || {'350': 1, '623': 2051}
+|-
+|rowspan="2"|[[Clue scroll (easy)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#22001 22001]
+|-
+|params || {'623': 1353} || {'347': 1, '623': 1353}
+|-
+|rowspan="2"|[[Clue scroll (hard)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#23045 23045]
+|-
+|params || {'623': 1423} || {'349': 1, '623': 1423}
+|-
+|rowspan="2"|[[Clue scroll (medium)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#23046 23046]
+|-
+|params || {'623': 2128} || {'348': 1, '623': 2128}
+|-
+|rowspan="2"|[[Clue scroll (medium)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#23131 23131]
+|-
+|params || {'623': 1519} || {'348': 1, '623': 1519}
+|-
+|rowspan="2"|[[Clue scroll (medium)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#23133 23133]
+|-
+|params || {'623': 1518} || {'348': 1, '623': 1518}
+|-
+|rowspan="2"|[[Clue scroll (medium)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#23135 23135]
+|-
+|params || {'623': 1963} || {'348': 1, '623': 1963}
+|-
+|rowspan="2"|[[Clue scroll (medium)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#23136 23136]
+|-
+|params || {'623': 1962} || {'348': 1, '623': 1962}
+|-
+|rowspan="2"|[[Clue scroll (medium)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#23137 23137]
+|-
+|params || {'623': 1964} || {'348': 1, '623': 1964}
+|-
+|rowspan="2"|[[Clue scroll (medium)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#23138 23138]
+|-
+|params || {'623': 1887} || {'348': 1, '623': 1887}
+|-
+|rowspan="2"|[[Clue scroll (medium)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#23139 23139]
+|-
+|params || {'623': 1885} || {'348': 1, '623': 1885}
+|-
+|rowspan="2"|[[Clue scroll (medium)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#23140 23140]
+|-
+|params || {'623': 1886} || {'348': 1, '623': 1886}
+|-
+|rowspan="2"|[[Clue scroll (medium)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#23141 23141]
+|-
+|params || {'623': 1882} || {'348': 1, '623': 1882}
+|-
+|rowspan="2"|[[Clue scroll (medium)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#23142 23142]
+|-
+|params || {'623': 1883} || {'348': 1, '623': 1883}
+|-
+|rowspan="2"|[[Clue scroll (medium)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#23143 23143]
+|-
+|params || {'623': 1884} || {'348': 1, '623': 1884}
+|-
+|rowspan="2"|[[Clue scroll (elite)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#23144 23144]
+|-
+|params || {'623': 1452} || {'350': 1, '623': 1452}
+|-
+|rowspan="2"|[[Clue scroll (elite)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#23145 23145]
+|-
+|params || {'623': 1453} || {'350': 1, '623': 1453}
+|-
+|rowspan="2"|[[Clue scroll (elite)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#23146 23146]
+|-
+|params || {'623': 2046} || {'350': 1, '623': 2046}
+|-
+|rowspan="2"|[[Clue scroll (elite)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#23147 23147]
+|-
+|params || {'623': 2048} || {'350': 1, '623': 2048}
+|-
+|rowspan="2"|[[Clue scroll (elite)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#23148 23148]
+|-
+|params || {'623': 2047} || {'350': 1, '623': 2047}
+|-
+|rowspan="2"|[[Clue scroll (easy)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#23149 23149]
+|-
+|params || {'623': 1347} || {'347': 1, '623': 1347}
+|-
+|rowspan="2"|[[Clue scroll (easy)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#23150 23150]
+|-
+|params || {'623': 1343} || {'347': 1, '623': 1343}
+|-
+|rowspan="2"|[[Clue scroll (easy)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#23151 23151]
+|-
+|params || {'623': 1342} || {'347': 1, '623': 1342}
+|-
+|rowspan="2"|[[Clue scroll (easy)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#23152 23152]
+|-
+|params || {'623': 1345} || {'347': 1, '623': 1345}
+|-
+|rowspan="2"|[[Clue scroll (easy)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#23153 23153]
+|-
+|params || {'623': 1344} || {'347': 1, '623': 1344}
+|-
+|rowspan="2"|[[Clue scroll (easy)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#23154 23154]
+|-
+|params || {'623': 1346} || {'347': 1, '623': 1346}
+|-
+|rowspan="2"|[[Clue scroll (easy)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#23155 23155]
+|-
+|params || {'623': 1881} || {'347': 1, '623': 1881}
+|-
+|rowspan="2"|[[Clue scroll (easy)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#23156 23156]
+|-
+|params || {'623': 1879} || {'347': 1, '623': 1879}
+|-
+|rowspan="2"|[[Clue scroll (easy)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#23157 23157]
+|-
+|params || {'623': 1880} || {'347': 1, '623': 1880}
+|-
+|rowspan="2"|[[Clue scroll (easy)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#23158 23158]
+|-
+|params || {'623': 1878} || {'347': 1, '623': 1878}
+|-
+|rowspan="2"|[[Clue scroll (easy)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#23159 23159]
+|-
+|params || {'623': 1877} || {'347': 1, '623': 1877}
+|-
+|rowspan="2"|[[Clue scroll (easy)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#23160 23160]
+|-
+|params || {'623': 1876} || {'347': 1, '623': 1876}
+|-
+|rowspan="2"|[[Clue scroll (easy)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#23161 23161]
+|-
+|params || {'623': 1274} || {'347': 1, '623': 1274}
+|-
+|rowspan="2"|[[Clue scroll (easy)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#23162 23162]
+|-
+|params || {'623': 1273} || {'347': 1, '623': 1273}
+|-
+|rowspan="2"|[[Clue scroll (easy)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#23163 23163]
+|-
+|params || {'623': 1277} || {'347': 1, '623': 1277}
+|-
+|rowspan="2"|[[Clue scroll (easy)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#23164 23164]
+|-
+|params || {'623': 1275} || {'347': 1, '623': 1275}
+|-
+|rowspan="2"|[[Clue scroll (easy)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#23165 23165]
+|-
+|params || {'623': 1278} || {'347': 1, '623': 1278}
+|-
+|rowspan="2"|[[Clue scroll (easy)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#23166 23166]
+|-
+|params || {'623': 1276} || {'347': 1, '623': 1276}
+|-
+|rowspan="2"|[[Clue scroll (hard)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#23167 23167]
+|-
+|params || {'623': 2013} || {'349': 1, '623': 2013}
+|-
+|rowspan="2"|[[Clue scroll (hard)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#23168 23168]
+|-
+|params || {'623': 2014} || {'349': 1, '623': 2014}
+|-
+|rowspan="2"|[[Clue scroll (hard)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#23169 23169]
+|-
+|params || {'623': 2015} || {'349': 1, '623': 2015}
+|-
+|rowspan="2"|[[Clue scroll (hard)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#23170 23170]
+|-
+|params || {'623': 2277} || {'349': 1, '623': 2277}
+|-
+|rowspan="2"|[[Clue scroll (hard)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#23172 23172]
+|-
+|params || {'623': 2276} || {'349': 1, '623': 2276}
+|-
+|rowspan="2"|[[Clue scroll (hard)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#23174 23174]
+|-
+|params || {'623': 1896} || {'349': 1, '623': 1896}
+|-
+|rowspan="2"|[[Clue scroll (hard)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#23175 23175]
+|-
+|params || {'623': 1889} || {'349': 1, '623': 1889}
+|-
+|rowspan="2"|[[Clue scroll (hard)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#23176 23176]
+|-
+|params || {'623': 1897} || {'349': 1, '623': 1897}
+|-
+|rowspan="2"|[[Clue scroll (hard)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#23177 23177]
+|-
+|params || {'623': 1893} || {'349': 1, '623': 1893}
+|-
+|rowspan="2"|[[Clue scroll (hard)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#23178 23178]
+|-
+|params || {'623': 1895} || {'349': 1, '623': 1895}
+|-
+|rowspan="2"|[[Clue scroll (hard)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#23179 23179]
+|-
+|params || {'623': 1892} || {'349': 1, '623': 1892}
+|-
+|rowspan="2"|[[Clue scroll (hard)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#23180 23180]
+|-
+|params || {'623': 1890} || {'349': 1, '623': 1890}
+|-
+|rowspan="2"|[[Clue scroll (hard)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#23181 23181]
+|-
+|params || {'623': 1891} || {'349': 1, '623': 1891}
+|-
+|rowspan="2"|[[Clue scroll (elite)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#23770 23770]
+|-
+|params || {'623': 2050} || {'350': 1, '623': 2050}
+|-
+|rowspan="2"|[[Clue scroll (elite)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#24253 24253]
+|-
+|params || {'623': 2049} || {'350': 1, '623': 2049}
+|-
+|rowspan="2"|[[Clue scroll (hard)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#24493 24493]
+|-
+|params || {'623': 1558} || {'349': 1, '623': 1558}
+|-
+|rowspan="2"|[[Clue scroll (elite)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#24773 24773]
+|-
+|params || {'623': 1898} || {'350': 1, '623': 1898}
+|-
+|rowspan="2"|[[Clue scroll (elite)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#25498 25498]
+|-
+|params || {'623': 2053} || {'350': 1, '623': 2053}
+|-
+|rowspan="2"|[[Clue scroll (elite)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#25499 25499]
+|-
+|params || {'623': 2052} || {'350': 1, '623': 2052}
+|-
+|rowspan="2"|[[Clue scroll (medium)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#25783 25783]
+|-
+|params || {'623': 1368} || {'348': 1, '623': 1368}
+|-
+|rowspan="2"|[[Clue scroll (medium)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#25784 25784]
+|-
+|params || {'623': 1551} || {'348': 1, '623': 1551}
+|-
+|rowspan="2"|[[Clue scroll (elite)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#25786 25786]
+|-
+|params || {'623': 2172} || {'350': 1, '623': 2172}
+|-
+|rowspan="2"|[[Clue scroll (elite)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#25787 25787]
+|-
+|params || {'623': 2054} || {'350': 1, '623': 2054}
+|-
+|rowspan="2"|[[Clue scroll (easy)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#25788 25788]
+|-
+|params || {'623': 1354} || {'347': 1, '623': 1354}
+|-
+|rowspan="2"|[[Clue scroll (easy)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#25789 25789]
+|-
+|params || {'623': 1348} || {'347': 1, '623': 1348}
+|-
+|rowspan="2"|[[Clue scroll (hard)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#25790 25790]
+|-
+|params || {'623': 2017} || {'349': 1, '623': 2017}
+|-
+|rowspan="2"|[[Clue scroll (hard)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#25791 25791]
+|-
+|params || {'623': 1424} || {'349': 1, '623': 1424}
+|-
+|rowspan="2"|[[Clue scroll (hard)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#25792 25792]
+|-
+|params || {'623': 1894} || {'349': 1, '623': 1894}
+|-
+|rowspan="2"|[[Clue scroll (hard)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26566 26566]
+|-
+|params || {'623': 1425} || {'349': 1, '623': 1425}
+|-
+|rowspan="2"|[[Clue scroll (elite)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26943 26943]
+|-
+|params || {'623': 1899} || {'350': 1, '623': 1899}
+|-
+|rowspan="2"|[[Clue scroll (elite)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26944 26944]
+|-
+|params || {'623': 2055} || {'350': 1, '623': 2055}
+|-
+|}
+
+==Non-Player Characters==
+===New NPCs===
+{| class="wikitable sortable"
+!colspan='4'|New NPCs
+|-
+! style=width:15em | Name !! ID !! Combat Level !! Options
+|-
+|-
+|}
+===Removed NPCs===
+{| class="wikitable sortable"
+!colspan='2'|Removed NPCs
+|-
+! style=width:15em | Name !! ID
+|-
+|-
+|}
+===Diff NPCs===
+{| class="wikitable sortable"
+!colspan='5'|Diff NPCs
+|-
+! style=width:15em | Name !! ID !! Key !! Previous Value !! New Value
+|-
+|rowspan="2"|[[Le-sabrè]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#5521 5521]
+|-
+|name || [[Le-sabrÃ¨]] || [[Le-sabrè]]
+|-
+|rowspan="2"|[[Frenzied ice troll runt]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#5823 5823]
+|-
+|name || [[Ice troll runt]] || [[Frenzied ice troll runt]]
+|-
+|rowspan="2"|[[Frenzied ice troll male]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#5824 5824]
+|-
+|name || [[Ice troll male]] || [[Frenzied ice troll male]]
+|-
+|rowspan="2"|[[Frenzied ice troll female]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#5825 5825]
+|-
+|name || [[Ice troll female]] || [[Frenzied ice troll female]]
+|-
+|rowspan="2"|[[Frenzied ice troll grunt]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#5826 5826]
+|-
+|name || [[Ice troll grunt]] || [[Frenzied ice troll grunt]]
+|-
+|}
+
+==Objects==
+===New Objects=== 
+{| class="wikitable sortable"
+!colspan='3'|New Objects
+|-
+! style=width:15em | Name !! ID !! Options
+|-
+|-
+|}
+===Removed Objects===
+{| class="wikitable sortable"
+!colspan='2'|Removed Objects
+|-
+! style=width:15em | Name !! ID
+|-
+|-
+|}
+===Diff Objects===
+{| class="wikitable sortable"
+!colspan='5'|Diff Objects
+|-
+! style=width:15em | Name !! ID !! Key !! Previous Value !! New Value
+|-
+|}

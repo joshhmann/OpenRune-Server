@@ -167,15 +167,13 @@ public fun ScriptContext.onOpHeldU(
     first: String,
     second: ItemServerType,
     action: suspend ProtectedAccess.(HeldUEvents.Type) -> Unit,
-): Unit =
-    onOpHeldU(first, RSCM.getReverseMapping(RSCMType.OBJ, second.id), action)
+): Unit = onOpHeldU(first, RSCM.getReverseMapping(RSCMType.OBJ, second.id), action)
 
 public fun ScriptContext.onOpHeldU(
     first: ItemServerType,
     second: String,
     action: suspend ProtectedAccess.(HeldUEvents.Type) -> Unit,
-): Unit =
-    onOpHeldU(RSCM.getReverseMapping(RSCMType.OBJ, first.id), second, action)
+): Unit = onOpHeldU(RSCM.getReverseMapping(RSCMType.OBJ, first.id), second, action)
 
 /**
  * Registers a script that triggers when an inventory obj ([first]) is used on another inventory obj
@@ -220,10 +218,7 @@ public fun ScriptContext.onOpContentHeldU(
         throw IllegalStateException(message)
     }
     onProtectedEvent(
-        EventBus.composeLongKey(
-            first.asRSCM(RSCMType.CONTENT),
-            second.asRSCM(RSCMType.CONTENT),
-        ),
+        EventBus.composeLongKey(first.asRSCM(RSCMType.CONTENT), second.asRSCM(RSCMType.CONTENT)),
         action,
     )
 }

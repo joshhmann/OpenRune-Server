@@ -130,7 +130,8 @@ public class Shops @Inject constructor(private val eventBus: EventBus) {
     }
 
     private fun String.toInventory(observer: Player): Inventory {
-        val unpacked = ServerCacheManager.getInventory(this.asRSCM(RSCMType.INV)) ?: error("Error getting inv")
+        val unpacked =
+            ServerCacheManager.getInventory(this.asRSCM(RSCMType.INV)) ?: error("Error getting inv")
         return if (unpacked.scope == InvScope.Shared) {
             sharedInv()
         } else {
@@ -138,11 +139,11 @@ public class Shops @Inject constructor(private val eventBus: EventBus) {
         }
     }
 
-    private fun String.sharedInv(): Inventory =
-        globalInvs.getOrPut(this) { createSharedInv() }
+    private fun String.sharedInv(): Inventory = globalInvs.getOrPut(this) { createSharedInv() }
 
     private fun String.createSharedInv(): Inventory {
-        val unpacked = ServerCacheManager.getInventory(this.asRSCM(RSCMType.INV)) ?: error("Error getting inv")
+        val unpacked =
+            ServerCacheManager.getInventory(this.asRSCM(RSCMType.INV)) ?: error("Error getting inv")
         check(unpacked.scope == InvScope.Shared) {
             "`shopInv` must have shared scope. (shopInv=$unpacked)"
         }
@@ -150,7 +151,8 @@ public class Shops @Inject constructor(private val eventBus: EventBus) {
     }
 
     private fun String.privateInv(player: Player): Inventory {
-        val unpacked = ServerCacheManager.getInventory(this.asRSCM(RSCMType.INV)) ?: error("Error getting inv")
+        val unpacked =
+            ServerCacheManager.getInventory(this.asRSCM(RSCMType.INV)) ?: error("Error getting inv")
         check(unpacked.scope != InvScope.Shared) {
             "`shopInv` must not have shared scope. (shopInv=$unpacked)"
         }

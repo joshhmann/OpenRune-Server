@@ -29,17 +29,12 @@ class CannonBallScript : PluginScript() {
             }
         }
 
-        onOpHeldU("obj.mcannonball", "obj.granite_dust") {
-            coatGraniteCannonballs()
-        }
+        onOpHeldU("obj.mcannonball", "obj.granite_dust") { coatGraniteCannonballs() }
 
-        onPlayerQueueWithArgs("queue.smithing_cannonball_smelt") {
-            processSmeltTick(it.args)
-        }
+        onPlayerQueueWithArgs("queue.smithing_cannonball_smelt") { processSmeltTick(it.args) }
     }
 
-    private fun ProtectedAccess.hasAmmoMould(): Boolean =
-        moulds.any(inv::contains)
+    private fun ProtectedAccess.hasAmmoMould(): Boolean = moulds.any(inv::contains)
 
     private fun ProtectedAccess.startSmelting(
         event: LocUCategoryEvents.Op,
@@ -107,7 +102,8 @@ class CannonBallScript : PluginScript() {
 
         mes(
             "The molten metal cools slowly to form $ballsPerSmelt " +
-                SmithingUtils.prefixAn(ballName) + ".",
+                SmithingUtils.prefixAn(ballName) +
+                "."
         )
         delay(1)
 
@@ -130,7 +126,8 @@ class CannonBallScript : PluginScript() {
         if (inv.count(ball.input.internalName) < barsPerSmelt) {
             mesbox(
                 "You need ${SmithingUtils.countLiteral(barsPerSmelt)} $barName to make " +
-                    SmithingUtils.prefixAn(ballName) + ".",
+                    SmithingUtils.prefixAn(ballName) +
+                    "."
             )
             return false
         }
@@ -157,7 +154,9 @@ class CannonBallScript : PluginScript() {
         val removedBalls = invDel(inv, "obj.mcannonball", toCreate).success
         val removedDust = invDel(inv, "obj.granite_dust", toCreate).success
 
-        if (removedBalls && removedDust && invAdd(inv, "obj.granite_cannonball", toCreate).success) {
+        if (
+            removedBalls && removedDust && invAdd(inv, "obj.granite_cannonball", toCreate).success
+        ) {
             mes("You apply a thick coating of granite dust to your cannonballs.")
         }
     }
@@ -202,7 +201,7 @@ internal suspend fun ProtectedAccess.openCannonballFurnaceMenu(locInternal: Stri
                 val barsPerSmelt = cannonballBarsPerSmelt(inventory)
                 inventory.count(ball.input.internalName) / barsPerSmelt
             },
-        ),
+        )
     ) { selection ->
         val ball = ballsByOutput[selection.entry.internal] ?: return@openSkillMulti
         startCannonballFurnaceSmelting(locInternal, ball, selection.amount)

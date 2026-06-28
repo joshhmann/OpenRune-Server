@@ -1,0 +1,183 @@
+{{ToC}}
+==Items==
+===New Items===
+{| class="wikitable sortable"
+!colspan='11'|New Items
+|-
+! style=width:15em | Name !! ID !! Members !! Tradeable in GE !! Equipable !! Stackable !! Noteable !! Options !! Placeholder !! Cost !! Weight
+|-
+| [[Fresh start helper]] || [https://chisel.weirdgloop.org/moid/item_id.html#27462 27462] || No || No || No || No || No ||   Help,  Drop || No || 1
+|| 1814
+|-
+|-
+|}
+===Removed Items===
+{| class="wikitable sortable"
+!colspan='2'|Removed Items
+|-
+! style=width:15em | Name !! ID
+|-
+|-
+|}
+===Diff Items===
+{| class="wikitable sortable"
+!colspan='5'|Diff Items
+|-
+! style=width:15em | Name !! ID !! Key !! Previous Value !! New Value
+|-
+|rowspan="2"|[[Adventurer's top (t1)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#27388 27388]
+|-
+|cost || 2000 || 50
+|-
+|rowspan="2"|[[Adventurer's trousers (t1)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#27390 27390]
+|-
+|cost || 2000 || 50
+|-
+|rowspan="2"|[[Adventurer's hood (t1)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#27392 27392]
+|-
+|cost || 1500 || 50
+|-
+|rowspan="2"|[[Adventurer's boots (t1)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#27394 27394]
+|-
+|cost || 1000 || 50
+|-
+|rowspan="2"|[[Adventurer's top (t2)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#27396 27396]
+|-
+|cost || 10000 || 50
+|-
+|rowspan="2"|[[Adventurer's trousers (t2)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#27398 27398]
+|-
+|cost || 10000 || 50
+|-
+|rowspan="2"|[[Adventurer's hood (t2)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#27400 27400]
+|-
+|cost || 7500 || 50
+|-
+|rowspan="2"|[[Adventurer's boots (t2)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#27402 27402]
+|-
+|cost || 5000 || 50
+|-
+|rowspan="2"|[[Adventurer's top (t3)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#27404 27404]
+|-
+|cost || 50000 || 50
+|-
+|rowspan="2"|[[Adventurer's trousers (t3)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#27406 27406]
+|-
+|cost || 50000 || 50
+|-
+|rowspan="2"|[[Adventurer's hood (t3)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#27408 27408]
+|-
+|cost || 37500 || 50
+|-
+|rowspan="2"|[[Adventurer's boots (t3)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#27410 27410]
+|-
+|cost || 25000 || 50
+|-
+|rowspan="2"|[[Adventurer's vambraces]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#27412 27412]
+|-
+|cost || 25000 || 50
+|-
+|rowspan="2"|[[Giant stopwatch]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#27414 27414]
+|-
+|cost || 60000 || 50
+|-
+|rowspan="2"|[[Speedy teleport scroll]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#27416 27416]
+|-
+|cost || 40000 || 50
+|-
+|rowspan="2"|[[Bronze speedrun trophy]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#27418 27418]
+|-
+|cost || 10000 || 50
+|-
+|rowspan="2"|[[Silver speedrun trophy]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#27420 27420]
+|-
+|cost || 10000 || 50
+|-
+|rowspan="2"|[[Gold speedrun trophy]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#27422 27422]
+|-
+|cost || 10000 || 50
+|-
+|rowspan="2"|[[Platinum speedrun trophy]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#27424 27424]
+|-
+|cost || 10000 || 50
+|-
+|rowspan="2"|[[Adventurer's cape]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#27442 27442]
+|-
+|cost || 37500 || 50
+|-
+|}
+
+==Non-Player Characters==
+===New NPCs===
+{| class="wikitable sortable"
+!colspan='4'|New NPCs
+|-
+! style=width:15em | Name !! ID !! Combat Level !! Options
+|-
+|-
+|}
+===Removed NPCs===
+{| class="wikitable sortable"
+!colspan='2'|Removed NPCs
+|-
+! style=width:15em | Name !! ID
+|-
+|-
+|}
+===Diff NPCs===
+{| class="wikitable sortable"
+!colspan='5'|Diff NPCs
+|-
+! style=width:15em | Name !! ID !! Key !! Previous Value !! New Value
+|-
+|}
+
+==Objects==
+===New Objects=== 
+{| class="wikitable sortable"
+!colspan='3'|New Objects
+|-
+! style=width:15em | Name !! ID !! Options
+|-
+|-
+|}
+===Removed Objects===
+{| class="wikitable sortable"
+!colspan='2'|Removed Objects
+|-
+! style=width:15em | Name !! ID
+|-
+|-
+|}
+===Diff Objects===
+{| class="wikitable sortable"
+!colspan='5'|Diff Objects
+|-
+! style=width:15em | Name !! ID !! Key !! Previous Value !! New Value
+|-
+|rowspan="2"|[[Geyser]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#29878 29878]
+|-
+|actions || [None, None, None, None, None] || ['Use', None, None, None, None]
+|-
+|}

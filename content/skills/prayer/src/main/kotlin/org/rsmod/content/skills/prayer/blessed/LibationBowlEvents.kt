@@ -20,11 +20,17 @@ import org.rsmod.plugin.scripts.ScriptContext
 class LibationBowlEvents : PluginScript() {
 
     override fun ScriptContext.startup() {
-        onOpLocU("loc.varlamore_libation_bowl", "obj.jug_wine_blessed") { fillLibationBowl(sunfire = false) }
-        onOpLocU("loc.varlamore_libation_bowl", "obj.jug_sunfire_wine_blessed") { fillLibationBowl(sunfire = true) }
+        onOpLocU("loc.varlamore_libation_bowl", "obj.jug_wine_blessed") {
+            fillLibationBowl(sunfire = false)
+        }
+        onOpLocU("loc.varlamore_libation_bowl", "obj.jug_sunfire_wine_blessed") {
+            fillLibationBowl(sunfire = true)
+        }
         onOpLoc1("loc.varlamore_libation_bowl") { fillLibationBowlFromMenu() }
         onOpLoc1("loc.varlamore_libation_bowl_full") { startLibationSacrifice(it.vis) }
-        onOpLoc2("loc.varlamore_libation_bowl_full") { mes("The libation bowl has $libationWineCharges charges remaining.") }
+        onOpLoc2("loc.varlamore_libation_bowl_full") {
+            mes("The libation bowl has $libationWineCharges charges remaining.")
+        }
         onPlayerQueueWithArgs("queue.prayer_libation_sacrifice") { processLibationTick(it.args) }
     }
 
@@ -39,7 +45,10 @@ class LibationBowlEvents : PluginScript() {
         }
         libationWineCharges = 400
         libationSunfire = if (sunfire) 1 else 0
-        objbox(wine, "You pour some blessed ${if (sunfire) "sunfire" else ""} wine into the libation bowl.")
+        objbox(
+            wine,
+            "You pour some blessed ${if (sunfire) "sunfire" else ""} wine into the libation bowl.",
+        )
     }
 
     private suspend fun ProtectedAccess.fillLibationBowlFromMenu() {
@@ -47,10 +56,16 @@ class LibationBowlEvents : PluginScript() {
         val hasBlessedSunfireWine = inv.contains("obj.jug_sunfire_wine_blessed")
         when {
             hasBlessedWine && hasBlessedSunfireWine -> {
-                openSkillMulti(SkillMultiConfig(verb = "use", entries = listOf(
-                    SkillMultiEntry("obj.jug_wine_blessed"),
-                    SkillMultiEntry("obj.jug_sunfire_wine_blessed")
-                ))) { selection ->
+                openSkillMulti(
+                    SkillMultiConfig(
+                        verb = "use",
+                        entries =
+                            listOf(
+                                SkillMultiEntry("obj.jug_wine_blessed"),
+                                SkillMultiEntry("obj.jug_sunfire_wine_blessed"),
+                            ),
+                    )
+                ) { selection ->
                     when (selection.entry.item.internalName) {
                         "obj.jug_sunfire_wine_blessed" -> fillLibationBowl(sunfire = true)
                         "obj.jug_wine_blessed" -> fillLibationBowl(sunfire = false)
@@ -69,7 +84,9 @@ class LibationBowlEvents : PluginScript() {
             return
         }
         if (player.prayerLvl < 2) {
-            mesbox("You need at least two prayer points to sacrifice blessed bone shards into the libation bowl.")
+            mesbox(
+                "You need at least two prayer points to sacrifice blessed bone shards into the libation bowl."
+            )
             return
         }
         val task = LibationTask(loc = loc)
@@ -125,13 +142,14 @@ class LibationBowlEvents : PluginScript() {
 
     private fun ProtectedAccess.tryAutoRefillLibationBowl(): Boolean {
         val preferredSunfire = libationSunfire == 1
-        val nextSunfire = when {
-            preferredSunfire && inv.contains("obj.jug_sunfire_wine_blessed") -> true
-            !preferredSunfire && inv.contains("obj.jug_wine_blessed") -> false
-            inv.contains("obj.jug_sunfire_wine_blessed") -> true
-            inv.contains("obj.jug_wine_blessed") -> false
-            else -> return false
-        }
+        val nextSunfire =
+            when {
+                preferredSunfire && inv.contains("obj.jug_sunfire_wine_blessed") -> true
+                !preferredSunfire && inv.contains("obj.jug_wine_blessed") -> false
+                inv.contains("obj.jug_sunfire_wine_blessed") -> true
+                inv.contains("obj.jug_wine_blessed") -> false
+                else -> return false
+            }
 
         val wine = if (nextSunfire) "obj.jug_sunfire_wine_blessed" else "obj.jug_wine_blessed"
         if (invDel(inv, wine, 1).failure) {
@@ -140,13 +158,15 @@ class LibationBowlEvents : PluginScript() {
 
         libationSunfire = if (nextSunfire) 1 else 0
         libationWineCharges = 400
-        mes("You pour some more blessed ${if (nextSunfire) "sunfire " else ""}wine into the libation bowl.")
+        mes(
+            "You pour some more blessed ${if (nextSunfire) "sunfire " else ""}wine into the libation bowl."
+        )
         return true
     }
 
     private data class LibationTask(val loc: BoundLocInfo)
 
-    private var ProtectedAccess.libationWineCharges by intVarBit("varbit.varlamore_prayer_winequant")
+    private var ProtectedAccess.libationWineCharges by
+        intVarBit("varbit.varlamore_prayer_winequant")
     private var ProtectedAccess.libationSunfire by intVarBit("varbit.varlamore_prayer_winetype")
-
 }

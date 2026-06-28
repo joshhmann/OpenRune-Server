@@ -1,0 +1,60 @@
+{{ToC}}
+==Items==
+{| class="wikitable sortable"
+!colspan='13'|Items
+|-
+! Name !! ID !! Key !! Previous Value !! New Value !! Members !! Tradeable in GE !! Equipable !! Stackable !! Noteable !! Options !! Placeholder !! Cost
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#26563 26563] || colspan = "3" | New ID || No || No || No || No || No || [None, None, None, None, 'Drop'] || No || 1
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#26564 26564] || colspan = "3" | New ID || No || No || No || No || No || [None, None, None, None, 'Drop'] || No || 1
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#26565 26565] || colspan = "3" | New ID || No || No || No || No || No || [None, None, None, None, 'Drop'] || No || 1
+|-
+|rowspan="2"|[[Lamp]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#2528 2528]
+|-
+|interfaceOptions || ['Rub', None, None, None, 'Drop'] || ['Rub', None, None, None, 'Destroy']
+|-
+|rowspan="2"|[[Unidentified fragment (harvesting)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26544 26544]
+|-
+|interfaceOptions || ['Break', None, None, None, 'Drop'] || ['Break', None, None, None, 'Destroy']
+|-
+|rowspan="2"|[[Unidentified fragment (production)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26545 26545]
+|-
+|interfaceOptions || ['Break', None, None, None, 'Drop'] || ['Break', None, None, None, 'Destroy']
+|-
+|rowspan="2"|[[Unidentified fragment (skilling)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26546 26546]
+|-
+|interfaceOptions || ['Break', None, None, None, 'Drop'] || ['Break', None, None, None, 'Destroy']
+|-
+|rowspan="2"|[[Unidentified fragment (combat)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26547 26547]
+|-
+|interfaceOptions || ['Break', None, None, None, 'Drop'] || ['Break', None, None, None, 'Destroy']
+|-
+|rowspan="2"|[[Unidentified fragment (misc)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26548 26548]
+|-
+|interfaceOptions || ['Break', None, None, None, 'Drop'] || ['Break', None, None, None, 'Destroy']
+|-
+|}
+
+==Non-Player Characters==
+{| class="wikitable sortable"
+!colspan='5'|Non-Player Characters
+|-
+! Name !! ID !! Key !! Previous Value !! Changed into
+|-
+|}
+
+==Objects==
+{| class="wikitable sortable"
+!colspan='5'|Objects
+|-
+! Name !! ID !! Key !! Previous Value !! Changed into
+|-
+|}

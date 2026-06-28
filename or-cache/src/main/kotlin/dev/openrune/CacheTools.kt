@@ -30,8 +30,8 @@ import dev.openrune.tables.StatComponents
 import dev.openrune.tables.skills.Cooking
 import dev.openrune.tables.skills.Firemaking
 import dev.openrune.tables.skills.Herblore
-import dev.openrune.tables.skills.Slayer
 import dev.openrune.tables.skills.Runecrafting
+import dev.openrune.tables.skills.Slayer
 import dev.openrune.tables.skills.Smithing
 import dev.openrune.tables.skills.prayer.EctofuntusBonemeal
 import dev.openrune.tables.skills.prayer.PrayerBlessedBone
@@ -45,7 +45,7 @@ fun getCacheLocation() = File("../.data/", "cache/LIVE").path
 
 fun getServerCacheLocation() = File("../.data/", "cache/SERVER").path
 
-val revision : Triple<Int, Int, String> = readRevision()
+val revision: Triple<Int, Int, String> = readRevision()
 
 private val logger = InlineLogger()
 
@@ -62,39 +62,40 @@ fun main(args: Array<String>) {
     downloadRev(TaskType.valueOf(args.first().uppercase()))
 }
 
-fun tablesToPack() = listOf(
-    GameframeTable.gameframe(),
-    Music.musicClassic(),
-    Music.musicModern(),
-    Firemaking.logs(),
-    Firemaking.firelighters(),
-    Firemaking.sources(),
-    PrayerTable.skillTable(),
-    PrayerBlessedBone.table(),
-    EctofuntusBonemeal.table(),
-    StatComponents.statsComponents(),
-    PickableObjects.pickableObjects(),
-    Cooking.foods(),
-    Cooking.ales(),
-    Herblore.unfinishedPotions(),
-    Herblore.finishedPotions(),
-    Herblore.cleaningHerbs(),
-    Herblore.barbarianMixes(),
-    Herblore.swampTar(),
-    Herblore.crushing(),
-    Smithing.bars(),
-    Smithing.cannonBalls(),
-    Smithing.dragonForge(),
-    Smithing.crystalSinging(),
-    Slayer.masters(),
-    Runecrafting.altars(),
-    Runecrafting.runes(),
-    Runecrafting.tiara(),
-    Runecrafting.combo(),
-    SettingConfigs.settings(),
-    DidYouKnow.didYouknow(),
-    InstanceSettingsTable.instanceSettings(),
-)
+fun tablesToPack() =
+    listOf(
+        GameframeTable.gameframe(),
+        Music.musicClassic(),
+        Music.musicModern(),
+        Firemaking.logs(),
+        Firemaking.firelighters(),
+        Firemaking.sources(),
+        PrayerTable.skillTable(),
+        PrayerBlessedBone.table(),
+        EctofuntusBonemeal.table(),
+        StatComponents.statsComponents(),
+        PickableObjects.pickableObjects(),
+        Cooking.foods(),
+        Cooking.ales(),
+        Herblore.unfinishedPotions(),
+        Herblore.finishedPotions(),
+        Herblore.cleaningHerbs(),
+        Herblore.barbarianMixes(),
+        Herblore.swampTar(),
+        Herblore.crushing(),
+        Smithing.bars(),
+        Smithing.cannonBalls(),
+        Smithing.dragonForge(),
+        Smithing.crystalSinging(),
+        Slayer.masters(),
+        Runecrafting.altars(),
+        Runecrafting.runes(),
+        Runecrafting.tiara(),
+        Runecrafting.combo(),
+        SettingConfigs.settings(),
+        DidYouKnow.didYouknow(),
+        InstanceSettingsTable.instanceSettings(),
+    )
 
 fun downloadRev(type: TaskType) {
 
@@ -133,10 +134,8 @@ fun buildCache(taskType: TaskType) {
     GameValProvider.load("../", autoAssignIds = true)
 
     val tasks: List<CacheTask> =
-        listOf(
-            PackConfig(File("../.data/raw-cache/server")),
-            PackDBTables(tablesToPack())
-        ).toMutableList()
+        listOf(PackConfig(File("../.data/raw-cache/server")), PackDBTables(tablesToPack()))
+            .toMutableList()
 
     val builder =
         Builder(
@@ -155,10 +154,7 @@ fun buildCache(taskType: TaskType) {
 
         builder
             .extraTasks(
-                PackServerConfig(
-                    revision.first,
-                    File("../.data/raw-cache/server")
-                ),
+                PackServerConfig(revision.first, File("../.data/raw-cache/server")),
                 MapPackers(),
                 *serverTasks.toTypedArray(),
             )
@@ -171,7 +167,8 @@ fun buildCache(taskType: TaskType) {
         val cache = Cache.load(File(getServerCacheLocation()).toPath())
         GamevalDumper.dumpCols(cache, revision.first)
 
-        val type = GameValHandler.readGameVal(GameValGroupTypes.TABLETYPES, cache = cache, revision.first)
+        val type =
+            GameValHandler.readGameVal(GameValGroupTypes.TABLETYPES, cache = cache, revision.first)
 
         val rows: MutableMap<Int, DBRowType> = mutableMapOf()
         OsrsCacheProvider.DBRowDecoder().load(cache, rows)

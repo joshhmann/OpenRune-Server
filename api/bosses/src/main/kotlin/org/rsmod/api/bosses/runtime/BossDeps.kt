@@ -10,7 +10,9 @@ import org.rsmod.game.entity.PlayerList
 import org.rsmod.game.queue.WorldQueueList
 
 @Singleton
-class BossDeps @Inject constructor(
+class BossDeps
+@Inject
+constructor(
     val random: GameRandom,
     val worldRepo: WorldRepository,
     val npcRepo: NpcRepository,

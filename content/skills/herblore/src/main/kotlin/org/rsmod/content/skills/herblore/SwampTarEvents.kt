@@ -51,8 +51,9 @@ class SwampTarEvents : PluginScript() {
 
         if (
             !inv.contains(recipe.herb.internalName) ||
-            inv.count(SWAMP_TAR) < SWAMP_TAR_PER_BATCH ||
-            (inv.freeSpace() < SWAMP_TAR_PER_BATCH && !inv.contains(recipe.finishedTar.internalName))
+                inv.count(SWAMP_TAR) < SWAMP_TAR_PER_BATCH ||
+                (inv.freeSpace() < SWAMP_TAR_PER_BATCH &&
+                    !inv.contains(recipe.finishedTar.internalName))
         ) {
             resetAnim()
             return
@@ -82,10 +83,7 @@ class SwampTarEvents : PluginScript() {
         val herbName = recipe.herb.name.lowercase()
         mes("You add the $herbName to the swamp tar.")
 
-        if (
-            inv.contains(recipe.herb.internalName) &&
-            inv.count(SWAMP_TAR) >= SWAMP_TAR_PER_BATCH
-        ) {
+        if (inv.contains(recipe.herb.internalName) && inv.count(SWAMP_TAR) >= SWAMP_TAR_PER_BATCH) {
             weakQueue("queue.herblore_swamp_tar", 3, SwampTarTask(recipe))
         } else {
             resetAnim()

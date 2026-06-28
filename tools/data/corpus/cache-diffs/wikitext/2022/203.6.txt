@@ -1,0 +1,300 @@
+{{ToC}}
+==Items==
+{| class="wikitable sortable"
+!colspan='13'|Items
+|-
+! Name !! ID !! Key !! Previous Value !! New Value !! Members !! Tradeable in GE !! Equipable !! Stackable !! Noteable !! Options !! Placeholder !! Cost
+|-
+| [[Slayer helmet (i)]] || [https://chisel.weirdgloop.org/moid/item_id.html#26674 26674] || colspan = "3" | New ID || Yes || No || Yes || No || No ||  Wear, Check, Disassemble, Drop || No || 90000
+|-
+| [[Black slayer helmet (i)]] || [https://chisel.weirdgloop.org/moid/item_id.html#26675 26675] || colspan = "3" | New ID || Yes || No || Yes || No || No ||  Wear, Check, Disassemble, Drop || No || 90000
+|-
+| [[Green slayer helmet (i)]] || [https://chisel.weirdgloop.org/moid/item_id.html#26676 26676] || colspan = "3" | New ID || Yes || No || Yes || No || No ||  Wear, Check, Disassemble, Drop || No || 90000
+|-
+| [[Red slayer helmet (i)]] || [https://chisel.weirdgloop.org/moid/item_id.html#26677 26677] || colspan = "3" | New ID || Yes || No || Yes || No || No ||  Wear, Check, Disassemble, Drop || No || 90000
+|-
+| [[Purple slayer helmet (i)]] || [https://chisel.weirdgloop.org/moid/item_id.html#26678 26678] || colspan = "3" | New ID || Yes || No || Yes || No || No ||  Wear, Check, Disassemble, Drop || No || 90000
+|-
+| [[Turquoise slayer helmet (i)]] || [https://chisel.weirdgloop.org/moid/item_id.html#26679 26679] || colspan = "3" | New ID || Yes || No || Yes || No || No ||  Wear, Check, Disassemble, Drop || No || 90000
+|-
+| [[Hydra slayer helmet (i)]] || [https://chisel.weirdgloop.org/moid/item_id.html#26680 26680] || colspan = "3" | New ID || Yes || No || Yes || No || No ||  Wear, Check, Disassemble, Drop || No || 90000
+|-
+| [[Twisted slayer helmet (i)]] || [https://chisel.weirdgloop.org/moid/item_id.html#26681 26681] || colspan = "3" | New ID || Yes || No || Yes || No || No ||  Wear, Check, Disassemble, Drop || No || 90000
+|-
+| [[Tztok slayer helmet (i)]] || [https://chisel.weirdgloop.org/moid/item_id.html#26682 26682] || colspan = "3" | New ID || Yes || No || Yes || No || No ||  Wear, Check, Disassemble, Drop || No || 90000
+|-
+| [[Vampyric slayer helmet (i)]] || [https://chisel.weirdgloop.org/moid/item_id.html#26683 26683] || colspan = "3" | New ID || Yes || No || Yes || No || No ||  Wear, Check, Disassemble, Drop || No || 90000
+|-
+| [[Tzkal slayer helmet (i)]] || [https://chisel.weirdgloop.org/moid/item_id.html#26684 26684] || colspan = "3" | New ID || Yes || No || Yes || No || No ||  Wear, Check, Disassemble, Drop || No || 90000
+|-
+| [[Granite ring (i)]] || [https://chisel.weirdgloop.org/moid/item_id.html#26685 26685] || colspan = "3" | New ID || Yes || No || No || No || No ||  Wear,  Uncharge, Drop || No || 15000
+|-
+| [[Maoma's med helm (broken)]] || [https://chisel.weirdgloop.org/moid/item_id.html#26686 26686] || colspan = "3" | New ID || Yes || No || No || No || No ||     Drop || No || 1
+|-
+| [[Maoma's full helm (broken)]] || [https://chisel.weirdgloop.org/moid/item_id.html#26687 26687] || colspan = "3" | New ID || Yes || No || No || No || No ||     Drop || No || 1
+|-
+| [[Maoma's great helm (broken)]] || [https://chisel.weirdgloop.org/moid/item_id.html#26688 26688] || colspan = "3" | New ID || Yes || No || No || No || No ||     Drop || No || 1
+|-
+| [[Calamity chest (broken)]] || [https://chisel.weirdgloop.org/moid/item_id.html#26689 26689] || colspan = "3" | New ID || Yes || No || No || No || No ||     Drop || No || 1
+|-
+| [[Superior calamity chest (broken)]] || [https://chisel.weirdgloop.org/moid/item_id.html#26690 26690] || colspan = "3" | New ID || Yes || No || No || No || No ||     Drop || No || 1
+|-
+| [[Elite calamity chest (broken)]] || [https://chisel.weirdgloop.org/moid/item_id.html#26691 26691] || colspan = "3" | New ID || Yes || No || No || No || No ||     Drop || No || 1
+|-
+| [[Calamity breeches (broken)]] || [https://chisel.weirdgloop.org/moid/item_id.html#26692 26692] || colspan = "3" | New ID || Yes || No || No || No || No ||     Drop || No || 1
+|-
+| [[Superior calamity breeches (broken)]] || [https://chisel.weirdgloop.org/moid/item_id.html#26693 26693] || colspan = "3" | New ID || Yes || No || No || No || No ||     Drop || No || 1
+|-
+| [[Elite calamity breeches (broken)]] || [https://chisel.weirdgloop.org/moid/item_id.html#26694 26694] || colspan = "3" | New ID || Yes || No || No || No || No ||     Drop || No || 1
+|-
+| [[Centurion cuirass (broken)]] || [https://chisel.weirdgloop.org/moid/item_id.html#26695 26695] || colspan = "3" | New ID || Yes || No || No || No || No ||     Drop || No || 1
+|-
+| [[Wristbands of the arena (broken)]] || [https://chisel.weirdgloop.org/moid/item_id.html#26696 26696] || colspan = "3" | New ID || Yes || No || Yes || No || No ||     Drop || No || 1
+|-
+| [[Hardened wristbands of the arena (broken)]] || [https://chisel.weirdgloop.org/moid/item_id.html#26697 26697] || colspan = "3" | New ID || Yes || No || Yes || No || No ||     Drop || No || 1
+|-
+| [[Koriff's headband (broken)]] || [https://chisel.weirdgloop.org/moid/item_id.html#26698 26698] || colspan = "3" | New ID || Yes || No || No || No || No ||     Drop || No || 1
+|-
+| [[Koriff's cowl (broken)]] || [https://chisel.weirdgloop.org/moid/item_id.html#26699 26699] || colspan = "3" | New ID || Yes || No || No || No || No ||     Drop || No || 1
+|-
+| [[Koriff's coif (broken)]] || [https://chisel.weirdgloop.org/moid/item_id.html#26700 26700] || colspan = "3" | New ID || Yes || No || No || No || No ||     Drop || No || 1
+|-
+| [[Saika's hood (broken)]] || [https://chisel.weirdgloop.org/moid/item_id.html#26701 26701] || colspan = "3" | New ID || Yes || No || No || No || No ||     Drop || No || 1
+|-
+| [[Saika's veil (broken)]] || [https://chisel.weirdgloop.org/moid/item_id.html#26702 26702] || colspan = "3" | New ID || Yes || No || No || No || No ||     Drop || No || 1
+|-
+| [[Saika's shroud (broken)]] || [https://chisel.weirdgloop.org/moid/item_id.html#26703 26703] || colspan = "3" | New ID || Yes || No || No || No || No ||     Drop || No || 1
+|-
+| [[Blighted wave sack]] || [https://chisel.weirdgloop.org/moid/item_id.html#26704 26704] || colspan = "3" | New ID || Yes || No || No || Yes || No ||     Drop || No || 40
+|-
+| [[Blighted surge sack]] || [https://chisel.weirdgloop.org/moid/item_id.html#26705 26705] || colspan = "3" | New ID || Yes || No || No || Yes || No ||     Drop || No || 45
+|-
+| [[Scroll of imbuing]] || [https://chisel.weirdgloop.org/moid/item_id.html#26706 26706] || colspan = "3" | New ID || Yes || No || No || Yes || No ||     Drop || No || 100
+|-
+| [[Dragon claws ornament kit]] || [https://chisel.weirdgloop.org/moid/item_id.html#26707 26707] || colspan = "3" | New ID || Yes || No || No || No || No ||     Drop || No || 5
+|-
+| [[Dragon claws (or)]] || [https://chisel.weirdgloop.org/moid/item_id.html#26708 26708] || colspan = "3" | New ID || Yes || No || Yes || No || No ||  Wield,   Dismantle || No || 205
+|-
+| [[Dragon warhammer ornament kit]] || [https://chisel.weirdgloop.org/moid/item_id.html#26709 26709] || colspan = "3" | New ID || Yes || No || No || No || No ||     Drop || No || 5
+|-
+| [[Dragon warhammer (or)]] || [https://chisel.weirdgloop.org/moid/item_id.html#26710 26710] || colspan = "3" | New ID || Yes || No || Yes || No || No ||  Wield,   Dismantle || No || 120
+|-
+| [[Heavy ballista ornament kit]] || [https://chisel.weirdgloop.org/moid/item_id.html#26711 26711] || colspan = "3" | New ID || Yes || No || No || No || No ||     Drop || No || 5
+|-
+| [[Heavy ballista (or)]] || [https://chisel.weirdgloop.org/moid/item_id.html#26712 26712] || colspan = "3" | New ID || Yes || No || Yes || No || No ||  Wield,   Dismantle || No || 950
+|-
+| [[Armadyl armour ornament kit]] || [https://chisel.weirdgloop.org/moid/item_id.html#26713 26713] || colspan = "3" | New ID || Yes || No || No || No || No ||     Drop || No || 5
+|-
+| [[Armadyl helmet (or)]] || [https://chisel.weirdgloop.org/moid/item_id.html#26714 26714] || colspan = "3" | New ID || Yes || No || Yes || No || No ||  Wear,   Dismantle || No || 289
+|-
+| [[Armadyl chestplate (or)]] || [https://chisel.weirdgloop.org/moid/item_id.html#26715 26715] || colspan = "3" | New ID || Yes || No || Yes || No || No ||  Wear,   Dismantle || No || 290
+|-
+| [[Armadyl chainskirt (or)]] || [https://chisel.weirdgloop.org/moid/item_id.html#26716 26716] || colspan = "3" | New ID || Yes || No || Yes || No || No ||  Wear,   Dismantle || No || 289
+|-
+| [[Bandos armour ornament kit]] || [https://chisel.weirdgloop.org/moid/item_id.html#26717 26717] || colspan = "3" | New ID || Yes || No || No || No || No ||     Drop || No || 5
+|-
+| [[Bandos chestplate (or)]] || [https://chisel.weirdgloop.org/moid/item_id.html#26718 26718] || colspan = "3" | New ID || Yes || No || Yes || No || No ||  Wear,   Dismantle || No || 290
+|-
+| [[Bandos tassets (or)]] || [https://chisel.weirdgloop.org/moid/item_id.html#26719 26719] || colspan = "3" | New ID || Yes || No || Yes || No || No ||  Wear,   Dismantle || No || 289
+|-
+| [[Bandos boots (or)]] || [https://chisel.weirdgloop.org/moid/item_id.html#26720 26720] || colspan = "3" | New ID || Yes || No || Yes || No || No ||  Wear,   Dismantle || No || 289
+|-
+| [[Centurion cuirass]] || [https://chisel.weirdgloop.org/moid/item_id.html#26721 26721] || colspan = "3" | New ID || Yes || No || Yes || No || No ||  Wear,   Drop || No || 79
+|-
+| [[Centurion cuirass (l)]] || [https://chisel.weirdgloop.org/moid/item_id.html#26722 26722] || colspan = "3" | New ID || Yes || No || Yes || No || No ||  Wear,   Drop || No || 79
+|-
+| [[Wristbands of the arena]] || [https://chisel.weirdgloop.org/moid/item_id.html#26723 26723] || colspan = "3" | New ID || Yes || No || Yes || No || No ||  Wear,   Drop || No || 85
+|-
+| [[Wristbands of the arena (l)]] || [https://chisel.weirdgloop.org/moid/item_id.html#26724 26724] || colspan = "3" | New ID || Yes || No || Yes || No || No ||  Wear,   Drop || No || 85
+|-
+| [[Wristbands of the arena (c)]] || [https://chisel.weirdgloop.org/moid/item_id.html#26725 26725] || colspan = "3" | New ID || Yes || No || Yes || No || No || Wear, Check, Uncharge,  Drop || No || 85
+|-
+| [[Wristbands of the arena (cl)]] || [https://chisel.weirdgloop.org/moid/item_id.html#26726 26726] || colspan = "3" | New ID || Yes || No || Yes || No || No || Wear, Check, Uncharge,  Drop || No || 85
+|-
+| [[Wristbands of the arena (i)]] || [https://chisel.weirdgloop.org/moid/item_id.html#26727 26727] || colspan = "3" | New ID || Yes || No || Yes || No || No ||  Wear,  Unimbue, Drop || No || 85
+|-
+| [[Wristbands of the arena (il)]] || [https://chisel.weirdgloop.org/moid/item_id.html#26728 26728] || colspan = "3" | New ID || Yes || No || Yes || No || No ||  Wear,  Unimbue, Drop || No || 85
+|-
+| [[Wristbands of the arena (ic)]] || [https://chisel.weirdgloop.org/moid/item_id.html#26729 26729] || colspan = "3" | New ID || Yes || No || Yes || No || No || Wear, Check, Uncharge, Unimbue, Drop || No || 85
+|-
+| [[Wristbands of the arena (ilc)]] || [https://chisel.weirdgloop.org/moid/item_id.html#26730 26730] || colspan = "3" | New ID || Yes || No || Yes || No || No || Wear, Check, Uncharge, Unimbue, Drop || No || 85
+|-
+| [[Saika's hood]] || [https://chisel.weirdgloop.org/moid/item_id.html#26731 26731] || colspan = "3" | New ID || Yes || No || Yes || No || No ||  Wear,   Drop || No || 11
+|-
+| [[Saika's hood (l)]] || [https://chisel.weirdgloop.org/moid/item_id.html#26732 26732] || colspan = "3" | New ID || Yes || No || Yes || No || No ||  Wear,   Drop || No || 11
+|-
+| [[Saika's veil]] || [https://chisel.weirdgloop.org/moid/item_id.html#26733 26733] || colspan = "3" | New ID || Yes || No || Yes || No || No ||  Wear,   Drop || No || 16
+|-
+| [[Saika's veil (l)]] || [https://chisel.weirdgloop.org/moid/item_id.html#26734 26734] || colspan = "3" | New ID || Yes || No || Yes || No || No ||  Wear,   Drop || No || 16
+|-
+| [[Saika's shroud]] || [https://chisel.weirdgloop.org/moid/item_id.html#26735 26735] || colspan = "3" | New ID || Yes || No || Yes || No || No ||  Wear,   Drop || No || 21
+|-
+| [[Saika's shroud (l)]] || [https://chisel.weirdgloop.org/moid/item_id.html#26736 26736] || colspan = "3" | New ID || Yes || No || Yes || No || No ||  Wear,   Drop || No || 21
+|-
+| [[Koriff's headband]] || [https://chisel.weirdgloop.org/moid/item_id.html#26737 26737] || colspan = "3" | New ID || Yes || No || Yes || No || No ||  Wear,   Drop || No || 11
+|-
+| [[Koriff's headband (l)]] || [https://chisel.weirdgloop.org/moid/item_id.html#26738 26738] || colspan = "3" | New ID || Yes || No || Yes || No || No ||  Wear,   Drop || No || 11
+|-
+| [[Koriff's cowl]] || [https://chisel.weirdgloop.org/moid/item_id.html#26739 26739] || colspan = "3" | New ID || Yes || No || Yes || No || No ||  Wear,   Drop || No || 16
+|-
+| [[Koriff's cowl (l)]] || [https://chisel.weirdgloop.org/moid/item_id.html#26740 26740] || colspan = "3" | New ID || Yes || No || Yes || No || No ||  Wear,   Drop || No || 16
+|-
+| [[Koriff's coif]] || [https://chisel.weirdgloop.org/moid/item_id.html#26741 26741] || colspan = "3" | New ID || Yes || No || Yes || No || No ||  Wear,   Drop || No || 21
+|-
+| [[Koriff's coif (l)]] || [https://chisel.weirdgloop.org/moid/item_id.html#26742 26742] || colspan = "3" | New ID || Yes || No || Yes || No || No ||  Wear,   Drop || No || 21
+|-
+| [[Maoma's med helm]] || [https://chisel.weirdgloop.org/moid/item_id.html#26743 26743] || colspan = "3" | New ID || Yes || No || Yes || No || No ||  Wear,   Drop || No || 11
+|-
+| [[Maoma's med helm (l)]] || [https://chisel.weirdgloop.org/moid/item_id.html#26744 26744] || colspan = "3" | New ID || Yes || No || Yes || No || No ||  Wear,   Drop || No || 11
+|-
+| [[Maoma's full helm]] || [https://chisel.weirdgloop.org/moid/item_id.html#26745 26745] || colspan = "3" | New ID || Yes || No || Yes || No || No ||  Wear,   Drop || No || 16
+|-
+| [[Maoma's full helm (l)]] || [https://chisel.weirdgloop.org/moid/item_id.html#26746 26746] || colspan = "3" | New ID || Yes || No || Yes || No || No ||  Wear,   Drop || No || 16
+|-
+| [[Maoma's great helm]] || [https://chisel.weirdgloop.org/moid/item_id.html#26747 26747] || colspan = "3" | New ID || Yes || No || Yes || No || No ||  Wear,   Drop || No || 21
+|-
+| [[Maoma's great helm (l)]] || [https://chisel.weirdgloop.org/moid/item_id.html#26748 26748] || colspan = "3" | New ID || Yes || No || Yes || No || No ||  Wear,   Drop || No || 21
+|-
+| [[Calamity chest]] || [https://chisel.weirdgloop.org/moid/item_id.html#26749 26749] || colspan = "3" | New ID || Yes || No || Yes || No || No ||  Wear,   Drop || No || 75
+|-
+| [[Calamity chest (l)]] || [https://chisel.weirdgloop.org/moid/item_id.html#26750 26750] || colspan = "3" | New ID || Yes || No || Yes || No || No ||  Wear,   Drop || No || 75
+|-
+| [[Superior calamity chest]] || [https://chisel.weirdgloop.org/moid/item_id.html#26751 26751] || colspan = "3" | New ID || Yes || No || Yes || No || No ||  Wear,   Drop || No || 100
+|-
+| [[Superior calamity chest (l)]] || [https://chisel.weirdgloop.org/moid/item_id.html#26752 26752] || colspan = "3" | New ID || Yes || No || Yes || No || No ||  Wear,   Drop || No || 100
+|-
+| [[Elite calamity chest]] || [https://chisel.weirdgloop.org/moid/item_id.html#26753 26753] || colspan = "3" | New ID || Yes || No || Yes || No || No ||  Wear,   Drop || No || 125
+|-
+| [[Elite calamity chest (l)]] || [https://chisel.weirdgloop.org/moid/item_id.html#26754 26754] || colspan = "3" | New ID || Yes || No || Yes || No || No ||  Wear,   Drop || No || 125
+|-
+| [[Calamity breeches]] || [https://chisel.weirdgloop.org/moid/item_id.html#26755 26755] || colspan = "3" | New ID || Yes || No || Yes || No || No ||  Wear,   Drop || No || 75
+|-
+| [[Calamity breeches (l)]] || [https://chisel.weirdgloop.org/moid/item_id.html#26756 26756] || colspan = "3" | New ID || Yes || No || Yes || No || No ||  Wear,   Drop || No || 75
+|-
+| [[Superior calamity breeches]] || [https://chisel.weirdgloop.org/moid/item_id.html#26757 26757] || colspan = "3" | New ID || Yes || No || Yes || No || No ||  Wear,   Drop || No || 100
+|-
+| [[Superior calamity breeches (l)]] || [https://chisel.weirdgloop.org/moid/item_id.html#26758 26758] || colspan = "3" | New ID || Yes || No || Yes || No || No ||  Wear,   Drop || No || 100
+|-
+| [[Elite calamity breeches]] || [https://chisel.weirdgloop.org/moid/item_id.html#26759 26759] || colspan = "3" | New ID || Yes || No || Yes || No || No ||  Wear,   Drop || No || 125
+|-
+| [[Elite calamity breeches (l)]] || [https://chisel.weirdgloop.org/moid/item_id.html#26760 26760] || colspan = "3" | New ID || Yes || No || Yes || No || No ||  Wear,   Drop || No || 125
+|-
+| [[Ring of suffering (i)]] || [https://chisel.weirdgloop.org/moid/item_id.html#26761 26761] || colspan = "3" | New ID || Yes || No || No || No || No ||  Wear, Uncharge,  Drop || No || 201100
+|-
+| [[Ring of suffering (ri)]] || [https://chisel.weirdgloop.org/moid/item_id.html#26762 26762] || colspan = "3" | New ID || Yes || No || No || No || No ||  Wear, Uncharge, Check, Recoil settings || No || 201100
+|-
+| [[Salve amulet(i)]] || [https://chisel.weirdgloop.org/moid/item_id.html#26763 26763] || colspan = "3" | New ID || Yes || No || Yes || No || No ||  Wear,  Uncharge, Drop || No || 1
+|-
+| [[Ring of the gods (i)]] || [https://chisel.weirdgloop.org/moid/item_id.html#26764 26764] || colspan = "3" | New ID || Yes || No || No || No || No ||  Wear, Uncharge,  Drop || No || 50000
+|-
+| [[Tyrannical ring (i)]] || [https://chisel.weirdgloop.org/moid/item_id.html#26765 26765] || colspan = "3" | New ID || Yes || No || No || No || No ||  Wear, Uncharge,  Drop || No || 50000
+|-
+| [[Treasonous ring (i)]] || [https://chisel.weirdgloop.org/moid/item_id.html#26766 26766] || colspan = "3" | New ID || Yes || No || No || No || No ||  Wear, Uncharge,  Drop || No || 50000
+|-
+| [[Seers ring (i)]] || [https://chisel.weirdgloop.org/moid/item_id.html#26767 26767] || colspan = "3" | New ID || Yes || No || No || No || No ||  Wear,  Uncharge, Drop || No || 10000
+|-
+| [[Archers ring (i)]] || [https://chisel.weirdgloop.org/moid/item_id.html#26768 26768] || colspan = "3" | New ID || Yes || No || No || No || No ||  Wear,  Uncharge, Drop || No || 10000
+|-
+| [[Warrior ring (i)]] || [https://chisel.weirdgloop.org/moid/item_id.html#26769 26769] || colspan = "3" | New ID || Yes || No || No || No || No ||  Wear,  Uncharge, Drop || No || 10000
+|-
+| [[Berserker ring (i)]] || [https://chisel.weirdgloop.org/moid/item_id.html#26770 26770] || colspan = "3" | New ID || Yes || No || No || No || No ||  Wear,  Uncharge, Drop || No || 10000
+|-
+| [[Black mask (10) (i)]] || [https://chisel.weirdgloop.org/moid/item_id.html#26771 26771] || colspan = "3" | New ID || Yes || No || Yes || No || No ||  Wear,  Uncharge, Drop || No || 3000
+|-
+| [[Black mask (9) (i)]] || [https://chisel.weirdgloop.org/moid/item_id.html#26772 26772] || colspan = "3" | New ID || Yes || No || Yes || No || No ||  Wear,  Uncharge, Drop || No || 3000
+|-
+| [[Black mask (8) (i)]] || [https://chisel.weirdgloop.org/moid/item_id.html#26773 26773] || colspan = "3" | New ID || Yes || No || Yes || No || No ||  Wear,  Uncharge, Drop || No || 3000
+|-
+| [[Black mask (7) (i)]] || [https://chisel.weirdgloop.org/moid/item_id.html#26774 26774] || colspan = "3" | New ID || Yes || No || Yes || No || No ||  Wear,  Uncharge, Drop || No || 3000
+|-
+| [[Black mask (6) (i)]] || [https://chisel.weirdgloop.org/moid/item_id.html#26775 26775] || colspan = "3" | New ID || Yes || No || Yes || No || No ||  Wear,  Uncharge, Drop || No || 3000
+|-
+| [[Black mask (5) (i)]] || [https://chisel.weirdgloop.org/moid/item_id.html#26776 26776] || colspan = "3" | New ID || Yes || No || Yes || No || No ||  Wear,  Uncharge, Drop || No || 3000
+|-
+| [[Black mask (4) (i)]] || [https://chisel.weirdgloop.org/moid/item_id.html#26777 26777] || colspan = "3" | New ID || Yes || No || Yes || No || No ||  Wear,  Uncharge, Drop || No || 3000
+|-
+| [[Black mask (3) (i)]] || [https://chisel.weirdgloop.org/moid/item_id.html#26778 26778] || colspan = "3" | New ID || Yes || No || Yes || No || No ||  Wear,  Uncharge, Drop || No || 3000
+|-
+| [[Black mask (2) (i)]] || [https://chisel.weirdgloop.org/moid/item_id.html#26779 26779] || colspan = "3" | New ID || Yes || No || Yes || No || No ||  Wear,  Uncharge, Drop || No || 3000
+|-
+| [[Black mask (1) (i)]] || [https://chisel.weirdgloop.org/moid/item_id.html#26780 26780] || colspan = "3" | New ID || Yes || No || Yes || No || No ||  Wear,  Uncharge, Drop || No || 3000
+|-
+| [[Black mask (i)]] || [https://chisel.weirdgloop.org/moid/item_id.html#26781 26781] || colspan = "3" | New ID || Yes || No || Yes || No || No ||  Wear,  Uncharge, Drop || No || 3000
+|-
+| [[Salve amulet(ei)]] || [https://chisel.weirdgloop.org/moid/item_id.html#26782 26782] || colspan = "3" | New ID || Yes || No || Yes || No || No ||  Wear,  Uncharge, Drop || No || 300
+|-
+|rowspan="2"|[[Castle wars bracelet(3)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#11079 11079]
+|-
+|category || 0 || 1610
+|-
+|rowspan="2"|[[Castle wars bracelet(2)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#11081 11081]
+|-
+|category || 0 || 1610
+|-
+|rowspan="2"|[[Castle wars bracelet(1)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#11083 11083]
+|-
+|category || 0 || 1610
+|-
+|rowspan="5"|[[Ring of suffering (i)]]
+|rowspan="5"|[https://chisel.weirdgloop.org/moid/item_id.html#19710 19710]
+|-
+|xan2d || 268 || 322
+|-
+| yan2d || 180 || 135
+|-
+| xOffset2d || 3 || 4
+|-
+| yOffset2d || -35 || -12
+|-
+|rowspan="5"|[[Ring of suffering (i)]]
+|rowspan="5"|[https://chisel.weirdgloop.org/moid/item_id.html#25246 25246]
+|-
+|xan2d || 268 || 322
+|-
+| yan2d || 180 || 135
+|-
+| xOffset2d || 3 || 4
+|-
+| yOffset2d || -35 || -12
+|-
+|rowspan="2"|[[Barronite mace (l)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#25643 25643]
+|-
+|cost || 25600 || 10499
+|-
+|}
+
+==Non-Player Characters==
+{| class="wikitable sortable"
+!colspan='5'|Non-Player Characters
+|-
+! Name !! ID !! Key !! Previous Value !! Changed into
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#11236 11236]
+|-
+|rotationSpeed || 0 || 32
+|-
+|}
+
+==Objects==
+{| class="wikitable sortable"
+!colspan='5'|Objects
+|-
+! Name !! ID !! Key !! Previous Value !! Changed into
+|-
+| [[Fire]] || [https://chisel.weirdgloop.org/moid/object_id.html#43475 43475] || colspan = "4" | New ID
+|-
+|rowspan="4"|[[League Firsts Board]]
+|rowspan="4"|[https://chisel.weirdgloop.org/moid/object_id.html#37482 37482]
+|-
+|sizeX || 2 || 1
+|-
+| modelSizeX || 212 || 106
+|-
+| modelSizeHeight || 212 || 140
+|-
+|}

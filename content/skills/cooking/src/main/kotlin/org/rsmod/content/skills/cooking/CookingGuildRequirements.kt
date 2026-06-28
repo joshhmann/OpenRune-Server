@@ -6,15 +6,10 @@ import org.rsmod.api.player.hat
 import org.rsmod.game.entity.Player
 import org.rsmod.game.inv.InvObj
 
-private val cookingOutfits = setOf(
-    "obj.skillcape_cooking",
-    "obj.skillcape_cooking_trimmed",
-    "obj.skillcape_cooking_hood"
-)
+private val cookingOutfits =
+    setOf("obj.skillcape_cooking", "obj.skillcape_cooking_trimmed", "obj.skillcape_cooking_hood")
 
-private val varrockDiaryBody = setOf(
-    "obj.varrock_armour_hard",
-    "obj.varrock_armour_elite",)
+private val varrockDiaryBody = setOf("obj.varrock_armour_hard", "obj.varrock_armour_elite")
 
 private fun InvObj?.hasItemContent(content: String): Boolean {
     val obj = this ?: return false
@@ -25,7 +20,8 @@ private fun InvObj?.hasItemContent(content: String): Boolean {
 private fun Player.wearingMaxCapeOrHood(): Boolean =
     back.hasItemContent("content.max_cape") || hat.hasItemContent("content.max_hood")
 
-internal fun Player.wearingChefsHat(): Boolean = "obj.chefs_hat" in worn || "obj.chefs_hat_gold" in worn
+internal fun Player.wearingChefsHat(): Boolean =
+    "obj.chefs_hat" in worn || "obj.chefs_hat_gold" in worn
 
 internal fun Player.hasGuildEntryOutfit(): Boolean {
     if (wearingChefsHat()) return true

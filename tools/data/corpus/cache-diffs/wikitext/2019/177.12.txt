@@ -1,0 +1,294 @@
+{{ToC}}
+==Items==
+===New Items===
+{| class="wikitable sortable"
+!colspan='11'|New Items
+|-
+! Name !! ID !! Members !! Tradeable in GE !! Equipable !! Stackable !! Noteable !! Options !! Placeholder !! Cost
+|-
+| [[Ornate gloves]] || [https://chisel.weirdgloop.org/moid/item_id.html#23091 23091] || No || No || Yes || No || No ||  Wear,   Destroy || Yes || 1
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#23092 23092] || No || No || No || No || No ||     Drop || Yes || 1
+|-
+| [[Ornate boots]] || [https://chisel.weirdgloop.org/moid/item_id.html#23093 23093] || No || No || Yes || No || No ||  Wear,   Destroy || Yes || 1
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#23094 23094] || No || No || No || No || No ||     Drop || Yes || 1
+|-
+| [[Ornate legs]] || [https://chisel.weirdgloop.org/moid/item_id.html#23095 23095] || No || No || Yes || No || No ||  Wear,   Destroy || Yes || 1
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#23096 23096] || No || No || No || No || No ||     Drop || Yes || 1
+|-
+| [[Ornate top]] || [https://chisel.weirdgloop.org/moid/item_id.html#23097 23097] || No || No || Yes || No || No ||  Wear,   Destroy || Yes || 1
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#23098 23098] || No || No || No || No || No ||     Drop || Yes || 1
+|-
+| [[Ornate cape]] || [https://chisel.weirdgloop.org/moid/item_id.html#23099 23099] || No || No || Yes || No || No ||  Wear,   Destroy || Yes || 1
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#23100 23100] || No || No || No || No || No ||     Drop || Yes || 1
+|-
+| [[Ornate helm]] || [https://chisel.weirdgloop.org/moid/item_id.html#23101 23101] || No || No || Yes || No || No ||  Wear,   Destroy || Yes || 1
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#23102 23102] || No || No || No || No || No ||     Drop || Yes || 1
+|-
+| [[Cook's shopping list]] || [https://chisel.weirdgloop.org/moid/item_id.html#23103 23103] || No || No || No || No || No || Read,    Destroy || No || 1
+|-
+| [[Cook's letter]] || [https://chisel.weirdgloop.org/moid/item_id.html#23104 23104] || No || No || No || No || No || Read,    Destroy || No || 1
+|-
+| [[Brewer's folly]] || [https://chisel.weirdgloop.org/moid/item_id.html#23105 23105] || No || No || No || No || No || Drink,    Destroy || No || 1
+|-
+| [[Vyvin's wine]] || [https://chisel.weirdgloop.org/moid/item_id.html#23106 23106] || No || No || No || No || No || Drink,    Destroy || No || 1
+|-
+| [[Beer glass of water]] || [https://chisel.weirdgloop.org/moid/item_id.html#23107 23107] || No || No || No || No || No || Drink,   Empty, Destroy || No || 1
+|-
+| [[Birthday cake]] || [https://chisel.weirdgloop.org/moid/item_id.html#23108 23108] || No || No || Yes || No || No ||  Hold,   Destroy || Yes || 0
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#23109 23109] || No || No || No || No || No ||     Drop || Yes || 1
+|-
+|-
+|}
+===Removed Items===
+{| class="wikitable sortable"
+!colspan='2'|Removed Items
+|-
+! Name !! ID
+|-
+|-
+|}
+===Diff Items===
+{| class="wikitable sortable"
+!colspan='5'|Diff Items
+|-
+! Name !! ID !! Key !! Previous Value !! New Value
+|-
+|rowspan="2"|[[Ring of forging]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#2568 2568]
+|-
+|members || True || False
+|-
+|}
+
+==Non-Player Characters==
+===New NPCs===
+{| class="wikitable sortable"
+!colspan='4'|New NPCs
+|-
+! Name !! ID !! Combat Level !! Options
+|-
+| [[Mysterious Old Man]] || [https://chisel.weirdgloop.org/moid/npc_id.html#2830 2830] || No Combat Level || None
+|-
+| [[Cook]] || [https://chisel.weirdgloop.org/moid/npc_id.html#6771 6771] || No Combat Level || Talk-to
+|-
+| [[Hans]] || [https://chisel.weirdgloop.org/moid/npc_id.html#6784 6784] || No Combat Level || Talk-to
+|-
+| [[Hans]] || [https://chisel.weirdgloop.org/moid/npc_id.html#7979 7979] || No Combat Level || Talk-to
+|-
+| [[Duke Horacio]] || [https://chisel.weirdgloop.org/moid/npc_id.html#8633 8633] || No Combat Level || Talk-to
+|-
+| [[Lumbridge Guide]] || [https://chisel.weirdgloop.org/moid/npc_id.html#8635 8635] || No Combat Level || Talk-to
+|-
+| [[King Roald]] || [https://chisel.weirdgloop.org/moid/npc_id.html#8636 8636] || No Combat Level || Talk-to
+|-
+| [[Ellamaria]] || [https://chisel.weirdgloop.org/moid/npc_id.html#8637 8637] || No Combat Level || Talk-to
+|-
+| [[Wise Old Man]] || [https://chisel.weirdgloop.org/moid/npc_id.html#8638 8638] || No Combat Level || Talk-to
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/npc_id.html#8639 8639] || No Combat Level || Talk-to
+|-
+| [[Gnome Child]] || [https://chisel.weirdgloop.org/moid/npc_id.html#8640 8640] || No Combat Level || Talk-to
+|-
+| [[Rantz]] || [https://chisel.weirdgloop.org/moid/npc_id.html#8641 8641] || No Combat Level || Talk-to
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/npc_id.html#8642 8642] || No Combat Level || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/npc_id.html#8643 8643] || No Combat Level || None
+|-
+| [[Dodgy geezer]] || [https://chisel.weirdgloop.org/moid/npc_id.html#8644 8644] || No Combat Level || Talk-to
+|-
+|-
+|}
+===Removed NPCs===
+{| class="wikitable sortable"
+!colspan='2'|Removed NPCs
+|-
+! Name !! ID
+|-
+|-
+|}
+===Diff NPCs===
+{| class="wikitable sortable"
+!colspan='5'|Diff NPCs
+|-
+! Name !! ID !! Key !! Previous Value !! New Value
+|-
+|rowspan="3"|[[Party Pete]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/npc_id.html#5792 5792]
+|-
+| recolorToFind ||<span style = "background-color: #524618;color:white">8741</span>,<span style = "background-color: #2b2402;color:white">9104</span>,<span style = "background-color: #0b3618;color:white">25238</span>||<span style = "background-color: #524618;color:white">8741</span>,<span style = "background-color: #2b2402;color:white">9104</span>,<span style = "background-color: #0b3618;color:white">25238</span>,<span style = "background-color: #520a04;color:white">926</span>
+|-
+| recolorToReplace ||<span style = "background-color: #999cad;color:white">-23443</span>,<span style = "background-color: #2346d1;color:white">-23854</span>,<span style = "background-color: #20212b;color:white">-22374</span>||<span style = "background-color: #999cad;color:white">-23443</span>,<span style = "background-color: #2346d1;color:white">-23854</span>,<span style = "background-color: #20212b;color:white">-22374</span>,<span style = "background-color: #0805b7;color:white">-21568</span>
+|-
+|rowspan="4"|[[Dave]]
+|rowspan="4"|[https://chisel.weirdgloop.org/moid/npc_id.html#8003 8003]
+|-
+|standingAnimation || 6455 || 6415
+|-
+| walkingAnimation || -1 || 6414
+|-
+| rotationSpeed || 0 || 32
+|-
+|rowspan="4"|[[Gene]]
+|rowspan="4"|[https://chisel.weirdgloop.org/moid/npc_id.html#8004 8004]
+|-
+|standingAnimation || 6456 || 6415
+|-
+| walkingAnimation || -1 || 6414
+|-
+| rotationSpeed || 0 || 32
+|-
+|rowspan="5"|[[Art]]
+|rowspan="5"|[https://chisel.weirdgloop.org/moid/npc_id.html#8005 8005]
+|-
+|standingAnimation || 6457 || 6415
+|-
+| walkingAnimation || -1 || 6414
+|-
+| rotationSpeed || 0 || 32
+|-
+| models || [25813, 25812, 25801, 25802] || [25813, 25812, 25802]
+|-
+|}
+
+==Objects==
+===New Objects=== 
+{| class="wikitable sortable"
+!colspan='3'|New Objects
+|-
+! Name !! ID !! Options
+|-
+| [[Light]] || [https://chisel.weirdgloop.org/moid/object_id.html#34657 34657] || None
+|-
+| [[Light]] || [https://chisel.weirdgloop.org/moid/object_id.html#34658 34658] || None
+|-
+| [[Light]] || [https://chisel.weirdgloop.org/moid/object_id.html#34673 34673] || None
+|-
+| [[Light]] || [https://chisel.weirdgloop.org/moid/object_id.html#34674 34674] || None
+|-
+| [[Light]] || [https://chisel.weirdgloop.org/moid/object_id.html#34675 34675] || None
+|-
+| [[Light]] || [https://chisel.weirdgloop.org/moid/object_id.html#34676 34676] || None
+|-
+| [[Verzik Vitur display]] || [https://chisel.weirdgloop.org/moid/object_id.html#34677 34677] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#34678 34678] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#34679 34679] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#34680 34680] || None
+|-
+| [[Making Friends with My Arm display]] || [https://chisel.weirdgloop.org/moid/object_id.html#34681 34681] || None
+|-
+| [[Fire]] || [https://chisel.weirdgloop.org/moid/object_id.html#34682 34682] || None
+|-
+| [[Magic Mirror]] || [https://chisel.weirdgloop.org/moid/object_id.html#34683 34683] || None
+|-
+| [[Alchemical Hydra display]] || [https://chisel.weirdgloop.org/moid/object_id.html#34684 34684] || None
+|-
+| [[Attas plant display]] || [https://chisel.weirdgloop.org/moid/object_id.html#34685 34685] || None
+|-
+| [[Leather shields]] || [https://chisel.weirdgloop.org/moid/object_id.html#34686 34686] || None
+|-
+| [[Bryophyta display]] || [https://chisel.weirdgloop.org/moid/object_id.html#34687 34687] || None
+|-
+| [[Banner]] || [https://chisel.weirdgloop.org/moid/object_id.html#34688 34688] || None
+|-
+| [[Banner]] || [https://chisel.weirdgloop.org/moid/object_id.html#34689 34689] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#34690 34690] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#34691 34691] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#34692 34692] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#34693 34693] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#34694 34694] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#34695 34695] || None
+|-
+| [[Banquet table]] || [https://chisel.weirdgloop.org/moid/object_id.html#34696 34696] || None
+|-
+| [[Present table]] || [https://chisel.weirdgloop.org/moid/object_id.html#34697 34697] || None
+|-
+| [[Birthday hat table]] || [https://chisel.weirdgloop.org/moid/object_id.html#34698 34698] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#34699 34699] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#34700 34700] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#34701 34701] || None
+|-
+| [[Party balloons]] || [https://chisel.weirdgloop.org/moid/object_id.html#34702 34702] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#34703 34703] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#34704 34704] || None
+|-
+|-
+|}
+===Removed Objects===
+{| class="wikitable sortable"
+!colspan='2'|Removed Objects
+|-
+! Name !! ID
+|-
+|-
+|}
+===Diff Objects===
+{| class="wikitable sortable"
+!colspan='5'|Diff Objects
+|-
+! Name !! ID !! Key !! Previous Value !! New Value
+|-
+|rowspan="3"|[[Table]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#26206 26206]
+|-
+|interactType || 2 || 1
+|-
+| blocksProjectile || True || False
+|-
+|rowspan="2"|[[Diseased Potato cactus]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#33749 33749]
+|-
+|name || [[Diseased Poato cactus]] || [[Diseased Potato cactus]]
+|-
+|rowspan="2"|[[Diseased Potato cactus]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#33750 33750]
+|-
+|name || [[Diseased Poato cactus]] || [[Diseased Potato cactus]]
+|-
+|rowspan="2"|[[Diseased Potato cactus]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#33751 33751]
+|-
+|name || [[Diseased Poato cactus]] || [[Diseased Potato cactus]]
+|-
+|rowspan="2"|[[Diseased Potato cactus]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#33752 33752]
+|-
+|name || [[Diseased Poato cactus]] || [[Diseased Potato cactus]]
+|-
+|rowspan="2"|[[Diseased Potato cactus]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#33753 33753]
+|-
+|name || [[Diseased Poato cactus]] || [[Diseased Potato cactus]]
+|-
+|rowspan="2"|[[Diseased Potato cactus]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#33754 33754]
+|-
+|name || [[Diseased Poato cactus]] || [[Diseased Potato cactus]]
+|-
+|rowspan="2"|[[Attas plant]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#33995 33995]
+|-
+|sizeY || 33 || 3
+|-
+|}

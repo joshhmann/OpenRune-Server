@@ -1,9 +1,7 @@
 package org.rsmod.content.other.progressivebots.tree
 
-import org.rsmod.api.player.interact.PlayerInteractions
 import org.rsmod.content.other.progressivebots.BotState
 import org.rsmod.game.entity.Player
-import org.rsmod.game.interact.InteractionOp
 
 object TargetEvaluator {
     fun findClosestPlayerTarget(bot: Player, state: BotState, maxDistance: Int = 15): Player? {

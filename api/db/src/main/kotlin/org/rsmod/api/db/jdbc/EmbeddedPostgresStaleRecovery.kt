@@ -49,9 +49,7 @@ internal object EmbeddedPostgresStaleRecovery {
     }
 
     private fun stopPostgresProcessTree(root: ProcessHandle) {
-        val descendants = buildList {
-            root.descendants().forEach { add(it) }
-        }
+        val descendants = buildList { root.descendants().forEach { add(it) } }
         for (child in descendants) {
             runCatching { child.destroyForcibly() }
         }

@@ -1,0 +1,104 @@
+{| class="wikitable sortable"
+!colspan="5"|Items
+|-
+! Name !! ID !! Key !! Previous Value !! Changed into
+|-
+| [[Clue scroll (elite)]] || 25498 || NEW ID || NEW ID || NEW ID
+|-
+| [[Clue scroll (elite)]] || 25499 || NEW ID || NEW ID || NEW ID
+|-
+| [[Dark key]] || 25244 || name || [[Old key]] || [[Dark key]]
+|-
+| [[Dark key]] || 25244 || cost || 1 || 15000
+|-
+|}
+
+{| class="wikitable sortable"
+!colspan="5"|Non-Player Characters
+|-
+! Name !! ID !! Key !! Previous Value !! Changed into
+|-
+| [[Ancient Ghost]] || 10557 || NEW ID || NEW ID || NEW ID
+|-
+| [[Ancient Ghost]] || 10558 || NEW ID || NEW ID || NEW ID
+|-
+| [[Garl]] || 10560 || NEW ID || NEW ID || NEW ID
+|-
+| [[Bird]] || 10541 || rotationSpeed || 64 || 32
+|-
+| [[null]] || 10542 || combatLevel || 0 || 1
+|-
+| [[null]] || 10542 || varbitId || -1 || 393
+|-
+| [[null]] || 10542 || isInteractable || False || True
+|-
+| [[null]] || 10543 || combatLevel || 0 || 1
+|-
+| [[null]] || 10543 || varbitId || -1 || 393
+|-
+| [[null]] || 10543 || isInteractable || False || True
+|-
+| [[Forgotten Soul]] || 10544 || name || [[Forgotten soul]] || [[Forgotten Soul]]
+|-
+| [[Forgotten Soul]] || 10544 || models || [21144] || [36156]
+|-
+| [[Forgotten Soul]] || 10545 || name || [[Forgotten soul]] || [[Forgotten Soul]]
+|-
+| [[Forgotten Soul]] || 10545 || models || [21148] || [36157]
+|-
+|}
+
+{| class="wikitable sortable"
+!colspan="5"|Objects
+|-
+! Name !! ID !! Key !! Previous Value !! Changed into
+|-
+| [[Wall]] || 1796 || NEW ID || NEW ID || NEW ID
+|-
+| [[Teak]] || 36686 || ambient || 15 || 2
+|-
+| [[Tree stump]] || 36687 || ambient || 15 || 2
+|-
+| [[Broken Potter's Wheel]] || 40732 || name || [[Broken potter's Wheel]] || [[Broken Potter's Wheel]]
+|-
+| [[Broken Potter's Wheel]] || 40732 || actions || ['Build', None, None, None, None] || ['Repair', None, None, None, None]
+|-
+| [[Broken Spinning Wheel]] || 40734 || name || [[Broken spinning wheel]] || [[Broken Spinning Wheel]]
+|-
+| [[Broken Spinning Wheel]] || 40734 || actions || ['Build', None, None, None, None] || ['Repair', None, None, None, None]
+|-
+| [[Spinning Wheel]] || 40735 || name || [[Spinning wheel]] || [[Spinning Wheel]]
+|-
+| [[Cave]] || 40736 || blockingMask || 0 || 11
+|-
+| [[Chest]] || 40739 || actions || ['Open', 'Search for traps', None, None, None] || ['Picklock', None, None, None, None]
+|-
+| [[Chest]] || 40740 || name || [[null]] || [[Chest]]
+|-
+| [[Chest]] || 40740 || wallOrDoor || 0 || 1
+|-
+| [[Chest]] || 40740 || ambient || 0 || 10
+|-
+| [[Chest]] || 40740 || contrast || 0 || 250
+|-
+| [[Dark Chest]] || 40742 || name || [[Locked chest]] || [[Dark Chest]]
+|-
+| [[Dark Chest]] || 40742 || ambient || 0 || 10
+|-
+| [[Dark Chest]] || 40742 || actions || ['Open', None, None, None, None] || ['Open', 'Check', None, None, None]
+|-
+| [[Dark Chest]] || 40743 || name || [[null]] || [[Dark Chest]]
+|-
+| [[Dark Chest]] || 40743 || wallOrDoor || 0 || 1
+|-
+| [[Dark Chest]] || 40743 || ambient || 0 || 10
+|-
+| [[Teak]] || 40758 || ambient || 15 || 2
+|-
+| [[Tree stump]] || 40759 || ambient || 15 || 2
+|-
+| [[null]] || 40766 || blockingMask || 0 || 14
+|-
+| [[null]] || 40767 || blockingMask || 0 || 11
+|-
+|}

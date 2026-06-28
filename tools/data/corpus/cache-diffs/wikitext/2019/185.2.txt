@@ -1,0 +1,315 @@
+{{ToC}}
+==Items==
+===New Items===
+{| class="wikitable sortable"
+!colspan='11'|New Items
+|-
+! style=width:15em | Name !! ID !! Members !! Tradeable in GE !! Equipable !! Stackable !! Noteable !! Options !! Placeholder !! Cost
+|-
+| [[Dagon'hai robes set]] || [https://chisel.weirdgloop.org/moid/item_id.html#24333 24333] || Yes || Yes || No || No || Yes ||     Drop || Yes || 217000
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#24334 24334] || No || No || No || No || Yes ||     Drop || No || 1
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#24335 24335] || No || No || No || No || No ||     Drop || Yes || 1
+|-
+| [[Bounty target teleport]] || [https://chisel.weirdgloop.org/moid/item_id.html#24336 24336] || Yes || Yes || No || Yes || No || Break,    Drop || Yes || 1
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#24337 24337] || No || No || No || No || No ||     Drop || Yes || 1
+|-
+| [[Bounty hunter hat (tier 1)]] || [https://chisel.weirdgloop.org/moid/item_id.html#24338 24338] || Yes || No || Yes || No || No ||  Wear,   Drop || Yes || 0
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#24339 24339] || No || No || No || No || No ||     Drop || Yes || 1
+|-
+| [[Bounty hunter hat (tier 2)]] || [https://chisel.weirdgloop.org/moid/item_id.html#24340 24340] || Yes || No || Yes || No || No ||  Wear,   Drop || Yes || 0
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#24341 24341] || No || No || No || No || No ||     Drop || Yes || 1
+|-
+| [[Bounty hunter hat (tier 3)]] || [https://chisel.weirdgloop.org/moid/item_id.html#24342 24342] || Yes || No || Yes || No || No ||  Wear,   Drop || Yes || 0
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#24343 24343] || No || No || No || No || No ||     Drop || Yes || 1
+|-
+| [[Bounty hunter hat (tier 4)]] || [https://chisel.weirdgloop.org/moid/item_id.html#24344 24344] || Yes || No || Yes || No || No ||  Wear,   Drop || Yes || 0
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#24345 24345] || No || No || No || No || No ||     Drop || Yes || 1
+|-
+| [[Bounty hunter hat (tier 5)]] || [https://chisel.weirdgloop.org/moid/item_id.html#24346 24346] || Yes || No || Yes || No || No ||  Wear,   Drop || Yes || 0
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#24347 24347] || No || No || No || No || No ||     Drop || Yes || 1
+|-
+| [[Bounty hunter hat (tier 6)]] || [https://chisel.weirdgloop.org/moid/item_id.html#24348 24348] || Yes || No || Yes || No || No ||  Wear,   Drop || Yes || 0
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#24349 24349] || No || No || No || No || No ||     Drop || Yes || 1
+|-
+|-
+|}
+===Removed Items===
+{| class="wikitable sortable"
+!colspan='2'|Removed Items
+|-
+! style=width:15em | Name !! ID
+|-
+|-
+|}
+===Diff Items===
+{| class="wikitable sortable"
+!colspan='5'|Diff Items
+|-
+! style=width:15em | Name !! ID !! Key !! Previous Value !! New Value
+|-
+|rowspan="2"|[[White bed sheets]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#24297 24297]
+|-
+|interfaceOptions || [None, None, None, None, 'Destroy'] || [None, None, None, None, 'Drop']
+|-
+|rowspan="2"|[[Smoke powder]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#24298 24298]
+|-
+|interfaceOptions || ['Ignite', None, None, None, 'Destroy'] || [None, None, None, None, 'Drop']
+|-
+|rowspan="3"|[[Shiny glass]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/item_id.html#24299 24299]
+|-
+|options || [None, None, 'Steal', None, None] || [None, None, 'Take', None, None]
+|-
+| interfaceOptions || [None, None, None, None, 'Destroy'] || [None, None, None, None, 'Drop']
+|-
+|rowspan="2"|[[Spooky hood]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#24300 24300]
+|-
+|interfaceOptions || [None, 'Wear', None, None, 'Destroy'] || [None, None, None, None, 'Drop']
+|-
+|rowspan="2"|[[Spooky robe]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#24301 24301]
+|-
+|interfaceOptions || [None, 'Wear', None, None, 'Destroy'] || [None, None, None, None, 'Drop']
+|-
+|rowspan="2"|[[Spooky skirt]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#24302 24302]
+|-
+|interfaceOptions || [None, 'Wear', None, None, 'Destroy'] || [None, None, None, None, 'Drop']
+|-
+|rowspan="2"|[[Spooky gloves]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#24303 24303]
+|-
+|interfaceOptions || [None, 'Wear', None, None, 'Destroy'] || [None, None, None, None, 'Drop']
+|-
+|rowspan="2"|[[Spooky boots]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#24304 24304]
+|-
+|interfaceOptions || [None, 'Wear', None, None, 'Destroy'] || [None, None, None, None, 'Drop']
+|-
+|rowspan="3"|[[Birthday cake]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/item_id.html#24331 24331]
+|-
+|interfaceOptions || ['Eat', 'Learn-more', None, None, 'Drop'] || [None, None, None, None, 'Drop']
+|-
+| notedID || 24332 || -1
+|-
+|rowspan="11"|[[Birthday cake]]
+|rowspan="11"|[https://chisel.weirdgloop.org/moid/item_id.html#24332 24332]
+|-
+|name || [[null]] || [[Birthday cake]]
+|-
+| xan2d || 0 || 163
+|-
+| yan2d || 0 || 2021
+|-
+| stackable || 0 || 1
+|-
+| inventoryModel || 0 || 34576
+|-
+| zoom2d || 2000 || 1508
+|-
+| xOffset2d || 0 || 10
+|-
+| yOffset2d || 0 || -16
+|-
+| notedID || 24331 || -1
+|-
+| notedTemplate || 799 || -1
+|-
+|}
+
+==Non-Player Characters==
+===New NPCs===
+{| class="wikitable sortable"
+!colspan='4'|New NPCs
+|-
+! style=width:15em | Name !! ID !! Combat Level !! Options
+|-
+|-
+|}
+===Removed NPCs===
+{| class="wikitable sortable"
+!colspan='2'|Removed NPCs
+|-
+! style=width:15em | Name !! ID
+|-
+| [[Grasslegs]] || [https://chisel.weirdgloop.org/moid/npc_id.html#315 315]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/npc_id.html#316 316]
+|-
+| [[epic mager34]] || [https://chisel.weirdgloop.org/moid/npc_id.html#7941 7941]
+|-
+| [[epic mager34]] || [https://chisel.weirdgloop.org/moid/npc_id.html#7942 7942]
+|-
+| [[mad melvin96]] || [https://chisel.weirdgloop.org/moid/npc_id.html#9299 9299]
+|-
+| [[Goblin]] || [https://chisel.weirdgloop.org/moid/npc_id.html#9300 9300]
+|-
+| [[Butterfly]] || [https://chisel.weirdgloop.org/moid/npc_id.html#9301 9301]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/npc_id.html#9302 9302]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/npc_id.html#9303 9303]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/npc_id.html#9304 9304]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/npc_id.html#9305 9305]
+|-
+|-
+|}
+===Diff NPCs===
+{| class="wikitable sortable"
+!colspan='5'|Diff NPCs
+|-
+! style=width:15em | Name !! ID !! Key !! Previous Value !! New Value
+|-
+|rowspan="8"|[[Adventurer Jon]]
+|rowspan="8"|[https://chisel.weirdgloop.org/moid/npc_id.html#293 293]
+|-
+|name || [[Snailneck]] || [[Adventurer Jon]]
+|-
+| standingAnimation || 6181 || -1
+|-
+| walkingAnimation || 6180 || -1
+|-
+| ambient || 60 || 0
+|-
+| contrast || 60 || 0
+|-
+| models || [38933] || [4012]
+|-
+| chatheadModels || [38935] || [52, 18187, 43]
+|-
+|rowspan="2"|[[Border Guard]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#4287 4287]
+|-
+|hasRenderPriority || False || True
+|-
+|rowspan="2"|[[Border Guard]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#4288 4288]
+|-
+|hasRenderPriority || False || True
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#9245 9245]
+|-
+|configs || [-1, 9244, -1] || [-1, 9244, 293, -1]
+|-
+|}
+
+==Objects==
+===New Objects=== 
+{| class="wikitable sortable"
+!colspan='3'|New Objects
+|-
+! style=width:15em | Name !! ID !! Options
+|-
+|-
+|}
+===Removed Objects===
+{| class="wikitable sortable"
+!colspan='2'|Removed Objects
+|-
+! style=width:15em | Name !! ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#37439 37439]
+|-
+| [[Smoke Bomb]] || [https://chisel.weirdgloop.org/moid/object_id.html#37440 37440]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#37441 37441]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#37442 37442]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#37443 37443]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#37450 37450]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#37458 37458]
+|-
+| [[Fountain]] || [https://chisel.weirdgloop.org/moid/object_id.html#37459 37459]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#37460 37460]
+|-
+|-
+|}
+===Diff Objects===
+{| class="wikitable sortable"
+!colspan='5'|Diff Objects
+|-
+! style=width:15em | Name !! ID !! Key !! Previous Value !! New Value
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#37348 37348]
+|-
+|configChangeDest || [37347, 37346, -1] || [37347, 37346, 37346, -1]
+|-
+|rowspan="10"|[[null]]
+|rowspan="10"|[https://chisel.weirdgloop.org/moid/object_id.html#37436 37436]
+|-
+|name || [[Bed]] || [[null]]
+|-
+| animationID || -1 || 502
+|-
+| varbitID || -1 || 9511
+|-
+| ambient || 25 || 0
+|-
+| actions || ['Take-sheets', None, None, None, None] || [None, None, None, None, None]
+|-
+| interactType || 2 || 0
+|-
+| modelSizeHeight || 135 || 128
+|-
+| supportsItems || 1 || 0
+|-
+| blocksProjectile || True || False
+|-
+|rowspan="9"|[[null]]
+|rowspan="9"|[https://chisel.weirdgloop.org/moid/object_id.html#37437 37437]
+|-
+|name || [[Bed]] || [[null]]
+|-
+| animationID || -1 || 502
+|-
+| varbitID || -1 || 9511
+|-
+| ambient || 25 || 0
+|-
+| interactType || 2 || 0
+|-
+| modelSizeHeight || 135 || 128
+|-
+| supportsItems || 1 || 0
+|-
+| blocksProjectile || True || False
+|-
+|rowspan="8"|[[null]]
+|rowspan="8"|[https://chisel.weirdgloop.org/moid/object_id.html#37438 37438]
+|-
+|name || [[Black powder]] || [[null]]
+|-
+| animationID || -1 || 502
+|-
+| varbitID || -1 || 9511
+|-
+| actions || ['Grab-powder', None, None, None, None] || [None, None, None, None, None]
+|-
+| interactType || 2 || 0
+|-
+| supportsItems || 1 || 0
+|-
+| blocksProjectile || True || False
+|-
+|}

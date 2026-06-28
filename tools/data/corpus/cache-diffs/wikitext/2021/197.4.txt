@@ -1,0 +1,1561 @@
+{{ToC}}
+==Items==
+{| class="wikitable sortable"
+!colspan='5'|Items
+|-
+! Name !! ID !! Key !! Previous Value !! Changed into
+|-
+|rowspan="3"|[[Fishing rod]]
+|rowspan="3"|307
+|-
+|femaleModel0 || 562 || 42643
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="3"|[[Fly fishing rod]]
+|rowspan="3"|309
+|-
+|femaleModel0 || 562 || 42643
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="3"|[[Dark dagger]]
+|rowspan="3"|746
+|-
+|femaleModel0 || 524 || 42635
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="3"|[[Glowing dagger]]
+|rowspan="3"|747
+|-
+|femaleModel0 || 5116 || 42648
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="3"|[[Phoenix crossbow]]
+|rowspan="3"|767
+|-
+|femaleModel0 || 16846 || 42622
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="3"|[[Crossbow]]
+|rowspan="3"|837
+|-
+|femaleModel0 || 16846 || 42622
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="3"|[[Iron knife]]
+|rowspan="3"|863
+|-
+|femaleModel0 || 548 || 42631
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="3"|[[Bronze knife]]
+|rowspan="3"|864
+|-
+|femaleModel0 || 548 || 42631
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="3"|[[Steel knife]]
+|rowspan="3"|865
+|-
+|femaleModel0 || 548 || 42631
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="3"|[[Mithril knife]]
+|rowspan="3"|866
+|-
+|femaleModel0 || 548 || 42631
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="3"|[[Adamant knife]]
+|rowspan="3"|867
+|-
+|femaleModel0 || 548 || 42631
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="3"|[[Rune knife]]
+|rowspan="3"|868
+|-
+|femaleModel0 || 548 || 42631
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="3"|[[Black knife]]
+|rowspan="3"|869
+|-
+|femaleModel0 || 548 || 42631
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="3"|[[Bronze knife(p)]]
+|rowspan="3"|870
+|-
+|femaleModel0 || 548 || 42631
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="3"|[[Iron knife(p)]]
+|rowspan="3"|871
+|-
+|femaleModel0 || 548 || 42631
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="3"|[[Steel knife(p)]]
+|rowspan="3"|872
+|-
+|femaleModel0 || 548 || 42631
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="3"|[[Mithril knife(p)]]
+|rowspan="3"|873
+|-
+|femaleModel0 || 548 || 42631
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="3"|[[Black knife(p)]]
+|rowspan="3"|874
+|-
+|femaleModel0 || 548 || 42631
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="3"|[[Adamant knife(p)]]
+|rowspan="3"|875
+|-
+|femaleModel0 || 548 || 42631
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="3"|[[Rune knife(p)]]
+|rowspan="3"|876
+|-
+|femaleModel0 || 548 || 42631
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="3"|[[Machete]]
+|rowspan="3"|975
+|-
+|femaleModel0 || 566 || 42620
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="3"|[[Iron dagger]]
+|rowspan="3"|1203
+|-
+|femaleModel0 || 533 || 42608
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="3"|[[Bronze dagger]]
+|rowspan="3"|1205
+|-
+|femaleModel0 || 533 || 42608
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="3"|[[Steel dagger]]
+|rowspan="3"|1207
+|-
+|femaleModel0 || 533 || 42608
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="3"|[[Mithril dagger]]
+|rowspan="3"|1209
+|-
+|femaleModel0 || 533 || 42608
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="3"|[[Adamant dagger]]
+|rowspan="3"|1211
+|-
+|femaleModel0 || 533 || 42608
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="3"|[[Rune dagger]]
+|rowspan="3"|1213
+|-
+|femaleModel0 || 533 || 42608
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="3"|[[Dragon dagger]]
+|rowspan="3"|1215
+|-
+|femaleModel0 || 539 || 42626
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="3"|[[Black dagger]]
+|rowspan="3"|1217
+|-
+|femaleModel0 || 533 || 42608
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="3"|[[Iron dagger(p)]]
+|rowspan="3"|1219
+|-
+|femaleModel0 || 504 || 42621
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="3"|[[Bronze dagger(p)]]
+|rowspan="3"|1221
+|-
+|femaleModel0 || 504 || 42621
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="3"|[[Steel dagger(p)]]
+|rowspan="3"|1223
+|-
+|femaleModel0 || 504 || 42621
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="3"|[[Mithril dagger(p)]]
+|rowspan="3"|1225
+|-
+|femaleModel0 || 504 || 42621
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="3"|[[Adamant dagger(p)]]
+|rowspan="3"|1227
+|-
+|femaleModel0 || 504 || 42621
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="3"|[[Rune dagger(p)]]
+|rowspan="3"|1229
+|-
+|femaleModel0 || 504 || 42621
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="3"|[[Dragon dagger(p)]]
+|rowspan="3"|1231
+|-
+|femaleModel0 || 539 || 42626
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="3"|[[Black dagger(p)]]
+|rowspan="3"|1233
+|-
+|femaleModel0 || 504 || 42621
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="3"|[[Poisoned dagger(p)]]
+|rowspan="3"|1235
+|-
+|femaleModel0 || 504 || 42621
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="3"|[[Iron warhammer]]
+|rowspan="3"|1335
+|-
+|femaleModel0 || 542 || 42616
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="3"|[[Bronze warhammer]]
+|rowspan="3"|1337
+|-
+|femaleModel0 || 542 || 42616
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="3"|[[Steel warhammer]]
+|rowspan="3"|1339
+|-
+|femaleModel0 || 542 || 42616
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="3"|[[Black warhammer]]
+|rowspan="3"|1341
+|-
+|femaleModel0 || 542 || 42616
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="3"|[[Mithril warhammer]]
+|rowspan="3"|1343
+|-
+|femaleModel0 || 542 || 42616
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="3"|[[Adamant warhammer]]
+|rowspan="3"|1345
+|-
+|femaleModel0 || 542 || 42616
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="3"|[[Rune warhammer]]
+|rowspan="3"|1347
+|-
+|femaleModel0 || 542 || 42616
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="3"|[[Wolfbane]]
+|rowspan="3"|2952
+|-
+|femaleModel0 || 3482 || 42642
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|3309
+|-
+|params || {'1189': 327, '365': 8843, '366': 1, '367': 565, '336': 0, '368': 2, '369': 556, '370': 4, '596': 14286895, '597': 60, '598': 110, '599': 1774, '600': 1854, '601': 'Claws of Guthix', '602': 'Summons the power of Guthix', '603': 1, '604': 60, '605': 0, '606': 554, '607': 1} || {'1189': 3146, '365': 8843, '366': 1, '367': 565, '336': 0, '368': 2, '369': 556, '370': 4, '596': 14286895, '597': 60, '598': 110, '599': 1774, '600': 1854, '601': 'Claws of Guthix', '602': 'Summons the power of Guthix', '603': 1, '604': 60, '605': 0, '606': 554, '607': 1}
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|3310
+|-
+|params || {'1189': 327, '365': 2417, '366': 1, '367': 565, '336': 0, '368': 2, '369': 556, '370': 1, '596': 14286896, '597': 59, '598': 109, '599': 1773, '600': 1853, '601': 'Flames of Zamorak', '602': 'Summons the power of Zamorak', '603': 1, '604': 60, '605': 0, '606': 554, '607': 4} || {'1189': 3146, '365': 2417, '366': 1, '367': 565, '336': 0, '368': 2, '369': 556, '370': 1, '596': 14286896, '597': 59, '598': 109, '599': 1773, '600': 1853, '601': 'Flames of Zamorak', '602': 'Summons the power of Zamorak', '603': 1, '604': 60, '605': 0, '606': 554, '607': 4}
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|3311
+|-
+|params || {'1189': 327, '365': 2415, '366': 1, '367': 565, '336': 0, '368': 2, '369': 556, '370': 4, '596': 14286894, '597': 61, '598': 111, '599': 1775, '600': 1855, '601': 'Saradomin strike', '602': 'Summons the power of Saradomin', '603': 1, '604': 60, '605': 0, '606': 554, '607': 2} || {'1189': 3146, '365': 2415, '366': 1, '367': 565, '336': 0, '368': 2, '369': 556, '370': 4, '596': 14286894, '597': 61, '598': 111, '599': 1775, '600': 1855, '601': 'Saradomin strike', '602': 'Summons the power of Saradomin', '603': 1, '604': 60, '605': 0, '606': 554, '607': 2}
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|3323
+|-
+|params || {'1189': 327, '365': 565, '366': 3, '367': 556, '336': 0, '368': 3, '369': 554, '370': 3, '596': 14286912, '597': 322, '598': 372, '599': 1776, '600': 1856, '601': 'Charge', '602': 'Temporarily increases the power<br>of the three arena spells when wearing Mage Arena capes', '603': 1, '604': 80, '605': 0} || {'1189': 3146, '365': 565, '366': 3, '367': 556, '336': 0, '368': 3, '369': 554, '370': 3, '596': 14286912, '597': 322, '598': 372, '599': 1776, '600': 1856, '601': 'Charge', '602': 'Temporarily increases the power<br>of the three arena spells when wearing Mage Arena capes', '603': 1, '604': 80, '605': 0}
+|-
+|rowspan="3"|[[Slayer's staff]]
+|rowspan="3"|4170
+|-
+|femaleModel0 || 5036 || 42613
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="2"|[[Bone club]]
+|rowspan="2"|5018
+|-
+|femaleModel0 || 6963 || 42650
+|-
+|rowspan="2"|[[Bird nest]]
+|rowspan="2"|5073
+|-
+|xan2d || 172 || 222
+|-
+|rowspan="2"|[[Secateurs]]
+|rowspan="2"|5329
+|-
+|femaleModel0 || 7126 || 42630
+|-
+|rowspan="3"|[[Bronze knife(p+)]]
+|rowspan="3"|5654
+|-
+|femaleModel0 || 548 || 42631
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="3"|[[Iron knife(p+)]]
+|rowspan="3"|5655
+|-
+|femaleModel0 || 548 || 42631
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="3"|[[Steel knife(p+)]]
+|rowspan="3"|5656
+|-
+|femaleModel0 || 548 || 42631
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="3"|[[Mithril knife(p+)]]
+|rowspan="3"|5657
+|-
+|femaleModel0 || 548 || 42631
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="3"|[[Black knife(p+)]]
+|rowspan="3"|5658
+|-
+|femaleModel0 || 548 || 42631
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="3"|[[Adamant knife(p+)]]
+|rowspan="3"|5659
+|-
+|femaleModel0 || 548 || 42631
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="3"|[[Rune knife(p+)]]
+|rowspan="3"|5660
+|-
+|femaleModel0 || 548 || 42631
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="3"|[[Bronze knife(p++)]]
+|rowspan="3"|5661
+|-
+|femaleModel0 || 548 || 42631
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="3"|[[Iron knife(p++)]]
+|rowspan="3"|5662
+|-
+|femaleModel0 || 548 || 42631
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="3"|[[Steel knife(p++)]]
+|rowspan="3"|5663
+|-
+|femaleModel0 || 548 || 42631
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="3"|[[Mithril knife(p++)]]
+|rowspan="3"|5664
+|-
+|femaleModel0 || 548 || 42631
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="3"|[[Black knife(p++)]]
+|rowspan="3"|5665
+|-
+|femaleModel0 || 548 || 42631
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="3"|[[Adamant knife(p++)]]
+|rowspan="3"|5666
+|-
+|femaleModel0 || 548 || 42631
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="3"|[[Rune knife(p++)]]
+|rowspan="3"|5667
+|-
+|femaleModel0 || 548 || 42631
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="3"|[[Iron dagger(p+)]]
+|rowspan="3"|5668
+|-
+|femaleModel0 || 504 || 42621
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="3"|[[Bronze dagger(p+)]]
+|rowspan="3"|5670
+|-
+|femaleModel0 || 504 || 42621
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="3"|[[Steel dagger(p+)]]
+|rowspan="3"|5672
+|-
+|femaleModel0 || 504 || 42621
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="3"|[[Mithril dagger(p+)]]
+|rowspan="3"|5674
+|-
+|femaleModel0 || 504 || 42621
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="3"|[[Adamant dagger(p+)]]
+|rowspan="3"|5676
+|-
+|femaleModel0 || 504 || 42621
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="3"|[[Rune dagger(p+)]]
+|rowspan="3"|5678
+|-
+|femaleModel0 || 504 || 42621
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="3"|[[Dragon dagger(p+)]]
+|rowspan="3"|5680
+|-
+|femaleModel0 || 539 || 42626
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="3"|[[Black dagger(p+)]]
+|rowspan="3"|5682
+|-
+|femaleModel0 || 504 || 42621
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="3"|[[Poison dagger(p+)]]
+|rowspan="3"|5684
+|-
+|femaleModel0 || 504 || 42621
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="3"|[[Iron dagger(p++)]]
+|rowspan="3"|5686
+|-
+|femaleModel0 || 504 || 42621
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="3"|[[Bronze dagger(p++)]]
+|rowspan="3"|5688
+|-
+|femaleModel0 || 504 || 42621
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="3"|[[Steel dagger(p++)]]
+|rowspan="3"|5690
+|-
+|femaleModel0 || 504 || 42621
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="3"|[[Mithril dagger(p++)]]
+|rowspan="3"|5692
+|-
+|femaleModel0 || 504 || 42621
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="3"|[[Adamant dagger(p++)]]
+|rowspan="3"|5694
+|-
+|femaleModel0 || 504 || 42621
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="3"|[[Rune dagger(p++)]]
+|rowspan="3"|5696
+|-
+|femaleModel0 || 504 || 42621
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="3"|[[Dragon dagger(p++)]]
+|rowspan="3"|5698
+|-
+|femaleModel0 || 539 || 42626
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="3"|[[Black dagger(p++)]]
+|rowspan="3"|5700
+|-
+|femaleModel0 || 504 || 42621
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="3"|[[Poison dagger(p++)]]
+|rowspan="3"|5702
+|-
+|femaleModel0 || 504 || 42621
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="3"|[[Opal machete]]
+|rowspan="3"|6313
+|-
+|femaleModel0 || 566 || 42620
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="3"|[[Jade machete]]
+|rowspan="3"|6315
+|-
+|femaleModel0 || 566 || 42620
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="3"|[[Red topaz machete]]
+|rowspan="3"|6317
+|-
+|femaleModel0 || 566 || 42620
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="3"|[[Toktz-xil-ek]]
+|rowspan="3"|6525
+|-
+|femaleModel0 || 9343 || 42654
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="3"|[[White dagger]]
+|rowspan="3"|6591
+|-
+|femaleModel0 || 533 || 42608
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="3"|[[White dagger(p)]]
+|rowspan="3"|6593
+|-
+|femaleModel0 || 504 || 42621
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="3"|[[White dagger(p+)]]
+|rowspan="3"|6595
+|-
+|femaleModel0 || 504 || 42621
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="3"|[[White dagger(p++)]]
+|rowspan="3"|6597
+|-
+|femaleModel0 || 504 || 42621
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="3"|[[White warhammer]]
+|rowspan="3"|6613
+|-
+|femaleModel0 || 542 || 42616
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="3"|[[Magic secateurs]]
+|rowspan="3"|7409
+|-
+|femaleModel0 || 7126 || 42630
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="3"|[[Egg whisk]]
+|rowspan="3"|7435
+|-
+|femaleModel0 || 12761 || 42609
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="3"|[[Frying pan]]
+|rowspan="3"|7441
+|-
+|femaleModel0 || 12762 || 42607
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="3"|[[Kitchen knife]]
+|rowspan="3"|7447
+|-
+|femaleModel0 || 12769 || 42627
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="3"|[[Meat tenderiser]]
+|rowspan="3"|7449
+|-
+|femaleModel0 || 12766 || 42652
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="3"|[[Gadderhammer]]
+|rowspan="3"|7668
+|-
+|femaleModel0 || 14051 || 42645
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="3"|[[Bronze defender]]
+|rowspan="3"|8844
+|-
+|femaleModel0 || 15413 || 42629
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="3"|[[Iron defender]]
+|rowspan="3"|8845
+|-
+|femaleModel0 || 15413 || 42629
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="3"|[[Steel defender]]
+|rowspan="3"|8846
+|-
+|femaleModel0 || 15413 || 42629
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="3"|[[Black defender]]
+|rowspan="3"|8847
+|-
+|femaleModel0 || 15413 || 42629
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="3"|[[Mithril defender]]
+|rowspan="3"|8848
+|-
+|femaleModel0 || 15413 || 42629
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="3"|[[Adamant defender]]
+|rowspan="3"|8849
+|-
+|femaleModel0 || 15413 || 42629
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="3"|[[Rune defender]]
+|rowspan="3"|8850
+|-
+|femaleModel0 || 15413 || 42629
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="3"|[[Bone dagger]]
+|rowspan="3"|8872
+|-
+|femaleModel0 || 15473 || 42633
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="3"|[[Bone dagger (p)]]
+|rowspan="3"|8874
+|-
+|femaleModel0 || 15474 || 42639
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="3"|[[Bone dagger (p+)]]
+|rowspan="3"|8876
+|-
+|femaleModel0 || 15474 || 42639
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="3"|[[Bone dagger (p++)]]
+|rowspan="3"|8878
+|-
+|femaleModel0 || 15474 || 42639
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="3"|[[Dorgeshuun crossbow]]
+|rowspan="3"|8880
+|-
+|femaleModel0 || 15472 || 42614
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="3"|[[Bronze crossbow]]
+|rowspan="3"|9174
+|-
+|femaleModel0 || 16846 || 42622
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="3"|[[Blurite crossbow]]
+|rowspan="3"|9176
+|-
+|femaleModel0 || 16846 || 42622
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="3"|[[Iron crossbow]]
+|rowspan="3"|9177
+|-
+|femaleModel0 || 16846 || 42622
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="3"|[[Steel crossbow]]
+|rowspan="3"|9179
+|-
+|femaleModel0 || 16846 || 42622
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="3"|[[Mithril crossbow]]
+|rowspan="3"|9181
+|-
+|femaleModel0 || 16846 || 42622
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="3"|[[Adamant crossbow]]
+|rowspan="3"|9183
+|-
+|femaleModel0 || 16846 || 42622
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="3"|[[Rune crossbow]]
+|rowspan="3"|9185
+|-
+|femaleModel0 || 16846 || 42622
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="3"|[[Bronze crossbow (u)]]
+|rowspan="3"|9454
+|-
+|femaleModel0 || 26611 || 42638
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="3"|[[Blurite crossbow (u)]]
+|rowspan="3"|9456
+|-
+|femaleModel0 || 26611 || 42638
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="3"|[[Iron crossbow (u)]]
+|rowspan="3"|9457
+|-
+|femaleModel0 || 26611 || 42638
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="3"|[[Steel crossbow (u)]]
+|rowspan="3"|9459
+|-
+|femaleModel0 || 26611 || 42638
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="3"|[[Mithril crossbow (u)]]
+|rowspan="3"|9461
+|-
+|femaleModel0 || 26611 || 42638
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="3"|[[Adamant crossbow (u)]]
+|rowspan="3"|9463
+|-
+|femaleModel0 || 26611 || 42638
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="3"|[[Runite crossbow (u)]]
+|rowspan="3"|9465
+|-
+|femaleModel0 || 26611 || 42638
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="3"|[[Hunters' crossbow]]
+|rowspan="3"|10156
+|-
+|femaleModel0 || 19839 || 42611
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="3"|[[Keris]]
+|rowspan="3"|10581
+|-
+|femaleModel0 || 20758 || 42606
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="3"|[[Keris(p)]]
+|rowspan="3"|10582
+|-
+|femaleModel0 || 20759 || 42653
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="3"|[[Keris(p+)]]
+|rowspan="3"|10583
+|-
+|femaleModel0 || 20759 || 42653
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="3"|[[Keris(p++)]]
+|rowspan="3"|10584
+|-
+|femaleModel0 || 20759 || 42653
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="3"|[[Phoenix crossbow]]
+|rowspan="3"|11165
+|-
+|femaleModel0 || 16846 || 42622
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="3"|[[Phoenix crossbow]]
+|rowspan="3"|11167
+|-
+|femaleModel0 || 16846 || 42622
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="3"|[[Barbarian rod]]
+|rowspan="3"|11323
+|-
+|femaleModel0 || 26649 || 42636
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="3"|[[Bronze hasta]]
+|rowspan="3"|11367
+|-
+|femaleModel0 || 26653 || 42647
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="3"|[[Iron hasta]]
+|rowspan="3"|11369
+|-
+|femaleModel0 || 26653 || 42647
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="3"|[[Steel hasta]]
+|rowspan="3"|11371
+|-
+|femaleModel0 || 26653 || 42647
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="3"|[[Mithril hasta]]
+|rowspan="3"|11373
+|-
+|femaleModel0 || 26653 || 42647
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="3"|[[Adamant hasta]]
+|rowspan="3"|11375
+|-
+|femaleModel0 || 26653 || 42647
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="3"|[[Rune hasta]]
+|rowspan="3"|11377
+|-
+|femaleModel0 || 26653 || 42647
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="3"|[[Bronze hasta(p)]]
+|rowspan="3"|11379
+|-
+|femaleModel0 || 26656 || 42646
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="3"|[[Bronze hasta(kp)]]
+|rowspan="3"|11381
+|-
+|femaleModel0 || 26656 || 42646
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="3"|[[Bronze hasta(p+)]]
+|rowspan="3"|11382
+|-
+|femaleModel0 || 26656 || 42646
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="3"|[[Bronze hasta(p++)]]
+|rowspan="3"|11384
+|-
+|femaleModel0 || 26656 || 42646
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="3"|[[Iron hasta(p)]]
+|rowspan="3"|11386
+|-
+|femaleModel0 || 26656 || 42646
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="3"|[[Iron hasta(kp)]]
+|rowspan="3"|11388
+|-
+|femaleModel0 || 26656 || 42646
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="3"|[[Iron hasta(p+)]]
+|rowspan="3"|11389
+|-
+|femaleModel0 || 26656 || 42646
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="3"|[[Iron hasta(p++)]]
+|rowspan="3"|11391
+|-
+|femaleModel0 || 26656 || 42646
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="3"|[[Steel hasta(p)]]
+|rowspan="3"|11393
+|-
+|femaleModel0 || 26656 || 42646
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="3"|[[Steel hasta(kp)]]
+|rowspan="3"|11395
+|-
+|femaleModel0 || 26656 || 42646
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="3"|[[Steel hasta(p+)]]
+|rowspan="3"|11396
+|-
+|femaleModel0 || 26656 || 42646
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="3"|[[Steel hasta(p++)]]
+|rowspan="3"|11398
+|-
+|femaleModel0 || 26656 || 42646
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="3"|[[Mithril hasta(p)]]
+|rowspan="3"|11400
+|-
+|femaleModel0 || 26656 || 42646
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="3"|[[Mithril hasta(kp)]]
+|rowspan="3"|11402
+|-
+|femaleModel0 || 26656 || 42646
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="3"|[[Mithril hasta(p+)]]
+|rowspan="3"|11403
+|-
+|femaleModel0 || 26656 || 42646
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="3"|[[Mithril hasta(p++)]]
+|rowspan="3"|11405
+|-
+|femaleModel0 || 26656 || 42646
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="3"|[[Adamant hasta(p)]]
+|rowspan="3"|11407
+|-
+|femaleModel0 || 26656 || 42646
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="3"|[[Adamant hasta(kp)]]
+|rowspan="3"|11409
+|-
+|femaleModel0 || 26656 || 42646
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="3"|[[Adamant hasta(p+)]]
+|rowspan="3"|11410
+|-
+|femaleModel0 || 26656 || 42646
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="3"|[[Adamant hasta(p++)]]
+|rowspan="3"|11412
+|-
+|femaleModel0 || 26656 || 42646
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="3"|[[Rune hasta(p)]]
+|rowspan="3"|11414
+|-
+|femaleModel0 || 26656 || 42646
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="3"|[[Rune hasta(kp)]]
+|rowspan="3"|11416
+|-
+|femaleModel0 || 26656 || 42646
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="3"|[[Rune hasta(p+)]]
+|rowspan="3"|11417
+|-
+|femaleModel0 || 26656 || 42646
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="3"|[[Rune hasta(p++)]]
+|rowspan="3"|11419
+|-
+|femaleModel0 || 26656 || 42646
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="3"|[[Cursed goblin hammer]]
+|rowspan="3"|11707
+|-
+|femaleModel0 || 542 || 42616
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="3"|[[Magic secateurs (nz)]]
+|rowspan="3"|11711
+|-
+|femaleModel0 || 7126 || 42630
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="3"|[[Armadyl crossbow]]
+|rowspan="3"|11785
+|-
+|femaleModel0 || 19839 || 42611
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="3"|[[Armadyl godsword]]
+|rowspan="3"|11802
+|-
+|femaleModel0 || 39548 || 42644
+|-
+| femaleOffset || 2 || 0
+|-
+|rowspan="3"|[[Bandos godsword]]
+|rowspan="3"|11804
+|-
+|femaleModel0 || 39557 || 42637
+|-
+| femaleOffset || 2 || 0
+|-
+|rowspan="3"|[[Saradomin godsword]]
+|rowspan="3"|11806
+|-
+|femaleModel0 || 39559 || 42649
+|-
+| femaleOffset || 2 || 0
+|-
+|rowspan="3"|[[Zamorak godsword]]
+|rowspan="3"|11808
+|-
+|femaleModel0 || 39553 || 42624
+|-
+| femaleOffset || 2 || 0
+|-
+|rowspan="3"|[[Zamorakian hasta]]
+|rowspan="3"|11889
+|-
+|femaleModel0 || 27654 || 39550
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="3"|[[Toxic blowpipe (empty)]]
+|rowspan="3"|12924
+|-
+|femaleModel0 || 14405 || 42618
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="3"|[[Abyssal dagger]]
+|rowspan="3"|13265
+|-
+|femaleModel0 || 29425 || 42619
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="3"|[[Abyssal dagger (p)]]
+|rowspan="3"|13267
+|-
+|femaleModel0 || 29426 || 42634
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="3"|[[Abyssal dagger (p+)]]
+|rowspan="3"|13269
+|-
+|femaleModel0 || 29426 || 42634
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="3"|[[Abyssal dagger (p++)]]
+|rowspan="3"|13271
+|-
+|femaleModel0 || 29426 || 42634
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="2"|[[Bird nest]]
+|rowspan="2"|13653
+|-
+|xan2d || 172 || 222
+|-
+|rowspan="3"|[[Gilded hasta]]
+|rowspan="3"|20161
+|-
+|femaleModel0 || 26653 || 42647
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="3"|[[Armadyl godsword (or)]]
+|rowspan="3"|20368
+|-
+|femaleModel0 || 39552 || 42625
+|-
+| femaleOffset || 2 || 0
+|-
+|rowspan="3"|[[Bandos godsword (or)]]
+|rowspan="3"|20370
+|-
+|femaleModel0 || 39546 || 42637
+|-
+| femaleOffset || 2 || 0
+|-
+|rowspan="3"|[[Saradomin godsword (or)]]
+|rowspan="3"|20372
+|-
+|femaleModel0 || 39554 || 42641
+|-
+| femaleOffset || 2 || 0
+|-
+|rowspan="3"|[[Zamorak godsword (or)]]
+|rowspan="3"|20374
+|-
+|femaleModel0 || 39560 || 42615
+|-
+| femaleOffset || 2 || 0
+|-
+|rowspan="3"|[[Dragon dagger]]
+|rowspan="3"|20407
+|-
+|femaleModel0 || 539 || 42626
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="3"|[[Slayer's staff (e)]]
+|rowspan="3"|21255
+|-
+|femaleModel0 || 32970 || 42610
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="3"|[[Dragon crossbow]]
+|rowspan="3"|21902
+|-
+|femaleModel0 || 34655 || 42612
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="3"|[[Dragon crossbow (u)]]
+|rowspan="3"|21921
+|-
+|femaleModel0 || 34656 || 42628
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="3"|[[Statius's warhammer]]
+|rowspan="3"|22622
+|-
+|femaleModel0 || 35968 || 42655
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="3"|[[Dragon hasta]]
+|rowspan="3"|22731
+|-
+|femaleModel0 || 36313 || 42617
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="3"|[[Dragon hasta(p)]]
+|rowspan="3"|22734
+|-
+|femaleModel0 || 36313 || 42617
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="3"|[[Dragon hasta(p+)]]
+|rowspan="3"|22737
+|-
+|femaleModel0 || 36313 || 42617
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="3"|[[Dragon hasta(p++)]]
+|rowspan="3"|22740
+|-
+|femaleModel0 || 36313 || 42617
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="3"|[[Dragon hasta(kp)]]
+|rowspan="3"|22743
+|-
+|femaleModel0 || 36313 || 42617
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="2"|[[Bird nest]]
+|rowspan="2"|22798
+|-
+|xan2d || 172 || 222
+|-
+|rowspan="2"|[[Bird nest]]
+|rowspan="2"|22800
+|-
+|xan2d || 172 || 222
+|-
+|rowspan="3"|[[Dragon knife]]
+|rowspan="3"|22804
+|-
+|femaleModel0 || 36319 || 42623
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="3"|[[Dragon knife(p)]]
+|rowspan="3"|22806
+|-
+|femaleModel0 || 36319 || 42623
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="3"|[[Dragon knife(p+)]]
+|rowspan="3"|22808
+|-
+|femaleModel0 || 36319 || 42623
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="3"|[[Dragon knife(p++)]]
+|rowspan="3"|22810
+|-
+|femaleModel0 || 36319 || 42623
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="3"|[[Dragon knife]]
+|rowspan="3"|22812
+|-
+|femaleModel0 || 36311 || 42651
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="3"|[[Dragon knife]]
+|rowspan="3"|22814
+|-
+|femaleModel0 || 36311 || 42651
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="3"|[[Rune defender (t)]]
+|rowspan="3"|23230
+|-
+|femaleModel0 || 15413 || 42629
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="3"|[[Rune crossbow]]
+|rowspan="3"|23601
+|-
+|femaleModel0 || 16846 || 42622
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="3"|[[Armadyl crossbow]]
+|rowspan="3"|23611
+|-
+|femaleModel0 || 19839 || 42611
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="3"|[[Statius's warhammer]]
+|rowspan="3"|23620
+|-
+|femaleModel0 || 35968 || 42655
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="3"|[[Bronze defender (l)]]
+|rowspan="3"|24136
+|-
+|femaleModel0 || 15413 || 42629
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="3"|[[Iron defender (l)]]
+|rowspan="3"|24137
+|-
+|femaleModel0 || 15413 || 42629
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="3"|[[Steel defender (l)]]
+|rowspan="3"|24138
+|-
+|femaleModel0 || 15413 || 42629
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="3"|[[Black defender (l)]]
+|rowspan="3"|24139
+|-
+|femaleModel0 || 15413 || 42629
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="3"|[[Mithril defender (l)]]
+|rowspan="3"|24140
+|-
+|femaleModel0 || 15413 || 42629
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="3"|[[Adamant defender (l)]]
+|rowspan="3"|24141
+|-
+|femaleModel0 || 15413 || 42629
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="3"|[[Rune defender (l)]]
+|rowspan="3"|24142
+|-
+|femaleModel0 || 15413 || 42629
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="3"|[[Toxic blowpipe (beta - bronze)]]
+|rowspan="3"|25484
+|-
+|femaleModel0 || 14403 || 42632
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="3"|[[Toxic blowpipe (beta - iron)]]
+|rowspan="3"|25485
+|-
+|femaleModel0 || 14403 || 42632
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="3"|[[Toxic blowpipe (beta - steel)]]
+|rowspan="3"|25486
+|-
+|femaleModel0 || 14403 || 42632
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="3"|[[Toxic blowpipe (beta - black)]]
+|rowspan="3"|25487
+|-
+|femaleModel0 || 14403 || 42632
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="3"|[[Toxic blowpipe (beta - mithril)]]
+|rowspan="3"|25488
+|-
+|femaleModel0 || 14403 || 42632
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="3"|[[Toxic blowpipe (beta - adamant)]]
+|rowspan="3"|25489
+|-
+|femaleModel0 || 14403 || 42632
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="3"|[[Toxic blowpipe (beta - rune)]]
+|rowspan="3"|25490
+|-
+|femaleModel0 || 14403 || 42632
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="3"|[[Toxic blowpipe (beta - dragon)]]
+|rowspan="3"|25491
+|-
+|femaleModel0 || 14403 || 42632
+|-
+| femaleOffset || 6 || 0
+|-
+|}
+
+==Non-Player Characters==
+{| class="wikitable sortable"
+!colspan='5'|Non-Player Characters
+|-
+! Name !! ID !! Key !! Previous Value !! Changed into
+|-
+|rowspan="2"|[[Little Parasite]]
+|rowspan="2"|8183
+|-
+|name || [[Little Parasaite]] || [[Little Parasite]]
+|-
+|}
+
+==Objects==
+{| class="wikitable sortable"
+!colspan='5'|Objects
+|-
+! Name !! ID !! Key !! Previous Value !! Changed into
+|-
+|rowspan="2"|[[Workbench]]
+|rowspan="2"|3402
+|-
+|actions || [None, None, None, None, None] || ['Smith', None, None, None, None]
+|-
+|}

@@ -1,0 +1,45 @@
+{
+  "source": "https://ironman.guide/",
+  "author": "OzirisLoL",
+  "version": "4.0",
+  "updated": "2026",
+  "pages": {
+    "guide": {
+      "description": "Main efficiency guide index (569 steps)",
+      "sections": {
+        "early-game": {
+          "steps": 286,
+          "title": "Early quests, wintertodt and ardy cloak 1"
+        },
+        "thieving-fishing-mining": {
+          "steps": 33,
+          "title": "Thieving, fishing and mining"
+        },
+        "fairy-rings-prayer-kingdom": {
+          "steps": 112,
+          "title": "Fairy rings, 43 prayer, kingdom, 99 thieving"
+        },
+        "skilling-graceful": {
+          "steps": 52,
+          "title": "Various skilling, agility for graceful"
+        },
+        "diaries-rfd": {
+          "steps": 20,
+          "title": "Diaries and finishing RFD"
+        },
+        "after-barrows-gloves": {
+          "steps": 66,
+          "title": "Goals after Barrows gloves"
+        }
+      }
+    },
+    "supplementary": {
+      "gear": "Gear progression guide (early/mid/late/endgame)",
+      "bosses": "Boss order guide (31 bosses in progression order)",
+      "money-making": "Ironman money making guide with GP/hr figures",
+      "hcim": "Hardcore Ironman safe training guide",
+      "uim": "Ultimate Ironman inventory management guide",
+      "gim": "Group Ironman team strategies guide"
+    }
+  }
+}

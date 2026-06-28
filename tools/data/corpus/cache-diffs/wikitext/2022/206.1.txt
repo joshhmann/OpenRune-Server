@@ -1,0 +1,111 @@
+{{ToC}}
+==Items==
+{| class="wikitable sortable"
+!colspan='13'|Items
+|-
+! Name !! ID !! Key !! Previous Value !! New Value !! Members !! Tradeable in GE !! Equipable !! Stackable !! Noteable !! Options !! Placeholder !! Cost
+|-
+|}
+
+==Non-Player Characters==
+{| class="wikitable sortable"
+!colspan='5'|Non-Player Characters
+|-
+! Name !! ID !! Key !! Previous Value !! Changed into
+|-
+|rowspan="2"|[[Soldier]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#6868 6868]
+|-
+|actions || ['Talk-to', None, 'Attack', None, None] || ['Talk-to', None, None, None, None]
+|-
+|rowspan="2"|[[Soldier]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#6869 6869]
+|-
+|actions || ['Talk-to', None, 'Attack', None, None] || ['Talk-to', None, None, None, None]
+|-
+|rowspan="2"|[[Soldier]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#6870 6870]
+|-
+|actions || ['Talk-to', None, 'Attack', None, None] || ['Talk-to', None, None, None, None]
+|-
+|rowspan="2"|[[Soldier]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#6871 6871]
+|-
+|actions || ['Talk-to', None, 'Attack', None, None] || ['Talk-to', None, None, None, None]
+|-
+|}
+
+==Objects==
+{| class="wikitable sortable"
+!colspan='5'|Objects
+|-
+! Name !! ID !! Key !! Previous Value !! Changed into
+|-
+| [[Loot Chest]] || [https://chisel.weirdgloop.org/moid/object_id.html#44780 44780] || colspan = "4" | New ID
+|-
+| [[Loot Chest]] || [https://chisel.weirdgloop.org/moid/object_id.html#44781 44781] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#44782 44782] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#44783 44783] || colspan = "4" | New ID
+|-
+| [[Door]] || [https://chisel.weirdgloop.org/moid/object_id.html#44784 44784] || colspan = "4" | New ID
+|-
+| [[Door]] || [https://chisel.weirdgloop.org/moid/object_id.html#44785 44785] || colspan = "4" | New ID
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#41191 41191]
+|-
+|configChangeDest || [26325, 41183, 41183, 41183, 41183, 41183, -1] || [26325, 41183]
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#41192 41192]
+|-
+|configChangeDest || [26325, 41184, 41184, 41184, 41184, 41184, -1] || [26325, 41184]
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#41193 41193]
+|-
+|configChangeDest || [26326, 41185, 41185, 41185, 41185, 41185, -1] || [26326, 41185]
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#41194 41194]
+|-
+|configChangeDest || [26326, 41186, 41186, 41186, 41186, 41186, -1] || [26326, 41186]
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#41195 41195]
+|-
+|configChangeDest || [26336, 41187, 41187, 41187, 41187, 41187, -1] || [26336, 41187]
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#41196 41196]
+|-
+|configChangeDest || [26336, 41188, 41188, 41188, 41188, 41188, -1] || [26336, 41188]
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#41197 41197]
+|-
+|configChangeDest || [26330, 41189, 41189, 41189, 41189, 41189, -1] || [26330, 41189]
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#41198 41198]
+|-
+|configChangeDest || [26330, 41190, 41190, 41190, 41190, 41190, -1] || [26330, 41190]
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#42835 42835]
+|-
+|configChangeDest || [42821, 42821, 42821, 42821, 42820, 42820, 42820, 42821, -1] || [42821, 42821, 42821, 42821, 42820, 42820, 42820, 42821]
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#43471 43471]
+|-
+|configChangeDest || [23606, 43472, 43472, 43472, 43472, 43472, -1] || [23606, 43472]
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#43473 43473]
+|-
+|configChangeDest || [23606, 43474, 43474, 43474, 43474, 43474, -1] || [23606, 43474]
+|-
+|}

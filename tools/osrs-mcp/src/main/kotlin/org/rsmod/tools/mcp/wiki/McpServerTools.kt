@@ -15,13 +15,12 @@ internal fun osrsMcpToolDebugEnabled(): Boolean {
 
 private fun jsonStringProp(): JsonObject = buildJsonObject { put("type", "string") }
 
-private fun jsonIntProp(min: Int, max: Int, default: Int): JsonObject =
-    buildJsonObject {
-        put("type", "integer")
-        put("minimum", min)
-        put("maximum", max)
-        put("default", default)
-    }
+private fun jsonIntProp(min: Int, max: Int, default: Int): JsonObject = buildJsonObject {
+    put("type", "integer")
+    put("minimum", min)
+    put("maximum", max)
+    put("default", default)
+}
 
 private fun toolError(message: String): CallToolResult =
     CallToolResult(isError = true, content = listOf(TextContent(text = message)))
@@ -46,7 +45,7 @@ private suspend inline fun runTool(
     } catch (e: Exception) {
         if (osrsMcpToolDebugEnabled()) {
             System.err.println(
-                "[osrs-mcp][tool] $toolName ERROR ${e::class.simpleName}: ${e.message ?: "unknown"}",
+                "[osrs-mcp][tool] $toolName ERROR ${e::class.simpleName}: ${e.message ?: "unknown"}"
             )
         }
         toolError("Tool call failed: ${e.message ?: "unknown error"}")
@@ -72,7 +71,9 @@ internal suspend fun Server.registerOsrsMcpTools(toolService: WikiTool) {
             return@addTool toolError("'query' is required and must be non-empty.")
         }
         val limit = args.intParam("limit")?.coerceIn(1, 10) ?: 5
-        runTool("wiki_search", { "query=${query.take(120)} limit=$limit" }) { toolService.wikiSearch(query, limit) }
+        runTool("wiki_search", { "query=${query.take(120)} limit=$limit" }) {
+            toolService.wikiSearch(query, limit)
+        }
     }
 
     addTool(
@@ -124,9 +125,7 @@ internal suspend fun Server.registerOsrsMcpTools(toolService: WikiTool) {
         val location = args.stringParam("location")
         runTool(
             "wiki_npc_spawns",
-            {
-                "title=${title.take(80)} npcName=${npcName.take(40)} location=${location.take(40)}"
-            },
+            { "title=${title.take(80)} npcName=${npcName.take(40)} location=${location.take(40)}" },
         ) {
             toolService.wikiNpcSpawns(
                 title = title,
@@ -228,7 +227,9 @@ internal suspend fun Server.registerOsrsMcpTools(toolService: WikiTool) {
         }
         val cacheKind = CacheKind.parse(cacheRaw)
         if (cacheKind == null) {
-            return@addTool toolError("Invalid 'cache' value '$cacheRaw'. Expected 'LIVE' or 'SERVER'.")
+            return@addTool toolError(
+                "Invalid 'cache' value '$cacheRaw'. Expected 'LIVE' or 'SERVER'."
+            )
         }
 
         val typeRaw = args.stringParam("type")
@@ -238,7 +239,7 @@ internal suspend fun Server.registerOsrsMcpTools(toolService: WikiTool) {
         val searchType = CacheSearchType.parse(typeRaw)
         if (searchType == null) {
             return@addTool toolError(
-                "Invalid 'type' value '$typeRaw'. Use npc, obj, item, anim, enum, struct, healthbar, hitsplat, varbit, varp, dbrow, dbtable, or all.",
+                "Invalid 'type' value '$typeRaw'. Use npc, obj, item, anim, enum, struct, healthbar, hitsplat, varbit, varp, dbrow, dbtable, or all."
             )
         }
 

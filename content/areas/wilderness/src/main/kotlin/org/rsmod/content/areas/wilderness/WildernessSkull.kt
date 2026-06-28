@@ -104,7 +104,10 @@ internal fun Player.applyForinthrySurge() {
 }
 
 internal fun Player.clearForinthrySurge() {
-    if (attr.getOrDefault(SKULL_ICON_TYPE, constants.skullicon_default) != constants.skullicon_forinthry_surge) {
+    if (
+        attr.getOrDefault(SKULL_ICON_TYPE, constants.skullicon_default) !=
+            constants.skullicon_forinthry_surge
+    ) {
         return
     }
     forinthrySurgeExpiration = 0
@@ -160,12 +163,13 @@ internal fun Player.refreshSkullIcon() {
     }
     val baseIcon = attr.getOrDefault(SKULL_ICON_TYPE, constants.skullicon_default)
     val cappedKeyCount = keyCount.coerceIn(0, 5)
-    skullIcon = when {
-        cappedKeyCount > 0 && baseIcon == constants.skullicon_forinthry_surge -> constants.skullicon_forinthry_surge_keys_1 + (cappedKeyCount - 1)
-        cappedKeyCount > 0 -> constants.skullicon_loot_key_1 + (cappedKeyCount - 1)
-        else -> baseIcon
-    }
-
+    skullIcon =
+        when {
+            cappedKeyCount > 0 && baseIcon == constants.skullicon_forinthry_surge ->
+                constants.skullicon_forinthry_surge_keys_1 + (cappedKeyCount - 1)
+            cappedKeyCount > 0 -> constants.skullicon_loot_key_1 + (cappedKeyCount - 1)
+            else -> baseIcon
+        }
 }
 
 internal fun Player.refreshSkullIconIfLootKeysChanged() {

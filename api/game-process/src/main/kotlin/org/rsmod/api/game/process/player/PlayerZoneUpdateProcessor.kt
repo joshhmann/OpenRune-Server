@@ -187,8 +187,7 @@ constructor(
         val enclosed = ArrayList<ZoneProt>()
         for (update in this) {
             val prot =
-                (update as? ZoneUpdateTransformer.PartialFollowsZoneProt)
-                    ?.toEnclosed(observerId)
+                (update as? ZoneUpdateTransformer.PartialFollowsZoneProt)?.toEnclosed(observerId)
             if (prot != null) {
                 enclosed += prot
             }
@@ -197,7 +196,7 @@ constructor(
     }
 
     private fun ZoneUpdateTransformer.PartialFollowsZoneProt.toEnclosed(
-        observerId: Long?,
+        observerId: Long?
     ): ZoneProt? =
         when (this) {
             is ZoneUpdateTransformer.ObjPrivateZoneProt ->

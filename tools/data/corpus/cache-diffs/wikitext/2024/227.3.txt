@@ -1,0 +1,173 @@
+__TOC__
+==Enums==
+===New Enums===
+{| class="wikitable sortable"
+|-
+! colspan="3" | New Enums
+|-
+! style="width: 15em" | id !! defaultValue !! map
+|}
+===Removed Enums===
+{| class="wikitable sortable"
+|-
+! colspan="3" | Removed Enums
+|-
+! style="width: 15em" | id !! defaultValue !! map
+|}
+===Diff Enums===
+{| class="wikitable sortable sticky-header"
+|-
+! colspan="5" | Diff Enums
+|-
+! style="width: 15em" | Id !! Key !! Previous Value !! New Value
+|-
+| rowspan="2" | [https://chisel.weirdgloop.org/structs/index.html?type=enums&id=1701 1701][https://abextm.github.io/cache2/#/viewer/enum/1701 (1)]
+|-
+| map || {'1': 'welcome_screen_custom_event', '2': 'welcome_screen_play_now', '3': 'welcome_screen_open_store', '4': 'welcome_screen_open_store_membership', '5': 'welcome_screen_open_store_bonds', '6': 'welcome_screen_open_poll', '7': 'welcome_screen_website_link', '8': 'welcome_screen_latest_news_link', '9': 'welcome_screen_news_archive_link', '10': 'welcome_screen_os_twitch_link', '11': 'welcome_screen_bond_pouch', '12': 'welcome_screen_adventure_paths', '13': 'welcome_screen_quest_WGS', '14': 'welcome_screen_activity_advisor', '15': 'welcome_screen_quest_COA', '16': 'welcome_screen_contactdetails', '17': 'welcome_screen_worldswitcher'} || {'1': 'welcome_screen_custom_event', '2': 'welcome_screen_play_now', '3': 'welcome_screen_open_store', '4': 'welcome_screen_open_store_membership', '5': 'welcome_screen_open_store_bonds', '6': 'welcome_screen_open_poll', '7': 'welcome_screen_website_link', '8': 'welcome_screen_latest_news_link', '9': 'welcome_screen_news_archive_link', '10': 'welcome_screen_os_twitch_link', '11': 'welcome_screen_bond_pouch', '12': 'welcome_screen_adventure_paths', '13': 'welcome_screen_quest_WGS', '14': 'welcome_screen_activity_advisor', '15': 'welcome_screen_quest_COA', '16': 'welcome_screen_contactdetails', '17': 'welcome_screen_worldswitcher'<span style="color: #6bc71f">, '18': 'welcome_screen_transition_account'</span>}
+|-
+| rowspan="2" | [https://chisel.weirdgloop.org/structs/index.html?type=enums&id=4025 4025][https://abextm.github.io/cache2/#/viewer/enum/4025 (1)]
+|-
+| map || {'0': 3636, '1': 2732, '2': 2852, '3': 2853, '4': 3657, '5': 3654, '6': 4461, '7': 322, '8': 4496, '9': 3655, '10': 2774, '11': 3016, '12': 2154, '13': 3007, '14': 3709, '15': 3710, '16': 2232, '17': 299, '18': 780, '19': 3641, '20': 319, '21': 3761, '22': 4462, '23': 4493, '24': 4688, '25': 2255, '26': 3107, '27': 3108, '28': 3110, '29': 3599, '30': 3744, '31': 3751, '32': 3752, '33': 3753, '34': 2735, '35': 3754, '36': 4286, '37': 3755, '38': 4157, '39': 4249, '40': 4250, '41': 4251, '42': 4252, '43': 3631, '44': 1055, '45': 3006, '46': 3757, '47': 1122, '48': 1233, '49': 3632, '50': 2768, '51': 2730, '52': 1052, '53': 997, '54': 2886, '55': 3633, '56': 3040, '57': 3041, '58': 3043, '59': 3042, '60': 3634, '61': 3017, '62': 3018, '63': 3020, '64': 3021, '65': 3022, '66': 3023, '67': 3024, '68': 3025, '69': 3026, '70': 3027, '71': 3028, '72': 3029, '73': 3030, '74': 3031, '75': 3032, '76': 3033, '77': 3034, '78': 3035, '79': 3036, '80': 3037, '81': 3038, '82': 3734, '83': 3112, '84': 3113, '85': 3114, '86': 3115, '87': 3116, '88': 3117, '89': 3658, '90': 3759, '91': 306, '92': 308, '93': 4148, '94': 364, '95': 1012, '96': 1022, '97': 365, '98': 367, '99': 368, '100': 369, '101': 370, '102': 371, '103': 372, '104': 373, '105': 374, '106': 4456, '107': 4691, '108': 4692, '109': 847, '110': 976, '111': 3001, '112': 1084, '113': 1102, '114': 1103, '115': 1085, '116': 1086, '117': 1087, '118': 1088, '119': 1089, '120': <span style="color: #ee4231">1090</span>, '121': <span style="color: #ee4231">1091</span>, '122': <span style="color: #ee4231">1094</span>, '123': <span style="color: #ee4231">1098</span>, '124': <span style="color: #ee4231">1101</span>, '125': 1100} || {'0': 3636, '1': 2732, '2': 2852, '3': 2853, '4': 3657, '5': 3654, '6': 4461, '7': 322, '8': 4496, '9': 3655, '10': 2774, '11': 3016, '12': 2154, '13': 3007, '14': 3709, '15': 3710, '16': 2232, '17': 299, '18': 780, '19': 3641, '20': 319, '21': 3761, '22': 4462, '23': 4493, '24': 4688, '25': 2255, '26': 3107, '27': 3108, '28': 3110, '29': 3599, '30': 3744, '31': 3751, '32': 3752, '33': 3753, '34': 2735, '35': 3754, '36': 4286, '37': 3755, '38': 4157, '39': 4249, '40': 4250, '41': 4251, '42': 4252, '43': 3631, '44': 1055, '45': 3006, '46': 3757, '47': 1122, '48': 1233, '49': 3632, '50': 2768, '51': 2730, '52': 1052, '53': 997, '54': 2886, '55': 3633, '56': 3040, '57': 3041, '58': 3043, '59': 3042, '60': 3634, '61': 3017, '62': 3018, '63': 3020, '64': 3021, '65': 3022, '66': 3023, '67': 3024, '68': 3025, '69': 3026, '70': 3027, '71': 3028, '72': 3029, '73': 3030, '74': 3031, '75': 3032, '76': 3033, '77': 3034, '78': 3035, '79': 3036, '80': 3037, '81': 3038, '82': 3734, '83': 3112, '84': 3113, '85': 3114, '86': 3115, '87': 3116, '88': 3117, '89': 3658, '90': 3759, '91': 306, '92': 308, '93': 4148, '94': 364, '95': 1012, '96': 1022, '97': 365, '98': 367, '99': 368, '100': 369, '101': 370, '102': 371, '103': 372, '104': 373, '105': 374, '106': 4456, '107': 4691, '108': 4692, '109': 847, '110': 976, '111': 3001, '112': 1084, '113': 1102, '114': 1103, '115': 1085, '116': 1086, '117': 1087, '118': 1088, '119': 1089, '120': <span style="color: #6bc71f">93</span>, '121': <span style="color: #6bc71f">1090</span>, '122': <span style="color: #6bc71f">1091</span>, '123': <span style="color: #6bc71f">1094</span>, '124': <span style="color: #6bc71f">1098</span>, '125': <span style="color: #6bc71f">1101, '126': </span>1100}
+|}
+==Structs==
+===New Structs===
+{| class="wikitable sortable"
+|-
+! colspan="2" | New Structs
+|-
+! style="width: 15em" | id !! params
+|-
+| [https://chisel.weirdgloop.org/structs/index.html?type=structs&id=93 93][https://abextm.github.io/cache2/#/viewer/struct/93 (1)] || {'1077': 419, '1078': 0, '1084': 1, '1085': 1, '1086': 'Minimenu scrollbar', '1088': 'minimenu, scrollbar, toggle, menu, mes', '1096': 'Enables display of the minimenu scrollbar when lots of options are visible.', '1157': 1}
+|-
+| [https://chisel.weirdgloop.org/structs/index.html?type=structs&id=883 883][https://abextm.github.io/cache2/#/viewer/struct/883 (1)] || 
+|}
+===Removed Structs===
+{| class="wikitable sortable"
+|-
+! colspan="2" | Removed Structs
+|-
+! style="width: 15em" | id !! params
+|}
+===Diff Structs===
+{| class="wikitable sortable sticky-header"
+|-
+! colspan="5" | Diff Structs
+|-
+! style="width: 15em" | Id !! Key !! Previous Value !! New Value
+|-
+| rowspan="2" | [https://chisel.weirdgloop.org/structs/index.html?type=structs&id=1123 1123][https://abextm.github.io/cache2/#/viewer/struct/1123 (1)]
+|-
+| params || {'879': 'Corner Cutter', '880': '- While equipped,  Sage's Greaves will grant Agility XP based on your Agility level while you run.<br><br>- Completing an Agility course grants two completion count and 25% bonus XP.<br><br>- 100% success rate on all <span style="color: #ee4231">Thieving</span> checks.<br><br>- Marks of Grace will also spawn with 10, 000 coins.<br><br>- Double Quantity of Pyramid Tops,  Hallowed Marks and Agility Vouchers,  and Crystal shards (From agility)', '881': 5994, '882': 6103, '883': 6021, '884': 5967, '885': 1, '1853': 6048, '1854': 6076, '1855': 1, '2049': 28771} || {'879': 'Corner Cutter', '880': '- While equipped,  Sage's Greaves will grant Agility XP based on your Agility level while you run.<br><br>- Completing an Agility course grants two completion count and 25% bonus XP.<br><br>- 100% success rate on all <span style="color: #6bc71f">Agility</span> checks.<br><br>- Marks of Grace will also spawn with 10, 000 coins.<br><br>- Double Quantity of Pyramid Tops,  Hallowed Marks and Agility Vouchers,  and Crystal shards (From agility)', '881': 5994, '882': 6103, '883': 6021, '884': 5967, '885': 1, '1853': 6048, '1854': 6076, '1855': 1, '2049': 28771}
+|-
+| rowspan="2" | [https://chisel.weirdgloop.org/structs/index.html?type=structs&id=3797 3797][https://abextm.github.io/cache2/#/viewer/struct/3797 (1)]
+|-
+| params || {'873': 1642, '874': 'Araxxor Combat Achievements', '875': 'Complete all of the Combat Achievements for Araxxor', '1016': 4, '1017': 5, '1018': 0, '2044': 4} || {'873': 1642, '874': 'Araxxor Combat Achievements', '875': 'Complete all of the Combat Achievements for Araxxor', '1016': 4, '1017': 5, '1018': 0, '<span style="color: #6bc71f">1848': 12, '</span>2044': 4}
+|-
+| rowspan="2" | [https://chisel.weirdgloop.org/structs/index.html?type=structs&id=3839 3839][https://abextm.github.io/cache2/#/viewer/struct/3839 (1)]
+|-
+| params || {'873': 1676, '874': 'Perilous Moons Combat Achievements', '875': 'Complete all of the Combat Achievements for Perilous Moons', '1016': 4, '1017': 21, '1018': 0, '1848': <span style="color: #ee4231">13</span>, '2044': 4} || {'873': 1676, '874': 'Perilous Moons Combat Achievements', '875': 'Complete all of the Combat Achievements for Perilous Moons', '1016': 4, '1017': 21, '1018': 0, '1848': <span style="color: #6bc71f">12</span>, '2044': 4}
+|-
+| rowspan="2" | [https://chisel.weirdgloop.org/structs/index.html?type=structs&id=5739 5739][https://abextm.github.io/cache2/#/viewer/struct/5739 (1)]
+|-
+| params || {'873': 1420, '874': 'The Whisperer Combat Achievements', '875': 'Complete all of the Combat Achievements for The Whisperer', '1016': 4, '1017': 3, '1018': 0, '2044': 4} || {'873': 1420, '874': 'The Whisperer Combat Achievements', '875': 'Complete all of the Combat Achievements for The Whisperer', '1016': 4, '1017': 3, '1018': 0, '<span style="color: #6bc71f">1848': 9, '</span>2044': 4}
+|-
+| rowspan="2" | [https://chisel.weirdgloop.org/structs/index.html?type=structs&id=5740 5740][https://abextm.github.io/cache2/#/viewer/struct/5740 (1)]
+|-
+| params || {'873': 1421, '874': 'Vardorvis Combat Achievements', '875': 'Complete all of the Combat Achievements for Vardorvis', '1016': 4, '1017': 21, '1018': 0, '2044': 4} || {'873': 1421, '874': 'Vardorvis Combat Achievements', '875': 'Complete all of the Combat Achievements for Vardorvis', '1016': 4, '1017': 21, '1018': 0, '<span style="color: #6bc71f">1848': 9, '</span>2044': 4}
+|-
+| rowspan="2" | [https://chisel.weirdgloop.org/structs/index.html?type=structs&id=5741 5741][https://abextm.github.io/cache2/#/viewer/struct/5741 (1)]
+|-
+| params || {'873': 1422, '874': 'Duke Sucellus Combat Achievements', '875': 'Complete all of the Combat Achievements for Duke Sucellus', '1016': 4, '1017': 8, '1018': 0, '2044': 4} || {'873': 1422, '874': 'Duke Sucellus Combat Achievements', '875': 'Complete all of the Combat Achievements for Duke Sucellus', '1016': 4, '1017': 8, '1018': 0, '<span style="color: #6bc71f">1848': 9, '</span>2044': 4}
+|-
+| rowspan="2" | [https://chisel.weirdgloop.org/structs/index.html?type=structs&id=5742 5742][https://abextm.github.io/cache2/#/viewer/struct/5742 (1)]
+|-
+| params || {'873': 1423, '874': 'The Leviathan Combat Achievements', '875': 'Complete all of the Combat Achievements for The Leviathan', '1016': 4, '1017': 6, '1018': 0, '2044': 4} || {'873': 1423, '874': 'The Leviathan Combat Achievements', '875': 'Complete all of the Combat Achievements for The Leviathan', '1016': 4, '1017': 6, '1018': 0, '<span style="color: #6bc71f">1848': 9, '</span>2044': 4}
+|-
+| rowspan="2" | [https://chisel.weirdgloop.org/structs/index.html?type=structs&id=5979 5979][https://abextm.github.io/cache2/#/viewer/struct/5979 (1)]
+|-
+| params || {'2020': 'The Asgarnia area covers the entire Kingdom of Asgarnia along with the island of Entrana,  the Pest Control islands,  and Troll Country.<br><br>Instances of areas in Asgarnia and underground areas with an entrance in Asgarnia will also be included.<br><br>Access to Catherby from White Wolf Mountain will be restricted and prevented through the use of magical barriers.<br><br>All transportation and teleportation via Charter Ships,  Customs Officers,  Gnome Gliders,  Fairy Rings,  Balloons and all other forms of transport will require you to have unlocked access to the area your destination is in.<br><br>The following travel options are restricted unless you have access to the appropriate area: <br><br>- The under-wall shortcut between Port Sarim and Draynor Village<br>- The rubble shortcut between Death Plateau and the Fremennik Province<br>- The cave between Trollweiss and Keldagrim<br>- The rock-climb shortcut between the Troll Stronghold and the Wilderness<br>- The rock-climb shortcut between the God Wars Dungeon and the Wilderness<br>- The ladder between Taverley Dungeon and the Water Obelisk<br>- The underground tunnel between Taverley and Catherby<br>- The cave between Entrana and the Wilderness<br><br>', '2021': 'Notable Settlements: <br><br>- Burthorpe<br>- Ruins of Camdozaal<br>- Ice Mountain<br>- Dwarven Mine<br>- Entrana<br>- Falador<br>- Goblin Village<br>- God Wars Dungeon<br>- Port Sarim<br>- Rimmington<br>- Taverley<br>- Troll Stronghold<br>- Void Knights' Outpost<br><br>Notable combat-related activities: <br><br>- Asgarnia Ice Dungeon<br>- The Whisperer <br>- Cerberus<br>- Giant Mole<br>- God Wars Dungeon (with Nex)<br>- Taverley Dungeon<br>- Warriors Guild<br>- Pest Control<br><br>Notable non-combat activities: <br><br>- Crafting Guild<br>- Falador Rooftop Agility Course<br>- Falador Tree Patch<br>- Falador Allotment Patch<br>- Water Obelisk (with Kandarin unlocked)<br>- Fire Obelisk<br>- Heroes' Guild<br>- Motherlode Mine<br>- Rimmington House Portal<br>- Rogue's Den<br>- Mahogany Homes<br>- Mining Guild<br>- Air,  Body,  Law and Mind Altars<br>- Taverley House Portal<br>- Taverley Tree Patch<br>- Troll Stronghold Herb Patch<br><br>', '2022': 'The following quests and their pre-reqs are automatically completed but will not reward any completion XP: <br><br>- Merlin's Crystal<br>- My Arm's Big Adventure<br>- Below Ice Mountain<br>- Dwarf Cannon<br><br>The following tasks in the Falador Achievement Diary are automatically completed: <br><br>Medium Tasks: <br>- Visit the Port Sarim Rat Pits<br><br>Hard Tasks: <br>- Recharge your Prayer in Port Sarim church while wearing full Proselyte<br><br>Elite Tasks: <br>- Purchase a white 2-handed sword from Sir Vyvin<br><br>Additionally,  you will be eligible to complete The Frozen Door,  if you haven't already. It will not be auto-completed.<br><br>', '2023': 'The drops listed below are affected by the drop rate modifier perks granted by passive Relic unlocks.<br><br>Drop rates affected are always rounded down and are not tied to area unlocks. This list represents the key drops affected in Asgarnia.<br><br>- All Defenders from Cyclops<br>- All unique rewards from Cerberus<br>- All unique rewards from Kree'arra<br>- All unique rewards from General Graardor<br>- All unique rewards from Commander Zilyana<br>- All unique rewards from <span style="color: #ee4231">Kril</span> <span style="color: #ee4231">Tsu'tsaroth</span><br>- Dragon Boots from spiritual mages<br>- All unique rewards from Nex<br>- All unique rewards from The Whisperer<br>- All unique rewards from Superior Slayer Creatures<br>- Smouldering Stone from Hellhounds<br> <br><br>'} || {'2020': 'The Asgarnia area covers the entire Kingdom of Asgarnia along with the island of Entrana,  the Pest Control islands,  and Troll Country.<br><br>Instances of areas in Asgarnia and underground areas with an entrance in Asgarnia will also be included.<br><br>Access to Catherby from White Wolf Mountain will be restricted and prevented through the use of magical barriers.<br><br>All transportation and teleportation via Charter Ships,  Customs Officers,  Gnome Gliders,  Fairy Rings,  Balloons and all other forms of transport will require you to have unlocked access to the area your destination is in.<br><br>The following travel options are restricted unless you have access to the appropriate area: <br><br>- The under-wall shortcut between Port Sarim and Draynor Village<br>- The rubble shortcut between Death Plateau and the Fremennik Province<br>- The cave between Trollweiss and Keldagrim<br>- The rock-climb shortcut between the Troll Stronghold and the Wilderness<br>- The rock-climb shortcut between the God Wars Dungeon and the Wilderness<br>- The ladder between Taverley Dungeon and the Water Obelisk<br>- The underground tunnel between Taverley and Catherby<br>- The cave between Entrana and the Wilderness<br><br>', '2021': 'Notable Settlements: <br><br>- Burthorpe<br>- Ruins of Camdozaal<br>- Ice Mountain<br>- Dwarven Mine<br>- Entrana<br>- Falador<br>- Goblin Village<br>- God Wars Dungeon<br>- Port Sarim<br>- Rimmington<br>- Taverley<br>- Troll Stronghold<br>- Void Knights' Outpost<br><br>Notable combat-related activities: <br><br>- Asgarnia Ice Dungeon<br>- The Whisperer <br>- Cerberus<br>- Giant Mole<br>- God Wars Dungeon (with Nex)<br>- Taverley Dungeon<br>- Warriors Guild<br>- Pest Control<br><br>Notable non-combat activities: <br><br>- Crafting Guild<br>- Falador Rooftop Agility Course<br>- Falador Tree Patch<br>- Falador Allotment Patch<br>- Water Obelisk (with Kandarin unlocked)<br>- Fire Obelisk<br>- Heroes' Guild<br>- Motherlode Mine<br>- Rimmington House Portal<br>- Rogue's Den<br>- Mahogany Homes<br>- Mining Guild<br>- Air,  Body,  Law and Mind Altars<br>- Taverley House Portal<br>- Taverley Tree Patch<br>- Troll Stronghold Herb Patch<br><br>', '2022': 'The following quests and their pre-reqs are automatically completed but will not reward any completion XP: <br><br>- Merlin's Crystal<br>- My Arm's Big Adventure<br>- Below Ice Mountain<br>- Dwarf Cannon<br><br>The following tasks in the Falador Achievement Diary are automatically completed: <br><br>Medium Tasks: <br>- Visit the Port Sarim Rat Pits<br><br>Hard Tasks: <br>- Recharge your Prayer in Port Sarim church while wearing full Proselyte<br><br>Elite Tasks: <br>- Purchase a white 2-handed sword from Sir Vyvin<br><br>Additionally,  you will be eligible to complete The Frozen Door,  if you haven't already. It will not be auto-completed.<br><br>', '2023': 'The drops listed below are affected by the drop rate modifier perks granted by passive Relic unlocks.<br><br>Drop rates affected are always rounded down and are not tied to area unlocks. This list represents the key drops affected in Asgarnia.<br><br>- All Defenders from Cyclops<br>- All unique rewards from Cerberus<br>- All unique rewards from Kree'arra<br>- All unique rewards from General Graardor<br>- All unique rewards from Commander Zilyana<br>- All unique rewards from <span style="color: #6bc71f">K'ril</span> <span style="color: #6bc71f">Tsutsaroth</span><br>- Dragon Boots from spiritual mages<br>- All unique rewards from Nex<br>- All unique rewards from The Whisperer<br>- All unique rewards from Superior Slayer Creatures<br>- Smouldering Stone from Hellhounds<br> <br><br>'}
+|}
+==Database Rows==
+===New Database Rows===
+{| class="wikitable sortable"
+|-
+! colspan="3" | New Database Rows
+|-
+! style="width: 15em" | id !! table !! values
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/4227 4227] || 82 || [[22], [Ignore region], None, None, None, None, None, None, None, None, None, None]
+|}
+===Removed Database Rows===
+{| class="wikitable sortable"
+|-
+! colspan="3" | Removed Database Rows
+|-
+! style="width: 15em" | id !! table !! values
+|}
+===Diff Database Rows===
+{| class="wikitable sortable sticky-header"
+|-
+! colspan="5" | Diff Database Rows
+|-
+! style="width: 15em" | Id !! Key !! Previous Value !! New Value
+|-
+| rowspan="3" | [https://abextm.github.io/cache2/#/viewer/dbrow/4185 4185]
+|-
+| values || [None, None, None, None, <span style="color: #ee4231">None</span>, None, None, None, [20], [lizardmen], [Lizardmen], None, [14144, 3, 65, 150]] || [None, None, None, None, <span style="color: #6bc71f">[55]</span>, None, None, None, [20], [lizardmen], [Lizardmen], None, [14144, 3, 65, 150]]
+|-
+| types || [None, None, None, None, <span style="color: #ee4231">None</span>, None, None, None, [0], [36], [36], None, [32, 0, 0, 0]] || [None, None, None, None, <span style="color: #6bc71f">[0]</span>, None, None, None, [0], [36], [36], None, [32, 0, 0, 0]]
+|-
+| rowspan="3" | [https://abextm.github.io/cache2/#/viewer/dbrow/4188 4188]
+|-
+| values || [None, None, None, None, <span style="color: #ee4231">None</span>, None, None, None, [4], [mithril dragons], [Mithril Dragons], None, [14144, 5, 20, 65]] || [None, None, None, None, <span style="color: #6bc71f">[85]</span>, None, None, None, [4], [mithril dragons], [Mithril Dragons], None, [14144, 5, 20, 65]]
+|-
+| types || [None, None, None, None, <span style="color: #ee4231">None</span>, None, None, None, [0], [36], [36], None, [32, 0, 0, 0]] || [None, None, None, None, <span style="color: #6bc71f">[0]</span>, None, None, None, [0], [36], [36], None, [32, 0, 0, 0]]
+|-
+| rowspan="3" | [https://abextm.github.io/cache2/#/viewer/dbrow/4196 4196]
+|-
+| values || [None, None, None, None, <span style="color: #ee4231">None</span>, None, None, None, [11, 6], [bandits], [Bandits], None, [14144, 6, 50, 100]] || [None, None, None, None, <span style="color: #6bc71f">[15]</span>, None, None, None, [11, 6], [bandits], [Bandits], None, [14144, 6, 50, 100]]
+|-
+| types || [None, None, None, None, <span style="color: #ee4231">None</span>, None, None, None, [0], [36], [36], None, [32, 0, 0, 0]] || [None, None, None, None, <span style="color: #6bc71f">[0]</span>, None, None, None, [0], [36], [36], None, [32, 0, 0, 0]]
+|-
+| rowspan="3" | [https://abextm.github.io/cache2/#/viewer/dbrow/4198 4198]
+|-
+| values || [None, None, None, None, <span style="color: #ee4231">None</span>, None, None, None, [11], [lava dragons], [Lava Dragons], None, [14144, 6, 20, 65]] || [None, None, None, None, <span style="color: #6bc71f">[50]</span>, None, None, None, [11], [lava dragons], [Lava Dragons], None, [14144, 6, 20, 65]]
+|-
+| types || [None, None, None, None, <span style="color: #ee4231">None</span>, None, None, None, [0], [36], [36], None, [32, 0, 0, 0]] || [None, None, None, None, <span style="color: #6bc71f">[0]</span>, None, None, None, [0], [36], [36], None, [32, 0, 0, 0]]
+|-
+| rowspan="3" | [https://abextm.github.io/cache2/#/viewer/dbrow/4200 4200]
+|-
+| values || [None, None, None, None, <span style="color: #ee4231">None</span>, None, None, None, [11], [revenants], [Revenants], None, [14144, 6, 150, 200]] || [None, None, None, None, <span style="color: #6bc71f">[30]</span>, None, None, None, [11], [revenants], [Revenants], None, [14144, 6, 150, 200]]
+|-
+| types || [None, None, None, None, <span style="color: #ee4231">None</span>, None, None, None, [0], [36], [36], None, [32, 0, 0, 0]] || [None, None, None, None, <span style="color: #6bc71f">[0]</span>, None, None, None, [0], [36], [36], None, [32, 0, 0, 0]]
+|-
+| rowspan="3" | [https://abextm.github.io/cache2/#/viewer/dbrow/4203 4203]
+|-
+| values || [None, None, None, None, <span style="color: #ee4231">None</span>, None, None, None, [11], [chaos druids], [Chaos Druids], None, [14144, 4, 50, 100]] || [None, None, None, None, <span style="color: #6bc71f">[10]</span>, None, None, None, [11], [chaos druids], [Chaos Druids], None, [14144, 4, 50, 100]]
+|-
+| types || [None, None, None, None, <span style="color: #ee4231">None</span>, None, None, None, [0], [36], [36], None, [32, 0, 0, 0]] || [None, None, None, None, <span style="color: #6bc71f">[0]</span>, None, None, None, [0], [36], [36], None, [32, 0, 0, 0]]
+|-
+| rowspan="3" | [https://abextm.github.io/cache2/#/viewer/dbrow/4204 4204]
+|-
+| values || [None, None, [62, 18], None, <span style="color: #ee4231">None</span>, None, None, None, [20, 21], [wyrms], [Wyrms], None, [14144, 4, 100, 150]] || [None, None, [62, 18], None, <span style="color: #6bc71f">[60]</span>, None, None, None, [20, 21], [wyrms], [Wyrms], None, [14144, 4, 100, 150]]
+|-
+| types || [None, None, [0, 17], None, <span style="color: #ee4231">None</span>, None, None, None, [0], [36], [36], None, [32, 0, 0, 0]] || [None, None, [0, 17], None, <span style="color: #6bc71f">[0]</span>, None, None, None, [0], [36], [36], None, [32, 0, 0, 0]]
+|-
+| rowspan="3" | [https://abextm.github.io/cache2/#/viewer/dbrow/4205 4205]
+|-
+| values || [None, None, [84, 18], None, <span style="color: #ee4231">None</span>, None, None, None, [20], [drakes], [Drakes], None, [14144, 4, 20, 65]] || [None, None, [84, 18], None, <span style="color: #6bc71f">[75]</span>, None, None, None, [20], [drakes], [Drakes], None, [14144, 4, 20, 65]]
+|-
+| types || [None, None, [0, 17], None, <span style="color: #ee4231">None</span>, None, None, None, [0], [36], [36], None, [32, 0, 0, 0]] || [None, None, [0, 17], None, <span style="color: #6bc71f">[0]</span>, None, None, None, [0], [36], [36], None, [32, 0, 0, 0]]
+|-
+| rowspan="3" | [https://abextm.github.io/cache2/#/viewer/dbrow/4206 4206]
+|-
+| values || [None, None, [95, 18], None, <span style="color: #ee4231">None</span>, None, None, None, [20], [hydras], [Hydras], None, [14144, 5, 100, 150]] || [None, None, [95, 18], None, <span style="color: #6bc71f">[85]</span>, None, None, None, [20], [hydras], [Hydras], None, [14144, 5, 100, 150]]
+|-
+| types || [None, None, [0, 17], None, <span style="color: #ee4231">None</span>, None, None, None, [0], [36], [36], None, [32, 0, 0, 0]] || [None, None, [0, 17], None, <span style="color: #6bc71f">[0]</span>, None, None, None, [0], [36], [36], None, [32, 0, 0, 0]]
+|-
+| rowspan="3" | [https://abextm.github.io/cache2/#/viewer/dbrow/4217 4217]
+|-
+| values || [None, None, [92, 18], None, None, None, None, None, [5], [araxytes], [Araxytes], None, <span style="color: #ee4231">None</span>] || [None, None, [92, 18], None, None, None, None, None, [5], [araxytes], [Araxytes], None, <span style="color: #6bc71f">[14144, 5, 100, 150</span>]<span style="color: #6bc71f">]</span>
+|-
+| types || [None, None, [0, 17], None, None, None, None, None, [0], [36], [36], None, <span style="color: #ee4231">None</span>] || [None, None, [0, 17], None, None, None, None, None, [0], [36], [36], None, <span style="color: #6bc71f">[32, 0, 0, 0</span>]<span style="color: #6bc71f">]</span>
+|}

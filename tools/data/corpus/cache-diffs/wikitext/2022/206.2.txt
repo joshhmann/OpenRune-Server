@@ -1,0 +1,161 @@
+{{ToC}}
+==Items==
+{| class="wikitable sortable"
+!colspan='13'|Items
+|-
+! Name !! ID !! Key !! Previous Value !! New Value !! Members !! Tradeable in GE !! Equipable !! Stackable !! Noteable !! Options !! Placeholder !! Cost
+|-
+| [[Rainbow flower crown]] || [https://chisel.weirdgloop.org/moid/item_id.html#27035 27035] || colspan = "3" | New ID || No || No || Yes || No || No ||  Wear,   Destroy || Yes || 1
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#27036 27036] || colspan = "3" | New ID || No || No || No || No || No ||     Drop || Yes || 1
+|-
+| [[Legendary red rose seed]] || [https://chisel.weirdgloop.org/moid/item_id.html#27037 27037] || colspan = "3" | New ID || No || No || No || No || No ||     Destroy || No || 0
+|-
+| [[Gorgeous orange lily seed]] || [https://chisel.weirdgloop.org/moid/item_id.html#27038 27038] || colspan = "3" | New ID || No || No || No || No || No ||     Destroy || No || 0
+|-
+| [[Beautiful yellow pansy seed]] || [https://chisel.weirdgloop.org/moid/item_id.html#27039 27039] || colspan = "3" | New ID || No || No || No || No || No ||     Destroy || No || 0
+|-
+| [[Tenacious indigo iris seed]] || [https://chisel.weirdgloop.org/moid/item_id.html#27040 27040] || colspan = "3" | New ID || No || No || No || No || No ||     Destroy || No || 0
+|-
+| [[Quality violet tulip seed]] || [https://chisel.weirdgloop.org/moid/item_id.html#27041 27041] || colspan = "3" | New ID || No || No || No || No || No ||     Destroy || No || 0
+|-
+|rowspan="2"|[[Colossal blade]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#27021 27021]
+|-
+|cost || 60000 || 225000
+|-
+|}
+
+==Non-Player Characters==
+{| class="wikitable sortable"
+!colspan='5'|Non-Player Characters
+|-
+! Name !! ID !! Key !! Previous Value !! Changed into
+|-
+| [[Gilbert]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11650 11650] || colspan = "4" | New ID
+|-
+| [[Gilbert]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11651 11651] || colspan = "4" | New ID
+|-
+| [[Lisa]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11652 11652] || colspan = "4" | New ID
+|-
+| [[Wolf]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11653 11653] || colspan = "4" | New ID
+|-
+| [[Sylvia]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11654 11654] || colspan = "4" | New ID
+|-
+| [[Marsha]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11655 11655] || colspan = "4" | New ID
+|-
+| [[Alan]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11656 11656] || colspan = "4" | New ID
+|-
+| [[Oscar]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11657 11657] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11658 11658] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11659 11659] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11660 11660] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11661 11661] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11662 11662] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11663 11663] || colspan = "4" | New ID
+|-
+|rowspan="3"|[[? ? ? ?]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/npc_id.html#1188 1188]
+|-
+|models || [230, 245, 246, 295, 151, 176, 254, 181, 12771] || [26890, 26885, 26892, 26886, 26889, 26887]
+|-
+| chatheadModels || [63, 78] || [26905]
+|-
+|}
+
+==Objects==
+{| class="wikitable sortable"
+!colspan='5'|Objects
+|-
+! Name !! ID !! Key !! Previous Value !! Changed into
+|-
+| [[Flowers]] || [https://chisel.weirdgloop.org/moid/object_id.html#44786 44786] || colspan = "4" | New ID
+|-
+| [[Flowers]] || [https://chisel.weirdgloop.org/moid/object_id.html#44787 44787] || colspan = "4" | New ID
+|-
+| [[Flowers]] || [https://chisel.weirdgloop.org/moid/object_id.html#44788 44788] || colspan = "4" | New ID
+|-
+| [[Flowers]] || [https://chisel.weirdgloop.org/moid/object_id.html#44789 44789] || colspan = "4" | New ID
+|-
+| [[Flowers]] || [https://chisel.weirdgloop.org/moid/object_id.html#44790 44790] || colspan = "4" | New ID
+|-
+| [[Flowers]] || [https://chisel.weirdgloop.org/moid/object_id.html#44791 44791] || colspan = "4" | New ID
+|-
+| [[Flowers]] || [https://chisel.weirdgloop.org/moid/object_id.html#44792 44792] || colspan = "4" | New ID
+|-
+| [[Flowers]] || [https://chisel.weirdgloop.org/moid/object_id.html#44793 44793] || colspan = "4" | New ID
+|-
+| [[Flowers]] || [https://chisel.weirdgloop.org/moid/object_id.html#44794 44794] || colspan = "4" | New ID
+|-
+| [[Flowers]] || [https://chisel.weirdgloop.org/moid/object_id.html#44795 44795] || colspan = "4" | New ID
+|-
+| [[Flowers]] || [https://chisel.weirdgloop.org/moid/object_id.html#44796 44796] || colspan = "4" | New ID
+|-
+| [[Flowers]] || [https://chisel.weirdgloop.org/moid/object_id.html#44797 44797] || colspan = "4" | New ID
+|-
+| [[Flowers]] || [https://chisel.weirdgloop.org/moid/object_id.html#44798 44798] || colspan = "4" | New ID
+|-
+| [[Flowers]] || [https://chisel.weirdgloop.org/moid/object_id.html#44799 44799] || colspan = "4" | New ID
+|-
+| [[Flowers]] || [https://chisel.weirdgloop.org/moid/object_id.html#44800 44800] || colspan = "4" | New ID
+|-
+| [[Flowers]] || [https://chisel.weirdgloop.org/moid/object_id.html#44801 44801] || colspan = "4" | New ID
+|-
+| [[Flowers]] || [https://chisel.weirdgloop.org/moid/object_id.html#44802 44802] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#44805 44805] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#44806 44806] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#44807 44807] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#44808 44808] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#44809 44809] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#44810 44810] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#44811 44811] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#44812 44812] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#44813 44813] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#44814 44814] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#44815 44815] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#44816 44816] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#44817 44817] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#44818 44818] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#44819 44819] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#44820 44820] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#44821 44821] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#44822 44822] || colspan = "4" | New ID
+|-
+| [[Flowers]] || [https://chisel.weirdgloop.org/moid/object_id.html#44823 44823] || colspan = "4" | New ID
+|-
+| [[Flowers]] || [https://chisel.weirdgloop.org/moid/object_id.html#44824 44824] || colspan = "4" | New ID
+|-
+| [[Flowers]] || [https://chisel.weirdgloop.org/moid/object_id.html#44825 44825] || colspan = "4" | New ID
+|-
+| [[Flowers]] || [https://chisel.weirdgloop.org/moid/object_id.html#44826 44826] || colspan = "4" | New ID
+|-
+|rowspan="2"|[[Bank chest]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#30267 30267]
+|-
+|blockingMask || 14 || 0
+|-
+|}

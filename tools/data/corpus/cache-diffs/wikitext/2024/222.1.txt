@@ -1,0 +1,265 @@
+__TOC__
+==Objects==
+===New Objects===
+{| class="wikitable sortable"
+|-
+! colspan="3" | New Objects
+|-
+! style="width: 15em" | name !! id !! actions
+|-
+| [[Barrier]] || [https://chisel.weirdgloop.org/moid/object_id.html#53263 53263][https://abextm.github.io/cache2/#/viewer/obj/53263 (1)] || [Pass, Peek, Quick-pass, Visual-effects, None]
+|}
+===Removed Objects===
+{| class="wikitable sortable"
+|-
+! colspan="3" | Removed Objects
+|-
+! style="width: 15em" | name !! id !! actions
+|}
+===Diff Objects===
+{| class="wikitable sortable sticky-header"
+|-
+! colspan="5" | Diff Objects
+|-
+! style="width: 15em" | Name !! Id !! Key !! Previous Value !! New Value
+|-
+| rowspan="4" | [[Barrier]]
+| rowspan="4" | [https://chisel.weirdgloop.org/moid/object_id.html#43700 43700][https://abextm.github.io/cache2/#/viewer/obj/43700 (1)]
+|-
+| ambient || <span style="color: #ee4231">100</span> || <span style="color: #6bc71f">50</span>
+|-
+| recolorFrom ||  || <span style="color: #6bc71f">[8132]</span>
+|-
+| recolorTo ||  || <span style="color: #6bc71f">[8152]</span>
+|-
+| rowspan="2" | [[Barrier]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#43849 43849][https://abextm.github.io/cache2/#/viewer/obj/43849 (1)]
+|-
+| ambient || <span style="color: #ee4231">100</span> || <span style="color: #6bc71f">50</span>
+|}
+==Enums==
+===New Enums===
+{| class="wikitable sortable"
+|-
+! colspan="3" | New Enums
+|-
+! style="width: 15em" | id !! defaultValue !! map
+|-
+| [https://chisel.weirdgloop.org/structs/index.html?type=enums&id=5444 5444][https://abextm.github.io/cache2/#/viewer/enum/5444 (1)] ||  || 
+|-
+| [https://chisel.weirdgloop.org/structs/index.html?type=enums&id=5445 5445][https://abextm.github.io/cache2/#/viewer/enum/5445 (1)] ||  || 
+|-
+| [https://chisel.weirdgloop.org/structs/index.html?type=enums&id=5446 5446][https://abextm.github.io/cache2/#/viewer/enum/5446 (1)] ||  || 
+|-
+| [https://chisel.weirdgloop.org/structs/index.html?type=enums&id=5447 5447][https://abextm.github.io/cache2/#/viewer/enum/5447 (1)] ||  || 
+|-
+| [https://chisel.weirdgloop.org/structs/index.html?type=enums&id=5448 5448][https://abextm.github.io/cache2/#/viewer/enum/5448 (1)] || Show all || {'0': 'Show all', '1': 'Clothing', '2': 'Flags', '3': 'Brewing'}
+|-
+| [https://chisel.weirdgloop.org/structs/index.html?type=enums&id=5449 5449][https://abextm.github.io/cache2/#/viewer/enum/5449 (1)] || Type A || {'0': 'Type A', '1': 'Type B'}
+|}
+===Removed Enums===
+{| class="wikitable sortable"
+|-
+! colspan="3" | Removed Enums
+|-
+! style="width: 15em" | id !! defaultValue !! map
+|}
+===Diff Enums===
+{| class="wikitable sortable sticky-header"
+|-
+! colspan="5" | Diff Enums
+|-
+! style="width: 15em" | Id !! Key !! Previous Value !! New Value
+|-
+| rowspan="2" | [https://chisel.weirdgloop.org/structs/index.html?type=enums&id=425 425][https://abextm.github.io/cache2/#/viewer/enum/425 (1)]
+|-
+| map || {'0': 3623, '1': 4503, '2': 2753, '3': 2754, '4': 2755, '5': 4550, '6': 2974, '7': 4552, '8': 2756} || {'0': 3623, '1': 4503, '2': 2753, '3': 2754, '4': 2755, '5': 4550, '6': 2974, '7': 4552, '8': 2756<span style="color: #6bc71f">, '9': 960</span>}
+|-
+| rowspan="2" | [https://chisel.weirdgloop.org/structs/index.html?type=enums&id=917 917][https://abextm.github.io/cache2/#/viewer/enum/917 (1)]
+|-
+| map || {'0': 'All spellbooks', '1': 'Standard spells', '2': 'Binding only', '<span style="color: #ee4231">3</span>': 'Disabled', '-1': 'Magic'} || {'0': 'All spellbooks', '1': 'Standard spells', '2': '<span style="color: #6bc71f">Classic F2P', '3': '</span>Binding only', '<span style="color: #6bc71f">4</span>': 'Disabled', '-1': 'Magic'}
+|-
+| rowspan="2" | [https://chisel.weirdgloop.org/structs/index.html?type=enums&id=918 918][https://abextm.github.io/cache2/#/viewer/enum/918 (1)]
+|-
+| map || {'0': 'All spellbooks are allowed.', '1': 'Only the standard spellbook is allowed.', '2': 'Only the Bind,  Snare and Entangle spells are allowed.', '<span style="color: #ee4231">3</span>': 'No magical combat is allowed.'} || {'0': 'All spellbooks are allowed.', '1': 'Only the standard spellbook is allowed.', '2': 'Only the <span style="color: #6bc71f">classic standard F2P spells are allowed. (This excludes Snare)', '3': 'Only the </span>Bind,  Snare and Entangle spells are allowed.', '<span style="color: #6bc71f">4</span>': 'No magical combat is allowed.'}
+|-
+| rowspan="2" | [https://chisel.weirdgloop.org/structs/index.html?type=enums&id=931 931][https://abextm.github.io/cache2/#/viewer/enum/931 (1)]
+|-
+| map || {'0': <span style="color: #ee4231">16</span>, '1': <span style="color: #ee4231">17</span>, '2': <span style="color: #ee4231">19</span>, '3': <span style="color: #ee4231">18</span>, '4': <span style="color: #ee4231">30</span>} || {'0': <span style="color: #6bc71f">17</span>, '1': <span style="color: #6bc71f">18</span>, '2': <span style="color: #6bc71f">20</span>, '3': <span style="color: #6bc71f">19</span>, '4': <span style="color: #6bc71f">31</span>}
+|-
+| rowspan="2" | [https://chisel.weirdgloop.org/structs/index.html?type=enums&id=934 934][https://abextm.github.io/cache2/#/viewer/enum/934 (1)]
+|-
+| map || {'<span style="color: #ee4231">16</span>': 'Ignore freezing', '<span style="color: #ee4231">17</span>': 'PJ timer', '<span style="color: #ee4231">18</span>': 'Allow Powered Staves', '<span style="color: #ee4231">19</span>': 'Single Spells', '<span style="color: #ee4231">30</span>': 'Allow Blighted VLS'} || {'<span style="color: #6bc71f">17</span>': 'Ignore freezing', '<span style="color: #6bc71f">18</span>': 'PJ timer', '<span style="color: #6bc71f">19</span>': 'Allow Powered Staves', '<span style="color: #6bc71f">20</span>': 'Single Spells', '<span style="color: #6bc71f">31</span>': 'Allow Blighted VLS'}
+|}
+==Items==
+===New Items===
+{| class="wikitable sortable"
+|-
+! colspan="11" | New Items
+|-
+! style="width: 15em" | name !! id !! examine !! isMembers !! isGrandExchangable !! isStackable !! noteLinkedItem !! inventoryActions !! placeholderLinkedItem !! price !! weight
+|}
+===Removed Items===
+{| class="wikitable sortable"
+|-
+! colspan="11" | Removed Items
+|-
+! style="width: 15em" | name !! id !! examine !! isMembers !! isGrandExchangable !! isStackable !! noteLinkedItem !! inventoryActions !! placeholderLinkedItem !! price !! weight
+|}
+===Diff Items===
+{| class="wikitable sortable sticky-header"
+|-
+! colspan="5" | Diff Items
+|-
+! style="width: 15em" | Name !! Id !! Key !! Previous Value !! New Value
+|-
+| rowspan="2" | [[Teleport crystal (4)]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#6099 6099][https://abextm.github.io/cache2/#/viewer/item/6099 (1)]
+|-
+| inventoryActions || [Lletya, Prifddinas, <span style="color: #ee4231">None</span>, None, Drop] || [Lletya, Prifddinas, <span style="color: #6bc71f">Toggle</span>, None, Drop]
+|-
+| rowspan="2" | [[Teleport crystal (3)]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#6100 6100][https://abextm.github.io/cache2/#/viewer/item/6100 (1)]
+|-
+| inventoryActions || [Lletya, Prifddinas, <span style="color: #ee4231">None</span>, None, Drop] || [Lletya, Prifddinas, <span style="color: #6bc71f">Toggle</span>, None, Drop]
+|-
+| rowspan="2" | [[Teleport crystal (2)]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#6101 6101][https://abextm.github.io/cache2/#/viewer/item/6101 (1)]
+|-
+| inventoryActions || [Lletya, Prifddinas, <span style="color: #ee4231">None</span>, None, Drop] || [Lletya, Prifddinas, <span style="color: #6bc71f">Toggle</span>, None, Drop]
+|-
+| rowspan="2" | [[Teleport crystal (1)]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#6102 6102][https://abextm.github.io/cache2/#/viewer/item/6102 (1)]
+|-
+| inventoryActions || [Lletya, Prifddinas, <span style="color: #ee4231">None</span>, None, Drop] || [Lletya, Prifddinas, <span style="color: #6bc71f">Toggle</span>, None, Drop]
+|-
+| rowspan="2" | [[Pieces of eight]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#8951 8951][https://abextm.github.io/cache2/#/viewer/item/8951 (1)]
+|-
+| inventoryActions || [<span style="color: #ee4231">None</span>, None, None, None, Drop] || [<span style="color: #6bc71f">Count</span>, None, None, None, Drop]
+|-
+| rowspan="2" | [[Teleport crystal (5)]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#13102 13102][https://abextm.github.io/cache2/#/viewer/item/13102 (1)]
+|-
+| inventoryActions || [Lletya, Prifddinas, <span style="color: #ee4231">None</span>, None, Drop] || [Lletya, Prifddinas, <span style="color: #6bc71f">Toggle</span>, None, Drop]
+|-
+| rowspan="2" | [[Expert mining gloves]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#21392 21392][https://abextm.github.io/cache2/#/viewer/item/21392 (1)]
+|-
+| examine || These will help me mine Runite and Amethyst. As well as improve mining for Iron, Silver, Coal, Gold, Mithril, Adamantite. || These will help me mine <span style="color: #6bc71f">Sandstone, </span>Runite and Amethyst. As well as improve mining for Iron, Silver, Coal, Gold, Mithril, Adamantite.
+|-
+| rowspan="2" | [[Eternal teleport crystal]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#23946 23946][https://abextm.github.io/cache2/#/viewer/item/23946 (1)]
+|-
+| inventoryActions || [Lletya, Prifddinas, <span style="color: #ee4231">None</span>, None, Drop] || [Lletya, Prifddinas, <span style="color: #6bc71f">Toggle</span>, None, Drop]
+|}
+==Structs==
+===New Structs===
+{| class="wikitable sortable"
+|-
+! colspan="2" | New Structs
+|-
+! style="width: 15em" | id !! params
+|-
+| [https://chisel.weirdgloop.org/structs/index.html?type=structs&id=960 960][https://abextm.github.io/cache2/#/viewer/struct/960 (1)] || {'1077': 382, '1078': 2, '1086': 'Hit sounds', '1088': 'hit, death, sound, sounds, sound effect, audio', '1091': 5449, '1096': 'Determines the sounds that will play when the player is hit in combat.'}
+|}
+===Removed Structs===
+{| class="wikitable sortable"
+|-
+! colspan="2" | Removed Structs
+|-
+! style="width: 15em" | id !! params
+|}
+===Diff Structs===
+{| class="wikitable sortable sticky-header"
+|-
+! colspan="5" | Diff Structs
+|-
+! style="width: 15em" | Id !! Key !! Previous Value !! New Value
+|}
+==Database Rows==
+===New Database Rows===
+{| class="wikitable sortable"
+|-
+! colspan="3" | New Database Rows
+|-
+! style="width: 15em" | id !! table !! values
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/3544 3544] || 39 || [[Honest Jimmy's House of Stuff], None, [3545], [5448], None, [3546, 3547, 3548, 3549, 3550, 3551, 3552, 3553, 3554, 3555, 3556, 3557, 3558, 3559, 3560, 3561, 3562, 3563, 3564, 3565, 3566, 3567, 3568, 3569, 3570, 3571, 3572, 3573, 3574, 3575], None, None, None, None, [Honest Jimmy's House of Stuff], None, None, None, None]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/3545 3545] || 41 || [None, [Piece of Eight], [Pieces of Eight]]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/3546 3546] || 40 || [[8952], None, None, None, [1], [3545, 1000], None, None, None, None, None, None, None, None]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/3547 3547] || 40 || [[8959], None, None, None, [1], [3545, 500], None, None, None, None, None, None, None, None]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/3548 3548] || 40 || [[8991], None, None, None, [1], [3545, 1000], None, None, None, None, None, None, None, None]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/3549 3549] || 40 || [[8953], None, None, None, [1], [3545, 1000], None, None, None, None, None, None, None, None]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/3550 3550] || 40 || [[8960], None, None, None, [1], [3545, 500], None, None, None, None, None, None, None, None]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/3551 3551] || 40 || [[8992], None, None, None, [1], [3545, 1000], None, None, None, None, None, None, None, None]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/3552 3552] || 40 || [[8954], None, None, None, [1], [3545, 1000], None, None, None, None, None, None, None, None]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/3553 3553] || 40 || [[8961], None, None, None, [1], [3545, 500], None, None, None, None, None, None, None, None]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/3554 3554] || 40 || [[8993], None, None, None, [1], [3545, 1000], None, None, None, None, None, None, None, None]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/3555 3555] || 40 || [[8955], None, None, None, [1], [3545, 1000], None, None, None, None, None, None, None, None]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/3556 3556] || 40 || [[8962], None, None, None, [1], [3545, 500], None, None, None, None, None, None, None, None]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/3557 3557] || 40 || [[8994], None, None, None, [1], [3545, 1000], None, None, None, None, None, None, None, None]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/3558 3558] || 40 || [[8956], None, None, None, [1], [3545, 1000], None, None, None, None, None, None, None, None]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/3559 3559] || 40 || [[8963], None, None, None, [1], [3545, 500], None, None, None, None, None, None, None, None]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/3560 3560] || 40 || [[8995], None, None, None, [1], [3545, 1000], None, None, None, None, None, None, None, None]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/3561 3561] || 40 || [[8957], None, None, None, [1], [3545, 1000], None, None, None, None, None, None, None, None]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/3562 3562] || 40 || [[8964], None, None, None, [1], [3545, 500], None, None, None, None, None, None, None, None]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/3563 3563] || 40 || [[8996], None, None, None, [1], [3545, 1000], None, None, None, None, None, None, None, None]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/3564 3564] || 40 || [[8958], None, None, None, [1], [3545, 1000], None, None, None, None, None, None, None, None]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/3565 3565] || 40 || [[8965], None, None, None, [1], [3545, 500], None, None, None, None, None, None, None, None]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/3566 3566] || 40 || [[8997], None, None, None, [1], [3545, 1000], None, None, None, None, None, None, None, None]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/3567 3567] || 40 || [[8966], None, None, None, [2], [3545, 2000], None, None, None, None, None, None, None, None]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/3568 3568] || 40 || [[8967], None, None, None, [2], [3545, 2000], None, None, None, None, None, None, None, None]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/3569 3569] || 40 || [[8968], None, None, None, [2], [3545, 3000], None, None, None, None, None, None, None, None]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/3570 3570] || 40 || [[8969], None, None, None, [2], [3545, 4000], None, None, None, None, None, None, None, None]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/3571 3571] || 40 || [[8970], None, None, None, [2], [3545, 5000], None, None, None, None, None, None, None, None]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/3572 3572] || 40 || [[8971], None, None, None, [2], [3545, 6000], None, None, None, None, None, None, None, None]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/3573 3573] || 40 || [[8988], None, None, None, [3], [3545, 50], None, None, None, None, None, None, None, None]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/3574 3574] || 40 || [[8940], None, None, None, [3], [3545, 20], None, None, None, None, None, None, None, None]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/3575 3575] || 40 || [[8941], None, None, None, [3], [3545, 20], None, None, None, None, None, None, None, None]
+|}
+===Removed Database Rows===
+{| class="wikitable sortable"
+|-
+! colspan="3" | Removed Database Rows
+|-
+! style="width: 15em" | id !! table !! values
+|}
+===Diff Database Rows===
+{| class="wikitable sortable sticky-header"
+|-
+! colspan="5" | Diff Database Rows
+|-
+! style="width: 15em" | Id !! Key !! Previous Value !! New Value
+|}

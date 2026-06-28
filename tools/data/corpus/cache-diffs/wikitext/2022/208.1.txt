@@ -1,0 +1,346 @@
+{{ToC}}
+==Items==
+===New Items===
+{| class="wikitable sortable"
+!colspan='11'|New Items
+|-
+! style=width:15em | Name !! ID !! Members !! Tradeable in GE !! Equipable !! Stackable !! Noteable !! Options !! Placeholder !! Cost
+|-
+| [[Masori assembler (broken)]] || [https://chisel.weirdgloop.org/moid/item_id.html#27359 27359] || Yes || No || No || No || No ||     Drop || Yes || 1
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#27360 27360] || No || No || No || No || No ||     Drop || Yes || 1
+|-
+| [[Masori assembler max cape (broken)]] || [https://chisel.weirdgloop.org/moid/item_id.html#27361 27361] || Yes || No || No || No || No ||     Drop || Yes || 1
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#27362 27362] || No || No || No || No || No ||     Drop || Yes || 1
+|-
+| [[Masori assembler max cape]] || [https://chisel.weirdgloop.org/moid/item_id.html#27363 27363] || Yes || No || Yes || No || No ||  Wear,  Commune, Drop || Yes || 99000
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#27364 27364] || No || No || No || No || No ||     Drop || Yes || 1
+|-
+| [[Masori assembler max cape (l)]] || [https://chisel.weirdgloop.org/moid/item_id.html#27365 27365] || Yes || No || Yes || No || No ||  Wear,  Commune, Drop || No || 99000
+|-
+| [[Masori assembler max hood]] || [https://chisel.weirdgloop.org/moid/item_id.html#27366 27366] || Yes || No || Yes || No || No ||  Wear,   Drop || Yes || 1
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#27367 27367] || No || No || No || No || No ||     Drop || Yes || 1
+|-
+| [[Dawn scarab egg]] || [https://chisel.weirdgloop.org/moid/item_id.html#27368 27368] || Yes || No || No || No || No ||     Destroy || No || 30
+|-
+| [[Ancient key]] || [https://chisel.weirdgloop.org/moid/item_id.html#27369 27369] || Yes || No || No || No || No ||     Destroy || No || 30
+|-
+| [[Mask of rebirth]] || [https://chisel.weirdgloop.org/moid/item_id.html#27370 27370] || Yes || No || Yes || No || No ||  Wear,   Destroy || Yes || 2000
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#27371 27371] || No || No || No || No || No ||     Drop || Yes || 1
+|-
+| [[Masori crafting kit]] || [https://chisel.weirdgloop.org/moid/item_id.html#27372 27372] || Yes || No || No || No || No || Inspect,    Drop || Yes || 1000
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#27373 27373] || No || No || No || No || No ||     Drop || Yes || 1
+|-
+| [[Masori assembler]] || [https://chisel.weirdgloop.org/moid/item_id.html#27374 27374] || Yes || No || Yes || No || No ||  Wear, Dismantle, Commune, Drop || Yes || 51000
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#27375 27375] || No || No || No || No || No ||     Drop || Yes || 1
+|-
+| [[Masori assembler (l)]] || [https://chisel.weirdgloop.org/moid/item_id.html#27376 27376] || Yes || No || Yes || No || No ||  Wear,  Commune, Drop || No || 51000
+|-
+| [[Remnant of akkha]] || [https://chisel.weirdgloop.org/moid/item_id.html#27377 27377] || Yes || No || No || No || No ||     Drop || No || 10000
+|-
+| [[Remnant of ba-ba]] || [https://chisel.weirdgloop.org/moid/item_id.html#27378 27378] || Yes || No || No || No || No ||     Drop || No || 10000
+|-
+| [[Remnant of kephri]] || [https://chisel.weirdgloop.org/moid/item_id.html#27379 27379] || Yes || No || No || No || No ||     Drop || No || 10000
+|-
+| [[Remnant of zebak]] || [https://chisel.weirdgloop.org/moid/item_id.html#27380 27380] || Yes || No || No || No || No ||     Drop || No || 10000
+|-
+| [[Ancient remnant]] || [https://chisel.weirdgloop.org/moid/item_id.html#27381 27381] || Yes || No || No || No || No ||     Drop || No || 10000
+|-
+| [[Akkhito]] || [https://chisel.weirdgloop.org/moid/item_id.html#27382 27382] || Yes || No || No || No || No ||     Drop || No || 1
+|-
+| [[Babi]] || [https://chisel.weirdgloop.org/moid/item_id.html#27383 27383] || Yes || No || No || No || No ||     Drop || No || 1
+|-
+| [[Kephriti]] || [https://chisel.weirdgloop.org/moid/item_id.html#27384 27384] || Yes || No || No || No || No ||     Drop || No || 1
+|-
+| [[Zebo]] || [https://chisel.weirdgloop.org/moid/item_id.html#27385 27385] || Yes || No || No || No || No ||     Drop || No || 1
+|-
+| [[Tumeken's damaged guardian]] || [https://chisel.weirdgloop.org/moid/item_id.html#27386 27386] || Yes || No || No || No || No ||     Drop || No || 1
+|-
+| [[Elidinis' damaged guardian]] || [https://chisel.weirdgloop.org/moid/item_id.html#27387 27387] || Yes || No || No || No || No ||     Drop || No || 1
+|-
+|-
+|}
+===Removed Items===
+{| class="wikitable sortable"
+!colspan='2'|Removed Items
+|-
+! style=width:15em | Name !! ID
+|-
+|-
+|}
+===Diff Items===
+{| class="wikitable sortable"
+!colspan='5'|Diff Items
+|-
+! style=width:15em | Name !! ID !! Key !! Previous Value !! New Value
+|-
+|rowspan="2"|[[Osmumten's fang (or)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#27246 27246]
+|-
+|interfaceOptions || [None, 'Wield', None, None, 'Drop'] || [None, 'Wield', 'Dismantle', None, 'Drop']
+|-
+|rowspan="4"|[[Cursed phalanx]]
+|rowspan="4"|[https://chisel.weirdgloop.org/moid/item_id.html#27248 27248]
+|-
+|zoom2d || 1047 || 1086
+|-
+| xOffset2d || 3 || 7
+|-
+| yOffset2d || -1 || -2
+|-
+|rowspan="2"|[[Elidinis' ward (or)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#27253 27253]
+|-
+|interfaceOptions || [None, 'Wield', None, None, 'Drop'] || [None, 'Wield', 'Dismantle', None, 'Drop']
+|-
+|rowspan="2"|[[Menaphite ornament kit]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#27255 27255]
+|-
+|zoom2d || 678 || 768
+|-
+|rowspan="2"|[[Mirror]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#27296 27296]
+|-
+|zoom2d || 2000 || 2171
+|-
+|rowspan="2"|[[Liquid adrenaline (2)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#27339 27339]
+|-
+|name || [[Liquid adrenaline]] || [[Liquid adrenaline (2)]]
+|-
+|rowspan="2"|[[Liquid adrenaline (1)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#27341 27341]
+|-
+|xOffset2d || -5 || -1
+|-
+|rowspan="2"|[[Ambrosia (2)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#27347 27347]
+|-
+|name || [[Ambrosia]] || [[Ambrosia (2)]]
+|-
+|rowspan="2"|[[Ambrosia (1)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#27349 27349]
+|-
+|xOffset2d || -5 || -1
+|-
+|rowspan="2"|[[Tumeken's guardian]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#27352 27352]
+|-
+|xOffset2d || -5 || -3
+|-
+|rowspan="2"|[[Elidinis' guardian]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#27354 27354]
+|-
+|xOffset2d || -5 || -3
+|-
+|}
+
+==Non-Player Characters==
+===New NPCs===
+{| class="wikitable sortable"
+!colspan='4'|New NPCs
+|-
+! style=width:15em | Name !! ID !! Combat Level !! Options
+|-
+| [[Akkhito]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11840 11840] || No Combat Level || Talk-to, Pick-up
+|-
+| [[Babi]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11841 11841] || No Combat Level || Talk-to, Pick-up
+|-
+| [[Kephriti]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11842 11842] || No Combat Level || Talk-to, Pick-up
+|-
+| [[Zebo]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11843 11843] || No Combat Level || Talk-to, Pick-up
+|-
+| [[Tumeken's Damaged Guardian]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11844 11844] || No Combat Level || Talk-to, Pick-up
+|-
+| [[Elidinis' Damaged Guardian]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11845 11845] || No Combat Level || Talk-to, Pick-up
+|-
+| [[Akkhito]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11846 11846] || No Combat Level || Talk-to, Metamorphosis, Pick-up
+|-
+| [[Babi]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11847 11847] || No Combat Level || Talk-to, Metamorphosis, Pick-up
+|-
+| [[Kephriti]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11848 11848] || No Combat Level || Talk-to, Metamorphosis, Pick-up
+|-
+| [[Zebo]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11849 11849] || No Combat Level || Talk-to, Metamorphosis, Pick-up
+|-
+| [[Tumeken's Damaged Guardian]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11850 11850] || No Combat Level || Talk-to, Metamorphosis, Pick-up
+|-
+| [[Elidinis' Damaged Guardian]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11851 11851] || No Combat Level || Talk-to, Metamorphosis, Pick-up
+|-
+|-
+|}
+===Removed NPCs===
+{| class="wikitable sortable"
+!colspan='2'|Removed NPCs
+|-
+! style=width:15em | Name !! ID
+|-
+|-
+|}
+===Diff NPCs===
+{| class="wikitable sortable"
+!colspan='5'|Diff NPCs
+|-
+! style=width:15em | Name !! ID !! Key !! Previous Value !! New Value
+|-
+|rowspan="2"|[[<col=00ffff>Het's Seal (protected)</col>]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#11706 11706]
+|-
+|isMinimapVisible || True || False
+|-
+|rowspan="2"|[[<col=00ffff>Het's Seal (weakened)</col>]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#11707 11707]
+|-
+|isMinimapVisible || True || False
+|-
+|rowspan="2"|[[Bank Camel]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#11806 11806]
+|-
+|chatheadModels || [9841] || [46511]
+|-
+|}
+
+==Objects==
+===New Objects=== 
+{| class="wikitable sortable"
+!colspan='3'|New Objects
+|-
+! style=width:15em | Name !! ID !! Options
+|-
+| [[Mounted Max Cape]] || [https://chisel.weirdgloop.org/moid/object_id.html#46226 46226] || Admire, Commune, Take
+|-
+| [[Strange tablet]] || [https://chisel.weirdgloop.org/moid/object_id.html#46227 46227] || None
+|-
+| [[Strange tablet]] || [https://chisel.weirdgloop.org/moid/object_id.html#46228 46228] || None
+|-
+| [[Strange Chest]] || [https://chisel.weirdgloop.org/moid/object_id.html#46229 46229] || Open
+|-
+| [[Strange Chest]] || [https://chisel.weirdgloop.org/moid/object_id.html#46230 46230] || None
+|-
+| [[<col=ffff00>Cam the Camel</col>]] || [https://chisel.weirdgloop.org/moid/object_id.html#46231 46231] || Bank, Collect
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#46232 46232] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#46233 46233] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#46234 46234] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#46235 46235] || None
+|-
+|-
+|}
+===Removed Objects===
+{| class="wikitable sortable"
+!colspan='2'|Removed Objects
+|-
+! style=width:15em | Name !! ID
+|-
+|-
+|}
+===Diff Objects===
+{| class="wikitable sortable"
+!colspan='5'|Diff Objects
+|-
+! style=width:15em | Name !! ID !! Key !! Previous Value !! New Value
+|-
+|rowspan="2"|[[Entry]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#45131 45131]
+|-
+|actions || ['Enter', None, None, None, None] || ['Enter', 'Quick-Enter', None, None, None]
+|-
+|rowspan="2"|[[Barrier]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#45135 45135]
+|-
+|actions || ['Pass', None, None, None, None] || ['Pass', 'Quick-Pass', None, None, None]
+|-
+|rowspan="2"|[[Entry]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#45337 45337]
+|-
+|actions || ['Enter', None, None, None, None] || ['Enter', 'Quick-Enter', None, None, None]
+|-
+|rowspan="2"|[[Entry]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#45397 45397]
+|-
+|actions || ['Enter', None, None, None, None] || ['Enter', 'Quick-Enter', None, None, None]
+|-
+|rowspan="2"|[[Entry]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#45500 45500]
+|-
+|actions || ['Enter', None, None, None, None] || ['Enter', 'Quick-Enter', None, None, None]
+|-
+|rowspan="2"|[[Teleport crystal]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#45505 45505]
+|-
+|actions || ['Use', None, None, None, None] || ['Use', 'Quick-Use', None, None, None]
+|-
+|rowspan="2"|[[Teleport crystal]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#45506 45506]
+|-
+|actions || ['Use', None, None, None, None] || ['Use', 'Quick-Use', None, None, None]
+|-
+|rowspan="2"|[[Teleport crystal]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#45754 45754]
+|-
+|actions || ['Use', None, None, None, None] || ['Use', 'Quick-Use', None, None, None]
+|-
+|rowspan="2"|[[Teleport crystal]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#45866 45866]
+|-
+|actions || ['Use', None, None, None, None] || ['Use', 'Quick-Use', None, None, None]
+|-
+|rowspan="2"|[[Path of Scabaras]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#46155 46155]
+|-
+|actions || ['Enter', None, None, None, None] || ['Enter', 'Quick-Enter', None, None, None]
+|-
+|rowspan="2"|[[Path of Scabaras]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#46156 46156]
+|-
+|actions || ['Enter', None, None, None, None] || ['Enter', 'Quick-Enter', None, None, None]
+|-
+|rowspan="2"|[[Path of Apmeken]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#46158 46158]
+|-
+|actions || ['Enter', None, None, None, None] || ['Enter', 'Quick-Enter', None, None, None]
+|-
+|rowspan="2"|[[Path of Apmeken]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#46159 46159]
+|-
+|actions || ['Enter', None, None, None, None] || ['Enter', 'Quick-Enter', None, None, None]
+|-
+|rowspan="2"|[[Path of Crondis]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#46161 46161]
+|-
+|actions || ['Enter', None, None, None, None] || ['Enter', 'Quick-Enter', None, None, None]
+|-
+|rowspan="2"|[[Path of Crondis]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#46162 46162]
+|-
+|actions || ['Enter', None, None, None, None] || ['Enter', 'Quick-Enter', None, None, None]
+|-
+|rowspan="2"|[[Path of Het]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#46164 46164]
+|-
+|actions || ['Enter', None, None, None, None] || ['Enter', 'Quick-Enter', None, None, None]
+|-
+|rowspan="2"|[[Path of Het]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#46165 46165]
+|-
+|actions || ['Enter', None, None, None, None] || ['Enter', 'Quick-Enter', None, None, None]
+|-
+|rowspan="2"|[[Entry]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#46168 46168]
+|-
+|actions || ['Enter', None, None, None, None] || ['Enter', 'Quick-Enter', None, None, None]
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#46223 46223]
+|-
+|configChangeDest || [46075, 46075, 46075] || [46075, 46231, -1]
+|-
+|}

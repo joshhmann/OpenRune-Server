@@ -19,7 +19,6 @@ class CoalBagScript : PluginScript() {
 
         onOpHeld2("obj.coal_bag") { openBag() }
         onOpHeld2("obj.coal_bag_open") { closeBag() }
-
     }
 
     private fun ProtectedAccess.fillBag() {
@@ -49,7 +48,9 @@ class CoalBagScript : PluginScript() {
             return
         }
 
-        val added = invAdd(inv, "obj.coal", current, strict = false, ignoreVirtualStorage = true).completed()
+        val added =
+            invAdd(inv, "obj.coal", current, strict = false, ignoreVirtualStorage = true)
+                .completed()
         if (added <= 0) {
             mes("You don't have any free space in your inventory.")
             return

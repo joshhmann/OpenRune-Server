@@ -2,11 +2,7 @@ package org.rsmod.content.other.progressivebots.tree
 
 import org.rsmod.map.CoordGrid
 
-data class MemoryNode(
-    val type: String,
-    val coords: CoordGrid,
-    var depletedUntil: Int = 0
-)
+data class MemoryNode(val type: String, val coords: CoordGrid, var depletedUntil: Int = 0)
 
 class SpatialMemory {
     private val nodes = mutableMapOf<CoordGrid, MemoryNode>()
@@ -29,13 +25,18 @@ class SpatialMemory {
         return currentTick < node.depletedUntil
     }
 
-    fun findNearestActiveNode(botCoords: CoordGrid, type: String, currentTick: Int, maxDistance: Int = 30): MemoryNode? {
+    fun findNearestActiveNode(
+        botCoords: CoordGrid,
+        type: String,
+        currentTick: Int,
+        maxDistance: Int = 30,
+    ): MemoryNode? {
         var closest: MemoryNode? = null
         var minDistance = maxDistance
 
         for ((coords, node) in nodes) {
             if (node.type != type || isDepleted(coords, currentTick)) continue
-            
+
             if (coords.level != botCoords.level) continue
             val dist = botCoords.chebyshevDistance(coords)
             if (dist < minDistance) {

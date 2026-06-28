@@ -1,0 +1,220 @@
+{{ToC}}
+==Items==
+===New Items===
+{| class="wikitable sortable"
+!colspan='11'|New Items
+|-
+! style=width:15em | Name !! ID !! Members !! Tradeable in GE !! Equipable !! Stackable !! Noteable !! Options !! Placeholder !! Cost !! Weight
+|-
+| [[Giant bronze dagger]] || [https://chisel.weirdgloop.org/moid/item_id.html#27871 27871] || No || No || Yes || No || No ||  Wield,   Destroy || Yes || 100
+|| 30000
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#27872 27872] || No || No || No || No || No ||     Drop || Yes || 1
+|| 0
+|-
+| [[Eastfloor spade]] || [https://chisel.weirdgloop.org/moid/item_id.html#27873 27873] || No || No || Yes || No || No || Dig,    Destroy || Yes || 1
+|| 1814
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#27874 27874] || No || No || No || No || No ||     Drop || Yes || 1
+|| 0
+|-
+| [[Nest hat]] || [https://chisel.weirdgloop.org/moid/item_id.html#27875 27875] || No || No || Yes || No || No ||  Wear,  Change-style, Destroy || Yes || 1
+|| 250
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#27876 27876] || No || No || No || No || No ||     Drop || Yes || 1
+|| 0
+|-
+| [[Nest hat]] || [https://chisel.weirdgloop.org/moid/item_id.html#27877 27877] || No || No || Yes || No || No ||  Wear,  Change-style, Destroy || No || 1
+|| 250
+|-
+| [[Easter egg]] || [https://chisel.weirdgloop.org/moid/item_id.html#27878 27878] || No || No || No || No || No ||     Destroy || Yes || 5
+|| 200
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#27879 27879] || No || No || No || No || No ||     Drop || Yes || 1
+|| 0
+|-
+| [[Warm easter egg]] || [https://chisel.weirdgloop.org/moid/item_id.html#27880 27880] || No || No || No || No || No ||     Destroy || Yes || 5
+|| 200
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#27881 27881] || No || No || No || No || No ||     Drop || Yes || 1
+|| 0
+|-
+| [[Easter egg half]] || [https://chisel.weirdgloop.org/moid/item_id.html#27882 27882] || No || No || No || No || No ||     Destroy || Yes || 5
+|| 100
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#27883 27883] || No || No || No || No || No ||     Drop || Yes || 1
+|| 0
+|-
+| [[Egg mould]] || [https://chisel.weirdgloop.org/moid/item_id.html#27884 27884] || No || No || No || No || No ||     Destroy || Yes || 5
+|| 141
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#27885 27885] || No || No || No || No || No ||     Drop || Yes || 1
+|| 0
+|-
+| [[Dusted egg mould]] || [https://chisel.weirdgloop.org/moid/item_id.html#27886 27886] || No || No || No || No || No ||     Destroy || Yes || 5
+|| 170
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#27887 27887] || No || No || No || No || No ||     Drop || Yes || 1
+|| 0
+|-
+| [[Hot egg mould]] || [https://chisel.weirdgloop.org/moid/item_id.html#27888 27888] || No || No || No || No || No || Empty,    Destroy || Yes || 5
+|| 170
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#27889 27889] || No || No || No || No || No ||     Drop || Yes || 1
+|| 0
+|-
+| [[Bucket of freezing milk]] || [https://chisel.weirdgloop.org/moid/item_id.html#27890 27890] || No || No || No || No || No ||    Empty, Destroy || Yes || 6
+|| 2200
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#27891 27891] || No || No || No || No || No ||     Drop || Yes || 1
+|| 0
+|-
+| [[Easter chocolate dust]] || [https://chisel.weirdgloop.org/moid/item_id.html#27892 27892] || No || No || No || No || No ||     Destroy || Yes || 6
+|| 150
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#27893 27893] || No || No || No || No || No ||     Drop || Yes || 1
+|| 0
+|-
+|-
+|}
+===Removed Items===
+{| class="wikitable sortable"
+!colspan='2'|Removed Items
+|-
+! style=width:15em | Name !! ID
+|-
+|-
+|}
+===Diff Items===
+{| class="wikitable sortable"
+!colspan='5'|Diff Items
+|-
+! style=width:15em | Name !! ID !! Key !! Previous Value !! New Value
+|-
+|rowspan="2"|[[Viggora's chainmace]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#22545 22545]
+|-
+|params || {'434': 0, '451': 'Check', '436': 60, '1733': "Viggora's chainmace", '23': 60, '41': 1, '1564': 3} || {'434': 0, '595': 'Check', '451': 'Check', '436': 60, '1733': "Viggora's chainmace", '23': 60, '41': 1, '1564': 3}
+|-
+|rowspan="2"|[[Craw's bow]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#22550 22550]
+|-
+|params || {'434': 4, '451': 'Check', '1564': 3, '436': 60, '1733': "Craw's bow", '23': 60} || {'434': 4, '595': 'Check', '451': 'Check', '436': 60, '1733': "Craw's bow", '23': 60, '1564': 3}
+|-
+|rowspan="2"|[[Thammaron's sceptre]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#22555 22555]
+|-
+|params || {'434': 6, '451': 'Check', '436': 60, '452': 'Swap', '1733': "Thammaron's Sceptre", '23': 60, '41': 1, '1564': 3} || {'434': 6, '595': 'Check', '451': 'Check', '436': 60, '452': 'Swap', '1733': "Thammaron's Sceptre", '23': 60, '41': 1, '1564': 3}
+|-
+|rowspan="2"|[[Webweaver bow]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#27655 27655]
+|-
+|params || {'434': 4, '451': 'Check', '1564': 3, '436': 70, '1733': "Webweaver's bow", '23': 70} || {'434': 4, '595': 'Check', '451': 'Check', '436': 70, '1733': "Webweaver's bow", '23': 70, '1564': 3}
+|-
+|rowspan="2"|[[Ursine chainmace]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#27660 27660]
+|-
+|params || {'434': 0, '451': 'Check', '436': 70, '1733': 'Ursine chainmace', '23': 70, '41': 1, '1564': 3} || {'434': 0, '595': 'Check', '451': 'Check', '436': 70, '1733': 'Ursine chainmace', '23': 70, '41': 1, '1564': 3}
+|-
+|rowspan="2"|[[Accursed sceptre]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#27665 27665]
+|-
+|params || {'434': 6, '451': 'Check', '436': 70, '452': 'Swap', '1733': 'Accursed sceptre', '23': 70, '41': 1, '1564': 3} || {'434': 6, '595': 'Check', '451': 'Check', '436': 70, '452': 'Swap', '1733': 'Accursed sceptre', '23': 70, '41': 1, '1564': 3}
+|-
+|rowspan="2"|[[Accursed sceptre (a)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#27679 27679]
+|-
+|params || {'434': 6, '451': 'Check', '436': 70, '452': 'Swap', '1733': 'Accursed sceptre', '23': 70, '41': 1, '1737': 1, '1564': 3} || {'434': 6, '595': 'Check', '451': 'Check', '436': 70, '452': 'Swap', '1733': 'Accursed sceptre', '23': 70, '41': 1, '1737': 1, '1564': 3}
+|-
+|rowspan="2"|[[Thammaron's sceptre (a)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#27788 27788]
+|-
+|params || {'434': 6, '451': 'Check', '436': 60, '452': 'Swap', '23': 60, '41': 1, '1737': 1, '1564': 3} || {'434': 6, '595': 'Check', '451': 'Check', '436': 60, '452': 'Swap', '23': 60, '41': 1, '1737': 1, '1564': 3}
+|-
+|}
+
+==Non-Player Characters==
+===New NPCs===
+{| class="wikitable sortable"
+!colspan='4'|New NPCs
+|-
+! style=width:15em | Name !! ID !! Combat Level !! Options
+|-
+| [[Easter Bunny]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12109 12109] || No Combat Level || Talk-to
+|-
+| [[Easter Bunny]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12110 12110] || No Combat Level || Talk-to, Get-ingredients
+|-
+| [[Chicken]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12111 12111] || No Combat Level || None
+|-
+| [[Rabbit]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12112 12112] || No Combat Level || None
+|-
+| [[Wilough]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12113 12113] || No Combat Level || None
+|-
+| [[Horvik]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12114 12114] || No Combat Level || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12115 12115] || No Combat Level || Talk-to
+|-
+|-
+|}
+===Removed NPCs===
+{| class="wikitable sortable"
+!colspan='2'|Removed NPCs
+|-
+! style=width:15em | Name !! ID
+|-
+|-
+|}
+===Diff NPCs===
+{| class="wikitable sortable"
+!colspan='5'|Diff NPCs
+|-
+! style=width:15em | Name !! ID !! Key !! Previous Value !! New Value
+|-
+|}
+
+==Objects==
+===New Objects=== 
+{| class="wikitable sortable"
+!colspan='3'|New Objects
+|-
+! style=width:15em | Name !! ID !! Options
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#47337 47337] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#47338 47338] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#47339 47339] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#47340 47340] || None
+|-
+| [[Crate]] || [https://chisel.weirdgloop.org/moid/object_id.html#47341 47341] || None
+|-
+| [[Crate]] || [https://chisel.weirdgloop.org/moid/object_id.html#47342 47342] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#47343 47343] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#47344 47344] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#47345 47345] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#47346 47346] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#47347 47347] || None
+|-
+|-
+|}
+===Removed Objects===
+{| class="wikitable sortable"
+!colspan='2'|Removed Objects
+|-
+! style=width:15em | Name !! ID
+|-
+|-
+|}
+===Diff Objects===
+{| class="wikitable sortable"
+!colspan='5'|Diff Objects
+|-
+! style=width:15em | Name !! ID !! Key !! Previous Value !! New Value
+|-
+|}

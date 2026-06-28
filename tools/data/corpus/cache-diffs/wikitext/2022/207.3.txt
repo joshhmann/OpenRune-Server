@@ -1,0 +1,624 @@
+{{ToC}}
+==Items==
+===New Items===
+{| class="wikitable sortable"
+!colspan='11'|New Items
+|-
+! Name !! ID !! Members !! Tradeable in GE !! Equipable !! Stackable !! Noteable !! Options !! Placeholder !! Cost
+|-
+| [[Dragon knife]] || [https://chisel.weirdgloop.org/moid/item_id.html#27157 27157] || No || No || Yes || Yes || No ||  Wield,   Drop || No || 5
+|-
+| [[Mystic robe top (dark)]] || [https://chisel.weirdgloop.org/moid/item_id.html#27158 27158] || No || No || Yes || No || No ||  Wear,   Drop || No || 1
+|-
+| [[Mystic robe bottom (dark)]] || [https://chisel.weirdgloop.org/moid/item_id.html#27159 27159] || No || No || Yes || No || No ||  Wear,   Drop || No || 1
+|-
+| [[Mystic robe top (light)]] || [https://chisel.weirdgloop.org/moid/item_id.html#27160 27160] || No || No || Yes || No || No ||  Wear,   Drop || No || 1
+|-
+| [[Mystic robe bottom (light)]] || [https://chisel.weirdgloop.org/moid/item_id.html#27161 27161] || No || No || Yes || No || No ||  Wear,   Drop || No || 1
+|-
+| [[Wizard boots]] || [https://chisel.weirdgloop.org/moid/item_id.html#27162 27162] || No || No || Yes || No || No ||  Wear,   Drop || No || 5
+|-
+| [[Guthix halo]] || [https://chisel.weirdgloop.org/moid/item_id.html#27163 27163] || No || No || Yes || No || No ||  Wear,   Drop || No || 5
+|-
+| [[Zamorak halo]] || [https://chisel.weirdgloop.org/moid/item_id.html#27164 27164] || No || No || Yes || No || No ||  Wear,   Drop || No || 5
+|-
+| [[Saradomin halo]] || [https://chisel.weirdgloop.org/moid/item_id.html#27165 27165] || No || No || Yes || No || No ||  Wear,   Drop || No || 5
+|-
+| [[Ghostly hood]] || [https://chisel.weirdgloop.org/moid/item_id.html#27166 27166] || No || No || Yes || No || No ||  Wear,   Drop || No || 1
+|-
+| [[Ghostly robe]] || [https://chisel.weirdgloop.org/moid/item_id.html#27167 27167] || No || No || Yes || No || No ||  Wear,   Drop || No || 1
+|-
+| [[Ghostly robe]] || [https://chisel.weirdgloop.org/moid/item_id.html#27168 27168] || No || No || Yes || No || No ||  Wear,   Drop || No || 1
+|-
+| [[Berserker helm]] || [https://chisel.weirdgloop.org/moid/item_id.html#27169 27169] || No || No || Yes || No || No ||  Wear,   Drop || No || 1
+|-
+| [[Infinity boots]] || [https://chisel.weirdgloop.org/moid/item_id.html#27170 27170] || No || No || Yes || No || No ||  Wear,   Drop || No || 10
+|-
+| [[Tormented bracelet]] || [https://chisel.weirdgloop.org/moid/item_id.html#27171 27171] || No || No || Yes || No || No ||  Wear,   Drop || No || 10
+|-
+| [[Necklace of anguish]] || [https://chisel.weirdgloop.org/moid/item_id.html#27172 27172] || No || No || Yes || No || No ||  Wear,   Drop || No || 10
+|-
+| [[Amulet of torture]] || [https://chisel.weirdgloop.org/moid/item_id.html#27173 27173] || No || No || Yes || No || No ||  Wear,   Drop || No || 10
+|-
+| [[Elder chaos top]] || [https://chisel.weirdgloop.org/moid/item_id.html#27174 27174] || No || No || Yes || No || No ||  Wear,   Drop || No || 10
+|-
+| [[Elder chaos robe]] || [https://chisel.weirdgloop.org/moid/item_id.html#27175 27175] || No || No || Yes || No || No ||  Wear,   Drop || No || 10
+|-
+| [[Elder chaos hood]] || [https://chisel.weirdgloop.org/moid/item_id.html#27176 27176] || No || No || Yes || No || No ||  Wear,   Drop || No || 10
+|-
+| [[Fremennik kilt]] || [https://chisel.weirdgloop.org/moid/item_id.html#27177 27177] || No || No || Yes || No || No ||  Wear,   Drop || No || 10
+|-
+| [[Spiked manacles]] || [https://chisel.weirdgloop.org/moid/item_id.html#27178 27178] || No || No || Yes || No || No ||  Wear,   Drop || No || 10
+|-
+| [[Rangers' tunic]] || [https://chisel.weirdgloop.org/moid/item_id.html#27179 27179] || No || No || Yes || No || No ||  Wear,   Drop || No || 10
+|-
+| [[Guthix chaps]] || [https://chisel.weirdgloop.org/moid/item_id.html#27180 27180] || No || No || Yes || No || No ||  Wear,   Drop || No || 10
+|-
+| [[Zamorak chaps]] || [https://chisel.weirdgloop.org/moid/item_id.html#27181 27181] || No || No || Yes || No || No ||  Wear,   Drop || No || 10
+|-
+| [[Saradomin chaps]] || [https://chisel.weirdgloop.org/moid/item_id.html#27182 27182] || No || No || Yes || No || No ||  Wear,   Drop || No || 10
+|-
+| [[3rd age mage hat]] || [https://chisel.weirdgloop.org/moid/item_id.html#27183 27183] || No || No || Yes || No || No ||  Wear,   Drop || No || 40
+|-
+| [[Ancient godsword]] || [https://chisel.weirdgloop.org/moid/item_id.html#27184 27184] || No || No || Yes || No || No ||  Wield,   Drop || No || 40
+|-
+| [[Rune defender]] || [https://chisel.weirdgloop.org/moid/item_id.html#27185 27185] || No || No || Yes || No || No ||  Wield,   Drop || No || 3
+|-
+| [[Zaryte crossbow]] || [https://chisel.weirdgloop.org/moid/item_id.html#27186 27186] || No || No || Yes || No || No ||  Wield,   Drop || No || 40
+|-
+| [[Bow of faerdhinen]] || [https://chisel.weirdgloop.org/moid/item_id.html#27187 27187] || No || No || Yes || No || No ||  Wield,   Drop || No || 30
+|-
+| [[Light ballista]] || [https://chisel.weirdgloop.org/moid/item_id.html#27188 27188] || No || No || Yes || No || No ||  Wield,   Drop || No || 1
+|-
+| [[Verac's flail]] || [https://chisel.weirdgloop.org/moid/item_id.html#27189 27189] || No || No || Yes || No || No ||  Wield,   Drop || No || 50
+|-
+| [[Verac's brassard]] || [https://chisel.weirdgloop.org/moid/item_id.html#27190 27190] || No || No || Yes || No || No ||  Wear,   Drop || No || 50
+|-
+| [[Unholy book]] || [https://chisel.weirdgloop.org/moid/item_id.html#27191 27191] || No || No || Yes || No || No ||  Wield,   Drop || No || 1
+|-
+| [[Opal dragon bolts (e)]] || [https://chisel.weirdgloop.org/moid/item_id.html#27192 27192] || No || No || No || Yes || No ||  Wield,   Drop || No || 1
+|-
+| [[Ancestral robe top]] || [https://chisel.weirdgloop.org/moid/item_id.html#27193 27193] || No || No || Yes || No || No ||  Wear,   Drop || No || 55
+|-
+| [[Ancestral robe bottom]] || [https://chisel.weirdgloop.org/moid/item_id.html#27194 27194] || No || No || Yes || No || No ||  Wear,   Drop || No || 55
+|-
+| [[Inquisitor's great helm]] || [https://chisel.weirdgloop.org/moid/item_id.html#27195 27195] || No || No || Yes || No || No ||  Wear,   Drop || No || 20
+|-
+| [[Inquisitor's hauberk]] || [https://chisel.weirdgloop.org/moid/item_id.html#27196 27196] || No || No || Yes || No || No ||  Wear,   Drop || No || 20
+|-
+| [[Inquisitor's plateskirt]] || [https://chisel.weirdgloop.org/moid/item_id.html#27197 27197] || No || No || Yes || No || No ||  Wear,   Drop || No || 20
+|-
+| [[Inquisitor's mace]] || [https://chisel.weirdgloop.org/moid/item_id.html#27198 27198] || No || No || Yes || No || No ||  Wield,   Drop || No || 20
+|-
+| [[3rd age range top]] || [https://chisel.weirdgloop.org/moid/item_id.html#27199 27199] || No || No || Yes || No || No ||  Wear,   Drop || No || 20
+|-
+| [[3rd age range legs]] || [https://chisel.weirdgloop.org/moid/item_id.html#27200 27200] || No || No || Yes || No || No ||  Wear,   Drop || No || 20
+|-
+| [[3rd age range coif]] || [https://chisel.weirdgloop.org/moid/item_id.html#27201 27201] || No || No || Yes || No || No ||  Wear,   Drop || No || 20
+|-
+|-
+|}
+===Removed Items===
+{| class="wikitable sortable"
+!colspan='2'|Removed Items
+|-
+! Name !! ID
+|-
+|-
+|}
+===Diff Items===
+{| class="wikitable sortable"
+!colspan='5'|Diff Items
+|-
+! Name !! ID !! Key !! Previous Value !! New Value
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#9113 9113]
+|-
+|params || {'1189': 88, '365': 9075, '366': 2, '367': 564, '336': 2, '368': 2, '369': 563, '370': 1, '596': 14286958, '597': 562, '598': 612, '599': 1964, '600': 2014, '601': 'Cure Me', '602': 'Cure Poison', '603': 1, '604': 71, '605': 0} || {'1189': 88, '1228': 1, '365': 9075, '366': 2, '367': 564, '336': 2, '368': 2, '369': 563, '370': 1, '596': 14286958, '597': 562, '598': 612, '599': 1964, '600': 2014, '601': 'Cure Me', '602': 'Cure Poison', '603': 1, '604': 71, '605': 0}
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#9136 9136]
+|-
+|params || {'1189': 88, '365': 9075, '366': 4, '367': 560, '336': 2, '368': 2, '369': 557, '370': 10, '596': 14286987, '597': 564, '598': 614, '599': 1961, '600': 2011, '601': 'Vengeance', '602': 'Rebound damage to an opponent', '603': 1, '604': 94, '605': 0} || {'1189': 88, '1228': 1, '365': 9075, '366': 4, '367': 560, '336': 2, '368': 2, '369': 557, '370': 10, '596': 14286987, '597': 564, '598': 614, '599': 1961, '600': 2011, '601': 'Vengeance', '602': 'Rebound damage to an opponent', '603': 1, '604': 94, '605': 0}
+|-
+|rowspan="2"|[[Yew shortbow]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#20401 20401]
+|-
+|cost || 200 || 20
+|-
+|rowspan="2"|[[Rune scimitar]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#20402 20402]
+|-
+|cost || 100 || 10
+|-
+|rowspan="2"|[[Maple shortbow]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#20403 20403]
+|-
+|cost || 100 || 10
+|-
+|rowspan="2"|[[Dragon scimitar]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#20406 20406]
+|-
+|cost || 300 || 30
+|-
+|rowspan="2"|[[Dragon dagger]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#20407 20407]
+|-
+|cost || 500 || 50
+|-
+|rowspan="2"|[[Dark bow]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#20408 20408]
+|-
+|cost || 500 || 50
+|-
+|rowspan="2"|[[Adamant platebody]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#20415 20415]
+|-
+|cost || 100 || 10
+|-
+|rowspan="2"|[[Adamant platelegs]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#20416 20416]
+|-
+|cost || 100 || 10
+|-
+|rowspan="2"|[[Blue d'hide body]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#20417 20417]
+|-
+|cost || 100 || 10
+|-
+|rowspan="2"|[[Blue d'hide chaps]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#20418 20418]
+|-
+|cost || 100 || 10
+|-
+|rowspan="2"|[[Rune platebody]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#20421 20421]
+|-
+|cost || 300 || 30
+|-
+|rowspan="2"|[[Rune platelegs]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#20422 20422]
+|-
+|cost || 300 || 30
+|-
+|rowspan="2"|[[Black d'hide body]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#20423 20423]
+|-
+|cost || 300 || 30
+|-
+|rowspan="2"|[[Black d'hide chaps]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#20424 20424]
+|-
+|cost || 300 || 30
+|-
+|rowspan="2"|[[Mystic robe top]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#20425 20425]
+|-
+|cost || 100 || 10
+|-
+|rowspan="2"|[[Mystic robe bottom]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#20426 20426]
+|-
+|cost || 100 || 10
+|-
+|rowspan="2"|[[Dragon chainbody]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#20428 20428]
+|-
+|cost || 400 || 40
+|-
+|rowspan="2"|[[Dragon platelegs]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#20429 20429]
+|-
+|cost || 400 || 40
+|-
+|rowspan="2"|[[Ancient magicks tablet]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#20430 20430]
+|-
+|cost || 400 || 40
+|-
+|rowspan="2"|[[Ancient staff]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#20431 20431]
+|-
+|cost || 400 || 40
+|-
+|rowspan="2"|[[Rune battleaxe]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#20552 20552]
+|-
+|cost || 100 || 10
+|-
+|rowspan="2"|[[Beginner wand]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#20553 20553]
+|-
+|cost || 100 || 10
+|-
+|rowspan="2"|[[Toktz-xil-ak]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#20554 20554]
+|-
+|cost || 200 || 20
+|-
+|rowspan="2"|[[Rune 2h sword]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#20555 20555]
+|-
+|cost || 200 || 20
+|-
+|rowspan="2"|[[Apprentice wand]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#20556 20556]
+|-
+|cost || 200 || 20
+|-
+|rowspan="2"|[[Granite maul]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#20557 20557]
+|-
+|cost || 300 || 30
+|-
+|rowspan="2"|[[Magic shortbow]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#20558 20558]
+|-
+|cost || 300 || 30
+|-
+|rowspan="2"|[[Dragon 2h sword]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#20559 20559]
+|-
+|cost || 500 || 50
+|-
+|rowspan="2"|[[Master wand]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#20560 20560]
+|-
+|cost || 500 || 50
+|-
+|rowspan="2"|[[Adamant full helm]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#20561 20561]
+|-
+|cost || 100 || 10
+|-
+|rowspan="2"|[[Mystic hat]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#20562 20562]
+|-
+|cost || 100 || 10
+|-
+|rowspan="2"|[[Proselyte sallet]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#20563 20563]
+|-
+|cost || 200 || 20
+|-
+|rowspan="2"|[[Proselyte hauberk]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#20564 20564]
+|-
+|cost || 200 || 20
+|-
+|rowspan="2"|[[Proselyte cuisse]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#20565 20565]
+|-
+|cost || 200 || 20
+|-
+|rowspan="2"|[[Red d'hide body]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#20566 20566]
+|-
+|cost || 200 || 20
+|-
+|rowspan="2"|[[Red d'hide chaps]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#20567 20567]
+|-
+|cost || 200 || 20
+|-
+|rowspan="2"|[[Splitbark helm]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#20568 20568]
+|-
+|cost || 200 || 20
+|-
+|rowspan="2"|[[Warrior helm]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#20571 20571]
+|-
+|cost || 300 || 30
+|-
+|rowspan="2"|[[Archer helm]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#20572 20572]
+|-
+|cost || 300 || 30
+|-
+|rowspan="2"|[[Farseer helm]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#20573 20573]
+|-
+|cost || 300 || 30
+|-
+|rowspan="2"|[[Infinity top]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#20574 20574]
+|-
+|cost || 300 || 30
+|-
+|rowspan="2"|[[Infinity bottoms]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#20575 20575]
+|-
+|cost || 300 || 30
+|-
+|rowspan="2"|[[3rd age robe top]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#20576 20576]
+|-
+|cost || 400 || 40
+|-
+|rowspan="2"|[[3rd age robe]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#20577 20577]
+|-
+|cost || 400 || 40
+|-
+|rowspan="2"|[[Armadyl godsword]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#20593 20593]
+|-
+|cost || 1000 || 100
+|-
+|rowspan="2"|[[Ahrim's robetop]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#20598 20598]
+|-
+|cost || 500 || 50
+|-
+|rowspan="2"|[[Ahrim's robeskirt]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#20599 20599]
+|-
+|cost || 500 || 50
+|-
+|rowspan="2"|[[Dragon claws]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#20784 20784]
+|-
+|cost || 1000 || 100
+|-
+|rowspan="2"|[[Dragon warhammer]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#20785 20785]
+|-
+|cost || 1000 || 100
+|-
+|rowspan="2"|[[Elder maul]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#21205 21205]
+|-
+|cost || 1000 || 100
+|-
+|rowspan="2"|[[Dragon sword]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#21206 21206]
+|-
+|cost || 300 || 30
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#21876 21876]
+|-
+|params || {'365': 21880, '366': 1, '367': 556, '336': 0, '368': 7, '596': 14286914, '597': 362, '598': 412, '599': 1098, '600': 1828, '601': 'Wind Surge', '602': 'A very high level Air missile', '603': 1, '604': 81, '605': 0} || {'1228': 1, '365': 21880, '366': 1, '367': 556, '336': 0, '368': 7, '596': 14286914, '597': 362, '598': 412, '599': 1098, '600': 1828, '601': 'Wind Surge', '602': 'A very high level Air missile', '603': 1, '604': 81, '605': 0}
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#21877 21877]
+|-
+|params || {'365': 21880, '366': 1, '367': 555, '336': 0, '368': 10, '369': 556, '370': 7, '596': 14286916, '597': 363, '598': 413, '599': 1099, '600': 1829, '601': 'Water Surge', '602': 'A very high level Water missile', '603': 1, '604': 85, '605': 0} || {'1228': 1, '365': 21880, '366': 1, '367': 555, '336': 0, '368': 10, '369': 556, '370': 7, '596': 14286916, '597': 363, '598': 413, '599': 1099, '600': 1829, '601': 'Water Surge', '602': 'A very high level Water missile', '603': 1, '604': 85, '605': 0}
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#21878 21878]
+|-
+|params || {'365': 21880, '366': 1, '367': 557, '336': 0, '368': 10, '369': 556, '370': 7, '596': 14286921, '597': 364, '598': 414, '599': 1100, '600': 1830, '601': 'Earth Surge', '602': 'A very high level Earth missile', '603': 1, '604': 90, '605': 0} || {'1228': 1, '365': 21880, '366': 1, '367': 557, '336': 0, '368': 10, '369': 556, '370': 7, '596': 14286921, '597': 364, '598': 414, '599': 1100, '600': 1830, '601': 'Earth Surge', '602': 'A very high level Earth missile', '603': 1, '604': 90, '605': 0}
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#21879 21879]
+|-
+|params || {'365': 21880, '366': 1, '367': 554, '336': 0, '368': 10, '369': 556, '370': 7, '596': 14286923, '597': 365, '598': 415, '599': 1751, '600': 1831, '601': 'Fire Surge', '602': 'A very high level Fire missile', '603': 1, '604': 95, '605': 0} || {'1228': 1, '365': 21880, '366': 1, '367': 554, '336': 0, '368': 10, '369': 556, '370': 7, '596': 14286923, '597': 365, '598': 415, '599': 1751, '600': 1831, '601': 'Fire Surge', '602': 'A very high level Fire missile', '603': 1, '604': 95, '605': 0}
+|-
+|rowspan="2"|[[Helm of neitiznot]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#23591 23591]
+|-
+|cost || 300 || 30
+|-
+|rowspan="2"|[[Barrows gloves]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#23593 23593]
+|-
+|cost || 300 || 30
+|-
+|rowspan="2"|[[Berserker ring]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#23595 23595]
+|-
+|cost || 300 || 30
+|-
+|rowspan="2"|[[Dragon defender]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#23597 23597]
+|-
+|cost || 300 || 30
+|-
+|rowspan="2"|[[Imbued guthix cape]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#23603 23603]
+|-
+|cost || 300 || 30
+|-
+|rowspan="2"|[[Imbued zamorak cape]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#23605 23605]
+|-
+|cost || 300 || 30
+|-
+|rowspan="2"|[[Imbued saradomin cape]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#23607 23607]
+|-
+|cost || 300 || 30
+|-
+|rowspan="2"|[[Ava's accumulator]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#23609 23609]
+|-
+|cost || 300 || 30
+|-
+|rowspan="2"|[[Armadyl crossbow]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#23611 23611]
+|-
+|cost || 300 || 30
+|-
+|rowspan="2"|[[Staff of the dead]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#23613 23613]
+|-
+|cost || 300 || 30
+|-
+|rowspan="2"|[[Vesta's longsword]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#23615 23615]
+|-
+|cost || 300 || 30
+|-
+|rowspan="2"|[[Zuriel's staff]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#23617 23617]
+|-
+|cost || 300 || 30
+|-
+|rowspan="2"|[[Statius's warhammer]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#23620 23620]
+|-
+|cost || 300 || 30
+|-
+|rowspan="2"|[[Infernal cape]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#23622 23622]
+|-
+|cost || 300 || 30
+|-
+|rowspan="2"|[[Seers ring (i)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#23624 23624]
+|-
+|cost || 300 || 30
+|-
+|rowspan="2"|[[Kodai wand]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#23626 23626]
+|-
+|cost || 300 || 30
+|-
+|rowspan="2"|[[Ghrazi rapier]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#23628 23628]
+|-
+|cost || 300 || 30
+|-
+|rowspan="2"|[[Karil's leathertop]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#23632 23632]
+|-
+|cost || 500 || 50
+|-
+|rowspan="2"|[[Dharok's platelegs]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#23633 23633]
+|-
+|cost || 500 || 50
+|-
+|rowspan="2"|[[Torag's platelegs]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#23634 23634]
+|-
+|cost || 500 || 50
+|-
+|rowspan="2"|[[Verac's plateskirt]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#23635 23635]
+|-
+|cost || 500 || 50
+|-
+|rowspan="2"|[[Verac's helm]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#23636 23636]
+|-
+|cost || 500 || 50
+|-
+|rowspan="2"|[[Torag's helm]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#23637 23637]
+|-
+|cost || 500 || 50
+|-
+|rowspan="2"|[[Guthan's helm]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#23638 23638]
+|-
+|cost || 500 || 50
+|-
+|rowspan="2"|[[Dharok's helm]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#23639 23639]
+|-
+|cost || 500 || 50
+|-
+|rowspan="2"|[[Amulet of fury]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#23640 23640]
+|-
+|cost || 300 || 30
+|-
+|rowspan="2"|[[Blessed spirit shield]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#23642 23642]
+|-
+|cost || 300 || 30
+|-
+|rowspan="2"|[[Eternal boots]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#23644 23644]
+|-
+|cost || 300 || 30
+|-
+|rowspan="2"|[[Bandos tassets]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#23646 23646]
+|-
+|cost || 300 || 30
+|-
+|rowspan="2"|[[Mage's book]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#23652 23652]
+|-
+|cost || 300 || 30
+|-
+|rowspan="2"|[[Ahrim's staff]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#23653 23653]
+|-
+|cost || 300 || 30
+|-
+|rowspan="2"|[[Dharok's platebody]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#25515 25515]
+|-
+|cost || 500 || 50
+|-
+|rowspan="2"|[[Volatile nightmare staff]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#25517 25517]
+|-
+|cost || 500 || 50
+|-
+|rowspan="2"|[[Ancestral hat]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#25518 25518]
+|-
+|cost || 500 || 50
+|-
+|}
+
+==Non-Player Characters==
+===New NPCs===
+{| class="wikitable sortable"
+!colspan='4'|Non-Player Characters
+|-
+! Name !! ID !! Combat Level !! Options
+|-
+| [[Hannibal]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11651 11651] || No Combat Level || Pet,  Feed, Talk
+|-
+|-
+|}
+===Removed NPCs===
+{| class="wikitable sortable"
+!colspan='2'|Removed NPCs
+|-
+! Name !! ID
+|-
+|-
+|}
+===Diff NPCs===
+{| class="wikitable sortable"
+!colspan='5'|Diff NPCs
+|-
+! Name !! ID !! Key !! Previous Value !! New Value
+|-
+|}
+
+==Objects==
+===New Objects=== 
+{| class="wikitable sortable"
+!colspan='3'|New Objects
+|-
+! Name !! ID !! Options
+|-
+|-
+|}
+===Removed Objects===
+{| class="wikitable sortable"
+!colspan='2'|Removed Objects
+|-
+! Name !! ID
+|-
+| [[<col=ffff00>Hannibal</col>]] || [https://chisel.weirdgloop.org/moid/object_id.html#41696 41696]
+|-
+|-
+|}
+===Diff Objects===
+{| class="wikitable sortable"
+!colspan='5'|Diff Objects
+|-
+! Name !! ID !! Key !! Previous Value !! New Value
+|-
+|}

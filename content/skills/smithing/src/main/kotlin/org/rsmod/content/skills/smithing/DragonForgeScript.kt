@@ -40,11 +40,9 @@ class DragonForgeScript : PluginScript() {
                 actionType = SkillingActionType.SMELT,
                 entries = available.map(::toEntry),
                 maxCountProvider = { inventory, entry ->
-                    recipesByOutput[entry.internal]
-                        ?.let { maxSmeltCount(inventory, it) }
-                        ?: 0
+                    recipesByOutput[entry.internal]?.let { maxSmeltCount(inventory, it) } ?: 0
                 },
-            ),
+            )
         ) { selection ->
             val recipe = recipesByOutput[selection.entry.internal] ?: return@openSkillMulti
             startSmelting(recipe, selection.amount)
@@ -81,7 +79,6 @@ class DragonForgeScript : PluginScript() {
         if (completed >= task.amount || !canSmelt(task.recipe)) {
             return
         }
-
 
         queueNext(task.recipe, task.amount, completed)
     }
@@ -157,5 +154,4 @@ class DragonForgeScript : PluginScript() {
         val amount: Int,
         val completed: Int,
     )
-
 }

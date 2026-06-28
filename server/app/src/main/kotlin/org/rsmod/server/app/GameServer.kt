@@ -9,6 +9,7 @@ import com.google.inject.AbstractModule
 import com.google.inject.Guice
 import com.google.inject.Injector
 import com.google.inject.util.Modules
+import dev.openrune.DirectoryConstants
 import dev.openrune.ServerCacheManager
 import dev.openrune.filesystem.Cache
 import dev.openrune.map.GameMapDecoder
@@ -37,7 +38,6 @@ import org.rsmod.plugin.scripts.PluginScript
 import org.rsmod.plugin.scripts.ScriptContext
 import org.rsmod.server.install.GameNetworkRsaGenerator
 import org.rsmod.server.install.GameServerLogbackCopy
-import dev.openrune.DirectoryConstants
 import org.rsmod.server.shared.PluginConstants
 import org.rsmod.server.shared.loader.PluginModuleLoader
 import org.rsmod.server.shared.loader.PluginScriptLoader
@@ -70,7 +70,7 @@ class GameServer(private val skipTypeVerificationOverride: Boolean? = null) :
             )
             .flag(default = false)
 
-    private lateinit var serverConfig : ServerConfig
+    private lateinit var serverConfig: ServerConfig
 
     // When the app is run in integration tests, the GameServer is constructed directly and Clikt
     // args are not parsed. In that case, we fall back to the explicit override to avoid accessing

@@ -1,0 +1,859 @@
+{{ToC}}
+==Items==
+===New Items===
+{| class="wikitable sortable"
+!colspan='11'|New Items
+|-
+! style=width:15em | Name !! ID !! Members !! Tradeable in GE !! Equipable !! Stackable !! Noteable !! Options !! Placeholder !! Cost !! Weight
+|-
+|-
+|}
+===Removed Items===
+{| class="wikitable sortable"
+!colspan='2'|Removed Items
+|-
+! style=width:15em | Name !! ID
+|-
+|-
+|}
+===Diff Items===
+{| class="wikitable sortable"
+!colspan='5'|Diff Items
+|-
+! style=width:15em | Name !! ID !! Key !! Previous Value !! New Value
+|-
+|rowspan="7"|[[Giant seaweed]]
+|rowspan="7"|[https://chisel.weirdgloop.org/moid/item_id.html#21504 21504]
+|-
+|xan2d || 272 || 280
+|-
+| yan2d || 304 || 164
+|-
+| inventoryModel || 2370 || 48277
+|-
+| zoom2d || 1360 || 1333
+|-
+| xOffset2d || 7 || -3
+|-
+| yOffset2d || -13 || 29
+|-
+|rowspan="2"|[[Ritual mulch]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#28154 28154]
+|-
+|params || {'1784': 'This component is used to make nature offerings. Which give extra logs while woodcutting. You will also need:<br><br>A high tier herb<br><br>50 farming<br>68 woodcutting'} || {'1784': 'This component is used to make nature offerings which give extra logs while woodcutting. You will also need:<br><br>A high tier herb<br><br>50 farming<br>68 woodcutting'}
+|-
+|}
+
+==Non-Player Characters==
+===New NPCs===
+{| class="wikitable sortable"
+!colspan='4'|New NPCs
+|-
+! style=width:15em | Name !! ID !! Combat Level !! Options
+|-
+| [[Friendly Forester]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11427 11427] || No Combat Level || Talk-to, None, Shop, None, None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12119 12119] || 1 || None, None, None, None, None
+|-
+| [[<col=00ffff>Flowering bush (Lilac)</col>]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12120 12120] || No Combat Level || Tend-to, None, None, None, None
+|-
+| [[<col=00ffff>Strange bush (Lilac)</col>]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12133 12133] || No Combat Level || Tend-to, None, None, None, None
+|-
+| [[<col=00ffff>Flowering bush (Pink)</col>]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12134 12134] || No Combat Level || Tend-to, None, None, None, None
+|-
+| [[<col=00ffff>Strange bush (Pink)</col>]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12135 12135] || No Combat Level || Tend-to, None, None, None, None
+|-
+| [[<col=00ffff>Flowering bush (Red)</col>]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12141 12141] || No Combat Level || Tend-to, None, None, None, None
+|-
+| [[<col=00ffff>Strange bush (Red)</col>]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12142 12142] || No Combat Level || Tend-to, None, None, None, None
+|-
+| [[<col=00ffff>Flowering bush (Orange)</col>]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12143 12143] || No Combat Level || Tend-to, None, None, None, None
+|-
+| [[<col=00ffff>Strange bush (Orange)</col>]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12144 12144] || No Combat Level || Tend-to, None, None, None, None
+|-
+| [[<col=00ffff>Flowering bush (Yellow)</col>]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12145 12145] || No Combat Level || Tend-to, None, None, None, None
+|-
+| [[<col=00ffff>Strange bush (Yellow)</col>]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12146 12146] || No Combat Level || Tend-to, None, None, None, None
+|-
+| [[<col=00ffff>Flowering bush (White)</col>]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12147 12147] || No Combat Level || Tend-to, None, None, None, None
+|-
+| [[<col=00ffff>Strange bush (White)</col>]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12148 12148] || No Combat Level || Tend-to, None, None, None, None
+|-
+| [[<col=00ffff>Flowering bush (Green)</col>]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12149 12149] || No Combat Level || Tend-to, None, None, None, None
+|-
+| [[<col=00ffff>Strange bush (Green)</col>]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12150 12150] || No Combat Level || Tend-to, None, None, None, None
+|-
+| [[<col=00ffff>Flowering bush (Blue)</col>]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12151 12151] || No Combat Level || Tend-to, None, None, None, None
+|-
+| [[<col=00ffff>Strange bush (Blue)</col>]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12152 12152] || No Combat Level || Tend-to, None, None, None, None
+|-
+| [[Friendly Forester]] || [https://chisel.weirdgloop.org/moid/npc_id.html#6724 6724] || No Combat Level || Talk-to, None, Shop, Log-storage, None
+|-
+|-
+|}
+===Removed NPCs===
+{| class="wikitable sortable"
+!colspan='2'|Removed NPCs
+|-
+! style=width:15em | Name !! ID
+|-
+| [[Friendly Forester]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12162 12162]
+|-
+| [[<col=00ffff>Flowering bush</col>]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12166 12166]
+|-
+| [[<col=00ffff>Strange bush</col>]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12167 12167]
+|-
+|-
+|}
+===Diff NPCs===
+{| class="wikitable sortable"
+!colspan='5'|Diff NPCs
+|-
+! style=width:15em | Name !! ID !! Key !! Previous Value !! New Value
+|-
+|}
+
+==Objects==
+===New Objects=== 
+{| class="wikitable sortable"
+!colspan='3'|New Objects
+|-
+! style=width:15em | Name !! ID !! Options
+|-
+|-
+|}
+===Removed Objects===
+{| class="wikitable sortable"
+!colspan='2'|Removed Objects
+|-
+! style=width:15em | Name !! ID
+|-
+|-
+|}
+===Diff Objects===
+{| class="wikitable sortable"
+!colspan='5'|Diff Objects
+|-
+! style=width:15em | Name !! ID !! Key !! Previous Value !! New Value
+|-
+|rowspan="2"|[[Evergreen tree]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#1318 1318]
+|-
+|name || [[Evergreen]] || [[Evergreen tree]]
+|-
+|rowspan="2"|[[Evergreen tree]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#1319 1319]
+|-
+|name || [[Evergreen]] || [[Evergreen tree]]
+|-
+|rowspan="2"|[[Banana tree]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#2073 2073]
+|-
+|name || [[Banana Tree]] || [[Banana tree]]
+|-
+|rowspan="2"|[[Banana tree]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#2074 2074]
+|-
+|name || [[Banana Tree]] || [[Banana tree]]
+|-
+|rowspan="2"|[[Banana tree]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#2075 2075]
+|-
+|name || [[Banana Tree]] || [[Banana tree]]
+|-
+|rowspan="2"|[[Banana tree]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#2076 2076]
+|-
+|name || [[Banana Tree]] || [[Banana tree]]
+|-
+|rowspan="2"|[[Banana tree]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#2077 2077]
+|-
+|name || [[Banana Tree]] || [[Banana tree]]
+|-
+|rowspan="2"|[[Banana tree]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#2078 2078]
+|-
+|name || [[Banana Tree]] || [[Banana tree]]
+|-
+|rowspan="2"|[[Evergreen tree]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#2091 2091]
+|-
+|name || [[Evergreen]] || [[Evergreen tree]]
+|-
+|rowspan="2"|[[Evergreen tree]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#2092 2092]
+|-
+|name || [[Evergreen]] || [[Evergreen tree]]
+|-
+|rowspan="2"|[[Jungle tree]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#2887 2887]
+|-
+|name || [[Jungle Tree]] || [[Jungle tree]]
+|-
+|rowspan="2"|[[Jungle tree]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#2889 2889]
+|-
+|name || [[Jungle Tree]] || [[Jungle tree]]
+|-
+|rowspan="2"|[[Jungle tree]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#2890 2890]
+|-
+|name || [[Jungle Tree]] || [[Jungle tree]]
+|-
+|rowspan="2"|[[Arctic pine tree]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#3037 3037]
+|-
+|name || [[Arctic Pine]] || [[Arctic pine tree]]
+|-
+|rowspan="2"|[[Oak tree]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#4540 4540]
+|-
+|name || [[Oak Tree]] || [[Oak tree]]
+|-
+|rowspan="2"|[[Willow tree]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#4541 4541]
+|-
+|name || [[Willow Tree]] || [[Willow tree]]
+|-
+|rowspan="2"|[[Banana tree]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#4749 4749]
+|-
+|name || [[Banana Tree]] || [[Banana tree]]
+|-
+|rowspan="2"|[[Banana tree]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#4750 4750]
+|-
+|name || [[Banana Tree]] || [[Banana tree]]
+|-
+|rowspan="2"|[[Banana tree]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#4751 4751]
+|-
+|name || [[Banana Tree]] || [[Banana tree]]
+|-
+|rowspan="2"|[[Banana tree]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#4752 4752]
+|-
+|name || [[Banana Tree]] || [[Banana tree]]
+|-
+|rowspan="2"|[[Banana tree]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#4753 4753]
+|-
+|name || [[Banana Tree]] || [[Banana tree]]
+|-
+|rowspan="2"|[[Banana tree]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#4754 4754]
+|-
+|name || [[Banana Tree]] || [[Banana tree]]
+|-
+|rowspan="2"|[[Jungle tree]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#4816 4816]
+|-
+|name || [[Jungle Tree]] || [[Jungle tree]]
+|-
+|rowspan="2"|[[Jungle tree]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#4818 4818]
+|-
+|name || [[Jungle Tree]] || [[Jungle tree]]
+|-
+|rowspan="2"|[[Jungle tree stump]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#4819 4819]
+|-
+|name || [[Jungle Tree Stump]] || [[Jungle tree stump]]
+|-
+|rowspan="2"|[[Jungle tree]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#4820 4820]
+|-
+|name || [[Jungle Tree]] || [[Jungle tree]]
+|-
+|rowspan="2"|[[Jungle tree stump]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#4821 4821]
+|-
+|name || [[Jungle Tree Stump]] || [[Jungle tree stump]]
+|-
+|rowspan="2"|[[Calquat tree]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#7776 7776]
+|-
+|name || [[Calquat Tree]] || [[Calquat tree]]
+|-
+|rowspan="2"|[[Calquat tree]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#7777 7777]
+|-
+|name || [[Calquat Tree]] || [[Calquat tree]]
+|-
+|rowspan="2"|[[Calquat tree]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#7778 7778]
+|-
+|name || [[Calquat Tree]] || [[Calquat tree]]
+|-
+|rowspan="2"|[[Calquat tree]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#7779 7779]
+|-
+|name || [[Calquat Tree]] || [[Calquat tree]]
+|-
+|rowspan="2"|[[Calquat tree]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#7780 7780]
+|-
+|name || [[Calquat Tree]] || [[Calquat tree]]
+|-
+|rowspan="2"|[[Calquat tree]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#7781 7781]
+|-
+|name || [[Calquat Tree]] || [[Calquat tree]]
+|-
+|rowspan="2"|[[Calquat tree]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#7782 7782]
+|-
+|name || [[Calquat Tree]] || [[Calquat tree]]
+|-
+|rowspan="2"|[[Calquat tree]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#7783 7783]
+|-
+|name || [[Calquat Tree]] || [[Calquat tree]]
+|-
+|rowspan="2"|[[Calquat tree]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#7784 7784]
+|-
+|name || [[Calquat Tree]] || [[Calquat tree]]
+|-
+|rowspan="2"|[[Calquat tree]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#7785 7785]
+|-
+|name || [[Calquat Tree]] || [[Calquat tree]]
+|-
+|rowspan="2"|[[Calquat tree]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#7786 7786]
+|-
+|name || [[Calquat Tree]] || [[Calquat tree]]
+|-
+|rowspan="2"|[[Calquat tree]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#7787 7787]
+|-
+|name || [[Calquat Tree]] || [[Calquat tree]]
+|-
+|rowspan="2"|[[Calquat tree]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#7788 7788]
+|-
+|name || [[Calquat Tree]] || [[Calquat tree]]
+|-
+|rowspan="2"|[[Calquat tree]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#7789 7789]
+|-
+|name || [[Calquat Tree]] || [[Calquat tree]]
+|-
+|rowspan="2"|[[Calquat tree]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#7790 7790]
+|-
+|name || [[Calquat Tree]] || [[Calquat tree]]
+|-
+|rowspan="2"|[[Calquat tree]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#7791 7791]
+|-
+|name || [[Calquat Tree]] || [[Calquat tree]]
+|-
+|rowspan="2"|[[Magic tree]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#8396 8396]
+|-
+|name || [[Magic Tree]] || [[Magic tree]]
+|-
+|rowspan="2"|[[Magic tree]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#8397 8397]
+|-
+|name || [[Magic Tree]] || [[Magic tree]]
+|-
+|rowspan="2"|[[Magic tree]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#8398 8398]
+|-
+|name || [[Magic Tree]] || [[Magic tree]]
+|-
+|rowspan="2"|[[Magic tree]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#8399 8399]
+|-
+|name || [[Magic Tree]] || [[Magic tree]]
+|-
+|rowspan="2"|[[Magic tree]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#8400 8400]
+|-
+|name || [[Magic Tree]] || [[Magic tree]]
+|-
+|rowspan="2"|[[Magic tree]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#8401 8401]
+|-
+|name || [[Magic Tree]] || [[Magic tree]]
+|-
+|rowspan="2"|[[Magic tree]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#8402 8402]
+|-
+|name || [[Magic Tree]] || [[Magic tree]]
+|-
+|rowspan="2"|[[Magic tree]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#8403 8403]
+|-
+|name || [[Magic Tree]] || [[Magic tree]]
+|-
+|rowspan="2"|[[Magic tree]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#8404 8404]
+|-
+|name || [[Magic Tree]] || [[Magic tree]]
+|-
+|rowspan="2"|[[Magic tree]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#8405 8405]
+|-
+|name || [[Magic Tree]] || [[Magic tree]]
+|-
+|rowspan="2"|[[Magic tree]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#8406 8406]
+|-
+|name || [[Magic Tree]] || [[Magic tree]]
+|-
+|rowspan="2"|[[Magic tree]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#8407 8407]
+|-
+|name || [[Magic Tree]] || [[Magic tree]]
+|-
+|rowspan="2"|[[Magic tree]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#8408 8408]
+|-
+|name || [[Magic Tree]] || [[Magic tree]]
+|-
+|rowspan="2"|[[Magic tree]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#8409 8409]
+|-
+|name || [[Magic Tree]] || [[Magic tree]]
+|-
+|rowspan="2"|[[Magic tree stump]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#8410 8410]
+|-
+|name || [[Magic Tree Stump]] || [[Magic tree stump]]
+|-
+|rowspan="2"|[[Maple tree]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#8435 8435]
+|-
+|name || [[Maple Tree]] || [[Maple tree]]
+|-
+|rowspan="2"|[[Maple tree]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#8436 8436]
+|-
+|name || [[Maple Tree]] || [[Maple tree]]
+|-
+|rowspan="2"|[[Maple tree]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#8437 8437]
+|-
+|name || [[Maple Tree]] || [[Maple tree]]
+|-
+|rowspan="2"|[[Maple tree]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#8438 8438]
+|-
+|name || [[Maple Tree]] || [[Maple tree]]
+|-
+|rowspan="2"|[[Maple tree]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#8439 8439]
+|-
+|name || [[Maple Tree]] || [[Maple tree]]
+|-
+|rowspan="2"|[[Maple tree]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#8440 8440]
+|-
+|name || [[Maple Tree]] || [[Maple tree]]
+|-
+|rowspan="2"|[[Maple tree]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#8441 8441]
+|-
+|name || [[Maple Tree]] || [[Maple tree]]
+|-
+|rowspan="2"|[[Maple tree]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#8442 8442]
+|-
+|name || [[Maple Tree]] || [[Maple tree]]
+|-
+|rowspan="2"|[[Maple tree]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#8443 8443]
+|-
+|name || [[Maple Tree]] || [[Maple tree]]
+|-
+|rowspan="2"|[[Maple tree]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#8444 8444]
+|-
+|name || [[Maple Tree]] || [[Maple tree]]
+|-
+|rowspan="2"|[[Oak tree]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#8462 8462]
+|-
+|name || [[Oak]] || [[Oak tree]]
+|-
+|rowspan="2"|[[Oak tree]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#8463 8463]
+|-
+|name || [[Oak]] || [[Oak tree]]
+|-
+|rowspan="2"|[[Oak tree]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#8464 8464]
+|-
+|name || [[Oak]] || [[Oak tree]]
+|-
+|rowspan="2"|[[Oak tree]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#8465 8465]
+|-
+|name || [[Oak]] || [[Oak tree]]
+|-
+|rowspan="2"|[[Oak tree]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#8466 8466]
+|-
+|name || [[Oak]] || [[Oak tree]]
+|-
+|rowspan="2"|[[Oak tree]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#8467 8467]
+|-
+|name || [[Oak]] || [[Oak tree]]
+|-
+|rowspan="2"|[[Willow tree]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#8481 8481]
+|-
+|name || [[Willow Tree]] || [[Willow tree]]
+|-
+|rowspan="2"|[[Willow tree]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#8482 8482]
+|-
+|name || [[Willow Tree]] || [[Willow tree]]
+|-
+|rowspan="2"|[[Willow tree]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#8483 8483]
+|-
+|name || [[Willow Tree]] || [[Willow tree]]
+|-
+|rowspan="2"|[[Willow tree]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#8484 8484]
+|-
+|name || [[Willow Tree]] || [[Willow tree]]
+|-
+|rowspan="2"|[[Willow tree]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#8485 8485]
+|-
+|name || [[Willow Tree]] || [[Willow tree]]
+|-
+|rowspan="2"|[[Willow tree]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#8486 8486]
+|-
+|name || [[Willow Tree]] || [[Willow tree]]
+|-
+|rowspan="2"|[[Willow tree]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#8487 8487]
+|-
+|name || [[Willow Tree]] || [[Willow tree]]
+|-
+|rowspan="2"|[[Willow tree]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#8488 8488]
+|-
+|name || [[Willow Tree]] || [[Willow tree]]
+|-
+|rowspan="2"|[[Mahogany tree]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#9034 9034]
+|-
+|name || [[Mahogany]] || [[Mahogany tree]]
+|-
+|rowspan="2"|[[Teak tree]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#9036 9036]
+|-
+|name || [[Teak]] || [[Teak tree]]
+|-
+|rowspan="2"|[[Oak tree]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#9734 9734]
+|-
+|name || [[Oak]] || [[Oak tree]]
+|-
+|rowspan="2"|[[Willow tree]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#10819 10819]
+|-
+|name || [[Willow]] || [[Willow tree]]
+|-
+|rowspan="2"|[[Oak tree]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#10820 10820]
+|-
+|name || [[Oak]] || [[Oak tree]]
+|-
+|rowspan="2"|[[Yew tree]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#10822 10822]
+|-
+|name || [[Yew]] || [[Yew tree]]
+|-
+|rowspan="2"|[[Willow tree]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#10829 10829]
+|-
+|name || [[Willow]] || [[Willow tree]]
+|-
+|rowspan="2"|[[Willow tree]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#10831 10831]
+|-
+|name || [[Willow]] || [[Willow tree]]
+|-
+|rowspan="2"|[[Willow tree]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#10833 10833]
+|-
+|name || [[Willow]] || [[Willow tree]]
+|-
+|rowspan="2"|[[Teak tree]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#15062 15062]
+|-
+|name || [[Teak]] || [[Teak tree]]
+|-
+|rowspan="2"|[[Strange banana tree]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#15574 15574]
+|-
+|name || [[Strange Banana Tree]] || [[Strange banana tree]]
+|-
+|rowspan="2"|[[Jungle tree]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#15948 15948]
+|-
+|name || [[Jungle Tree]] || [[Jungle tree]]
+|-
+|rowspan="2"|[[Jungle tree]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#15949 15949]
+|-
+|name || [[Jungle Tree]] || [[Jungle tree]]
+|-
+|rowspan="2"|[[Jungle tree]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#15950 15950]
+|-
+|name || [[Jungle Tree]] || [[Jungle tree]]
+|-
+|rowspan="2"|[[Jungle tree]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#15951 15951]
+|-
+|name || [[Jungle Tree]] || [[Jungle tree]]
+|-
+|rowspan="2"|[[Jungle tree]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#15952 15952]
+|-
+|name || [[Jungle Tree]] || [[Jungle tree]]
+|-
+|rowspan="2"|[[Jungle tree]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#15953 15953]
+|-
+|name || [[Jungle Tree]] || [[Jungle tree]]
+|-
+|rowspan="2"|[[Jungle tree]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#15954 15954]
+|-
+|name || [[Jungle Tree]] || [[Jungle tree]]
+|-
+|rowspan="2"|[[Jungle tree]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#15955 15955]
+|-
+|name || [[Jungle Tree]] || [[Jungle tree]]
+|-
+|rowspan="2"|[[Jungle tree]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#15956 15956]
+|-
+|name || [[Jungle Tree]] || [[Jungle tree]]
+|-
+|rowspan="2"|[[Oak tree]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#20806 20806]
+|-
+|name || [[Oak]] || [[Oak tree]]
+|-
+|rowspan="2"|[[Evergreen tree]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#27060 27060]
+|-
+|name || [[Evergreen]] || [[Evergreen tree]]
+|-
+|rowspan="2"|[[Redwood tree]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#29668 29668]
+|-
+|name || [[Redwood]] || [[Redwood tree]]
+|-
+|rowspan="2"|[[Redwood tree]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#29669 29669]
+|-
+|name || [[Redwood]] || [[Redwood tree]]
+|-
+|rowspan="2"|[[Redwood tree]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#29670 29670]
+|-
+|name || [[Redwood]] || [[Redwood tree]]
+|-
+|rowspan="2"|[[Redwood tree]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#29671 29671]
+|-
+|name || [[Redwood]] || [[Redwood tree]]
+|-
+|rowspan="2"|[[Teak tree]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#30437 30437]
+|-
+|name || [[Teak Tree]] || [[Teak tree]]
+|-
+|rowspan="2"|[[Teak tree]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#30438 30438]
+|-
+|name || [[Teak Tree]] || [[Teak tree]]
+|-
+|rowspan="2"|[[Teak tree]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#30439 30439]
+|-
+|name || [[Teak Tree]] || [[Teak tree]]
+|-
+|rowspan="2"|[[Teak tree]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#30440 30440]
+|-
+|name || [[Teak Tree]] || [[Teak tree]]
+|-
+|rowspan="2"|[[Teak tree]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#30441 30441]
+|-
+|name || [[Teak Tree]] || [[Teak tree]]
+|-
+|rowspan="2"|[[Teak tree]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#30442 30442]
+|-
+|name || [[Teak Tree]] || [[Teak tree]]
+|-
+|rowspan="2"|[[Teak tree]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#30443 30443]
+|-
+|name || [[Teak Tree]] || [[Teak tree]]
+|-
+|rowspan="2"|[[Teak tree]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#30444 30444]
+|-
+|name || [[Teak Tree]] || [[Teak tree]]
+|-
+|rowspan="2"|[[Teak tree]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#30445 30445]
+|-
+|name || [[Teak Tree]] || [[Teak tree]]
+|-
+|rowspan="2"|[[Yew tree]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#36683 36683]
+|-
+|name || [[Yew]] || [[Yew tree]]
+|-
+|rowspan="2"|[[Teak tree]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#36686 36686]
+|-
+|name || [[Teak]] || [[Teak tree]]
+|-
+|rowspan="2"|[[Oak tree]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#37969 37969]
+|-
+|name || [[Oak]] || [[Oak tree]]
+|-
+|rowspan="2"|[[Oak tree]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#37970 37970]
+|-
+|name || [[Oak]] || [[Oak tree]]
+|-
+|rowspan="2"|[[Blisterwood tree]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#37989 37989]
+|-
+|name || [[Blisterwood Tree]] || [[Blisterwood tree]]
+|-
+|rowspan="2"|[[Yew tree]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#40756 40756]
+|-
+|name || [[Yew]] || [[Yew tree]]
+|-
+|rowspan="2"|[[Teak tree]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#40758 40758]
+|-
+|name || [[Teak]] || [[Teak tree]]
+|-
+|rowspan="2"|[[Mahogany tree]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#40760 40760]
+|-
+|name || [[Mahogany]] || [[Mahogany tree]]
+|-
+|rowspan="2"|[[Evergreen tree]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#40932 40932]
+|-
+|name || [[Evergreen]] || [[Evergreen tree]]
+|-
+|rowspan="2"|[[Evergreen tree]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#40933 40933]
+|-
+|name || [[Evergreen]] || [[Evergreen tree]]
+|-
+|rowspan="2"|[[Pine tree]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#42377 42377]
+|-
+|name || [[Pine]] || [[Pine tree]]
+|-
+|rowspan="2"|[[Pine tree]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#42378 42378]
+|-
+|name || [[Pine]] || [[Pine tree]]
+|-
+|rowspan="2"|[[Pine tree]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#42379 42379]
+|-
+|name || [[Pine]] || [[Pine tree]]
+|-
+|rowspan="2"|[[Pine tree]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#42380 42380]
+|-
+|name || [[Pine]] || [[Pine tree]]
+|-
+|rowspan="2"|[[Pine tree]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#42381 42381]
+|-
+|name || [[Pine]] || [[Pine tree]]
+|-
+|rowspan="2"|[[Pine tree]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#42382 42382]
+|-
+|name || [[Pine]] || [[Pine tree]]
+|-
+|rowspan="2"|[[Pine tree]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#42383 42383]
+|-
+|name || [[Pine]] || [[Pine tree]]
+|-
+|rowspan="2"|[[Pine tree]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#42384 42384]
+|-
+|name || [[Pine]] || [[Pine tree]]
+|-
+|rowspan="2"|[[Pine tree]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#42388 42388]
+|-
+|name || [[Pine]] || [[Pine tree]]
+|-
+|rowspan="2"|[[Pine tree]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#42389 42389]
+|-
+|name || [[Pine]] || [[Pine tree]]
+|-
+|rowspan="2"|[[Yew tree]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#42391 42391]
+|-
+|name || [[Yew]] || [[Yew tree]]
+|-
+|rowspan="2"|[[Oak tree]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#42395 42395]
+|-
+|name || [[Oak]] || [[Oak tree]]
+|-
+|rowspan="2"|[[Yew tree]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#42427 42427]
+|-
+|name || [[Yew]] || [[Yew tree]]
+|-
+|rowspan="2"|[[Oak tree]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#42831 42831]
+|-
+|name || [[Oak]] || [[Oak tree]]
+|-
+|rowspan="2"|[[Evergreen tree]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#46509 46509]
+|-
+|name || [[Evergreen]] || [[Evergreen tree]]
+|-
+|rowspan="2"|[[Evergreen tree]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#46510 46510]
+|-
+|name || [[Evergreen]] || [[Evergreen tree]]
+|-
+|rowspan="2"|[[Anima-infused Tree roots]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#47483 47483]
+|-
+|name || [[Tree roots]] || [[Anima-infused Tree roots]]
+|-
+|}

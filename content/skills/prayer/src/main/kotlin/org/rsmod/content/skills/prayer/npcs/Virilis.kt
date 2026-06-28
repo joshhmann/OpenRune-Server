@@ -36,16 +36,7 @@ class Virilis : PluginScript() {
 
     private suspend fun Dialogue.optionsDialogue() {
         when (
-            choice4(
-                "Yes please.",
-                1,
-                "Who are you?",
-                2,
-                "What can I do here?",
-                3,
-                "No thanks.",
-                4,
-            )
+            choice4("Yes please.", 1, "Who are you?", 2, "What can I do here?", 3, "No thanks.", 4)
         ) {
             1 -> {
                 chatPlayer(happy, "Yes please.")
@@ -78,7 +69,10 @@ class Virilis : PluginScript() {
                 chatPlayer(quiz, "Libation bowl?")
                 chatNpcNoTurn(neutral, "Yes! You'll find it inside the Teomat, near the library.")
                 chatPlayer(quiz, "I see. And what happens if I drink the blessed wine?")
-                chatNpcNoTurn(neutral, "The last person to try that ended up in the libation bowl. I do not recommend it.")
+                chatNpcNoTurn(
+                    neutral,
+                    "The last person to try that ended up in the libation bowl. I do not recommend it.",
+                )
                 chatNpcNoTurn(neutral, "Anyway, do you want any banknotes converted?")
                 optionsDialogue()
             }
@@ -168,17 +162,18 @@ class Virilis : PluginScript() {
         }
         val exchange1 = minOf(1, maxExchange)
         val exchange5 = minOf(5, maxExchange)
-        val selection = choice4(
-            "Exchange $exchange1 (${exchange1 * feePerNote} coins)",
-            1,
-            "Exchange $exchange5 (${exchange5 * feePerNote} coins)",
-            2,
-            "Exchange all (${maxExchange * feePerNote} coins)",
-            3,
-            "Exchange X",
-            4,
-            title = "Exchanging: $itemName",
-        )
+        val selection =
+            choice4(
+                "Exchange $exchange1 (${exchange1 * feePerNote} coins)",
+                1,
+                "Exchange $exchange5 (${exchange5 * feePerNote} coins)",
+                2,
+                "Exchange all (${maxExchange * feePerNote} coins)",
+                3,
+                "Exchange X",
+                4,
+                title = "Exchanging: $itemName",
+            )
         return when (selection) {
             1 -> exchange1
             2 -> exchange5

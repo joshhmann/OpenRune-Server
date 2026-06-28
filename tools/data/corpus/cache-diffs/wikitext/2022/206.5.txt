@@ -1,0 +1,297 @@
+{{ToC}}
+==Items==
+{| class="wikitable sortable"
+!colspan='13'|Items
+|-
+! Name !! ID !! Key !! Previous Value !! New Value !! Members !! Tradeable in GE !! Equipable !! Stackable !! Noteable !! Options !! Placeholder !! Cost
+|-
+| [[Flower crown]] || [https://chisel.weirdgloop.org/moid/item_id.html#27141 27141] || colspan = "3" | New ID || No || No || Yes || No || No ||  Wear, Change,  Destroy || Yes || 1
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#27142 27142] || colspan = "3" | New ID || No || No || No || No || No ||     Drop || Yes || 1
+|-
+| [[Flower crown]] || [https://chisel.weirdgloop.org/moid/item_id.html#27143 27143] || colspan = "3" | New ID || No || No || Yes || No || No ||  Wear, Change,  Destroy || Yes || 1
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#27144 27144] || colspan = "3" | New ID || No || No || No || No || No ||     Drop || Yes || 1
+|-
+| [[Flower crown]] || [https://chisel.weirdgloop.org/moid/item_id.html#27145 27145] || colspan = "3" | New ID || No || No || Yes || No || No ||  Wear, Change,  Destroy || Yes || 1
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#27146 27146] || colspan = "3" | New ID || No || No || No || No || No ||     Drop || Yes || 1
+|-
+| [[Flower crown]] || [https://chisel.weirdgloop.org/moid/item_id.html#27147 27147] || colspan = "3" | New ID || No || No || Yes || No || No ||  Wear, Change,  Destroy || Yes || 1
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#27148 27148] || colspan = "3" | New ID || No || No || No || No || No ||     Drop || Yes || 1
+|-
+| [[Flower crown]] || [https://chisel.weirdgloop.org/moid/item_id.html#27149 27149] || colspan = "3" | New ID || No || No || Yes || No || No ||  Wear, Change,  Destroy || Yes || 1
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#27150 27150] || colspan = "3" | New ID || No || No || No || No || No ||     Drop || Yes || 1
+|-
+| [[Flower crown]] || [https://chisel.weirdgloop.org/moid/item_id.html#27151 27151] || colspan = "3" | New ID || No || No || Yes || No || No ||  Wear, Change,  Destroy || Yes || 1
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#27152 27152] || colspan = "3" | New ID || No || No || No || No || No ||     Drop || Yes || 1
+|-
+| [[Flower crown]] || [https://chisel.weirdgloop.org/moid/item_id.html#27153 27153] || colspan = "3" | New ID || No || No || Yes || No || No ||  Wear, Change,  Destroy || Yes || 1
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#27154 27154] || colspan = "3" | New ID || No || No || No || No || No ||     Drop || Yes || 1
+|-
+| [[Flower crown]] || [https://chisel.weirdgloop.org/moid/item_id.html#27155 27155] || colspan = "3" | New ID || No || No || Yes || No || No ||  Wear, Change,  Destroy || Yes || 1
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#27156 27156] || colspan = "3" | New ID || No || No || No || No || No ||     Drop || Yes || 1
+|-
+|rowspan="2"|[[Elite void top]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#13072 13072]
+|-
+|params || {'610': 6, '579': 4, '611': 3, '612': 5, '613': 42, '614': 42, '615': 42, '616': 42, '617': 22, '434': 0, '435': 2, '436': 42, '437': 42, '1564': 4, '191': 1} || {'610': 6, '579': 4, '611': 3, '612': 5, '613': 50, '614': 42, '615': 42, '616': 42, '617': 22, '434': 0, '435': 2, '436': 42, '437': 42, '1564': 4, '191': 1}
+|-
+|rowspan="2"|[[Elite void robe]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#13073 13073]
+|-
+|params || {'610': 6, '579': 4, '611': 3, '612': 5, '613': 42, '614': 42, '615': 42, '616': 42, '617': 22, '434': 0, '435': 2, '436': 42, '437': 42, '1564': 7, '191': 1} || {'610': 6, '579': 4, '611': 3, '612': 5, '613': 50, '614': 42, '615': 42, '616': 42, '617': 22, '434': 0, '435': 2, '436': 42, '437': 42, '1564': 7, '191': 1}
+|-
+|rowspan="2"|[[Heavy ballista]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#19481 19481]
+|-
+|params || {'434': 4, '1562': -6, '1563': 0, '1564': 3, '436': 75, '23': 75} || {'434': 4, '435': 1, '436': 75, '437': 33, '23': 75, '1562': -6, '1563': 0, '1564': 3}
+|-
+|rowspan="2"|[[Ava's assembler]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#22109 22109]
+|-
+|params || {'434': 4, '451': 'Commune', '1564': 1, '436': 70} || {'434': 4, '435': 1, '451': 'Commune', '1564': 1, '436': 70, '437': 35}
+|-
+|rowspan="2"|[[Zaryte crossbow]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26374 26374]
+|-
+|params || {'23': 80} || {'434': 4, '1562': 5, '1563': 80, '1564': 3, '436': 80, '23': 80}
+|-
+|rowspan="3"|[[Flower crown]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/item_id.html#27035 27035]
+|-
+|name || [[Rainbow flower crown]] || [[Flower crown]]
+|-
+| interfaceOptions || [None, 'Wear', None, None, 'Destroy'] || [None, 'Wear', 'Change', None, 'Destroy']
+|-
+|}
+
+==Non-Player Characters==
+{| class="wikitable sortable"
+!colspan='5'|Non-Player Characters
+|-
+! Name !! ID !! Key !! Previous Value !! Changed into
+|-
+| [[Gilbert]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11650 11650] || colspan = "4" | Removed
+|-
+| [[Gilbert]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11651 11651] || colspan = "4" | Removed
+|-
+| [[Aven]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11652 11652] || colspan = "4" | Removed
+|-
+| [[Wolf]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11653 11653] || colspan = "4" | Removed
+|-
+| [[Sylvia]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11654 11654] || colspan = "4" | Removed
+|-
+| [[Marsha]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11655 11655] || colspan = "4" | Removed
+|-
+| [[Alan]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11656 11656] || colspan = "4" | Removed
+|-
+| [[Oscar]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11657 11657] || colspan = "4" | Removed
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11659 11659] || colspan = "4" | Removed
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11660 11660] || colspan = "4" | Removed
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11661 11661] || colspan = "4" | Removed
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11662 11662] || colspan = "4" | Removed
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11663 11663] || colspan = "4" | Removed
+|-
+|rowspan="5"|[[Gilbert]]
+|rowspan="5"|[https://chisel.weirdgloop.org/moid/npc_id.html#11658 11658]
+|-
+|name || [[null]] || [[Gilbert]]
+|-
+| actions || [None, None, None, None, None] || ['Talk-to', None, None, None, None]
+|-
+| combatLevel || 1 || 0
+|-
+| varbitId || 13975 || -1
+|-
+|}
+
+==Objects==
+{| class="wikitable sortable"
+!colspan='5'|Objects
+|-
+! Name !! ID !! Key !! Previous Value !! Changed into
+|-
+| [[Flowers]] || [https://chisel.weirdgloop.org/moid/object_id.html#44786 44786] || colspan = "4" | Removed
+|-
+| [[Flowers]] || [https://chisel.weirdgloop.org/moid/object_id.html#44787 44787] || colspan = "4" | Removed
+|-
+| [[Flowers]] || [https://chisel.weirdgloop.org/moid/object_id.html#44788 44788] || colspan = "4" | Removed
+|-
+| [[Flowers]] || [https://chisel.weirdgloop.org/moid/object_id.html#44789 44789] || colspan = "4" | Removed
+|-
+| [[Flowers]] || [https://chisel.weirdgloop.org/moid/object_id.html#44790 44790] || colspan = "4" | Removed
+|-
+| [[Flowers]] || [https://chisel.weirdgloop.org/moid/object_id.html#44791 44791] || colspan = "4" | Removed
+|-
+| [[Flowers]] || [https://chisel.weirdgloop.org/moid/object_id.html#44792 44792] || colspan = "4" | Removed
+|-
+| [[Flowers]] || [https://chisel.weirdgloop.org/moid/object_id.html#44793 44793] || colspan = "4" | Removed
+|-
+| [[Flowers]] || [https://chisel.weirdgloop.org/moid/object_id.html#44794 44794] || colspan = "4" | Removed
+|-
+| [[Flowers]] || [https://chisel.weirdgloop.org/moid/object_id.html#44795 44795] || colspan = "4" | Removed
+|-
+| [[Flowers]] || [https://chisel.weirdgloop.org/moid/object_id.html#44796 44796] || colspan = "4" | Removed
+|-
+| [[Flowers]] || [https://chisel.weirdgloop.org/moid/object_id.html#44797 44797] || colspan = "4" | Removed
+|-
+| [[Flowers]] || [https://chisel.weirdgloop.org/moid/object_id.html#44798 44798] || colspan = "4" | Removed
+|-
+| [[Flowers]] || [https://chisel.weirdgloop.org/moid/object_id.html#44799 44799] || colspan = "4" | Removed
+|-
+| [[Flowers]] || [https://chisel.weirdgloop.org/moid/object_id.html#44800 44800] || colspan = "4" | Removed
+|-
+| [[Flowers]] || [https://chisel.weirdgloop.org/moid/object_id.html#44801 44801] || colspan = "4" | Removed
+|-
+| [[Flowers]] || [https://chisel.weirdgloop.org/moid/object_id.html#44802 44802] || colspan = "4" | Removed
+|-
+| [[Flowers]] || [https://chisel.weirdgloop.org/moid/object_id.html#44823 44823] || colspan = "4" | Removed
+|-
+| [[Flowers]] || [https://chisel.weirdgloop.org/moid/object_id.html#44824 44824] || colspan = "4" | Removed
+|-
+| [[Flowers]] || [https://chisel.weirdgloop.org/moid/object_id.html#44825 44825] || colspan = "4" | Removed
+|-
+| [[Flowers]] || [https://chisel.weirdgloop.org/moid/object_id.html#44826 44826] || colspan = "4" | Removed
+|-
+|rowspan="3"|[[Flowers]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#44805 44805]
+|-
+|name || [[null]] || [[Flowers]]
+|-
+| varbitID || 13975 || -1
+|-
+|rowspan="3"|[[Flowers]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#44806 44806]
+|-
+|name || [[null]] || [[Flowers]]
+|-
+| varbitID || 13975 || -1
+|-
+|rowspan="3"|[[Flowers]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#44807 44807]
+|-
+|name || [[null]] || [[Flowers]]
+|-
+| varbitID || 13975 || -1
+|-
+|rowspan="3"|[[Flowers]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#44808 44808]
+|-
+|name || [[null]] || [[Flowers]]
+|-
+| varbitID || 13975 || -1
+|-
+|rowspan="3"|[[Flowers]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#44809 44809]
+|-
+|name || [[null]] || [[Flowers]]
+|-
+| varbitID || 13975 || -1
+|-
+|rowspan="3"|[[Flowers]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#44810 44810]
+|-
+|name || [[null]] || [[Flowers]]
+|-
+| varbitID || 13975 || -1
+|-
+|rowspan="3"|[[Flowers]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#44811 44811]
+|-
+|name || [[null]] || [[Flowers]]
+|-
+| varbitID || 13975 || -1
+|-
+|rowspan="3"|[[Flowers]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#44812 44812]
+|-
+|name || [[null]] || [[Flowers]]
+|-
+| varbitID || 13975 || -1
+|-
+|rowspan="3"|[[Flowers]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#44813 44813]
+|-
+|name || [[null]] || [[Flowers]]
+|-
+| varbitID || 13975 || -1
+|-
+|rowspan="3"|[[Flowers]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#44814 44814]
+|-
+|name || [[null]] || [[Flowers]]
+|-
+| varbitID || 13975 || -1
+|-
+|rowspan="3"|[[Flowers]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#44815 44815]
+|-
+|name || [[null]] || [[Flowers]]
+|-
+| varbitID || 13975 || -1
+|-
+|rowspan="3"|[[Flowers]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#44816 44816]
+|-
+|name || [[null]] || [[Flowers]]
+|-
+| varbitID || 13975 || -1
+|-
+|rowspan="3"|[[Flowers]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#44817 44817]
+|-
+|name || [[null]] || [[Flowers]]
+|-
+| varbitID || 13975 || -1
+|-
+|rowspan="3"|[[Flowers]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#44818 44818]
+|-
+|name || [[null]] || [[Flowers]]
+|-
+| varbitID || 13975 || -1
+|-
+|rowspan="3"|[[Flowers]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#44819 44819]
+|-
+|name || [[null]] || [[Flowers]]
+|-
+| varbitID || 13975 || -1
+|-
+|rowspan="3"|[[Flowers]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#44820 44820]
+|-
+|name || [[null]] || [[Flowers]]
+|-
+| varbitID || 13975 || -1
+|-
+|rowspan="5"|[[Flowers]]
+|rowspan="5"|[https://chisel.weirdgloop.org/moid/object_id.html#44821 44821]
+|-
+|name || [[null]] || [[Flowers]]
+|-
+| varbitID || 13975 || -1
+|-
+| interactType || 0 || 1
+|-
+| supportsItems || 0 || 1
+|-
+|rowspan="3"|[[Flowers]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#44822 44822]
+|-
+|name || [[null]] || [[Flowers]]
+|-
+| varbitID || 13975 || -1
+|-
+|}

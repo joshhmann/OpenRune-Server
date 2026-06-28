@@ -1,0 +1,1151 @@
+{{ToC}}
+==Items==
+===New Items===
+{| class="wikitable sortable"
+!colspan='11'|New Items
+|-
+! style=width:15em | Name !! ID !! Members !! Tradeable in GE !! Equipable !! Stackable !! Noteable !! Options !! Placeholder !! Cost !! Weight
+|-
+| [[Cracked cake tin]] || [https://chisel.weirdgloop.org/moid/item_id.html#27794 27794] || No || No || No || No || No ||     Destroy || No || 0
+|| 100
+|-
+| [[Prized cake tin]] || [https://chisel.weirdgloop.org/moid/item_id.html#27795 27795] || No || No || No || No || No ||     Destroy || No || 0
+|| 100
+|-
+| [[Promissory note]] || [https://chisel.weirdgloop.org/moid/item_id.html#27796 27796] || No || No || No || No || No ||     Destroy || No || 1
+|| 20
+|-
+| [[Special cake]] || [https://chisel.weirdgloop.org/moid/item_id.html#27797 27797] || No || No || No || No || No ||     Destroy || No || 1
+|| 300
+|-
+| [[Varrock cake]] || [https://chisel.weirdgloop.org/moid/item_id.html#27798 27798] || No || No || No || No || No ||     Drop || No || 1
+|| 150
+|-
+| [[Gnome cake]] || [https://chisel.weirdgloop.org/moid/item_id.html#27799 27799] || No || No || No || No || No ||     Drop || No || 2
+|| 350
+|-
+| [[Goblin cake]] || [https://chisel.weirdgloop.org/moid/item_id.html#27800 27800] || No || No || No || No || No ||     Drop || No || 70
+|| 300
+|-
+| [[Dwarf cake]] || [https://chisel.weirdgloop.org/moid/item_id.html#27801 27801] || No || No || No || No || No ||     Drop || No || 12
+|| 450
+|-
+| [[Gnome child backpack]] || [https://chisel.weirdgloop.org/moid/item_id.html#27802 27802] || No || No || Yes || No || No ||  Wear,   Destroy || Yes || 1
+|| 50
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#27803 27803] || No || No || No || No || No ||     Drop || Yes || 1
+|| 0
+|-
+| [[Cake hat]] || [https://chisel.weirdgloop.org/moid/item_id.html#27804 27804] || No || No || Yes || No || No ||  Wear,   Destroy || Yes || 1
+|| 250
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#27805 27805] || No || No || No || No || No ||     Drop || Yes || 1
+|| 0
+|-
+| [[Bob the cat slippers]] || [https://chisel.weirdgloop.org/moid/item_id.html#27806 27806] || No || No || Yes || No || No ||  Wear,  Change-style, Destroy || Yes || 1
+|| 200
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#27807 27807] || No || No || No || No || No ||     Drop || Yes || 1
+|| 0
+|-
+| [[Jad slippers]] || [https://chisel.weirdgloop.org/moid/item_id.html#27808 27808] || No || No || Yes || No || No ||  Wear,  Change-style, Destroy || Yes || 1
+|| 200
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#27809 27809] || No || No || No || No || No ||     Drop || Yes || 1
+|| 0
+|-
+| [[Dragon candle dagger]] || [https://chisel.weirdgloop.org/moid/item_id.html#27810 27810] || No || No || Yes || No || No ||  Wield,   Destroy || Yes || 1
+|| 1500
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#27811 27811] || No || No || No || No || No ||     Drop || Yes || 1
+|| 0
+|-
+| [[10th birthday cape]] || [https://chisel.weirdgloop.org/moid/item_id.html#27812 27812] || No || No || Yes || No || No ||  Wear,   Destroy || Yes || 1
+|| 3
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#27813 27813] || No || No || No || No || No ||     Drop || Yes || 1
+|| 0
+|-
+| [[Jad plush]] || [https://chisel.weirdgloop.org/moid/item_id.html#27814 27814] || No || No || Yes || No || No ||  Wield,  Change-style, Destroy || Yes || 1
+|| 1
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#27815 27815] || No || No || No || No || No ||     Drop || Yes || 1
+|| 0
+|-
+| [[Stray dog plush]] || [https://chisel.weirdgloop.org/moid/item_id.html#27816 27816] || No || No || Yes || No || No ||  Wield,  Change-style, Destroy || Yes || 1
+|| 1
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#27817 27817] || No || No || No || No || No ||     Drop || Yes || 1
+|| 0
+|-
+| [[Gnome child plush]] || [https://chisel.weirdgloop.org/moid/item_id.html#27818 27818] || No || No || Yes || No || No ||  Wield,  Change-style, Destroy || Yes || 1
+|| 1
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#27819 27819] || No || No || No || No || No ||     Drop || Yes || 1
+|| 0
+|-
+| [[10th birthday balloons]] || [https://chisel.weirdgloop.org/moid/item_id.html#27820 27820] || No || No || Yes || No || No ||  Wield,   Destroy || Yes || 0
+|| 0
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#27821 27821] || No || No || No || No || No ||     Drop || Yes || 1
+|| 0
+|-
+| [[Oldschool jumper]] || [https://chisel.weirdgloop.org/moid/item_id.html#27822 27822] || No || No || Yes || No || No ||  Wear,  Change-style, Destroy || No || 1
+|| 300
+|-
+| [[Oldschool jumper]] || [https://chisel.weirdgloop.org/moid/item_id.html#27823 27823] || No || No || Yes || No || No ||  Wear,  Change-style, Destroy || No || 1
+|| 300
+|-
+| [[Oldschool jumper]] || [https://chisel.weirdgloop.org/moid/item_id.html#27824 27824] || No || No || Yes || No || No ||  Wear,  Change-style, Destroy || No || 1
+|| 300
+|-
+| [[Oldschool jumper]] || [https://chisel.weirdgloop.org/moid/item_id.html#27825 27825] || No || No || Yes || No || No ||  Wear,  Change-style, Destroy || No || 1
+|| 300
+|-
+| [[Oldschool jumper]] || [https://chisel.weirdgloop.org/moid/item_id.html#27826 27826] || No || No || Yes || No || No ||  Wear,  Change-style, Destroy || No || 1
+|| 300
+|-
+| [[Oldschool jumper]] || [https://chisel.weirdgloop.org/moid/item_id.html#27827 27827] || No || No || Yes || No || No ||  Wear,  Change-style, Destroy || No || 1
+|| 300
+|-
+| [[Silver partyhat]] || [https://chisel.weirdgloop.org/moid/item_id.html#27828 27828] || No || No || Yes || No || No ||  Wear,   Destroy || Yes || 1
+|| 56
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#27829 27829] || No || No || No || No || No ||     Drop || Yes || 1
+|| 0
+|-
+|-
+|}
+===Removed Items===
+{| class="wikitable sortable"
+!colspan='2'|Removed Items
+|-
+! style=width:15em | Name !! ID
+|-
+|-
+|}
+===Diff Items===
+{| class="wikitable sortable"
+!colspan='5'|Diff Items
+|-
+! style=width:15em | Name !! ID !! Key !! Previous Value !! New Value
+|-
+|rowspan="13"|[[Sarachnis chitin]]
+|rowspan="13"|[https://chisel.weirdgloop.org/moid/item_id.html#10639 10639]
+|-
+|name || [[Null]] || [[Sarachnis chitin]]
+|-
+| xan2d || 572 || 290
+|-
+| yan2d || 0 || 1311
+|-
+| stackable || 0 || 1
+|-
+| inventoryModel || 2521 || 47492
+|-
+| members || False || True
+|-
+| zoom2d || 1940 || 1364
+|-
+| xOffset2d || 0 || -4
+|-
+| yOffset2d || 1 || 0
+|-
+| interfaceOptions || ['Wear', None, None, None, 'Drop'] || ['Check-Progress', None, None, None, 'Destroy']
+|-
+| weight || 9071 || 0
+|-
+| category || 15 || 1765
+|-
+|rowspan="14"|[[Vampyric essence]]
+|rowspan="14"|[https://chisel.weirdgloop.org/moid/item_id.html#10641 10641]
+|-
+|name || [[Null]] || [[Vampyric essence]]
+|-
+| xan2d || 572 || 183
+|-
+| yan2d || 0 || 54
+|-
+| stackable || 0 || 1
+|-
+| inventoryModel || 2521 || 47096
+|-
+| members || False || True
+|-
+| zoom2d || 1940 || 1020
+|-
+| xOffset2d || 0 || 3
+|-
+| yOffset2d || 1 || -19
+|-
+| ambient || 0 || 40
+|-
+| interfaceOptions || ['Wear', None, None, None, 'Drop'] || ['Check-Progress', None, None, None, 'Destroy']
+|-
+| weight || 9071 || 0
+|-
+| category || 15 || 1765
+|-
+|rowspan="12"|[[Forinthry sigil]]
+|rowspan="12"|[https://chisel.weirdgloop.org/moid/item_id.html#10644 10644]
+|-
+|name || [[Null]] || [[Forinthry sigil]]
+|-
+| xan2d || 572 || 267
+|-
+| yan2d || 0 || 216
+|-
+| stackable || 0 || 1
+|-
+| inventoryModel || 2521 || 47490
+|-
+| members || False || True
+|-
+| zoom2d || 1940 || 625
+|-
+| yOffset2d || 1 || -7
+|-
+| interfaceOptions || ['Wear', None, None, None, 'Drop'] || ['Check-Progress', None, None, None, 'Destroy']
+|-
+| weight || 9071 || 0
+|-
+| category || 15 || 1765
+|-
+|rowspan="13"|[[Muspah spike]]
+|rowspan="13"|[https://chisel.weirdgloop.org/moid/item_id.html#10646 10646]
+|-
+|name || [[Null]] || [[Muspah spike]]
+|-
+| xan2d || 572 || 213
+|-
+| yan2d || 0 || 1006
+|-
+| stackable || 0 || 1
+|-
+| inventoryModel || 2521 || 47513
+|-
+| members || False || True
+|-
+| zoom2d || 1940 || 757
+|-
+| xOffset2d || 0 || 3
+|-
+| yOffset2d || 1 || 3
+|-
+| interfaceOptions || ['Wear', None, None, None, 'Drop'] || ['Check-Progress', None, None, None, 'Destroy']
+|-
+| weight || 9071 || 0
+|-
+| category || 15 || 1765
+|-
+|rowspan="12"|[[Zarosian emblem]]
+|rowspan="12"|[https://chisel.weirdgloop.org/moid/item_id.html#10647 10647]
+|-
+|name || [[Null]] || [[Zarosian emblem]]
+|-
+| xan2d || 572 || 363
+|-
+| yan2d || 0 || 250
+|-
+| stackable || 0 || 1
+|-
+| inventoryModel || 2521 || 2449
+|-
+| members || False || True
+|-
+| zoom2d || 1940 || 1088
+|-
+| yOffset2d || 1 || 5
+|-
+| interfaceOptions || ['Wear', None, None, None, 'Drop'] || ['Check-Progress', None, None, None, 'Destroy']
+|-
+| weight || 9071 || 0
+|-
+| category || 15 || 1765
+|-
+|rowspan="13"|[[Crystal chunk]]
+|rowspan="13"|[https://chisel.weirdgloop.org/moid/item_id.html#10648 10648]
+|-
+|name || [[Null]] || [[Crystal chunk]]
+|-
+| xan2d || 572 || 213
+|-
+| yan2d || 0 || 1006
+|-
+| stackable || 0 || 1
+|-
+| inventoryModel || 2521 || 47513
+|-
+| members || False || True
+|-
+| zoom2d || 1940 || 757
+|-
+| xOffset2d || 0 || 3
+|-
+| yOffset2d || 1 || 3
+|-
+| interfaceOptions || ['Wear', None, None, None, 'Drop'] || ['Check-Progress', None, None, None, 'Destroy']
+|-
+| weight || 9071 || 0
+|-
+| category || 15 || 1765
+|-
+|rowspan="13"|[[Osmumten's coin]]
+|rowspan="13"|[https://chisel.weirdgloop.org/moid/item_id.html#10649 10649]
+|-
+|name || [[Null]] || [[Osmumten's coin]]
+|-
+| xan2d || 572 || 273
+|-
+| yan2d || 0 || 334
+|-
+| stackable || 0 || 1
+|-
+| inventoryModel || 2521 || 47510
+|-
+| members || False || True
+|-
+| zoom2d || 1940 || 300
+|-
+| yOffset2d || 1 || 0
+|-
+| ambient || 0 || 30
+|-
+| interfaceOptions || ['Wear', None, None, None, 'Drop'] || ['Check-Progress', None, None, None, 'Destroy']
+|-
+| weight || 9071 || 0
+|-
+| category || 15 || 1765
+|-
+|rowspan="13"|[[Hallowed bricks]]
+|rowspan="13"|[https://chisel.weirdgloop.org/moid/item_id.html#10651 10651]
+|-
+|name || [[Null]] || [[Hallowed bricks]]
+|-
+| xan2d || 572 || 159
+|-
+| yan2d || 0 || 1287
+|-
+| stackable || 0 || 1
+|-
+| inventoryModel || 2521 || 47501
+|-
+| members || False || True
+|-
+| zoom2d || 1940 || 1104
+|-
+| xOffset2d || 0 || 4
+|-
+| yOffset2d || 1 || 0
+|-
+| interfaceOptions || ['Wear', None, None, None, 'Drop'] || ['Check-Progress', None, None, None, 'Destroy']
+|-
+| weight || 9071 || 0
+|-
+| category || 15 || 1765
+|-
+|rowspan="11"|[[Abyssal-tainted essence]]
+|rowspan="11"|[https://chisel.weirdgloop.org/moid/item_id.html#10652 10652]
+|-
+|name || [[Null]] || [[Abyssal-tainted essence]]
+|-
+| xan2d || 572 || 528
+|-
+| yan2d || 0 || 1012
+|-
+| stackable || 0 || 1
+|-
+| inventoryModel || 2521 || 2349
+|-
+| members || False || True
+|-
+| zoom2d || 1940 || 740
+|-
+| interfaceOptions || ['Wear', None, None, None, 'Drop'] || ['Check-Progress', None, None, None, 'Destroy']
+|-
+| weight || 9071 || 0
+|-
+| category || 15 || 1765
+|-
+|rowspan="11"|[[Casket piece]]
+|rowspan="11"|[https://chisel.weirdgloop.org/moid/item_id.html#10654 10654]
+|-
+|name || [[Null]] || [[Casket piece]]
+|-
+| xan2d || 572 || 220
+|-
+| yan2d || 0 || 1453
+|-
+| stackable || 0 || 1
+|-
+| inventoryModel || 2521 || 47498
+|-
+| zoom2d || 1940 || 1772
+|-
+| yOffset2d || 1 || -5
+|-
+| interfaceOptions || ['Wear', None, None, None, 'Drop'] || ['Check-Progress', None, None, None, 'Destroy']
+|-
+| weight || 9071 || 0
+|-
+| category || 15 || 1765
+|-
+|rowspan="12"|[[Chunk of barronite]]
+|rowspan="12"|[https://chisel.weirdgloop.org/moid/item_id.html#10657 10657]
+|-
+|name || [[Null]] || [[Chunk of barronite]]
+|-
+| xan2d || 572 || 213
+|-
+| yan2d || 0 || 1006
+|-
+| stackable || 0 || 1
+|-
+| inventoryModel || 2521 || 47513
+|-
+| zoom2d || 1940 || 757
+|-
+| xOffset2d || 0 || 3
+|-
+| yOffset2d || 1 || 3
+|-
+| interfaceOptions || ['Wear', None, None, None, 'Drop'] || ['Check-Progress', None, None, None, 'Destroy']
+|-
+| weight || 9071 || 0
+|-
+| category || 15 || 1765
+|-
+|rowspan="14"|[[Death's fabric]]
+|rowspan="14"|[https://chisel.weirdgloop.org/moid/item_id.html#10658 10658]
+|-
+|name || [[Null]] || [[Death's fabric]]
+|-
+| xan2d || 572 || 783
+|-
+| yan2d || 0 || 1450
+|-
+| zan2d || 0 || 1553
+|-
+| stackable || 0 || 1
+|-
+| inventoryModel || 2521 || 46707
+|-
+| members || False || True
+|-
+| zoom2d || 1940 || 724
+|-
+| xOffset2d || 0 || -4
+|-
+| yOffset2d || 1 || -9
+|-
+| interfaceOptions || ['Wear', None, None, None, 'Drop'] || ['Check-Progress', None, None, None, 'Destroy']
+|-
+| weight || 9071 || 0
+|-
+| category || 15 || 1765
+|-
+|rowspan="13"|[[Star shard]]
+|rowspan="13"|[https://chisel.weirdgloop.org/moid/item_id.html#10659 10659]
+|-
+|name || [[Null]] || [[Star shard]]
+|-
+| xan2d || 572 || 319
+|-
+| yan2d || 0 || 547
+|-
+| stackable || 0 || 1
+|-
+| inventoryModel || 2521 || 47494
+|-
+| members || False || True
+|-
+| zoom2d || 1940 || 1112
+|-
+| xOffset2d || 0 || -10
+|-
+| yOffset2d || 1 || 36
+|-
+| interfaceOptions || ['Wear', None, None, None, 'Drop'] || ['Check-Progress', None, None, None, 'Destroy']
+|-
+| weight || 9071 || 0
+|-
+| category || 15 || 1765
+|-
+|rowspan="12"|[[Tempoross remnant]]
+|rowspan="12"|[https://chisel.weirdgloop.org/moid/item_id.html#10661 10661]
+|-
+|name || [[Null]] || [[Tempoross remnant]]
+|-
+| xan2d || 572 || 204
+|-
+| yan2d || 0 || 1660
+|-
+| stackable || 0 || 1
+|-
+| inventoryModel || 2521 || 2504
+|-
+| members || False || True
+|-
+| zoom2d || 1940 || 1020
+|-
+| yOffset2d || 1 || -18
+|-
+| interfaceOptions || ['Wear', None, None, None, 'Drop'] || ['Check-Progress', None, None, None, 'Destroy']
+|-
+| weight || 9071 || 0
+|-
+| category || 15 || 1765
+|-
+|rowspan="2"|[[Varrock census records]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#22035 22035]
+|-
+|interfaceOptions || ['Read', None, None, None, 'Drop'] || ['Read', None, None, None, 'Destroy']
+|-
+|}
+
+==Non-Player Characters==
+===New NPCs===
+{| class="wikitable sortable"
+!colspan='4'|New NPCs
+|-
+! style=width:15em | Name !! ID !! Combat Level !! Options
+|-
+| [[Warmhandz]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12109 12109] || No Combat Level || Talk to
+|-
+| [[Patty Seer]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12110 12110] || No Combat Level || Talk-to
+|-
+| [[Archmage Sedridor]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12111 12111] || No Combat Level || Talk-to
+|-
+| [[King Roald]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12112 12112] || No Combat Level || Talk-to
+|-
+| [[Gnome child]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12113 12113] || No Combat Level || Talk-to
+|-
+| [[Thurgo]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12114 12114] || No Combat Level || Talk-to
+|-
+| [[General Bentnoze]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12115 12115] || No Combat Level || Talk-to
+|-
+| [[General Wartface]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12116 12116] || No Combat Level || Talk-to
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12117 12117] || 1 || None
+|-
+| [[Elvarg]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12118 12118] || No Combat Level || None
+|-
+| [[Alvarg]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12119 12119] || No Combat Level || None
+|-
+| [[Party Pete]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12120 12120] || No Combat Level || None
+|-
+| [[Sir Pear Visor]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12121 12121] || No Combat Level || Talk-to
+|-
+| [[Sir Pear Visor]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12122 12122] || No Combat Level || Talk-to, Hand-in, Check-progress
+|-
+| [[Crystalline Hunllef]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12123 12123] || 674 || None
+|-
+| [[Zalcano]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12124 12124] || 336 || None
+|-
+| [[Kephri]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12125 12125] || 341 || Attack
+|-
+| [[Akkha]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12126 12126] || 337 || Attack
+|-
+| [[Ba-Ba]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12127 12127] || 359 || Attack
+|-
+| [[Zebak]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12128 12128] || 371 || Attack
+|-
+| [[Zebak's Tail]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12129 12129] || No Combat Level || None
+|-
+| [[Tumeken's Warden]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12130 12130] || 489 || None
+|-
+| [[Elidinis' Warden]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12131 12131] || 489 || None
+|-
+| [[<col=00ffff>Obelisk</col>]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12132 12132] || No Combat Level || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12133 12133] || 1 || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12134 12134] || 1 || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12135 12135] || 1 || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12136 12136] || 1 || None
+|-
+| [[Dallas Jones]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12137 12137] || No Combat Level || None
+|-
+| [[Bob]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12138 12138] || No Combat Level || None
+|-
+| [[Zorgoth]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12139 12139] || No Combat Level || None
+|-
+| [[<col=00ffff>Shadow</col>]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12140 12140] || No Combat Level || None
+|-
+|-
+|}
+===Removed NPCs===
+{| class="wikitable sortable"
+!colspan='2'|Removed NPCs
+|-
+! style=width:15em | Name !! ID
+|-
+|-
+|}
+===Diff NPCs===
+{| class="wikitable sortable"
+!colspan='5'|Diff NPCs
+|-
+! style=width:15em | Name !! ID !! Key !! Previous Value !! New Value
+|-
+|}
+
+==Objects==
+===New Objects=== 
+{| class="wikitable sortable"
+!colspan='3'|New Objects
+|-
+! style=width:15em | Name !! ID !! Options
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#47178 47178] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#47179 47179] || None
+|-
+| [[Warmhandz' Fire]] || [https://chisel.weirdgloop.org/moid/object_id.html#47180 47180] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#47181 47181] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#47182 47182] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#47183 47183] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#47184 47184] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#47185 47185] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#47186 47186] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#47187 47187] || None
+|-
+| [[Birthday Balloons]] || [https://chisel.weirdgloop.org/moid/object_id.html#47188 47188] || None
+|-
+| [[Birthday plushies]] || [https://chisel.weirdgloop.org/moid/object_id.html#47189 47189] || None
+|-
+| [[Birthday plushies]] || [https://chisel.weirdgloop.org/moid/object_id.html#47190 47190] || None
+|-
+| [[Birthday plushies]] || [https://chisel.weirdgloop.org/moid/object_id.html#47191 47191] || None
+|-
+| [[Birthday plushies]] || [https://chisel.weirdgloop.org/moid/object_id.html#47192 47192] || None
+|-
+| [[Birthday plushies]] || [https://chisel.weirdgloop.org/moid/object_id.html#47193 47193] || None
+|-
+| [[Birthday plushies]] || [https://chisel.weirdgloop.org/moid/object_id.html#47194 47194] || None
+|-
+| [[Birthday plushies]] || [https://chisel.weirdgloop.org/moid/object_id.html#47195 47195] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#47196 47196] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#47197 47197] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#47198 47198] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#47199 47199] || None
+|-
+| [[Birthday cake]] || [https://chisel.weirdgloop.org/moid/object_id.html#47200 47200] || None
+|-
+| [[Birthday cake]] || [https://chisel.weirdgloop.org/moid/object_id.html#47201 47201] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#47202 47202] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#47203 47203] || None
+|-
+| [[Crack the Clue II Display]] || [https://chisel.weirdgloop.org/moid/object_id.html#47204 47204] || None
+|-
+| [[Mimic Display]] || [https://chisel.weirdgloop.org/moid/object_id.html#47205 47205] || None
+|-
+| [[Hosidius Rework Display]] || [https://chisel.weirdgloop.org/moid/object_id.html#47206 47206] || None
+|-
+| [[Forthos Dungeon Display]] || [https://chisel.weirdgloop.org/moid/object_id.html#47207 47207] || None
+|-
+| [[LMS Rework Display]] || [https://chisel.weirdgloop.org/moid/object_id.html#47208 47208] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#47209 47209] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#47210 47210] || None
+|-
+| [[Jormungand Display]] || [https://chisel.weirdgloop.org/moid/object_id.html#47211 47211] || None
+|-
+| [[Twisted League Display]] || [https://chisel.weirdgloop.org/moid/object_id.html#47212 47212] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#47213 47213] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#47214 47214] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#47215 47215] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#47216 47216] || None
+|-
+| [[The Nightmare of Ashihama Display]] || [https://chisel.weirdgloop.org/moid/object_id.html#47217 47217] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#47218 47218] || None
+|-
+| [[Prifddinas Display]] || [https://chisel.weirdgloop.org/moid/object_id.html#47219 47219] || Peer-into
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#47220 47220] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#47221 47221] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#47222 47222] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#47223 47223] || None
+|-
+| [[Death Rework Display]] || [https://chisel.weirdgloop.org/moid/object_id.html#47224 47224] || None
+|-
+| [[Mahogany Homes Display]] || [https://chisel.weirdgloop.org/moid/object_id.html#47225 47225] || None
+|-
+| [[Ferox Enclave Display]] || [https://chisel.weirdgloop.org/moid/object_id.html#47226 47226] || None
+|-
+| [[Porcine of Interest Display]] || [https://chisel.weirdgloop.org/moid/object_id.html#47227 47227] || None
+|-
+| [[Soul Wars Display]] || [https://chisel.weirdgloop.org/moid/object_id.html#47228 47228] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#47229 47229] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#47230 47230] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#47231 47231] || None
+|-
+| [[Darkmeyer Display]] || [https://chisel.weirdgloop.org/moid/object_id.html#47232 47232] || Peer-into
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#47233 47233] || None
+|-
+| [[Shades of Mort'ton Rework Display]] || [https://chisel.weirdgloop.org/moid/object_id.html#47234 47234] || None
+|-
+| [[Trailblazer League Display]] || [https://chisel.weirdgloop.org/moid/object_id.html#47235 47235] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#47236 47236] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#47237 47237] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#47238 47238] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#47239 47239] || None
+|-
+| [[Archway]] || [https://chisel.weirdgloop.org/moid/object_id.html#47240 47240] || None
+|-
+| [[Tzhaar-Ket-Rak Display]] || [https://chisel.weirdgloop.org/moid/object_id.html#47241 47241] || None
+|-
+| [[Shooting Star Display]] || [https://chisel.weirdgloop.org/moid/object_id.html#47242 47242] || None
+|-
+| [[Tempoross Display]] || [https://chisel.weirdgloop.org/moid/object_id.html#47243 47243] || None
+|-
+| [[Below Ice Mountain Display]] || [https://chisel.weirdgloop.org/moid/object_id.html#47244 47244] || None
+|-
+| [[Combat Achievements Display]] || [https://chisel.weirdgloop.org/moid/object_id.html#47245 47245] || None
+|-
+| [[A Kingdom Divided Display]] || [https://chisel.weirdgloop.org/moid/object_id.html#47246 47246] || Peer-into
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#47247 47247] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#47248 47248] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#47249 47249] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#47250 47250] || None
+|-
+| [[Deadman: Reborn Display]] || [https://chisel.weirdgloop.org/moid/object_id.html#47251 47251] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#47252 47252] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#47253 47253] || None
+|-
+| [[Group Ironman Display]] || [https://chisel.weirdgloop.org/moid/object_id.html#47254 47254] || None
+|-
+| [[Nex Display]] || [https://chisel.weirdgloop.org/moid/object_id.html#47255 47255] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#47256 47256] || None
+|-
+| [[Shattered League Display]] || [https://chisel.weirdgloop.org/moid/object_id.html#47257 47257] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#47258 47258] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#47259 47259] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#47260 47260] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#47261 47261] || None
+|-
+| [[A Goblin]] || [https://chisel.weirdgloop.org/moid/object_id.html#47262 47262] || None
+|-
+| [[A Goblin]] || [https://chisel.weirdgloop.org/moid/object_id.html#47263 47263] || None
+|-
+| [[A Goblin]] || [https://chisel.weirdgloop.org/moid/object_id.html#47264 47264] || None
+|-
+| [[Phosani's Nightmare Display]] || [https://chisel.weirdgloop.org/moid/object_id.html#47265 47265] || None
+|-
+| [[Revenant Maledictus Display]] || [https://chisel.weirdgloop.org/moid/object_id.html#47266 47266] || None
+|-
+| [[Guardians of the Rift Display]] || [https://chisel.weirdgloop.org/moid/object_id.html#47267 47267] || None
+|-
+| [[Giants' Foundry Display]] || [https://chisel.weirdgloop.org/moid/object_id.html#47268 47268] || None
+|-
+| [[Emir's Arena Display]] || [https://chisel.weirdgloop.org/moid/object_id.html#47269 47269] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#47270 47270] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#47271 47271] || None
+|-
+| [[Unranked Group Ironman Display]] || [https://chisel.weirdgloop.org/moid/object_id.html#47272 47272] || None
+|-
+| [[Phantom Muspah Display]] || [https://chisel.weirdgloop.org/moid/object_id.html#47273 47273] || None
+|-
+| [[Quest Speedrunning Display]] || [https://chisel.weirdgloop.org/moid/object_id.html#47274 47274] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#47275 47275] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#47276 47276] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#47277 47277] || None
+|-
+| [[Wilderness Boss Display]] || [https://chisel.weirdgloop.org/moid/object_id.html#47278 47278] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#47279 47279] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#47280 47280] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#47281 47281] || None
+|-
+| [[Tombs of Amascut Display]] || [https://chisel.weirdgloop.org/moid/object_id.html#47282 47282] || Peer-into
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#47283 47283] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#47284 47284] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#47285 47285] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#47286 47286] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#47287 47287] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#47288 47288] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#47289 47289] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#47290 47290] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#47291 47291] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#47292 47292] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#47293 47293] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#47294 47294] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#47295 47295] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#47296 47296] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#47297 47297] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#47298 47298] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#47299 47299] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#47300 47300] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#47301 47301] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#47302 47302] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#47303 47303] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#47304 47304] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#47305 47305] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#47306 47306] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#47307 47307] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#47308 47308] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#47309 47309] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#47310 47310] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#47311 47311] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#47312 47312] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#47313 47313] || None
+|-
+| [[Staircase]] || [https://chisel.weirdgloop.org/moid/object_id.html#47314 47314] || Climb-down
+|-
+| [[Staircase]] || [https://chisel.weirdgloop.org/moid/object_id.html#47315 47315] || Climb-up
+|-
+| [[Old passageway]] || [https://chisel.weirdgloop.org/moid/object_id.html#47316 47316] || None
+|-
+| [[Bench]] || [https://chisel.weirdgloop.org/moid/object_id.html#47317 47317] || None
+|-
+| [[Bench]] || [https://chisel.weirdgloop.org/moid/object_id.html#47318 47318] || None
+|-
+| [[Spotlight]] || [https://chisel.weirdgloop.org/moid/object_id.html#47319 47319] || None
+|-
+| [[Banner]] || [https://chisel.weirdgloop.org/moid/object_id.html#47320 47320] || None
+|-
+| [[Banner]] || [https://chisel.weirdgloop.org/moid/object_id.html#47321 47321] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#47322 47322] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#47323 47323] || None
+|-
+| [[Ice chunks]] || [https://chisel.weirdgloop.org/moid/object_id.html#47324 47324] || Climb-over
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#47325 47325] || None
+|-
+| [[Staircase]] || [https://chisel.weirdgloop.org/moid/object_id.html#47326 47326] || None
+|-
+| [[Ancient Doors]] || [https://chisel.weirdgloop.org/moid/object_id.html#47327 47327] || None
+|-
+| [[Ancient Doors]] || [https://chisel.weirdgloop.org/moid/object_id.html#47328 47328] || None
+|-
+| [[Broken Doors]] || [https://chisel.weirdgloop.org/moid/object_id.html#47329 47329] || None
+|-
+| [[Ancient Doors]] || [https://chisel.weirdgloop.org/moid/object_id.html#47330 47330] || None
+|-
+| [[Hammers]] || [https://chisel.weirdgloop.org/moid/object_id.html#47331 47331] || None
+|-
+| [[Water containers]] || [https://chisel.weirdgloop.org/moid/object_id.html#47332 47332] || None
+|-
+| [[Swamp paste]] || [https://chisel.weirdgloop.org/moid/object_id.html#47333 47333] || None
+|-
+| [[Potions]] || [https://chisel.weirdgloop.org/moid/object_id.html#47334 47334] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#47335 47335] || None
+|-
+|-
+|}
+===Removed Objects===
+{| class="wikitable sortable"
+!colspan='2'|Removed Objects
+|-
+! style=width:15em | Name !! ID
+|-
+|-
+|}
+===Diff Objects===
+{| class="wikitable sortable"
+!colspan='5'|Diff Objects
+|-
+! style=width:15em | Name !! ID !! Key !! Previous Value !! New Value
+|-
+|rowspan="2"|[[Fountain]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#879 879]
+|-
+|contrast || 0 || 500
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#1619 1619]
+|-
+|contrast || 0 || 500
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#2999 2999]
+|-
+|contrast || 0 || 500
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#3001 3001]
+|-
+|contrast || 0 || 500
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#3002 3002]
+|-
+|contrast || 0 || 500
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#3003 3003]
+|-
+|contrast || 0 || 500
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#3004 3004]
+|-
+|contrast || 0 || 500
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#3005 3005]
+|-
+|contrast || 0 || 500
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#3006 3006]
+|-
+|contrast || 0 || 500
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#3008 3008]
+|-
+|contrast || 0 || 500
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#3009 3009]
+|-
+|contrast || 0 || 500
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#3010 3010]
+|-
+|contrast || 0 || 500
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#3011 3011]
+|-
+|contrast || 0 || 500
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#3012 3012]
+|-
+|contrast || 0 || 500
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#3013 3013]
+|-
+|contrast || 0 || 500
+|-
+|rowspan="3"|[[Apple Tree]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#7466 7466]
+|-
+|ambient || 0 || 20
+|-
+| contrast || 0 || 250
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#14875 14875]
+|-
+|ambient || 0 || -25
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#14876 14876]
+|-
+|ambient || 0 || -25
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#14877 14877]
+|-
+|ambient || 0 || -25
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#14878 14878]
+|-
+|ambient || 0 || -25
+|-
+|rowspan="2"|[[Staircase]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#24248 24248]
+|-
+|objectModels || [27596] || [47603]
+|-
+|rowspan="2"|[[Staircase]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#24249 24249]
+|-
+|objectModels || [27596] || [47603]
+|-
+|rowspan="4"|[[null]]
+|rowspan="4"|[https://chisel.weirdgloop.org/moid/object_id.html#24259 24259]
+|-
+|objectModels || [22681] || [47466]
+|-
+| recolorToFind ||<span style = "background-color: #22170b;color:white">5648</span>,<span style = "background-color: #261c11;color:white">5524</span>,<span style = "background-color: #2d231a;color:white">5400</span>||<span style = "background-color: #22170b;color:white">5648</span>,<span style = "background-color: #261c11;color:white">5524</span>,<span style = "background-color: #2d231a;color:white">5400</span>,<span style = "background-color: #7a2723;color:white">565</span>,<span style = "background-color: #98660f;color:white">6969</span>
+|-
+| recolorToReplace ||<span style = "background-color: #47371e;color:white">6563</span>,<span style = "background-color: #51422d;color:white">6443</span>,<span style = "background-color: #3a2a11;color:white">6682</span>||<span style = "background-color: #47371e;color:white">6563</span>,<span style = "background-color: #51422d;color:white">6443</span>,<span style = "background-color: #3a2a11;color:white">6682</span>,<span style = "background-color: #19367f;color:white">-24909</span>,<span style = "background-color: #707184;color:white">-22446</span>
+|-
+|rowspan="2"|[[Birthday cake]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#26198 26198]
+|-
+|objectModels || [39524] || [47464]
+|-
+|rowspan="3"|[[Apple basket]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#27522 27522]
+|-
+|ambient || 0 || 20
+|-
+| contrast || 0 || 250
+|-
+|rowspan="3"|[[Table]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#27544 27544]
+|-
+|ambient || 0 || 20
+|-
+| contrast || 0 || 250
+|-
+|rowspan="2"|[[Trapdoor]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#30725 30725]
+|-
+|blockingMask || 0 || 11
+|-
+|rowspan="2"|[[Ladder]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#30727 30727]
+|-
+|blockingMask || 0 || 11
+|-
+|rowspan="2"|[[Monkey Madness II display]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#31934 31934]
+|-
+|name || [[Monkey Madness 2 display]] || [[Monkey Madness II display]]
+|-
+|rowspan="2"|[[Lever]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#32056 32056]
+|-
+|blockingMask || 0 || 13
+|-
+|rowspan="4"|[[Ancient Doors]]
+|rowspan="4"|[https://chisel.weirdgloop.org/moid/object_id.html#32114 32114]
+|-
+|name || [[Grandiose Doors]] || [[Ancient Doors]]
+|-
+| sizeX || 1 || 6
+|-
+| sizeY || 1 || 2
+|-
+|rowspan="4"|[[Ancient Doors]]
+|rowspan="4"|[https://chisel.weirdgloop.org/moid/object_id.html#32115 32115]
+|-
+|name || [[Grandiose Doors]] || [[Ancient Doors]]
+|-
+| sizeX || 1 || 6
+|-
+| sizeY || 1 || 2
+|-
+|rowspan="4"|[[Ancient Doors]]
+|rowspan="4"|[https://chisel.weirdgloop.org/moid/object_id.html#32116 32116]
+|-
+|name || [[Grandiose Doors]] || [[Ancient Doors]]
+|-
+| sizeX || 1 || 6
+|-
+| sizeY || 1 || 2
+|-
+|rowspan="2"|[[Broken Doors]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#32117 32117]
+|-
+|name || [[Broken Grandiose Doors]] || [[Broken Doors]]
+|-
+|rowspan="2"|[[Broken Doors]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#32132 32132]
+|-
+|name || [[Broken Grandiose Doors]] || [[Broken Doors]]
+|-
+|rowspan="2"|[[Ancient Doors]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#32133 32133]
+|-
+|name || [[Grandiose Doors]] || [[Ancient Doors]]
+|-
+|rowspan="2"|[[Debris]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#32376 32376]
+|-
+|interactType || 2 || 1
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#42665 42665]
+|-
+|ambient || 0 || -25
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#42755 42755]
+|-
+|ambient || 0 || -25
+|-
+|}

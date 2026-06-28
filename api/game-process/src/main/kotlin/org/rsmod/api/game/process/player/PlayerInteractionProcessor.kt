@@ -106,7 +106,12 @@ constructor(
                 player.clearMapFlag()
             }
 
-            if (interaction != null && !interaction.interacted && !player.isAccessProtected && !followOp) {
+            if (
+                interaction != null &&
+                    !interaction.interacted &&
+                    !player.isAccessProtected &&
+                    !followOp
+            ) {
                 player.postMovementInteraction(interaction)
             }
         } else if (!player.hasMovedThisCycle && player.routeDestination.isEmpty()) {

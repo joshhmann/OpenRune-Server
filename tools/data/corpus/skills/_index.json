@@ -1,0 +1,117 @@
+{
+  "Agility/Training": {
+    "title": "Agility_training",
+    "description": "Agility training methods & courses",
+    "size": 93899
+  },
+  "Attack/Training": {
+    "title": "Attack_training",
+    "description": "Attack training methods",
+    "size": 338
+  },
+  "Construction/Training": {
+    "title": "Construction_training",
+    "description": "Construction training methods",
+    "size": 148392
+  },
+  "Cooking/Training": {
+    "title": "Cooking_training",
+    "description": "Cooking training methods",
+    "size": 346
+  },
+  "Crafting/Training": {
+    "title": "Crafting_training",
+    "description": "Crafting training methods",
+    "size": 350
+  },
+  "Defence/Training": {
+    "title": "Defence_training",
+    "description": "Defence training methods",
+    "size": 54968
+  },
+  "Farming/Training": {
+    "title": "Farming_training",
+    "description": "Farming training methods",
+    "size": 181906
+  },
+  "Firemaking/Training": {
+    "title": "Firemaking_training",
+    "description": "Firemaking training methods",
+    "size": 358
+  },
+  "Fishing/Training": {
+    "title": "Fishing_training",
+    "description": "Fishing training methods",
+    "size": 346
+  },
+  "Fletching/Training": {
+    "title": "Fletching_training",
+    "description": "Fletching training methods",
+    "size": 232756
+  },
+  "Herblore/Training": {
+    "title": "Herblore_training",
+    "description": "Herblore training methods",
+    "size": 338094
+  },
+  "Hitpoints/Training": {
+    "title": "Hitpoints_training",
+    "description": "Hitpoints training methods",
+    "size": 2102
+  },
+  "Hunter/Training": {
+    "title": "Hunter_training",
+    "description": "Hunter training methods",
+    "size": 223955
+  },
+  "Magic/Training": {
+    "title": "Magic_training",
+    "description": "Magic training methods (was Magic_training)",
+    "size": 338
+  },
+  "Mining/Training": {
+    "title": "Mining_training",
+    "description": "Mining training methods",
+    "size": 342
+  },
+  "Prayer/Training": {
+    "title": "Prayer_training",
+    "description": "Prayer training methods (was Prayer_training)",
+    "size": 342
+  },
+  "Ranged/Training": {
+    "title": "Ranged_training",
+    "description": "Ranged training methods (was Ranged_training)",
+    "size": 342
+  },
+  "Runecraft/Training": {
+    "title": "Runecraft_training",
+    "description": "Runecraft training methods",
+    "size": 354
+  },
+  "Slayer/Training": {
+    "title": "Slayer_training",
+    "description": "Slayer training methods (was Slayer_training)",
+    "size": 374411
+  },
+  "Smithing/Training": {
+    "title": "Smithing_training",
+    "description": "Smithing training methods",
+    "size": 350
+  },
+  "Strength/Training": {
+    "title": "Strength_training",
+    "description": "Strength training methods",
+    "size": 338
+  },
+  "Thieving/Training": {
+    "title": "Thieving_training",
+    "description": "Thieving training methods",
+    "size": 263513
+  },
+  "Woodcutting/Training": {
+    "title": "Woodcutting_training",
+    "description": "Woodcutting training methods",
+    "size": 362
+  }
+}

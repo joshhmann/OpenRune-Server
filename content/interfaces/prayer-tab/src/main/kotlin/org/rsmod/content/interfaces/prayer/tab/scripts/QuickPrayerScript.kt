@@ -45,9 +45,7 @@ constructor(
         onPlayerQueue("queue.quick_prayer_toggle") { toggleQuickPrayers() }
         onIfOpen("interface.quickprayer") { player.onOpenQuickPrayerSetUp() }
         onIfClose("interface.quickprayer") { player.onCloseQuickPrayerSetUp() }
-        onIfOverlayButton("component.quickprayer:buttons") {
-            player.toggleQuickPrayer(it.comsub)
-        }
+        onIfOverlayButton("component.quickprayer:buttons") { player.toggleQuickPrayer(it.comsub) }
         onIfOverlayButton("component.quickprayer:close") { player.closeQuickPrayerSetUp() }
     }
 

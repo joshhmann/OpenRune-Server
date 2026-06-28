@@ -52,22 +52,27 @@ object GameMapDecoder {
             cacheLocs(mapBuilder)
         }
 
-    private fun Cache.readMapBuffers(): List<MapBuffer> = archives(MAPS).asSequence()
-        .filter { it <= 25286 }.mapNotNull { groupId ->
-            val mapData = data(MAPS, groupId, 0) ?: return@mapNotNull null
-            val locData = data(MAPS, groupId, 1) ?: return@mapNotNull null
+    private fun Cache.readMapBuffers(): List<MapBuffer> =
+        archives(MAPS)
+            .asSequence()
+            .filter { it <= 25286 }
+            .mapNotNull { groupId ->
+                val mapData = data(MAPS, groupId, 0) ?: return@mapNotNull null
+                val locData = data(MAPS, groupId, 1) ?: return@mapNotNull null
 
-            val x = groupId shr 8
-            val z = groupId and 0xFF
+                val x = groupId shr 8
+                val z = groupId and 0xFF
 
-            MapBuffer(
-                key = MapSquareKey(x, z),
-                map = InlineByteBuf(mapData),
-                locs = InlineByteBuf(locData),
-                npcs = data(MAPS, groupId, 5)?.let(::InlineByteBuf),
-                objs = data(MAPS, groupId, 6)?.let(::InlineByteBuf),
-                areas = data(MAPS, groupId, 7)?.let(::InlineByteBuf)
-        )}.toList()
+                MapBuffer(
+                    key = MapSquareKey(x, z),
+                    map = InlineByteBuf(mapData),
+                    locs = InlineByteBuf(locData),
+                    npcs = data(MAPS, groupId, 5)?.let(::InlineByteBuf),
+                    objs = data(MAPS, groupId, 6)?.let(::InlineByteBuf),
+                    areas = data(MAPS, groupId, 7)?.let(::InlineByteBuf),
+                )
+            }
+            .toList()
 
     private suspend fun decodeAll(buffers: List<MapBuffer>): List<DecodedMap> = coroutineScope {
         buffers.map { buffer -> async { buffer.decode() } }.awaitAll()

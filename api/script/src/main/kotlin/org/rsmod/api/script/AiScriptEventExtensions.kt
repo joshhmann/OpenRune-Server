@@ -14,10 +14,8 @@ public fun ScriptContext.onAiTimer(
     action: AiTimerEvents.Type.() -> Unit,
 ): Unit = onEvent(type.id, action)
 
-public fun ScriptContext.onAiTimer(
-    internal: String,
-    action: AiTimerEvents.Type.() -> Unit,
-): Unit = onEvent(internal.asRSCM(RSCMType.NPC), action)
+public fun ScriptContext.onAiTimer(internal: String, action: AiTimerEvents.Type.() -> Unit): Unit =
+    onEvent(internal.asRSCM(RSCMType.NPC), action)
 
 public fun ScriptContext.onAiContentTimer(
     content: String,

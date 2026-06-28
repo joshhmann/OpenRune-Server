@@ -29,8 +29,12 @@ constructor(private val invisibleLvls: InvisibleLevels, private val worldRepo: W
         onOpLoc1("loc.canoeing_canoestation_championsguild") { pathTo(it.loc, Path.ChampionsGuild) }
         onOpLoc3("loc.canoeing_canoestation_championsguild") { cut(it.loc, Path.ChampionsGuild) }
 
-        onOpLoc1("loc.canoeing_canoestation_barbarianvillage") { pathTo(it.loc, Path.BarbarianVillage) }
-        onOpLoc3("loc.canoeing_canoestation_barbarianvillage") { cut(it.loc, Path.BarbarianVillage) }
+        onOpLoc1("loc.canoeing_canoestation_barbarianvillage") {
+            pathTo(it.loc, Path.BarbarianVillage)
+        }
+        onOpLoc3("loc.canoeing_canoestation_barbarianvillage") {
+            cut(it.loc, Path.BarbarianVillage)
+        }
 
         onOpLoc1("loc.canoeing_canoestation_edgeville") { pathTo(it.loc, Path.Edgeville) }
         onOpLoc3("loc.canoeing_canoestation_edgeville") { cut(it.loc, Path.Edgeville) }

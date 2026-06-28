@@ -4,7 +4,6 @@ import dev.openrune.definition.type.widget.ComponentType
 import dev.openrune.rscm.RSCM.asRSCM
 import dev.openrune.rscm.RSCMType
 import dev.openrune.types.ItemServerType
-import dev.openrune.types.WalkTriggerType
 import org.rsmod.api.player.events.PlayerHitpointsChangedEvent
 import org.rsmod.api.player.events.PlayerMovementEvent
 import org.rsmod.api.player.events.PlayerQueueEvents
@@ -24,8 +23,7 @@ public fun ScriptContext.onPlayerInit(action: SessionStateEvent.Initialize.() ->
 public fun ScriptContext.onPlayerLogin(action: SessionStateEvent.Login.() -> Unit): Unit =
     onEvent(action)
 
-public fun ScriptContext.onDialogInput(action: DialogInput.() -> Unit): Unit =
-    onEvent(action)
+public fun ScriptContext.onDialogInput(action: DialogInput.() -> Unit): Unit = onEvent(action)
 
 public fun ScriptContext.onPlayerLogout(action: SessionStateEvent.Logout.() -> Unit): Unit =
     onEvent(action)
@@ -100,18 +98,21 @@ public fun ScriptContext.onPlayerWalkTrigger(
     action: PlayerMovementEvent.WalkTrigger.() -> Unit,
 ): Unit = onEvent(trigger.asRSCM(RSCMType.WALKTRIGGER), action)
 
-public fun ScriptContext.onPlayerCoordsChanged(action: PlayerMovementEvent.CoordsMovedEvent.() -> Unit): Unit =
-    onEvent(action)
+public fun ScriptContext.onPlayerCoordsChanged(
+    action: PlayerMovementEvent.CoordsMovedEvent.() -> Unit
+): Unit = onEvent(action)
 
-public fun ScriptContext.onPlayerHitpointsChanged(action: PlayerHitpointsChangedEvent.() -> Unit): Unit =
-    onEvent(action)
+public fun ScriptContext.onPlayerHitpointsChanged(
+    action: PlayerHitpointsChangedEvent.() -> Unit
+): Unit = onEvent(action)
 
 public fun ScriptContext.onWorldMapClick(
     internal: String,
     action: suspend ProtectedAccess.(WorldMapClick) -> Unit,
-): Unit = onProtectedEvent(WorldMapClick.BUS_ID) { event: WorldMapClick ->
-    if (!player.modLevel.hasAccessTo(internal)) {
-        return@onProtectedEvent
+): Unit =
+    onProtectedEvent(WorldMapClick.BUS_ID) { event: WorldMapClick ->
+        if (!player.modLevel.hasAccessTo(internal)) {
+            return@onProtectedEvent
+        }
+        action(event)
     }
-    action(event)
-}

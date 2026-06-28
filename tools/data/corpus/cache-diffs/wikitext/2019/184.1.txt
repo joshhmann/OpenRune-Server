@@ -1,0 +1,463 @@
+{{ToC}}
+==Items==
+===New Items===
+{| class="wikitable sortable"
+!colspan='11'|New Items
+|-
+! style=width:15em | Name !! ID !! Members !! Tradeable in GE !! Equipable !! Stackable !! Noteable !! Options !! Placeholder !! Cost
+|-
+| [[Clue scroll (elite)]] || [https://chisel.weirdgloop.org/moid/item_id.html#24253 24253] || Yes || No || No || No || No || Read, Check steps,   Drop || No || 20
+|-
+| [[Fang]] || [https://chisel.weirdgloop.org/moid/item_id.html#24254 24254] || Yes || No || No || No || No || Investigate,    Destroy || No || 100
+|-
+| [[Venom gland]] || [https://chisel.weirdgloop.org/moid/item_id.html#24255 24255] || Yes || No || No || No || No || Investigate,    Destroy || No || 100
+|-
+| [[Unsealed letter]] || [https://chisel.weirdgloop.org/moid/item_id.html#24256 24256] || Yes || No || No || No || No || Read,    Destroy || No || 100
+|-
+| [[Unsealed letter]] || [https://chisel.weirdgloop.org/moid/item_id.html#24257 24257] || Yes || No || No || No || No || Read,    Destroy || No || 100
+|-
+| [[V sigil]] || [https://chisel.weirdgloop.org/moid/item_id.html#24258 24258] || Yes || No || No || No || No ||     Destroy || No || 100
+|-
+| [[V sigil (e)]] || [https://chisel.weirdgloop.org/moid/item_id.html#24259 24259] || Yes || No || No || No || No ||     Destroy || No || 100
+|-
+| [[Molten glass (i)]] || [https://chisel.weirdgloop.org/moid/item_id.html#24260 24260] || Yes || No || No || No || No ||     Destroy || No || 100
+|-
+| [[Lunar glass]] || [https://chisel.weirdgloop.org/moid/item_id.html#24261 24261] || Yes || No || No || No || No ||     Destroy || No || 100
+|-
+| [[Polishing rock]] || [https://chisel.weirdgloop.org/moid/item_id.html#24262 24262] || Yes || No || No || No || No ||     Destroy || No || 100
+|-
+| [[Ballad of the basilisk]] || [https://chisel.weirdgloop.org/moid/item_id.html#24263 24263] || Yes || No || No || No || No || Read,    Drop || Yes || 1
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#24264 24264] || No || No || No || No || No ||     Drop || Yes || 1
+|-
+| [[V's shield]] || [https://chisel.weirdgloop.org/moid/item_id.html#24265 24265] || Yes || No || No || No || No || Inspect,    Destroy || No || 1
+|-
+| [[V's shield]] || [https://chisel.weirdgloop.org/moid/item_id.html#24266 24266] || Yes || No || Yes || No || No ||  Wield,   Drop || Yes || 50000
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#24267 24267] || No || No || No || No || No ||     Drop || Yes || 1
+|-
+| [[Basilisk jaw]] || [https://chisel.weirdgloop.org/moid/item_id.html#24268 24268] || Yes || Yes || No || No || Yes ||    Inspect, Drop || Yes || 500000
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#24269 24269] || No || No || No || No || Yes ||     Drop || No || 1
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#24270 24270] || No || No || No || No || No ||     Drop || Yes || 1
+|-
+| [[Neitiznot faceguard]] || [https://chisel.weirdgloop.org/moid/item_id.html#24271 24271] || Yes || No || Yes || No || No ||  Wear,  Dismantle, Drop || Yes || 550000
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#24272 24272] || No || No || No || No || No ||     Drop || Yes || 1
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#24273 24273] || Yes || No || Yes || No || No ||     Drop || No || 1
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#24274 24274] || Yes || No || Yes || No || No ||     Drop || No || 1
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#24275 24275] || Yes || No || Yes || No || No ||     Drop || No || 1
+|-
+|-
+|}
+===Removed Items===
+{| class="wikitable sortable"
+!colspan='2'|Removed Items
+|-
+! style=width:15em | Name !! ID
+|-
+|-
+|}
+===Diff Items===
+{| class="wikitable sortable"
+!colspan='5'|Diff Items
+|-
+! style=width:15em | Name !! ID !! Key !! Previous Value !! New Value
+|-
+|rowspan="2"|[[Molten glass]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#1775 1775]
+|-
+|ambient || 50 || 40
+|-
+|}
+
+==Non-Player Characters==
+===New NPCs===
+{| class="wikitable sortable"
+!colspan='4'|New NPCs
+|-
+! style=width:15em | Name !! ID !! Combat Level !! Options
+|-
+| [[Basilisk Sentinel]] || [https://chisel.weirdgloop.org/moid/npc_id.html#9258 9258] || 351 || Attack
+|-
+| [[Ospak]] || [https://chisel.weirdgloop.org/moid/npc_id.html#9259 9259] || No Combat Level || None
+|-
+| [[Styrmir]] || [https://chisel.weirdgloop.org/moid/npc_id.html#9260 9260] || No Combat Level || None
+|-
+| [[Torbrund]] || [https://chisel.weirdgloop.org/moid/npc_id.html#9261 9261] || No Combat Level || None
+|-
+| [[Fridgeir]] || [https://chisel.weirdgloop.org/moid/npc_id.html#9262 9262] || No Combat Level || None
+|-
+| [[Brundt the Chieftain]] || [https://chisel.weirdgloop.org/moid/npc_id.html#9263 9263] || No Combat Level || Talk-to
+|-
+| [[Thora the Barkeep]] || [https://chisel.weirdgloop.org/moid/npc_id.html#9264 9264] || No Combat Level || None
+|-
+| [[Brundt the Chieftain]] || [https://chisel.weirdgloop.org/moid/npc_id.html#9265 9265] || No Combat Level || None
+|-
+| [[Brundt the Chieftain]] || [https://chisel.weirdgloop.org/moid/npc_id.html#9266 9266] || No Combat Level || Talk-to
+|-
+| [[Brundt the Chieftain]] || [https://chisel.weirdgloop.org/moid/npc_id.html#9267 9267] || No Combat Level || Talk-to
+|-
+| [[Brundt the Chieftain]] || [https://chisel.weirdgloop.org/moid/npc_id.html#9268 9268] || No Combat Level || Talk-to, Collect
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/npc_id.html#9269 9269] || 1 || None
+|-
+| [[Haskell]] || [https://chisel.weirdgloop.org/moid/npc_id.html#9270 9270] || No Combat Level || Talk-to
+|-
+| [[Haskell]] || [https://chisel.weirdgloop.org/moid/npc_id.html#9271 9271] || No Combat Level || Talk-to, Travel
+|-
+| [[Haskell]] || [https://chisel.weirdgloop.org/moid/npc_id.html#9272 9272] || No Combat Level || Talk-to, Travel
+|-
+| [[Agnar]] || [https://chisel.weirdgloop.org/moid/npc_id.html#9273 9273] || No Combat Level || None
+|-
+| [[Olaf the Bard]] || [https://chisel.weirdgloop.org/moid/npc_id.html#9274 9274] || No Combat Level || None
+|-
+| [[Manni the Reveller]] || [https://chisel.weirdgloop.org/moid/npc_id.html#9275 9275] || No Combat Level || None
+|-
+| [[Fremennik Warrior]] || [https://chisel.weirdgloop.org/moid/npc_id.html#9276 9276] || 56 || None
+|-
+| [[Fremennik Warrior]] || [https://chisel.weirdgloop.org/moid/npc_id.html#9277 9277] || 56 || None
+|-
+| [[Brundt the Chieftain]] || [https://chisel.weirdgloop.org/moid/npc_id.html#9278 9278] || 126 || None
+|-
+| [[Brundt the Chieftain]] || [https://chisel.weirdgloop.org/moid/npc_id.html#9279 9279] || 126 || None
+|-
+| [[Thorvald the Warrior]] || [https://chisel.weirdgloop.org/moid/npc_id.html#9280 9280] || 104 || None
+|-
+| [[Koschei the Deathless]] || [https://chisel.weirdgloop.org/moid/npc_id.html#9281 9281] || 142 || None
+|-
+| [[Basilisk Youngling]] || [https://chisel.weirdgloop.org/moid/npc_id.html#9282 9282] || 53 || Attack
+|-
+| [[Basilisk]] || [https://chisel.weirdgloop.org/moid/npc_id.html#9283 9283] || 61 || Attack
+|-
+| [[Basilisk]] || [https://chisel.weirdgloop.org/moid/npc_id.html#9284 9284] || 61 || Attack
+|-
+| [[Basilisk]] || [https://chisel.weirdgloop.org/moid/npc_id.html#9285 9285] || 61 || Attack
+|-
+| [[Basilisk]] || [https://chisel.weirdgloop.org/moid/npc_id.html#9286 9286] || 61 || Attack
+|-
+| [[Monstrous Basilisk]] || [https://chisel.weirdgloop.org/moid/npc_id.html#9287 9287] || 135 || Attack
+|-
+| [[Monstrous Basilisk]] || [https://chisel.weirdgloop.org/moid/npc_id.html#9288 9288] || 135 || Attack
+|-
+| [[The Jormungand]] || [https://chisel.weirdgloop.org/moid/npc_id.html#9289 9289] || 363 || None
+|-
+| [[The Jormungand]] || [https://chisel.weirdgloop.org/moid/npc_id.html#9290 9290] || 363 || None
+|-
+| [[The Jormungand]] || [https://chisel.weirdgloop.org/moid/npc_id.html#9291 9291] || 363 || Attack
+|-
+| [[The Jormungand]] || [https://chisel.weirdgloop.org/moid/npc_id.html#9292 9292] || 363 || None
+|-
+| [[Basilisk Knight]] || [https://chisel.weirdgloop.org/moid/npc_id.html#9293 9293] || 182 || Attack
+|-
+| [[Bakuna]] || [https://chisel.weirdgloop.org/moid/npc_id.html#9294 9294] || 194 || None
+|-
+| [[Typhor]] || [https://chisel.weirdgloop.org/moid/npc_id.html#9295 9295] || 194 || None
+|-
+| [[Typhor]] || [https://chisel.weirdgloop.org/moid/npc_id.html#9296 9296] || 194 || Attack
+|-
+| [[Vritra]] || [https://chisel.weirdgloop.org/moid/npc_id.html#9297 9297] || 194 || None
+|-
+|-
+|}
+===Removed NPCs===
+{| class="wikitable sortable"
+!colspan='2'|Removed NPCs
+|-
+! style=width:15em | Name !! ID
+|-
+|-
+|}
+===Diff NPCs===
+{| class="wikitable sortable"
+!colspan='5'|Diff NPCs
+|-
+! style=width:15em | Name !! ID !! Key !! Previous Value !! New Value
+|-
+|rowspan="3"|[[Bardur]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/npc_id.html#2263 2263]
+|-
+|actions || ['Talk-to', 'Attack', None, None, None] || ['Talk-to', None, None, None, None]
+|-
+| combatLevel || 94 || 0
+|-
+|rowspan="5"|[[null]]
+|rowspan="5"|[https://chisel.weirdgloop.org/moid/npc_id.html#3926 3926]
+|-
+|name || [[Brundt the Chieftain]] || [[null]]
+|-
+| actions || ['Talk-to', None, None, None, None] || [None, None, None, None, None]
+|-
+| combatLevel || 0 || 1
+|-
+| varbitId || -1 || 9459
+|-
+|rowspan="3"|[[Freygerd]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/npc_id.html#3942 3942]
+|-
+|actions || ['Talk-to', 'Attack', 'Pickpocket', None, None] || ['Talk-to', None, None, None, None]
+|-
+| combatLevel || 48 || 0
+|-
+|rowspan="12"|[[null]]
+|rowspan="12"|[https://chisel.weirdgloop.org/moid/npc_id.html#7318 7318]
+|-
+|name || [[Bear]] || [[null]]
+|-
+| size || 5 || 1
+|-
+| standingAnimation || 4919 || 808
+|-
+| walkingAnimation || 4923 || 819
+|-
+| rotate180Animation || -1 || 820
+|-
+| rotate90RightAnimation || -1 || 821
+|-
+| rotate90LeftAnimation || -1 || 822
+|-
+| actions || [None, 'Attack', None, None, None] || [None, None, None, None, None]
+|-
+| combatLevel || 360 || 1
+|-
+| ambient || 25 || 0
+|-
+| varbitId || -1 || 9459
+|-
+|rowspan="11"|[[null]]
+|rowspan="11"|[https://chisel.weirdgloop.org/moid/npc_id.html#7322 7322]
+|-
+|name || [[Wild dog]] || [[null]]
+|-
+| standingAnimation || 6561 || 808
+|-
+| walkingAnimation || 6560 || 819
+|-
+| rotate180Animation || -1 || 820
+|-
+| rotate90RightAnimation || -1 || 821
+|-
+| rotate90LeftAnimation || -1 || 822
+|-
+| actions || [None, 'Attack', None, None, None] || [None, None, None, None, None]
+|-
+| combatLevel || 63 || 1
+|-
+| hasRenderPriority || False || True
+|-
+| varbitId || -1 || 9459
+|-
+|rowspan="2"|[[Brundt the Chieftain]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#8161 8161]
+|-
+|combatLevel || 139 || 126
+|-
+|rowspan="2"|[[Achietties]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#8164 8164]
+|-
+|combatLevel || 123 || 126
+|-
+|rowspan="2"|[[Sir Tiffy Cashien]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#8165 8165]
+|-
+|combatLevel || 123 || 126
+|-
+|}
+
+==Objects==
+===New Objects=== 
+{| class="wikitable sortable"
+!colspan='3'|New Objects
+|-
+! style=width:15em | Name !! ID !! Options
+|-
+| [[Sand pit]] || [https://chisel.weirdgloop.org/moid/object_id.html#37391 37391] || Search
+|-
+| [[Sand pit]] || [https://chisel.weirdgloop.org/moid/object_id.html#37392 37392] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#37393 37393] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#37394 37394] || None
+|-
+| [[Rockslide]] || [https://chisel.weirdgloop.org/moid/object_id.html#37395 37395] || Search
+|-
+| [[Rockslide]] || [https://chisel.weirdgloop.org/moid/object_id.html#37396 37396] || None
+|-
+| [[Boxes]] || [https://chisel.weirdgloop.org/moid/object_id.html#37397 37397] || Search
+|-
+| [[Boxes]] || [https://chisel.weirdgloop.org/moid/object_id.html#37398 37398] || Search
+|-
+| [[Boxes]] || [https://chisel.weirdgloop.org/moid/object_id.html#37399 37399] || None
+|-
+| [[Small Geyser]] || [https://chisel.weirdgloop.org/moid/object_id.html#37400 37400] || None
+|-
+| [[Small Geyser]] || [https://chisel.weirdgloop.org/moid/object_id.html#37401 37401] || Inspect
+|-
+| [[Large Geyser]] || [https://chisel.weirdgloop.org/moid/object_id.html#37402 37402] || None
+|-
+| [[Large Geyser]] || [https://chisel.weirdgloop.org/moid/object_id.html#37403 37403] || Inspect
+|-
+| [[Fish stall]] || [https://chisel.weirdgloop.org/moid/object_id.html#37404 37404] || None
+|-
+| [[Fur stall]] || [https://chisel.weirdgloop.org/moid/object_id.html#37405 37405] || None
+|-
+| [[Fremennik Boat]] || [https://chisel.weirdgloop.org/moid/object_id.html#37406 37406] || None
+|-
+| [[Fremennik Boat]] || [https://chisel.weirdgloop.org/moid/object_id.html#37407 37407] || Travel
+|-
+| [[Fremennik Boat]] || [https://chisel.weirdgloop.org/moid/object_id.html#37408 37408] || Travel
+|-
+| [[Cave]] || [https://chisel.weirdgloop.org/moid/object_id.html#37409 37409] || Enter
+|-
+| [[Cave]] || [https://chisel.weirdgloop.org/moid/object_id.html#37410 37410] || Enter
+|-
+| [[Steps]] || [https://chisel.weirdgloop.org/moid/object_id.html#37411 37411] || Exit
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#37412 37412] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#37413 37413] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#37414 37414] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#37415 37415] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#37416 37416] || None
+|-
+| [[Steps]] || [https://chisel.weirdgloop.org/moid/object_id.html#37417 37417] || Climb
+|-
+| [[Steps]] || [https://chisel.weirdgloop.org/moid/object_id.html#37418 37418] || Climb
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#37419 37419] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#37420 37420] || None
+|-
+| [[Door]] || [https://chisel.weirdgloop.org/moid/object_id.html#37421 37421] || Escape, Quick-escape
+|-
+| [[Door]] || [https://chisel.weirdgloop.org/moid/object_id.html#37422 37422] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#37423 37423] || None
+|-
+| [[The Jormungand]] || [https://chisel.weirdgloop.org/moid/object_id.html#37424 37424] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#37425 37425] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#37426 37426] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#37427 37427] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#37428 37428] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#37429 37429] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#37430 37430] || None
+|-
+| [[Rough wall]] || [https://chisel.weirdgloop.org/moid/object_id.html#37431 37431] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#37432 37432] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#37433 37433] || None
+|-
+|-
+|}
+===Removed Objects===
+{| class="wikitable sortable"
+!colspan='2'|Removed Objects
+|-
+! style=width:15em | Name !! ID
+|-
+|-
+|}
+===Diff Objects===
+{| class="wikitable sortable"
+!colspan='5'|Diff Objects
+|-
+! style=width:15em | Name !! ID !! Key !! Previous Value !! New Value
+|-
+|rowspan="4"|[[null]]
+|rowspan="4"|[https://chisel.weirdgloop.org/moid/object_id.html#2795 2795]
+|-
+|name || [[Lever]] || [[null]]
+|-
+| wallOrDoor || 1 || 0
+|-
+| actions || ['Pull', None, None, None, None] || [None, None, None, None, None]
+|-
+|rowspan="3"|[[null]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#4373 4373]
+|-
+|name || [[Sand pit]] || [[null]]
+|-
+| varbitID || -1 || 9459
+|-
+|rowspan="7"|[[null]]
+|rowspan="7"|[https://chisel.weirdgloop.org/moid/object_id.html#20091 20091]
+|-
+|sizeX || 1 || 2
+|-
+| sizeY || 1 || 2
+|-
+| wallOrDoor || 0 || 1
+|-
+| varbitID || -1 || 9459
+|-
+| supportsItems || 0 || 1
+|-
+| blocksProjectile || True || False
+|-
+|rowspan="6"|[[null]]
+|rowspan="6"|[https://chisel.weirdgloop.org/moid/object_id.html#20092 20092]
+|-
+|wallOrDoor || 0 || 1
+|-
+| varbitID || -1 || 9459
+|-
+| supportsItems || 0 || 1
+|-
+| isRotated || True || False
+|-
+| blocksProjectile || True || False
+|-
+|rowspan="5"|[[null]]
+|rowspan="5"|[https://chisel.weirdgloop.org/moid/object_id.html#20093 20093]
+|-
+|wallOrDoor || 0 || 1
+|-
+| animationID || -1 || 5772
+|-
+| varbitID || -1 || 9459
+|-
+| supportsItems || 0 || 1
+|-
+|rowspan="8"|[[null]]
+|rowspan="8"|[https://chisel.weirdgloop.org/moid/object_id.html#20094 20094]
+|-
+|sizeX || 1 || 2
+|-
+| sizeY || 1 || 2
+|-
+| wallOrDoor || 0 || 1
+|-
+| animationID || -1 || 5771
+|-
+| varbitID || -1 || 9459
+|-
+| supportsItems || 0 || 1
+|-
+| isRotated || True || False
+|-
+|rowspan="5"|[[null]]
+|rowspan="5"|[https://chisel.weirdgloop.org/moid/object_id.html#20095 20095]
+|-
+|name || [[Open chest]] || [[null]]
+|-
+| wallOrDoor || 1 || 0
+|-
+| actions || [None, 'Search', 'Shut', None, None] || [None, None, None, None, None]
+|-
+| blockingMask || 14 || 0
+|-
+|}

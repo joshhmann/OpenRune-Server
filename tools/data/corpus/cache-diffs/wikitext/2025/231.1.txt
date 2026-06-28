@@ -1,0 +1,25 @@
+__TOC__
+==Objects==
+===New Objects===
+{| class="wikitable sortable sticky-header mw-collapsible"
+|-
+! colspan="4" | New Objects
+|-
+! style="width: 15em" | name !! id !! gameVal !! actions
+|-
+| [[Door]] || [https://chisel.weirdgloop.org/moid/object_id.html#56376 56376][https://abextm.github.io/cache2/#/viewer/obj/56376 (1)] || poordoor_m || [Open, None, None, None, None]
+|-
+| [[Door]] || [https://chisel.weirdgloop.org/moid/object_id.html#56377 56377][https://abextm.github.io/cache2/#/viewer/obj/56377 (1)] || poordooropen_m || [Close, None, None, None, None]
+|}
+===Diff Objects===
+{| class="wikitable sortable sticky-header mw-collapsible"
+|-
+! colspan="5" | Diff Objects
+|-
+! style="width: 15em" | Name !! Id !! Key !! Previous Value !! New Value
+|-
+| rowspan="2" | [[Desk]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#2910 2910][https://abextm.github.io/cache2/#/viewer/obj/2910 (1)]
+|-
+| actions || [<span style="color: #ee4231">search</span>, None, None, None, None] || [<span style="color: #6bc71f">Search</span>, None, None, None, None]
+|}

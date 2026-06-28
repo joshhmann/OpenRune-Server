@@ -9,9 +9,7 @@ import org.rsmod.content.skills.runecrafting.tiara.TiaraAction.createTiara
 import org.rsmod.plugin.scripts.PluginScript
 import org.rsmod.plugin.scripts.ScriptContext
 
-class ComboEvents @Inject constructor(
-    private val xpMods: XpModifiers,
-) : PluginScript() {
+class ComboEvents @Inject constructor(private val xpMods: XpModifiers) : PluginScript() {
     override fun ScriptContext.startup() {
         RunecraftingAltarsRow.all().forEach { altar ->
             if (altar.combo.isEmpty()) {
@@ -35,7 +33,8 @@ class ComboEvents @Inject constructor(
                             val input = candidate.input?.internalName
                             input != null &&
                                 inv.contains(input) &&
-                                (inv.contains("obj.blankrune_high") || inv.contains("obj.gotr_guardian_essence"))
+                                (inv.contains("obj.blankrune_high") ||
+                                    inv.contains("obj.gotr_guardian_essence"))
                         }
 
                     if (selectedCombo != null) {

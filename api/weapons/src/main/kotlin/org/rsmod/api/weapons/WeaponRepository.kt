@@ -11,8 +11,9 @@ public class WeaponRepository @Inject constructor(private val registry: WeaponRe
     private val mappedContentGroups by lazy { loadMappedContentGroups() }
 
     public fun <T : CombatAttack> register(internal: String, weapon: Weapon<T>) {
-        val obj = ServerCacheManager.getItem(internal.asRSCM(RSCMType.OBJ))
-            ?: error("No item mapped: $internal")
+        val obj =
+            ServerCacheManager.getItem(internal.asRSCM(RSCMType.OBJ))
+                ?: error("No item mapped: $internal")
 
         val result = registry.add(obj, weapon)
         assertValidResult(obj, result)

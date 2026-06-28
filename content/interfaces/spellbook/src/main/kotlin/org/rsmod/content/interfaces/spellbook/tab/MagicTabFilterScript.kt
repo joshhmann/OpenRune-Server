@@ -16,9 +16,7 @@ class MagicTabFilterScript : PluginScript() {
             player.ifSetEvents("component.magic_spellbook:filtermenu", 0..7, IfEvent.Op1)
         }
 
-        onIfOverlayButton("component.magic_spellbook:filtermenu") {
-            player.toggleFilter(it.comsub)
-        }
+        onIfOverlayButton("component.magic_spellbook:filtermenu") { player.toggleFilter(it.comsub) }
     }
 
     private fun Player.toggleFilter(comsub: Int) {

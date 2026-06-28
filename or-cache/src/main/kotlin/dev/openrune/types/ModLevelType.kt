@@ -14,8 +14,9 @@ data class ModLevelType(
     public var displayName: String = "",
 ) : Definition {
     public fun hasAccessTo(internal: String): Boolean {
-        val level = ServerCacheManager.getModLevel(internal.asRSCM(RSCMType.MODLEVEL))?:
-            error("Error finding mod level: $internal")
+        val level =
+            ServerCacheManager.getModLevel(internal.asRSCM(RSCMType.MODLEVEL))
+                ?: error("Error finding mod level: $internal")
 
         return id == level.id || (accessflags and (1L shl level.id)) != 0L
     }

@@ -60,9 +60,7 @@ constructor(
             openRuneCentral.stopInboundWatch()
             centralActivityLogWriter.stop()
         }
-        onEvent<HeldDropEvents.Drop> {
-            centralActivityLogWriter.logItemDrop(player, type, obj)
-        }
+        onEvent<HeldDropEvents.Drop> { centralActivityLogWriter.logItemDrop(player, type, obj) }
         onEvent<HeldDropEvents.Destroy> {
             centralActivityLogWriter.logItemDestroy(player, type, obj)
         }
@@ -117,7 +115,9 @@ constructor(
                     )
                 }
             } catch (e: Exception) {
-                logger.warn(e) { "Could not set DB online-session for characterId=${player.characterId}" }
+                logger.warn(e) {
+                    "Could not set DB online-session for characterId=${player.characterId}"
+                }
             }
         }
         centralActivityLogWriter.logPlayerLogin(player)
@@ -131,7 +131,9 @@ constructor(
                     characterRepository.clearOnlineSession(connection, player.characterId)
                 }
             } catch (e: Exception) {
-                logger.warn(e) { "Could not clear DB online-session for characterId=${player.characterId}" }
+                logger.warn(e) {
+                    "Could not clear DB online-session for characterId=${player.characterId}"
+                }
             }
         }
         val token = player.openRuneCentralSessionToken ?: return

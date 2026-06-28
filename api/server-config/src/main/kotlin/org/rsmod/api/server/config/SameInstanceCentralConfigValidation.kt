@@ -24,25 +24,26 @@ public object SameInstanceCentralConfigValidation {
             }
         return header +
             buildString {
-                appendLine(
-                    "You enabled in-process OpenRune Central (`central.same-instance: true`) but the " +
-                        "`central.postgres` block is missing.",
-                )
-                appendLine()
-                appendLine(
-                    "Central always needs a `postgres` section for its JDBC pool settings — at minimum " +
-                        "`pool-size` — even when you use embedded PostgreSQL (blank `jdbc-url`).",
-                )
-                appendLine()
-                appendLine("Add this under `central:` (see game.example.yml):")
-                appendLine()
-                appendLine("  postgres:")
-                appendLine("    pool-size: 10")
-                appendLine()
-                appendLine(
-                    "Omit `jdbc-url` or leave it blank to use embedded PostgreSQL (data defaults to `./.data/pgdata`). " +
-                        "Set `jdbc-url` (and `user` / `password` if needed) to use an existing PostgreSQL server.",
-                )
-            }.trimEnd()
+                    appendLine(
+                        "You enabled in-process OpenRune Central (`central.same-instance: true`) but the " +
+                            "`central.postgres` block is missing."
+                    )
+                    appendLine()
+                    appendLine(
+                        "Central always needs a `postgres` section for its JDBC pool settings — at minimum " +
+                            "`pool-size` — even when you use embedded PostgreSQL (blank `jdbc-url`)."
+                    )
+                    appendLine()
+                    appendLine("Add this under `central:` (see game.example.yml):")
+                    appendLine()
+                    appendLine("  postgres:")
+                    appendLine("    pool-size: 10")
+                    appendLine()
+                    appendLine(
+                        "Omit `jdbc-url` or leave it blank to use embedded PostgreSQL (data defaults to `./.data/pgdata`). " +
+                            "Set `jdbc-url` (and `user` / `password` if needed) to use an existing PostgreSQL server."
+                    )
+                }
+                .trimEnd()
     }
 }

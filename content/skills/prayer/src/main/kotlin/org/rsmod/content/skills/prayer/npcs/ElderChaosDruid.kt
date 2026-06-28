@@ -15,7 +15,8 @@ import org.rsmod.plugin.scripts.ScriptContext
 
 class ElderChaosDruid : PluginScript() {
 
-    private val sacrificeableBones = PrayerBuryEvents.Companion.bones.filterNot { it.ashes }.map { it.item.internalName }.toSet()
+    private val sacrificeableBones =
+        PrayerBuryEvents.Companion.bones.filterNot { it.ashes }.map { it.item.internalName }.toSet()
 
     override fun ScriptContext.startup() {
         onOpNpc1("npc.wild_chaos_uncerter") { startDialogue(it.npc) }
@@ -65,7 +66,10 @@ class ElderChaosDruid : PluginScript() {
     ) {
         if (!objType.isCert) {
             startDialogue(npc) {
-                chatNpcNoTurn(neutral, "I exchange banknotes for real items. That's not a banknote.")
+                chatNpcNoTurn(
+                    neutral,
+                    "I exchange banknotes for real items. That's not a banknote.",
+                )
             }
             return
         }
@@ -110,13 +114,14 @@ class ElderChaosDruid : PluginScript() {
         }
 
         val exchangeFee = exchangeCount * 50
-        val takeFeeAndNote = invDel(
-            inv = inv,
-            type1 = "obj.coins",
-            count1 = exchangeFee,
-            type2 = objType.internalName,
-            count2 = exchangeCount
-        )
+        val takeFeeAndNote =
+            invDel(
+                inv = inv,
+                type1 = "obj.coins",
+                count1 = exchangeFee,
+                type2 = objType.internalName,
+                count2 = exchangeCount,
+            )
         if (takeFeeAndNote.failure) {
             startDialogue(npc) {
                 chatNpcNoTurn(neutral, "I charge 50 coins for exchanging each banknote.")
@@ -141,17 +146,18 @@ class ElderChaosDruid : PluginScript() {
         val exchange1 = minOf(1, maxExchange)
         val exchange5 = minOf(5, maxExchange)
         val exchangeAll = maxExchange
-        val selection = choice4(
-            "Exchange $exchange1 (${exchange1 * feePerNote} coins)",
-            1,
-            "Exchange $exchange5 (${exchange5 * feePerNote} coins)",
-            2,
-            "Exchange all (${exchangeAll * feePerNote} coins)",
-            3,
-            "Exchange X",
-            4,
-            title = "Exchanging: $itemName",
-        )
+        val selection =
+            choice4(
+                "Exchange $exchange1 (${exchange1 * feePerNote} coins)",
+                1,
+                "Exchange $exchange5 (${exchange5 * feePerNote} coins)",
+                2,
+                "Exchange all (${exchangeAll * feePerNote} coins)",
+                3,
+                "Exchange X",
+                4,
+                title = "Exchanging: $itemName",
+            )
         return when (selection) {
             1 -> exchange1
             2 -> exchange5
@@ -159,5 +165,4 @@ class ElderChaosDruid : PluginScript() {
             else -> countDialog("Enter amount:").coerceIn(0, maxExchange)
         }
     }
-
 }

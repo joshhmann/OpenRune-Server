@@ -1,0 +1,298 @@
+{{ToC}}
+==Items==
+===New Items===
+{| class="wikitable sortable"
+!colspan='11'|New Items
+|-
+! style=width:15em | Name !! ID !! Members !! Tradeable in GE !! Equipable !! Stackable !! Noteable !! Options !! Placeholder !! Cost
+|-
+| [[Mysterious emblem (tier 1)]] || [https://chisel.weirdgloop.org/moid/item_id.html#24277 24277] || Yes || No || No || No || No ||     Destroy || Yes || 7500
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#24278 24278] || No || No || No || No || No ||     Drop || Yes || 1
+|-
+| [[Mysterious emblem (tier 2)]] || [https://chisel.weirdgloop.org/moid/item_id.html#24279 24279] || Yes || No || No || No || No ||     Destroy || Yes || 15000
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#24280 24280] || No || No || No || No || No ||     Drop || Yes || 1
+|-
+| [[Mysterious emblem (tier 3)]] || [https://chisel.weirdgloop.org/moid/item_id.html#24281 24281] || Yes || No || No || No || No ||     Destroy || Yes || 30000
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#24282 24282] || No || No || No || No || No ||     Drop || Yes || 1
+|-
+| [[Mysterious emblem (tier 4)]] || [https://chisel.weirdgloop.org/moid/item_id.html#24283 24283] || Yes || No || No || No || No ||     Destroy || Yes || 60000
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#24284 24284] || No || No || No || No || No ||     Drop || Yes || 1
+|-
+| [[Mysterious emblem (tier 5)]] || [https://chisel.weirdgloop.org/moid/item_id.html#24285 24285] || Yes || No || No || No || No ||     Destroy || Yes || 120000
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#24286 24286] || No || No || No || No || No ||     Drop || Yes || 1
+|-
+| [[Decorative emblem]] || [https://chisel.weirdgloop.org/moid/item_id.html#24287 24287] || Yes || No || No || No || No ||     Drop || No || 50009
+|-
+|-
+|}
+===Removed Items===
+{| class="wikitable sortable"
+!colspan='2'|Removed Items
+|-
+! style=width:15em | Name !! ID
+|-
+|-
+|}
+===Diff Items===
+{| class="wikitable sortable"
+!colspan='5'|Diff Items
+|-
+! style=width:15em | Name !! ID !! Key !! Previous Value !! New Value
+|-
+|rowspan="4"|[[Archaic emblem (tier 1)]]
+|rowspan="4"|[https://chisel.weirdgloop.org/moid/item_id.html#12746 12746]
+|-
+|name || [[Mysterious emblem]] || [[Archaic emblem (tier 1)]]
+|-
+| isTradeable || True || False
+|-
+| notedID || 12747 || -1
+|-
+|rowspan="15"|[[Archaic emblem (tier 1)]]
+|rowspan="15"|[https://chisel.weirdgloop.org/moid/item_id.html#12747 12747]
+|-
+|name || [[null]] || [[Archaic emblem (tier 1)]]
+|-
+| yan2d || 0 || 2047
+|-
+| cost || 1 || 50000
+|-
+| stackable || 0 || 1
+|-
+| inventoryModel || 0 || 3677
+|-
+| members || False || True
+|-
+| zoom2d || 2000 || 1221
+|-
+| xOffset2d || 0 || 1
+|-
+| yOffset2d || 0 || -1
+|-
+| ambient || 0 || 15
+|-
+| contrast || 0 || 5
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || [None, None, None, None, 'Destroy']
+|-
+| notedID || 12746 || -1
+|-
+| notedTemplate || 799 || -1
+|-
+|rowspan="4"|[[Archaic emblem (tier 2)]]
+|rowspan="4"|[https://chisel.weirdgloop.org/moid/item_id.html#12748 12748]
+|-
+|name || [[Mysterious emblem (tier 2)]] || [[Archaic emblem (tier 2)]]
+|-
+| zoom2d || 1032 || 1050
+|-
+| xOffset2d || 1 || 0
+|-
+|rowspan="4"|[[Archaic emblem (tier 3)]]
+|rowspan="4"|[https://chisel.weirdgloop.org/moid/item_id.html#12749 12749]
+|-
+|name || [[Mysterious emblem (tier 3)]] || [[Archaic emblem (tier 3)]]
+|-
+| zoom2d || 968 || 1050
+|-
+| yOffset2d || -4 || -3
+|-
+|rowspan="5"|[[Archaic emblem (tier 4)]]
+|rowspan="5"|[https://chisel.weirdgloop.org/moid/item_id.html#12750 12750]
+|-
+|name || [[Mysterious emblem (tier 4)]] || [[Archaic emblem (tier 4)]]
+|-
+| yan2d || 202 || 135
+|-
+| zoom2d || 1032 || 1060
+|-
+| yOffset2d || -4 || -3
+|-
+|rowspan="4"|[[Archaic emblem (tier 5)]]
+|rowspan="4"|[https://chisel.weirdgloop.org/moid/item_id.html#12751 12751]
+|-
+|name || [[Mysterious emblem (tier 5)]] || [[Archaic emblem (tier 5)]]
+|-
+| xan2d || 13 || 0
+|-
+| yan2d || 54 || 27
+|-
+|rowspan="5"|[[Archaic emblem (tier 6)]]
+|rowspan="5"|[https://chisel.weirdgloop.org/moid/item_id.html#12752 12752]
+|-
+|name || [[Mysterious emblem (tier 6)]] || [[Archaic emblem (tier 6)]]
+|-
+| yan2d || 202 || 121
+|-
+| zoom2d || 1221 || 1250
+|-
+| yOffset2d || -1 || -3
+|-
+|rowspan="5"|[[Archaic emblem (tier 7)]]
+|rowspan="5"|[https://chisel.weirdgloop.org/moid/item_id.html#12753 12753]
+|-
+|name || [[Mysterious emblem (tier 7)]] || [[Archaic emblem (tier 7)]]
+|-
+| zoom2d || 1221 || 1347
+|-
+| xOffset2d || -4 || -1
+|-
+| yOffset2d || -5 || -8
+|-
+|rowspan="4"|[[Archaic emblem (tier 8)]]
+|rowspan="4"|[https://chisel.weirdgloop.org/moid/item_id.html#12754 12754]
+|-
+|name || [[Mysterious emblem (tier 8)]] || [[Archaic emblem (tier 8)]]
+|-
+| zoom2d || 1411 || 1420
+|-
+| xOffset2d || -5 || -1
+|-
+|rowspan="4"|[[Archaic emblem (tier 9)]]
+|rowspan="4"|[https://chisel.weirdgloop.org/moid/item_id.html#12755 12755]
+|-
+|name || [[Mysterious emblem (tier 9)]] || [[Archaic emblem (tier 9)]]
+|-
+| xan2d || 135 || 0
+|-
+| zoom2d || 1284 || 1474
+|-
+|rowspan="9"|[[Archaic emblem (tier 10)]]
+|rowspan="9"|[https://chisel.weirdgloop.org/moid/item_id.html#12756 12756]
+|-
+|name || [[Mysterious emblem (tier 10)]] || [[Archaic emblem (tier 10)]]
+|-
+| xan2d || 121 || 0
+|-
+| yan2d || 108 || 0
+|-
+| isTradeable || True || False
+|-
+| zoom2d || 1600 || 1537
+|-
+| xOffset2d || 3 || 1
+|-
+| yOffset2d || -9 || -3
+|-
+| notedID || 23487 || -1
+|-
+|rowspan="14"|[[Archaic emblem (tier 10)]]
+|rowspan="14"|[https://chisel.weirdgloop.org/moid/item_id.html#23487 23487]
+|-
+|name || [[null]] || [[Archaic emblem (tier 10)]]
+|-
+| cost || 1 || 50009
+|-
+| stackable || 0 || 1
+|-
+| inventoryModel || 0 || 5445
+|-
+| members || False || True
+|-
+| zoom2d || 2000 || 1537
+|-
+| xOffset2d || 0 || 1
+|-
+| yOffset2d || 0 || -3
+|-
+| ambient || 0 || 15
+|-
+| contrast || 0 || 5
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || [None, None, None, None, 'Destroy']
+|-
+| notedID || 12756 || -1
+|-
+| notedTemplate || 799 || -1
+|-
+|}
+
+==Non-Player Characters==
+===New NPCs===
+{| class="wikitable sortable"
+!colspan='4'|New NPCs
+|-
+! style=width:15em | Name !! ID !! Combat Level !! Options
+|-
+|-
+|}
+===Removed NPCs===
+{| class="wikitable sortable"
+!colspan='2'|Removed NPCs
+|-
+! style=width:15em | Name !! ID
+|-
+| [[Dwarf]] || [https://chisel.weirdgloop.org/moid/npc_id.html#293 293]
+|-
+| [[Emblem Trader]] || [https://chisel.weirdgloop.org/moid/npc_id.html#315 315]
+|-
+| [[Emblem Trader]] || [https://chisel.weirdgloop.org/moid/npc_id.html#316 316]
+|-
+| [[Emblem Trader]] || [https://chisel.weirdgloop.org/moid/npc_id.html#7941 7941]
+|-
+| [[Emblem Trader]] || [https://chisel.weirdgloop.org/moid/npc_id.html#7942 7942]
+|-
+|-
+|}
+===Diff NPCs===
+{| class="wikitable sortable"
+!colspan='5'|Diff NPCs
+|-
+! style=width:15em | Name !! ID !! Key !! Previous Value !! New Value
+|-
+|rowspan="4"|[[Emblem Trader]]
+|rowspan="4"|[https://chisel.weirdgloop.org/moid/npc_id.html#308 308]
+|-
+|name || [[null]] || [[Emblem Trader]]
+|-
+| actions || [None, None, None, None, None] || ['Talk-to', None, 'Emblems', 'Rewards', 'Skull']
+|-
+| varbitId || 1621 || -1
+|-
+|rowspan="4"|[[Emblem Trader]]
+|rowspan="4"|[https://chisel.weirdgloop.org/moid/npc_id.html#7943 7943]
+|-
+|name || [[null]] || [[Emblem Trader]]
+|-
+| actions || [None, None, None, None, None] || ['Talk-to', None, 'Emblems', 'Rewards', 'Skull']
+|-
+| varbitId || 1621 || -1
+|-
+|rowspan="2"|[[Wyrm]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#8610 8610]
+|-
+|models || [36166] || [36166, 7768]
+|-
+|}
+
+==Objects==
+===New Objects=== 
+{| class="wikitable sortable"
+!colspan='3'|New Objects
+|-
+! style=width:15em | Name !! ID !! Options
+|-
+| [[Streak info]] || [https://chisel.weirdgloop.org/moid/object_id.html#37434 37434] || Read
+|-
+|-
+|}
+===Removed Objects===
+{| class="wikitable sortable"
+!colspan='2'|Removed Objects
+|-
+! style=width:15em | Name !! ID
+|-
+|-
+|}
+===Diff Objects===
+{| class="wikitable sortable"
+!colspan='5'|Diff Objects
+|-
+! style=width:15em | Name !! ID !! Key !! Previous Value !! New Value
+|-
+|}

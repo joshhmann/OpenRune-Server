@@ -13,7 +13,9 @@ public fun CoordGrid.isInWildernessBasic(): Boolean {
 }
 
 private fun CoordGrid.isInWildernessSlayerCave(): Boolean =
-    level in 0..3 && x in SLAYER_CAVE_MIN_X..SLAYER_CAVE_MAX_X && z in SLAYER_CAVE_MIN_Z..SLAYER_CAVE_MAX_Z
+    level in 0..3 &&
+        x in SLAYER_CAVE_MIN_X..SLAYER_CAVE_MAX_X &&
+        z in SLAYER_CAVE_MIN_Z..SLAYER_CAVE_MAX_Z
 
 private const val SURFACE_MIN_X = 2944
 private const val SURFACE_MAX_X = 3391

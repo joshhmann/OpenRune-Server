@@ -1,0 +1,122 @@
+{{ToC}}
+==Items==
+===New Items===
+{| class="wikitable sortable"
+!colspan='11'|New Items
+|-
+! style=width:15em | Name !! ID !! Members !! Tradeable in GE !! Equipable !! Stackable !! Noteable !! Options !! Placeholder !! Cost
+|-
+| [[Bounty crate]] || [https://chisel.weirdgloop.org/moid/item_id.html#24329 24329] || Yes || No || No || No || No || Open,    Drop || Yes || 40000
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#24330 24330] || No || No || No || No || No ||     Drop || Yes || 1
+|-
+| [[Birthday cake]] || [https://chisel.weirdgloop.org/moid/item_id.html#24331 24331] || No || No || No || No || Yes || Eat, Learn-more,   Drop || No || 1
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#24332 24332] || No || No || No || No || Yes ||     Drop || No || 1
+|-
+|-
+|}
+===Removed Items===
+{| class="wikitable sortable"
+!colspan='2'|Removed Items
+|-
+! style=width:15em | Name !! ID
+|-
+|-
+|}
+===Diff Items===
+{| class="wikitable sortable"
+!colspan='5'|Diff Items
+|-
+! style=width:15em | Name !! ID !! Key !! Previous Value !! New Value
+|-
+|rowspan="2"|[[Ankou leggings]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#20104 20104]
+|-
+|name || [[Ankou's leggings]] || [[Ankou leggings]]
+|-
+|}
+
+==Non-Player Characters==
+===New NPCs===
+{| class="wikitable sortable"
+!colspan='4'|New NPCs
+|-
+! style=width:15em | Name !! ID !! Combat Level !! Options
+|-
+| [[]] || [https://chisel.weirdgloop.org/moid/npc_id.html#9306 9306] || 1 || None
+|-
+|-
+|}
+===Removed NPCs===
+{| class="wikitable sortable"
+!colspan='2'|Removed NPCs
+|-
+! style=width:15em | Name !! ID
+|-
+|-
+|}
+===Diff NPCs===
+{| class="wikitable sortable"
+!colspan='5'|Diff NPCs
+|-
+! style=width:15em | Name !! ID !! Key !! Previous Value !! New Value
+|-
+|}
+
+==Objects==
+===New Objects=== 
+{| class="wikitable sortable"
+!colspan='3'|New Objects
+|-
+! style=width:15em | Name !! ID !! Options
+|-
+| [[Hotspot marker]] || [https://chisel.weirdgloop.org/moid/object_id.html#37445 37445] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#37446 37446] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#37447 37447] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#37448 37448] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#37449 37449] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#37450 37450] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#37451 37451] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#37452 37452] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#37453 37453] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#37454 37454] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#37455 37455] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#37456 37456] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#37457 37457] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#37458 37458] || None
+|-
+| [[Fountain]] || [https://chisel.weirdgloop.org/moid/object_id.html#37459 37459] || Take-slice, Learn-more
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#37460 37460] || None
+|-
+|-
+|}
+===Removed Objects===
+{| class="wikitable sortable"
+!colspan='2'|Removed Objects
+|-
+! style=width:15em | Name !! ID
+|-
+|-
+|}
+===Diff Objects===
+{| class="wikitable sortable"
+!colspan='5'|Diff Objects
+|-
+! style=width:15em | Name !! ID !! Key !! Previous Value !! New Value
+|-
+|}

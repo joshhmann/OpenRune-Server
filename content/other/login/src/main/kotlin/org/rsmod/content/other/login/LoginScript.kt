@@ -42,7 +42,7 @@ constructor(
     private val realm: Realm,
     private val mapClock: MapClock,
     private val invisibleLevels: InvisibleLevels,
-    private val config: ServerConfig
+    private val config: ServerConfig,
 ) : PluginScript() {
     private val transmitVars by lazy { transmitVars() }
 
@@ -55,7 +55,7 @@ constructor(
     private fun Player.engineLogin() {
         sendHighPriority()
         sendLowPriority()
-        VarPlayerIntMapSetter.set(this,"varbit.player_in_instance",0)
+        VarPlayerIntMapSetter.set(this, "varbit.player_in_instance", 0)
     }
 
     private fun Player.sendHighPriority() {
@@ -77,12 +77,9 @@ constructor(
         client.write(HideObjOps(false))
     }
 
-
     private fun Player.sendWelcomeMessage() {
         val message = realm.config.loginMessage
-        message?.let {
-            mes(it.replace("RS Mod", config.name), ChatType.Welcome)
-        }
+        message?.let { mes(it.replace("RS Mod", config.name), ChatType.Welcome) }
 
         val broadcast = realm.config.loginBroadcast
         broadcast?.let { mes(it, ChatType.Broadcast) }
@@ -124,7 +121,7 @@ constructor(
 
     private fun Player.sendStats() {
         for (stat in ServerCacheManager.getStats().values) {
-            val statInternal = RSCM.getReverseMapping(RSCMType.STAT,stat.id)
+            val statInternal = RSCM.getReverseMapping(RSCMType.STAT, stat.id)
 
             val currXp = statMap.getXP(statInternal)
             val currLvl = stat(statInternal)
@@ -151,5 +148,4 @@ constructor(
     private fun transmitVars(): List<VarpServerType> {
         return ServerCacheManager.getVarps().values.filter { !it.transmit.never }.sortedBy { it.id }
     }
-
 }

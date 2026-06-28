@@ -1,0 +1,1634 @@
+__TOC__
+==Objects==
+===New Objects===
+{| class="wikitable sortable"
+|-
+! colspan="3" | New Objects
+|-
+! style="width: 15em" | name !! id !! actions
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#53226 53226][https://abextm.github.io/cache2/#/viewer/obj/53226 (1)] || [None, None, None, None, None]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#53227 53227][https://abextm.github.io/cache2/#/viewer/obj/53227 (1)] || [None, None, None, None, None]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#53228 53228][https://abextm.github.io/cache2/#/viewer/obj/53228 (1)] || [None, None, None, None, None]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#53229 53229][https://abextm.github.io/cache2/#/viewer/obj/53229 (1)] || [None, None, None, None, None]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#53230 53230][https://abextm.github.io/cache2/#/viewer/obj/53230 (1)] || [None, None, None, None, None]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#53231 53231][https://abextm.github.io/cache2/#/viewer/obj/53231 (1)] || [None, None, None, None, None]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#53232 53232][https://abextm.github.io/cache2/#/viewer/obj/53232 (1)] || [None, None, None, None, None]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#53233 53233][https://abextm.github.io/cache2/#/viewer/obj/53233 (1)] || [None, None, None, None, None]
+|}
+===Removed Objects===
+{| class="wikitable sortable"
+|-
+! colspan="3" | Removed Objects
+|-
+! style="width: 15em" | name !! id !! actions
+|}
+===Diff Objects===
+{| class="wikitable sortable sticky-header"
+|-
+! colspan="5" | Diff Objects
+|-
+! style="width: 15em" | Name !! Id !! Key !! Previous Value !! New Value
+|-
+| rowspan="2" | [[null]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#19441 19441][https://abextm.github.io/cache2/#/viewer/obj/19441 (1)]
+|-
+| multiChildren || [-1, -1, -1, <span style="color: #ee4231">19484</span>, <span style="color: #ee4231">19485</span>, <span style="color: #ee4231">19486</span>, <span style="color: #ee4231">19487</span>] || [-1, -1, -1, <span style="color: #6bc71f">53226</span>, <span style="color: #6bc71f">53227</span>, <span style="color: #6bc71f">53228</span>, <span style="color: #6bc71f">53229</span>]
+|-
+| rowspan="3" | [[null]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/object_id.html#19442 19442][https://abextm.github.io/cache2/#/viewer/obj/19442 (1)]
+|-
+| varbit || <span style="color: #ee4231">2974</span> || <span style="color: #6bc71f">2995</span>
+|-
+| multiChildren || [-1, -1, -1, <span style="color: #ee4231">19488</span>, <span style="color: #ee4231">19489</span>, <span style="color: #ee4231">19490</span>, <span style="color: #ee4231">19491</span>] || [-1, -1, -1, <span style="color: #6bc71f">53230</span>, <span style="color: #6bc71f">53231</span>, <span style="color: #6bc71f">53232</span>, <span style="color: #6bc71f">53233</span>]
+|-
+| rowspan="3" | [[null]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/object_id.html#19443 19443][https://abextm.github.io/cache2/#/viewer/obj/19443 (1)]
+|-
+| varbit || <span style="color: #ee4231">2974</span> || <span style="color: #6bc71f">2995</span>
+|-
+| multiChildren || [-1, -1, -1, <span style="color: #ee4231">19489</span>, <span style="color: #ee4231">19488</span>, <span style="color: #ee4231">19491</span>, <span style="color: #ee4231">19490</span>] || [-1, -1, -1, <span style="color: #6bc71f">53231</span>, <span style="color: #6bc71f">53230</span>, <span style="color: #6bc71f">53233</span>, <span style="color: #6bc71f">53232</span>]
+|-
+| rowspan="2" | [[null]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#19444 19444][https://abextm.github.io/cache2/#/viewer/obj/19444 (1)]
+|-
+| multiChildren || [-1, -1, -1, <span style="color: #ee4231">19484</span>, <span style="color: #ee4231">19485</span>, <span style="color: #ee4231">19486</span>, <span style="color: #ee4231">19487</span>] || [-1, -1, -1, <span style="color: #6bc71f">53226</span>, <span style="color: #6bc71f">53227</span>, <span style="color: #6bc71f">53228</span>, <span style="color: #6bc71f">53229</span>]
+|-
+| rowspan="3" | [[null]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/object_id.html#19445 19445][https://abextm.github.io/cache2/#/viewer/obj/19445 (1)]
+|-
+| varbit || <span style="color: #ee4231">2975</span> || <span style="color: #6bc71f">2996</span>
+|-
+| multiChildren || [-1, -1, -1, <span style="color: #ee4231">19488</span>, <span style="color: #ee4231">19489</span>, <span style="color: #ee4231">19490</span>, <span style="color: #ee4231">19491</span>] || [-1, -1, -1, <span style="color: #6bc71f">53230</span>, <span style="color: #6bc71f">53231</span>, <span style="color: #6bc71f">53232</span>, <span style="color: #6bc71f">53233</span>]
+|-
+| rowspan="3" | [[null]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/object_id.html#19446 19446][https://abextm.github.io/cache2/#/viewer/obj/19446 (1)]
+|-
+| varbit || <span style="color: #ee4231">2975</span> || <span style="color: #6bc71f">2996</span>
+|-
+| multiChildren || [-1, -1, -1, <span style="color: #ee4231">19489</span>, <span style="color: #ee4231">19488</span>, <span style="color: #ee4231">19491</span>, <span style="color: #ee4231">19490</span>] || [-1, -1, -1, <span style="color: #6bc71f">53231</span>, <span style="color: #6bc71f">53230</span>, <span style="color: #6bc71f">53233</span>, <span style="color: #6bc71f">53232</span>]
+|-
+| rowspan="2" | [[null]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#19447 19447][https://abextm.github.io/cache2/#/viewer/obj/19447 (1)]
+|-
+| multiChildren || [-1, -1, -1, <span style="color: #ee4231">19484</span>, <span style="color: #ee4231">19485</span>, <span style="color: #ee4231">19486</span>, <span style="color: #ee4231">19487</span>] || [-1, -1, -1, <span style="color: #6bc71f">53226</span>, <span style="color: #6bc71f">53227</span>, <span style="color: #6bc71f">53228</span>, <span style="color: #6bc71f">53229</span>]
+|-
+| rowspan="3" | [[null]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/object_id.html#19448 19448][https://abextm.github.io/cache2/#/viewer/obj/19448 (1)]
+|-
+| varbit || <span style="color: #ee4231">2976</span> || <span style="color: #6bc71f">2997</span>
+|-
+| multiChildren || [-1, -1, -1, <span style="color: #ee4231">19488</span>, <span style="color: #ee4231">19489</span>, <span style="color: #ee4231">19490</span>, <span style="color: #ee4231">19491</span>] || [-1, -1, -1, <span style="color: #6bc71f">53230</span>, <span style="color: #6bc71f">53231</span>, <span style="color: #6bc71f">53232</span>, <span style="color: #6bc71f">53233</span>]
+|-
+| rowspan="3" | [[null]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/object_id.html#19449 19449][https://abextm.github.io/cache2/#/viewer/obj/19449 (1)]
+|-
+| varbit || <span style="color: #ee4231">2976</span> || <span style="color: #6bc71f">2997</span>
+|-
+| multiChildren || [-1, -1, -1, <span style="color: #ee4231">19489</span>, <span style="color: #ee4231">19488</span>, <span style="color: #ee4231">19491</span>, <span style="color: #ee4231">19490</span>] || [-1, -1, -1, <span style="color: #6bc71f">53231</span>, <span style="color: #6bc71f">53230</span>, <span style="color: #6bc71f">53233</span>, <span style="color: #6bc71f">53232</span>]
+|-
+| rowspan="4" | [[null]]
+| rowspan="4" | [https://chisel.weirdgloop.org/moid/object_id.html#19450 19450][https://abextm.github.io/cache2/#/viewer/obj/19450 (1)]
+|-
+| animationId || <span style="color: #ee4231">5260</span> || <span style="color: #6bc71f">-1</span>
+|-
+| varbit || <span style="color: #ee4231">2977</span> || <span style="color: #6bc71f">2998</span>
+|-
+| multiChildren || [-1, -1, -1, <span style="color: #ee4231">19488</span>, <span style="color: #ee4231">19489</span>, <span style="color: #ee4231">19490</span>, <span style="color: #ee4231">19491</span>] || [-1, -1, -1, <span style="color: #6bc71f">53226</span>, <span style="color: #6bc71f">53227</span>, <span style="color: #6bc71f">53228</span>, <span style="color: #6bc71f">53229</span>]
+|-
+| rowspan="3" | [[null]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/object_id.html#19451 19451][https://abextm.github.io/cache2/#/viewer/obj/19451 (1)]
+|-
+| varbit || <span style="color: #ee4231">2977</span> || <span style="color: #6bc71f">2998</span>
+|-
+| multiChildren || [-1, -1, -1, <span style="color: #ee4231">19489</span>, <span style="color: #ee4231">19488</span>, <span style="color: #ee4231">19491</span>, <span style="color: #ee4231">19490</span>] || [-1, -1, -1, <span style="color: #6bc71f">53230</span>, <span style="color: #6bc71f">53231</span>, <span style="color: #6bc71f">53232</span>, <span style="color: #6bc71f">53233</span>]
+|-
+| rowspan="3" | [[null]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/object_id.html#19452 19452][https://abextm.github.io/cache2/#/viewer/obj/19452 (1)]
+|-
+| varbit || <span style="color: #ee4231">2978</span> || <span style="color: #6bc71f">2998</span>
+|-
+| multiChildren || [-1, -1, -1, <span style="color: #ee4231">19488</span>, <span style="color: #ee4231">19489</span>, <span style="color: #ee4231">19490</span>, <span style="color: #ee4231">19491</span>] || [-1, -1, -1, <span style="color: #6bc71f">53231</span>, <span style="color: #6bc71f">53230</span>, <span style="color: #6bc71f">53233</span>, <span style="color: #6bc71f">53232</span>]
+|-
+| rowspan="4" | [[null]]
+| rowspan="4" | [https://chisel.weirdgloop.org/moid/object_id.html#19453 19453][https://abextm.github.io/cache2/#/viewer/obj/19453 (1)]
+|-
+| animationId || <span style="color: #ee4231">5260</span> || <span style="color: #6bc71f">-1</span>
+|-
+| varbit || <span style="color: #ee4231">2978</span> || <span style="color: #6bc71f">2999</span>
+|-
+| multiChildren || [-1, -1, -1, <span style="color: #ee4231">19489</span>, <span style="color: #ee4231">19488</span>, <span style="color: #ee4231">19491</span>, <span style="color: #ee4231">19490</span>] || [-1, -1, -1, <span style="color: #6bc71f">53226</span>, <span style="color: #6bc71f">53227</span>, <span style="color: #6bc71f">53228</span>, <span style="color: #6bc71f">53229</span>]
+|-
+| rowspan="3" | [[null]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/object_id.html#19454 19454][https://abextm.github.io/cache2/#/viewer/obj/19454 (1)]
+|-
+| varbit || <span style="color: #ee4231">2979</span> || <span style="color: #6bc71f">2999</span>
+|-
+| multiChildren || [-1, -1, -1, <span style="color: #ee4231">19488</span>, <span style="color: #ee4231">19489</span>, <span style="color: #ee4231">19490</span>, <span style="color: #ee4231">19491</span>] || [-1, -1, -1, <span style="color: #6bc71f">53230</span>, <span style="color: #6bc71f">53231</span>, <span style="color: #6bc71f">53232</span>, <span style="color: #6bc71f">53233</span>]
+|-
+| rowspan="3" | [[null]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/object_id.html#19455 19455][https://abextm.github.io/cache2/#/viewer/obj/19455 (1)]
+|-
+| varbit || <span style="color: #ee4231">2979</span> || <span style="color: #6bc71f">2999</span>
+|-
+| multiChildren || [-1, -1, -1, <span style="color: #ee4231">19489</span>, <span style="color: #ee4231">19488</span>, <span style="color: #ee4231">19491</span>, <span style="color: #ee4231">19490</span>] || [-1, -1, -1, <span style="color: #6bc71f">53231</span>, <span style="color: #6bc71f">53230</span>, <span style="color: #6bc71f">53233</span>, <span style="color: #6bc71f">53232</span>]
+|-
+| rowspan="4" | [[null]]
+| rowspan="4" | [https://chisel.weirdgloop.org/moid/object_id.html#19456 19456][https://abextm.github.io/cache2/#/viewer/obj/19456 (1)]
+|-
+| animationId || <span style="color: #ee4231">5260</span> || <span style="color: #6bc71f">-1</span>
+|-
+| varbit || <span style="color: #ee4231">2980</span> || <span style="color: #6bc71f">3000</span>
+|-
+| multiChildren || [-1, -1, -1, <span style="color: #ee4231">19488</span>, <span style="color: #ee4231">19489</span>, <span style="color: #ee4231">19490</span>, <span style="color: #ee4231">19491</span>] || [-1, -1, -1, <span style="color: #6bc71f">53226</span>, <span style="color: #6bc71f">53227</span>, <span style="color: #6bc71f">53228</span>, <span style="color: #6bc71f">53229</span>]
+|-
+| rowspan="3" | [[null]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/object_id.html#19457 19457][https://abextm.github.io/cache2/#/viewer/obj/19457 (1)]
+|-
+| varbit || <span style="color: #ee4231">2980</span> || <span style="color: #6bc71f">3000</span>
+|-
+| multiChildren || [-1, -1, -1, <span style="color: #ee4231">19489</span>, <span style="color: #ee4231">19488</span>, <span style="color: #ee4231">19491</span>, <span style="color: #ee4231">19490</span>] || [-1, -1, -1, <span style="color: #6bc71f">53230</span>, <span style="color: #6bc71f">53231</span>, <span style="color: #6bc71f">53232</span>, <span style="color: #6bc71f">53233</span>]
+|-
+| rowspan="3" | [[null]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/object_id.html#19458 19458][https://abextm.github.io/cache2/#/viewer/obj/19458 (1)]
+|-
+| varbit || <span style="color: #ee4231">2981</span> || <span style="color: #6bc71f">3000</span>
+|-
+| multiChildren || [-1, -1, -1, <span style="color: #ee4231">19488</span>, <span style="color: #ee4231">19489</span>, <span style="color: #ee4231">19490</span>, <span style="color: #ee4231">19491</span>] || [-1, -1, -1, <span style="color: #6bc71f">53231</span>, <span style="color: #6bc71f">53230</span>, <span style="color: #6bc71f">53233</span>, <span style="color: #6bc71f">53232</span>]
+|-
+| rowspan="4" | [[null]]
+| rowspan="4" | [https://chisel.weirdgloop.org/moid/object_id.html#19459 19459][https://abextm.github.io/cache2/#/viewer/obj/19459 (1)]
+|-
+| animationId || <span style="color: #ee4231">5260</span> || <span style="color: #6bc71f">-1</span>
+|-
+| varbit || <span style="color: #ee4231">2981</span> || <span style="color: #6bc71f">3001</span>
+|-
+| multiChildren || [-1, -1, -1, <span style="color: #ee4231">19489</span>, <span style="color: #ee4231">19488</span>, <span style="color: #ee4231">19491</span>, <span style="color: #ee4231">19490</span>] || [-1, -1, -1, <span style="color: #6bc71f">53226</span>, <span style="color: #6bc71f">53227</span>, <span style="color: #6bc71f">53228</span>, <span style="color: #6bc71f">53229</span>]
+|-
+| rowspan="3" | [[null]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/object_id.html#19460 19460][https://abextm.github.io/cache2/#/viewer/obj/19460 (1)]
+|-
+| varbit || <span style="color: #ee4231">2982</span> || <span style="color: #6bc71f">3001</span>
+|-
+| multiChildren || [-1, -1, -1, <span style="color: #ee4231">19488</span>, <span style="color: #ee4231">19489</span>, <span style="color: #ee4231">19490</span>, <span style="color: #ee4231">19491</span>] || [-1, -1, -1, <span style="color: #6bc71f">53230</span>, <span style="color: #6bc71f">53231</span>, <span style="color: #6bc71f">53232</span>, <span style="color: #6bc71f">53233</span>]
+|-
+| rowspan="3" | [[null]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/object_id.html#19461 19461][https://abextm.github.io/cache2/#/viewer/obj/19461 (1)]
+|-
+| varbit || <span style="color: #ee4231">2982</span> || <span style="color: #6bc71f">3001</span>
+|-
+| multiChildren || [-1, -1, -1, <span style="color: #ee4231">19489</span>, <span style="color: #ee4231">19488</span>, <span style="color: #ee4231">19491</span>, <span style="color: #ee4231">19490</span>] || [-1, -1, -1, <span style="color: #6bc71f">53231</span>, <span style="color: #6bc71f">53230</span>, <span style="color: #6bc71f">53233</span>, <span style="color: #6bc71f">53232</span>]
+|-
+| rowspan="4" | [[null]]
+| rowspan="4" | [https://chisel.weirdgloop.org/moid/object_id.html#19462 19462][https://abextm.github.io/cache2/#/viewer/obj/19462 (1)]
+|-
+| animationId || <span style="color: #ee4231">5260</span> || <span style="color: #6bc71f">-1</span>
+|-
+| varbit || <span style="color: #ee4231">2983</span> || <span style="color: #6bc71f">3002</span>
+|-
+| multiChildren || [-1, -1, -1, <span style="color: #ee4231">19488</span>, <span style="color: #ee4231">19489</span>, <span style="color: #ee4231">19490</span>, <span style="color: #ee4231">19491</span>] || [-1, -1, -1, <span style="color: #6bc71f">53226</span>, <span style="color: #6bc71f">53227</span>, <span style="color: #6bc71f">53228</span>, <span style="color: #6bc71f">53229</span>]
+|-
+| rowspan="3" | [[null]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/object_id.html#19463 19463][https://abextm.github.io/cache2/#/viewer/obj/19463 (1)]
+|-
+| varbit || <span style="color: #ee4231">2983</span> || <span style="color: #6bc71f">3002</span>
+|-
+| multiChildren || [-1, -1, -1, <span style="color: #ee4231">19489</span>, <span style="color: #ee4231">19488</span>, <span style="color: #ee4231">19491</span>, <span style="color: #ee4231">19490</span>] || [-1, -1, -1, <span style="color: #6bc71f">53230</span>, <span style="color: #6bc71f">53231</span>, <span style="color: #6bc71f">53232</span>, <span style="color: #6bc71f">53233</span>]
+|-
+| rowspan="3" | [[null]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/object_id.html#19464 19464][https://abextm.github.io/cache2/#/viewer/obj/19464 (1)]
+|-
+| varbit || <span style="color: #ee4231">2985</span> || <span style="color: #6bc71f">3002</span>
+|-
+| multiChildren || [-1, -1, -1, <span style="color: #ee4231">19488</span>, <span style="color: #ee4231">19489</span>, <span style="color: #ee4231">19490</span>, <span style="color: #ee4231">19491</span>] || [-1, -1, -1, <span style="color: #6bc71f">53231</span>, <span style="color: #6bc71f">53230</span>, <span style="color: #6bc71f">53233</span>, <span style="color: #6bc71f">53232</span>]
+|-
+| rowspan="4" | [[null]]
+| rowspan="4" | [https://chisel.weirdgloop.org/moid/object_id.html#19465 19465][https://abextm.github.io/cache2/#/viewer/obj/19465 (1)]
+|-
+| animationId || <span style="color: #ee4231">5260</span> || <span style="color: #6bc71f">-1</span>
+|-
+| varbit || <span style="color: #ee4231">2985</span> || <span style="color: #6bc71f">3003</span>
+|-
+| multiChildren || [-1, -1, -1, <span style="color: #ee4231">19489</span>, <span style="color: #ee4231">19488</span>, <span style="color: #ee4231">19491</span>, <span style="color: #ee4231">19490</span>] || [-1, -1, -1, <span style="color: #6bc71f">53226</span>, <span style="color: #6bc71f">53227</span>, <span style="color: #6bc71f">53228</span>, <span style="color: #6bc71f">53229</span>]
+|-
+| rowspan="3" | [[null]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/object_id.html#19466 19466][https://abextm.github.io/cache2/#/viewer/obj/19466 (1)]
+|-
+| varbit || <span style="color: #ee4231">2986</span> || <span style="color: #6bc71f">3003</span>
+|-
+| multiChildren || [-1, -1, -1, <span style="color: #ee4231">19488</span>, <span style="color: #ee4231">19489</span>, <span style="color: #ee4231">19490</span>, <span style="color: #ee4231">19491</span>] || [-1, -1, -1, <span style="color: #6bc71f">53230</span>, <span style="color: #6bc71f">53231</span>, <span style="color: #6bc71f">53232</span>, <span style="color: #6bc71f">53233</span>]
+|-
+| rowspan="3" | [[null]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/object_id.html#19467 19467][https://abextm.github.io/cache2/#/viewer/obj/19467 (1)]
+|-
+| varbit || <span style="color: #ee4231">2986</span> || <span style="color: #6bc71f">3003</span>
+|-
+| multiChildren || [-1, -1, -1, <span style="color: #ee4231">19489</span>, <span style="color: #ee4231">19488</span>, <span style="color: #ee4231">19491</span>, <span style="color: #ee4231">19490</span>] || [-1, -1, -1, <span style="color: #6bc71f">53231</span>, <span style="color: #6bc71f">53230</span>, <span style="color: #6bc71f">53233</span>, <span style="color: #6bc71f">53232</span>]
+|-
+| rowspan="4" | [[null]]
+| rowspan="4" | [https://chisel.weirdgloop.org/moid/object_id.html#19468 19468][https://abextm.github.io/cache2/#/viewer/obj/19468 (1)]
+|-
+| animationId || <span style="color: #ee4231">5260</span> || <span style="color: #6bc71f">-1</span>
+|-
+| varbit || <span style="color: #ee4231">2987</span> || <span style="color: #6bc71f">3004</span>
+|-
+| multiChildren || [-1, -1, -1, <span style="color: #ee4231">19488</span>, <span style="color: #ee4231">19489</span>, <span style="color: #ee4231">19490</span>, <span style="color: #ee4231">19491</span>] || [-1, -1, -1, <span style="color: #6bc71f">53226</span>, <span style="color: #6bc71f">53227</span>, <span style="color: #6bc71f">53228</span>, <span style="color: #6bc71f">53229</span>]
+|-
+| rowspan="3" | [[null]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/object_id.html#19469 19469][https://abextm.github.io/cache2/#/viewer/obj/19469 (1)]
+|-
+| varbit || <span style="color: #ee4231">2987</span> || <span style="color: #6bc71f">3004</span>
+|-
+| multiChildren || [-1, -1, -1, <span style="color: #ee4231">19489</span>, <span style="color: #ee4231">19488</span>, <span style="color: #ee4231">19491</span>, <span style="color: #ee4231">19490</span>] || [-1, -1, -1, <span style="color: #6bc71f">53230</span>, <span style="color: #6bc71f">53231</span>, <span style="color: #6bc71f">53232</span>, <span style="color: #6bc71f">53233</span>]
+|-
+| rowspan="3" | [[null]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/object_id.html#19470 19470][https://abextm.github.io/cache2/#/viewer/obj/19470 (1)]
+|-
+| varbit || <span style="color: #ee4231">2988</span> || <span style="color: #6bc71f">3004</span>
+|-
+| multiChildren || [-1, -1, -1, <span style="color: #ee4231">19488</span>, <span style="color: #ee4231">19489</span>, <span style="color: #ee4231">19490</span>, <span style="color: #ee4231">19491</span>] || [-1, -1, -1, <span style="color: #6bc71f">53231</span>, <span style="color: #6bc71f">53230</span>, <span style="color: #6bc71f">53233</span>, <span style="color: #6bc71f">53232</span>]
+|-
+| rowspan="4" | [[null]]
+| rowspan="4" | [https://chisel.weirdgloop.org/moid/object_id.html#19471 19471][https://abextm.github.io/cache2/#/viewer/obj/19471 (1)]
+|-
+| animationId || <span style="color: #ee4231">5260</span> || <span style="color: #6bc71f">-1</span>
+|-
+| varbit || <span style="color: #ee4231">2988</span> || <span style="color: #6bc71f">3007</span>
+|-
+| multiChildren || [-1, -1, -1, <span style="color: #ee4231">19489</span>, <span style="color: #ee4231">19488</span>, <span style="color: #ee4231">19491</span>, <span style="color: #ee4231">19490</span>] || [-1, -1, -1, <span style="color: #6bc71f">53226</span>, <span style="color: #6bc71f">53227</span>, <span style="color: #6bc71f">53228</span>, <span style="color: #6bc71f">53229</span>]
+|-
+| rowspan="3" | [[null]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/object_id.html#19472 19472][https://abextm.github.io/cache2/#/viewer/obj/19472 (1)]
+|-
+| varbit || <span style="color: #ee4231">2989</span> || <span style="color: #6bc71f">3007</span>
+|-
+| multiChildren || [-1, -1, -1, <span style="color: #ee4231">19488</span>, <span style="color: #ee4231">19489</span>, <span style="color: #ee4231">19490</span>, <span style="color: #ee4231">19491</span>] || [-1, -1, -1, <span style="color: #6bc71f">53230</span>, <span style="color: #6bc71f">53231</span>, <span style="color: #6bc71f">53232</span>, <span style="color: #6bc71f">53233</span>]
+|-
+| rowspan="3" | [[null]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/object_id.html#19473 19473][https://abextm.github.io/cache2/#/viewer/obj/19473 (1)]
+|-
+| varbit || <span style="color: #ee4231">2989</span> || <span style="color: #6bc71f">3007</span>
+|-
+| multiChildren || [-1, -1, -1, <span style="color: #ee4231">19489</span>, <span style="color: #ee4231">19488</span>, <span style="color: #ee4231">19491</span>, <span style="color: #ee4231">19490</span>] || [-1, -1, -1, <span style="color: #6bc71f">53231</span>, <span style="color: #6bc71f">53230</span>, <span style="color: #6bc71f">53233</span>, <span style="color: #6bc71f">53232</span>]
+|-
+| rowspan="4" | [[null]]
+| rowspan="4" | [https://chisel.weirdgloop.org/moid/object_id.html#19474 19474][https://abextm.github.io/cache2/#/viewer/obj/19474 (1)]
+|-
+| animationId || <span style="color: #ee4231">5260</span> || <span style="color: #6bc71f">-1</span>
+|-
+| varbit || <span style="color: #ee4231">2990</span> || <span style="color: #6bc71f">3008</span>
+|-
+| multiChildren || [-1, -1, -1, <span style="color: #ee4231">19488</span>, <span style="color: #ee4231">19489</span>, <span style="color: #ee4231">19490</span>, <span style="color: #ee4231">19491</span>] || [-1, -1, -1, <span style="color: #6bc71f">53226</span>, <span style="color: #6bc71f">53227</span>, <span style="color: #6bc71f">53228</span>, <span style="color: #6bc71f">53229</span>]
+|-
+| rowspan="3" | [[null]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/object_id.html#19475 19475][https://abextm.github.io/cache2/#/viewer/obj/19475 (1)]
+|-
+| varbit || <span style="color: #ee4231">2990</span> || <span style="color: #6bc71f">3008</span>
+|-
+| multiChildren || [-1, -1, -1, <span style="color: #ee4231">19489</span>, <span style="color: #ee4231">19488</span>, <span style="color: #ee4231">19491</span>, <span style="color: #ee4231">19490</span>] || [-1, -1, -1, <span style="color: #6bc71f">53230</span>, <span style="color: #6bc71f">53231</span>, <span style="color: #6bc71f">53232</span>, <span style="color: #6bc71f">53233</span>]
+|-
+| rowspan="3" | [[null]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/object_id.html#19476 19476][https://abextm.github.io/cache2/#/viewer/obj/19476 (1)]
+|-
+| varbit || <span style="color: #ee4231">2991</span> || <span style="color: #6bc71f">3008</span>
+|-
+| multiChildren || [-1, -1, -1, <span style="color: #ee4231">19488</span>, <span style="color: #ee4231">19489</span>, <span style="color: #ee4231">19490</span>, <span style="color: #ee4231">19491</span>] || [-1, -1, -1, <span style="color: #6bc71f">53231</span>, <span style="color: #6bc71f">53230</span>, <span style="color: #6bc71f">53233</span>, <span style="color: #6bc71f">53232</span>]
+|-
+| rowspan="4" | [[null]]
+| rowspan="4" | [https://chisel.weirdgloop.org/moid/object_id.html#19477 19477][https://abextm.github.io/cache2/#/viewer/obj/19477 (1)]
+|-
+| animationId || <span style="color: #ee4231">5260</span> || <span style="color: #6bc71f">-1</span>
+|-
+| varbit || <span style="color: #ee4231">2991</span> || <span style="color: #6bc71f">3009</span>
+|-
+| multiChildren || [-1, -1, -1, <span style="color: #ee4231">19489</span>, <span style="color: #ee4231">19488</span>, <span style="color: #ee4231">19491</span>, <span style="color: #ee4231">19490</span>] || [-1, -1, -1, <span style="color: #6bc71f">53226</span>, <span style="color: #6bc71f">53227</span>, <span style="color: #6bc71f">53228</span>, <span style="color: #6bc71f">53229</span>]
+|-
+| rowspan="3" | [[null]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/object_id.html#19478 19478][https://abextm.github.io/cache2/#/viewer/obj/19478 (1)]
+|-
+| varbit || <span style="color: #ee4231">2992</span> || <span style="color: #6bc71f">3009</span>
+|-
+| multiChildren || [-1, -1, -1, <span style="color: #ee4231">19488</span>, <span style="color: #ee4231">19489</span>, <span style="color: #ee4231">19490</span>, <span style="color: #ee4231">19491</span>] || [-1, -1, -1, <span style="color: #6bc71f">53230</span>, <span style="color: #6bc71f">53231</span>, <span style="color: #6bc71f">53232</span>, <span style="color: #6bc71f">53233</span>]
+|-
+| rowspan="3" | [[null]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/object_id.html#19479 19479][https://abextm.github.io/cache2/#/viewer/obj/19479 (1)]
+|-
+| varbit || <span style="color: #ee4231">2992</span> || <span style="color: #6bc71f">3009</span>
+|-
+| multiChildren || [-1, -1, -1, <span style="color: #ee4231">19489</span>, <span style="color: #ee4231">19488</span>, <span style="color: #ee4231">19491</span>, <span style="color: #ee4231">19490</span>] || [-1, -1, -1, <span style="color: #6bc71f">53231</span>, <span style="color: #6bc71f">53230</span>, <span style="color: #6bc71f">53233</span>, <span style="color: #6bc71f">53232</span>]
+|-
+| rowspan="4" | [[null]]
+| rowspan="4" | [https://chisel.weirdgloop.org/moid/object_id.html#19480 19480][https://abextm.github.io/cache2/#/viewer/obj/19480 (1)]
+|-
+| animationId || <span style="color: #ee4231">5260</span> || <span style="color: #6bc71f">-1</span>
+|-
+| varbit || <span style="color: #ee4231">2993</span> || <span style="color: #6bc71f">3010</span>
+|-
+| multiChildren || [-1, -1, -1, <span style="color: #ee4231">19488</span>, <span style="color: #ee4231">19489</span>, <span style="color: #ee4231">19490</span>, <span style="color: #ee4231">19491</span>] || [-1, -1, -1, <span style="color: #6bc71f">53226</span>, <span style="color: #6bc71f">53227</span>, <span style="color: #6bc71f">53228</span>, <span style="color: #6bc71f">53229</span>]
+|-
+| rowspan="3" | [[null]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/object_id.html#19481 19481][https://abextm.github.io/cache2/#/viewer/obj/19481 (1)]
+|-
+| varbit || <span style="color: #ee4231">2993</span> || <span style="color: #6bc71f">3010</span>
+|-
+| multiChildren || [-1, -1, -1, <span style="color: #ee4231">19489</span>, <span style="color: #ee4231">19488</span>, <span style="color: #ee4231">19491</span>, <span style="color: #ee4231">19490</span>] || [-1, -1, -1, <span style="color: #6bc71f">53230</span>, <span style="color: #6bc71f">53231</span>, <span style="color: #6bc71f">53232</span>, <span style="color: #6bc71f">53233</span>]
+|-
+| rowspan="3" | [[null]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/object_id.html#19482 19482][https://abextm.github.io/cache2/#/viewer/obj/19482 (1)]
+|-
+| varbit || <span style="color: #ee4231">2994</span> || <span style="color: #6bc71f">3010</span>
+|-
+| multiChildren || [-1, -1, -1, <span style="color: #ee4231">19488</span>, <span style="color: #ee4231">19489</span>, <span style="color: #ee4231">19490</span>, <span style="color: #ee4231">19491</span>] || [-1, -1, -1, <span style="color: #6bc71f">53231</span>, <span style="color: #6bc71f">53230</span>, <span style="color: #6bc71f">53233</span>, <span style="color: #6bc71f">53232</span>]
+|-
+| rowspan="4" | [[null]]
+| rowspan="4" | [https://chisel.weirdgloop.org/moid/object_id.html#19483 19483][https://abextm.github.io/cache2/#/viewer/obj/19483 (1)]
+|-
+| animationId || <span style="color: #ee4231">5260</span> || <span style="color: #6bc71f">-1</span>
+|-
+| varbit || <span style="color: #ee4231">2994</span> || <span style="color: #6bc71f">3011</span>
+|-
+| multiChildren || [-1, -1, -1, <span style="color: #ee4231">19489</span>, <span style="color: #ee4231">19488</span>, <span style="color: #ee4231">19491</span>, <span style="color: #ee4231">19490</span>] || [-1, -1, -1, <span style="color: #6bc71f">53226</span>, <span style="color: #6bc71f">53227</span>, <span style="color: #6bc71f">53228</span>, <span style="color: #6bc71f">53229</span>]
+|-
+| rowspan="2" | [[null]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#19495 19495][https://abextm.github.io/cache2/#/viewer/obj/19495 (1)]
+|-
+| multiChildren || [-1, -1, -1, <span style="color: #ee4231">19484</span>, <span style="color: #ee4231">19485</span>, <span style="color: #ee4231">19486</span>, <span style="color: #ee4231">19487</span>] || [-1, -1, -1, <span style="color: #6bc71f">53226</span>, <span style="color: #6bc71f">53227</span>, <span style="color: #6bc71f">53228</span>, <span style="color: #6bc71f">53229</span>]
+|-
+| rowspan="3" | [[null]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/object_id.html#19496 19496][https://abextm.github.io/cache2/#/viewer/obj/19496 (1)]
+|-
+| varbit || <span style="color: #ee4231">2995</span> || <span style="color: #6bc71f">3011</span>
+|-
+| multiChildren || [-1, -1, -1, <span style="color: #ee4231">19488</span>, <span style="color: #ee4231">19489</span>, <span style="color: #ee4231">19490</span>, <span style="color: #ee4231">19491</span>] || [-1, -1, -1, <span style="color: #6bc71f">53230</span>, <span style="color: #6bc71f">53231</span>, <span style="color: #6bc71f">53232</span>, <span style="color: #6bc71f">53233</span>]
+|-
+| rowspan="3" | [[null]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/object_id.html#19497 19497][https://abextm.github.io/cache2/#/viewer/obj/19497 (1)]
+|-
+| varbit || <span style="color: #ee4231">2995</span> || <span style="color: #6bc71f">3011</span>
+|-
+| multiChildren || [-1, -1, -1, <span style="color: #ee4231">19489</span>, <span style="color: #ee4231">19488</span>, <span style="color: #ee4231">19491</span>, <span style="color: #ee4231">19490</span>] || [-1, -1, -1, <span style="color: #6bc71f">53231</span>, <span style="color: #6bc71f">53230</span>, <span style="color: #6bc71f">53233</span>, <span style="color: #6bc71f">53232</span>]
+|-
+| rowspan="2" | [[null]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#19498 19498][https://abextm.github.io/cache2/#/viewer/obj/19498 (1)]
+|-
+| multiChildren || [-1, -1, -1, <span style="color: #ee4231">19484</span>, <span style="color: #ee4231">19485</span>, <span style="color: #ee4231">19486</span>, <span style="color: #ee4231">19487</span>] || [-1, -1, -1, <span style="color: #6bc71f">53226</span>, <span style="color: #6bc71f">53227</span>, <span style="color: #6bc71f">53228</span>, <span style="color: #6bc71f">53229</span>]
+|-
+| rowspan="4" | [[null]]
+| rowspan="4" | [https://chisel.weirdgloop.org/moid/object_id.html#19499 19499][https://abextm.github.io/cache2/#/viewer/obj/19499 (1)]
+|-
+| animationId || <span style="color: #ee4231">5260</span> || <span style="color: #6bc71f">-1</span>
+|-
+| varbit || <span style="color: #ee4231">2996</span> || <span style="color: #6bc71f">3012</span>
+|-
+| multiChildren || [-1, -1, -1, <span style="color: #ee4231">19488</span>, <span style="color: #ee4231">19489</span>, <span style="color: #ee4231">19490</span>, <span style="color: #ee4231">19491</span>] || [-1, -1, -1, <span style="color: #6bc71f">53226</span>, <span style="color: #6bc71f">53227</span>, <span style="color: #6bc71f">53228</span>, <span style="color: #6bc71f">53229</span>]
+|-
+| rowspan="3" | [[null]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/object_id.html#19500 19500][https://abextm.github.io/cache2/#/viewer/obj/19500 (1)]
+|-
+| varbit || <span style="color: #ee4231">2996</span> || <span style="color: #6bc71f">3012</span>
+|-
+| multiChildren || [-1, -1, -1, <span style="color: #ee4231">19489</span>, <span style="color: #ee4231">19488</span>, <span style="color: #ee4231">19491</span>, <span style="color: #ee4231">19490</span>] || [-1, -1, -1, <span style="color: #6bc71f">53230</span>, <span style="color: #6bc71f">53231</span>, <span style="color: #6bc71f">53232</span>, <span style="color: #6bc71f">53233</span>]
+|-
+| rowspan="2" | [[null]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#19501 19501][https://abextm.github.io/cache2/#/viewer/obj/19501 (1)]
+|-
+| multiChildren || [-1, -1, -1, <span style="color: #ee4231">19484</span>, <span style="color: #ee4231">19485</span>, <span style="color: #ee4231">19486</span>, <span style="color: #ee4231">19487</span>] || [-1, -1, -1, <span style="color: #6bc71f">53226</span>, <span style="color: #6bc71f">53227</span>, <span style="color: #6bc71f">53228</span>, <span style="color: #6bc71f">53229</span>]
+|-
+| rowspan="3" | [[null]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/object_id.html#19502 19502][https://abextm.github.io/cache2/#/viewer/obj/19502 (1)]
+|-
+| varbit || <span style="color: #ee4231">2997</span> || <span style="color: #6bc71f">3012</span>
+|-
+| multiChildren || [-1, -1, -1, <span style="color: #ee4231">19488</span>, <span style="color: #ee4231">19489</span>, <span style="color: #ee4231">19490</span>, <span style="color: #ee4231">19491</span>] || [-1, -1, -1, <span style="color: #6bc71f">53231</span>, <span style="color: #6bc71f">53230</span>, <span style="color: #6bc71f">53233</span>, <span style="color: #6bc71f">53232</span>]
+|-
+| rowspan="4" | [[null]]
+| rowspan="4" | [https://chisel.weirdgloop.org/moid/object_id.html#19503 19503][https://abextm.github.io/cache2/#/viewer/obj/19503 (1)]
+|-
+| animationId || <span style="color: #ee4231">5260</span> || <span style="color: #6bc71f">-1</span>
+|-
+| varbit || <span style="color: #ee4231">2997</span> || <span style="color: #6bc71f">3013</span>
+|-
+| multiChildren || [-1, -1, -1, <span style="color: #ee4231">19489</span>, <span style="color: #ee4231">19488</span>, <span style="color: #ee4231">19491</span>, <span style="color: #ee4231">19490</span>] || [-1, -1, -1, <span style="color: #6bc71f">53226</span>, <span style="color: #6bc71f">53227</span>, <span style="color: #6bc71f">53228</span>, <span style="color: #6bc71f">53229</span>]
+|-
+| rowspan="4" | [[null]]
+| rowspan="4" | [https://chisel.weirdgloop.org/moid/object_id.html#19504 19504][https://abextm.github.io/cache2/#/viewer/obj/19504 (1)]
+|-
+| animationId || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">5260</span>
+|-
+| varbit || <span style="color: #ee4231">2998</span> || <span style="color: #6bc71f">3013</span>
+|-
+| multiChildren || [-1, -1, -1, <span style="color: #ee4231">19484</span>, <span style="color: #ee4231">19485</span>, <span style="color: #ee4231">19486</span>, <span style="color: #ee4231">19487</span>] || [-1, -1, -1, <span style="color: #6bc71f">53230</span>, <span style="color: #6bc71f">53231</span>, <span style="color: #6bc71f">53232</span>, <span style="color: #6bc71f">53233</span>]
+|-
+| rowspan="3" | [[null]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/object_id.html#19505 19505][https://abextm.github.io/cache2/#/viewer/obj/19505 (1)]
+|-
+| varbit || <span style="color: #ee4231">2998</span> || <span style="color: #6bc71f">3013</span>
+|-
+| multiChildren || [-1, -1, -1, <span style="color: #ee4231">19488</span>, <span style="color: #ee4231">19489</span>, <span style="color: #ee4231">19490</span>, <span style="color: #ee4231">19491</span>] || [-1, -1, -1, <span style="color: #6bc71f">53231</span>, <span style="color: #6bc71f">53230</span>, <span style="color: #6bc71f">53233</span>, <span style="color: #6bc71f">53232</span>]
+|-
+| rowspan="4" | [[null]]
+| rowspan="4" | [https://chisel.weirdgloop.org/moid/object_id.html#19506 19506][https://abextm.github.io/cache2/#/viewer/obj/19506 (1)]
+|-
+| animationId || <span style="color: #ee4231">5260</span> || <span style="color: #6bc71f">-1</span>
+|-
+| varbit || <span style="color: #ee4231">2998</span> || <span style="color: #6bc71f">3016</span>
+|-
+| multiChildren || [-1, -1, -1, <span style="color: #ee4231">19489</span>, <span style="color: #ee4231">19488</span>, <span style="color: #ee4231">19491</span>, <span style="color: #ee4231">19490</span>] || [-1, -1, -1, <span style="color: #6bc71f">53226</span>, <span style="color: #6bc71f">53227</span>, <span style="color: #6bc71f">53228</span>, <span style="color: #6bc71f">53229</span>]
+|-
+| rowspan="4" | [[null]]
+| rowspan="4" | [https://chisel.weirdgloop.org/moid/object_id.html#19507 19507][https://abextm.github.io/cache2/#/viewer/obj/19507 (1)]
+|-
+| animationId || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">5260</span>
+|-
+| varbit || <span style="color: #ee4231">2999</span> || <span style="color: #6bc71f">3016</span>
+|-
+| multiChildren || [-1, -1, -1, <span style="color: #ee4231">19484</span>, <span style="color: #ee4231">19485</span>, <span style="color: #ee4231">19486</span>, <span style="color: #ee4231">19487</span>] || [-1, -1, -1, <span style="color: #6bc71f">53230</span>, <span style="color: #6bc71f">53231</span>, <span style="color: #6bc71f">53232</span>, <span style="color: #6bc71f">53233</span>]
+|-
+| rowspan="3" | [[null]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/object_id.html#19508 19508][https://abextm.github.io/cache2/#/viewer/obj/19508 (1)]
+|-
+| varbit || <span style="color: #ee4231">2999</span> || <span style="color: #6bc71f">3016</span>
+|-
+| multiChildren || [-1, -1, -1, <span style="color: #ee4231">19488</span>, <span style="color: #ee4231">19489</span>, <span style="color: #ee4231">19490</span>, <span style="color: #ee4231">19491</span>] || [-1, -1, -1, <span style="color: #6bc71f">53231</span>, <span style="color: #6bc71f">53230</span>, <span style="color: #6bc71f">53233</span>, <span style="color: #6bc71f">53232</span>]
+|-
+| rowspan="4" | [[null]]
+| rowspan="4" | [https://chisel.weirdgloop.org/moid/object_id.html#19509 19509][https://abextm.github.io/cache2/#/viewer/obj/19509 (1)]
+|-
+| animationId || <span style="color: #ee4231">5260</span> || <span style="color: #6bc71f">-1</span>
+|-
+| varbit || <span style="color: #ee4231">2999</span> || <span style="color: #6bc71f">3017</span>
+|-
+| multiChildren || [-1, -1, -1, <span style="color: #ee4231">19489</span>, <span style="color: #ee4231">19488</span>, <span style="color: #ee4231">19491</span>, <span style="color: #ee4231">19490</span>] || [-1, -1, -1, <span style="color: #6bc71f">53226</span>, <span style="color: #6bc71f">53227</span>, <span style="color: #6bc71f">53228</span>, <span style="color: #6bc71f">53229</span>]
+|-
+| rowspan="4" | [[null]]
+| rowspan="4" | [https://chisel.weirdgloop.org/moid/object_id.html#19510 19510][https://abextm.github.io/cache2/#/viewer/obj/19510 (1)]
+|-
+| animationId || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">5260</span>
+|-
+| varbit || <span style="color: #ee4231">3000</span> || <span style="color: #6bc71f">3016</span>
+|-
+| multiChildren || [-1, -1, -1, <span style="color: #ee4231">19484</span>, <span style="color: #ee4231">19485</span>, <span style="color: #ee4231">19486</span>, <span style="color: #ee4231">19487</span>] || [-1, -1, -1, <span style="color: #6bc71f">53230</span>, <span style="color: #6bc71f">53231</span>, <span style="color: #6bc71f">53232</span>, <span style="color: #6bc71f">53233</span>]
+|-
+| rowspan="3" | [[null]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/object_id.html#19511 19511][https://abextm.github.io/cache2/#/viewer/obj/19511 (1)]
+|-
+| varbit || <span style="color: #ee4231">3000</span> || <span style="color: #6bc71f">3016</span>
+|-
+| multiChildren || [-1, -1, -1, <span style="color: #ee4231">19488</span>, <span style="color: #ee4231">19489</span>, <span style="color: #ee4231">19490</span>, <span style="color: #ee4231">19491</span>] || [-1, -1, -1, <span style="color: #6bc71f">53231</span>, <span style="color: #6bc71f">53230</span>, <span style="color: #6bc71f">53233</span>, <span style="color: #6bc71f">53232</span>]
+|-
+| rowspan="3" | [[null]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/object_id.html#19512 19512][https://abextm.github.io/cache2/#/viewer/obj/19512 (1)]
+|-
+| varbit || <span style="color: #ee4231">3000</span> || <span style="color: #6bc71f">2974</span>
+|-
+| multiChildren || [-1, -1, -1, <span style="color: #ee4231">19489</span>, <span style="color: #ee4231">19488</span>, <span style="color: #ee4231">19491</span>, <span style="color: #ee4231">19490</span>] || [-1, -1, -1, <span style="color: #6bc71f">53230</span>, <span style="color: #6bc71f">53231</span>, <span style="color: #6bc71f">53232</span>, <span style="color: #6bc71f">53233</span>]
+|-
+| rowspan="4" | [[null]]
+| rowspan="4" | [https://chisel.weirdgloop.org/moid/object_id.html#19513 19513][https://abextm.github.io/cache2/#/viewer/obj/19513 (1)]
+|-
+| animationId || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">5260</span>
+|-
+| varbit || <span style="color: #ee4231">3001</span> || <span style="color: #6bc71f">2974</span>
+|-
+| multiChildren || [-1, -1, -1, <span style="color: #ee4231">19484</span>, <span style="color: #ee4231">19485</span>, <span style="color: #ee4231">19486</span>, <span style="color: #ee4231">19487</span>] || [-1, -1, -1, <span style="color: #6bc71f">53231</span>, <span style="color: #6bc71f">53230</span>, <span style="color: #6bc71f">53233</span>, <span style="color: #6bc71f">53232</span>]
+|-
+| rowspan="3" | [[null]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/object_id.html#19514 19514][https://abextm.github.io/cache2/#/viewer/obj/19514 (1)]
+|-
+| varbit || <span style="color: #ee4231">3001</span> || <span style="color: #6bc71f">2975</span>
+|-
+| multiChildren || [-1, -1, -1, <span style="color: #ee4231">19488</span>, <span style="color: #ee4231">19489</span>, <span style="color: #ee4231">19490</span>, <span style="color: #ee4231">19491</span>] || [-1, -1, -1, <span style="color: #6bc71f">53230</span>, <span style="color: #6bc71f">53231</span>, <span style="color: #6bc71f">53232</span>, <span style="color: #6bc71f">53233</span>]
+|-
+| rowspan="3" | [[null]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/object_id.html#19515 19515][https://abextm.github.io/cache2/#/viewer/obj/19515 (1)]
+|-
+| varbit || <span style="color: #ee4231">3001</span> || <span style="color: #6bc71f">2975</span>
+|-
+| multiChildren || [-1, -1, -1, <span style="color: #ee4231">19489</span>, <span style="color: #ee4231">19488</span>, <span style="color: #ee4231">19491</span>, <span style="color: #ee4231">19490</span>] || [-1, -1, -1, <span style="color: #6bc71f">53231</span>, <span style="color: #6bc71f">53230</span>, <span style="color: #6bc71f">53233</span>, <span style="color: #6bc71f">53232</span>]
+|-
+| rowspan="4" | [[null]]
+| rowspan="4" | [https://chisel.weirdgloop.org/moid/object_id.html#19516 19516][https://abextm.github.io/cache2/#/viewer/obj/19516 (1)]
+|-
+| animationId || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">5260</span>
+|-
+| varbit || <span style="color: #ee4231">3002</span> || <span style="color: #6bc71f">2976</span>
+|-
+| multiChildren || [-1, -1, -1, <span style="color: #ee4231">19484</span>, <span style="color: #ee4231">19485</span>, <span style="color: #ee4231">19486</span>, <span style="color: #ee4231">19487</span>] || [-1, -1, -1, <span style="color: #6bc71f">53230</span>, <span style="color: #6bc71f">53231</span>, <span style="color: #6bc71f">53232</span>, <span style="color: #6bc71f">53233</span>]
+|-
+| rowspan="3" | [[null]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/object_id.html#19517 19517][https://abextm.github.io/cache2/#/viewer/obj/19517 (1)]
+|-
+| varbit || <span style="color: #ee4231">3002</span> || <span style="color: #6bc71f">2976</span>
+|-
+| multiChildren || [-1, -1, -1, <span style="color: #ee4231">19488</span>, <span style="color: #ee4231">19489</span>, <span style="color: #ee4231">19490</span>, <span style="color: #ee4231">19491</span>] || [-1, -1, -1, <span style="color: #6bc71f">53231</span>, <span style="color: #6bc71f">53230</span>, <span style="color: #6bc71f">53233</span>, <span style="color: #6bc71f">53232</span>]
+|-
+| rowspan="4" | [[null]]
+| rowspan="4" | [https://chisel.weirdgloop.org/moid/object_id.html#19518 19518][https://abextm.github.io/cache2/#/viewer/obj/19518 (1)]
+|-
+| animationId || <span style="color: #ee4231">5260</span> || <span style="color: #6bc71f">-1</span>
+|-
+| varbit || <span style="color: #ee4231">3002</span> || <span style="color: #6bc71f">2977</span>
+|-
+| multiChildren || [-1, -1, -1, <span style="color: #ee4231">19489</span>, <span style="color: #ee4231">19488</span>, <span style="color: #ee4231">19491</span>, <span style="color: #ee4231">19490</span>] || [-1, -1, -1, <span style="color: #6bc71f">53226</span>, <span style="color: #6bc71f">53227</span>, <span style="color: #6bc71f">53228</span>, <span style="color: #6bc71f">53229</span>]
+|-
+| rowspan="4" | [[null]]
+| rowspan="4" | [https://chisel.weirdgloop.org/moid/object_id.html#19519 19519][https://abextm.github.io/cache2/#/viewer/obj/19519 (1)]
+|-
+| animationId || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">5260</span>
+|-
+| varbit || <span style="color: #ee4231">3003</span> || <span style="color: #6bc71f">2977</span>
+|-
+| multiChildren || [-1, -1, -1, <span style="color: #ee4231">19484</span>, <span style="color: #ee4231">19485</span>, <span style="color: #ee4231">19486</span>, <span style="color: #ee4231">19487</span>] || [-1, -1, -1, <span style="color: #6bc71f">53230</span>, <span style="color: #6bc71f">53231</span>, <span style="color: #6bc71f">53232</span>, <span style="color: #6bc71f">53233</span>]
+|-
+| rowspan="3" | [[null]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/object_id.html#19520 19520][https://abextm.github.io/cache2/#/viewer/obj/19520 (1)]
+|-
+| varbit || <span style="color: #ee4231">3003</span> || <span style="color: #6bc71f">2977</span>
+|-
+| multiChildren || [-1, -1, -1, <span style="color: #ee4231">19488</span>, <span style="color: #ee4231">19489</span>, <span style="color: #ee4231">19490</span>, <span style="color: #ee4231">19491</span>] || [-1, -1, -1, <span style="color: #6bc71f">53231</span>, <span style="color: #6bc71f">53230</span>, <span style="color: #6bc71f">53233</span>, <span style="color: #6bc71f">53232</span>]
+|-
+| rowspan="4" | [[null]]
+| rowspan="4" | [https://chisel.weirdgloop.org/moid/object_id.html#19521 19521][https://abextm.github.io/cache2/#/viewer/obj/19521 (1)]
+|-
+| animationId || <span style="color: #ee4231">5260</span> || <span style="color: #6bc71f">-1</span>
+|-
+| varbit || <span style="color: #ee4231">3003</span> || <span style="color: #6bc71f">2978</span>
+|-
+| multiChildren || [-1, -1, -1, <span style="color: #ee4231">19489</span>, <span style="color: #ee4231">19488</span>, <span style="color: #ee4231">19491</span>, <span style="color: #ee4231">19490</span>] || [-1, -1, -1, <span style="color: #6bc71f">53226</span>, <span style="color: #6bc71f">53227</span>, <span style="color: #6bc71f">53228</span>, <span style="color: #6bc71f">53229</span>]
+|-
+| rowspan="4" | [[null]]
+| rowspan="4" | [https://chisel.weirdgloop.org/moid/object_id.html#19522 19522][https://abextm.github.io/cache2/#/viewer/obj/19522 (1)]
+|-
+| animationId || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">5260</span>
+|-
+| varbit || <span style="color: #ee4231">3004</span> || <span style="color: #6bc71f">2978</span>
+|-
+| multiChildren || [-1, -1, -1, <span style="color: #ee4231">19484</span>, <span style="color: #ee4231">19485</span>, <span style="color: #ee4231">19486</span>, <span style="color: #ee4231">19487</span>] || [-1, -1, -1, <span style="color: #6bc71f">53230</span>, <span style="color: #6bc71f">53231</span>, <span style="color: #6bc71f">53232</span>, <span style="color: #6bc71f">53233</span>]
+|-
+| rowspan="3" | [[null]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/object_id.html#19523 19523][https://abextm.github.io/cache2/#/viewer/obj/19523 (1)]
+|-
+| varbit || <span style="color: #ee4231">3004</span> || <span style="color: #6bc71f">2978</span>
+|-
+| multiChildren || [-1, -1, -1, <span style="color: #ee4231">19488</span>, <span style="color: #ee4231">19489</span>, <span style="color: #ee4231">19490</span>, <span style="color: #ee4231">19491</span>] || [-1, -1, -1, <span style="color: #6bc71f">53231</span>, <span style="color: #6bc71f">53230</span>, <span style="color: #6bc71f">53233</span>, <span style="color: #6bc71f">53232</span>]
+|-
+| rowspan="4" | [[null]]
+| rowspan="4" | [https://chisel.weirdgloop.org/moid/object_id.html#19524 19524][https://abextm.github.io/cache2/#/viewer/obj/19524 (1)]
+|-
+| animationId || <span style="color: #ee4231">5260</span> || <span style="color: #6bc71f">-1</span>
+|-
+| varbit || <span style="color: #ee4231">3004</span> || <span style="color: #6bc71f">2979</span>
+|-
+| multiChildren || [-1, -1, -1, <span style="color: #ee4231">19489</span>, <span style="color: #ee4231">19488</span>, <span style="color: #ee4231">19491</span>, <span style="color: #ee4231">19490</span>] || [-1, -1, -1, <span style="color: #6bc71f">53226</span>, <span style="color: #6bc71f">53227</span>, <span style="color: #6bc71f">53228</span>, <span style="color: #6bc71f">53229</span>]
+|-
+| rowspan="4" | [[null]]
+| rowspan="4" | [https://chisel.weirdgloop.org/moid/object_id.html#19525 19525][https://abextm.github.io/cache2/#/viewer/obj/19525 (1)]
+|-
+| animationId || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">5260</span>
+|-
+| varbit || <span style="color: #ee4231">3007</span> || <span style="color: #6bc71f">2979</span>
+|-
+| multiChildren || [-1, -1, -1, <span style="color: #ee4231">19484</span>, <span style="color: #ee4231">19485</span>, <span style="color: #ee4231">19486</span>, <span style="color: #ee4231">19487</span>] || [-1, -1, -1, <span style="color: #6bc71f">53230</span>, <span style="color: #6bc71f">53231</span>, <span style="color: #6bc71f">53232</span>, <span style="color: #6bc71f">53233</span>]
+|-
+| rowspan="3" | [[null]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/object_id.html#19526 19526][https://abextm.github.io/cache2/#/viewer/obj/19526 (1)]
+|-
+| varbit || <span style="color: #ee4231">3007</span> || <span style="color: #6bc71f">2979</span>
+|-
+| multiChildren || [-1, -1, -1, <span style="color: #ee4231">19488</span>, <span style="color: #ee4231">19489</span>, <span style="color: #ee4231">19490</span>, <span style="color: #ee4231">19491</span>] || [-1, -1, -1, <span style="color: #6bc71f">53231</span>, <span style="color: #6bc71f">53230</span>, <span style="color: #6bc71f">53233</span>, <span style="color: #6bc71f">53232</span>]
+|-
+| rowspan="4" | [[null]]
+| rowspan="4" | [https://chisel.weirdgloop.org/moid/object_id.html#19527 19527][https://abextm.github.io/cache2/#/viewer/obj/19527 (1)]
+|-
+| animationId || <span style="color: #ee4231">5260</span> || <span style="color: #6bc71f">-1</span>
+|-
+| varbit || <span style="color: #ee4231">3007</span> || <span style="color: #6bc71f">2980</span>
+|-
+| multiChildren || [-1, -1, -1, <span style="color: #ee4231">19489</span>, <span style="color: #ee4231">19488</span>, <span style="color: #ee4231">19491</span>, <span style="color: #ee4231">19490</span>] || [-1, -1, -1, <span style="color: #6bc71f">53226</span>, <span style="color: #6bc71f">53227</span>, <span style="color: #6bc71f">53228</span>, <span style="color: #6bc71f">53229</span>]
+|-
+| rowspan="4" | [[null]]
+| rowspan="4" | [https://chisel.weirdgloop.org/moid/object_id.html#19528 19528][https://abextm.github.io/cache2/#/viewer/obj/19528 (1)]
+|-
+| animationId || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">5260</span>
+|-
+| varbit || <span style="color: #ee4231">3008</span> || <span style="color: #6bc71f">2980</span>
+|-
+| multiChildren || [-1, -1, -1, <span style="color: #ee4231">19484</span>, <span style="color: #ee4231">19485</span>, <span style="color: #ee4231">19486</span>, <span style="color: #ee4231">19487</span>] || [-1, -1, -1, <span style="color: #6bc71f">53230</span>, <span style="color: #6bc71f">53231</span>, <span style="color: #6bc71f">53232</span>, <span style="color: #6bc71f">53233</span>]
+|-
+| rowspan="3" | [[null]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/object_id.html#19529 19529][https://abextm.github.io/cache2/#/viewer/obj/19529 (1)]
+|-
+| varbit || <span style="color: #ee4231">3008</span> || <span style="color: #6bc71f">2980</span>
+|-
+| multiChildren || [-1, -1, -1, <span style="color: #ee4231">19488</span>, <span style="color: #ee4231">19489</span>, <span style="color: #ee4231">19490</span>, <span style="color: #ee4231">19491</span>] || [-1, -1, -1, <span style="color: #6bc71f">53231</span>, <span style="color: #6bc71f">53230</span>, <span style="color: #6bc71f">53233</span>, <span style="color: #6bc71f">53232</span>]
+|-
+| rowspan="4" | [[null]]
+| rowspan="4" | [https://chisel.weirdgloop.org/moid/object_id.html#19530 19530][https://abextm.github.io/cache2/#/viewer/obj/19530 (1)]
+|-
+| animationId || <span style="color: #ee4231">5260</span> || <span style="color: #6bc71f">-1</span>
+|-
+| varbit || <span style="color: #ee4231">3008</span> || <span style="color: #6bc71f">2981</span>
+|-
+| multiChildren || [-1, -1, -1, <span style="color: #ee4231">19489</span>, <span style="color: #ee4231">19488</span>, <span style="color: #ee4231">19491</span>, <span style="color: #ee4231">19490</span>] || [-1, -1, -1, <span style="color: #6bc71f">53226</span>, <span style="color: #6bc71f">53227</span>, <span style="color: #6bc71f">53228</span>, <span style="color: #6bc71f">53229</span>]
+|-
+| rowspan="4" | [[null]]
+| rowspan="4" | [https://chisel.weirdgloop.org/moid/object_id.html#19531 19531][https://abextm.github.io/cache2/#/viewer/obj/19531 (1)]
+|-
+| animationId || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">5260</span>
+|-
+| varbit || <span style="color: #ee4231">3009</span> || <span style="color: #6bc71f">2981</span>
+|-
+| multiChildren || [-1, -1, -1, <span style="color: #ee4231">19484</span>, <span style="color: #ee4231">19485</span>, <span style="color: #ee4231">19486</span>, <span style="color: #ee4231">19487</span>] || [-1, -1, -1, <span style="color: #6bc71f">53230</span>, <span style="color: #6bc71f">53231</span>, <span style="color: #6bc71f">53232</span>, <span style="color: #6bc71f">53233</span>]
+|-
+| rowspan="3" | [[null]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/object_id.html#19532 19532][https://abextm.github.io/cache2/#/viewer/obj/19532 (1)]
+|-
+| varbit || <span style="color: #ee4231">3009</span> || <span style="color: #6bc71f">2981</span>
+|-
+| multiChildren || [-1, -1, -1, <span style="color: #ee4231">19488</span>, <span style="color: #ee4231">19489</span>, <span style="color: #ee4231">19490</span>, <span style="color: #ee4231">19491</span>] || [-1, -1, -1, <span style="color: #6bc71f">53231</span>, <span style="color: #6bc71f">53230</span>, <span style="color: #6bc71f">53233</span>, <span style="color: #6bc71f">53232</span>]
+|-
+| rowspan="4" | [[null]]
+| rowspan="4" | [https://chisel.weirdgloop.org/moid/object_id.html#19533 19533][https://abextm.github.io/cache2/#/viewer/obj/19533 (1)]
+|-
+| animationId || <span style="color: #ee4231">5260</span> || <span style="color: #6bc71f">-1</span>
+|-
+| varbit || <span style="color: #ee4231">3009</span> || <span style="color: #6bc71f">2982</span>
+|-
+| multiChildren || [-1, -1, -1, <span style="color: #ee4231">19489</span>, <span style="color: #ee4231">19488</span>, <span style="color: #ee4231">19491</span>, <span style="color: #ee4231">19490</span>] || [-1, -1, -1, <span style="color: #6bc71f">53226</span>, <span style="color: #6bc71f">53227</span>, <span style="color: #6bc71f">53228</span>, <span style="color: #6bc71f">53229</span>]
+|-
+| rowspan="4" | [[null]]
+| rowspan="4" | [https://chisel.weirdgloop.org/moid/object_id.html#19534 19534][https://abextm.github.io/cache2/#/viewer/obj/19534 (1)]
+|-
+| animationId || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">5260</span>
+|-
+| varbit || <span style="color: #ee4231">3010</span> || <span style="color: #6bc71f">2982</span>
+|-
+| multiChildren || [-1, -1, -1, <span style="color: #ee4231">19484</span>, <span style="color: #ee4231">19485</span>, <span style="color: #ee4231">19486</span>, <span style="color: #ee4231">19487</span>] || [-1, -1, -1, <span style="color: #6bc71f">53230</span>, <span style="color: #6bc71f">53231</span>, <span style="color: #6bc71f">53232</span>, <span style="color: #6bc71f">53233</span>]
+|-
+| rowspan="3" | [[null]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/object_id.html#19535 19535][https://abextm.github.io/cache2/#/viewer/obj/19535 (1)]
+|-
+| varbit || <span style="color: #ee4231">3010</span> || <span style="color: #6bc71f">2982</span>
+|-
+| multiChildren || [-1, -1, -1, <span style="color: #ee4231">19488</span>, <span style="color: #ee4231">19489</span>, <span style="color: #ee4231">19490</span>, <span style="color: #ee4231">19491</span>] || [-1, -1, -1, <span style="color: #6bc71f">53231</span>, <span style="color: #6bc71f">53230</span>, <span style="color: #6bc71f">53233</span>, <span style="color: #6bc71f">53232</span>]
+|-
+| rowspan="4" | [[null]]
+| rowspan="4" | [https://chisel.weirdgloop.org/moid/object_id.html#19536 19536][https://abextm.github.io/cache2/#/viewer/obj/19536 (1)]
+|-
+| animationId || <span style="color: #ee4231">5260</span> || <span style="color: #6bc71f">-1</span>
+|-
+| varbit || <span style="color: #ee4231">3010</span> || <span style="color: #6bc71f">2983</span>
+|-
+| multiChildren || [-1, -1, -1, <span style="color: #ee4231">19489</span>, <span style="color: #ee4231">19488</span>, <span style="color: #ee4231">19491</span>, <span style="color: #ee4231">19490</span>] || [-1, -1, -1, <span style="color: #6bc71f">53226</span>, <span style="color: #6bc71f">53227</span>, <span style="color: #6bc71f">53228</span>, <span style="color: #6bc71f">53229</span>]
+|-
+| rowspan="4" | [[null]]
+| rowspan="4" | [https://chisel.weirdgloop.org/moid/object_id.html#19537 19537][https://abextm.github.io/cache2/#/viewer/obj/19537 (1)]
+|-
+| animationId || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">5260</span>
+|-
+| varbit || <span style="color: #ee4231">3011</span> || <span style="color: #6bc71f">2983</span>
+|-
+| multiChildren || [-1, -1, -1, <span style="color: #ee4231">19484</span>, <span style="color: #ee4231">19485</span>, <span style="color: #ee4231">19486</span>, <span style="color: #ee4231">19487</span>] || [-1, -1, -1, <span style="color: #6bc71f">53230</span>, <span style="color: #6bc71f">53231</span>, <span style="color: #6bc71f">53232</span>, <span style="color: #6bc71f">53233</span>]
+|-
+| rowspan="3" | [[null]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/object_id.html#19538 19538][https://abextm.github.io/cache2/#/viewer/obj/19538 (1)]
+|-
+| varbit || <span style="color: #ee4231">3011</span> || <span style="color: #6bc71f">2983</span>
+|-
+| multiChildren || [-1, -1, -1, <span style="color: #ee4231">19488</span>, <span style="color: #ee4231">19489</span>, <span style="color: #ee4231">19490</span>, <span style="color: #ee4231">19491</span>] || [-1, -1, -1, <span style="color: #6bc71f">53231</span>, <span style="color: #6bc71f">53230</span>, <span style="color: #6bc71f">53233</span>, <span style="color: #6bc71f">53232</span>]
+|-
+| rowspan="4" | [[null]]
+| rowspan="4" | [https://chisel.weirdgloop.org/moid/object_id.html#19539 19539][https://abextm.github.io/cache2/#/viewer/obj/19539 (1)]
+|-
+| animationId || <span style="color: #ee4231">5260</span> || <span style="color: #6bc71f">-1</span>
+|-
+| varbit || <span style="color: #ee4231">3011</span> || <span style="color: #6bc71f">2985</span>
+|-
+| multiChildren || [-1, -1, -1, <span style="color: #ee4231">19489</span>, <span style="color: #ee4231">19488</span>, <span style="color: #ee4231">19491</span>, <span style="color: #ee4231">19490</span>] || [-1, -1, -1, <span style="color: #6bc71f">53226</span>, <span style="color: #6bc71f">53227</span>, <span style="color: #6bc71f">53228</span>, <span style="color: #6bc71f">53229</span>]
+|-
+| rowspan="4" | [[null]]
+| rowspan="4" | [https://chisel.weirdgloop.org/moid/object_id.html#19540 19540][https://abextm.github.io/cache2/#/viewer/obj/19540 (1)]
+|-
+| animationId || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">5260</span>
+|-
+| varbit || <span style="color: #ee4231">3012</span> || <span style="color: #6bc71f">2985</span>
+|-
+| multiChildren || [-1, -1, -1, <span style="color: #ee4231">19484</span>, <span style="color: #ee4231">19485</span>, <span style="color: #ee4231">19486</span>, <span style="color: #ee4231">19487</span>] || [-1, -1, -1, <span style="color: #6bc71f">53230</span>, <span style="color: #6bc71f">53231</span>, <span style="color: #6bc71f">53232</span>, <span style="color: #6bc71f">53233</span>]
+|-
+| rowspan="3" | [[null]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/object_id.html#19541 19541][https://abextm.github.io/cache2/#/viewer/obj/19541 (1)]
+|-
+| varbit || <span style="color: #ee4231">3012</span> || <span style="color: #6bc71f">2985</span>
+|-
+| multiChildren || [-1, -1, -1, <span style="color: #ee4231">19488</span>, <span style="color: #ee4231">19489</span>, <span style="color: #ee4231">19490</span>, <span style="color: #ee4231">19491</span>] || [-1, -1, -1, <span style="color: #6bc71f">53231</span>, <span style="color: #6bc71f">53230</span>, <span style="color: #6bc71f">53233</span>, <span style="color: #6bc71f">53232</span>]
+|-
+| rowspan="4" | [[null]]
+| rowspan="4" | [https://chisel.weirdgloop.org/moid/object_id.html#19542 19542][https://abextm.github.io/cache2/#/viewer/obj/19542 (1)]
+|-
+| animationId || <span style="color: #ee4231">5260</span> || <span style="color: #6bc71f">-1</span>
+|-
+| varbit || <span style="color: #ee4231">3012</span> || <span style="color: #6bc71f">2986</span>
+|-
+| multiChildren || [-1, -1, -1, <span style="color: #ee4231">19489</span>, <span style="color: #ee4231">19488</span>, <span style="color: #ee4231">19491</span>, <span style="color: #ee4231">19490</span>] || [-1, -1, -1, <span style="color: #6bc71f">53226</span>, <span style="color: #6bc71f">53227</span>, <span style="color: #6bc71f">53228</span>, <span style="color: #6bc71f">53229</span>]
+|-
+| rowspan="4" | [[null]]
+| rowspan="4" | [https://chisel.weirdgloop.org/moid/object_id.html#19543 19543][https://abextm.github.io/cache2/#/viewer/obj/19543 (1)]
+|-
+| animationId || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">5260</span>
+|-
+| varbit || <span style="color: #ee4231">3013</span> || <span style="color: #6bc71f">2986</span>
+|-
+| multiChildren || [-1, -1, -1, <span style="color: #ee4231">19484</span>, <span style="color: #ee4231">19485</span>, <span style="color: #ee4231">19486</span>, <span style="color: #ee4231">19487</span>] || [-1, -1, -1, <span style="color: #6bc71f">53230</span>, <span style="color: #6bc71f">53231</span>, <span style="color: #6bc71f">53232</span>, <span style="color: #6bc71f">53233</span>]
+|-
+| rowspan="3" | [[null]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/object_id.html#19544 19544][https://abextm.github.io/cache2/#/viewer/obj/19544 (1)]
+|-
+| varbit || <span style="color: #ee4231">3013</span> || <span style="color: #6bc71f">2986</span>
+|-
+| multiChildren || [-1, -1, -1, <span style="color: #ee4231">19488</span>, <span style="color: #ee4231">19489</span>, <span style="color: #ee4231">19490</span>, <span style="color: #ee4231">19491</span>] || [-1, -1, -1, <span style="color: #6bc71f">53231</span>, <span style="color: #6bc71f">53230</span>, <span style="color: #6bc71f">53233</span>, <span style="color: #6bc71f">53232</span>]
+|-
+| rowspan="4" | [[null]]
+| rowspan="4" | [https://chisel.weirdgloop.org/moid/object_id.html#19545 19545][https://abextm.github.io/cache2/#/viewer/obj/19545 (1)]
+|-
+| animationId || <span style="color: #ee4231">5260</span> || <span style="color: #6bc71f">-1</span>
+|-
+| varbit || <span style="color: #ee4231">3013</span> || <span style="color: #6bc71f">2987</span>
+|-
+| multiChildren || [-1, -1, -1, <span style="color: #ee4231">19489</span>, <span style="color: #ee4231">19488</span>, <span style="color: #ee4231">19491</span>, <span style="color: #ee4231">19490</span>] || [-1, -1, -1, <span style="color: #6bc71f">53226</span>, <span style="color: #6bc71f">53227</span>, <span style="color: #6bc71f">53228</span>, <span style="color: #6bc71f">53229</span>]
+|-
+| rowspan="4" | [[null]]
+| rowspan="4" | [https://chisel.weirdgloop.org/moid/object_id.html#19546 19546][https://abextm.github.io/cache2/#/viewer/obj/19546 (1)]
+|-
+| animationId || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">5260</span>
+|-
+| varbit || <span style="color: #ee4231">3016</span> || <span style="color: #6bc71f">2987</span>
+|-
+| multiChildren || [-1, -1, -1, <span style="color: #ee4231">19484</span>, <span style="color: #ee4231">19485</span>, <span style="color: #ee4231">19486</span>, <span style="color: #ee4231">19487</span>] || [-1, -1, -1, <span style="color: #6bc71f">53230</span>, <span style="color: #6bc71f">53231</span>, <span style="color: #6bc71f">53232</span>, <span style="color: #6bc71f">53233</span>]
+|-
+| rowspan="3" | [[null]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/object_id.html#19547 19547][https://abextm.github.io/cache2/#/viewer/obj/19547 (1)]
+|-
+| varbit || <span style="color: #ee4231">3016</span> || <span style="color: #6bc71f">2987</span>
+|-
+| multiChildren || [-1, -1, -1, <span style="color: #ee4231">19488</span>, <span style="color: #ee4231">19489</span>, <span style="color: #ee4231">19490</span>, <span style="color: #ee4231">19491</span>] || [-1, -1, -1, <span style="color: #6bc71f">53231</span>, <span style="color: #6bc71f">53230</span>, <span style="color: #6bc71f">53233</span>, <span style="color: #6bc71f">53232</span>]
+|-
+| rowspan="4" | [[null]]
+| rowspan="4" | [https://chisel.weirdgloop.org/moid/object_id.html#19548 19548][https://abextm.github.io/cache2/#/viewer/obj/19548 (1)]
+|-
+| animationId || <span style="color: #ee4231">5260</span> || <span style="color: #6bc71f">-1</span>
+|-
+| varbit || <span style="color: #ee4231">3016</span> || <span style="color: #6bc71f">2988</span>
+|-
+| multiChildren || [-1, -1, -1, <span style="color: #ee4231">19489</span>, <span style="color: #ee4231">19488</span>, <span style="color: #ee4231">19491</span>, <span style="color: #ee4231">19490</span>] || [-1, -1, -1, <span style="color: #6bc71f">53226</span>, <span style="color: #6bc71f">53227</span>, <span style="color: #6bc71f">53228</span>, <span style="color: #6bc71f">53229</span>]
+|-
+| rowspan="4" | [[null]]
+| rowspan="4" | [https://chisel.weirdgloop.org/moid/object_id.html#19549 19549][https://abextm.github.io/cache2/#/viewer/obj/19549 (1)]
+|-
+| animationId || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">5260</span>
+|-
+| varbit || <span style="color: #ee4231">3017</span> || <span style="color: #6bc71f">2988</span>
+|-
+| multiChildren || [-1, -1, -1, <span style="color: #ee4231">19484</span>, <span style="color: #ee4231">19485</span>, <span style="color: #ee4231">19486</span>, <span style="color: #ee4231">19487</span>] || [-1, -1, -1, <span style="color: #6bc71f">53230</span>, <span style="color: #6bc71f">53231</span>, <span style="color: #6bc71f">53232</span>, <span style="color: #6bc71f">53233</span>]
+|-
+| rowspan="3" | [[null]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/object_id.html#19550 19550][https://abextm.github.io/cache2/#/viewer/obj/19550 (1)]
+|-
+| varbit || <span style="color: #ee4231">3016</span> || <span style="color: #6bc71f">2988</span>
+|-
+| multiChildren || [-1, -1, -1, <span style="color: #ee4231">19488</span>, <span style="color: #ee4231">19489</span>, <span style="color: #ee4231">19490</span>, <span style="color: #ee4231">19491</span>] || [-1, -1, -1, <span style="color: #6bc71f">53231</span>, <span style="color: #6bc71f">53230</span>, <span style="color: #6bc71f">53233</span>, <span style="color: #6bc71f">53232</span>]
+|-
+| rowspan="4" | [[null]]
+| rowspan="4" | [https://chisel.weirdgloop.org/moid/object_id.html#19551 19551][https://abextm.github.io/cache2/#/viewer/obj/19551 (1)]
+|-
+| animationId || <span style="color: #ee4231">5260</span> || <span style="color: #6bc71f">-1</span>
+|-
+| varbit || <span style="color: #ee4231">3016</span> || <span style="color: #6bc71f">2989</span>
+|-
+| multiChildren || [-1, -1, -1, <span style="color: #ee4231">19489</span>, <span style="color: #ee4231">19488</span>, <span style="color: #ee4231">19491</span>, <span style="color: #ee4231">19490</span>] || [-1, -1, -1, <span style="color: #6bc71f">53226</span>, <span style="color: #6bc71f">53227</span>, <span style="color: #6bc71f">53228</span>, <span style="color: #6bc71f">53229</span>]
+|-
+| rowspan="4" | [[null]]
+| rowspan="4" | [https://chisel.weirdgloop.org/moid/object_id.html#19706 19706][https://abextm.github.io/cache2/#/viewer/obj/19706 (1)]
+|-
+| animationId || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">5260</span>
+|-
+| varbit || <span style="color: #ee4231">2977</span> || <span style="color: #6bc71f">2989</span>
+|-
+| multiChildren || [-1, -1, -1, <span style="color: #ee4231">19484</span>, <span style="color: #ee4231">19485</span>, <span style="color: #ee4231">19486</span>, <span style="color: #ee4231">19487</span>] || [-1, -1, -1, <span style="color: #6bc71f">53230</span>, <span style="color: #6bc71f">53231</span>, <span style="color: #6bc71f">53232</span>, <span style="color: #6bc71f">53233</span>]
+|-
+| rowspan="4" | [[null]]
+| rowspan="4" | [https://chisel.weirdgloop.org/moid/object_id.html#19707 19707][https://abextm.github.io/cache2/#/viewer/obj/19707 (1)]
+|-
+| animationId || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">5260</span>
+|-
+| varbit || <span style="color: #ee4231">2978</span> || <span style="color: #6bc71f">2989</span>
+|-
+| multiChildren || [-1, -1, -1, <span style="color: #ee4231">19484</span>, <span style="color: #ee4231">19485</span>, <span style="color: #ee4231">19486</span>, <span style="color: #ee4231">19487</span>] || [-1, -1, -1, <span style="color: #6bc71f">53231</span>, <span style="color: #6bc71f">53230</span>, <span style="color: #6bc71f">53233</span>, <span style="color: #6bc71f">53232</span>]
+|-
+| rowspan="3" | [[null]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/object_id.html#19708 19708][https://abextm.github.io/cache2/#/viewer/obj/19708 (1)]
+|-
+| varbit || <span style="color: #ee4231">2979</span> || <span style="color: #6bc71f">2990</span>
+|-
+| multiChildren || [-1, -1, -1, <span style="color: #ee4231">19484</span>, <span style="color: #ee4231">19485</span>, <span style="color: #ee4231">19486</span>, <span style="color: #ee4231">19487</span>] || [-1, -1, -1, <span style="color: #6bc71f">53226</span>, <span style="color: #6bc71f">53227</span>, <span style="color: #6bc71f">53228</span>, <span style="color: #6bc71f">53229</span>]
+|-
+| rowspan="4" | [[null]]
+| rowspan="4" | [https://chisel.weirdgloop.org/moid/object_id.html#19709 19709][https://abextm.github.io/cache2/#/viewer/obj/19709 (1)]
+|-
+| animationId || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">5260</span>
+|-
+| varbit || <span style="color: #ee4231">2980</span> || <span style="color: #6bc71f">2990</span>
+|-
+| multiChildren || [-1, -1, -1, <span style="color: #ee4231">19484</span>, <span style="color: #ee4231">19485</span>, <span style="color: #ee4231">19486</span>, <span style="color: #ee4231">19487</span>] || [-1, -1, -1, <span style="color: #6bc71f">53230</span>, <span style="color: #6bc71f">53231</span>, <span style="color: #6bc71f">53232</span>, <span style="color: #6bc71f">53233</span>]
+|-
+| rowspan="4" | [[null]]
+| rowspan="4" | [https://chisel.weirdgloop.org/moid/object_id.html#19710 19710][https://abextm.github.io/cache2/#/viewer/obj/19710 (1)]
+|-
+| animationId || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">5260</span>
+|-
+| varbit || <span style="color: #ee4231">2981</span> || <span style="color: #6bc71f">2990</span>
+|-
+| multiChildren || [-1, -1, -1, <span style="color: #ee4231">19484</span>, <span style="color: #ee4231">19485</span>, <span style="color: #ee4231">19486</span>, <span style="color: #ee4231">19487</span>] || [-1, -1, -1, <span style="color: #6bc71f">53231</span>, <span style="color: #6bc71f">53230</span>, <span style="color: #6bc71f">53233</span>, <span style="color: #6bc71f">53232</span>]
+|-
+| rowspan="3" | [[null]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/object_id.html#19711 19711][https://abextm.github.io/cache2/#/viewer/obj/19711 (1)]
+|-
+| varbit || <span style="color: #ee4231">2982</span> || <span style="color: #6bc71f">2991</span>
+|-
+| multiChildren || [-1, -1, -1, <span style="color: #ee4231">19484</span>, <span style="color: #ee4231">19485</span>, <span style="color: #ee4231">19486</span>, <span style="color: #ee4231">19487</span>] || [-1, -1, -1, <span style="color: #6bc71f">53226</span>, <span style="color: #6bc71f">53227</span>, <span style="color: #6bc71f">53228</span>, <span style="color: #6bc71f">53229</span>]
+|-
+| rowspan="4" | [[null]]
+| rowspan="4" | [https://chisel.weirdgloop.org/moid/object_id.html#19712 19712][https://abextm.github.io/cache2/#/viewer/obj/19712 (1)]
+|-
+| animationId || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">5260</span>
+|-
+| varbit || <span style="color: #ee4231">2983</span> || <span style="color: #6bc71f">2991</span>
+|-
+| multiChildren || [-1, -1, -1, <span style="color: #ee4231">19484</span>, <span style="color: #ee4231">19485</span>, <span style="color: #ee4231">19486</span>, <span style="color: #ee4231">19487</span>] || [-1, -1, -1, <span style="color: #6bc71f">53230</span>, <span style="color: #6bc71f">53231</span>, <span style="color: #6bc71f">53232</span>, <span style="color: #6bc71f">53233</span>]
+|-
+| rowspan="4" | [[null]]
+| rowspan="4" | [https://chisel.weirdgloop.org/moid/object_id.html#19713 19713][https://abextm.github.io/cache2/#/viewer/obj/19713 (1)]
+|-
+| animationId || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">5260</span>
+|-
+| varbit || <span style="color: #ee4231">2985</span> || <span style="color: #6bc71f">2991</span>
+|-
+| multiChildren || [-1, -1, -1, <span style="color: #ee4231">19484</span>, <span style="color: #ee4231">19485</span>, <span style="color: #ee4231">19486</span>, <span style="color: #ee4231">19487</span>] || [-1, -1, -1, <span style="color: #6bc71f">53231</span>, <span style="color: #6bc71f">53230</span>, <span style="color: #6bc71f">53233</span>, <span style="color: #6bc71f">53232</span>]
+|-
+| rowspan="3" | [[null]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/object_id.html#19714 19714][https://abextm.github.io/cache2/#/viewer/obj/19714 (1)]
+|-
+| varbit || <span style="color: #ee4231">2986</span> || <span style="color: #6bc71f">2992</span>
+|-
+| multiChildren || [-1, -1, -1, <span style="color: #ee4231">19484</span>, <span style="color: #ee4231">19485</span>, <span style="color: #ee4231">19486</span>, <span style="color: #ee4231">19487</span>] || [-1, -1, -1, <span style="color: #6bc71f">53226</span>, <span style="color: #6bc71f">53227</span>, <span style="color: #6bc71f">53228</span>, <span style="color: #6bc71f">53229</span>]
+|-
+| rowspan="4" | [[null]]
+| rowspan="4" | [https://chisel.weirdgloop.org/moid/object_id.html#19715 19715][https://abextm.github.io/cache2/#/viewer/obj/19715 (1)]
+|-
+| animationId || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">5260</span>
+|-
+| varbit || <span style="color: #ee4231">2987</span> || <span style="color: #6bc71f">2992</span>
+|-
+| multiChildren || [-1, -1, -1, <span style="color: #ee4231">19484</span>, <span style="color: #ee4231">19485</span>, <span style="color: #ee4231">19486</span>, <span style="color: #ee4231">19487</span>] || [-1, -1, -1, <span style="color: #6bc71f">53230</span>, <span style="color: #6bc71f">53231</span>, <span style="color: #6bc71f">53232</span>, <span style="color: #6bc71f">53233</span>]
+|-
+| rowspan="4" | [[null]]
+| rowspan="4" | [https://chisel.weirdgloop.org/moid/object_id.html#19716 19716][https://abextm.github.io/cache2/#/viewer/obj/19716 (1)]
+|-
+| animationId || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">5260</span>
+|-
+| varbit || <span style="color: #ee4231">2988</span> || <span style="color: #6bc71f">2992</span>
+|-
+| multiChildren || [-1, -1, -1, <span style="color: #ee4231">19484</span>, <span style="color: #ee4231">19485</span>, <span style="color: #ee4231">19486</span>, <span style="color: #ee4231">19487</span>] || [-1, -1, -1, <span style="color: #6bc71f">53231</span>, <span style="color: #6bc71f">53230</span>, <span style="color: #6bc71f">53233</span>, <span style="color: #6bc71f">53232</span>]
+|-
+| rowspan="3" | [[null]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/object_id.html#19717 19717][https://abextm.github.io/cache2/#/viewer/obj/19717 (1)]
+|-
+| varbit || <span style="color: #ee4231">2989</span> || <span style="color: #6bc71f">2993</span>
+|-
+| multiChildren || [-1, -1, -1, <span style="color: #ee4231">19484</span>, <span style="color: #ee4231">19485</span>, <span style="color: #ee4231">19486</span>, <span style="color: #ee4231">19487</span>] || [-1, -1, -1, <span style="color: #6bc71f">53226</span>, <span style="color: #6bc71f">53227</span>, <span style="color: #6bc71f">53228</span>, <span style="color: #6bc71f">53229</span>]
+|-
+| rowspan="4" | [[null]]
+| rowspan="4" | [https://chisel.weirdgloop.org/moid/object_id.html#19718 19718][https://abextm.github.io/cache2/#/viewer/obj/19718 (1)]
+|-
+| animationId || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">5260</span>
+|-
+| varbit || <span style="color: #ee4231">2990</span> || <span style="color: #6bc71f">2993</span>
+|-
+| multiChildren || [-1, -1, -1, <span style="color: #ee4231">19484</span>, <span style="color: #ee4231">19485</span>, <span style="color: #ee4231">19486</span>, <span style="color: #ee4231">19487</span>] || [-1, -1, -1, <span style="color: #6bc71f">53230</span>, <span style="color: #6bc71f">53231</span>, <span style="color: #6bc71f">53232</span>, <span style="color: #6bc71f">53233</span>]
+|-
+| rowspan="4" | [[null]]
+| rowspan="4" | [https://chisel.weirdgloop.org/moid/object_id.html#19719 19719][https://abextm.github.io/cache2/#/viewer/obj/19719 (1)]
+|-
+| animationId || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">5260</span>
+|-
+| varbit || <span style="color: #ee4231">2991</span> || <span style="color: #6bc71f">2993</span>
+|-
+| multiChildren || [-1, -1, -1, <span style="color: #ee4231">19484</span>, <span style="color: #ee4231">19485</span>, <span style="color: #ee4231">19486</span>, <span style="color: #ee4231">19487</span>] || [-1, -1, -1, <span style="color: #6bc71f">53231</span>, <span style="color: #6bc71f">53230</span>, <span style="color: #6bc71f">53233</span>, <span style="color: #6bc71f">53232</span>]
+|-
+| rowspan="3" | [[null]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/object_id.html#19720 19720][https://abextm.github.io/cache2/#/viewer/obj/19720 (1)]
+|-
+| varbit || <span style="color: #ee4231">2992</span> || <span style="color: #6bc71f">2994</span>
+|-
+| multiChildren || [-1, -1, -1, <span style="color: #ee4231">19484</span>, <span style="color: #ee4231">19485</span>, <span style="color: #ee4231">19486</span>, <span style="color: #ee4231">19487</span>] || [-1, -1, -1, <span style="color: #6bc71f">53226</span>, <span style="color: #6bc71f">53227</span>, <span style="color: #6bc71f">53228</span>, <span style="color: #6bc71f">53229</span>]
+|-
+| rowspan="4" | [[null]]
+| rowspan="4" | [https://chisel.weirdgloop.org/moid/object_id.html#19721 19721][https://abextm.github.io/cache2/#/viewer/obj/19721 (1)]
+|-
+| animationId || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">5260</span>
+|-
+| varbit || <span style="color: #ee4231">2993</span> || <span style="color: #6bc71f">2994</span>
+|-
+| multiChildren || [-1, -1, -1, <span style="color: #ee4231">19484</span>, <span style="color: #ee4231">19485</span>, <span style="color: #ee4231">19486</span>, <span style="color: #ee4231">19487</span>] || [-1, -1, -1, <span style="color: #6bc71f">53230</span>, <span style="color: #6bc71f">53231</span>, <span style="color: #6bc71f">53232</span>, <span style="color: #6bc71f">53233</span>]
+|-
+| rowspan="3" | [[null]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/object_id.html#19722 19722][https://abextm.github.io/cache2/#/viewer/obj/19722 (1)]
+|-
+| animationId || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">5260</span>
+|-
+| multiChildren || [-1, -1, -1, <span style="color: #ee4231">19484</span>, <span style="color: #ee4231">19485</span>, <span style="color: #ee4231">19486</span>, <span style="color: #ee4231">19487</span>] || [-1, -1, -1, <span style="color: #6bc71f">53231</span>, <span style="color: #6bc71f">53230</span>, <span style="color: #6bc71f">53233</span>, <span style="color: #6bc71f">53232</span>]
+|-
+| rowspan="2" | [[Pickaxe stall]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#51561 51561][https://abextm.github.io/cache2/#/viewer/obj/51561 (1)]
+|-
+| models || [5879, <span style="color: #ee4231">6025</span>] || [5879, <span style="color: #6bc71f">53128</span>]
+|-
+| rowspan="3" | [[Statue]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/object_id.html#51583 51583][https://abextm.github.io/cache2/#/viewer/obj/51583 (1)]
+|-
+| clipType ||  || <span style="color: #6bc71f">1</span>
+|-
+| supportItems ||  || <span style="color: #6bc71f">1</span>
+|-
+| rowspan="2" | [[Empty display]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#52693 52693][https://abextm.github.io/cache2/#/viewer/obj/52693 (1)]
+|-
+| models || [52363] || [52363<span style="color: #6bc71f">, 53131</span>]
+|-
+| rowspan="2" | [[Empty Display]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#52697 52697][https://abextm.github.io/cache2/#/viewer/obj/52697 (1)]
+|-
+| models || [52363] || [52363<span style="color: #6bc71f">, 53131</span>]
+|-
+| rowspan="2" | [[Empty display]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#52706 52706][https://abextm.github.io/cache2/#/viewer/obj/52706 (1)]
+|-
+| models || [52357] || [52357<span style="color: #6bc71f">, 53131</span>]
+|-
+| rowspan="4" | [[Unbuilt Landing Site]]
+| rowspan="4" | [https://chisel.weirdgloop.org/moid/object_id.html#52816 52816][https://abextm.github.io/cache2/#/viewer/obj/52816 (1)]
+|-
+| models || [<span style="color: #ee4231">52305</span>] || [<span style="color: #6bc71f">53127</span>]
+|-
+| ambient ||  || <span style="color: #6bc71f">15</span>
+|-
+| contrast ||  || <span style="color: #6bc71f">625</span>
+|}
+==Enums==
+===New Enums===
+{| class="wikitable sortable"
+|-
+! colspan="3" | New Enums
+|-
+! style="width: 15em" | id !! defaultValue !! map
+|-
+| [https://chisel.weirdgloop.org/structs/index.html?type=enums&id=5421 5421][https://abextm.github.io/cache2/#/viewer/enum/5421 (1)] ||  || 
+|-
+| [https://chisel.weirdgloop.org/structs/index.html?type=enums&id=5422 5422][https://abextm.github.io/cache2/#/viewer/enum/5422 (1)] ||  || 
+|-
+| [https://chisel.weirdgloop.org/structs/index.html?type=enums&id=5423 5423][https://abextm.github.io/cache2/#/viewer/enum/5423 (1)] ||  || 
+|-
+| [https://chisel.weirdgloop.org/structs/index.html?type=enums&id=5424 5424][https://abextm.github.io/cache2/#/viewer/enum/5424 (1)] ||  || 
+|}
+===Removed Enums===
+{| class="wikitable sortable"
+|-
+! colspan="3" | Removed Enums
+|-
+! style="width: 15em" | id !! defaultValue !! map
+|}
+===Diff Enums===
+{| class="wikitable sortable sticky-header"
+|-
+! colspan="5" | Diff Enums
+|-
+! style="width: 15em" | Id !! Key !! Previous Value !! New Value
+|-
+| rowspan="2" | [https://chisel.weirdgloop.org/structs/index.html?type=enums&id=1562 1562][https://abextm.github.io/cache2/#/viewer/enum/1562 (1)]
+|-
+| map || {'0': 3628, '1': 4490, '2': <span style="color: #ee4231">2737</span>, '3': <span style="color: #ee4231">2738</span>, '4': <span style="color: #ee4231">3760</span>, '5': <span style="color: #ee4231">2769</span>, '6': <span style="color: #ee4231">2770</span>, '7': <span style="color: #ee4231">2772</span>, '8': <span style="color: #ee4231">4277</span>, '9': <span style="color: #ee4231">4278</span>, '10': <span style="color: #ee4231">4279</span>, '11': <span style="color: #ee4231">4280</span>, '12': <span style="color: #ee4231">2771</span>, '13': <span style="color: #ee4231">2773</span>, '14': <span style="color: #ee4231">2851</span>, '15': <span style="color: #ee4231">2774</span>, '16': <span style="color: #ee4231">3762</span>, '17': <span style="color: #ee4231">4285</span>, '18': <span style="color: #ee4231">4281</span>, '19': <span style="color: #ee4231">4282</span>, '20': <span style="color: #ee4231">4283</span>, '21': <span style="color: #ee4231">4284</span>, '22': <span style="color: #ee4231">3629</span>, '23': <span style="color: #ee4231">2739</span>, '24': <span style="color: #ee4231">2740</span>, '25': <span style="color: #ee4231">2741</span>, '26': <span style="color: #ee4231">2742</span>, '27': <span style="color: #ee4231">2743</span>, '28': <span style="color: #ee4231">2744</span>, '29': <span style="color: #ee4231">2745</span>, '30': <span style="color: #ee4231">2746</span>, '31': <span style="color: #ee4231">2747</span>, '32': <span style="color: #ee4231">2748</span>, '33': <span style="color: #ee4231">2749</span>, '34': <span style="color: #ee4231">2750</span>, '35': <span style="color: #ee4231">2751</span>, '36': <span style="color: #ee4231">2752</span>, '37': <span style="color: #ee4231">2776</span>, '38': <span style="color: #ee4231">1053</span>, '39': 2775} || {'0': 3628, '1': 4490, '2': <span style="color: #6bc71f">946</span>, '3': <span style="color: #6bc71f">2737</span>, '4': <span style="color: #6bc71f">2738</span>, '5': <span style="color: #6bc71f">3760</span>, '6': <span style="color: #6bc71f">2769</span>, '7': <span style="color: #6bc71f">2770</span>, '8': <span style="color: #6bc71f">2772</span>, '9': <span style="color: #6bc71f">4277</span>, '10': <span style="color: #6bc71f">4278</span>, '11': <span style="color: #6bc71f">4279</span>, '12': <span style="color: #6bc71f">4280</span>, '13': <span style="color: #6bc71f">2771</span>, '14': <span style="color: #6bc71f">2773</span>, '15': <span style="color: #6bc71f">2851</span>, '16': <span style="color: #6bc71f">2774</span>, '17': <span style="color: #6bc71f">3762</span>, '18': <span style="color: #6bc71f">4285</span>, '19': <span style="color: #6bc71f">4281</span>, '20': <span style="color: #6bc71f">4282</span>, '21': <span style="color: #6bc71f">4283</span>, '22': <span style="color: #6bc71f">4284</span>, '23': <span style="color: #6bc71f">3629</span>, '24': <span style="color: #6bc71f">2739</span>, '25': <span style="color: #6bc71f">2740</span>, '26': <span style="color: #6bc71f">2741</span>, '27': <span style="color: #6bc71f">2742</span>, '28': <span style="color: #6bc71f">2743</span>, '29': <span style="color: #6bc71f">2744</span>, '30': <span style="color: #6bc71f">2745</span>, '31': <span style="color: #6bc71f">2746</span>, '32': <span style="color: #6bc71f">2747</span>, '33': <span style="color: #6bc71f">2748</span>, '34': <span style="color: #6bc71f">2749</span>, '35': <span style="color: #6bc71f">2750</span>, '36': <span style="color: #6bc71f">2751</span>, '37': <span style="color: #6bc71f">2752</span>, '38': <span style="color: #6bc71f">2776</span>, '39': <span style="color: #6bc71f">1053, '40': </span>2775}
+|-
+| rowspan="2" | [https://chisel.weirdgloop.org/structs/index.html?type=enums&id=3047 3047][https://abextm.github.io/cache2/#/viewer/enum/3047 (1)]
+|-
+| map || {'0': '', '1': '<col=ffffff>Ahrim The Blighted: <br><br>Blighted Aura: <br><br>Magic Attacks have a 25% chance of lowering the enemy's strength level by 5 on a successful hit.<br><br>', '2': '<col=ffffff>Dharok the Wretched: <br><br>Wretched Strength: <br><br>Attacks do more damage as your hitpoints decrease. For every hitpoint lost from your maximum hitpoints,  you deal 1% more damage.<br><br>', '3': '<col=ffffff>Guthan the Infested: <br><br>Infestation: <br><br>Attacks have a 25% chance of replenishing your health equal to the damage you deal.<br><br>', '4': '<col=ffffff>Karil the Tainted: <br><br>Tainted Shot: <br><br>Successful range attacks have a 25% chance of lowering the enemy's agility stat by 20%.<br><br>', '5': '<col=ffffff>Torag the Corrupted: <br><br>Corruption: <br><br>Successful melee attacks have a 25% chance of lowering the victim's run energy by 20%.<br><br>', '6': '<col=ffffff>Verac the Defiled: <br><br>Defiler: <br><br>Attacks have a 25% chance of ignoring any armour,  Defence,  and protection prayers.<br><br>', '7': '<col=ffffff>Inquisitor's armour: <br><br>Each individual piece of Inquisitor's armour boosts damage and accuracy by 0.5% when using the crush attack style.<br><br>If all pieces of the Inquisitor's armour are worn,  this bonus is increased to 2.5%.<br><br>', '8': '<col=ffffff>Graceful Outfit: <br><br>Each individual piece of the Graceful Outfit increases your run restoration rate.<br><br>Wearing the full Graceful Outfit increases run energy restoration by 30%.<br><br>', '9': '<col=ffffff>Obsidian armour: <br><br>All obsidian weaponry will be given a 10% boost in melee accuracy and melee strength.<br><br>', '10': '<col=ffffff>Void Knight Melee: <br><br>When wearing the Void Top,  Robe,  Gloves and Melee Helmet,  you will receive +10% bonus to your melee damage and accuracy.<br><br>', '11': '<col=ffffff>Void Knight Range: <br><br>When wearing the Void Top,  Robe,  Gloves and Ranger Helmet,  you will receive +10% bonus to your ranged damage and accuracy.<br><br>', '12': '<col=ffffff>Void Knight Elite Range: <br><br>When wearing the Elite Void Top,  Elite Robe,  Gloves and Ranger Helmet,  you will receive +12.5% bonus to your ranged damage and 10% bonus to accuracy.<br><br>', '13': '<col=ffffff>Void Knight Mage: <br><br>When wearing the Void Top,  Robe,  Gloves and Mage Helmet,  you will receive +45% bonus to your magic accuracy.<br><br>', '14': '<col=ffffff>Void Knight Elite Mage: <br><br>When wearing the Elite Void Top,  Elite Robe,  Gloves and Mage Helmet,  you will receive a +45% bonus to your magic accuracy and 2.5% to your magic damage.<br><br>', '15': '<col=ffffff>Justiciar: <br><br>PvM damage dealt to you is reduced according to your total armour protection in that style.<br><br>', '16': '<col=ffffff>Angler outfit: <br><br>XP from training Fishing will be increased by 2.5% if the full set is worn. Incomplete sets give smaller bonuses.<br><br>', '17': '<col=ffffff>Lumberjack outfit: <br><br>XP from training Woodcutting will be increased by 2.5% if the full set is worn. Incomplete sets give smaller bonuses.<br><br>', '18': '<col=ffffff>Prospector outfit: <br><br>XP from training Mining will be increased by 2.5% if the full set is worn. Incomplete sets give smaller bonuses.<br><br>', '19': '<col=ffffff>Farmer outfit: <br><br>XP from training Farming will be increased by 2.5% if the full set is worn. Incomplete sets give smaller bonuses.<br><br>', '20': '<col=ffffff>Pyromancer outfit: <br><br>XP from training Firemaking will be increased by 2.5% if the full set is worn. Incomplete sets give smaller bonuses.<br><br>', '21': '<col=ffffff>Shayzien armour: <br><br>Reduces the damage of the acid splash attack used by Lizardman Shamans.<br><br>', '22': '<col=ffffff>Rogue kit: <br><br>The full set gives a 100% chance of double loot from standard pickpocketing. Incomplete sets give smaller chances.<br><br>', '23': '<col=ffffff>Carpenter's outfit: <br><br>XP from training Construction will be increased by 2.5% if the full set is worn. Incomplete sets give smaller bonuses.<br><br>', '24': '<col=ffffff>Crystal armour: <br><br>Each individual piece of Crystal Armour increases your accuracy and damage with crystal ranged weaponry.<br><br>Wearing the full set of Crystal Armour increases accuracy by 30% and damage by 15%.<br><br>', '25': '<col=ffffff>Swampbark Armour: <br><br>Wearing the helm,  body,  and legs increases the duration of Bind,  Snare and Entangle spells by 3.6 seconds<br><br>', '26': '<col=ffffff>Bloodbark Armour: <br><br>The full set increases the amount healed by Blood spells to 35.0%.<br><br>', '27': '<col=ffffff>Zealot's prayer robes: <br><br>The full set grants a 5% chance of saving ensouled heads when reanimating them,  bones when burying or offering them,  and bonemeal & slime at the Ectofuntus. This stacks with the Wilderness altar's bone saving effect.<br><br>', '28': '<col=ffffff>Spirit Angler outfit: <br><br>XP from training Fishing will be increased by 2.5% if the full set is worn. Incomplete sets give smaller bonuses.<br><br>Full set acts as a tether rope when fighting Tempoross.<br><br>', '29': '<col=ffffff>Virtus Robes: <br><br>9% increased Magic damage with ancient spells.<br><br>Smoke spells reduce healing received by 30%,  as long as the target is poisoned.<br><br>Shadow spells also drain Strength,  Ranged,  Magic and Defence,  as well as Attack.<br><br>Blood spells can heal up to 20% over your maximum hitpoints.<br><br>Ice spells gain 10% additional accuracy against frozen targets.', '30': '<col=ffffff>Raiments of the Eye: <br><br>Runes crafted are increased by 60%.<br><br>This bonus stacks additively with other similar effects.<br><br>', '31': '<col=ffffff>Smith's Uniform: <br><br>The full set increases the rate you will smith items at an anvil by 1 tick.<br><br>', '32': '<col=ffffff>Statius's Equipment: <br><br>Melee special attacks have 15% increased accuracy.<br><br>', '33': '<col=ffffff>Vesta's Equipment: <br><br>Melee special attacks have 15% increased accuracy.<br><br>', '34': '<col=ffffff>Morrigan's Equipment: <br><br>Ranged special attacks have 15% increased accuracy.<br><br>', '35': '<col=ffffff>Zuriel's Equipment: <br><br>Magic special attacks have 15% increased accuracy.<br><br>', '36': '<col=ffffff>Statius's Corrupt Equipment: <br><br>Melee special attacks have 15% increased accuracy.<br><br>', '37': '<col=ffffff>Vesta's Corrupt Equipment: <br><br>Melee special attacks have 15% increased accuracy.<br><br>', '38': '<col=ffffff>Morrigan's Corrupt Equipment: <br><br>Ranged special attacks have 15% increased accuracy.<br><br>', '39': '<col=ffffff>Zuriel's Corrupt Equipment: <br><br>Magic special attacks have 15% increased accuracy.<br><br>', '40': '<col=ffffff>Bloodrager Effect: <br><br>Successful hits with the Dual Macuahuitl have a 33% chance of reducing the delay of your next attack by 1 tick.<br><br>The Dual Macuahuitl gains the 'Blood Infusion' special attack.<br><br>', '41': '<col=ffffff>Frostweaver Effect: <br><br>Casting spells which bind the enemy has a 50% chance to allow the next attack with the Blue moon spear to bypass the action delay.<br><br>The Blue Moon Spear gains the 'Break Shackles' special attack.<br><br>', '42': '<col=ffffff>Frostweaver Effect Set: <br><br>Casting spells which bind the enemy has a 20% chance to allow the next attack with the Blue moon spear to bypass the action delay.<br><br>The Blue Moon Spear gains the 'Break Shackles' special attack.<br><br>', '43': '<col=ffffff>Eclipse Effect: <br><br>Successful hits with the Eclipse Atlatl have a 20% chance to apply a burn effect to the enemy.<br><br>The Eclipse Atlatl gains the 'Eclipse' special attack.<br><br>', '2001': '<col=ffffff>Ahrim The Blighted: <br><br>Blighted Aura +: <br><br>Magic Attacks have a 25% chance of lowering the enemy's strength level by 5 on a successful hit.<br><br>If the spell is autocast,  it gets a 30% damage bonus.<br><br>', '2002': '<col=ffffff>Dharok the Wretched: <br><br>Wretched Strength +: <br><br>Attacks do more damage as your hitpoints decrease. For every hitpoint lost from your maximum hitpoints,  you deal 1% more damage.<br><br>When you take damage,  you have a 1/4 chance of reflecting 15% of the damage to your opponent.<br><br>', '2003': '<col=ffffff>Guthan the Infested: <br><br>Infestation +: <br><br>Attacks have a 25% chance of replenishing your health equal to the damage you deal.<br><br>This can boost your hitpoints by up to 10.<br><br>', '2004': '<col=ffffff>Karil the Tainted: <br><br>Tainted Shot +: <br><br>Successful range attacks have a 25% chance of lowering the enemy's agility stat by 20%.<br><br>A second hitplat is applied in PvP,  dealing half the damage of the first.<br><br>', '2005': '<col=ffffff>Torag the Corrupted: <br><br>Corruption +: <br><br>Successful melee attacks have a 25% chance of lowering the victim's run energy by 20%.<br><br>For every hitpoint lost from your maximum hitpoints,  your Defence stat gets an invisible boost.<br><br>', '2006': '<col=ffffff>Verac the Defiled: <br><br>Defiler +: <br><br>Attacks have a 25% chance of ignoring any armour,  Defence,  and protection prayers.<br><br>Gives a +7 prayer bonus.<br><br>'} || {'0': '', '1': '<col=ffffff>Ahrim The Blighted: <br><br>Blighted Aura: <br><br>Magic Attacks have a 25% chance of lowering the enemy's strength level by 5 on a successful hit.<br><br>', '2': '<col=ffffff>Dharok the Wretched: <br><br>Wretched Strength: <br><br>Attacks do more damage as your hitpoints decrease. For every hitpoint lost from your maximum hitpoints,  you deal 1% more damage.<br><br>', '3': '<col=ffffff>Guthan the Infested: <br><br>Infestation: <br><br>Attacks have a 25% chance of replenishing your health equal to the damage you deal.<br><br>', '4': '<col=ffffff>Karil the Tainted: <br><br>Tainted Shot: <br><br>Successful range attacks have a 25% chance of lowering the enemy's agility stat by 20%.<br><br>', '5': '<col=ffffff>Torag the Corrupted: <br><br>Corruption: <br><br>Successful melee attacks have a 25% chance of lowering the victim's run energy by 20%.<br><br>', '6': '<col=ffffff>Verac the Defiled: <br><br>Defiler: <br><br>Attacks have a 25% chance of ignoring any armour,  Defence,  and protection prayers.<br><br>', '7': '<col=ffffff>Inquisitor's armour: <br><br>Each individual piece of Inquisitor's armour boosts damage and accuracy by 0.5% when using the crush attack style.<br><br>If all pieces of the Inquisitor's armour are worn,  this bonus is increased to 2.5%.<br><br>', '8': '<col=ffffff>Graceful Outfit: <br><br>Each individual piece of the Graceful Outfit increases your run restoration rate.<br><br>Wearing the full Graceful Outfit increases run energy restoration by 30%.<br><br>', '9': '<col=ffffff>Obsidian armour: <br><br>All obsidian weaponry will be given a 10% boost in melee accuracy and melee strength.<br><br>', '10': '<col=ffffff>Void Knight Melee: <br><br>When wearing the Void Top,  Robe,  Gloves and Melee Helmet,  you will receive +10% bonus to your melee damage and accuracy.<br><br>', '11': '<col=ffffff>Void Knight Range: <br><br>When wearing the Void Top,  Robe,  Gloves and Ranger Helmet,  you will receive +10% bonus to your ranged damage and accuracy.<br><br>', '12': '<col=ffffff>Void Knight Elite Range: <br><br>When wearing the Elite Void Top,  Elite Robe,  Gloves and Ranger Helmet,  you will receive +12.5% bonus to your ranged damage and 10% bonus to accuracy.<br><br>', '13': '<col=ffffff>Void Knight Mage: <br><br>When wearing the Void Top,  Robe,  Gloves and Mage Helmet,  you will receive +45% bonus to your magic accuracy.<br><br>', '14': '<col=ffffff>Void Knight Elite Mage: <br><br>When wearing the Elite Void Top,  Elite Robe,  Gloves and Mage Helmet,  you will receive a +45% bonus to your magic accuracy and 2.5% to your magic damage.<br><br>', '15': '<col=ffffff>Justiciar: <br><br>PvM damage dealt to you is reduced according to your total armour protection in that style.<br><br>', '16': '<col=ffffff>Angler outfit: <br><br>XP from training Fishing will be increased by 2.5% if the full set is worn. Incomplete sets give smaller bonuses.<br><br>', '17': '<col=ffffff>Lumberjack outfit: <br><br>XP from training Woodcutting will be increased by 2.5% if the full set is worn. Incomplete sets give smaller bonuses.<br><br>', '18': '<col=ffffff>Prospector outfit: <br><br>XP from training Mining will be increased by 2.5% if the full set is worn. Incomplete sets give smaller bonuses.<br><br>', '19': '<col=ffffff>Farmer outfit: <br><br>XP from training Farming will be increased by 2.5% if the full set is worn. Incomplete sets give smaller bonuses.<br><br>', '20': '<col=ffffff>Pyromancer outfit: <br><br>XP from training Firemaking will be increased by 2.5% if the full set is worn. Incomplete sets give smaller bonuses.<br><br>', '21': '<col=ffffff>Shayzien armour: <br><br>Reduces the damage of the acid splash attack used by Lizardman Shamans.<br><br>', '22': '<col=ffffff>Rogue kit: <br><br>The full set gives a 100% chance of double loot from standard pickpocketing. Incomplete sets give smaller chances.<br><br>', '23': '<col=ffffff>Carpenter's outfit: <br><br>XP from training Construction will be increased by 2.5% if the full set is worn. Incomplete sets give smaller bonuses.<br><br>', '24': '<col=ffffff>Crystal armour: <br><br>Each individual piece of Crystal Armour increases your accuracy and damage with crystal ranged weaponry.<br><br>Wearing the full set of Crystal Armour increases accuracy by 30% and damage by 15%.<br><br>', '25': '<col=ffffff>Swampbark Armour: <br><br>Wearing the helm,  body,  and legs increases the duration of Bind,  Snare and Entangle spells by 3.6 seconds<br><br>', '26': '<col=ffffff>Bloodbark Armour: <br><br>The full set increases the amount healed by Blood spells to 35.0%.<br><br>', '27': '<col=ffffff>Zealot's prayer robes: <br><br>The full set grants a 5% chance of saving ensouled heads when reanimating them,  bones when burying or offering them,  and bonemeal & slime at the Ectofuntus. This stacks with the Wilderness altar's bone saving effect.<br><br>', '28': '<col=ffffff>Spirit Angler outfit: <br><br>XP from training Fishing will be increased by 2.5% if the full set is worn. Incomplete sets give smaller bonuses.<br><br>Full set acts as a tether rope when fighting Tempoross.<br><br>', '29': '<col=ffffff>Virtus Robes: <br><br>9% increased Magic damage with ancient spells.<br><br>Smoke spells reduce healing received by 30%,  as long as the target is poisoned.<br><br>Shadow spells also drain Strength,  Ranged,  Magic and Defence,  as well as Attack.<br><br>Blood spells can heal up to 20% over your maximum hitpoints.<br><br>Ice spells gain 10% additional accuracy against frozen targets.', '30': '<col=ffffff>Raiments of the Eye: <br><br>Runes crafted are increased by 60%.<br><br>This bonus stacks additively with other similar effects.<br><br>', '31': '<col=ffffff>Smith's Uniform: <br><br>The full set increases the rate you will smith items at an anvil by 1 tick.<br><br>', '32': '<col=ffffff>Statius's Equipment: <br><br>Melee special attacks have 15% increased accuracy.<br><br>', '33': '<col=ffffff>Vesta's Equipment: <br><br>Melee special attacks have 15% increased accuracy.<br><br>', '34': '<col=ffffff>Morrigan's Equipment: <br><br>Ranged special attacks have 15% increased accuracy.<br><br>', '35': '<col=ffffff>Zuriel's Equipment: <br><br>Magic special attacks have 15% increased accuracy.<br><br>', '36': '<col=ffffff>Statius's Corrupt Equipment: <br><br>Melee special attacks have 15% increased accuracy.<br><br>', '37': '<col=ffffff>Vesta's Corrupt Equipment: <br><br>Melee special attacks have 15% increased accuracy.<br><br>', '38': '<col=ffffff>Morrigan's Corrupt Equipment: <br><br>Ranged special attacks have 15% increased accuracy.<br><br>', '39': '<col=ffffff>Zuriel's Corrupt Equipment: <br><br>Magic special attacks have 15% increased accuracy.<br><br>', '40': '<col=ffffff>Bloodrager Effect: <br><br>Successful hits with the Dual Macuahuitl have a 33% chance of reducing the delay of your next attack by 1 tick.<br><br>The Dual Macuahuitl gains the 'Blood Infusion' special attack.<br><br>', '41': '<col=ffffff>Frostweaver Effect: <br><br>Casting spells which bind the enemy has a 50% chance to allow the next attack with the Blue moon spear to bypass the action delay.<br><br>The Blue Moon Spear gains the 'Break Shackles' special attack.<br><br>', '42': '<col=ffffff>Frostweaver Effect Set: <br><br>Casting spells which bind the enemy has a 20% chance to allow the next attack with the Blue moon spear to bypass the action delay.<br><br>The Blue Moon Spear gains the 'Break Shackles' special attack.<br><br>', '43': '<col=ffffff>Eclipse Effect: <br><br>Successful hits with the Eclipse Atlatl have a 20% chance to apply a burn effect to the enemy.<br><br>The Eclipse Atlatl gains the 'Eclipse' special attack.<br><br>', '<span style="color: #6bc71f">44': '<col=ffffff>Hunter's Armour: <br><br>Damage taken from hunter creatures is reduced by 60%.<br><br>', '45': '<col=ffffff>Hunter's Armour: <br><br>Damage taken from hunter creatures is reduced by 40%.<br><br>', '46': '<col=ffffff>Hunter's Armour: <br><br>Damage taken from hunter creatures is reduced by 20%.<br><br>', '47': '<col=ffffff>Guild Hunter Outfit:  Increases catch chance of hunter creatures by up to 2.5%,  and increases rare creature part droprate when doing Hunters' Rumours by up to 5%.<br><br>', '</span>2001': '<col=ffffff>Ahrim The Blighted: <br><br>Blighted Aura +: <br><br>Magic Attacks have a 25% chance of lowering the enemy's strength level by 5 on a successful hit.<br><br>If the spell is autocast,  it gets a 30% damage bonus.<br><br>', '2002': '<col=ffffff>Dharok the Wretched: <br><br>Wretched Strength +: <br><br>Attacks do more damage as your hitpoints decrease. For every hitpoint lost from your maximum hitpoints,  you deal 1% more damage.<br><br>When you take damage,  you have a 1/4 chance of reflecting 15% of the damage to your opponent.<br><br>', '2003': '<col=ffffff>Guthan the Infested: <br><br>Infestation +: <br><br>Attacks have a 25% chance of replenishing your health equal to the damage you deal.<br><br>This can boost your hitpoints by up to 10.<br><br>', '2004': '<col=ffffff>Karil the Tainted: <br><br>Tainted Shot +: <br><br>Successful range attacks have a 25% chance of lowering the enemy's agility stat by 20%.<br><br>A second hitplat is applied in PvP,  dealing half the damage of the first.<br><br>', '2005': '<col=ffffff>Torag the Corrupted: <br><br>Corruption +: <br><br>Successful melee attacks have a 25% chance of lowering the victim's run energy by 20%.<br><br>For every hitpoint lost from your maximum hitpoints,  your Defence stat gets an invisible boost.<br><br>', '2006': '<col=ffffff>Verac the Defiled: <br><br>Defiler +: <br><br>Attacks have a 25% chance of ignoring any armour,  Defence,  and protection prayers.<br><br>Gives a +7 prayer bonus.<br><br>'}
+|-
+| rowspan="2" | [https://chisel.weirdgloop.org/structs/index.html?type=enums&id=5397 5397][https://abextm.github.io/cache2/#/viewer/enum/5397 (1)]
+|-
+| map || {'0': 10012, '1': 10010, '2': 11259, '3': 10008, '4': 10029, '5': 29305, '6': 29263, '7': 29265, '8': 29267, '9': 29269, '10': 10150, '11': 10035, '12': 10047, '13': 10041, '14': 10039, '15': 10051, '16': 10045, '17': 10037, '18': 10049, '19': 10043, '20': 10063, '21': 10067, '22': 10059, '23': 10055, '24': 10061, '25': 10065, '26': 10053, '27': 10057, '28': 9948, '29': 9950, '30': 9949, '31': 10006, '32': 10031, '33': 954, '34': 303, '35': 596, '36': 10025, '37': 10028, '38': 10027} || {'0': 10012, '1': 10010, '2': 11259, '3': 10008, '4': 10029, '5': 29305, '6': 29263, '7': 29265, '8': 29267, '9': 29269, '10': 10150, '11': 10035, '12': 10047, '13': 10041, '14': 10039, '15': 10051, '16': 10045, '17': 10037, '18': 10049, '19': 10043, '20': 10063, '21': 10067, '22': 10059, '23': 10055, '24': 10061, '25': 10065, '26': 10053, '27': 10057, '28': 9948, '29': 9950, '30': 9949, '31': 10006, '32': 10031, '33': 954, '34': 303, '35': 596, '36': 10025, '37': 10028, '38': 10027<span style="color: #6bc71f">, '39': 11260, '40': 21126</span>}
+|}
+==Npcs==
+===New Npcs===
+{| class="wikitable sortable"
+|-
+! colspan="4" | New Npcs
+|-
+! style="width: 15em" | name !! id !! combatLevel !! actions
+|}
+===Removed Npcs===
+{| class="wikitable sortable"
+|-
+! colspan="4" | Removed Npcs
+|-
+! style="width: 15em" | name !! id !! combatLevel !! actions
+|}
+===Diff Npcs===
+{| class="wikitable sortable sticky-header"
+|-
+! colspan="5" | Diff Npcs
+|-
+! style="width: 15em" | Name !! Id !! Key !! Previous Value !! New Value
+|-
+| rowspan="3" | [[Bee Swarm]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/npc_id.html#12823 12823][https://abextm.github.io/cache2/#/viewer/npc/12823 (1)]
+|-
+| models || [<span style="color: #ee4231">48264</span>] || [<span style="color: #6bc71f">53132</span>]
+|-
+| contrast || <span style="color: #ee4231">44</span> || <span style="color: #6bc71f">100</span>
+|}
+==Items==
+===New Items===
+{| class="wikitable sortable"
+|-
+! colspan="11" | New Items
+|-
+! style="width: 15em" | name !! id !! examine !! isMembers !! isGrandExchangable !! isStackable !! noteLinkedItem !! inventoryActions !! placeholderLinkedItem !! price !! weight
+|-
+| [[Small meat pouch (open)]] || [https://chisel.weirdgloop.org/moid/item_id.html#29462 29462][https://abextm.github.io/cache2/#/viewer/item/29462 (1)] || A small pouch for carrying raw meat. || true ||  ||  || -1 || [Fill, Empty, Check, Close, Destroy] || 29463 || 3000 || 1000
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#29463 29463][https://abextm.github.io/cache2/#/viewer/item/29463 (1)] ||  ||  ||  ||  || -1 || [None, None, None, None, Drop] || 29462 || 1 || 
+|-
+| [[Large meat pouch (open)]] || [https://chisel.weirdgloop.org/moid/item_id.html#29464 29464][https://abextm.github.io/cache2/#/viewer/item/29464 (1)] || A large pouch for carrying raw meat. || true ||  ||  || -1 || [Fill, Empty, Check, Close, Destroy] || 29465 || 7500 || 1000
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#29465 29465][https://abextm.github.io/cache2/#/viewer/item/29465 (1)] ||  ||  ||  ||  || -1 || [None, None, None, None, Drop] || 29464 || 1 || 
+|-
+| [[Small fur pouch (open)]] || [https://chisel.weirdgloop.org/moid/item_id.html#29466 29466][https://abextm.github.io/cache2/#/viewer/item/29466 (1)] || A small pouch for carrying animal furs. || true ||  ||  || -1 || [Fill, Empty, Check, Close, Destroy] || 29467 || 3000 || 1000
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#29467 29467][https://abextm.github.io/cache2/#/viewer/item/29467 (1)] ||  ||  ||  ||  || -1 || [None, None, None, None, Drop] || 29466 || 1 || 
+|-
+| [[Medium fur pouch (open)]] || [https://chisel.weirdgloop.org/moid/item_id.html#29468 29468][https://abextm.github.io/cache2/#/viewer/item/29468 (1)] || A medium-sized pouch for carrying animal furs. || true ||  ||  || -1 || [Fill, Empty, Check, Close, Destroy] || 29469 || 4500 || 1000
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#29469 29469][https://abextm.github.io/cache2/#/viewer/item/29469 (1)] ||  ||  ||  ||  || -1 || [None, None, None, None, Drop] || 29468 || 1 || 
+|-
+| [[Large fur pouch (open)]] || [https://chisel.weirdgloop.org/moid/item_id.html#29470 29470][https://abextm.github.io/cache2/#/viewer/item/29470 (1)] || A large pouch for carrying animal furs. || true ||  ||  || -1 || [Fill, Empty, Check, Close, Destroy] || 29471 || 7500 || 1000
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#29471 29471][https://abextm.github.io/cache2/#/viewer/item/29471 (1)] ||  ||  ||  ||  || -1 || [None, None, None, None, Drop] || 29470 || 1 || 
+|}
+===Removed Items===
+{| class="wikitable sortable"
+|-
+! colspan="11" | Removed Items
+|-
+! style="width: 15em" | name !! id !! examine !! isMembers !! isGrandExchangable !! isStackable !! noteLinkedItem !! inventoryActions !! placeholderLinkedItem !! price !! weight
+|}
+===Diff Items===
+{| class="wikitable sortable sticky-header"
+|-
+! colspan="5" | Diff Items
+|-
+! style="width: 15em" | Name !! Id !! Key !! Previous Value !! New Value
+|-
+| rowspan="2" | [[Wood camo top]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#28839 28839][https://abextm.github.io/cache2/#/viewer/item/28839 (1)]
+|-
+| noteLinkedItem || <span style="color: #ee4231">28840</span> || <span style="color: #6bc71f">-1</span>
+|-
+| rowspan="13" | [[Null]]
+| rowspan="13" | [https://chisel.weirdgloop.org/moid/item_id.html#28840 28840][https://abextm.github.io/cache2/#/viewer/item/28840 (1)]
+|-
+| inventoryModel || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">48253</span>
+|-
+| name || <span style="color: #ee4231">null</span> || <span style="color: #6bc71f">Null</span>
+|-
+| examine ||  || <span style="color: #6bc71f">null</span>
+|-
+| zoom2d || <span style="color: #ee4231">2000</span> || <span style="color: #6bc71f">2130</span>
+|-
+| xan2d ||  || <span style="color: #6bc71f">389</span>
+|-
+| yan2d ||  || <span style="color: #6bc71f">130</span>
+|-
+| offsetX2d ||  || <span style="color: #6bc71f">-1</span>
+|-
+| offsetY2d ||  || <span style="color: #6bc71f">5</span>
+|-
+| weight ||  || <span style="color: #6bc71f">28</span>
+|-
+| category || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">15</span>
+|-
+| noteLinkedItem || <span style="color: #ee4231">28839</span> || <span style="color: #6bc71f">-1</span>
+|-
+| noteTemplate || <span style="color: #ee4231">799</span> || <span style="color: #6bc71f">-1</span>
+|-
+| rowspan="2" | [[Wood camo legs]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#28842 28842][https://abextm.github.io/cache2/#/viewer/item/28842 (1)]
+|-
+| noteLinkedItem || <span style="color: #ee4231">28843</span> || <span style="color: #6bc71f">-1</span>
+|-
+| rowspan="13" | [[Null]]
+| rowspan="13" | [https://chisel.weirdgloop.org/moid/item_id.html#28843 28843][https://abextm.github.io/cache2/#/viewer/item/28843 (1)]
+|-
+| inventoryModel || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">48253</span>
+|-
+| name || <span style="color: #ee4231">null</span> || <span style="color: #6bc71f">Null</span>
+|-
+| examine ||  || <span style="color: #6bc71f">null</span>
+|-
+| zoom2d || <span style="color: #ee4231">2000</span> || <span style="color: #6bc71f">2130</span>
+|-
+| xan2d ||  || <span style="color: #6bc71f">389</span>
+|-
+| yan2d ||  || <span style="color: #6bc71f">130</span>
+|-
+| offsetX2d ||  || <span style="color: #6bc71f">-1</span>
+|-
+| offsetY2d ||  || <span style="color: #6bc71f">5</span>
+|-
+| weight ||  || <span style="color: #6bc71f">28</span>
+|-
+| category || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">15</span>
+|-
+| noteLinkedItem || <span style="color: #ee4231">28842</span> || <span style="color: #6bc71f">-1</span>
+|-
+| noteTemplate || <span style="color: #ee4231">799</span> || <span style="color: #6bc71f">-1</span>
+|-
+| rowspan="2" | [[Jungle camo top]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#28845 28845][https://abextm.github.io/cache2/#/viewer/item/28845 (1)]
+|-
+| noteLinkedItem || <span style="color: #ee4231">28846</span> || <span style="color: #6bc71f">-1</span>
+|-
+| rowspan="13" | [[Null]]
+| rowspan="13" | [https://chisel.weirdgloop.org/moid/item_id.html#28846 28846][https://abextm.github.io/cache2/#/viewer/item/28846 (1)]
+|-
+| inventoryModel || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">48253</span>
+|-
+| name || <span style="color: #ee4231">null</span> || <span style="color: #6bc71f">Null</span>
+|-
+| examine ||  || <span style="color: #6bc71f">null</span>
+|-
+| zoom2d || <span style="color: #ee4231">2000</span> || <span style="color: #6bc71f">2130</span>
+|-
+| xan2d ||  || <span style="color: #6bc71f">389</span>
+|-
+| yan2d ||  || <span style="color: #6bc71f">130</span>
+|-
+| offsetX2d ||  || <span style="color: #6bc71f">-1</span>
+|-
+| offsetY2d ||  || <span style="color: #6bc71f">5</span>
+|-
+| weight ||  || <span style="color: #6bc71f">28</span>
+|-
+| category || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">15</span>
+|-
+| noteLinkedItem || <span style="color: #ee4231">28845</span> || <span style="color: #6bc71f">-1</span>
+|-
+| noteTemplate || <span style="color: #ee4231">799</span> || <span style="color: #6bc71f">-1</span>
+|-
+| rowspan="2" | [[Jungle camo legs]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#28848 28848][https://abextm.github.io/cache2/#/viewer/item/28848 (1)]
+|-
+| noteLinkedItem || <span style="color: #ee4231">28849</span> || <span style="color: #6bc71f">-1</span>
+|-
+| rowspan="13" | [[Null]]
+| rowspan="13" | [https://chisel.weirdgloop.org/moid/item_id.html#28849 28849][https://abextm.github.io/cache2/#/viewer/item/28849 (1)]
+|-
+| inventoryModel || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">48253</span>
+|-
+| name || <span style="color: #ee4231">null</span> || <span style="color: #6bc71f">Null</span>
+|-
+| examine ||  || <span style="color: #6bc71f">null</span>
+|-
+| zoom2d || <span style="color: #ee4231">2000</span> || <span style="color: #6bc71f">2130</span>
+|-
+| xan2d ||  || <span style="color: #6bc71f">389</span>
+|-
+| yan2d ||  || <span style="color: #6bc71f">130</span>
+|-
+| offsetX2d ||  || <span style="color: #6bc71f">-1</span>
+|-
+| offsetY2d ||  || <span style="color: #6bc71f">5</span>
+|-
+| weight ||  || <span style="color: #6bc71f">28</span>
+|-
+| category || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">15</span>
+|-
+| noteLinkedItem || <span style="color: #ee4231">28848</span> || <span style="color: #6bc71f">-1</span>
+|-
+| noteTemplate || <span style="color: #ee4231">799</span> || <span style="color: #6bc71f">-1</span>
+|-
+| rowspan="2" | [[Desert camo top]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#28851 28851][https://abextm.github.io/cache2/#/viewer/item/28851 (1)]
+|-
+| noteLinkedItem || <span style="color: #ee4231">28852</span> || <span style="color: #6bc71f">-1</span>
+|-
+| rowspan="13" | [[Null]]
+| rowspan="13" | [https://chisel.weirdgloop.org/moid/item_id.html#28852 28852][https://abextm.github.io/cache2/#/viewer/item/28852 (1)]
+|-
+| inventoryModel || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">48253</span>
+|-
+| name || <span style="color: #ee4231">null</span> || <span style="color: #6bc71f">Null</span>
+|-
+| examine ||  || <span style="color: #6bc71f">null</span>
+|-
+| zoom2d || <span style="color: #ee4231">2000</span> || <span style="color: #6bc71f">2130</span>
+|-
+| xan2d ||  || <span style="color: #6bc71f">389</span>
+|-
+| yan2d ||  || <span style="color: #6bc71f">130</span>
+|-
+| offsetX2d ||  || <span style="color: #6bc71f">-1</span>
+|-
+| offsetY2d ||  || <span style="color: #6bc71f">5</span>
+|-
+| weight ||  || <span style="color: #6bc71f">28</span>
+|-
+| category || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">15</span>
+|-
+| noteLinkedItem || <span style="color: #ee4231">28851</span> || <span style="color: #6bc71f">-1</span>
+|-
+| noteTemplate || <span style="color: #ee4231">799</span> || <span style="color: #6bc71f">-1</span>
+|-
+| rowspan="2" | [[Desert camo legs]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#28854 28854][https://abextm.github.io/cache2/#/viewer/item/28854 (1)]
+|-
+| noteLinkedItem || <span style="color: #ee4231">28855</span> || <span style="color: #6bc71f">-1</span>
+|-
+| rowspan="13" | [[Null]]
+| rowspan="13" | [https://chisel.weirdgloop.org/moid/item_id.html#28855 28855][https://abextm.github.io/cache2/#/viewer/item/28855 (1)]
+|-
+| inventoryModel || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">48253</span>
+|-
+| name || <span style="color: #ee4231">null</span> || <span style="color: #6bc71f">Null</span>
+|-
+| examine ||  || <span style="color: #6bc71f">null</span>
+|-
+| zoom2d || <span style="color: #ee4231">2000</span> || <span style="color: #6bc71f">2130</span>
+|-
+| xan2d ||  || <span style="color: #6bc71f">389</span>
+|-
+| yan2d ||  || <span style="color: #6bc71f">130</span>
+|-
+| offsetX2d ||  || <span style="color: #6bc71f">-1</span>
+|-
+| offsetY2d ||  || <span style="color: #6bc71f">5</span>
+|-
+| weight ||  || <span style="color: #6bc71f">28</span>
+|-
+| category || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">15</span>
+|-
+| noteLinkedItem || <span style="color: #ee4231">28854</span> || <span style="color: #6bc71f">-1</span>
+|-
+| noteTemplate || <span style="color: #ee4231">799</span> || <span style="color: #6bc71f">-1</span>
+|-
+| rowspan="2" | [[Polar camo top]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#28857 28857][https://abextm.github.io/cache2/#/viewer/item/28857 (1)]
+|-
+| noteLinkedItem || <span style="color: #ee4231">28858</span> || <span style="color: #6bc71f">-1</span>
+|-
+| rowspan="13" | [[Null]]
+| rowspan="13" | [https://chisel.weirdgloop.org/moid/item_id.html#28858 28858][https://abextm.github.io/cache2/#/viewer/item/28858 (1)]
+|-
+| inventoryModel || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">48253</span>
+|-
+| name || <span style="color: #ee4231">null</span> || <span style="color: #6bc71f">Null</span>
+|-
+| examine ||  || <span style="color: #6bc71f">null</span>
+|-
+| zoom2d || <span style="color: #ee4231">2000</span> || <span style="color: #6bc71f">2130</span>
+|-
+| xan2d ||  || <span style="color: #6bc71f">389</span>
+|-
+| yan2d ||  || <span style="color: #6bc71f">130</span>
+|-
+| offsetX2d ||  || <span style="color: #6bc71f">-1</span>
+|-
+| offsetY2d ||  || <span style="color: #6bc71f">5</span>
+|-
+| weight ||  || <span style="color: #6bc71f">28</span>
+|-
+| category || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">15</span>
+|-
+| noteLinkedItem || <span style="color: #ee4231">28857</span> || <span style="color: #6bc71f">-1</span>
+|-
+| noteTemplate || <span style="color: #ee4231">799</span> || <span style="color: #6bc71f">-1</span>
+|-
+| rowspan="2" | [[Polar camo legs]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#28860 28860][https://abextm.github.io/cache2/#/viewer/item/28860 (1)]
+|-
+| noteLinkedItem || <span style="color: #ee4231">28861</span> || <span style="color: #6bc71f">-1</span>
+|-
+| rowspan="13" | [[Null]]
+| rowspan="13" | [https://chisel.weirdgloop.org/moid/item_id.html#28861 28861][https://abextm.github.io/cache2/#/viewer/item/28861 (1)]
+|-
+| inventoryModel || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">48253</span>
+|-
+| name || <span style="color: #ee4231">null</span> || <span style="color: #6bc71f">Null</span>
+|-
+| examine ||  || <span style="color: #6bc71f">null</span>
+|-
+| zoom2d || <span style="color: #ee4231">2000</span> || <span style="color: #6bc71f">2130</span>
+|-
+| xan2d ||  || <span style="color: #6bc71f">389</span>
+|-
+| yan2d ||  || <span style="color: #6bc71f">130</span>
+|-
+| offsetX2d ||  || <span style="color: #6bc71f">-1</span>
+|-
+| offsetY2d ||  || <span style="color: #6bc71f">5</span>
+|-
+| weight ||  || <span style="color: #6bc71f">28</span>
+|-
+| category || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">15</span>
+|-
+| noteLinkedItem || <span style="color: #ee4231">28860</span> || <span style="color: #6bc71f">-1</span>
+|-
+| noteTemplate || <span style="color: #ee4231">799</span> || <span style="color: #6bc71f">-1</span>
+|-
+| rowspan="2" | [[Blue moon spear]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#28988 28988][https://abextm.github.io/cache2/#/viewer/item/28988 (1)]
+|-
+| weight || <span style="color: #ee4231">2267</span> || <span style="color: #6bc71f">3000</span>
+|-
+| rowspan="2" | [[Eclipse moon chestplate]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#29004 29004][https://abextm.github.io/cache2/#/viewer/item/29004 (1)]
+|-
+| weight || <span style="color: #ee4231">12000</span> || <span style="color: #6bc71f">3000</span>
+|-
+| rowspan="2" | [[Eclipse moon tassets]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#29007 29007][https://abextm.github.io/cache2/#/viewer/item/29007 (1)]
+|-
+| weight || <span style="color: #ee4231">8000</span> || <span style="color: #6bc71f">1000</span>
+|-
+| rowspan="2" | [[Eclipse moon helm]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#29010 29010][https://abextm.github.io/cache2/#/viewer/item/29010 (1)]
+|-
+| weight || <span style="color: #ee4231">1000</span> || <span style="color: #6bc71f">907</span>
+|-
+| rowspan="2" | [[Blue moon chestplate]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#29013 29013][https://abextm.github.io/cache2/#/viewer/item/29013 (1)]
+|-
+| weight || <span style="color: #ee4231">12000</span> || <span style="color: #6bc71f">3175</span>
+|-
+| rowspan="2" | [[Blue moon tassets]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#29016 29016][https://abextm.github.io/cache2/#/viewer/item/29016 (1)]
+|-
+| weight || <span style="color: #ee4231">8000</span> || <span style="color: #6bc71f">1360</span>
+|-
+| rowspan="2" | [[Blue moon helm]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#29019 29019][https://abextm.github.io/cache2/#/viewer/item/29019 (1)]
+|-
+| weight || <span style="color: #ee4231">1000</span> || <span style="color: #6bc71f">453</span>
+|-
+| rowspan="2" | [[Blood moon chestplate]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#29022 29022][https://abextm.github.io/cache2/#/viewer/item/29022 (1)]
+|-
+| weight || <span style="color: #ee4231">12000</span> || <span style="color: #6bc71f">5443</span>
+|-
+| rowspan="2" | [[Blood moon tassets]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#29025 29025][https://abextm.github.io/cache2/#/viewer/item/29025 (1)]
+|-
+| weight || <span style="color: #ee4231">8000</span> || <span style="color: #6bc71f">4082</span>
+|-
+| rowspan="2" | [[Eclipse moon chestplate]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#29031 29031][https://abextm.github.io/cache2/#/viewer/item/29031 (1)]
+|-
+| weight || <span style="color: #ee4231">12000</span> || <span style="color: #6bc71f">3000</span>
+|-
+| rowspan="2" | [[Eclipse moon tassets]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#29033 29033][https://abextm.github.io/cache2/#/viewer/item/29033 (1)]
+|-
+| weight || <span style="color: #ee4231">8000</span> || <span style="color: #6bc71f">1000</span>
+|-
+| rowspan="2" | [[Blue moon chestplate]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#29037 29037][https://abextm.github.io/cache2/#/viewer/item/29037 (1)]
+|-
+| weight || <span style="color: #ee4231">12000</span> || <span style="color: #6bc71f">3175</span>
+|-
+| rowspan="2" | [[Blue moon tassets]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#29039 29039][https://abextm.github.io/cache2/#/viewer/item/29039 (1)]
+|-
+| weight || <span style="color: #ee4231">8000</span> || <span style="color: #6bc71f">1360</span>
+|-
+| rowspan="2" | [[Blue moon helm]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#29041 29041][https://abextm.github.io/cache2/#/viewer/item/29041 (1)]
+|-
+| weight || <span style="color: #ee4231">907</span> || <span style="color: #6bc71f">453</span>
+|-
+| rowspan="2" | [[Blood moon chestplate]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#29043 29043][https://abextm.github.io/cache2/#/viewer/item/29043 (1)]
+|-
+| weight || <span style="color: #ee4231">12000</span> || <span style="color: #6bc71f">5443</span>
+|-
+| rowspan="2" | [[Blood moon tassets]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#29045 29045][https://abextm.github.io/cache2/#/viewer/item/29045 (1)]
+|-
+| weight || <span style="color: #ee4231">8000</span> || <span style="color: #6bc71f">4082</span>
+|-
+| rowspan="2" | [[Eclipse moon chestplate (broken)]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#29049 29049][https://abextm.github.io/cache2/#/viewer/item/29049 (1)]
+|-
+| weight || <span style="color: #ee4231">12000</span> || <span style="color: #6bc71f">3000</span>
+|-
+| rowspan="2" | [[Eclipse moon tassets (broken)]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#29052 29052][https://abextm.github.io/cache2/#/viewer/item/29052 (1)]
+|-
+| weight || <span style="color: #ee4231">8000</span> || <span style="color: #6bc71f">1000</span>
+|-
+| rowspan="2" | [[Blue moon chestplate (broken)]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#29058 29058][https://abextm.github.io/cache2/#/viewer/item/29058 (1)]
+|-
+| weight || <span style="color: #ee4231">12000</span> || <span style="color: #6bc71f">3175</span>
+|-
+| rowspan="2" | [[Blue moon tassets (broken)]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#29061 29061][https://abextm.github.io/cache2/#/viewer/item/29061 (1)]
+|-
+| weight || <span style="color: #ee4231">8000</span> || <span style="color: #6bc71f">1360</span>
+|-
+| rowspan="2" | [[Blue moon helm (broken)]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#29064 29064][https://abextm.github.io/cache2/#/viewer/item/29064 (1)]
+|-
+| weight || <span style="color: #ee4231">907</span> || <span style="color: #6bc71f">453</span>
+|-
+| rowspan="2" | [[Blood moon chestplate (broken)]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#29067 29067][https://abextm.github.io/cache2/#/viewer/item/29067 (1)]
+|-
+| weight || <span style="color: #ee4231">12000</span> || <span style="color: #6bc71f">5443</span>
+|-
+| rowspan="2" | [[Blood moon tassets (broken)]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#29070 29070][https://abextm.github.io/cache2/#/viewer/item/29070 (1)]
+|-
+| weight || <span style="color: #ee4231">8000</span> || <span style="color: #6bc71f">4082</span>
+|-
+| rowspan="2" | [[Kebbity tuft]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#29223 29223][https://abextm.github.io/cache2/#/viewer/item/29223 (1)]
+|-
+| category || <span style="color: #ee4231">1918</span> || <span style="color: #6bc71f">585</span>
+|-
+| rowspan="2" | [[Small meat pouch]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#29295 29295][https://abextm.github.io/cache2/#/viewer/item/29295 (1)]
+|-
+| inventoryActions || [Fill, Empty, Check, <span style="color: #ee4231">None</span>, Destroy] || [Fill, Empty, Check, <span style="color: #6bc71f">Open</span>, Destroy]
+|-
+| rowspan="2" | [[Large meat pouch]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#29297 29297][https://abextm.github.io/cache2/#/viewer/item/29297 (1)]
+|-
+| inventoryActions || [Fill, Empty, Check, <span style="color: #ee4231">None</span>, Destroy] || [Fill, Empty, Check, <span style="color: #6bc71f">Open</span>, Destroy]
+|-
+| rowspan="5" | [[Small fur pouch]]
+| rowspan="5" | [https://chisel.weirdgloop.org/moid/item_id.html#29299 29299][https://abextm.github.io/cache2/#/viewer/item/29299 (1)]
+|-
+| inventoryModel || <span style="color: #ee4231">52218</span> || <span style="color: #6bc71f">53134</span>
+|-
+| inventoryActions || [Fill, Empty, Check, <span style="color: #ee4231">None</span>, Destroy] || [Fill, Empty, Check, <span style="color: #6bc71f">Open</span>, Destroy]
+|-
+| recolorFrom ||  || <span style="color: #6bc71f">[7393, 7636, 3377, 3369]</span>
+|-
+| recolorTo ||  || <span style="color: #6bc71f">[4661, 4785, 4781, 4785]</span>
+|-
+| rowspan="3" | [[Medium fur pouch]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/item_id.html#29301 29301][https://abextm.github.io/cache2/#/viewer/item/29301 (1)]
+|-
+| inventoryModel || <span style="color: #ee4231">52217</span> || <span style="color: #6bc71f">53134</span>
+|-
+| inventoryActions || [Fill, Empty, Check, <span style="color: #ee4231">None</span>, Destroy] || [Fill, Empty, Check, <span style="color: #6bc71f">Open</span>, Destroy]
+|-
+| rowspan="5" | [[Large fur pouch]]
+| rowspan="5" | [https://chisel.weirdgloop.org/moid/item_id.html#29303 29303][https://abextm.github.io/cache2/#/viewer/item/29303 (1)]
+|-
+| inventoryModel || <span style="color: #ee4231">52215</span> || <span style="color: #6bc71f">53134</span>
+|-
+| inventoryActions || [Fill, Empty, Check, <span style="color: #ee4231">None</span>, Destroy] || [Fill, Empty, Check, <span style="color: #6bc71f">Open</span>, Destroy]
+|-
+| recolorFrom ||  || <span style="color: #6bc71f">[7393, 7636, 3377, 3369]</span>
+|-
+| recolorTo ||  || <span style="color: #6bc71f">[32889, 41069, 41069, 32889]</span>
+|}
+==Params==
+===New Params===
+{| class="wikitable sortable"
+|-
+! colspan="5" | New Params
+|-
+! style="width: 15em" | id !! type !! defaultInt !! defaultString !! isMembers
+|}
+===Removed Params===
+{| class="wikitable sortable"
+|-
+! colspan="5" | Removed Params
+|-
+! style="width: 15em" | id !! type !! defaultInt !! defaultString !! isMembers
+|}
+===Diff Params===
+{| class="wikitable sortable sticky-header"
+|-
+! colspan="5" | Diff Params
+|-
+! style="width: 15em" | Id !! Key !! Previous Value !! New Value
+|}
+==Structs==
+===New Structs===
+{| class="wikitable sortable"
+|-
+! colspan="2" | New Structs
+|-
+! style="width: 15em" | id !! params
+|-
+| [https://chisel.weirdgloop.org/structs/index.html?type=structs&id=946 946][https://abextm.github.io/cache2/#/viewer/struct/946 (1)] || {'1077': 372, '1078': 0, '1084': 1, '1085': 1, '1086': 'Player Report options', '1088': 'player report options, abuse, snapshot, controls', '1096': 'Select whether Report options are shown on other players,  if available.'}
+|}
+===Removed Structs===
+{| class="wikitable sortable"
+|-
+! colspan="2" | Removed Structs
+|-
+! style="width: 15em" | id !! params
+|}
+===Diff Structs===
+{| class="wikitable sortable sticky-header"
+|-
+! colspan="5" | Diff Structs
+|-
+! style="width: 15em" | Id !! Key !! Previous Value !! New Value
+|-
+| rowspan="2" | [https://chisel.weirdgloop.org/structs/index.html?type=structs&id=924 924][https://abextm.github.io/cache2/#/viewer/struct/924 (1)]
+|-
+| params || {'1306': 533, '1307': 3594, '1308': 'Betrayal', '1309': 'Defeat a Moon <span style="color: #ee4231">while</span> <span style="color: #ee4231">wearing a full set (head,  chest,  legs) of </span>its associated <span style="color: #ee4231">armour</span> <span style="color: #ee4231">set</span>.', '1310': 3, '1311': 5, '1312': 33} || {'1306': 533, '1307': 3594, '1308': 'Betrayal', '1309': 'Defeat a Moon <span style="color: #6bc71f">using</span> its associated <span style="color: #6bc71f">weapon</span> <span style="color: #6bc71f">drop</span>.', '1310': 3, '1311': 5, '1312': 33}
+|-
+| rowspan="2" | [https://chisel.weirdgloop.org/structs/index.html?type=structs&id=925 925][https://abextm.github.io/cache2/#/viewer/struct/925 (1)]
+|-
+| params || {'1306': 534, '1307': 3594, '1308': 'Back to Our Roots', '1309': 'Defeat all three Moons in one run <span style="color: #ee4231">using</span> only a Dragon Scimitar.', '1310': 2, '1311': 5, '1312': 33} || {'1306': 534, '1307': 3594, '1308': 'Back to Our Roots', '1309': 'Defeat all three Moons in one run <span style="color: #6bc71f">by</span> only <span style="color: #6bc71f">attacking with </span>a Dragon Scimitar.', '1310': 2, '1311': 5, '1312': 33}
+|-
+| rowspan="2" | [https://chisel.weirdgloop.org/structs/index.html?type=structs&id=928 928][https://abextm.github.io/cache2/#/viewer/struct/928 (1)]
+|-
+| params || {'1306': 537, '1307': 3594, '1308': 'Fat of the Land', '1309': 'Defeat 30 Moons of Peril without leaving the dungeon.', '1310': 3, '1311': 1, '1312': 33} || {'1306': 537, '1307': 3594, '1308': 'Fat of the Land', '1309': 'Defeat 30 Moons of Peril <span style="color: #6bc71f">bosses </span>without leaving the dungeon.', '1310': 3, '1311': 1, '1312': 33}
+|-
+| rowspan="2" | [https://chisel.weirdgloop.org/structs/index.html?type=structs&id=933 933][https://abextm.github.io/cache2/#/viewer/struct/933 (1)]
+|-
+| params || {'1306': 540, '1307': 3594, '1308': 'I Brought Mine Too', '1309': 'Defeat Sol Heredit using only <span style="color: #ee4231">Zamorakian</span> <span style="color: #ee4231">hasta</span>  or <span style="color: #ee4231">spear</span>.', '1310': 5, '1311': 5, '1312': 21} || {'1306': 540, '1307': 3594, '1308': 'I Brought Mine Too', '1309': 'Defeat Sol Heredit using only <span style="color: #6bc71f">a</span> <span style="color: #6bc71f">Spear,</span>  <span style="color: #6bc71f">Hasta </span>or <span style="color: #6bc71f">Halberd</span>.', '1310': 5, '1311': 5, '1312': 21}
+|-
+| rowspan="2" | [https://chisel.weirdgloop.org/structs/index.html?type=structs&id=944 944][https://abextm.github.io/cache2/#/viewer/struct/944 (1)]
+|-
+| params || {'1306': 549, '1307': 3594, '1308': 'Colosseum Speed-<span style="color: #ee4231">Trialist</span>', '1309': 'Complete the Colosseum with a total time of 28: 00 or less.', '1310': 5, '1311': 6, '1312': 21} || {'1306': 549, '1307': 3594, '1308': 'Colosseum Speed-<span style="color: #6bc71f">Chaser</span>', '1309': 'Complete the Colosseum with a total time of 28: 00 or less.', '1310': 5, '1311': 6, '1312': 21}
+|-
+| rowspan="2" | [https://chisel.weirdgloop.org/structs/index.html?type=structs&id=945 945][https://abextm.github.io/cache2/#/viewer/struct/945 (1)]
+|-
+| params || {'1306': 550, '1307': 3594, '1308': 'Colosseum Speed-<span style="color: #ee4231">Chaser</span>', '1309': 'Complete the Colosseum with a total time of 24: 00 or less.', '1310': 6, '1311': 6, '1312': 21} || {'1306': 550, '1307': 3594, '1308': 'Colosseum Speed-<span style="color: #6bc71f">Runner</span>', '1309': 'Complete the Colosseum with a total time of 24: 00 or less.', '1310': 6, '1311': 6, '1312': 21}
+|-
+| rowspan="2" | [https://chisel.weirdgloop.org/structs/index.html?type=structs&id=2737 2737][https://abextm.github.io/cache2/#/viewer/struct/2737 (1)]
+|-
+| params || {'1077': 55, '1078': 2, '1085': 1, '1086': 'Player <span style="color: #ee4231">attack</span> options', '1088': 'player attack options, controls', '1091': 3993, '1092': 3994, '1096': 'Select what the default left click option on another player will be.', '1097': 'Select what the default tap option on another player will be.'} || {'1077': 55, '1078': 2, '1085': 1, '1086': 'Player <span style="color: #6bc71f">Attack</span> options', '1088': 'player attack options, controls', '1091': 3993, '1092': 3994, '1096': 'Select what the default left click option on another player will be.', '1097': 'Select what the default tap option on another player will be.'}
+|-
+| rowspan="2" | [https://chisel.weirdgloop.org/structs/index.html?type=structs&id=2738 2738][https://abextm.github.io/cache2/#/viewer/struct/2738 (1)]
+|-
+| params || {'1077': 56, '1078': 2, '1085': 1, '1086': 'NPC <span style="color: #ee4231">attack</span> options', '1088': 'npc attack options, controls', '1091': 3991, '1092': 3992, '1096': 'Select what the default left click option on an NPC will be.', '1097': 'Select what the default tap option on an NPC will be.'} || {'1077': 56, '1078': 2, '1085': 1, '1086': 'NPC <span style="color: #6bc71f">Attack</span> options', '1088': 'npc attack options, controls', '1091': 3991, '1092': 3992, '1096': 'Select what the default left click option on an NPC will be.', '1097': 'Select what the default tap option on an NPC will be.'}
+|-
+| rowspan="2" | [https://chisel.weirdgloop.org/structs/index.html?type=structs&id=4490 4490][https://abextm.github.io/cache2/#/viewer/struct/4490 (1)]
+|-
+| params || {'1077': 312, '1078': 0, '1084': 1, '1085': 1, '1086': 'Player <span style="color: #ee4231">trade</span> options', '1088': 'player trade options, controls', '1096': 'Select whether Trade options are shown on other players,  if available.'} || {'1077': 312, '1078': 0, '1084': 1, '1085': 1, '1086': 'Player <span style="color: #6bc71f">Trade</span> options', '1088': 'player trade options, controls', '1096': 'Select whether Trade options are shown on other players,  if available.'}
+|}
+==Database Rows==
+===New Database Rows===
+{| class="wikitable sortable"
+|-
+! colspan="3" | New Database Rows
+|-
+! style="width: 15em" | id !! table !! values
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/554 554] || 18 || [[49860452], [Wilderness. South of Pirates' Hideout.], None]
+|}
+===Removed Database Rows===
+{| class="wikitable sortable"
+|-
+! colspan="3" | Removed Database Rows
+|-
+! style="width: 15em" | id !! table !! values
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/583 583] || 18 || [[49106801], [Wilderness. Inside Agility Training Area.], None]
+|}
+===Diff Database Rows===
+{| class="wikitable sortable sticky-header"
+|-
+! colspan="5" | Diff Database Rows
+|-
+! style="width: 15em" | Id !! Key !! Previous Value !! New Value
+|-
+| rowspan="3" | [https://abextm.github.io/cache2/#/viewer/dbrow/2044 2044]
+|-
+| values || [[509], [4], [24.<span style="color: #ee4231">45N</span> <span style="color: #ee4231">17</span>.<span style="color: #ee4231">24E</span>], [<span style="color: #ee4231">583</span>], None, [1809, 1810], [11], None] || [[509], [4], [24.<span style="color: #6bc71f">20N</span> <span style="color: #6bc71f">18</span>.<span style="color: #6bc71f">50E</span>], [<span style="color: #6bc71f">554</span>], None, [1809, 1810], [11], None]
+|-
+| types || [[0], [0], [36], [74], None, [74], [0], None] || [[0], [0], [36], [74], None, [74], [0], None]
+|}

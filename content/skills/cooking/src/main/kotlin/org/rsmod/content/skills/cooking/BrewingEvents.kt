@@ -1,6 +1,7 @@
 package org.rsmod.content.skills.cooking
 
 import jakarta.inject.Inject
+import kotlin.random.Random
 import org.rsmod.api.player.protect.ProtectedAccess
 import org.rsmod.api.player.stat.cookingLvl
 import org.rsmod.api.script.onOpLoc1
@@ -13,31 +14,44 @@ import org.rsmod.content.skills.SkillMultiEntry
 import org.rsmod.content.skills.openSkillMulti
 import org.rsmod.plugin.scripts.PluginScript
 import org.rsmod.plugin.scripts.ScriptContext
-import kotlin.random.Random
 
 class BrewingEvents @Inject constructor() : PluginScript() {
 
     private val ales = CookingAlesRow.all()
 
-    data class Brewery(
-        val vatVarbit: String,
-        val barrelVarbit: String,
-    )
+    data class Brewery(val vatVarbit: String, val barrelVarbit: String)
 
-    private val breweries = listOf(
-        Brewery("varbit.brewing_vat_varbit_1", "varbit.brewing_barrel_varbit_1"),
-        Brewery("varbit.brewing_vat_varbit_2", "varbit.brewing_barrel_varbit_2"),
-        Brewery("varbit.brewing_vat_varbit_3", "varbit.brewing_barrel_varbit_3"),
-        Brewery("varbit.brewing_vat_varbit_4", "varbit.brewing_barrel_varbit_4"),
-    )
+    private val breweries =
+        listOf(
+            Brewery("varbit.brewing_vat_varbit_1", "varbit.brewing_barrel_varbit_1"),
+            Brewery("varbit.brewing_vat_varbit_2", "varbit.brewing_barrel_varbit_2"),
+            Brewery("varbit.brewing_vat_varbit_3", "varbit.brewing_barrel_varbit_3"),
+            Brewery("varbit.brewing_vat_varbit_4", "varbit.brewing_barrel_varbit_4"),
+        )
 
     private val vatChildLocs = buildList {
-        addAll(listOf("loc.vat_empty", "loc.vat_water", "loc.vat_bad_ale", "loc.vat_bad_cider", "loc.vat_barley"))
-        val aleNames = listOf(
-            "dwarven_stout", "asgarnian_ale", "greenmans_ale", "wizards_mind_bomb",
-            "dragon_bitter", "moonlight_mead", "axemans_folly", "chefs_delight",
-            "slayers_respite", "cider",
+        addAll(
+            listOf(
+                "loc.vat_empty",
+                "loc.vat_water",
+                "loc.vat_bad_ale",
+                "loc.vat_bad_cider",
+                "loc.vat_barley",
+            )
         )
+        val aleNames =
+            listOf(
+                "dwarven_stout",
+                "asgarnian_ale",
+                "greenmans_ale",
+                "wizards_mind_bomb",
+                "dragon_bitter",
+                "moonlight_mead",
+                "axemans_folly",
+                "chefs_delight",
+                "slayers_respite",
+                "cider",
+            )
         aleNames.forEach { ale ->
             add("loc.vat_${ale}_hops")
             add("loc.vat_${ale}_brewing_1")
@@ -52,29 +66,35 @@ class BrewingEvents @Inject constructor() : PluginScript() {
         add("loc.barrel_unfinished_ale")
         add("loc.barrel_bad_ale")
         add("loc.barrel_bad_cider")
-        val aleNames = listOf(
-            "dwarven_stout", "asgarnian_ale", "greenmans_ale", "wizards_mind_bomb",
-            "dragon_bitter", "moonlight_mead", "axemans_folly", "chefs_delight",
-            "slayers_respite", "cider",
-        )
+        val aleNames =
+            listOf(
+                "dwarven_stout",
+                "asgarnian_ale",
+                "greenmans_ale",
+                "wizards_mind_bomb",
+                "dragon_bitter",
+                "moonlight_mead",
+                "axemans_folly",
+                "chefs_delight",
+                "slayers_respite",
+                "cider",
+            )
         aleNames.forEach { ale ->
             add("loc.barrel_$ale")
             add("loc.barrel_${ale}_mature")
         }
     }
 
-    private val valveLocs = listOf(
-        "loc.vat_valve_1",
-        "loc.vat_valve_2",
-        "loc.vat_valve_3",
-    )
+    private val valveLocs = listOf("loc.vat_valve_1", "loc.vat_valve_2", "loc.vat_valve_3")
 
     private val valveBaseToBrewery = mapOf(23936 to 0, 23937 to 1, 55339 to 2)
     private val vatBaseToBrewery = mapOf(11670 to 0, 24956 to 1, 55338 to 2)
     private val barrelBaseToBrewery = mapOf(24957 to 0, 20795 to 1, 55340 to 2)
 
     private fun getBreweryFromVat(baseLocId: Int) = breweries[vatBaseToBrewery[baseLocId] ?: 0]
-    private fun getBreweryFromBarrel(baseLocId: Int) = breweries[barrelBaseToBrewery[baseLocId] ?: 0]
+
+    private fun getBreweryFromBarrel(baseLocId: Int) =
+        breweries[barrelBaseToBrewery[baseLocId] ?: 0]
 
     override fun ScriptContext.startup() {
         vatChildLocs.forEach { vat ->
@@ -82,9 +102,7 @@ class BrewingEvents @Inject constructor() : PluginScript() {
             onOpLocU(vat) { handleVatItemUse(it.loc.id, it.objType.internalName) }
         }
 
-        valveLocs.forEach { valve ->
-            onOpLoc1(valve) { turnValve(it.loc.id) }
-        }
+        valveLocs.forEach { valve -> onOpLoc1(valve) { turnValve(it.loc.id) } }
 
         barrelChildLocs.forEach { barrel ->
             onOpLoc1(barrel) { collectBeer(it.loc.id) }
@@ -140,17 +158,27 @@ class BrewingEvents @Inject constructor() : PluginScript() {
     }
 
     private suspend fun ProtectedAccess.findRecipeInInventory(): CookingAlesRow? {
-        val available = ales.filter {
-            inv.count(it.ingredient.internalName) >= it.ingredientCount && player.cookingLvl >= it.level
-        }
+        val available =
+            ales.filter {
+                inv.count(it.ingredient.internalName) >= it.ingredientCount &&
+                    player.cookingLvl >= it.level
+            }
         if (available.isEmpty()) return null
         if (available.size == 1) return available.first()
 
         var chosen: CookingAlesRow? = null
-        openSkillMulti(SkillMultiConfig(
-            verb = "brew",
-            entries = available.map { SkillMultiEntry(it.result.internalName, listOf(Material(it.ingredient.internalName, it.ingredientCount))) },
-        )) { selection ->
+        openSkillMulti(
+            SkillMultiConfig(
+                verb = "brew",
+                entries =
+                    available.map {
+                        SkillMultiEntry(
+                            it.result.internalName,
+                            listOf(Material(it.ingredient.internalName, it.ingredientCount)),
+                        )
+                    },
+            )
+        ) { selection ->
             chosen = available.firstOrNull { it.result.internalName == selection.entry.internal }
         }
         return chosen
@@ -162,23 +190,36 @@ class BrewingEvents @Inject constructor() : PluginScript() {
             mes("The vat isn't ready for ingredients yet.")
             return
         }
-        val matching = ales.filter { it.ingredient.internalName == ingredient && player.cookingLvl >= it.level }
+        val matching =
+            ales.filter {
+                it.ingredient.internalName == ingredient && player.cookingLvl >= it.level
+            }
         if (matching.isEmpty()) {
             mes("You don't have the Cooking level to brew anything with that.")
             return
         }
-        val recipe = if (matching.size == 1) {
-            matching.first()
-        } else {
-            var chosen: CookingAlesRow? = null
-            openSkillMulti(SkillMultiConfig(
-                verb = "brew",
-                entries = matching.map { SkillMultiEntry(it.result.internalName, listOf(Material(it.ingredient.internalName, it.ingredientCount))) },
-            )) { selection ->
-                chosen = matching.firstOrNull { it.result.internalName == selection.entry.internal }
+        val recipe =
+            if (matching.size == 1) {
+                matching.first()
+            } else {
+                var chosen: CookingAlesRow? = null
+                openSkillMulti(
+                    SkillMultiConfig(
+                        verb = "brew",
+                        entries =
+                            matching.map {
+                                SkillMultiEntry(
+                                    it.result.internalName,
+                                    listOf(Material(it.ingredient.internalName, it.ingredientCount)),
+                                )
+                            },
+                    )
+                ) { selection ->
+                    chosen =
+                        matching.firstOrNull { it.result.internalName == selection.entry.internal }
+                }
+                chosen ?: return
             }
-            chosen ?: return
-        }
         if (inv.count(recipe.ingredient.internalName) < recipe.ingredientCount) {
             mes("You need ${recipe.ingredientCount} of that ingredient.")
             return
@@ -307,7 +348,8 @@ class BrewingEvents @Inject constructor() : PluginScript() {
             return
         }
 
-        val result = if (mature != null) recipe.matureResult.internalName else recipe.result.internalName
+        val result =
+            if (mature != null) recipe.matureResult.internalName else recipe.result.internalName
 
         invDel(inv, "obj.beer_glass", 1)
         invAdd(inv, result, 1)
@@ -316,8 +358,5 @@ class BrewingEvents @Inject constructor() : PluginScript() {
         mes("You collect the ale from the barrel.")
     }
 
-    data class BrewFermentTask(
-        val recipeIndex: Int,
-        val breweryIndex: Int,
-    )
+    data class BrewFermentTask(val recipeIndex: Int, val breweryIndex: Int)
 }

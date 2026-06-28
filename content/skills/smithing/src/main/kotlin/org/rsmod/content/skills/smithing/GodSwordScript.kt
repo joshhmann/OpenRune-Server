@@ -2,9 +2,9 @@ package org.rsmod.content.skills.smithing
 
 import org.rsmod.api.player.events.interact.HeldUEvents
 import org.rsmod.api.player.protect.ProtectedAccess
-import org.rsmod.content.skills.smithing.util.SmithingUtils.hasHammer
 import org.rsmod.api.script.onOpHeldU
 import org.rsmod.api.script.onOpLocCategoryU
+import org.rsmod.content.skills.smithing.util.SmithingUtils.hasHammer
 import org.rsmod.plugin.scripts.PluginScript
 import org.rsmod.plugin.scripts.ScriptContext
 
@@ -77,7 +77,7 @@ class GodSwordScript : PluginScript() {
     private fun ProtectedAccess.rejectBladeCombine() {
         mes(
             "These pieces of the godsword can't be joined together like that - " +
-                "try forging them on an anvil.",
+                "try forging them on an anvil."
         )
     }
 
@@ -91,7 +91,10 @@ class GodSwordScript : PluginScript() {
 
         val product = hiltToGodsword[hiltInternal] ?: return
 
-        if (invDel(inv, hiltInternal, 1).success && invDel(inv, "obj.godwars_godsword_blade1+2+3", 1).success) {
+        if (
+            invDel(inv, hiltInternal, 1).success &&
+                invDel(inv, "obj.godwars_godsword_blade1+2+3", 1).success
+        ) {
             invAdd(inv, product, 1)
         }
     }
@@ -125,13 +128,8 @@ class GodSwordScript : PluginScript() {
         }
     }
 
-    /**
-     * Finds a combination of items whose shard sets exactly match [required].
-     */
-    private fun findConsumption(
-        required: Set<Int>,
-        counts: Map<String, Int>,
-    ): List<String>? {
+    /** Finds a combination of items whose shard sets exactly match [required]. */
+    private fun findConsumption(required: Set<Int>, counts: Map<String, Int>): List<String>? {
         if (required.isEmpty()) {
             return emptyList()
         }
@@ -154,5 +152,4 @@ class GodSwordScript : PluginScript() {
 
         return null
     }
-
 }

@@ -23,7 +23,7 @@ class DungeonLadderScript : PluginScript() {
     private suspend fun ProtectedAccess.climb(type: ObjectServerType, translateZ: Int) {
         arriveDelay()
         val dest = player.coords.translateZ(translateZ)
-        anim(RSCM.getReverseMapping(RSCMType.SEQ,type.climbAnim().id))
+        anim(RSCM.getReverseMapping(RSCMType.SEQ, type.climbAnim().id))
         delay(1)
         telejump(dest)
     }

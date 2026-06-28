@@ -49,7 +49,8 @@ constructor(private val accuracy: AccuracyFormulae, private val maxHits: MaxHitF
         val attackRate = npc.attackRate()
         actionDelay = mapClock + attackRate
 
-        val attackAnim = RSCM.getReverseMapping(RSCMType.SEQ,npc.visType.param(params.attack_anim).id)
+        val attackAnim =
+            RSCM.getReverseMapping(RSCMType.SEQ, npc.visType.param(params.attack_anim).id)
         val attackSound = npc.visType.paramOrNull(params.attack_sound)
 
         anim(attackAnim)

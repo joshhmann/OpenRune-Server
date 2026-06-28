@@ -9,20 +9,18 @@ import org.rsmod.game.inv.isType
 
 internal sealed class BonecrusherUnchargeResult {
     data object WrongItem : BonecrusherUnchargeResult()
+
     data object NoCharges : BonecrusherUnchargeResult()
+
     data object CannotRedeemEcto : BonecrusherUnchargeResult()
+
     data object NoInvSpace : BonecrusherUnchargeResult()
-    data class Success(
-        val ectoTokens: Int,
-        val chargesRemoved: Int,
-        val remainingCharges: Int,
-    ) : BonecrusherUnchargeResult()
+
+    data class Success(val ectoTokens: Int, val chargesRemoved: Int, val remainingCharges: Int) :
+        BonecrusherUnchargeResult()
 }
 
-internal fun Player.chargeCrusherItemWithEcto(
-    crusherSlot: Int,
-    tokenSlot: Int,
-): Int? {
+internal fun Player.chargeCrusherItemWithEcto(crusherSlot: Int, tokenSlot: Int): Int? {
     val tokenCount = inv.count("obj.ectotoken")
     val removed = invDel(inv, "obj.ectotoken", count = tokenCount, slot = tokenSlot)
     if (removed.failure) {

@@ -1,0 +1,394 @@
+{{ToC}}
+==Items==
+{| class="wikitable sortable"
+!colspan='5'|Items
+|-
+! Name !! ID !! Key !! Previous Value !! Changed into
+|-
+| [[Clan cloak]] || 25712 || colspan = "4" | New ID
+|-
+| [[null]] || 25713 || colspan = "4" | New ID
+|-
+| [[Clan cloak]] || 25714 || colspan = "4" | New ID
+|-
+| [[Clan cloak]] || 25715 || colspan = "4" | New ID
+|-
+| [[Clan cloak]] || 25716 || colspan = "4" | New ID
+|-
+| [[Clan cloak]] || 25717 || colspan = "4" | New ID
+|-
+| [[Clan cloak]] || 25718 || colspan = "4" | New ID
+|-
+| [[Clan cloak]] || 25719 || colspan = "4" | New ID
+|-
+| [[Clan cloak]] || 25720 || colspan = "4" | New ID
+|-
+| [[Clan vexillum]] || 25721 || colspan = "4" | New ID
+|-
+| [[null]] || 25722 || colspan = "4" | New ID
+|-
+| [[Clan vexillum]] || 25723 || colspan = "4" | New ID
+|-
+| [[Clan vexillum]] || 25724 || colspan = "4" | New ID
+|-
+| [[Clan vexillum]] || 25725 || colspan = "4" | New ID
+|-
+| [[Clan vexillum]] || 25726 || colspan = "4" | New ID
+|-
+| [[Clan vexillum]] || 25727 || colspan = "4" | New ID
+|-
+| [[Clan vexillum]] || 25728 || colspan = "4" | New ID
+|-
+| [[Clan vexillum]] || 25729 || colspan = "4" | New ID
+|-
+|rowspan="4"|[[null]]
+|rowspan="4"|11542
+|-
+|inventoryModel || 2674 || 42206
+|-
+| maleModel0 || -1 || 42206
+|-
+| femaleModel0 || -1 || 42206
+|-
+|rowspan="4"|[[null]]
+|rowspan="4"|11543
+|-
+|inventoryModel || 2674 || 12792
+|-
+| maleModel0 || -1 || 12792
+|-
+| femaleModel0 || -1 || 12792
+|-
+|rowspan="2"|[[Oculus orb]]
+|rowspan="2"|22364
+|-
+|cost || 1 || 40
+|-
+|}
+
+==Non-Player Characters==
+{| class="wikitable sortable"
+!colspan='5'|Non-Player Characters
+|-
+! Name !! ID !! Key !! Previous Value !! Changed into
+|-
+| [[Banker]] || 10734 || colspan = "4" | New ID
+|-
+| [[Banker]] || 10735 || colspan = "4" | New ID
+|-
+| [[Banker]] || 10736 || colspan = "4" | New ID
+|-
+| [[Banker]] || 10737 || colspan = "4" | New ID
+|-
+| [[null]] || 10738 || colspan = "4" | New ID
+|-
+| [[Raqueel]] || 10739 || colspan = "4" | New ID
+|-
+| [[Raqueel]] || 10740 || colspan = "4" | New ID
+|-
+| [[Raqueel]] || 10741 || colspan = "4" | New ID
+|-
+| [[Raqueel]] || 10742 || colspan = "4" | New ID
+|-
+| [[Raqueel]] || 10743 || colspan = "4" | New ID
+|-
+| [[Raqueel]] || 10744 || colspan = "4" | New ID
+|-
+| [[Raqueel]] || 10745 || colspan = "4" | New ID
+|-
+| [[Raqueel]] || 10746 || colspan = "4" | New ID
+|-
+| [[null]] || 10747 || colspan = "4" | New ID
+|-
+| [[Gem]] || 10748 || colspan = "4" | New ID
+|-
+| [[Gem]] || 10749 || colspan = "4" | New ID
+|-
+| [[Gem]] || 10750 || colspan = "4" | New ID
+|-
+| [[Gem]] || 10751 || colspan = "4" | New ID
+|-
+| [[Gem]] || 10752 || colspan = "4" | New ID
+|-
+| [[Gem]] || 10753 || colspan = "4" | New ID
+|-
+| [[Gem]] || 10754 || colspan = "4" | New ID
+|-
+| [[Gem]] || 10755 || colspan = "4" | New ID
+|-
+| [[Gardener Jay Jr.]] || 10756 || colspan = "4" | New ID
+|-
+| [[Gardener Jay Jr.]] || 10757 || colspan = "4" | New ID
+|-
+| [[Gardener Jay Jr.]] || 10758 || colspan = "4" | New ID
+|-
+| [[Clerk]] || 10759 || colspan = "4" | New ID
+|-
+|rowspan="2"|[[Armadylean guard]]
+|rowspan="2"|6587
+|-
+|name || [[Armadylian guard]] || [[Armadylean guard]]
+|-
+|}
+
+==Objects==
+{| class="wikitable sortable"
+!colspan='5'|Objects
+|-
+! Name !! ID !! Key !! Previous Value !! Changed into
+|-
+| [[null]] || 41616 || colspan = "4" | New ID
+|-
+| [[Portal]] || 41617 || colspan = "4" | New ID
+|-
+| [[Portal]] || 41618 || colspan = "4" | New ID
+|-
+| [[Passage]] || 41619 || colspan = "4" | New ID
+|-
+| [[Door]] || 41620 || colspan = "4" | New ID
+|-
+| [[Boat]] || 41621 || colspan = "4" | New ID
+|-
+| [[Gate]] || 41622 || colspan = "4" | New ID
+|-
+| [[Gate]] || 41623 || colspan = "4" | New ID
+|-
+| [[Cart]] || 41624 || colspan = "4" | New ID
+|-
+| [[Door]] || 41625 || colspan = "4" | New ID
+|-
+| [[Clan Coffer]] || 41626 || colspan = "4" | New ID
+|-
+| [[Staircase]] || 41627 || colspan = "4" | New ID
+|-
+| [[null]] || 41628 || colspan = "4" | New ID
+|-
+| [[null]] || 41629 || colspan = "4" | New ID
+|-
+| [[null]] || 41630 || colspan = "4" | New ID
+|-
+| [[null]] || 41631 || colspan = "4" | New ID
+|-
+| [[null]] || 41632 || colspan = "4" | New ID
+|-
+| [[null]] || 41633 || colspan = "4" | New ID
+|-
+| [[null]] || 41634 || colspan = "4" | New ID
+|-
+| [[null]] || 41635 || colspan = "4" | New ID
+|-
+| [[null]] || 41636 || colspan = "4" | New ID
+|-
+| [[null]] || 41637 || colspan = "4" | New ID
+|-
+| [[null]] || 41638 || colspan = "4" | New ID
+|-
+| [[null]] || 41639 || colspan = "4" | New ID
+|-
+| [[null]] || 41640 || colspan = "4" | New ID
+|-
+| [[null]] || 41641 || colspan = "4" | New ID
+|-
+| [[null]] || 41642 || colspan = "4" | New ID
+|-
+| [[null]] || 41643 || colspan = "4" | New ID
+|-
+| [[Stool]] || 41644 || colspan = "4" | New ID
+|-
+| [[Larder]] || 41645 || colspan = "4" | New ID
+|-
+| [[Wooden bench]] || 41646 || colspan = "4" | New ID
+|-
+| [[Table]] || 41647 || colspan = "4" | New ID
+|-
+| [[Table]] || 41648 || colspan = "4" | New ID
+|-
+| [[Table]] || 41649 || colspan = "4" | New ID
+|-
+| [[Altar]] || 41650 || colspan = "4" | New ID
+|-
+| [[Piano]] || 41651 || colspan = "4" | New ID
+|-
+| [[Dummy]] || 41652 || colspan = "4" | New ID
+|-
+| [[Sofa]] || 41653 || colspan = "4" | New ID
+|-
+| [[Fireplace]] || 41654 || colspan = "4" | New ID
+|-
+| [[Bookcase]] || 41655 || colspan = "4" | New ID
+|-
+| [[Sword cabinet]] || 41656 || colspan = "4" | New ID
+|-
+| [[null]] || 41657 || colspan = "4" | New ID
+|-
+| [[null]] || 41658 || colspan = "4" | New ID
+|-
+| [[null]] || 41659 || colspan = "4" | New ID
+|-
+| [[null]] || 41660 || colspan = "4" | New ID
+|-
+| [[null]] || 41661 || colspan = "4" | New ID
+|-
+| [[null]] || 41662 || colspan = "4" | New ID
+|-
+| [[null]] || 41663 || colspan = "4" | New ID
+|-
+| [[null]] || 41664 || colspan = "4" | New ID
+|-
+| [[null]] || 41665 || colspan = "4" | New ID
+|-
+| [[null]] || 41666 || colspan = "4" | New ID
+|-
+| [[null]] || 41667 || colspan = "4" | New ID
+|-
+| [[null]] || 41668 || colspan = "4" | New ID
+|-
+| [[null]] || 41669 || colspan = "4" | New ID
+|-
+| [[null]] || 41670 || colspan = "4" | New ID
+|-
+| [[Fortified gate]] || 41671 || colspan = "4" | New ID
+|-
+| [[Fortified gate]] || 41672 || colspan = "4" | New ID
+|-
+| [[null]] || 41673 || colspan = "4" | New ID
+|-
+| [[null]] || 41674 || colspan = "4" | New ID
+|-
+| [[null]] || 41675 || colspan = "4" | New ID
+|-
+| [[null]] || 41676 || colspan = "4" | New ID
+|-
+| [[null]] || 41677 || colspan = "4" | New ID
+|-
+| [[Clan banner]] || 41678 || colspan = "4" | New ID
+|-
+| [[Clan banner]] || 41679 || colspan = "4" | New ID
+|-
+| [[Clan banner]] || 41680 || colspan = "4" | New ID
+|-
+| [[Clan banner]] || 41681 || colspan = "4" | New ID
+|-
+| [[Clan banner]] || 41682 || colspan = "4" | New ID
+|-
+| [[Clan banner]] || 41683 || colspan = "4" | New ID
+|-
+| [[Clan banner]] || 41684 || colspan = "4" | New ID
+|-
+| [[Clan banner]] || 41685 || colspan = "4" | New ID
+|-
+| [[Clan banner]] || 41686 || colspan = "4" | New ID
+|-
+| [[Clan banner]] || 41687 || colspan = "4" | New ID
+|-
+| [[Clan banner]] || 41688 || colspan = "4" | New ID
+|-
+| [[Clan banner]] || 41689 || colspan = "4" | New ID
+|-
+| [[Clan banner]] || 41690 || colspan = "4" | New ID
+|-
+| [[Clan banner]] || 41691 || colspan = "4" | New ID
+|-
+| [[Clan banner]] || 41692 || colspan = "4" | New ID
+|-
+| [[Clan banner]] || 41693 || colspan = "4" | New ID
+|-
+| [[Table]] || 41694 || colspan = "4" | New ID
+|-
+| [[Table]] || 41695 || colspan = "4" | New ID
+|-
+| [[<col=ffff00>Hannibal</col>]] || 41696 || colspan = "4" | New ID
+|-
+| [[Cooking Pots]] || 41697 || colspan = "4" | New ID
+|-
+| [[null]] || 41698 || colspan = "4" | New ID
+|-
+| [[null]] || 41699 || colspan = "4" | New ID
+|-
+| [[null]] || 41700 || colspan = "4" | New ID
+|-
+| [[Church pew]] || 41701 || colspan = "4" | New ID
+|-
+| [[null]] || 41702 || colspan = "4" | New ID
+|-
+| [[null]] || 41703 || colspan = "4" | New ID
+|-
+| [[Suit of armour]] || 41704 || colspan = "4" | New ID
+|-
+| [[Suit of armour]] || 41705 || colspan = "4" | New ID
+|-
+| [[Suit of armour]] || 41706 || colspan = "4" | New ID
+|-
+| [[Suit of armour]] || 41707 || colspan = "4" | New ID
+|-
+| [[Suit of armour]] || 41708 || colspan = "4" | New ID
+|-
+| [[Suit of armour]] || 41709 || colspan = "4" | New ID
+|-
+| [[Suit of armour]] || 41710 || colspan = "4" | New ID
+|-
+| [[Suit of armour]] || 41711 || colspan = "4" | New ID
+|-
+| [[null]] || 41712 || colspan = "4" | New ID
+|-
+| [[Shield]] || 41713 || colspan = "4" | New ID
+|-
+| [[Shield]] || 41714 || colspan = "4" | New ID
+|-
+| [[Shield]] || 41715 || colspan = "4" | New ID
+|-
+| [[Shield]] || 41716 || colspan = "4" | New ID
+|-
+| [[Shield]] || 41717 || colspan = "4" | New ID
+|-
+| [[Shield]] || 41718 || colspan = "4" | New ID
+|-
+| [[Shield]] || 41719 || colspan = "4" | New ID
+|-
+| [[Shield]] || 41720 || colspan = "4" | New ID
+|-
+| [[Sign]] || 41721 || colspan = "4" | New ID
+|-
+| [[null]] || 41722 || colspan = "4" | New ID
+|-
+| [[Bank deposit box]] || 41723 || colspan = "4" | New ID
+|-
+| [[Clan hall portal]] || 41724 || colspan = "4" | New ID
+|-
+| [[null]] || 41725 || colspan = "4" | New ID
+|-
+| [[null]] || 41726 || colspan = "4" | New ID
+|-
+| [[null]] || 41727 || colspan = "4" | New ID
+|-
+| [[Clan recruitment board]] || 41728 || colspan = "4" | New ID
+|-
+| [[Clan banner]] || 41729 || colspan = "4" | New ID
+|-
+| [[Clan recruitment board]] || 41730 || colspan = "4" | New ID
+|-
+| [[null]] || 41731 || colspan = "4" | New ID
+|-
+| [[]] || 41732 || colspan = "4" | New ID
+|-
+| [[Stool]] || 41733 || colspan = "4" | New ID
+|-
+| [[Wooden bench]] || 41734 || colspan = "4" | New ID
+|-
+| [[null]] || 41735 || colspan = "4" | New ID
+|-
+| [[null]] || 41736 || colspan = "4" | New ID
+|-
+| [[null]] || 41737 || colspan = "4" | New ID
+|-
+| [[null]] || 41738 || colspan = "4" | New ID
+|-
+| [[null]] || 41739 || colspan = "4" | New ID
+|-
+| [[null]] || 41740 || colspan = "4" | New ID
+|-
+| [[null]] || 41741 || colspan = "4" | New ID
+|-
+| [[null]] || 41742 || colspan = "4" | New ID
+|-
+|}

@@ -1,0 +1,1628 @@
+{{ToC}}
+==Items==
+{| class="wikitable sortable"
+!colspan='13'|Items
+|-
+! Name !! ID !! Key !! Previous Value !! New Value !! Members !! Tradeable in GE !! Equipable !! Stackable !! Noteable !! Options !! Placeholder !! Cost
+|-
+| [[Cabbage]] || [https://chisel.weirdgloop.org/moid/item_id.html#26417 26417] || colspan = "3" | New ID || No || No || No || Yes || No || [None, None, None, None, 'Drop'] || No || 1
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#26418 26418] || colspan = "3" | New ID || No || No || No || No || No || [None, None, None, None, 'Drop'] || No || 1
+|-
+| [[Cabbage]] || [https://chisel.weirdgloop.org/moid/item_id.html#26419 26419] || colspan = "3" | New ID || No || No || No || Yes || No || [None, None, None, None, 'Drop'] || No || 1
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#26420 26420] || colspan = "3" | New ID || No || No || No || No || No || [None, None, None, None, 'Drop'] || No || 1
+|-
+| [[Shattered relics variety ornament kit]] || [https://chisel.weirdgloop.org/moid/item_id.html#26421 26421] || colspan = "3" | New ID || Yes || Yes || No || No || Yes || [None, None, None, None, 'Drop'] || Yes || 25000
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#26422 26422] || colspan = "3" | New ID || No || No || No || No || Yes || [None, None, None, None, 'Drop'] || No || 1
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#26423 26423] || colspan = "3" | New ID || No || No || No || No || No || [None, None, None, None, 'Drop'] || Yes || 1
+|-
+| [[Shattered banner]] || [https://chisel.weirdgloop.org/moid/item_id.html#26424 26424] || colspan = "3" | New ID || Yes || Yes || Yes || No || Yes || [None, 'Wield', None, None, 'Drop'] || Yes || 1000
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#26425 26425] || colspan = "3" | New ID || No || No || No || No || Yes || [None, None, None, None, 'Drop'] || No || 1
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#26426 26426] || colspan = "3" | New ID || No || No || No || No || No || [None, None, None, None, 'Drop'] || Yes || 1
+|-
+| [[Shattered hood (t1)]] || [https://chisel.weirdgloop.org/moid/item_id.html#26427 26427] || colspan = "3" | New ID || Yes || Yes || Yes || No || Yes || [None, 'Wear', None, None, 'Drop'] || Yes || 15000
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#26428 26428] || colspan = "3" | New ID || No || No || No || No || Yes || [None, None, None, None, 'Drop'] || No || 1
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#26429 26429] || colspan = "3" | New ID || No || No || No || No || No || [None, None, None, None, 'Drop'] || Yes || 1
+|-
+| [[Shattered top (t1)]] || [https://chisel.weirdgloop.org/moid/item_id.html#26430 26430] || colspan = "3" | New ID || Yes || Yes || Yes || No || Yes || [None, 'Wear', None, None, 'Drop'] || Yes || 15000
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#26431 26431] || colspan = "3" | New ID || No || No || No || No || Yes || [None, None, None, None, 'Drop'] || No || 1
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#26432 26432] || colspan = "3" | New ID || No || No || No || No || No || [None, None, None, None, 'Drop'] || Yes || 1
+|-
+| [[Shattered trousers (t1)]] || [https://chisel.weirdgloop.org/moid/item_id.html#26433 26433] || colspan = "3" | New ID || Yes || Yes || Yes || No || Yes || [None, 'Wear', None, None, 'Drop'] || Yes || 15000
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#26434 26434] || colspan = "3" | New ID || No || No || No || No || Yes || [None, None, None, None, 'Drop'] || No || 1
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#26435 26435] || colspan = "3" | New ID || No || No || No || No || No || [None, None, None, None, 'Drop'] || Yes || 1
+|-
+| [[Shattered boots (t1)]] || [https://chisel.weirdgloop.org/moid/item_id.html#26436 26436] || colspan = "3" | New ID || Yes || Yes || Yes || No || Yes || [None, 'Wear', None, None, 'Drop'] || Yes || 15000
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#26437 26437] || colspan = "3" | New ID || No || No || No || No || Yes || [None, None, None, None, 'Drop'] || No || 1
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#26438 26438] || colspan = "3" | New ID || No || No || No || No || No || [None, None, None, None, 'Drop'] || Yes || 1
+|-
+| [[Shattered hood (t2)]] || [https://chisel.weirdgloop.org/moid/item_id.html#26439 26439] || colspan = "3" | New ID || Yes || Yes || Yes || No || Yes || [None, 'Wear', None, None, 'Drop'] || Yes || 15000
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#26440 26440] || colspan = "3" | New ID || No || No || No || No || Yes || [None, None, None, None, 'Drop'] || No || 1
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#26441 26441] || colspan = "3" | New ID || No || No || No || No || No || [None, None, None, None, 'Drop'] || Yes || 1
+|-
+| [[Shattered top (t2)]] || [https://chisel.weirdgloop.org/moid/item_id.html#26442 26442] || colspan = "3" | New ID || Yes || Yes || Yes || No || Yes || [None, 'Wear', None, None, 'Drop'] || Yes || 15000
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#26443 26443] || colspan = "3" | New ID || No || No || No || No || Yes || [None, None, None, None, 'Drop'] || No || 1
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#26444 26444] || colspan = "3" | New ID || No || No || No || No || No || [None, None, None, None, 'Drop'] || Yes || 1
+|-
+| [[Shattered trousers (t2)]] || [https://chisel.weirdgloop.org/moid/item_id.html#26445 26445] || colspan = "3" | New ID || Yes || Yes || Yes || No || Yes || [None, 'Wear', None, None, 'Drop'] || Yes || 15000
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#26446 26446] || colspan = "3" | New ID || No || No || No || No || Yes || [None, None, None, None, 'Drop'] || No || 1
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#26447 26447] || colspan = "3" | New ID || No || No || No || No || No || [None, None, None, None, 'Drop'] || Yes || 1
+|-
+| [[Shattered boots (t2)]] || [https://chisel.weirdgloop.org/moid/item_id.html#26448 26448] || colspan = "3" | New ID || Yes || Yes || Yes || No || Yes || [None, 'Wear', None, None, 'Drop'] || Yes || 15000
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#26449 26449] || colspan = "3" | New ID || No || No || No || No || Yes || [None, None, None, None, 'Drop'] || No || 1
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#26450 26450] || colspan = "3" | New ID || No || No || No || No || No || [None, None, None, None, 'Drop'] || Yes || 1
+|-
+| [[Shattered hood (t3)]] || [https://chisel.weirdgloop.org/moid/item_id.html#26451 26451] || colspan = "3" | New ID || Yes || Yes || Yes || No || Yes || [None, 'Wear', None, None, 'Drop'] || Yes || 15000
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#26452 26452] || colspan = "3" | New ID || No || No || No || No || Yes || [None, None, None, None, 'Drop'] || No || 1
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#26453 26453] || colspan = "3" | New ID || No || No || No || No || No || [None, None, None, None, 'Drop'] || Yes || 1
+|-
+| [[Shattered top (t3)]] || [https://chisel.weirdgloop.org/moid/item_id.html#26454 26454] || colspan = "3" | New ID || Yes || Yes || Yes || No || Yes || [None, 'Wear', None, None, 'Drop'] || Yes || 15000
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#26455 26455] || colspan = "3" | New ID || No || No || No || No || Yes || [None, None, None, None, 'Drop'] || No || 1
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#26456 26456] || colspan = "3" | New ID || No || No || No || No || No || [None, None, None, None, 'Drop'] || Yes || 1
+|-
+| [[Shattered trousers (t3)]] || [https://chisel.weirdgloop.org/moid/item_id.html#26457 26457] || colspan = "3" | New ID || Yes || Yes || Yes || No || Yes || [None, 'Wear', None, None, 'Drop'] || Yes || 15000
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#26458 26458] || colspan = "3" | New ID || No || No || No || No || Yes || [None, None, None, None, 'Drop'] || No || 1
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#26459 26459] || colspan = "3" | New ID || No || No || No || No || No || [None, None, None, None, 'Drop'] || Yes || 1
+|-
+| [[Shattered boots (t3)]] || [https://chisel.weirdgloop.org/moid/item_id.html#26460 26460] || colspan = "3" | New ID || Yes || Yes || Yes || No || Yes || [None, 'Wear', None, None, 'Drop'] || Yes || 15000
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#26461 26461] || colspan = "3" | New ID || No || No || No || No || Yes || [None, None, None, None, 'Drop'] || No || 1
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#26462 26462] || colspan = "3" | New ID || No || No || No || No || No || [None, None, None, None, 'Drop'] || Yes || 1
+|-
+| [[Void knight top (or)]] || [https://chisel.weirdgloop.org/moid/item_id.html#26463 26463] || colspan = "3" | New ID || Yes || No || Yes || No || No || [None, 'Wear', 'Dismantle', None, 'Drop'] || Yes || 48000
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#26464 26464] || colspan = "3" | New ID || No || No || No || No || No || [None, None, None, None, 'Drop'] || Yes || 1
+|-
+| [[Void knight robe (or)]] || [https://chisel.weirdgloop.org/moid/item_id.html#26465 26465] || colspan = "3" | New ID || Yes || No || Yes || No || No || [None, 'Wear', 'Dismantle', None, 'Drop'] || Yes || 45000
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#26466 26466] || colspan = "3" | New ID || No || No || No || No || No || [None, None, None, None, 'Drop'] || Yes || 1
+|-
+| [[Void knight gloves (or)]] || [https://chisel.weirdgloop.org/moid/item_id.html#26467 26467] || colspan = "3" | New ID || Yes || No || Yes || No || No || [None, 'Wear', 'Dismantle', None, 'Drop'] || Yes || 6052
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#26468 26468] || colspan = "3" | New ID || No || No || No || No || No || [None, None, None, None, 'Drop'] || Yes || 1
+|-
+| [[Elite void top (or)]] || [https://chisel.weirdgloop.org/moid/item_id.html#26469 26469] || colspan = "3" | New ID || Yes || No || Yes || No || No || [None, 'Wear', 'Dismantle', None, 'Drop'] || Yes || 48500
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#26470 26470] || colspan = "3" | New ID || No || No || No || No || No || [None, None, None, None, 'Drop'] || Yes || 1
+|-
+| [[Elite void robe (or)]] || [https://chisel.weirdgloop.org/moid/item_id.html#26471 26471] || colspan = "3" | New ID || Yes || No || Yes || No || No || [None, 'Wear', 'Dismantle', None, 'Drop'] || Yes || 45500
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#26472 26472] || colspan = "3" | New ID || No || No || No || No || No || [None, None, None, None, 'Drop'] || Yes || 1
+|-
+| [[Void mage helm (or)]] || [https://chisel.weirdgloop.org/moid/item_id.html#26473 26473] || colspan = "3" | New ID || Yes || No || Yes || No || No || [None, 'Wear', 'Dismantle', None, 'Drop'] || Yes || 9851
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#26474 26474] || colspan = "3" | New ID || No || No || No || No || No || [None, None, None, None, 'Drop'] || Yes || 1
+|-
+| [[Void ranger helm (or)]] || [https://chisel.weirdgloop.org/moid/item_id.html#26475 26475] || colspan = "3" | New ID || Yes || No || Yes || No || No || [None, 'Wear', 'Dismantle', None, 'Drop'] || Yes || 9851
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#26476 26476] || colspan = "3" | New ID || No || No || No || No || No || [None, None, None, None, 'Drop'] || Yes || 1
+|-
+| [[Void melee helm (or)]] || [https://chisel.weirdgloop.org/moid/item_id.html#26477 26477] || colspan = "3" | New ID || Yes || No || Yes || No || No || [None, 'Wear', 'Dismantle', None, 'Drop'] || Yes || 9851
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#26478 26478] || colspan = "3" | New ID || No || No || No || No || No || [None, None, None, None, 'Drop'] || Yes || 1
+|-
+| [[Shattered relics void ornament kit]] || [https://chisel.weirdgloop.org/moid/item_id.html#26479 26479] || colspan = "3" | New ID || Yes || Yes || No || No || Yes || [None, None, None, None, 'Drop'] || Yes || 25000
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#26480 26480] || colspan = "3" | New ID || No || No || No || No || Yes || [None, None, None, None, 'Drop'] || No || 1
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#26481 26481] || colspan = "3" | New ID || No || No || No || No || No || [None, None, None, None, 'Drop'] || Yes || 1
+|-
+| [[Abyssal whip (or)]] || [https://chisel.weirdgloop.org/moid/item_id.html#26482 26482] || colspan = "3" | New ID || Yes || No || Yes || No || No || [None, 'Wield', None, None, 'Dismantle kit'] || Yes || 120001
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#26483 26483] || colspan = "3" | New ID || No || No || No || No || No || [None, None, None, None, 'Drop'] || Yes || 1
+|-
+| [[Abyssal tentacle (or)]] || [https://chisel.weirdgloop.org/moid/item_id.html#26484 26484] || colspan = "3" | New ID || Yes || No || Yes || No || No || [None, 'Wield', 'Check', 'Dissolve', 'Dismantle kit'] || Yes || 289800
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#26485 26485] || colspan = "3" | New ID || No || No || No || No || No || [None, None, None, None, 'Drop'] || Yes || 1
+|-
+| [[Rune crossbow (or)]] || [https://chisel.weirdgloop.org/moid/item_id.html#26486 26486] || colspan = "3" | New ID || Yes || No || Yes || No || No || [None, 'Wield', None, None, 'Dismantle'] || Yes || 16200
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#26487 26487] || colspan = "3" | New ID || No || No || No || No || No || [None, None, None, None, 'Drop'] || Yes || 1
+|-
+| [[Book of balance (or)]] || [https://chisel.weirdgloop.org/moid/item_id.html#26488 26488] || colspan = "3" | New ID || Yes || No || Yes || No || No || [None, 'Wield', 'Preach', None, 'Dismantle'] || Yes || 200
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#26489 26489] || colspan = "3" | New ID || No || No || No || No || No || [None, None, None, None, 'Drop'] || Yes || 1
+|-
+| [[Book of darkness (or)]] || [https://chisel.weirdgloop.org/moid/item_id.html#26490 26490] || colspan = "3" | New ID || Yes || No || Yes || No || No || [None, 'Wield', 'Preach', None, 'Dismantle'] || Yes || 200
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#26491 26491] || colspan = "3" | New ID || No || No || No || No || No || [None, None, None, None, 'Drop'] || Yes || 1
+|-
+| [[Book of law (or)]] || [https://chisel.weirdgloop.org/moid/item_id.html#26492 26492] || colspan = "3" | New ID || Yes || No || Yes || No || No || [None, 'Wield', 'Preach', None, 'Dismantle'] || Yes || 200
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#26493 26493] || colspan = "3" | New ID || No || No || No || No || No || [None, None, None, None, 'Drop'] || Yes || 1
+|-
+| [[Book of war (or)]] || [https://chisel.weirdgloop.org/moid/item_id.html#26494 26494] || colspan = "3" | New ID || Yes || No || Yes || No || No || [None, 'Wield', 'Preach', None, 'Dismantle'] || Yes || 200
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#26495 26495] || colspan = "3" | New ID || No || No || No || No || No || [None, None, None, None, 'Drop'] || Yes || 1
+|-
+| [[Holy book (or)]] || [https://chisel.weirdgloop.org/moid/item_id.html#26496 26496] || colspan = "3" | New ID || Yes || No || Yes || No || No || [None, 'Wield', 'Preach', None, 'Dismantle'] || Yes || 200
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#26497 26497] || colspan = "3" | New ID || No || No || No || No || No || [None, None, None, None, 'Drop'] || Yes || 1
+|-
+| [[Unholy book (or)]] || [https://chisel.weirdgloop.org/moid/item_id.html#26498 26498] || colspan = "3" | New ID || Yes || No || Yes || No || No || [None, 'Wield', 'Preach', None, 'Dismantle'] || Yes || 200
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#26499 26499] || colspan = "3" | New ID || No || No || No || No || No || [None, None, None, None, 'Drop'] || Yes || 1
+|-
+| [[Shattered teleport scroll]] || [https://chisel.weirdgloop.org/moid/item_id.html#26500 26500] || colspan = "3" | New ID || Yes || Yes || Yes || No || Yes || ['Read', None, None, None, 'Drop'] || Yes || 25000
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#26501 26501] || colspan = "3" | New ID || No || No || No || No || Yes || [None, None, None, None, 'Drop'] || No || 1
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#26502 26502] || colspan = "3" | New ID || No || No || No || No || No || [None, None, None, None, 'Drop'] || Yes || 1
+|-
+| [[Shattered relics bronze trophy]] || [https://chisel.weirdgloop.org/moid/item_id.html#26503 26503] || colspan = "3" | New ID || Yes || No || Yes || No || No || [None, 'Wear', None, None, 'Destroy'] || Yes || 1
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#26504 26504] || colspan = "3" | New ID || No || No || No || No || No || [None, None, None, None, 'Drop'] || Yes || 1
+|-
+| [[Shattered relics iron trophy]] || [https://chisel.weirdgloop.org/moid/item_id.html#26505 26505] || colspan = "3" | New ID || Yes || No || Yes || No || No || [None, 'Wear', None, None, 'Destroy'] || Yes || 1
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#26506 26506] || colspan = "3" | New ID || No || No || No || No || No || [None, None, None, None, 'Drop'] || Yes || 1
+|-
+| [[Shattered relics steel trophy]] || [https://chisel.weirdgloop.org/moid/item_id.html#26507 26507] || colspan = "3" | New ID || Yes || No || Yes || No || No || [None, 'Wear', None, None, 'Destroy'] || Yes || 1
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#26508 26508] || colspan = "3" | New ID || No || No || No || No || No || [None, None, None, None, 'Drop'] || Yes || 1
+|-
+| [[Shattered relics mithril trophy]] || [https://chisel.weirdgloop.org/moid/item_id.html#26509 26509] || colspan = "3" | New ID || Yes || No || Yes || No || No || [None, 'Wear', None, None, 'Destroy'] || Yes || 1
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#26510 26510] || colspan = "3" | New ID || No || No || No || No || No || [None, None, None, None, 'Drop'] || Yes || 1
+|-
+| [[Shattered relics adamant trophy]] || [https://chisel.weirdgloop.org/moid/item_id.html#26511 26511] || colspan = "3" | New ID || Yes || No || Yes || No || No || [None, 'Wear', None, None, 'Destroy'] || Yes || 1
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#26512 26512] || colspan = "3" | New ID || No || No || No || No || No || [None, None, None, None, 'Drop'] || Yes || 1
+|-
+| [[Shattered relics rune trophy]] || [https://chisel.weirdgloop.org/moid/item_id.html#26513 26513] || colspan = "3" | New ID || Yes || No || Yes || No || No || [None, 'Wear', None, None, 'Destroy'] || Yes || 1
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#26514 26514] || colspan = "3" | New ID || No || No || No || No || No || [None, None, None, None, 'Drop'] || Yes || 1
+|-
+| [[Shattered relics dragon trophy]] || [https://chisel.weirdgloop.org/moid/item_id.html#26515 26515] || colspan = "3" | New ID || Yes || No || Yes || No || No || [None, 'Wear', None, None, 'Destroy'] || Yes || 1
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#26516 26516] || colspan = "3" | New ID || No || No || No || No || No || [None, None, None, None, 'Drop'] || Yes || 1
+|-
+| [[Shattered cane]] || [https://chisel.weirdgloop.org/moid/item_id.html#26517 26517] || colspan = "3" | New ID || Yes || Yes || Yes || No || Yes || [None, 'Wield', None, None, 'Drop'] || Yes || 1000
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#26518 26518] || colspan = "3" | New ID || No || No || No || No || Yes || [None, None, None, None, 'Drop'] || No || 1
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#26519 26519] || colspan = "3" | New ID || No || No || No || No || No || [None, None, None, None, 'Drop'] || Yes || 1
+|-
+| [[Cannon base (or)]] || [https://chisel.weirdgloop.org/moid/item_id.html#26520 26520] || colspan = "3" | New ID || Yes || No || No || No || No || ['Set-up', None, None, 'Dismantle', 'Drop'] || Yes || 187500
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#26521 26521] || colspan = "3" | New ID || No || No || No || No || No || [None, None, None, None, 'Drop'] || Yes || 1
+|-
+| [[Cannon stand (or)]] || [https://chisel.weirdgloop.org/moid/item_id.html#26522 26522] || colspan = "3" | New ID || Yes || No || No || No || No || [None, None, None, 'Dismantle', 'Drop'] || Yes || 187500
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#26523 26523] || colspan = "3" | New ID || No || No || No || No || No || [None, None, None, None, 'Drop'] || Yes || 1
+|-
+| [[Cannon barrels (or)]] || [https://chisel.weirdgloop.org/moid/item_id.html#26524 26524] || colspan = "3" | New ID || Yes || No || No || No || No || [None, None, None, 'Dismantle', 'Drop'] || Yes || 187500
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#26525 26525] || colspan = "3" | New ID || No || No || No || No || No || [None, None, None, None, 'Drop'] || Yes || 1
+|-
+| [[Cannon furnace (or)]] || [https://chisel.weirdgloop.org/moid/item_id.html#26526 26526] || colspan = "3" | New ID || Yes || No || No || No || No || [None, None, None, 'Dismantle', 'Drop'] || Yes || 187500
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#26527 26527] || colspan = "3" | New ID || No || No || No || No || No || [None, None, None, None, 'Drop'] || Yes || 1
+|-
+| [[Shattered cannon ornament kit]] || [https://chisel.weirdgloop.org/moid/item_id.html#26528 26528] || colspan = "3" | New ID || Yes || Yes || No || No || Yes || [None, None, None, None, 'Drop'] || Yes || 25000
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#26529 26529] || colspan = "3" | New ID || No || No || No || No || Yes || [None, None, None, None, 'Drop'] || No || 1
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#26530 26530] || colspan = "3" | New ID || No || No || No || No || No || [None, None, None, None, 'Drop'] || Yes || 1
+|-
+| [[Mystic hat (or)]] || [https://chisel.weirdgloop.org/moid/item_id.html#26531 26531] || colspan = "3" | New ID || Yes || No || Yes || No || No || [None, 'Wear', 'Dismantle', None, 'Drop'] || Yes || 15000
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#26532 26532] || colspan = "3" | New ID || No || No || No || No || No || [None, None, None, None, 'Drop'] || Yes || 1
+|-
+| [[Mystic robe top (or)]] || [https://chisel.weirdgloop.org/moid/item_id.html#26533 26533] || colspan = "3" | New ID || Yes || No || Yes || No || No || [None, 'Wear', 'Dismantle', None, 'Drop'] || Yes || 120000
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#26534 26534] || colspan = "3" | New ID || No || No || No || No || No || [None, None, None, None, 'Drop'] || Yes || 1
+|-
+| [[Mystic robe bottom (or)]] || [https://chisel.weirdgloop.org/moid/item_id.html#26535 26535] || colspan = "3" | New ID || Yes || No || Yes || No || No || [None, 'Wear', 'Dismantle', None, 'Drop'] || Yes || 80000
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#26536 26536] || colspan = "3" | New ID || No || No || No || No || No || [None, None, None, None, 'Drop'] || Yes || 1
+|-
+| [[Mystic gloves (or)]] || [https://chisel.weirdgloop.org/moid/item_id.html#26537 26537] || colspan = "3" | New ID || Yes || No || Yes || No || No || [None, 'Wear', 'Dismantle', None, 'Drop'] || Yes || 10000
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#26538 26538] || colspan = "3" | New ID || No || No || No || No || No || [None, None, None, None, 'Drop'] || Yes || 1
+|-
+| [[Mystic boots (or)]] || [https://chisel.weirdgloop.org/moid/item_id.html#26539 26539] || colspan = "3" | New ID || Yes || No || Yes || No || No || [None, 'Wear', 'Dismantle', None, 'Drop'] || Yes || 10000
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#26540 26540] || colspan = "3" | New ID || No || No || No || No || No || [None, None, None, None, 'Drop'] || Yes || 1
+|-
+| [[Shattered relics mystic ornament kit]] || [https://chisel.weirdgloop.org/moid/item_id.html#26541 26541] || colspan = "3" | New ID || Yes || Yes || No || No || Yes || [None, None, None, None, 'Drop'] || Yes || 25000
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#26542 26542] || colspan = "3" | New ID || No || No || No || No || Yes || [None, None, None, None, 'Drop'] || No || 1
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#26543 26543] || colspan = "3" | New ID || No || No || No || No || No || [None, None, None, None, 'Drop'] || Yes || 1
+|-
+| [[Unidentified fragment (harvesting)]] || [https://chisel.weirdgloop.org/moid/item_id.html#26544 26544] || colspan = "3" | New ID || No || No || No || No || No || ['Break', None, None, None, 'Drop'] || No || 1
+|-
+| [[Unidentified fragment (production)]] || [https://chisel.weirdgloop.org/moid/item_id.html#26545 26545] || colspan = "3" | New ID || No || No || No || No || No || ['Break', None, None, None, 'Drop'] || No || 1
+|-
+| [[Unidentified fragment (skilling)]] || [https://chisel.weirdgloop.org/moid/item_id.html#26546 26546] || colspan = "3" | New ID || No || No || No || No || No || ['Break', None, None, None, 'Drop'] || No || 1
+|-
+| [[Unidentified fragment (combat)]] || [https://chisel.weirdgloop.org/moid/item_id.html#26547 26547] || colspan = "3" | New ID || No || No || No || No || No || ['Break', None, None, None, 'Drop'] || No || 1
+|-
+| [[Unidentified fragment (misc)]] || [https://chisel.weirdgloop.org/moid/item_id.html#26548 26548] || colspan = "3" | New ID || No || No || No || No || No || ['Break', None, None, None, 'Drop'] || No || 1
+|-
+| [[Portable waystone]] || [https://chisel.weirdgloop.org/moid/item_id.html#26549 26549] || colspan = "3" | New ID || Yes || No || Yes || No || No || ['Teleport', 'Wear', None, None, 'Destroy'] || Yes || 400
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#26550 26550] || colspan = "3" | New ID || No || No || No || No || No || [None, None, None, None, 'Drop'] || Yes || 1
+|-
+| [[Arcane grimoire]] || [https://chisel.weirdgloop.org/moid/item_id.html#26551 26551] || colspan = "3" | New ID || Yes || No || Yes || No || No || ['Change Spellbook', 'Wield', 'Previous Spellbook', 'Check Previous', 'Destroy'] || Yes || 400
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#26552 26552] || colspan = "3" | New ID || No || No || No || No || No || [None, None, None, None, 'Drop'] || Yes || 1
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#26553 26553] || colspan = "3" | New ID || No || No || No || No || No || [None, None, None, None, 'Drop'] || No || 1
+|-
+| [[Shattered relic hunter (t1) armour set]] || [https://chisel.weirdgloop.org/moid/item_id.html#26554 26554] || colspan = "3" | New ID || Yes || Yes || No || No || Yes || [None, None, None, None, 'Drop'] || Yes || 50000
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#26555 26555] || colspan = "3" | New ID || No || No || No || No || Yes || [None, None, None, None, 'Drop'] || No || 1
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#26556 26556] || colspan = "3" | New ID || No || No || No || No || No || [None, None, None, None, 'Drop'] || Yes || 1
+|-
+| [[Shattered relic hunter (t2) armour set]] || [https://chisel.weirdgloop.org/moid/item_id.html#26557 26557] || colspan = "3" | New ID || Yes || Yes || No || No || Yes || [None, None, None, None, 'Drop'] || Yes || 50000
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#26558 26558] || colspan = "3" | New ID || No || No || No || No || Yes || [None, None, None, None, 'Drop'] || No || 1
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#26559 26559] || colspan = "3" | New ID || No || No || No || No || No || [None, None, None, None, 'Drop'] || Yes || 1
+|-
+| [[Shattered relic hunter (t3) armour set]] || [https://chisel.weirdgloop.org/moid/item_id.html#26560 26560] || colspan = "3" | New ID || Yes || Yes || No || No || Yes || [None, None, None, None, 'Drop'] || Yes || 50000
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#26561 26561] || colspan = "3" | New ID || No || No || No || No || Yes || [None, None, None, None, 'Drop'] || No || 1
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#26562 26562] || colspan = "3" | New ID || No || No || No || No || No || [None, None, None, None, 'Drop'] || Yes || 1
+|-
+|rowspan="2"|[[Leather]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#1741 1741]
+|-
+|params || {'1190': 15, '365': 9075, '366': 2, '367': 561, '336': 2, '368': 1, '369': 554, '370': 5, '596': 14286966, '597': 583, '598': 633, '599': 1977, '600': 2027, '601': 'Tan Leather', '602': 'Tans up to 5 hides', '603': 1, '604': 78, '605': 1} || {'1190': 15, '365': 9075, '366': 2, '367': 561, '336': 2, '368': 1, '369': 554, '370': 5, '596': 14286967, '597': 583, '598': 633, '599': 1977, '600': 2027, '601': 'Tan Leather', '602': 'Tans up to 5 hides', '603': 1, '604': 78, '605': 1}
+|-
+|rowspan="2"|[[Dead orb]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#2529 2529]
+|-
+|params || {'1189': 391, '1190': 15, '365': 9075, '366': 1, '367': 566, '336': 2, '368': 1, '369': 555, '370': 4, '596': 14286980, '597': 584, '598': 634, '599': 1978, '600': 2028, '601': 'Recharge Dragonstone', '602': 'Recharges enchanted dragonstone jewellery', '603': 1, '604': 89, '605': 1} || {'1189': 391, '1190': 15, '365': 9075, '366': 1, '367': 566, '336': 2, '368': 1, '369': 555, '370': 4, '596': 14286981, '597': 584, '598': 634, '599': 1978, '600': 2028, '601': 'Recharge Dragonstone', '602': 'Recharges enchanted dragonstone jewellery', '603': 1, '604': 89, '605': 1}
+|-
+|rowspan="2"|[[Null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#2885 2885]
+|-
+|params || {'365': 559, '366': 4, '367': 561, '336': 3, '368': 3, '369': 566, '370': 1, '596': 14286995, '597': 1248, '598': 1273, '599': 2053, '600': 2093, '601': 'Adept Reanimation', '602': 'Reanimates a medium levelled creature', '603': 1, '604': 41, '605': 1} || {'365': 559, '366': 4, '367': 561, '336': 3, '368': 3, '369': 566, '370': 1, '596': 14286996, '597': 1248, '598': 1273, '599': 2053, '600': 2093, '601': 'Adept Reanimation', '602': 'Reanimates a medium levelled creature', '603': 1, '604': 41, '605': 1}
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#3273 3273]
+|-
+|params || {'365': 558, '366': 1, '367': 556, '336': 0, '368': 1, '596': 14286854, '597': 15, '598': 65, '599': 0, '600': 1812, '601': 'Wind Strike', '602': 'A basic Air missile', '603': 0, '604': 1, '605': 0} || {'365': 558, '366': 1, '367': 556, '336': 0, '368': 1, '596': 14286855, '597': 15, '598': 65, '599': 0, '600': 1812, '601': 'Wind Strike', '602': 'A basic Air missile', '603': 0, '604': 1, '605': 0}
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#3274 3274]
+|-
+|params || {'365': 559, '366': 1, '367': 555, '336': 0, '368': 3, '369': 557, '370': 2, '596': 14286855, '597': 16, '598': 66, '599': 1782, '600': 1862, '601': 'Confuse', '602': "Reduces your opponent's attack by 5%", '603': 0, '604': 3, '605': 0} || {'365': 559, '366': 1, '367': 555, '336': 0, '368': 3, '369': 557, '370': 2, '596': 14286856, '597': 16, '598': 66, '599': 1782, '600': 1862, '601': 'Confuse', '602': "Reduces your opponent's attack by 5%", '603': 0, '604': 3, '605': 0}
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#3275 3275]
+|-
+|params || {'365': 558, '366': 1, '367': 555, '336': 0, '368': 1, '369': 556, '370': 1, '596': 14286857, '597': 17, '598': 67, '599': 1, '600': 1813, '601': 'Water Strike', '602': 'A basic Water missile', '603': 0, '604': 5, '605': 0} || {'365': 558, '366': 1, '367': 555, '336': 0, '368': 1, '369': 556, '370': 1, '596': 14286858, '597': 17, '598': 67, '599': 1, '600': 1813, '601': 'Water Strike', '602': 'A basic Water missile', '603': 0, '604': 5, '605': 0}
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#3276 3276]
+|-
+|params || {'365': 564, '366': 1, '367': 555, '336': 0, '368': 1, '596': 14286858, '597': 18, '598': 68, '599': 1765, '600': 1845, '601': 'Lvl-1 Enchant', '602': 'For use on sapphire and opal jewellery', '603': 0, '604': 7, '605': 1} || {'365': 564, '366': 1, '367': 555, '336': 0, '368': 1, '596': 14286859, '597': 18, '598': 68, '599': 1765, '600': 1845, '601': 'Lvl-1 Enchant', '602': 'For use on sapphire and opal jewellery', '603': 0, '604': 7, '605': 1}
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#3277 3277]
+|-
+|params || {'365': 558, '366': 1, '367': 557, '336': 0, '368': 2, '369': 556, '370': 1, '596': 14286859, '597': 19, '598': 69, '599': 2, '600': 1814, '601': 'Earth Strike', '602': 'A basic Earth missile', '603': 0, '604': 9, '605': 0} || {'365': 558, '366': 1, '367': 557, '336': 0, '368': 2, '369': 556, '370': 1, '596': 14286860, '597': 19, '598': 69, '599': 2, '600': 1814, '601': 'Earth Strike', '602': 'A basic Earth missile', '603': 0, '604': 9, '605': 0}
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#3278 3278]
+|-
+|params || {'365': 559, '366': 1, '367': 555, '336': 0, '368': 3, '369': 557, '370': 2, '596': 14286860, '597': 20, '598': 70, '599': 1783, '600': 1863, '601': 'Weaken', '602': "Reduces your opponent's<br>strength by 5%", '603': 0, '604': 11, '605': 0} || {'365': 559, '366': 1, '367': 555, '336': 0, '368': 3, '369': 557, '370': 2, '596': 14286861, '597': 20, '598': 70, '599': 1783, '600': 1863, '601': 'Weaken', '602': "Reduces your opponent's<br>strength by 5%", '603': 0, '604': 11, '605': 0}
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#3279 3279]
+|-
+|params || {'365': 558, '366': 1, '367': 554, '336': 0, '368': 3, '369': 556, '370': 2, '596': 14286861, '597': 21, '598': 71, '599': 3, '600': 1815, '601': 'Fire Strike', '602': 'A basic Fire missile', '603': 0, '604': 13, '605': 0} || {'365': 558, '366': 1, '367': 554, '336': 0, '368': 3, '369': 556, '370': 2, '596': 14286862, '597': 21, '598': 71, '599': 3, '600': 1815, '601': 'Fire Strike', '602': 'A basic Fire missile', '603': 0, '604': 13, '605': 0}
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#3280 3280]
+|-
+|params || {'365': 561, '366': 1, '367': 555, '336': 0, '368': 2, '369': 557, '370': 2, '596': 14286862, '597': 22, '598': 72, '599': 1777, '600': 1857, '601': 'Bones to Bananas', '602': 'Changes held bones into bananas', '603': 0, '604': 15, '605': 1} || {'365': 561, '366': 1, '367': 555, '336': 0, '368': 2, '369': 557, '370': 2, '596': 14286863, '597': 22, '598': 72, '599': 1777, '600': 1857, '601': 'Bones to Bananas', '602': 'Changes held bones into bananas', '603': 0, '604': 15, '605': 1}
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#3281 3281]
+|-
+|params || {'365': 562, '366': 1, '367': 556, '336': 0, '368': 2, '596': 14286863, '597': 23, '598': 73, '599': 5, '600': 1816, '601': 'Wind Bolt', '602': 'A low level Air missile', '603': 0, '604': 17, '605': 0} || {'365': 562, '366': 1, '367': 556, '336': 0, '368': 2, '596': 14286864, '597': 23, '598': 73, '599': 5, '600': 1816, '601': 'Wind Bolt', '602': 'A low level Air missile', '603': 0, '604': 17, '605': 0}
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#3282 3282]
+|-
+|params || {'365': 559, '366': 1, '367': 555, '336': 0, '368': 2, '369': 557, '370': 3, '596': 14286864, '597': 24, '598': 74, '599': 1784, '600': 1864, '601': 'Curse', '602': "Reduces your opponent's<br>defence by 5%", '603': 0, '604': 19, '605': 0} || {'365': 559, '366': 1, '367': 555, '336': 0, '368': 2, '369': 557, '370': 3, '596': 14286865, '597': 24, '598': 74, '599': 1784, '600': 1864, '601': 'Curse', '602': "Reduces your opponent's<br>defence by 5%", '603': 0, '604': 19, '605': 0}
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#3283 3283]
+|-
+|params || {'365': 561, '366': 2, '367': 555, '336': 0, '368': 3, '369': 557, '370': 3, '596': 14286865, '597': 319, '598': 369, '599': 1788, '600': 1868, '601': 'Bind', '602': 'Holds your opponent for 5 seconds', '603': 0, '604': 20, '605': 0} || {'365': 561, '366': 2, '367': 555, '336': 0, '368': 3, '369': 557, '370': 3, '596': 14286866, '597': 319, '598': 369, '599': 1788, '600': 1868, '601': 'Bind', '602': 'Holds your opponent for 5 seconds', '603': 0, '604': 20, '605': 0}
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#3284 3284]
+|-
+|params || {'365': 561, '366': 1, '367': 554, '336': 0, '368': 3, '596': 14286866, '597': 25, '598': 75, '599': 1780, '600': 1860, '601': 'Low Level Alchemy', '602': 'Converts an item into gold', '603': 0, '604': 21, '605': 1} || {'365': 561, '366': 1, '367': 554, '336': 0, '368': 3, '596': 14286867, '597': 25, '598': 75, '599': 1780, '600': 1860, '601': 'Low Level Alchemy', '602': 'Converts an item into gold', '603': 0, '604': 21, '605': 1}
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#3285 3285]
+|-
+|params || {'365': 562, '366': 1, '367': 555, '336': 0, '368': 2, '369': 556, '370': 2, '596': 14286867, '597': 26, '598': 76, '599': 6, '600': 1817, '601': 'Water Bolt', '602': 'A low level Water missile', '603': 0, '604': 23, '605': 0} || {'365': 562, '366': 1, '367': 555, '336': 0, '368': 2, '369': 556, '370': 2, '596': 14286868, '597': 26, '598': 76, '599': 6, '600': 1817, '601': 'Water Bolt', '602': 'A low level Water missile', '603': 0, '604': 23, '605': 0}
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#3286 3286]
+|-
+|params || {'365': 563, '366': 1, '367': 556, '336': 0, '368': 3, '369': 554, '370': 1, '596': 14286868, '597': 27, '598': 77, '599': 1752, '600': 1832, '601': 'Varrock Teleport', '602': 'Teleports you to Varrock', '603': 0, '604': 25, '605': 2} || {'365': 563, '366': 1, '367': 556, '336': 0, '368': 3, '369': 554, '370': 1, '596': 14286869, '597': 27, '598': 77, '599': 1752, '600': 1832, '601': 'Varrock Teleport', '602': 'Teleports you to Varrock', '603': 0, '604': 25, '605': 2}
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#3287 3287]
+|-
+|params || {'365': 564, '366': 1, '367': 556, '336': 0, '368': 3, '596': 14286869, '597': 28, '598': 78, '599': 1766, '600': 1846, '601': 'Lvl-2 Enchant', '602': 'For use on emerald and jade jewellery', '603': 0, '604': 27, '605': 1} || {'365': 564, '366': 1, '367': 556, '336': 0, '368': 3, '596': 14286870, '597': 28, '598': 78, '599': 1766, '600': 1846, '601': 'Lvl-2 Enchant', '602': 'For use on emerald and jade jewellery', '603': 0, '604': 27, '605': 1}
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#3288 3288]
+|-
+|params || {'365': 562, '366': 1, '367': 557, '336': 0, '368': 3, '369': 556, '370': 2, '596': 14286870, '597': 29, '598': 79, '599': 7, '600': 1818, '601': 'Earth Bolt', '602': 'A low level Earth missile', '603': 0, '604': 29, '605': 0} || {'365': 562, '366': 1, '367': 557, '336': 0, '368': 3, '369': 556, '370': 2, '596': 14286871, '597': 29, '598': 79, '599': 7, '600': 1818, '601': 'Earth Bolt', '602': 'A low level Earth missile', '603': 0, '604': 29, '605': 0}
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#3289 3289]
+|-
+|params || {'365': 563, '366': 1, '367': 556, '336': 0, '368': 3, '369': 557, '370': 1, '596': 14286871, '597': 30, '598': 80, '599': 1753, '600': 1833, '601': 'Lumbridge Teleport', '602': 'Teleports you to Lumbridge', '603': 0, '604': 31, '605': 2} || {'365': 563, '366': 1, '367': 556, '336': 0, '368': 3, '369': 557, '370': 1, '596': 14286872, '597': 30, '598': 80, '599': 1753, '600': 1833, '601': 'Lumbridge Teleport', '602': 'Teleports you to Lumbridge', '603': 0, '604': 31, '605': 2}
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#3290 3290]
+|-
+|params || {'365': 563, '366': 1, '367': 556, '336': 0, '368': 1, '596': 14286872, '597': 31, '598': 81, '599': 1778, '600': 1858, '601': 'Telekinetic Grab', '602': "Take an item you can see but can't reach", '603': 0, '604': 33, '605': 1} || {'365': 563, '366': 1, '367': 556, '336': 0, '368': 1, '596': 14286873, '597': 31, '598': 81, '599': 1778, '600': 1858, '601': 'Telekinetic Grab', '602': "Take an item you can see but can't reach", '603': 0, '604': 33, '605': 1}
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#3291 3291]
+|-
+|params || {'365': 562, '366': 1, '367': 554, '336': 0, '368': 4, '369': 556, '370': 3, '596': 14286873, '597': 32, '598': 82, '599': 8, '600': 1819, '601': 'Fire Bolt', '602': 'A low level Fire missile', '603': 0, '604': 35, '605': 0} || {'365': 562, '366': 1, '367': 554, '336': 0, '368': 4, '369': 556, '370': 3, '596': 14286874, '597': 32, '598': 82, '599': 8, '600': 1819, '601': 'Fire Bolt', '602': 'A low level Fire missile', '603': 0, '604': 35, '605': 0}
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#3292 3292]
+|-
+|params || {'365': 563, '366': 1, '367': 556, '336': 0, '368': 3, '369': 555, '370': 1, '596': 14286874, '597': 33, '598': 83, '599': 1754, '600': 1834, '601': 'Falador Teleport', '602': 'Teleports you to Falador', '603': 0, '604': 37, '605': 2} || {'365': 563, '366': 1, '367': 556, '336': 0, '368': 3, '369': 555, '370': 1, '596': 14286875, '597': 33, '598': 83, '599': 1754, '600': 1834, '601': 'Falador Teleport', '602': 'Teleports you to Falador', '603': 0, '604': 37, '605': 2}
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#3293 3293]
+|-
+|params || {'365': 562, '366': 1, '367': 557, '336': 0, '368': 2, '369': 556, '370': 2, '596': 14286875, '597': 34, '598': 84, '599': 1779, '600': 1859, '601': 'Crumble Undead', '602': 'Hits skeletons, ghosts, shades & zombies hard', '603': 0, '604': 39, '605': 0} || {'365': 562, '366': 1, '367': 557, '336': 0, '368': 2, '369': 556, '370': 2, '596': 14286876, '597': 34, '598': 84, '599': 1779, '600': 1859, '601': 'Crumble Undead', '602': 'Hits skeletons, ghosts, shades & zombies hard', '603': 0, '604': 39, '605': 0}
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#3294 3294]
+|-
+|params || {'365': 560, '366': 1, '367': 556, '336': 0, '368': 3, '596': 14286877, '597': 35, '598': 85, '599': 9, '600': 1820, '601': 'Wind Blast', '602': 'A medium level Air missile', '603': 0, '604': 41, '605': 0} || {'365': 560, '366': 1, '367': 556, '336': 0, '368': 3, '596': 14286878, '597': 35, '598': 85, '599': 9, '600': 1820, '601': 'Wind Blast', '602': 'A medium level Air missile', '603': 0, '604': 41, '605': 0}
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#3295 3295]
+|-
+|params || {'365': 561, '366': 1, '367': 554, '336': 0, '368': 4, '596': 14286878, '597': 36, '598': 86, '599': 1800, '600': 1880, '601': 'Superheat Item', '602': 'Smelt ore without a furnace', '603': 0, '604': 43, '605': 1} || {'365': 561, '366': 1, '367': 554, '336': 0, '368': 4, '596': 14286879, '597': 36, '598': 86, '599': 1800, '600': 1880, '601': 'Superheat Item', '602': 'Smelt ore without a furnace', '603': 0, '604': 43, '605': 1}
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#3296 3296]
+|-
+|params || {'365': 563, '366': 1, '367': 556, '336': 0, '368': 5, '596': 14286879, '597': 37, '598': 87, '599': 1756, '600': 1836, '601': 'Camelot Teleport', '602': 'Teleports you to Camelot', '603': 1, '604': 45, '605': 2} || {'365': 563, '366': 1, '367': 556, '336': 0, '368': 5, '596': 14286880, '597': 37, '598': 87, '599': 1756, '600': 1836, '601': 'Camelot Teleport', '602': 'Teleports you to Camelot', '603': 1, '604': 45, '605': 2}
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#3297 3297]
+|-
+|params || {'365': 560, '366': 1, '367': 555, '336': 0, '368': 3, '369': 556, '370': 3, '596': 14286880, '597': 38, '598': 88, '599': 10, '600': 1821, '601': 'Water Blast', '602': 'A medium level Water missile', '603': 0, '604': 47, '605': 0} || {'365': 560, '366': 1, '367': 555, '336': 0, '368': 3, '369': 556, '370': 3, '596': 14286881, '597': 38, '598': 88, '599': 10, '600': 1821, '601': 'Water Blast', '602': 'A medium level Water missile', '603': 0, '604': 47, '605': 0}
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#3298 3298]
+|-
+|params || {'365': 564, '366': 1, '367': 554, '336': 0, '368': 5, '596': 14286881, '597': 39, '598': 89, '599': 1767, '600': 1847, '601': 'Lvl-3 Enchant', '602': 'For use on ruby and topaz jewellery', '603': 0, '604': 49, '605': 1} || {'365': 564, '366': 1, '367': 554, '336': 0, '368': 5, '596': 14286882, '597': 39, '598': 89, '599': 1767, '600': 1847, '601': 'Lvl-3 Enchant', '602': 'For use on ruby and topaz jewellery', '603': 0, '604': 49, '605': 1}
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#3299 3299]
+|-
+|params || {'1189': 442, '365': 1409, '366': 1, '367': 560, '336': 0, '368': 1, '369': 554, '370': 5, '596': 14286882, '597': 53, '598': 103, '599': 1772, '600': 1852, '601': 'Iban Blast', '602': 'Summons the wrath of Iban', '603': 1, '604': 50, '605': 0} || {'1189': 442, '365': 1409, '366': 1, '367': 560, '336': 0, '368': 1, '369': 554, '370': 5, '596': 14286883, '597': 53, '598': 103, '599': 1772, '600': 1852, '601': 'Iban Blast', '602': 'Summons the wrath of Iban', '603': 1, '604': 50, '605': 0}
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#3300 3300]
+|-
+|params || {'365': 561, '366': 3, '367': 555, '336': 0, '368': 4, '369': 557, '370': 4, '596': 14286883, '597': 320, '598': 370, '599': 1789, '600': 1869, '601': 'Snare', '602': 'Holds your opponent for 10 seconds', '603': 0, '604': 50, '605': 0} || {'365': 561, '366': 3, '367': 555, '336': 0, '368': 4, '369': 557, '370': 4, '596': 14286884, '597': 320, '598': 370, '599': 1789, '600': 1869, '601': 'Snare', '602': 'Holds your opponent for 10 seconds', '603': 0, '604': 50, '605': 0}
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#3301 3301]
+|-
+|params || {'1189': 407, '365': 563, '366': 2, '367': 555, '336': 0, '368': 2, '596': 14286885, '597': 54, '598': 104, '599': 1757, '600': 1837, '601': 'Ardougne Teleport', '602': 'Teleports you to Ardougne', '603': 1, '604': 51, '605': 2} || {'1189': 407, '365': 563, '366': 2, '367': 555, '336': 0, '368': 2, '596': 14286886, '597': 54, '598': 104, '599': 1757, '600': 1837, '601': 'Ardougne Teleport', '602': 'Teleports you to Ardougne', '603': 1, '604': 51, '605': 2}
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#3302 3302]
+|-
+|params || {'365': 560, '366': 1, '367': 557, '336': 0, '368': 4, '369': 556, '370': 3, '596': 14286886, '597': 40, '598': 90, '599': 11, '600': 1822, '601': 'Earth Blast', '602': 'A medium level Earth missile', '603': 0, '604': 53, '605': 0} || {'365': 560, '366': 1, '367': 557, '336': 0, '368': 4, '369': 556, '370': 3, '596': 14286887, '597': 40, '598': 90, '599': 11, '600': 1822, '601': 'Earth Blast', '602': 'A medium level Earth missile', '603': 0, '604': 53, '605': 0}
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#3303 3303]
+|-
+|params || {'365': 561, '366': 1, '367': 554, '336': 0, '368': 5, '596': 14286887, '597': 41, '598': 91, '599': 1781, '600': 1861, '601': 'High Level Alchemy', '602': 'Converts an item into more gold', '603': 0, '604': 55, '605': 1} || {'365': 561, '366': 1, '367': 554, '336': 0, '368': 5, '596': 14286888, '597': 41, '598': 91, '599': 1781, '600': 1861, '601': 'High Level Alchemy', '602': 'Converts an item into more gold', '603': 0, '604': 55, '605': 1}
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#3304 3304]
+|-
+|params || {'365': 564, '366': 3, '367': 555, '336': 0, '368': 30, '369': 567, '370': 1, '596': 14286888, '597': 42, '598': 92, '599': 1793, '600': 1873, '601': 'Charge Water Orb', '602': 'Needs to be cast on a water obelisk', '603': 1, '604': 56, '605': 1} || {'365': 564, '366': 3, '367': 555, '336': 0, '368': 30, '369': 567, '370': 1, '596': 14286889, '597': 42, '598': 92, '599': 1793, '600': 1873, '601': 'Charge Water Orb', '602': 'Needs to be cast on a water obelisk', '603': 1, '604': 56, '605': 1}
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#3305 3305]
+|-
+|params || {'365': 564, '366': 1, '367': 557, '336': 0, '368': 10, '596': 14286889, '597': 43, '598': 93, '599': 1768, '600': 1848, '601': 'Lvl-4 Enchant', '602': 'For use on diamond jewellery', '603': 0, '604': 57, '605': 1} || {'365': 564, '366': 1, '367': 557, '336': 0, '368': 10, '596': 14286890, '597': 43, '598': 93, '599': 1768, '600': 1848, '601': 'Lvl-4 Enchant', '602': 'For use on diamond jewellery', '603': 0, '604': 57, '605': 1}
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#3306 3306]
+|-
+|params || {'1189': 445, '365': 563, '366': 2, '367': 557, '336': 0, '368': 2, '596': 14286890, '597': 55, '598': 105, '599': 1758, '600': 1838, '601': 'Watchtower Teleport', '602': 'Teleports you to the Watchtower', '603': 1, '604': 58, '605': 2} || {'1189': 445, '365': 563, '366': 2, '367': 557, '336': 0, '368': 2, '596': 14286891, '597': 55, '598': 105, '599': 1758, '600': 1838, '601': 'Watchtower Teleport', '602': 'Teleports you to the Watchtower', '603': 1, '604': 58, '605': 2}
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#3307 3307]
+|-
+|params || {'365': 560, '366': 1, '367': 554, '336': 0, '368': 5, '369': 556, '370': 4, '596': 14286891, '597': 44, '598': 94, '599': 13, '600': 1823, '601': 'Fire Blast', '602': 'A medium level Fire missile', '603': 0, '604': 59, '605': 0} || {'365': 560, '366': 1, '367': 554, '336': 0, '368': 5, '369': 556, '370': 4, '596': 14286892, '597': 44, '598': 94, '599': 13, '600': 1823, '601': 'Fire Blast', '602': 'A medium level Fire missile', '603': 0, '604': 59, '605': 0}
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#3308 3308]
+|-
+|params || {'365': 564, '366': 3, '367': 557, '336': 0, '368': 30, '369': 567, '370': 1, '596': 14286892, '597': 45, '598': 95, '599': 1794, '600': 1874, '601': 'Charge Earth Orb', '602': 'Needs to be cast on an earth obelisk', '603': 1, '604': 60, '605': 1} || {'365': 564, '366': 3, '367': 557, '336': 0, '368': 30, '369': 567, '370': 1, '596': 14286893, '597': 45, '598': 95, '599': 1794, '600': 1874, '601': 'Charge Earth Orb', '602': 'Needs to be cast on an earth obelisk', '603': 1, '604': 60, '605': 1}
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#3309 3309]
+|-
+|params || {'1189': 3146, '365': 8843, '366': 1, '367': 565, '336': 0, '368': 2, '369': 556, '370': 4, '596': 14286895, '597': 60, '598': 110, '599': 1774, '600': 1854, '601': 'Claws of Guthix', '602': 'Summons the power of Guthix', '603': 1, '604': 60, '605': 0, '606': 554, '607': 1} || {'1189': 3146, '365': 8843, '366': 1, '367': 565, '336': 0, '368': 2, '369': 556, '370': 4, '596': 14286896, '597': 60, '598': 110, '599': 1774, '600': 1854, '601': 'Claws of Guthix', '602': 'Summons the power of Guthix', '603': 1, '604': 60, '605': 0, '606': 554, '607': 1}
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#3310 3310]
+|-
+|params || {'1189': 3146, '365': 2417, '366': 1, '367': 565, '336': 0, '368': 2, '369': 556, '370': 1, '596': 14286896, '597': 59, '598': 109, '599': 1773, '600': 1853, '601': 'Flames of Zamorak', '602': 'Summons the power of Zamorak', '603': 1, '604': 60, '605': 0, '606': 554, '607': 4} || {'1189': 3146, '365': 2417, '366': 1, '367': 565, '336': 0, '368': 2, '369': 556, '370': 1, '596': 14286897, '597': 59, '598': 109, '599': 1773, '600': 1853, '601': 'Flames of Zamorak', '602': 'Summons the power of Zamorak', '603': 1, '604': 60, '605': 0, '606': 554, '607': 4}
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#3311 3311]
+|-
+|params || {'1189': 3146, '365': 2415, '366': 1, '367': 565, '336': 0, '368': 2, '369': 556, '370': 4, '596': 14286894, '597': 61, '598': 111, '599': 1775, '600': 1855, '601': 'Saradomin Strike', '602': 'Summons the power of Saradomin', '603': 1, '604': 60, '605': 0, '606': 554, '607': 2} || {'1189': 3146, '365': 2415, '366': 1, '367': 565, '336': 0, '368': 2, '369': 556, '370': 4, '596': 14286895, '597': 61, '598': 111, '599': 1775, '600': 1855, '601': 'Saradomin Strike', '602': 'Summons the power of Saradomin', '603': 1, '604': 60, '605': 0, '606': 554, '607': 2}
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#3312 3312]
+|-
+|params || {'1189': 352, '365': 563, '366': 2, '367': 554, '336': 0, '368': 2, '596': 14286897, '597': 323, '598': 373, '599': 1759, '600': 1839, '601': 'Trollheim Teleport', '602': 'Teleports you to Trollheim', '603': 1, '604': 61, '605': 2} || {'1189': 352, '365': 563, '366': 2, '367': 554, '336': 0, '368': 2, '596': 14286898, '597': 323, '598': 373, '599': 1759, '600': 1839, '601': 'Trollheim Teleport', '602': 'Teleports you to Trollheim', '603': 1, '604': 61, '605': 2}
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#3313 3313]
+|-
+|params || {'365': 565, '366': 1, '367': 556, '336': 0, '368': 5, '596': 14286898, '597': 46, '598': 96, '599': 14, '600': 1824, '601': 'Wind Wave', '602': 'A high level Air missile', '603': 1, '604': 62, '605': 0} || {'365': 565, '366': 1, '367': 556, '336': 0, '368': 5, '596': 14286899, '597': 46, '598': 96, '599': 14, '600': 1824, '601': 'Wind Wave', '602': 'A high level Air missile', '603': 1, '604': 62, '605': 0}
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#3314 3314]
+|-
+|params || {'365': 564, '366': 3, '367': 554, '336': 0, '368': 30, '369': 567, '370': 1, '596': 14286899, '597': 47, '598': 97, '599': 1795, '600': 1875, '601': 'Charge Fire Orb', '602': 'Needs to be cast on a fire obelisk', '603': 1, '604': 63, '605': 1} || {'365': 564, '366': 3, '367': 554, '336': 0, '368': 30, '369': 567, '370': 1, '596': 14286900, '597': 47, '598': 97, '599': 1795, '600': 1875, '601': 'Charge Fire Orb', '602': 'Needs to be cast on a fire obelisk', '603': 1, '604': 63, '605': 1}
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#3315 3315]
+|-
+|params || {'365': 565, '366': 1, '367': 555, '336': 0, '368': 7, '369': 556, '370': 5, '596': 14286901, '597': 48, '598': 98, '599': 305, '600': 1825, '601': 'Water Wave', '602': 'A high level Water missile', '603': 1, '604': 65, '605': 0} || {'365': 565, '366': 1, '367': 555, '336': 0, '368': 7, '369': 556, '370': 5, '596': 14286902, '597': 48, '598': 98, '599': 305, '600': 1825, '601': 'Water Wave', '602': 'A high level Water missile', '603': 1, '604': 65, '605': 0}
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#3316 3316]
+|-
+|params || {'365': 564, '366': 3, '367': 556, '336': 0, '368': 30, '369': 567, '370': 1, '596': 14286902, '597': 49, '598': 99, '599': 1796, '600': 1876, '601': 'Charge Air Orb', '602': 'Needs to be cast on an air obelisk', '603': 1, '604': 66, '605': 1} || {'365': 564, '366': 3, '367': 556, '336': 0, '368': 30, '369': 567, '370': 1, '596': 14286903, '597': 49, '598': 99, '599': 1796, '600': 1876, '601': 'Charge Air Orb', '602': 'Needs to be cast on an air obelisk', '603': 1, '604': 66, '605': 1}
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#3317 3317]
+|-
+|params || {'365': 566, '366': 1, '367': 555, '336': 0, '368': 5, '369': 557, '370': 5, '596': 14286903, '597': 56, '598': 106, '599': 1785, '600': 1865, '601': 'Vulnerability', '602': "Reduces your opponent's defence by 10%", '603': 1, '604': 66, '605': 0} || {'365': 566, '366': 1, '367': 555, '336': 0, '368': 5, '369': 557, '370': 5, '596': 14286904, '597': 56, '598': 106, '599': 1785, '600': 1865, '601': 'Vulnerability', '602': "Reduces your opponent's defence by 10%", '603': 1, '604': 66, '605': 0}
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#3318 3318]
+|-
+|params || {'365': 564, '366': 1, '367': 555, '336': 0, '368': 15, '369': 557, '370': 15, '596': 14286904, '597': 50, '598': 100, '599': 1769, '600': 1849, '601': 'Lvl-5 Enchant', '602': 'For use on dragonstone jewellery', '603': 1, '604': 68, '605': 1} || {'365': 564, '366': 1, '367': 555, '336': 0, '368': 15, '369': 557, '370': 15, '596': 14286905, '597': 50, '598': 100, '599': 1769, '600': 1849, '601': 'Lvl-5 Enchant', '602': 'For use on dragonstone jewellery', '603': 1, '604': 68, '605': 1}
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#3319 3319]
+|-
+|params || {'365': 565, '366': 1, '367': 557, '336': 0, '368': 7, '369': 556, '370': 5, '596': 14286906, '597': 51, '598': 101, '599': 306, '600': 1826, '601': 'Earth Wave', '602': 'A high level Earth missile', '603': 1, '604': 70, '605': 0} || {'365': 565, '366': 1, '367': 557, '336': 0, '368': 7, '369': 556, '370': 5, '596': 14286907, '597': 51, '598': 101, '599': 306, '600': 1826, '601': 'Earth Wave', '602': 'A high level Earth missile', '603': 1, '604': 70, '605': 0}
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#3320 3320]
+|-
+|params || {'365': 566, '366': 1, '367': 555, '336': 0, '368': 8, '369': 557, '370': 8, '596': 14286907, '597': 57, '598': 107, '599': 1786, '600': 1866, '601': 'Enfeeble', '602': "Reduces your opponent's strength by 10%", '603': 1, '604': 73, '605': 0} || {'365': 566, '366': 1, '367': 555, '336': 0, '368': 8, '369': 557, '370': 8, '596': 14286908, '597': 57, '598': 107, '599': 1786, '600': 1866, '601': 'Enfeeble', '602': "Reduces your opponent's strength by 10%", '603': 1, '604': 73, '605': 0}
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#3321 3321]
+|-
+|params || {'365': 565, '366': 1, '367': 554, '336': 0, '368': 7, '369': 556, '370': 5, '596': 14286909, '597': 52, '598': 102, '599': 307, '600': 1827, '601': 'Fire Wave', '602': 'A high level Fire missile', '603': 1, '604': 75, '605': 0} || {'365': 565, '366': 1, '367': 554, '336': 0, '368': 7, '369': 556, '370': 5, '596': 14286910, '597': 52, '598': 102, '599': 307, '600': 1827, '601': 'Fire Wave', '602': 'A high level Fire missile', '603': 1, '604': 75, '605': 0}
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#3322 3322]
+|-
+|params || {'365': 561, '366': 4, '367': 555, '336': 0, '368': 5, '369': 557, '370': 5, '596': 14286910, '597': 321, '598': 371, '599': 1790, '600': 1870, '601': 'Entangle', '602': 'Holds your opponent for 15 seconds', '603': 0, '604': 79, '605': 0} || {'365': 561, '366': 4, '367': 555, '336': 0, '368': 5, '369': 557, '370': 5, '596': 14286911, '597': 321, '598': 371, '599': 1790, '600': 1870, '601': 'Entangle', '602': 'Holds your opponent for 15 seconds', '603': 0, '604': 79, '605': 0}
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#3323 3323]
+|-
+|params || {'1189': 3146, '365': 565, '366': 3, '367': 556, '336': 0, '368': 3, '369': 554, '370': 3, '596': 14286912, '597': 322, '598': 372, '599': 1776, '600': 1856, '601': 'Charge', '602': 'Temporarily increases the power<br>of the three arena spells when wearing Mage Arena capes', '603': 1, '604': 80, '605': 0} || {'1189': 3146, '365': 565, '366': 3, '367': 556, '336': 0, '368': 3, '369': 554, '370': 3, '596': 14286913, '597': 322, '598': 372, '599': 1776, '600': 1856, '601': 'Charge', '602': 'Temporarily increases the power<br>of the three arena spells when wearing Mage Arena capes', '603': 1, '604': 80, '605': 0}
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#3324 3324]
+|-
+|params || {'365': 566, '366': 1, '367': 555, '336': 0, '368': 12, '369': 557, '370': 12, '596': 14286911, '597': 58, '598': 108, '599': 1787, '600': 1867, '601': 'Stun', '602': "Reduces your opponent's attack by 10%", '603': 1, '604': 80, '605': 0} || {'365': 566, '366': 1, '367': 555, '336': 0, '368': 12, '369': 557, '370': 12, '596': 14286912, '597': 58, '598': 108, '599': 1787, '600': 1867, '601': 'Stun', '602': "Reduces your opponent's attack by 10%", '603': 1, '604': 80, '605': 0}
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#4176 4176]
+|-
+|params || {'365': 4170, '366': 1, '367': 560, '336': 0, '368': 1, '369': 558, '370': 4, '596': 14286884, '597': 324, '598': 374, '599': 1798, '600': 1878, '601': 'Magic Dart', '602': 'A magic dart of slaying', '603': 1, '604': 50, '605': 0} || {'365': 4170, '366': 1, '367': 560, '336': 0, '368': 1, '369': 558, '370': 4, '596': 14286885, '597': 324, '598': 374, '599': 1798, '600': 1878, '601': 'Magic Dart', '602': 'A magic dart of slaying', '603': 1, '604': 50, '605': 0}
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#4553 4553]
+|-
+|params || {'365': 563, '366': 1, '367': 566, '336': 0, '368': 1, '369': 557, '370': 1, '596': 14286908, '597': 349, '598': 399, '599': 1762, '600': 1842, '601': 'Teleother Lumbridge', '602': 'Teleports target to Lumbridge', '603': 1, '604': 74, '605': 2} || {'365': 563, '366': 1, '367': 566, '336': 0, '368': 1, '369': 557, '370': 1, '596': 14286909, '597': 349, '598': 399, '599': 1762, '600': 1842, '601': 'Teleother Lumbridge', '602': 'Teleports target to Lumbridge', '603': 1, '604': 74, '605': 2}
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#4554 4554]
+|-
+|params || {'365': 563, '366': 1, '367': 566, '336': 0, '368': 1, '369': 555, '370': 1, '596': 14286914, '597': 350, '598': 400, '599': 1763, '600': 1843, '601': 'Teleother Falador', '602': 'Teleports target to Falador', '603': 1, '604': 82, '605': 2} || {'365': 563, '366': 1, '367': 566, '336': 0, '368': 1, '369': 555, '370': 1, '596': 14286915, '597': 350, '598': 400, '599': 1763, '600': 1843, '601': 'Teleother Falador', '602': 'Teleports target to Falador', '603': 1, '604': 82, '605': 2}
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#4555 4555]
+|-
+|params || {'365': 563, '366': 1, '367': 560, '336': 0, '368': 1, '369': 562, '370': 1, '596': 14286916, '597': 352, '598': 402, '599': 1792, '600': 1872, '601': 'Tele Block', '602': 'Stops your target from teleporting', '603': 0, '604': 85, '605': 0} || {'365': 563, '366': 1, '367': 560, '336': 0, '368': 1, '369': 562, '370': 1, '596': 14286917, '597': 352, '598': 402, '599': 1792, '600': 1872, '601': 'Tele Block', '602': 'Stops your target from teleporting', '603': 0, '604': 85, '605': 0}
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#4556 4556]
+|-
+|params || {'365': 563, '366': 1, '367': 566, '336': 0, '368': 2, '596': 14286919, '597': 351, '598': 401, '599': 1764, '600': 1844, '601': 'Teleother Camelot', '602': 'Teleports target to Camelot', '603': 1, '604': 90, '605': 2} || {'365': 563, '366': 1, '367': 566, '336': 0, '368': 2, '596': 14286920, '597': 351, '598': 401, '599': 1764, '600': 1844, '601': 'Teleother Camelot', '602': 'Teleports target to Camelot', '603': 1, '604': 90, '605': 2}
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#4629 4629]
+|-
+|params || {'1189': 345, '1228': 1, '365': 560, '366': 2, '367': 562, '336': 1, '368': 2, '369': 556, '370': 1, '596': 14286931, '597': 329, '598': 379, '599': 1896, '600': 1926, '601': 'Smoke Rush', '602': 'A single target smoke attack', '603': 1, '604': 50, '605': 0, '606': 554, '607': 1} || {'1189': 345, '1228': 1, '365': 560, '366': 2, '367': 562, '336': 1, '368': 2, '369': 556, '370': 1, '596': 14286932, '597': 329, '598': 379, '599': 1896, '600': 1926, '601': 'Smoke Rush', '602': 'A single target smoke attack', '603': 1, '604': 50, '605': 0, '606': 554, '607': 1}
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#4630 4630]
+|-
+|params || {'1189': 345, '1228': 1, '365': 560, '366': 2, '367': 562, '336': 1, '368': 2, '369': 566, '370': 1, '596': 14286935, '597': 337, '598': 387, '599': 1904, '600': 1934, '601': 'Shadow Rush', '602': 'A single target shadow attack', '603': 1, '604': 52, '605': 0, '606': 556, '607': 1} || {'1189': 345, '1228': 1, '365': 560, '366': 2, '367': 562, '336': 1, '368': 2, '369': 566, '370': 1, '596': 14286936, '597': 337, '598': 387, '599': 1904, '600': 1934, '601': 'Shadow Rush', '602': 'A single target shadow attack', '603': 1, '604': 52, '605': 0, '606': 556, '607': 1}
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#4631 4631]
+|-
+|params || {'1189': 345, '365': 563, '366': 2, '367': 556, '336': 1, '368': 1, '369': 554, '370': 1, '596': 14286939, '597': 341, '598': 391, '599': 1908, '600': 1938, '601': 'Paddewwa Teleport', '602': 'A teleportation spell', '603': 1, '604': 54, '605': 2} || {'1189': 345, '365': 563, '366': 2, '367': 556, '336': 1, '368': 1, '369': 554, '370': 1, '596': 14286940, '597': 341, '598': 391, '599': 1908, '600': 1938, '601': 'Paddewwa Teleport', '602': 'A teleportation spell', '603': 1, '604': 54, '605': 2}
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#4632 4632]
+|-
+|params || {'1189': 345, '1228': 1, '365': 560, '366': 2, '367': 562, '336': 1, '368': 2, '369': 565, '370': 1, '596': 14286927, '597': 333, '598': 383, '599': 1900, '600': 1930, '601': 'Blood Rush', '602': 'A single target blood attack', '603': 1, '604': 56, '605': 0} || {'1189': 345, '1228': 1, '365': 560, '366': 2, '367': 562, '336': 1, '368': 2, '369': 565, '370': 1, '596': 14286928, '597': 333, '598': 383, '599': 1900, '600': 1930, '601': 'Blood Rush', '602': 'A single target blood attack', '603': 1, '604': 56, '605': 0}
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#4633 4633]
+|-
+|params || {'1189': 345, '1228': 1, '365': 560, '366': 2, '367': 562, '336': 1, '368': 2, '369': 555, '370': 2, '596': 14286923, '597': 325, '598': 375, '599': 1892, '600': 1922, '601': 'Ice Rush', '602': 'A single target ice attack', '603': 1, '604': 58, '605': 0} || {'1189': 345, '1228': 1, '365': 560, '366': 2, '367': 562, '336': 1, '368': 2, '369': 555, '370': 2, '596': 14286924, '597': 325, '598': 375, '599': 1892, '600': 1922, '601': 'Ice Rush', '602': 'A single target ice attack', '603': 1, '604': 58, '605': 0}
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#4634 4634]
+|-
+|params || {'1189': 345, '365': 563, '366': 2, '367': 566, '336': 1, '368': 1, '596': 14286940, '597': 342, '598': 392, '599': 1909, '600': 1939, '601': 'Senntisten Teleport', '602': 'A teleportation spell', '603': 1, '604': 60, '605': 2} || {'1189': 345, '365': 563, '366': 2, '367': 566, '336': 1, '368': 1, '596': 14286941, '597': 342, '598': 392, '599': 1909, '600': 1939, '601': 'Senntisten Teleport', '602': 'A teleportation spell', '603': 1, '604': 60, '605': 2}
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#4635 4635]
+|-
+|params || {'1189': 345, '1228': 1, '365': 560, '366': 2, '367': 562, '336': 1, '368': 4, '369': 556, '370': 2, '596': 14286933, '597': 330, '598': 380, '599': 1897, '600': 1927, '601': 'Smoke Burst', '602': 'A multi-target smoke attack', '603': 1, '604': 62, '605': 0, '606': 554, '607': 2} || {'1189': 345, '1228': 1, '365': 560, '366': 2, '367': 562, '336': 1, '368': 4, '369': 556, '370': 2, '596': 14286934, '597': 330, '598': 380, '599': 1897, '600': 1927, '601': 'Smoke Burst', '602': 'A multi-target smoke attack', '603': 1, '604': 62, '605': 0, '606': 554, '607': 2}
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#4636 4636]
+|-
+|params || {'1189': 345, '1228': 1, '365': 560, '366': 2, '367': 562, '336': 1, '368': 4, '369': 566, '370': 2, '596': 14286937, '597': 338, '598': 388, '599': 1905, '600': 1935, '601': 'Shadow Burst', '602': 'A multi-target shadow attack', '603': 1, '604': 64, '605': 0, '606': 556, '607': 1} || {'1189': 345, '1228': 1, '365': 560, '366': 2, '367': 562, '336': 1, '368': 4, '369': 566, '370': 2, '596': 14286938, '597': 338, '598': 388, '599': 1905, '600': 1935, '601': 'Shadow Burst', '602': 'A multi-target shadow attack', '603': 1, '604': 64, '605': 0, '606': 556, '607': 1}
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#4637 4637]
+|-
+|params || {'1189': 345, '365': 563, '366': 2, '367': 565, '336': 1, '368': 1, '596': 14286941, '597': 343, '598': 393, '599': 1910, '600': 1940, '601': 'Kharyrll Teleport', '602': 'A teleportation spell', '603': 1, '604': 66, '605': 2} || {'1189': 345, '365': 563, '366': 2, '367': 565, '336': 1, '368': 1, '596': 14286942, '597': 343, '598': 393, '599': 1910, '600': 1940, '601': 'Kharyrll Teleport', '602': 'A teleportation spell', '603': 1, '604': 66, '605': 2}
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#4638 4638]
+|-
+|params || {'1189': 345, '1228': 1, '365': 560, '366': 2, '367': 562, '336': 1, '368': 4, '369': 565, '370': 2, '596': 14286929, '597': 334, '598': 384, '599': 1901, '600': 1931, '601': 'Blood Burst', '602': 'A multi-target blood attack', '603': 1, '604': 68, '605': 0} || {'1189': 345, '1228': 1, '365': 560, '366': 2, '367': 562, '336': 1, '368': 4, '369': 565, '370': 2, '596': 14286930, '597': 334, '598': 384, '599': 1901, '600': 1931, '601': 'Blood Burst', '602': 'A multi-target blood attack', '603': 1, '604': 68, '605': 0}
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#4639 4639]
+|-
+|params || {'1189': 345, '1228': 1, '365': 560, '366': 2, '367': 562, '336': 1, '368': 4, '369': 555, '370': 4, '596': 14286925, '597': 326, '598': 376, '599': 1893, '600': 1923, '601': 'Ice Burst', '602': 'A multi-target ice attack', '603': 1, '604': 70, '605': 0} || {'1189': 345, '1228': 1, '365': 560, '366': 2, '367': 562, '336': 1, '368': 4, '369': 555, '370': 4, '596': 14286926, '597': 326, '598': 376, '599': 1893, '600': 1923, '601': 'Ice Burst', '602': 'A multi-target ice attack', '603': 1, '604': 70, '605': 0}
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#4640 4640]
+|-
+|params || {'1189': 345, '365': 563, '366': 2, '367': 555, '336': 1, '368': 4, '596': 14286942, '597': 344, '598': 394, '599': 1911, '600': 1941, '601': 'Lassar Teleport', '602': 'A teleportation spell', '603': 1, '604': 72, '605': 2} || {'1189': 345, '365': 563, '366': 2, '367': 555, '336': 1, '368': 4, '596': 14286943, '597': 344, '598': 394, '599': 1911, '600': 1941, '601': 'Lassar Teleport', '602': 'A teleportation spell', '603': 1, '604': 72, '605': 2}
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#4641 4641]
+|-
+|params || {'1189': 345, '1228': 1, '365': 560, '366': 2, '367': 565, '336': 1, '368': 2, '369': 556, '370': 2, '596': 14286932, '597': 331, '598': 381, '599': 1898, '600': 1928, '601': 'Smoke Blitz', '602': 'A single target strong smoke attack', '603': 1, '604': 74, '605': 0, '606': 554, '607': 2} || {'1189': 345, '1228': 1, '365': 560, '366': 2, '367': 565, '336': 1, '368': 2, '369': 556, '370': 2, '596': 14286933, '597': 331, '598': 381, '599': 1898, '600': 1928, '601': 'Smoke Blitz', '602': 'A single target strong smoke attack', '603': 1, '604': 74, '605': 0, '606': 554, '607': 2}
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#4642 4642]
+|-
+|params || {'1189': 345, '1228': 1, '365': 560, '366': 2, '367': 565, '336': 1, '368': 2, '369': 566, '370': 2, '596': 14286936, '597': 339, '598': 389, '599': 1906, '600': 1936, '601': 'Shadow Blitz', '602': 'A single target strong shadow attack', '603': 1, '604': 76, '605': 0, '606': 556, '607': 2} || {'1189': 345, '1228': 1, '365': 560, '366': 2, '367': 565, '336': 1, '368': 2, '369': 566, '370': 2, '596': 14286937, '597': 339, '598': 389, '599': 1906, '600': 1936, '601': 'Shadow Blitz', '602': 'A single target strong shadow attack', '603': 1, '604': 76, '605': 0, '606': 556, '607': 2}
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#4643 4643]
+|-
+|params || {'1189': 345, '365': 563, '366': 2, '367': 556, '336': 1, '368': 2, '369': 554, '370': 3, '596': 14286943, '597': 345, '598': 395, '599': 1912, '600': 1942, '601': 'Dareeyak Teleport', '602': 'A teleportation spell', '603': 1, '604': 78, '605': 2} || {'1189': 345, '365': 563, '366': 2, '367': 556, '336': 1, '368': 2, '369': 554, '370': 3, '596': 14286944, '597': 345, '598': 395, '599': 1912, '600': 1942, '601': 'Dareeyak Teleport', '602': 'A teleportation spell', '603': 1, '604': 78, '605': 2}
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#4644 4644]
+|-
+|params || {'1189': 345, '1228': 1, '365': 560, '366': 2, '367': 565, '336': 1, '368': 4, '596': 14286928, '597': 335, '598': 385, '599': 1902, '600': 1932, '601': 'Blood Blitz', '602': 'A single target strong blood attack', '603': 1, '604': 80, '605': 0} || {'1189': 345, '1228': 1, '365': 560, '366': 2, '367': 565, '336': 1, '368': 4, '596': 14286929, '597': 335, '598': 385, '599': 1902, '600': 1932, '601': 'Blood Blitz', '602': 'A single target strong blood attack', '603': 1, '604': 80, '605': 0}
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#4645 4645]
+|-
+|params || {'1189': 345, '1228': 1, '365': 560, '366': 2, '367': 565, '336': 1, '368': 2, '369': 555, '370': 3, '596': 14286924, '597': 327, '598': 377, '599': 1894, '600': 1924, '601': 'Ice Blitz', '602': 'A single target strong ice attack', '603': 1, '604': 82, '605': 0} || {'1189': 345, '1228': 1, '365': 560, '366': 2, '367': 565, '336': 1, '368': 2, '369': 555, '370': 3, '596': 14286925, '597': 327, '598': 377, '599': 1894, '600': 1924, '601': 'Ice Blitz', '602': 'A single target strong ice attack', '603': 1, '604': 82, '605': 0}
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#4646 4646]
+|-
+|params || {'1189': 345, '365': 563, '366': 2, '367': 566, '336': 1, '368': 2, '596': 14286944, '597': 346, '598': 396, '599': 1913, '600': 1943, '601': 'Carrallangar Teleport', '602': 'A teleportation spell', '603': 1, '604': 84, '605': 2} || {'1189': 345, '365': 563, '366': 2, '367': 566, '336': 1, '368': 2, '596': 14286945, '597': 346, '598': 396, '599': 1913, '600': 1943, '601': 'Carrallangar Teleport', '602': 'A teleportation spell', '603': 1, '604': 84, '605': 2}
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#4647 4647]
+|-
+|params || {'1189': 345, '1228': 1, '365': 560, '366': 4, '367': 565, '336': 1, '368': 2, '369': 556, '370': 4, '596': 14286934, '597': 332, '598': 382, '599': 1899, '600': 1929, '601': 'Smoke Barrage', '602': 'A multi-target strong smoke attack', '603': 1, '604': 86, '605': 0, '606': 554, '607': 4} || {'1189': 345, '1228': 1, '365': 560, '366': 4, '367': 565, '336': 1, '368': 2, '369': 556, '370': 4, '596': 14286935, '597': 332, '598': 382, '599': 1899, '600': 1929, '601': 'Smoke Barrage', '602': 'A multi-target strong smoke attack', '603': 1, '604': 86, '605': 0, '606': 554, '607': 4}
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#4648 4648]
+|-
+|params || {'1189': 345, '1228': 1, '365': 560, '366': 4, '367': 565, '336': 1, '368': 2, '369': 566, '370': 3, '596': 14286938, '597': 340, '598': 390, '599': 1907, '600': 1937, '601': 'Shadow Barrage', '602': 'A multi-target strong shadow attack', '603': 1, '604': 88, '605': 0, '606': 556, '607': 4} || {'1189': 345, '1228': 1, '365': 560, '366': 4, '367': 565, '336': 1, '368': 2, '369': 566, '370': 3, '596': 14286939, '597': 340, '598': 390, '599': 1907, '600': 1937, '601': 'Shadow Barrage', '602': 'A multi-target strong shadow attack', '603': 1, '604': 88, '605': 0, '606': 556, '607': 4}
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#4649 4649]
+|-
+|params || {'1189': 345, '365': 563, '366': 2, '367': 565, '336': 1, '368': 2, '596': 14286945, '597': 347, '598': 397, '599': 1914, '600': 1944, '601': 'Annakarl Teleport', '602': 'A teleportation spell', '603': 1, '604': 90, '605': 2} || {'1189': 345, '365': 563, '366': 2, '367': 565, '336': 1, '368': 2, '596': 14286946, '597': 347, '598': 397, '599': 1914, '600': 1944, '601': 'Annakarl Teleport', '602': 'A teleportation spell', '603': 1, '604': 90, '605': 2}
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#4650 4650]
+|-
+|params || {'1189': 345, '1228': 1, '365': 560, '366': 4, '367': 565, '336': 1, '368': 4, '369': 566, '370': 1, '596': 14286930, '597': 336, '598': 386, '599': 1903, '600': 1933, '601': 'Blood Barrage', '602': 'A multi-target strong blood attack', '603': 1, '604': 92, '605': 0} || {'1189': 345, '1228': 1, '365': 560, '366': 4, '367': 565, '336': 1, '368': 4, '369': 566, '370': 1, '596': 14286931, '597': 336, '598': 386, '599': 1903, '600': 1933, '601': 'Blood Barrage', '602': 'A multi-target strong blood attack', '603': 1, '604': 92, '605': 0}
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#4651 4651]
+|-
+|params || {'1189': 345, '1228': 1, '365': 560, '366': 4, '367': 565, '336': 1, '368': 2, '369': 555, '370': 6, '596': 14286926, '597': 328, '598': 378, '599': 1895, '600': 1925, '601': 'Ice Barrage', '602': 'A multi-target strong ice attack', '603': 1, '604': 94, '605': 0} || {'1189': 345, '1228': 1, '365': 560, '366': 4, '367': 565, '336': 1, '368': 2, '369': 555, '370': 6, '596': 14286927, '597': 328, '598': 378, '599': 1895, '600': 1925, '601': 'Ice Barrage', '602': 'A multi-target strong ice attack', '603': 1, '604': 94, '605': 0}
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#4652 4652]
+|-
+|params || {'1189': 345, '365': 563, '366': 2, '367': 555, '336': 1, '368': 8, '596': 14286946, '597': 348, '598': 398, '599': 1915, '600': 1945, '601': 'Ghorrock Teleport', '602': 'A teleportation spell', '603': 1, '604': 96, '605': 2} || {'1189': 345, '365': 563, '366': 2, '367': 555, '336': 1, '368': 8, '596': 14286947, '597': 348, '598': 398, '599': 1915, '600': 1945, '601': 'Ghorrock Teleport', '602': 'A teleportation spell', '603': 1, '604': 96, '605': 2}
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#5000 5000]
+|-
+|params || {'336': 0, '596': 14286856, '597': 358, '598': 408, '599': 1797, '600': 1877, '601': 'Enchant Crossbow Bolt', '602': 'Minimum level 4 Magic Multiple other requirements', '603': 1, '604': 4, '605': 1} || {'336': 0, '596': 14286857, '597': 358, '598': 408, '599': 1797, '600': 1877, '601': 'Enchant Crossbow Bolt', '602': 'Minimum level 4 Magic Multiple other requirements', '603': 1, '604': 4, '605': 1}
+|-
+|rowspan="2"|[[Null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#6208 6208]
+|-
+|params || {'365': 565, '366': 1, '367': 561, '336': 3, '368': 3, '369': 566, '370': 2, '596': 14286996, '597': 1249, '598': 1274, '599': 2054, '600': 2094, '601': 'Expert Reanimation', '602': 'Reanimates a high levelled creature', '603': 1, '604': 72, '605': 1} || {'365': 565, '366': 1, '367': 561, '336': 3, '368': 3, '369': 566, '370': 2, '596': 14286997, '597': 1249, '598': 1274, '599': 2054, '600': 2094, '601': 'Expert Reanimation', '602': 'Reanimates a high levelled creature', '603': 1, '604': 72, '605': 1}
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#6567 6567]
+|-
+|params || {'365': 564, '366': 1, '367': 557, '336': 0, '368': 20, '369': 554, '370': 20, '596': 14286918, '597': 353, '598': 403, '599': 1770, '600': 1850, '601': 'Lvl-6 Enchant', '602': 'For use on onyx jewellery', '603': 1, '604': 87, '605': 1} || {'365': 564, '366': 1, '367': 557, '336': 0, '368': 20, '369': 554, '370': 20, '596': 14286919, '597': 353, '598': 403, '599': 1770, '600': 1850, '601': 'Lvl-6 Enchant', '602': 'For use on onyx jewellery', '603': 1, '604': 87, '605': 1}
+|-
+|rowspan="2"|[[Watering can]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#6797 6797]
+|-
+|params || {'1189': 391, '365': 9075, '366': 3, '367': 561, '336': 2, '368': 3, '369': 557, '370': 8, '596': 14286989, '597': 563, '598': 613, '599': 1967, '600': 2017, '601': 'Geomancy', '602': 'Checks the status of your main Farming patches', '603': 1, '604': 65, '605': 1} || {'1189': 391, '365': 9075, '366': 3, '367': 561, '336': 2, '368': 3, '369': 557, '370': 8, '596': 14286990, '597': 563, '598': 613, '599': 1967, '600': 2017, '601': 'Geomancy', '602': 'Checks the status of your main Farming patches', '603': 1, '604': 65, '605': 1}
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#6884 6884]
+|-
+|params || {'1416': 1, '365': 561, '366': 2, '367': 555, '336': 0, '368': 4, '369': 557, '370': 4, '596': 14286893, '597': 354, '598': 404, '599': 1801, '600': 1881, '601': 'Bones to Peaches', '602': 'Turns Bones into Peaches', '603': 1, '604': 60, '605': 1} || {'1416': 1, '365': 561, '366': 2, '367': 555, '336': 0, '368': 4, '369': 557, '370': 4, '596': 14286894, '597': 354, '598': 404, '599': 1801, '600': 1881, '601': 'Bones to Peaches', '602': 'Turns Bones into Peaches', '603': 1, '604': 60, '605': 1}
+|-
+|rowspan="2"|[[Null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#6888 6888]
+|-
+|params || {'365': 565, '366': 2, '367': 561, '336': 3, '368': 4, '369': 566, '370': 4, '596': 14286997, '597': 1250, '598': 1275, '599': 2055, '600': 2095, '601': 'Master Reanimation', '602': 'Reanimates a very high levelled creature', '603': 1, '604': 90, '605': 1} || {'365': 565, '366': 2, '367': 561, '336': 3, '368': 4, '369': 566, '370': 4, '596': 14286998, '597': 1250, '598': 1275, '599': 2055, '600': 2095, '601': 'Master Reanimation', '602': 'Reanimates a very high levelled creature', '603': 1, '604': 90, '605': 1}
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#7619 7619]
+|-
+|params || {'365': 563, '366': 2, '367': 555, '336': 0, '368': 2, '369': 554, '370': 2, '596': 14286900, '597': 357, '598': 407, '599': 1760, '600': 1840, '601': 'Ape Atoll Teleport', '602': 'Teleports you to Ape Atoll', '603': 1, '604': 64, '605': 2, '606': 1963, '607': 1} || {'365': 563, '366': 2, '367': 555, '336': 0, '368': 2, '369': 554, '370': 2, '596': 14286901, '597': 357, '598': 407, '599': 1760, '600': 1840, '601': 'Ape Atoll Teleport', '602': 'Teleports you to Ape Atoll', '603': 1, '604': 64, '605': 2, '606': 1963, '607': 1}
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#8092 8092]
+|-
+|params || {'608': 8092, '365': 563, '366': 1, '367': 566, '336': 3, '368': 1, '596': 14287001, '597': 1257, '598': 1282, '599': 2062, '600': 2102, '601': 'Respawn Teleport', '602': 'Teleports you to your respawn location', '603': 1, '604': 34, '605': 2} || {'608': 8092, '365': 563, '366': 1, '367': 566, '336': 3, '368': 1, '596': 14287002, '597': 1257, '598': 1282, '599': 2062, '600': 2102, '601': 'Respawn Teleport', '602': 'Teleports you to your respawn location', '603': 1, '604': 34, '605': 2}
+|-
+|rowspan="2"|[[Null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#8796 8796]
+|-
+|params || {'1189': 2971, '365': 565, '366': 1, '367': 21880, '336': 3, '368': 1, '596': 14287022, '597': 1312, '598': 1331, '599': 2089, '600': 2129, '601': 'Sinister Offering', '602': 'Converts bones into prayer points and experience', '603': 1, '604': 92, '605': 1} || {'1189': 2971, '365': 565, '366': 1, '367': 21880, '336': 3, '368': 1, '596': 14287023, '597': 1312, '598': 1331, '599': 2089, '600': 2129, '601': 'Sinister Offering', '602': 'Converts bones into prayer points and experience', '603': 1, '604': 92, '605': 1}
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#8828 8828]
+|-
+|params || {'365': 563, '366': 1, '367': 556, '336': 0, '368': 1, '369': 557, '370': 1, '596': 14286876, '597': 355, '598': 405, '599': 1755, '600': 1835, '601': 'Teleport to House', '602': 'Teleports you to your house', '603': 1, '604': 40, '605': 2} || {'365': 563, '366': 1, '367': 556, '336': 0, '368': 1, '369': 557, '370': 1, '596': 14286877, '597': 355, '598': 405, '599': 1755, '600': 1835, '601': 'Teleport to House', '602': 'Teleports you to your house', '603': 1, '604': 40, '605': 2}
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#9107 9107]
+|-
+|params || {'1189': 391, '365': 9075, '366': 1, '367': 555, '336': 2, '368': 4, '369': 554, '370': 5, '596': 14286949, '597': 543, '598': 593, '599': 1952, '600': 2002, '601': 'Bake Pie', '602': 'Bake pies without a stove', '603': 1, '604': 65, '605': 1} || {'1189': 391, '365': 9075, '366': 1, '367': 555, '336': 2, '368': 4, '369': 554, '370': 5, '596': 14286950, '597': 543, '598': 593, '599': 1952, '600': 2002, '601': 'Bake Pie', '602': 'Bake pies without a stove', '603': 1, '604': 65, '605': 1}
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#9108 9108]
+|-
+|params || {'1189': 391, '365': 9075, '366': 1, '367': 557, '336': 2, '368': 8, '596': 14286950, '597': 567, '598': 617, '599': 1968, '600': 2018, '601': 'Cure Plant', '602': 'Cures disease on farming patch', '603': 1, '604': 66, '605': 1} || {'1189': 391, '365': 9075, '366': 1, '367': 557, '336': 2, '368': 8, '596': 14286951, '597': 567, '598': 617, '599': 1968, '600': 2018, '601': 'Cure Plant', '602': 'Cures disease on farming patch', '603': 1, '604': 66, '605': 1}
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#9109 9109]
+|-
+|params || {'1189': 391, '365': 9075, '366': 1, '367': 564, '336': 2, '368': 1, '369': 556, '370': 2, '596': 14286952, '597': 568, '598': 618, '599': 1969, '600': 2019, '601': 'NPC Contact', '602': 'Speak with various NPCs', '603': 1, '604': 67, '605': 1} || {'1189': 391, '365': 9075, '366': 1, '367': 564, '336': 2, '368': 1, '369': 556, '370': 2, '596': 14286953, '597': 568, '598': 618, '599': 1969, '600': 2019, '601': 'NPC Contact', '602': 'Speak with various NPCs', '603': 1, '604': 67, '605': 1}
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#9110 9110]
+|-
+|params || {'1189': 391, '365': 9075, '366': 1, '367': 563, '336': 2, '368': 1, '369': 557, '370': 10, '596': 14286953, '597': 559, '598': 609, '599': 1962, '600': 2012, '601': 'Cure Other', '602': 'Cure poisoned players', '603': 1, '604': 68, '605': 0} || {'1189': 391, '365': 9075, '366': 1, '367': 563, '336': 2, '368': 1, '369': 557, '370': 10, '596': 14286954, '597': 559, '598': 609, '599': 1962, '600': 2012, '601': 'Cure Other', '602': 'Cure poisoned players', '603': 1, '604': 68, '605': 0}
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#9111 9111]
+|-
+|params || {'1189': 391, '365': 563, '366': 1, '367': 9075, '336': 2, '368': 2, '369': 557, '370': 2, '596': 14286955, '597': 544, '598': 594, '599': 1980, '600': 2030, '601': 'Moonclan Teleport', '602': 'Teleports you to Moonclan Island', '603': 1, '604': 69, '605': 2} || {'1189': 391, '365': 563, '366': 1, '367': 9075, '336': 2, '368': 2, '369': 557, '370': 2, '596': 14286956, '597': 544, '598': 594, '599': 1980, '600': 2030, '601': 'Moonclan Teleport', '602': 'Teleports you to Moonclan Island', '603': 1, '604': 69, '605': 2}
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#9112 9112]
+|-
+|params || {'1189': 391, '365': 563, '366': 1, '367': 9075, '336': 2, '368': 2, '369': 557, '370': 4, '596': 14286956, '597': 569, '598': 619, '599': 1988, '600': 2038, '601': 'Tele Group Moonclan', '602': 'Teleports players to Moonclan Island', '603': 1, '604': 70, '605': 2} || {'1189': 391, '365': 563, '366': 1, '367': 9075, '336': 2, '368': 2, '369': 557, '370': 4, '596': 14286957, '597': 569, '598': 619, '599': 1988, '600': 2038, '601': 'Tele Group Moonclan', '602': 'Teleports players to Moonclan Island', '603': 1, '604': 70, '605': 2}
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#9113 9113]
+|-
+|params || {'1189': 391, '365': 9075, '366': 2, '367': 564, '336': 2, '368': 2, '369': 563, '370': 1, '596': 14286957, '597': 562, '598': 612, '599': 1964, '600': 2014, '601': 'Cure Me', '602': 'Cure Poison', '603': 1, '604': 71, '605': 0} || {'1189': 391, '365': 9075, '366': 2, '367': 564, '336': 2, '368': 2, '369': 563, '370': 1, '596': 14286958, '597': 562, '598': 612, '599': 1964, '600': 2014, '601': 'Cure Me', '602': 'Cure Poison', '603': 1, '604': 71, '605': 0}
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#9114 9114]
+|-
+|params || {'1189': 391, '365': 563, '366': 1, '367': 9075, '336': 2, '368': 2, '369': 555, '370': 1, '596': 14286959, '597': 545, '598': 595, '599': 1982, '600': 2032, '601': 'Waterbirth Teleport', '602': 'Teleports you to Waterbirth Island', '603': 1, '604': 72, '605': 2} || {'1189': 391, '365': 563, '366': 1, '367': 9075, '336': 2, '368': 2, '369': 555, '370': 1, '596': 14286960, '597': 545, '598': 595, '599': 1982, '600': 2032, '601': 'Waterbirth Teleport', '602': 'Teleports you to Waterbirth Island', '603': 1, '604': 72, '605': 2}
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#9115 9115]
+|-
+|params || {'1189': 391, '365': 563, '366': 1, '367': 9075, '336': 2, '368': 2, '369': 555, '370': 5, '596': 14286960, '597': 570, '598': 620, '599': 1989, '600': 2039, '601': 'Tele Group Waterbirth', '602': 'Teleports players to Waterbirth Island', '603': 1, '604': 73, '605': 2} || {'1189': 391, '365': 563, '366': 1, '367': 9075, '336': 2, '368': 2, '369': 555, '370': 5, '596': 14286961, '597': 570, '598': 620, '599': 1989, '600': 2039, '601': 'Tele Group Waterbirth', '602': 'Teleports players to Waterbirth Island', '603': 1, '604': 73, '605': 2}
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#9116 9116]
+|-
+|params || {'1189': 391, '365': 9075, '366': 2, '367': 564, '336': 2, '368': 2, '369': 563, '370': 2, '596': 14286961, '597': 565, '598': 615, '599': 1965, '600': 2015, '601': 'Cure Group', '602': 'Cure poison on players', '603': 1, '604': 74, '605': 0} || {'1189': 391, '365': 9075, '366': 2, '367': 564, '336': 2, '368': 2, '369': 563, '370': 2, '596': 14286962, '597': 565, '598': 615, '599': 1965, '600': 2015, '601': 'Cure Group', '602': 'Cure poison on players', '603': 1, '604': 74, '605': 0}
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#9117 9117]
+|-
+|params || {'1189': 391, '365': 563, '366': 2, '367': 9075, '336': 2, '368': 2, '369': 554, '370': 3, '596': 14286963, '597': 547, '598': 597, '599': 1983, '600': 2033, '601': 'Barbarian Teleport', '602': 'Teleports you to the Barbarian Outpost', '603': 1, '604': 75, '605': 2} || {'1189': 391, '365': 563, '366': 2, '367': 9075, '336': 2, '368': 2, '369': 554, '370': 3, '596': 14286964, '597': 547, '598': 597, '599': 1983, '600': 2033, '601': 'Barbarian Teleport', '602': 'Teleports you to the Barbarian Outpost', '603': 1, '604': 75, '605': 2}
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#9118 9118]
+|-
+|params || {'1189': 391, '365': 563, '366': 2, '367': 9075, '336': 2, '368': 2, '369': 554, '370': 6, '596': 14286964, '597': 571, '598': 621, '599': 1990, '600': 2040, '601': 'Tele Group Barbarian', '602': 'Teleports players to the Barbarian Outpost', '603': 1, '604': 76, '605': 2} || {'1189': 391, '365': 563, '366': 2, '367': 9075, '336': 2, '368': 2, '369': 554, '370': 6, '596': 14286965, '597': 571, '598': 621, '599': 1990, '600': 2040, '601': 'Tele Group Barbarian', '602': 'Teleports players to the Barbarian Outpost', '603': 1, '604': 76, '605': 2}
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#9119 9119]
+|-
+|params || {'1189': 391, '365': 9075, '366': 2, '367': 554, '336': 2, '368': 6, '369': 556, '370': 10, '596': 14286965, '597': 548, '598': 598, '599': 1953, '600': 2003, '601': 'Superglass Make', '602': 'Make glass without a furnace', '603': 1, '604': 77, '605': 1} || {'1189': 391, '365': 9075, '366': 2, '367': 554, '336': 2, '368': 6, '369': 556, '370': 10, '596': 14286966, '597': 548, '598': 598, '599': 1953, '600': 2003, '601': 'Superglass Make', '602': 'Make glass without a furnace', '603': 1, '604': 77, '605': 1}
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#9120 9120]
+|-
+|params || {'1189': 391, '365': 563, '366': 2, '367': 9075, '336': 2, '368': 2, '369': 555, '370': 4, '596': 14286967, '597': 549, '598': 599, '599': 1984, '600': 2034, '601': 'Khazard Teleport', '602': 'Teleports you to Port Khazard', '603': 1, '604': 78, '605': 2} || {'1189': 391, '365': 563, '366': 2, '367': 9075, '336': 2, '368': 2, '369': 555, '370': 4, '596': 14286968, '597': 549, '598': 599, '599': 1984, '600': 2034, '601': 'Khazard Teleport', '602': 'Teleports you to Port Khazard', '603': 1, '604': 78, '605': 2}
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#9121 9121]
+|-
+|params || {'1189': 391, '365': 563, '366': 2, '367': 9075, '336': 2, '368': 2, '369': 555, '370': 8, '596': 14286968, '597': 572, '598': 622, '599': 1991, '600': 2041, '601': 'Tele Group Khazard', '602': 'Teleports players to Port Khazard', '603': 1, '604': 79, '605': 2} || {'1189': 391, '365': 563, '366': 2, '367': 9075, '336': 2, '368': 2, '369': 555, '370': 8, '596': 14286969, '597': 572, '598': 622, '599': 1991, '600': 2041, '601': 'Tele Group Khazard', '602': 'Teleports players to Port Khazard', '603': 1, '604': 79, '605': 2}
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#9122 9122]
+|-
+|params || {'1189': 391, '365': 9075, '366': 2, '367': 555, '336': 2, '368': 5, '369': 557, '370': 10, '596': 14286970, '597': 550, '598': 600, '599': 1954, '600': 2004, '601': 'String Jewellery', '602': 'String amulets without wool', '603': 1, '604': 80, '605': 1} || {'1189': 391, '365': 9075, '366': 2, '367': 555, '336': 2, '368': 5, '369': 557, '370': 10, '596': 14286971, '597': 550, '598': 600, '599': 1954, '600': 2004, '601': 'String Jewellery', '602': 'String amulets without wool', '603': 1, '604': 80, '605': 1}
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#9123 9123]
+|-
+|params || {'1189': 391, '365': 9075, '366': 2, '367': 555, '336': 2, '368': 10, '369': 557, '370': 10, '596': 14286971, '597': 554, '598': 604, '599': 1956, '600': 2006, '601': 'Stat Restore Pot Share', '602': 'Shares a potion with up to 4 nearby players', '603': 1, '604': 81, '605': 0} || {'1189': 391, '365': 9075, '366': 2, '367': 555, '336': 2, '368': 10, '369': 557, '370': 10, '596': 14286972, '597': 554, '598': 604, '599': 1956, '600': 2006, '601': 'Stat Restore Pot Share', '602': 'Shares a potion with up to 4 nearby players', '603': 1, '604': 81, '605': 0}
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#9124 9124]
+|-
+|params || {'1189': 391, '365': 9075, '366': 2, '367': 555, '336': 2, '368': 7, '369': 554, '370': 7, '596': 14286972, '597': 552, '598': 602, '599': 1957, '600': 2007, '601': 'Magic Imbue', '602': 'Combine runes without a talisman', '603': 1, '604': 82, '605': 1} || {'1189': 391, '365': 9075, '366': 2, '367': 555, '336': 2, '368': 7, '369': 554, '370': 7, '596': 14286973, '597': 552, '598': 602, '599': 1957, '600': 2007, '601': 'Magic Imbue', '602': 'Combine runes without a talisman', '603': 1, '604': 82, '605': 1}
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#9125 9125]
+|-
+|params || {'1189': 391, '365': 9075, '366': 3, '367': 561, '336': 2, '368': 2, '369': 557, '370': 15, '596': 14286973, '597': 553, '598': 603, '599': 1958, '600': 2008, '601': 'Fertile Soil', '602': 'Fertilise a farming patch with super compost', '603': 1, '604': 83, '605': 1} || {'1189': 391, '365': 9075, '366': 3, '367': 561, '336': 2, '368': 2, '369': 557, '370': 15, '596': 14286974, '597': 553, '598': 603, '599': 1958, '600': 2008, '601': 'Fertile Soil', '602': 'Fertilise a farming patch with super compost', '603': 1, '604': 83, '605': 1}
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#9126 9126]
+|-
+|params || {'1189': 391, '365': 9075, '366': 3, '367': 555, '336': 2, '368': 10, '369': 557, '370': 12, '596': 14286974, '597': 551, '598': 601, '599': 1955, '600': 2005, '601': 'Boost Potion Share', '602': 'Shares a potion with up to 4 nearby players', '603': 1, '604': 84, '605': 0} || {'1189': 391, '365': 9075, '366': 3, '367': 555, '336': 2, '368': 10, '369': 557, '370': 12, '596': 14286975, '597': 551, '598': 601, '599': 1955, '600': 2005, '601': 'Boost Potion Share', '602': 'Shares a potion with up to 4 nearby players', '603': 1, '604': 84, '605': 0}
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#9127 9127]
+|-
+|params || {'1189': 391, '365': 563, '366': 3, '367': 9075, '336': 2, '368': 3, '369': 555, '370': 10, '596': 14286975, '597': 555, '598': 605, '599': 1985, '600': 2035, '601': 'Fishing Guild Teleport', '602': 'Teleports you to the Fishing Guild', '603': 1, '604': 85, '605': 2} || {'1189': 391, '365': 563, '366': 3, '367': 9075, '336': 2, '368': 3, '369': 555, '370': 10, '596': 14286976, '597': 555, '598': 605, '599': 1985, '600': 2035, '601': 'Fishing Guild Teleport', '602': 'Teleports you to the Fishing Guild', '603': 1, '604': 85, '605': 2}
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#9128 9128]
+|-
+|params || {'1189': 391, '365': 563, '366': 3, '367': 9075, '336': 2, '368': 3, '369': 555, '370': 14, '596': 14286976, '597': 573, '598': 623, '599': 1992, '600': 2042, '601': 'Tele Group Fishing Guild', '602': 'Teleports players to the Fishing Guild', '603': 1, '604': 86, '605': 2} || {'1189': 391, '365': 563, '366': 3, '367': 9075, '336': 2, '368': 3, '369': 555, '370': 14, '596': 14286977, '597': 573, '598': 623, '599': 1992, '600': 2042, '601': 'Tele Group Fishing Guild', '602': 'Teleports players to the Fishing Guild', '603': 1, '604': 86, '605': 2}
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#9129 9129]
+|-
+|params || {'1189': 391, '365': 563, '366': 3, '367': 9075, '336': 2, '368': 3, '369': 555, '370': 10, '596': 14286978, '597': 556, '598': 606, '599': 1986, '600': 2036, '601': 'Catherby Teleport', '602': 'Teleports you to Catherby', '603': 1, '604': 87, '605': 2} || {'1189': 391, '365': 563, '366': 3, '367': 9075, '336': 2, '368': 3, '369': 555, '370': 10, '596': 14286979, '597': 556, '598': 606, '599': 1986, '600': 2036, '601': 'Catherby Teleport', '602': 'Teleports you to Catherby', '603': 1, '604': 87, '605': 2}
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#9130 9130]
+|-
+|params || {'1189': 391, '365': 563, '366': 3, '367': 9075, '336': 2, '368': 3, '369': 555, '370': 15, '596': 14286979, '597': 574, '598': 624, '599': 1993, '600': 2043, '601': 'Tele Group Catherby', '602': 'Teleports players to Catherby', '603': 1, '604': 88, '605': 2} || {'1189': 391, '365': 563, '366': 3, '367': 9075, '336': 2, '368': 3, '369': 555, '370': 15, '596': 14286980, '597': 574, '598': 624, '599': 1993, '600': 2043, '601': 'Tele Group Catherby', '602': 'Teleports players to Catherby', '603': 1, '604': 88, '605': 2}
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#9131 9131]
+|-
+|params || {'1189': 391, '365': 563, '366': 3, '367': 9075, '336': 2, '368': 3, '369': 555, '370': 8, '596': 14286981, '597': 557, '598': 607, '599': 1987, '600': 2037, '601': 'Ice Plateau Teleport', '602': 'Teleports you to Ice Plateau', '603': 1, '604': 89, '605': 2} || {'1189': 391, '365': 563, '366': 3, '367': 9075, '336': 2, '368': 3, '369': 555, '370': 8, '596': 14286982, '597': 557, '598': 607, '599': 1987, '600': 2037, '601': 'Ice Plateau Teleport', '602': 'Teleports you to Ice Plateau', '603': 1, '604': 89, '605': 2}
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#9132 9132]
+|-
+|params || {'1189': 391, '365': 563, '366': 3, '367': 9075, '336': 2, '368': 3, '369': 555, '370': 16, '596': 14286982, '597': 575, '598': 625, '599': 1994, '600': 2044, '601': 'Tele Group Ice Plateau', '602': 'Teleports players to Ice Plateau', '603': 1, '604': 90, '605': 2} || {'1189': 391, '365': 563, '366': 3, '367': 9075, '336': 2, '368': 3, '369': 555, '370': 16, '596': 14286983, '597': 575, '598': 625, '599': 1994, '600': 2044, '601': 'Tele Group Ice Plateau', '602': 'Teleports players to Ice Plateau', '603': 1, '604': 90, '605': 2}
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#9133 9133]
+|-
+|params || {'1189': 391, '365': 9075, '366': 3, '367': 563, '336': 2, '368': 2, '369': 561, '370': 1, '596': 14286983, '597': 558, '598': 608, '599': 1959, '600': 2009, '601': 'Energy Transfer', '602': 'Spend Hitpoints and SA energy to give another SA and run energy', '603': 1, '604': 91, '605': 0} || {'1189': 391, '365': 9075, '366': 3, '367': 563, '336': 2, '368': 2, '369': 561, '370': 1, '596': 14286984, '597': 558, '598': 608, '599': 1959, '600': 2009, '601': 'Energy Transfer', '602': 'Spend Hitpoints and SA energy to give another SA and run energy', '603': 1, '604': 91, '605': 0}
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#9134 9134]
+|-
+|params || {'1189': 391, '365': 9075, '366': 3, '367': 563, '336': 2, '368': 3, '369': 565, '370': 1, '596': 14286984, '597': 560, '598': 610, '599': 1963, '600': 2013, '601': 'Heal Other', '602': 'Transfers up to 75% of Hitpoints to another player', '603': 1, '604': 92, '605': 0} || {'1189': 391, '365': 9075, '366': 3, '367': 563, '336': 2, '368': 3, '369': 565, '370': 1, '596': 14286985, '597': 560, '598': 610, '599': 1963, '600': 2013, '601': 'Heal Other', '602': 'Transfers up to 75% of Hitpoints to another player', '603': 1, '604': 92, '605': 0}
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#9135 9135]
+|-
+|params || {'1189': 391, '365': 9075, '366': 3, '367': 560, '336': 2, '368': 2, '369': 557, '370': 10, '596': 14286985, '597': 561, '598': 611, '599': 1960, '600': 2010, '601': 'Vengeance Other', '602': 'Allows another player to rebound damage to an opponent', '603': 1, '604': 93, '605': 0} || {'1189': 391, '365': 9075, '366': 3, '367': 560, '336': 2, '368': 2, '369': 557, '370': 10, '596': 14286986, '597': 561, '598': 611, '599': 1960, '600': 2010, '601': 'Vengeance Other', '602': 'Allows another player to rebound damage to an opponent', '603': 1, '604': 93, '605': 0}
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#9136 9136]
+|-
+|params || {'1189': 391, '365': 9075, '366': 4, '367': 560, '336': 2, '368': 2, '369': 557, '370': 10, '596': 14286986, '597': 564, '598': 614, '599': 1961, '600': 2011, '601': 'Vengeance', '602': 'Rebound damage to an opponent', '603': 1, '604': 94, '605': 0} || {'1189': 391, '365': 9075, '366': 4, '367': 560, '336': 2, '368': 2, '369': 557, '370': 10, '596': 14286987, '597': 564, '598': 614, '599': 1961, '600': 2011, '601': 'Vengeance', '602': 'Rebound damage to an opponent', '603': 1, '604': 94, '605': 0}
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#9137 9137]
+|-
+|params || {'1189': 391, '365': 9075, '366': 4, '367': 563, '336': 2, '368': 6, '369': 565, '370': 3, '596': 14286987, '597': 566, '598': 616, '599': 1966, '600': 2016, '601': 'Heal Group', '602': 'Transfers up to 75% of Hitpoints to a group', '603': 1, '604': 95, '605': 0} || {'1189': 391, '365': 9075, '366': 4, '367': 563, '336': 2, '368': 6, '369': 565, '370': 3, '596': 14286988, '597': 566, '598': 616, '599': 1966, '600': 2016, '601': 'Heal Group', '602': 'Transfers up to 75% of Hitpoints to a group', '603': 1, '604': 95, '605': 0}
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#9712 9712]
+|-
+|params || {'336': 0, '596': 14286853, '597': 356, '598': 406, '599': 1802, '600': 1882, '601': 'Lumbridge Home Teleport', '602': 'Requires no runes - recharge time 30 mins. Warning: This spell takes a long time to cast and will be interrupted by combat.', '603': 0, '604': 0, '605': 2} || {'336': 0, '596': 14286854, '597': 356, '598': 406, '599': 1802, '600': 1882, '601': 'Lumbridge Home Teleport', '602': 'Requires no runes - recharge time 30 mins. Warning: This spell takes a long time to cast and will be interrupted by combat.', '603': 0, '604': 0, '605': 2}
+|-
+|rowspan="2"|[[Null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#10511 10511]
+|-
+|params || {'1189': 2971, '365': 560, '366': 1, '367': 566, '336': 3, '368': 2, '596': 14287019, '597': 1307, '598': 1326, '599': 2084, '600': 2124, '601': 'Lesser Corruption', '602': 'Imbues your attacks with a lesser corruption', '603': 1, '604': 64, '605': 0} || {'1189': 2971, '365': 560, '366': 1, '367': 566, '336': 3, '368': 2, '596': 14287020, '597': 1307, '598': 1326, '599': 2084, '600': 2124, '601': 'Lesser Corruption', '602': 'Imbues your attacks with a lesser corruption', '603': 1, '604': 64, '605': 0}
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#11142 11142]
+|-
+|params || {'336': 1, '596': 14286947, '597': 356, '598': 406, '599': 1802, '600': 1882, '601': 'Edgeville Home Teleport', '602': 'Requires no runes - recharge time 30 mins. Warning: This spell takes a long time to cast and will be interrupted by combat.', '603': 0, '604': 0, '605': 2} || {'336': 1, '596': 14286948, '597': 356, '598': 406, '599': 1802, '600': 1882, '601': 'Edgeville Home Teleport', '602': 'Requires no runes - recharge time 30 mins. Warning: This spell takes a long time to cast and will be interrupted by combat.', '603': 0, '604': 0, '605': 2}
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#11143 11143]
+|-
+|params || {'336': 2, '596': 14286948, '597': 356, '598': 406, '599': 1802, '600': 1882, '601': 'Lunar Home Teleport', '602': 'Requires no runes - recharge time 30 mins. Warning: This spell takes a long time to cast and will be interrupted by combat.', '603': 1, '604': 0, '605': 2} || {'336': 2, '596': 14286949, '597': 356, '598': 406, '599': 1802, '600': 1882, '601': 'Lunar Home Teleport', '602': 'Requires no runes - recharge time 30 mins. Warning: This spell takes a long time to cast and will be interrupted by combat.', '603': 1, '604': 0, '605': 2}
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#11144 11144]
+|-
+|params || {'1189': 349, '365': 9075, '366': 1, '367': 564, '336': 2, '368': 1, '369': 558, '370': 1, '596': 14286951, '597': 577, '598': 627, '599': 1971, '600': 2021, '601': 'Monster Examine', '602': 'Detect the combat statistics of a monster', '603': 1, '604': 66, '605': 0} || {'1189': 349, '365': 9075, '366': 1, '367': 564, '336': 2, '368': 1, '369': 558, '370': 1, '596': 14286952, '597': 577, '598': 627, '599': 1971, '600': 2021, '601': 'Monster Examine', '602': 'Detect the combat statistics of a monster', '603': 1, '604': 66, '605': 0}
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#11145 11145]
+|-
+|params || {'1189': 349, '365': 9075, '366': 1, '367': 555, '336': 2, '368': 3, '369': 554, '370': 1, '596': 14286954, '597': 578, '598': 628, '599': 1972, '600': 2022, '601': 'Humidify', '602': 'Fills certain vessels with water', '603': 1, '604': 68, '605': 1} || {'1189': 349, '365': 9075, '366': 1, '367': 555, '336': 2, '368': 3, '369': 554, '370': 1, '596': 14286955, '597': 578, '598': 628, '599': 1972, '600': 2022, '601': 'Humidify', '602': 'Fills certain vessels with water', '603': 1, '604': 68, '605': 1}
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#11146 11146]
+|-
+|params || {'1189': 349, '365': 9075, '366': 2, '367': 557, '336': 2, '368': 2, '596': 14286958, '597': 579, '598': 629, '599': 1973, '600': 2023, '601': 'Hunter Kit', '602': 'Get a kit of hunter gear', '603': 1, '604': 71, '605': 1} || {'1189': 349, '365': 9075, '366': 2, '367': 557, '336': 2, '368': 2, '596': 14286959, '597': 579, '598': 629, '599': 1973, '600': 2023, '601': 'Hunter Kit', '602': 'Get a kit of hunter gear', '603': 1, '604': 71, '605': 1}
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#11147 11147]
+|-
+|params || {'1189': 349, '365': 9075, '366': 2, '367': 564, '336': 2, '368': 2, '369': 559, '370': 5, '596': 14286962, '597': 576, '598': 626, '599': 1970, '600': 2020, '601': 'Stat Spy', '602': 'Cast on another player to see their skill levels', '603': 1, '604': 75, '605': 0} || {'1189': 349, '365': 9075, '366': 2, '367': 564, '336': 2, '368': 2, '369': 559, '370': 5, '596': 14286963, '597': 576, '598': 626, '599': 1970, '600': 2020, '601': 'Stat Spy', '602': 'Cast on another player to see their skill levels', '603': 1, '604': 75, '605': 0}
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#11148 11148]
+|-
+|params || {'1189': 349, '365': 9075, '366': 2, '367': 564, '336': 2, '368': 1, '369': 559, '370': 5, '596': 14286969, '597': 580, '598': 630, '599': 1974, '600': 2024, '601': 'Dream', '602': 'Take a rest and restore Hitpoints 3 times faster', '603': 1, '604': 79, '605': 0} || {'1189': 349, '365': 9075, '366': 2, '367': 564, '336': 2, '368': 1, '369': 559, '370': 5, '596': 14286970, '597': 580, '598': 630, '599': 1974, '600': 2024, '601': 'Dream', '602': 'Take a rest and restore Hitpoints 3 times faster', '603': 1, '604': 79, '605': 0}
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#11149 11149]
+|-
+|params || {'1189': 349, '365': 9075, '366': 2, '367': 561, '336': 2, '368': 1, '369': 557, '370': 15, '596': 14286977, '597': 581, '598': 631, '599': 1975, '600': 2025, '601': 'Plank Make', '602': 'Turn logs into planks', '603': 1, '604': 86, '605': 1} || {'1189': 349, '365': 9075, '366': 2, '367': 561, '336': 2, '368': 1, '369': 557, '370': 15, '596': 14286978, '597': 581, '598': 631, '599': 1975, '600': 2025, '601': 'Plank Make', '602': 'Turn logs into planks', '603': 1, '604': 86, '605': 1}
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#11150 11150]
+|-
+|params || {'1189': 349, '365': 9075, '366': 3, '367': 564, '336': 2, '368': 2, '369': 563, '370': 1, '596': 14286988, '597': 582, '598': 632, '599': 1976, '600': 2026, '601': 'Spellbook Swap', '602': 'Change to another spellbook for 1 spell cast', '603': 1, '604': 96, '605': 1} || {'1189': 349, '365': 9075, '366': 3, '367': 564, '336': 2, '368': 2, '369': 563, '370': 1, '596': 14286989, '597': 582, '598': 632, '599': 1976, '600': 2026, '601': 'Spellbook Swap', '602': 'Change to another spellbook for 1 spell cast', '603': 1, '604': 96, '605': 1}
+|-
+|rowspan="2"|[[Easter]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#11997 11997]
+|-
+|params || {'365': 559, '366': 4, '367': 561, '336': 3, '368': 2, '596': 14286993, '597': 1247, '598': 1272, '599': 2052, '600': 2092, '601': 'Basic Reanimation', '602': 'Reanimates a low levelled creature', '603': 1, '604': 16, '605': 1} || {'365': 559, '366': 4, '367': 561, '336': 3, '368': 2, '596': 14286994, '597': 1247, '598': 1272, '599': 2052, '600': 2092, '601': 'Basic Reanimation', '602': 'Reanimates a low levelled creature', '603': 1, '604': 16, '605': 1}
+|-
+|rowspan="2"|[[Null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#15303 15303]
+|-
+|params || {'1189': 2971, '365': 560, '366': 1, '367': 561, '336': 3, '368': 1, '596': 14287026, '597': 1316, '598': 1335, '599': 2992, '600': 3002, '601': 'Dark Lure', '602': 'Stops your target from fleeing', '603': 1, '604': 50, '605': 0} || {'1189': 2971, '365': 560, '366': 1, '367': 561, '336': 3, '368': 1, '596': 14287027, '597': 1316, '598': 1335, '599': 2992, '600': 3002, '601': 'Dark Lure', '602': 'Stops your target from fleeing', '603': 1, '604': 50, '605': 0}
+|-
+|rowspan="2"|[[Null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#15304 15304]
+|-
+|params || {'1189': 2971, '365': 566, '366': 1, '367': 556, '336': 3, '368': 3, '596': 14287025, '597': 1317, '598': 1336, '599': 2993, '600': 3003, '601': 'Vile Vigour', '602': 'Converts your available prayer points into run energy', '603': 1, '604': 66, '605': 1} || {'1189': 2971, '365': 566, '366': 1, '367': 556, '336': 3, '368': 3, '596': 14287026, '597': 1317, '598': 1336, '599': 2993, '600': 3003, '601': 'Vile Vigour', '602': 'Converts your available prayer points into run energy', '603': 1, '604': 66, '605': 1}
+|-
+|rowspan="2"|[[Null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#15309 15309]
+|-
+|params || {'1189': 2971, '365': 560, '366': 1, '367': 565, '336': 3, '368': 1, '369': 566, '370': 1, '596': 14287027, '597': 1310, '598': 1329, '599': 2087, '600': 2127, '601': 'Death Charge', '602': 'Restores some of your special attack energy when you defeat a foe', '603': 1, '604': 80, '605': 1} || {'1189': 2971, '365': 560, '366': 1, '367': 565, '336': 3, '368': 1, '369': 566, '370': 1, '596': 14287028, '597': 1310, '598': 1329, '599': 2087, '600': 2127, '601': 'Death Charge', '602': 'Restores some of your special attack energy when you defeat a foe', '603': 1, '604': 80, '605': 1}
+|-
+|rowspan="2"|[[Null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#15344 15344]
+|-
+|params || {'1189': 2971, '365': 557, '366': 5, '367': 554, '336': 3, '368': 5, '369': 564, '370': 5, '596': 14287024, '597': 1315, '598': 1334, '599': 2991, '600': 3001, '601': 'Shadow Veil', '602': 'Reduces your chance of being caught when pickpocketing', '603': 1, '604': 47, '605': 1} || {'1189': 2971, '365': 557, '366': 5, '367': 554, '336': 3, '368': 5, '369': 564, '370': 5, '596': 14287025, '597': 1315, '598': 1334, '599': 2991, '600': 3001, '601': 'Shadow Veil', '602': 'Reduces your chance of being caught when pickpocketing', '603': 1, '604': 47, '605': 1}
+|-
+|rowspan="2"|[[Null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#15345 15345]
+|-
+|params || {'1189': 2971, '365': 557, '366': 4, '367': 561, '336': 3, '368': 2, '596': 14287023, '597': 1318, '598': 1337, '599': 2994, '600': 3004, '601': 'Degrime', '602': 'Cleans all of your grimy herbs', '603': 1, '604': 70, '605': 1} || {'1189': 2971, '365': 557, '366': 4, '367': 561, '336': 3, '368': 2, '596': 14287024, '597': 1318, '598': 1337, '599': 2994, '600': 3004, '601': 'Degrime', '602': 'Cleans all of your grimy herbs', '603': 1, '604': 70, '605': 1}
+|-
+|rowspan="2"|[[Null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#15346 15346]
+|-
+|params || {'1189': 2971, '365': 566, '366': 1, '367': 21880, '336': 3, '368': 1, '596': 14287021, '597': 1311, '598': 1330, '599': 2088, '600': 2128, '601': 'Demonic Offering', '602': 'Converts demonic ashes into prayer points and experience', '603': 1, '604': 84, '605': 1} || {'1189': 2971, '365': 566, '366': 1, '367': 21880, '336': 3, '368': 1, '596': 14287022, '597': 1311, '598': 1330, '599': 2088, '600': 2128, '601': 'Demonic Offering', '602': 'Converts demonic ashes into prayer points and experience', '603': 1, '604': 84, '605': 1}
+|-
+|rowspan="2"|[[Dead orb]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#17152 17152]
+|-
+|params || {'1416': 1, '365': 563, '366': 1, '367': 560, '336': -1, '368': 1, '369': 562, '370': 1, '596': 14286917, '597': 359, '598': 409, '599': 1799, '600': 1879, '601': 'Teleport to Target', '602': 'Teleports you near your Target', '603': 1, '604': 85, '605': 2} || {'1416': 1, '365': 563, '366': 1, '367': 560, '336': -1, '368': 1, '369': 562, '370': 1, '596': 14286918, '597': 359, '598': 409, '599': 1799, '600': 1879, '601': 'Teleport to Target', '602': 'Teleports you near your Target', '603': 1, '604': 85, '605': 2}
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#19475 19475]
+|-
+|params || {'365': 564, '366': 1, '367': 566, '336': 0, '368': 20, '369': 565, '370': 20, '596': 14286921, '597': 361, '598': 411, '599': 1771, '600': 1851, '601': 'Lvl-7 Enchant', '602': 'For use on zenyte jewellery', '603': 1, '604': 93, '605': 1} || {'365': 564, '366': 1, '367': 566, '336': 0, '368': 20, '369': 565, '370': 20, '596': 14286922, '597': 361, '598': 411, '599': 1771, '600': 1851, '601': 'Lvl-7 Enchant', '602': 'For use on zenyte jewellery', '603': 1, '604': 93, '605': 1}
+|-
+|rowspan="2"|[[Null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#20391 20391]
+|-
+|params || {'365': 566, '366': 8, '367': 561, '336': 3, '368': 12, '369': 565, '370': 8, '596': 14287007, '597': 1266, '598': 1291, '599': 2071, '600': 2111, '601': 'Resurrect Crops', '602': 'Gives a chance to resurrect dead farming crops', '603': 1, '604': 78, '605': 1, '606': 557, '607': 25} || {'365': 566, '366': 8, '367': 561, '336': 3, '368': 12, '369': 565, '370': 8, '596': 14287008, '597': 1266, '598': 1291, '599': 2071, '600': 2111, '601': 'Resurrect Crops', '602': 'Gives a chance to resurrect dead farming crops', '603': 1, '604': 78, '605': 1, '606': 557, '607': 25}
+|-
+|rowspan="2"|[[Null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#20392 20392]
+|-
+|params || {'1189': 2971, '365': 566, '366': 1, '367': 564, '336': 3, '368': 1, '596': 14287014, '597': 1305, '598': 1324, '599': 2082, '600': 2122, '601': 'Mark of Darkness', '602': 'Makes your target vulnerable to the effects of offensive Arceuus spells', '603': 1, '604': 59, '605': 0} || {'1189': 2971, '365': 566, '366': 1, '367': 564, '336': 3, '368': 1, '596': 14287015, '597': 1305, '598': 1324, '599': 2082, '600': 2122, '601': 'Mark of Darkness', '602': 'Makes your target vulnerable to the effects of offensive Arceuus spells', '603': 1, '604': 59, '605': 0}
+|-
+|rowspan="2"|[[Null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#20398 20398]
+|-
+|params || {'365': 562, '366': 1, '367': 554, '336': 3, '368': 4, '596': 14287011, '597': 1302, '598': 1321, '599': 2079, '600': 2119, '601': 'Inferior Demonbane', '602': 'Hits a demon for minor damage', '603': 1, '604': 44, '605': 0} || {'365': 562, '366': 1, '367': 554, '336': 3, '368': 4, '596': 14287012, '597': 1302, '598': 1321, '599': 2079, '600': 2119, '601': 'Inferior Demonbane', '602': 'Hits a demon for minor damage', '603': 1, '604': 44, '605': 0}
+|-
+|rowspan="2"|[[Null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#20399 20399]
+|-
+|params || {'1189': 2971, '365': 566, '366': 1, '367': 554, '336': 3, '368': 8, '596': 14287012, '597': 1303, '598': 1322, '599': 2080, '600': 2120, '601': 'Superior Demonbane', '602': 'Hits a demon for moderate damage', '603': 1, '604': 62, '605': 0} || {'1189': 2971, '365': 566, '366': 1, '367': 554, '336': 3, '368': 8, '596': 14287013, '597': 1303, '598': 1322, '599': 2080, '600': 2120, '601': 'Superior Demonbane', '602': 'Hits a demon for moderate damage', '603': 1, '604': 62, '605': 0}
+|-
+|rowspan="2"|[[Null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#20400 20400]
+|-
+|params || {'1189': 2971, '365': 566, '366': 2, '367': 554, '336': 3, '368': 12, '596': 14287013, '597': 1304, '598': 1323, '599': 2081, '600': 2121, '601': 'Dark Demonbane', '602': 'Hits a demon for major damage', '603': 1, '604': 82, '605': 0} || {'1189': 2971, '365': 566, '366': 2, '367': 554, '336': 3, '368': 12, '596': 14287014, '597': 1304, '598': 1323, '599': 2081, '600': 2121, '601': 'Dark Demonbane', '602': 'Hits a demon for major damage', '603': 1, '604': 82, '605': 0}
+|-
+|rowspan="2"|[[Null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#20404 20404]
+|-
+|params || {'365': 563, '366': 2, '367': 566, '336': 3, '368': 2, '369': 565, '370': 1, '596': 14287008, '597': 1262, '598': 1287, '599': 2067, '600': 2107, '601': 'Barrows Teleport', '602': "Teleports you to the Barrows brothers' graveyard", '603': 1, '604': 83, '605': 2} || {'365': 563, '366': 2, '367': 566, '336': 3, '368': 2, '369': 565, '370': 1, '596': 14287009, '597': 1262, '598': 1287, '599': 2067, '600': 2107, '601': 'Barrows Teleport', '602': "Teleports you to the Barrows brothers' graveyard", '603': 1, '604': 83, '605': 2}
+|-
+|rowspan="2"|[[Null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#20409 20409]
+|-
+|params || {'365': 563, '366': 1, '367': 557, '336': 3, '368': 2, '596': 14286994, '597': 1252, '598': 1277, '599': 2057, '600': 2097, '601': 'Arceuus Library Teleport', '602': 'Teleports you to the Arceuus Library', '603': 1, '604': 6, '605': 2} || {'365': 563, '366': 1, '367': 557, '336': 3, '368': 2, '596': 14286995, '597': 1252, '598': 1277, '599': 2057, '600': 2097, '601': 'Arceuus Library Teleport', '602': 'Teleports you to the Arceuus Library', '603': 1, '604': 6, '605': 2}
+|-
+|rowspan="2"|[[Null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#20410 20410]
+|-
+|params || {'365': 563, '366': 1, '367': 555, '336': 3, '368': 1, '369': 557, '370': 1, '596': 14286998, '597': 1253, '598': 1278, '599': 2058, '600': 2098, '601': 'Draynor Manor Teleport', '602': 'Teleports you to Draynor Manor', '603': 1, '604': 17, '605': 2} || {'365': 563, '366': 1, '367': 555, '336': 3, '368': 1, '369': 557, '370': 1, '596': 14286999, '597': 1253, '598': 1278, '599': 2058, '600': 2098, '601': 'Draynor Manor Teleport', '602': 'Teleports you to Draynor Manor', '603': 1, '604': 17, '605': 2}
+|-
+|rowspan="2"|[[Null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#20411 20411]
+|-
+|params || {'365': 563, '366': 1, '367': 558, '336': 3, '368': 2, '596': 14287000, '597': 1256, '598': 1281, '599': 2061, '600': 2101, '601': 'Mind Altar Teleport', '602': 'Teleports you to the Mind Altar', '603': 1, '604': 28, '605': 2} || {'365': 563, '366': 1, '367': 558, '336': 3, '368': 2, '596': 14287001, '597': 1256, '598': 1281, '599': 2061, '600': 2101, '601': 'Mind Altar Teleport', '602': 'Teleports you to the Mind Altar', '603': 1, '604': 28, '605': 2}
+|-
+|rowspan="2"|[[Null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#20412 20412]
+|-
+|params || {'365': 563, '366': 1, '367': 566, '336': 3, '368': 2, '596': 14287002, '597': 1258, '598': 1283, '599': 2063, '600': 2103, '601': 'Salve Graveyard Teleport', '602': 'Teleports you to the graveyard on the River Salve', '603': 1, '604': 40, '605': 2} || {'365': 563, '366': 1, '367': 566, '336': 3, '368': 2, '596': 14287003, '597': 1258, '598': 1283, '599': 2063, '600': 2103, '601': 'Salve Graveyard Teleport', '602': 'Teleports you to the graveyard on the River Salve', '603': 1, '604': 40, '605': 2}
+|-
+|rowspan="2"|[[Null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#20413 20413]
+|-
+|params || {'365': 563, '366': 1, '367': 566, '336': 3, '368': 1, '369': 557, '370': 1, '596': 14287003, '597': 1259, '598': 1284, '599': 2064, '600': 2104, '601': "Fenkenstrain's Castle Teleport", '602': "Teleports you to Fenkenstrain's Castle", '603': 1, '604': 48, '605': 2} || {'365': 563, '366': 1, '367': 566, '336': 3, '368': 1, '369': 557, '370': 1, '596': 14287004, '597': 1259, '598': 1284, '599': 2064, '600': 2104, '601': "Fenkenstrain's Castle Teleport", '602': "Teleports you to Fenkenstrain's Castle", '603': 1, '604': 48, '605': 2}
+|-
+|rowspan="2"|[[Null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#20414 20414]
+|-
+|params || {'365': 563, '366': 2, '367': 566, '336': 3, '368': 2, '596': 14287004, '597': 1260, '598': 1285, '599': 2065, '600': 2105, '601': 'West Ardougne Teleport', '602': 'Teleports you to West Ardougne', '603': 1, '604': 61, '605': 2} || {'365': 563, '366': 2, '367': 566, '336': 3, '368': 2, '596': 14287005, '597': 1260, '598': 1285, '599': 2065, '600': 2105, '601': 'West Ardougne Teleport', '602': 'Teleports you to West Ardougne', '603': 1, '604': 61, '605': 2}
+|-
+|rowspan="2"|[[Null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#20419 20419]
+|-
+|params || {'1189': 375, '365': 563, '366': 1, '367': 566, '336': 3, '368': 1, '369': 561, '370': 1, '596': 14287005, '597': 1261, '598': 1286, '599': 2066, '600': 2106, '601': 'Harmony Island Teleport', '602': 'Teleports you to Harmony Island', '603': 1, '604': 65, '605': 2} || {'1189': 375, '365': 563, '366': 1, '367': 566, '336': 3, '368': 1, '369': 561, '370': 1, '596': 14287006, '597': 1261, '598': 1286, '599': 2066, '600': 2106, '601': 'Harmony Island Teleport', '602': 'Teleports you to Harmony Island', '603': 1, '604': 65, '605': 2}
+|-
+|rowspan="2"|[[Null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#20420 20420]
+|-
+|params || {'365': 563, '366': 1, '367': 566, '336': 3, '368': 1, '369': 565, '370': 1, '596': 14287006, '597': 1264, '598': 1289, '599': 2069, '600': 2109, '601': 'Cemetery Teleport', '602': 'Teleports you to the Forgotten Cemetery', '603': 1, '604': 71, '605': 2} || {'365': 563, '366': 1, '367': 566, '336': 3, '368': 1, '369': 565, '370': 1, '596': 14287007, '597': 1264, '598': 1289, '599': 2069, '600': 2109, '601': 'Cemetery Teleport', '602': 'Teleports you to the Forgotten Cemetery', '603': 1, '604': 71, '605': 2}
+|-
+|rowspan="2"|[[Null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#20427 20427]
+|-
+|params || {'365': 563, '366': 2, '367': 566, '336': 3, '368': 2, '369': 565, '370': 2, '596': 14287009, '597': 1263, '598': 1288, '599': 2068, '600': 2108, '601': 'Ape Atoll Teleport', '602': 'Teleports you to the dungeon under the Ape Atoll temple', '603': 1, '604': 90, '605': 2} || {'365': 563, '366': 2, '367': 566, '336': 3, '368': 2, '369': 565, '370': 2, '596': 14287010, '597': 1263, '598': 1288, '599': 2068, '600': 2108, '601': 'Ape Atoll Teleport', '602': 'Teleports you to the dungeon under the Ape Atoll temple', '603': 1, '604': 90, '605': 2}
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#20589 20589]
+|-
+|params || {'1189': 391, '365': 9075, '366': 1, '367': 561, '336': 2, '368': 2, '369': 556, '370': 5, '596': 14286990, '597': 585, '598': 635, '599': 1979, '600': 2029, '601': 'Spin Flax', '602': 'Turn flax into bowstring', '603': 1, '604': 76, '605': 1} || {'1189': 391, '365': 9075, '366': 1, '367': 561, '336': 2, '368': 2, '369': 556, '370': 5, '596': 14286991, '597': 585, '598': 635, '599': 1979, '600': 2029, '601': 'Spin Flax', '602': 'Turn flax into bowstring', '603': 1, '604': 76, '605': 1}
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#20759 20759]
+|-
+|params || {'1189': 391, '365': 563, '366': 1, '367': 9075, '336': 2, '368': 2, '369': 557, '370': 6, '596': 14286991, '597': 586, '598': 636, '599': 1981, '600': 2031, '601': 'Ourania Teleport', '602': 'Teleports you to the Ourania altar', '603': 1, '604': 71, '605': 2} || {'1189': 391, '365': 563, '366': 1, '367': 9075, '336': 2, '368': 2, '369': 557, '370': 6, '596': 14286992, '597': 586, '598': 636, '599': 1981, '600': 2031, '601': 'Ourania Teleport', '602': 'Teleports you to the Ourania altar', '603': 1, '604': 71, '605': 2}
+|-
+|rowspan="2"|[[Null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#20762 20762]
+|-
+|params || {'1189': 2971, '365': 565, '366': 1, '367': 566, '336': 3, '368': 3, '596': 14287020, '597': 1308, '598': 1327, '599': 2085, '600': 2125, '601': 'Greater Corruption', '602': 'Imbues your attacks with a greater corruption', '603': 1, '604': 85, '605': 0} || {'1189': 2971, '365': 565, '366': 1, '367': 566, '336': 3, '368': 3, '596': 14287021, '597': 1308, '598': 1327, '599': 2085, '600': 2125, '601': 'Greater Corruption', '602': 'Imbues your attacks with a greater corruption', '603': 1, '604': 85, '605': 0}
+|-
+|rowspan="2"|[[Null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#20763 20763]
+|-
+|params || {'1189': 2971, '365': 566, '366': 4, '367': 561, '336': 3, '368': 2, '369': 564, '370': 1, '596': 14287018, '597': 1306, '598': 1325, '599': 2083, '600': 2123, '601': 'Ward of Arceuus', '602': 'Gives you protection from the effects of offensive Arceuus spells and demonic attacks', '603': 1, '604': 73, '605': 0} || {'1189': 2971, '365': 566, '366': 4, '367': 561, '336': 3, '368': 2, '369': 564, '370': 1, '596': 14287019, '597': 1306, '598': 1325, '599': 2083, '600': 2123, '601': 'Ward of Arceuus', '602': 'Gives you protection from the effects of offensive Arceuus spells and demonic attacks', '603': 1, '604': 73, '605': 0}
+|-
+|rowspan="2"|[[Null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#21826 21826]
+|-
+|params || {'365': 562, '366': 1, '367': 556, '336': 3, '368': 4, '596': 14287015, '597': 1267, '598': 1292, '599': 2072, '600': 2112, '601': 'Ghostly Grasp', '602': 'Deals minor damage with a low chance of holding your target', '603': 1, '604': 35, '605': 0} || {'365': 562, '366': 1, '367': 556, '336': 3, '368': 4, '596': 14287016, '597': 1267, '598': 1292, '599': 2072, '600': 2112, '601': 'Ghostly Grasp', '602': 'Deals minor damage with a low chance of holding your target', '603': 1, '604': 35, '605': 0}
+|-
+|rowspan="2"|[[Null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#21829 21829]
+|-
+|params || {'1189': 2971, '365': 560, '366': 1, '367': 557, '336': 3, '368': 8, '596': 14287016, '597': 1268, '598': 1293, '599': 2073, '600': 2113, '601': 'Skeletal Grasp', '602': 'Deals medium damage with a medium chance of holding your target', '603': 1, '604': 56, '605': 0} || {'1189': 2971, '365': 560, '366': 1, '367': 557, '336': 3, '368': 8, '596': 14287017, '597': 1268, '598': 1293, '599': 2073, '600': 2113, '601': 'Skeletal Grasp', '602': 'Deals medium damage with a medium chance of holding your target', '603': 1, '604': 56, '605': 0}
+|-
+|rowspan="2"|[[Null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#21832 21832]
+|-
+|params || {'1189': 2971, '365': 565, '366': 1, '367': 554, '336': 3, '368': 12, '596': 14287017, '597': 1269, '598': 1294, '599': 2074, '600': 2114, '601': 'Undead Grasp', '602': 'Deals major damage with a high chance of holding your target', '603': 1, '604': 79, '605': 0} || {'1189': 2971, '365': 565, '366': 1, '367': 554, '336': 3, '368': 12, '596': 14287018, '597': 1269, '598': 1294, '599': 2074, '600': 2114, '601': 'Undead Grasp', '602': 'Deals major damage with a high chance of holding your target', '603': 1, '604': 79, '605': 0}
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#21835 21835]
+|-
+|params || {'336': 3, '596': 14286992, '597': 1251, '598': 1276, '599': 2056, '600': 2096, '601': 'Arceuus Home Teleport', '602': 'Requires no runes - recharge time 30 mins. Warning: This spell takes a long time to cast and will be interrupted by combat.', '603': 1, '604': 0, '605': 2} || {'336': 3, '596': 14286993, '597': 1251, '598': 1276, '599': 2056, '600': 2096, '601': 'Arceuus Home Teleport', '602': 'Requires no runes - recharge time 30 mins. Warning: This spell takes a long time to cast and will be interrupted by combat.', '603': 1, '604': 0, '605': 2}
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#21836 21836]
+|-
+|params || {'365': 563, '366': 2, '367': 566, '336': 0, '368': 2, '369': 555, '370': 4, '596': 14286905, '597': 360, '598': 410, '599': 1761, '600': 1841, '601': 'Kourend Castle Teleport', '602': 'Teleports you to Kourend Castle', '603': 1, '604': 69, '605': 2, '606': 554, '607': 5} || {'365': 563, '366': 2, '367': 566, '336': 0, '368': 2, '369': 555, '370': 4, '596': 14286906, '597': 360, '598': 410, '599': 1761, '600': 1841, '601': 'Kourend Castle Teleport', '602': 'Teleports you to Kourend Castle', '603': 1, '604': 69, '605': 2, '606': 554, '607': 5}
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#21876 21876]
+|-
+|params || {'365': 21880, '366': 1, '367': 556, '336': 0, '368': 7, '596': 14286913, '597': 362, '598': 412, '599': 1098, '600': 1828, '601': 'Wind Surge', '602': 'A very high level Air missile', '603': 1, '604': 81, '605': 0} || {'365': 21880, '366': 1, '367': 556, '336': 0, '368': 7, '596': 14286914, '597': 362, '598': 412, '599': 1098, '600': 1828, '601': 'Wind Surge', '602': 'A very high level Air missile', '603': 1, '604': 81, '605': 0}
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#21877 21877]
+|-
+|params || {'365': 21880, '366': 1, '367': 555, '336': 0, '368': 10, '369': 556, '370': 7, '596': 14286915, '597': 363, '598': 413, '599': 1099, '600': 1829, '601': 'Water Surge', '602': 'A very high level Water missile', '603': 1, '604': 85, '605': 0} || {'365': 21880, '366': 1, '367': 555, '336': 0, '368': 10, '369': 556, '370': 7, '596': 14286916, '597': 363, '598': 413, '599': 1099, '600': 1829, '601': 'Water Surge', '602': 'A very high level Water missile', '603': 1, '604': 85, '605': 0}
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#21878 21878]
+|-
+|params || {'365': 21880, '366': 1, '367': 557, '336': 0, '368': 10, '369': 556, '370': 7, '596': 14286920, '597': 364, '598': 414, '599': 1100, '600': 1830, '601': 'Earth Surge', '602': 'A very high level Earth missile', '603': 1, '604': 90, '605': 0} || {'365': 21880, '366': 1, '367': 557, '336': 0, '368': 10, '369': 556, '370': 7, '596': 14286921, '597': 364, '598': 414, '599': 1100, '600': 1830, '601': 'Earth Surge', '602': 'A very high level Earth missile', '603': 1, '604': 90, '605': 0}
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#21879 21879]
+|-
+|params || {'365': 21880, '366': 1, '367': 554, '336': 0, '368': 10, '369': 556, '370': 7, '596': 14286922, '597': 365, '598': 415, '599': 1751, '600': 1831, '601': 'Fire Surge', '602': 'A very high level Fire missile', '603': 1, '604': 95, '605': 0} || {'365': 21880, '366': 1, '367': 554, '336': 0, '368': 10, '369': 556, '370': 7, '596': 14286923, '597': 365, '598': 415, '599': 1751, '600': 1831, '601': 'Fire Surge', '602': 'A very high level Fire missile', '603': 1, '604': 95, '605': 0}
+|-
+|rowspan="2"|[[Null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#22779 22779]
+|-
+|params || {'365': 563, '366': 1, '367': 557, '336': 3, '368': 1, '369': 554, '370': 1, '596': 14287010, '597': 1255, '598': 1280, '599': 2060, '600': 2100, '601': 'Battlefront Teleport', '602': 'Teleports you to the grave north west of the Kebos Battlefront', '603': 1, '604': 23, '605': 2} || {'365': 563, '366': 1, '367': 557, '336': 3, '368': 1, '369': 554, '370': 1, '596': 14287011, '597': 1255, '598': 1280, '599': 2060, '600': 2100, '601': 'Battlefront Teleport', '602': 'Teleports you to the grave north west of the Kebos Battlefront', '603': 1, '604': 23, '605': 2}
+|-
+|rowspan="2"|[[League tomato]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#25117 25117]
+|-
+|interfaceOptions || ['League Setup', 'League Debug', None, None, 'Drop'] || ['League Setup', 'League 2 Debug', 'League 3 Debug', None, 'Drop']
+|-
+|rowspan="2"|[[Trailblazer relic hunter (t1) armour set]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#25380 25380]
+|-
+|inventoryModel || 39144 || 41722
+|-
+|rowspan="2"|[[Trailblazer relic hunter (t2) armour set]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#25383 25383]
+|-
+|inventoryModel || 39143 || 41723
+|-
+|rowspan="2"|[[Trailblazer relic hunter (t3) armour set]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#25386 25386]
+|-
+|inventoryModel || 39145 || 41724
+|-
+|rowspan="2"|[[Null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#25506 25506]
+|-
+|params || {'1187': 5, '1188': 4, '1189': 2971, '365': 560, '366': 5, '367': 557, '336': 3, '368': 10, '369': 564, '370': 1, '596': 14287031, '597': 2979, '598': 2985, '599': 2995, '600': 3005, '601': 'Resurrect Superior Ghost', '602': 'Calls upon a superior ghostly thrall to fight alongside you', '603': 1, '604': 57, '605': 0} || {'1187': 5, '1188': 4, '1189': 2971, '365': 560, '366': 5, '367': 557, '336': 3, '368': 10, '369': 564, '370': 1, '596': 14287032, '597': 2979, '598': 2985, '599': 2995, '600': 3005, '601': 'Resurrect Superior Ghost', '602': 'Calls upon a superior ghostly thrall to fight alongside you', '603': 1, '604': 57, '605': 0}
+|-
+|rowspan="2"|[[Null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#25507 25507]
+|-
+|params || {'1187': 5, '1188': 6, '1189': 2971, '365': 565, '366': 5, '367': 554, '336': 3, '368': 10, '369': 564, '370': 1, '596': 14287034, '597': 2980, '598': 2986, '599': 2996, '600': 3006, '601': 'Resurrect Greater Ghost', '602': 'Calls upon a greater ghostly thrall to fight alongside you', '603': 1, '604': 76, '605': 0} || {'1187': 5, '1188': 6, '1189': 2971, '365': 565, '366': 5, '367': 554, '336': 3, '368': 10, '369': 564, '370': 1, '596': 14287035, '597': 2980, '598': 2986, '599': 2996, '600': 3006, '601': 'Resurrect Greater Ghost', '602': 'Calls upon a greater ghostly thrall to fight alongside you', '603': 1, '604': 76, '605': 0}
+|-
+|rowspan="2"|[[Null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#25508 25508]
+|-
+|params || {'1187': 5, '1188': 2, '1189': 2971, '365': 558, '366': 5, '367': 556, '336': 3, '368': 10, '369': 564, '370': 1, '596': 14287030, '597': 1300, '598': 1319, '599': 2077, '600': 2117, '601': 'Resurrect Lesser Zombie', '602': 'Calls upon a lesser zombified thrall to fight alongside you', '603': 1, '604': 38, '605': 0} || {'1187': 5, '1188': 2, '1189': 2971, '365': 558, '366': 5, '367': 556, '336': 3, '368': 10, '369': 564, '370': 1, '596': 14287031, '597': 1300, '598': 1319, '599': 2077, '600': 2117, '601': 'Resurrect Lesser Zombie', '602': 'Calls upon a lesser zombified thrall to fight alongside you', '603': 1, '604': 38, '605': 0}
+|-
+|rowspan="2"|[[Null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#25509 25509]
+|-
+|params || {'1187': 5, '1188': 2, '1189': 2971, '365': 558, '366': 5, '367': 556, '336': 3, '368': 10, '369': 564, '370': 1, '596': 14287029, '597': 1271, '598': 1296, '599': 2076, '600': 2116, '601': 'Resurrect Lesser Skeleton', '602': 'Calls upon a lesser skeletal thrall to fight alongside you', '603': 1, '604': 38, '605': 0} || {'1187': 5, '1188': 2, '1189': 2971, '365': 558, '366': 5, '367': 556, '336': 3, '368': 10, '369': 564, '370': 1, '596': 14287030, '597': 1271, '598': 1296, '599': 2076, '600': 2116, '601': 'Resurrect Lesser Skeleton', '602': 'Calls upon a lesser skeletal thrall to fight alongside you', '603': 1, '604': 38, '605': 0}
+|-
+|rowspan="2"|[[Null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#25510 25510]
+|-
+|params || {'1187': 5, '1188': 6, '1189': 2971, '365': 565, '366': 5, '367': 554, '336': 3, '368': 10, '369': 564, '370': 1, '596': 14287035, '597': 2982, '598': 2988, '599': 2998, '600': 3008, '601': 'Resurrect Greater Skeleton', '602': 'Calls upon a greater skeletal thrall to fight alongside you', '603': 1, '604': 76, '605': 0} || {'1187': 5, '1188': 6, '1189': 2971, '365': 565, '366': 5, '367': 554, '336': 3, '368': 10, '369': 564, '370': 1, '596': 14287036, '597': 2982, '598': 2988, '599': 2998, '600': 3008, '601': 'Resurrect Greater Skeleton', '602': 'Calls upon a greater skeletal thrall to fight alongside you', '603': 1, '604': 76, '605': 0}
+|-
+|rowspan="2"|[[Null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#25511 25511]
+|-
+|params || {'1187': 5, '1188': 2, '1189': 2971, '365': 558, '366': 5, '367': 556, '336': 3, '368': 10, '369': 564, '370': 1, '596': 14287028, '597': 1270, '598': 1295, '599': 2075, '600': 2115, '601': 'Resurrect Lesser Ghost', '602': 'Calls upon a lesser ghostly thrall to fight alongside you', '603': 1, '604': 38, '605': 0} || {'1187': 5, '1188': 2, '1189': 2971, '365': 558, '366': 5, '367': 556, '336': 3, '368': 10, '369': 564, '370': 1, '596': 14287029, '597': 1270, '598': 1295, '599': 2075, '600': 2115, '601': 'Resurrect Lesser Ghost', '602': 'Calls upon a lesser ghostly thrall to fight alongside you', '603': 1, '604': 38, '605': 0}
+|-
+|rowspan="2"|[[Null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#25512 25512]
+|-
+|params || {'1187': 5, '1188': 4, '1189': 2971, '365': 560, '366': 5, '367': 557, '336': 3, '368': 10, '369': 564, '370': 1, '596': 14287032, '597': 2981, '598': 2987, '599': 2997, '600': 3007, '601': 'Resurrect Superior Skeleton', '602': 'Calls upon a superior skeletal thrall to fight alongside you', '603': 1, '604': 57, '605': 0} || {'1187': 5, '1188': 4, '1189': 2971, '365': 560, '366': 5, '367': 557, '336': 3, '368': 10, '369': 564, '370': 1, '596': 14287033, '597': 2981, '598': 2987, '599': 2997, '600': 3007, '601': 'Resurrect Superior Skeleton', '602': 'Calls upon a superior skeletal thrall to fight alongside you', '603': 1, '604': 57, '605': 0}
+|-
+|rowspan="2"|[[Null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#25513 25513]
+|-
+|params || {'1187': 5, '1188': 4, '1189': 2971, '365': 560, '366': 5, '367': 557, '336': 3, '368': 10, '369': 564, '370': 1, '596': 14287033, '597': 2983, '598': 2989, '599': 2999, '600': 3009, '601': 'Resurrect Superior Zombie', '602': 'Calls upon a superior zombified thrall to fight alongside you', '603': 1, '604': 57, '605': 0} || {'1187': 5, '1188': 4, '1189': 2971, '365': 560, '366': 5, '367': 557, '336': 3, '368': 10, '369': 564, '370': 1, '596': 14287034, '597': 2983, '598': 2989, '599': 2999, '600': 3009, '601': 'Resurrect Superior Zombie', '602': 'Calls upon a superior zombified thrall to fight alongside you', '603': 1, '604': 57, '605': 0}
+|-
+|rowspan="2"|[[Null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#25514 25514]
+|-
+|params || {'1187': 5, '1188': 6, '1189': 2971, '365': 565, '366': 5, '367': 554, '336': 3, '368': 10, '369': 564, '370': 1, '596': 14287036, '597': 2984, '598': 2990, '599': 3000, '600': 3010, '601': 'Resurrect Greater Zombie', '602': 'Calls upon a greater zombified thrall to fight alongside you', '603': 1, '604': 76, '605': 0} || {'1187': 5, '1188': 6, '1189': 2971, '365': 565, '366': 5, '367': 554, '336': 3, '368': 10, '369': 564, '370': 1, '596': 14287037, '597': 2984, '598': 2990, '599': 3000, '600': 3010, '601': 'Resurrect Greater Zombie', '602': 'Calls upon a greater zombified thrall to fight alongside you', '603': 1, '604': 76, '605': 0}
+|-
+|}
+
+==Non-Player Characters==
+{| class="wikitable sortable"
+!colspan='5'|Non-Player Characters
+|-
+! Name !! ID !! Key !! Previous Value !! Changed into
+|-
+| [[The Sage (Shattered Relics League)|The Sage]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11232 11232] || colspan = "4" | New ID
+|-
+| [[League Tutor]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11233 11233] || colspan = "4" | New ID
+|-
+| [[Leagues Assistant]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11234 11234] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11235 11235] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11236 11236] || colspan = "4" | New ID
+|-
+|}
+
+==Objects==
+{| class="wikitable sortable"
+!colspan='5'|Objects
+|-
+! Name !! ID !! Key !! Previous Value !! Changed into
+|-
+| [[Trophy pedestal]] || [https://chisel.weirdgloop.org/moid/object_id.html#42861 42861] || colspan = "4" | New ID
+|-
+| [[Trophy pedestal]] || [https://chisel.weirdgloop.org/moid/object_id.html#42862 42862] || colspan = "4" | New ID
+|-
+| [[Trophy pedestal]] || [https://chisel.weirdgloop.org/moid/object_id.html#42863 42863] || colspan = "4" | New ID
+|-
+| [[Trophy pedestal]] || [https://chisel.weirdgloop.org/moid/object_id.html#42864 42864] || colspan = "4" | New ID
+|-
+| [[Trophy pedestal]] || [https://chisel.weirdgloop.org/moid/object_id.html#42865 42865] || colspan = "4" | New ID
+|-
+| [[Trophy pedestal]] || [https://chisel.weirdgloop.org/moid/object_id.html#42866 42866] || colspan = "4" | New ID
+|-
+| [[Trophy pedestal]] || [https://chisel.weirdgloop.org/moid/object_id.html#42867 42867] || colspan = "4" | New ID
+|-
+| [[Ornate trophy pedestal]] || [https://chisel.weirdgloop.org/moid/object_id.html#42868 42868] || colspan = "4" | New ID
+|-
+| [[Ornate trophy pedestal]] || [https://chisel.weirdgloop.org/moid/object_id.html#42869 42869] || colspan = "4" | New ID
+|-
+| [[Ornate trophy pedestal]] || [https://chisel.weirdgloop.org/moid/object_id.html#42870 42870] || colspan = "4" | New ID
+|-
+| [[Ornate trophy pedestal]] || [https://chisel.weirdgloop.org/moid/object_id.html#42871 42871] || colspan = "4" | New ID
+|-
+| [[Ornate trophy pedestal]] || [https://chisel.weirdgloop.org/moid/object_id.html#42872 42872] || colspan = "4" | New ID
+|-
+| [[Ornate trophy pedestal]] || [https://chisel.weirdgloop.org/moid/object_id.html#42873 42873] || colspan = "4" | New ID
+|-
+| [[Ornate trophy pedestal]] || [https://chisel.weirdgloop.org/moid/object_id.html#42874 42874] || colspan = "4" | New ID
+|-
+| [[Trophy pedestal]] || [https://chisel.weirdgloop.org/moid/object_id.html#42875 42875] || colspan = "4" | New ID
+|-
+| [[Trophy pedestal]] || [https://chisel.weirdgloop.org/moid/object_id.html#42876 42876] || colspan = "4" | New ID
+|-
+| [[Trophy pedestal]] || [https://chisel.weirdgloop.org/moid/object_id.html#42877 42877] || colspan = "4" | New ID
+|-
+| [[Trophy pedestal]] || [https://chisel.weirdgloop.org/moid/object_id.html#42878 42878] || colspan = "4" | New ID
+|-
+| [[Trophy pedestal]] || [https://chisel.weirdgloop.org/moid/object_id.html#42879 42879] || colspan = "4" | New ID
+|-
+| [[Trophy pedestal]] || [https://chisel.weirdgloop.org/moid/object_id.html#42880 42880] || colspan = "4" | New ID
+|-
+| [[Trophy pedestal]] || [https://chisel.weirdgloop.org/moid/object_id.html#42881 42881] || colspan = "4" | New ID
+|-
+| [[Ornate trophy pedestal]] || [https://chisel.weirdgloop.org/moid/object_id.html#42882 42882] || colspan = "4" | New ID
+|-
+| [[Ornate trophy pedestal]] || [https://chisel.weirdgloop.org/moid/object_id.html#42883 42883] || colspan = "4" | New ID
+|-
+| [[Ornate trophy pedestal]] || [https://chisel.weirdgloop.org/moid/object_id.html#42884 42884] || colspan = "4" | New ID
+|-
+| [[Ornate trophy pedestal]] || [https://chisel.weirdgloop.org/moid/object_id.html#42885 42885] || colspan = "4" | New ID
+|-
+| [[Ornate trophy pedestal]] || [https://chisel.weirdgloop.org/moid/object_id.html#42886 42886] || colspan = "4" | New ID
+|-
+| [[Ornate trophy pedestal]] || [https://chisel.weirdgloop.org/moid/object_id.html#42887 42887] || colspan = "4" | New ID
+|-
+| [[Ornate trophy pedestal]] || [https://chisel.weirdgloop.org/moid/object_id.html#42888 42888] || colspan = "4" | New ID
+|-
+| [[Trophy pedestal]] || [https://chisel.weirdgloop.org/moid/object_id.html#42889 42889] || colspan = "4" | New ID
+|-
+| [[Trophy pedestal]] || [https://chisel.weirdgloop.org/moid/object_id.html#42890 42890] || colspan = "4" | New ID
+|-
+| [[Trophy pedestal]] || [https://chisel.weirdgloop.org/moid/object_id.html#42891 42891] || colspan = "4" | New ID
+|-
+| [[Trophy pedestal]] || [https://chisel.weirdgloop.org/moid/object_id.html#42892 42892] || colspan = "4" | New ID
+|-
+| [[Trophy pedestal]] || [https://chisel.weirdgloop.org/moid/object_id.html#42893 42893] || colspan = "4" | New ID
+|-
+| [[Trophy pedestal]] || [https://chisel.weirdgloop.org/moid/object_id.html#42894 42894] || colspan = "4" | New ID
+|-
+| [[Trophy pedestal]] || [https://chisel.weirdgloop.org/moid/object_id.html#42895 42895] || colspan = "4" | New ID
+|-
+| [[Ornate trophy pedestal]] || [https://chisel.weirdgloop.org/moid/object_id.html#42896 42896] || colspan = "4" | New ID
+|-
+| [[Ornate trophy pedestal]] || [https://chisel.weirdgloop.org/moid/object_id.html#42897 42897] || colspan = "4" | New ID
+|-
+| [[Ornate trophy pedestal]] || [https://chisel.weirdgloop.org/moid/object_id.html#42922 42922] || colspan = "4" | New ID
+|-
+| [[Ornate trophy pedestal]] || [https://chisel.weirdgloop.org/moid/object_id.html#42923 42923] || colspan = "4" | New ID
+|-
+| [[Ornate trophy pedestal]] || [https://chisel.weirdgloop.org/moid/object_id.html#42924 42924] || colspan = "4" | New ID
+|-
+| [[Ornate trophy pedestal]] || [https://chisel.weirdgloop.org/moid/object_id.html#42925 42925] || colspan = "4" | New ID
+|-
+| [[Ornate trophy pedestal]] || [https://chisel.weirdgloop.org/moid/object_id.html#42926 42926] || colspan = "4" | New ID
+|-
+| [[Banner stand]] || [https://chisel.weirdgloop.org/moid/object_id.html#42927 42927] || colspan = "4" | New ID
+|-
+| [[Ornate banner stand]] || [https://chisel.weirdgloop.org/moid/object_id.html#42928 42928] || colspan = "4" | New ID
+|-
+| [[Oak outfit stand]] || [https://chisel.weirdgloop.org/moid/object_id.html#42929 42929] || colspan = "4" | New ID
+|-
+| [[Oak outfit stand]] || [https://chisel.weirdgloop.org/moid/object_id.html#42930 42930] || colspan = "4" | New ID
+|-
+| [[Oak outfit stand]] || [https://chisel.weirdgloop.org/moid/object_id.html#42970 42970] || colspan = "4" | New ID
+|-
+| [[Mahogany outfit stand]] || [https://chisel.weirdgloop.org/moid/object_id.html#42971 42971] || colspan = "4" | New ID
+|-
+| [[Mahogany outfit stand]] || [https://chisel.weirdgloop.org/moid/object_id.html#42972 42972] || colspan = "4" | New ID
+|-
+| [[Mahogany outfit stand]] || [https://chisel.weirdgloop.org/moid/object_id.html#42973 42973] || colspan = "4" | New ID
+|-
+| [[Lock]] || [https://chisel.weirdgloop.org/moid/object_id.html#42974 42974] || colspan = "4" | New ID
+|-
+| [[Lock]] || [https://chisel.weirdgloop.org/moid/object_id.html#42975 42975] || colspan = "4" | New ID
+|-
+| [[Lock]] || [https://chisel.weirdgloop.org/moid/object_id.html#42976 42976] || colspan = "4" | New ID
+|-
+| [[Lock]] || [https://chisel.weirdgloop.org/moid/object_id.html#42977 42977] || colspan = "4" | New ID
+|-
+| [[Lock]] || [https://chisel.weirdgloop.org/moid/object_id.html#42978 42978] || colspan = "4" | New ID
+|-
+| [[Lock]] || [https://chisel.weirdgloop.org/moid/object_id.html#42979 42979] || colspan = "4" | New ID
+|-
+| [[Lock]] || [https://chisel.weirdgloop.org/moid/object_id.html#42980 42980] || colspan = "4" | New ID
+|-
+| [[Lock]] || [https://chisel.weirdgloop.org/moid/object_id.html#42981 42981] || colspan = "4" | New ID
+|-
+| [[Lock]] || [https://chisel.weirdgloop.org/moid/object_id.html#42982 42982] || colspan = "4" | New ID
+|-
+| [[Lock]] || [https://chisel.weirdgloop.org/moid/object_id.html#42983 42983] || colspan = "4" | New ID
+|-
+| [[Lock]] || [https://chisel.weirdgloop.org/moid/object_id.html#42984 42984] || colspan = "4" | New ID
+|-
+| [[Lock]] || [https://chisel.weirdgloop.org/moid/object_id.html#42985 42985] || colspan = "4" | New ID
+|-
+| [[Lock]] || [https://chisel.weirdgloop.org/moid/object_id.html#42986 42986] || colspan = "4" | New ID
+|-
+| [[Lock]] || [https://chisel.weirdgloop.org/moid/object_id.html#42987 42987] || colspan = "4" | New ID
+|-
+| [[REPLACE ME]] || [https://chisel.weirdgloop.org/moid/object_id.html#42988 42988] || colspan = "4" | New ID
+|-
+| [[REPLACE ME]] || [https://chisel.weirdgloop.org/moid/object_id.html#42989 42989] || colspan = "4" | New ID
+|-
+| [[REPLACE ME]] || [https://chisel.weirdgloop.org/moid/object_id.html#42990 42990] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#42991 42991] || colspan = "4" | New ID
+|-
+| [[Runestone basalt]] || [https://chisel.weirdgloop.org/moid/object_id.html#42992 42992] || colspan = "4" | New ID
+|-
+| [[Runestone basalt]] || [https://chisel.weirdgloop.org/moid/object_id.html#42993 42993] || colspan = "4" | New ID
+|-
+| [[Runestone basalt]] || [https://chisel.weirdgloop.org/moid/object_id.html#42994 42994] || colspan = "4" | New ID
+|-
+| [[Runestone basalt]] || [https://chisel.weirdgloop.org/moid/object_id.html#42995 42995] || colspan = "4" | New ID
+|-
+| [[Runestone basalt]] || [https://chisel.weirdgloop.org/moid/object_id.html#42996 42996] || colspan = "4" | New ID
+|-
+| [[Runestone basalt]] || [https://chisel.weirdgloop.org/moid/object_id.html#42997 42997] || colspan = "4" | New ID
+|-
+| [[Runestone basalt]] || [https://chisel.weirdgloop.org/moid/object_id.html#42998 42998] || colspan = "4" | New ID
+|-
+| [[Boat]] || [https://chisel.weirdgloop.org/moid/object_id.html#42999 42999] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43000 43000] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43001 43001] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43002 43002] || colspan = "4" | New ID
+|-
+| [[Lumbridge Waystone]] || [https://chisel.weirdgloop.org/moid/object_id.html#43003 43003] || colspan = "4" | New ID
+|-
+| [[Lumbridge Waystone]] || [https://chisel.weirdgloop.org/moid/object_id.html#43004 43004] || colspan = "4" | New ID
+|-
+| [[Falador Waystone]] || [https://chisel.weirdgloop.org/moid/object_id.html#43005 43005] || colspan = "4" | New ID
+|-
+| [[Falador Waystone]] || [https://chisel.weirdgloop.org/moid/object_id.html#43006 43006] || colspan = "4" | New ID
+|-
+| [[Varrock Waystone]] || [https://chisel.weirdgloop.org/moid/object_id.html#43007 43007] || colspan = "4" | New ID
+|-
+| [[Varrock Waystone]] || [https://chisel.weirdgloop.org/moid/object_id.html#43008 43008] || colspan = "4" | New ID
+|-
+| [[Al Kharid Waystone]] || [https://chisel.weirdgloop.org/moid/object_id.html#43009 43009] || colspan = "4" | New ID
+|-
+| [[Al Kharid Waystone]] || [https://chisel.weirdgloop.org/moid/object_id.html#43010 43010] || colspan = "4" | New ID
+|-
+| [[Catherby Waystone]] || [https://chisel.weirdgloop.org/moid/object_id.html#43011 43011] || colspan = "4" | New ID
+|-
+| [[Catherby Waystone]] || [https://chisel.weirdgloop.org/moid/object_id.html#43012 43012] || colspan = "4" | New ID
+|-
+| [[Ardougne Waystone]] || [https://chisel.weirdgloop.org/moid/object_id.html#43013 43013] || colspan = "4" | New ID
+|-
+| [[Ardougne Waystone]] || [https://chisel.weirdgloop.org/moid/object_id.html#43014 43014] || colspan = "4" | New ID
+|-
+| [[Brimhaven Waystone]] || [https://chisel.weirdgloop.org/moid/object_id.html#43015 43015] || colspan = "4" | New ID
+|-
+| [[Brimhaven Waystone]] || [https://chisel.weirdgloop.org/moid/object_id.html#43016 43016] || colspan = "4" | New ID
+|-
+| [[Rellekka Waystone]] || [https://chisel.weirdgloop.org/moid/object_id.html#43017 43017] || colspan = "4" | New ID
+|-
+| [[Rellekka Waystone]] || [https://chisel.weirdgloop.org/moid/object_id.html#43018 43018] || colspan = "4" | New ID
+|-
+| [[Ferox Enclave Waystone]] || [https://chisel.weirdgloop.org/moid/object_id.html#43019 43019] || colspan = "4" | New ID
+|-
+| [[Ferox Enclave Waystone]] || [https://chisel.weirdgloop.org/moid/object_id.html#43020 43020] || colspan = "4" | New ID
+|-
+| [[Canifis Waystone]] || [https://chisel.weirdgloop.org/moid/object_id.html#43021 43021] || colspan = "4" | New ID
+|-
+| [[Canifis Waystone]] || [https://chisel.weirdgloop.org/moid/object_id.html#43022 43022] || colspan = "4" | New ID
+|-
+| [[Prifddinas Waystone]] || [https://chisel.weirdgloop.org/moid/object_id.html#43023 43023] || colspan = "4" | New ID
+|-
+| [[Prifddinas Waystone]] || [https://chisel.weirdgloop.org/moid/object_id.html#43024 43024] || colspan = "4" | New ID
+|-
+| [[Kourend Waystone]] || [https://chisel.weirdgloop.org/moid/object_id.html#43025 43025] || colspan = "4" | New ID
+|-
+| [[Kourend Waystone]] || [https://chisel.weirdgloop.org/moid/object_id.html#43026 43026] || colspan = "4" | New ID
+|-
+| [[Dwarf multicannon]] || [https://chisel.weirdgloop.org/moid/object_id.html#43027 43027] || colspan = "4" | New ID
+|-
+| [[Broken multicannon]] || [https://chisel.weirdgloop.org/moid/object_id.html#43028 43028] || colspan = "4" | New ID
+|-
+| [[Cannon base]] || [https://chisel.weirdgloop.org/moid/object_id.html#43029 43029] || colspan = "4" | New ID
+|-
+| [[Cannon stand]] || [https://chisel.weirdgloop.org/moid/object_id.html#43030 43030] || colspan = "4" | New ID
+|-
+| [[Cannon barrels]] || [https://chisel.weirdgloop.org/moid/object_id.html#43031 43031] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43032 43032] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43033 43033] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43034 43034] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43035 43035] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43036 43036] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43037 43037] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43038 43038] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43039 43039] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43040 43040] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43041 43041] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43042 43042] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43043 43043] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43044 43044] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43045 43045] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43046 43046] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43047 43047] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43048 43048] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43049 43049] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43050 43050] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43051 43051] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43052 43052] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43053 43053] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43054 43054] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43055 43055] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43056 43056] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43057 43057] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43058 43058] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43059 43059] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43060 43060] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43061 43061] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43062 43062] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43063 43063] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43064 43064] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43065 43065] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43066 43066] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43067 43067] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43068 43068] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43069 43069] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43070 43070] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43071 43071] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43072 43072] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43073 43073] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43074 43074] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43075 43075] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43076 43076] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43077 43077] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43078 43078] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43079 43079] || colspan = "4" | New ID
+|-
+| [[Runestone basalt]] || [https://chisel.weirdgloop.org/moid/object_id.html#43080 43080] || colspan = "4" | New ID
+|-
+| [[Runestone basalt]] || [https://chisel.weirdgloop.org/moid/object_id.html#43081 43081] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43082 43082] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43083 43083] || colspan = "4" | New ID
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43084 43084] || colspan = "4" | New ID
+|-
+|rowspan="3"|[[Sign]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#11402 11402]
+|-
+|ambient || 20 || 0
+|-
+| contrast || 375 || 0
+|-
+|rowspan="9"|[[League Firsts Board]]
+|rowspan="9"|[https://chisel.weirdgloop.org/moid/object_id.html#37482 37482]
+|-
+|sizeX || 1 || 2
+|-
+| ambient || 5 || 40
+|-
+| contrast || 200 || -2500
+|-
+| blockingMask || 14 || 11
+|-
+| modelSizeX || 128 || 212
+|-
+| modelSizeHeight || 128 || 212
+|-
+| contouredGround || -1 || 0
+|-
+| objectModels || [14651, 34439] || [43382]
+|-
+|rowspan="9"|[[null]]
+|rowspan="9"|[https://chisel.weirdgloop.org/moid/object_id.html#42853 42853]
+|-
+|name || [[Sign]] || [[null]]
+|-
+| anInt2083 || 0 || 5
+|-
+| varbitID || -1 || 13365
+|-
+| ambient || 20 || 0
+|-
+| contrast || 375 || 0
+|-
+| interactType || 1 || 0
+|-
+| supportsItems || 1 || 0
+|-
+| ambientSoundId || -1 || 5311
+|-
+|}

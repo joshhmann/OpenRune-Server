@@ -7,12 +7,12 @@ import org.rsmod.game.entity.Player
 object KonarSlayerDialogueHelpers {
 
     fun findArea(areaId: Int): SlayerAreaRow? {
-        return areaId.takeIf { it != 0 }
+        return areaId
+            .takeIf { it != 0 }
             ?.let { id -> SlayerAreaRow.Companion.all().find { it.areaId == id } }
     }
 
     fun currentArea(player: Player): SlayerAreaRow? = findArea(player.vars["varp.slayer_area"])
-
 
     fun areaShortName(area: SlayerAreaRow): String {
         return area.areaNameInHelper.takeIf(String::isNotBlank)
@@ -26,5 +26,4 @@ object KonarSlayerDialogueHelpers {
     }
 
     fun monsterName(task: SlayerTaskRow) = task.nameLowercase.ifBlank { task.nameUppercase }
-
 }

@@ -1,0 +1,147 @@
+{| class="wikitable sortable"
+!colspan="5"|Items
+|-
+! Name !! ID !! Key !! Previous Value !! Changed into
+|-
+| [[Moonclan teleport]] || 24949 || colspan = "4" | New ID
+|-
+| [[null]] || 24950 || colspan = "4" | New ID
+|-
+| [[Ourania teleport]] || 24951 || colspan = "4" | New ID
+|-
+| [[null]] || 24952 || colspan = "4" | New ID
+|-
+| [[Waterbirth teleport]] || 24953 || colspan = "4" | New ID
+|-
+| [[null]] || 24954 || colspan = "4" | New ID
+|-
+| [[Barbarian teleport]] || 24955 || colspan = "4" | New ID
+|-
+| [[null]] || 24956 || colspan = "4" | New ID
+|-
+| [[Khazard teleport]] || 24957 || colspan = "4" | New ID
+|-
+| [[null]] || 24958 || colspan = "4" | New ID
+|-
+| [[Fishing guild teleport]] || 24959 || colspan = "4" | New ID
+|-
+| [[null]] || 24960 || colspan = "4" | New ID
+|-
+| [[Catherby teleport]] || 24961 || colspan = "4" | New ID
+|-
+| [[null]] || 24962 || colspan = "4" | New ID
+|-
+| [[Ice plateau teleport]] || 24963 || colspan = "4" | New ID
+|-
+| [[null]] || 24964 || colspan = "4" | New ID
+|-
+|rowspan="2"|[[Annakarl teleport]]
+|rowspan="2"|12775
+|-
+|params || {'852': 6} || {'852': 6, '608': 4649}
+|-
+|rowspan="2"|[[Carrallangar teleport]]
+|rowspan="2"|12776
+|-
+|params || {'852': 6} || {'852': 6, '608': 4646}
+|-
+|rowspan="2"|[[Dareeyak teleport]]
+|rowspan="2"|12777
+|-
+|params || {'852': 6} || {'852': 6, '608': 4643}
+|-
+|rowspan="2"|[[Ghorrock teleport]]
+|rowspan="2"|12778
+|-
+|params || {'852': 6} || {'852': 6, '608': 4652}
+|-
+|rowspan="2"|[[Kharyrll teleport]]
+|rowspan="2"|12779
+|-
+|params || {'852': 6} || {'852': 6, '608': 4637}
+|-
+|rowspan="2"|[[Lassar teleport]]
+|rowspan="2"|12780
+|-
+|params || {'852': 6} || {'852': 6, '608': 4640}
+|-
+|rowspan="2"|[[Paddewwa teleport]]
+|rowspan="2"|12781
+|-
+|params || {'852': 6} || {'852': 6, '608': 4631}
+|-
+|rowspan="2"|[[Senntisten teleport]]
+|rowspan="2"|12782
+|-
+|params || {'852': 6} || {'852': 6, '608': 4634}
+|-
+|rowspan="2"|[[Cemetery teleport]]
+|rowspan="2"|19627
+|-
+|interfaceOptions || ['Break', None, None, None, 'Drop'] || [None, None, None, 'Break', 'Drop']
+|-
+|}
+
+{| class="wikitable sortable"
+!colspan="5"|Non-Player Characters
+|-
+! Name !! ID !! Key !! Previous Value !! Changed into
+|-
+| [[Bees!]] || 10444 || colspan = "4" | New ID
+|-
+| [[Bee keeper]] || 3235 || colspan = "4" | New ID
+|-
+| [[Bee keeper]] || 377 || colspan = "4" | New ID
+|-
+| [[Bees!]] || 378 || colspan = "4" | New ID
+|-
+|}
+
+{| class="wikitable sortable"
+!colspan="5"|Objects
+|-
+! Name !! ID !! Key !! Previous Value !! Changed into
+|-
+| [[Lectern]] || 40357 || colspan = "4" | New ID
+|-
+| [[Lectern]] || 40358 || colspan = "4" | New ID
+|-
+| [[Picture]] || 40359 || colspan = "4" | New ID
+|-
+| [[Beehive part]] || 20846 || colspan = "4" | DELETED
+|-
+| [[Beehive part]] || 20847 || colspan = "4" | DELETED
+|-
+| [[Beehive part]] || 20848 || colspan = "4" | DELETED
+|-
+| [[Beehive part]] || 20849 || colspan = "4" | DELETED
+|-
+| [[Interface surround]] || 20850 || colspan = "4" | DELETED
+|-
+| [[Button up]] || 20851 || colspan = "4" | DELETED
+|-
+| [[Button down]] || 20852 || colspan = "4" | DELETED
+|-
+| [[Button left]] || 20853 || colspan = "4" | DELETED
+|-
+| [[Button right]] || 20854 || colspan = "4" | DELETED
+|-
+| [[Button build]] || 20855 || colspan = "4" | DELETED
+|-
+| [[Beehive]] || 20856 || colspan = "4" | DELETED
+|-
+| [[null]] || 20858 || colspan = "4" | DELETED
+|-
+|rowspan="3"|[[null]]
+|rowspan="3"|20857
+|-
+|mergeNormals || False || True
+|-
+| interactType || 2 || 1
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|20859
+|-
+|interactType || 2 || 1
+|-
+|}

@@ -16,7 +16,8 @@ public object PlayerVenom {
 
     public const val NOT_ENVENOMED: Int = 0
 
-    public fun isEnvenomed(player: Player): Boolean = player.vars["varp.venom_strikes"] > NOT_ENVENOMED
+    public fun isEnvenomed(player: Player): Boolean =
+        player.vars["varp.venom_strikes"] > NOT_ENVENOMED
 
     public fun damageForStrikeIndex(strikesCompletedSoFar: Int): Int =
         minOf(20, 6 + 2 * strikesCompletedSoFar.coerceAtLeast(0))

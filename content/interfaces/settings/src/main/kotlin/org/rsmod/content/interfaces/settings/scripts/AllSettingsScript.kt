@@ -14,7 +14,6 @@ import org.rsmod.api.player.vars.VarPlayerIntMapSetter
 import org.rsmod.api.player.vars.boolVarBit
 import org.rsmod.api.player.vars.intVarBit
 import org.rsmod.api.script.onDialogInput
-import org.rsmod.api.script.onIfClose
 import org.rsmod.api.script.onIfOpen
 import org.rsmod.api.script.onIfOverlayButton
 import org.rsmod.api.script.onPlayerLogin
@@ -23,20 +22,15 @@ import org.rsmod.game.entity.Player
 import org.rsmod.plugin.scripts.PluginScript
 import org.rsmod.plugin.scripts.ScriptContext
 
-
-val SettingsConfigsRow.varValue: String? get() = varbit?.let {
-    RSCM.getReverseMapping(RSCMType.VARBIT, it)
-} ?: varp?.let {
-    RSCM.getReverseMapping(RSCMType.VARP, it)
-}
+val SettingsConfigsRow.varValue: String?
+    get() =
+        varbit?.let { RSCM.getReverseMapping(RSCMType.VARBIT, it) }
+            ?: varp?.let { RSCM.getReverseMapping(RSCMType.VARP, it) }
 
 class AllSettingsScript @Inject constructor(private val protectedAccess: ProtectedAccessLauncher) :
     PluginScript() {
 
-    data class SettingsClick(
-        val value: Int,
-        val setting: Setting,
-    )
+    data class SettingsClick(val value: Int, val setting: Setting)
 
     internal data class ConfirmationSetting(
         val setting: Setting,
@@ -56,7 +50,8 @@ class AllSettingsScript @Inject constructor(private val protectedAccess: Protect
     private var Player.settingsCategory by intVarBit("varbit.settings_category")
     private var Player.selectedSetting by intVarBit("varbit.settings_selected_setting")
     private var Player.isSearching by intVarBit("varbit.floater_is_searching")
-    private var Player.searchListenForKeyboard by intVarBit("varbit.floater_search_listen_for_keyboard")
+    private var Player.searchListenForKeyboard by
+        intVarBit("varbit.floater_search_listen_for_keyboard")
     private var Player.chatboxOpened by intVarBit("varbit.floater_chatbox_opened")
     private var Player.settingsColourModalOpened by intVarBit("varbit.settings_colour_modal_opened")
     private val Player.newAccount by boolVarBit("varbit.new_player_account")
@@ -73,9 +68,7 @@ class AllSettingsScript @Inject constructor(private val protectedAccess: Protect
 
     override fun ScriptContext.startup() {
 
-        onPlayerLogin {
-            player.setDefaultOptions()
-        }
+        onPlayerLogin { player.setDefaultOptions() }
 
         onDialogInput {
             if (player.settingsColourModalOpened == 1) {
@@ -91,9 +84,7 @@ class AllSettingsScript @Inject constructor(private val protectedAccess: Protect
             player.settingsColourModalOpened = 0
         }
 
-        onIfOpen("interface.colour_pallet") {
-            player.updateColourPickerEvents()
-        }
+        onIfOpen("interface.colour_pallet") { player.updateColourPickerEvents() }
 
         onIfOverlayButton("component.settings:close") {
             player.ifCloseOverlay("interface.settings", eventBus)
@@ -135,9 +126,9 @@ class AllSettingsScript @Inject constructor(private val protectedAccess: Protect
         }
 
         onIfOverlayButton("component.settings:settings_clickzone") {
-            val settings = player.selectedCategory?.let { index ->
-                Settings.getCategory(index)?.settings
-            } ?: Settings.allSettings
+            val settings =
+                player.selectedCategory?.let { index -> Settings.getCategory(index)?.settings }
+                    ?: Settings.allSettings
 
             val setting = settings[it.comsub]
             selectSetting(SettingsClick(it.comsub, setting))
@@ -156,16 +147,8 @@ class AllSettingsScript @Inject constructor(private val protectedAccess: Protect
 
     private fun Player.updateIfEvents() {
         ifSetEvents("component.settings:categories_clickzone", 0..9, IfEvent.Op1)
-        ifSetEvents(
-            "component.settings:dropdown_buttons",
-            0..512,
-            IfEvent.Op1,
-        )
-        ifSetEvents(
-            "component.settings:settings_clickzone",
-            0..512,
-            IfEvent.Op1,
-        )
+        ifSetEvents("component.settings:dropdown_buttons", 0..512, IfEvent.Op1)
+        ifSetEvents("component.settings:settings_clickzone", 0..512, IfEvent.Op1)
     }
 
     private fun Player.updateColourPickerEvents() {
@@ -186,9 +169,7 @@ class AllSettingsScript @Inject constructor(private val protectedAccess: Protect
 
         when (type) {
             SettingType.CHECKBOX -> {
-                setting.row?.varValue?.let {
-                    VarPlayerIntMapSetter.toggle(player, it)
-                }
+                setting.row?.varValue?.let { VarPlayerIntMapSetter.toggle(player, it) }
             }
 
             SettingType.SLIDER -> {}
@@ -198,7 +179,8 @@ class AllSettingsScript @Inject constructor(private val protectedAccess: Protect
             SettingType.BUTTON -> confirmSetting(setting)
 
             // Handled elsewhere.
-            SettingType.DROPDOWN, SettingType.KEYBIND -> {}
+            SettingType.DROPDOWN,
+            SettingType.KEYBIND -> {}
 
             else -> println("$type not implemented for setting id=$settingId")
         }
@@ -219,11 +201,12 @@ class AllSettingsScript @Inject constructor(private val protectedAccess: Protect
 
         ifOpenOverlay("interface.colour_pallet", "component.settings:popup")
 
-        val defaultColour = if (vars[varValue] == 0) {
-            setting.defaultColour
-        } else {
-            vars[varValue]
-        }
+        val defaultColour =
+            if (vars[varValue] == 0) {
+                setting.defaultColour
+            } else {
+                vars[varValue]
+            }
 
         runClientScript(
             COLOUR_PALLET_OPEN_CLIENTSCRIPT,
@@ -270,16 +253,8 @@ class AllSettingsScript @Inject constructor(private val protectedAccess: Protect
             "varbit.option_master_volume_desktop",
             MASTER_VOLUME_DEFAULT,
         )
-        setVolume(
-            "varp.option_music",
-            "varbit.option_music_desktop",
-            MUSIC_VOLUME_DEFAULT,
-        )
-        setVolume(
-            "varp.option_sounds",
-            "varbit.option_sounds_desktop",
-            SOUND_VOLUME_DEFAULT,
-        )
+        setVolume("varp.option_music", "varbit.option_music_desktop", MUSIC_VOLUME_DEFAULT)
+        setVolume("varp.option_sounds", "varbit.option_sounds_desktop", SOUND_VOLUME_DEFAULT)
         setVolume(
             "varp.option_areasounds",
             "varbit.option_areasounds_desktop",
@@ -290,20 +265,10 @@ class AllSettingsScript @Inject constructor(private val protectedAccess: Protect
             "varbit.option_master_volume_saved",
             "varbit.option_master_volume_saved_desktop",
         )
-        setSavedVolume(
-            "varbit.option_music_saved",
-            "varbit.option_music_saved_desktop",
-        )
-        setSavedVolume(
-            "varbit.option_sounds_saved",
-            "varbit.option_sounds_saved_desktop",
-        )
-        setSavedVolume(
-            "varbit.option_areasounds_saved",
-            "varbit.option_areasounds_saved_desktop",
-        )
+        setSavedVolume("varbit.option_music_saved", "varbit.option_music_saved_desktop")
+        setSavedVolume("varbit.option_sounds_saved", "varbit.option_sounds_saved_desktop")
+        setSavedVolume("varbit.option_areasounds_saved", "varbit.option_areasounds_saved_desktop")
     }
-
 
     private fun Player.setDefaultOptions() {
         if (!newAccount) return
@@ -390,11 +355,7 @@ class AllSettingsScript @Inject constructor(private val protectedAccess: Protect
     fun resetColours(player: Player, settingIds: Iterable<Int>) {
         settingIds.forEach { id ->
             val settingInfo = Settings.getSetting(id)
-            SettingUtils.setColour(
-                player,
-                settingInfo.defaultColour,
-                settingInfo,
-            )
+            SettingUtils.setColour(player, settingInfo.defaultColour, settingInfo)
         }
     }
 

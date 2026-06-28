@@ -1,0 +1,92 @@
+{{ToC}}
+==Items==
+===New Items===
+{| class="wikitable sortable"
+!colspan='11'|New Items
+|-
+! style=width:15em | Name !! ID !! Members !! Tradeable in GE !! Equipable !! Stackable !! Noteable !! Options !! Placeholder !! Cost !! Weight
+|-
+|-
+|}
+===Removed Items===
+{| class="wikitable sortable"
+!colspan='2'|Removed Items
+|-
+! style=width:15em | Name !! ID
+|-
+|-
+|}
+===Diff Items===
+{| class="wikitable sortable"
+!colspan='5'|Diff Items
+|-
+! style=width:15em | Name !! ID !! Key !! Previous Value !! New Value
+|-
+|rowspan="2"|[[Rotten potato]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#5733 5733]
+|-
+|yOffset2d || 1 || 0
+|-
+|rowspan="3"|[[Rotten egg]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/item_id.html#13205 13205]
+|-
+|interfaceOptions || ['Scramble', 'Beat', 'Fry', 'Pickle', 'Drop'] || ['Scramble', 'Poach', 'Fry', 'Pickle', 'Drop']
+|-
+| colorReplace ||<span style = "background-color: #46156e;color:white">-15699</span>||<span style = "background-color: #8d53bf;color:white">-15908</span>
+|-
+|rowspan="2"|[[Useful rock]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#22191 22191]
+|-
+|members || True || False
+|-
+|}
+
+==Non-Player Characters==
+===New NPCs===
+{| class="wikitable sortable"
+!colspan='4'|New NPCs
+|-
+! style=width:15em | Name !! ID !! Combat Level !! Options
+|-
+|-
+|}
+===Removed NPCs===
+{| class="wikitable sortable"
+!colspan='2'|Removed NPCs
+|-
+! style=width:15em | Name !! ID
+|-
+|-
+|}
+===Diff NPCs===
+{| class="wikitable sortable"
+!colspan='5'|Diff NPCs
+|-
+! style=width:15em | Name !! ID !! Key !! Previous Value !! New Value
+|-
+|}
+
+==Objects==
+===New Objects=== 
+{| class="wikitable sortable"
+!colspan='3'|New Objects
+|-
+! style=width:15em | Name !! ID !! Options
+|-
+|-
+|}
+===Removed Objects===
+{| class="wikitable sortable"
+!colspan='2'|Removed Objects
+|-
+! style=width:15em | Name !! ID
+|-
+|-
+|}
+===Diff Objects===
+{| class="wikitable sortable"
+!colspan='5'|Diff Objects
+|-
+! style=width:15em | Name !! ID !! Key !! Previous Value !! New Value
+|-
+|}

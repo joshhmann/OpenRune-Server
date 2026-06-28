@@ -22,7 +22,7 @@ constructor(
         logger.info {
             "PostgreSQL: ${config.jdbcUrl} (override with OPENRUNE_JDBC_URL / game.yml database.postgres). " +
                 "If core tables (`accounts`, `account_characters`, `realms`, `worlds`) are missing, " +
-                    "bundled `db/game-schema-postgres.sql` is applied."
+                "bundled `db/game-schema-postgres.sql` is applied."
         }
         connectDataSource()
     }

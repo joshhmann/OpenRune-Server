@@ -1,0 +1,195 @@
+{{ToC}}
+==Items==
+===New Items===
+{| class="wikitable sortable"
+!colspan='11'|New Items
+|-
+! style=width:15em | Name !! ID !! Members !! Tradeable in GE !! Equipable !! Stackable !! Noteable !! Options !! Placeholder !! Cost !! Weight
+|-
+| [[Vesta's chainbody]] || [https://chisel.weirdgloop.org/moid/item_id.html#27831 27831] || No || No || Yes || No || No ||  Wear,   Drop || No || 500000
+|| 6803
+|-
+| [[Vesta's plateskirt]] || [https://chisel.weirdgloop.org/moid/item_id.html#27832 27832] || No || No || Yes || No || No ||  Wear,   Drop || No || 500000
+|| 8164
+|-
+| [[Statius's full helm]] || [https://chisel.weirdgloop.org/moid/item_id.html#27833 27833] || No || No || Yes || No || No ||  Wear,   Drop || No || 250000
+|| 2721
+|-
+| [[Statius's platebody]] || [https://chisel.weirdgloop.org/moid/item_id.html#27834 27834] || No || No || Yes || No || No ||  Wear,   Drop || No || 500000
+|| 9979
+|-
+| [[Statius's platelegs]] || [https://chisel.weirdgloop.org/moid/item_id.html#27835 27835] || No || No || Yes || No || No ||  Wear,   Drop || No || 500000
+|| 9071
+|-
+| [[Morrigan's coif]] || [https://chisel.weirdgloop.org/moid/item_id.html#27836 27836] || No || No || Yes || No || No ||  Wear,   Drop || No || 250000
+|| 907
+|-
+| [[Morrigan's leather body]] || [https://chisel.weirdgloop.org/moid/item_id.html#27837 27837] || No || No || Yes || No || No ||  Wear,   Drop || No || 500000
+|| 6803
+|-
+| [[Morrigan's leather chaps]] || [https://chisel.weirdgloop.org/moid/item_id.html#27838 27838] || No || No || Yes || No || No ||  Wear,   Drop || No || 500000
+|| 5443
+|-
+| [[Zuriel's hood]] || [https://chisel.weirdgloop.org/moid/item_id.html#27839 27839] || No || No || Yes || No || No ||  Wear,   Drop || No || 250000
+|| 907
+|-
+| [[Zuriel's robe top]] || [https://chisel.weirdgloop.org/moid/item_id.html#27840 27840] || No || No || Yes || No || No ||  Wear,   Drop || No || 500000
+|| 4535
+|-
+| [[Zuriel's robe bottom]] || [https://chisel.weirdgloop.org/moid/item_id.html#27841 27841] || No || No || Yes || No || No ||  Wear,   Drop || No || 500000
+|| 5443
+|-
+| [[Vesta's chainbody (c)]] || [https://chisel.weirdgloop.org/moid/item_id.html#27842 27842] || No || No || Yes || No || No ||  Wear,   Drop || No || 500000
+|| 6803
+|-
+| [[Vesta's plateskirt (c)]] || [https://chisel.weirdgloop.org/moid/item_id.html#27843 27843] || No || No || Yes || No || No ||  Wear,   Drop || No || 500000
+|| 8164
+|-
+| [[Statius's full helm (c)]] || [https://chisel.weirdgloop.org/moid/item_id.html#27844 27844] || No || No || Yes || No || No ||  Wear,   Drop || No || 250000
+|| 2721
+|-
+| [[Statius's platebody (c)]] || [https://chisel.weirdgloop.org/moid/item_id.html#27845 27845] || No || No || Yes || No || No ||  Wear,   Drop || No || 500000
+|| 9979
+|-
+| [[Statius's platelegs (c)]] || [https://chisel.weirdgloop.org/moid/item_id.html#27846 27846] || No || No || Yes || No || No ||  Wear,   Drop || No || 500000
+|| 9071
+|-
+| [[Morrigan's coif (c)]] || [https://chisel.weirdgloop.org/moid/item_id.html#27847 27847] || No || No || Yes || No || No ||  Wear,   Drop || No || 250000
+|| 907
+|-
+| [[Morrigan's leather body (c)]] || [https://chisel.weirdgloop.org/moid/item_id.html#27848 27848] || No || No || Yes || No || No ||  Wear,   Drop || No || 500000
+|| 6803
+|-
+| [[Morrigan's leather chaps (c)]] || [https://chisel.weirdgloop.org/moid/item_id.html#27849 27849] || No || No || Yes || No || No ||  Wear,   Drop || No || 500000
+|| 5443
+|-
+| [[Zuriel's hood (c)]] || [https://chisel.weirdgloop.org/moid/item_id.html#27850 27850] || No || No || Yes || No || No ||  Wear,   Drop || No || 250000
+|| 907
+|-
+| [[Zuriel's robe top (c)]] || [https://chisel.weirdgloop.org/moid/item_id.html#27851 27851] || No || No || Yes || No || No ||  Wear,   Drop || No || 500000
+|| 4535
+|-
+| [[Zuriel's robe bottom (c)]] || [https://chisel.weirdgloop.org/moid/item_id.html#27852 27852] || No || No || Yes || No || No ||  Wear,   Drop || No || 500000
+|| 5443
+|-
+| [[Dark bow (bh)]] || [https://chisel.weirdgloop.org/moid/item_id.html#27853 27853] || No || No || Yes || No || No ||  Wield,   Drop || Yes || 120002
+|| 1814
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#27854 27854] || No || No || No || No || No ||     Drop || Yes || 1
+|| 0
+|-
+| [[Barrelchest anchor (bh)]] || [https://chisel.weirdgloop.org/moid/item_id.html#27855 27855] || No || No || Yes || No || No ||  Wield,   Destroy || Yes || 230000
+|| 30000
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#27856 27856] || No || No || No || No || No ||     Drop || Yes || 1
+|| 0
+|-
+| [[Dragon mace (bh)]] || [https://chisel.weirdgloop.org/moid/item_id.html#27857 27857] || No || No || Yes || No || No ||  Wield,   Drop || Yes || 50000
+|| 1814
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#27858 27858] || No || No || No || No || No ||     Drop || Yes || 1
+|| 0
+|-
+| [[Dragon longsword (bh)]] || [https://chisel.weirdgloop.org/moid/item_id.html#27859 27859] || No || No || Yes || No || No ||  Wield,   Drop || Yes || 100000
+|| 1814
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#27860 27860] || No || No || No || No || No ||     Drop || Yes || 1
+|| 0
+|-
+| [[Abyssal dagger (bh)]] || [https://chisel.weirdgloop.org/moid/item_id.html#27861 27861] || No || No || Yes || No || No ||  Wield,   Drop || Yes || 115001
+|| 453
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#27862 27862] || No || No || No || No || No ||     Drop || Yes || 1
+|| 0
+|-
+| [[Abyssal dagger (bhp)]] || [https://chisel.weirdgloop.org/moid/item_id.html#27863 27863] || No || No || Yes || No || No ||  Wield,   Drop || Yes || 115002
+|| 453
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#27864 27864] || No || No || No || No || No ||     Drop || Yes || 1
+|| 0
+|-
+| [[Abyssal dagger (bhp+)]] || [https://chisel.weirdgloop.org/moid/item_id.html#27865 27865] || No || No || Yes || No || No ||  Wield,   Drop || Yes || 115003
+|| 453
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#27866 27866] || No || No || No || No || No ||     Drop || Yes || 1
+|| 0
+|-
+| [[Abyssal dagger (bhp++)]] || [https://chisel.weirdgloop.org/moid/item_id.html#27867 27867] || No || No || Yes || No || No ||  Wield,   Drop || Yes || 115004
+|| 453
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#27868 27868] || No || No || No || No || No ||     Drop || Yes || 1
+|| 0
+|-
+| [[Voidwaker]] || [https://chisel.weirdgloop.org/moid/item_id.html#27869 27869] || No || No || Yes || No || No ||  Wield,   Drop || No || 100
+|| 1814
+|-
+| [[Lightbearer]] || [https://chisel.weirdgloop.org/moid/item_id.html#27870 27870] || No || No || No || No || No ||  Wear,   Drop || No || 100
+|| 50
+|-
+|-
+|}
+===Removed Items===
+{| class="wikitable sortable"
+!colspan='2'|Removed Items
+|-
+! style=width:15em | Name !! ID
+|-
+|-
+|}
+===Diff Items===
+{| class="wikitable sortable"
+!colspan='5'|Diff Items
+|-
+! style=width:15em | Name !! ID !! Key !! Previous Value !! New Value
+|-
+|}
+
+==Non-Player Characters==
+===New NPCs===
+{| class="wikitable sortable"
+!colspan='4'|New NPCs
+|-
+! style=width:15em | Name !! ID !! Combat Level !! Options
+|-
+|-
+|}
+===Removed NPCs===
+{| class="wikitable sortable"
+!colspan='2'|Removed NPCs
+|-
+! style=width:15em | Name !! ID
+|-
+|-
+|}
+===Diff NPCs===
+{| class="wikitable sortable"
+!colspan='5'|Diff NPCs
+|-
+! style=width:15em | Name !! ID !! Key !! Previous Value !! New Value
+|-
+|}
+
+==Objects==
+===New Objects=== 
+{| class="wikitable sortable"
+!colspan='3'|New Objects
+|-
+! style=width:15em | Name !! ID !! Options
+|-
+|-
+|}
+===Removed Objects===
+{| class="wikitable sortable"
+!colspan='2'|Removed Objects
+|-
+! style=width:15em | Name !! ID
+|-
+|-
+|}
+===Diff Objects===
+{| class="wikitable sortable"
+!colspan='5'|Diff Objects
+|-
+! style=width:15em | Name !! ID !! Key !! Previous Value !! New Value
+|-
+|}

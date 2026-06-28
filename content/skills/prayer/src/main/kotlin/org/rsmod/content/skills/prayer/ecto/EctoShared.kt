@@ -13,14 +13,17 @@ internal data class EctoRecipe(
     val prayerLevel: Int = 1,
 )
 
-internal val ECTO_RECIPES: List<EctoRecipe> by lazy { PrayerEctofuntusBonemealRow.all().mapIndexed { index, row ->
-    EctoRecipe(
-        id = index + 1, bones = row.input.internalName,
-        bonemeal = row.output.internalName,
-        bonesName = row.input.name,
-        xp = row.xp.toDouble(),
-        prayerLevel = row.statReq.first().t1
-    )}
+internal val ECTO_RECIPES: List<EctoRecipe> by lazy {
+    PrayerEctofuntusBonemealRow.all().mapIndexed { index, row ->
+        EctoRecipe(
+            id = index + 1,
+            bones = row.input.internalName,
+            bonemeal = row.output.internalName,
+            bonesName = row.input.name,
+            xp = row.xp.toDouble(),
+            prayerLevel = row.statReq.first().t1,
+        )
+    }
 }
 
 internal fun findEctoRecipe(id: Int): EctoRecipe? = ECTO_RECIPES.firstOrNull { it.id == id }

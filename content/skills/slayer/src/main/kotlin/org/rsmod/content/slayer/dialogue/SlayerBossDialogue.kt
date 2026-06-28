@@ -5,6 +5,7 @@ import org.rsmod.api.table.slayer.SlayerMasterTaskRow
 import org.rsmod.api.table.slayer.SlayerTaskRow
 import org.rsmod.content.slayer.core.SlayerBossTasks
 import org.rsmod.content.slayer.core.SlayerTaskManager
+
 object SlayerBossDialogue {
 
     suspend fun Dialogue.offerBossTaskAssignment(
@@ -17,17 +18,12 @@ object SlayerBossDialogue {
 
         val amount = promptBossKillCount(bossTask.task) ?: return false
 
-        when (
-            choice2(
-                "Yes, that's fine.",
-                1,
-                "No, I'd like a different task.",
-                2,
-            )
-        ) {
+        when (choice2("Yes, that's fine.", 1, "No, I'd like a different task.", 2)) {
             1 -> {
                 chatPlayer(neutral, "Yes, that's fine.")
-                if (!SlayerTaskManager.assignBossTask(access, masterNpcId, bossTask.task.id, amount)) {
+                if (
+                    !SlayerTaskManager.assignBossTask(access, masterNpcId, bossTask.task.id, amount)
+                ) {
                     chatNpc(neutral, "I can't assign that task right now.")
                     return false
                 }
@@ -52,11 +48,17 @@ object SlayerBossDialogue {
             when {
                 entered < min -> {
                     access.mes("The minimum amount is $min.")
-                    chatNpc(neutral, "You must kill at least $min. Choose a number between $min and $max.")
+                    chatNpc(
+                        neutral,
+                        "You must kill at least $min. Choose a number between $min and $max.",
+                    )
                 }
                 entered > max -> {
                     access.mes("The maximum amount is $max.")
-                    chatNpc(neutral, "You can have at most $max on this task. Choose a number between $min and $max.")
+                    chatNpc(
+                        neutral,
+                        "You can have at most $max on this task. Choose a number between $min and $max.",
+                    )
                 }
                 else -> return entered
             }

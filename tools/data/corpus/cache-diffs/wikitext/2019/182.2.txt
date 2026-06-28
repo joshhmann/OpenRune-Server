@@ -1,0 +1,125 @@
+{{ToC}}
+==Items==
+===New Items===
+{| class="wikitable sortable"
+!colspan='11'|New Items
+|-
+! style=width:15em | Name !! ID !! Members !! Tradeable in GE !! Equipable !! Stackable !! Noteable !! Options !! Placeholder !! Cost
+|-
+| [[Granite maul]] || [https://chisel.weirdgloop.org/moid/item_id.html#24225 24225] || Yes || No || Yes || No || No ||  Wield,   Revert || Yes || 50000
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#24226 24226] || No || No || No || No || No ||     Drop || Yes || 1
+|-
+| [[Granite maul]] || [https://chisel.weirdgloop.org/moid/item_id.html#24227 24227] || Yes || No || Yes || No || No ||  Wield,   Revert || Yes || 50000
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#24228 24228] || No || No || No || No || No ||     Drop || Yes || 1
+|-
+| [[Ornate maul handle]] || [https://chisel.weirdgloop.org/moid/item_id.html#24229 24229] || Yes || Yes || No || No || Yes ||     Drop || Yes || 5000
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#24230 24230] || No || No || No || No || Yes ||     Drop || No || 1
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#24231 24231] || No || No || No || No || No ||     Drop || Yes || 1
+|-
+|-
+|}
+===Removed Items===
+{| class="wikitable sortable"
+!colspan='2'|Removed Items
+|-
+! style=width:15em | Name !! ID
+|-
+|-
+|}
+===Diff Items===
+{| class="wikitable sortable"
+!colspan='5'|Diff Items
+|-
+! style=width:15em | Name !! ID !! Key !! Previous Value !! New Value
+|-
+|rowspan="2"|[[Paddle]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#7414 7414]
+|-
+|interfaceOptions || [None, 'Wield', None, None, 'Drop'] || [None, None, None, None, 'Drop']
+|-
+|rowspan="2"|[[Runecraft hood]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#9767 9767]
+|-
+|name || [[Runecrafting hood]] || [[Runecraft hood]]
+|-
+|rowspan="2"|[[Morrigan's javelin]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#23619 23619]
+|-
+|members || True || False
+|-
+|rowspan="2"|[[Statius's warhammer]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#23620 23620]
+|-
+|members || True || False
+|-
+|}
+
+==Non-Player Characters==
+===New NPCs===
+{| class="wikitable sortable"
+!colspan='4'|New NPCs
+|-
+! style=width:15em | Name !! ID !! Combat Level !! Options
+|-
+|-
+|}
+===Removed NPCs===
+{| class="wikitable sortable"
+!colspan='2'|Removed NPCs
+|-
+! style=width:15em | Name !! ID
+|-
+|-
+|}
+===Diff NPCs===
+{| class="wikitable sortable"
+!colspan='5'|Diff NPCs
+|-
+! style=width:15em | Name !! ID !! Key !! Previous Value !! New Value
+|-
+|rowspan="3"|[[Priestess Zul-Gwenwynig]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/npc_id.html#1617 1617]
+|-
+|models || [38165, 38246, 38230, 38196, 38212, 38262] || [38852]
+|-
+| chatheadModels || [38686] || [38854]
+|-
+|rowspan="3"|[[Priestess Zul-Gwenwynig]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/npc_id.html#2033 2033]
+|-
+|models || [38165, 38246, 38230, 38196, 38212, 38262] || [38852]
+|-
+| chatheadModels || [38686] || [38854]
+|-
+|}
+
+==Objects==
+===New Objects=== 
+{| class="wikitable sortable"
+!colspan='3'|New Objects
+|-
+! style=width:15em | Name !! ID !! Options
+|-
+|-
+|}
+===Removed Objects===
+{| class="wikitable sortable"
+!colspan='2'|Removed Objects
+|-
+! style=width:15em | Name !! ID
+|-
+| [[Vending shrine]] || [https://chisel.weirdgloop.org/moid/object_id.html#29091 29091]
+|-
+|-
+|}
+===Diff Objects===
+{| class="wikitable sortable"
+!colspan='5'|Diff Objects
+|-
+! style=width:15em | Name !! ID !! Key !! Previous Value !! New Value
+|-
+|}

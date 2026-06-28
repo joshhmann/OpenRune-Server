@@ -17,7 +17,8 @@ object BraceletOfSlaughter {
     const val MAX_CHARGES = 30
     private const val PROC_ROLL_EXCLUSIVE = 4
 
-    private val BLOCKED_NPCS = listOf("npc.tzhaar_fightcave_swarm_boss", "npc.inferno_tzkalzuk_placeholder")
+    private val BLOCKED_NPCS =
+        listOf("npc.tzhaar_fightcave_swarm_boss", "npc.inferno_tzkalzuk_placeholder")
 
     private const val ELITE_COMBAT_ACHIEVEMENTS_COMPLETE = false
     private const val COMBAT_ACHIEVEMENT_RECHARGE_ROLL = 10
@@ -55,9 +56,7 @@ object BraceletOfSlaughter {
                     " It then crumbles to dust."
                 }
             }
-        player.mes(
-            "Your bracelet of slaughter prevents your slayer count from decreasing.$suffix",
-        )
+        player.mes("Your bracelet of slaughter prevents your slayer count from decreasing.$suffix")
         return true
     }
 

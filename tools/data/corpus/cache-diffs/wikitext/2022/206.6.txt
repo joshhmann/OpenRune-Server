@@ -1,0 +1,50 @@
+{{ToC}}
+==Items==
+{| class="wikitable sortable"
+!colspan='13'|Items
+|-
+! Name !! ID !! Key !! Previous Value !! New Value !! Members !! Tradeable in GE !! Equipable !! Stackable !! Noteable !! Options !! Placeholder !! Cost
+|-
+|}
+
+==Non-Player Characters==
+{| class="wikitable sortable"
+!colspan='5'|Non-Player Characters
+|-
+! Name !! ID !! Key !! Previous Value !! Changed into
+|-
+| [[Lanthus]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11650 11650] || colspan = "4" | New ID
+|-
+|rowspan="4"|[[null]]
+|rowspan="4"|[https://chisel.weirdgloop.org/moid/npc_id.html#5721 5721]
+|-
+|name || [[Lanthus]] || [[null]]
+|-
+| actions || ['Talk-to', None, None, 'Trade', None] || [None, None, None, None, None]
+|-
+| varbitId || -1 || 4153
+|-
+|}
+
+==Objects==
+{| class="wikitable sortable"
+!colspan='5'|Objects
+|-
+! Name !! ID !! Key !! Previous Value !! Changed into
+|-
+|rowspan="2"|[[Fancy range]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#13542 13542]
+|-
+|actions || [None, None, None, None, 'Remove'] || [None, 'Cook', None, None, 'Remove']
+|-
+|rowspan="2"|[[Fancy range]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#13543 13543]
+|-
+|actions || ['Take-kettle', None, None, None, None] || ['Take-kettle', 'Cook', None, None, None]
+|-
+|rowspan="2"|[[Fancy range]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#13544 13544]
+|-
+|actions || [None, None, None, None, 'Remove'] || [None, 'Cook', None, None, 'Remove']
+|-
+|}

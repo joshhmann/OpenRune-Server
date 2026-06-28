@@ -1,0 +1,373 @@
+{{ToC}}
+==Items==
+{| class="wikitable sortable"
+!colspan='5'|Items
+|-
+! Name !! ID !! Key !! Previous Value !! Changed into
+|-
+| [[Little parasite]] || 25836 || colspan = "4" | New ID
+|-
+| [[Slepey tablet]] || 25837 || colspan = "4" | New ID
+|-
+| [[Parasitic egg]] || 25838 || colspan = "4" | New ID
+|-
+| [[null]] || 25839 || colspan = "4" | New ID
+|-
+| [[Banana hat]] || 25840 || colspan = "4" | New ID
+|-
+| [[null]] || 25841 || colspan = "4" | New ID
+|-
+| [[Sraracha]] || 25842 || colspan = "4" | New ID
+|-
+| [[Sraracha]] || 25843 || colspan = "4" | New ID
+|-
+| [[Orange egg sac]] || 25844 || colspan = "4" | New ID
+|-
+| [[null]] || 25845 || colspan = "4" | New ID
+|-
+| [[Blue egg sac]] || 25846 || colspan = "4" | New ID
+|-
+| [[null]] || 25847 || colspan = "4" | New ID
+|-
+| [[null]] || 25848 || colspan = "4" | New ID
+|-
+| [[Amethyst dart]] || 25849 || colspan = "4" | New ID
+|-
+| [[null]] || 25850 || colspan = "4" | New ID
+|-
+| [[Amethyst dart(p)]] || 25851 || colspan = "4" | New ID
+|-
+| [[null]] || 25852 || colspan = "4" | New ID
+|-
+| [[Amethyst dart tip]] || 25853 || colspan = "4" | New ID
+|-
+| [[null]] || 25854 || colspan = "4" | New ID
+|-
+| [[Amethyst dart(p+)]] || 25855 || colspan = "4" | New ID
+|-
+| [[null]] || 25856 || colspan = "4" | New ID
+|-
+| [[Amethyst dart(p++)]] || 25857 || colspan = "4" | New ID
+|-
+| [[null]] || 25858 || colspan = "4" | New ID
+|-
+| [[Enhanced crystal weapon seed]] || 25859 || colspan = "4" | New ID
+|-
+| [[null]] || 25860 || colspan = "4" | New ID
+|-
+| [[null]] || 25861 || colspan = "4" | New ID
+|-
+| [[Bow of faerdhinen (inactive)]] || 25862 || colspan = "4" | New ID
+|-
+| [[null]] || 25863 || colspan = "4" | New ID
+|-
+| [[null]] || 25864 || colspan = "4" | New ID
+|-
+| [[Bow of faerdhinen]] || 25865 || colspan = "4" | New ID
+|-
+| [[null]] || 25866 || colspan = "4" | New ID
+|-
+| [[Bow of faerdhinen (c)]] || 25867 || colspan = "4" | New ID
+|-
+| [[null]] || 25868 || colspan = "4" | New ID
+|-
+| [[Bow of faerdhinen (c)]] || 25869 || colspan = "4" | New ID
+|-
+| [[Blade of saeldor (c)]] || 25870 || colspan = "4" | New ID
+|-
+| [[null]] || 25871 || colspan = "4" | New ID
+|-
+| [[Blade of saeldor (c)]] || 25872 || colspan = "4" | New ID
+|-
+| [[null]] || 25873 || colspan = "4" | New ID
+|-
+| [[Blade of saeldor (c)]] || 25874 || colspan = "4" | New ID
+|-
+| [[null]] || 25875 || colspan = "4" | New ID
+|-
+| [[Blade of saeldor (c)]] || 25876 || colspan = "4" | New ID
+|-
+| [[null]] || 25877 || colspan = "4" | New ID
+|-
+| [[Blade of saeldor (c)]] || 25878 || colspan = "4" | New ID
+|-
+| [[null]] || 25879 || colspan = "4" | New ID
+|-
+| [[Blade of saeldor (c)]] || 25880 || colspan = "4" | New ID
+|-
+| [[null]] || 25881 || colspan = "4" | New ID
+|-
+| [[Blade of saeldor (c)]] || 25882 || colspan = "4" | New ID
+|-
+| [[null]] || 25883 || colspan = "4" | New ID
+|-
+| [[Bow of faerdhinen (c)]] || 25884 || colspan = "4" | New ID
+|-
+| [[null]] || 25885 || colspan = "4" | New ID
+|-
+| [[Bow of faerdhinen (c)]] || 25886 || colspan = "4" | New ID
+|-
+| [[null]] || 25887 || colspan = "4" | New ID
+|-
+| [[Bow of faerdhinen (c)]] || 25888 || colspan = "4" | New ID
+|-
+| [[null]] || 25889 || colspan = "4" | New ID
+|-
+| [[Bow of faerdhinen (c)]] || 25890 || colspan = "4" | New ID
+|-
+| [[null]] || 25891 || colspan = "4" | New ID
+|-
+| [[Bow of faerdhinen (c)]] || 25892 || colspan = "4" | New ID
+|-
+| [[null]] || 25893 || colspan = "4" | New ID
+|-
+| [[Bow of faerdhinen (c)]] || 25894 || colspan = "4" | New ID
+|-
+| [[null]] || 25895 || colspan = "4" | New ID
+|-
+| [[Bow of faerdhinen (c)]] || 25896 || colspan = "4" | New ID
+|-
+| [[null]] || 25897 || colspan = "4" | New ID
+|-
+|rowspan="2"|[[Iron dart (p)]]
+|rowspan="2"|813
+|-
+|name || [[Iron dart(p)]] || [[Iron dart (p)]]
+|-
+|rowspan="2"|[[Shayzien body (5)]]
+|rowspan="2"|13381
+|-
+|name || [[Shayzien platebody (5)]] || [[Shayzien body (5)]]
+|-
+|rowspan="3"|[[Drakan's medallion]]
+|rowspan="3"|22400
+|-
+|interfaceOptions || [None, 'Wear', 'Ver Sinhaza', 'Darkmeyer', 'Drop'] || ['Wear', 'Ver Sinhaza', 'Darkmeyer', 'Slepe', 'Drop']
+|-
+| params || {'452': 'Darkmeyer', '451': 'Ver Sinhaza'} || {'451': 'Ver Sinhaza', '452': 'Darkmeyer', '148': 1, '453': 'Slepe'}
+|-
+|}
+
+==Non-Player Characters==
+{| class="wikitable sortable"
+!colspan='5'|Non-Player Characters
+|-
+! Name !! ID !! Key !! Previous Value !! Changed into
+|-
+| [[Phosani's Nightmare]] || 11153 || colspan = "4" | New ID
+|-
+| [[Phosani's Nightmare]] || 11154 || colspan = "4" | New ID
+|-
+| [[Phosani's Nightmare]] || 11155 || colspan = "4" | New ID
+|-
+| [[Swarm]] || 11156 || colspan = "4" | New ID
+|-
+| [[Sraracha]] || 11157 || colspan = "4" | New ID
+|-
+| [[Sraracha]] || 11158 || colspan = "4" | New ID
+|-
+| [[Sraracha]] || 11159 || colspan = "4" | New ID
+|-
+| [[Sraracha]] || 11160 || colspan = "4" | New ID
+|-
+| [[Little Parasaite]] || 8183 || colspan = "4" | New ID
+|-
+| [[Little Parasite]] || 8541 || colspan = "4" | New ID
+|-
+|rowspan="2"|[[Sraracha]]
+|rowspan="2"|2144
+|-
+|actions || ['Talk-to', None, 'Pick-up', None, None] || ['Talk-to', None, 'Metamorphosis', 'Pick-up', None]
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|2493
+|-
+|varbitId || 4153 || 12425
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|6171
+|-
+|varbitId || 4153 || 12425
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|6172
+|-
+|varbitId || 4153 || 12425
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|6704
+|-
+|varbitId || 4153 || 12425
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|6705
+|-
+|varbitId || 4153 || 12425
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|6706
+|-
+|varbitId || 4153 || 12425
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|6707
+|-
+|varbitId || 4153 || 12425
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|6708
+|-
+|varbitId || 4153 || 12425
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|6709
+|-
+|varbitId || 4153 || 12425
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|6710
+|-
+|varbitId || 4153 || 12425
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|6711
+|-
+|varbitId || 4153 || 12425
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|6712
+|-
+|varbitId || 4153 || 12425
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|6713
+|-
+|varbitId || 4153 || 12425
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|6714
+|-
+|varbitId || 4153 || 12425
+|-
+|rowspan="2"|[[Little Nightmare]]
+|rowspan="2"|9399
+|-
+|actions || ['Talk-to', None, 'Pick-up', None, None] || ['Talk-to', None, 'Metamorphosis', 'Pick-up', None]
+|-
+|rowspan="2"|[[Phosani's Nightmare]]
+|rowspan="2"|9417
+|-
+|models || [39186] || [42590]
+|-
+|rowspan="2"|[[Phosani's Nightmare]]
+|rowspan="2"|9418
+|-
+|models || [39188] || [42592]
+|-
+|rowspan="2"|[[Phosani's Nightmare]]
+|rowspan="2"|9420
+|-
+|models || [39185] || [42591]
+|-
+|rowspan="2"|[[Phosani's Nightmare]]
+|rowspan="2"|9421
+|-
+|models || [39195] || [42587]
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|9475
+|-
+|varbitId || 4153 || 12425
+|-
+|rowspan="2"|[[Soldier]]
+|rowspan="2"|11046
+|-
+|name || [[Solider]] || [[Soldier]]
+|-
+|}
+
+==Objects==
+{| class="wikitable sortable"
+!colspan='5'|Objects
+|-
+! Name !! ID !! Key !! Previous Value !! Changed into
+|-
+|rowspan="5"|[[null]]
+|rowspan="5"|399
+|-
+|animationID || -1 || 502
+|-
+| interactType || 2 || 0
+|-
+| supportsItems || 1 || 0
+|-
+| blocksProjectile || True || False
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|28850
+|-
+|configChangeDest || [-1, -1, -1, -1, -1, 399, 399, 399, 399, 399, 399, 399, 399, 399, 399, 399, -1] || [-1, -1, -1, -1, -1, 29733, 29733, 29733, 29733, 29733, 29733, 29733, 29733, 29733, 29733, 29733, -1]
+|-
+|rowspan="3"|[[null]]
+|rowspan="3"|33033
+|-
+|name || [[Tile]] || [[null]]
+|-
+| wallOrDoor || 1 || 0
+|-
+|rowspan="3"|[[null]]
+|rowspan="3"|33034
+|-
+|name || [[Tile]] || [[null]]
+|-
+| wallOrDoor || 1 || 0
+|-
+|rowspan="3"|[[null]]
+|rowspan="3"|33035
+|-
+|name || [[Tile]] || [[null]]
+|-
+| wallOrDoor || 1 || 0
+|-
+|rowspan="3"|[[null]]
+|rowspan="3"|33036
+|-
+|name || [[Tile]] || [[null]]
+|-
+| wallOrDoor || 1 || 0
+|-
+|rowspan="3"|[[null]]
+|rowspan="3"|41748
+|-
+|name || [[Tile]] || [[null]]
+|-
+| wallOrDoor || 1 || 0
+|-
+|rowspan="3"|[[null]]
+|rowspan="3"|41749
+|-
+|name || [[Tile]] || [[null]]
+|-
+| wallOrDoor || 1 || 0
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|41750
+|-
+|wallOrDoor || 1 || 0
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|41751
+|-
+|wallOrDoor || 1 || 0
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|41752
+|-
+|wallOrDoor || 1 || 0
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|41753
+|-
+|wallOrDoor || 1 || 0
+|-
+|}

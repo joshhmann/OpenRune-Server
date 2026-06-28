@@ -1,0 +1,1160 @@
+{{ToC}}
+==Items==
+===New Items===
+{| class="wikitable sortable"
+!colspan='11'|New Items
+|-
+! style=width:15em | Name !! ID !! Members !! Tradeable in GE !! Equipable !! Stackable !! Noteable !! Options !! Placeholder !! Cost !! Weight
+|-
+|-
+|}
+===Removed Items===
+{| class="wikitable sortable"
+!colspan='2'|Removed Items
+|-
+! style=width:15em | Name !! ID
+|-
+|-
+|}
+===Diff Items===
+{| class="wikitable sortable"
+!colspan='5'|Diff Items
+|-
+! style=width:15em | Name !! ID !! Key !! Previous Value !! New Value
+|-
+|rowspan="2"|[[Bullroarer]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#716 716]
+|-
+|name || [[Bull roarer]] || [[Bullroarer]]
+|-
+|rowspan="2"|[[Shaman's tome]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#729 729]
+|-
+|name || [[Shamans tome]] || [[Shaman's tome]]
+|-
+|rowspan="4"|[[Null]]
+|rowspan="4"|[https://chisel.weirdgloop.org/moid/item_id.html#5606 5606]
+|-
+|name || [[Makeover voucher]] || [[Null]]
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Use', None, None, None, 'Drop']
+|-
+| category || 0 || 15
+|-
+|rowspan="2"|[[Giant stopwatch]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#27414 27414]
+|-
+|weight || 15000 || 1500
+|-
+|rowspan="2"|[[Bronze speedrun trophy]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#27418 27418]
+|-
+|weight || 15000 || 750
+|-
+|rowspan="2"|[[Silver speedrun trophy]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#27420 27420]
+|-
+|weight || 15000 || 750
+|-
+|rowspan="2"|[[Gold speedrun trophy]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#27422 27422]
+|-
+|weight || 15000 || 1500
+|-
+|rowspan="2"|[[Platinum speedrun trophy]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#27424 27424]
+|-
+|weight || 15000 || 1500
+|-
+|}
+
+==Non-Player Characters==
+===New NPCs===
+{| class="wikitable sortable"
+!colspan='4'|New NPCs
+|-
+! style=width:15em | Name !! ID !! Combat Level !! Options
+|-
+| [[Aris]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11868 11868] || No Combat Level || Talk-to
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11869 11869] || 1 || None
+|-
+| [[Rana the Dyer]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11870 11870] || No Combat Level || Talk-to
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11871 11871] || 1 || None
+|-
+| [[Jalal the Drunk]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11872 11872] || No Combat Level || Talk-to
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11873 11873] || No Combat Level || None
+|-
+| [[Faisal the Barman]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11874 11874] || No Combat Level || Talk-to, Trade
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11875 11875] || 1 || None
+|-
+| [[Isma'il The Kebab Seller]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11876 11876] || No Combat Level || Talk-to
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11877 11877] || No Combat Level || None
+|-
+| [[Sami the Camel Man]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11878 11878] || No Combat Level || Talk-to, Trade
+|-
+| [[Hakeem the Mayor]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11879 11879] || No Combat Level || Talk-to
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11880 11880] || No Combat Level || None
+|-
+| [[Alisha the Hag]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11881 11881] || No Combat Level || Talk-to
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11882 11882] || No Combat Level || None
+|-
+| [[Badir the Snake Charmer]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11883 11883] || No Combat Level || Talk-to
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11884 11884] || 1 || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11885 11885] || 1 || None
+|-
+| [[Jasim the Camel]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11886 11886] || No Combat Level || Pet
+|-
+| [[Ibil the Camel]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11887 11887] || No Combat Level || Pet
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11888 11888] || 1 || None
+|-
+| [[Rashid the Operator]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11889 11889] || No Combat Level || Talk-to
+|-
+| [[Aris]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11890 11890] || No Combat Level || Talk-to
+|-
+| [[Aris]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11891 11891] || No Combat Level || Talk-to
+|-
+| [[White Knight]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11892 11892] || 36 || None
+|-
+| [[Paladin]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11893 11893] || 62 || None
+|-
+| [[Paladin]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11894 11894] || 62 || Attack
+|-
+| [[Soldier]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11895 11895] || 26 || None
+|-
+| [[Soldier]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11896 11896] || 26 || None
+|-
+| [[Soldier]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11897 11897] || 26 || None
+|-
+| [[Soldier]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11898 11898] || 26 || None
+|-
+| [[Soldier]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11899 11899] || 26 || None
+|-
+| [[Soldier]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11900 11900] || 26 || None
+|-
+| [[Paladin]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11901 11901] || 62 || Attack, Pickpocket
+|-
+| [[Knight of Ardougne]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11902 11902] || 46 || Attack, Pickpocket
+|-
+| [[Guard]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11903 11903] || No Combat Level || None
+|-
+| [[Guard]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11904 11904] || No Combat Level || None
+|-
+| [[Guard]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11905 11905] || No Combat Level || None
+|-
+| [[Captain]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11906 11906] || No Combat Level || Talk-to
+|-
+| [[Trainee Guard]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11907 11907] || No Combat Level || None
+|-
+| [[Trainee Guard]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11908 11908] || No Combat Level || None
+|-
+| [[Trainee Guard]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11909 11909] || No Combat Level || None
+|-
+| [[Trainee Guard]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11910 11910] || No Combat Level || None
+|-
+| [[Guard]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11911 11911] || 21 || Attack, Pickpocket, Trick-or-treat
+|-
+| [[Guard]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11912 11912] || 21 || Attack, Pickpocket, Trick-or-treat
+|-
+| [[Guard]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11913 11913] || 21 || Attack, Pickpocket, Trick-or-treat
+|-
+| [[Guard]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11914 11914] || 21 || Attack, Pickpocket, Trick-or-treat
+|-
+| [[Guard]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11915 11915] || 21 || Attack, Pickpocket, Trick-or-treat
+|-
+| [[Guard]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11916 11916] || 21 || Attack, Pickpocket, Trick-or-treat
+|-
+| [[Guard]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11917 11917] || 21 || Attack, Pickpocket, Trick-or-treat
+|-
+| [[Farmer]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11918 11918] || 7 || Attack, Pickpocket
+|-
+| [[Farmer]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11919 11919] || 7 || Attack, Pickpocket
+|-
+| [[Farmer]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11920 11920] || 7 || Attack, Pickpocket
+|-
+| [[Farmer]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11921 11921] || 7 || Attack, Pickpocket
+|-
+| [[Guard]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11922 11922] || 21 || Attack, Pickpocket, Trick-or-treat
+|-
+| [[Guard]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11923 11923] || 21 || Attack, Pickpocket, Trick-or-treat
+|-
+| [[Guard]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11924 11924] || 21 || Attack, Pickpocket, Trick-or-treat
+|-
+| [[Warrior]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11925 11925] || 24 || Attack, Pickpocket
+|-
+| [[Warrior]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11926 11926] || 24 || Attack, Pickpocket
+|-
+| [[Warrior]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11927 11927] || 24 || Attack, Pickpocket
+|-
+| [[Warrior]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11928 11928] || 24 || Attack, Pickpocket
+|-
+| [[Warrior]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11929 11929] || 24 || Attack, Pickpocket
+|-
+| [[Paladin]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11930 11930] || 62 || Attack, Pickpocket
+|-
+| [[Paladin]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11931 11931] || 62 || Attack, Pickpocket
+|-
+| [[Paladin]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11932 11932] || 62 || Attack, Pickpocket
+|-
+| [[Paladin]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11933 11933] || 62 || Attack, Pickpocket
+|-
+| [[Hero]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11934 11934] || 69 || Attack, Pickpocket
+|-
+| [[Hero]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11935 11935] || 69 || Attack, Pickpocket
+|-
+| [[Knight of Ardougne]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11936 11936] || 46 || Attack, Pickpocket
+|-
+| [[Guard]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11937 11937] || 20 || Attack, Pickpocket
+|-
+| [[Guard]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11938 11938] || 20 || Attack, Pickpocket
+|-
+| [[Guard]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11939 11939] || 20 || Attack, Pickpocket
+|-
+| [[Master Farmer]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11940 11940] || No Combat Level || Pickpocket
+|-
+| [[Master Farmer]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11941 11941] || No Combat Level || Pickpocket
+|-
+| [[Guard]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11942 11942] || 21 || Attack, Pickpocket, Trick-or-treat
+|-
+| [[Guard]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11943 11943] || 21 || Attack, Pickpocket, Trick-or-treat
+|-
+| [[Guard]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11944 11944] || 21 || Attack, Pickpocket, Trick-or-treat
+|-
+| [[Guard]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11945 11945] || 22 || Attack, Pickpocket, Trick-or-treat
+|-
+| [[Guard]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11946 11946] || 19 || Attack, Pickpocket, Trick-or-treat
+|-
+| [[Guard]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11947 11947] || 22 || Attack, Pickpocket, Trick-or-treat
+|-
+| [[White Knight]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11948 11948] || 36 || Attack
+|-
+| [[White Knight]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11949 11949] || 38 || Attack
+|-
+| [[White Knight]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11950 11950] || 39 || Attack
+|-
+| [[White Knight]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11951 11951] || 42 || Attack
+|-
+| [[Black Knight]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11952 11952] || 33 || Attack
+|-
+| [[Black Knight]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11953 11953] || 33 || Attack
+|-
+| [[Tribesman]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11954 11954] || 32 || Attack
+|-
+| [[Tribeswoman]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11955 11955] || 32 || Attack
+|-
+| [[Tribeswoman]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11956 11956] || 32 || Attack
+|-
+| [[Treznor]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11957 11957] || No Combat Level || Talk-to, Pay
+|-
+|-
+|}
+===Removed NPCs===
+{| class="wikitable sortable"
+!colspan='2'|Removed NPCs
+|-
+! style=width:15em | Name !! ID
+|-
+| [[Guard]] || [https://chisel.weirdgloop.org/moid/npc_id.html#10680 10680]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/npc_id.html#6257 6257]
+|-
+|-
+|}
+===Diff NPCs===
+{| class="wikitable sortable"
+!colspan='5'|Diff NPCs
+|-
+! style=width:15em | Name !! ID !! Key !! Previous Value !! New Value
+|-
+|rowspan="2"|[[Black Knight]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#516 516]
+|-
+|category || 0 || 1737
+|-
+|rowspan="2"|[[Black Knight]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#517 517]
+|-
+|category || 0 || 1738
+|-
+|rowspan="2"|[[Tribesman]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#530 530]
+|-
+|category || 0 || 1739
+|-
+|rowspan="2"|[[White Knight]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#1798 1798]
+|-
+|category || 0 || 1733
+|-
+|rowspan="2"|[[White Knight]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#1799 1799]
+|-
+|category || 0 || 1734
+|-
+|rowspan="2"|[[White Knight]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#1800 1800]
+|-
+|category || 0 || 1735
+|-
+|rowspan="2"|[[White Knight]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#1829 1829]
+|-
+|category || 0 || 1736
+|-
+|rowspan="4"|[[Warrior]]
+|rowspan="4"|[https://chisel.weirdgloop.org/moid/npc_id.html#3260 3260]
+|-
+|name || [[Warrior woman]] || [[Warrior]]
+|-
+| models || [390, 468, 337, 353, 432, 361, 376, 519, 541] || [390, 468, 337, 353, 432, 361, 376, 23178, 23179]
+|-
+| category || 0 || 1728
+|-
+|rowspan="3"|[[Guard]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/npc_id.html#3270 3270]
+|-
+| recolorToFind ||<span style = "background-color: #0b3618;color:white">25238</span>,<span style = "background-color: #524618;color:white">8741</span>,<span style = "background-color: #615656;color:white">61</span>||<span style = "background-color: #0b3618;color:white">25238</span>,<span style = "background-color: #524618;color:white">8741</span>,<span style = "background-color: #615656;color:white">61</span>,<span style = "background-color: #211707;color:white">6798</span>
+|-
+| recolorToReplace ||<span style = "background-color: #16160d;color:white">10508</span>,<span style = "background-color: #2d1e05;color:white">6930</span>,<span style = "background-color: #2a1c0d;color:white">5652</span>||<span style = "background-color: #16160d;color:white">10508</span>,<span style = "background-color: #2d1e05;color:white">6930</span>,<span style = "background-color: #2a1c0d;color:white">5652</span>,<span style = "background-color: #a26905;color:white">7097</span>
+|-
+|rowspan="3"|[[Guard]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/npc_id.html#3273 3273]
+|-
+| recolorToFind ||<span style = "background-color: #0b3618;color:white">25238</span>,<span style = "background-color: #524618;color:white">8741</span>,<span style = "background-color: #615656;color:white">61</span>||<span style = "background-color: #0b3618;color:white">25238</span>,<span style = "background-color: #524618;color:white">8741</span>,<span style = "background-color: #615656;color:white">61</span>,<span style = "background-color: #965f3a;color:white">4550</span>,<span style = "background-color: #211707;color:white">6798</span>
+|-
+| recolorToReplace ||<span style = "background-color: #16160d;color:white">10508</span>,<span style = "background-color: #2d1e05;color:white">6930</span>,<span style = "background-color: #2a1c0d;color:white">5652</span>||<span style = "background-color: #16160d;color:white">10508</span>,<span style = "background-color: #2d1e05;color:white">6930</span>,<span style = "background-color: #2a1c0d;color:white">5652</span>,<span style = "background-color: #b27142;color:white">4562</span>,<span style = "background-color: #893a0f;color:white">3891</span>
+|-
+|rowspan="4"|[[Guard]]
+|rowspan="4"|[https://chisel.weirdgloop.org/moid/npc_id.html#3274 3274]
+|-
+|models || [233, 253, 9458, 9450, 176, 254, 185, 563, 215] || [233, 246, 9458, 9450, 176, 254, 185, 563, 215]
+|-
+| recolorToFind ||<span style = "background-color: #0b3618;color:white">25238</span>,<span style = "background-color: #524618;color:white">8741</span>,<span style = "background-color: #615656;color:white">61</span>||<span style = "background-color: #0b3618;color:white">25238</span>,<span style = "background-color: #524618;color:white">8741</span>,<span style = "background-color: #615656;color:white">61</span>,<span style = "background-color: #965f3a;color:white">4550</span>
+|-
+| recolorToReplace ||<span style = "background-color: #16160d;color:white">10508</span>,<span style = "background-color: #2d1e05;color:white">6930</span>,<span style = "background-color: #2a1c0d;color:white">5652</span>||<span style = "background-color: #16160d;color:white">10508</span>,<span style = "background-color: #2d1e05;color:white">6930</span>,<span style = "background-color: #2a1c0d;color:white">5652</span>,<span style = "background-color: #36260b;color:white">6806</span>
+|-
+|rowspan="2"|[[Paladin]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#3293 3293]
+|-
+|category || 0 || 1729
+|-
+|rowspan="2"|[[Paladin]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#3294 3294]
+|-
+|category || 0 || 1729
+|-
+|rowspan="2"|[[Hero]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#3295 3295]
+|-
+|category || 0 || 1730
+|-
+|rowspan="2"|[[Knight of Ardougne]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#3297 3297]
+|-
+|category || 0 || 1731
+|-
+|rowspan="6"|[[Ali the dyer]]
+|rowspan="6"|[https://chisel.weirdgloop.org/moid/npc_id.html#3442 3442]
+|-
+|standingAnimation || 808 || -1
+|-
+| walkingAnimation || 819 || -1
+|-
+| rotateLeftAnimation || 821 || -1
+|-
+| rotateRightAnimation || 822 || -1
+|-
+| hasRenderPriority || True || False
+|-
+|rowspan="3"|[[Drunken Ali]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/npc_id.html#3534 3534]
+|-
+|standingAnimation || 1322 || -1
+|-
+| hasRenderPriority || True || False
+|-
+|rowspan="6"|[[Ali the Barman]]
+|rowspan="6"|[https://chisel.weirdgloop.org/moid/npc_id.html#3535 3535]
+|-
+|standingAnimation || 808 || -1
+|-
+| walkingAnimation || 819 || -1
+|-
+| rotateLeftAnimation || 821 || -1
+|-
+| rotateRightAnimation || 822 || -1
+|-
+| hasRenderPriority || True || False
+|-
+|rowspan="6"|[[Ali the Kebab seller]]
+|rowspan="6"|[https://chisel.weirdgloop.org/moid/npc_id.html#3536 3536]
+|-
+|standingAnimation || 808 || -1
+|-
+| walkingAnimation || 819 || -1
+|-
+| rotateLeftAnimation || 821 || -1
+|-
+| rotateRightAnimation || 822 || -1
+|-
+| hasRenderPriority || True || False
+|-
+|rowspan="6"|[[Ali the Camel Man]]
+|rowspan="6"|[https://chisel.weirdgloop.org/moid/npc_id.html#3538 3538]
+|-
+|standingAnimation || 808 || -1
+|-
+| walkingAnimation || 819 || -1
+|-
+| rotateLeftAnimation || 821 || -1
+|-
+| rotateRightAnimation || 822 || -1
+|-
+| hasRenderPriority || True || False
+|-
+|rowspan="5"|[[Ali the Mayor]]
+|rowspan="5"|[https://chisel.weirdgloop.org/moid/npc_id.html#3540 3540]
+|-
+|standingAnimation || 808 || -1
+|-
+| walkingAnimation || 819 || -1
+|-
+| rotateLeftAnimation || 821 || -1
+|-
+| rotateRightAnimation || 822 || -1
+|-
+|rowspan="4"|[[Ali the Hag]]
+|rowspan="4"|[https://chisel.weirdgloop.org/moid/npc_id.html#3541 3541]
+|-
+|standingAnimation || 808 || -1
+|-
+| walkingAnimation || 1146 || -1
+|-
+| hasRenderPriority || True || False
+|-
+|rowspan="4"|[[Ali the Snake Charmer]]
+|rowspan="4"|[https://chisel.weirdgloop.org/moid/npc_id.html#3542 3542]
+|-
+|standingAnimation || 1879 || -1
+|-
+| hasRenderPriority || True || False
+|-
+| rotationSpeed || 0 || 32
+|-
+|rowspan="4"|[[Ali the Camel]]
+|rowspan="4"|[https://chisel.weirdgloop.org/moid/npc_id.html#3543 3543]
+|-
+|standingAnimation || 51 || -1
+|-
+| walkingAnimation || 45 || -1
+|-
+| category || 0 || 1725
+|-
+|rowspan="6"|[[Ali the Operator]]
+|rowspan="6"|[https://chisel.weirdgloop.org/moid/npc_id.html#3548 3548]
+|-
+|standingAnimation || 808 || -1
+|-
+| walkingAnimation || 819 || -1
+|-
+| rotateLeftAnimation || 821 || -1
+|-
+| rotateRightAnimation || 822 || -1
+|-
+| hasRenderPriority || True || False
+|-
+|rowspan="2"|[[Legends' Guard]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#3951 3951]
+|-
+|name || [[Legends guard]] || [[Legends' Guard]]
+|-
+|rowspan="2"|[[Legends' Guard]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#3952 3952]
+|-
+|name || [[Legends guard]] || [[Legends' Guard]]
+|-
+|rowspan="2"|[[Tormented Warrior]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#3959 3959]
+|-
+|name || [[Jungle savage]] || [[Tormented Warrior]]
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#4262 4262]
+|-
+|category || 0 || 1726
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#4267 4267]
+|-
+|category || 0 || 1727
+|-
+|rowspan="2"|[[Malcolm]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#4411 4411]
+|-
+|name || [[Alice's husband]] || [[Malcolm]]
+|-
+|rowspan="2"|[[Malcolm]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#4412 4412]
+|-
+|name || [[Alice's husband]] || [[Malcolm]]
+|-
+|rowspan="2"|[[Malcolm]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#4413 4413]
+|-
+|name || [[Alice's husband]] || [[Malcolm]]
+|-
+|rowspan="2"|[[Malcolm]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#4414 4414]
+|-
+|name || [[Alice's husband]] || [[Malcolm]]
+|-
+|rowspan="4"|[[null]]
+|rowspan="4"|[https://chisel.weirdgloop.org/moid/npc_id.html#4847 4847]
+|-
+|name || [[Gypsy]] || [[null]]
+|-
+| actions || ['Talk-to', None, None, None, None] || [None, None, None, None, None]
+|-
+| varbitId || -1 || 1850
+|-
+|rowspan="4"|[[null]]
+|rowspan="4"|[https://chisel.weirdgloop.org/moid/npc_id.html#4848 4848]
+|-
+|name || [[Gypsy]] || [[null]]
+|-
+| actions || ['Talk-to', None, None, None, None] || [None, None, None, None, None]
+|-
+| varbitId || -1 || 1850
+|-
+|rowspan="7"|[[null]]
+|rowspan="7"|[https://chisel.weirdgloop.org/moid/npc_id.html#5082 5082]
+|-
+|name || [[Gypsy Aris]] || [[null]]
+|-
+| actions || ['Talk-to', None, None, None, None] || [None, None, None, None, None]
+|-
+| combatLevel || 0 || 62
+|-
+| hasRenderPriority || True || False
+|-
+| varbitId || -1 || 9016
+|-
+| category || 0 || 1726
+|-
+|rowspan="2"|[[Guard]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#5418 5418]
+|-
+|category || 0 || 1732
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#6134 6134]
+|-
+|varbitId || 344 || 14604
+|-
+|rowspan="5"|[[null]]
+|rowspan="5"|[https://chisel.weirdgloop.org/moid/npc_id.html#6256 6256]
+|-
+|combatLevel || 0 || 46
+|-
+| hasRenderPriority || True || False
+|-
+| varbitId || 1850 || 9016
+|-
+| category || 0 || 1727
+|-
+|rowspan="4"|[[Guard]]
+|rowspan="4"|[https://chisel.weirdgloop.org/moid/npc_id.html#6582 6582]
+|-
+|models || [25671, 25685, 25684] || [46760, 46761, 176, 46762, 219, 4954, 25684, 248, 518]
+|-
+| ambient || 20 || 0
+|-
+| contrast || 15 || 0
+|-
+|rowspan="2"|[[Guard]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#6583 6583]
+|-
+|models || [25671, 25685, 25684] || [46760, 46761, 176, 46762, 219, 4954, 25684, 248, 518]
+|-
+|rowspan="4"|[[Guard]]
+|rowspan="4"|[https://chisel.weirdgloop.org/moid/npc_id.html#6701 6701]
+|-
+|models || [25671, 25685, 25684] || [46760, 46761, 176, 46762, 219, 4954, 25684, 248, 518]
+|-
+| ambient || 20 || 0
+|-
+| contrast || 15 || 0
+|-
+|rowspan="5"|[[null]]
+|rowspan="5"|[https://chisel.weirdgloop.org/moid/npc_id.html#6708 6708]
+|-
+|standingAnimation || 6487 || 808
+|-
+| walkingAnimation || 6486 || 819
+|-
+| rotateLeftAnimation || -1 || 821
+|-
+| rotateRightAnimation || -1 || 822
+|-
+|rowspan="5"|[[null]]
+|rowspan="5"|[https://chisel.weirdgloop.org/moid/npc_id.html#6709 6709]
+|-
+|standingAnimation || 6487 || 808
+|-
+| walkingAnimation || 6486 || 819
+|-
+| rotateLeftAnimation || -1 || 821
+|-
+| rotateRightAnimation || -1 || 822
+|-
+|rowspan="5"|[[null]]
+|rowspan="5"|[https://chisel.weirdgloop.org/moid/npc_id.html#6713 6713]
+|-
+|standingAnimation || 6487 || 808
+|-
+| walkingAnimation || 6486 || 819
+|-
+| rotateLeftAnimation || -1 || 821
+|-
+| rotateRightAnimation || -1 || 822
+|-
+|rowspan="2"|[[Okina]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#7041 7041]
+|-
+|name || [[Enoch]] || [[Okina]]
+|-
+|rowspan="6"|[[Soldier]]
+|rowspan="6"|[https://chisel.weirdgloop.org/moid/npc_id.html#8160 8160]
+|-
+|models || [25671, 25685, 26424] || [46760, 46761, 176, 46762, 219, 4954, 26424, 246, 518]
+|-
+| standingAnimation || 6487 || 808
+|-
+| walkingAnimation || 6486 || 819
+|-
+| rotateLeftAnimation || -1 || 821
+|-
+| rotateRightAnimation || -1 || 822
+|-
+|rowspan="8"|[[Soldier]]
+|rowspan="8"|[https://chisel.weirdgloop.org/moid/npc_id.html#8168 8168]
+|-
+|models || [25671, 25685, 26424] || [46760, 46761, 176, 46762, 219, 4954, 26424, 246, 518]
+|-
+| standingAnimation || 6487 || 808
+|-
+| walkingAnimation || 6486 || 819
+|-
+| rotateLeftAnimation || -1 || 821
+|-
+| rotateRightAnimation || -1 || 822
+|-
+| ambient || 20 || 0
+|-
+| contrast || 15 || 0
+|-
+|rowspan="2"|[[Paladin]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#8853 8853]
+|-
+|category || 0 || 1726
+|-
+|rowspan="2"|[[Knight of Ardougne]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#8854 8854]
+|-
+|category || 0 || 1727
+|-
+|}
+
+==Objects==
+===New Objects=== 
+{| class="wikitable sortable"
+!colspan='3'|New Objects
+|-
+! style=width:15em | Name !! ID !! Options
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#46318 46318] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#46319 46319] || None
+|-
+| [[Paladin]] || [https://chisel.weirdgloop.org/moid/object_id.html#46320 46320] || None
+|-
+| [[Soldier]] || [https://chisel.weirdgloop.org/moid/object_id.html#46321 46321] || None
+|-
+| [[Soldier]] || [https://chisel.weirdgloop.org/moid/object_id.html#46322 46322] || None
+|-
+|-
+|}
+===Removed Objects===
+{| class="wikitable sortable"
+!colspan='2'|Removed Objects
+|-
+! style=width:15em | Name !! ID
+|-
+|-
+|}
+===Diff Objects===
+{| class="wikitable sortable"
+!colspan='5'|Diff Objects
+|-
+! style=width:15em | Name !! ID !! Key !! Previous Value !! New Value
+|-
+|rowspan="8"|[[null]]
+|rowspan="8"|[https://chisel.weirdgloop.org/moid/object_id.html#83 83]
+|-
+|interactType || 2 || 0
+|-
+| mapSceneID || 22 || -1
+|-
+| shadow || False || True
+|-
+| supportsItems || 1 || 0
+|-
+| blocksProjectile || True || False
+|-
+| objectModels || [2214, 4873, 16239, 2215, 16238] || [2214, 46749, 4873, 46750, 16239, 2215, 16238]
+|-
+| objectTypes || [0, 2, 4, 9, 22] || [0, 1, 2, 3, 4, 9, 22]
+|-
+|rowspan="8"|[[null]]
+|rowspan="8"|[https://chisel.weirdgloop.org/moid/object_id.html#84 84]
+|-
+|interactType || 2 || 0
+|-
+| modelSizeX || 128 || 1
+|-
+| modelSizeHeight || 128 || 1
+|-
+| modelSizeY || 128 || 1
+|-
+| supportsItems || 1 || 0
+|-
+| blocksProjectile || True || False
+|-
+| objectModels || [2214, 4873, 16239, 2215, 16238] || [16238]
+|-
+|rowspan="4"|[[null]]
+|rowspan="4"|[https://chisel.weirdgloop.org/moid/object_id.html#85 85]
+|-
+|blocksProjectile || False || True
+|-
+| objectModels || [2214, 4873, 16239, 2215, 16238] || [2214, 46749, 4873, 46750, 16239, 2215, 16238]
+|-
+| objectTypes || [0, 2, 4, 9, 22] || [0, 1, 2, 3, 4, 9, 22]
+|-
+|rowspan="8"|[[null]]
+|rowspan="8"|[https://chisel.weirdgloop.org/moid/object_id.html#2639 2639]
+|-
+|sizeX || 2 || 1
+|-
+| sizeY || 2 || 1
+|-
+| mapSceneID || -1 || 22
+|-
+| shadow || True || False
+|-
+| blocksProjectile || True || False
+|-
+| objectModels || [2214, 4873, 16239, 2215, 16238] || [2214, 46749, 4873, 46750, 16239, 2215, 16238]
+|-
+| objectTypes || [0, 2, 4, 9, 22] || [0, 1, 2, 3, 4, 9, 22]
+|-
+|rowspan="2"|[[Crate]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#2905 2905]
+|-
+|actions || ['Look', 'Search', None, None, None] || ['Search', None, None, None, None]
+|-
+|rowspan="2"|[[Table]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#2906 2906]
+|-
+|actions || ['Look-at', 'Search', None, None, None] || ['Search', None, None, None, None]
+|-
+|rowspan="2"|[[Desk]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#2910 2910]
+|-
+|actions || ['Look', 'Search', None, None, None] || ['search', None, None, None, None]
+|-
+|rowspan="2"|[[Bookcase]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#2911 2911]
+|-
+|actions || ['Look', 'Search', None, None, None] || ['Search', None, None, None, None]
+|-
+|rowspan="2"|[[Jagged wall]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#2926 2926]
+|-
+|actions || ['Look', 'Jump-over', None, None, None] || ['Jump-over', None, None, None, None]
+|-
+|rowspan="2"|[[Tall Reeds]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#2944 2944]
+|-
+|actions || ['Look', 'Search', None, None, None] || ['Take', None, None, None, None]
+|-
+|rowspan="2"|[[Furnace]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#2966 2966]
+|-
+|actions || ['Look', 'Search', None, None, None] || ['Search', None, None, None, None]
+|-
+|rowspan="2"|[[Shimmering field]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#2971 2971]
+|-
+|actions || ['Walk-through', 'Look', None, None, None] || ['Walk-through', None, None, None, None]
+|-
+|rowspan="3"|[[null]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#3550 3550]
+|-
+|objectModels || [2214, 4873, 16239, 2215, 16238] || [2214, 46749, 4873, 46750, 16239, 2215, 16238]
+|-
+| objectTypes || [0, 2, 4, 9, 22] || [0, 1, 2, 3, 4, 9, 22]
+|-
+|rowspan="4"|[[null]]
+|rowspan="4"|[https://chisel.weirdgloop.org/moid/object_id.html#4451 4451]
+|-
+|mapSceneID || 22 || -1
+|-
+| objectModels || [2214, 4873, 16239, 2215, 16238] || [2214, 46749, 4873, 46750, 16239, 2215, 16238]
+|-
+| objectTypes || [0, 2, 4, 9, 22] || [0, 1, 2, 3, 4, 9, 22]
+|-
+|rowspan="3"|[[null]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#4657 4657]
+|-
+|objectModels || [2214, 4873, 16239, 2215, 16238] || [2214, 46749, 4873, 46750, 16239, 2215, 16238]
+|-
+| objectTypes || [0, 2, 4, 9, 22] || [0, 1, 2, 3, 4, 9, 22]
+|-
+|rowspan="5"|[[null]]
+|rowspan="5"|[https://chisel.weirdgloop.org/moid/object_id.html#4909 4909]
+|-
+|interactType || 2 || 0
+|-
+| supportsItems || 1 || 0
+|-
+| objectModels || [2214, 4873, 16239, 2215, 16238] || [2214, 46749, 4873, 46750, 16239, 2215, 16238]
+|-
+| objectTypes || [0, 2, 4, 9, 22] || [0, 1, 2, 3, 4, 9, 22]
+|-
+|rowspan="3"|[[null]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#5974 5974]
+|-
+|objectModels || [2214, 4873, 16239, 2215, 16238] || [2214, 46749, 4873, 46750, 16239, 2215, 16238]
+|-
+| objectTypes || [0, 2, 4, 9, 22] || [0, 1, 2, 3, 4, 9, 22]
+|-
+|rowspan="7"|[[null]]
+|rowspan="7"|[https://chisel.weirdgloop.org/moid/object_id.html#7261 7261]
+|-
+|interactType || 2 || 0
+|-
+| shadow || False || True
+|-
+| supportsItems || 1 || 0
+|-
+| blocksProjectile || True || False
+|-
+| objectModels || [2214, 4873, 16239, 2215, 16238] || [2214, 46749, 4873, 46750, 16239, 2215, 16238]
+|-
+| objectTypes || [0, 2, 4, 9, 22] || [0, 1, 2, 3, 4, 9, 22]
+|-
+|rowspan="6"|[[null]]
+|rowspan="6"|[https://chisel.weirdgloop.org/moid/object_id.html#7526 7526]
+|-
+|interactType || 0 || 2
+|-
+| supportsItems || 0 || 1
+|-
+| blocksProjectile || False || True
+|-
+| objectModels || [2214, 4873, 16239, 2215, 16238] || [2214, 46749, 4873, 46750, 16239, 2215, 16238]
+|-
+| objectTypes || [0, 2, 4, 9, 22] || [0, 1, 2, 3, 4, 9, 22]
+|-
+|rowspan="3"|[[null]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#9289 9289]
+|-
+|objectModels || [2214, 4873, 16239, 2215, 16238] || [2214, 46749, 4873, 46750, 16239, 2215, 16238]
+|-
+| objectTypes || [0, 2, 4, 9, 22] || [0, 1, 2, 3, 4, 9, 22]
+|-
+|rowspan="3"|[[]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#10606 10606]
+|-
+|objectModels || [2214, 4873, 16239, 2215, 16238] || [2214, 46749, 4873, 46750, 16239, 2215, 16238]
+|-
+| objectTypes || [0, 2, 4, 9, 22] || [0, 1, 2, 3, 4, 9, 22]
+|-
+|rowspan="3"|[[]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#11769 11769]
+|-
+|objectModels || [2214, 4873, 16239, 2215, 16238] || [2214, 46749, 4873, 46750, 16239, 2215, 16238]
+|-
+| objectTypes || [0, 2, 4, 9, 22] || [0, 1, 2, 3, 4, 9, 22]
+|-
+|rowspan="3"|[[Nothing]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#13141 13141]
+|-
+|objectModels || [2214, 4873, 16239, 2215, 16238] || [2214, 46749, 4873, 46750, 16239, 2215, 16238]
+|-
+| objectTypes || [0, 2, 4, 9, 22] || [0, 1, 2, 3, 4, 9, 22]
+|-
+|rowspan="6"|[[null]]
+|rowspan="6"|[https://chisel.weirdgloop.org/moid/object_id.html#13506 13506]
+|-
+|interactType || 1 || 2
+|-
+| shadow || False || True
+|-
+| blocksProjectile || False || True
+|-
+| objectModels || [2214, 4873, 16239, 2215, 16238] || [2214, 46749, 4873, 46750, 16239, 2215, 16238]
+|-
+| objectTypes || [0, 2, 4, 9, 22] || [0, 1, 2, 3, 4, 9, 22]
+|-
+|rowspan="3"|[[Nothing]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#13697 13697]
+|-
+|objectModels || [2214, 4873, 16239, 2215, 16238] || [2214, 46749, 4873, 46750, 16239, 2215, 16238]
+|-
+| objectTypes || [0, 2, 4, 9, 22] || [0, 1, 2, 3, 4, 9, 22]
+|-
+|rowspan="3"|[[null]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#13725 13725]
+|-
+|objectModels || [2214, 4873, 16239, 2215, 16238] || [2214, 46749, 4873, 46750, 16239, 2215, 16238]
+|-
+| objectTypes || [0, 2, 4, 9, 22] || [0, 1, 2, 3, 4, 9, 22]
+|-
+|rowspan="3"|[[Wall]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#14927 14927]
+|-
+|objectModels || [2214, 4873, 16239, 2215, 16238] || [2214, 46749, 4873, 46750, 16239, 2215, 16238]
+|-
+| objectTypes || [0, 2, 4, 9, 22] || [0, 1, 2, 3, 4, 9, 22]
+|-
+|rowspan="3"|[[Combat ring space]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#15283 15283]
+|-
+|objectModels || [2214, 4873, 16239, 2215, 16238] || [2214, 46749, 4873, 46750, 16239, 2215, 16238]
+|-
+| objectTypes || [0, 2, 4, 9, 22] || [0, 1, 2, 3, 4, 9, 22]
+|-
+|rowspan="3"|[[Combat ring space]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#15284 15284]
+|-
+|objectModels || [2214, 4873, 16239, 2215, 16238] || [2214, 46749, 4873, 46750, 16239, 2215, 16238]
+|-
+| objectTypes || [0, 2, 4, 9, 22] || [0, 1, 2, 3, 4, 9, 22]
+|-
+|rowspan="3"|[[Combat ring space]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#15285 15285]
+|-
+|objectModels || [2214, 4873, 16239, 2215, 16238] || [2214, 46749, 4873, 46750, 16239, 2215, 16238]
+|-
+| objectTypes || [0, 2, 4, 9, 22] || [0, 1, 2, 3, 4, 9, 22]
+|-
+|rowspan="3"|[[Wooden Beams]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#15608 15608]
+|-
+|objectModels || [2214, 4873, 16239, 2215, 16238] || [2214, 46749, 4873, 46750, 16239, 2215, 16238]
+|-
+| objectTypes || [0, 2, 4, 9, 22] || [0, 1, 2, 3, 4, 9, 22]
+|-
+|rowspan="10"|[[null]]
+|rowspan="10"|[https://chisel.weirdgloop.org/moid/object_id.html#20269 20269]
+|-
+|sizeX || 1 || 2
+|-
+| sizeY || 1 || 2
+|-
+| interactType || 0 || 2
+|-
+| mapSceneID || 22 || -1
+|-
+| shadow || False || True
+|-
+| supportsItems || 0 || 1
+|-
+| blocksProjectile || False || True
+|-
+| objectModels || [2214, 4873, 16239, 2215, 16238] || [2214, 46749, 4873, 46750, 16239, 2215, 16238]
+|-
+| objectTypes || [0, 2, 4, 9, 22] || [0, 1, 2, 3, 4, 9, 22]
+|-
+|rowspan="7"|[[null]]
+|rowspan="7"|[https://chisel.weirdgloop.org/moid/object_id.html#20980 20980]
+|-
+|interactType || 0 || 2
+|-
+| shadow || True || False
+|-
+| supportsItems || 0 || 1
+|-
+| blocksProjectile || False || True
+|-
+| objectModels || [2214, 4873, 16239, 2215, 16238] || [2214, 46749, 4873, 46750, 16239, 2215, 16238]
+|-
+| objectTypes || [0, 2, 4, 9, 22] || [0, 1, 2, 3, 4, 9, 22]
+|-
+|rowspan="6"|[[null]]
+|rowspan="6"|[https://chisel.weirdgloop.org/moid/object_id.html#24720 24720]
+|-
+|interactType || 0 || 1
+|-
+| shadow || True || False
+|-
+| supportsItems || 0 || 1
+|-
+| objectModels || [2214, 4873, 16239, 2215, 16238] || [2214, 46749, 4873, 46750, 16239, 2215, 16238]
+|-
+| objectTypes || [0, 2, 4, 9, 22] || [0, 1, 2, 3, 4, 9, 22]
+|-
+|rowspan="3"|[[Barricade]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#25636 25636]
+|-
+|objectModels || [2214, 4873, 16239, 2215, 16238] || [2214, 46749, 4873, 46750, 16239, 2215, 16238]
+|-
+| objectTypes || [0, 2, 4, 9, 22] || [0, 1, 2, 3, 4, 9, 22]
+|-
+|rowspan="3"|[[Empty sack]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#26677 26677]
+|-
+|objectModels || [2214, 4873, 16239, 2215, 16238] || [2214, 46749, 4873, 46750, 16239, 2215, 16238]
+|-
+| objectTypes || [0, 2, 4, 9, 22] || [0, 1, 2, 3, 4, 9, 22]
+|-
+|rowspan="3"|[[Sack]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#26678 26678]
+|-
+|objectModels || [2214, 4873, 16239, 2215, 16238] || [2214, 46749, 4873, 46750, 16239, 2215, 16238]
+|-
+| objectTypes || [0, 2, 4, 9, 22] || [0, 1, 2, 3, 4, 9, 22]
+|-
+|rowspan="3"|[[]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#27122 27122]
+|-
+|objectModels || [2214, 4873, 16239, 2215, 16238] || [2214, 46749, 4873, 46750, 16239, 2215, 16238]
+|-
+| objectTypes || [0, 2, 4, 9, 22] || [0, 1, 2, 3, 4, 9, 22]
+|-
+|rowspan="3"|[[Ore sack]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#28592 28592]
+|-
+|objectModels || [2214, 4873, 16239, 2215, 16238] || [2214, 46749, 4873, 46750, 16239, 2215, 16238]
+|-
+| objectTypes || [0, 2, 4, 9, 22] || [0, 1, 2, 3, 4, 9, 22]
+|-
+|rowspan="3"|[[Rocks]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#28753 28753]
+|-
+|objectModels || [2214, 4873, 16239, 2215, 16238] || [2214, 46749, 4873, 46750, 16239, 2215, 16238]
+|-
+| objectTypes || [0, 2, 4, 9, 22] || [0, 1, 2, 3, 4, 9, 22]
+|-
+|rowspan="3"|[[Pillar]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#28759 28759]
+|-
+|objectModels || [2214, 4873, 16239, 2215, 16238] || [2214, 46749, 4873, 46750, 16239, 2215, 16238]
+|-
+| objectTypes || [0, 2, 4, 9, 22] || [0, 1, 2, 3, 4, 9, 22]
+|-
+|rowspan="3"|[[Gap]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#28765 28765]
+|-
+|objectModels || [2214, 4873, 16239, 2215, 16238] || [2214, 46749, 4873, 46750, 16239, 2215, 16238]
+|-
+| objectTypes || [0, 2, 4, 9, 22] || [0, 1, 2, 3, 4, 9, 22]
+|-
+|rowspan="2"|[[Paladin]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#31814 31814]
+|-
+|objectModels || [29676] || [46781]
+|-
+|rowspan="2"|[[Paladin]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#31815 31815]
+|-
+|objectModels || [29678] || [46786]
+|-
+|rowspan="2"|[[White Knight]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#31817 31817]
+|-
+|objectModels || [29679] || [46782]
+|-
+|rowspan="3"|[[Soldier]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#31818 31818]
+|-
+|animationID || 7945 || -1
+|-
+| objectModels || [25671, 25685, 26424] || [46787]
+|-
+|rowspan="3"|[[Soldier]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#31819 31819]
+|-
+|animationID || 7941 || -1
+|-
+| objectModels || [25671, 25685, 26424] || [46777]
+|-
+|rowspan="3"|[[]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#38847 38847]
+|-
+|objectModels || [2214, 4873, 16239, 2215, 16238] || [2214, 46749, 4873, 46750, 16239, 2215, 16238]
+|-
+| objectTypes || [0, 2, 4, 9, 22] || [0, 1, 2, 3, 4, 9, 22]
+|-
+|rowspan="4"|[[null]]
+|rowspan="4"|[https://chisel.weirdgloop.org/moid/object_id.html#38848 38848]
+|-
+|mapSceneID || -1 || 22
+|-
+| objectModels || [2214, 4873, 16239, 2215, 16238] || [2214, 46749, 4873, 46750, 16239, 2215, 16238]
+|-
+| objectTypes || [0, 2, 4, 9, 22] || [0, 1, 2, 3, 4, 9, 22]
+|-
+|rowspan="3"|[[null]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#43859 43859]
+|-
+|objectModels || [2214, 4873, 16239, 2215, 16238] || [2214, 46749, 4873, 46750, 16239, 2215, 16238]
+|-
+| objectTypes || [0, 2, 4, 9, 22] || [0, 1, 2, 3, 4, 9, 22]
+|-
+|rowspan="3"|[[]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#44548 44548]
+|-
+|objectModels || [2214, 4873, 16239, 2215, 16238] || [2214, 46749, 4873, 46750, 16239, 2215, 16238]
+|-
+| objectTypes || [0, 2, 4, 9, 22] || [0, 1, 2, 3, 4, 9, 22]
+|-
+|rowspan="6"|[[null]]
+|rowspan="6"|[https://chisel.weirdgloop.org/moid/object_id.html#44603 44603]
+|-
+|mapSceneID || -1 || 22
+|-
+| shadow || True || False
+|-
+| blocksProjectile || True || False
+|-
+| objectModels || [2214, 4873, 16239, 2215, 16238] || [2214, 46749, 4873, 46750, 16239, 2215, 16238]
+|-
+| objectTypes || [0, 2, 4, 9, 22] || [0, 1, 2, 3, 4, 9, 22]
+|-
+|rowspan="3"|[[]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#44772 44772]
+|-
+|objectModels || [2214, 4873, 16239, 2215, 16238] || [2214, 46749, 4873, 46750, 16239, 2215, 16238]
+|-
+| objectTypes || [0, 2, 4, 9, 22] || [0, 1, 2, 3, 4, 9, 22]
+|-
+|rowspan="3"|[[]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#46148 46148]
+|-
+|objectModels || [2214, 4873, 16239, 2215, 16238] || [2214, 46749, 4873, 46750, 16239, 2215, 16238]
+|-
+| objectTypes || [0, 2, 4, 9, 22] || [0, 1, 2, 3, 4, 9, 22]
+|-
+|}

@@ -1,6 +1,5 @@
 package org.rsmod.api.specials.weapon
 
-import dev.openrune.types.ItemServerType
 import org.rsmod.api.enums.SaEnums.sa_descriptions
 import org.rsmod.api.enums.SaEnums.sa_energy_requirements
 import org.rsmod.api.specials.energy.SpecialAttackEnergy

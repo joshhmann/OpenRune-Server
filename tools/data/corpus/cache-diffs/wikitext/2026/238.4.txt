@@ -1,0 +1,560 @@
+__TOC__
+==Objects==
+===New Objects===
+{| class="wikitable sortable sticky-header mw-collapsible"
+|-
+! colspan="4" | New Objects
+|-
+! style="width: 15em" | name !! id !! gameVal !! ops
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#29546 29546][https://abextm.github.io/cache2/#/viewer/obj/29546 (1)] || 1v1arena_dungeon_lowwall || 
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#29547 29547][https://abextm.github.io/cache2/#/viewer/obj/29547 (1)] || 1v1arena_dungeon_lowwall_pillar || 
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#29548 29548][https://abextm.github.io/cache2/#/viewer/obj/29548 (1)] || 1v1arena_dungeon_pillar_dark01 || 
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#29549 29549][https://abextm.github.io/cache2/#/viewer/obj/29549 (1)] || 1v1arena_dungeon_pillar_dark02 || 
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#29550 29550][https://abextm.github.io/cache2/#/viewer/obj/29550 (1)] || 1v1arena_wallshield || 
+|-
+| [[Shield]] || [https://chisel.weirdgloop.org/moid/object_id.html#29551 29551][https://abextm.github.io/cache2/#/viewer/obj/29551 (1)] || 1v1arena_wallshield_wide || 
+|-
+| [[Brazier]] || [https://chisel.weirdgloop.org/moid/object_id.html#29552 29552][https://abextm.github.io/cache2/#/viewer/obj/29552 (1)] || 1v1arena_dungeon_brazier_wide || 
+|-
+| [[Brazier]] || [https://chisel.weirdgloop.org/moid/object_id.html#29553 29553][https://abextm.github.io/cache2/#/viewer/obj/29553 (1)] || 1v1arena_dungeon_brazier_blue || 
+|-
+| [[Brazier]] || [https://chisel.weirdgloop.org/moid/object_id.html#29554 29554][https://abextm.github.io/cache2/#/viewer/obj/29554 (1)] || 1v1arena_dungeon_brazier_yellow || 
+|-
+| [[Brazier]] || [https://chisel.weirdgloop.org/moid/object_id.html#29555 29555][https://abextm.github.io/cache2/#/viewer/obj/29555 (1)] || 1v1arena_dungeon_brazier_wide_blue || 
+|-
+| [[Brazier]] || [https://chisel.weirdgloop.org/moid/object_id.html#29556 29556][https://abextm.github.io/cache2/#/viewer/obj/29556 (1)] || 1v1arena_dungeon_brazier_wide_yellow || 
+|-
+| [[Heroic statue]] || [https://chisel.weirdgloop.org/moid/object_id.html#29557 29557][https://abextm.github.io/cache2/#/viewer/obj/29557 (1)] || 1v1arena_dungeon_statue_dark01 || 
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#29558 29558][https://abextm.github.io/cache2/#/viewer/obj/29558 (1)] || 1v1arena_dungeon_skewsteps_rug_middle || 
+|-
+| [[Death]] || [https://chisel.weirdgloop.org/moid/object_id.html#29559 29559][https://abextm.github.io/cache2/#/viewer/obj/29559 (1)] || deadman_death_wider || 
+|}
+===Diff Objects===
+{| class="wikitable sortable sticky-header mw-collapsible"
+|-
+! colspan="6" | Diff Objects
+|-
+! style="width: 15em" | Name !! Id !! GameVal !! Key !! Previous Value !! New Value
+|-
+| rowspan="2" | [[Portal]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#33444 33444][https://abextm.github.io/cache2/#/viewer/obj/33444 (1)]
+| rowspan="2" | 1v1arena_portal_higher
+|-
+| ops || {'0': {'text': 'Enter'}} || {'0': {'text': 'Enter'}<span style="color: #6bc71f">, '1': {'text': 'Ferox Enclave'</span>}<span style="color: #6bc71f">}</span>
+|-
+| rowspan="3" | [[null]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/object_id.html#33447 33447][https://abextm.github.io/cache2/#/viewer/obj/33447 (1)]
+| rowspan="3" | 1v1arena_dungeon_wall
+|-
+| ambient || <span style="color: #ee4231">20</span> || <span style="color: #6bc71f">236</span>
+|-
+| contrast || <span style="color: #ee4231">250</span> || <span style="color: #6bc71f">750</span>
+|-
+| rowspan="3" | [[null]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/object_id.html#33448 33448][https://abextm.github.io/cache2/#/viewer/obj/33448 (1)]
+| rowspan="3" | 1v1arena_dungeon_wall_top
+|-
+| ambient || <span style="color: #ee4231">20</span> || <span style="color: #6bc71f">0</span>
+|-
+| contrast || <span style="color: #ee4231">250</span> || <span style="color: #6bc71f">750</span>
+|-
+| rowspan="3" | [[null]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/object_id.html#33449 33449][https://abextm.github.io/cache2/#/viewer/obj/33449 (1)]
+| rowspan="3" | 1v1arena_dungeon_wall_arch
+|-
+| ambient || <span style="color: #ee4231">20</span> || <span style="color: #6bc71f">0</span>
+|-
+| contrast || <span style="color: #ee4231">250</span> || <span style="color: #6bc71f">750</span>
+|-
+| rowspan="3" | [[null]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/object_id.html#33450 33450][https://abextm.github.io/cache2/#/viewer/obj/33450 (1)]
+| rowspan="3" | 1v1arena_dungeon_wall_arch_mid
+|-
+| ambient || <span style="color: #ee4231">20</span> || <span style="color: #6bc71f">0</span>
+|-
+| contrast || <span style="color: #ee4231">250</span> || <span style="color: #6bc71f">750</span>
+|-
+| rowspan="3" | [[null]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/object_id.html#33451 33451][https://abextm.github.io/cache2/#/viewer/obj/33451 (1)]
+| rowspan="3" | 1v1arena_dungeon_wall_arch_m
+|-
+| ambient || <span style="color: #ee4231">20</span> || <span style="color: #6bc71f">0</span>
+|-
+| contrast || <span style="color: #ee4231">250</span> || <span style="color: #6bc71f">750</span>
+|-
+| rowspan="2" | [[null]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#33452 33452][https://abextm.github.io/cache2/#/viewer/obj/33452 (1)]
+| rowspan="2" | 1v1arena_dungeon_fence
+|-
+| modelSizeHeight || <span style="color: #ee4231">128</span> || <span style="color: #6bc71f">180</span>
+|-
+| rowspan="2" | [[null]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#33453 33453][https://abextm.github.io/cache2/#/viewer/obj/33453 (1)]
+| rowspan="2" | 1v1arena_dungeon_pillar
+|-
+| contrast || <span style="color: #ee4231">250</span> || <span style="color: #6bc71f">750</span>
+|-
+| rowspan="2" | [[null]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#48105 48105][https://abextm.github.io/cache2/#/viewer/obj/48105 (1)]
+| rowspan="2" | tilekit_lassar_brick01_diagonal02
+|-
+| offsetHeight || <span style="color: #ee4231">0</span> || <span style="color: #6bc71f">-1</span>
+|}
+==Enums==
+===New Enums===
+{| class="wikitable sortable sticky-header mw-collapsible"
+|-
+! colspan="3" | New Enums
+|-
+! style="width: 15em" | id !! defaultValue !! map
+|-
+| [https://chisel.weirdgloop.org/structs/index.html?type=enums&id=5241 5241][https://abextm.github.io/cache2/#/viewer/enum/5241 (1)] ||  || 
+|-
+| [https://chisel.weirdgloop.org/structs/index.html?type=enums&id=5242 5242][https://abextm.github.io/cache2/#/viewer/enum/5242 (1)] || -1 || {'0': 2436, '1': 2440, '2': 2442, '3': 2444, '4': 3040, '5': 12695, '6': 2434, '7': 3024, '8': 2450, '9': 12625, '10': 11951, '11': 5952, '12': 12905, '13': 24613, '14': 24615, '15': 24621, '16': 24607, '17': 26705, '18': 12783, '19': 12786, '20': 12804, '21': 24587, '22': 24585, '23': 11740, '24': 12789, '25': 24229, '26': 26706, '27': 24187, '28': 12637, '29': 12638, '30': 12639, '31': 24204, '32': 24201, '33': 24198, '34': 24195, '35': 24192, '36': 24217, '37': 21034, '38': 21079, '39': 28564, '40': 28570, '41': 33044, '42': 33047}
+|}
+===Removed Enums===
+{| class="wikitable sortable sticky-header mw-collapsible"
+|-
+! colspan="3" | Removed Enums
+|-
+! style="width: 15em" | id !! defaultValue !! map
+|-
+| [https://chisel.weirdgloop.org/structs/index.html?type=enums&id=3602 3602][https://abextm.github.io/cache2/#/viewer/enum/3602 (1)] ||  || 
+|-
+| [https://chisel.weirdgloop.org/structs/index.html?type=enums&id=3603 3603][https://abextm.github.io/cache2/#/viewer/enum/3603 (1)] ||  || 
+|}
+==Npcs==
+===New Npcs===
+{| class="wikitable sortable sticky-header mw-collapsible"
+|-
+! colspan="5" | New Npcs
+|-
+! style="width: 15em" | name !! id !! gameVal !! combatLevel !! ops
+|-
+| [[Warrior]] || [https://chisel.weirdgloop.org/moid/npc_id.html#15689 15689][https://abextm.github.io/cache2/#/viewer/npc/15689 (1)] || dmm_all_star_warriors_npc || 0 || {'0': {'text': 'Storage'}}
+|-
+| [[Nugget]] || [https://chisel.weirdgloop.org/moid/npc_id.html#15690 15690][https://abextm.github.io/cache2/#/viewer/npc/15690 (1)] || dmm_all_star_nuggets_npc || 0 || {'0': {'text': 'Storage'}}
+|-
+| [[Rhino]] || [https://chisel.weirdgloop.org/moid/npc_id.html#15691 15691][https://abextm.github.io/cache2/#/viewer/npc/15691 (1)] || dmm_all_star_rhinos_npc || 0 || {'0': {'text': 'Storage'}}
+|-
+| [[Friend]] || [https://chisel.weirdgloop.org/moid/npc_id.html#15692 15692][https://abextm.github.io/cache2/#/viewer/npc/15692 (1)] || dmm_all_star_friends_npc || 0 || {'0': {'text': 'Storage'}}
+|-
+| [[Weasel]] || [https://chisel.weirdgloop.org/moid/npc_id.html#15693 15693][https://abextm.github.io/cache2/#/viewer/npc/15693 (1)] || dmm_all_star_weasels_npc || 0 || {'0': {'text': 'Storage'}}
+|-
+| [[Rebel]] || [https://chisel.weirdgloop.org/moid/npc_id.html#15694 15694][https://abextm.github.io/cache2/#/viewer/npc/15694 (1)] || dmm_all_star_rebels_npc || 0 || {'0': {'text': 'Storage'}}
+|-
+| [[Scurrius]] || [https://chisel.weirdgloop.org/moid/npc_id.html#15695 15695][https://abextm.github.io/cache2/#/viewer/npc/15695 (1)] || deadman_all_stars_mission_scurrius || 1470 || {'1': {'text': 'Attack'}}
+|-
+| [[Sol Heredit]] || [https://chisel.weirdgloop.org/moid/npc_id.html#15696 15696][https://abextm.github.io/cache2/#/viewer/npc/15696 (1)] || deadman_all_stars_mission_sol_heredit || 1543 || {'1': {'text': 'Attack'}}
+|-
+| [[Kree'arra]] || [https://chisel.weirdgloop.org/moid/npc_id.html#15697 15697][https://abextm.github.io/cache2/#/viewer/npc/15697 (1)] || deadman_all_stars_mission_godwars_armadyl || 580 || {'1': {'text': 'Attack'}}
+|-
+| [[Elidinis' Warden]] || [https://chisel.weirdgloop.org/moid/npc_id.html#15698 15698][https://abextm.github.io/cache2/#/viewer/npc/15698 (1)] || deadman_all_stars_mission_warden_tumeken_mage || 1470 || {'1': {'text': 'Attack'}}
+|-
+| [[TzTok-Jad]] || [https://chisel.weirdgloop.org/moid/npc_id.html#15699 15699][https://abextm.github.io/cache2/#/viewer/npc/15699 (1)] || deadman_all_stars_mission_jad || 1758 || {'1': {'text': 'Attack'}}
+|-
+| [[Yama]] || [https://chisel.weirdgloop.org/moid/npc_id.html#15700 15700][https://abextm.github.io/cache2/#/viewer/npc/15700 (1)] || deadman_all_stars_mission_yama || 1524 || {'1': {'text': 'Attack'}}
+|}
+==Items==
+===New Items===
+{| class="wikitable sortable sticky-header mw-collapsible"
+|-
+! colspan="12" | New Items
+|-
+! style="width: 15em" | name !! id !! gameVal !! examine !! isMembers !! isGrandExchangable !! isStackable !! noteLinkedItem !! inventoryOps !! placeholderLinkedItem !! price !! weight
+|-
+| [[Mission totem]] || [https://chisel.weirdgloop.org/moid/item_id.html#33424 33424][https://abextm.github.io/cache2/#/viewer/item/33424 (1)] || deadman_all_star_mission_totem || This can be taken to the Totem Trader for a reward. || false || false || false || 33425 || [None, None, None, None, Drop] || 33426 || 1 || 9
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#33425 33425][https://abextm.github.io/cache2/#/viewer/item/33425 (1)] || cert_deadman_all_star_mission_totem || null || false || false || false || 33424 || [None, None, None, None, Drop] || -1 || 1 || 0
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#33426 33426][https://abextm.github.io/cache2/#/viewer/item/33426 (1)] || placeholder_deadman_all_star_mission_totem || null || false || false || false || -1 || [None, None, None, None, Drop] || 33424 || 1 || 0
+|-
+| [[Trinket of vengeance (2)]] || [https://chisel.weirdgloop.org/moid/item_id.html#33428 33428][https://abextm.github.io/cache2/#/viewer/item/33428 (1)] || magic_rock_of_vengeance_2_use || A magic rock! This one casts the Vengeance spell and has 2 charges remaining. || true || true || false || 33429 || [Cast, None, None, None, Drop] || 33430 || 1 || 1000
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#33429 33429][https://abextm.github.io/cache2/#/viewer/item/33429 (1)] || cert_magic_rock_of_vengeance_2_use || null || false || false || false || 33428 || [None, None, None, None, Drop] || -1 || 1 || 0
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#33430 33430][https://abextm.github.io/cache2/#/viewer/item/33430 (1)] || placeholder_magic_rock_of_vengeance_2_use || null || false || false || false || -1 || [None, None, None, None, Drop] || 33428 || 1 || 0
+|-
+| [[Trinket of vengeance (1)]] || [https://chisel.weirdgloop.org/moid/item_id.html#33431 33431][https://abextm.github.io/cache2/#/viewer/item/33431 (1)] || magic_rock_of_vengeance_1_use || A magic rock! This one casts the Vengeance spell and has one charge remaining. || true || true || false || 33432 || [Cast, None, None, None, Drop] || 33433 || 1 || 1000
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#33432 33432][https://abextm.github.io/cache2/#/viewer/item/33432 (1)] || cert_magic_rock_of_vengeance_1_use || null || false || false || false || 33431 || [None, None, None, None, Drop] || -1 || 1 || 0
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#33433 33433][https://abextm.github.io/cache2/#/viewer/item/33433 (1)] || placeholder_magic_rock_of_vengeance_1_use || null || false || false || false || -1 || [None, None, None, None, Drop] || 33431 || 1 || 0
+|}
+===Diff Items===
+{| class="wikitable sortable sticky-header mw-collapsible"
+|-
+! colspan="6" | Diff Items
+|-
+! style="width: 15em" | Name !! Id !! GameVal !! Key !! Previous Value !! New Value
+|-
+| rowspan="2" | [[Steel cannonball]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#2 2][https://abextm.github.io/cache2/#/viewer/item/2 (1)]
+| rowspan="2" | mcannonball
+|-
+| recolorTo || [<span style="color: #ee4231">66</span>, 61] || [<span style="color: #6bc71f">55</span>, 61]
+|-
+| rowspan="3" | [[Steel nails]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/item_id.html#1539 1539][https://abextm.github.io/cache2/#/viewer/item/1539 (1)]
+| rowspan="3" | nails
+|-
+| recolorFrom ||  || <span style="color: #6bc71f">[28]</span>
+|-
+| recolorTo ||  || <span style="color: #6bc71f">[55]</span>
+|-
+| rowspan="2" | [[Iron nails]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#4820 4820][https://abextm.github.io/cache2/#/viewer/item/4820 (1)]
+| rowspan="2" | nails_iron
+|-
+| recolorTo || [<span style="color: #ee4231">20</span>] || [<span style="color: #6bc71f">33</span>]
+|-
+| rowspan="2" | [[Rubium splinters]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#31722 31722][https://abextm.github.io/cache2/#/viewer/item/31722 (1)]
+| rowspan="2" | rubium_splinters
+|-
+| category || <span style="color: #ee4231">91</span> || <span style="color: #6bc71f">-1</span>
+|-
+| rowspan="3" | [[Steel nails]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/item_id.html#32923 32923][https://abextm.github.io/cache2/#/viewer/item/32923 (1)]
+| rowspan="3" | any_nails
+|-
+| recolorFrom ||  || <span style="color: #6bc71f">[28]</span>
+|-
+| recolorTo ||  || <span style="color: #6bc71f">[55]</span>
+|}
+==Params==
+===New Params===
+{| class="wikitable sortable sticky-header mw-collapsible"
+|-
+! colspan="5" | New Params
+|-
+! style="width: 15em" | id !! typeChar !! defaultInt !! defaultString !! isMembers
+|-
+| [https://chisel.weirdgloop.org/structs/index.html?type=enums&id=892 892][https://abextm.github.io/cache2/#/viewer/enum/892 (1)] || 105 || -1 || null || true
+|-
+| [https://chisel.weirdgloop.org/structs/index.html?type=enums&id=893 893][https://abextm.github.io/cache2/#/viewer/enum/893 (1)] || 49 || 0 || null || true
+|-
+| [https://chisel.weirdgloop.org/structs/index.html?type=enums&id=894 894][https://abextm.github.io/cache2/#/viewer/enum/894 (1)] || 0 || 0 || null || true
+|}
+==Animations==
+===Diff Animations===
+{| class="wikitable sortable sticky-header mw-collapsible"
+|-
+! colspan="5" | Diff Animations
+|-
+! style="width: 15em" | Id !! GameVal !! Key !! Previous Value !! New Value
+|-
+| rowspan="3" | 8877
+| rowspan="3" | tempoross_lightning_cloud_charging_idle
+|-
+| frameIDs || [[13101, 1], [13101, 2], [13101, 3], [13101, 4], [13101, 5], [13101, 6], [13101, 7], [13101, 8], [13101, 9], [13101, 10], [13101, 11], [13101, 12], [13101, 13], [13101, 14], [13101, 15], [13101, 16], [13101, 17], [13101, 18], [13101, 19], [13101, 20], [13101, 21], [13101, 22], [13101, 23], [13101, 24], [13101, 25], [13101, 26], [13101, 27], [13101, 28], [13101, 29], [13101, 30], [13101, 31], [13101, 32], [13101, 33], [13101, 34], [13101, 35], [13101, 36], [13101, 37], [13101, 38], [13101, 39], [13101, 40], [13101, 41], [13101, 42], [13101, 43], [13101, 44], [13101, 45], [13101, 46], [13101, 47], [13101, 48], [13101, 49], [13101, 50], [13101, 51], [13101, 52], [13101, 53], [13101, 54], [13101, 55], [13101, 56], [13101, 57], [13101, 58], [13101, 59], [13101, 60]] || [[13101, 1], [13101, 2], [13101, 3], [13101, 4], [13101, 5], [13101, 6], [13101, 7], [13101, 8], [13101, 9], [13101, 10], [13101, 11], [13101, 12], [13101, 13], [13101, 14], [13101, 15], [13101, 16], [13101, 17], [13101, 18], [13101, 19], [13101, 20], [13101, 21], [13101, 22], [13101, 23], [13101, 24], [13101, 25], [13101, 26], [13101, 27], [13101, 28], [13101, 29], [13101, 30], [13101, 31], [13101, 32], [13101, 33], [13101, 34], [13101, 35], [13101, 36], [13101, 37], [13101, 38], [13101, 39], [13101, 40], [13101, 41], [13101, 42], [13101, 43], [13101, 44], [13101, 45], [13101, 46], [13101, 47], [13101, 48], [13101, 49], [13101, 50], [13101, 51], [13101, 52], [13101, 53], [13101, 54], [13101, 55], [13101, 56], [13101, 57], [13101, 58], [13101, 59], [13101, 60]]
+|-
+| sounds || {'1': [{'offsetX': 0, 'offsetY': 0, 'isAreaSound': false, 'maxDistance': 20, 'id': 10706, 'weight': <span style="color: #ee4231">34</span>, 'loops': 1, 'retain': 10}, {'offsetX': 0, 'offsetY': 0, 'isAreaSound': false, 'maxDistance': 20, 'id': 10707, 'weight': <span style="color: #ee4231">33</span>, 'loops': 1, 'retain': 10}, {'offsetX': 0, 'offsetY': 0, 'isAreaSound': false, 'maxDistance': 20, 'id': 10708, 'weight': 33, 'loops': 1, 'retain': 10}]} || {'1': [{'offsetX': 0, 'offsetY': 0, 'isAreaSound': false, 'maxDistance': 20, 'id': 10706, 'weight': <span style="color: #6bc71f">33</span>, 'loops': 1, 'retain': 10}, {'offsetX': 0, 'offsetY': 0, 'isAreaSound': false, 'maxDistance': 20, 'id': 10707, 'weight': <span style="color: #6bc71f">34</span>, 'loops': 1, 'retain': 10}, {'offsetX': 0, 'offsetY': 0, 'isAreaSound': false, 'maxDistance': 20, 'id': 10708, 'weight': 33, 'loops': 1, 'retain': 10}]}
+|-
+| rowspan="3" | 13440
+| rowspan="3" | sailing_boats_trawling_net_kandarin_2x5_idle01
+|-
+| frameIDs || [[13349, 1], [13349, 2], [13349, 3], [13349, 4], [13349, 5], [13349, 6], [13349, 7], [13349, 8], [13349, 9], [13349, 10], [13349, 11], [13349, 12], [13349, 13], [13349, 14], [13349, 15], [13349, 16]] || [[13349, 1], [13349, 2], [13349, 3], [13349, 4], [13349, 5], [13349, 6], [13349, 7], [13349, 8], [13349, 9], [13349, 10], [13349, 11], [13349, 12], [13349, 13], [13349, 14], [13349, 15], [13349, 16]]
+|-
+| sounds || {'1': [{'offsetX': 0, 'offsetY': 0, 'isAreaSound': false, 'maxDistance': 7, 'id': 2411, 'weight': <span style="color: #ee4231">72</span>, 'loops': 1, 'retain': 0}, {'offsetX': 0, 'offsetY': 0, 'isAreaSound': false, 'maxDistance': 7, 'id': 10890, 'weight': 7, 'loops': 1, 'retain': 0}, {'offsetX': 0, 'offsetY': 0, 'isAreaSound': false, 'maxDistance': 7, 'id': 10891, 'weight': 7, 'loops': 1, 'retain': 0}, {'offsetX': 0, 'offsetY': 0, 'isAreaSound': false, 'maxDistance': 7, 'id': 10892, 'weight': 7, 'loops': 1, 'retain': 0}, {'offsetX': 0, 'offsetY': 0, 'isAreaSound': false, 'maxDistance': 7, 'id': 10893, 'weight': <span style="color: #ee4231">7</span>, 'loops': 1, 'retain': 0}]} || {'1': [{'offsetX': 0, 'offsetY': 0, 'isAreaSound': false, 'maxDistance': 7, 'id': 2411, 'weight': <span style="color: #6bc71f">71</span>, 'loops': 1, 'retain': 0}, {'offsetX': 0, 'offsetY': 0, 'isAreaSound': false, 'maxDistance': 7, 'id': 10890, 'weight': 7, 'loops': 1, 'retain': 0}, {'offsetX': 0, 'offsetY': 0, 'isAreaSound': false, 'maxDistance': 7, 'id': 10891, 'weight': 7, 'loops': 1, 'retain': 0}, {'offsetX': 0, 'offsetY': 0, 'isAreaSound': false, 'maxDistance': 7, 'id': 10892, 'weight': 7, 'loops': 1, 'retain': 0}, {'offsetX': 0, 'offsetY': 0, 'isAreaSound': false, 'maxDistance': 7, 'id': 10893, 'weight': <span style="color: #6bc71f">8</span>, 'loops': 1, 'retain': 0}]}
+|-
+| rowspan="3" | 13567
+| rowspan="3" | sailing_boats_salvage_hook_kandarin_1x3_idle02
+|-
+| frameIDs || [[13338, 1], [13338, 2], [13338, 3], [13338, 4], [13338, 5], [13338, 6], [13338, 7], [13338, 8], [13338, 9], [13338, 10], [13338, 11], [13338, 12], [13338, 13], [13338, 14], [13338, 15], [13338, 16], [13338, 17], [13338, 18], [13338, 19], [13338, 20], [13338, 21], [13338, 22], [13338, 23], [13338, 24]] || [[13338, 1], [13338, 2], [13338, 3], [13338, 4], [13338, 5], [13338, 6], [13338, 7], [13338, 8], [13338, 9], [13338, 10], [13338, 11], [13338, 12], [13338, 13], [13338, 14], [13338, 15], [13338, 16], [13338, 17], [13338, 18], [13338, 19], [13338, 20], [13338, 21], [13338, 22], [13338, 23], [13338, 24]]
+|-
+| sounds || {'1': [{'offsetX': 0, 'offsetY': 0, 'isAreaSound': false, 'maxDistance': 5, 'id': 2411, 'weight': <span style="color: #ee4231">61</span>, 'loops': 1, 'retain': 0}, {'offsetX': 0, 'offsetY': 0, 'isAreaSound': false, 'maxDistance': 5, 'id': 11091, 'weight': 13, 'loops': 1, 'retain': 0}, {'offsetX': 0, 'offsetY': 0, 'isAreaSound': false, 'maxDistance': 5, 'id': 11092, 'weight': <span style="color: #ee4231">13</span>, 'loops': 1, 'retain': 0}, {'offsetX': 0, 'offsetY': 0, 'isAreaSound': false, 'maxDistance': 5, 'id': 11093, 'weight': 13, 'loops': 1, 'retain': 0}]} || {'1': [{'offsetX': 0, 'offsetY': 0, 'isAreaSound': false, 'maxDistance': 5, 'id': 2411, 'weight': <span style="color: #6bc71f">63</span>, 'loops': 1, 'retain': 0}, {'offsetX': 0, 'offsetY': 0, 'isAreaSound': false, 'maxDistance': 5, 'id': 11091, 'weight': 13, 'loops': 1, 'retain': 0}, {'offsetX': 0, 'offsetY': 0, 'isAreaSound': false, 'maxDistance': 5, 'id': 11092, 'weight': <span style="color: #6bc71f">11</span>, 'loops': 1, 'retain': 0}, {'offsetX': 0, 'offsetY': 0, 'isAreaSound': false, 'maxDistance': 5, 'id': 11093, 'weight': 13, 'loops': 1, 'retain': 0}]}
+|-
+| rowspan="3" | 13600
+| rowspan="3" | small_shipwreck_full_idle
+|-
+| frameIDs || [[13392, 1], [13392, 10], [13392, 2], [13392, 3], [13392, 4], [13392, 5], [13392, 6], [13392, 7], [13392, 8], [13392, 9]] || [[13392, 1], [13392, 10], [13392, 2], [13392, 3], [13392, 4], [13392, 5], [13392, 6], [13392, 7], [13392, 8], [13392, 9]]
+|-
+| sounds || {'1': [{'offsetX': 0, 'offsetY': 0, 'isAreaSound': false, 'maxDistance': 10, 'id': 10983, 'weight': 5, 'loops': 1, 'retain': 0}, {'offsetX': 0, 'offsetY': 0, 'isAreaSound': false, 'maxDistance': 10, 'id': 10984, 'weight': 5, 'loops': 1, 'retain': 0}, {'offsetX': 0, 'offsetY': 0, 'isAreaSound': false, 'maxDistance': 10, 'id': 10985, 'weight': <span style="color: #ee4231">6</span>, 'loops': 1, 'retain': 0}, {'offsetX': 0, 'offsetY': 0, 'isAreaSound': false, 'maxDistance': 10, 'id': 10986, 'weight': 5, 'loops': 1, 'retain': 0}, {'offsetX': 0, 'offsetY': 0, 'isAreaSound': false, 'maxDistance': 10, 'id': 10987, 'weight': <span style="color: #ee4231">5</span>, 'loops': 1, 'retain': 0}, {'offsetX': 0, 'offsetY': 0, 'isAreaSound': false, 'maxDistance': 10, 'id': 2411, 'weight': 74, 'loops': 1, 'retain': 0}]} || {'1': [{'offsetX': 0, 'offsetY': 0, 'isAreaSound': false, 'maxDistance': 10, 'id': 10983, 'weight': 5, 'loops': 1, 'retain': 0}, {'offsetX': 0, 'offsetY': 0, 'isAreaSound': false, 'maxDistance': 10, 'id': 10984, 'weight': 5, 'loops': 1, 'retain': 0}, {'offsetX': 0, 'offsetY': 0, 'isAreaSound': false, 'maxDistance': 10, 'id': 10985, 'weight': <span style="color: #6bc71f">5</span>, 'loops': 1, 'retain': 0}, {'offsetX': 0, 'offsetY': 0, 'isAreaSound': false, 'maxDistance': 10, 'id': 10986, 'weight': 5, 'loops': 1, 'retain': 0}, {'offsetX': 0, 'offsetY': 0, 'isAreaSound': false, 'maxDistance': 10, 'id': 10987, 'weight': <span style="color: #6bc71f">6</span>, 'loops': 1, 'retain': 0}, {'offsetX': 0, 'offsetY': 0, 'isAreaSound': false, 'maxDistance': 10, 'id': 2411, 'weight': 74, 'loops': 1, 'retain': 0}]}
+|-
+| rowspan="3" | 13604
+| rowspan="3" | fisherman_shipwreck_full_idle
+|-
+| frameIDs || [[13399, 1], [13399, 2], [13399, 3], [13399, 4], [13399, 5], [13399, 6], [13399, 7], [13399, 8], [13399, 9], [13399, 10]] || [[13399, 1], [13399, 2], [13399, 3], [13399, 4], [13399, 5], [13399, 6], [13399, 7], [13399, 8], [13399, 9], [13399, 10]]
+|-
+| sounds || {'1': [{'offsetX': 0, 'offsetY': 0, 'isAreaSound': false, 'maxDistance': 10, 'id': 10983, 'weight': <span style="color: #ee4231">5</span>, 'loops': 1, 'retain': 0}, {'offsetX': 0, 'offsetY': 0, 'isAreaSound': false, 'maxDistance': 10, 'id': 10984, 'weight': 5, 'loops': 1, 'retain': 0}, {'offsetX': 0, 'offsetY': 0, 'isAreaSound': false, 'maxDistance': 10, 'id': 10985, 'weight': 5, 'loops': 1, 'retain': 0}, {'offsetX': 0, 'offsetY': 0, 'isAreaSound': false, 'maxDistance': 10, 'id': 10986, 'weight': <span style="color: #ee4231">6</span>, 'loops': 1, 'retain': 0}, {'offsetX': 0, 'offsetY': 0, 'isAreaSound': false, 'maxDistance': 10, 'id': 10987, 'weight': 5, 'loops': 1, 'retain': 0}, {'offsetX': 0, 'offsetY': 0, 'isAreaSound': false, 'maxDistance': 10, 'id': 2411, 'weight': 74, 'loops': 1, 'retain': 0}]} || {'1': [{'offsetX': 0, 'offsetY': 0, 'isAreaSound': false, 'maxDistance': 10, 'id': 10983, 'weight': <span style="color: #6bc71f">6</span>, 'loops': 1, 'retain': 0}, {'offsetX': 0, 'offsetY': 0, 'isAreaSound': false, 'maxDistance': 10, 'id': 10984, 'weight': 5, 'loops': 1, 'retain': 0}, {'offsetX': 0, 'offsetY': 0, 'isAreaSound': false, 'maxDistance': 10, 'id': 10985, 'weight': 5, 'loops': 1, 'retain': 0}, {'offsetX': 0, 'offsetY': 0, 'isAreaSound': false, 'maxDistance': 10, 'id': 10986, 'weight': <span style="color: #6bc71f">5</span>, 'loops': 1, 'retain': 0}, {'offsetX': 0, 'offsetY': 0, 'isAreaSound': false, 'maxDistance': 10, 'id': 10987, 'weight': 5, 'loops': 1, 'retain': 0}, {'offsetX': 0, 'offsetY': 0, 'isAreaSound': false, 'maxDistance': 10, 'id': 2411, 'weight': 74, 'loops': 1, 'retain': 0}]}
+|-
+| rowspan="3" | 13608
+| rowspan="3" | barracuda_shipwreck_full_idle
+|-
+| frameIDs || [[13403, 1], [13403, 2], [13403, 3], [13403, 4], [13403, 5], [13403, 6], [13403, 7], [13403, 8], [13403, 9], [13403, 10]] || [[13403, 1], [13403, 2], [13403, 3], [13403, 4], [13403, 5], [13403, 6], [13403, 7], [13403, 8], [13403, 9], [13403, 10]]
+|-
+| sounds || {'1': [{'offsetX': 0, 'offsetY': 0, 'isAreaSound': false, 'maxDistance': 10, 'id': 10983, 'weight': <span style="color: #ee4231">6</span>, 'loops': 1, 'retain': 0}, {'offsetX': 0, 'offsetY': 0, 'isAreaSound': false, 'maxDistance': 10, 'id': 10984, 'weight': 5, 'loops': 1, 'retain': 0}, {'offsetX': 0, 'offsetY': 0, 'isAreaSound': false, 'maxDistance': 10, 'id': 10985, 'weight': 5, 'loops': 1, 'retain': 0}, {'offsetX': 0, 'offsetY': 0, 'isAreaSound': false, 'maxDistance': 10, 'id': 10986, 'weight': 5, 'loops': 1, 'retain': 0}, {'offsetX': 0, 'offsetY': 0, 'isAreaSound': false, 'maxDistance': 10, 'id': 10987, 'weight': <span style="color: #ee4231">5</span>, 'loops': 1, 'retain': 0}, {'offsetX': 0, 'offsetY': 0, 'isAreaSound': false, 'maxDistance': 10, 'id': 2411, 'weight': 74, 'loops': 1, 'retain': 0}]} || {'1': [{'offsetX': 0, 'offsetY': 0, 'isAreaSound': false, 'maxDistance': 10, 'id': 10983, 'weight': <span style="color: #6bc71f">5</span>, 'loops': 1, 'retain': 0}, {'offsetX': 0, 'offsetY': 0, 'isAreaSound': false, 'maxDistance': 10, 'id': 10984, 'weight': 5, 'loops': 1, 'retain': 0}, {'offsetX': 0, 'offsetY': 0, 'isAreaSound': false, 'maxDistance': 10, 'id': 10985, 'weight': 5, 'loops': 1, 'retain': 0}, {'offsetX': 0, 'offsetY': 0, 'isAreaSound': false, 'maxDistance': 10, 'id': 10986, 'weight': 5, 'loops': 1, 'retain': 0}, {'offsetX': 0, 'offsetY': 0, 'isAreaSound': false, 'maxDistance': 10, 'id': 10987, 'weight': <span style="color: #6bc71f">6</span>, 'loops': 1, 'retain': 0}, {'offsetX': 0, 'offsetY': 0, 'isAreaSound': false, 'maxDistance': 10, 'id': 2411, 'weight': 74, 'loops': 1, 'retain': 0}]}
+|-
+| rowspan="3" | 13612
+| rowspan="3" | pirate_shipwreck_full_idle
+|-
+| frameIDs || [[13396, 1], [13396, 2], [13396, 3], [13396, 4], [13396, 5], [13396, 6], [13396, 7], [13396, 8], [13396, 9], [13396, 10]] || [[13396, 1], [13396, 2], [13396, 3], [13396, 4], [13396, 5], [13396, 6], [13396, 7], [13396, 8], [13396, 9], [13396, 10]]
+|-
+| sounds || {'1': [{'offsetX': 0, 'offsetY': 0, 'isAreaSound': false, 'maxDistance': 10, 'id': 10983, 'weight': <span style="color: #ee4231">6</span>, 'loops': 1, 'retain': 0}, {'offsetX': 0, 'offsetY': 0, 'isAreaSound': false, 'maxDistance': 10, 'id': 10984, 'weight': 5, 'loops': 1, 'retain': 0}, {'offsetX': 0, 'offsetY': 0, 'isAreaSound': false, 'maxDistance': 10, 'id': 10985, 'weight': 5, 'loops': 1, 'retain': 0}, {'offsetX': 0, 'offsetY': 0, 'isAreaSound': false, 'maxDistance': 10, 'id': 10986, 'weight': 5, 'loops': 1, 'retain': 0}, {'offsetX': 0, 'offsetY': 0, 'isAreaSound': false, 'maxDistance': 10, 'id': 10987, 'weight': 5, 'loops': 1, 'retain': 0}, {'offsetX': 0, 'offsetY': 0, 'isAreaSound': false, 'maxDistance': 10, 'id': 2411, 'weight': <span style="color: #ee4231">74</span>, 'loops': 1, 'retain': 0}]} || {'1': [{'offsetX': 0, 'offsetY': 0, 'isAreaSound': false, 'maxDistance': 10, 'id': 10983, 'weight': <span style="color: #6bc71f">5</span>, 'loops': 1, 'retain': 0}, {'offsetX': 0, 'offsetY': 0, 'isAreaSound': false, 'maxDistance': 10, 'id': 10984, 'weight': 5, 'loops': 1, 'retain': 0}, {'offsetX': 0, 'offsetY': 0, 'isAreaSound': false, 'maxDistance': 10, 'id': 10985, 'weight': 5, 'loops': 1, 'retain': 0}, {'offsetX': 0, 'offsetY': 0, 'isAreaSound': false, 'maxDistance': 10, 'id': 10986, 'weight': 5, 'loops': 1, 'retain': 0}, {'offsetX': 0, 'offsetY': 0, 'isAreaSound': false, 'maxDistance': 10, 'id': 10987, 'weight': 5, 'loops': 1, 'retain': 0}, {'offsetX': 0, 'offsetY': 0, 'isAreaSound': false, 'maxDistance': 10, 'id': 2411, 'weight': <span style="color: #6bc71f">75</span>, 'loops': 1, 'retain': 0}]}
+|-
+| rowspan="3" | 13616
+| rowspan="3" | mercenary_shipwreck_full_idle
+|-
+| frameIDs || [[13414, 1], [13414, 2], [13414, 3], [13414, 4], [13414, 5], [13414, 6], [13414, 7], [13414, 8], [13414, 9], [13414, 10]] || [[13414, 1], [13414, 2], [13414, 3], [13414, 4], [13414, 5], [13414, 6], [13414, 7], [13414, 8], [13414, 9], [13414, 10]]
+|-
+| sounds || {'1': [{'offsetX': 0, 'offsetY': 0, 'isAreaSound': false, 'maxDistance': 10, 'id': 10983, 'weight': 5, 'loops': 1, 'retain': 0}, {'offsetX': 0, 'offsetY': 0, 'isAreaSound': false, 'maxDistance': 10, 'id': 10984, 'weight': 5, 'loops': 1, 'retain': 0}, {'offsetX': 0, 'offsetY': 0, 'isAreaSound': false, 'maxDistance': 10, 'id': 10985, 'weight': <span style="color: #ee4231">5</span>, 'loops': 1, 'retain': 0}, {'offsetX': 0, 'offsetY': 0, 'isAreaSound': false, 'maxDistance': 10, 'id': 10986, 'weight': 5, 'loops': 1, 'retain': 0}, {'offsetX': 0, 'offsetY': 0, 'isAreaSound': false, 'maxDistance': 10, 'id': 10987, 'weight': 5, 'loops': 1, 'retain': 0}, {'offsetX': 0, 'offsetY': 0, 'isAreaSound': false, 'maxDistance': 10, 'id': 2411, 'weight': <span style="color: #ee4231">75</span>, 'loops': 1, 'retain': 0}]} || {'1': [{'offsetX': 0, 'offsetY': 0, 'isAreaSound': false, 'maxDistance': 10, 'id': 10983, 'weight': 5, 'loops': 1, 'retain': 0}, {'offsetX': 0, 'offsetY': 0, 'isAreaSound': false, 'maxDistance': 10, 'id': 10984, 'weight': 5, 'loops': 1, 'retain': 0}, {'offsetX': 0, 'offsetY': 0, 'isAreaSound': false, 'maxDistance': 10, 'id': 10985, 'weight': <span style="color: #6bc71f">6</span>, 'loops': 1, 'retain': 0}, {'offsetX': 0, 'offsetY': 0, 'isAreaSound': false, 'maxDistance': 10, 'id': 10986, 'weight': 5, 'loops': 1, 'retain': 0}, {'offsetX': 0, 'offsetY': 0, 'isAreaSound': false, 'maxDistance': 10, 'id': 10987, 'weight': 5, 'loops': 1, 'retain': 0}, {'offsetX': 0, 'offsetY': 0, 'isAreaSound': false, 'maxDistance': 10, 'id': 2411, 'weight': <span style="color: #6bc71f">74</span>, 'loops': 1, 'retain': 0}]}
+|-
+| rowspan="3" | 13620
+| rowspan="3" | merchant_shipwreck_full_idle
+|-
+| frameIDs || [[13406, 1], [13406, 2], [13406, 3], [13406, 4], [13406, 5], [13406, 6], [13406, 7], [13406, 8], [13406, 9], [13406, 10]] || [[13406, 1], [13406, 2], [13406, 3], [13406, 4], [13406, 5], [13406, 6], [13406, 7], [13406, 8], [13406, 9], [13406, 10]]
+|-
+| sounds || {'1': [{'offsetX': 0, 'offsetY': 0, 'isAreaSound': false, 'maxDistance': 10, 'id': 10983, 'weight': 5, 'loops': 1, 'retain': 0}, {'offsetX': 0, 'offsetY': 0, 'isAreaSound': false, 'maxDistance': 10, 'id': 10984, 'weight': <span style="color: #ee4231">6</span>, 'loops': 1, 'retain': 0}, {'offsetX': 0, 'offsetY': 0, 'isAreaSound': false, 'maxDistance': 10, 'id': 10985, 'weight': 5, 'loops': 1, 'retain': 0}, {'offsetX': 0, 'offsetY': 0, 'isAreaSound': false, 'maxDistance': 10, 'id': 10986, 'weight': 5, 'loops': 1, 'retain': 0}, {'offsetX': 0, 'offsetY': 0, 'isAreaSound': false, 'maxDistance': 10, 'id': 10987, 'weight': 5, 'loops': 1, 'retain': 0}, {'offsetX': 0, 'offsetY': 0, 'isAreaSound': false, 'maxDistance': 10, 'id': 2411, 'weight': <span style="color: #ee4231">74</span>, 'loops': 1, 'retain': 0}]} || {'1': [{'offsetX': 0, 'offsetY': 0, 'isAreaSound': false, 'maxDistance': 10, 'id': 10983, 'weight': 5, 'loops': 1, 'retain': 0}, {'offsetX': 0, 'offsetY': 0, 'isAreaSound': false, 'maxDistance': 10, 'id': 10984, 'weight': <span style="color: #6bc71f">5</span>, 'loops': 1, 'retain': 0}, {'offsetX': 0, 'offsetY': 0, 'isAreaSound': false, 'maxDistance': 10, 'id': 10985, 'weight': 5, 'loops': 1, 'retain': 0}, {'offsetX': 0, 'offsetY': 0, 'isAreaSound': false, 'maxDistance': 10, 'id': 10986, 'weight': 5, 'loops': 1, 'retain': 0}, {'offsetX': 0, 'offsetY': 0, 'isAreaSound': false, 'maxDistance': 10, 'id': 10987, 'weight': 5, 'loops': 1, 'retain': 0}, {'offsetX': 0, 'offsetY': 0, 'isAreaSound': false, 'maxDistance': 10, 'id': 2411, 'weight': <span style="color: #6bc71f">75</span>, 'loops': 1, 'retain': 0}]}
+|-
+| rowspan="3" | 13624
+| rowspan="3" | fremennik_shipwreck_full_idle
+|-
+| frameIDs || [[13419, 1], [13419, 2], [13419, 3], [13419, 4], [13419, 5], [13419, 6], [13419, 7], [13419, 8], [13419, 9], [13419, 10]] || [[13419, 1], [13419, 2], [13419, 3], [13419, 4], [13419, 5], [13419, 6], [13419, 7], [13419, 8], [13419, 9], [13419, 10]]
+|-
+| sounds || {'1': [{'offsetX': 0, 'offsetY': 0, 'isAreaSound': false, 'maxDistance': 10, 'id': 10983, 'weight': 5, 'loops': 1, 'retain': 0}, {'offsetX': 0, 'offsetY': 0, 'isAreaSound': false, 'maxDistance': 10, 'id': 10984, 'weight': 5, 'loops': 1, 'retain': 0}, {'offsetX': 0, 'offsetY': 0, 'isAreaSound': false, 'maxDistance': 10, 'id': 10985, 'weight': <span style="color: #ee4231">5</span>, 'loops': 1, 'retain': 0}, {'offsetX': 0, 'offsetY': 0, 'isAreaSound': false, 'maxDistance': 10, 'id': 10986, 'weight': 5, 'loops': 1, 'retain': 0}, {'offsetX': 0, 'offsetY': 0, 'isAreaSound': false, 'maxDistance': 10, 'id': 10987, 'weight': 5, 'loops': 1, 'retain': 0}, {'offsetX': 0, 'offsetY': 0, 'isAreaSound': false, 'maxDistance': 10, 'id': 2411, 'weight': <span style="color: #ee4231">75</span>, 'loops': 1, 'retain': 0}]} || {'1': [{'offsetX': 0, 'offsetY': 0, 'isAreaSound': false, 'maxDistance': 10, 'id': 10983, 'weight': 5, 'loops': 1, 'retain': 0}, {'offsetX': 0, 'offsetY': 0, 'isAreaSound': false, 'maxDistance': 10, 'id': 10984, 'weight': 5, 'loops': 1, 'retain': 0}, {'offsetX': 0, 'offsetY': 0, 'isAreaSound': false, 'maxDistance': 10, 'id': 10985, 'weight': <span style="color: #6bc71f">6</span>, 'loops': 1, 'retain': 0}, {'offsetX': 0, 'offsetY': 0, 'isAreaSound': false, 'maxDistance': 10, 'id': 10986, 'weight': 5, 'loops': 1, 'retain': 0}, {'offsetX': 0, 'offsetY': 0, 'isAreaSound': false, 'maxDistance': 10, 'id': 10987, 'weight': 5, 'loops': 1, 'retain': 0}, {'offsetX': 0, 'offsetY': 0, 'isAreaSound': false, 'maxDistance': 10, 'id': 2411, 'weight': <span style="color: #6bc71f">74</span>, 'loops': 1, 'retain': 0}]}
+|-
+| rowspan="3" | 13628
+| rowspan="3" | large_shipwreck_full_idle
+|-
+| frameIDs || [[13410, 1], [13410, 2], [13410, 3], [13410, 4], [13410, 5], [13410, 6], [13410, 7], [13410, 8], [13410, 9], [13410, 10]] || [[13410, 1], [13410, 2], [13410, 3], [13410, 4], [13410, 5], [13410, 6], [13410, 7], [13410, 8], [13410, 9], [13410, 10]]
+|-
+| sounds || {'1': [{'offsetX': 0, 'offsetY': 0, 'isAreaSound': false, 'maxDistance': 10, 'id': 10983, 'weight': <span style="color: #ee4231">6</span>, 'loops': 1, 'retain': 0}, {'offsetX': 0, 'offsetY': 0, 'isAreaSound': false, 'maxDistance': 10, 'id': 10984, 'weight': 5, 'loops': 1, 'retain': 0}, {'offsetX': 0, 'offsetY': 0, 'isAreaSound': false, 'maxDistance': 10, 'id': 10985, 'weight': 5, 'loops': 1, 'retain': 0}, {'offsetX': 0, 'offsetY': 0, 'isAreaSound': false, 'maxDistance': 10, 'id': 10986, 'weight': <span style="color: #ee4231">5</span>, 'loops': 1, 'retain': 0}, {'offsetX': 0, 'offsetY': 0, 'isAreaSound': false, 'maxDistance': 10, 'id': 10987, 'weight': 5, 'loops': 1, 'retain': 0}, {'offsetX': 0, 'offsetY': 0, 'isAreaSound': false, 'maxDistance': 10, 'id': 2411, 'weight': 74, 'loops': 1, 'retain': 0}]} || {'1': [{'offsetX': 0, 'offsetY': 0, 'isAreaSound': false, 'maxDistance': 10, 'id': 10983, 'weight': <span style="color: #6bc71f">5</span>, 'loops': 1, 'retain': 0}, {'offsetX': 0, 'offsetY': 0, 'isAreaSound': false, 'maxDistance': 10, 'id': 10984, 'weight': 5, 'loops': 1, 'retain': 0}, {'offsetX': 0, 'offsetY': 0, 'isAreaSound': false, 'maxDistance': 10, 'id': 10985, 'weight': 5, 'loops': 1, 'retain': 0}, {'offsetX': 0, 'offsetY': 0, 'isAreaSound': false, 'maxDistance': 10, 'id': 10986, 'weight': <span style="color: #6bc71f">6</span>, 'loops': 1, 'retain': 0}, {'offsetX': 0, 'offsetY': 0, 'isAreaSound': false, 'maxDistance': 10, 'id': 10987, 'weight': 5, 'loops': 1, 'retain': 0}, {'offsetX': 0, 'offsetY': 0, 'isAreaSound': false, 'maxDistance': 10, 'id': 2411, 'weight': 74, 'loops': 1, 'retain': 0}]}
+|-
+| rowspan="3" | 13778
+| rowspan="3" | cow_boss_charge
+|-
+| frameIDs || [[14236, 25], [14236, 26], [14236, 27], [14236, 28], [14236, 29], [14236, 30], [14236, 31], [14236, 32], [14236, 33], [14236, 1], [14236, 8], [14236, 9], [14236, 10], [14236, 6], [14236, 5], [14236, 7], [14236, 2], [14236, 11], [14236, 24], [14236, 13], [14236, 14], [14236, 16], [14236, 15], [14236, 17], [14236, 18], [14236, 19], [14236, 20], [14236, 21], [14236, 22], [14236, 23], [14236, 17], [14236, 18], [14236, 19], [14236, 20], [14236, 21], [14236, 22], [14236, 23], [14236, 34], [14236, 35], [14236, 36]] || [[14236, 25], [14236, 26], [14236, 27], [14236, 28], [14236, 29], [14236, 30], [14236, 31], [14236, 32], [14236, 33], [14236, 1], [14236, 8], [14236, 9], [14236, 10], [14236, 6], [14236, 5], [14236, 7], [14236, 2], [14236, 11], [14236, 24], [14236, 13], [14236, 14], [14236, 16], [14236, 15], [14236, 17], [14236, 18], [14236, 19], [14236, 20], [14236, 21], [14236, 22], [14236, 23], [14236, 17], [14236, 18], [14236, 19], [14236, 20], [14236, 21], [14236, 22], [14236, 23], [14236, 34], [14236, 35], [14236, 36]]
+|-
+| sounds || {'1': [{'offsetX': 0, 'offsetY': 0, 'isAreaSound': false, 'maxDistance': 15, 'id': 11236, 'weight': 100, 'loops': 1, 'retain': 0}], '4': [{'offsetX': 0, 'offsetY': 0, 'isAreaSound': false, 'maxDistance': 15, 'id': 11235, 'weight': 100, 'loops': 1, 'retain': 0}], '12': [{'offsetX': 0, 'offsetY': 0, 'isAreaSound': false, 'maxDistance': 15, 'id': 11230, 'weight': <span style="color: #ee4231">8</span>, 'loops': 1, 'retain': 0}, {'offsetX': 0, 'offsetY': 0, 'isAreaSound': false, 'maxDistance': 15, 'id': 11234, 'weight': 23, 'loops': 1, 'retain': 0}, {'offsetX': 0, 'offsetY': 0, 'isAreaSound': false, 'maxDistance': 15, 'id': 11233, 'weight': <span style="color: #ee4231">23</span>, 'loops': 1, 'retain': 0}, {'offsetX': 0, 'offsetY': 0, 'isAreaSound': false, 'maxDistance': 15, 'id': 11232, 'weight': 23, 'loops': 1, 'retain': 0}, {'offsetX': 0, 'offsetY': 0, 'isAreaSound': false, 'maxDistance': 15, 'id': 11231, 'weight': 23, 'loops': 1, 'retain': 0}], '20': [{'offsetX': 0, 'offsetY': 0, 'isAreaSound': false, 'maxDistance': 15, 'id': 11224, 'weight': 100, 'loops': 1, 'retain': 0}], '26': [{'offsetX': 0, 'offsetY': 0, 'isAreaSound': false, 'maxDistance': 15, 'id': 11221, 'weight': 100, 'loops': 1, 'retain': 0}], '32': [{'offsetX': 0, 'offsetY': 0, 'isAreaSound': false, 'maxDistance': 15, 'id': 11221, 'weight': 100, 'loops': 1, 'retain': 0}]} || {'1': [{'offsetX': 0, 'offsetY': 0, 'isAreaSound': false, 'maxDistance': 15, 'id': 11236, 'weight': 100, 'loops': 1, 'retain': 0}], '4': [{'offsetX': 0, 'offsetY': 0, 'isAreaSound': false, 'maxDistance': 15, 'id': 11235, 'weight': 100, 'loops': 1, 'retain': 0}], '12': [{'offsetX': 0, 'offsetY': 0, 'isAreaSound': false, 'maxDistance': 15, 'id': 11230, 'weight': <span style="color: #6bc71f">9</span>, 'loops': 1, 'retain': 0}, {'offsetX': 0, 'offsetY': 0, 'isAreaSound': false, 'maxDistance': 15, 'id': 11234, 'weight': 23, 'loops': 1, 'retain': 0}, {'offsetX': 0, 'offsetY': 0, 'isAreaSound': false, 'maxDistance': 15, 'id': 11233, 'weight': <span style="color: #6bc71f">22</span>, 'loops': 1, 'retain': 0}, {'offsetX': 0, 'offsetY': 0, 'isAreaSound': false, 'maxDistance': 15, 'id': 11232, 'weight': 23, 'loops': 1, 'retain': 0}, {'offsetX': 0, 'offsetY': 0, 'isAreaSound': false, 'maxDistance': 15, 'id': 11231, 'weight': 23, 'loops': 1, 'retain': 0}], '20': [{'offsetX': 0, 'offsetY': 0, 'isAreaSound': false, 'maxDistance': 15, 'id': 11224, 'weight': 100, 'loops': 1, 'retain': 0}], '26': [{'offsetX': 0, 'offsetY': 0, 'isAreaSound': false, 'maxDistance': 15, 'id': 11221, 'weight': 100, 'loops': 1, 'retain': 0}], '32': [{'offsetX': 0, 'offsetY': 0, 'isAreaSound': false, 'maxDistance': 15, 'id': 11221, 'weight': 100, 'loops': 1, 'retain': 0}]}
+|}
+==Varbits==
+===New Varbits===
+{| class="wikitable sortable sticky-header mw-collapsible"
+|-
+! colspan="5" | New Varbits
+|-
+! style="width: 15em" | id !! gameVal !! index !! leastSignificantBit !! mostSignificantBit
+|-
+| [https://chisel.weirdgloop.org/varbs/display?varbit=13319 13319] || deadman_allstar_tracking_damage || 5575 || 0 || 11
+|-
+| [https://chisel.weirdgloop.org/varbs/display?varbit=13320 13320] || deadman_allstar_tracking_correct_overhead || 5575 || 12 || 18
+|-
+| [https://chisel.weirdgloop.org/varbs/display?varbit=13321 13321] || deadman_allstar_tracking_correct_offensive_attack || 5575 || 19 || 25
+|-
+| [https://chisel.weirdgloop.org/varbs/display?varbit=13322 13322] || deadman_allstar_tracking_chance_counter || 5576 || 0 || 6
+|-
+| [https://chisel.weirdgloop.org/varbs/display?varbit=13323 13323] || deadman_allstar_tracking_hit_on_robes_counter || 5576 || 7 || 13
+|-
+| [https://chisel.weirdgloop.org/varbs/display?varbit=13324 13324] || deadman_allstar_tracking_healing_not_food || 5576 || 14 || 25
+|-
+| [https://chisel.weirdgloop.org/varbs/display?varbit=13325 13325] || deadman_allstar_tracking_total_attacks || 5577 || 0 || 9
+|-
+| [https://chisel.weirdgloop.org/varbs/display?varbit=13326 13326] || spectator_stat_track_target || 1709 || 3 || 3
+|-
+| [https://chisel.weirdgloop.org/varbs/display?varbit=13327 13327] || spectator_total_player || 1709 || 4 || 13
+|-
+| [https://chisel.weirdgloop.org/varbs/display?varbit=13328 13328] || spectator_playerlist_is_searching || 1575 || 25 || 25
+|}
+==VarPlayers==
+===New VarPlayers===
+{| class="wikitable sortable sticky-header mw-collapsible"
+|-
+! colspan="2" | New VarPlayers
+|-
+! style="width: 15em" | id !! gameVal
+|-
+| [https://chisel.weirdgloop.org/varbs/display?varplayer=5575 5575] || deadman_allstar_data
+|-
+| [https://chisel.weirdgloop.org/varbs/display?varplayer=5576 5576] || deadman_allstar_data_2
+|-
+| [https://chisel.weirdgloop.org/varbs/display?varplayer=5577 5577] || deadman_allstar_data_3
+|-
+| [https://chisel.weirdgloop.org/varbs/display?varplayer=5578 5578] || 
+|-
+| [https://chisel.weirdgloop.org/varbs/display?varplayer=5579 5579] || 
+|-
+| [https://chisel.weirdgloop.org/varbs/display?varplayer=5580 5580] || 
+|}
+==Structs==
+===Diff Structs===
+{| class="wikitable sortable sticky-header mw-collapsible"
+|-
+! colspan="4" | Diff Structs
+|-
+! style="width: 15em" | Id !! Key !! Previous Value !! New Value
+|-
+| rowspan="2" | [https://chisel.weirdgloop.org/structs/index.html?type=structs&id=6464 6464][https://abextm.github.io/cache2/#/viewer/struct/6464 (1)]
+|-
+| params || {'1042': 'Achieve total level 2277', '1043': '<span style="color: #ee4231">Iron Chemic</span>', '1044': '<span style="color: #ee4231">19th</span> April 2026'} || {'1042': 'Achieve total level 2277', '1043': '<span style="color: #6bc71f">Kalmaars</span>', '1044': '<span style="color: #6bc71f">18th</span> April 2026'}
+|}
+==Database Rows==
+===Diff Database Rows===
+{| class="wikitable sortable sticky-header mw-collapsible"
+|-
+! colspan="6" | Diff Database Rows
+|-
+! style="width: 15em" | Id !! Table !! GameVal !! Key !! Previous Value !! New Value
+|-
+| rowspan="3" | [https://abextm.github.io/cache2/#/viewer/dbrow/4911 4911]
+| rowspan="3" | [https://abextm.github.io/cache2/#/viewer/dbtable/88 88]
+| rowspan="3" | synth_wardensboss
+|-
+| values || [[wardensboss], None, [toa_wardens_4_square_thunder_01, 6266, toa_wardens_amascut_despawn_01, 6098, toa_wardens_amascut_despawn_02, 6063, toa_wardens_amascut_despawn_03, 6051, toa_wardens_amascut_despawn_04, 6253, toa_wardens_amascut_despawn_05, 6173, toa_wardens_attackcentre_arm_impact_01, 6235, toa_wardens_attackcentre_chargeup_01, 6069, toa_wardens_attackcentre_quicker_chargeup_01, 6112, toa_wardens_attackcentre_quicker_whoosh_01, 6105, toa_wardens_attackcentre_quikcer_chargeup_01, 6108, toa_wardens_attackcentre_whoosh_01, 6099, toa_wardens_attackleft_charge_up_01, 6046, toa_wardens_attackleft_charge_up_quicker_02, 6192, toa_wardens_attack_centre_bass_01, 6134, toa_wardens_attack_throw_whoosh_01, 6181, toa_wardens_attack_throw_whoosh_02, 6093, toa_wardens_attack_throw_whoosh_03, 6118, toa_wardens_big_red_projectile_impact_01, 6073, toa_wardens_big_red_projectile_spawn_and_travel_01, 6119, toa_wardens_blue_orb_landing_01, 6159, toa_wardens_charge_arm_spread_01, 6213, toa_wardens_charge_engage_01, 6100, toa_wardens_charge_engage_high_pitch_01, 6176, toa_wardens_charge_engage_high_pitch_02, 6034, toa_wardens_charge_engage_whoosh_01, 6072, toa_wardens_charge_particles_movement_01, 6168, toa_wardens_charge_particles_movement_02, 6207, toa_wardens_core_heartbeat_01, 6225, toa_wardens_core_land_impact_01, 6201, toa_wardens_death_arm_crumble_01, 6047, toa_wardens_death_arm_crumble_02, 6187, toa_wardens_death_arm_crumble_03, 6125, toa_wardens_death_body_breaks_from_hand_01, 6211, toa_wardens_death_body_crumbling_01, 6232, toa_wardens_death_body_crumbling_02, 6059, toa_wardens_death_body_fall_01, 6090, toa_wardens_death_body_fall_02, 6060, toa_wardens_death_failed_arm_thrust_01, 6149, toa_wardens_death_failed_powerup_01, 6240, toa_wardens_death_failed_punch_01, 6068, toa_wardens_death_failed_punch_02, 6074, toa_wardens_death_falls_to_knees_01, 6113, toa_wardens_death_final_rock_crumble_01, 6127, toa_wardens_death_final_rock_crumble_02, 6171, toa_wardens_death_first_footstep_01, 6080, toa_wardens_death_first_grab_floor_01, 6094, toa_wardens_death_fly_back_01, 6251, toa_wardens_death_full_body_impact_01, 6049, toa_wardens_death_grab_floor_01, 6082, toa_wardens_death_head_falling_sweep_01, 6035, toa_wardens_death_head_falling_to_knees_01, 6265, toa_wardens_death_head_fall_impact_01, 6064, toa_wardens_death_head_slides_off, 6245, toa_wardens_death_high_wind_01, 6262, toa_wardens_death_second_fly_back_01, 6058, toa_wardens_death_second_footstep_01, 6209, toa_wardens_death_standup_step_01, 6214, toa_wardens_death_strong_fourth_wind_01, 6229, toa_wardens_death_strong_second_wind_01, 6054, toa_wardens_death_strong_third_wind_01, 6137, toa_wardens_death_strong_wind_01, 6199, toa_wardens_defend_01, 6591, toa_wardens_destroy_core_from_warnden_01, 6083, toa_wardens_enraged_strong_wind1_01, 6160, toa_wardens_enraged_strong_wind2_01, 6216, toa_wardens_enraged_strong_wind3_01, 6107, toa_wardens_enraged_tile_swoosh_01, 6247, toa_wardens_enraged_tile_swoosh_02, 6153, toa_wardens_enraged_tile_swoosh_03, 6124, toa_wardens_enraged_tile_swoosh_04, 6219, toa_wardens_enrage_lightning_01, 6116, toa_wardens_enranged_shaking_01, 6193, toa_wardens_enranged_shaking_02, 6042, toa_wardens_enranging_charge_01, 6162, toa_wardens_enranging_power_up_01, 6189, toa_wardens_explosion01_body_debris_01, 6184, toa_wardens_explosion01_body_debris_02, 6206, toa_wardens_explosion01_body_debris_03, 6172, toa_wardens_explosion01_body_final_debris_01, 6117, toa_wardens_explosion01_body_final_debris_02, 6122, toa_wardens_explosion01_body_first_debris_01, 6040, toa_wardens_explosion01_final_body_impact_01, 6141, toa_wardens_explosion01_rocks_falling_01, 6180, toa_wardens_explosion01_rocks_falling_02, 6227, toa_wardens_explosion01_rocks_falling_03, 6218, toa_wardens_explosion01_rocks_falling_04, 6252, toa_wardens_explosion01_rocks_falling_05, 6212, toa_wardens_explosion_arm_throw_back_01, 6084, toa_wardens_full_wind1_01, 6143, toa_wardens_full_wind2_01, 6044, toa_wardens_ground_tile_fly_01, 6152, toa_wardens_ground_tile_fly_02, 6062, toa_wardens_head_falls_off_01, 6188, toa_wardens_high_whish_01, 6039, toa_wardens_impact_body_movement_01, 6161, toa_wardens_kneel_core_projectile_01, 6222, toa_wardens_kneel_core_projectile_02, 6250, toa_wardens_kneel_first_hit_floor_01, 6104, toa_wardens_kneel_movement1_01, 6194, toa_wardens_kneel_movement2_01, 6248, toa_wardens_kneel_shake_01, 6264, toa_wardens_low_whoosh_01, 6048, toa_wardens_magic_ceiling_lights_01, 6097, toa_wardens_magic_ceiling_lights_despawn_01, 6077, toa_wardens_magic_ceiling_lights_spawn_&_rotate_01, 6132, toa_wardens_magic_charge_up_01, 6236, toa_wardens_magic_projectile_01, 6138, toa_wardens_magic_shot_01, 6242, toa_wardens_melee_footstep_01, 6177, toa_wardens_melee_swoosh_high_impact_02, 6095, toa_wardens_melee_swoosh_impact_01, 6231, toa_wardens_melee_swoosh_impact_02, 6076, toa_wardens_melee_swoosh_impact_04, 6123, toa_wardens_melee_sword_strike_01, 6053, toa_wardens_melee_sword_strike_02 , <span style="color: #ee4231">11523</span>, toa_wardens_melee_whoosh_01, 6154, toa_wardens_melee_whoosh_02, 6088, toa_wardens_melee_whoosh_03, 6111, toa_wardens_nice_rock_debris_sound_explosion, 6109, toa_wardens_obelisk_destroyed_01, 6195, toa_wardens_obelisk_hit_01, 6595, toa_wardens_obelisk_ignite_01, 6081, toa_wardens_obelisk_power_down_phase1_end_01, 6131, toa_wardens_obelisk_red_thunder_projectile_falling_01, 6260, toa_wardens_obelisk_red_thunder_projectile_fall_impact_01, 6121, toa_wardens_obelisk_red_thunder_projectile_fall_impact_02, 6055, toa_wardens_phase3_red_projectiles_01, 6230, toa_wardens_range_high_whiish_01, 6136, toa_wardens_range_high_whish_01, 6221, toa_wardens_range_low_whoosh_01, 6146, toa_wardens_range_prep_01, 6268, toa_wardens_range_prep_02, 6139, toa_wardens_range_prep_03, 6126, toa_wardens_range_prep_04, 6263, toa_wardens_range_prep_05, 6239, toa_wardens_range_prep_06, 6238, toa_wardens_range_projectile_01, 6156, toa_wardens_range_projectile_02, 6165, toa_wardens_range_projectile_03, 6163, toa_wardens_range_projectile_04, 6103, toa_wardens_range_projectile_impact_01, 6257, toa_wardens_range_slash_01, 6067, toa_wardens_range_smack_01, 6144, toa_wardens_range_start_01, 6224, toa_wardens_red_projectiles_01, 6070, toa_wardens_red_thunder_01, 6203, toa_wardens_red_thunder_02, 6174, toa_wardens_red_thunder_03, 6102, toa_wardens_red_thunder_04, 6079, toa_wardens_red_thunder_05, 6106, toa_wardens_red_thunder_06, 6158, toa_wardens_red_thunder_07, 6223, toa_wardens_red_thunder_08, 6164, toa_wardens_red_thunder_09, 6147, toa_wardens_red_thunder_10, 6233, toa_wardens_red_thunder_11, 6186, toa_wardens_red_tille_quarter_whoosh_01, 6092, toa_wardens_red_waves_01, 6258, toa_wardens_release_movement_01, 6202, toa_wardens_release_movement_02, 6200, toa_wardens_release_particles_appear_01, 6078, toa_wardens_release_particles_appear_02, 6157, toa_wardens_release_upwards_thurst_01, 6241, toa_wardens_release_whoosh_movement_01, 6036, toa_wardens_release_whoosh_movement_02, 6217, toa_wardens_release_whoosh_movement_03, 6208, toa_wardens_single_tile_sweep_01, 6128, toa_wardens_single_tile_sweep_impact_thunder_01, 6145, toa_wardens_skulls_travel_01, 6087, toa_wardens_small_red_projectile_falling_01, 6148, toa_wardens_square_thunder1_01, 6182, toa_wardens_square_thunder2_01, 6256, toa_wardens_square_thunder3_01, 6234, toa_wardens_square_thunder4_01, 6135, toa_wardens_staggered_impact_01, 6243, toa_wardens_staggered_orb_hit_warden_01, 6183, toa_wardens_staggers_dizzy_01, 6215, toa_wardens_staggers_fall_back_impact_01, 6110, toa_wardens_staggers_particles_appear_01, 6115, toa_wardens_staggers_whoosh_01, 6038, toa_wardens_standup_movement_01, 6210, toa_wardens_standup_movement_02, 6114, toa_wardens_standup_weapons_prep_01, 6267, toa_wardens_standup_weapons_prep_02, 6246, toa_wardens_stomp_01, 6254, toa_wardens_stomp_body_movement_01, 6086, toa_wardens_thunder_impact_01, 6065, toa_wardens_thunder_travelling_warden_01, 6191, toa_wardens_tiles_central_ripple_01, 6179, toa_wardens_tiles_clicks_01, 6120, toa_wardens_tiles_clicks_02, 6197, toa_wardens_tiles_impact_centre_01, 6057, toa_wardens_tiles_impact_centre_02, 6066, toa_wardens_tiles_impact_left_01, 6255, toa_wardens_tiles_impact_left_02, 6151, toa_wardens_tiles_impact_right_01, 6237, toa_wardens_tiles_impact_right_02, 6129, toa_wardens_wake02_slow_rising_01, 6244, toa_wardens_wake02_slow_rising_head_shake_01, 6175, toa_wardens_wake2_body_rising_01, 6228, toa_wardens_wake2_impact_magic_spotanim_whoosh_01, 6142, toa_wardens_wake2_magic_spotanim_particles_combined_01, 6226, toa_wardens_wake2_magic_spotanim_particles_combined_percussive_01, 6061, toa_wardens_wake2_magic_spotanim_particles_fly_away_01, 6261, toa_wardens_wake2_magic_spotanim_particles_shot_01, 6220, toa_wardens_wake2_magic_spotanim_particle_movement1_01, 6085, toa_wardens_wake2_magic_spotanim_particle_movement2_01, 6043, toa_wardens_wake2_magic_spotanim_particle_movement3_01, 6155, toa_wardens_wake2_shaking_scream_01, 6196, toa_wardens_wake_staccato_01, 6052, toa_wardens_wake_up_first_footstep_01, 6037, toa_wardens_wake_up_first_leg_break_free_01, 6045, toa_wardens_wake_up_first_leg_break_free_02, 6198, toa_wardens_wake_up_last_leg_movement_01, 6101, toa_wardens_wake_up_leg_break_free_01, 6167, toa_wardens_wake_up_leg_jerk_01, 6130, toa_wardens_wake_up_leg_jerk_02, 6204, toa_wardens_wake_up_leg_jerk_03, 6259, toa_wardens_wake_up_leg_jerk_04, 6071, toa_wardens_wake_up_leg_jerk_05, 6170, toa_wardens_wake_up_leg_jerk_06, 6089, toa_wardens_wake_up_leg_jerk_07, 6190, toa_wardens_wake_up_leg_stuck_01, 6249, toa_wardens_wake_up_power_01, 6205, toa_wardens_wake_up_second_footstep_01, 6178, toa_wardens_wake_up_second_leg_break_free_01, 6091, toa_wardens_wake_up_third_footstep_01, 6150, toa_wardens_walk_ste1_01, 6096, toa_wardens_walk_step1_01, 6041, toa_wardens_walk_step1_02, 6166, toa_wardens_walk_step1_03, 6056, toa_wardens_walk_step2_01, 6140, toa_wardens_walk_step2_02, 6050, toa_wardens_woke_awakening_01, 6185, toa_wardens_woke_rock_movement_1_01, 6169, toa_wardens_woke_rock_movement_2_01, 6133], [4899]] || [[wardensboss], None, [toa_wardens_4_square_thunder_01, 6266, toa_wardens_amascut_despawn_01, 6098, toa_wardens_amascut_despawn_02, 6063, toa_wardens_amascut_despawn_03, 6051, toa_wardens_amascut_despawn_04, 6253, toa_wardens_amascut_despawn_05, 6173, toa_wardens_attackcentre_arm_impact_01, 6235, toa_wardens_attackcentre_chargeup_01, 6069, toa_wardens_attackcentre_quicker_chargeup_01, 6112, toa_wardens_attackcentre_quicker_whoosh_01, 6105, toa_wardens_attackcentre_quikcer_chargeup_01, 6108, toa_wardens_attackcentre_whoosh_01, 6099, toa_wardens_attackleft_charge_up_01, 6046, toa_wardens_attackleft_charge_up_quicker_02, 6192, toa_wardens_attack_centre_bass_01, 6134, toa_wardens_attack_throw_whoosh_01, 6181, toa_wardens_attack_throw_whoosh_02, 6093, toa_wardens_attack_throw_whoosh_03, 6118, toa_wardens_big_red_projectile_impact_01, 6073, toa_wardens_big_red_projectile_spawn_and_travel_01, 6119, toa_wardens_blue_orb_landing_01, 6159, toa_wardens_charge_arm_spread_01, 6213, toa_wardens_charge_engage_01, 6100, toa_wardens_charge_engage_high_pitch_01, 6176, toa_wardens_charge_engage_high_pitch_02, 6034, toa_wardens_charge_engage_whoosh_01, 6072, toa_wardens_charge_particles_movement_01, 6168, toa_wardens_charge_particles_movement_02, 6207, toa_wardens_core_heartbeat_01, 6225, toa_wardens_core_land_impact_01, 6201, toa_wardens_death_arm_crumble_01, 6047, toa_wardens_death_arm_crumble_02, 6187, toa_wardens_death_arm_crumble_03, 6125, toa_wardens_death_body_breaks_from_hand_01, 6211, toa_wardens_death_body_crumbling_01, 6232, toa_wardens_death_body_crumbling_02, 6059, toa_wardens_death_body_fall_01, 6090, toa_wardens_death_body_fall_02, 6060, toa_wardens_death_failed_arm_thrust_01, 6149, toa_wardens_death_failed_powerup_01, 6240, toa_wardens_death_failed_punch_01, 6068, toa_wardens_death_failed_punch_02, 6074, toa_wardens_death_falls_to_knees_01, 6113, toa_wardens_death_final_rock_crumble_01, 6127, toa_wardens_death_final_rock_crumble_02, 6171, toa_wardens_death_first_footstep_01, 6080, toa_wardens_death_first_grab_floor_01, 6094, toa_wardens_death_fly_back_01, 6251, toa_wardens_death_full_body_impact_01, 6049, toa_wardens_death_grab_floor_01, 6082, toa_wardens_death_head_falling_sweep_01, 6035, toa_wardens_death_head_falling_to_knees_01, 6265, toa_wardens_death_head_fall_impact_01, 6064, toa_wardens_death_head_slides_off, 6245, toa_wardens_death_high_wind_01, 6262, toa_wardens_death_second_fly_back_01, 6058, toa_wardens_death_second_footstep_01, 6209, toa_wardens_death_standup_step_01, 6214, toa_wardens_death_strong_fourth_wind_01, 6229, toa_wardens_death_strong_second_wind_01, 6054, toa_wardens_death_strong_third_wind_01, 6137, toa_wardens_death_strong_wind_01, 6199, toa_wardens_defend_01, 6591, toa_wardens_destroy_core_from_warnden_01, 6083, toa_wardens_enraged_strong_wind1_01, 6160, toa_wardens_enraged_strong_wind2_01, 6216, toa_wardens_enraged_strong_wind3_01, 6107, toa_wardens_enraged_tile_swoosh_01, 6247, toa_wardens_enraged_tile_swoosh_02, 6153, toa_wardens_enraged_tile_swoosh_03, 6124, toa_wardens_enraged_tile_swoosh_04, 6219, toa_wardens_enrage_lightning_01, 6116, toa_wardens_enranged_shaking_01, 6193, toa_wardens_enranged_shaking_02, 6042, toa_wardens_enranging_charge_01, 6162, toa_wardens_enranging_power_up_01, 6189, toa_wardens_explosion01_body_debris_01, 6184, toa_wardens_explosion01_body_debris_02, 6206, toa_wardens_explosion01_body_debris_03, 6172, toa_wardens_explosion01_body_final_debris_01, 6117, toa_wardens_explosion01_body_final_debris_02, 6122, toa_wardens_explosion01_body_first_debris_01, 6040, toa_wardens_explosion01_final_body_impact_01, 6141, toa_wardens_explosion01_rocks_falling_01, 6180, toa_wardens_explosion01_rocks_falling_02, 6227, toa_wardens_explosion01_rocks_falling_03, 6218, toa_wardens_explosion01_rocks_falling_04, 6252, toa_wardens_explosion01_rocks_falling_05, 6212, toa_wardens_explosion_arm_throw_back_01, 6084, toa_wardens_full_wind1_01, 6143, toa_wardens_full_wind2_01, 6044, toa_wardens_ground_tile_fly_01, 6152, toa_wardens_ground_tile_fly_02, 6062, toa_wardens_head_falls_off_01, 6188, toa_wardens_high_whish_01, 6039, toa_wardens_impact_body_movement_01, 6161, toa_wardens_kneel_core_projectile_01, 6222, toa_wardens_kneel_core_projectile_02, 6250, toa_wardens_kneel_first_hit_floor_01, 6104, toa_wardens_kneel_movement1_01, 6194, toa_wardens_kneel_movement2_01, 6248, toa_wardens_kneel_shake_01, 6264, toa_wardens_low_whoosh_01, 6048, toa_wardens_magic_ceiling_lights_01, 6097, toa_wardens_magic_ceiling_lights_despawn_01, 6077, toa_wardens_magic_ceiling_lights_spawn_&_rotate_01, 6132, toa_wardens_magic_charge_up_01, 6236, toa_wardens_magic_projectile_01, 6138, toa_wardens_magic_shot_01, 6242, toa_wardens_melee_footstep_01, 6177, toa_wardens_melee_swoosh_high_impact_02, 6095, toa_wardens_melee_swoosh_impact_01, 6231, toa_wardens_melee_swoosh_impact_02, 6076, toa_wardens_melee_swoosh_impact_04, 6123, toa_wardens_melee_sword_strike_01, 6053, toa_wardens_melee_sword_strike_02 , <span style="color: #6bc71f">11527</span>, toa_wardens_melee_whoosh_01, 6154, toa_wardens_melee_whoosh_02, 6088, toa_wardens_melee_whoosh_03, 6111, toa_wardens_nice_rock_debris_sound_explosion, 6109, toa_wardens_obelisk_destroyed_01, 6195, toa_wardens_obelisk_hit_01, 6595, toa_wardens_obelisk_ignite_01, 6081, toa_wardens_obelisk_power_down_phase1_end_01, 6131, toa_wardens_obelisk_red_thunder_projectile_falling_01, 6260, toa_wardens_obelisk_red_thunder_projectile_fall_impact_01, 6121, toa_wardens_obelisk_red_thunder_projectile_fall_impact_02, 6055, toa_wardens_phase3_red_projectiles_01, 6230, toa_wardens_range_high_whiish_01, 6136, toa_wardens_range_high_whish_01, 6221, toa_wardens_range_low_whoosh_01, 6146, toa_wardens_range_prep_01, 6268, toa_wardens_range_prep_02, 6139, toa_wardens_range_prep_03, 6126, toa_wardens_range_prep_04, 6263, toa_wardens_range_prep_05, 6239, toa_wardens_range_prep_06, 6238, toa_wardens_range_projectile_01, 6156, toa_wardens_range_projectile_02, 6165, toa_wardens_range_projectile_03, 6163, toa_wardens_range_projectile_04, 6103, toa_wardens_range_projectile_impact_01, 6257, toa_wardens_range_slash_01, 6067, toa_wardens_range_smack_01, 6144, toa_wardens_range_start_01, 6224, toa_wardens_red_projectiles_01, 6070, toa_wardens_red_thunder_01, 6203, toa_wardens_red_thunder_02, 6174, toa_wardens_red_thunder_03, 6102, toa_wardens_red_thunder_04, 6079, toa_wardens_red_thunder_05, 6106, toa_wardens_red_thunder_06, 6158, toa_wardens_red_thunder_07, 6223, toa_wardens_red_thunder_08, 6164, toa_wardens_red_thunder_09, 6147, toa_wardens_red_thunder_10, 6233, toa_wardens_red_thunder_11, 6186, toa_wardens_red_tille_quarter_whoosh_01, 6092, toa_wardens_red_waves_01, 6258, toa_wardens_release_movement_01, 6202, toa_wardens_release_movement_02, 6200, toa_wardens_release_particles_appear_01, 6078, toa_wardens_release_particles_appear_02, 6157, toa_wardens_release_upwards_thurst_01, 6241, toa_wardens_release_whoosh_movement_01, 6036, toa_wardens_release_whoosh_movement_02, 6217, toa_wardens_release_whoosh_movement_03, 6208, toa_wardens_single_tile_sweep_01, 6128, toa_wardens_single_tile_sweep_impact_thunder_01, 6145, toa_wardens_skulls_travel_01, 6087, toa_wardens_small_red_projectile_falling_01, 6148, toa_wardens_square_thunder1_01, 6182, toa_wardens_square_thunder2_01, 6256, toa_wardens_square_thunder3_01, 6234, toa_wardens_square_thunder4_01, 6135, toa_wardens_staggered_impact_01, 6243, toa_wardens_staggered_orb_hit_warden_01, 6183, toa_wardens_staggers_dizzy_01, 6215, toa_wardens_staggers_fall_back_impact_01, 6110, toa_wardens_staggers_particles_appear_01, 6115, toa_wardens_staggers_whoosh_01, 6038, toa_wardens_standup_movement_01, 6210, toa_wardens_standup_movement_02, 6114, toa_wardens_standup_weapons_prep_01, 6267, toa_wardens_standup_weapons_prep_02, 6246, toa_wardens_stomp_01, 6254, toa_wardens_stomp_body_movement_01, 6086, toa_wardens_thunder_impact_01, 6065, toa_wardens_thunder_travelling_warden_01, 6191, toa_wardens_tiles_central_ripple_01, 6179, toa_wardens_tiles_clicks_01, 6120, toa_wardens_tiles_clicks_02, 6197, toa_wardens_tiles_impact_centre_01, 6057, toa_wardens_tiles_impact_centre_02, 6066, toa_wardens_tiles_impact_left_01, 6255, toa_wardens_tiles_impact_left_02, 6151, toa_wardens_tiles_impact_right_01, 6237, toa_wardens_tiles_impact_right_02, 6129, toa_wardens_wake02_slow_rising_01, 6244, toa_wardens_wake02_slow_rising_head_shake_01, 6175, toa_wardens_wake2_body_rising_01, 6228, toa_wardens_wake2_impact_magic_spotanim_whoosh_01, 6142, toa_wardens_wake2_magic_spotanim_particles_combined_01, 6226, toa_wardens_wake2_magic_spotanim_particles_combined_percussive_01, 6061, toa_wardens_wake2_magic_spotanim_particles_fly_away_01, 6261, toa_wardens_wake2_magic_spotanim_particles_shot_01, 6220, toa_wardens_wake2_magic_spotanim_particle_movement1_01, 6085, toa_wardens_wake2_magic_spotanim_particle_movement2_01, 6043, toa_wardens_wake2_magic_spotanim_particle_movement3_01, 6155, toa_wardens_wake2_shaking_scream_01, 6196, toa_wardens_wake_staccato_01, 6052, toa_wardens_wake_up_first_footstep_01, 6037, toa_wardens_wake_up_first_leg_break_free_01, 6045, toa_wardens_wake_up_first_leg_break_free_02, 6198, toa_wardens_wake_up_last_leg_movement_01, 6101, toa_wardens_wake_up_leg_break_free_01, 6167, toa_wardens_wake_up_leg_jerk_01, 6130, toa_wardens_wake_up_leg_jerk_02, 6204, toa_wardens_wake_up_leg_jerk_03, 6259, toa_wardens_wake_up_leg_jerk_04, 6071, toa_wardens_wake_up_leg_jerk_05, 6170, toa_wardens_wake_up_leg_jerk_06, 6089, toa_wardens_wake_up_leg_jerk_07, 6190, toa_wardens_wake_up_leg_stuck_01, 6249, toa_wardens_wake_up_power_01, 6205, toa_wardens_wake_up_second_footstep_01, 6178, toa_wardens_wake_up_second_leg_break_free_01, 6091, toa_wardens_wake_up_third_footstep_01, 6150, toa_wardens_walk_ste1_01, 6096, toa_wardens_walk_step1_01, 6041, toa_wardens_walk_step1_02, 6166, toa_wardens_walk_step1_03, 6056, toa_wardens_walk_step2_01, 6140, toa_wardens_walk_step2_02, 6050, toa_wardens_woke_awakening_01, 6185, toa_wardens_woke_rock_movement_1_01, 6169, toa_wardens_woke_rock_movement_2_01, 6133], [4899]]
+|-
+| types || [[36], None, [36, 14], [74]] || [[36], None, [36, 14], [74]]
+|-
+| rowspan="3" | [https://abextm.github.io/cache2/#/viewer/dbrow/4912 4912]
+| rowspan="3" | [https://abextm.github.io/cache2/#/viewer/dbtable/88 88]
+| rowspan="3" | synth_zabakboss
+|-
+| values || [[zabakboss], None, [toa_zebak02_final_tail_swing_01, 5889, toa_zebak02_tail_impact_01, 5859, toa_zebak02_tail_impact_02, 5834, toa_zebak02_tail_swing_01, 5847, toa_zebak02_tail_swing_02, 5921, toa_zebak_attack_hand_stomp_01, 5845, toa_zebak_attack_hand_stomp_final_01, 5851, toa_zebak_attack_hand_stomp_first_01, 5860, toa_zebak_attack_hand_stomp_left_01, 5835, toa_zebak_attack_jaw_shut_01, 5863, toa_zebak_attack_jaw_shut_02 , <span style="color: #ee4231">11524</span>, toa_zebak_attack_melee_enranged_jaw_snap_01, 5850, toa_zebak_attack_melee_enranged_roar_01, 5857, toa_zebak_attack_melee_enranged_roar_02, 5917, toa_zebak_attack_melee_high_hand_hit_01, 5895, toa_zebak_attack_melee_high_hand_hit_02, 5846, toa_zebak_attack_melee_high_hand_hit_03, 5903, toa_zebak_attack_melee_high_hand_hit_high_pitch_01, 5916, toa_zebak_attack_melee_high_roar_01, 5915, toa_zebak_attack_melee_high_roar_02, 5844, toa_zebak_attack_melee_jaw_snap_shut_01, 5822, toa_zebak_attack_melee_jaw_snap_shut_02, 5853, toa_zebak_attack_melee_roar_01, 5876, toa_zebak_attack_roar_01, 5894, toa_zebak_attack_roar_02, 5902, toa_zebak_attack_roar_03, 5910, toa_zebak_attack_roar_04, 5900, toa_zebak_attack_roar_05, 5836, toa_zebak_attack_roar_bass_01, 5923, toa_zebak_attack_roar_bass_02, 5838, toa_zebak_attack_roar_high_01, 5870, toa_zebak_attack_roar_high_02, 5904, toa_zebak_attack_roar_impact_01, 5854, toa_zebak_attack_special_final_hand_impact_01, 5821, toa_zebak_attack_special_intro_growl_01, 5858, toa_zebak_attack_special_roar_01, 5861, toa_zebak_attack_tail_growl_01, 5866, toa_zebak_attack_tail_roar_01, 5922, toa_zebak_death_first_floor_hit_01, 5893, toa_zebak_death_first_floor_hit_02, 5824, toa_zebak_death_first_roar_01, 5907, toa_zebak_death_roar_05, 5879, toa_zebak_death_roar_06, 5841, toa_zebak_death_second_floor_hit_01, 5868, toa_zebak_death_second_floor_hit_02, 5898, toa_zebak_death_second_roar_01, 5827, toa_zebak_death_stutter_roar_01, 5856, toa_zebak_death_stutter_roar_02, 5918, toa_zebak_death_stutter_roar_03, 5833, toa_zebak_death_stutter_roar_04, 5873, toa_zebak_debris_impact_01, 5913, toa_zebak_defend_01, 6590, toa_zebak_enraged_projectile_01, 5820, toa_zebak_falling_rocks_sweep_01, 5882, toa_zebak_fallling_rocks_01, 5855, toa_zebak_fallling_rocks_water_impact_01, 5843, toa_zebak_fallling_rocks_water_splash_01, 5880, toa_zebak_jug_break_01, 5865, toa_zebak_jug_break_02, 5869, toa_zebak_neutral_projectile_01, 5871, toa_zebak_neutral_projectile_02, 5890, toa_zebak_object_land_01, 5867, toa_zebak_object_land_02, 5905, toa_zebak_projectile_impact_01, 5884, toa_zebak_purple_projectile_01, 5825, toa_zebak_purple_projectile_02, 5849, toa_zebak_ranged_enranged_gulp_01, 5897, toa_zebak_ranged_enranged_gulp_02, 5885, toa_zebak_ranged_enranged_roar_01, 5818, toa_zebak_ranged_projectile_01, 5875, toa_zebak_ranged_projectile_02, 5906, toa_zebak_ranged_roar_01, 5872, toa_zebak_ranged_roar_02, 5862, toa_zebak_ranged_swallow_01, 5919, toa_zebak_redirected_jug_break_01, 5878, toa_zebak_redirected_projectile_01, 5901, toa_zebak_redirected_projectile_02, 5896, toa_zebak_red_projectile_01, 5828, toa_zebak_red_projectile_02, 5886, toa_zebak_red_projectile_03, 5892, toa_zebak_red_projectile_04, 5823, toa_zebak_roar_single_tremor_01, 5829, toa_zebak_roar_single_tremor_02, 5881, toa_zebak_roar_single_tremor_03, 5888, toa_zebak_roar_tremor_01, 5911, toa_zebak_roar_tremor_02, 5912, toa_zebak_roar_tremor_03, 5842, toa_zebak_tidal_wave_01, 5832, toa_zebak_tidal_wave_10s_02, 5920, toa_zebak_tidal_wave_10s_03, 5839, toa_zebak_tidal_wave_10s_04, 5864, toa_zebak_tidal_wave_7600ms_01, 5852, toa_zebak_vomit_colours_projectile_01, 5831, toa_zebak_vomit_colours_projectile_02, 5877, toa_zebak_vomit_colours_projectile_03, 5874, toa_zebak_vomit_colours_projectile_04, 5891, toa_zebak_vomit_colours_projectile_05, 5914, toa_zebak_vomit_colours_projectile_06, 5840, toa_zebak_vomit_colours_projectile_08, 5848, toa_zebak_vomit_colours_projectile_09, 5883, toa_zebak_vomit_colours_projectile_10, 5908, toa_zebak_vomit_colours_projectile_splat_01, 5899, toa_zebak_vomit_colours_projectile_splat_02, 5887, toa_zebak_vomit_colours_projectile_splat_03, 5909, toa_zebak_whoosh_projectile_01, 5826, toa_zebak_whoosh_projectile_02, 5819], [4899]] || [[zabakboss], None, [toa_zebak02_final_tail_swing_01, 5889, toa_zebak02_tail_impact_01, 5859, toa_zebak02_tail_impact_02, 5834, toa_zebak02_tail_swing_01, 5847, toa_zebak02_tail_swing_02, 5921, toa_zebak_attack_hand_stomp_01, 5845, toa_zebak_attack_hand_stomp_final_01, 5851, toa_zebak_attack_hand_stomp_first_01, 5860, toa_zebak_attack_hand_stomp_left_01, 5835, toa_zebak_attack_jaw_shut_01, 5863, toa_zebak_attack_jaw_shut_02 , <span style="color: #6bc71f">11528</span>, toa_zebak_attack_melee_enranged_jaw_snap_01, 5850, toa_zebak_attack_melee_enranged_roar_01, 5857, toa_zebak_attack_melee_enranged_roar_02, 5917, toa_zebak_attack_melee_high_hand_hit_01, 5895, toa_zebak_attack_melee_high_hand_hit_02, 5846, toa_zebak_attack_melee_high_hand_hit_03, 5903, toa_zebak_attack_melee_high_hand_hit_high_pitch_01, 5916, toa_zebak_attack_melee_high_roar_01, 5915, toa_zebak_attack_melee_high_roar_02, 5844, toa_zebak_attack_melee_jaw_snap_shut_01, 5822, toa_zebak_attack_melee_jaw_snap_shut_02, 5853, toa_zebak_attack_melee_roar_01, 5876, toa_zebak_attack_roar_01, 5894, toa_zebak_attack_roar_02, 5902, toa_zebak_attack_roar_03, 5910, toa_zebak_attack_roar_04, 5900, toa_zebak_attack_roar_05, 5836, toa_zebak_attack_roar_bass_01, 5923, toa_zebak_attack_roar_bass_02, 5838, toa_zebak_attack_roar_high_01, 5870, toa_zebak_attack_roar_high_02, 5904, toa_zebak_attack_roar_impact_01, 5854, toa_zebak_attack_special_final_hand_impact_01, 5821, toa_zebak_attack_special_intro_growl_01, 5858, toa_zebak_attack_special_roar_01, 5861, toa_zebak_attack_tail_growl_01, 5866, toa_zebak_attack_tail_roar_01, 5922, toa_zebak_death_first_floor_hit_01, 5893, toa_zebak_death_first_floor_hit_02, 5824, toa_zebak_death_first_roar_01, 5907, toa_zebak_death_roar_05, 5879, toa_zebak_death_roar_06, 5841, toa_zebak_death_second_floor_hit_01, 5868, toa_zebak_death_second_floor_hit_02, 5898, toa_zebak_death_second_roar_01, 5827, toa_zebak_death_stutter_roar_01, 5856, toa_zebak_death_stutter_roar_02, 5918, toa_zebak_death_stutter_roar_03, 5833, toa_zebak_death_stutter_roar_04, 5873, toa_zebak_debris_impact_01, 5913, toa_zebak_defend_01, 6590, toa_zebak_enraged_projectile_01, 5820, toa_zebak_falling_rocks_sweep_01, 5882, toa_zebak_fallling_rocks_01, 5855, toa_zebak_fallling_rocks_water_impact_01, 5843, toa_zebak_fallling_rocks_water_splash_01, 5880, toa_zebak_jug_break_01, 5865, toa_zebak_jug_break_02, 5869, toa_zebak_neutral_projectile_01, 5871, toa_zebak_neutral_projectile_02, 5890, toa_zebak_object_land_01, 5867, toa_zebak_object_land_02, 5905, toa_zebak_projectile_impact_01, 5884, toa_zebak_purple_projectile_01, 5825, toa_zebak_purple_projectile_02, 5849, toa_zebak_ranged_enranged_gulp_01, 5897, toa_zebak_ranged_enranged_gulp_02, 5885, toa_zebak_ranged_enranged_roar_01, 5818, toa_zebak_ranged_projectile_01, 5875, toa_zebak_ranged_projectile_02, 5906, toa_zebak_ranged_roar_01, 5872, toa_zebak_ranged_roar_02, 5862, toa_zebak_ranged_swallow_01, 5919, toa_zebak_redirected_jug_break_01, 5878, toa_zebak_redirected_projectile_01, 5901, toa_zebak_redirected_projectile_02, 5896, toa_zebak_red_projectile_01, 5828, toa_zebak_red_projectile_02, 5886, toa_zebak_red_projectile_03, 5892, toa_zebak_red_projectile_04, 5823, toa_zebak_roar_single_tremor_01, 5829, toa_zebak_roar_single_tremor_02, 5881, toa_zebak_roar_single_tremor_03, 5888, toa_zebak_roar_tremor_01, 5911, toa_zebak_roar_tremor_02, 5912, toa_zebak_roar_tremor_03, 5842, toa_zebak_tidal_wave_01, 5832, toa_zebak_tidal_wave_10s_02, 5920, toa_zebak_tidal_wave_10s_03, 5839, toa_zebak_tidal_wave_10s_04, 5864, toa_zebak_tidal_wave_7600ms_01, 5852, toa_zebak_vomit_colours_projectile_01, 5831, toa_zebak_vomit_colours_projectile_02, 5877, toa_zebak_vomit_colours_projectile_03, 5874, toa_zebak_vomit_colours_projectile_04, 5891, toa_zebak_vomit_colours_projectile_05, 5914, toa_zebak_vomit_colours_projectile_06, 5840, toa_zebak_vomit_colours_projectile_08, 5848, toa_zebak_vomit_colours_projectile_09, 5883, toa_zebak_vomit_colours_projectile_10, 5908, toa_zebak_vomit_colours_projectile_splat_01, 5899, toa_zebak_vomit_colours_projectile_splat_02, 5887, toa_zebak_vomit_colours_projectile_splat_03, 5909, toa_zebak_whoosh_projectile_01, 5826, toa_zebak_whoosh_projectile_02, 5819], [4899]]
+|-
+| types || [[36], None, [36, 14], [74]] || [[36], None, [36, 14], [74]]
+|}
+==Widgets==
+===New Widgets===
+{| class="wikitable sortable sticky-header mw-collapsible"
+|-
+! colspan="9" | New Widgets
+|-
+! style="width: 15em" | id !! gameVal !! parentId !! type !! name !! text !! tooltip !! actions !! configActions
+|-
+| [https://abextm.github.io/cache2/#/viewer/interface/62586880 62586880] || [https://oldschool.runescape.wiki/w/Special:Ask?q=%5B%5BFile:+%5D%5D%20%5B%5BInterface%20name::allstar_oculus%5D%5D&po=%3FInterface%20name&format=table&p%5Dlimit%5B=50 allstar_oculus] || -1 || 0 ||  ||  || Ok ||  || null
+|-
+| [https://abextm.github.io/cache2/#/viewer/interface/62586880 62586880] || [https://oldschool.runescape.wiki/w/Special:Ask?q=%5B%5BFile:+%5D%5D%20%5B%5BInterface%20name::allstar_oculus%5D%5D&po=%3FInterface%20name&format=table&p%5Dlimit%5B=50 allstar_oculus] || -1 || 0 ||  ||  || Ok ||  || null
+|-
+| [https://abextm.github.io/cache2/#/viewer/interface/62586880 62586880] || [https://oldschool.runescape.wiki/w/Special:Ask?q=%5B%5BFile:+%5D%5D%20%5B%5BInterface%20name::allstar_oculus%5D%5D&po=%3FInterface%20name&format=table&p%5Dlimit%5B=50 allstar_oculus] || -1 || 0 ||  ||  || Ok ||  || null
+|-
+| [https://abextm.github.io/cache2/#/viewer/interface/62586880 62586880] || [https://oldschool.runescape.wiki/w/Special:Ask?q=%5B%5BFile:+%5D%5D%20%5B%5BInterface%20name::allstar_oculus%5D%5D&po=%3FInterface%20name&format=table&p%5Dlimit%5B=50 allstar_oculus] || -1 || 0 ||  ||  || Ok ||  || null
+|-
+| [https://abextm.github.io/cache2/#/viewer/interface/62586880 62586880] || [https://oldschool.runescape.wiki/w/Special:Ask?q=%5B%5BFile:+%5D%5D%20%5B%5BInterface%20name::allstar_oculus%5D%5D&po=%3FInterface%20name&format=table&p%5Dlimit%5B=50 allstar_oculus] || -1 || 0 ||  ||  || Ok ||  || null
+|-
+| [https://abextm.github.io/cache2/#/viewer/interface/62586880 62586880] || [https://oldschool.runescape.wiki/w/Special:Ask?q=%5B%5BFile:+%5D%5D%20%5B%5BInterface%20name::allstar_oculus%5D%5D&po=%3FInterface%20name&format=table&p%5Dlimit%5B=50 allstar_oculus] || -1 || 0 ||  ||  || Ok ||  || null
+|-
+| [https://abextm.github.io/cache2/#/viewer/interface/62586880 62586880] || [https://oldschool.runescape.wiki/w/Special:Ask?q=%5B%5BFile:+%5D%5D%20%5B%5BInterface%20name::allstar_oculus%5D%5D&po=%3FInterface%20name&format=table&p%5Dlimit%5B=50 allstar_oculus] || -1 || 0 ||  ||  || Ok ||  || null
+|-
+| [https://abextm.github.io/cache2/#/viewer/interface/62586880 62586880] || [https://oldschool.runescape.wiki/w/Special:Ask?q=%5B%5BFile:+%5D%5D%20%5B%5BInterface%20name::allstar_oculus%5D%5D&po=%3FInterface%20name&format=table&p%5Dlimit%5B=50 allstar_oculus] || -1 || 0 ||  ||  || Ok ||  || null
+|-
+| [https://abextm.github.io/cache2/#/viewer/interface/62586880 62586880] || [https://oldschool.runescape.wiki/w/Special:Ask?q=%5B%5BFile:+%5D%5D%20%5B%5BInterface%20name::allstar_oculus%5D%5D&po=%3FInterface%20name&format=table&p%5Dlimit%5B=50 allstar_oculus] || -1 || 0 ||  ||  || Ok ||  || null
+|-
+| [https://abextm.github.io/cache2/#/viewer/interface/62586880 62586880] || [https://oldschool.runescape.wiki/w/Special:Ask?q=%5B%5BFile:+%5D%5D%20%5B%5BInterface%20name::allstar_oculus%5D%5D&po=%3FInterface%20name&format=table&p%5Dlimit%5B=50 allstar_oculus] || -1 || 0 ||  ||  || Ok ||  || null
+|-
+| [https://abextm.github.io/cache2/#/viewer/interface/62586880 62586880] || [https://oldschool.runescape.wiki/w/Special:Ask?q=%5B%5BFile:+%5D%5D%20%5B%5BInterface%20name::allstar_oculus%5D%5D&po=%3FInterface%20name&format=table&p%5Dlimit%5B=50 allstar_oculus] || -1 || 0 ||  ||  || Ok ||  || null
+|-
+| [https://abextm.github.io/cache2/#/viewer/interface/62586880 62586880] || [https://oldschool.runescape.wiki/w/Special:Ask?q=%5B%5BFile:+%5D%5D%20%5B%5BInterface%20name::allstar_oculus%5D%5D&po=%3FInterface%20name&format=table&p%5Dlimit%5B=50 allstar_oculus] || -1 || 0 ||  ||  || Ok ||  || null
+|-
+| [https://abextm.github.io/cache2/#/viewer/interface/62586880 62586880] || [https://oldschool.runescape.wiki/w/Special:Ask?q=%5B%5BFile:+%5D%5D%20%5B%5BInterface%20name::allstar_oculus%5D%5D&po=%3FInterface%20name&format=table&p%5Dlimit%5B=50 allstar_oculus] || -1 || 0 ||  ||  || Ok ||  || null
+|-
+| [https://abextm.github.io/cache2/#/viewer/interface/62586880 62586880] || [https://oldschool.runescape.wiki/w/Special:Ask?q=%5B%5BFile:+%5D%5D%20%5B%5BInterface%20name::allstar_oculus%5D%5D&po=%3FInterface%20name&format=table&p%5Dlimit%5B=50 allstar_oculus] || -1 || 0 ||  ||  || Ok ||  || null
+|-
+| [https://abextm.github.io/cache2/#/viewer/interface/62586880 62586880] || [https://oldschool.runescape.wiki/w/Special:Ask?q=%5B%5BFile:+%5D%5D%20%5B%5BInterface%20name::allstar_oculus%5D%5D&po=%3FInterface%20name&format=table&p%5Dlimit%5B=50 allstar_oculus] || -1 || 0 ||  ||  || Ok ||  || null
+|-
+| [https://abextm.github.io/cache2/#/viewer/interface/62586880 62586880] || [https://oldschool.runescape.wiki/w/Special:Ask?q=%5B%5BFile:+%5D%5D%20%5B%5BInterface%20name::allstar_oculus%5D%5D&po=%3FInterface%20name&format=table&p%5Dlimit%5B=50 allstar_oculus] || -1 || 0 ||  ||  || Ok ||  || null
+|-
+| [https://abextm.github.io/cache2/#/viewer/interface/62586880 62586880] || [https://oldschool.runescape.wiki/w/Special:Ask?q=%5B%5BFile:+%5D%5D%20%5B%5BInterface%20name::allstar_oculus%5D%5D&po=%3FInterface%20name&format=table&p%5Dlimit%5B=50 allstar_oculus] || -1 || 0 ||  ||  || Ok ||  || null
+|-
+| [https://abextm.github.io/cache2/#/viewer/interface/62586880 62586880] || [https://oldschool.runescape.wiki/w/Special:Ask?q=%5B%5BFile:+%5D%5D%20%5B%5BInterface%20name::allstar_oculus%5D%5D&po=%3FInterface%20name&format=table&p%5Dlimit%5B=50 allstar_oculus] || -1 || 0 ||  ||  || Ok ||  || null
+|-
+| [https://abextm.github.io/cache2/#/viewer/interface/62586880 62586880] || [https://oldschool.runescape.wiki/w/Special:Ask?q=%5B%5BFile:+%5D%5D%20%5B%5BInterface%20name::allstar_oculus%5D%5D&po=%3FInterface%20name&format=table&p%5Dlimit%5B=50 allstar_oculus] || -1 || 0 ||  ||  || Ok ||  || null
+|-
+| [https://abextm.github.io/cache2/#/viewer/interface/62586880 62586880] || [https://oldschool.runescape.wiki/w/Special:Ask?q=%5B%5BFile:+%5D%5D%20%5B%5BInterface%20name::allstar_oculus%5D%5D&po=%3FInterface%20name&format=table&p%5Dlimit%5B=50 allstar_oculus] || -1 || 0 ||  ||  || Ok ||  || null
+|-
+| [https://abextm.github.io/cache2/#/viewer/interface/62586880 62586880] || [https://oldschool.runescape.wiki/w/Special:Ask?q=%5B%5BFile:+%5D%5D%20%5B%5BInterface%20name::allstar_oculus%5D%5D&po=%3FInterface%20name&format=table&p%5Dlimit%5B=50 allstar_oculus] || -1 || 0 ||  ||  || Ok ||  || null
+|-
+| [https://abextm.github.io/cache2/#/viewer/interface/62586880 62586880] || [https://oldschool.runescape.wiki/w/Special:Ask?q=%5B%5BFile:+%5D%5D%20%5B%5BInterface%20name::allstar_oculus%5D%5D&po=%3FInterface%20name&format=table&p%5Dlimit%5B=50 allstar_oculus] || -1 || 0 ||  ||  || Ok ||  || null
+|-
+| [https://abextm.github.io/cache2/#/viewer/interface/62586880 62586880] || [https://oldschool.runescape.wiki/w/Special:Ask?q=%5B%5BFile:+%5D%5D%20%5B%5BInterface%20name::allstar_oculus%5D%5D&po=%3FInterface%20name&format=table&p%5Dlimit%5B=50 allstar_oculus] || -1 || 0 ||  ||  || Ok ||  || null
+|-
+| [https://abextm.github.io/cache2/#/viewer/interface/62586880 62586880] || [https://oldschool.runescape.wiki/w/Special:Ask?q=%5B%5BFile:+%5D%5D%20%5B%5BInterface%20name::allstar_oculus%5D%5D&po=%3FInterface%20name&format=table&p%5Dlimit%5B=50 allstar_oculus] || -1 || 0 ||  ||  || Ok ||  || null
+|-
+| [https://abextm.github.io/cache2/#/viewer/interface/62586880 62586880] || [https://oldschool.runescape.wiki/w/Special:Ask?q=%5B%5BFile:+%5D%5D%20%5B%5BInterface%20name::allstar_oculus%5D%5D&po=%3FInterface%20name&format=table&p%5Dlimit%5B=50 allstar_oculus] || -1 || 0 ||  ||  || Ok ||  || null
+|-
+| [https://abextm.github.io/cache2/#/viewer/interface/62586880 62586880] || [https://oldschool.runescape.wiki/w/Special:Ask?q=%5B%5BFile:+%5D%5D%20%5B%5BInterface%20name::allstar_oculus%5D%5D&po=%3FInterface%20name&format=table&p%5Dlimit%5B=50 allstar_oculus] || -1 || 0 ||  ||  || Ok ||  || null
+|-
+| [https://abextm.github.io/cache2/#/viewer/interface/62586880 62586880] || [https://oldschool.runescape.wiki/w/Special:Ask?q=%5B%5BFile:+%5D%5D%20%5B%5BInterface%20name::allstar_oculus%5D%5D&po=%3FInterface%20name&format=table&p%5Dlimit%5B=50 allstar_oculus] || -1 || 0 ||  ||  || Ok ||  || null
+|-
+| [https://abextm.github.io/cache2/#/viewer/interface/62586880 62586880] || [https://oldschool.runescape.wiki/w/Special:Ask?q=%5B%5BFile:+%5D%5D%20%5B%5BInterface%20name::allstar_oculus%5D%5D&po=%3FInterface%20name&format=table&p%5Dlimit%5B=50 allstar_oculus] || -1 || 0 ||  ||  || Ok ||  || null
+|-
+| [https://abextm.github.io/cache2/#/viewer/interface/62586880 62586880] || [https://oldschool.runescape.wiki/w/Special:Ask?q=%5B%5BFile:+%5D%5D%20%5B%5BInterface%20name::allstar_oculus%5D%5D&po=%3FInterface%20name&format=table&p%5Dlimit%5B=50 allstar_oculus] || -1 || 0 ||  ||  || Ok ||  || null
+|-
+| [https://abextm.github.io/cache2/#/viewer/interface/62586880 62586880] || [https://oldschool.runescape.wiki/w/Special:Ask?q=%5B%5BFile:+%5D%5D%20%5B%5BInterface%20name::allstar_oculus%5D%5D&po=%3FInterface%20name&format=table&p%5Dlimit%5B=50 allstar_oculus] || -1 || 0 ||  ||  || Ok ||  || null
+|-
+| [https://abextm.github.io/cache2/#/viewer/interface/62586880 62586880] || [https://oldschool.runescape.wiki/w/Special:Ask?q=%5B%5BFile:+%5D%5D%20%5B%5BInterface%20name::allstar_oculus%5D%5D&po=%3FInterface%20name&format=table&p%5Dlimit%5B=50 allstar_oculus] || -1 || 0 ||  ||  || Ok ||  || null
+|-
+| [https://abextm.github.io/cache2/#/viewer/interface/62586880 62586880] || [https://oldschool.runescape.wiki/w/Special:Ask?q=%5B%5BFile:+%5D%5D%20%5B%5BInterface%20name::allstar_oculus%5D%5D&po=%3FInterface%20name&format=table&p%5Dlimit%5B=50 allstar_oculus] || -1 || 0 ||  ||  || Ok ||  || null
+|-
+| [https://abextm.github.io/cache2/#/viewer/interface/62586880 62586880] || [https://oldschool.runescape.wiki/w/Special:Ask?q=%5B%5BFile:+%5D%5D%20%5B%5BInterface%20name::allstar_oculus%5D%5D&po=%3FInterface%20name&format=table&p%5Dlimit%5B=50 allstar_oculus] || -1 || 0 ||  ||  || Ok ||  || null
+|-
+| [https://abextm.github.io/cache2/#/viewer/interface/62586880 62586880] || [https://oldschool.runescape.wiki/w/Special:Ask?q=%5B%5BFile:+%5D%5D%20%5B%5BInterface%20name::allstar_oculus%5D%5D&po=%3FInterface%20name&format=table&p%5Dlimit%5B=50 allstar_oculus] || -1 || 0 ||  ||  || Ok ||  || null
+|-
+| [https://abextm.github.io/cache2/#/viewer/interface/62586880 62586880] || [https://oldschool.runescape.wiki/w/Special:Ask?q=%5B%5BFile:+%5D%5D%20%5B%5BInterface%20name::allstar_oculus%5D%5D&po=%3FInterface%20name&format=table&p%5Dlimit%5B=50 allstar_oculus] || -1 || 0 ||  ||  || Ok ||  || null
+|-
+| [https://abextm.github.io/cache2/#/viewer/interface/62586880 62586880] || [https://oldschool.runescape.wiki/w/Special:Ask?q=%5B%5BFile:+%5D%5D%20%5B%5BInterface%20name::allstar_oculus%5D%5D&po=%3FInterface%20name&format=table&p%5Dlimit%5B=50 allstar_oculus] || -1 || 0 ||  ||  || Ok ||  || null
+|-
+| [https://abextm.github.io/cache2/#/viewer/interface/62652416 62652416] || [https://oldschool.runescape.wiki/w/Special:Ask?q=%5B%5BFile:+%5D%5D%20%5B%5BInterface%20name::allstar_tournament_sidepanel%5D%5D&po=%3FInterface%20name&format=table&p%5Dlimit%5B=50 allstar_tournament_sidepanel] || -1 || 0 ||  ||  || Ok ||  || null
+|-
+| [https://abextm.github.io/cache2/#/viewer/interface/62652416 62652416] || [https://oldschool.runescape.wiki/w/Special:Ask?q=%5B%5BFile:+%5D%5D%20%5B%5BInterface%20name::allstar_tournament_sidepanel%5D%5D&po=%3FInterface%20name&format=table&p%5Dlimit%5B=50 allstar_tournament_sidepanel] || -1 || 0 ||  ||  || Ok ||  || null
+|-
+| [https://abextm.github.io/cache2/#/viewer/interface/62652416 62652416] || [https://oldschool.runescape.wiki/w/Special:Ask?q=%5B%5BFile:+%5D%5D%20%5B%5BInterface%20name::allstar_tournament_sidepanel%5D%5D&po=%3FInterface%20name&format=table&p%5Dlimit%5B=50 allstar_tournament_sidepanel] || -1 || 0 ||  ||  || Ok ||  || null
+|-
+| [https://abextm.github.io/cache2/#/viewer/interface/62652416 62652416] || [https://oldschool.runescape.wiki/w/Special:Ask?q=%5B%5BFile:+%5D%5D%20%5B%5BInterface%20name::allstar_tournament_sidepanel%5D%5D&po=%3FInterface%20name&format=table&p%5Dlimit%5B=50 allstar_tournament_sidepanel] || -1 || 0 ||  ||  || Ok ||  || null
+|-
+| [https://abextm.github.io/cache2/#/viewer/interface/62652416 62652416] || [https://oldschool.runescape.wiki/w/Special:Ask?q=%5B%5BFile:+%5D%5D%20%5B%5BInterface%20name::allstar_tournament_sidepanel%5D%5D&po=%3FInterface%20name&format=table&p%5Dlimit%5B=50 allstar_tournament_sidepanel] || -1 || 0 ||  ||  || Ok ||  || null
+|-
+| [https://abextm.github.io/cache2/#/viewer/interface/62652416 62652416] || [https://oldschool.runescape.wiki/w/Special:Ask?q=%5B%5BFile:+%5D%5D%20%5B%5BInterface%20name::allstar_tournament_sidepanel%5D%5D&po=%3FInterface%20name&format=table&p%5Dlimit%5B=50 allstar_tournament_sidepanel] || -1 || 0 ||  ||  || Ok ||  || null
+|-
+| [https://abextm.github.io/cache2/#/viewer/interface/62652416 62652416] || [https://oldschool.runescape.wiki/w/Special:Ask?q=%5B%5BFile:+%5D%5D%20%5B%5BInterface%20name::allstar_tournament_sidepanel%5D%5D&po=%3FInterface%20name&format=table&p%5Dlimit%5B=50 allstar_tournament_sidepanel] || -1 || 0 ||  ||  || Ok ||  || null
+|-
+| [https://abextm.github.io/cache2/#/viewer/interface/62652416 62652416] || [https://oldschool.runescape.wiki/w/Special:Ask?q=%5B%5BFile:+%5D%5D%20%5B%5BInterface%20name::allstar_tournament_sidepanel%5D%5D&po=%3FInterface%20name&format=table&p%5Dlimit%5B=50 allstar_tournament_sidepanel] || -1 || 0 ||  ||  || Ok ||  || null
+|-
+| [https://abextm.github.io/cache2/#/viewer/interface/62652416 62652416] || [https://oldschool.runescape.wiki/w/Special:Ask?q=%5B%5BFile:+%5D%5D%20%5B%5BInterface%20name::allstar_tournament_sidepanel%5D%5D&po=%3FInterface%20name&format=table&p%5Dlimit%5B=50 allstar_tournament_sidepanel] || -1 || 0 ||  ||  || Ok ||  || null
+|-
+| [https://abextm.github.io/cache2/#/viewer/interface/62652416 62652416] || [https://oldschool.runescape.wiki/w/Special:Ask?q=%5B%5BFile:+%5D%5D%20%5B%5BInterface%20name::allstar_tournament_sidepanel%5D%5D&po=%3FInterface%20name&format=table&p%5Dlimit%5B=50 allstar_tournament_sidepanel] || -1 || 0 ||  ||  || Ok ||  || null
+|-
+| [https://abextm.github.io/cache2/#/viewer/interface/62652416 62652416] || [https://oldschool.runescape.wiki/w/Special:Ask?q=%5B%5BFile:+%5D%5D%20%5B%5BInterface%20name::allstar_tournament_sidepanel%5D%5D&po=%3FInterface%20name&format=table&p%5Dlimit%5B=50 allstar_tournament_sidepanel] || -1 || 0 ||  ||  || Ok ||  || null
+|-
+| [https://abextm.github.io/cache2/#/viewer/interface/62652416 62652416] || [https://oldschool.runescape.wiki/w/Special:Ask?q=%5B%5BFile:+%5D%5D%20%5B%5BInterface%20name::allstar_tournament_sidepanel%5D%5D&po=%3FInterface%20name&format=table&p%5Dlimit%5B=50 allstar_tournament_sidepanel] || -1 || 0 ||  ||  || Ok ||  || null
+|-
+| [https://abextm.github.io/cache2/#/viewer/interface/62652416 62652416] || [https://oldschool.runescape.wiki/w/Special:Ask?q=%5B%5BFile:+%5D%5D%20%5B%5BInterface%20name::allstar_tournament_sidepanel%5D%5D&po=%3FInterface%20name&format=table&p%5Dlimit%5B=50 allstar_tournament_sidepanel] || -1 || 0 ||  ||  || Ok ||  || null
+|-
+| [https://abextm.github.io/cache2/#/viewer/interface/62652416 62652416] || [https://oldschool.runescape.wiki/w/Special:Ask?q=%5B%5BFile:+%5D%5D%20%5B%5BInterface%20name::allstar_tournament_sidepanel%5D%5D&po=%3FInterface%20name&format=table&p%5Dlimit%5B=50 allstar_tournament_sidepanel] || -1 || 0 ||  ||  || Ok ||  || null
+|}
+===Diff Widgets===
+{| class="wikitable sortable sticky-header mw-collapsible"
+|-
+! colspan="5" | Diff Widgets
+|-
+! style="width: 15em" | Id !! GameVal !! Key !! Previous Value !! New Value
+|-
+| rowspan="2" | [https://abextm.github.io/cache2/#/viewer/interface/10092544 10092544]
+| rowspan="2" | [https://oldschool.runescape.wiki/w/Special:Ask?q=%5B%5BFile:+%5D%5D%20%5B%5BInterface%20name::deadman_spectator%5D%5D&po=%3FInterface%20name&format=table&p%5Dlimit%5B=50 deadman_spectator]
+|-
+| name ||  || 
+|-
+| rowspan="2" | [https://abextm.github.io/cache2/#/viewer/interface/10092544 10092544]
+| rowspan="2" | [https://oldschool.runescape.wiki/w/Special:Ask?q=%5B%5BFile:+%5D%5D%20%5B%5BInterface%20name::deadman_spectator%5D%5D&po=%3FInterface%20name&format=table&p%5Dlimit%5B=50 deadman_spectator]
+|-
+| name ||  || 
+|-
+| rowspan="2" | [https://abextm.github.io/cache2/#/viewer/interface/10092544 10092544]
+| rowspan="2" | [https://oldschool.runescape.wiki/w/Special:Ask?q=%5B%5BFile:+%5D%5D%20%5B%5BInterface%20name::deadman_spectator%5D%5D&po=%3FInterface%20name&format=table&p%5Dlimit%5B=50 deadman_spectator]
+|-
+| name ||  || 
+|-
+| rowspan="2" | [https://abextm.github.io/cache2/#/viewer/interface/10092544 10092544]
+| rowspan="2" | [https://oldschool.runescape.wiki/w/Special:Ask?q=%5B%5BFile:+%5D%5D%20%5B%5BInterface%20name::deadman_spectator%5D%5D&po=%3FInterface%20name&format=table&p%5Dlimit%5B=50 deadman_spectator]
+|-
+| name ||  || 
+|-
+| rowspan="2" | [https://abextm.github.io/cache2/#/viewer/interface/10092544 10092544]
+| rowspan="2" | [https://oldschool.runescape.wiki/w/Special:Ask?q=%5B%5BFile:+%5D%5D%20%5B%5BInterface%20name::deadman_spectator%5D%5D&po=%3FInterface%20name&format=table&p%5Dlimit%5B=50 deadman_spectator]
+|-
+| name ||  || 
+|}

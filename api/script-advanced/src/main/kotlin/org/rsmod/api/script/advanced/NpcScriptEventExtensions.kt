@@ -2,7 +2,6 @@ package org.rsmod.api.script.advanced
 
 import dev.openrune.rscm.RSCM.asRSCM
 import dev.openrune.rscm.RSCMType
-import dev.openrune.types.NpcServerType
 import org.rsmod.api.player.events.interact.NpcDefaultEvents
 import org.rsmod.api.player.events.interact.NpcUnimplementedEvents
 import org.rsmod.api.player.events.interact.OpDefaultEvent

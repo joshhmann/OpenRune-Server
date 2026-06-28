@@ -19,13 +19,9 @@ public data class QuestRequirementPolicy(
             return QuestRequirementPolicy(
                 mode = QuestRequirementMode.parse(requirements.mode),
                 virtualCompletions =
-                    requirements.virtualCompletions.mapTo(hashSetOf()) {
-                        it.normalizedQuestKey()
-                    },
+                    requirements.virtualCompletions.mapTo(hashSetOf()) { it.normalizedQuestKey() },
                 virtualLines =
-                    requirements.virtualLines.mapTo(hashSetOf()) {
-                        it.normalizedQuestKey()
-                    },
+                    requirements.virtualLines.mapTo(hashSetOf()) { it.normalizedQuestKey() },
             )
         }
     }

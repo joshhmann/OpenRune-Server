@@ -1,0 +1,1121 @@
+{{ToC}}
+==Items==
+{| class="wikitable sortable"
+!colspan='5'|Items
+|-
+! Name !! ID !! Key !! Previous Value !! Changed into
+|-
+| [[Masori headdress]] || 26217 || colspan = "4" | New ID
+|-
+| [[null]] || 26218 || colspan = "4" | New ID
+|-
+| [[Osmumten's fang]] || 26219 || colspan = "4" | New ID
+|-
+| [[null]] || 26220 || colspan = "4" | New ID
+|-
+| [[Ancient ceremonial top]] || 26221 || colspan = "4" | New ID
+|-
+| [[null]] || 26222 || colspan = "4" | New ID
+|-
+| [[Ancient ceremonial legs]] || 26223 || colspan = "4" | New ID
+|-
+| [[null]] || 26224 || colspan = "4" | New ID
+|-
+| [[Ancient ceremonial mask]] || 26225 || colspan = "4" | New ID
+|-
+| [[null]] || 26226 || colspan = "4" | New ID
+|-
+| [[Ancient ceremonial gloves]] || 26227 || colspan = "4" | New ID
+|-
+| [[null]] || 26228 || colspan = "4" | New ID
+|-
+| [[Ancient ceremonial boots]] || 26229 || colspan = "4" | New ID
+|-
+| [[null]] || 26230 || colspan = "4" | New ID
+|-
+| [[Nihil shard]] || 26231 || colspan = "4" | New ID
+|-
+| [[null]] || 26232 || colspan = "4" | New ID
+|-
+| [[Ancient godsword]] || 26233 || colspan = "4" | New ID
+|-
+| [[null]] || 26234 || colspan = "4" | New ID
+|-
+| [[Zaryte vambraces]] || 26235 || colspan = "4" | New ID
+|-
+| [[null]] || 26236 || colspan = "4" | New ID
+|-
+| [[Zaryte bow (uncharged)]] || 26237 || colspan = "4" | New ID
+|-
+| [[null]] || 26238 || colspan = "4" | New ID
+|-
+| [[Zaryte bow]] || 26239 || colspan = "4" | New ID
+|-
+| [[null]] || 26240 || colspan = "4" | New ID
+|-
+| [[Virtus mask]] || 26241 || colspan = "4" | New ID
+|-
+| [[null]] || 26242 || colspan = "4" | New ID
+|-
+| [[Virtus robe top]] || 26243 || colspan = "4" | New ID
+|-
+| [[null]] || 26244 || colspan = "4" | New ID
+|-
+| [[Virtus robe legs]] || 26245 || colspan = "4" | New ID
+|-
+| [[null]] || 26246 || colspan = "4" | New ID
+|-
+| [[Pumpkin pie]] || 26247 || colspan = "4" | New ID
+|-
+| [[null]] || 26248 || colspan = "4" | New ID
+|-
+| [[null]] || 26249 || colspan = "4" | New ID
+|-
+| [[Jered's empty wine bottle]] || 26250 || colspan = "4" | New ID
+|-
+| [[null]] || 26251 || colspan = "4" | New ID
+|-
+| [[Ad coupon]] || 26252 || colspan = "4" | New ID
+|-
+| [[null]] || 26253 || colspan = "4" | New ID
+|-
+| [[Saucepan]] || 26254 || colspan = "4" | New ID
+|-
+| [[null]] || 26255 || colspan = "4" | New ID
+|-
+| [[Ugly halloween jumper (orange)]] || 26256 || colspan = "4" | New ID
+|-
+| [[null]] || 26257 || colspan = "4" | New ID
+|-
+| [[Ugly halloween jumper (black)]] || 26258 || colspan = "4" | New ID
+|-
+| [[null]] || 26259 || colspan = "4" | New ID
+|-
+| [[Haunted wine bottle]] || 26260 || colspan = "4" | New ID
+|-
+| [[null]] || 26261 || colspan = "4" | New ID
+|-
+| [[Rune scimitar]] || 26262 || colspan = "4" | New ID
+|-
+| [[null]] || 26263 || colspan = "4" | New ID
+|-
+| [[Studded body]] || 26264 || colspan = "4" | New ID
+|-
+| [[null]] || 26265 || colspan = "4" | New ID
+|-
+|rowspan="2"|[[Adamant arrow]]
+|rowspan="2"|890
+|-
+|params || {'852': 285} || {'852': 285, '23': 30}
+|-
+|rowspan="2"|[[Rune arrow]]
+|rowspan="2"|892
+|-
+|params || {'852': 285} || {'852': 285, '23': 40}
+|-
+|rowspan="2"|[[Ogre bow]]
+|rowspan="2"|2883
+|-
+|params || {'451': 'Check'} || {'23': 30, '451': 'Check'}
+|-
+|rowspan="2"|[[Karil's crossbow]]
+|rowspan="2"|4734
+|-
+|params || {'451': 'Check'} || {'23': 70, '451': 'Check'}
+|-
+|rowspan="2"|[[Bolt rack]]
+|rowspan="2"|4740
+|-
+|params || {'852': 300} || {'852': 300, '23': 70}
+|-
+|rowspan="2"|[[Comp ogre bow]]
+|rowspan="2"|4827
+|-
+|params || {'451': 'Check'} || {'23': 43, '451': 'Check'}
+|-
+|rowspan="2"|[[Karil's crossbow 100]]
+|rowspan="2"|4934
+|-
+|params || {'451': 'Check'} || {'23': 70, '451': 'Check'}
+|-
+|rowspan="2"|[[Karil's crossbow 75]]
+|rowspan="2"|4935
+|-
+|params || {'451': 'Check'} || {'23': 70, '451': 'Check'}
+|-
+|rowspan="2"|[[Karil's crossbow 50]]
+|rowspan="2"|4936
+|-
+|params || {'451': 'Check'} || {'23': 70, '451': 'Check'}
+|-
+|rowspan="2"|[[Karil's crossbow 25]]
+|rowspan="2"|4937
+|-
+|params || {'451': 'Check'} || {'23': 70, '451': 'Check'}
+|-
+|rowspan="2"|[[Marigold seed]]
+|rowspan="2"|5096
+|-
+|params || {'709': 2} || {'709': 2, '23': 2}
+|-
+|rowspan="2"|[[Rosemary seed]]
+|rowspan="2"|5097
+|-
+|params || {'709': 2} || {'709': 2, '23': 11}
+|-
+|rowspan="2"|[[Nasturtium seed]]
+|rowspan="2"|5098
+|-
+|params || {'709': 2} || {'709': 2, '23': 24}
+|-
+|rowspan="2"|[[Woad seed]]
+|rowspan="2"|5099
+|-
+|params || {'709': 2} || {'709': 2, '23': 25}
+|-
+|rowspan="2"|[[Limpwurt seed]]
+|rowspan="2"|5100
+|-
+|params || {'709': 2} || {'709': 2, '23': 26}
+|-
+|rowspan="2"|[[Redberry seed]]
+|rowspan="2"|5101
+|-
+|params || {'709': 5} || {'709': 5, '23': 10}
+|-
+|rowspan="2"|[[Cadavaberry seed]]
+|rowspan="2"|5102
+|-
+|params || {'709': 5} || {'709': 5, '23': 22}
+|-
+|rowspan="2"|[[Dwellberry seed]]
+|rowspan="2"|5103
+|-
+|params || {'709': 5} || {'709': 5, '23': 36}
+|-
+|rowspan="2"|[[Jangerberry seed]]
+|rowspan="2"|5104
+|-
+|params || {'709': 5} || {'709': 5, '23': 48}
+|-
+|rowspan="2"|[[Whiteberry seed]]
+|rowspan="2"|5105
+|-
+|params || {'709': 5} || {'709': 5, '23': 59}
+|-
+|rowspan="2"|[[Poison ivy seed]]
+|rowspan="2"|5106
+|-
+|params || {'709': 5} || {'709': 5, '23': 70}
+|-
+|rowspan="2"|[[Cactus seed]]
+|rowspan="2"|5280
+|-
+|params || {'709': 8} || {'709': 8, '23': 55}
+|-
+|rowspan="2"|[[Belladonna seed]]
+|rowspan="2"|5281
+|-
+|params || {'709': 8} || {'709': 8, '23': 63}
+|-
+|rowspan="2"|[[Mushroom spore]]
+|rowspan="2"|5282
+|-
+|params || {'709': 8} || {'709': 8, '23': 53}
+|-
+|rowspan="2"|[[Apple tree seed]]
+|rowspan="2"|5283
+|-
+|params || {'709': 7} || {'709': 7, '23': 27}
+|-
+|rowspan="2"|[[Banana tree seed]]
+|rowspan="2"|5284
+|-
+|params || {'709': 7} || {'709': 7, '23': 33}
+|-
+|rowspan="2"|[[Orange tree seed]]
+|rowspan="2"|5285
+|-
+|params || {'709': 7} || {'709': 7, '23': 39}
+|-
+|rowspan="2"|[[Curry tree seed]]
+|rowspan="2"|5286
+|-
+|params || {'709': 7} || {'709': 7, '23': 42}
+|-
+|rowspan="2"|[[Pineapple seed]]
+|rowspan="2"|5287
+|-
+|params || {'709': 7} || {'709': 7, '23': 51}
+|-
+|rowspan="2"|[[Papaya tree seed]]
+|rowspan="2"|5288
+|-
+|params || {'709': 7} || {'709': 7, '23': 57}
+|-
+|rowspan="2"|[[Palm tree seed]]
+|rowspan="2"|5289
+|-
+|params || {'709': 7} || {'709': 7, '23': 68}
+|-
+|rowspan="2"|[[Calquat tree seed]]
+|rowspan="2"|5290
+|-
+|params || {'709': 8} || {'709': 8, '23': 72}
+|-
+|rowspan="2"|[[Guam seed]]
+|rowspan="2"|5291
+|-
+|params || {'709': 3} || {'709': 3, '23': 9}
+|-
+|rowspan="2"|[[Marrentill seed]]
+|rowspan="2"|5292
+|-
+|params || {'709': 3} || {'709': 3, '23': 14}
+|-
+|rowspan="2"|[[Tarromin seed]]
+|rowspan="2"|5293
+|-
+|params || {'709': 3} || {'709': 3, '23': 19}
+|-
+|rowspan="2"|[[Harralander seed]]
+|rowspan="2"|5294
+|-
+|params || {'709': 3} || {'709': 3, '23': 26}
+|-
+|rowspan="2"|[[Ranarr seed]]
+|rowspan="2"|5295
+|-
+|params || {'709': 3} || {'709': 3, '23': 32}
+|-
+|rowspan="2"|[[Toadflax seed]]
+|rowspan="2"|5296
+|-
+|params || {'709': 3} || {'709': 3, '23': 38}
+|-
+|rowspan="2"|[[Irit seed]]
+|rowspan="2"|5297
+|-
+|params || {'709': 3} || {'709': 3, '23': 44}
+|-
+|rowspan="2"|[[Avantoe seed]]
+|rowspan="2"|5298
+|-
+|params || {'709': 3} || {'709': 3, '23': 50}
+|-
+|rowspan="2"|[[Kwuarm seed]]
+|rowspan="2"|5299
+|-
+|params || {'709': 3} || {'709': 3, '23': 56}
+|-
+|rowspan="2"|[[Snapdragon seed]]
+|rowspan="2"|5300
+|-
+|params || {'709': 3} || {'709': 3, '23': 62}
+|-
+|rowspan="2"|[[Cadantine seed]]
+|rowspan="2"|5301
+|-
+|params || {'709': 3} || {'709': 3, '23': 67}
+|-
+|rowspan="2"|[[Lantadyme seed]]
+|rowspan="2"|5302
+|-
+|params || {'709': 3} || {'709': 3, '23': 73}
+|-
+|rowspan="2"|[[Dwarf weed seed]]
+|rowspan="2"|5303
+|-
+|params || {'709': 3} || {'709': 3, '23': 79}
+|-
+|rowspan="2"|[[Torstol seed]]
+|rowspan="2"|5304
+|-
+|params || {'709': 3} || {'709': 3, '23': 85}
+|-
+|rowspan="2"|[[Barley seed]]
+|rowspan="2"|5305
+|-
+|params || {'709': 4} || {'709': 4, '23': 3}
+|-
+|rowspan="2"|[[Jute seed]]
+|rowspan="2"|5306
+|-
+|params || {'709': 4} || {'709': 4, '23': 13}
+|-
+|rowspan="2"|[[Hammerstone seed]]
+|rowspan="2"|5307
+|-
+|params || {'709': 4} || {'709': 4, '23': 4}
+|-
+|rowspan="2"|[[Asgarnian seed]]
+|rowspan="2"|5308
+|-
+|params || {'709': 4} || {'709': 4, '23': 8}
+|-
+|rowspan="2"|[[Yanillian seed]]
+|rowspan="2"|5309
+|-
+|params || {'709': 4} || {'709': 4, '23': 16}
+|-
+|rowspan="2"|[[Krandorian seed]]
+|rowspan="2"|5310
+|-
+|params || {'709': 4} || {'709': 4, '23': 21}
+|-
+|rowspan="2"|[[Wildblood seed]]
+|rowspan="2"|5311
+|-
+|params || {'709': 4} || {'709': 4, '23': 28}
+|-
+|rowspan="2"|[[Acorn]]
+|rowspan="2"|5312
+|-
+|params || {'709': 6} || {'709': 6, '23': 15}
+|-
+|rowspan="2"|[[Willow seed]]
+|rowspan="2"|5313
+|-
+|params || {'709': 6} || {'709': 6, '23': 30}
+|-
+|rowspan="2"|[[Maple seed]]
+|rowspan="2"|5314
+|-
+|params || {'709': 6} || {'709': 6, '23': 45}
+|-
+|rowspan="2"|[[Yew seed]]
+|rowspan="2"|5315
+|-
+|params || {'709': 6} || {'709': 6, '23': 60}
+|-
+|rowspan="2"|[[Magic seed]]
+|rowspan="2"|5316
+|-
+|params || {'709': 6} || {'709': 6, '23': 75}
+|-
+|rowspan="2"|[[Spirit seed]]
+|rowspan="2"|5317
+|-
+|params || {'709': 8} || {'709': 8, '23': 83}
+|-
+|rowspan="2"|[[Onion seed]]
+|rowspan="2"|5319
+|-
+|params || {'709': 1} || {'709': 1, '23': 5}
+|-
+|rowspan="2"|[[Sweetcorn seed]]
+|rowspan="2"|5320
+|-
+|params || {'709': 1} || {'709': 1, '23': 20}
+|-
+|rowspan="2"|[[Watermelon seed]]
+|rowspan="2"|5321
+|-
+|params || {'709': 1} || {'709': 1, '23': 47}
+|-
+|rowspan="2"|[[Tomato seed]]
+|rowspan="2"|5322
+|-
+|params || {'709': 1} || {'709': 1, '23': 12}
+|-
+|rowspan="2"|[[Strawberry seed]]
+|rowspan="2"|5323
+|-
+|params || {'709': 1} || {'709': 1, '23': 31}
+|-
+|rowspan="2"|[[Cabbage seed]]
+|rowspan="2"|5324
+|-
+|params || {'709': 1} || {'709': 1, '23': 7}
+|-
+|rowspan="2"|[[Oak sapling]]
+|rowspan="2"|5370
+|-
+|params || {'709': 10} || {'709': 10, '23': 15}
+|-
+|rowspan="2"|[[Willow sapling]]
+|rowspan="2"|5371
+|-
+|params || {'709': 10} || {'709': 10, '23': 30}
+|-
+|rowspan="2"|[[Maple sapling]]
+|rowspan="2"|5372
+|-
+|params || {'709': 10} || {'709': 10, '23': 45}
+|-
+|rowspan="2"|[[Yew sapling]]
+|rowspan="2"|5373
+|-
+|params || {'709': 10} || {'709': 10, '23': 60}
+|-
+|rowspan="2"|[[Magic sapling]]
+|rowspan="2"|5374
+|-
+|params || {'709': 10} || {'709': 10, '23': 75}
+|-
+|rowspan="2"|[[Spirit sapling]]
+|rowspan="2"|5375
+|-
+|params || {'709': 10} || {'709': 10, '23': 83}
+|-
+|rowspan="2"|[[Apple sapling]]
+|rowspan="2"|5496
+|-
+|params || {'709': 10} || {'709': 10, '23': 27}
+|-
+|rowspan="2"|[[Banana sapling]]
+|rowspan="2"|5497
+|-
+|params || {'709': 10} || {'709': 10, '23': 33}
+|-
+|rowspan="2"|[[Orange sapling]]
+|rowspan="2"|5498
+|-
+|params || {'709': 10} || {'709': 10, '23': 39}
+|-
+|rowspan="2"|[[Curry sapling]]
+|rowspan="2"|5499
+|-
+|params || {'709': 10} || {'709': 10, '23': 42}
+|-
+|rowspan="2"|[[Pineapple sapling]]
+|rowspan="2"|5500
+|-
+|params || {'709': 10} || {'709': 10, '23': 51}
+|-
+|rowspan="2"|[[Papaya sapling]]
+|rowspan="2"|5501
+|-
+|params || {'709': 10} || {'709': 10, '23': 57}
+|-
+|rowspan="2"|[[Palm sapling]]
+|rowspan="2"|5502
+|-
+|params || {'709': 10} || {'709': 10, '23': 68}
+|-
+|rowspan="2"|[[Calquat sapling]]
+|rowspan="2"|5503
+|-
+|params || {'709': 10} || {'709': 10, '23': 72}
+|-
+|rowspan="2"|[[Ancient mjolnir]]
+|rowspan="2"|7804
+|-
+|name || [[Zaros mjolnir]] || [[Ancient mjolnir]]
+|-
+|rowspan="2"|[[Infernal axe]]
+|rowspan="2"|13241
+|-
+|params || {'451': 'Check'} || {'23': 61, '451': 'Check'}
+|-
+|rowspan="2"|[[Infernal pickaxe]]
+|rowspan="2"|13243
+|-
+|params || {'451': 'Check'} || {'23': 61, '451': 'Check'}
+|-
+|rowspan="2"|[[Grape seed]]
+|rowspan="2"|13657
+|-
+|params || {'709': 8} || {'709': 8, '23': 36}
+|-
+|rowspan="2"|[[Yew shortbow]]
+|rowspan="2"|20401
+|-
+|params || {'850': 3} || {'850': 3, '23': 1}
+|-
+|rowspan="2"|[[Maple shortbow]]
+|rowspan="2"|20403
+|-
+|params || {'850': 3} || {'850': 3, '23': 1}
+|-
+|rowspan="2"|[[Dark bow]]
+|rowspan="2"|20408
+|-
+|params || {'850': 3} || {'850': 3, '23': 1}
+|-
+|rowspan="2"|[[Magic shortbow]]
+|rowspan="2"|20558
+|-
+|params || {'850': 3} || {'850': 3, '23': 1}
+|-
+|rowspan="2"|[[Dragon thrownaxe]]
+|rowspan="2"|21207
+|-
+|params || {'850': 3} || {'850': 3, '23': 1}
+|-
+|rowspan="2"|[[Amethyst arrow]]
+|rowspan="2"|21326
+|-
+|params || {'852': 50} || {'852': 50, '23': 50}
+|-
+|rowspan="2"|[[Teak sapling]]
+|rowspan="2"|21477
+|-
+|params || {'709': 10} || {'709': 10, '23': 35}
+|-
+|rowspan="2"|[[Mahogany sapling]]
+|rowspan="2"|21480
+|-
+|params || {'709': 10} || {'709': 10, '23': 55}
+|-
+|rowspan="2"|[[Teak seed]]
+|rowspan="2"|21486
+|-
+|params || {'709': 6} || {'709': 6, '23': 35}
+|-
+|rowspan="2"|[[Mahogany seed]]
+|rowspan="2"|21488
+|-
+|params || {'709': 6} || {'709': 6, '23': 55}
+|-
+|rowspan="2"|[[Seaweed spore]]
+|rowspan="2"|21490
+|-
+|params || {'709': 8} || {'709': 8, '23': 23}
+|-
+|rowspan="2"|[[Viggora's chainmace]]
+|rowspan="2"|22545
+|-
+|params || {'451': 'Check'} || {'23': 60, '451': 'Check'}
+|-
+|rowspan="2"|[[Craw's bow]]
+|rowspan="2"|22550
+|-
+|params || {'451': 'Check'} || {'23': 60, '451': 'Check'}
+|-
+|rowspan="2"|[[Thammaron's sceptre]]
+|rowspan="2"|22555
+|-
+|params || {'451': 'Check'} || {'23': 60, '451': 'Check'}
+|-
+|rowspan="2"|[[Morrigan's throwing axe]]
+|rowspan="2"|22634
+|-
+|params || {'568': 4} || {'568': 4, '23': 78}
+|-
+|rowspan="2"|[[Morrigan's javelin]]
+|rowspan="2"|22636
+|-
+|params || {'568': 4} || {'568': 4, '23': 78}
+|-
+|rowspan="2"|[[Celastrus sapling]]
+|rowspan="2"|22856
+|-
+|params || {'709': 10} || {'709': 10, '23': 85}
+|-
+|rowspan="2"|[[Redwood sapling]]
+|rowspan="2"|22859
+|-
+|params || {'709': 10} || {'709': 10, '23': 90}
+|-
+|rowspan="2"|[[Dragonfruit sapling]]
+|rowspan="2"|22866
+|-
+|params || {'709': 10} || {'709': 10, '23': 81}
+|-
+|rowspan="2"|[[Celastrus seed]]
+|rowspan="2"|22869
+|-
+|params || {'709': 8} || {'709': 8, '23': 85}
+|-
+|rowspan="2"|[[Redwood tree seed]]
+|rowspan="2"|22871
+|-
+|params || {'709': 6} || {'709': 6, '23': 90}
+|-
+|rowspan="2"|[[Potato cactus seed]]
+|rowspan="2"|22873
+|-
+|params || {'709': 8} || {'709': 8, '23': 64}
+|-
+|rowspan="2"|[[Hespori seed]]
+|rowspan="2"|22875
+|-
+|params || {'709': 8} || {'709': 8, '23': 65}
+|-
+|rowspan="2"|[[Dragonfruit tree seed]]
+|rowspan="2"|22877
+|-
+|params || {'709': 7} || {'709': 7, '23': 81}
+|-
+|rowspan="2"|[[Snape grass seed]]
+|rowspan="2"|22879
+|-
+|params || {'709': 1} || {'709': 1, '23': 61}
+|-
+|rowspan="2"|[[Attas seed]]
+|rowspan="2"|22881
+|-
+|params || {'709': 9} || {'709': 9, '23': 76}
+|-
+|rowspan="2"|[[Iasor seed]]
+|rowspan="2"|22883
+|-
+|params || {'709': 9} || {'709': 9, '23': 76}
+|-
+|rowspan="2"|[[Kronos seed]]
+|rowspan="2"|22885
+|-
+|params || {'709': 9} || {'709': 9, '23': 76}
+|-
+|rowspan="2"|[[White lily seed]]
+|rowspan="2"|22887
+|-
+|params || {'709': 2} || {'709': 2, '23': 58}
+|-
+|rowspan="2"|[[Rune crossbow]]
+|rowspan="2"|23601
+|-
+|params || {'850': 3} || {'850': 3, '23': 61}
+|-
+|rowspan="2"|[[Armadyl crossbow]]
+|rowspan="2"|23611
+|-
+|params || {'850': 3} || {'850': 3, '23': 70}
+|-
+|rowspan="2"|[[Morrigan's javelin]]
+|rowspan="2"|23619
+|-
+|params || {'850': 3} || {'850': 3, '23': 78}
+|-
+|rowspan="2"|[[Heavy ballista]]
+|rowspan="2"|23630
+|-
+|params || {'850': 3} || {'850': 3, '23': 75}
+|-
+|rowspan="2"|[[Crystal sapling]]
+|rowspan="2"|23659
+|-
+|params || {'709': 10} || {'709': 10, '23': 74}
+|-
+|rowspan="2"|[[Crystal acorn]]
+|rowspan="2"|23661
+|-
+|params || {'709': 8} || {'709': 8, '23': 74}
+|-
+|rowspan="2"|[[Crystal axe]]
+|rowspan="2"|23673
+|-
+|params || {'451': 'Check'} || {'23': 71, '451': 'Check'}
+|-
+|rowspan="2"|[[Crystal pickaxe]]
+|rowspan="2"|23680
+|-
+|params || {'451': 'Check'} || {'23': 71, '451': 'Check'}
+|-
+|rowspan="2"|[[Crystal harpoon]]
+|rowspan="2"|23762
+|-
+|params || {'451': 'Check'} || {'23': 71, '451': 'Check'}
+|-
+|rowspan="2"|[[Crystal bow]]
+|rowspan="2"|23983
+|-
+|params || {'451': 'Check'} || {'23': 70, '451': 'Check'}
+|-
+|rowspan="2"|[[Crystal halberd]]
+|rowspan="2"|23987
+|-
+|params || {'451': 'Check'} || {'23': 70, '451': 'Check'}
+|-
+|rowspan="2"|[[Crystal bow]]
+|rowspan="2"|24123
+|-
+|params || {'451': 'Check'} || {'23': 70, '451': 'Check'}
+|-
+|rowspan="2"|[[Crystal halberd]]
+|rowspan="2"|24125
+|-
+|params || {'451': 'Check'} || {'23': 70, '451': 'Check'}
+|-
+|rowspan="2"|[[Infernal pickaxe (or)]]
+|rowspan="2"|25063
+|-
+|params || {'451': 'Check'} || {'23': 61, '451': 'Check'}
+|-
+|rowspan="2"|[[Infernal axe (or)]]
+|rowspan="2"|25066
+|-
+|params || {'451': 'Check'} || {'23': 61, '451': 'Check'}
+|-
+|rowspan="3"|[[Stool]]
+|rowspan="3"|25711
+|-
+|maleModel0 || 42201 || 43005
+|-
+| femaleModel0 || 42201 || 43005
+|-
+|rowspan="2"|[[Bow of faerdhinen]]
+|rowspan="2"|25865
+|-
+|params || {'451': 'Check'} || {'23': 75, '451': 'Check'}
+|-
+|rowspan="15"|[[Null]]
+|rowspan="15"|25977
+|-
+|name || [[Osmumten's khopesh]] || [[Null]]
+|-
+| xan2d || 300 || 572
+|-
+| yan2d || 1120 || 0
+|-
+| cost || 1000000 || 1
+|-
+| inventoryModel || 42881 || 2521
+|-
+| members || True || False
+|-
+| zoom2d || 1180 || 1940
+|-
+| xOffset2d || -6 || 0
+|-
+| yOffset2d || 4 || 1
+|-
+| interfaceOptions || [None, 'Wield', None, None, 'Drop'] || [None, None, None, None, 'Drop']
+|-
+| maleModel0 || 42874 || -1
+|-
+| femaleModel0 || 42874 || -1
+|-
+| femaleOffset || 6 || 0
+|-
+| placeholderId || 25978 || -1
+|-
+|rowspan="8"|[[Null]]
+|rowspan="8"|25978
+|-
+|name || [[null]] || [[Null]]
+|-
+| xan2d || 0 || 572
+|-
+| inventoryModel || 0 || 2521
+|-
+| zoom2d || 2000 || 1940
+|-
+| yOffset2d || 0 || 1
+|-
+| placeholderId || 25977 || -1
+|-
+| placeholderTemplateId || 14401 || -1
+|-
+|rowspan="11"|[[Elidinis' broken ward]]
+|rowspan="11"|25983
+|-
+|xan2d || 570 || 568
+|-
+| yan2d || 1900 || 1836
+|-
+| cost || 1000000 || 5000000
+|-
+| zoom2d || 1211 || 1200
+|-
+| ambient || 13 || 0
+|-
+| contrast || 35 || 0
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || [None, 'Wield', None, None, 'Drop']
+|-
+| maleModel0 || -1 || 42873
+|-
+| femaleModel0 || -1 || 42873
+|-
+| femaleOffset || 0 || 6
+|-
+|rowspan="3"|[[Elidinis' ward]]
+|rowspan="3"|25985
+|-
+|ambient || 15 || 0
+|-
+| contrast || 35 || 0
+|-
+|}
+
+==Non-Player Characters==
+{| class="wikitable sortable"
+!colspan='5'|Non-Player Characters
+|-
+! Name !! ID !! Key !! Previous Value !! Changed into
+|-
+| [[Iffie]] || 11232 || colspan = "4" | New ID
+|-
+| [[Monk]] || 11233 || colspan = "4" | New ID
+|-
+| [[Brother Jered]] || 11234 || colspan = "4" | New ID
+|-
+| [[Brother Jered]] || 11235 || colspan = "4" | New ID
+|-
+| [[Oziach]] || 11236 || colspan = "4" | New ID
+|-
+| [[Oziach]] || 11237 || colspan = "4" | New ID
+|-
+| [[Estate agent]] || 11238 || colspan = "4" | New ID
+|-
+| [[Iffie]] || 11239 || colspan = "4" | New ID
+|-
+| [[Iffie]] || 11240 || colspan = "4" | New ID
+|-
+| [[Oziach]] || 11241 || colspan = "4" | New ID
+|-
+| [[Estate agent]] || 11242 || colspan = "4" | New ID
+|-
+| [[Death]] || 11243 || colspan = "4" | New ID
+|-
+| [[null]] || 11244 || colspan = "4" | New ID
+|-
+| [[Iffie]] || 11245 || colspan = "4" | New ID
+|-
+| [[Iffie]] || 11246 || colspan = "4" | New ID
+|-
+| [[Jonny the beard]] || 11247 || colspan = "4" | New ID
+|-
+| [[Woman]] || 11248 || colspan = "4" | New ID
+|-
+| [[Dr Harlow]] || 11249 || colspan = "4" | New ID
+|-
+| [[Barbarian]] || 11250 || colspan = "4" | New ID
+|-
+| [[Cook]] || 11251 || colspan = "4" | New ID
+|-
+| [[Bartender]] || 11252 || colspan = "4" | New ID
+|-
+| [[null]] || 11253 || colspan = "4" | New ID
+|-
+| [[Xi_plzPetDogz_xiX]] || 11254 || colspan = "4" | New ID
+|-
+| [[null]] || 11255 || colspan = "4" | New ID
+|-
+| [[null]] || 11256 || colspan = "4" | New ID
+|-
+| [[null]] || 11257 || colspan = "4" | New ID
+|-
+| [[null]] || 11258 || colspan = "4" | New ID
+|-
+| [[null]] || 11259 || colspan = "4" | New ID
+|-
+| [[null]] || 11260 || colspan = "4" | New ID
+|-
+| [[null]] || 11261 || colspan = "4" | New ID
+|-
+| [[Rocking chair]] || 11262 || colspan = "4" | New ID
+|-
+|rowspan="7"|[[null]]
+|rowspan="7"|2899
+|-
+|name || [[Iffie]] || [[null]]
+|-
+| actions || ['Talk-to', None, None, None, None] || [None, None, None, None, None]
+|-
+| combatLevel || 0 || 1
+|-
+| ambient || 20 || 0
+|-
+| rotationSpeed || 0 || 32
+|-
+| varbitId || -1 || 13103
+|-
+|rowspan="2"|[[Father Eysseric]]
+|rowspan="2"|11050
+|-
+|chatheadModels || [59] || [59, 85]
+|-
+|}
+
+==Objects==
+{| class="wikitable sortable"
+!colspan='5'|Objects
+|-
+! Name !! ID !! Key !! Previous Value !! Changed into
+|-
+| [[null]] || 42838 || colspan = "4" | New ID
+|-
+| [[null]] || 42839 || colspan = "4" | New ID
+|-
+| [[Frozen Door]] || 42840 || colspan = "4" | New ID
+|-
+| [[Frozen Door]] || 42841 || colspan = "4" | New ID
+|-
+| [[null]] || 42842 || colspan = "4" | New ID
+|-
+| [[null]] || 42843 || colspan = "4" | New ID
+|-
+| [[null]] || 42844 || colspan = "4" | New ID
+|-
+| [[null]] || 42845 || colspan = "4" | New ID
+|-
+| [[null]] || 42846 || colspan = "4" | New ID
+|-
+| [[null]] || 42847 || colspan = "4" | New ID
+|-
+| [[null]] || 42848 || colspan = "4" | New ID
+|-
+| [[null]] || 42849 || colspan = "4" | New ID
+|-
+| [[null]] || 42850 || colspan = "4" | New ID
+|-
+| [[null]] || 42851 || colspan = "4" | New ID
+|-
+| [[null]] || 42852 || colspan = "4" | New ID
+|-
+| [[null]] || 42853 || colspan = "4" | New ID
+|-
+| [[null]] || 42854 || colspan = "4" | New ID
+|-
+| [[null]] || 42855 || colspan = "4" | New ID
+|-
+| [[null]] || 42856 || colspan = "4" | New ID
+|-
+| [[null]] || 42857 || colspan = "4" | New ID
+|-
+| [[null]] || 42858 || colspan = "4" | New ID
+|-
+| [[Plan]] || 42859 || colspan = "4" | New ID
+|-
+| [[Plan]] || 42860 || colspan = "4" | New ID
+|-
+| [[Plan]] || 42861 || colspan = "4" | New ID
+|-
+| [[Plan]] || 42862 || colspan = "4" | New ID
+|-
+| [[Crate]] || 42863 || colspan = "4" | New ID
+|-
+| [[Crate]] || 42864 || colspan = "4" | New ID
+|-
+| [[Desk]] || 42865 || colspan = "4" | New ID
+|-
+| [[Table]] || 42866 || colspan = "4" | New ID
+|-
+| [[Chair]] || 42867 || colspan = "4" | New ID
+|-
+| [[Bar stool]] || 42868 || colspan = "4" | New ID
+|-
+| [[null]] || 42869 || colspan = "4" | New ID
+|-
+| [[null]] || 42870 || colspan = "4" | New ID
+|-
+| [[Table]] || 42871 || colspan = "4" | New ID
+|-
+| [[Table]] || 42872 || colspan = "4" | New ID
+|-
+| [[Evergreen]] || 42873 || colspan = "4" | New ID
+|-
+| [[Evergreen]] || 42874 || colspan = "4" | New ID
+|-
+| [[null]] || 42875 || colspan = "4" | New ID
+|-
+| [[null]] || 42876 || colspan = "4" | New ID
+|-
+| [[null]] || 42877 || colspan = "4" | New ID
+|-
+| [[null]] || 42878 || colspan = "4" | New ID
+|-
+| [[null]] || 42879 || colspan = "4" | New ID
+|-
+| [[null]] || 42880 || colspan = "4" | New ID
+|-
+| [[null]] || 42881 || colspan = "4" | New ID
+|-
+| [[null]] || 42882 || colspan = "4" | New ID
+|-
+| [[null]] || 42883 || colspan = "4" | New ID
+|-
+| [[null]] || 42884 || colspan = "4" | New ID
+|-
+| [[null]] || 42885 || colspan = "4" | New ID
+|-
+| [[null]] || 42886 || colspan = "4" | New ID
+|-
+| [[null]] || 42887 || colspan = "4" | New ID
+|-
+|rowspan="3"|[[Depleted vein]]
+|rowspan="3"|5992
+|-
+|name || [[null]] || [[Depleted vein]]
+|-
+| wallOrDoor || 0 || 1
+|-
+|rowspan="5"|[[null]]
+|rowspan="5"|26384
+|-
+|sizeX || 1 || 2
+|-
+| sizeY || 2 || 1
+|-
+| ambient || 0 || 20
+|-
+| contrast || 0 || 500
+|-
+|rowspan="3"|[[null]]
+|rowspan="3"|26385
+|-
+|ambient || 0 || 20
+|-
+| contrast || 0 || 500
+|-
+|rowspan="3"|[[null]]
+|rowspan="3"|26386
+|-
+|ambient || 0 || 20
+|-
+| contrast || 0 || 500
+|-
+|rowspan="3"|[[null]]
+|rowspan="3"|26387
+|-
+|ambient || 0 || 20
+|-
+| contrast || 0 || 500
+|-
+|rowspan="4"|[[null]]
+|rowspan="4"|26388
+|-
+|sizeX || 2 || 1
+|-
+| ambient || 0 || 20
+|-
+| contrast || 0 || 500
+|-
+|rowspan="12"|[[<col=ff9040>Bird snare]]
+|rowspan="12"|26457
+|-
+|name || [[Frozen door]] || [[<col=ff9040>Bird snare]]
+|-
+| mergeNormals || True || False
+|-
+| ambient || 25 || 5
+|-
+| contrast || 625 || 250
+|-
+| actions || [None, None, None, None, None] || ['Take', None, None, None, None]
+|-
+| interactType || 1 || 0
+|-
+| mapSceneID || -1 || 81
+|-
+| contouredGround || -1 || 0
+|-
+| supportsItems || 1 || 0
+|-
+| blocksProjectile || True || False
+|-
+| objectModels || [27734] || [19419]
+|-
+|rowspan="9"|[[null]]
+|rowspan="9"|26458
+|-
+|name || [[Frozen door]] || [[null]]
+|-
+| mergeNormals || True || False
+|-
+| wallOrDoor || 1 || 0
+|-
+| ambient || 25 || 15
+|-
+| contrast || 625 || 375
+|-
+| interactType || 1 || 2
+|-
+| contouredGround || -1 || 0
+|-
+| objectModels || [27717] || [43019]
+|-
+|}

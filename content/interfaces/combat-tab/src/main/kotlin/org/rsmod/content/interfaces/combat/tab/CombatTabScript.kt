@@ -10,6 +10,8 @@ import dev.openrune.types.enums.EnumTypeNonNullMap
 import dev.openrune.util.WeaponCategory
 import dev.openrune.util.Wearpos
 import jakarta.inject.Inject
+import java.util.Collections
+import java.util.WeakHashMap
 import org.rsmod.api.combat.commons.CombatStance
 import org.rsmod.api.combat.commons.magic.MagicSpell
 import org.rsmod.api.combat.commons.magic.Spellbook
@@ -22,8 +24,8 @@ import org.rsmod.api.player.output.mes
 import org.rsmod.api.player.protect.ProtectedAccess
 import org.rsmod.api.player.protect.ProtectedAccessLauncher
 import org.rsmod.api.player.righthand
-import org.rsmod.api.player.ui.PlayerInterfaceUpdates
 import org.rsmod.api.player.ui.IfOverlayButton
+import org.rsmod.api.player.ui.PlayerInterfaceUpdates
 import org.rsmod.api.player.ui.ifClose
 import org.rsmod.api.player.ui.ifOpenOverlay
 import org.rsmod.api.player.ui.ifSetEvents
@@ -34,8 +36,8 @@ import org.rsmod.api.player.vars.enumVarBit
 import org.rsmod.api.player.vars.enumVarp
 import org.rsmod.api.player.vars.intVarBit
 import org.rsmod.api.player.vars.intVarp
-import org.rsmod.api.script.onIfClose
 import org.rsmod.api.script.advanced.onWearposChange
+import org.rsmod.api.script.onIfClose
 import org.rsmod.api.script.onIfOpen
 import org.rsmod.api.script.onIfOverlayButton
 import org.rsmod.api.script.onPlayerQueue
@@ -51,8 +53,6 @@ import org.rsmod.game.entity.Player
 import org.rsmod.game.type.getOrNull
 import org.rsmod.plugin.scripts.PluginScript
 import org.rsmod.plugin.scripts.ScriptContext
-import java.util.Collections
-import java.util.WeakHashMap
 
 /*
  * Note: The logic and execution order in this script are designed for emulation accuracy. While
@@ -95,13 +95,23 @@ constructor(
 
         onIfOverlayButton("component.combat_interface:retaliate") { player.selectAutoRetaliate() }
 
-        onIfOverlayButton("component.combat_interface:0") { player.selectStance(CombatStance.Stance1) }
-        onIfOverlayButton("component.combat_interface:1") { player.selectStance(CombatStance.Stance2) }
-        onIfOverlayButton("component.combat_interface:2") { player.selectStance(CombatStance.Stance3) }
-        onIfOverlayButton("component.combat_interface:3") { player.selectStance(CombatStance.Stance4) }
+        onIfOverlayButton("component.combat_interface:0") {
+            player.selectStance(CombatStance.Stance1)
+        }
+        onIfOverlayButton("component.combat_interface:1") {
+            player.selectStance(CombatStance.Stance2)
+        }
+        onIfOverlayButton("component.combat_interface:2") {
+            player.selectStance(CombatStance.Stance3)
+        }
+        onIfOverlayButton("component.combat_interface:3") {
+            player.selectStance(CombatStance.Stance4)
+        }
         onPlayerQueueWithArgs("queue.attackstyle_change") { player.setStance(it.args) }
 
-        onIfOverlayButton("component.combat_interface:special_attack") { player.toggleSpecialAttack() }
+        onIfOverlayButton("component.combat_interface:special_attack") {
+            player.toggleSpecialAttack()
+        }
         onIfOverlayButton("component.orbs:specbutton") { player.toggleSpecialAttack() }
         onPlayerQueue("queue.sa_instant_spec") { activateInstantSpecial() }
 
@@ -113,7 +123,9 @@ constructor(
         }
 
         for ((autocastId, spell) in spells.autocastSpells()) {
-            onIfOverlayButton(spell.component) { player.selectAutocastSpell(autocastId, spell, it.op) }
+            onIfOverlayButton(spell.component) {
+                player.selectAutocastSpell(autocastId, spell, it.op)
+            }
         }
         onIfOverlayButton("component.autocast:spells") { player.selectAutocastSpell(it) }
     }
@@ -211,11 +223,7 @@ constructor(
 
         pendingAutocastDefensiveCast[this] = defensiveCast
         syncAutocastSetupObj()
-        ifOpenOverlay(
-            "interface.autocast",
-            "component.toplevel_osrs_stretch:side0",
-            eventBus,
-        )
+        ifOpenOverlay("interface.autocast", "component.toplevel_osrs_stretch:side0", eventBus)
         ifSetEvents("component.toplevel_osrs_stretch:stone0", -1..-1, IfEvent.Op1)
         ifSetEvents("component.autocast:spells", 0..58, IfEvent.Op1)
         ClientScripts.toplevelSidebuttonSwitch(this, ToplevelCombatTab)
@@ -268,7 +276,9 @@ constructor(
     private fun Player.selectAutocastSpell(autocastId: Int, spell: MagicSpell, op: IfButtonOp) {
         val pendingDefensiveCast = pendingAutocastDefensiveCast[this]
         val opText = spell.component.op.getOrNull(op.slot - 1)
-        if (pendingDefensiveCast == null && opText?.contains("autocast", ignoreCase = true) != true) {
+        if (
+            pendingDefensiveCast == null && opText?.contains("autocast", ignoreCase = true) != true
+        ) {
             return
         }
 
@@ -370,14 +380,18 @@ constructor(
             }
         }
 
-        spells.getAutocastSpell(event.comsub)?.takeIf { it.spellbook == spellbook }?.let {
-            return AutocastSelection(event.comsub, it)
-        }
+        spells
+            .getAutocastSpell(event.comsub)
+            ?.takeIf { it.spellbook == spellbook }
+            ?.let {
+                return AutocastSelection(event.comsub, it)
+            }
         return null
     }
 
     private fun autocastSpellByObj(obj: ItemServerType): AutocastSelection? =
-        spells.autocastSpells()
+        spells
+            .autocastSpells()
             .entries
             .firstOrNull { it.value.obj.id == obj.id }
             ?.let { AutocastSelection(it.key, it.value) }

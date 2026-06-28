@@ -10,16 +10,9 @@ import java.net.URLEncoder
 import java.nio.charset.StandardCharsets
 import org.jsoup.Jsoup
 
-data class WikiSearchHit(
-    val title: String,
-    val snippet: String,
-)
+data class WikiSearchHit(val title: String, val snippet: String)
 
-data class WikiPage(
-    val title: String,
-    val text: String,
-    val url: String,
-)
+data class WikiPage(val title: String, val text: String, val url: String)
 
 class WikiClient(
     private val client: HttpClient,
@@ -88,11 +81,7 @@ class WikiClient(
                 else -> cleaned.take(maxChars)
             }
 
-        return WikiPage(
-            title = resolvedTitle,
-            text = clipped,
-            url = wikiUrlForTitle(resolvedTitle),
-        )
+        return WikiPage(title = resolvedTitle, text = clipped, url = wikiUrlForTitle(resolvedTitle))
     }
 
     suspend fun rawPageSource(title: String): String {
@@ -123,7 +112,8 @@ class WikiClient(
         }
 
         val revision = page.path("revisions").firstOrNull()
-        val fromMainSlot = revision?.path("slots")?.path("main")?.path("content")?.asText("").orEmpty()
+        val fromMainSlot =
+            revision?.path("slots")?.path("main")?.path("content")?.asText("").orEmpty()
         val fallback = revision?.path("content")?.asText("").orEmpty()
         val content = if (fromMainSlot.isNotBlank()) fromMainSlot else fallback
         if (content.isBlank()) {
@@ -151,4 +141,3 @@ class WikiClient(
     private fun htmlToText(html: String): String =
         Jsoup.parse(html).text().replace(Regex("\\s+"), " ").trim()
 }
-

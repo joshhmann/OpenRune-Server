@@ -45,8 +45,8 @@ class CrushingEvents : PluginScript() {
 
         if (
             !inv.contains("obj.pestle_and_mortar") ||
-            !inv.contains(recipe.item.internalName) ||
-            (inv.freeSpace() < 1 && !inv.contains(recipe.crushedItem.internalName))
+                !inv.contains(recipe.item.internalName) ||
+                (inv.freeSpace() < 1 && !inv.contains(recipe.crushedItem.internalName))
         ) {
             resetAnim()
             return
@@ -81,5 +81,4 @@ class CrushingEvents : PluginScript() {
     }
 
     private data class CrushTask(val recipe: HerbloreCrushingRow)
-
 }

@@ -1,0 +1,58 @@
+__TOC__
+==Enums==
+===New Enums===
+{| class="wikitable sortable sticky-header mw-collapsible"
+|-
+! colspan="3" | New Enums
+|-
+! style="width: 15em" | id !! defaultValue !! map
+|-
+| [https://chisel.weirdgloop.org/structs/index.html?type=enums&id=3604 3604][https://abextm.github.io/cache2/#/viewer/enum/3604 (1)] || 5 minutes || {'0': '5 minutes', '1': '10 minutes', '2': '15 minutes', '3': '20 minutes', '4': '25 minutes'}
+|}
+===Diff Enums===
+{| class="wikitable sortable sticky-header mw-collapsible"
+|-
+! colspan="5" | Diff Enums
+|-
+! style="width: 15em" | Id !! Key !! Previous Value !! New Value
+|-
+| rowspan="2" | [https://chisel.weirdgloop.org/structs/index.html?type=enums&id=1564 1564][https://abextm.github.io/cache2/#/viewer/enum/1564 (1)]
+|-
+| map || {'0': 3635, '1': 994, '2': 2777, '3': 2861, '4': 880, '5': 3731, '6': 4446, '7': 990, '8': 947, '9': 4447, '10': 4448, '11': 4682, '12': 4686, '13': 4684, '14': 4687, '15': 4685, '16': 4683, '17': 4680, '18': 4681, '19': 991, '20': 956, '21': 957, '22': 1013, '23': <span style="color: #ee4231">348</span>, '24': <span style="color: #ee4231">4690</span>, '25': <span style="color: #ee4231">4698</span>, '26': <span style="color: #ee4231">1745</span>, '27': <span style="color: #ee4231">1810</span>, '28': <span style="color: #ee4231">1812</span>, '29': <span style="color: #ee4231">1938</span>, '30': <span style="color: #ee4231">1804</span>, '31': <span style="color: #ee4231">349</span>, '32': <span style="color: #ee4231">350</span>, '33': <span style="color: #ee4231">351</span>, '34': <span style="color: #ee4231">4656</span>, '35': <span style="color: #ee4231">4657</span>, '36': <span style="color: #ee4231">4658</span>, '37': 4689} || {'0': 3635, '1': 994, '2': 2777, '3': 2861, '4': 880, '5': 3731, '6': 4446, '7': 990, '8': 947, '9': 4447, '10': 4448, '11': 4682, '12': 4686, '13': 4684, '14': 4687, '15': 4685, '16': 4683, '17': 4680, '18': 4681, '19': 991, '20': 956, '21': 957, '22': 1013, '23': <span style="color: #6bc71f">4858</span>, '24': <span style="color: #6bc71f">348</span>, '25': <span style="color: #6bc71f">4690</span>, '26': <span style="color: #6bc71f">4698</span>, '27': <span style="color: #6bc71f">1745</span>, '28': <span style="color: #6bc71f">1810</span>, '29': <span style="color: #6bc71f">1812</span>, '30': <span style="color: #6bc71f">1938</span>, '31': <span style="color: #6bc71f">1804</span>, '32': <span style="color: #6bc71f">349</span>, '33': <span style="color: #6bc71f">350</span>, '34': <span style="color: #6bc71f">351</span>, '35': <span style="color: #6bc71f">4656</span>, '36': <span style="color: #6bc71f">4657</span>, '37': <span style="color: #6bc71f">4658, '38': </span>4689}
+|}
+==Items==
+===New Items===
+{| class="wikitable sortable sticky-header mw-collapsible"
+|-
+! colspan="12" | New Items
+|-
+! style="width: 15em" | name !! id !! gameVal !! examine !! isMembers !! isGrandExchangable !! isStackable !! noteLinkedItem !! inventoryActions !! placeholderLinkedItem !! price !! weight
+|-
+| [[Rotten turnip]] || [https://chisel.weirdgloop.org/moid/item_id.html#30890 30890][https://abextm.github.io/cache2/#/viewer/item/30890 (1)] || plugin_dev_world_tool || Used to assist with developing plugins. || true || false || false || -1 || [Chomp, Rub, None, None, Destroy] || -1 || 0 || 1
+|}
+==VarPlayers==
+===New VarPlayers===
+{| class="wikitable sortable sticky-header mw-collapsible"
+|-
+! colspan="2" | New VarPlayers
+|-
+! style="width: 15em" | id !! gameVal
+|-
+| [https://chisel.weirdgloop.org/varbs/display?varplayer=4725 4725] || ge_last_offer_item
+|-
+| [https://chisel.weirdgloop.org/varbs/display?varplayer=4726 4726] || ge_last_offer_quantity
+|-
+| [https://chisel.weirdgloop.org/varbs/display?varplayer=4727 4727] || ge_last_offer_price
+|-
+| [https://chisel.weirdgloop.org/varbs/display?varplayer=4728 4728] || ge_last_offer_type
+|}
+==Structs==
+===New Structs===
+{| class="wikitable sortable sticky-header mw-collapsible"
+|-
+! colspan="2" | New Structs
+|-
+! style="width: 15em" | id !! params
+|-
+| [https://chisel.weirdgloop.org/structs/index.html?type=structs&id=4858 4858][https://abextm.github.io/cache2/#/viewer/struct/4858 (1)] || {'1077': 438, '1078': 2, '1086': 'AFK logout timer', '1088': 'afk, idle, logout, timer, timeout', '1091': 3604, '1096': 'Determines how long you can remain idle before being logged out.', '1097': 'Determines how long you can remain idle before being logged out. Note:  Mobile operating systems may override this timer by suspending or closing the app when idle or in the background.', '1157': 1}
+|}

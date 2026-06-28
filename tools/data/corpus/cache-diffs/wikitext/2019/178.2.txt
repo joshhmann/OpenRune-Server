@@ -1,0 +1,171 @@
+{{ToC}}
+==Items==
+===New Items===
+{| class="wikitable sortable"
+!colspan='11'|New Items
+|-
+! style=width:15em | Name !! ID !! Members !! Tradeable in GE !! Equipable !! Stackable !! Noteable !! Options !! Placeholder !! Cost
+|-
+| [[Mystic set (light)]] || [https://chisel.weirdgloop.org/moid/item_id.html#23110 23110] || Yes || Yes || No || No || Yes ||     Drop || Yes || 235000
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#23111 23111] || No || No || No || No || Yes ||     Drop || No || 1
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#23112 23112] || No || No || No || No || No ||     Drop || Yes || 1
+|-
+| [[Mystic set (blue)]] || [https://chisel.weirdgloop.org/moid/item_id.html#23113 23113] || Yes || Yes || No || No || Yes ||     Drop || Yes || 235000
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#23114 23114] || No || No || No || No || Yes ||     Drop || No || 1
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#23115 23115] || No || No || No || No || No ||     Drop || Yes || 1
+|-
+| [[Mystic set (dark)]] || [https://chisel.weirdgloop.org/moid/item_id.html#23116 23116] || Yes || Yes || No || No || Yes ||     Drop || Yes || 235000
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#23117 23117] || No || No || No || No || Yes ||     Drop || No || 1
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#23118 23118] || No || No || No || No || No ||     Drop || Yes || 1
+|-
+| [[Mystic set (dusk)]] || [https://chisel.weirdgloop.org/moid/item_id.html#23119 23119] || Yes || Yes || No || No || Yes ||     Drop || Yes || 235000
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#23120 23120] || No || No || No || No || Yes ||     Drop || No || 1
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#23121 23121] || No || No || No || No || No ||     Drop || Yes || 1
+|-
+|-
+|}
+===Removed Items===
+{| class="wikitable sortable"
+!colspan='2'|Removed Items
+|-
+! style=width:15em | Name !! ID
+|-
+|-
+|}
+===Diff Items===
+{| class="wikitable sortable"
+!colspan='5'|Diff Items
+|-
+! style=width:15em | Name !! ID !! Key !! Previous Value !! New Value
+|-
+|rowspan="2"|[[Guthix d'hide]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#10378 10378]
+|-
+|name || [[Guthix dragonhide]] || [[Guthix d'hide]]
+|-
+|}
+
+==Non-Player Characters==
+===New NPCs===
+{| class="wikitable sortable"
+!colspan='4'|New NPCs
+|-
+! style=width:15em | Name !! ID !! Combat Level !! Options
+|-
+| [[Drew]] || [https://chisel.weirdgloop.org/moid/npc_id.html#6771 6771] || No Combat Level || Talk-to, Claim Sand, Check, Deposit buckets
+|-
+|-
+|}
+===Removed NPCs===
+{| class="wikitable sortable"
+!colspan='2'|Removed NPCs
+|-
+! style=width:15em | Name !! ID
+|-
+|-
+|}
+===Diff NPCs===
+{| class="wikitable sortable"
+!colspan='5'|Diff NPCs
+|-
+! style=width:15em | Name !! ID !! Key !! Previous Value !! New Value
+|-
+|rowspan="2"|[[Veos]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#2147 2147]
+|-
+|actions || ['Talk-to', None, 'Travel', None, None] || ['Talk-to', None, 'Port Sarim', "Land's End", None]
+|-
+|rowspan="2"|[[Captain Magoro]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#7471 7471]
+|-
+|actions || ['Talk-to', None, 'Travel', None, None] || ['Talk-to', None, 'Port Sarim', 'Port Piscarilius', None]
+|-
+|rowspan="2"|[[Veos]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#8630 8630]
+|-
+|actions || ['Talk-to', None, 'Travel', None, None] || ['Talk-to', None, 'Port Piscarilius', "Land's End", None]
+|-
+|}
+
+==Objects==
+===New Objects=== 
+{| class="wikitable sortable"
+!colspan='3'|New Objects
+|-
+! style=width:15em | Name !! ID !! Options
+|-
+| [[Grinder]] || [https://chisel.weirdgloop.org/moid/object_id.html#26199 26199] || Deposit
+|-
+|-
+|}
+===Removed Objects===
+{| class="wikitable sortable"
+!colspan='2'|Removed Objects
+|-
+! style=width:15em | Name !! ID
+|-
+|-
+|}
+===Diff Objects===
+{| class="wikitable sortable"
+!colspan='5'|Diff Objects
+|-
+! style=width:15em | Name !! ID !! Key !! Previous Value !! New Value
+|-
+|rowspan="2"|[[Cooker]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#16702 16702]
+|-
+|actions || [None, None, None, None, None] || ['Cook', None, None, None, None]
+|-
+|rowspan="2"|[[Storage crate]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#24534 24534]
+|-
+|actions || [None, None, None, None, None] || ['Add finds', None, None, None, None]
+|-
+|rowspan="2"|[[Specimen table]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#24555 24555]
+|-
+|actions || [None, None, None, None, None] || ['Clean', None, None, None, None]
+|-
+|rowspan="2"|[[Specimen table]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#24556 24556]
+|-
+|actions || [None, None, None, None, None] || ['Clean', None, None, None, None]
+|-
+|rowspan="4"|[[Dig Site specimen rocks]]
+|rowspan="4"|[https://chisel.weirdgloop.org/moid/object_id.html#24557 24557]
+|-
+|name || [[Rocks]] || [[Dig Site specimen rocks]]
+|-
+| mergeNormals || False || True
+|-
+| actions || [None, None, None, None, None] || ['Take', None, None, None, None]
+|-
+|rowspan="4"|[[Dig Site specimen rocks]]
+|rowspan="4"|[https://chisel.weirdgloop.org/moid/object_id.html#24558 24558]
+|-
+|name || [[null]] || [[Dig Site specimen rocks]]
+|-
+| wallOrDoor || 0 || 1
+|-
+| actions || [None, None, None, None, None] || ['Take', None, None, None, None]
+|-
+|rowspan="2"|[[Crate]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#30942 30942]
+|-
+|actions || ['Take tool', 'Take all tools', None, None, None] || ['Take tools', None, None, None, None]
+|-
+|rowspan="2"|[[Brimstone chest]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#34660 34660]
+|-
+|actions || ['Unlock', None, None, None, None] || ['Unlock', 'Check', None, None, None]
+|-
+|}

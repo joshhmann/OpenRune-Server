@@ -1,0 +1,432 @@
+{{ToC}}
+==Items==
+===New Items===
+{| class="wikitable sortable"
+!colspan='11'|New Items
+|-
+! style=width:15em | Name !! ID !! Members !! Tradeable in GE !! Equipable !! Stackable !! Noteable !! Options !! Placeholder !! Cost !! Weight
+|-
+|-
+|}
+===Removed Items===
+{| class="wikitable sortable"
+!colspan='2'|Removed Items
+|-
+! style=width:15em | Name !! ID
+|-
+|-
+|}
+===Diff Items===
+{| class="wikitable sortable"
+!colspan='5'|Diff Items
+|-
+! style=width:15em | Name !! ID !! Key !! Previous Value !! New Value
+|-
+|rowspan="2"|[[Hunting knife]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#20779 20779]
+|-
+|category || 55 || 25
+|-
+|rowspan="2"|[[Carrot sword]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#24537 24537]
+|-
+|category || 55 || 26
+|-
+|rowspan="17"|[[Null]]
+|rowspan="17"|[https://chisel.weirdgloop.org/moid/item_id.html#24609 24609]
+|-
+|name || [[Blighted bind sack]] || [[Null]]
+|-
+| xan2d || 61 || 572
+|-
+| yan2d || 305 || 0
+|-
+| cost || 20 || 1
+|-
+| isTradeable || True || False
+|-
+| stackable || 1 || 0
+|-
+| inventoryModel || 34535 || 2521
+|-
+| members || True || False
+|-
+| zoom2d || 850 || 1940
+|-
+| xOffset2d || 1 || 0
+|-
+| yOffset2d || 0 || 1
+|-
+| weight || 0 || 9071
+|-
+| placeholderId || 24610 || -1
+|-
+| colorFind ||<span style = "background-color: #b11406;color:white">957</span>,<span style = "background-color: #921106;color:white">947</span>||<span style = "background-color: #0b3618;color:white">25238</span>
+|-
+| colorReplace ||<span style = "background-color: #847070;color:white">82</span>,<span style = "background-color: #6f6161;color:white">70</span>||<span style = "background-color: #ad415c;color:white">-2608</span>
+|-
+| category || 149 || 15
+|-
+|rowspan="10"|[[Null]]
+|rowspan="10"|[https://chisel.weirdgloop.org/moid/item_id.html#24610 24610]
+|-
+|name || [[null]] || [[Null]]
+|-
+| xan2d || 0 || 572
+|-
+| inventoryModel || 0 || 2521
+|-
+| zoom2d || 2000 || 1940
+|-
+| yOffset2d || 0 || 1
+|-
+| weight || 0 || 9071
+|-
+| placeholderId || 24609 || -1
+|-
+| placeholderTemplateId || 14401 || -1
+|-
+| category || 0 || 15
+|-
+|rowspan="17"|[[Null]]
+|rowspan="17"|[https://chisel.weirdgloop.org/moid/item_id.html#24611 24611]
+|-
+|name || [[Blighted snare sack]] || [[Null]]
+|-
+| xan2d || 61 || 572
+|-
+| yan2d || 155 || 0
+|-
+| cost || 25 || 1
+|-
+| isTradeable || True || False
+|-
+| stackable || 1 || 0
+|-
+| inventoryModel || 34535 || 2521
+|-
+| members || True || False
+|-
+| zoom2d || 850 || 1940
+|-
+| xOffset2d || 1 || 0
+|-
+| yOffset2d || 0 || 1
+|-
+| weight || 0 || 9071
+|-
+| placeholderId || 24612 || -1
+|-
+| colorFind ||<span style = "background-color: #b11406;color:white">957</span>,<span style = "background-color: #921106;color:white">947</span>||<span style = "background-color: #0b3618;color:white">25238</span>
+|-
+| colorReplace ||<span style = "background-color: #c6b7b7;color:white">127</span>,<span style = "background-color: #b4a1a1;color:white">115</span>||<span style = "background-color: #ad415c;color:white">-2608</span>
+|-
+| category || 149 || 15
+|-
+|rowspan="10"|[[Null]]
+|rowspan="10"|[https://chisel.weirdgloop.org/moid/item_id.html#24612 24612]
+|-
+|name || [[null]] || [[Null]]
+|-
+| xan2d || 0 || 572
+|-
+| inventoryModel || 0 || 2521
+|-
+| zoom2d || 2000 || 1940
+|-
+| yOffset2d || 0 || 1
+|-
+| weight || 0 || 9071
+|-
+| placeholderId || 24611 || -1
+|-
+| placeholderTemplateId || 14401 || -1
+|-
+| category || 0 || 15
+|-
+|rowspan="14"|[[Null]]
+|rowspan="14"|[https://chisel.weirdgloop.org/moid/item_id.html#26704 26704]
+|-
+|name || [[Blighted wave sack]] || [[Null]]
+|-
+| xan2d || 55 || 572
+|-
+| yan2d || 2000 || 0
+|-
+| cost || 40 || 1
+|-
+| stackable || 1 || 0
+|-
+| inventoryModel || 45067 || 2521
+|-
+| members || True || False
+|-
+| zoom2d || 650 || 1940
+|-
+| xOffset2d || 1 || 0
+|-
+| yOffset2d || 0 || 1
+|-
+| weight || 0 || 9071
+|-
+| placeholderId || 27089 || -1
+|-
+| category || 149 || 15
+|-
+|rowspan="10"|[[Null]]
+|rowspan="10"|[https://chisel.weirdgloop.org/moid/item_id.html#27089 27089]
+|-
+|name || [[null]] || [[Null]]
+|-
+| xan2d || 0 || 572
+|-
+| inventoryModel || 0 || 2521
+|-
+| zoom2d || 2000 || 1940
+|-
+| yOffset2d || 0 || 1
+|-
+| weight || 0 || 9071
+|-
+| placeholderId || 26704 || -1
+|-
+| placeholderTemplateId || 14401 || -1
+|-
+| category || 0 || 15
+|-
+|rowspan="2"|[[Festive nutcracker staff]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#27580 27580]
+|-
+|category || 55 || 26
+|-
+|rowspan="2"|[[Sweet nutcracker staff]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#27586 27586]
+|-
+|category || 55 || 26
+|-
+|rowspan="2"|[[Sigil of sustenance]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#28477 28477]
+|-
+|params || {'568': 3, '295': 1, '1371': 79} || {'568': 3, '295': 1, '1371': 65}
+|-
+|rowspan="2"|[[Sigil of sustenance]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#28478 28478]
+|-
+|params || {'568': 3, '295': 1, '1371': 79} || {'568': 3, '295': 1, '1371': 65}
+|-
+|rowspan="2"|[[Sigil of hoarding]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#28480 28480]
+|-
+|params || {'568': 3, '295': 1, '1371': 78} || {'568': 3, '295': 1, '1371': 66}
+|-
+|rowspan="2"|[[Sigil of hoarding]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#28481 28481]
+|-
+|params || {'568': 3, '295': 1, '1371': 78} || {'568': 3, '295': 1, '1371': 66}
+|-
+|rowspan="2"|[[Sigil of the alchemaniac]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#28483 28483]
+|-
+|params || {'568': 3, '295': 1, '1371': 63} || {'568': 3, '295': 1, '1371': 64}
+|-
+|rowspan="2"|[[Sigil of the alchemaniac]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#28484 28484]
+|-
+|params || {'568': 3, '295': 1, '1371': 63} || {'568': 3, '295': 1, '1371': 64}
+|-
+|rowspan="2"|[[Sigil of the hunter]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#28486 28486]
+|-
+|params || {'568': 3, '295': 1, '1371': 68} || {'568': 3, '295': 1, '1371': 63}
+|-
+|rowspan="2"|[[Sigil of the hunter]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#28487 28487]
+|-
+|params || {'568': 3, '295': 1, '1371': 68} || {'568': 3, '295': 1, '1371': 63}
+|-
+|rowspan="2"|[[Sigil of resistance]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#28489 28489]
+|-
+|params || {'568': 3, '295': 1, '1371': 77} || {'568': 3, '295': 1, '1371': 54}
+|-
+|rowspan="2"|[[Sigil of resistance]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#28490 28490]
+|-
+|params || {'568': 3, '295': 1, '1371': 77} || {'568': 3, '295': 1, '1371': 54}
+|-
+|rowspan="2"|[[Sigil of agile fortune]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#28492 28492]
+|-
+|params || {'568': 3, '295': 1, '1371': 71} || {'568': 3, '295': 1, '1371': 57}
+|-
+|rowspan="2"|[[Sigil of agile fortune]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#28493 28493]
+|-
+|params || {'568': 3, '295': 1, '1371': 71} || {'568': 3, '295': 1, '1371': 57}
+|-
+|rowspan="2"|[[Sigil of the food master]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#28495 28495]
+|-
+|params || {'568': 3, '295': 1, '1371': 65} || {'568': 3, '295': 1, '1371': 69}
+|-
+|rowspan="2"|[[Sigil of the food master]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#28496 28496]
+|-
+|params || {'568': 3, '295': 1, '1371': 65} || {'568': 3, '295': 1, '1371': 69}
+|-
+|rowspan="2"|[[Sigil of the well-fed]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#28498 28498]
+|-
+|params || {'568': 3, '295': 1, '1371': 64} || {'568': 3, '295': 1, '1371': 70}
+|-
+|rowspan="2"|[[Sigil of the well-fed]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#28499 28499]
+|-
+|params || {'568': 3, '295': 1, '1371': 64} || {'568': 3, '295': 1, '1371': 70}
+|-
+|rowspan="2"|[[Sigil of the infernal chef]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#28501 28501]
+|-
+|params || {'568': 3, '295': 1, '1371': 69} || {'568': 3, '295': 1, '1371': 58}
+|-
+|rowspan="2"|[[Sigil of the infernal chef]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#28502 28502]
+|-
+|params || {'568': 3, '295': 1, '1371': 69} || {'568': 3, '295': 1, '1371': 58}
+|-
+|rowspan="2"|[[Sigil of the infernal smith]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#28504 28504]
+|-
+|params || {'568': 3, '295': 1, '1371': 70} || {'568': 3, '295': 1, '1371': 59}
+|-
+|rowspan="2"|[[Sigil of the infernal smith]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#28505 28505]
+|-
+|params || {'568': 3, '295': 1, '1371': 70} || {'568': 3, '295': 1, '1371': 59}
+|-
+|rowspan="2"|[[Sigil of the lightbearer]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#28507 28507]
+|-
+|params || {'568': 3, '295': 1, '1371': 75} || {'568': 3, '295': 1, '1371': 61}
+|-
+|rowspan="2"|[[Sigil of the lightbearer]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#28508 28508]
+|-
+|params || {'568': 3, '295': 1, '1371': 75} || {'568': 3, '295': 1, '1371': 61}
+|-
+|rowspan="2"|[[Sigil of precision]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#28513 28513]
+|-
+|params || {'568': 3, '295': 1, '1371': 76} || {'568': 3, '295': 1, '1371': 67}
+|-
+|rowspan="2"|[[Sigil of precision]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#28514 28514]
+|-
+|params || {'568': 3, '295': 1, '1371': 76} || {'568': 3, '295': 1, '1371': 67}
+|-
+|rowspan="2"|[[Sigil of the augmented thrall]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#28516 28516]
+|-
+|params || {'568': 3, '295': 1, '1371': 74} || {'568': 3, '295': 1, '1371': 68}
+|-
+|rowspan="2"|[[Sigil of the augmented thrall]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#28517 28517]
+|-
+|params || {'568': 3, '295': 1, '1371': 74} || {'568': 3, '295': 1, '1371': 68}
+|-
+|rowspan="2"|[[Sigil of faith]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#28519 28519]
+|-
+|params || {'568': 3, '295': 1, '1371': 59} || {'568': 3, '295': 1, '1371': 71}
+|-
+|rowspan="2"|[[Sigil of faith]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#28520 28520]
+|-
+|params || {'568': 3, '295': 1, '1371': 59} || {'568': 3, '295': 1, '1371': 71}
+|-
+|rowspan="2"|[[Sigil of titanium]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#28522 28522]
+|-
+|params || {'568': 3, '295': 1, '1371': 73} || {'568': 3, '295': 1, '1371': 55}
+|-
+|rowspan="2"|[[Sigil of titanium]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#28523 28523]
+|-
+|params || {'568': 3, '295': 1, '1371': 73} || {'568': 3, '295': 1, '1371': 55}
+|-
+|rowspan="2"|[[Sigil of the ninja]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#28525 28525]
+|-
+|params || {'568': 3, '295': 1, '1371': 72} || {'568': 3, '295': 1, '1371': 56}
+|-
+|rowspan="2"|[[Sigil of the ninja]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#28526 28526]
+|-
+|params || {'568': 3, '295': 1, '1371': 72} || {'568': 3, '295': 1, '1371': 56}
+|-
+|rowspan="2"|[[Sigil of woodcraft]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#28528 28528]
+|-
+|params || {'568': 3, '295': 1, '1371': 67} || {'568': 3, '295': 1, '1371': 60}
+|-
+|rowspan="2"|[[Sigil of woodcraft]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#28529 28529]
+|-
+|params || {'568': 3, '295': 1, '1371': 67} || {'568': 3, '295': 1, '1371': 60}
+|-
+|rowspan="2"|[[Warped sceptre]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#28585 28585]
+|-
+|isTradeable || True || False
+|-
+|}
+
+==Non-Player Characters==
+===New NPCs===
+{| class="wikitable sortable"
+!colspan='4'|New NPCs
+|-
+! style=width:15em | Name !! ID !! Combat Level !! Options
+|-
+|-
+|}
+===Removed NPCs===
+{| class="wikitable sortable"
+!colspan='2'|Removed NPCs
+|-
+! style=width:15em | Name !! ID
+|-
+|-
+|}
+===Diff NPCs===
+{| class="wikitable sortable"
+!colspan='5'|Diff NPCs
+|-
+! style=width:15em | Name !! ID !! Key !! Previous Value !! New Value
+|-
+|}
+
+==Objects==
+===New Objects=== 
+{| class="wikitable sortable"
+!colspan='3'|New Objects
+|-
+! style=width:15em | Name !! ID !! Options
+|-
+|-
+|}
+===Removed Objects===
+{| class="wikitable sortable"
+!colspan='2'|Removed Objects
+|-
+! style=width:15em | Name !! ID
+|-
+|-
+|}
+===Diff Objects===
+{| class="wikitable sortable"
+!colspan='5'|Diff Objects
+|-
+! style=width:15em | Name !! ID !! Key !! Previous Value !! New Value
+|-
+|}

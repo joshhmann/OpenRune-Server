@@ -1,6 +1,5 @@
 package org.rsmod.api.stats.levelmod
 
-import dev.openrune.types.StatType
 import org.rsmod.game.entity.Player
 
 abstract class InvisibleLevelMod(internal val stat: String) {

@@ -1,0 +1,109 @@
+{| class="wikitable sortable"
+!colspan="5"|Items
+|-
+! Name !! ID !! Key !! Previous Value !! Changed into
+|-
+| [[Hallowed sack]] || 24946 || colspan = "4" | New ID
+|-
+| [[null]] || 24947 || colspan = "4" | New ID
+|-
+| [[null]] || 24948 || colspan = "4" | New ID
+|-
+|rowspan="3"|[[Pharaoh's sceptre (3)]]
+|rowspan="3"|9044
+|-
+|interfaceOptions || ['Jalsavrah', 'Wield', 'Jaleustrophos', 'Jaldraocht', 'Drop'] || ['Wield', 'Jalsavrah', 'Jaleustrophos', 'Jaldraocht', 'Drop']
+|-
+| params || {'452': 'Jaleustrophos', '453': 'Jaldraocht', '451': 'Jalsavrah'} || {'451': 'Jalsavrah', '452': 'Jaleustrophos', '148': 1, '453': 'Jaldraocht'}
+|-
+|rowspan="3"|[[Pharaoh's sceptre (2)]]
+|rowspan="3"|9046
+|-
+|interfaceOptions || ['Jalsavrah', 'Wield', 'Jaleustrophos', 'Jaldraocht', 'Drop'] || ['Wield', 'Jalsavrah', 'Jaleustrophos', 'Jaldraocht', 'Drop']
+|-
+| params || {'452': 'Jaleustrophos', '453': 'Jaldraocht', '451': 'Jalsavrah'} || {'451': 'Jalsavrah', '452': 'Jaleustrophos', '148': 1, '453': 'Jaldraocht'}
+|-
+|rowspan="3"|[[Pharaoh's sceptre (1)]]
+|rowspan="3"|9048
+|-
+|interfaceOptions || ['Jalsavrah', 'Wield', 'Jaleustrophos', 'Jaldraocht', 'Drop'] || ['Wield', 'Jalsavrah', 'Jaleustrophos', 'Jaldraocht', 'Drop']
+|-
+| params || {'452': 'Jaleustrophos', '453': 'Jaldraocht', '451': 'Jalsavrah'} || {'451': 'Jalsavrah', '452': 'Jaleustrophos', '148': 1, '453': 'Jaldraocht'}
+|-
+|rowspan="3"|[[Pharaoh's sceptre]]
+|rowspan="3"|9050
+|-
+|interfaceOptions || ['Jalsavrah', 'Wield', 'Jaleustrophos', 'Jaldraocht', 'Drop'] || ['Wield', 'Jalsavrah', 'Jaleustrophos', 'Jaldraocht', 'Drop']
+|-
+| params || {'451': 'Teleport'} || {'148': 1, '451': 'Teleport'}
+|-
+|rowspan="3"|[[Pharaoh's sceptre (8)]]
+|rowspan="3"|13074
+|-
+|interfaceOptions || ['Jalsavrah', 'Wield', 'Jaleustrophos', 'Jaldraocht', 'Drop'] || ['Wield', 'Jalsavrah', 'Jaleustrophos', 'Jaldraocht', 'Drop']
+|-
+| params || {'452': 'Jaleustrophos', '453': 'Jaldraocht', '451': 'Jalsavrah'} || {'451': 'Jalsavrah', '452': 'Jaleustrophos', '148': 1, '453': 'Jaldraocht'}
+|-
+|rowspan="3"|[[Pharaoh's sceptre (7)]]
+|rowspan="3"|13075
+|-
+|interfaceOptions || ['Jalsavrah', 'Wield', 'Jaleustrophos', 'Jaldraocht', 'Drop'] || ['Wield', 'Jalsavrah', 'Jaleustrophos', 'Jaldraocht', 'Drop']
+|-
+| params || {'452': 'Jaleustrophos', '453': 'Jaldraocht', '451': 'Jalsavrah'} || {'451': 'Jalsavrah', '452': 'Jaleustrophos', '148': 1, '453': 'Jaldraocht'}
+|-
+|rowspan="3"|[[Pharaoh's sceptre (6)]]
+|rowspan="3"|13076
+|-
+|interfaceOptions || ['Jalsavrah', 'Wield', 'Jaleustrophos', 'Jaldraocht', 'Drop'] || ['Wield', 'Jalsavrah', 'Jaleustrophos', 'Jaldraocht', 'Drop']
+|-
+| params || {'452': 'Jaleustrophos', '453': 'Jaldraocht', '451': 'Jalsavrah'} || {'451': 'Jalsavrah', '452': 'Jaleustrophos', '148': 1, '453': 'Jaldraocht'}
+|-
+|rowspan="3"|[[Pharaoh's sceptre (5)]]
+|rowspan="3"|13077
+|-
+|interfaceOptions || ['Jalsavrah', 'Wield', 'Jaleustrophos', 'Jaldraocht', 'Drop'] || ['Wield', 'Jalsavrah', 'Jaleustrophos', 'Jaldraocht', 'Drop']
+|-
+| params || {'452': 'Jaleustrophos', '453': 'Jaldraocht', '451': 'Jalsavrah'} || {'451': 'Jalsavrah', '452': 'Jaleustrophos', '148': 1, '453': 'Jaldraocht'}
+|-
+|rowspan="3"|[[Pharaoh's sceptre (4)]]
+|rowspan="3"|13078
+|-
+|interfaceOptions || ['Jalsavrah', 'Wield', 'Jaleustrophos', 'Jaldraocht', 'Drop'] || ['Wield', 'Jalsavrah', 'Jaleustrophos', 'Jaldraocht', 'Drop']
+|-
+| params || {'452': 'Jaleustrophos', '453': 'Jaldraocht', '451': 'Jalsavrah'} || {'451': 'Jalsavrah', '452': 'Jaleustrophos', '148': 1, '453': 'Jaldraocht'}
+|-
+|rowspan="2"|[[Dark acorn]]
+|rowspan="2"|24733
+|-
+|cost || 5000 || 3000
+|-
+|rowspan="2"|[[Plank sack]]
+|rowspan="2"|24882
+|-
+|shiftClickDropIndex || -2 || 3
+|-
+|}
+
+{| class="wikitable sortable"
+!colspan="5"|Non-Player Characters
+|-
+! Name !! ID !! Key !! Previous Value !! Changed into
+|-
+|rowspan="2"|[[Mysterious Stranger]]
+|rowspan="2"|9640
+|-
+|actions || ['Talk-to', None, 'Trade', 'Collect', None] || ['Talk-to', None, 'Trade', 'Collect', 'Exchange']
+|-
+|}
+
+{| class="wikitable sortable"
+!colspan="5"|Objects
+|-
+! Name !! ID !! Key !! Previous Value !! Changed into
+|-
+|rowspan="2"|[[Cave entrance]]
+|rowspan="2"|17209
+|-
+|contouredGround || -1 || 0
+|-
+|}

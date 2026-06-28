@@ -72,7 +72,7 @@ data class NpcServerType(
     var huntRange: Int = 5,
     var huntMode: Int? = null,
     var giveChase: Boolean = true,
-    @param:TomlField(["params"],serializer = ParamSerializer::class)
+    @param:TomlField(["params"], serializer = ParamSerializer::class)
     var paramsRaw: MutableMap<Int, Any>? = null,
 ) : Definition {
 

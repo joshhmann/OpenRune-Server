@@ -1,13 +1,13 @@
 package org.rsmod.tools.mcp.wiki
 
-data class WikiInfoboxNpcIdLine(
-    val label: String,
-    val npcIds: List<Int>,
-)
+data class WikiInfoboxNpcIdLine(val label: String, val npcIds: List<Int>)
 
 object WikiInfoboxNpcIds {
     private val versionedIds =
-        Regex("""\|\s*id(\d+)\s*=\s*([\d,\s]+)""", setOf(RegexOption.IGNORE_CASE, RegexOption.MULTILINE))
+        Regex(
+            """\|\s*id(\d+)\s*=\s*([\d,\s]+)""",
+            setOf(RegexOption.IGNORE_CASE, RegexOption.MULTILINE),
+        )
 
     private val bareId =
         Regex("""\|\s*id\s*=\s*([\d,\s]+)""", setOf(RegexOption.IGNORE_CASE, RegexOption.MULTILINE))
@@ -21,9 +21,9 @@ object WikiInfoboxNpcIds {
                     val ids = parseIdList(m.groupValues[2])
                     if (ids.isEmpty()) return@mapNotNull null
                     WikiInfoboxNpcIdLine(label = "id$n", npcIds = ids)
-                }.sortedBy { line ->
-                    line.label.removePrefix("id").toIntOrNull() ?: 0
-                }.toList()
+                }
+                .sortedBy { line -> line.label.removePrefix("id").toIntOrNull() ?: 0 }
+                .toList()
 
         if (versioned.isNotEmpty()) {
             return versioned
@@ -31,11 +31,10 @@ object WikiInfoboxNpcIds {
 
         val bare = bareId.find(source) ?: return emptyList()
         val ids = parseIdList(bare.groupValues[1])
-        return if (ids.isEmpty()) emptyList() else listOf(WikiInfoboxNpcIdLine(label = "id", npcIds = ids))
+        return if (ids.isEmpty()) emptyList()
+        else listOf(WikiInfoboxNpcIdLine(label = "id", npcIds = ids))
     }
 
     private fun parseIdList(raw: String): List<Int> =
-        raw
-            .split(',')
-            .mapNotNull { it.trim().takeIf(String::isNotEmpty)?.toIntOrNull() }
+        raw.split(',').mapNotNull { it.trim().takeIf(String::isNotEmpty)?.toIntOrNull() }
 }

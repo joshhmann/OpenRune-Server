@@ -1,0 +1,609 @@
+__TOC__
+==Objects==
+===New Objects===
+{| class="wikitable sortable"
+|-
+! colspan="3" | New Objects
+|-
+! style="width: 15em" | name !! id !! actions
+|}
+===Removed Objects===
+{| class="wikitable sortable"
+|-
+! colspan="3" | Removed Objects
+|-
+! style="width: 15em" | name !! id !! actions
+|}
+===Diff Objects===
+{| class="wikitable sortable sticky-header"
+|-
+! colspan="5" | Diff Objects
+|-
+! style="width: 15em" | Name !! Id !! Key !! Previous Value !! New Value
+|}
+==Enums==
+===New Enums===
+{| class="wikitable sortable"
+|-
+! colspan="3" | New Enums
+|-
+! style="width: 15em" | id !! defaultValue !! map
+|-
+| [https://chisel.weirdgloop.org/structs/index.html?type=enums&id=3254 3254][https://abextm.github.io/cache2/#/viewer/enum/3254 (1)] ||  || 
+|}
+===Removed Enums===
+{| class="wikitable sortable"
+|-
+! colspan="3" | Removed Enums
+|-
+! style="width: 15em" | id !! defaultValue !! map
+|}
+===Diff Enums===
+{| class="wikitable sortable sticky-header"
+|-
+! colspan="5" | Diff Enums
+|-
+! style="width: 15em" | Id !! Key !! Previous Value !! New Value
+|-
+| rowspan="2" | [https://chisel.weirdgloop.org/structs/index.html?type=enums&id=817 817][https://abextm.github.io/cache2/#/viewer/enum/817 (1)]
+|-
+| map || {'0': -1, '1': 28134, '2': 28179, '3': 28184, '4': 28646, '5': 28665, '6': 28653, '7': 28657, '8': 28152, '9': 28157, '10': 28161, '11': 6020, '12': 6022, '13': 6024, '14': 6028, '15': 6026, '16': 6030, '17': 10939, '18': 10940, '19': 10941, '20': 10933, '21': 28169, '22': 28171, '23': 28173, '24': 28175, '25': 9807, '26': 9808} || {'0': -1, '1': 28134, '2': 28152, '3': 28157, '4': 28161, '5': 6020, '6': 6022, '7': 6024, '8': 6028, '9': 6026, '10': 6030, '11': 10939, '12': 10940, '13': 10941, '14': 10933, '15': 28169, '16': 28171, '17': 28173, '18': 28175, '19': 9807, '20': 9808}
+|-
+| rowspan="2" | [https://chisel.weirdgloop.org/structs/index.html?type=enums&id=4967 4967][https://abextm.github.io/cache2/#/viewer/enum/4967 (1)]
+|-
+| map || {'0': 3729, '1': 4360, '2': 4361, '3': 4500, '4': 4506, '5': 4507, '6': 4508, '7': 4554, '8': 4505, '9': 4501, '10': 4510, '11': 4555, '12': 4532, '13': 4522, '14': 4523, '15': 4524, '16': 4525, '17': 4526, '18': 4527, '19': 4528, '20': 4529, '21': 4521, '22': 4516, '23': 4511, '24': 4517, '25': 4512, '26': 4518, '27': 4513, '28': 4519, '29': 4514, '30': 4520, '31': 4515, '32': 4530, '33': 4502} || {'0': 3729, '1': 4360, '2': 4361, '3': 4500, '4': 4506, '5': 4507, '6': 4508, '7': 4554, '8': 4505, '9': 4501, '10': 4510, '11': 4555, '12': 4532, '13': 4522, '14': 843, '15': 4523, '16': 4524, '17': 4525, '18': 4526, '19': 4527, '20': 4528, '21': 4529, '22': 4521, '23': 4516, '24': 4511, '25': 4517, '26': 4512, '27': 4518, '28': 4513, '29': 4519, '30': 4514, '31': 4520, '32': 4515, '33': 4530, '34': 4502}
+|-
+| rowspan="2" | [https://chisel.weirdgloop.org/structs/index.html?type=enums&id=4976 4976][https://abextm.github.io/cache2/#/viewer/enum/4976 (1)]
+|-
+| map || {'1': 'Rogues' Den', '2': 'Fishing Trawler', '3': 'Drift Net Fishing', '4': 'Tempoross Reward Pool', '5': 'Blast Mine Ore', '6': 'Rewards Guardian', '7': 'Gnome Restaurant Hard', '8': 'Gnome Restaurant Easy', '9': 'Temple Trekking', '10': 'TzHaar Fight Caves Gamble', '11': 'Barbarian Assault Gamble - Low', '12': 'The Gauntlet', '13': 'Hallowed Sepulchre', '14': 'The Inferno Gamble', '15': 'Tithe Farm (Fruits Harvested)', '16': 'Agility Arena', '17': 'Agility Pyramid', '18': 'Prifddinas Agility Course', '19': 'Dorgesh-Kaan Agility Course', '20': 'Ape Atoll Agility Course', '21': 'Werewolf Agility Course', '22': 'Draynor Rooftop Course', '23': 'Al Kharid Rooftop Course', '24': 'Varrock Rooftop Course', '25': 'Canifis Rooftop Course', '26': 'Falador Rooftop Course', '27': 'Seers' Village Rooftop Course', '28': 'Pollnivneach Rooftop Course', '29': 'Rellekka Rooftop Course', '30': 'Ardougne Rooftop Course', '31': 'Flower Patch', '32': 'Allotment Patch', '33': 'Belladonna Patch', '34': 'Bush Patch', '35': 'Cactus Patch', '36': 'Calquat Patch', '37': 'Tree Patch', '38': 'Herb Patch', '39': 'Hops Patch', '40': 'Vine Patch', '41': 'Mushroom Patch', '42': 'Seaweed Patch', '43': 'Fruit Tree Patch', '44': 'Spirit Tree Patch', '45': 'Bird House Trapping', '46': 'Bird Snaring', '47': 'Box Trapping', '48': 'Butterfly Netting', '49': 'Deadfall Trapping', '50': 'Falconry', '51': 'Implings', '52': 'Magic Box Trapping', '53': 'Pitfall Trapping', '54': 'Rabbit Snaring', '55': 'Tracking', '56': 'Net Trapping', '57': 'Herbiboar', '58': 'Camdozaal Vault', '59': 'Elves', '60': 'Vyres', '61': 'Barrows', '62': 'Shayzien Basic Course', '63': 'Shayzien Advanced Course', '64': 'Penguin Agility Course', '65': 'Wilderness Agility Course', '66': 'Gnome Stronghold Agility Course', '67': 'Motherlode Mine Sack', '68': 'TzHaar Fight Caves', '69': 'Blast Mine Sack', '70': 'Chambers of Xeric', '71': 'Theatre of Blood', '72': 'Crystal chest', '73': 'Sinister Chest', '74': 'Muddy Chest', '75': 'TzHaar-Ket-Rak's Challenges', '76': 'The Corrupted Gauntlet', '77': 'The Inferno', '78': 'Barbarian Assault Gamble - Medium', '79': 'Barbarian Assault Gamble - High', '80': 'Pest Control', '81': 'Wintertodt', '82': 'Net fishing (Saltwater)', '83': 'Bait fishing (Saltwater)', '84': 'Lure fishing (Freshwater)', '85': 'Net fishing (Cave)', '86': 'Harpoon fishing (Cave)', '87': 'Pot fishing (Rare)', '88': 'Harpoon fishing (Rare)', '89': 'Big net fishing (Members)', '90': 'Harpoon fishing (Members)', '91': 'Pot fishing (Wilderness)', '92': 'Net fishing (Camdozaal)', '93': 'Big net fishing (Camdozaal)', '94': 'Net fishing (Minnows)', '95': 'Rod fishing (Lava)', '96': 'Aerial fishing', '97': 'Drift net fishing', '98': 'Karambwan fishing', '99': 'Net fishing (Karamja)', '100': 'Rod fishing (Barbarian)', '101': 'Harpoon fishing (Barbarian)', '102': 'Bait fishing (Piscarilius)', '103': 'Bait fishing (Zul-Andra)', '104': 'Harpoon fishing (Gauntlet)', '105': 'Harpoon fishing (Corrupted gauntlet)', '106': 'Bait fishing (Mor Ul Rek)', '107': 'Net fishing (Piscatoris)', '108': 'Harpoon fishing (Tempoross)', '109': 'Bait fishing (Camdozaal)', '110': 'PvP'} || {'1': 'Rogues' Den', '2': 'Fishing Trawler', '3': 'Drift Net Fishing', '4': 'Tempoross Reward Pool', '5': 'Blast Mine Ore', '6': 'Rewards Guardian', '7': 'Gnome Restaurant Hard', '8': 'Gnome Restaurant Easy', '9': 'Temple Trekking', '10': 'TzHaar Fight Caves Gamble', '11': 'Barbarian Assault Gamble - Low', '12': 'The Gauntlet', '13': 'Hallowed Sepulchre', '14': 'The Inferno Gamble', '15': 'Tithe Farm (Fruits Harvested)', '16': 'Agility Arena', '17': 'Agility Pyramid', '18': 'Prifddinas Agility Course', '19': 'Dorgesh-Kaan Agility Course', '20': 'Ape Atoll Agility Course', '21': 'Werewolf Agility Course', '22': 'Draynor Rooftop Course', '23': 'Al Kharid Rooftop Course', '24': 'Varrock Rooftop Course', '25': 'Canifis Rooftop Course', '26': 'Falador Rooftop Course', '27': 'Seers' Village Rooftop Course', '28': 'Pollnivneach Rooftop Course', '29': 'Rellekka Rooftop Course', '30': 'Ardougne Rooftop Course', '31': 'Flower Patch', '32': 'Allotment Patch', '33': 'Belladonna Patch', '34': 'Bush Patch', '35': 'Cactus Patch', '36': 'Calquat Patch', '37': 'Tree Patch', '38': 'Herb Patch', '39': 'Hops Patch', '40': 'Vine Patch', '41': 'Mushroom Patch', '42': 'Seaweed Patch', '43': 'Fruit Tree Patch', '44': 'Spirit Tree Patch', '45': 'Bird House Trapping', '46': 'Bird Snaring', '47': 'Box Trapping', '48': 'Butterfly Netting', '49': 'Deadfall Trapping', '50': 'Falconry', '51': 'Implings', '52': 'Magic Box Trapping', '53': 'Pitfall Trapping', '54': 'Rabbit Snaring', '55': 'Tracking', '56': 'Net Trapping', '57': 'Herbiboar', '58': 'Camdozaal Vault', '59': 'Elves', '60': 'Vyres', '61': 'Barrows', '62': 'Shayzien Basic Course', '63': 'Shayzien Advanced Course', '64': 'Penguin Agility Course', '65': 'Wilderness Agility Course', '66': 'Gnome Stronghold Agility Course', '67': 'Motherlode Mine Sack', '68': 'TzHaar Fight Caves', '69': 'Blast Mine Sack', '70': 'Chambers of Xeric', '71': 'Theatre of Blood', '72': 'Crystal chest', '73': 'Sinister Chest', '74': 'Muddy Chest', '75': 'TzHaar-Ket-Rak's Challenges', '76': 'The Corrupted Gauntlet', '77': 'The Inferno', '78': 'Barbarian Assault Gamble - Medium', '79': 'Barbarian Assault Gamble - High', '80': 'Pest Control', '81': 'Wintertodt', '82': 'Net fishing (Saltwater)', '83': 'Bait fishing (Saltwater)', '84': 'Lure fishing (Freshwater)', '85': 'Bait fishing (Freshwater)', '86': 'Net fishing (Cave)', '87': 'Harpoon fishing (Cave)', '88': 'Pot fishing (Rare)', '89': 'Harpoon fishing (Rare)', '90': 'Big net fishing (Members)', '91': 'Harpoon fishing (Members)', '92': 'Pot fishing (Wilderness)', '93': 'Net fishing (Camdozaal)', '94': 'Big net fishing (Camdozaal)', '95': 'Net fishing (Minnows)', '96': 'Rod fishing (Lava)', '97': 'Aerial fishing', '98': 'Drift net fishing', '99': 'Karambwan fishing', '100': 'Net fishing (Karamja)', '101': 'Rod fishing (Barbarian)', '102': 'Harpoon fishing (Barbarian)', '103': 'Bait fishing (Piscarilius)', '104': 'Bait fishing (Zul-Andra)', '105': 'Harpoon fishing (Gauntlet)', '106': 'Harpoon fishing (Corrupted gauntlet)', '107': 'Bait fishing (Mor Ul Rek)', '108': 'Net fishing (Piscatoris)', '109': 'Harpoon fishing (Tempoross)', '110': 'Bait fishing (Camdozaal)', '111': 'PvP', '112': 'Deadman Bank Key'}
+|}
+==Npcs==
+===New Npcs===
+{| class="wikitable sortable"
+|-
+! colspan="4" | New Npcs
+|-
+! style="width: 15em" | name !! id !! combatLevel !! actions
+|}
+===Removed Npcs===
+{| class="wikitable sortable"
+|-
+! colspan="4" | Removed Npcs
+|-
+! style="width: 15em" | name !! id !! combatLevel !! actions
+|}
+===Diff Npcs===
+{| class="wikitable sortable sticky-header"
+|-
+! colspan="5" | Diff Npcs
+|-
+! style="width: 15em" | Name !! Id !! Key !! Previous Value !! New Value
+|-
+| rowspan="2" | [[Mystery figure]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/npc_id.html#3323 3323][https://abextm.github.io/cache2/#/viewer/npc/3323 (1)]
+|-
+| category || -1 || 922
+|}
+==Items==
+===New Items===
+{| class="wikitable sortable"
+|-
+! colspan="10" | New Items
+|-
+! style="width: 15em" | name !! id !! isMembers !! isGrandExchangable !! isStackable !! noteLinkedItem !! inventoryActions !! placeholderLinkedItem !! price !! weight
+|}
+===Removed Items===
+{| class="wikitable sortable"
+|-
+! colspan="10" | Removed Items
+|-
+! style="width: 15em" | name !! id !! isMembers !! isGrandExchangable !! isStackable !! noteLinkedItem !! inventoryActions !! placeholderLinkedItem !! price !! weight
+|}
+===Diff Items===
+{| class="wikitable sortable sticky-header"
+|-
+! colspan="5" | Diff Items
+|-
+! style="width: 15em" | Name !! Id !! Key !! Previous Value !! New Value
+|-
+| rowspan="6" | [[Leprechaun charm]]
+| rowspan="6" | [https://chisel.weirdgloop.org/moid/item_id.html#28179 28179][https://abextm.github.io/cache2/#/viewer/item/28179 (1)]
+|-
+| price || 1000 || 
+|-
+| weight || 5 || 
+|-
+| category || -1 || 15
+|-
+| placeholderLinkedItem || 28180 || -1
+|-
+| params || {'1784': 'These charms attract the attention of leprechauns.<br><br>When you successfully chop down a tree,  or chop down a tree with others,  with this charm in a forestry kit there is a chance a leprechaun will offer his services.'} || 
+|-
+| rowspan="10" | [[Null]]
+| rowspan="10" | [https://chisel.weirdgloop.org/moid/item_id.html#28180 28180][https://abextm.github.io/cache2/#/viewer/item/28180 (1)]
+|-
+| inventoryModel || -1 || 2521
+|-
+| name || null || Null
+|-
+| zoom2d || 2000 || 1940
+|-
+| xan2d ||  || 572
+|-
+| offsetY2d ||  || 1
+|-
+| weight ||  || 9071
+|-
+| category || -1 || 15
+|-
+| placeholderLinkedItem || 28179 || -1
+|-
+| placeholderTemplate || 14401 || -1
+|-
+| rowspan="7" | [[Clover insignia]]
+| rowspan="7" | [https://chisel.weirdgloop.org/moid/item_id.html#28181 28181][https://abextm.github.io/cache2/#/viewer/item/28181 (1)]
+|-
+| price || 100 || 
+|-
+| weight || 5 || 
+|-
+| inventoryActions || [Craft, None, None, None, Drop] || [None, None, None, None, Drop]
+|-
+| category || -1 || 15
+|-
+| placeholderLinkedItem || 28182 || -1
+|-
+| params || {'1784': 'This insignia can be used to create a Leprechaun charm,  which attract the attention of leprechauns when chopping down trees. You will also need: <br><br>An emerald<br>A ball of wool<br><br>70 Crafting<br>70 Woodcutting<br>35 Farming<br><br>Makes 10'} || 
+|-
+| rowspan="10" | [[Null]]
+| rowspan="10" | [https://chisel.weirdgloop.org/moid/item_id.html#28182 28182][https://abextm.github.io/cache2/#/viewer/item/28182 (1)]
+|-
+| inventoryModel || -1 || 2521
+|-
+| name || null || Null
+|-
+| zoom2d || 2000 || 1940
+|-
+| xan2d ||  || 572
+|-
+| offsetY2d ||  || 1
+|-
+| weight ||  || 9071
+|-
+| category || -1 || 15
+|-
+| placeholderLinkedItem || 28181 || -1
+|-
+| placeholderTemplate || 14401 || -1
+|-
+| rowspan="8" | [[Bee on a stick]]
+| rowspan="8" | [https://chisel.weirdgloop.org/moid/item_id.html#28184 28184][https://abextm.github.io/cache2/#/viewer/item/28184 (1)]
+|-
+| price || 1000 || 
+|-
+| weight || 5 || 
+|-
+| category || -1 || 15
+|-
+| stackVariantItems || [28186, 28187, 28188, 28189, 0, 0, 0, 0, 0, 0] || [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+|-
+| stackVariantQuantities || [2, 5, 20, 50, 0, 0, 0, 0, 0, 0] || [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+|-
+| placeholderLinkedItem || 28185 || -1
+|-
+| params || {'1784': 'The bee on a stick is helpful when pollinating plants.<br><br>While chopping trees,  they have a chance to detect strange bushes that are ready to pollinate and will assist you in doing so.'} || 
+|-
+| rowspan="10" | [[Null]]
+| rowspan="10" | [https://chisel.weirdgloop.org/moid/item_id.html#28185 28185][https://abextm.github.io/cache2/#/viewer/item/28185 (1)]
+|-
+| inventoryModel || -1 || 2521
+|-
+| name || null || Null
+|-
+| zoom2d || 2000 || 1940
+|-
+| xan2d ||  || 572
+|-
+| offsetY2d ||  || 1
+|-
+| weight ||  || 9071
+|-
+| category || -1 || 15
+|-
+| placeholderLinkedItem || 28184 || -1
+|-
+| placeholderTemplate || 14401 || -1
+|-
+| rowspan="7" | [[Powdered pollen]]
+| rowspan="7" | [https://chisel.weirdgloop.org/moid/item_id.html#28190 28190][https://abextm.github.io/cache2/#/viewer/item/28190 (1)]
+|-
+| price || 100 || 
+|-
+| weight || 5 || 
+|-
+| inventoryActions || [Craft, None, None, None, Drop] || [None, None, None, None, Drop]
+|-
+| category || -1 || 15
+|-
+| placeholderLinkedItem || 28191 || -1
+|-
+| params || {'1784': 'This pollen can be used to create the common tool,  Bee on a stick. Helpful for pollinating plants. You will also need: <br><br>A ball of wool<br>Logs<br>Close proximity to a bee hive.<br><br>50 Hunter<br>35 Woodcutting<br><br>Makes 10'} || 
+|-
+| rowspan="10" | [[Null]]
+| rowspan="10" | [https://chisel.weirdgloop.org/moid/item_id.html#28191 28191][https://abextm.github.io/cache2/#/viewer/item/28191 (1)]
+|-
+| inventoryModel || -1 || 2521
+|-
+| name || null || Null
+|-
+| zoom2d || 2000 || 1940
+|-
+| xan2d ||  || 572
+|-
+| offsetY2d ||  || 1
+|-
+| weight ||  || 9071
+|-
+| category || -1 || 15
+|-
+| placeholderLinkedItem || 28190 || -1
+|-
+| placeholderTemplate || 14401 || -1
+|-
+| rowspan="2" | [[Twitcher's gloves]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#28630 28630][https://abextm.github.io/cache2/#/viewer/item/28630 (1)]
+|-
+| params || {'451': 'Settings', '1784': 'These disposable gloves allow the wearer to nimbly dislodge birds' nests,  giving them a greater chance of receiving their desired type of nest.<br><br>Sold in stacks of 250,  one pair is used each successful chop.'} || {'451': 'Settings', '1784': 'These gloves allow the wearer to nimbly dislodge birds' nests,  giving them a greater chance of receiving their desired type of nest.'}
+|-
+| rowspan="6" | [[Smoker fuel]]
+| rowspan="6" | [https://chisel.weirdgloop.org/moid/item_id.html#28644 28644][https://abextm.github.io/cache2/#/viewer/item/28644 (1)]
+|-
+| price || 100 || 1
+|-
+| inventoryActions || [Craft, None, None, None, Drop] || [None, None, None, None, Drop]
+|-
+| category || -1 || 15
+|-
+| placeholderLinkedItem || 28645 || -1
+|-
+| params || {'1784': 'Smoker fuel can be used to create Smoker canisters. Used to pacify wild bees. You will also need: <br><br>A Steel Bar<br>Leather<br><br>53 Smithing<br>53 Woodcutting<br>37 Herblore<br><br>Makes 10'} || 
+|-
+| rowspan="10" | [[Null]]
+| rowspan="10" | [https://chisel.weirdgloop.org/moid/item_id.html#28645 28645][https://abextm.github.io/cache2/#/viewer/item/28645 (1)]
+|-
+| inventoryModel || -1 || 2521
+|-
+| name || null || Null
+|-
+| zoom2d || 2000 || 1940
+|-
+| xan2d ||  || 572
+|-
+| offsetY2d ||  || 1
+|-
+| weight ||  || 9071
+|-
+| category || -1 || 15
+|-
+| placeholderLinkedItem || 28644 || -1
+|-
+| placeholderTemplate || 14401 || -1
+|-
+| rowspan="5" | [[Smoker canister]]
+| rowspan="5" | [https://chisel.weirdgloop.org/moid/item_id.html#28646 28646][https://abextm.github.io/cache2/#/viewer/item/28646 (1)]
+|-
+| price || 1000 || 1
+|-
+| category || -1 || 15
+|-
+| placeholderLinkedItem || 28647 || -1
+|-
+| params || {'1784': 'Smoker canisters are needed to pacify wild bees.<br><br>While chopping trees,  they have a chance to pacify bees so the player can rehome them.'} || 
+|-
+| rowspan="10" | [[Null]]
+| rowspan="10" | [https://chisel.weirdgloop.org/moid/item_id.html#28647 28647][https://abextm.github.io/cache2/#/viewer/item/28647 (1)]
+|-
+| inventoryModel || -1 || 2521
+|-
+| name || null || Null
+|-
+| zoom2d || 2000 || 1940
+|-
+| xan2d ||  || 572
+|-
+| offsetY2d ||  || 1
+|-
+| weight ||  || 9071
+|-
+| category || -1 || 15
+|-
+| placeholderLinkedItem || 28646 || -1
+|-
+| placeholderTemplate || 14401 || -1
+|-
+| rowspan="5" | [[Crystal charm]]
+| rowspan="5" | [https://chisel.weirdgloop.org/moid/item_id.html#28651 28651][https://abextm.github.io/cache2/#/viewer/item/28651 (1)]
+|-
+| price || 1000 || 
+|-
+| category || -1 || 15
+|-
+| placeholderLinkedItem || 28652 || -1
+|-
+| params || {'1784': 'This charm can be used to create a Petal circlet,  which attract the attention of Dryads when chopping down trees. You will also need: <br><br>3 Flowers<br>A ball of wool<br><br>50 Fletching<br>50 Woodcutting<br><br>Makes 10'} || 
+|-
+| rowspan="10" | [[Null]]
+| rowspan="10" | [https://chisel.weirdgloop.org/moid/item_id.html#28652 28652][https://abextm.github.io/cache2/#/viewer/item/28652 (1)]
+|-
+| inventoryModel || -1 || 2521
+|-
+| name || null || Null
+|-
+| zoom2d || 2000 || 1940
+|-
+| xan2d ||  || 572
+|-
+| offsetY2d ||  || 1
+|-
+| weight ||  || 9071
+|-
+| category || -1 || 15
+|-
+| placeholderLinkedItem || 28651 || -1
+|-
+| placeholderTemplate || 14401 || -1
+|-
+| rowspan="5" | [[Petal circlet]]
+| rowspan="5" | [https://chisel.weirdgloop.org/moid/item_id.html#28653 28653][https://abextm.github.io/cache2/#/viewer/item/28653 (1)]
+|-
+| price || 1000 || 
+|-
+| category || -1 || 15
+|-
+| placeholderLinkedItem || 28654 || -1
+|-
+| params || {'1784': 'These petal circlets can attract the attention of a Dryad.<br><br>When you successfully chop down a tree,  or chop down a tree with others,  with this charm in a forestry kit there is a chance a dryad will ask you for help.'} || 
+|-
+| rowspan="10" | [[Null]]
+| rowspan="10" | [https://chisel.weirdgloop.org/moid/item_id.html#28654 28654][https://abextm.github.io/cache2/#/viewer/item/28654 (1)]
+|-
+| inventoryModel || -1 || 2521
+|-
+| name || null || Null
+|-
+| zoom2d || 2000 || 1940
+|-
+| xan2d ||  || 572
+|-
+| offsetY2d ||  || 1
+|-
+| weight ||  || 9071
+|-
+| category || -1 || 15
+|-
+| placeholderLinkedItem || 28653 || -1
+|-
+| placeholderTemplate || 14401 || -1
+|-
+| rowspan="6" | [[Padded spoon]]
+| rowspan="6" | [https://chisel.weirdgloop.org/moid/item_id.html#28657 28657][https://abextm.github.io/cache2/#/viewer/item/28657 (1)]
+|-
+| price || 1000 || 
+|-
+| weight || 10 || 
+|-
+| category || -1 || 15
+|-
+| placeholderLinkedItem || 28658 || -1
+|-
+| params || {'1784': 'This Padded spoon helps carry pheasant eggs.<br><br>When you successfully chop down a tree,  or chop down a tree with others,  the Freaky Forester may seek your aid in collecting pheasant eggs.<br><br>Required to find the Golden pheasant egg.'} || 
+|-
+| rowspan="10" | [[Null]]
+| rowspan="10" | [https://chisel.weirdgloop.org/moid/item_id.html#28658 28658][https://abextm.github.io/cache2/#/viewer/item/28658 (1)]
+|-
+| inventoryModel || -1 || 2521
+|-
+| name || null || Null
+|-
+| zoom2d || 2000 || 1940
+|-
+| xan2d ||  || 572
+|-
+| offsetY2d ||  || 1
+|-
+| weight ||  || 9071
+|-
+| category || -1 || 15
+|-
+| placeholderLinkedItem || 28657 || -1
+|-
+| placeholderTemplate || 14401 || -1
+|-
+| rowspan="6" | [[Egg cushion]]
+| rowspan="6" | [https://chisel.weirdgloop.org/moid/item_id.html#28659 28659][https://abextm.github.io/cache2/#/viewer/item/28659 (1)]
+|-
+| price || 1000 || 
+|-
+| weight || 3 || 
+|-
+| category || -1 || 15
+|-
+| placeholderLinkedItem || 28660 || -1
+|-
+| params || {'1784': 'This tiny cushion is used in creating a Padded spoon,  which helps carry pheasant eggs. You will also need: <br><br>Some Limestone<br>A Chisel<br><br>35 Crafting<br>25 Woodcutting<br><br>Makes 10'} || 
+|-
+| rowspan="10" | [[Null]]
+| rowspan="10" | [https://chisel.weirdgloop.org/moid/item_id.html#28660 28660][https://abextm.github.io/cache2/#/viewer/item/28660 (1)]
+|-
+| inventoryModel || -1 || 2521
+|-
+| name || null || Null
+|-
+| zoom2d || 2000 || 1940
+|-
+| xan2d ||  || 572
+|-
+| offsetY2d ||  || 1
+|-
+| weight ||  || 9071
+|-
+| category || -1 || 15
+|-
+| placeholderLinkedItem || 28659 || -1
+|-
+| placeholderTemplate || 14401 || -1
+|-
+| rowspan="6" | [[Trap disarmer]]
+| rowspan="6" | [https://chisel.weirdgloop.org/moid/item_id.html#28665 28665][https://abextm.github.io/cache2/#/viewer/item/28665 (1)]
+|-
+| price || 1000 || 
+|-
+| weight || 500 || 
+|-
+| category || -1 || 15
+|-
+| placeholderLinkedItem || 28666 || -1
+|-
+| params || {'1784': 'Trap disarmers are used to safely disarm fox poacher traps.<br><br>When you successfully chop down a tree,  or chop down a tree with others,  nearby foxes may seek your aid in avoiding poachers.<br><br>Required to find the Fox whistle.'} || 
+|-
+| rowspan="10" | [[Null]]
+| rowspan="10" | [https://chisel.weirdgloop.org/moid/item_id.html#28666 28666][https://abextm.github.io/cache2/#/viewer/item/28666 (1)]
+|-
+| inventoryModel || -1 || 2521
+|-
+| name || null || Null
+|-
+| zoom2d || 2000 || 1940
+|-
+| xan2d ||  || 572
+|-
+| offsetY2d ||  || 1
+|-
+| weight ||  || 9071
+|-
+| category || -1 || 15
+|-
+| placeholderLinkedItem || 28665 || -1
+|-
+| placeholderTemplate || 14401 || -1
+|-
+| rowspan="7" | [[Trap disarmer blueprint]]
+| rowspan="7" | [https://chisel.weirdgloop.org/moid/item_id.html#28667 28667][https://abextm.github.io/cache2/#/viewer/item/28667 (1)]
+|-
+| price || 100 || 
+|-
+| weight || 100 || 
+|-
+| inventoryActions || [Craft, None, None, None, Drop] || [None, None, None, None, Drop]
+|-
+| category || -1 || 15
+|-
+| placeholderLinkedItem || 28668 || -1
+|-
+| params || {'1784': 'This blueprint is used as a pattern for creating a set of trap disarmers. You will also need: <br><br>Bronze Wire<br>An Iron Bar<br><br>16 Hunter<br>15 Woodcutting<br><br>Makes 10'} || 
+|-
+| rowspan="10" | [[Null]]
+| rowspan="10" | [https://chisel.weirdgloop.org/moid/item_id.html#28668 28668][https://abextm.github.io/cache2/#/viewer/item/28668 (1)]
+|-
+| inventoryModel || -1 || 2521
+|-
+| name || null || Null
+|-
+| zoom2d || 2000 || 1940
+|-
+| xan2d ||  || 572
+|-
+| offsetY2d ||  || 1
+|-
+| weight ||  || 9071
+|-
+| category || -1 || 15
+|-
+| placeholderLinkedItem || 28667 || -1
+|-
+| placeholderTemplate || 14401 || -1
+|}
+==Structs==
+===New Structs===
+{| class="wikitable sortable"
+|-
+! colspan="2" | New Structs
+|-
+! style="width: 15em" | id !! params
+|-
+| [https://chisel.weirdgloop.org/structs/index.html?type=structs&id=843 843][https://abextm.github.io/cache2/#/viewer/struct/843 (1)] || {'1077': 366, '1078': 0, '1080': 4968, '1084': 1, '1085': 1, '1086': 'Ground Items - Show non-exchangeable items', '1088': 'ground, items, item, objects, object, overlay, loot, drop, drops, reward, rewardsstack, stacks, pile, piles, price, GE, grand, exchange', '1090': 5, '1096': 'When enabled,  items which cannot be traded on the Grand Exchange will be shown in the ground items overlay.', '1157': 1}
+|}
+===Removed Structs===
+{| class="wikitable sortable"
+|-
+! colspan="2" | Removed Structs
+|-
+! style="width: 15em" | id !! params
+|}
+===Diff Structs===
+{| class="wikitable sortable sticky-header"
+|-
+! colspan="5" | Diff Structs
+|-
+! style="width: 15em" | Id !! Key !! Previous Value !! New Value
+|}
+==Database Rows==
+===New Database Rows===
+{| class="wikitable sortable"
+|-
+! colspan="3" | New Database Rows
+|-
+! style="width: 15em" | id !! table !! values
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/3451 3451] ||  || [[187], [Barbarian Training], [Barbarian Training], None, [1], [1], [2], [2], [2], [3, 7, 2007], None, None, None, [41029024], None, [0], None, [10], None, None, None, [10, 55, 11, 35, 2, 35, 16, 15, 19, 15, 12, 11, 13, 5, 15, 4], None, [141], None, None, [70], None, None, None, None, None, None, None, None, None, None, None, None, [1], [2], [Unlock the strength of a Barbarian.], [1]]
+|}
+===Removed Database Rows===
+{| class="wikitable sortable"
+|-
+! colspan="3" | Removed Database Rows
+|-
+! style="width: 15em" | id !! table !! values
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/3288 3288] || 40 || [[28181], None, None, None, [2], [3302, 200, 3304, 15], None, None, None, None, None, None, None, [0]]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/3289 3289] || 40 || [[28190], None, None, None, [2], [3302, 300, 3305, 15], None, None, None, None, None, None, None, [0]]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/3432 3432] || 40 || [[28644], None, None, None, [2], [3302, 300, 3307, 15], None, None, None, None, None, None, None, [0]]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/3436 3436] || 40 || [[28667], None, None, None, [2], [3302, 300, 3305, 15], None, None, None, None, None, None, None, [0]]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/3437 3437] || 40 || [[28651], None, None, None, [2], [3302, 300, 3307, 15], None, None, None, None, None, None, None, [0]]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/3438 3438] || 40 || [[28659], None, None, None, [2], [3302, 300, 3307, 15], None, None, None, None, None, None, None, [0]]
+|}
+===Diff Database Rows===
+{| class="wikitable sortable sticky-header"
+|-
+! colspan="5" | Diff Database Rows
+|-
+! style="width: 15em" | Id !! Key !! Previous Value !! New Value
+|-
+| rowspan="3" | [https://abextm.github.io/cache2/#/viewer/dbrow/3284 3284]
+|-
+| values || [[Forestry Shop], None, None, [3746], None, [3285, 3286, 3287, 3288, 3289, 3432, 3436, 3437, 3438, 3439, 3440, 3441, 3290, 3291, 3442, 3292, 3433, 3434, 3293, 3435, 3294, 3295, 3296, 3297, 3298, 3299, 3300, 3301, 3443, 3444], None, [800], None, None, [Welcome to The Forestry Shop.], None, None, None, None] || [[Forestry Shop], None, None, [3746], None, [3285, 3286, 3287, 3439, 3440, 3441, 3290, 3291, 3442, 3292, 3433, 3434, 3293, 3435, 3294, 3295, 3296, 3297, 3298, 3299, 3300, 3301, 3443, 3444], None, [800], None, None, [Welcome to The Forestry Shop.], None, None, None, None]
+|-
+| types || [[36], None, None, [26], None, [74], None, [0], None, None, [36], None, None, None, None] || [[36], None, None, [26], None, [74], None, [0], None, None, [36], None, None, None, None]
+|-
+| rowspan="3" | [https://abextm.github.io/cache2/#/viewer/dbrow/3302 3302]
+|-
+| values || [[28134], [Anima-infused bark], [Anima-infused bark]] || [[28134], [Anima bark], [Anima bark]]
+|-
+| types || [[13], [36], [36]] || [[13], [36], [36]]
+|-
+| rowspan="3" | [https://abextm.github.io/cache2/#/viewer/dbrow/3355 3355]
+|-
+| values || [[Forestry Shop], None, None, [3746], None, [3285, 3286, 3287, 3288, 3289, 3432, 3436, 3437, 3438, 3439, 3440, 3441, 3290, 3291, 3442, 3356, 3433, 3434, 3357, 3435, 3294, 3295, 3296, 3297, 3298, 3299, 3300, 3301, 3443, 3444], None, [800], None, None, [Welcome to The Forestry Shop.], None, None, None, None] || [[Forestry Shop], None, None, [3746], None, [3285, 3286, 3287, 3439, 3440, 3441, 3290, 3291, 3442, 3356, 3433, 3434, 3357, 3435, 3294, 3295, 3296, 3297, 3298, 3299, 3300, 3301, 3443, 3444], None, [800], None, None, [Welcome to The Forestry Shop.], None, None, None, None]
+|-
+| types || [[36], None, None, [26], None, [74], None, [0], None, None, [36], None, None, None, None] || [[36], None, None, [26], None, [74], None, [0], None, None, [36], None, None, None, None]
+|-
+| rowspan="3" | [https://abextm.github.io/cache2/#/viewer/dbrow/3434 3434]
+|-
+| values || [[28630], None, None, None, [3], [3302, 250, 3305, 25], None, None, None, [250], None, None, None, [0]] || [[28630], None, None, None, [3], [3302, 5000, 3305, 500], None, None, None, [1], None, None, None, [0]]
+|-
+| types || [[13], None, None, None, [0], [74, 0], None, None, None, [0], None, None, None, [1]] || [[13], None, None, None, [0], [74, 0], None, None, None, [0], None, None, None, [1]]
+|}

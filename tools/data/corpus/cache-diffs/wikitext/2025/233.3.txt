@@ -1,0 +1,818 @@
+__TOC__
+==Objects==
+===Diff Objects===
+{| class="wikitable sortable sticky-header mw-collapsible"
+|-
+! colspan="6" | Diff Objects
+|-
+! style="width: 15em" | Name !! Id !! GameVal !! Key !! Previous Value !! New Value
+|-
+| rowspan="2" | [[Dwarf multicannon]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#6 6][https://abextm.github.io/cache2/#/viewer/obj/6 (1)]
+| rowspan="2" | dwarf_multicannon1
+|-
+| actions || [Fire, Pick-up, Empty, <span style="color: #ee4231">None</span>, <span style="color: #ee4231">None</span>] || [Fire, Pick-up, Empty, <span style="color: #6bc71f">Load X</span>, <span style="color: #6bc71f">Hidden</span>]
+|-
+| rowspan="2" | [[Dwarf multicannon]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#43027 43027][https://abextm.github.io/cache2/#/viewer/obj/43027 (1)]
+| rowspan="2" | league03_multicannon_active
+|-
+| actions || [Fire, Pick-up, Empty, <span style="color: #ee4231">None</span>, <span style="color: #ee4231">None</span>] || [Fire, Pick-up, Empty, <span style="color: #6bc71f">Load X</span>, <span style="color: #6bc71f">Hidden</span>]
+|}
+==Enums==
+===Diff Enums===
+{| class="wikitable sortable sticky-header mw-collapsible"
+|-
+! colspan="4" | Diff Enums
+|-
+! style="width: 15em" | Id !! Key !! Previous Value !! New Value
+|-
+| rowspan="2" | [https://chisel.weirdgloop.org/structs/index.html?type=enums&id=1564 1564][https://abextm.github.io/cache2/#/viewer/enum/1564 (1)]
+|-
+| map || {'0': 3635, '1': 994, '2': 2760, '3': 2777, '4': 2861, '5': 880, '6': 3731, '7': 4446, '8': 990, '9': 947, '10': 4447, '11': 4448, '12': 4682, '13': 4686, '14': 4684, '15': 4687, '16': 4685, '17': 4683, '18': 4680, '19': 4681, '20': 991, '21': 956, '22': 957, '23': 1013, '24': 4858, '25': <span style="color: #ee4231">348</span>, '26': <span style="color: #ee4231">4690</span>, '27': <span style="color: #ee4231">4698</span>, '28': <span style="color: #ee4231">1745</span>, '29': <span style="color: #ee4231">1810</span>, '30': <span style="color: #ee4231">1812</span>, '31': <span style="color: #ee4231">1938</span>, '32': <span style="color: #ee4231">4953</span>, '33': <span style="color: #ee4231">1804</span>, '34': <span style="color: #ee4231">349</span>, '35': <span style="color: #ee4231">350</span>, '36': <span style="color: #ee4231">351</span>, '37': <span style="color: #ee4231">4656</span>, '38': <span style="color: #ee4231">4657</span>, '39': <span style="color: #ee4231">4658</span>, '40': 4689} || {'0': 3635, '1': 994, '2': 2760, '3': 2777, '4': 2861, '5': 880, '6': 3731, '7': 4446, '8': 990, '9': 947, '10': 4447, '11': 4448, '12': 4682, '13': 4686, '14': 4684, '15': 4687, '16': 4685, '17': 4683, '18': 4680, '19': 4681, '20': 991, '21': 956, '22': 957, '23': 1013, '24': 4858, '25': <span style="color: #6bc71f">6248</span>, '26': <span style="color: #6bc71f">348</span>, '27': <span style="color: #6bc71f">4690</span>, '28': <span style="color: #6bc71f">4698</span>, '29': <span style="color: #6bc71f">1745</span>, '30': <span style="color: #6bc71f">1810</span>, '31': <span style="color: #6bc71f">1812</span>, '32': <span style="color: #6bc71f">1938</span>, '33': <span style="color: #6bc71f">4953</span>, '34': <span style="color: #6bc71f">1804</span>, '35': <span style="color: #6bc71f">349</span>, '36': <span style="color: #6bc71f">350</span>, '37': <span style="color: #6bc71f">351</span>, '38': <span style="color: #6bc71f">4656</span>, '39': <span style="color: #6bc71f">4657</span>, '40': <span style="color: #6bc71f">4658, '41': </span>4689}
+|-
+| rowspan="2" | [https://chisel.weirdgloop.org/structs/index.html?type=enums&id=1907 1907][https://abextm.github.io/cache2/#/viewer/enum/1907 (1)]
+|-
+| map || {'<span style="color: #ee4231">786500</span>': 1, '<span style="color: #ee4231">786502</span>': 2, '<span style="color: #ee4231">786504</span>': 3, '<span style="color: #ee4231">786506</span>': 4} || {'<span style="color: #6bc71f">786501</span>': 1, '<span style="color: #6bc71f">786503</span>': 2, '<span style="color: #6bc71f">786505</span>': 3, '<span style="color: #6bc71f">786507</span>': 4}
+|-
+| rowspan="2" | [https://chisel.weirdgloop.org/structs/index.html?type=enums&id=2777 2777][https://abextm.github.io/cache2/#/viewer/enum/2777 (1)]
+|-
+| map || {'0': <span style="color: #ee4231">786518</span>, '1': <span style="color: #ee4231">786519</span>, '2': <span style="color: #ee4231">786520</span>, '3': <span style="color: #ee4231">786521</span>, '4': <span style="color: #ee4231">786522</span>, '5': <span style="color: #ee4231">786523</span>, '7': <span style="color: #ee4231">786524</span>, '9': <span style="color: #ee4231">786525</span>, '10': <span style="color: #ee4231">786526</span>, '12': <span style="color: #ee4231">786527</span>, '13': <span style="color: #ee4231">786528</span>} || {'0': <span style="color: #6bc71f">786519</span>, '1': <span style="color: #6bc71f">786520</span>, '2': <span style="color: #6bc71f">786521</span>, '3': <span style="color: #6bc71f">786522</span>, '4': <span style="color: #6bc71f">786523</span>, '5': <span style="color: #6bc71f">786524</span>, '7': <span style="color: #6bc71f">786525</span>, '9': <span style="color: #6bc71f">786526</span>, '10': <span style="color: #6bc71f">786527</span>, '12': <span style="color: #6bc71f">786528</span>, '13': <span style="color: #6bc71f">786529</span>}
+|-
+| rowspan="2" | [https://chisel.weirdgloop.org/structs/index.html?type=enums&id=3047 3047][https://abextm.github.io/cache2/#/viewer/enum/3047 (1)]
+|-
+| map || {'0': '', '1': '<col=ffffff>Ahrim The Blighted: <br><br>Blighted Aura: <br><br>Magic Attacks have a 25% chance of lowering the enemy's strength level by 5 on a successful hit.<br><br>', '2': '<col=ffffff>Dharok the Wretched: <br><br>Wretched Strength: <br><br>Attacks do more damage as your hitpoints decrease. For every hitpoint lost from your maximum hitpoints,  you deal 1% more damage.<br><br>', '3': '<col=ffffff>Guthan the Infested: <br><br>Infestation: <br><br>Attacks have a 25% chance of replenishing your health equal to the damage you deal.<br><br>', '4': '<col=ffffff>Karil the Tainted: <br><br>Tainted Shot: <br><br>Successful range attacks have a 25% chance of lowering the enemy's agility stat by 20%.<br><br>', '5': '<col=ffffff>Torag the Corrupted: <br><br>Corruption: <br><br>Successful melee attacks have a 25% chance of lowering the victim's run energy by 20%.<br><br>', '6': '<col=ffffff>Verac the Defiled: <br><br>Defiler: <br><br>Attacks have a 25% chance of ignoring any armour,  Defence,  and protection prayers.<br><br>', '7': '<col=ffffff>Inquisitor's armour: <br><br>Each individual piece of Inquisitor's armour boosts damage and accuracy by 0.5% when using the crush attack style. This is boosted to 2.5% if an Inquisitor's mace is equipped.<br><br>If all pieces of the Inquisitor's armour are worn,  a set bonus of 2.5% is applied.<br>Using the Inquisitor's mace will triple the overall set bonus to 7.5%.<br><br>', '8': '<col=ffffff>Graceful Outfit: <br><br>Each individual piece of the Graceful Outfit increases your run restoration rate.<br><br>Wearing the full Graceful Outfit increases run energy restoration by 30%.<br><br>', '9': '<col=ffffff>Obsidian armour: <br><br>All obsidian weaponry will be given a 10% boost in melee accuracy and melee strength.<br><br>', '10': '<col=ffffff>Void Knight Melee: <br><br>When wearing the Void Top,  Robe,  Gloves and Melee Helmet,  you will receive +10% bonus to your melee damage and accuracy.<br><br>', '11': '<col=ffffff>Void Knight Range: <br><br>When wearing the Void Top,  Robe,  Gloves and Ranger Helmet,  you will receive +10% bonus to your ranged damage and accuracy.<br><br>', '12': '<col=ffffff>Void Knight Elite Range: <br><br>When wearing the Elite Void Top,  Elite Robe,  Gloves and Ranger Helmet,  you will receive +12.5% bonus to your ranged damage and 10% bonus to accuracy.<br><br>', '13': '<col=ffffff>Void Knight Mage: <br><br>When wearing the Void Top,  Robe,  Gloves and Mage Helmet,  you will receive +45% bonus to your magic accuracy.<br><br>', '14': '<col=ffffff>Void Knight Elite Mage: <br><br>When wearing the Elite Void Top,  Elite Robe,  Gloves and Mage Helmet,  you will receive a +45% bonus to your magic accuracy and 5% to your magic damage.<br><br>', '15': '<col=ffffff>Justiciar: <br><br>PvM damage dealt to you is reduced according to your total armour protection in that style.<br><br>', '16': '<col=ffffff>Angler outfit: <br><br>XP from training Fishing will be increased by 2.5% if the full set is worn. Incomplete sets give smaller bonuses.<br><br>', '17': '<col=ffffff>Lumberjack outfit: <br><br>XP from training Woodcutting will be increased by 2.5% if the full set is worn. Incomplete sets give smaller bonuses.<br><br>', '18': '<col=ffffff>Prospector outfit: <br><br>XP from training Mining will be increased by 2.5% if the full set is worn. Incomplete sets give smaller bonuses.<br><br>', '19': '<col=ffffff>Farmer outfit: <br><br>XP from training Farming will be increased by 2.5% if the full set is worn. Incomplete sets give smaller bonuses.<br><br>', '20': '<col=ffffff>Pyromancer outfit: <br><br>XP from training Firemaking will be increased by 2.5% if the full set is worn. Incomplete sets give smaller bonuses.<br><br>', '21': '<col=ffffff>Shayzien armour: <br><br>Reduces the damage of the acid splash attack used by Lizardman Shamans.<br><br>', '22': '<col=ffffff>Rogue kit: <br><br>The full set gives a 100% chance of double loot from standard pickpocketing. Incomplete sets give smaller chances.<br><br>', '23': '<col=ffffff>Carpenter's outfit: <br><br>XP from training Construction will be increased by 2.5% if the full set is worn. Incomplete sets give smaller bonuses.<br><br>', '24': '<col=ffffff>Crystal armour: <br><br>Each individual piece of Crystal Armour increases your accuracy and damage with crystal ranged weaponry.<br><br>Wearing the full set of Crystal Armour increases accuracy by 30% and damage by 15%.<br><br>', '25': '<col=ffffff>Swampbark Armour: <br><br>Wearing the helm,  body,  and legs increases the duration of Bind,  Snare and Entangle spells by 3.6 seconds<br><br>', '26': '<col=ffffff>Bloodbark Armour: <br><br>The full set increases the amount healed by Blood spells to 35.0%.<br><br>', '27': '<col=ffffff>Zealot's prayer robes: <br><br>The full set grants a 5% chance of saving ensouled heads when reanimating them,  bones when burying or offering them,  and bonemeal & slime at the Ectofuntus. This stacks with the Wilderness altar's bone saving effect.<br><br>', '28': '<col=ffffff>Spirit Angler outfit: <br><br>XP from training Fishing will be increased by 2.5% if the full set is worn. Incomplete sets give smaller bonuses.<br><br>Full set acts as a tether rope when fighting Tempoross.<br><br>', '29': '<col=ffffff>Virtus Robes: <br><br>9% increased Magic damage with ancient spells.<br><br>Smoke spells reduce healing received by 30%,  as long as the target is poisoned.<br><br>Shadow spells also drain Strength,  Ranged,  Magic and Defence,  as well as Attack.<br><br>Blood spells can heal up to 20% over your maximum hitpoints.<br><br>Ice spells gain 10% additional accuracy against frozen targets.', '30': '<col=ffffff>Raiments of the Eye: <br><br>Runes crafted are increased by 60%.<br><br>This bonus stacks additively with other similar effects.<br><br>', '31': '<col=ffffff>Smith's Uniform: <br><br>The full set increases the rate you will smith items at an anvil by 1 tick.<br><br>', '32': '<col=ffffff>Statius's Equipment: <br><br>Melee special attacks have 15% increased accuracy.<br><br>', '33': '<col=ffffff>Vesta's Equipment: <br><br>Melee special attacks have 15% increased accuracy.<br><br>', '34': '<col=ffffff>Morrigan's Equipment: <br><br>Ranged special attacks have 15% increased accuracy.<br><br>', '35': '<col=ffffff>Zuriel's Equipment: <br><br>Magic special attacks have 25% increased accuracy.<br><br>', '36': '<col=ffffff>Statius's Corrupt Equipment: <br><br>Melee special attacks have 15% increased accuracy.<br><br>', '37': '<col=ffffff>Vesta's Corrupt Equipment: <br><br>Melee special attacks have 15% increased accuracy.<br><br>', '38': '<col=ffffff>Morrigan's Corrupt Equipment: <br><br>Ranged special attacks have 15% increased accuracy.<br><br>', '39': '<col=ffffff>Zuriel's Corrupt Equipment: <br><br>Magic special attacks have 25% increased accuracy.<br><br>', '40': '<col=ffffff>Bloodrager Effect: <br><br>Successful hits with the Dual Macuahuitl have a 33% chance of reducing the delay of your next attack by 1 tick.<br><br>The Dual Macuahuitl gains the 'Blood Infusion' special attack.<br><br>', '41': '<col=ffffff>Frostweaver Effect: <br><br>Casting spells which bind the enemy has a 50% chance to allow the next attack with the Blue moon spear to bypass the action delay.<br><br>The Blue Moon Spear gains the 'Break Shackles' special attack.<br><br>', '42': '<col=ffffff>Frostweaver Effect Set: <br><br>Casting spells which bind the enemy has a 20% chance to allow the next attack with the Blue moon spear to bypass the action delay.<br><br>The Blue Moon Spear gains the 'Break Shackles' special attack.<br><br>', '43': '<col=ffffff>Eclipse Effect: <br><br>Successful hits with the Eclipse Atlatl have a 20% chance to apply a burn effect to the enemy.<br><br>The Eclipse Atlatl gains the 'Eclipse' special attack.<br><br>', '44': '<col=ffffff>Hunter's Armour: <br><br>Damage taken from hunter creatures is reduced by 60%.<br><br>', '45': '<col=ffffff>Hunter's Armour: <br><br>Damage taken from hunter creatures is reduced by 40%.<br><br>', '46': '<col=ffffff>Hunter's Armour: <br><br>Damage taken from hunter creatures is reduced by 20%.<br><br>', '47': '<col=ffffff>Guild Hunter Outfit: <br><br>Increases catch chance of hunter creatures by up to 2.5%,  and increases rare creature part droprate when doing Hunters' Rumours by up to 5%.<br><br>', '1901': '<col=ffffff>Ahrim The Blighted: <br><br>Blighted Aura ++: <br><br>Magic Attacks have a 50% chance of lowering the enemy's strength level by 5 on a successful hit.<br><br>The spell also gets a 30% damage bonus.<br><br>', '1902': '<col=ffffff>Dharok the Wretched: <br><br>Wretched Strength ++: <br><br>Attacks do more damage as your hitpoints decrease. For every hitpoint lost from your maximum hitpoints,  you deal 2% more damage.<br><br>When you take damage,  you have a 2/4 chance of reflecting 15% of the damage to your opponent.<br><br>', '1903': '<col=ffffff>Guthan the Infested: <br><br>Infestation ++: <br><br>Attacks have a 50% chance of replenishing your health equal to the damage you deal.<br><br>This can boost your hitpoints by up to 10.<br><br>', '1904': '<col=ffffff>Karil the Tainted: <br><br>Tainted Shot ++: <br><br>Successful range attacks have a 50% chance of lowering the enemy's agility stat by 20%.<br><br>A second hitplat is applied in PvP,  dealing half the damage of the first.<br><br>', '1905': '<col=ffffff>Torag the Corrupted: <br><br>Corruption ++: <br><br>Successful melee attacks have a 50% chance of lowering the victim's run energy by 20%.<br><br>For every hitpoint lost from your maximum hitpoints,  your Defence stat gets an invisible boost.<br><br>', '1906': '<col=ffffff>Verac the Defiled: <br><br>Defiler ++: <br><br>Attacks have a 50% chance of ignoring any armour,  Defence,  and protection prayers.<br><br>Gives a +14 prayer bonus.<br><br>', '2001': '<col=ffffff>Ahrim The Blighted: <br><br>Blighted Aura +: <br><br>Magic Attacks have a 25% chance of lowering the enemy's strength level by 5 on a successful hit.<br><br>The spell also gets a 30% damage bonus.<br><br>', '2002': '<col=ffffff>Dharok the Wretched: <br><br>Wretched Strength +: <br><br>Attacks do more damage as your hitpoints decrease. For every hitpoint lost from your maximum hitpoints,  you deal 1% more damage.<br><br>When you take damage,  you have a 1/4 chance of reflecting 15% of the damage to your opponent.<br><br>', '2003': '<col=ffffff>Guthan the Infested: <br><br>Infestation +: <br><br>Attacks have a 25% chance of replenishing your health equal to the damage you deal.<br><br>This can boost your hitpoints by up to 10.<br><br>', '2004': '<col=ffffff>Karil the Tainted: <br><br>Tainted Shot +: <br><br>Successful range attacks have a 25% chance of lowering the enemy's agility stat by 20%.<br><br>A second hitplat is applied in PvP,  dealing half the damage of the first.<br><br>', '2005': '<col=ffffff>Torag the Corrupted: <br><br>Corruption +: <br><br>Successful melee attacks have a 25% chance of lowering the victim's run energy by 20%.<br><br>For every hitpoint lost from your maximum hitpoints,  your Defence stat gets an invisible boost.<br><br>', '2006': '<col=ffffff>Verac the Defiled: <br><br>Defiler +: <br><br>Attacks have a 25% chance of ignoring any armour,  Defence,  and protection prayers.<br><br>Gives a +7 prayer bonus.<br><br>'} || {'0': '', '1': '<col=ffffff>Ahrim The Blighted: <br><br>Blighted Aura: <br><br>Magic Attacks have a 25% chance of lowering the enemy's strength level by 5 on a successful hit.<br><br>', '2': '<col=ffffff>Dharok the Wretched: <br><br>Wretched Strength: <br><br>Attacks do more damage as your hitpoints decrease. For every hitpoint lost from your maximum hitpoints,  you deal 1% more damage.<br><br>', '3': '<col=ffffff>Guthan the Infested: <br><br>Infestation: <br><br>Attacks have a 25% chance of replenishing your health equal to the damage you deal.<br><br>', '4': '<col=ffffff>Karil the Tainted: <br><br>Tainted Shot: <br><br>Successful range attacks have a 25% chance of lowering the enemy's agility stat by 20%.<br><br>', '5': '<col=ffffff>Torag the Corrupted: <br><br>Corruption: <br><br>Successful melee attacks have a 25% chance of lowering the victim's run energy by 20%.<br><br>', '6': '<col=ffffff>Verac the Defiled: <br><br>Defiler: <br><br>Attacks have a 25% chance of ignoring any armour,  Defence,  and protection prayers.<br><br>', '7': '<col=ffffff>Inquisitor's armour: <br><br>Each individual piece of Inquisitor's armour boosts damage and accuracy by 0.5% when using the crush attack style. This is boosted to 2.5% if an Inquisitor's mace is equipped.<br><br>If all pieces of the Inquisitor's armour are worn,  a set bonus of 2.5% is applied.<br>Using the Inquisitor's mace will triple the overall set bonus to 7.5%.<br><br>', '8': '<col=ffffff>Graceful Outfit: <br><br>Each individual piece of the Graceful Outfit increases your run restoration rate.<br><br>Wearing the full Graceful Outfit increases run energy restoration by 30%.<br><br>', '9': '<col=ffffff>Obsidian armour: <br><br>All obsidian weaponry will be given a 10% boost in melee accuracy and melee strength.<br><br>', '10': '<col=ffffff>Void Knight Melee: <br><br>When wearing the Void Top,  Robe,  Gloves and Melee Helmet,  you will receive +10% bonus to your melee damage and accuracy.<br><br>', '11': '<col=ffffff>Void Knight Range: <br><br>When wearing the Void Top,  Robe,  Gloves and Ranger Helmet,  you will receive +10% bonus to your ranged damage and accuracy.<br><br>', '12': '<col=ffffff>Void Knight Elite Range: <br><br>When wearing the Elite Void Top,  Elite Robe,  Gloves and Ranger Helmet,  you will receive +12.5% bonus to your ranged damage and 10% bonus to accuracy.<br><br>', '13': '<col=ffffff>Void Knight Mage: <br><br>When wearing the Void Top,  Robe,  Gloves and Mage Helmet,  you will receive +45% bonus to your magic accuracy.<br><br>', '14': '<col=ffffff>Void Knight Elite Mage: <br><br>When wearing the Elite Void Top,  Elite Robe,  Gloves and Mage Helmet,  you will receive a +45% bonus to your magic accuracy and 5% to your magic damage.<br><br>', '15': '<col=ffffff>Justiciar: <br><br>PvM damage dealt to you is reduced according to your total armour protection in that style.<br><br>', '16': '<col=ffffff>Angler outfit: <br><br>XP from training Fishing will be increased by 2.5% if the full set is worn. Incomplete sets give smaller bonuses.<br><br>', '17': '<col=ffffff>Lumberjack outfit: <br><br>XP from training Woodcutting will be increased by 2.5% if the full set is worn. Incomplete sets give smaller bonuses.<br><br>', '18': '<col=ffffff>Prospector outfit: <br><br>XP from training Mining will be increased by 2.5% if the full set is worn. Incomplete sets give smaller bonuses.<br><br>', '19': '<col=ffffff>Farmer outfit: <br><br>XP from training Farming will be increased by 2.5% if the full set is worn. Incomplete sets give smaller bonuses.<br><br>', '20': '<col=ffffff>Pyromancer outfit: <br><br>XP from training Firemaking will be increased by 2.5% if the full set is worn. Incomplete sets give smaller bonuses.<br><br>', '21': '<col=ffffff>Shayzien armour: <br><br>Reduces the damage of the acid splash attack used by Lizardman Shamans.<br><br>', '22': '<col=ffffff>Rogue kit: <br><br>The full set gives a 100% chance of double loot from standard pickpocketing. Incomplete sets give smaller chances.<br><br>', '23': '<col=ffffff>Carpenter's outfit: <br><br>XP from training Construction will be increased by 2.5% if the full set is worn. Incomplete sets give smaller bonuses.<br><br>', '24': '<col=ffffff>Crystal armour: <br><br>Each individual piece of Crystal Armour increases your accuracy and damage with crystal ranged weaponry.<br><br>Wearing the full set of Crystal Armour increases accuracy by 30% and damage by 15%.<br><br>', '25': '<col=ffffff>Swampbark Armour: <br><br>Wearing the helm,  body,  and legs increases the duration of Bind,  Snare and Entangle spells by 3.6 seconds<br><br>', '26': '<col=ffffff>Bloodbark Armour: <br><br>The full set increases the amount healed by Blood spells to 35.0%.<br><br>', '27': '<col=ffffff>Zealot's prayer robes: <br><br>The full set grants a 5% chance of saving ensouled heads when reanimating them,  bones when burying or offering them,  and bonemeal & slime at the Ectofuntus. This stacks with the Wilderness altar's bone saving effect.<br><br>', '28': '<col=ffffff>Spirit Angler outfit: <br><br>XP from training Fishing will be increased by 2.5% if the full set is worn. Incomplete sets give smaller bonuses.<br><br>Full set acts as a tether rope when fighting Tempoross.<br><br>', '29': '<col=ffffff>Virtus Robes: <br><br>9% increased Magic damage with ancient spells.<br><br>Smoke spells reduce healing received by 30%,  as long as the target is poisoned.<br><br>Shadow spells also drain Strength,  Ranged,  Magic and Defence,  as well as Attack.<br><br>Blood spells can heal up to 20% over your maximum hitpoints.<br><br>Ice spells gain 10% additional accuracy against frozen targets.', '30': '<col=ffffff>Raiments of the Eye: <br><br>Runes crafted are increased by 60%.<br><br>This bonus stacks additively with other similar effects.<br><br>', '31': '<col=ffffff>Smith's Uniform: <br><br>The full set increases the rate you will smith items at an anvil by 1 tick.<br><br>', '32': '<col=ffffff>Statius's Equipment: <br><br>Melee special attacks have 15% increased accuracy.<br><br>', '33': '<col=ffffff>Vesta's Equipment: <br><br>Melee special attacks have 15% increased accuracy.<br><br>', '34': '<col=ffffff>Morrigan's Equipment: <br><br>Ranged special attacks have 15% increased accuracy.<br><br>', '35': '<col=ffffff>Zuriel's Equipment: <br><br>Magic special attacks have 25% increased accuracy.<br><br>', '36': '<col=ffffff>Statius's Corrupt Equipment: <br><br>Melee special attacks have 15% increased accuracy.<br><br>', '37': '<col=ffffff>Vesta's Corrupt Equipment: <br><br>Melee special attacks have 15% increased accuracy.<br><br>', '38': '<col=ffffff>Morrigan's Corrupt Equipment: <br><br>Ranged special attacks have 15% increased accuracy.<br><br>', '39': '<col=ffffff>Zuriel's Corrupt Equipment: <br><br>Magic special attacks have 25% increased accuracy.<br><br>', '40': '<col=ffffff>Bloodrager Effect: <br><br>Successful hits with the Dual Macuahuitl have a 33% chance of reducing the delay of your next attack by 1 tick.<br><br>The Dual Macuahuitl gains the 'Blood Infusion' special attack.<br><br>', '41': '<col=ffffff>Frostweaver Effect: <br><br>Casting spells which bind the enemy has a 50% chance to allow the next attack with the Blue moon spear to bypass the action delay.<br><br>The Blue Moon Spear gains the 'Break Shackles' special attack.<br><br>', '42': '<col=ffffff>Frostweaver Effect Set: <br><br>Casting spells which bind the enemy has a 20% chance to allow the next attack with the Blue moon spear to bypass the action delay.<br><br>The Blue Moon Spear gains the 'Break Shackles' special attack.<br><br>', '43': '<col=ffffff>Eclipse Effect: <br><br>Successful hits with the Eclipse Atlatl have a 20% chance to apply a burn effect to the enemy.<br><br>The Eclipse Atlatl gains the 'Eclipse' special attack.<br><br>', '44': '<col=ffffff>Hunter's Armour: <br><br>Damage taken from hunter creatures is reduced by 60%.<br><br>', '45': '<col=ffffff>Hunter's Armour: <br><br>Damage taken from hunter creatures is reduced by 40%.<br><br>', '46': '<col=ffffff>Hunter's Armour: <br><br>Damage taken from hunter creatures is reduced by 20%.<br><br>', '47': '<col=ffffff>Guild Hunter Outfit: <br><br>Increases catch chance of hunter creatures by up to 2.5%,  and increases rare creature part droprate when doing Hunters' Rumours by up to 5%.<br><br>', '<span style="color: #6bc71f">48': '<col=ffffff>Inquisitor's armour: <br><br>Each individual piece of Inquisitor's armour boosts damage and accuracy by 2.5% when using the crush attack style and having the Inquisitor's mace equipped.<br><br>', '</span>1901': '<col=ffffff>Ahrim The Blighted: <br><br>Blighted Aura ++: <br><br>Magic Attacks have a 50% chance of lowering the enemy's strength level by 5 on a successful hit.<br><br>The spell also gets a 30% damage bonus.<br><br>', '1902': '<col=ffffff>Dharok the Wretched: <br><br>Wretched Strength ++: <br><br>Attacks do more damage as your hitpoints decrease. For every hitpoint lost from your maximum hitpoints,  you deal 2% more damage.<br><br>When you take damage,  you have a 2/4 chance of reflecting 15% of the damage to your opponent.<br><br>', '1903': '<col=ffffff>Guthan the Infested: <br><br>Infestation ++: <br><br>Attacks have a 50% chance of replenishing your health equal to the damage you deal.<br><br>This can boost your hitpoints by up to 10.<br><br>', '1904': '<col=ffffff>Karil the Tainted: <br><br>Tainted Shot ++: <br><br>Successful range attacks have a 50% chance of lowering the enemy's agility stat by 20%.<br><br>A second hitplat is applied in PvP,  dealing half the damage of the first.<br><br>', '1905': '<col=ffffff>Torag the Corrupted: <br><br>Corruption ++: <br><br>Successful melee attacks have a 50% chance of lowering the victim's run energy by 20%.<br><br>For every hitpoint lost from your maximum hitpoints,  your Defence stat gets an invisible boost.<br><br>', '1906': '<col=ffffff>Verac the Defiled: <br><br>Defiler ++: <br><br>Attacks have a 50% chance of ignoring any armour,  Defence,  and protection prayers.<br><br>Gives a +14 prayer bonus.<br><br>', '2001': '<col=ffffff>Ahrim The Blighted: <br><br>Blighted Aura +: <br><br>Magic Attacks have a 25% chance of lowering the enemy's strength level by 5 on a successful hit.<br><br>The spell also gets a 30% damage bonus.<br><br>', '2002': '<col=ffffff>Dharok the Wretched: <br><br>Wretched Strength +: <br><br>Attacks do more damage as your hitpoints decrease. For every hitpoint lost from your maximum hitpoints,  you deal 1% more damage.<br><br>When you take damage,  you have a 1/4 chance of reflecting 15% of the damage to your opponent.<br><br>', '2003': '<col=ffffff>Guthan the Infested: <br><br>Infestation +: <br><br>Attacks have a 25% chance of replenishing your health equal to the damage you deal.<br><br>This can boost your hitpoints by up to 10.<br><br>', '2004': '<col=ffffff>Karil the Tainted: <br><br>Tainted Shot +: <br><br>Successful range attacks have a 25% chance of lowering the enemy's agility stat by 20%.<br><br>A second hitplat is applied in PvP,  dealing half the damage of the first.<br><br>', '2005': '<col=ffffff>Torag the Corrupted: <br><br>Corruption +: <br><br>Successful melee attacks have a 25% chance of lowering the victim's run energy by 20%.<br><br>For every hitpoint lost from your maximum hitpoints,  your Defence stat gets an invisible boost.<br><br>', '2006': '<col=ffffff>Verac the Defiled: <br><br>Defiler +: <br><br>Attacks have a 25% chance of ignoring any armour,  Defence,  and protection prayers.<br><br>Gives a +7 prayer bonus.<br><br>'}
+|-
+| rowspan="2" | [https://chisel.weirdgloop.org/structs/index.html?type=enums&id=4026 4026][https://abextm.github.io/cache2/#/viewer/enum/4026 (1)]
+|-
+| map || {'0': 3637, '1': 996, '2': 2778, '3': 2779, '4': 2797, '5': 2781, '6': 2782, '7': 4362, '8': 4363, '9': 2795, '10': 2794, '11': 3638, '12': 968, '13': 2788, '14': 2798, '15': 2790, '16': 2791, '17': 2786, '18': 2787, '19': 2785, '20': 2793, '21': 2792, '22': 3639, '23': 2765, '24': 2766, '25': 2783, '26': 2784, '27': 3815, '28': 345, '29': 4390, '30': 4391, '31': 3743, '32': 4392, '33': 5117, '34': 4551, '35': 1713, '36': 848, '37': 1235, '38': 1236, '39': 1237, '40': 1238, '41': <span style="color: #ee4231">3730</span>, '42': <span style="color: #ee4231">3733</span>, '43': <span style="color: #ee4231">4364</span>, '44': <span style="color: #ee4231">4458</span>, '45': <span style="color: #ee4231">4365</span>, '46': <span style="color: #ee4231">4459</span>, '47': <span style="color: #ee4231">4444</span>, '48': 4445} || {'0': 3637, '1': 996, '2': 2778, '3': 2779, '4': 2797, '5': 2781, '6': 2782, '7': 4362, '8': 4363, '9': 2795, '10': 2794, '11': 3638, '12': 968, '13': 2788, '14': 2798, '15': 2790, '16': 2791, '17': 2786, '18': 2787, '19': 2785, '20': 2793, '21': 2792, '22': 3639, '23': 2765, '24': 2766, '25': 2783, '26': 2784, '27': 3815, '28': 345, '29': 4390, '30': 4391, '31': 3743, '32': 4392, '33': 5117, '34': 4551, '35': 1713, '36': 848, '37': 1235, '38': 1236, '39': 1237, '40': 1238, '41': <span style="color: #6bc71f">6246</span>, '42': <span style="color: #6bc71f">6247</span>, '43': <span style="color: #6bc71f">3730</span>, '44': <span style="color: #6bc71f">3733</span>, '45': <span style="color: #6bc71f">4364</span>, '46': <span style="color: #6bc71f">4458</span>, '47': <span style="color: #6bc71f">4365</span>, '48': <span style="color: #6bc71f">4459, '49': 4444, '50': </span>4445}
+|}
+==Items==
+===Diff Items===
+{| class="wikitable sortable sticky-header mw-collapsible"
+|-
+! colspan="6" | Diff Items
+|-
+! style="width: 15em" | Name !! Id !! GameVal !! Key !! Previous Value !! New Value
+|-
+| rowspan="2" | [[Bandana eyepatch]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#8924 8924][https://abextm.github.io/cache2/#/viewer/item/8924 (1)]
+| rowspan="2" | pirate_bandana_eyepatch
+|-
+| params ||  || <span style="color: #6bc71f">{'258': 17}</span>
+|-
+| rowspan="2" | [[Bandana eyepatch]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#8925 8925][https://abextm.github.io/cache2/#/viewer/item/8925 (1)]
+| rowspan="2" | pirate_bandana_eyepatch_red
+|-
+| params ||  || <span style="color: #6bc71f">{'258': 17}</span>
+|-
+| rowspan="2" | [[Bandana eyepatch]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#8926 8926][https://abextm.github.io/cache2/#/viewer/item/8926 (1)]
+| rowspan="2" | pirate_bandana_eyepatch_blue
+|-
+| params ||  || <span style="color: #6bc71f">{'258': 17}</span>
+|-
+| rowspan="2" | [[Bandana eyepatch]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#8927 8927][https://abextm.github.io/cache2/#/viewer/item/8927 (1)]
+| rowspan="2" | pirate_bandana_eyepatch_brown
+|-
+| params ||  || <span style="color: #6bc71f">{'258': 17}</span>
+|}
+==Params==
+===New Params===
+{| class="wikitable sortable sticky-header mw-collapsible"
+|-
+! colspan="5" | New Params
+|-
+! style="width: 15em" | id !! type !! defaultInt !! defaultString !! isMembers
+|-
+| [https://chisel.weirdgloop.org/structs/index.html?type=enums&id=2317 2317][https://abextm.github.io/cache2/#/viewer/enum/2317 (1)] || 0 || 0 || null || true
+|}
+==Varbits==
+===New Varbits===
+{| class="wikitable sortable sticky-header mw-collapsible mw-collapsed"
+|-
+! colspan="5" | New Varbits
+|-
+! style="width: 15em" | id !! gameVal !! index !! leastSignificantBit !! mostSignificantBit
+|-
+| [https://chisel.weirdgloop.org/varbs/display?varbit=17869 17869] || settings_birdhouse_seed_warning_enabled || 4849 || 0 || 0
+|-
+| [https://chisel.weirdgloop.org/varbs/display?varbit=17870 17870] || option_cannonballs_load_x || 4849 || 1 || 7
+|-
+| [https://chisel.weirdgloop.org/varbs/display?varbit=17871 17871] || bank_chugging_fill_open || 1793 || 30 || 30
+|-
+| [https://chisel.weirdgloop.org/varbs/display?varbit=17872 17872] || worn_items_inquisitors_mace || 2898 || 30 || 30
+|-
+| [https://chisel.weirdgloop.org/varbs/display?varbit=17873 17873] || worn_items_inquisitors_armour || 4851 || 0 || 1
+|-
+| [https://chisel.weirdgloop.org/varbs/display?varbit=17874 17874] || worn_items_spirit_angler || 4851 || 2 || 4
+|-
+| [https://chisel.weirdgloop.org/varbs/display?varbit=17875 17875] || worn_items_trawler_bonus || 4851 || 5 || 7
+|-
+| [https://chisel.weirdgloop.org/varbs/display?varbit=17876 17876] || worn_items_spirit_angler_head || 4851 || 8 || 8
+|-
+| [https://chisel.weirdgloop.org/varbs/display?varbit=17877 17877] || worn_items_spirit_angler_top || 4851 || 9 || 9
+|-
+| [https://chisel.weirdgloop.org/varbs/display?varbit=17878 17878] || worn_items_spirit_angler_legs || 4851 || 10 || 10
+|-
+| [https://chisel.weirdgloop.org/varbs/display?varbit=17879 17879] || worn_items_spirit_angler_boots || 4851 || 11 || 11
+|-
+| [https://chisel.weirdgloop.org/varbs/display?varbit=17880 17880] || worn_items_trawler_bonus_head || 4851 || 12 || 12
+|-
+| [https://chisel.weirdgloop.org/varbs/display?varbit=17881 17881] || worn_items_trawler_bonus_top || 4851 || 13 || 13
+|-
+| [https://chisel.weirdgloop.org/varbs/display?varbit=17882 17882] || worn_items_trawler_bonus_legs || 4851 || 14 || 14
+|-
+| [https://chisel.weirdgloop.org/varbs/display?varbit=17883 17883] || worn_items_trawler_bonus_boots || 4851 || 15 || 15
+|-
+| [https://chisel.weirdgloop.org/varbs/display?varbit=17884 17884] || worn_items_lumberjack_head || 4851 || 17 || 17
+|-
+| [https://chisel.weirdgloop.org/varbs/display?varbit=17885 17885] || worn_items_lumberjack_body || 4851 || 18 || 18
+|-
+| [https://chisel.weirdgloop.org/varbs/display?varbit=17886 17886] || worn_items_lumberjack_legs || 4851 || 19 || 19
+|-
+| [https://chisel.weirdgloop.org/varbs/display?varbit=17887 17887] || worn_items_lumberjack_boots || 4851 || 20 || 20
+|-
+| [https://chisel.weirdgloop.org/varbs/display?varbit=17888 17888] || worn_items_prospector_set || 4851 || 21 || 25
+|-
+| [https://chisel.weirdgloop.org/varbs/display?varbit=17889 17889] || worn_items_prospector_head || 4851 || 26 || 26
+|-
+| [https://chisel.weirdgloop.org/varbs/display?varbit=17890 17890] || worn_items_prospector_body || 4851 || 27 || 27
+|-
+| [https://chisel.weirdgloop.org/varbs/display?varbit=17891 17891] || worn_items_prospector_legs || 4851 || 28 || 28
+|-
+| [https://chisel.weirdgloop.org/varbs/display?varbit=17892 17892] || worn_items_prospector_boots || 4851 || 29 || 29
+|-
+| [https://chisel.weirdgloop.org/varbs/display?varbit=17893 17893] || worn_items_farming_set || 4852 || 0 || 4
+|-
+| [https://chisel.weirdgloop.org/varbs/display?varbit=17894 17894] || worn_items_farming_head || 4852 || 5 || 5
+|-
+| [https://chisel.weirdgloop.org/varbs/display?varbit=17895 17895] || worn_items_farming_body || 4852 || 6 || 6
+|-
+| [https://chisel.weirdgloop.org/varbs/display?varbit=17896 17896] || worn_items_farming_legs || 4852 || 7 || 7
+|-
+| [https://chisel.weirdgloop.org/varbs/display?varbit=17897 17897] || worn_items_farming_boots || 4852 || 8 || 8
+|-
+| [https://chisel.weirdgloop.org/varbs/display?varbit=17898 17898] || worn_items_pyromancer_set || 4852 || 9 || 13
+|-
+| [https://chisel.weirdgloop.org/varbs/display?varbit=17899 17899] || worn_items_pyromancer_head || 4852 || 14 || 14
+|-
+| [https://chisel.weirdgloop.org/varbs/display?varbit=17900 17900] || worn_items_pyromancer_body || 4852 || 15 || 15
+|-
+| [https://chisel.weirdgloop.org/varbs/display?varbit=17901 17901] || worn_items_pyromancer_legs || 4852 || 16 || 16
+|-
+| [https://chisel.weirdgloop.org/varbs/display?varbit=17902 17902] || worn_items_pyromancer_boots || 4852 || 17 || 17
+|-
+| [https://chisel.weirdgloop.org/varbs/display?varbit=17903 17903] || worn_items_shayzien_set || 4852 || 18 || 22
+|-
+| [https://chisel.weirdgloop.org/varbs/display?varbit=17904 17904] || worn_items_shayzien_head || 4852 || 23 || 25
+|-
+| [https://chisel.weirdgloop.org/varbs/display?varbit=17905 17905] || worn_items_shayzien_body || 4852 || 26 || 28
+|-
+| [https://chisel.weirdgloop.org/varbs/display?varbit=17906 17906] || worn_items_shayzien_legs || 4852 || 29 || 31
+|-
+| [https://chisel.weirdgloop.org/varbs/display?varbit=17907 17907] || worn_items_shayzien_boots || 4853 || 0 || 2
+|-
+| [https://chisel.weirdgloop.org/varbs/display?varbit=17908 17908] || worn_items_slayer_helmet || 4853 || 3 || 5
+|-
+| [https://chisel.weirdgloop.org/varbs/display?varbit=17909 17909] || worn_items_shayzien_gloves || 4853 || 6 || 8
+|-
+| [https://chisel.weirdgloop.org/varbs/display?varbit=17910 17910] || worn_items_rogue_head || 4853 || 10 || 10
+|-
+| [https://chisel.weirdgloop.org/varbs/display?varbit=17911 17911] || worn_items_rogue_body || 4853 || 11 || 11
+|-
+| [https://chisel.weirdgloop.org/varbs/display?varbit=17912 17912] || worn_items_rogue_legs || 4853 || 12 || 12
+|-
+| [https://chisel.weirdgloop.org/varbs/display?varbit=17913 17913] || worn_items_rogue_boots || 4853 || 13 || 13
+|-
+| [https://chisel.weirdgloop.org/varbs/display?varbit=17914 17914] || worn_items_rogue_gloves || 4853 || 14 || 14
+|-
+| [https://chisel.weirdgloop.org/varbs/display?varbit=17915 17915] || worn_items_carpenter_set || 4853 || 15 || 19
+|-
+| [https://chisel.weirdgloop.org/varbs/display?varbit=17916 17916] || worn_items_carpenter_head || 4853 || 20 || 20
+|-
+| [https://chisel.weirdgloop.org/varbs/display?varbit=17917 17917] || worn_items_carpenter_body || 4853 || 21 || 21
+|-
+| [https://chisel.weirdgloop.org/varbs/display?varbit=17918 17918] || worn_items_carpenter_legs || 4853 || 22 || 22
+|-
+| [https://chisel.weirdgloop.org/varbs/display?varbit=17919 17919] || worn_items_carpenter_boots || 4853 || 23 || 23
+|-
+| [https://chisel.weirdgloop.org/varbs/display?varbit=17920 17920] || worn_items_swampbark_head || 4853 || 24 || 24
+|-
+| [https://chisel.weirdgloop.org/varbs/display?varbit=17921 17921] || worn_items_swampbark_body || 4853 || 25 || 25
+|-
+| [https://chisel.weirdgloop.org/varbs/display?varbit=17922 17922] || worn_items_swampbark_legs || 4853 || 26 || 26
+|-
+| [https://chisel.weirdgloop.org/varbs/display?varbit=17923 17923] || worn_items_bloodbark_head || 4853 || 27 || 27
+|-
+| [https://chisel.weirdgloop.org/varbs/display?varbit=17924 17924] || worn_items_bloodbark_body || 4853 || 28 || 28
+|-
+| [https://chisel.weirdgloop.org/varbs/display?varbit=17925 17925] || worn_items_bloodbark_legs || 4853 || 29 || 29
+|-
+| [https://chisel.weirdgloop.org/varbs/display?varbit=17926 17926] || worn_items_bloodbark_boots || 4853 || 30 || 30
+|-
+| [https://chisel.weirdgloop.org/varbs/display?varbit=17927 17927] || worn_items_bloodbark_gloves || 4853 || 31 || 31
+|-
+| [https://chisel.weirdgloop.org/varbs/display?varbit=17928 17928] || worn_items_zealot_head || 4854 || 0 || 0
+|-
+| [https://chisel.weirdgloop.org/varbs/display?varbit=17929 17929] || worn_items_zealot_body || 4854 || 1 || 1
+|-
+| [https://chisel.weirdgloop.org/varbs/display?varbit=17930 17930] || worn_items_zealot_legs || 4854 || 2 || 2
+|-
+| [https://chisel.weirdgloop.org/varbs/display?varbit=17931 17931] || worn_items_zealot_boots || 4854 || 3 || 3
+|-
+| [https://chisel.weirdgloop.org/varbs/display?varbit=17932 17932] || worn_items_rc_head || 4854 || 4 || 4
+|-
+| [https://chisel.weirdgloop.org/varbs/display?varbit=17933 17933] || worn_items_rc_body || 4854 || 5 || 5
+|-
+| [https://chisel.weirdgloop.org/varbs/display?varbit=17934 17934] || worn_items_rc_legs || 4854 || 6 || 6
+|-
+| [https://chisel.weirdgloop.org/varbs/display?varbit=17935 17935] || worn_items_rc_boots || 4854 || 7 || 7
+|-
+| [https://chisel.weirdgloop.org/varbs/display?varbit=17936 17936] || worn_items_lumberjack_full_outfit || 4854 || 8 || 12
+|-
+| [https://chisel.weirdgloop.org/varbs/display?varbit=17937 17937] || worn_items_rogue_set || 4854 || 13 || 15
+|}
+==VarPlayers==
+===New VarPlayers===
+{| class="wikitable sortable sticky-header mw-collapsible"
+|-
+! colspan="2" | New VarPlayers
+|-
+! style="width: 15em" | id !! gameVal
+|-
+| [https://chisel.weirdgloop.org/varbs/display?varplayer=4849 4849] || settings_varp_6
+|-
+| [https://chisel.weirdgloop.org/varbs/display?varplayer=4850 4850] || settings_birdhouse_seed_warning_value
+|-
+| [https://chisel.weirdgloop.org/varbs/display?varplayer=4851 4851] || worn_item_bonus3
+|-
+| [https://chisel.weirdgloop.org/varbs/display?varplayer=4852 4852] || worn_item_bonus4
+|-
+| [https://chisel.weirdgloop.org/varbs/display?varplayer=4853 4853] || worn_item_bonus5
+|-
+| [https://chisel.weirdgloop.org/varbs/display?varplayer=4854 4854] || worn_item_bonus6
+|}
+==Structs==
+===New Structs===
+{| class="wikitable sortable sticky-header mw-collapsible"
+|-
+! colspan="2" | New Structs
+|-
+! style="width: 15em" | id !! params
+|-
+| [https://chisel.weirdgloop.org/structs/index.html?type=structs&id=6246 6246][https://abextm.github.io/cache2/#/viewer/struct/6246 (1)] || {'1077': 448, '1078': 0, '1086': 'Birdhouse valuable seed warning', '1088': 'birdhouse runs, seed value', '1096': 'When enable,  when using seeds of high value on a birdhouse,  give a warning before using them.', '2314': 1}
+|-
+| [https://chisel.weirdgloop.org/structs/index.html?type=structs&id=6247 6247][https://abextm.github.io/cache2/#/viewer/struct/6247 (1)] || {'1077': 449, '1078': 4, '1086': 'Minimum item value needed for birdhouse warning', '1088': 'Minimum item value needed for birdhouse warning, value for birdhouse warning, birdhouse warning value', '1096': 'When putting seeds into a birdhouse,  if the item is worth more than this value,  a warning will be shown.', '1113': '0 coins', '2314': 1}
+|-
+| [https://chisel.weirdgloop.org/structs/index.html?type=structs&id=6248 6248][https://abextm.github.io/cache2/#/viewer/struct/6248 (1)] || {'1077': 450, '1078': 4, '1086': 'Load-x value when using the Dwarf multicannon', '1088': 'Load-x value when using the Dwarf multicannon, cannonballs', '1096': 'When using the load-x option on the Dwarf multicannon,  this is the amount of cannonballs that will be loaded.', '1111': ' cannonball', '1112': ' cannonballs', '1113': '0 cannonballs', '2314': 1}
+|}
+==Widgets==
+===New Widgets===
+{| class="wikitable sortable sticky-header mw-collapsible"
+|-
+! colspan="9" | New Widgets
+|-
+! style="width: 15em" | id !! gameVal !! parentId !! type !! name !! text !! tooltip !! actions !! configActions
+|-
+| [https://abextm.github.io/cache2/#/viewer/interface/786432 786432] || [https://oldschool.runescape.wiki/w/Special:Ask?q=%5B%5BFile:+%5D%5D%20%5B%5BInterface%20name::bankmain%5D%5D&po=%3FInterface%20name&format=table&p%5Dlimit%5B=50 bankmain] || -1 || 0 ||  ||  || Ok ||  || null
+|-
+| [https://abextm.github.io/cache2/#/viewer/interface/4980736 4980736] || [https://oldschool.runescape.wiki/w/Special:Ask?q=%5B%5BFile:+%5D%5D%20%5B%5BInterface%20name::grouping%5D%5D&po=%3FInterface%20name&format=table&p%5Dlimit%5B=50 grouping] || -1 || 0 ||  ||  || Ok ||  || null
+|-
+| [https://abextm.github.io/cache2/#/viewer/interface/4980736 4980736] || [https://oldschool.runescape.wiki/w/Special:Ask?q=%5B%5BFile:+%5D%5D%20%5B%5BInterface%20name::grouping%5D%5D&po=%3FInterface%20name&format=table&p%5Dlimit%5B=50 grouping] || -1 || 0 ||  ||  || Ok ||  || null
+|-
+| [https://abextm.github.io/cache2/#/viewer/interface/39452672 39452672] || [https://oldschool.runescape.wiki/w/Special:Ask?q=%5B%5BFile:+%5D%5D%20%5B%5BInterface%20name::gravestone_retrieval%5D%5D&po=%3FInterface%20name&format=table&p%5Dlimit%5B=50 gravestone_retrieval] || -1 || 0 ||  ||  || Ok ||  || null
+|-
+| [https://abextm.github.io/cache2/#/viewer/interface/39452672 39452672] || [https://oldschool.runescape.wiki/w/Special:Ask?q=%5B%5BFile:+%5D%5D%20%5B%5BInterface%20name::gravestone_retrieval%5D%5D&po=%3FInterface%20name&format=table&p%5Dlimit%5B=50 gravestone_retrieval] || -1 || 0 ||  ||  || Ok ||  || null
+|-
+| [https://abextm.github.io/cache2/#/viewer/interface/39452672 39452672] || [https://oldschool.runescape.wiki/w/Special:Ask?q=%5B%5BFile:+%5D%5D%20%5B%5BInterface%20name::gravestone_retrieval%5D%5D&po=%3FInterface%20name&format=table&p%5Dlimit%5B=50 gravestone_retrieval] || -1 || 0 ||  ||  || Ok ||  || null
+|-
+| [https://abextm.github.io/cache2/#/viewer/interface/39452672 39452672] || [https://oldschool.runescape.wiki/w/Special:Ask?q=%5B%5BFile:+%5D%5D%20%5B%5BInterface%20name::gravestone_retrieval%5D%5D&po=%3FInterface%20name&format=table&p%5Dlimit%5B=50 gravestone_retrieval] || -1 || 0 ||  ||  || Ok ||  || null
+|}
+===Diff Widgets===
+{| class="wikitable sortable sticky-header mw-collapsible mw-collapsed"
+|-
+! colspan="5" | Diff Widgets
+|-
+! style="width: 15em" | Id !! GameVal !! Key !! Previous Value !! New Value
+|-
+| rowspan="2" | [https://abextm.github.io/cache2/#/viewer/interface/786432 786432]
+| rowspan="2" | [https://oldschool.runescape.wiki/w/Special:Ask?q=%5B%5BFile:+%5D%5D%20%5B%5BInterface%20name::bankmain%5D%5D&po=%3FInterface%20name&format=table&p%5Dlimit%5B=50 bankmain]
+|-
+| name ||  || 
+|-
+| rowspan="2" | [https://abextm.github.io/cache2/#/viewer/interface/786432 786432]
+| rowspan="2" | [https://oldschool.runescape.wiki/w/Special:Ask?q=%5B%5BFile:+%5D%5D%20%5B%5BInterface%20name::bankmain%5D%5D&po=%3FInterface%20name&format=table&p%5Dlimit%5B=50 bankmain]
+|-
+| name ||  || 
+|-
+| rowspan="2" | [https://abextm.github.io/cache2/#/viewer/interface/786432 786432]
+| rowspan="2" | [https://oldschool.runescape.wiki/w/Special:Ask?q=%5B%5BFile:+%5D%5D%20%5B%5BInterface%20name::bankmain%5D%5D&po=%3FInterface%20name&format=table&p%5Dlimit%5B=50 bankmain]
+|-
+| name ||  || 
+|-
+| rowspan="2" | [https://abextm.github.io/cache2/#/viewer/interface/786432 786432]
+| rowspan="2" | [https://oldschool.runescape.wiki/w/Special:Ask?q=%5B%5BFile:+%5D%5D%20%5B%5BInterface%20name::bankmain%5D%5D&po=%3FInterface%20name&format=table&p%5Dlimit%5B=50 bankmain]
+|-
+| name ||  || 
+|-
+| rowspan="2" | [https://abextm.github.io/cache2/#/viewer/interface/786432 786432]
+| rowspan="2" | [https://oldschool.runescape.wiki/w/Special:Ask?q=%5B%5BFile:+%5D%5D%20%5B%5BInterface%20name::bankmain%5D%5D&po=%3FInterface%20name&format=table&p%5Dlimit%5B=50 bankmain]
+|-
+| name ||  || 
+|-
+| rowspan="2" | [https://abextm.github.io/cache2/#/viewer/interface/786432 786432]
+| rowspan="2" | [https://oldschool.runescape.wiki/w/Special:Ask?q=%5B%5BFile:+%5D%5D%20%5B%5BInterface%20name::bankmain%5D%5D&po=%3FInterface%20name&format=table&p%5Dlimit%5B=50 bankmain]
+|-
+| name ||  || 
+|-
+| rowspan="2" | [https://abextm.github.io/cache2/#/viewer/interface/786432 786432]
+| rowspan="2" | [https://oldschool.runescape.wiki/w/Special:Ask?q=%5B%5BFile:+%5D%5D%20%5B%5BInterface%20name::bankmain%5D%5D&po=%3FInterface%20name&format=table&p%5Dlimit%5B=50 bankmain]
+|-
+| name ||  || 
+|-
+| rowspan="2" | [https://abextm.github.io/cache2/#/viewer/interface/786432 786432]
+| rowspan="2" | [https://oldschool.runescape.wiki/w/Special:Ask?q=%5B%5BFile:+%5D%5D%20%5B%5BInterface%20name::bankmain%5D%5D&po=%3FInterface%20name&format=table&p%5Dlimit%5B=50 bankmain]
+|-
+| name ||  || 
+|-
+| rowspan="2" | [https://abextm.github.io/cache2/#/viewer/interface/786432 786432]
+| rowspan="2" | [https://oldschool.runescape.wiki/w/Special:Ask?q=%5B%5BFile:+%5D%5D%20%5B%5BInterface%20name::bankmain%5D%5D&po=%3FInterface%20name&format=table&p%5Dlimit%5B=50 bankmain]
+|-
+| name ||  || 
+|-
+| rowspan="2" | [https://abextm.github.io/cache2/#/viewer/interface/786432 786432]
+| rowspan="2" | [https://oldschool.runescape.wiki/w/Special:Ask?q=%5B%5BFile:+%5D%5D%20%5B%5BInterface%20name::bankmain%5D%5D&po=%3FInterface%20name&format=table&p%5Dlimit%5B=50 bankmain]
+|-
+| name ||  || 
+|-
+| rowspan="2" | [https://abextm.github.io/cache2/#/viewer/interface/786432 786432]
+| rowspan="2" | [https://oldschool.runescape.wiki/w/Special:Ask?q=%5B%5BFile:+%5D%5D%20%5B%5BInterface%20name::bankmain%5D%5D&po=%3FInterface%20name&format=table&p%5Dlimit%5B=50 bankmain]
+|-
+| name ||  || 
+|-
+| rowspan="2" | [https://abextm.github.io/cache2/#/viewer/interface/786432 786432]
+| rowspan="2" | [https://oldschool.runescape.wiki/w/Special:Ask?q=%5B%5BFile:+%5D%5D%20%5B%5BInterface%20name::bankmain%5D%5D&po=%3FInterface%20name&format=table&p%5Dlimit%5B=50 bankmain]
+|-
+| name ||  || 
+|-
+| rowspan="2" | [https://abextm.github.io/cache2/#/viewer/interface/786432 786432]
+| rowspan="2" | [https://oldschool.runescape.wiki/w/Special:Ask?q=%5B%5BFile:+%5D%5D%20%5B%5BInterface%20name::bankmain%5D%5D&po=%3FInterface%20name&format=table&p%5Dlimit%5B=50 bankmain]
+|-
+| name ||  || 
+|-
+| rowspan="2" | [https://abextm.github.io/cache2/#/viewer/interface/786432 786432]
+| rowspan="2" | [https://oldschool.runescape.wiki/w/Special:Ask?q=%5B%5BFile:+%5D%5D%20%5B%5BInterface%20name::bankmain%5D%5D&po=%3FInterface%20name&format=table&p%5Dlimit%5B=50 bankmain]
+|-
+| name ||  || 
+|-
+| rowspan="2" | [https://abextm.github.io/cache2/#/viewer/interface/786432 786432]
+| rowspan="2" | [https://oldschool.runescape.wiki/w/Special:Ask?q=%5B%5BFile:+%5D%5D%20%5B%5BInterface%20name::bankmain%5D%5D&po=%3FInterface%20name&format=table&p%5Dlimit%5B=50 bankmain]
+|-
+| name ||  || 
+|-
+| rowspan="2" | [https://abextm.github.io/cache2/#/viewer/interface/786432 786432]
+| rowspan="2" | [https://oldschool.runescape.wiki/w/Special:Ask?q=%5B%5BFile:+%5D%5D%20%5B%5BInterface%20name::bankmain%5D%5D&po=%3FInterface%20name&format=table&p%5Dlimit%5B=50 bankmain]
+|-
+| name ||  || 
+|-
+| rowspan="2" | [https://abextm.github.io/cache2/#/viewer/interface/786432 786432]
+| rowspan="2" | [https://oldschool.runescape.wiki/w/Special:Ask?q=%5B%5BFile:+%5D%5D%20%5B%5BInterface%20name::bankmain%5D%5D&po=%3FInterface%20name&format=table&p%5Dlimit%5B=50 bankmain]
+|-
+| name ||  || 
+|-
+| rowspan="2" | [https://abextm.github.io/cache2/#/viewer/interface/786432 786432]
+| rowspan="2" | [https://oldschool.runescape.wiki/w/Special:Ask?q=%5B%5BFile:+%5D%5D%20%5B%5BInterface%20name::bankmain%5D%5D&po=%3FInterface%20name&format=table&p%5Dlimit%5B=50 bankmain]
+|-
+| name ||  || 
+|-
+| rowspan="2" | [https://abextm.github.io/cache2/#/viewer/interface/786432 786432]
+| rowspan="2" | [https://oldschool.runescape.wiki/w/Special:Ask?q=%5B%5BFile:+%5D%5D%20%5B%5BInterface%20name::bankmain%5D%5D&po=%3FInterface%20name&format=table&p%5Dlimit%5B=50 bankmain]
+|-
+| name ||  || 
+|-
+| rowspan="2" | [https://abextm.github.io/cache2/#/viewer/interface/786432 786432]
+| rowspan="2" | [https://oldschool.runescape.wiki/w/Special:Ask?q=%5B%5BFile:+%5D%5D%20%5B%5BInterface%20name::bankmain%5D%5D&po=%3FInterface%20name&format=table&p%5Dlimit%5B=50 bankmain]
+|-
+| name ||  || 
+|-
+| rowspan="2" | [https://abextm.github.io/cache2/#/viewer/interface/786432 786432]
+| rowspan="2" | [https://oldschool.runescape.wiki/w/Special:Ask?q=%5B%5BFile:+%5D%5D%20%5B%5BInterface%20name::bankmain%5D%5D&po=%3FInterface%20name&format=table&p%5Dlimit%5B=50 bankmain]
+|-
+| name ||  || 
+|-
+| rowspan="2" | [https://abextm.github.io/cache2/#/viewer/interface/786432 786432]
+| rowspan="2" | [https://oldschool.runescape.wiki/w/Special:Ask?q=%5B%5BFile:+%5D%5D%20%5B%5BInterface%20name::bankmain%5D%5D&po=%3FInterface%20name&format=table&p%5Dlimit%5B=50 bankmain]
+|-
+| name ||  || 
+|-
+| rowspan="2" | [https://abextm.github.io/cache2/#/viewer/interface/786432 786432]
+| rowspan="2" | [https://oldschool.runescape.wiki/w/Special:Ask?q=%5B%5BFile:+%5D%5D%20%5B%5BInterface%20name::bankmain%5D%5D&po=%3FInterface%20name&format=table&p%5Dlimit%5B=50 bankmain]
+|-
+| name ||  || 
+|-
+| rowspan="2" | [https://abextm.github.io/cache2/#/viewer/interface/786432 786432]
+| rowspan="2" | [https://oldschool.runescape.wiki/w/Special:Ask?q=%5B%5BFile:+%5D%5D%20%5B%5BInterface%20name::bankmain%5D%5D&po=%3FInterface%20name&format=table&p%5Dlimit%5B=50 bankmain]
+|-
+| name ||  || 
+|-
+| rowspan="2" | [https://abextm.github.io/cache2/#/viewer/interface/786432 786432]
+| rowspan="2" | [https://oldschool.runescape.wiki/w/Special:Ask?q=%5B%5BFile:+%5D%5D%20%5B%5BInterface%20name::bankmain%5D%5D&po=%3FInterface%20name&format=table&p%5Dlimit%5B=50 bankmain]
+|-
+| name ||  || 
+|-
+| rowspan="2" | [https://abextm.github.io/cache2/#/viewer/interface/786432 786432]
+| rowspan="2" | [https://oldschool.runescape.wiki/w/Special:Ask?q=%5B%5BFile:+%5D%5D%20%5B%5BInterface%20name::bankmain%5D%5D&po=%3FInterface%20name&format=table&p%5Dlimit%5B=50 bankmain]
+|-
+| name ||  || 
+|-
+| rowspan="2" | [https://abextm.github.io/cache2/#/viewer/interface/786432 786432]
+| rowspan="2" | [https://oldschool.runescape.wiki/w/Special:Ask?q=%5B%5BFile:+%5D%5D%20%5B%5BInterface%20name::bankmain%5D%5D&po=%3FInterface%20name&format=table&p%5Dlimit%5B=50 bankmain]
+|-
+| name ||  || 
+|-
+| rowspan="2" | [https://abextm.github.io/cache2/#/viewer/interface/786432 786432]
+| rowspan="2" | [https://oldschool.runescape.wiki/w/Special:Ask?q=%5B%5BFile:+%5D%5D%20%5B%5BInterface%20name::bankmain%5D%5D&po=%3FInterface%20name&format=table&p%5Dlimit%5B=50 bankmain]
+|-
+| name ||  || 
+|-
+| rowspan="2" | [https://abextm.github.io/cache2/#/viewer/interface/786432 786432]
+| rowspan="2" | [https://oldschool.runescape.wiki/w/Special:Ask?q=%5B%5BFile:+%5D%5D%20%5B%5BInterface%20name::bankmain%5D%5D&po=%3FInterface%20name&format=table&p%5Dlimit%5B=50 bankmain]
+|-
+| name ||  || 
+|-
+| rowspan="2" | [https://abextm.github.io/cache2/#/viewer/interface/786432 786432]
+| rowspan="2" | [https://oldschool.runescape.wiki/w/Special:Ask?q=%5B%5BFile:+%5D%5D%20%5B%5BInterface%20name::bankmain%5D%5D&po=%3FInterface%20name&format=table&p%5Dlimit%5B=50 bankmain]
+|-
+| name ||  || 
+|-
+| rowspan="2" | [https://abextm.github.io/cache2/#/viewer/interface/786432 786432]
+| rowspan="2" | [https://oldschool.runescape.wiki/w/Special:Ask?q=%5B%5BFile:+%5D%5D%20%5B%5BInterface%20name::bankmain%5D%5D&po=%3FInterface%20name&format=table&p%5Dlimit%5B=50 bankmain]
+|-
+| name ||  || 
+|-
+| rowspan="2" | [https://abextm.github.io/cache2/#/viewer/interface/786432 786432]
+| rowspan="2" | [https://oldschool.runescape.wiki/w/Special:Ask?q=%5B%5BFile:+%5D%5D%20%5B%5BInterface%20name::bankmain%5D%5D&po=%3FInterface%20name&format=table&p%5Dlimit%5B=50 bankmain]
+|-
+| name ||  || 
+|-
+| rowspan="2" | [https://abextm.github.io/cache2/#/viewer/interface/786432 786432]
+| rowspan="2" | [https://oldschool.runescape.wiki/w/Special:Ask?q=%5B%5BFile:+%5D%5D%20%5B%5BInterface%20name::bankmain%5D%5D&po=%3FInterface%20name&format=table&p%5Dlimit%5B=50 bankmain]
+|-
+| name ||  || 
+|-
+| rowspan="2" | [https://abextm.github.io/cache2/#/viewer/interface/786432 786432]
+| rowspan="2" | [https://oldschool.runescape.wiki/w/Special:Ask?q=%5B%5BFile:+%5D%5D%20%5B%5BInterface%20name::bankmain%5D%5D&po=%3FInterface%20name&format=table&p%5Dlimit%5B=50 bankmain]
+|-
+| name ||  || 
+|-
+| rowspan="2" | [https://abextm.github.io/cache2/#/viewer/interface/786432 786432]
+| rowspan="2" | [https://oldschool.runescape.wiki/w/Special:Ask?q=%5B%5BFile:+%5D%5D%20%5B%5BInterface%20name::bankmain%5D%5D&po=%3FInterface%20name&format=table&p%5Dlimit%5B=50 bankmain]
+|-
+| name ||  || 
+|-
+| rowspan="2" | [https://abextm.github.io/cache2/#/viewer/interface/786432 786432]
+| rowspan="2" | [https://oldschool.runescape.wiki/w/Special:Ask?q=%5B%5BFile:+%5D%5D%20%5B%5BInterface%20name::bankmain%5D%5D&po=%3FInterface%20name&format=table&p%5Dlimit%5B=50 bankmain]
+|-
+| name ||  || 
+|-
+| rowspan="2" | [https://abextm.github.io/cache2/#/viewer/interface/786432 786432]
+| rowspan="2" | [https://oldschool.runescape.wiki/w/Special:Ask?q=%5B%5BFile:+%5D%5D%20%5B%5BInterface%20name::bankmain%5D%5D&po=%3FInterface%20name&format=table&p%5Dlimit%5B=50 bankmain]
+|-
+| name ||  || 
+|-
+| rowspan="2" | [https://abextm.github.io/cache2/#/viewer/interface/786432 786432]
+| rowspan="2" | [https://oldschool.runescape.wiki/w/Special:Ask?q=%5B%5BFile:+%5D%5D%20%5B%5BInterface%20name::bankmain%5D%5D&po=%3FInterface%20name&format=table&p%5Dlimit%5B=50 bankmain]
+|-
+| name ||  || 
+|-
+| rowspan="2" | [https://abextm.github.io/cache2/#/viewer/interface/786432 786432]
+| rowspan="2" | [https://oldschool.runescape.wiki/w/Special:Ask?q=%5B%5BFile:+%5D%5D%20%5B%5BInterface%20name::bankmain%5D%5D&po=%3FInterface%20name&format=table&p%5Dlimit%5B=50 bankmain]
+|-
+| name ||  || 
+|-
+| rowspan="2" | [https://abextm.github.io/cache2/#/viewer/interface/786432 786432]
+| rowspan="2" | [https://oldschool.runescape.wiki/w/Special:Ask?q=%5B%5BFile:+%5D%5D%20%5B%5BInterface%20name::bankmain%5D%5D&po=%3FInterface%20name&format=table&p%5Dlimit%5B=50 bankmain]
+|-
+| name ||  || 
+|-
+| rowspan="2" | [https://abextm.github.io/cache2/#/viewer/interface/786432 786432]
+| rowspan="2" | [https://oldschool.runescape.wiki/w/Special:Ask?q=%5B%5BFile:+%5D%5D%20%5B%5BInterface%20name::bankmain%5D%5D&po=%3FInterface%20name&format=table&p%5Dlimit%5B=50 bankmain]
+|-
+| name ||  || 
+|-
+| rowspan="2" | [https://abextm.github.io/cache2/#/viewer/interface/786432 786432]
+| rowspan="2" | [https://oldschool.runescape.wiki/w/Special:Ask?q=%5B%5BFile:+%5D%5D%20%5B%5BInterface%20name::bankmain%5D%5D&po=%3FInterface%20name&format=table&p%5Dlimit%5B=50 bankmain]
+|-
+| name ||  || 
+|-
+| rowspan="2" | [https://abextm.github.io/cache2/#/viewer/interface/786432 786432]
+| rowspan="2" | [https://oldschool.runescape.wiki/w/Special:Ask?q=%5B%5BFile:+%5D%5D%20%5B%5BInterface%20name::bankmain%5D%5D&po=%3FInterface%20name&format=table&p%5Dlimit%5B=50 bankmain]
+|-
+| name ||  || 
+|-
+| rowspan="2" | [https://abextm.github.io/cache2/#/viewer/interface/786432 786432]
+| rowspan="2" | [https://oldschool.runescape.wiki/w/Special:Ask?q=%5B%5BFile:+%5D%5D%20%5B%5BInterface%20name::bankmain%5D%5D&po=%3FInterface%20name&format=table&p%5Dlimit%5B=50 bankmain]
+|-
+| name ||  || 
+|-
+| rowspan="2" | [https://abextm.github.io/cache2/#/viewer/interface/786432 786432]
+| rowspan="2" | [https://oldschool.runescape.wiki/w/Special:Ask?q=%5B%5BFile:+%5D%5D%20%5B%5BInterface%20name::bankmain%5D%5D&po=%3FInterface%20name&format=table&p%5Dlimit%5B=50 bankmain]
+|-
+| name ||  || 
+|-
+| rowspan="2" | [https://abextm.github.io/cache2/#/viewer/interface/786432 786432]
+| rowspan="2" | [https://oldschool.runescape.wiki/w/Special:Ask?q=%5B%5BFile:+%5D%5D%20%5B%5BInterface%20name::bankmain%5D%5D&po=%3FInterface%20name&format=table&p%5Dlimit%5B=50 bankmain]
+|-
+| name ||  || 
+|-
+| rowspan="2" | [https://abextm.github.io/cache2/#/viewer/interface/786432 786432]
+| rowspan="2" | [https://oldschool.runescape.wiki/w/Special:Ask?q=%5B%5BFile:+%5D%5D%20%5B%5BInterface%20name::bankmain%5D%5D&po=%3FInterface%20name&format=table&p%5Dlimit%5B=50 bankmain]
+|-
+| name ||  || 
+|-
+| rowspan="2" | [https://abextm.github.io/cache2/#/viewer/interface/786432 786432]
+| rowspan="2" | [https://oldschool.runescape.wiki/w/Special:Ask?q=%5B%5BFile:+%5D%5D%20%5B%5BInterface%20name::bankmain%5D%5D&po=%3FInterface%20name&format=table&p%5Dlimit%5B=50 bankmain]
+|-
+| name ||  || 
+|-
+| rowspan="2" | [https://abextm.github.io/cache2/#/viewer/interface/786432 786432]
+| rowspan="2" | [https://oldschool.runescape.wiki/w/Special:Ask?q=%5B%5BFile:+%5D%5D%20%5B%5BInterface%20name::bankmain%5D%5D&po=%3FInterface%20name&format=table&p%5Dlimit%5B=50 bankmain]
+|-
+| name ||  || 
+|-
+| rowspan="2" | [https://abextm.github.io/cache2/#/viewer/interface/786432 786432]
+| rowspan="2" | [https://oldschool.runescape.wiki/w/Special:Ask?q=%5B%5BFile:+%5D%5D%20%5B%5BInterface%20name::bankmain%5D%5D&po=%3FInterface%20name&format=table&p%5Dlimit%5B=50 bankmain]
+|-
+| name ||  || 
+|-
+| rowspan="2" | [https://abextm.github.io/cache2/#/viewer/interface/786432 786432]
+| rowspan="2" | [https://oldschool.runescape.wiki/w/Special:Ask?q=%5B%5BFile:+%5D%5D%20%5B%5BInterface%20name::bankmain%5D%5D&po=%3FInterface%20name&format=table&p%5Dlimit%5B=50 bankmain]
+|-
+| name ||  || 
+|-
+| rowspan="2" | [https://abextm.github.io/cache2/#/viewer/interface/786432 786432]
+| rowspan="2" | [https://oldschool.runescape.wiki/w/Special:Ask?q=%5B%5BFile:+%5D%5D%20%5B%5BInterface%20name::bankmain%5D%5D&po=%3FInterface%20name&format=table&p%5Dlimit%5B=50 bankmain]
+|-
+| name ||  || 
+|-
+| rowspan="2" | [https://abextm.github.io/cache2/#/viewer/interface/786432 786432]
+| rowspan="2" | [https://oldschool.runescape.wiki/w/Special:Ask?q=%5B%5BFile:+%5D%5D%20%5B%5BInterface%20name::bankmain%5D%5D&po=%3FInterface%20name&format=table&p%5Dlimit%5B=50 bankmain]
+|-
+| name ||  || 
+|-
+| rowspan="2" | [https://abextm.github.io/cache2/#/viewer/interface/786432 786432]
+| rowspan="2" | [https://oldschool.runescape.wiki/w/Special:Ask?q=%5B%5BFile:+%5D%5D%20%5B%5BInterface%20name::bankmain%5D%5D&po=%3FInterface%20name&format=table&p%5Dlimit%5B=50 bankmain]
+|-
+| name ||  || 
+|-
+| rowspan="2" | [https://abextm.github.io/cache2/#/viewer/interface/786432 786432]
+| rowspan="2" | [https://oldschool.runescape.wiki/w/Special:Ask?q=%5B%5BFile:+%5D%5D%20%5B%5BInterface%20name::bankmain%5D%5D&po=%3FInterface%20name&format=table&p%5Dlimit%5B=50 bankmain]
+|-
+| name ||  || 
+|-
+| rowspan="2" | [https://abextm.github.io/cache2/#/viewer/interface/786432 786432]
+| rowspan="2" | [https://oldschool.runescape.wiki/w/Special:Ask?q=%5B%5BFile:+%5D%5D%20%5B%5BInterface%20name::bankmain%5D%5D&po=%3FInterface%20name&format=table&p%5Dlimit%5B=50 bankmain]
+|-
+| name ||  || 
+|-
+| rowspan="2" | [https://abextm.github.io/cache2/#/viewer/interface/786432 786432]
+| rowspan="2" | [https://oldschool.runescape.wiki/w/Special:Ask?q=%5B%5BFile:+%5D%5D%20%5B%5BInterface%20name::bankmain%5D%5D&po=%3FInterface%20name&format=table&p%5Dlimit%5B=50 bankmain]
+|-
+| name ||  || 
+|-
+| rowspan="2" | [https://abextm.github.io/cache2/#/viewer/interface/786432 786432]
+| rowspan="2" | [https://oldschool.runescape.wiki/w/Special:Ask?q=%5B%5BFile:+%5D%5D%20%5B%5BInterface%20name::bankmain%5D%5D&po=%3FInterface%20name&format=table&p%5Dlimit%5B=50 bankmain]
+|-
+| name ||  || 
+|-
+| rowspan="2" | [https://abextm.github.io/cache2/#/viewer/interface/786432 786432]
+| rowspan="2" | [https://oldschool.runescape.wiki/w/Special:Ask?q=%5B%5BFile:+%5D%5D%20%5B%5BInterface%20name::bankmain%5D%5D&po=%3FInterface%20name&format=table&p%5Dlimit%5B=50 bankmain]
+|-
+| name ||  || 
+|-
+| rowspan="2" | [https://abextm.github.io/cache2/#/viewer/interface/786432 786432]
+| rowspan="2" | [https://oldschool.runescape.wiki/w/Special:Ask?q=%5B%5BFile:+%5D%5D%20%5B%5BInterface%20name::bankmain%5D%5D&po=%3FInterface%20name&format=table&p%5Dlimit%5B=50 bankmain]
+|-
+| name ||  || 
+|-
+| rowspan="2" | [https://abextm.github.io/cache2/#/viewer/interface/786432 786432]
+| rowspan="2" | [https://oldschool.runescape.wiki/w/Special:Ask?q=%5B%5BFile:+%5D%5D%20%5B%5BInterface%20name::bankmain%5D%5D&po=%3FInterface%20name&format=table&p%5Dlimit%5B=50 bankmain]
+|-
+| name ||  || 
+|-
+| rowspan="2" | [https://abextm.github.io/cache2/#/viewer/interface/786432 786432]
+| rowspan="2" | [https://oldschool.runescape.wiki/w/Special:Ask?q=%5B%5BFile:+%5D%5D%20%5B%5BInterface%20name::bankmain%5D%5D&po=%3FInterface%20name&format=table&p%5Dlimit%5B=50 bankmain]
+|-
+| name ||  || 
+|-
+| rowspan="2" | [https://abextm.github.io/cache2/#/viewer/interface/786432 786432]
+| rowspan="2" | [https://oldschool.runescape.wiki/w/Special:Ask?q=%5B%5BFile:+%5D%5D%20%5B%5BInterface%20name::bankmain%5D%5D&po=%3FInterface%20name&format=table&p%5Dlimit%5B=50 bankmain]
+|-
+| name ||  || 
+|-
+| rowspan="2" | [https://abextm.github.io/cache2/#/viewer/interface/786432 786432]
+| rowspan="2" | [https://oldschool.runescape.wiki/w/Special:Ask?q=%5B%5BFile:+%5D%5D%20%5B%5BInterface%20name::bankmain%5D%5D&po=%3FInterface%20name&format=table&p%5Dlimit%5B=50 bankmain]
+|-
+| name ||  || 
+|-
+| rowspan="2" | [https://abextm.github.io/cache2/#/viewer/interface/786432 786432]
+| rowspan="2" | [https://oldschool.runescape.wiki/w/Special:Ask?q=%5B%5BFile:+%5D%5D%20%5B%5BInterface%20name::bankmain%5D%5D&po=%3FInterface%20name&format=table&p%5Dlimit%5B=50 bankmain]
+|-
+| name ||  || 
+|-
+| rowspan="2" | [https://abextm.github.io/cache2/#/viewer/interface/786432 786432]
+| rowspan="2" | [https://oldschool.runescape.wiki/w/Special:Ask?q=%5B%5BFile:+%5D%5D%20%5B%5BInterface%20name::bankmain%5D%5D&po=%3FInterface%20name&format=table&p%5Dlimit%5B=50 bankmain]
+|-
+| name ||  || 
+|-
+| rowspan="2" | [https://abextm.github.io/cache2/#/viewer/interface/786432 786432]
+| rowspan="2" | [https://oldschool.runescape.wiki/w/Special:Ask?q=%5B%5BFile:+%5D%5D%20%5B%5BInterface%20name::bankmain%5D%5D&po=%3FInterface%20name&format=table&p%5Dlimit%5B=50 bankmain]
+|-
+| name ||  || 
+|-
+| rowspan="2" | [https://abextm.github.io/cache2/#/viewer/interface/786432 786432]
+| rowspan="2" | [https://oldschool.runescape.wiki/w/Special:Ask?q=%5B%5BFile:+%5D%5D%20%5B%5BInterface%20name::bankmain%5D%5D&po=%3FInterface%20name&format=table&p%5Dlimit%5B=50 bankmain]
+|-
+| name ||  || 
+|-
+| rowspan="2" | [https://abextm.github.io/cache2/#/viewer/interface/786432 786432]
+| rowspan="2" | [https://oldschool.runescape.wiki/w/Special:Ask?q=%5B%5BFile:+%5D%5D%20%5B%5BInterface%20name::bankmain%5D%5D&po=%3FInterface%20name&format=table&p%5Dlimit%5B=50 bankmain]
+|-
+| name ||  || 
+|-
+| rowspan="2" | [https://abextm.github.io/cache2/#/viewer/interface/786432 786432]
+| rowspan="2" | [https://oldschool.runescape.wiki/w/Special:Ask?q=%5B%5BFile:+%5D%5D%20%5B%5BInterface%20name::bankmain%5D%5D&po=%3FInterface%20name&format=table&p%5Dlimit%5B=50 bankmain]
+|-
+| name ||  || 
+|-
+| rowspan="2" | [https://abextm.github.io/cache2/#/viewer/interface/786432 786432]
+| rowspan="2" | [https://oldschool.runescape.wiki/w/Special:Ask?q=%5B%5BFile:+%5D%5D%20%5B%5BInterface%20name::bankmain%5D%5D&po=%3FInterface%20name&format=table&p%5Dlimit%5B=50 bankmain]
+|-
+| name ||  || 
+|-
+| rowspan="2" | [https://abextm.github.io/cache2/#/viewer/interface/786432 786432]
+| rowspan="2" | [https://oldschool.runescape.wiki/w/Special:Ask?q=%5B%5BFile:+%5D%5D%20%5B%5BInterface%20name::bankmain%5D%5D&po=%3FInterface%20name&format=table&p%5Dlimit%5B=50 bankmain]
+|-
+| name ||  || 
+|-
+| rowspan="2" | [https://abextm.github.io/cache2/#/viewer/interface/786432 786432]
+| rowspan="2" | [https://oldschool.runescape.wiki/w/Special:Ask?q=%5B%5BFile:+%5D%5D%20%5B%5BInterface%20name::bankmain%5D%5D&po=%3FInterface%20name&format=table&p%5Dlimit%5B=50 bankmain]
+|-
+| name ||  || 
+|-
+| rowspan="2" | [https://abextm.github.io/cache2/#/viewer/interface/786432 786432]
+| rowspan="2" | [https://oldschool.runescape.wiki/w/Special:Ask?q=%5B%5BFile:+%5D%5D%20%5B%5BInterface%20name::bankmain%5D%5D&po=%3FInterface%20name&format=table&p%5Dlimit%5B=50 bankmain]
+|-
+| name ||  || 
+|-
+| rowspan="2" | [https://abextm.github.io/cache2/#/viewer/interface/786432 786432]
+| rowspan="2" | [https://oldschool.runescape.wiki/w/Special:Ask?q=%5B%5BFile:+%5D%5D%20%5B%5BInterface%20name::bankmain%5D%5D&po=%3FInterface%20name&format=table&p%5Dlimit%5B=50 bankmain]
+|-
+| name ||  || 
+|-
+| rowspan="2" | [https://abextm.github.io/cache2/#/viewer/interface/786432 786432]
+| rowspan="2" | [https://oldschool.runescape.wiki/w/Special:Ask?q=%5B%5BFile:+%5D%5D%20%5B%5BInterface%20name::bankmain%5D%5D&po=%3FInterface%20name&format=table&p%5Dlimit%5B=50 bankmain]
+|-
+| name ||  || 
+|-
+| rowspan="2" | [https://abextm.github.io/cache2/#/viewer/interface/786432 786432]
+| rowspan="2" | [https://oldschool.runescape.wiki/w/Special:Ask?q=%5B%5BFile:+%5D%5D%20%5B%5BInterface%20name::bankmain%5D%5D&po=%3FInterface%20name&format=table&p%5Dlimit%5B=50 bankmain]
+|-
+| name ||  || 
+|-
+| rowspan="2" | [https://abextm.github.io/cache2/#/viewer/interface/786432 786432]
+| rowspan="2" | [https://oldschool.runescape.wiki/w/Special:Ask?q=%5B%5BFile:+%5D%5D%20%5B%5BInterface%20name::bankmain%5D%5D&po=%3FInterface%20name&format=table&p%5Dlimit%5B=50 bankmain]
+|-
+| name ||  || 
+|-
+| rowspan="2" | [https://abextm.github.io/cache2/#/viewer/interface/786432 786432]
+| rowspan="2" | [https://oldschool.runescape.wiki/w/Special:Ask?q=%5B%5BFile:+%5D%5D%20%5B%5BInterface%20name::bankmain%5D%5D&po=%3FInterface%20name&format=table&p%5Dlimit%5B=50 bankmain]
+|-
+| name ||  || 
+|-
+| rowspan="2" | [https://abextm.github.io/cache2/#/viewer/interface/786432 786432]
+| rowspan="2" | [https://oldschool.runescape.wiki/w/Special:Ask?q=%5B%5BFile:+%5D%5D%20%5B%5BInterface%20name::bankmain%5D%5D&po=%3FInterface%20name&format=table&p%5Dlimit%5B=50 bankmain]
+|-
+| name ||  || 
+|-
+| rowspan="2" | [https://abextm.github.io/cache2/#/viewer/interface/786432 786432]
+| rowspan="2" | [https://oldschool.runescape.wiki/w/Special:Ask?q=%5B%5BFile:+%5D%5D%20%5B%5BInterface%20name::bankmain%5D%5D&po=%3FInterface%20name&format=table&p%5Dlimit%5B=50 bankmain]
+|-
+| name ||  || 
+|-
+| rowspan="2" | [https://abextm.github.io/cache2/#/viewer/interface/786432 786432]
+| rowspan="2" | [https://oldschool.runescape.wiki/w/Special:Ask?q=%5B%5BFile:+%5D%5D%20%5B%5BInterface%20name::bankmain%5D%5D&po=%3FInterface%20name&format=table&p%5Dlimit%5B=50 bankmain]
+|-
+| name ||  || 
+|-
+| rowspan="2" | [https://abextm.github.io/cache2/#/viewer/interface/786432 786432]
+| rowspan="2" | [https://oldschool.runescape.wiki/w/Special:Ask?q=%5B%5BFile:+%5D%5D%20%5B%5BInterface%20name::bankmain%5D%5D&po=%3FInterface%20name&format=table&p%5Dlimit%5B=50 bankmain]
+|-
+| name ||  || 
+|-
+| rowspan="2" | [https://abextm.github.io/cache2/#/viewer/interface/786432 786432]
+| rowspan="2" | [https://oldschool.runescape.wiki/w/Special:Ask?q=%5B%5BFile:+%5D%5D%20%5B%5BInterface%20name::bankmain%5D%5D&po=%3FInterface%20name&format=table&p%5Dlimit%5B=50 bankmain]
+|-
+| name ||  || 
+|-
+| rowspan="2" | [https://abextm.github.io/cache2/#/viewer/interface/786432 786432]
+| rowspan="2" | [https://oldschool.runescape.wiki/w/Special:Ask?q=%5B%5BFile:+%5D%5D%20%5B%5BInterface%20name::bankmain%5D%5D&po=%3FInterface%20name&format=table&p%5Dlimit%5B=50 bankmain]
+|-
+| name ||  || 
+|-
+| rowspan="2" | [https://abextm.github.io/cache2/#/viewer/interface/786432 786432]
+| rowspan="2" | [https://oldschool.runescape.wiki/w/Special:Ask?q=%5B%5BFile:+%5D%5D%20%5B%5BInterface%20name::bankmain%5D%5D&po=%3FInterface%20name&format=table&p%5Dlimit%5B=50 bankmain]
+|-
+| name ||  || 
+|-
+| rowspan="2" | [https://abextm.github.io/cache2/#/viewer/interface/4980736 4980736]
+| rowspan="2" | [https://oldschool.runescape.wiki/w/Special:Ask?q=%5B%5BFile:+%5D%5D%20%5B%5BInterface%20name::grouping%5D%5D&po=%3FInterface%20name&format=table&p%5Dlimit%5B=50 grouping]
+|-
+| name ||  || 
+|-
+| rowspan="2" | [https://abextm.github.io/cache2/#/viewer/interface/4980736 4980736]
+| rowspan="2" | [https://oldschool.runescape.wiki/w/Special:Ask?q=%5B%5BFile:+%5D%5D%20%5B%5BInterface%20name::grouping%5D%5D&po=%3FInterface%20name&format=table&p%5Dlimit%5B=50 grouping]
+|-
+| name ||  || 
+|-
+| rowspan="2" | [https://abextm.github.io/cache2/#/viewer/interface/4980736 4980736]
+| rowspan="2" | [https://oldschool.runescape.wiki/w/Special:Ask?q=%5B%5BFile:+%5D%5D%20%5B%5BInterface%20name::grouping%5D%5D&po=%3FInterface%20name&format=table&p%5Dlimit%5B=50 grouping]
+|-
+| name ||  || 
+|-
+| rowspan="2" | [https://abextm.github.io/cache2/#/viewer/interface/4980736 4980736]
+| rowspan="2" | [https://oldschool.runescape.wiki/w/Special:Ask?q=%5B%5BFile:+%5D%5D%20%5B%5BInterface%20name::grouping%5D%5D&po=%3FInterface%20name&format=table&p%5Dlimit%5B=50 grouping]
+|-
+| name ||  || 
+|-
+| rowspan="2" | [https://abextm.github.io/cache2/#/viewer/interface/4980736 4980736]
+| rowspan="2" | [https://oldschool.runescape.wiki/w/Special:Ask?q=%5B%5BFile:+%5D%5D%20%5B%5BInterface%20name::grouping%5D%5D&po=%3FInterface%20name&format=table&p%5Dlimit%5B=50 grouping]
+|-
+| name ||  || 
+|-
+| rowspan="2" | [https://abextm.github.io/cache2/#/viewer/interface/4980736 4980736]
+| rowspan="2" | [https://oldschool.runescape.wiki/w/Special:Ask?q=%5B%5BFile:+%5D%5D%20%5B%5BInterface%20name::grouping%5D%5D&po=%3FInterface%20name&format=table&p%5Dlimit%5B=50 grouping]
+|-
+| name ||  || 
+|-
+| rowspan="2" | [https://abextm.github.io/cache2/#/viewer/interface/4980736 4980736]
+| rowspan="2" | [https://oldschool.runescape.wiki/w/Special:Ask?q=%5B%5BFile:+%5D%5D%20%5B%5BInterface%20name::grouping%5D%5D&po=%3FInterface%20name&format=table&p%5Dlimit%5B=50 grouping]
+|-
+| name ||  || 
+|-
+| rowspan="2" | [https://abextm.github.io/cache2/#/viewer/interface/4980736 4980736]
+| rowspan="2" | [https://oldschool.runescape.wiki/w/Special:Ask?q=%5B%5BFile:+%5D%5D%20%5B%5BInterface%20name::grouping%5D%5D&po=%3FInterface%20name&format=table&p%5Dlimit%5B=50 grouping]
+|-
+| name ||  || 
+|-
+| rowspan="3" | [https://abextm.github.io/cache2/#/viewer/interface/39452672 39452672]
+| rowspan="3" | [https://oldschool.runescape.wiki/w/Special:Ask?q=%5B%5BFile:+%5D%5D%20%5B%5BInterface%20name::gravestone_retrieval%5D%5D&po=%3FInterface%20name&format=table&p%5Dlimit%5B=50 gravestone_retrieval]
+|-
+| onLoadListener || [1985, -2147483645, 39452673, 39452675, 39452676, 39452678, 39452679, 39452680, 39452681, 39452682, 39452683] || [1985, -2147483645, 39452673, 39452675, 39452676, 39452678, 39452679, 39452680, 39452681, 39452682, 39452683<span style="color: #6bc71f">, 39452686, 39452687</span>]
+|-
+| name ||  || 
+|-
+| rowspan="3" | [https://abextm.github.io/cache2/#/viewer/interface/39452672 39452672]
+| rowspan="3" | [https://oldschool.runescape.wiki/w/Special:Ask?q=%5B%5BFile:+%5D%5D%20%5B%5BInterface%20name::gravestone_retrieval%5D%5D&po=%3FInterface%20name&format=table&p%5Dlimit%5B=50 gravestone_retrieval]
+|-
+| onLoadListener || [1985, -2147483645, 39452673, 39452675, 39452676, 39452678, 39452679, 39452680, 39452681, 39452682, 39452683] || [1985, -2147483645, 39452673, 39452675, 39452676, 39452678, 39452679, 39452680, 39452681, 39452682, 39452683<span style="color: #6bc71f">, 39452686, 39452687</span>]
+|-
+| name ||  || 
+|-
+| rowspan="3" | [https://abextm.github.io/cache2/#/viewer/interface/39452672 39452672]
+| rowspan="3" | [https://oldschool.runescape.wiki/w/Special:Ask?q=%5B%5BFile:+%5D%5D%20%5B%5BInterface%20name::gravestone_retrieval%5D%5D&po=%3FInterface%20name&format=table&p%5Dlimit%5B=50 gravestone_retrieval]
+|-
+| onLoadListener || [1985, -2147483645, 39452673, 39452675, 39452676, 39452678, 39452679, 39452680, 39452681, 39452682, 39452683] || [1985, -2147483645, 39452673, 39452675, 39452676, 39452678, 39452679, 39452680, 39452681, 39452682, 39452683<span style="color: #6bc71f">, 39452686, 39452687</span>]
+|-
+| name ||  || 
+|-
+| rowspan="3" | [https://abextm.github.io/cache2/#/viewer/interface/39452672 39452672]
+| rowspan="3" | [https://oldschool.runescape.wiki/w/Special:Ask?q=%5B%5BFile:+%5D%5D%20%5B%5BInterface%20name::gravestone_retrieval%5D%5D&po=%3FInterface%20name&format=table&p%5Dlimit%5B=50 gravestone_retrieval]
+|-
+| onLoadListener || [1985, -2147483645, 39452673, 39452675, 39452676, 39452678, 39452679, 39452680, 39452681, 39452682, 39452683] || [1985, -2147483645, 39452673, 39452675, 39452676, 39452678, 39452679, 39452680, 39452681, 39452682, 39452683<span style="color: #6bc71f">, 39452686, 39452687</span>]
+|-
+| name ||  || 
+|-
+| rowspan="3" | [https://abextm.github.io/cache2/#/viewer/interface/39452672 39452672]
+| rowspan="3" | [https://oldschool.runescape.wiki/w/Special:Ask?q=%5B%5BFile:+%5D%5D%20%5B%5BInterface%20name::gravestone_retrieval%5D%5D&po=%3FInterface%20name&format=table&p%5Dlimit%5B=50 gravestone_retrieval]
+|-
+| onLoadListener || [1985, -2147483645, 39452673, 39452675, 39452676, 39452678, 39452679, 39452680, 39452681, 39452682, 39452683] || [1985, -2147483645, 39452673, 39452675, 39452676, 39452678, 39452679, 39452680, 39452681, 39452682, 39452683<span style="color: #6bc71f">, 39452686, 39452687</span>]
+|-
+| name ||  || 
+|}
+==Regions==
+===Diff Regions===
+{| class="wikitable sortable sticky-header mw-collapsible"
+|-
+! colspan="5" | Diff Regions
+|-
+! style="width: 15em" | Id !! Name !! Key !! Previous Value !! New Value
+|-
+| rowspan="2" | [https://osrs.world/?cx=2880&cy=26&cz=3456 11574]
+| rowspan="2" | [[45_54]]
+|-
+| changedTiles || <span style="color: #ee4231">0</span> || <span style="color: #6bc71f">1402</span>
+|}

@@ -1,7 +1,6 @@
 package org.rsmod.content.interfaces.emotes
 
 import dev.openrune.ServerCacheManager
-import dev.openrune.definition.type.VarBitType
 import dev.openrune.definition.type.widget.IfEvent
 import dev.openrune.rscm.RSCM
 import dev.openrune.rscm.RSCM.asRSCM
@@ -81,7 +80,8 @@ private constructor(
             "Cheer" -> loopAnim("seq.emote_cheer", "seq.emote_cheer_loop", op)
             "Beckon" -> loopAnim("seq.emote_beckon", "seq.emote_beckon_loop", op)
             "Laugh" -> loopAnim("seq.emote_laugh", "seq.emote_laugh_loop", op)
-            "Jump for Joy" -> loopAnim("seq.emote_jump_with_joy", "seq.emote_jump_with_joy_loop", op)
+            "Jump for Joy" ->
+                loopAnim("seq.emote_jump_with_joy", "seq.emote_jump_with_joy_loop", op)
             "Yawn" -> loopAnim("seq.emote_yawn", "seq.emote_yawn_loop", op)
             "Dance" -> loopAnim("seq.emote_dance", "seq.emote_dance_loop", op)
             "Jig" -> loopAnim("seq.emote_dance_scottish", "seq.emote_dance_scottish_loop", op)
@@ -92,7 +92,8 @@ private constructor(
             "Panic" -> loopAnim("seq.emote_panic", "seq.emote_panic_loop", op)
             "Raspberry" -> loopAnim("seq.emote_ya_boo_sucks", "seq.emote_ya_boo_sucks_loop", op)
             "Clap" -> loopAnim("seq.emote_clap", "seq.emote_clap_loop", op)
-            "Salute" -> loopAnim("seq.emote_fremmenik_salute", "seq.emote_fremmenik_salute_loop", op)
+            "Salute" ->
+                loopAnim("seq.emote_fremmenik_salute", "seq.emote_fremmenik_salute_loop", op)
             "Goblin Bow" ->
                 lockedLoopAnimDialog(
                     "seq.human_cave_goblin_bow",
@@ -319,7 +320,9 @@ private constructor(
 
     private fun ProtectedAccess.simpleAnim(internal: String, spot: String? = null) {
 
-        val seq = ServerCacheManager.getAnim(internal.asRSCM(RSCMType.SEQ))?: error("Invalid sequence: $internal")
+        val seq =
+            ServerCacheManager.getAnim(internal.asRSCM(RSCMType.SEQ))
+                ?: error("Invalid sequence: $internal")
         if (seq.requiresWalkTrigger() && !trySetWalkTrigger("walktrigger.emote_cancelanim")) {
             return
         }
@@ -414,17 +417,16 @@ private constructor(
         )
     }
 
-    private suspend fun ProtectedAccess.masteryCapeEmote(
-        internal: String,
-        spotanim: String,
-    ) {
+    private suspend fun ProtectedAccess.masteryCapeEmote(internal: String, spotanim: String) {
         if (isInCombat()) {
             mes("You can't perform that emote now.")
             return
         }
         playAnim(internal, spotanim)
 
-        val seq = ServerCacheManager.getAnim(internal.asRSCM(RSCMType.SEQ))?: error("Invalid sequence: $internal")
+        val seq =
+            ServerCacheManager.getAnim(internal.asRSCM(RSCMType.SEQ))
+                ?: error("Invalid sequence: $internal")
 
         delay(seq)
         rebuildAppearance()

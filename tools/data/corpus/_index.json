@@ -1,0 +1,137 @@
+{
+  "dataset": "OSRS RSMod Research Corpus",
+  "version": 13,
+  "updated": "2026-06-26T01:52:16Z",
+  "purpose": "Comprehensive OSRS Wiki data for RSMod server implementation",
+  "total_size_mb": 353.4,
+  "total_files": 470,
+  "sources": {
+    "wiki_bucket_api": "https://oldschool.runescape.wiki/api.php (Bucket extension)",
+    "wiki_parse_api": "https://oldschool.runescape.wiki/api.php (action=parse)",
+    "ironman_guide": "https://ironman.guide/guide (Oziris v4, 2026)"
+  },
+  "directories": {
+    "buckets": {
+      "path": "buckets/",
+      "description": "Structured tabular data from Wiki Bucket API",
+      "size_mb": 37.4,
+      "files": [
+        "combat_achievement.json",
+        "dependency_list.json",
+        "dropsline.json",
+        "infobox_activity.json",
+        "infobox_construction.json",
+        "infobox_item.json",
+        "infobox_location.json",
+        "infobox_monster.json",
+        "infobox_npc.json",
+        "infobox_shop.json",
+        "infobox_spell.json",
+        "money_making_guide.json",
+        "quest.json",
+        "transcript.json",
+        "varbit.json"
+      ]
+    },
+    "quests": {
+      "path": "quests/",
+      "description": "Full quest guide HTML pages (walkthrough, rewards, requirements)",
+      "size_mb": 13.9,
+      "count": 218
+    },
+    "content": {
+      "path": "content/",
+      "description": "Game mechanics reference pages (bosses, minigames, areas, etc.)",
+      "size_mb": 30.7,
+      "count": 164
+    },
+    "skills": {
+      "path": "skills/",
+      "description": "Skill training pages and XP tables",
+      "size_mb": 3.5,
+      "count": 37
+    },
+    "cache-diffs": {
+      "path": "cache-diffs/",
+      "description": "Low-level cache revision pages",
+      "size_mb": 213.6
+    },
+    "ironman-guide": {
+      "path": "ironman-guide/",
+      "description": "Oziris Ironman Efficiency Guide",
+      "size_mb": 1.7,
+      "count": 13
+    },
+    "dependencies": {
+      "path": "dependencies/",
+      "description": "Quest dependency trees and progression graph",
+      "size_mb": 0.7,
+      "files": [
+        "progression_graph.json",
+        "quest_dependencies.json",
+        "reverse_dependencies.json"
+      ]
+    },
+    "parsed-data": {
+      "path": "parsed-data/",
+      "description": "RSMod-ready synthesized datasets",
+      "size_mb": 42.1,
+      "files": [
+        "activities.json",
+        "combat_achievements_by_tier.json",
+        "construction.json",
+        "drop_tables.json",
+        "drops_by_source.json",
+        "item_by_id.json",
+        "item_by_name.json",
+        "item_index.json",
+        "money_making.json",
+        "monster_by_name.json",
+        "monster_compendium.json",
+        "npc_by_id.json",
+        "npc_by_name.json",
+        "npc_directory.json",
+        "npc_spawns.json",
+        "quest_lookup.json",
+        "quest_progression.json",
+        "shops.json",
+        "spellbook.json",
+        "varbit_index.json"
+      ]
+    }
+  },
+  "tools": {
+    "scraper": "scraper.py \u2014 fetch new data and auto-update index",
+    "loader": "osrs_data.py \u2014 Python agent data loader (from osrs_data import OSRS)",
+    "mapping": "RSMOD_MAPPING.md \u2014 data-to-RSMod-plugin mapping guide"
+  },
+  "quick_ref": {
+    "quest_lookup": "parsed-data/quest_progression.json",
+    "npc_lookup": "parsed-data/npc_directory.json",
+    "item_lookup": "parsed-data/item_index.json",
+    "monster_lookup": "parsed-data/monster_compendium.json",
+    "drop_lookup": "parsed-data/drop_tables.json",
+    "spell_lookup": "parsed-data/spellbook.json",
+    "shop_lookup": "parsed-data/shops.json",
+    "construction_lookup": "parsed-data/construction.json",
+    "money_lookup": "parsed-data/money_making.json",
+    "varbit_lookup": "parsed-data/varbit_index.json",
+    "combat_achievement_lookup": "parsed-data/combat_achievements_by_tier.json",
+    "activity_lookup": "parsed-data/activities.json",
+    "quest_deps": "dependencies/quest_dependencies.json",
+    "reverse_deps": "dependencies/reverse_dependencies.json",
+    "progression_graph": "dependencies/progression_graph.json",
+    "skill_xp_table": "skills/experience_table.json",
+    "quest_skill_reqs": "skills/quest_skill_requirements.json"
+  },
+  "how_to_use": [
+    "For structured RSMod data (items, NPCs, monsters, quests): load from parsed-data/",
+    "For raw wiki data (all fields): load from buckets/",
+    "For quest guides with walkthroughs: load from quests/",
+    "For quest dependency trees: load from dependencies/",
+    "For skill training methods: load from skills/",
+    "For game mechanics: load from content/",
+    "For cache revision history: load from cache-diffs/",
+    "For Ironman progression order: load from ironman-guide/"
+  ]
+}

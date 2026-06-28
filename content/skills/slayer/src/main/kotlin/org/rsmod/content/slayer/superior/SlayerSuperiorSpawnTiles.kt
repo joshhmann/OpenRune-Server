@@ -40,7 +40,11 @@ internal object SlayerSuperiorSpawnTiles {
         return null
     }
 
-    private fun addNearbyPlayerTiles(player: Player, anchor: CoordGrid, out: MutableSet<CoordGrid>) {
+    private fun addNearbyPlayerTiles(
+        player: Player,
+        anchor: CoordGrid,
+        out: MutableSet<CoordGrid>,
+    ) {
         if (player.coords.level != anchor.level) {
             return
         }
@@ -64,7 +68,11 @@ internal object SlayerSuperiorSpawnTiles {
         )
     }
 
-    private fun fits(type: NpcServerType, swCorner: CoordGrid, collision: CollisionFlagMap): Boolean {
+    private fun fits(
+        type: NpcServerType,
+        swCorner: CoordGrid,
+        collision: CollisionFlagMap,
+    ): Boolean {
         if (!collision.isZoneValid(swCorner)) {
             return false
         }

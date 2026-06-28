@@ -111,7 +111,7 @@ constructor(
 
         if (skillAnimDelay <= mapClock) {
             skillAnimDelay = mapClock + 4
-            anim(RSCM.getReverseMapping(RSCMType.SEQ,getInvObj(axe).axeWoodcuttingAnim.id))
+            anim(RSCM.getReverseMapping(RSCMType.SEQ, getInvObj(axe).axeWoodcuttingAnim.id))
         }
 
         var cutLogs = false
@@ -254,7 +254,10 @@ constructor(
             if (worn != null && carried != null) {
                 val wornSuccess = cutSuccessRates(type, worn)
                 val carriedSuccess = cutSuccessRates(type, carried)
-                if ((wornSuccess.first + wornSuccess.second) / 2 >= (carriedSuccess.first + carriedSuccess.second) / 2) {
+                if (
+                    (wornSuccess.first + wornSuccess.second) / 2 >=
+                        (carriedSuccess.first + carriedSuccess.second) / 2
+                ) {
                     return worn
                 }
                 return carried

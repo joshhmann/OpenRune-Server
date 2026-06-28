@@ -79,10 +79,11 @@ object SlayerTaskManager {
 
         if (!countsAsTaskKill(npc, taskId)) return false
 
-        val decrement = when {
-            skipCountDecrement -> 0
-            else -> 1 + extraCountDecrement.coerceAtLeast(0)
-        }
+        val decrement =
+            when {
+                skipCountDecrement -> 0
+                else -> 1 + extraCountDecrement.coerceAtLeast(0)
+            }
 
         val newCount = (current - decrement).coerceAtLeast(0)
         VarPlayerIntMapSetter.set(player, "varp.slayer_count", newCount)
@@ -106,23 +107,25 @@ object SlayerTaskManager {
 
         val master = getCurrentAssignedMaster(player) ?: return clearAssignedTask(player)
 
-        val streak = if (isWildernessMaster(master)) {
-            val next = player.vars["varbit.slayer_wildy_streak"] + 1
-            VarPlayerIntMapSetter.set(player, "varbit.slayer_wildy_streak", next)
-            next
-        } else {
-            val next = player.vars["varbit.slayer_streak"] + 1
-            VarPlayerIntMapSetter.set(player, "varbit.slayer_streak", next)
-            next
-        }
+        val streak =
+            if (isWildernessMaster(master)) {
+                val next = player.vars["varbit.slayer_wildy_streak"] + 1
+                VarPlayerIntMapSetter.set(player, "varbit.slayer_wildy_streak", next)
+                next
+            } else {
+                val next = player.vars["varbit.slayer_streak"] + 1
+                VarPlayerIntMapSetter.set(player, "varbit.slayer_streak", next)
+                next
+            }
 
         val basePoints = master.pointsPerTask
         val multiplier = streakPointMultiplier(streak)
-        val pointsToAdd = if (totalTasksDone <= TOTAL_TASKS_NO_POINTS_THRESHOLD || basePoints <= 0) {
-            0
-        } else {
-            basePoints * multiplier
-        }
+        val pointsToAdd =
+            if (totalTasksDone <= TOTAL_TASKS_NO_POINTS_THRESHOLD || basePoints <= 0) {
+                0
+            } else {
+                basePoints * multiplier
+            }
 
         if (pointsToAdd > 0) {
             val currentPoints = player.vars["varbit.slayer_points"]
@@ -136,7 +139,7 @@ object SlayerTaskManager {
         player.mes(
             "You've completed $totalTasksDone task${if (totalTasksDone == 1) "" else "s"} and " +
                 "received $pointsToAdd points, giving you a total of " +
-                "${player.vars["varbit.slayer_points"]}; return to a Slayer master.",
+                "${player.vars["varbit.slayer_points"]}; return to a Slayer master."
         )
 
         clearAssignedTask(player)
@@ -184,7 +187,8 @@ object SlayerTaskManager {
         val map = mutableMapOf<Int, MutableSet<Int>>()
         for ((_, type) in ServerCacheManager.getNpcs()) {
             val taskId = type.paramOrNull(BaseParams.slayer_task_id) ?: continue
-            val superiorId = type.paramOrNull<NpcServerType>(BaseParams.slayer_superior)?.id ?: continue
+            val superiorId =
+                type.paramOrNull<NpcServerType>(BaseParams.slayer_superior)?.id ?: continue
             map.getOrPut(taskId) { mutableSetOf() }.add(superiorId)
         }
         return map
@@ -214,12 +218,18 @@ object SlayerTaskManager {
         val crushAtt = type.paramOrNull(BaseParams.attack_crush) ?: 0
         val attackBonus = floor((stabAtt + slashAtt + crushAtt) / 3.0).toInt()
 
-        val inner = floor((39.0 * averageLevel * (averageDefBonus + strengthBonus + attackBonus)) / SLAYER_XP_DIVISOR).toInt()
+        val inner =
+            floor(
+                    (39.0 * averageLevel * (averageDefBonus + strengthBonus + attackBonus)) /
+                        SLAYER_XP_DIVISOR
+                )
+                .toInt()
         val multiplier = 1.0 + (inner / 40.0)
         return type.hitpoints * multiplier
     }
 
-    fun isWildernessMaster(master: SlayerMastersRow): Boolean = master.npcIds.any { it.id == "npc.slayer_master_7".asRSCM() }
+    fun isWildernessMaster(master: SlayerMastersRow): Boolean =
+        master.npcIds.any { it.id == "npc.slayer_master_7".asRSCM() }
 
     fun isOnWildernessSlayerTask(player: Player): Boolean =
         getCurrentAssignedMaster(player)?.let(::isWildernessMaster) == true
@@ -265,22 +275,29 @@ object SlayerTaskManager {
 
         if (
             !skipBossTasks &&
-            SlayerBossTasks.hasLikeABoss(protected) &&
-            SlayerBossTasks.supportsBossAssignment(master)
+                SlayerBossTasks.hasLikeABoss(protected) &&
+                SlayerBossTasks.supportsBossAssignment(master)
         ) {
-            SlayerBossTasks.rollBossReplacement(protected, master)?.let { return AssignmentRoll.Boss(it) }
+            SlayerBossTasks.rollBossReplacement(protected, master)?.let {
+                return AssignmentRoll.Boss(it)
+            }
         }
 
-        val chosen = rollWeightedTask(
-            master = master,
-            masterTasks = tasks[master].orEmpty(),
-            blockedTaskIds = blockedTaskIds(protected, master),
-            protected = protected,
-            bypassCombatCheck = bypassCombatCheck,
-            includeBossTasks = !skipBossTasks,
-        ) ?: return null
+        val chosen =
+            rollWeightedTask(
+                master = master,
+                masterTasks = tasks[master].orEmpty(),
+                blockedTaskIds = blockedTaskIds(protected, master),
+                protected = protected,
+                bypassCombatCheck = bypassCombatCheck,
+                includeBossTasks = !skipBossTasks,
+            ) ?: return null
 
-        if (!skipBossTasks && SlayerBossTasks.isBossTask(chosen.task.id) && SlayerBossTasks.hasLikeABoss(protected)) {
+        if (
+            !skipBossTasks &&
+                SlayerBossTasks.isBossTask(chosen.task.id) &&
+                SlayerBossTasks.hasLikeABoss(protected)
+        ) {
             return AssignmentRoll.Boss(chosen)
         }
 
@@ -307,12 +324,14 @@ object SlayerTaskManager {
         skipCapePerk: Boolean = false,
     ): Boolean {
         val master = findMaster(masterNpcId) ?: return false
-        val roll = rollAssignment(
-            protected = protected,
-            master = master,
-            skipBossTasks = true,
-            bypassCombatCheck = !skipCapePerk && SlayerCapePerk.hasSlayerCape(protected),
-        ) as? AssignmentRoll.Regular ?: return false
+        val roll =
+            rollAssignment(
+                protected = protected,
+                master = master,
+                skipBossTasks = true,
+                bypassCombatCheck = !skipCapePerk && SlayerCapePerk.hasSlayerCape(protected),
+            )
+                as? AssignmentRoll.Regular ?: return false
 
         applyRegularAssignment(protected, master, roll.masterTask, roll.amount)
         return true
@@ -327,20 +346,23 @@ object SlayerTaskManager {
         val master = findMaster(masterNpcId) ?: return false
         if (!meetsMasterRequirements(protected, master)) return false
         if (!SlayerBossTasks.hasLikeABoss(protected)) return false
-        if (!SlayerBossTasks.isBossTask(taskId) || SlayerBossTasks.isExcludedBoss(
-                slayerTargets.find { it.id == taskId }
-                    ?: return false,
-            )) {
+        if (
+            !SlayerBossTasks.isBossTask(taskId) ||
+                SlayerBossTasks.isExcludedBoss(
+                    slayerTargets.find { it.id == taskId } ?: return false
+                )
+        ) {
             return false
         }
 
         val masterTask = tasks[master].orEmpty().find { it.task.id == taskId } ?: return false
         if (masterTask !in SlayerBossTasks.eligibleBossTasks(protected, master)) return false
 
-        val clamped = amount.coerceIn(
-            SlayerBossTasks.MIN_KILL_COUNT,
-            SlayerBossTasks.maxKillCount(masterTask.task),
-        )
+        val clamped =
+            amount.coerceIn(
+                SlayerBossTasks.MIN_KILL_COUNT,
+                SlayerBossTasks.maxKillCount(masterTask.task),
+            )
 
         applyAssignedTask(
             protected = protected,
@@ -382,34 +404,41 @@ object SlayerTaskManager {
             return AssignPreviousResult.BlockedPrevious
         }
 
-        val masterTask = tasks[master].orEmpty().find { it.task.id == lastTaskId } ?: return AssignPreviousResult.Failed
+        val masterTask =
+            tasks[master].orEmpty().find { it.task.id == lastTaskId }
+                ?: return AssignPreviousResult.Failed
 
-        val taskId = if (master.masterId == KONAR_MASTER_ID) {
-            lastTaskId
-        } else {
-            SlayerBossTasks.rollVariant(lastTaskId)
-        }
+        val taskId =
+            if (master.masterId == KONAR_MASTER_ID) {
+                lastTaskId
+            } else {
+                SlayerBossTasks.rollVariant(lastTaskId)
+            }
 
-        val reassignedTask = if (taskId == lastTaskId) {
-            masterTask
-        } else {
-            tasks[master].orEmpty().find { it.task.id == taskId } ?: masterTask
-        }
+        val reassignedTask =
+            if (taskId == lastTaskId) {
+                masterTask
+            } else {
+                tasks[master].orEmpty().find { it.task.id == taskId } ?: masterTask
+            }
 
-        val konarAreaId = if (master.masterId == KONAR_MASTER_ID) {
-            protected.vars[VARP_LAST_AREA].takeIf { it != 0 }
-        } else {
-            null
-        }
+        val konarAreaId =
+            if (master.masterId == KONAR_MASTER_ID) {
+                protected.vars[VARP_LAST_AREA].takeIf { it != 0 }
+            } else {
+                null
+            }
 
-        val amount = if (SlayerBossTasks.isBossTask(taskId)) {
-            rollTaskAmount(protected, reassignedTask).coerceIn(
-                SlayerBossTasks.MIN_KILL_COUNT,
-                SlayerBossTasks.maxKillCount(reassignedTask.task),
-            )
-        } else {
-            rollTaskAmount(protected, reassignedTask)
-        }
+        val amount =
+            if (SlayerBossTasks.isBossTask(taskId)) {
+                rollTaskAmount(protected, reassignedTask)
+                    .coerceIn(
+                        SlayerBossTasks.MIN_KILL_COUNT,
+                        SlayerBossTasks.maxKillCount(reassignedTask.task),
+                    )
+            } else {
+                rollTaskAmount(protected, reassignedTask)
+            }
 
         applyAssignedTask(
             protected = protected,
@@ -441,9 +470,14 @@ object SlayerTaskManager {
     }
 
     private fun findMaster(npcId: String): SlayerMastersRow? =
-        tasks.keys.firstOrNull { master -> master.npcIds.any { it.id == npcId.asRSCM(RSCMType.NPC) } }
+        tasks.keys.firstOrNull { master ->
+            master.npcIds.any { it.id == npcId.asRSCM(RSCMType.NPC) }
+        }
 
-    private fun meetsMasterRequirements(access: ProtectedAccess, master: SlayerMastersRow): Boolean {
+    private fun meetsMasterRequirements(
+        access: ProtectedAccess,
+        master: SlayerMastersRow,
+    ): Boolean {
         val slayerLevel = access.statBase("stat.slayer")
         val combatLevel = access.player.combatLevel
         return slayerLevel >= master.slayerLevel && combatLevel >= master.combatLevel
@@ -453,8 +487,10 @@ object SlayerTaskManager {
         val slayerLevel = access.statBase("stat.slayer")
         val combatLevel = access.player.combatLevel
         return when {
-            slayerLevel < master.slayerLevel -> "You need a Slayer level of at least ${master.slayerLevel} to get a task from me."
-            combatLevel < master.combatLevel -> "You need a combat level of at least ${master.combatLevel} to get a task from me."
+            slayerLevel < master.slayerLevel ->
+                "You need a Slayer level of at least ${master.slayerLevel} to get a task from me."
+            combatLevel < master.combatLevel ->
+                "You need a combat level of at least ${master.combatLevel} to get a task from me."
             else -> "I don't have any tasks you're able to take right now."
         }
     }
@@ -465,7 +501,7 @@ object SlayerTaskManager {
     fun blockedTaskIds(player: Player, master: SlayerMastersRow): Set<Int> {
         val blocked = mutableSetOf<Int>()
         for (slot in 0 until 7) {
-            val varbit = RSCM.getReverseMapping(RSCMType.VARBIT,master.blockVarbits[slot])
+            val varbit = RSCM.getReverseMapping(RSCMType.VARBIT, master.blockVarbits[slot])
             val taskId = player.vars[varbit]
             if (taskId != 0) {
                 blocked += taskId
@@ -484,17 +520,21 @@ object SlayerTaskManager {
     ): SlayerMasterTaskRow? {
         val combatLevel = protected.player.combatLevel
         val skipCombatCheck = isWildernessMaster(master) || bypassCombatCheck
-        val eligible = masterTasks.filter {
-            isEligibleTask(protected, it, blockedTaskIds, combatLevel, skipCombatCheck) &&
-                (includeBossTasks || !SlayerBossTasks.isBossTask(it.task.id))
-        }
+        val eligible =
+            masterTasks.filter {
+                isEligibleTask(protected, it, blockedTaskIds, combatLevel, skipCombatCheck) &&
+                    (includeBossTasks || !SlayerBossTasks.isBossTask(it.task.id))
+            }
         if (eligible.isEmpty()) return null
 
         val totalWeight = eligible.sumOf { it.weight }
         if (totalWeight <= 0) return null
 
         var roll = Random.nextInt(totalWeight) + 1
-        return eligible.first { roll -= it.weight; roll <= 0 }
+        return eligible.first {
+            roll -= it.weight
+            roll <= 0
+        }
     }
 
     private fun isEligibleTask(
@@ -511,14 +551,10 @@ object SlayerTaskManager {
         }
 
         val task = masterTask.task
-        task.blockUnlock?.let { block ->
-            if (hasUnlockedReward(access, block.bit)) return false
-        }
+        task.blockUnlock?.let { block -> if (hasUnlockedReward(access, block.bit)) return false }
 
         if (!skipCombatCheck && slayerCombatCheckEnabled(access)) {
-            task.minComlevel?.let { minCombat ->
-                if (combatLevel < minCombat) return false
-            }
+            task.minComlevel?.let { minCombat -> if (combatLevel < minCombat) return false }
         }
 
         val statReqs = task.minStatRequirementAny
@@ -530,7 +566,8 @@ object SlayerTaskManager {
     }
 
     private fun rollTaskAmount(access: ProtectedAccess, masterTask: SlayerMasterTaskRow): Int {
-        val (min, max) = resolveTaskAmounts(access, masterTask.task, masterTask.minAmount, masterTask.maxAmount)
+        val (min, max) =
+            resolveTaskAmounts(access, masterTask.task, masterTask.minAmount, masterTask.maxAmount)
         return Random.nextInt(max - min + 1) + min
     }
 
@@ -547,18 +584,19 @@ object SlayerTaskManager {
         VarPlayerIntMapSetter.set(player, "varp.slayer_count", amount)
         VarPlayerIntMapSetter.set(player, "varp.slayer_target", task.task.id)
 
-        val assignedKonarArea = if (master.masterId == KONAR_MASTER_ID) {
-            val areaId = KonarSlayerAreas.resolveTaskArea(player, task, konarAreaId)
-            if (areaId != null) {
-                VarPlayerIntMapSetter.set(player, "varp.slayer_area", areaId)
+        val assignedKonarArea =
+            if (master.masterId == KONAR_MASTER_ID) {
+                val areaId = KonarSlayerAreas.resolveTaskArea(player, task, konarAreaId)
+                if (areaId != null) {
+                    VarPlayerIntMapSetter.set(player, "varp.slayer_area", areaId)
+                } else {
+                    VarPlayerIntMapSetter.set(player, "varp.slayer_area", 0)
+                }
+                areaId ?: 0
             } else {
                 VarPlayerIntMapSetter.set(player, "varp.slayer_area", 0)
+                0
             }
-            areaId ?: 0
-        } else {
-            VarPlayerIntMapSetter.set(player, "varp.slayer_area", 0)
-            0
-        }
 
         recordLastAssignment(player, master.masterId, task.task.id, assignedKonarArea, amount)
 
@@ -567,7 +605,13 @@ object SlayerTaskManager {
         }
     }
 
-    private fun recordLastAssignment(player: Player, masterId: Int, taskId: Int, konarAreaId: Int, count: Int) {
+    private fun recordLastAssignment(
+        player: Player,
+        masterId: Int,
+        taskId: Int,
+        konarAreaId: Int,
+        count: Int,
+    ) {
         VarPlayerIntMapSetter.set(player, VARP_LAST_TARGET, taskId)
         VarPlayerIntMapSetter.set(player, VARP_LAST_MASTER, masterId)
         VarPlayerIntMapSetter.set(player, VARP_LAST_AREA, konarAreaId)
@@ -609,7 +653,8 @@ object SlayerTaskManager {
         apply(ext.t1, ext.t2)
     }
 
-    private fun rewardVarp(bit: Int): String = if (bit < 32) "varp.slayer_rewards_unlocks" else "varp.slayer_rewards_unlocks1"
+    private fun rewardVarp(bit: Int): String =
+        if (bit < 32) "varp.slayer_rewards_unlocks" else "varp.slayer_rewards_unlocks1"
 
     private fun rewardMask(bit: Int): Int = 1 shl (bit % 32)
 
@@ -619,7 +664,8 @@ object SlayerTaskManager {
         VarPlayerIntMapSetter.set(access.player, varp, access.vars[varp] or mask)
     }
 
-    fun hasUnlockedReward(access: ProtectedAccess, bit: Int): Boolean = hasUnlockedReward(access.player, bit)
+    fun hasUnlockedReward(access: ProtectedAccess, bit: Int): Boolean =
+        hasUnlockedReward(access.player, bit)
 
     private const val TURAEL_MASTER_ID = 1
     private const val KONAR_MASTER_ID = 8
@@ -634,7 +680,8 @@ object SlayerTaskManager {
     private const val VARP_LAST_AREA = "varp.slayer_last_area"
     private const val VARBIT_TOTAL_TASKS_DONE = "varbit.slayer_total_tasks_done"
 
-    const val BLOCKED_PREVIOUS_TASK_MESSAGE = "You could not be reassigned your previous Slayer task because you have blocked that task."
+    const val BLOCKED_PREVIOUS_TASK_MESSAGE =
+        "You could not be reassigned your previous Slayer task because you have blocked that task."
 
     data class CapePerkOffer(val taskName: String)
 

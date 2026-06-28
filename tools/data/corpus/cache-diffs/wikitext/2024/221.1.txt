@@ -1,0 +1,766 @@
+__TOC__
+==Objects==
+===New Objects===
+{| class="wikitable sortable"
+|-
+! colspan="3" | New Objects
+|-
+! style="width: 15em" | name !! id !! actions
+|-
+| [[Crypt staircase]] || [https://chisel.weirdgloop.org/moid/object_id.html#53045 53045][https://abextm.github.io/cache2/#/viewer/obj/53045 (1)] || [Climb-down, None, None, None, None]
+|-
+| [[Crypt staircase]] || [https://chisel.weirdgloop.org/moid/object_id.html#53046 53046][https://abextm.github.io/cache2/#/viewer/obj/53046 (1)] || [Climb-up, None, None, None, None]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#53047 53047][https://abextm.github.io/cache2/#/viewer/obj/53047 (1)] || [None, None, None, None, None]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#53048 53048][https://abextm.github.io/cache2/#/viewer/obj/53048 (1)] || [Investigate, None, None, None, None]
+|-
+| [[Unlit brazier]] || [https://chisel.weirdgloop.org/moid/object_id.html#53049 53049][https://abextm.github.io/cache2/#/viewer/obj/53049 (1)] || [Investigate, None, None, None, None]
+|-
+| [[Brazier]] || [https://chisel.weirdgloop.org/moid/object_id.html#53050 53050][https://abextm.github.io/cache2/#/viewer/obj/53050 (1)] || [None, None, None, None, None]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#53051 53051][https://abextm.github.io/cache2/#/viewer/obj/53051 (1)] || [None, None, None, None, None]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#53052 53052][https://abextm.github.io/cache2/#/viewer/obj/53052 (1)] || [None, None, None, None, None]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#53053 53053][https://abextm.github.io/cache2/#/viewer/obj/53053 (1)] || [None, None, None, None, None]
+|-
+| [[Trail of chocolate]] || [https://chisel.weirdgloop.org/moid/object_id.html#53054 53054][https://abextm.github.io/cache2/#/viewer/obj/53054 (1)] || [None, None, None, None, None]
+|-
+| [[Trail of chocolate]] || [https://chisel.weirdgloop.org/moid/object_id.html#53055 53055][https://abextm.github.io/cache2/#/viewer/obj/53055 (1)] || [None, None, None, None, None]
+|-
+| [[Pile of chocolate]] || [https://chisel.weirdgloop.org/moid/object_id.html#53056 53056][https://abextm.github.io/cache2/#/viewer/obj/53056 (1)] || [Investigate, None, None, None, None]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#53057 53057][https://abextm.github.io/cache2/#/viewer/obj/53057 (1)] || [None, None, None, None, None]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#53058 53058][https://abextm.github.io/cache2/#/viewer/obj/53058 (1)] || [None, None, None, None, None]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#53059 53059][https://abextm.github.io/cache2/#/viewer/obj/53059 (1)] || [None, None, None, None, None]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#53060 53060][https://abextm.github.io/cache2/#/viewer/obj/53060 (1)] || [None, None, None, None, None]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#53061 53061][https://abextm.github.io/cache2/#/viewer/obj/53061 (1)] || [None, None, None, None, None]
+|-
+| [[Easter egg rock]] || [https://chisel.weirdgloop.org/moid/object_id.html#53062 53062][https://abextm.github.io/cache2/#/viewer/obj/53062 (1)] || [Mine, None, None, None, None]
+|-
+| [[Easter egg rock]] || [https://chisel.weirdgloop.org/moid/object_id.html#53063 53063][https://abextm.github.io/cache2/#/viewer/obj/53063 (1)] || [Mine, None, None, None, None]
+|-
+| [[Easter egg rock]] || [https://chisel.weirdgloop.org/moid/object_id.html#53064 53064][https://abextm.github.io/cache2/#/viewer/obj/53064 (1)] || [Mine, None, None, None, None]
+|-
+| [[Easter egg rock]] || [https://chisel.weirdgloop.org/moid/object_id.html#53065 53065][https://abextm.github.io/cache2/#/viewer/obj/53065 (1)] || [Mine, None, None, None, None]
+|-
+| [[Easter egg rock]] || [https://chisel.weirdgloop.org/moid/object_id.html#53066 53066][https://abextm.github.io/cache2/#/viewer/obj/53066 (1)] || [Mine, None, None, None, None]
+|-
+| [[Easter egg rock]] || [https://chisel.weirdgloop.org/moid/object_id.html#53067 53067][https://abextm.github.io/cache2/#/viewer/obj/53067 (1)] || [Mine, None, None, None, None]
+|-
+| [[Easter mine cart]] || [https://chisel.weirdgloop.org/moid/object_id.html#53068 53068][https://abextm.github.io/cache2/#/viewer/obj/53068 (1)] || [Deposit-eggs, Check, None, None, None]
+|-
+| [[Easter mine cart]] || [https://chisel.weirdgloop.org/moid/object_id.html#53069 53069][https://abextm.github.io/cache2/#/viewer/obj/53069 (1)] || [Hidden, Check, None, None, None]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#53070 53070][https://abextm.github.io/cache2/#/viewer/obj/53070 (1)] || [None, None, None, None, None]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#53071 53071][https://abextm.github.io/cache2/#/viewer/obj/53071 (1)] || [None, None, None, None, None]
+|-
+| [[Perch]] || [https://chisel.weirdgloop.org/moid/object_id.html#53072 53072][https://abextm.github.io/cache2/#/viewer/obj/53072 (1)] || [None, None, None, None, None]
+|-
+| [[Pile of eggs]] || [https://chisel.weirdgloop.org/moid/object_id.html#53073 53073][https://abextm.github.io/cache2/#/viewer/obj/53073 (1)] || [None, None, None, None, None]
+|-
+| [[Pile of eggs]] || [https://chisel.weirdgloop.org/moid/object_id.html#53074 53074][https://abextm.github.io/cache2/#/viewer/obj/53074 (1)] || [None, None, None, None, None]
+|-
+| [[Pile of eggs]] || [https://chisel.weirdgloop.org/moid/object_id.html#53075 53075][https://abextm.github.io/cache2/#/viewer/obj/53075 (1)] || [None, None, None, None, None]
+|-
+| [[Pile of eggs]] || [https://chisel.weirdgloop.org/moid/object_id.html#53076 53076][https://abextm.github.io/cache2/#/viewer/obj/53076 (1)] || [None, None, None, None, None]
+|-
+| [[Crate]] || [https://chisel.weirdgloop.org/moid/object_id.html#53077 53077][https://abextm.github.io/cache2/#/viewer/obj/53077 (1)] || [None, None, None, None, None]
+|-
+| [[Crate]] || [https://chisel.weirdgloop.org/moid/object_id.html#53078 53078][https://abextm.github.io/cache2/#/viewer/obj/53078 (1)] || [None, None, None, None, None]
+|-
+| [[Crate]] || [https://chisel.weirdgloop.org/moid/object_id.html#53079 53079][https://abextm.github.io/cache2/#/viewer/obj/53079 (1)] || [None, None, None, None, None]
+|-
+| [[Crate]] || [https://chisel.weirdgloop.org/moid/object_id.html#53080 53080][https://abextm.github.io/cache2/#/viewer/obj/53080 (1)] || [None, None, None, None, None]
+|-
+| [[Crate]] || [https://chisel.weirdgloop.org/moid/object_id.html#53081 53081][https://abextm.github.io/cache2/#/viewer/obj/53081 (1)] || [None, None, None, None, None]
+|-
+| [[Crate]] || [https://chisel.weirdgloop.org/moid/object_id.html#53082 53082][https://abextm.github.io/cache2/#/viewer/obj/53082 (1)] || [None, None, None, None, None]
+|-
+| [[Giant egg]] || [https://chisel.weirdgloop.org/moid/object_id.html#53083 53083][https://abextm.github.io/cache2/#/viewer/obj/53083 (1)] || [None, None, None, None, None]
+|-
+| [[Giant egg]] || [https://chisel.weirdgloop.org/moid/object_id.html#53084 53084][https://abextm.github.io/cache2/#/viewer/obj/53084 (1)] || [None, None, None, None, None]
+|-
+| [[Stolen Eggs]] || [https://chisel.weirdgloop.org/moid/object_id.html#53085 53085][https://abextm.github.io/cache2/#/viewer/obj/53085 (1)] || [None, None, None, None, None]
+|-
+| [[Stolen Eggs]] || [https://chisel.weirdgloop.org/moid/object_id.html#53086 53086][https://abextm.github.io/cache2/#/viewer/obj/53086 (1)] || [None, None, None, None, None]
+|-
+| [[Stolen Eggs]] || [https://chisel.weirdgloop.org/moid/object_id.html#53087 53087][https://abextm.github.io/cache2/#/viewer/obj/53087 (1)] || [None, None, None, None, None]
+|-
+| [[Pile of fake eggs]] || [https://chisel.weirdgloop.org/moid/object_id.html#53088 53088][https://abextm.github.io/cache2/#/viewer/obj/53088 (1)] || [None, None, None, None, None]
+|-
+| [[Pile of fake eggs]] || [https://chisel.weirdgloop.org/moid/object_id.html#53089 53089][https://abextm.github.io/cache2/#/viewer/obj/53089 (1)] || [None, None, None, None, None]
+|-
+| [[Pile of fake eggs]] || [https://chisel.weirdgloop.org/moid/object_id.html#53090 53090][https://abextm.github.io/cache2/#/viewer/obj/53090 (1)] || [None, None, None, None, None]
+|-
+| [[Pile of fake eggs]] || [https://chisel.weirdgloop.org/moid/object_id.html#53091 53091][https://abextm.github.io/cache2/#/viewer/obj/53091 (1)] || [None, None, None, None, None]
+|-
+| [[Giant display egg]] || [https://chisel.weirdgloop.org/moid/object_id.html#53092 53092][https://abextm.github.io/cache2/#/viewer/obj/53092 (1)] || [None, None, None, None, None]
+|-
+| [[Giant display egg]] || [https://chisel.weirdgloop.org/moid/object_id.html#53093 53093][https://abextm.github.io/cache2/#/viewer/obj/53093 (1)] || [None, None, None, None, None]
+|-
+| [[Display Eggs]] || [https://chisel.weirdgloop.org/moid/object_id.html#53094 53094][https://abextm.github.io/cache2/#/viewer/obj/53094 (1)] || [None, None, None, None, None]
+|-
+| [[Display Eggs]] || [https://chisel.weirdgloop.org/moid/object_id.html#53095 53095][https://abextm.github.io/cache2/#/viewer/obj/53095 (1)] || [None, None, None, None, None]
+|-
+| [[Display Eggs]] || [https://chisel.weirdgloop.org/moid/object_id.html#53096 53096][https://abextm.github.io/cache2/#/viewer/obj/53096 (1)] || [None, None, None, None, None]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#53097 53097][https://abextm.github.io/cache2/#/viewer/obj/53097 (1)] || [None, None, None, None, None]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#53098 53098][https://abextm.github.io/cache2/#/viewer/obj/53098 (1)] || [None, None, None, None, None]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#53099 53099][https://abextm.github.io/cache2/#/viewer/obj/53099 (1)] || [None, None, None, None, None]
+|-
+| [[Door]] || [https://chisel.weirdgloop.org/moid/object_id.html#53100 53100][https://abextm.github.io/cache2/#/viewer/obj/53100 (1)] || [Open, None, None, None, None]
+|-
+| [[Door]] || [https://chisel.weirdgloop.org/moid/object_id.html#53101 53101][https://abextm.github.io/cache2/#/viewer/obj/53101 (1)] || [Open, None, None, None, None]
+|-
+| [[Door]] || [https://chisel.weirdgloop.org/moid/object_id.html#53102 53102][https://abextm.github.io/cache2/#/viewer/obj/53102 (1)] || [Close, None, None, None, None]
+|-
+| [[Door]] || [https://chisel.weirdgloop.org/moid/object_id.html#53103 53103][https://abextm.github.io/cache2/#/viewer/obj/53103 (1)] || [Close, None, None, None, None]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#53104 53104][https://abextm.github.io/cache2/#/viewer/obj/53104 (1)] || [None, None, None, None, None]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#53105 53105][https://abextm.github.io/cache2/#/viewer/obj/53105 (1)] || [None, None, None, None, None]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#53106 53106][https://abextm.github.io/cache2/#/viewer/obj/53106 (1)] || [None, None, None, None, None]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#53107 53107][https://abextm.github.io/cache2/#/viewer/obj/53107 (1)] || [None, None, None, None, None]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#53108 53108][https://abextm.github.io/cache2/#/viewer/obj/53108 (1)] || [None, None, None, None, None]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#53109 53109][https://abextm.github.io/cache2/#/viewer/obj/53109 (1)] || [None, None, None, None, None]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#53110 53110][https://abextm.github.io/cache2/#/viewer/obj/53110 (1)] || [None, None, None, None, None]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#53111 53111][https://abextm.github.io/cache2/#/viewer/obj/53111 (1)] || [None, None, None, None, None]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#53112 53112][https://abextm.github.io/cache2/#/viewer/obj/53112 (1)] || [None, None, None, None, None]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#53113 53113][https://abextm.github.io/cache2/#/viewer/obj/53113 (1)] || [None, None, None, None, None]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#53114 53114][https://abextm.github.io/cache2/#/viewer/obj/53114 (1)] || [None, None, None, None, None]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#53115 53115][https://abextm.github.io/cache2/#/viewer/obj/53115 (1)] || [None, None, None, None, None]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#53116 53116][https://abextm.github.io/cache2/#/viewer/obj/53116 (1)] || [None, None, None, None, None]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#53117 53117][https://abextm.github.io/cache2/#/viewer/obj/53117 (1)] || [None, None, None, None, None]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#53118 53118][https://abextm.github.io/cache2/#/viewer/obj/53118 (1)] || [None, None, None, None, None]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#53119 53119][https://abextm.github.io/cache2/#/viewer/obj/53119 (1)] || [None, None, None, None, None]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#53120 53120][https://abextm.github.io/cache2/#/viewer/obj/53120 (1)] || [None, None, None, None, None]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#53121 53121][https://abextm.github.io/cache2/#/viewer/obj/53121 (1)] || [None, None, None, None, None]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#53122 53122][https://abextm.github.io/cache2/#/viewer/obj/53122 (1)] || [None, None, None, None, None]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#53123 53123][https://abextm.github.io/cache2/#/viewer/obj/53123 (1)] || [None, None, None, None, None]
+|-
+| [[Altar]] || [https://chisel.weirdgloop.org/moid/object_id.html#53124 53124][https://abextm.github.io/cache2/#/viewer/obj/53124 (1)] || [None, None, None, None, None]
+|-
+| [[Pillar]] || [https://chisel.weirdgloop.org/moid/object_id.html#53125 53125][https://abextm.github.io/cache2/#/viewer/obj/53125 (1)] || [None, None, None, None, None]
+|-
+| [[Pillar]] || [https://chisel.weirdgloop.org/moid/object_id.html#53126 53126][https://abextm.github.io/cache2/#/viewer/obj/53126 (1)] || [None, None, None, None, None]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#53127 53127][https://abextm.github.io/cache2/#/viewer/obj/53127 (1)] || [None, None, None, None, None]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#53128 53128][https://abextm.github.io/cache2/#/viewer/obj/53128 (1)] || [None, None, None, None, None]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#53129 53129][https://abextm.github.io/cache2/#/viewer/obj/53129 (1)] || [None, None, None, None, None]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#53130 53130][https://abextm.github.io/cache2/#/viewer/obj/53130 (1)] || [None, None, None, None, None]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#53131 53131][https://abextm.github.io/cache2/#/viewer/obj/53131 (1)] || [None, None, None, None, None]
+|-
+| [[Candles]] || [https://chisel.weirdgloop.org/moid/object_id.html#53132 53132][https://abextm.github.io/cache2/#/viewer/obj/53132 (1)] || [None, None, None, None, None]
+|-
+| [[Candles]] || [https://chisel.weirdgloop.org/moid/object_id.html#53133 53133][https://abextm.github.io/cache2/#/viewer/obj/53133 (1)] || [None, None, None, None, None]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#53134 53134][https://abextm.github.io/cache2/#/viewer/obj/53134 (1)] || [None, None, None, None, None]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#53135 53135][https://abextm.github.io/cache2/#/viewer/obj/53135 (1)] || [None, None, None, None, None]
+|-
+| [[Easter tree]] || [https://chisel.weirdgloop.org/moid/object_id.html#53136 53136][https://abextm.github.io/cache2/#/viewer/obj/53136 (1)] || [None, None, None, None, None]
+|-
+| [[Bush]] || [https://chisel.weirdgloop.org/moid/object_id.html#53137 53137][https://abextm.github.io/cache2/#/viewer/obj/53137 (1)] || [None, None, None, None, None]
+|-
+| [[Fallen Tree]] || [https://chisel.weirdgloop.org/moid/object_id.html#53138 53138][https://abextm.github.io/cache2/#/viewer/obj/53138 (1)] || [None, None, None, None, None]
+|-
+| [[Fallen Tree]] || [https://chisel.weirdgloop.org/moid/object_id.html#53139 53139][https://abextm.github.io/cache2/#/viewer/obj/53139 (1)] || [None, None, None, None, None]
+|-
+| [[Huge Mushroom]] || [https://chisel.weirdgloop.org/moid/object_id.html#53140 53140][https://abextm.github.io/cache2/#/viewer/obj/53140 (1)] || [None, None, None, None, None]
+|-
+| [[Huge Mushroom]] || [https://chisel.weirdgloop.org/moid/object_id.html#53141 53141][https://abextm.github.io/cache2/#/viewer/obj/53141 (1)] || [None, None, None, None, None]
+|-
+| [[Huge Mushroom]] || [https://chisel.weirdgloop.org/moid/object_id.html#53142 53142][https://abextm.github.io/cache2/#/viewer/obj/53142 (1)] || [None, None, None, None, None]
+|-
+| [[Fungus]] || [https://chisel.weirdgloop.org/moid/object_id.html#53143 53143][https://abextm.github.io/cache2/#/viewer/obj/53143 (1)] || [None, None, None, None, None]
+|-
+| [[Fungi]] || [https://chisel.weirdgloop.org/moid/object_id.html#53144 53144][https://abextm.github.io/cache2/#/viewer/obj/53144 (1)] || [None, None, None, None, None]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#53145 53145][https://abextm.github.io/cache2/#/viewer/obj/53145 (1)] || [None, None, None, None, None]
+|-
+| [[Fungus]] || [https://chisel.weirdgloop.org/moid/object_id.html#53146 53146][https://abextm.github.io/cache2/#/viewer/obj/53146 (1)] || [None, None, None, None, None]
+|-
+| [[Fungi]] || [https://chisel.weirdgloop.org/moid/object_id.html#53147 53147][https://abextm.github.io/cache2/#/viewer/obj/53147 (1)] || [None, None, None, None, None]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#53148 53148][https://abextm.github.io/cache2/#/viewer/obj/53148 (1)] || [None, None, None, None, None]
+|-
+| [[Toadstool]] || [https://chisel.weirdgloop.org/moid/object_id.html#53149 53149][https://abextm.github.io/cache2/#/viewer/obj/53149 (1)] || [None, None, None, None, None]
+|-
+| [[Toadstools]] || [https://chisel.weirdgloop.org/moid/object_id.html#53150 53150][https://abextm.github.io/cache2/#/viewer/obj/53150 (1)] || [None, None, None, None, None]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#53151 53151][https://abextm.github.io/cache2/#/viewer/obj/53151 (1)] || [None, None, None, None, None]
+|-
+| [[Flowers]] || [https://chisel.weirdgloop.org/moid/object_id.html#53152 53152][https://abextm.github.io/cache2/#/viewer/obj/53152 (1)] || [None, None, None, None, None]
+|-
+| [[Daisies]] || [https://chisel.weirdgloop.org/moid/object_id.html#53153 53153][https://abextm.github.io/cache2/#/viewer/obj/53153 (1)] || [None, None, None, None, None]
+|-
+| [[Flower]] || [https://chisel.weirdgloop.org/moid/object_id.html#53154 53154][https://abextm.github.io/cache2/#/viewer/obj/53154 (1)] || [None, None, None, None, None]
+|-
+| [[Plant]] || [https://chisel.weirdgloop.org/moid/object_id.html#53155 53155][https://abextm.github.io/cache2/#/viewer/obj/53155 (1)] || [None, None, None, None, None]
+|-
+| [[Plant]] || [https://chisel.weirdgloop.org/moid/object_id.html#53156 53156][https://abextm.github.io/cache2/#/viewer/obj/53156 (1)] || [None, None, None, None, None]
+|-
+| [[Plant]] || [https://chisel.weirdgloop.org/moid/object_id.html#53157 53157][https://abextm.github.io/cache2/#/viewer/obj/53157 (1)] || [None, None, None, None, None]
+|-
+| [[Fern]] || [https://chisel.weirdgloop.org/moid/object_id.html#53158 53158][https://abextm.github.io/cache2/#/viewer/obj/53158 (1)] || [None, None, None, None, None]
+|-
+| [[Fern]] || [https://chisel.weirdgloop.org/moid/object_id.html#53159 53159][https://abextm.github.io/cache2/#/viewer/obj/53159 (1)] || [None, None, None, None, None]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#53160 53160][https://abextm.github.io/cache2/#/viewer/obj/53160 (1)] || [None, None, None, None, None]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#53161 53161][https://abextm.github.io/cache2/#/viewer/obj/53161 (1)] || [None, None, None, None, None]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#53162 53162][https://abextm.github.io/cache2/#/viewer/obj/53162 (1)] || [None, None, None, None, None]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#53163 53163][https://abextm.github.io/cache2/#/viewer/obj/53163 (1)] || [None, None, None, None, None]
+|-
+| [[Egg Plinth]] || [https://chisel.weirdgloop.org/moid/object_id.html#53164 53164][https://abextm.github.io/cache2/#/viewer/obj/53164 (1)] || [None, None, None, None, None]
+|-
+| [[Egg Plinth]] || [https://chisel.weirdgloop.org/moid/object_id.html#53165 53165][https://abextm.github.io/cache2/#/viewer/obj/53165 (1)] || [None, None, None, None, None]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#53166 53166][https://abextm.github.io/cache2/#/viewer/obj/53166 (1)] || [None, None, None, None, None]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#53167 53167][https://abextm.github.io/cache2/#/viewer/obj/53167 (1)] || [None, None, None, None, None]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#53168 53168][https://abextm.github.io/cache2/#/viewer/obj/53168 (1)] || [None, None, None, None, None]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#53169 53169][https://abextm.github.io/cache2/#/viewer/obj/53169 (1)] || [None, None, None, None, None]
+|-
+| [[Buffers]] || [https://chisel.weirdgloop.org/moid/object_id.html#53170 53170][https://abextm.github.io/cache2/#/viewer/obj/53170 (1)] || [None, None, None, None, None]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#53171 53171][https://abextm.github.io/cache2/#/viewer/obj/53171 (1)] || [None, None, None, None, None]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#53172 53172][https://abextm.github.io/cache2/#/viewer/obj/53172 (1)] || [None, None, None, None, None]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#53173 53173][https://abextm.github.io/cache2/#/viewer/obj/53173 (1)] || [None, None, None, None, None]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#53174 53174][https://abextm.github.io/cache2/#/viewer/obj/53174 (1)] || [None, None, None, None, None]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#53175 53175][https://abextm.github.io/cache2/#/viewer/obj/53175 (1)] || [None, None, None, None, None]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#53176 53176][https://abextm.github.io/cache2/#/viewer/obj/53176 (1)] || [None, None, None, None, None]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#53177 53177][https://abextm.github.io/cache2/#/viewer/obj/53177 (1)] || [None, None, None, None, None]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#53178 53178][https://abextm.github.io/cache2/#/viewer/obj/53178 (1)] || [None, None, None, None, None]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#53179 53179][https://abextm.github.io/cache2/#/viewer/obj/53179 (1)] || [None, None, None, None, None]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#53180 53180][https://abextm.github.io/cache2/#/viewer/obj/53180 (1)] || [None, None, None, None, None]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#53181 53181][https://abextm.github.io/cache2/#/viewer/obj/53181 (1)] || [None, None, None, None, None]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#53182 53182][https://abextm.github.io/cache2/#/viewer/obj/53182 (1)] || [None, None, None, None, None]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#53183 53183][https://abextm.github.io/cache2/#/viewer/obj/53183 (1)] || [None, None, None, None, None]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#53184 53184][https://abextm.github.io/cache2/#/viewer/obj/53184 (1)] || [None, None, None, None, None]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#53185 53185][https://abextm.github.io/cache2/#/viewer/obj/53185 (1)] || [None, None, None, None, None]
+|-
+| [[Column]] || [https://chisel.weirdgloop.org/moid/object_id.html#53186 53186][https://abextm.github.io/cache2/#/viewer/obj/53186 (1)] || [None, None, None, None, None]
+|-
+| [[Door]] || [https://chisel.weirdgloop.org/moid/object_id.html#53187 53187][https://abextm.github.io/cache2/#/viewer/obj/53187 (1)] || [None, None, None, None, None]
+|-
+| [[Tree]] || [https://chisel.weirdgloop.org/moid/object_id.html#53188 53188][https://abextm.github.io/cache2/#/viewer/obj/53188 (1)] || [Chop down, None, None, None, None]
+|-
+| [[Tree stump]] || [https://chisel.weirdgloop.org/moid/object_id.html#53189 53189][https://abextm.github.io/cache2/#/viewer/obj/53189 (1)] || [None, None, None, None, None]
+|-
+| [[Skeleton]] || [https://chisel.weirdgloop.org/moid/object_id.html#53190 53190][https://abextm.github.io/cache2/#/viewer/obj/53190 (1)] || [None, None, None, None, None]
+|-
+| [[Skeleton]] || [https://chisel.weirdgloop.org/moid/object_id.html#53191 53191][https://abextm.github.io/cache2/#/viewer/obj/53191 (1)] || [None, None, None, None, None]
+|-
+| [[Skeleton]] || [https://chisel.weirdgloop.org/moid/object_id.html#53192 53192][https://abextm.github.io/cache2/#/viewer/obj/53192 (1)] || [None, None, None, None, None]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#53193 53193][https://abextm.github.io/cache2/#/viewer/obj/53193 (1)] || [None, None, None, None, None]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#53194 53194][https://abextm.github.io/cache2/#/viewer/obj/53194 (1)] || [None, None, None, None, None]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#53195 53195][https://abextm.github.io/cache2/#/viewer/obj/53195 (1)] || [None, None, None, None, None]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#53196 53196][https://abextm.github.io/cache2/#/viewer/obj/53196 (1)] || [None, None, None, None, None]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#53197 53197][https://abextm.github.io/cache2/#/viewer/obj/53197 (1)] || [None, None, None, None, None]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#53198 53198][https://abextm.github.io/cache2/#/viewer/obj/53198 (1)] || [None, None, None, None, None]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#53199 53199][https://abextm.github.io/cache2/#/viewer/obj/53199 (1)] || [None, None, None, None, None]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#53200 53200][https://abextm.github.io/cache2/#/viewer/obj/53200 (1)] || [None, None, None, None, None]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#53201 53201][https://abextm.github.io/cache2/#/viewer/obj/53201 (1)] || [None, None, None, None, None]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#53202 53202][https://abextm.github.io/cache2/#/viewer/obj/53202 (1)] || [None, None, None, None, None]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#53203 53203][https://abextm.github.io/cache2/#/viewer/obj/53203 (1)] || [None, None, None, None, None]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#53204 53204][https://abextm.github.io/cache2/#/viewer/obj/53204 (1)] || [None, None, None, None, None]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#53205 53205][https://abextm.github.io/cache2/#/viewer/obj/53205 (1)] || [None, None, None, None, None]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#53206 53206][https://abextm.github.io/cache2/#/viewer/obj/53206 (1)] || [None, None, None, None, None]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#53207 53207][https://abextm.github.io/cache2/#/viewer/obj/53207 (1)] || [None, None, None, None, None]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#53208 53208][https://abextm.github.io/cache2/#/viewer/obj/53208 (1)] || [None, None, None, None, None]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#53209 53209][https://abextm.github.io/cache2/#/viewer/obj/53209 (1)] || [None, None, None, None, None]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#53210 53210][https://abextm.github.io/cache2/#/viewer/obj/53210 (1)] || [None, None, None, None, None]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#53211 53211][https://abextm.github.io/cache2/#/viewer/obj/53211 (1)] || [None, None, None, None, None]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#53212 53212][https://abextm.github.io/cache2/#/viewer/obj/53212 (1)] || [None, None, None, None, None]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#53213 53213][https://abextm.github.io/cache2/#/viewer/obj/53213 (1)] || [None, None, None, None, None]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#53214 53214][https://abextm.github.io/cache2/#/viewer/obj/53214 (1)] || [None, None, None, None, None]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#53215 53215][https://abextm.github.io/cache2/#/viewer/obj/53215 (1)] || [None, None, None, None, None]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#53216 53216][https://abextm.github.io/cache2/#/viewer/obj/53216 (1)] || [None, None, None, None, None]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#53217 53217][https://abextm.github.io/cache2/#/viewer/obj/53217 (1)] || [None, None, None, None, None]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#53218 53218][https://abextm.github.io/cache2/#/viewer/obj/53218 (1)] || [None, None, None, None, None]
+|}
+===Removed Objects===
+{| class="wikitable sortable"
+|-
+! colspan="3" | Removed Objects
+|-
+! style="width: 15em" | name !! id !! actions
+|}
+===Diff Objects===
+{| class="wikitable sortable sticky-header"
+|-
+! colspan="5" | Diff Objects
+|-
+! style="width: 15em" | Name !! Id !! Key !! Previous Value !! New Value
+|-
+| rowspan="2" | [[null]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#10823 10823][https://abextm.github.io/cache2/#/viewer/obj/10823 (1)]
+|-
+| multiChildren || [-1, 9714] || [10822, 9714]
+|-
+| rowspan="3" | [[null]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/object_id.html#44294 44294][https://abextm.github.io/cache2/#/viewer/obj/44294 (1)]
+|-
+| name || Broken table || null
+|-
+| isDoor || 1 || 
+|}
+==Enums==
+===New Enums===
+{| class="wikitable sortable"
+|-
+! colspan="3" | New Enums
+|-
+! style="width: 15em" | id !! defaultValue !! map
+|-
+| [https://chisel.weirdgloop.org/structs/index.html?type=enums&id=5418 5418][https://abextm.github.io/cache2/#/viewer/enum/5418 (1)] || -1 || {'0': 29433, '1': 29443, '2': 29439, '3': 29437, '4': 29441}
+|}
+===Removed Enums===
+{| class="wikitable sortable"
+|-
+! colspan="3" | Removed Enums
+|-
+! style="width: 15em" | id !! defaultValue !! map
+|}
+===Diff Enums===
+{| class="wikitable sortable sticky-header"
+|-
+! colspan="5" | Diff Enums
+|-
+! style="width: 15em" | Id !! Key !! Previous Value !! New Value
+|-
+| rowspan="2" | [https://chisel.weirdgloop.org/structs/index.html?type=enums&id=708 708][https://abextm.github.io/cache2/#/viewer/enum/708 (1)]
+|-
+| map || {'0': 795, '1': 1037, '2': 1419, '3': 4079, '4': 4566, '5': 11862, '6': 6722, '7': 7927, '8': 9920, '9': 9921, '10': 9922, '11': 9923, '12': 9924, '13': 9925, '14': 10507, '15': 10508, '16': 11019, '17': 11022, '18': 11020, '19': 11021, '20': 6856, '21': 6858, '22': 6860, '23': 6862, '24': 6857, '25': 6859, '26': 6861, '27': 6863, '28': 6867, '29': 6865, '30': 6866, '31': 11847, '32': 11863, '33': 11919, '34': 4565, '35': 12600, '36': 12845, '37': 12887, '38': 12888, '39': 12889, '40': 12890, '41': 12891, '42': 12892, '43': 12893, '44': 12894, '45': 12895, '46': 12896, '47': 11996, '48': 12956, '49': 12957, '50': 12958, '51': 12959, '52': 13182, '53': 13203, '54': 13215, '55': 13216, '56': 13217, '57': 13218, '58': 13288, '59': 13283, '60': 13284, '61': 13285, '62': 13286, '63': 13287, '64': 13343, '65': 13344, '66': 13655, '67': 13663, '68': 13664, '69': 13665, '70': 13679, '71': 13681, '72': 19699, '73': 20773, '74': 20775, '75': 20777, '76': 20779, '77': 20832, '78': 20834, '79': 20836, '80': 21211, '81': 21209, '82': 21214, '83': 21314, '84': 21354, '85': 21695, '86': 21720, '87': 21847, '88': 21849, '89': 21851, '90': 21853, '91': 21855, '92': 21857, '93': 21859, '94': 22316, '95': 22351, '96': 22353, '97': 22364, '98': 22689, '99': 22695, '100': 22692, '101': 22698, '102': 22701, '103': 22684, '104': 22713, '105': 22715, '106': 22717, '107': 22719, '108': 23108, '109': 23446, '110': 23448, '111': 24305, '112': 24307, '113': 24309, '114': 24311, '115': 24313, '116': 24325, '117': 24327, '118': 24315, '119': 24317, '120': 24319, '121': 24321, '122': 24323, '123': 24428, '124': 24525, '125': 24535, '126': 24537, '127': 24539, '128': 24975, '129': 24977, '130': 25314, '131': 25316, '132': 25332, '133': 25322, '134': 25324, '135': 25326, '136': 25328, '137': 25330, '138': 25334, '139': 25338, '140': 25336, '141': 25500, '142': 25502, '143': 25604, '144': 25606, '145': 25840, '146': 26254, '147': 26256, '148': 26260, '149': 26310, '150': 26312, '151': 26314, '152': 26316, '153': 26649, '154': 26937, '155': 26939, '156': 27035, '157': 27463, '158': 27473, '159': 27475, '160': 27477, '161': 27479, '162': 27481, '163': 27497, '164': 27564, '165': 27566, '166': 27568, '167': 27570, '168': 27576, '169': 27572, '170': 27574, '171': 27578, '172': 27580, '173': 27588, '174': 27645, '175': 27812, '176': 27802, '177': 27804, '178': 27806, '179': 27818, '180': 27822, '181': 27810, '182': 27828, '183': 27820, '184': 27871, '185': 27873, '186': 27875, '187': 28116, '188': 28126, '189': 28128, '190': 28601, '191': 28603, '192': 28788, '193': 28786, '-10': 1960, '-11': 1058, '-12': 1054, '-13': 1056, '-14': 1039, '-15': 1041, '-16': 1043, '-17': 1045, '-18': 1047, '-19': 1049, '-20': 1962, '-21': 1051, '-22': 982, '-23': 1990, '-24': 963, '-25': 1892} || {'0': 795, '1': 1037, '2': 1419, '3': 4079, '4': 4566, '5': 11862, '6': 6722, '7': 7927, '8': 9920, '9': 9921, '10': 9922, '11': 9923, '12': 9924, '13': 9925, '14': 10507, '15': 10508, '16': 11019, '17': 11022, '18': 11020, '19': 11021, '20': 6856, '21': 6858, '22': 6860, '23': 6862, '24': 6857, '25': 6859, '26': 6861, '27': 6863, '28': 6867, '29': 6865, '30': 6866, '31': 11847, '32': 11863, '33': 11919, '34': 4565, '35': 12600, '36': 12845, '37': 12887, '38': 12888, '39': 12889, '40': 12890, '41': 12891, '42': 12892, '43': 12893, '44': 12894, '45': 12895, '46': 12896, '47': 11996, '48': 12956, '49': 12957, '50': 12958, '51': 12959, '52': 13182, '53': 13203, '54': 13215, '55': 13216, '56': 13217, '57': 13218, '58': 13288, '59': 13283, '60': 13284, '61': 13285, '62': 13286, '63': 13287, '64': 13343, '65': 13344, '66': 13655, '67': 13663, '68': 13664, '69': 13665, '70': 13679, '71': 13681, '72': 19699, '73': 20773, '74': 20775, '75': 20777, '76': 20779, '77': 20832, '78': 20834, '79': 20836, '80': 21211, '81': 21209, '82': 21214, '83': 21314, '84': 21354, '85': 21695, '86': 21720, '87': 21847, '88': 21849, '89': 21851, '90': 21853, '91': 21855, '92': 21857, '93': 21859, '94': 22316, '95': 22351, '96': 22353, '97': 22364, '98': 22689, '99': 22695, '100': 22692, '101': 22698, '102': 22701, '103': 22684, '104': 22713, '105': 22715, '106': 22717, '107': 22719, '108': 23108, '109': 23446, '110': 23448, '111': 24305, '112': 24307, '113': 24309, '114': 24311, '115': 24313, '116': 24325, '117': 24327, '118': 24315, '119': 24317, '120': 24319, '121': 24321, '122': 24323, '123': 24428, '124': 24525, '125': 24535, '126': 24537, '127': 24539, '128': 24975, '129': 24977, '130': 25314, '131': 25316, '132': 25332, '133': 25322, '134': 25324, '135': 25326, '136': 25328, '137': 25330, '138': 25334, '139': 25338, '140': 25336, '141': 25500, '142': 25502, '143': 25604, '144': 25606, '145': 25840, '146': 26254, '147': 26256, '148': 26260, '149': 26310, '150': 26312, '151': 26314, '152': 26316, '153': 26649, '154': 26937, '155': 26939, '156': 27035, '157': 27463, '158': 27473, '159': 27475, '160': 27477, '161': 27479, '162': 27481, '163': 27497, '164': 27564, '165': 27566, '166': 27568, '167': 27570, '168': 27576, '169': 27572, '170': 27574, '171': 27578, '172': 27580, '173': 27588, '174': 27645, '175': 27812, '176': 27802, '177': 27804, '178': 27806, '179': 27818, '180': 27822, '181': 27810, '182': 27828, '183': 27820, '184': 27871, '185': 27873, '186': 27875, '187': 28116, '188': 28126, '189': 28128, '190': 28601, '191': 28603, '192': 28788, '193': 28786, '194': 29433, '195': 29439, '196': 29437, '197': 29443, '198': 29441, '-10': 1960, '-11': 1058, '-12': 1054, '-13': 1056, '-14': 1039, '-15': 1041, '-16': 1043, '-17': 1045, '-18': 1047, '-19': 1049, '-20': 1962, '-21': 1051, '-22': 982, '-23': 1990, '-24': 963, '-25': 1892}
+|-
+| rowspan="2" | [https://chisel.weirdgloop.org/structs/index.html?type=enums&id=1697 1697][https://abextm.github.io/cache2/#/viewer/enum/1697 (1)]
+|-
+| map || {'0': 0, '1': 1, '2': 2, '3': 3, '4': 4, '5': 5, '6': 6, '7': 7, '8': 9, '9': 10, '10': 38, '11': 36, '12': 11, '13': 12, '14': 13, '15': 14, '16': 15, '17': 16, '18': 39, '19': 17, '20': 18, '21': 20, '22': 21, '23': 22, '24': 23, '25': 24, '26': 25, '27': 26, '28': 27, '29': 28, '30': 19, '31': 32, '32': 30, '33': 31, '34': 33, '35': 29, '36': 34, '37': 35, '38': 40, '39': 42, '40': 8, '41': 41, '42': 43, '43': 44, '44': 45} || {'0': 0, '1': 1, '2': 2, '3': 3, '4': 4, '5': 5, '6': 6, '7': 7, '8': 9, '9': 10, '10': 38, '11': 36, '12': 11, '13': 12, '14': 13, '15': 14, '16': 15, '17': 16, '18': 39, '19': 17, '20': 18, '21': 20, '22': 21, '23': 22, '24': 23, '25': 24, '26': 25, '27': 26, '28': 27, '29': 28, '30': 19, '31': 32, '32': 30, '33': 31, '34': 33, '35': 29, '36': 34, '37': 35, '38': 40, '39': 42, '40': 8, '41': 41, '42': 43, '43': 44, '44': 45, '45': 46, '46': 47, '47': 48}
+|-
+| rowspan="2" | [https://chisel.weirdgloop.org/structs/index.html?type=enums&id=3077 3077][https://abextm.github.io/cache2/#/viewer/enum/3077 (1)]
+|-
+| map || {'546': 3167, '2583': 3201, '2591': 3202, '2599': 3218, '2607': 3219, '2615': 3233, '2623': 3234, '2653': 3235, '2661': 3236, '2669': 3237, '3057': 3162, '3385': 3086, '3481': 3238, '4071': 3112, '4089': 3078, '4099': 3079, '4109': 3080, '4298': 3136, '4506': 3113, '4511': 3114, '5554': 3119, '5575': 3123, '6065': 3125, '6106': 3087, '6128': 3121, '6131': 3120, '6137': 3082, '6180': 3166, '6188': 3163, '6326': 3161, '6345': 27, '6355': 28, '6365': 29, '6375': 30, '6617': 3122, '6654': 3165, '6665': 3110, '6856': 3271, '6857': 3272, '6867': 3270, '6916': 3083, '7362': 3197, '7364': 3198, '7370': 3216, '7372': 3217, '7374': 3230, '7376': 3231, '7390': 3199, '7392': 3200, '7399': 3232, '7592': 3164, '8839': 3117, '8959': 3100, '8960': 3101, '8961': 3102, '8962': 3103, '8963': 3104, '8964': 3105, '8965': 3106, '9069': 3088, '9096': 3089, '9674': 3124, '9747': 3168, '9750': 3170, '9753': 3169, '9756': 3184, '9759': 3183, '9762': 3181, '9765': 3185, '9768': 3171, '9771': 3172, '9774': 3180, '9777': 3188, '9780': 3175, '9783': 3179, '9786': 3186, '9789': 3174, '9792': 3182, '9795': 3187, '9798': 3178, '9801': 3173, '9804': 3177, '9807': 3189, '9810': 3176, '9813': 3191, '9925': 3273, '9944': 3135, '9948': 3190, '10037': 3128, '10043': 3127, '10049': 3126, '10053': 3131, '10057': 3130, '10061': 3132, '10065': 3129, '10370': 3244, '10378': 3243, '10386': 3242, '10400': 3220, '10404': 3203, '10408': 3205, '10412': 3204, '10416': 3221, '10458': 3239, '10460': 3241, '10462': 3240, '10862': 3133, '10939': 3134, '11021': 3274, '11850': 3091, '11896': 3115, '11899': 3116, '11919': 3275, '12013': 3137, '12193': 3227, '12205': 3207, '12215': 3206, '12225': 3208, '12235': 3209, '12253': 3226, '12265': 3228, '12277': 3224, '12287': 3225, '12315': 3222, '12319': 3229, '12327': 3245, '12331': 3246, '12347': 3223, '12381': 3258, '12385': 3259, '12393': 3257, '12417': 3263, '12420': 3084, '12441': 3260, '12453': 3212, '12455': 3213, '12458': 3085, '12460': 3249, '12470': 3247, '12480': 3248, '12492': 3252, '12500': 3251, '12508': 3250, '12596': 83, '12887': 3276, '12892': 3277, '13072': 3118, '13215': 3278, '13221': 3193, '13258': 3138, '13280': 3194, '13283': 3279, '13317': 3155, '13359': 3139, '13364': 3140, '13369': 3141, '13374': 3142, '13379': 3143, '13385': 3144, '13579': 3092, '13591': 3095, '13603': 3094, '13615': 3096, '13627': 3093, '13646': 3145, '13663': 3280, '13667': 3097, '19476': 3192, '19689': 3146, '19970': 3261, '19985': 3262, '20038': 3265, '20080': 3266, '20095': 3267, '20128': 3268, '20169': 3211, '20184': 3210, '20199': 3214, '20439': 3108, '20595': 3107, '20708': 3109, '20773': 3281, '20838': 3147, '21018': 3148, '21061': 3098, '21298': 3150, '21847': 3282, '22326': 3151, '22351': 3283, '22689': 3284, '22713': 3285, '23047': 3081, '23101': 3152, '23258': 3264, '23303': 3195, '23312': 3196, '23381': 3215, '23785': 3154, '24034': 3153, '24288': 3090, '24305': 3286, '24315': 3287, '24389': 3158, '24399': 3157, '24407': 3156, '24419': 3159, '24537': 3288, '24664': 3149, '24676': 3160, '24743': 3099, '24872': 3111, '25004': 3559, '25019': 3558, '25031': 3557, '25069': 3556, '25129': 706, '25322': 3548, '25336': 3549, '25346': 3552, '25398': 2854, '25413': 2855, '25438': 2856, '25549': 3666, '25592': 3729, '26225': 4049, '26241': 5156, '26430': 4101, '26442': 4102, '26454': 4103, '26463': 4099, '26469': 4100, '26531': 4098, '26852': 4239, '26860': 4240, '26866': 4241, '26872': 4242, '27023': 4369, '27119': 4985, '27226': 4650, '27235': 4649, '27392': 4670, '27400': 4671, '27408': 4796, '27428': 4202, '27444': 616, '27473': 882, '27576': 1285, '28169': 3751, '28620': 5189, '28715': 3429, '28727': 3675, '28739': 3677, '28933': 5288, '29263': 5287} || {'546': 3167, '2583': 3201, '2591': 3202, '2599': 3218, '2607': 3219, '2615': 3233, '2623': 3234, '2653': 3235, '2661': 3236, '2669': 3237, '3057': 3162, '3385': 3086, '3481': 3238, '4071': 3112, '4089': 3078, '4099': 3079, '4109': 3080, '4298': 3136, '4506': 3113, '4511': 3114, '5554': 3119, '5575': 3123, '6065': 3125, '6106': 3087, '6128': 3121, '6131': 3120, '6137': 3082, '6180': 3166, '6188': 3163, '6326': 3161, '6345': 27, '6355': 28, '6365': 29, '6375': 30, '6617': 3122, '6654': 3165, '6665': 3110, '6856': 3271, '6857': 3272, '6867': 3270, '6916': 3083, '7362': 3197, '7364': 3198, '7370': 3216, '7372': 3217, '7374': 3230, '7376': 3231, '7390': 3199, '7392': 3200, '7399': 3232, '7592': 3164, '8839': 3117, '8959': 3100, '8960': 3101, '8961': 3102, '8962': 3103, '8963': 3104, '8964': 3105, '8965': 3106, '9069': 3088, '9096': 3089, '9674': 3124, '9747': 3168, '9750': 3170, '9753': 3169, '9756': 3184, '9759': 3183, '9762': 3181, '9765': 3185, '9768': 3171, '9771': 3172, '9774': 3180, '9777': 3188, '9780': 3175, '9783': 3179, '9786': 3186, '9789': 3174, '9792': 3182, '9795': 3187, '9798': 3178, '9801': 3173, '9804': 3177, '9807': 3189, '9810': 3176, '9813': 3191, '9925': 3273, '9944': 3135, '9948': 3190, '10037': 3128, '10043': 3127, '10049': 3126, '10053': 3131, '10057': 3130, '10061': 3132, '10065': 3129, '10370': 3244, '10378': 3243, '10386': 3242, '10400': 3220, '10404': 3203, '10408': 3205, '10412': 3204, '10416': 3221, '10458': 3239, '10460': 3241, '10462': 3240, '10862': 3133, '10939': 3134, '11021': 3274, '11850': 3091, '11896': 3115, '11899': 3116, '11919': 3275, '12013': 3137, '12193': 3227, '12205': 3207, '12215': 3206, '12225': 3208, '12235': 3209, '12253': 3226, '12265': 3228, '12277': 3224, '12287': 3225, '12315': 3222, '12319': 3229, '12327': 3245, '12331': 3246, '12347': 3223, '12381': 3258, '12385': 3259, '12393': 3257, '12417': 3263, '12420': 3084, '12441': 3260, '12453': 3212, '12455': 3213, '12458': 3085, '12460': 3249, '12470': 3247, '12480': 3248, '12492': 3252, '12500': 3251, '12508': 3250, '12596': 83, '12887': 3276, '12892': 3277, '13072': 3118, '13215': 3278, '13221': 3193, '13258': 3138, '13280': 3194, '13283': 3279, '13317': 3155, '13359': 3139, '13364': 3140, '13369': 3141, '13374': 3142, '13379': 3143, '13385': 3144, '13579': 3092, '13591': 3095, '13603': 3094, '13615': 3096, '13627': 3093, '13646': 3145, '13663': 3280, '13667': 3097, '19476': 3192, '19689': 3146, '19970': 3261, '19985': 3262, '20038': 3265, '20080': 3266, '20095': 3267, '20128': 3268, '20169': 3211, '20184': 3210, '20199': 3214, '20439': 3108, '20595': 3107, '20708': 3109, '20773': 3281, '20838': 3147, '21018': 3148, '21061': 3098, '21298': 3150, '21847': 3282, '22326': 3151, '22351': 3283, '22689': 3284, '22713': 3285, '23047': 3081, '23101': 3152, '23258': 3264, '23303': 3195, '23312': 3196, '23381': 3215, '23785': 3154, '24034': 3153, '24288': 3090, '24305': 3286, '24315': 3287, '24389': 3158, '24399': 3157, '24407': 3156, '24419': 3159, '24537': 3288, '24664': 3149, '24676': 3160, '24743': 3099, '24872': 3111, '25004': 3559, '25019': 3558, '25031': 3557, '25069': 3556, '25129': 706, '25322': 3548, '25336': 3549, '25346': 3552, '25398': 2854, '25413': 2855, '25438': 2856, '25549': 3666, '25592': 3729, '26225': 4049, '26241': 5156, '26430': 4101, '26442': 4102, '26454': 4103, '26463': 4099, '26469': 4100, '26531': 4098, '26852': 4239, '26860': 4240, '26866': 4241, '26872': 4242, '27023': 4369, '27119': 4985, '27226': 4650, '27235': 4649, '27392': 4670, '27400': 4671, '27408': 4796, '27428': 4202, '27444': 616, '27473': 882, '27576': 1285, '28169': 3751, '28620': 5189, '28715': 3429, '28727': 3675, '28739': 3677, '28933': 5288, '29263': 5287, '29433': 5418}
+|-
+| rowspan="2" | [https://chisel.weirdgloop.org/structs/index.html?type=enums&id=3299 3299][https://abextm.github.io/cache2/#/viewer/enum/3299 (1)]
+|-
+| map || {'0': 1037, '1': 1419, '2': 795, '3': 4079, '4': 4566, '5': 6722, '6': 6867, '7': 6856, '8': 6857, '9': 7927, '10': 9920, '11': 9925, '12': 10507, '13': 11021, '14': 11847, '15': 11862, '16': 11863, '17': 11919, '18': 4565, '19': 12600, '20': 12845, '21': 12887, '22': 12892, '23': 13663, '24': 13203, '25': 13215, '26': 13288, '27': 13283, '28': 13343, '29': 13344, '30': 13655, '31': 13679, '32': 13681, '33': 19699, '34': 20773, '35': 20832, '36': 20834, '37': 20836, '38': 21211, '39': 21209, '40': 21214, '41': 22351, '42': 21314, '43': 21354, '44': 21695, '45': 21720, '46': 21847, '47': 21859, '48': 22316, '49': 22689, '50': 22684, '51': 22713, '52': 23108, '53': 23446, '54': 23448, '55': 24305, '56': 24315, '57': 24325, '58': 24327, '59': 24428, '60': 24525, '61': 24535, '62': 24537, '63': 24975, '64': 24977, '65': 25314, '66': 25316, '67': 25322, '68': 25336, '69': 25500, '70': 25502, '71': 25840, '72': 25604, '73': 25606, '74': 26254, '75': 26256, '76': 26260, '77': 26314, '78': 26316, '79': 26310, '80': 26312, '81': 26649, '82': 26937, '83': 26939, '84': 27035, '85': 27463, '86': 27473, '87': 27497, '88': 27564, '89': 27566, '90': 27568, '91': 27570, '92': 27576, '93': 27588, '94': 27645, '95': 27812, '96': 27804, '97': 27828, '98': 27806, '99': 27822, '100': 27810, '101': 27820, '102': 27818, '103': 27802, '104': 27871, '105': 27873, '106': 27875, '107': 28116, '108': 28126, '109': 28128, '110': 28603, '111': 28601, '112': 28788, '113': 28786} || {'0': 1037, '1': 1419, '2': 795, '3': 4079, '4': 4566, '5': 6722, '6': 6867, '7': 6856, '8': 6857, '9': 7927, '10': 9920, '11': 9925, '12': 10507, '13': 11021, '14': 11847, '15': 11862, '16': 11863, '17': 11919, '18': 4565, '19': 12600, '20': 12845, '21': 12887, '22': 12892, '23': 13663, '24': 13203, '25': 13215, '26': 13288, '27': 13283, '28': 13343, '29': 13344, '30': 13655, '31': 13679, '32': 13681, '33': 19699, '34': 20773, '35': 20832, '36': 20834, '37': 20836, '38': 21211, '39': 21209, '40': 21214, '41': 22351, '42': 21314, '43': 21354, '44': 21695, '45': 21720, '46': 21847, '47': 21859, '48': 22316, '49': 22689, '50': 22684, '51': 22713, '52': 23108, '53': 23446, '54': 23448, '55': 24305, '56': 24315, '57': 24325, '58': 24327, '59': 24428, '60': 24525, '61': 24535, '62': 24537, '63': 24975, '64': 24977, '65': 25314, '66': 25316, '67': 25322, '68': 25336, '69': 25500, '70': 25502, '71': 25840, '72': 25604, '73': 25606, '74': 26254, '75': 26256, '76': 26260, '77': 26314, '78': 26316, '79': 26310, '80': 26312, '81': 26649, '82': 26937, '83': 26939, '84': 27035, '85': 27463, '86': 27473, '87': 27497, '88': 27564, '89': 27566, '90': 27568, '91': 27570, '92': 27576, '93': 27588, '94': 27645, '95': 27812, '96': 27804, '97': 27828, '98': 27806, '99': 27822, '100': 27810, '101': 27820, '102': 27818, '103': 27802, '104': 27871, '105': 27873, '106': 27875, '107': 28116, '108': 28126, '109': 28128, '110': 28603, '111': 28601, '112': 28788, '113': 28786, '114': 29433}
+|-
+| rowspan="2" | [https://chisel.weirdgloop.org/structs/index.html?type=enums&id=3302 3302][https://abextm.github.io/cache2/#/viewer/enum/3302 (1)]
+|-
+| map || {'546': 'Shade Robes', '795': 'Classic:  Karamja Warship', '1037': '2003:  Bunny Ears', '1052': 'Legends Cape', '1419': '2003:  Scythe', '2412': 'Mage Arena:  Saradomin', '2413': 'Mage Arena:  Guthix', '2414': 'Mage Arena:  Zamorak', '2577': 'Ranger Boots', '2579': 'Wizard Boots', '2581': 'Robin Hood Hat', '2583': 'Black Armour (trim)', '2591': 'Black Armour (gold)', '2599': 'Adamant Armour (trim)', '2607': 'Adamant Armour (gold)', '2615': 'Rune Armour (gold)', '2623': 'Rune Armour (trim)', '2631': 'Highwayman Mask', '2633': 'Beret (blue)', '2635': 'Beret (black)', '2637': 'Beret (white)', '2639': 'Cavalier (brown)', '2641': 'Cavalier (dark brown)', '2643': 'Cavalier (black)', '2645': 'Headband (red)', '2647': 'Headband (black)', '2649': 'Headband (brown)', '2651': 'Pirate Hat', '2653': 'Rune Armour (Zamorak)', '2661': 'Rune Armour (Saradomin)', '2669': 'Rune Armour (Guthix)', '3057': 'Mime Costume', '3385': 'Splitbark Armour', '3481': 'Rune Armour (gilded)', '4068': 'Castle Wars Decorative Sword (1)', '4071': 'Castle Wars Decorative Armour (1)', '4079': '2004:  Yo-yo', '4089': 'Mystic Robes', '4099': 'Mystic Robes (dark)', '4109': 'Mystic Robes (light)', '4298': 'H.A.M. Robes', '4315': 'Wilderness Cape', '4503': 'Castle Wars Decorative Sword (2)', '4506': 'Castle Wars Decorative Armour (2)', '4508': 'Castle Wars Decorative Sword (3)', '4511': 'Castle Wars Decorative Armour (3)', '4565': '2005:  Easter Basket', '4566': '2005:  Rubber Chicken', '5554': 'Rogue Armour', '5575': 'Temple Knight Initiate Armour', '6065': 'Mourner Gear', '6106': 'Ghostly Robes', '6128': 'Rockshell Armour', '6131': 'Spined Armour', '6137': 'Skeletal Outfit', '6180': 'Lederhosen Outfit', '6188': 'Frog Costume', '6326': 'Snakeskin Armour', '6335': 'Tribal Mask (poison)', '6337': 'Tribal Mask (disease)', '6339': 'Tribal Mask (combat)', '6345': 'Tribal Outfit (brown)', '6355': 'Tribal Outfit (blue)', '6365': 'Tribal Outfit (yellow)', '6375': 'Tribal Outfit (pink)', '6568': 'Obsidian Cape', '6570': 'Fire Cape', '6617': 'White Knight Armour', '6654': 'Camo Outfit', '6665': 'Mudskipper Kit', '6722': '2005:  Zombie Head', '6856': '2005:  Woolly Hats', '6857': '2005:  Woolly Scarves', '6867': '2005:  Marionette', '6916': 'Infinity Robes', '7319': 'Straw Boater (red)', '7321': 'Straw Boater (orange)', '7323': 'Straw Boater (green)', '7325': 'Straw Boater (blue)', '7327': 'Straw Boater (black)', '7332': 'Black Heraldic Kiteshield (h1)', '7334': 'Adamant Heraldic Kiteshield (h1)', '7336': 'Rune Heraldic Kiteshield (h1)', '7338': 'Black Heraldic Kiteshield (h2)', '7340': 'Adamant Heraldic Kiteshield (h2)', '7342': 'Rune Heraldic Kiteshield (h2)', '7344': 'Black Heraldic Kiteshield (h3)', '7346': 'Adamant Heraldic Kiteshield (h3)', '7348': 'Rune Heraldic Kiteshield (h3)', '7350': 'Black Heraldic Kiteshield (h4)', '7352': 'Adamant Heraldic Kiteshield (h4)', '7354': 'Rune Heraldic Kiteshield (h4)', '7356': 'Black Heraldic Kiteshield (h5)', '7358': 'Adamant Heraldic Kiteshield (h5)', '7360': 'Rune Heraldic Kiteshield (h5)', '7362': 'Studded Leather (gold)', '7364': 'Studded Leather (fur)', '7370': 'Green Dragonhide (gold)', '7372': 'Green Dragonhide (trim)', '7374': 'Blue Dragonhide (gold)', '7376': 'Blue Dragonhide (trim)', '7390': 'Blue Wizard (gold)', '7392': 'Blue Wizard (trim)', '7399': 'Enchanted Robes', '7592': 'Zombie Outfit', '7927': '2006:  Ring of Egg', '8839': 'Void Knight Armour', '8959': 'Naval Attire (blue)', '8960': 'Naval Attire (green)', '8961': 'Naval Attire (red)', '8962': 'Naval Attire (brown)', '8963': 'Naval Attire (black)', '8964': 'Naval Attire (purple)', '8965': 'Naval Attire (grey)', '8966': 'Flag:  Cutthroat', '8967': 'Flag:  Gilded Smile', '8968': 'Flag:  Bronze Fist', '8969': 'Flag:  Lucky Shot', '8970': 'Flag:  Treasure', '8971': 'Flag:  Phasmatys', '9005': 'Stronghold of Security Boots', '9069': 'Moonclan Robes', '9096': 'Lunar Robes', '9674': 'Temple Knight Proselyte Armour', '9747': 'Attack Cape', '9750': 'Strength Cape', '9753': 'Defence Cape', '9756': 'Ranging Cape', '9759': 'Prayer Cape', '9762': 'Magic Cape', '9765': 'Runecrafting Cape', '9768': 'Hitpoints Cape', '9771': 'Agility Cape', '9774': 'Herblore Cape', '9777': 'Thieving Cape', '9780': 'Crafting Cape', '9783': 'Fletching Cape', '9786': 'Slayer Cape', '9789': 'Construction Cape', '9792': 'Mining Cape', '9795': 'Smithing Cape', '9798': 'Fishing Cape', '9801': 'Cooking Cape', '9804': 'Firemaking Cape', '9807': 'Woodcutting Cape', '9810': 'Farming Cape', '9813': 'Quest Point Cape', '9920': '2006:  Pumpkin Head', '9925': '2006:  Spooky Outfit', '9944': 'Bomber Jacket Costume', '9948': 'Hunter Cape', '10037': 'Hunter Gear:  Kyatt', '10043': 'Hunter Gear:  Larupia', '10049': 'Hunter Gear:  Graahk', '10053': 'Camouflage Gear:  Wood', '10057': 'Camouflage Gear:  Jungle', '10061': 'Camouflage Gear:  Desert', '10065': 'Camouflage Gear:  Polar', '10069': 'Spotted Hunting Cape', '10071': 'Spottier Hunting Cape', '10280': 'Composite Bow:  Willow', '10282': 'Composite Bow:  Yew', '10284': 'Composite Bow:  Magic', '10286': 'Rune Heraldic Helm (h1)', '10288': 'Rune Heraldic Helm (h2)', '10290': 'Rune Heraldic Helm (h3)', '10292': 'Rune Heraldic Helm (h4)', '10294': 'Rune Heraldic Helm (h5)', '10296': 'Adamant Heraldic Helm (h1)', '10298': 'Adamant Heraldic Helm (h2)', '10300': 'Adamant Heraldic Helm (h3)', '10302': 'Adamant Heraldic Helm (h4)', '10304': 'Adamant Heraldic Helm (h5)', '10306': 'Black Heraldic Helm (h1)', '10308': 'Black Heraldic Helm (h2)', '10310': 'Black Heraldic Helm (h3)', '10312': 'Black Heraldic Helm (h4)', '10314': 'Black Heraldic Helm (h5)', '10316': 'Bob the Cat Shirt (red)', '10318': 'Bob the Cat Shirt (blue)', '10320': 'Bob the Cat Shirt (green)', '10322': 'Bob the Cat Shirt (black)', '10324': 'Bob the Cat Shirt (purple)', '10330': '3rd Age Range Top', '10332': '3rd Age Range Legs', '10334': '3rd Age Range Coif', '10336': '3rd Age Range Vambraces', '10338': '3rd Age Mage Robe Top', '10340': '3rd Age Mage Robe Bottoms', '10342': '3rd Age Mage Hat', '10344': '3rd Age Mage Amulet', '10346': '3rd Age Melee Legs', '10348': '3rd Age Melee Platebody', '10350': '3rd Age Melee Helmet', '10352': '3rd Age Melee Kiteshield', '10362': 'Amulet of Glory (trim)', '10364': 'Amulet of Strength (trim)', '10366': 'Amulet of Magic (trim)', '10370': 'Blessed Dragonhide (Zamorak)', '10378': 'Blessed Dragonhide (Guthix)', '10386': 'Blessed Dragonhide (Saradomin)', '10392': 'Wig', '10394': 'Flared Pants', '10396': 'Pantaloons', '10398': 'Sleeping Cap', '10400': 'Elegant Clothes (black & white)', '10404': 'Elegant Clothes (red)', '10408': 'Elegant Clothes (blue)', '10412': 'Elegant Clothes (green)', '10416': 'Elegant Clothes (purple)', '10458': 'Vestments:  Saradomin', '10460': 'Vestments:  Zamorak', '10462': 'Vestments:  Guthix', '10507': '2006:  Reindeer Hat', '10547': 'Penance Healer Hat', '10548': 'Penance Fighter Hat', '10549': 'Penance Runner Hat', '10550': 'Penance Ranger Hat', '10551': 'Penance Fighter Torso', '10552': 'Penance Runner Boots', '10553': 'Penance Gloves', '10555': 'Penance Skirt', '10862': 'Builder's Costume', '10939': 'Lumberjack Costume', '11021': '2007:  Chicken Suit', '11280': 'Cavalier Mask', '11282': 'Beret Mask', '11663': 'Void Mage Helm', '11664': 'Void Ranger Helm', '11665': 'Void Melee Helm', '11847': '2013:  Black Halloween Mask', '11850': 'Graceful Outfit', '11862': '2013:  Black Party Hat', '11863': '2013:  Rainbow Party Hat', '11896': 'Castle Wars Mage Armour', '11899': 'Castle Wars Ranger Armour', '11919': '2014-15:  Cow Suit', '11990': 'Fedora', '12007': 'Jar of Dirt (Kraken)', '12013': 'Prospector Kit', '12193': 'Vestments:  Ancient', '12205': 'Bronze Armour (gold)', '12215': 'Bronze Armour (trim)', '12225': 'Iron Armour (trim)', '12235': 'Iron Armour (gold)', '12245': 'Beanie Hat', '12247': 'Beret (red)', '12249': 'Mask:  Imp', '12251': 'Mask:  Goblin', '12253': 'Vestments:  Armadyl', '12265': 'Vestments:  Bandos', '12277': 'Mithril Armour (gold)', '12287': 'Mithril Armour (trim)', '12297': 'Black Pickaxe', '12299': 'Headband (white)', '12301': 'Headband (blue)', '12303': 'Headband (gold)', '12305': 'Headband (pink)', '12307': 'Headband (green)', '12309': 'Straw Boater (pink)', '12311': 'Straw Boater (purple)', '12313': 'Straw Boater (white)', '12315': 'Elegant Clothes (pink)', '12319': 'Town Crier', '12321': 'Cavalier (white)', '12323': 'Cavalier (red)', '12325': 'Cavalier (blue)', '12327': 'Red Dragonhide (gold)', '12331': 'Red Dragonhide (trim)', '12335': 'Briefcase', '12337': 'Sagacious Spectacles', '12347': 'Elegant Clothes (gold)', '12353': 'Monocle', '12355': 'Pirate Hat (big)', '12357': 'Katana', '12359': 'Leprechaun Hat', '12361': 'Mask:  Cat', '12363': 'Dragon Mask (bronze)', '12365': 'Dragon Mask (iron)', '12367': 'Dragon Mask (steel)', '12369': 'Dragon Mask (mithril)', '12371': 'Dragon Mask (lava)', '12373': 'Cane:  Dragon', '12375': 'Cane:  Black', '12377': 'Cane:  Adamant', '12379': 'Cane:  Rune', '12381': 'Black Dragonhide (gold)', '12385': 'Black Dragonhide (trim)', '12389': 'Rune Scimitar (gilded)', '12391': 'Rune Boots (gilded)', '12393': 'Royal Attire', '12399': 'Partyhat & Specs', '12412': 'Pirate Hat & Patch', '12417': 'Dragon Armour (gilded)', '12420': 'Infinity Robes (light)', '12422': '3rd Age Wand', '12424': '3rd Age Bow', '12426': '3rd Age Longsword', '12428': 'Mask:  Penguin', '12430': 'Afro', '12432': 'Top Hat', '12434': 'Top Hat & Monocle', '12437': '3rd Age Cloak', '12441': 'Musketeer Outfit', '12453': 'Black Wizard (gold)', '12455': 'Black Wizard (trim)', '12458': 'Infinity Robes (dark)', '12460': 'Rune Armour (Ancient)', '12470': 'Rune Armour (Armadyl)', '12480': 'Rune Armour (Bandos)', '12492': 'Blessed Dragonhide (Ancient)', '12500': 'Blessed Dragonhide (Bandos)', '12508': 'Blessed Dragonhide (Armadyl)', '12514': 'Explorer Backpack', '12516': 'Pith Helmet', '12518': 'Dragon Mask (green)', '12520': 'Dragon Mask (blue)', '12522': 'Dragon Mask (red)', '12524': 'Dragon Mask (black)', '12540': 'Deerstalker', '12596': 'Ranger Kit', '12598': 'Holy Sandals', '12600': '2014:  Druidic Wreath', '12637': 'Halo:  Saradomin', '12638': 'Halo:  Zamorak', '12639': 'Halo:  Guthix', '12845': '2007:  Grim Reaper Hood', '12885': 'Jar of Sand (Kalphite Queen)', '12887': '2014:  Santa Costume', '12892': '2014:  Antisanta Costume', '12936': 'Jar of Swamp (Zulrah)', '13072': 'Void Knight Elite Armour', '13203': '2015:  Mask of Balance', '13215': '2015:  Toy Animals', '13221': 'Music Cape', '13245': 'Jar of Souls (Cerberus)', '13258': 'Angler's Outfit', '13277': 'Jar of Miasma (Abyssal Sire)', '13280': 'Max Cape', '13283': '2015:  Undead Gravedigger', '13288': '2015:  Anti-panties', '13317': 'Deadman Armour', '13343': '2015:  Black Santa Hat', '13344': '2015:  Inverted Santa Hat', '13359': 'Shayzien Armour (tier 1)', '13364': 'Shayzien Armour (tier 2)', '13369': 'Shayzien Armour (tier 3)', '13374': 'Shayzien Armour (tier 4)', '13379': 'Shayzien Armour (tier 5)', '13385': 'Xerician Armour', '13579': 'Graceful Outfit:  Arceuus', '13591': 'Graceful Outfit:  Piscarilius', '13603': 'Graceful Outfit:  Lovakengj', '13615': 'Graceful Outfit:  Shayzien', '13627': 'Graceful Outfit:  Hosidius', '13646': 'Farmer's Outfit', '13655': '2016:  Gnome Child Hat', '13663': '2015-16:  Bunny Outfit', '13667': 'Graceful Outfit:  Kourend', '13679': '2016:  Cabbage Cape', '13681': '2016:  Cruciferous Codex', '19476': 'Achievement Diary Cape', '19687': 'Helm of Raedwald', '19689': 'Clue Hunter Outfit', '19699': '2016:  Hornwood Helm', '19701': 'Jar of Darkness (Skotizo)', '19724': 'Eye Patch', '19912': 'Zombie Head', '19915': 'Cyclops Head', '19918': 'Nunchaku', '19921': 'Dragonhide Boots (Ancient)', '19924': 'Dragonhide Boots (Bandos)', '19927': 'Dragonhide Boots (Guthix)', '19930': 'Dragonhide Boots (Armadyl)', '19933': 'Dragonhide Boots (Saradomin)', '19936': 'Dragonhide Boots (Zamorak)', '19941': 'Heavy Casket', '19943': 'Kourend Scarf:  Arceuus', '19946': 'Kourend Scarf:  Hosidius', '19949': 'Kourend Scarf:  Lovakengj', '19952': 'Kourend Scarf:  Piscarilius', '19955': 'Kourend Scarf:  Shayzien', '19970': 'Tuxedo Outfit (dark)', '19985': 'Tuxedo Outfit (light)', '19988': 'Blacksmith's Helm', '19991': 'Bucket Helm', '19997': 'Holy Wraps', '20000': 'Dragon Scimitar (ornate)', '20005': 'Ring of Nature', '20008': 'Fancy Tiara', '20011': '3rd Age Axe', '20014': '3rd Age Pickaxe', '20017': 'Ring of Coins', '20020': 'Mask:  Lesser Demon', '20023': 'Mask:  Greater Demon', '20026': 'Mask:  Black Demon', '20029': 'Mask:  Old Demon', '20032': 'Mask:  Jungle Demon', '20038': 'Samurai Outfit', '20050': 'Obsidian Cape (red)', '20053': 'Half Moon Spectacles', '20056': 'Ale of the Gods', '20059': 'Bucket Helm (gold)', '20080': 'Mummy Costume', '20095': 'Ankou Costume', '20110': 'Bowl Wig', '20113': 'Kourend Hood:  Arceuus', '20116': 'Kourend Hood:  Hosidius', '20119': 'Kourend Hood:  Lovakengj', '20122': 'Kourend Hood:  Piscarilius', '20125': 'Kourend Hood:  Shayzien', '20128': 'Robes of Darkness', '20146': 'Rune Med Helm (gilded)', '20149': 'Rune Chainbody (gilded)', '20152': 'Rune Square Shield (gilded)', '20155': 'Rune 2h Sword (gilded)', '20158': 'Rune Spear (gilded)', '20161': 'Rune Hasta (gilded)', '20164': 'Large Spade', '20166': 'Wooden Shield (gold)', '20169': 'Steel Armour (gold)', '20184': 'Steel Armour (trim)', '20199': 'Monk's Robes (gold)', '20205': 'Golden Chef's Hat', '20208': 'Golden Apron', '20211': 'Wilderness Cape 0', '20214': 'Wilderness Cape X', '20217': 'Wilderness Cape I', '20220': 'Blessing:  Holy', '20223': 'Blessing:  Unholy', '20226': 'Blessing:  Peaceful ', '20229': 'Blessing:  Honourable', '20232': 'Blessing:  War', '20235': 'Blessing:  Ancient', '20246': 'Leprechaun Hat (black)', '20249': 'Clueless Scroll', '20251': 'Kourend Banner:  Arceuus', '20254': 'Kourend Banner:  Hosidius', '20257': 'Kourend Banner:  Lovakengj', '20260': 'Kourend Banner:  Piscarilius', '20263': 'Kourend Banner:  Shayzien', '20266': 'Mask:  Black Unicorn', '20269': 'Mask:  White Unicorn', '20272': 'Cabbage Round Shield', '20439': 'Evil Chicken Costume', '20517': 'Elder Chaos Druid Robes', '20590': 'Stale Baguette', '20595': 'Elder Chaos Druid Robes', '20708': 'Pyromancer Outfit', '20712': 'Warm Gloves', '20720': 'Bruma Torch', '20773': '2016:  Masked Killer', '20832': '2016:  Snow Globe', '20834': '2016:  Sack of Presents', '20836': '2016:  Giant Present', '20838': 'Corrupted Armour', '21018': 'Ancestral Robes', '21061': 'Graceful Outfit:  Agility Arena', '21209': '2017:  Birthday Balloons', '21211': '2017:  4th Birthday Hat', '21214': '2017:  Easter Egg Helm', '21295': 'Infernal Cape', '21298': 'Obsidian Armour', '21314': '2017:  Rainbow Scarf', '21343': 'Mining Gloves', '21354': '2017:  Hand Fan', '21439': 'Champion's Cape', '21695': '2017:  Runefest Shield', '21720': '2017:  Jonas Mask', '21745': 'Jar of Stone (Grotesque Guardians)', '21791': 'Mage Arena:  Saradomin (imbued)', '21793': 'Mage Arena:  Guthix (imbued)', '21795': 'Mage Arena:  Zamorak (imbued)', '21847': '2017:  Snow Imp Costume', '21859': '2017:  Wise Old Man's Santa Hat', '22106': 'Jar of Decay (Vorkath)', '22114': 'Mythical Cape', '22234': 'Dragon Boots (gold)', '22316': '2018:  Birthday Prop Sword', '22326': 'Justiciar Armour', '22351': '2018:  Eggshell Outfit', '22388': 'Xeric's Guard', '22390': 'Xeric's Warrior', '22392': 'Xeric's Sentinel', '22394': 'Xeric's General', '22396': 'Xeric's Champion', '22494': 'Sinhaza Shroud (tier 1)', '22496': 'Sinhaza Shroud (tier 2)', '22498': 'Sinhaza Shroud (tier 3)', '22500': 'Sinhaza Shroud (tier 4)', '22502': 'Sinhaza Shroud (tier 5)', '22675': 'Scroll Sack', '22684': '2018:  Eek the Spider', '22689': '2018:  Clown Suit', '22713': '2018:  Christmas Tree Suit', '22838': 'Fish Sack', '22840': 'Golden Tench', '22842': 'Pearl Barbarian Rod', '22844': 'Pearl Fly Fishing Rod', '22846': 'Pearl Fishing Rod', '23047': 'Mystic Robes (dusk)', '23064': 'Jar of Chemicals (Alchemical Hydra)', '23101': 'Ornate Armour', '23108': '2019:  Birthday Cake ', '23122': 'Oily Pearl Fishing Rod', '23185': 'Ring of 3rd Age', '23188': 'Dragonhide Shield (Guthix)', '23191': 'Dragonhide Shield (Saradomin)', '23194': 'Dragonhide Shield (Zamorak)', '23197': 'Dragonhide Shield (Ancient)', '23200': 'Dragonhide Shield (Armadyl)', '23203': 'Dragonhide Shield (Bandos)', '23206': 'Dual Sai', '23209': 'Rune PlateBody (h1)', '23212': 'Rune PlateBody (h2)', '23215': 'Rune PlateBody (h3)', '23218': 'Rune PlateBody (h4)', '23221': 'Rune PlateBody (h5)', '23224': 'Thieving Bag', '23246': 'Fremennik Kilt', '23252': 'Giant Boot', '23255': 'Uri's Hat', '23258': 'Dragonhide (gilded)', '23270': 'Dragon Mask (adamant)', '23273': 'Dragon Mask (rune)', '23276': 'Rune Pickaxe (gilded)', '23279': 'Rune Axe (gilded)', '23282': 'Spade (gilded)', '23285': 'Mole Slippers', '23288': 'Frog Slippers', '23291': 'Bear Feet', '23294': 'Demon Feet', '23297': 'Jester Cape', '23300': 'Shoulder Parrot', '23303': 'Monk's Robes (trim)', '23309': 'Amulet of Defence (trim)', '23312': 'Sandwich Lady Costume', '23330': 'Rune Scimitar (Guthix)', '23332': 'Rune Scimitar (Saradomin)', '23334': 'Rune Scimitar (Zamorak)', '23336': '3rd Age Druidic Robe Top', '23339': '3rd Age Druidic Robe Bottoms', '23342': '3rd Age Druidic Staff', '23345': '3rd Age Druidic Cloak', '23351': 'Cape of Skulls', '23354': 'Amulet of Power (trim)', '23357': 'Rain Bow', '23360': 'Ham Joint', '23363': 'Staff of Bob the Cat', '23366': 'Black Platebody (h1)', '23369': 'Black Platebody (h2)', '23372': 'Black Platebody (h3)', '23375': 'Black Platebody (h4)', '23378': 'Black Platebody (h5)', '23381': 'Leather Armour (gold)', '23389': 'Spiked Manacles', '23392': 'Adamant Platebody (h1)', '23395': 'Adamant Platebody (h2)', '23398': 'Adamant Platebody (h3)', '23401': 'Adamant Platebody (h4)', '23404': 'Adamant Platebody (h5)', '23407': 'Mask:  Wolf', '23410': 'Wolf Cloak', '23413': 'Climbing Boots (gold)', '23446': '2019:  Giant Easter Egg', '23448': '2019:  Bunny Mask', '23525': 'Jar of Eyes (Sarachnis)', '23785': 'Ardougne Knight Armour', '23859': 'Gauntlet Cape', '24034': 'Dragonstone Armour', '24192': 'Halo:  Armadyl', '24195': 'Halo:  Bandos', '24198': 'Halo:  Seren', '24201': 'Halo:  Ancient', '24204': 'Halo:  Brassica', '24207': 'Victor's Cape (1)', '24209': 'Victor's Cape (10)', '24211': 'Victor's Cape (50)', '24213': 'Victor's Cape (100)', '24215': 'Victor's Cape (500)', '24219': 'Swift Blade', '24288': 'Dagon'hai Robes', '24305': '2019:  Spooky Costume', '24315': '2019:  Spookier Costume', '24325': '2019:  Pumpkin Lantern', '24327': '2019:  Skeleton Lantern', '24338': 'Bounty Hunter Hat (tier 1)', '24340': 'Bounty Hunter Hat (tier 2)', '24342': 'Bounty Hunter Hat (tier 3)', '24344': 'Bounty Hunter Hat (tier 4)', '24346': 'Bounty Hunter Hat (tier 5)', '24348': 'Bounty Hunter Hat (tier 6)', '24389': 'Twisted Relichunter (tier 3)', '24395': 'Cane:  Twisted', '24399': 'Twisted Relichunter (tier 2)', '24407': 'Twisted Relichunter (tier 1)', '24419': 'Inquisitor's Armour', '24428': '2019:  Gingerbread Gnome Shield', '24495': 'Jar of Dreams (Nightmare)', '24520': 'Victor's Cape (1000)', '24525': '2020:  Cat Ears', '24535': '2020:  Easter Magic Egg', '24537': '2020:  Easter Carrot Swords', '24664': 'Ancestral Robes (Twisted)', '24676': 'Vyre Noble Outfit', '24743': 'Graceful Outfit:  Hallowed', '24872': 'Carpenter's Outfit', '24880': 'Amy's Saw', '24975': '2020:  Headless Head', '24977': '2020:  Magical Pumpkin', '25004': 'Trailblazer Relichunter (tier 3)', '25013': 'Cane:  Trailblazer', '25019': 'Trailblazer Relichunter (tier 2)', '25031': 'Trailblazer Relichunter (tier 1)', '25069': 'Graceful Outfit:  Trailblazer', '25129': 'Beekeeper Outfit', '25314': '2020:  Christmas Boulder', '25316': '2020:  Goblin Decorations', '25322': '2021:  20th Anniversary Outfit', '25336': '2021:  Gnome Child Memorabilia', '25346': 'Soul Cape', '25398': 'Swampbark Armour', '25413': 'Bloodbark Armour', '25438': 'Zealot's Prayer Robes', '25500': '2021:  Cursed Banana', '25502': '2021:  Banana Cape', '25521': 'Jar of Spirits (Corporeal Beast)', '25524': 'Jar of Smoke (Thermy)', '25549': 'Prospector Kit (golden)', '25557': 'Dark Flippers', '25592': 'Angler's Outfit (spirit)', '25604': '2021:  Gregg's Eastdoor', '25606': '2021:  Propeller Hat', '25644': 'Imcando Hammer', '25840': '2021:  Banana Hat', '26225': 'Ancient Ceremonial Robes', '26241': 'Virtus Robes', '26254': '2021:  Saucepan', '26256': '2021:  Ugly Halloween Jumper', '26260': '2021:  Haunted Wine Bottle', '26310': '2021:  Festive Slippers', '26312': '2021:  Festive Hat', '26314': '2021:  Magical Snowman Ring', '26316': '2021:  Secret Santa Present', '26430': 'Shattered Relichunter (tier 1)', '26442': 'Shattered Relichunter (tier 2)', '26454': 'Shattered Relichunter (tier 3)', '26463': 'Void Knight (Shattered Relics)', '26469': 'Void Knight Elite (Shattered Relics)', '26473': 'Void Mage Helm (Shattered Relics)', '26475': 'Void Ranger Helm (Shattered Relics)', '26477': 'Void Melee Helm (Shattered Relics)', '26517': 'Cane:  Shattered', '26531': 'Mystic Robes (Shattered Relics)', '26649': '2022:  Sand Skis', '26852': 'Raiments of the Eye', '26860': 'Raiments of the Eye (red)', '26866': 'Raiments of the Eye (green)', '26872': 'Raiments of the Eye (blue)', '26937': '2022:  Easter Hat', '26939': '2022:  Easter Crate Ring', '27023': 'Smiths' Uniform', '27035': '2022:  Pride Flower Crown', '27119': 'Elder Chaos Druid Robes (ornate)', '27123': 'Dagon'hai Robes (ornate)', '27226': 'Masori Armour', '27235': 'Masori Armour (fortified)', '27257': 'Icthlarin's Shroud (tier 1)', '27259': 'Icthlarin's Shroud (tier 2)', '27261': 'Icthlarin's Shroud (tier 3)', '27263': 'Icthlarin's Shroud (tier 4)', '27265': 'Icthlarin's Shroud (tier 5)', '27370': 'Mask of Rebirth', '27392': 'Adventurer's Outfit (tier 1)', '27400': 'Adventurer's Outfit (tier 2)', '27408': 'Adventurer's Outfit (tier 3)', '27414': 'Giant Stopwatch', '27428': 'Robes of Ruin', '27444': 'Graceful Outfit:  Adventurer', '27463': '2022:  Treat Cauldron', '27473': '2022:  Witch Costume', '27497': '2022:  Halloween Wig', '27564': '2022:  Santa's List', '27566': '2022:  Festive Jumper', '27568': '2022:  Snow Goggles & Hat', '27570': '2022:  Coal Sack', '27576': '2022:  Nutcracker Outfit', '27588': '2022:  Festive Games Crown', '27645': '2023:  Mystic Cards', '27802': '2023:  Gnomechild Backpack', '27804': '2023:  Birthday Cake Hat', '27806': '2023:  Birthday Slippers', '27810': '2023:  Dragon Candle Dagger', '27812': '2023:  10th Birthday Cape', '27818': '2023:  Birthday Plush', '27820': '2023:  Birthday Balloons', '27822': '2023:  Birthday Jumper', '27828': '2023:  Silver Partyhat', '27871': '2023:  Giant Bronze Dagger', '27873': '2023:  Eastfloor Spade', '27875': '2023:  Nest Hat', '28116': '2023:  Rainbow Jumper', '28126': '2023:  Poet's Jacket', '28128': '2023:  Love Crossbow', '28136': 'Forestry Kit', '28140': 'Log Basket', '28169': 'Lumberjack Costume:  Forestry', '28226': '3rd Age Felling Axe', '28601': '2023:  Cobweb Cape', '28603': '2023:  Spider Hat', '28620': 'Pheasant Costume', '28715': 'Trailblazer Reloaded Relichunter (tier 1)', '28727': 'Trailblazer Reloaded Relichunter (tier 2)', '28739': 'Trailblazer Reloaded Relichunter (tier 3)', '28748': 'Torch:  Trailblazer Reloaded', '28786': '2023:  Icy jumper', '28788': '2023:  Snowglobe helmet', '28933': 'Sunfire Fanatic Armour', '29263': 'Hunters Outfit'} || {'546': 'Shade Robes', '795': 'Classic:  Karamja Warship', '1037': '2003:  Bunny Ears', '1052': 'Legends Cape', '1419': '2003:  Scythe', '2412': 'Mage Arena:  Saradomin', '2413': 'Mage Arena:  Guthix', '2414': 'Mage Arena:  Zamorak', '2577': 'Ranger Boots', '2579': 'Wizard Boots', '2581': 'Robin Hood Hat', '2583': 'Black Armour (trim)', '2591': 'Black Armour (gold)', '2599': 'Adamant Armour (trim)', '2607': 'Adamant Armour (gold)', '2615': 'Rune Armour (gold)', '2623': 'Rune Armour (trim)', '2631': 'Highwayman Mask', '2633': 'Beret (blue)', '2635': 'Beret (black)', '2637': 'Beret (white)', '2639': 'Cavalier (brown)', '2641': 'Cavalier (dark brown)', '2643': 'Cavalier (black)', '2645': 'Headband (red)', '2647': 'Headband (black)', '2649': 'Headband (brown)', '2651': 'Pirate Hat', '2653': 'Rune Armour (Zamorak)', '2661': 'Rune Armour (Saradomin)', '2669': 'Rune Armour (Guthix)', '3057': 'Mime Costume', '3385': 'Splitbark Armour', '3481': 'Rune Armour (gilded)', '4068': 'Castle Wars Decorative Sword (1)', '4071': 'Castle Wars Decorative Armour (1)', '4079': '2004:  Yo-yo', '4089': 'Mystic Robes', '4099': 'Mystic Robes (dark)', '4109': 'Mystic Robes (light)', '4298': 'H.A.M. Robes', '4315': 'Wilderness Cape', '4503': 'Castle Wars Decorative Sword (2)', '4506': 'Castle Wars Decorative Armour (2)', '4508': 'Castle Wars Decorative Sword (3)', '4511': 'Castle Wars Decorative Armour (3)', '4565': '2005:  Easter Basket', '4566': '2005:  Rubber Chicken', '5554': 'Rogue Armour', '5575': 'Temple Knight Initiate Armour', '6065': 'Mourner Gear', '6106': 'Ghostly Robes', '6128': 'Rockshell Armour', '6131': 'Spined Armour', '6137': 'Skeletal Outfit', '6180': 'Lederhosen Outfit', '6188': 'Frog Costume', '6326': 'Snakeskin Armour', '6335': 'Tribal Mask (poison)', '6337': 'Tribal Mask (disease)', '6339': 'Tribal Mask (combat)', '6345': 'Tribal Outfit (brown)', '6355': 'Tribal Outfit (blue)', '6365': 'Tribal Outfit (yellow)', '6375': 'Tribal Outfit (pink)', '6568': 'Obsidian Cape', '6570': 'Fire Cape', '6617': 'White Knight Armour', '6654': 'Camo Outfit', '6665': 'Mudskipper Kit', '6722': '2005:  Zombie Head', '6856': '2005:  Woolly Hats', '6857': '2005:  Woolly Scarves', '6867': '2005:  Marionette', '6916': 'Infinity Robes', '7319': 'Straw Boater (red)', '7321': 'Straw Boater (orange)', '7323': 'Straw Boater (green)', '7325': 'Straw Boater (blue)', '7327': 'Straw Boater (black)', '7332': 'Black Heraldic Kiteshield (h1)', '7334': 'Adamant Heraldic Kiteshield (h1)', '7336': 'Rune Heraldic Kiteshield (h1)', '7338': 'Black Heraldic Kiteshield (h2)', '7340': 'Adamant Heraldic Kiteshield (h2)', '7342': 'Rune Heraldic Kiteshield (h2)', '7344': 'Black Heraldic Kiteshield (h3)', '7346': 'Adamant Heraldic Kiteshield (h3)', '7348': 'Rune Heraldic Kiteshield (h3)', '7350': 'Black Heraldic Kiteshield (h4)', '7352': 'Adamant Heraldic Kiteshield (h4)', '7354': 'Rune Heraldic Kiteshield (h4)', '7356': 'Black Heraldic Kiteshield (h5)', '7358': 'Adamant Heraldic Kiteshield (h5)', '7360': 'Rune Heraldic Kiteshield (h5)', '7362': 'Studded Leather (gold)', '7364': 'Studded Leather (fur)', '7370': 'Green Dragonhide (gold)', '7372': 'Green Dragonhide (trim)', '7374': 'Blue Dragonhide (gold)', '7376': 'Blue Dragonhide (trim)', '7390': 'Blue Wizard (gold)', '7392': 'Blue Wizard (trim)', '7399': 'Enchanted Robes', '7592': 'Zombie Outfit', '7927': '2006:  Ring of Egg', '8839': 'Void Knight Armour', '8959': 'Naval Attire (blue)', '8960': 'Naval Attire (green)', '8961': 'Naval Attire (red)', '8962': 'Naval Attire (brown)', '8963': 'Naval Attire (black)', '8964': 'Naval Attire (purple)', '8965': 'Naval Attire (grey)', '8966': 'Flag:  Cutthroat', '8967': 'Flag:  Gilded Smile', '8968': 'Flag:  Bronze Fist', '8969': 'Flag:  Lucky Shot', '8970': 'Flag:  Treasure', '8971': 'Flag:  Phasmatys', '9005': 'Stronghold of Security Boots', '9069': 'Moonclan Robes', '9096': 'Lunar Robes', '9674': 'Temple Knight Proselyte Armour', '9747': 'Attack Cape', '9750': 'Strength Cape', '9753': 'Defence Cape', '9756': 'Ranging Cape', '9759': 'Prayer Cape', '9762': 'Magic Cape', '9765': 'Runecrafting Cape', '9768': 'Hitpoints Cape', '9771': 'Agility Cape', '9774': 'Herblore Cape', '9777': 'Thieving Cape', '9780': 'Crafting Cape', '9783': 'Fletching Cape', '9786': 'Slayer Cape', '9789': 'Construction Cape', '9792': 'Mining Cape', '9795': 'Smithing Cape', '9798': 'Fishing Cape', '9801': 'Cooking Cape', '9804': 'Firemaking Cape', '9807': 'Woodcutting Cape', '9810': 'Farming Cape', '9813': 'Quest Point Cape', '9920': '2006:  Pumpkin Head', '9925': '2006:  Spooky Outfit', '9944': 'Bomber Jacket Costume', '9948': 'Hunter Cape', '10037': 'Hunter Gear:  Kyatt', '10043': 'Hunter Gear:  Larupia', '10049': 'Hunter Gear:  Graahk', '10053': 'Camouflage Gear:  Wood', '10057': 'Camouflage Gear:  Jungle', '10061': 'Camouflage Gear:  Desert', '10065': 'Camouflage Gear:  Polar', '10069': 'Spotted Hunting Cape', '10071': 'Spottier Hunting Cape', '10280': 'Composite Bow:  Willow', '10282': 'Composite Bow:  Yew', '10284': 'Composite Bow:  Magic', '10286': 'Rune Heraldic Helm (h1)', '10288': 'Rune Heraldic Helm (h2)', '10290': 'Rune Heraldic Helm (h3)', '10292': 'Rune Heraldic Helm (h4)', '10294': 'Rune Heraldic Helm (h5)', '10296': 'Adamant Heraldic Helm (h1)', '10298': 'Adamant Heraldic Helm (h2)', '10300': 'Adamant Heraldic Helm (h3)', '10302': 'Adamant Heraldic Helm (h4)', '10304': 'Adamant Heraldic Helm (h5)', '10306': 'Black Heraldic Helm (h1)', '10308': 'Black Heraldic Helm (h2)', '10310': 'Black Heraldic Helm (h3)', '10312': 'Black Heraldic Helm (h4)', '10314': 'Black Heraldic Helm (h5)', '10316': 'Bob the Cat Shirt (red)', '10318': 'Bob the Cat Shirt (blue)', '10320': 'Bob the Cat Shirt (green)', '10322': 'Bob the Cat Shirt (black)', '10324': 'Bob the Cat Shirt (purple)', '10330': '3rd Age Range Top', '10332': '3rd Age Range Legs', '10334': '3rd Age Range Coif', '10336': '3rd Age Range Vambraces', '10338': '3rd Age Mage Robe Top', '10340': '3rd Age Mage Robe Bottoms', '10342': '3rd Age Mage Hat', '10344': '3rd Age Mage Amulet', '10346': '3rd Age Melee Legs', '10348': '3rd Age Melee Platebody', '10350': '3rd Age Melee Helmet', '10352': '3rd Age Melee Kiteshield', '10362': 'Amulet of Glory (trim)', '10364': 'Amulet of Strength (trim)', '10366': 'Amulet of Magic (trim)', '10370': 'Blessed Dragonhide (Zamorak)', '10378': 'Blessed Dragonhide (Guthix)', '10386': 'Blessed Dragonhide (Saradomin)', '10392': 'Wig', '10394': 'Flared Pants', '10396': 'Pantaloons', '10398': 'Sleeping Cap', '10400': 'Elegant Clothes (black & white)', '10404': 'Elegant Clothes (red)', '10408': 'Elegant Clothes (blue)', '10412': 'Elegant Clothes (green)', '10416': 'Elegant Clothes (purple)', '10458': 'Vestments:  Saradomin', '10460': 'Vestments:  Zamorak', '10462': 'Vestments:  Guthix', '10507': '2006:  Reindeer Hat', '10547': 'Penance Healer Hat', '10548': 'Penance Fighter Hat', '10549': 'Penance Runner Hat', '10550': 'Penance Ranger Hat', '10551': 'Penance Fighter Torso', '10552': 'Penance Runner Boots', '10553': 'Penance Gloves', '10555': 'Penance Skirt', '10862': 'Builder's Costume', '10939': 'Lumberjack Costume', '11021': '2007:  Chicken Suit', '11280': 'Cavalier Mask', '11282': 'Beret Mask', '11663': 'Void Mage Helm', '11664': 'Void Ranger Helm', '11665': 'Void Melee Helm', '11847': '2013:  Black Halloween Mask', '11850': 'Graceful Outfit', '11862': '2013:  Black Party Hat', '11863': '2013:  Rainbow Party Hat', '11896': 'Castle Wars Mage Armour', '11899': 'Castle Wars Ranger Armour', '11919': '2014-15:  Cow Suit', '11990': 'Fedora', '12007': 'Jar of Dirt (Kraken)', '12013': 'Prospector Kit', '12193': 'Vestments:  Ancient', '12205': 'Bronze Armour (gold)', '12215': 'Bronze Armour (trim)', '12225': 'Iron Armour (trim)', '12235': 'Iron Armour (gold)', '12245': 'Beanie Hat', '12247': 'Beret (red)', '12249': 'Mask:  Imp', '12251': 'Mask:  Goblin', '12253': 'Vestments:  Armadyl', '12265': 'Vestments:  Bandos', '12277': 'Mithril Armour (gold)', '12287': 'Mithril Armour (trim)', '12297': 'Black Pickaxe', '12299': 'Headband (white)', '12301': 'Headband (blue)', '12303': 'Headband (gold)', '12305': 'Headband (pink)', '12307': 'Headband (green)', '12309': 'Straw Boater (pink)', '12311': 'Straw Boater (purple)', '12313': 'Straw Boater (white)', '12315': 'Elegant Clothes (pink)', '12319': 'Town Crier', '12321': 'Cavalier (white)', '12323': 'Cavalier (red)', '12325': 'Cavalier (blue)', '12327': 'Red Dragonhide (gold)', '12331': 'Red Dragonhide (trim)', '12335': 'Briefcase', '12337': 'Sagacious Spectacles', '12347': 'Elegant Clothes (gold)', '12353': 'Monocle', '12355': 'Pirate Hat (big)', '12357': 'Katana', '12359': 'Leprechaun Hat', '12361': 'Mask:  Cat', '12363': 'Dragon Mask (bronze)', '12365': 'Dragon Mask (iron)', '12367': 'Dragon Mask (steel)', '12369': 'Dragon Mask (mithril)', '12371': 'Dragon Mask (lava)', '12373': 'Cane:  Dragon', '12375': 'Cane:  Black', '12377': 'Cane:  Adamant', '12379': 'Cane:  Rune', '12381': 'Black Dragonhide (gold)', '12385': 'Black Dragonhide (trim)', '12389': 'Rune Scimitar (gilded)', '12391': 'Rune Boots (gilded)', '12393': 'Royal Attire', '12399': 'Partyhat & Specs', '12412': 'Pirate Hat & Patch', '12417': 'Dragon Armour (gilded)', '12420': 'Infinity Robes (light)', '12422': '3rd Age Wand', '12424': '3rd Age Bow', '12426': '3rd Age Longsword', '12428': 'Mask:  Penguin', '12430': 'Afro', '12432': 'Top Hat', '12434': 'Top Hat & Monocle', '12437': '3rd Age Cloak', '12441': 'Musketeer Outfit', '12453': 'Black Wizard (gold)', '12455': 'Black Wizard (trim)', '12458': 'Infinity Robes (dark)', '12460': 'Rune Armour (Ancient)', '12470': 'Rune Armour (Armadyl)', '12480': 'Rune Armour (Bandos)', '12492': 'Blessed Dragonhide (Ancient)', '12500': 'Blessed Dragonhide (Bandos)', '12508': 'Blessed Dragonhide (Armadyl)', '12514': 'Explorer Backpack', '12516': 'Pith Helmet', '12518': 'Dragon Mask (green)', '12520': 'Dragon Mask (blue)', '12522': 'Dragon Mask (red)', '12524': 'Dragon Mask (black)', '12540': 'Deerstalker', '12596': 'Ranger Kit', '12598': 'Holy Sandals', '12600': '2014:  Druidic Wreath', '12637': 'Halo:  Saradomin', '12638': 'Halo:  Zamorak', '12639': 'Halo:  Guthix', '12845': '2007:  Grim Reaper Hood', '12885': 'Jar of Sand (Kalphite Queen)', '12887': '2014:  Santa Costume', '12892': '2014:  Antisanta Costume', '12936': 'Jar of Swamp (Zulrah)', '13072': 'Void Knight Elite Armour', '13203': '2015:  Mask of Balance', '13215': '2015:  Toy Animals', '13221': 'Music Cape', '13245': 'Jar of Souls (Cerberus)', '13258': 'Angler's Outfit', '13277': 'Jar of Miasma (Abyssal Sire)', '13280': 'Max Cape', '13283': '2015:  Undead Gravedigger', '13288': '2015:  Anti-panties', '13317': 'Deadman Armour', '13343': '2015:  Black Santa Hat', '13344': '2015:  Inverted Santa Hat', '13359': 'Shayzien Armour (tier 1)', '13364': 'Shayzien Armour (tier 2)', '13369': 'Shayzien Armour (tier 3)', '13374': 'Shayzien Armour (tier 4)', '13379': 'Shayzien Armour (tier 5)', '13385': 'Xerician Armour', '13579': 'Graceful Outfit:  Arceuus', '13591': 'Graceful Outfit:  Piscarilius', '13603': 'Graceful Outfit:  Lovakengj', '13615': 'Graceful Outfit:  Shayzien', '13627': 'Graceful Outfit:  Hosidius', '13646': 'Farmer's Outfit', '13655': '2016:  Gnome Child Hat', '13663': '2015-16:  Bunny Outfit', '13667': 'Graceful Outfit:  Kourend', '13679': '2016:  Cabbage Cape', '13681': '2016:  Cruciferous Codex', '19476': 'Achievement Diary Cape', '19687': 'Helm of Raedwald', '19689': 'Clue Hunter Outfit', '19699': '2016:  Hornwood Helm', '19701': 'Jar of Darkness (Skotizo)', '19724': 'Eye Patch', '19912': 'Zombie Head', '19915': 'Cyclops Head', '19918': 'Nunchaku', '19921': 'Dragonhide Boots (Ancient)', '19924': 'Dragonhide Boots (Bandos)', '19927': 'Dragonhide Boots (Guthix)', '19930': 'Dragonhide Boots (Armadyl)', '19933': 'Dragonhide Boots (Saradomin)', '19936': 'Dragonhide Boots (Zamorak)', '19941': 'Heavy Casket', '19943': 'Kourend Scarf:  Arceuus', '19946': 'Kourend Scarf:  Hosidius', '19949': 'Kourend Scarf:  Lovakengj', '19952': 'Kourend Scarf:  Piscarilius', '19955': 'Kourend Scarf:  Shayzien', '19970': 'Tuxedo Outfit (dark)', '19985': 'Tuxedo Outfit (light)', '19988': 'Blacksmith's Helm', '19991': 'Bucket Helm', '19997': 'Holy Wraps', '20000': 'Dragon Scimitar (ornate)', '20005': 'Ring of Nature', '20008': 'Fancy Tiara', '20011': '3rd Age Axe', '20014': '3rd Age Pickaxe', '20017': 'Ring of Coins', '20020': 'Mask:  Lesser Demon', '20023': 'Mask:  Greater Demon', '20026': 'Mask:  Black Demon', '20029': 'Mask:  Old Demon', '20032': 'Mask:  Jungle Demon', '20038': 'Samurai Outfit', '20050': 'Obsidian Cape (red)', '20053': 'Half Moon Spectacles', '20056': 'Ale of the Gods', '20059': 'Bucket Helm (gold)', '20080': 'Mummy Costume', '20095': 'Ankou Costume', '20110': 'Bowl Wig', '20113': 'Kourend Hood:  Arceuus', '20116': 'Kourend Hood:  Hosidius', '20119': 'Kourend Hood:  Lovakengj', '20122': 'Kourend Hood:  Piscarilius', '20125': 'Kourend Hood:  Shayzien', '20128': 'Robes of Darkness', '20146': 'Rune Med Helm (gilded)', '20149': 'Rune Chainbody (gilded)', '20152': 'Rune Square Shield (gilded)', '20155': 'Rune 2h Sword (gilded)', '20158': 'Rune Spear (gilded)', '20161': 'Rune Hasta (gilded)', '20164': 'Large Spade', '20166': 'Wooden Shield (gold)', '20169': 'Steel Armour (gold)', '20184': 'Steel Armour (trim)', '20199': 'Monk's Robes (gold)', '20205': 'Golden Chef's Hat', '20208': 'Golden Apron', '20211': 'Wilderness Cape 0', '20214': 'Wilderness Cape X', '20217': 'Wilderness Cape I', '20220': 'Blessing:  Holy', '20223': 'Blessing:  Unholy', '20226': 'Blessing:  Peaceful ', '20229': 'Blessing:  Honourable', '20232': 'Blessing:  War', '20235': 'Blessing:  Ancient', '20246': 'Leprechaun Hat (black)', '20249': 'Clueless Scroll', '20251': 'Kourend Banner:  Arceuus', '20254': 'Kourend Banner:  Hosidius', '20257': 'Kourend Banner:  Lovakengj', '20260': 'Kourend Banner:  Piscarilius', '20263': 'Kourend Banner:  Shayzien', '20266': 'Mask:  Black Unicorn', '20269': 'Mask:  White Unicorn', '20272': 'Cabbage Round Shield', '20439': 'Evil Chicken Costume', '20517': 'Elder Chaos Druid Robes', '20590': 'Stale Baguette', '20595': 'Elder Chaos Druid Robes', '20708': 'Pyromancer Outfit', '20712': 'Warm Gloves', '20720': 'Bruma Torch', '20773': '2016:  Masked Killer', '20832': '2016:  Snow Globe', '20834': '2016:  Sack of Presents', '20836': '2016:  Giant Present', '20838': 'Corrupted Armour', '21018': 'Ancestral Robes', '21061': 'Graceful Outfit:  Agility Arena', '21209': '2017:  Birthday Balloons', '21211': '2017:  4th Birthday Hat', '21214': '2017:  Easter Egg Helm', '21295': 'Infernal Cape', '21298': 'Obsidian Armour', '21314': '2017:  Rainbow Scarf', '21343': 'Mining Gloves', '21354': '2017:  Hand Fan', '21439': 'Champion's Cape', '21695': '2017:  Runefest Shield', '21720': '2017:  Jonas Mask', '21745': 'Jar of Stone (Grotesque Guardians)', '21791': 'Mage Arena:  Saradomin (imbued)', '21793': 'Mage Arena:  Guthix (imbued)', '21795': 'Mage Arena:  Zamorak (imbued)', '21847': '2017:  Snow Imp Costume', '21859': '2017:  Wise Old Man's Santa Hat', '22106': 'Jar of Decay (Vorkath)', '22114': 'Mythical Cape', '22234': 'Dragon Boots (gold)', '22316': '2018:  Birthday Prop Sword', '22326': 'Justiciar Armour', '22351': '2018:  Eggshell Outfit', '22388': 'Xeric's Guard', '22390': 'Xeric's Warrior', '22392': 'Xeric's Sentinel', '22394': 'Xeric's General', '22396': 'Xeric's Champion', '22494': 'Sinhaza Shroud (tier 1)', '22496': 'Sinhaza Shroud (tier 2)', '22498': 'Sinhaza Shroud (tier 3)', '22500': 'Sinhaza Shroud (tier 4)', '22502': 'Sinhaza Shroud (tier 5)', '22675': 'Scroll Sack', '22684': '2018:  Eek the Spider', '22689': '2018:  Clown Suit', '22713': '2018:  Christmas Tree Suit', '22838': 'Fish Sack', '22840': 'Golden Tench', '22842': 'Pearl Barbarian Rod', '22844': 'Pearl Fly Fishing Rod', '22846': 'Pearl Fishing Rod', '23047': 'Mystic Robes (dusk)', '23064': 'Jar of Chemicals (Alchemical Hydra)', '23101': 'Ornate Armour', '23108': '2019:  Birthday Cake ', '23122': 'Oily Pearl Fishing Rod', '23185': 'Ring of 3rd Age', '23188': 'Dragonhide Shield (Guthix)', '23191': 'Dragonhide Shield (Saradomin)', '23194': 'Dragonhide Shield (Zamorak)', '23197': 'Dragonhide Shield (Ancient)', '23200': 'Dragonhide Shield (Armadyl)', '23203': 'Dragonhide Shield (Bandos)', '23206': 'Dual Sai', '23209': 'Rune PlateBody (h1)', '23212': 'Rune PlateBody (h2)', '23215': 'Rune PlateBody (h3)', '23218': 'Rune PlateBody (h4)', '23221': 'Rune PlateBody (h5)', '23224': 'Thieving Bag', '23246': 'Fremennik Kilt', '23252': 'Giant Boot', '23255': 'Uri's Hat', '23258': 'Dragonhide (gilded)', '23270': 'Dragon Mask (adamant)', '23273': 'Dragon Mask (rune)', '23276': 'Rune Pickaxe (gilded)', '23279': 'Rune Axe (gilded)', '23282': 'Spade (gilded)', '23285': 'Mole Slippers', '23288': 'Frog Slippers', '23291': 'Bear Feet', '23294': 'Demon Feet', '23297': 'Jester Cape', '23300': 'Shoulder Parrot', '23303': 'Monk's Robes (trim)', '23309': 'Amulet of Defence (trim)', '23312': 'Sandwich Lady Costume', '23330': 'Rune Scimitar (Guthix)', '23332': 'Rune Scimitar (Saradomin)', '23334': 'Rune Scimitar (Zamorak)', '23336': '3rd Age Druidic Robe Top', '23339': '3rd Age Druidic Robe Bottoms', '23342': '3rd Age Druidic Staff', '23345': '3rd Age Druidic Cloak', '23351': 'Cape of Skulls', '23354': 'Amulet of Power (trim)', '23357': 'Rain Bow', '23360': 'Ham Joint', '23363': 'Staff of Bob the Cat', '23366': 'Black Platebody (h1)', '23369': 'Black Platebody (h2)', '23372': 'Black Platebody (h3)', '23375': 'Black Platebody (h4)', '23378': 'Black Platebody (h5)', '23381': 'Leather Armour (gold)', '23389': 'Spiked Manacles', '23392': 'Adamant Platebody (h1)', '23395': 'Adamant Platebody (h2)', '23398': 'Adamant Platebody (h3)', '23401': 'Adamant Platebody (h4)', '23404': 'Adamant Platebody (h5)', '23407': 'Mask:  Wolf', '23410': 'Wolf Cloak', '23413': 'Climbing Boots (gold)', '23446': '2019:  Giant Easter Egg', '23448': '2019:  Bunny Mask', '23525': 'Jar of Eyes (Sarachnis)', '23785': 'Ardougne Knight Armour', '23859': 'Gauntlet Cape', '24034': 'Dragonstone Armour', '24192': 'Halo:  Armadyl', '24195': 'Halo:  Bandos', '24198': 'Halo:  Seren', '24201': 'Halo:  Ancient', '24204': 'Halo:  Brassica', '24207': 'Victor's Cape (1)', '24209': 'Victor's Cape (10)', '24211': 'Victor's Cape (50)', '24213': 'Victor's Cape (100)', '24215': 'Victor's Cape (500)', '24219': 'Swift Blade', '24288': 'Dagon'hai Robes', '24305': '2019:  Spooky Costume', '24315': '2019:  Spookier Costume', '24325': '2019:  Pumpkin Lantern', '24327': '2019:  Skeleton Lantern', '24338': 'Bounty Hunter Hat (tier 1)', '24340': 'Bounty Hunter Hat (tier 2)', '24342': 'Bounty Hunter Hat (tier 3)', '24344': 'Bounty Hunter Hat (tier 4)', '24346': 'Bounty Hunter Hat (tier 5)', '24348': 'Bounty Hunter Hat (tier 6)', '24389': 'Twisted Relichunter (tier 3)', '24395': 'Cane:  Twisted', '24399': 'Twisted Relichunter (tier 2)', '24407': 'Twisted Relichunter (tier 1)', '24419': 'Inquisitor's Armour', '24428': '2019:  Gingerbread Gnome Shield', '24495': 'Jar of Dreams (Nightmare)', '24520': 'Victor's Cape (1000)', '24525': '2020:  Cat Ears', '24535': '2020:  Easter Magic Egg', '24537': '2020:  Easter Carrot Swords', '24664': 'Ancestral Robes (Twisted)', '24676': 'Vyre Noble Outfit', '24743': 'Graceful Outfit:  Hallowed', '24872': 'Carpenter's Outfit', '24880': 'Amy's Saw', '24975': '2020:  Headless Head', '24977': '2020:  Magical Pumpkin', '25004': 'Trailblazer Relichunter (tier 3)', '25013': 'Cane:  Trailblazer', '25019': 'Trailblazer Relichunter (tier 2)', '25031': 'Trailblazer Relichunter (tier 1)', '25069': 'Graceful Outfit:  Trailblazer', '25129': 'Beekeeper Outfit', '25314': '2020:  Christmas Boulder', '25316': '2020:  Goblin Decorations', '25322': '2021:  20th Anniversary Outfit', '25336': '2021:  Gnome Child Memorabilia', '25346': 'Soul Cape', '25398': 'Swampbark Armour', '25413': 'Bloodbark Armour', '25438': 'Zealot's Prayer Robes', '25500': '2021:  Cursed Banana', '25502': '2021:  Banana Cape', '25521': 'Jar of Spirits (Corporeal Beast)', '25524': 'Jar of Smoke (Thermy)', '25549': 'Prospector Kit (golden)', '25557': 'Dark Flippers', '25592': 'Angler's Outfit (spirit)', '25604': '2021:  Gregg's Eastdoor', '25606': '2021:  Propeller Hat', '25644': 'Imcando Hammer', '25840': '2021:  Banana Hat', '26225': 'Ancient Ceremonial Robes', '26241': 'Virtus Robes', '26254': '2021:  Saucepan', '26256': '2021:  Ugly Halloween Jumper', '26260': '2021:  Haunted Wine Bottle', '26310': '2021:  Festive Slippers', '26312': '2021:  Festive Hat', '26314': '2021:  Magical Snowman Ring', '26316': '2021:  Secret Santa Present', '26430': 'Shattered Relichunter (tier 1)', '26442': 'Shattered Relichunter (tier 2)', '26454': 'Shattered Relichunter (tier 3)', '26463': 'Void Knight (Shattered Relics)', '26469': 'Void Knight Elite (Shattered Relics)', '26473': 'Void Mage Helm (Shattered Relics)', '26475': 'Void Ranger Helm (Shattered Relics)', '26477': 'Void Melee Helm (Shattered Relics)', '26517': 'Cane:  Shattered', '26531': 'Mystic Robes (Shattered Relics)', '26649': '2022:  Sand Skis', '26852': 'Raiments of the Eye', '26860': 'Raiments of the Eye (red)', '26866': 'Raiments of the Eye (green)', '26872': 'Raiments of the Eye (blue)', '26937': '2022:  Easter Hat', '26939': '2022:  Easter Crate Ring', '27023': 'Smiths' Uniform', '27035': '2022:  Pride Flower Crown', '27119': 'Elder Chaos Druid Robes (ornate)', '27123': 'Dagon'hai Robes (ornate)', '27226': 'Masori Armour', '27235': 'Masori Armour (fortified)', '27257': 'Icthlarin's Shroud (tier 1)', '27259': 'Icthlarin's Shroud (tier 2)', '27261': 'Icthlarin's Shroud (tier 3)', '27263': 'Icthlarin's Shroud (tier 4)', '27265': 'Icthlarin's Shroud (tier 5)', '27370': 'Mask of Rebirth', '27392': 'Adventurer's Outfit (tier 1)', '27400': 'Adventurer's Outfit (tier 2)', '27408': 'Adventurer's Outfit (tier 3)', '27414': 'Giant Stopwatch', '27428': 'Robes of Ruin', '27444': 'Graceful Outfit:  Adventurer', '27463': '2022:  Treat Cauldron', '27473': '2022:  Witch Costume', '27497': '2022:  Halloween Wig', '27564': '2022:  Santa's List', '27566': '2022:  Festive Jumper', '27568': '2022:  Snow Goggles & Hat', '27570': '2022:  Coal Sack', '27576': '2022:  Nutcracker Outfit', '27588': '2022:  Festive Games Crown', '27645': '2023:  Mystic Cards', '27802': '2023:  Gnomechild Backpack', '27804': '2023:  Birthday Cake Hat', '27806': '2023:  Birthday Slippers', '27810': '2023:  Dragon Candle Dagger', '27812': '2023:  10th Birthday Cape', '27818': '2023:  Birthday Plush', '27820': '2023:  Birthday Balloons', '27822': '2023:  Birthday Jumper', '27828': '2023:  Silver Partyhat', '27871': '2023:  Giant Bronze Dagger', '27873': '2023:  Eastfloor Spade', '27875': '2023:  Nest Hat', '28116': '2023:  Rainbow Jumper', '28126': '2023:  Poet's Jacket', '28128': '2023:  Love Crossbow', '28136': 'Forestry Kit', '28140': 'Log Basket', '28169': 'Lumberjack Costume:  Forestry', '28226': '3rd Age Felling Axe', '28601': '2023:  Cobweb Cape', '28603': '2023:  Spider Hat', '28620': 'Pheasant Costume', '28715': 'Trailblazer Reloaded Relichunter (tier 1)', '28727': 'Trailblazer Reloaded Relichunter (tier 2)', '28739': 'Trailblazer Reloaded Relichunter (tier 3)', '28748': 'Torch:  Trailblazer Reloaded', '28786': '2023:  Icy jumper', '28788': '2023:  Snowglobe helmet', '28933': 'Sunfire Fanatic Armour', '29263': 'Hunters Outfit', '29433': '2024:  Egg priest vestments'}
+|-
+| rowspan="2" | [https://chisel.weirdgloop.org/structs/index.html?type=enums&id=4615 4615][https://abextm.github.io/cache2/#/viewer/enum/4615 (1)]
+|-
+| map || {'1': 'Heraldic shield', '2': 'Heraldic helm', '3': 'Stole', '4': 'Headband', '5': 'Crozier', '6': 'Amulet of glory', '7': 'God book', '8': 'Combat bracelet', '9': 'Mitre', '10': 'Iban staff', '11': 'Boater', '12': 'Pharoah sceptre', '13': 'Slayer helm', '14': 'Ring of Wealth', '15': 'Bob Shirt', '16': 'Castle wars bracelet', '17': 'Pirate bandana', '18': 'Ring of duelling', '19': 'Team cape', '20': 'Imbued crystal bow', '21': 'Dragon pickaxe', '22': 'Fire cape', '23': 'Amulet of the damned', '24': 'Abyssal whip', '25': 'Lava battlestaff', '26': 'Bryophyta's staff', '27': 'Dragon defender', '28': 'Bandos godsword', '29': 'Zamorak godsword', '30': 'Dragon boots', '31': 'Dragon plateskirt', '32': 'Climbing boots', '33': 'Dragon chain', '34': 'Dragon square shield', '35': 'Dragon axe', '36': 'Farmer's hat', '37': 'Rune crossbow', '38': 'Bandos boots', '39': 'Dragon scimitar', '40': 'Tz'haar maul', '41': 'Fighter torso', '42': 'Ivandis weapon', '43': 'Ghostspeak Amulet', '44': 'Dragon Battleaxe', '45': 'Dragon 2h sword', '46': 'Dragon spear', '47': 'Dragon med helm', '48': 'Helm of Neitiznot'} || {'1': 'Heraldic shield', '2': 'Heraldic helm', '3': 'Stole', '4': 'Headband', '5': 'Crozier', '6': 'Amulet of glory', '7': 'God book', '8': 'Combat bracelet', '9': 'Mitre', '10': 'Iban staff', '11': 'Boater', '12': 'Pharoah sceptre', '13': 'Slayer helm', '14': 'Ring of Wealth', '15': 'Bob Shirt', '16': 'Castle wars bracelet', '17': 'Pirate bandana', '18': 'Ring of duelling', '19': 'Team cape', '20': 'Imbued crystal bow', '21': 'Dragon pickaxe', '22': 'Fire cape', '23': 'Amulet of the damned', '24': 'Abyssal whip', '25': 'Lava battlestaff', '26': 'Bryophyta's staff', '27': 'Dragon defender', '28': 'Bandos godsword', '29': 'Zamorak godsword', '30': 'Dragon boots', '31': 'Dragon plateskirt', '32': 'Climbing boots', '33': 'Dragon chain', '34': 'Dragon square shield', '35': 'Dragon axe', '36': 'Farmer's hat', '37': 'Rune crossbow', '38': 'Bandos boots', '39': 'Dragon scimitar', '40': 'Tz'haar maul', '41': 'Fighter torso', '42': 'Ivandis weapon', '43': 'Ghostspeak Amulet', '44': 'Dragon Battleaxe', '45': 'Dragon 2h sword', '46': 'Dragon spear', '47': 'Dragon med helm', '48': 'Helm of Neitiznot', '49': 'Blue moon helm', '50': 'Blue moon chestplate', '51': 'Blue moon tassets'}
+|}
+==Npcs==
+===New Npcs===
+{| class="wikitable sortable"
+|-
+! colspan="4" | New Npcs
+|-
+! style="width: 15em" | name !! id !! combatLevel !! actions
+|-
+| [[Animated egg]] || [https://chisel.weirdgloop.org/moid/npc_id.html#13429 13429][https://abextm.github.io/cache2/#/viewer/npc/13429 (1)] ||  || [None, None, None, None, None]
+|-
+| [[Animated egg]] || [https://chisel.weirdgloop.org/moid/npc_id.html#13430 13430][https://abextm.github.io/cache2/#/viewer/npc/13430 (1)] ||  || [Capture, None, None, None, None]
+|-
+| [[Animated egg]] || [https://chisel.weirdgloop.org/moid/npc_id.html#13431 13431][https://abextm.github.io/cache2/#/viewer/npc/13431 (1)] ||  || [Capture, None, None, None, None]
+|-
+| [[Animated egg]] || [https://chisel.weirdgloop.org/moid/npc_id.html#13432 13432][https://abextm.github.io/cache2/#/viewer/npc/13432 (1)] ||  || [None, None, None, None, None]
+|-
+| [[Easter Bunny]] || [https://chisel.weirdgloop.org/moid/npc_id.html#13433 13433][https://abextm.github.io/cache2/#/viewer/npc/13433 (1)] ||  || [Talk-to, None, Teleport, None, None]
+|-
+| [[Easter Bunny]] || [https://chisel.weirdgloop.org/moid/npc_id.html#13434 13434][https://abextm.github.io/cache2/#/viewer/npc/13434 (1)] ||  || [Talk-to, None, None, None, None]
+|-
+| [[Easter Bunny]] || [https://chisel.weirdgloop.org/moid/npc_id.html#13435 13435][https://abextm.github.io/cache2/#/viewer/npc/13435 (1)] ||  || [None, None, None, None, None]
+|-
+| [[Eg]] || [https://chisel.weirdgloop.org/moid/npc_id.html#13436 13436][https://abextm.github.io/cache2/#/viewer/npc/13436 (1)] ||  || [Talk-to, None, None, None, None]
+|-
+| [[Egg]] || [https://chisel.weirdgloop.org/moid/npc_id.html#13437 13437][https://abextm.github.io/cache2/#/viewer/npc/13437 (1)] ||  || [Talk-to, None, None, None, None]
+|-
+| [[Eggy]] || [https://chisel.weirdgloop.org/moid/npc_id.html#13438 13438][https://abextm.github.io/cache2/#/viewer/npc/13438 (1)] ||  || [Talk-to, None, None, None, None]
+|-
+| [[Easter egg bird]] || [https://chisel.weirdgloop.org/moid/npc_id.html#13439 13439][https://abextm.github.io/cache2/#/viewer/npc/13439 (1)] ||  || [None, None, None, None, None]
+|-
+| [[Easter egg bird]] || [https://chisel.weirdgloop.org/moid/npc_id.html#13440 13440][https://abextm.github.io/cache2/#/viewer/npc/13440 (1)] ||  || [None, None, None, None, None]
+|-
+| [[Eggus manus]] || [https://chisel.weirdgloop.org/moid/npc_id.html#13441 13441][https://abextm.github.io/cache2/#/viewer/npc/13441 (1)] ||  || [Talk-to, None, Teleport, None, None]
+|-
+| [[Eggus manus]] || [https://chisel.weirdgloop.org/moid/npc_id.html#13442 13442][https://abextm.github.io/cache2/#/viewer/npc/13442 (1)] ||  || [None, Hidden, None, None, None]
+|-
+| [[Egg priest]] || [https://chisel.weirdgloop.org/moid/npc_id.html#13443 13443][https://abextm.github.io/cache2/#/viewer/npc/13443 (1)] ||  || [Hidden, Hidden, None, None, None]
+|-
+| [[Egg priest]] || [https://chisel.weirdgloop.org/moid/npc_id.html#13444 13444][https://abextm.github.io/cache2/#/viewer/npc/13444 (1)] ||  || [Hidden, Hidden, None, None, None]
+|-
+| [[Egg priest]] || [https://chisel.weirdgloop.org/moid/npc_id.html#13445 13445][https://abextm.github.io/cache2/#/viewer/npc/13445 (1)] ||  || [Hidden, Hidden, None, None, None]
+|-
+| [[Egg priest]] || [https://chisel.weirdgloop.org/moid/npc_id.html#13446 13446][https://abextm.github.io/cache2/#/viewer/npc/13446 (1)] ||  || [Hidden, Hidden, None, None, None]
+|-
+| [[Egg priest]] || [https://chisel.weirdgloop.org/moid/npc_id.html#13447 13447][https://abextm.github.io/cache2/#/viewer/npc/13447 (1)] ||  || [Hidden, Hidden, None, None, None]
+|-
+| [[Egg priest]] || [https://chisel.weirdgloop.org/moid/npc_id.html#13448 13448][https://abextm.github.io/cache2/#/viewer/npc/13448 (1)] ||  || [Talk-to, Hidden, None, None, None]
+|-
+| [[Egg priest]] || [https://chisel.weirdgloop.org/moid/npc_id.html#13449 13449][https://abextm.github.io/cache2/#/viewer/npc/13449 (1)] ||  || [Talk-to, Hidden, None, None, None]
+|-
+| [[Egg priest]] || [https://chisel.weirdgloop.org/moid/npc_id.html#13450 13450][https://abextm.github.io/cache2/#/viewer/npc/13450 (1)] ||  || [Talk-to, Hidden, None, None, None]
+|-
+| [[Egg priest]] || [https://chisel.weirdgloop.org/moid/npc_id.html#13451 13451][https://abextm.github.io/cache2/#/viewer/npc/13451 (1)] ||  || [Talk-to, Hidden, None, None, None]
+|-
+| [[Egg priest]] || [https://chisel.weirdgloop.org/moid/npc_id.html#13452 13452][https://abextm.github.io/cache2/#/viewer/npc/13452 (1)] ||  || [Talk-to, Hidden, None, None, None]
+|-
+| [[Shifty looking priest]] || [https://chisel.weirdgloop.org/moid/npc_id.html#13453 13453][https://abextm.github.io/cache2/#/viewer/npc/13453 (1)] ||  || [Talk-to, None, None, None, None]
+|-
+| [[Protester]] || [https://chisel.weirdgloop.org/moid/npc_id.html#13454 13454][https://abextm.github.io/cache2/#/viewer/npc/13454 (1)] ||  || [Talk-to, None, None, None, None]
+|-
+| [[Upset easter egg hunter]] || [https://chisel.weirdgloop.org/moid/npc_id.html#13455 13455][https://abextm.github.io/cache2/#/viewer/npc/13455 (1)] ||  || [Talk-to, None, None, None, None]
+|-
+| [[Rascally child]] || [https://chisel.weirdgloop.org/moid/npc_id.html#13456 13456][https://abextm.github.io/cache2/#/viewer/npc/13456 (1)] ||  || [None, None, None, None, None]
+|-
+| [[Disappointed mother]] || [https://chisel.weirdgloop.org/moid/npc_id.html#13457 13457][https://abextm.github.io/cache2/#/viewer/npc/13457 (1)] ||  || [Talk-to, None, None, None, None]
+|-
+| [[Disappointed daughter]] || [https://chisel.weirdgloop.org/moid/npc_id.html#13458 13458][https://abextm.github.io/cache2/#/viewer/npc/13458 (1)] ||  || [Talk-to, None, None, None, None]
+|-
+| [[Disappointed father]] || [https://chisel.weirdgloop.org/moid/npc_id.html#13459 13459][https://abextm.github.io/cache2/#/viewer/npc/13459 (1)] ||  || [Talk-to, None, None, None, None]
+|-
+| [[Egg mine cart]] || [https://chisel.weirdgloop.org/moid/npc_id.html#13460 13460][https://abextm.github.io/cache2/#/viewer/npc/13460 (1)] ||  || [None, None, None, None, None]
+|-
+| [[Egg mine cart]] || [https://chisel.weirdgloop.org/moid/npc_id.html#13461 13461][https://abextm.github.io/cache2/#/viewer/npc/13461 (1)] ||  || [None, None, None, None, None]
+|-
+| [[Misbehaving mine cart]] || [https://chisel.weirdgloop.org/moid/npc_id.html#13462 13462][https://abextm.github.io/cache2/#/viewer/npc/13462 (1)] ||  || [None, None, None, None, None]
+|-
+| [[Misbehaving mine cart]] || [https://chisel.weirdgloop.org/moid/npc_id.html#13463 13463][https://abextm.github.io/cache2/#/viewer/npc/13463 (1)] ||  || [None, None, None, None, None]
+|-
+| [[Misbehaving mine cart]] || [https://chisel.weirdgloop.org/moid/npc_id.html#13464 13464][https://abextm.github.io/cache2/#/viewer/npc/13464 (1)] ||  || [None, None, None, None, None]
+|-
+| [[Misbehaving mine cart]] || [https://chisel.weirdgloop.org/moid/npc_id.html#13465 13465][https://abextm.github.io/cache2/#/viewer/npc/13465 (1)] ||  || [None, None, None, None, None]
+|-
+| [[Egg Priest]] || [https://chisel.weirdgloop.org/moid/npc_id.html#13466 13466][https://abextm.github.io/cache2/#/viewer/npc/13466 (1)] ||  || [Talk-to, None, None, None, None]
+|-
+| [[Egg Priest]] || [https://chisel.weirdgloop.org/moid/npc_id.html#13467 13467][https://abextm.github.io/cache2/#/viewer/npc/13467 (1)] ||  || [Talk-to, None, None, None, None]
+|-
+| [[Egg Priest]] || [https://chisel.weirdgloop.org/moid/npc_id.html#13468 13468][https://abextm.github.io/cache2/#/viewer/npc/13468 (1)] ||  || [Talk-to, None, None, None, None]
+|-
+| [[Rabbit]] || [https://chisel.weirdgloop.org/moid/npc_id.html#13469 13469][https://abextm.github.io/cache2/#/viewer/npc/13469 (1)] ||  || [None, None, None, None, None]
+|-
+| [[Rabbit]] || [https://chisel.weirdgloop.org/moid/npc_id.html#13470 13470][https://abextm.github.io/cache2/#/viewer/npc/13470 (1)] ||  || [None, None, None, None, None]
+|-
+| [[Chicken]] || [https://chisel.weirdgloop.org/moid/npc_id.html#13471 13471][https://abextm.github.io/cache2/#/viewer/npc/13471 (1)] ||  || [None, None, None, None, None]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/npc_id.html#13472 13472][https://abextm.github.io/cache2/#/viewer/npc/13472 (1)] || 1 || [None, None, None, None, None]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/npc_id.html#13473 13473][https://abextm.github.io/cache2/#/viewer/npc/13473 (1)] || 1 || [None, None, None, None, None]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/npc_id.html#13474 13474][https://abextm.github.io/cache2/#/viewer/npc/13474 (1)] || 1 || [None, None, None, None, None]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/npc_id.html#13475 13475][https://abextm.github.io/cache2/#/viewer/npc/13475 (1)] || 1 || [None, None, None, None, None]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/npc_id.html#13476 13476][https://abextm.github.io/cache2/#/viewer/npc/13476 (1)] || 1 || [None, None, None, None, None]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/npc_id.html#13477 13477][https://abextm.github.io/cache2/#/viewer/npc/13477 (1)] || 1 || [None, None, None, None, None]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/npc_id.html#13478 13478][https://abextm.github.io/cache2/#/viewer/npc/13478 (1)] || 1 || [None, None, None, None, None]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/npc_id.html#13479 13479][https://abextm.github.io/cache2/#/viewer/npc/13479 (1)] || 1 || [None, None, None, None, None]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/npc_id.html#13480 13480][https://abextm.github.io/cache2/#/viewer/npc/13480 (1)] || 1 || [None, None, None, None, None]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/npc_id.html#13481 13481][https://abextm.github.io/cache2/#/viewer/npc/13481 (1)] || 1 || [None, None, None, None, None]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/npc_id.html#13482 13482][https://abextm.github.io/cache2/#/viewer/npc/13482 (1)] || 1 || [None, None, None, None, None]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/npc_id.html#13483 13483][https://abextm.github.io/cache2/#/viewer/npc/13483 (1)] ||  || [None, None, None, None, None]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/npc_id.html#13484 13484][https://abextm.github.io/cache2/#/viewer/npc/13484 (1)] || 1 || [None, None, None, None, None]
+|}
+===Removed Npcs===
+{| class="wikitable sortable"
+|-
+! colspan="4" | Removed Npcs
+|-
+! style="width: 15em" | name !! id !! combatLevel !! actions
+|}
+===Diff Npcs===
+{| class="wikitable sortable sticky-header"
+|-
+! colspan="5" | Diff Npcs
+|-
+! style="width: 15em" | Name !! Id !! Key !! Previous Value !! New Value
+|}
+==Items==
+===New Items===
+{| class="wikitable sortable"
+|-
+! colspan="11" | New Items
+|-
+! style="width: 15em" | name !! id !! examine !! isMembers !! isGrandExchangable !! isStackable !! noteLinkedItem !! inventoryActions !! placeholderLinkedItem !! price !! weight
+|-
+| [[Yolklore of ayaster]] || [https://chisel.weirdgloop.org/moid/item_id.html#29431 29431][https://abextm.github.io/cache2/#/viewer/item/29431 (1)] || Eggciting secrets lie within! ||  ||  ||  || -1 || [Read, None, None, None, Destroy] || 29432 || 200 || 1000
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#29432 29432][https://abextm.github.io/cache2/#/viewer/item/29432 (1)] ||  ||  ||  ||  || -1 || [None, None, None, None, Drop] || 29431 || 1 || 
+|-
+| [[Book of egg]] || [https://chisel.weirdgloop.org/moid/item_id.html#29433 29433][https://abextm.github.io/cache2/#/viewer/item/29433 (1)] || An eggsquisite tome. ||  ||  ||  || -1 || [None, Wield, Preach, None, Destroy] || 29434 || 200 || 1000
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#29434 29434][https://abextm.github.io/cache2/#/viewer/item/29434 (1)] ||  ||  ||  ||  || -1 || [None, None, None, None, Drop] || 29433 || 1 || 
+|-
+| [[Book of egg]] || [https://chisel.weirdgloop.org/moid/item_id.html#29435 29435][https://abextm.github.io/cache2/#/viewer/item/29435 (1)] || An eggsquisite tome. ||  ||  ||  || -1 || [None, None, None, None, Destroy] || 29436 || 200 || 1000
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#29436 29436][https://abextm.github.io/cache2/#/viewer/item/29436 (1)] ||  ||  ||  ||  || -1 || [None, None, None, None, Drop] || 29435 || 1 || 
+|-
+| [[Egg priest robe]] || [https://chisel.weirdgloop.org/moid/item_id.html#29437 29437][https://abextm.github.io/cache2/#/viewer/item/29437 (1)] || Keeps an egg priest's knees nice and warm. ||  ||  ||  || -1 || [None, Wear, None, None, Destroy] || 29438 || 30 || 907
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#29438 29438][https://abextm.github.io/cache2/#/viewer/item/29438 (1)] ||  ||  ||  ||  || -1 || [None, None, None, None, Drop] || 29437 || 1 || 
+|-
+| [[Egg priest robe top]] || [https://chisel.weirdgloop.org/moid/item_id.html#29439 29439][https://abextm.github.io/cache2/#/viewer/item/29439 (1)] || I feel closer to the eggs when I am wearing this. ||  ||  ||  || -1 || [None, Wear, None, None, Destroy] || 29440 || 40 || 907
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#29440 29440][https://abextm.github.io/cache2/#/viewer/item/29440 (1)] ||  ||  ||  ||  || -1 || [None, None, None, None, Drop] || 29439 || 1 || 
+|-
+| [[Egg priest necklace]] || [https://chisel.weirdgloop.org/moid/item_id.html#29441 29441][https://abextm.github.io/cache2/#/viewer/item/29441 (1)] || I feel closer to the eggs when I am wearing this. ||  ||  ||  || -1 || [None, Wear, None, None, Destroy] || 29442 || 40 || 907
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#29442 29442][https://abextm.github.io/cache2/#/viewer/item/29442 (1)] ||  ||  ||  ||  || -1 || [None, None, None, None, Drop] || 29441 || 1 || 
+|-
+| [[Egg priest mitre]] || [https://chisel.weirdgloop.org/moid/item_id.html#29443 29443][https://abextm.github.io/cache2/#/viewer/item/29443 (1)] || An egg mitre. ||  ||  ||  || -1 || [None, Wear, None, None, Destroy] || 29444 || 200 || 300
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#29444 29444][https://abextm.github.io/cache2/#/viewer/item/29444 (1)] ||  ||  ||  ||  || -1 || [None, None, None, None, Drop] || 29443 || 1 || 
+|-
+| [[Easter egg (mined)]] || [https://chisel.weirdgloop.org/moid/item_id.html#29445 29445][https://abextm.github.io/cache2/#/viewer/item/29445 (1)] || A bit mucky. ||  ||  ||  || -1 || [None, None, None, None, Destroy] || -1 || 1 || 1
+|-
+| [[Eggnappin' sack]] || [https://chisel.weirdgloop.org/moid/item_id.html#29446 29446][https://abextm.github.io/cache2/#/viewer/item/29446 (1)] || Great for keeping animated eggs subdued. ||  ||  ||  || -1 || [Check, None, None, None, Destroy] || 29447 || 1 || 453
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#29447 29447][https://abextm.github.io/cache2/#/viewer/item/29447 (1)] ||  ||  ||  ||  || -1 || [None, None, None, None, Drop] || 29446 || 1 || 
+|}
+===Removed Items===
+{| class="wikitable sortable"
+|-
+! colspan="11" | Removed Items
+|-
+! style="width: 15em" | name !! id !! examine !! isMembers !! isGrandExchangable !! isStackable !! noteLinkedItem !! inventoryActions !! placeholderLinkedItem !! price !! weight
+|}
+===Diff Items===
+{| class="wikitable sortable sticky-header"
+|-
+! colspan="5" | Diff Items
+|-
+! style="width: 15em" | Name !! Id !! Key !! Previous Value !! New Value
+|-
+| rowspan="3" | [[Clue scroll (medium)]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/item_id.html#28907 28907][https://abextm.github.io/cache2/#/viewer/item/28907 (1)]
+|-
+| name || Challenge scroll (medium) || Clue scroll (medium)
+|-
+| params || {'623': 3498} || {'348': 1, '623': 3498}
+|-
+| rowspan="2" | [[Eclipse atlatl]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#29000 29000][https://abextm.github.io/cache2/#/viewer/item/29000 (1)]
+|-
+| params || {'434': 4, '436': 75} || {'191': 0, '434': 4, '435': 2, '436': 75, '437': 50, '613': 50}
+|-
+| rowspan="2" | [[Blue moon chestplate]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#29013 29013][https://abextm.github.io/cache2/#/viewer/item/29013 (1)]
+|-
+| params || {'434': 1, '435': 6, '436': 50, '437': 75, '1564': 4} || {'258': 50, '434': 1, '435': 6, '436': 50, '437': 75, '1564': 4}
+|-
+| rowspan="2" | [[Blue moon tassets]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#29016 29016][https://abextm.github.io/cache2/#/viewer/item/29016 (1)]
+|-
+| params || {'434': 1, '435': 6, '436': 50, '437': 75, '1564': 7} || {'258': 51, '434': 1, '435': 6, '436': 50, '437': 75, '1564': 7}
+|-
+| rowspan="2" | [[Blue moon helm]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#29019 29019][https://abextm.github.io/cache2/#/viewer/item/29019 (1)]
+|-
+| params || {'434': 1, '435': 6, '436': 50, '437': 75} || {'258': 49, '434': 1, '435': 6, '436': 50, '437': 75}
+|-
+| rowspan="2" | [[Blue moon chestplate]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#29037 29037][https://abextm.github.io/cache2/#/viewer/item/29037 (1)]
+|-
+| params || {'434': 1, '435': 6, '436': 50, '437': 75, '451': 'Check', '1564': 4} || {'258': 50, '434': 1, '435': 6, '436': 50, '437': 75, '451': 'Check', '1564': 4}
+|-
+| rowspan="2" | [[Blue moon tassets]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#29039 29039][https://abextm.github.io/cache2/#/viewer/item/29039 (1)]
+|-
+| params || {'434': 1, '435': 6, '436': 50, '437': 75, '451': 'Check', '1564': 7} || {'258': 51, '434': 1, '435': 6, '436': 50, '437': 75, '451': 'Check', '1564': 7}
+|-
+| rowspan="2" | [[Blue moon helm]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#29041 29041][https://abextm.github.io/cache2/#/viewer/item/29041 (1)]
+|-
+| params || {'434': 1, '435': 6, '436': 50, '437': 75, '451': 'Check'} || {'258': 49, '434': 1, '435': 6, '436': 50, '437': 75, '451': 'Check'}
+|-
+| rowspan="2" | [[Blue moon chestplate (broken)]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#29058 29058][https://abextm.github.io/cache2/#/viewer/item/29058 (1)]
+|-
+| params || {'434': 1, '435': 6, '436': 50, '437': 75, '1564': 4} || {'258': 50, '434': 1, '435': 6, '436': 50, '437': 75, '1564': 4}
+|-
+| rowspan="2" | [[Blue moon tassets (broken)]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#29061 29061][https://abextm.github.io/cache2/#/viewer/item/29061 (1)]
+|-
+| params || {'434': 1, '435': 6, '436': 50, '437': 75, '1564': 7} || {'258': 51, '434': 1, '435': 6, '436': 50, '437': 75, '1564': 7}
+|-
+| rowspan="2" | [[Blue moon helm (broken)]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#29064 29064][https://abextm.github.io/cache2/#/viewer/item/29064 (1)]
+|-
+| params || {'434': 1, '435': 6, '436': 50, '437': 75} || {'258': 49, '434': 1, '435': 6, '436': 50, '437': 75}
+|-
+| rowspan="2" | [[Hunters' loot sack (adept)]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#29244 29244][https://abextm.github.io/cache2/#/viewer/item/29244 (1)]
+|-
+| name || Hunters' loot sack (tier 1) || Hunters' loot sack (adept)
+|-
+| rowspan="2" | [[Hunters' loot sack (expert)]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#29246 29246][https://abextm.github.io/cache2/#/viewer/item/29246 (1)]
+|-
+| name || Hunters' loot sack (tier 2) || Hunters' loot sack (expert)
+|-
+| rowspan="2" | [[Hunters' loot sack (master)]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#29248 29248][https://abextm.github.io/cache2/#/viewer/item/29248 (1)]
+|-
+| name || Hunters' loot sack (tier 3) || Hunters' loot sack (master)
+|-
+| rowspan="2" | [[Hunter spear tips]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#29311 29311][https://abextm.github.io/cache2/#/viewer/item/29311 (1)]
+|-
+| category || 968 || -1
+|}
+==Structs==
+===New Structs===
+{| class="wikitable sortable"
+|-
+! colspan="2" | New Structs
+|-
+! style="width: 15em" | id !! params
+|}
+===Removed Structs===
+{| class="wikitable sortable"
+|-
+! colspan="2" | Removed Structs
+|-
+! style="width: 15em" | id !! params
+|}
+===Diff Structs===
+{| class="wikitable sortable sticky-header"
+|-
+! colspan="5" | Diff Structs
+|-
+! style="width: 15em" | Id !! Key !! Previous Value !! New Value
+|-
+| rowspan="2" | [https://chisel.weirdgloop.org/structs/index.html?type=structs&id=900 900][https://abextm.github.io/cache2/#/viewer/struct/900 (1)]
+|-
+| params || {'1895': 8, '1896': 'Doom', '1897': 'Hits from monsters off-prayer apply doom. Certain death after 20 stacks.', '1900': 0, '1901': 0, '1903': 200, '1914': 9} || {'1895': 8, '1896': 'Doom', '1897': 'A stack of Doom is gained every time you take damage. Certain death after 20 stacks.', '1900': 0, '1901': 0, '1903': 200, '1914': 9}
+|-
+| rowspan="2" | [https://chisel.weirdgloop.org/structs/index.html?type=structs&id=903 903][https://abextm.github.io/cache2/#/viewer/struct/903 (1)]
+|-
+| params || {'1895': 11, '1896': 'Myopia', '1897': 'Your attack range is reduced by 2 tiles.', '1898': 'Your attack range is reduced by 4 tiles.', '1899': 'Your attack range is reduced by 6 tiles.', '1900': 0, '1901': 1, '1903': 200, '1914': 13} || {'1895': 11, '1896': 'Myopia', '1897': 'Your range is reduced by 2 tiles with autocast and ranged attacks.', '1898': 'Your range is reduced by 4 tiles with autocast and ranged attacks.', '1899': 'Your range is reduced by 6 tiles with autocast and ranged attacks.', '1900': 0, '1901': 1, '1903': 200, '1914': 13}
+|}
+==Database Rows==
+===New Database Rows===
+{| class="wikitable sortable"
+|-
+! colspan="3" | New Database Rows
+|-
+! style="width: 15em" | id !! table !! values
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/3527 3527] || 44 || [[Sunny Side Up], [Sunny Side Up], [during the Easter 2024 Holiday Event.], [269], [788], [24, 8], None, None, None, None, None]
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/3528 3528] || 1 || 
+|}
+===Removed Database Rows===
+{| class="wikitable sortable"
+|-
+! colspan="3" | Removed Database Rows
+|-
+! style="width: 15em" | id !! table !! values
+|}
+===Diff Database Rows===
+{| class="wikitable sortable sticky-header"
+|-
+! colspan="5" | Diff Database Rows
+|-
+! style="width: 15em" | Id !! Key !! Previous Value !! New Value
+|-
+| rowspan="3" | [https://abextm.github.io/cache2/#/viewer/dbrow/3501 3501]
+|-
+| values || [[Equip the full Frostmoon set.], [29019], None, None, [28988], [29013], None, [29016], None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None] || [[Equip the full blue moon set.], None, None, None, [28988], None, None, None, None, None, None, None, [49], None, None, None, [50], None, [51], None, None, None, None, None]
+|-
+| types || [[36], [33], None, None, [33], [33], None, [33], None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None] || [[36], None, None, None, [33], None, None, None, None, None, None, None, [0], None, None, None, [0], None, [0], None, None, None, None, None]
+|-
+| rowspan="3" | [https://abextm.github.io/cache2/#/viewer/dbrow/3509 3509]
+|-
+| values || [[387], [5], [Fortis Salute outside the gates of Cam Torum. Beware of double agents! Equip a full set of Frostmoon equipment.], [3486], [53], None, [3501], [50740], [23399470], [1806], None, [21], None] || [[387], [5], [Salute outside the gates of Cam Torum. Beware of double agents! Equip a full set of blue moon equipment.], [3486], [21], None, [3501], [50740], [23399470], [1806], None, [21], None]
+|-
+| types || [[0], [0], [36], [74], [0], None, [74], [30], [22], [74], None, [0], None] || [[0], [0], [36], [74], [0], None, [74], [30], [22], [74], None, [0], None]
+|}

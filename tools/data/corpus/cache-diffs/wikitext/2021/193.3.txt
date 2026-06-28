@@ -1,0 +1,140 @@
+{| class="wikitable sortable"
+!colspan="5"|Items
+|-
+! Name !! ID !! Key !! Previous Value !! Changed into
+|-
+| [[Dragon thrownaxe]] || 21207 || cost || 300 || 3
+|-
+| [[Morrigan's javelin]] || 23619 || cost || 300 || 3
+|-
+| [[Bones]] || 25199 || cost || 1 || 1000
+|-
+| [[Soul fragment]] || 25201 || cost || 1 || 1000
+|-
+| [[Blue icon]] || 25213 || maleHeadModel || -1 || 81
+|-
+| [[Blue icon]] || 25214 || maleHeadModel || -1 || 82
+|-
+| [[Blue icon]] || 25215 || maleHeadModel || -1 || 83
+|-
+| [[Blue icon]] || 25216 || maleHeadModel || -1 || 79
+|-
+| [[Blue icon]] || 25218 || maleHeadModel || -1 || 80
+|-
+| [[Blue icon]] || 25219 || maleHeadModel || -1 || 85
+|-
+| [[Blue icon]] || 25220 || maleHeadModel || -1 || 84
+|-
+| [[Blue icon]] || 25221 || maleHeadModel || -1 || 28392
+|-
+| [[Blue icon]] || 25222 || maleHeadModel || -1 || 28390
+|-
+| [[Blue icon]] || 25223 || maleHeadModel || -1 || 28395
+|-
+| [[Blue icon]] || 25224 || maleHeadModel || -1 || 28396
+|-
+| [[Blue icon]] || 25225 || maleHeadModel || -1 || 28391
+|-
+| [[Blue icon]] || 25226 || maleHeadModel || -1 || 28401
+|-
+| [[Blue icon]] || 25227 || maleHeadModel || -1 || 28389
+|-
+| [[Red icon]] || 25229 || maleHeadModel || -1 || 81
+|-
+| [[Red icon]] || 25230 || maleHeadModel || -1 || 82
+|-
+| [[Red icon]] || 25231 || maleHeadModel || -1 || 83
+|-
+| [[Red icon]] || 25232 || maleHeadModel || -1 || 79
+|-
+| [[Red icon]] || 25234 || maleHeadModel || -1 || 80
+|-
+| [[Red icon]] || 25235 || maleHeadModel || -1 || 85
+|-
+| [[Red icon]] || 25236 || maleHeadModel || -1 || 84
+|-
+| [[Red icon]] || 25237 || maleHeadModel || -1 || 28392
+|-
+| [[Red icon]] || 25238 || maleHeadModel || -1 || 28390
+|-
+| [[Red icon]] || 25239 || maleHeadModel || -1 || 28395
+|-
+| [[Red icon]] || 25240 || maleHeadModel || -1 || 28396
+|-
+| [[Red icon]] || 25241 || maleHeadModel || -1 || 28391
+|-
+| [[Red icon]] || 25242 || maleHeadModel || -1 || 28401
+|-
+| [[Red icon]] || 25243 || maleHeadModel || -1 || 28389
+|-
+| [[Spoils of war]] || 25342 || interfaceOptions || ['Open', None, None, None, 'Drop'] || ['Open', 'Check', None, None, 'Drop']
+|-
+|}
+
+{| class="wikitable sortable"
+!colspan="5"|Non-Player Characters
+|-
+! Name !! ID !! Key !! Previous Value !! Changed into
+|-
+| [[Robert the Strong]] || 8057 || combatLevel || 194 || 224
+|-
+| [[Arianwyn]] || 8865 || combatLevel || 182 || 212
+|-
+| [[Arianwyn (hard)]] || 9246 || combatLevel || 368 || 378
+|-
+| [[Arianwyn]] || 9248 || combatLevel || 182 || 212
+|-
+|}
+
+{| class="wikitable sortable"
+!colspan="5"|Objects
+|-
+! Name !! ID !! Key !! Previous Value !! Changed into
+|-
+| [[Ancient brazier]] || 41183 || NEW ID || NEW ID || NEW ID
+|-
+| [[Ancient brazier]] || 41184 || NEW ID || NEW ID || NEW ID
+|-
+| [[Ancient brazier]] || 41185 || NEW ID || NEW ID || NEW ID
+|-
+| [[Ancient brazier]] || 41186 || NEW ID || NEW ID || NEW ID
+|-
+| [[Ancient brazier]] || 41187 || NEW ID || NEW ID || NEW ID
+|-
+| [[Ancient brazier]] || 41188 || NEW ID || NEW ID || NEW ID
+|-
+| [[Ancient brazier]] || 41189 || NEW ID || NEW ID || NEW ID
+|-
+| [[Ancient brazier]] || 41190 || NEW ID || NEW ID || NEW ID
+|-
+| [[null]] || 41191 || NEW ID || NEW ID || NEW ID
+|-
+| [[null]] || 41192 || NEW ID || NEW ID || NEW ID
+|-
+| [[null]] || 41193 || NEW ID || NEW ID || NEW ID
+|-
+| [[null]] || 41194 || NEW ID || NEW ID || NEW ID
+|-
+| [[null]] || 41195 || NEW ID || NEW ID || NEW ID
+|-
+| [[null]] || 41196 || NEW ID || NEW ID || NEW ID
+|-
+| [[null]] || 41197 || NEW ID || NEW ID || NEW ID
+|-
+| [[null]] || 41198 || NEW ID || NEW ID || NEW ID
+|-
+| [[Scoreboard]] || 4484 || actions || ['View', None, None, None, None] || ['View', None, 'View Stats', None, None]
+|-
+| [[Grubby Chest]] || 34838 || actions || ['Open', None, None, None, None] || ['Open', 'Check', None, None, None]
+|-
+| [[Cave]] || 40736 || actions || [None, None, None, None, None] || ['Enter', None, None, None, None]
+|-
+| [[Ladder]] || 40745 || name || [[null]] || [[Ladder]]
+|-
+| [[Ladder]] || 40745 || wallOrDoor || 0 || 1
+|-
+| [[Ladder]] || 40746 || name || [[null]] || [[Ladder]]
+|-
+| [[Ladder]] || 40746 || wallOrDoor || 0 || 1
+|-
+|}

@@ -14,33 +14,32 @@ object AmuletOfChemistry {
     const val CHARGES_VARBIT = "varbit.charges_alchemists_amulet_quantity"
     const val STOP_ON_CRUMBLE_VARBIT = "varbit.alchemy_anim_toggles"
 
-    val AMULET_TYPES = setOf(
-        "obj.amulet_of_chemistry",
-        "obj.amulet_of_chemistry_imbued_charged",
-        "obj.amulet_of_chemistry_imbued_uncharged"
-    )
+    val AMULET_TYPES =
+        setOf(
+            "obj.amulet_of_chemistry",
+            "obj.amulet_of_chemistry_imbued_charged",
+            "obj.amulet_of_chemistry_imbued_uncharged",
+        )
 
-    private val WEARABLE_TYPES = setOf(
-        "obj.amulet_of_chemistry",
-        "obj.amulet_of_chemistry_imbued_charged"
-    )
+    private val WEARABLE_TYPES =
+        setOf("obj.amulet_of_chemistry", "obj.amulet_of_chemistry_imbued_charged")
 
     private val ALWAYS_FOUR_DOSE_UNF_POTS = setOf("obj.torstol")
     private val DOSE_PATTERN = Regex("^obj\\.(\\d)dose(.+)$")
     private val PLUS_DOSE_PATTERN = Regex("^obj\\.(.+)\\+(\\d+)$")
 
-    data class BrewResult(
-        val output: String,
-        val extraDoseApplied: Boolean,
-        val crumbled: Boolean,
-    )
+    data class BrewResult(val output: String, val extraDoseApplied: Boolean, val crumbled: Boolean)
 
     fun isWearing(player: Player): Boolean {
         val neck = player.front ?: return false
         return WEARABLE_TYPES.any { neck.isType(it) }
     }
 
-    fun rollBrewOutput(player: Player, random: GameRandom, potion: HerbloreFinishedRow): BrewResult {
+    fun rollBrewOutput(
+        player: Player,
+        random: GameRandom,
+        potion: HerbloreFinishedRow,
+    ): BrewResult {
         val baseOutput = potion.outputPotion.internalName
         if (!isWearing(player) || player.chemistryCharges <= 0) {
             return BrewResult(baseOutput, extraDoseApplied = false, crumbled = false)
@@ -51,7 +50,9 @@ object AmuletOfChemistry {
             return BrewResult(baseOutput, extraDoseApplied = false, crumbled = false)
         }
 
-        val upgraded = upgradeOutput(baseOutput) ?: return BrewResult(baseOutput, extraDoseApplied = false, crumbled = false)
+        val upgraded =
+            upgradeOutput(baseOutput)
+                ?: return BrewResult(baseOutput, extraDoseApplied = false, crumbled = false)
 
         if (!random.randomBoolean(100 / PROC_CHANCE_PERCENT)) {
             return BrewResult(baseOutput, extraDoseApplied = false, crumbled = false)
@@ -70,14 +71,18 @@ object AmuletOfChemistry {
 
     /** Parses dose count from `obj.Ndose…` or `obj.name+N` potion ids. */
     fun parseDose(internal: String): Int? {
-        DOSE_PATTERN.matchEntire(internal)?.let { return it.groupValues[1].toInt() }
-        PLUS_DOSE_PATTERN.matchEntire(internal)?.let { return it.groupValues[2].toInt() }
+        DOSE_PATTERN.matchEntire(internal)?.let {
+            return it.groupValues[1].toInt()
+        }
+        PLUS_DOSE_PATTERN.matchEntire(internal)?.let {
+            return it.groupValues[2].toInt()
+        }
         return null
     }
 
     /**
-     * Amulet only works when the input potion has fewer than 4 doses (stamina, divine, antivenom+, …).
-     * Standard unfinished-vial brews (no dose on input) still upgrade 3-dose outputs to 4-dose.
+     * Amulet only works when the input potion has fewer than 4 doses (stamina, divine, antivenom+,
+     * …). Standard unfinished-vial brews (no dose on input) still upgrade 3-dose outputs to 4-dose.
      */
     fun canApplyChemistry(unfPot: String, output: String): Boolean {
         if (unfPot in ALWAYS_FOUR_DOSE_UNF_POTS) {

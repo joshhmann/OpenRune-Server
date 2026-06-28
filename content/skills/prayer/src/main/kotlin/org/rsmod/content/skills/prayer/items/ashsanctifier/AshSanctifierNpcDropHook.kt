@@ -4,8 +4,8 @@ import jakarta.inject.Inject
 import jakarta.inject.Singleton
 import org.rsmod.api.death.NpcDeathDropContext
 import org.rsmod.api.death.NpcDeathDropHook
-import org.rsmod.api.player.vars.intVarBit
 import org.rsmod.api.player.stat.statAdvance
+import org.rsmod.api.player.vars.intVarBit
 import org.rsmod.api.table.prayer.SkillPrayerRow
 import org.rsmod.content.skills.prayer.items.ashsanctifier.AshSanctifierScript.Companion.ashSanctifierActivityEnabled
 import org.rsmod.content.skills.prayer.items.ashsanctifier.AshSanctifierScript.Companion.hasKourendKebosEliteDiaryComplete
@@ -44,11 +44,12 @@ class AshSanctifierNpcDropHook @Inject constructor() : NpcDeathDropHook {
         player.ashSanctifierCharges -= 1
 
         val scatterXp = row.exp.toDouble()
-        val prayerXp = if (player.hasKourendKebosEliteDiaryComplete()) {
-            scatterXp
-        } else {
-            scatterXp / 2.0
-        }
+        val prayerXp =
+            if (player.hasKourendKebosEliteDiaryComplete()) {
+                scatterXp
+            } else {
+                scatterXp / 2.0
+            }
         player.statAdvance("stat.prayer", prayerXp)
 
         return true
@@ -57,9 +58,7 @@ class AshSanctifierNpcDropHook @Inject constructor() : NpcDeathDropHook {
     private fun Player.findAshSanctifierSlot(): Int? {
         for (slot in inv.indices) {
             val obj = inv[slot] ?: continue
-            if (obj.isType("obj.ash_sanctifier") &&
-                ashSanctifierCharges > 0
-            ) {
+            if (obj.isType("obj.ash_sanctifier") && ashSanctifierCharges > 0) {
                 return slot
             }
         }

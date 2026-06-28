@@ -29,9 +29,7 @@ constructor(
     override fun ScriptContext.startup() {
         registerDefaultCurrency()
         onIfModalButton("component.shopmain:items") { shopInvButton(it.comsub, it.op, it.obj) }
-        onIfModalButton("component.shopside:items") {
-            shopSideInvButton(it.comsub, it.op, it.obj)
-        }
+        onIfModalButton("component.shopside:items") { shopSideInvButton(it.comsub, it.op, it.obj) }
         onIfClose("interface.shopmain") { player.closeShop() }
     }
 

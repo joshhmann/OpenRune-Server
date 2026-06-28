@@ -1,0 +1,68 @@
+{| class="wikitable sortable"
+!colspan="5"|Items
+|-
+! Name !! ID !! Key !! Previous Value !! Changed into
+|-
+| [[Jalrek-jad]] || 25519 || NEW ID || NEW ID || NEW ID
+|-
+| [[null]] || 25520 || NEW ID || NEW ID || NEW ID
+|-
+| [[Bandages]] || 25202 || interfaceOptions || ['Heal', None, None, None, 'Destroy'] || ['Heal', None, None, None, 'Drop']
+|-
+| [[Potion of power(4)]] || 25203 || interfaceOptions || ['Drink', None, None, None, 'Destroy'] || ['Drink', None, None, None, 'Drop']
+|-
+| [[Potion of power(3)]] || 25204 || interfaceOptions || ['Drink', None, None, None, 'Destroy'] || ['Drink', None, None, None, 'Drop']
+|-
+| [[Potion of power(2)]] || 25205 || interfaceOptions || ['Drink', None, None, None, 'Destroy'] || ['Drink', None, None, None, 'Drop']
+|-
+| [[Potion of power(1)]] || 25206 || interfaceOptions || ['Drink', None, None, None, 'Destroy'] || ['Drink', None, None, None, 'Drop']
+|-
+| [[Barricade]] || 25209 || interfaceOptions || ['Set-up', None, None, None, 'Destroy'] || ['Set-up', None, None, None, 'Drop']
+|-
+| [[Barricade]] || 25210 || interfaceOptions || ['Set-up', None, None, None, 'Destroy'] || ['Set-up', None, None, None, 'Drop']
+|-
+| [[Explosive potion]] || 25211 || interfaceOptions || [None, None, None, None, 'Destroy'] || [None, None, None, None, 'Drop']
+|-
+|}
+
+{| class="wikitable sortable"
+!colspan="5"|Non-Player Characters
+|-
+! Name !! ID !! Key !! Previous Value !! Changed into
+|-
+| [[JalRek-Jad]] || 10620 || NEW ID || NEW ID || NEW ID
+|-
+| [[TzHaar-Ket-Rak]] || 10621 || NEW ID || NEW ID || NEW ID
+|-
+| [[TzHaar-Ket-Rak]] || 10622 || NEW ID || NEW ID || NEW ID
+|-
+| [[JalTok-Jad]] || 10623 || NEW ID || NEW ID || NEW ID
+|-
+| [[Yt-HurKot]] || 10624 || NEW ID || NEW ID || NEW ID
+|-
+| [[JalRek-Jad]] || 10625 || NEW ID || NEW ID || NEW ID
+|-
+| [[null]] || 10626 || NEW ID || NEW ID || NEW ID
+|-
+| [[TzRek-Jad]] || 5893 || actions || ['Talk-to', None, 'Pick-up', None, None] || ['Talk-to', None, 'Metamorphosis', 'Pick-up', None]
+|-
+| [[TzHaar-Ket]] || 7679 || size || 1 || 2
+|-
+| [[TzHaar-Ket-Keh]] || 7690 || size || 1 || 2
+|-
+| [[TzHaar-Ket-Keh]] || 7690 || widthScale || 190 || 192
+|-
+| [[TzHaar-Ket-Keh]] || 7690 || heightScale || 190 || 192
+|-
+|}
+
+{| class="wikitable sortable"
+!colspan="5"|Objects
+|-
+! Name !! ID !! Key !! Previous Value !! Changed into
+|-
+| [[Scoreboard]] || 41013 || NEW ID || NEW ID || NEW ID
+|-
+| [[null]] || 41014 || NEW ID || NEW ID || NEW ID
+|-
+|}

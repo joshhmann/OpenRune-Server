@@ -1,0 +1,193 @@
+__TOC__
+==Objects==
+===New Objects===
+{| class="wikitable sortable"
+|-
+! colspan="3" | New Objects
+|-
+! style="width: 15em" | name !! id !! actions
+|}
+===Removed Objects===
+{| class="wikitable sortable"
+|-
+! colspan="3" | Removed Objects
+|-
+! style="width: 15em" | name !! id !! actions
+|}
+===Diff Objects===
+{| class="wikitable sortable sticky-header"
+|-
+! colspan="5" | Diff Objects
+|-
+! style="width: 15em" | Name !! Id !! Key !! Previous Value !! New Value
+|-
+| rowspan="3" | [[League Firsts Board]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/object_id.html#37482 37482][https://abextm.github.io/cache2/#/viewer/obj/37482 (1)]
+|-
+| recolorFrom || [7587, 7582, 7706, 8369] || [29656, 40103, 40094, 40210, 40458]
+|-
+| recolorTo || [7446, 7442, 7566, 5157] || [4044, 299, 289, 280, 274]
+|}
+==Enums==
+===New Enums===
+{| class="wikitable sortable"
+|-
+! colspan="3" | New Enums
+|-
+! style="width: 15em" | id !! defaultValue !! map
+|}
+===Removed Enums===
+{| class="wikitable sortable"
+|-
+! colspan="3" | Removed Enums
+|-
+! style="width: 15em" | id !! defaultValue !! map
+|}
+===Diff Enums===
+{| class="wikitable sortable sticky-header"
+|-
+! colspan="5" | Diff Enums
+|-
+! style="width: 15em" | Id !! Key !! Previous Value !! New Value
+|-
+| rowspan="2" | [https://chisel.weirdgloop.org/structs/index.html?type=enums&id=4226 4226][https://abextm.github.io/cache2/#/viewer/enum/4226 (1)]
+|-
+| map || {'0': 4222, '1': 4223, '2': 4224, '-1': 4221} || {'0': 4222, '1': 4223, '2': 4224, '3': 849, '4': 852, '-1': 4221}
+|-
+| rowspan="2" | [https://chisel.weirdgloop.org/structs/index.html?type=enums&id=4230 4230][https://abextm.github.io/cache2/#/viewer/enum/4230 (1)]
+|-
+| map || {'0': 4243, '1': 3109, '2': 4244, '-1': 4242} || {'0': 4243, '1': 3109, '2': 4244, '3': 853, '4': 854, '-1': 4242}
+|}
+==Npcs==
+===New Npcs===
+{| class="wikitable sortable"
+|-
+! colspan="4" | New Npcs
+|-
+! style="width: 15em" | name !! id !! combatLevel !! actions
+|}
+===Removed Npcs===
+{| class="wikitable sortable"
+|-
+! colspan="4" | Removed Npcs
+|-
+! style="width: 15em" | name !! id !! combatLevel !! actions
+|}
+===Diff Npcs===
+{| class="wikitable sortable sticky-header"
+|-
+! colspan="5" | Diff Npcs
+|-
+! style="width: 15em" | Name !! Id !! Key !! Previous Value !! New Value
+|-
+| rowspan="3" | [[Zemouregal]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/npc_id.html#12614 12614][https://abextm.github.io/cache2/#/viewer/npc/12614 (1)]
+|-
+| widthScale || 138 || 146
+|-
+| heightScale || 138 || 146
+|-
+| rowspan="3" | [[Zemouregal]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/npc_id.html#12615 12615][https://abextm.github.io/cache2/#/viewer/npc/12615 (1)]
+|-
+| widthScale || 138 || 146
+|-
+| heightScale || 138 || 146
+|-
+| rowspan="3" | [[null]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/npc_id.html#12616 12616][https://abextm.github.io/cache2/#/viewer/npc/12616 (1)]
+|-
+| widthScale || 138 || 146
+|-
+| heightScale || 138 || 146
+|}
+==Params==
+===New Params===
+{| class="wikitable sortable"
+|-
+! colspan="5" | New Params
+|-
+! style="width: 15em" | id !! type !! defaultInt !! defaultString !! isMembers
+|-
+| [https://chisel.weirdgloop.org/structs/index.html?type=enums&id=1882 1882][https://abextm.github.io/cache2/#/viewer/enum/1882 (1)] || 115 ||  ||  || true
+|}
+===Removed Params===
+{| class="wikitable sortable"
+|-
+! colspan="5" | Removed Params
+|-
+! style="width: 15em" | id !! type !! defaultInt !! defaultString !! isMembers
+|}
+===Diff Params===
+{| class="wikitable sortable sticky-header"
+|-
+! colspan="5" | Diff Params
+|-
+! style="width: 15em" | Id !! Key !! Previous Value !! New Value
+|}
+==Structs==
+===New Structs===
+{| class="wikitable sortable"
+|-
+! colspan="2" | New Structs
+|-
+! style="width: 15em" | id !! params
+|-
+| [https://chisel.weirdgloop.org/structs/index.html?type=structs&id=849 849][https://abextm.github.io/cache2/#/viewer/struct/849 (1)] || {'1163': 'Combat Achievement task broadcasts', '1536': 'When enabled will send out a notification when a group member completes a combat achievement task.'}
+|-
+| [https://chisel.weirdgloop.org/structs/index.html?type=structs&id=852 852][https://abextm.github.io/cache2/#/viewer/struct/852 (1)] || {'1163': 'Combat Achievement task threshold', '1536': 'The minimum combat achievement task tier needed to trigger a grouplan notification message.', '1537': 1}
+|-
+| [https://chisel.weirdgloop.org/structs/index.html?type=structs&id=853 853][https://abextm.github.io/cache2/#/viewer/struct/853 (1)] || {'1251': 'Combat Achievement task broadcasts', '1252': 'Rank required to receive notifications when clan members complete combat achievement tasks.', '1292': 1}
+|-
+| [https://chisel.weirdgloop.org/structs/index.html?type=structs&id=854 854][https://abextm.github.io/cache2/#/viewer/struct/854 (1)] || {'1251': 'Combat Achievement task threshold', '1252': 'Minimum combat achievement task tier needed to trigger a clan notification message.', '1255': 1}
+|}
+===Removed Structs===
+{| class="wikitable sortable"
+|-
+! colspan="2" | Removed Structs
+|-
+! style="width: 15em" | id !! params
+|}
+===Diff Structs===
+{| class="wikitable sortable sticky-header"
+|-
+! colspan="5" | Diff Structs
+|-
+! style="width: 15em" | Id !! Key !! Previous Value !! New Value
+|-
+| rowspan="2" | [https://chisel.weirdgloop.org/structs/index.html?type=structs&id=4224 4224][https://abextm.github.io/cache2/#/viewer/struct/4224 (1)]
+|-
+| params || {'1163': 'Combat Achievement broadcasts', '1536': 'When enabled will send out a notification when a group member completes a combat achievement tier.'} || {'1163': 'Combat Achievement tier broadcasts', '1536': 'When enabled will send out a notification when a group member completes a combat achievement tier.'}
+|-
+| rowspan="2" | [https://chisel.weirdgloop.org/structs/index.html?type=structs&id=4244 4244][https://abextm.github.io/cache2/#/viewer/struct/4244 (1)]
+|-
+| params || {'1251': 'Combat Achievement broadcasts', '1252': 'Rank required to receive notifications when clan members complete combat achievement tiers.', '1292': 1} || {'1251': 'Combat Achievement tier broadcasts', '1252': 'Rank required to receive notifications when clan members complete combat achievement tiers.', '1292': 1}
+|-
+| rowspan="2" | [https://chisel.weirdgloop.org/structs/index.html?type=structs&id=4699 4699][https://abextm.github.io/cache2/#/viewer/struct/4699 (1)]
+|-
+| params || {'87': 5251, '149': 2305, '858': 'Leagues IV', '864': 52792461, '865': 5, '866': 5206, '867': 5208, '868': 5239, '869': 5240, '870': 5209, '871': 7931, '872': 7987, '888': 3371, '889': 3372, '890': -1, '891': 3378, '892': 5223, '893': 5224, '894': 5225, '895': 5226, '896': 3, '1021': 2603, '1022': 5335, '1023': 5362, '1024': 5445, '1025': 5446, '1026': 5272, '1027': 16742144, '1028': 15778716, '1029': 16777215, '1030': 1, '1031': 5447, '1032': 496, '1033': 747, '1039': 15, '1040': 75, '1041': 225, '1143': 5362, '1144': 5335, '1145': 3352, '1146': 3353, '1856': 5273, '1857': 5237} || {'87': 5251, '149': 2305, '858': 'Leagues IV - Trailblazer Reloaded', '864': 52792461, '865': 5, '866': 5206, '867': 5208, '868': 5239, '869': 5240, '870': 5209, '871': 7931, '872': 7987, '888': 3371, '889': 3372, '890': -1, '891': 3378, '892': 5223, '893': 5224, '894': 5225, '895': 5226, '896': 3, '1021': 2603, '1022': 5335, '1023': 5362, '1024': 5445, '1025': 5446, '1026': 5272, '1027': 16742144, '1028': 15778716, '1029': 16777215, '1030': 1, '1031': 5447, '1032': 496, '1033': 747, '1039': 15, '1040': 75, '1041': 225, '1143': 5362, '1144': 5335, '1145': 3352, '1146': 3353, '1856': 5273, '1857': 5237, '1882': 'Leagues IV'}
+|}
+==Database Rows==
+===New Database Rows===
+{| class="wikitable sortable"
+|-
+! colspan="3" | New Database Rows
+|-
+! style="width: 15em" | id !! table !! values
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/3468 3468] || 62 || [[Combat Achievement task threshold], [6, Grandmaster, 3404, 5, Master, 3403, 4, Elite, 3402, 3, Hard, 3401, 2, Medium, 3400, 1, Easy, 3399, 0, All, 3023], [32], None, [24]]
+|}
+===Removed Database Rows===
+{| class="wikitable sortable"
+|-
+! colspan="3" | Removed Database Rows
+|-
+! style="width: 15em" | id !! table !! values
+|}
+===Diff Database Rows===
+{| class="wikitable sortable sticky-header"
+|-
+! colspan="5" | Diff Database Rows
+|-
+! style="width: 15em" | Id !! Key !! Previous Value !! New Value
+|}

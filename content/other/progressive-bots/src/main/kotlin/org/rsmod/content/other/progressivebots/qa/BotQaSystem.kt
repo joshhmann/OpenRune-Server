@@ -1,10 +1,10 @@
 package org.rsmod.content.other.progressivebots.qa
 
+import org.rsmod.content.other.progressivebots.economy.ShopVisitNode
 import org.rsmod.content.other.progressivebots.tree.BehaviorNode
+import org.rsmod.content.other.progressivebots.tree.FightTreeBuilder
 import org.rsmod.content.other.progressivebots.tree.GatherTreeBuilder
 import org.rsmod.content.other.progressivebots.tree.ProductionTreeBuilder
-import org.rsmod.content.other.progressivebots.tree.FightTreeBuilder
-import org.rsmod.content.other.progressivebots.economy.ShopVisitNode
 
 object BotQaSystem {
     private val tasks = mutableMapOf<String, () -> BehaviorNode>()

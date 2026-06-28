@@ -30,15 +30,16 @@ fun main() {
                     val client =
                         httpClient
                             ?: HttpClient(CIO) {
-                                install(HttpTimeout) {
-                                    requestTimeoutMillis = 20_000
-                                    connectTimeoutMillis = 10_000
-                                    socketTimeoutMillis = 20_000
+                                    install(HttpTimeout) {
+                                        requestTimeoutMillis = 20_000
+                                        connectTimeoutMillis = 10_000
+                                        socketTimeoutMillis = 20_000
+                                    }
+                                    defaultRequest { headers.append("User-Agent", WIKI_USER_AGENT) }
                                 }
-                                defaultRequest { headers.append("User-Agent", WIKI_USER_AGENT) }
-                            }.also { httpClient = it }
+                                .also { httpClient = it }
                     WikiClient(client, mapper)
-                },
+                }
             )
 
         val server =
@@ -48,8 +49,8 @@ fun main() {
                     ServerOptions(
                         capabilities =
                             ServerCapabilities(
-                                tools = ServerCapabilities.Tools(listChanged = false),
-                            ),
+                                tools = ServerCapabilities.Tools(listChanged = false)
+                            )
                     ),
             )
 
@@ -60,14 +61,14 @@ fun main() {
                 StdioServerTransport(
                     inputStream = System.`in`.asSource().buffered(),
                     outputStream = System.out.asSink().buffered(),
-                ),
+                )
         )
 
         try {
             System.err.println("[$MCP_NAME] Server starting...")
             if (osrsMcpToolDebugEnabled()) {
                 System.err.println(
-                    "[$MCP_NAME] OSRS_MCP_DEBUG_TOOLS is on — each tool call logs start/ok/error to stderr.",
+                    "[$MCP_NAME] OSRS_MCP_DEBUG_TOOLS is on — each tool call logs start/ok/error to stderr."
                 )
             }
             awaitCancellation()

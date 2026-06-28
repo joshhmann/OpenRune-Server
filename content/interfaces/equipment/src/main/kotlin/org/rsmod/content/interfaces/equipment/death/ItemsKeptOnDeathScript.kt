@@ -153,21 +153,17 @@ constructor(
         val handling = handlingResolver.resolve(context)
 
         val rules =
-            PlayerDeathDrops.DeathDropRules(
-                isUIM = context.isUIM,
-                isPvpDeath = context.isPvpDeath,
-            )
+            PlayerDeathDrops.DeathDropRules(isUIM = context.isUIM, isPvpDeath = context.isPvpDeath)
         val result = deathDrops.selectDrops(carried, rules, handling)
 
         val neverKept = carried.filter { deathDrops.isNeverKept(it, rules) }
-        val lost =
-            buildList {
-                addAll(result.lostTradeable)
-                if (handling.untradeableHandling != UntradeableHandling.KEEP) {
-                    addAll(result.lostUntradeable)
-                }
-                addAll(neverKept)
+        val lost = buildList {
+            addAll(result.lostTradeable)
+            if (handling.untradeableHandling != UntradeableHandling.KEEP) {
+                addAll(result.lostUntradeable)
             }
+            addAll(neverKept)
+        }
 
         val keptAddResult = invMoveAll(keptInventory, result.kept)
         val lostAddResult = invMoveAll(lostInventory, lost)

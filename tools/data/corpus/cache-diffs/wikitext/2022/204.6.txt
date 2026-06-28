@@ -1,0 +1,218 @@
+{{ToC}}
+==Items==
+{| class="wikitable sortable"
+!colspan='13'|Items
+|-
+! Name !! ID !! Key !! Previous Value !! New Value !! Members !! Tradeable in GE !! Equipable !! Stackable !! Noteable !! Options !! Placeholder !! Cost
+|-
+| [[Lost bag]] || [https://chisel.weirdgloop.org/moid/item_id.html#26984 26984] || colspan = "3" | New ID || Yes || No || Yes || No || No ||  Wear, Inspect, Revert, Destroy || Yes || 100
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#26985 26985] || colspan = "3" | New ID || No || No || No || No || No ||     Drop || Yes || 1
+|-
+| [[Lost bag]] || [https://chisel.weirdgloop.org/moid/item_id.html#26986 26986] || colspan = "3" | New ID || Yes || No || Yes || No || No ||  Wear, Inspect, Revert, Destroy || Yes || 100
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#26987 26987] || colspan = "3" | New ID || No || No || No || No || No ||     Drop || Yes || 1
+|-
+| [[Lost bag]] || [https://chisel.weirdgloop.org/moid/item_id.html#26988 26988] || colspan = "3" | New ID || Yes || No || Yes || No || No ||  Wear, Inspect, Revert, Destroy || Yes || 100
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#26989 26989] || colspan = "3" | New ID || No || No || No || No || No ||     Drop || Yes || 1
+|-
+| [[Amulet of the eye]] || [https://chisel.weirdgloop.org/moid/item_id.html#26990 26990] || colspan = "3" | New ID || Yes || No || Yes || No || No ||  Wear, Teleport, Revert, Destroy || Yes || 30
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#26991 26991] || colspan = "3" | New ID || No || No || No || No || No ||     Drop || Yes || 1
+|-
+| [[Amulet of the eye]] || [https://chisel.weirdgloop.org/moid/item_id.html#26992 26992] || colspan = "3" | New ID || Yes || No || Yes || No || No ||  Wear, Teleport, Revert, Destroy || Yes || 30
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#26993 26993] || colspan = "3" | New ID || No || No || No || No || No ||     Drop || Yes || 1
+|-
+| [[Amulet of the eye]] || [https://chisel.weirdgloop.org/moid/item_id.html#26994 26994] || colspan = "3" | New ID || Yes || No || Yes || No || No ||  Wear, Teleport, Revert, Destroy || Yes || 30
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#26995 26995] || colspan = "3" | New ID || No || No || No || No || No ||     Drop || Yes || 1
+|-
+|rowspan="2"|[[Lost bag]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#26912 26912]
+|-
+|category || 0 || 1639
+|-
+|rowspan="3"|[[Amulet of the eye]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/item_id.html#26914 26914]
+|-
+|interfaceOptions || [None, 'Wear', None, None, 'Destroy'] || [None, 'Wear', 'Teleport', None, 'Destroy']
+|-
+| category || 0 || 1640
+|-
+|rowspan="20"|[[Null]]
+|rowspan="20"|[https://chisel.weirdgloop.org/moid/item_id.html#26981 26981]
+|-
+|name || [[Lion helm]] || [[Null]]
+|-
+| xan2d || 28 || 572
+|-
+| yan2d || 208 || 0
+|-
+| cost || 103000 || 1
+|-
+| isTradeable || True || False
+|-
+| inventoryModel || 6597 || 2521
+|-
+| members || True || False
+|-
+| zoom2d || 810 || 1940
+|-
+| xOffset2d || 5 || 0
+|-
+| interfaceOptions || [None, 'Wear', 'Check', None, 'Drop'] || [None, None, None, None, 'Drop']
+|-
+| maleModel0 || 44178 || -1
+|-
+| maleHeadModel || 6573 || -1
+|-
+| femaleModel0 || 44186 || -1
+|-
+| femaleHeadModel || 6573 || -1
+|-
+| notedID || 26982 || -1
+|-
+| placeholderId || 26983 || -1
+|-
+| colorFind || [10411, 10403, 10394, 10518, 10514, 10638] || [25238]
+|-
+| colorReplace || [10388, 10512, 10508, 10760, 11140, 11138] || [-2608]
+|-
+| category || 2 || 15
+|-
+|rowspan="9"|[[Null]]
+|rowspan="9"|[https://chisel.weirdgloop.org/moid/item_id.html#26982 26982]
+|-
+|name || [[null]] || [[Null]]
+|-
+| xan2d || 0 || 572
+|-
+| inventoryModel || 0 || 2521
+|-
+| zoom2d || 2000 || 1940
+|-
+| yOffset2d || 0 || 1
+|-
+| notedID || 26981 || -1
+|-
+| notedTemplate || 799 || -1
+|-
+| category || 0 || 15
+|-
+|rowspan="9"|[[Null]]
+|rowspan="9"|[https://chisel.weirdgloop.org/moid/item_id.html#26983 26983]
+|-
+|name || [[null]] || [[Null]]
+|-
+| xan2d || 0 || 572
+|-
+| inventoryModel || 0 || 2521
+|-
+| zoom2d || 2000 || 1940
+|-
+| yOffset2d || 0 || 1
+|-
+| placeholderId || 26981 || -1
+|-
+| placeholderTemplateId || 14401 || -1
+|-
+| category || 0 || 15
+|-
+|}
+
+==Non-Player Characters==
+{| class="wikitable sortable"
+!colspan='5'|Non-Player Characters
+|-
+! Name !! ID !! Key !! Previous Value !! Changed into
+|-
+| [[Suspicious crate]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11463 11463] || colspan = "4" | Removed
+|-
+| [[Phoebe Kay]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11464 11464] || colspan = "4" | Removed
+|-
+| [[Xi_plzPetDogz_xiX]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11465 11465] || colspan = "4" | Removed
+|-
+| [[Xi_plzPetDogz_xiX]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11466 11466] || colspan = "4" | Removed
+|-
+| [[Camarst]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11467 11467] || colspan = "4" | Removed
+|-
+| [[Easter Bunny]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11468 11468] || colspan = "4" | Removed
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11469 11469] || colspan = "4" | Removed
+|-
+| [[Easter Bunny]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11470 11470] || colspan = "4" | Removed
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11472 11472] || colspan = "4" | Removed
+|-
+| [[Menaphite Shadow]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11494 11494] || colspan = "4" | Removed
+|-
+| [[Scabaras]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11560 11560] || colspan = "4" | Removed
+|-
+|rowspan="12"|[[Menaphite Shadow]]
+|rowspan="12"|[https://chisel.weirdgloop.org/moid/npc_id.html#11462 11462]
+|-
+|name || [[<col=00ffff>Suspicious crate</col>]] || [[Menaphite Shadow]]
+|-
+| standingAnimation || -1 || 808
+|-
+| walkingAnimation || -1 || 819
+|-
+| rotate180Animation || -1 || 820
+|-
+| rotate90RightAnimation || -1 || 821
+|-
+| rotate90LeftAnimation || -1 || 822
+|-
+| actions || ['Talk-to', None, None, None, None] || [None, 'Attack', None, None, None]
+|-
+| combatLevel || 0 || 147
+|-
+| ambient || 35 || 0
+|-
+| models || [7699] || [44775, 44776]
+|-
+| chatheadModels || [44143] || [44777]
+|-
+|}
+
+==Objects==
+{| class="wikitable sortable"
+!colspan='5'|Objects
+|-
+! Name !! ID !! Key !! Previous Value !! Changed into
+|-
+| [[Crate]] || [https://chisel.weirdgloop.org/moid/object_id.html#43851 43851] || colspan = "4" | Removed
+|-
+| [[Dirty ground]] || [https://chisel.weirdgloop.org/moid/object_id.html#43852 43852] || colspan = "4" | Removed
+|-
+| [[Dirty ground]] || [https://chisel.weirdgloop.org/moid/object_id.html#43853 43853] || colspan = "4" | Removed
+|-
+| [[Dirty ground]] || [https://chisel.weirdgloop.org/moid/object_id.html#43854 43854] || colspan = "4" | Removed
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43855 43855] || colspan = "4" | Removed
+|-
+| [[Pile of junk]] || [https://chisel.weirdgloop.org/moid/object_id.html#43856 43856] || colspan = "4" | Removed
+|-
+| [[Pile of junk]] || [https://chisel.weirdgloop.org/moid/object_id.html#43857 43857] || colspan = "4" | Removed
+|-
+| [[Pile of junk]] || [https://chisel.weirdgloop.org/moid/object_id.html#43858 43858] || colspan = "4" | Removed
+|-
+| [[Pile of junk]] || [https://chisel.weirdgloop.org/moid/object_id.html#43859 43859] || colspan = "4" | Removed
+|-
+| [[Pile of junk]] || [https://chisel.weirdgloop.org/moid/object_id.html#43860 43860] || colspan = "4" | Removed
+|-
+| [[Pile of junk]] || [https://chisel.weirdgloop.org/moid/object_id.html#43861 43861] || colspan = "4" | Removed
+|-
+| [[Frozen churning machine]] || [https://chisel.weirdgloop.org/moid/object_id.html#43862 43862] || colspan = "4" | Removed
+|-
+| [[Frozen churning machine]] || [https://chisel.weirdgloop.org/moid/object_id.html#43863 43863] || colspan = "4" | Removed
+|-
+| [[Frozen churning machine]] || [https://chisel.weirdgloop.org/moid/object_id.html#43864 43864] || colspan = "4" | Removed
+|-
+| [[Frozen churning machine]] || [https://chisel.weirdgloop.org/moid/object_id.html#43865 43865] || colspan = "4" | Removed
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#43866 43866] || colspan = "4" | Removed
+|-
+|}

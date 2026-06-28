@@ -39,9 +39,7 @@ class GameValToolTest {
 
         writeMockDat(
             binaryDir.resolve("gamevals.dat"),
-            mapOf(
-                "npc" to listOf("kraken=1234", "cave_kraken=5678", "kraken_boss=7777"),
-            ),
+            mapOf("npc" to listOf("kraken=1234", "cave_kraken=5678", "kraken_boss=7777")),
         )
         writeMockDat(binaryDir.resolve("gamevals_columns.dat"), mapOf("dbcolumn" to emptyList()))
 
@@ -59,10 +57,7 @@ class GameValToolTest {
         val binaryDir = root.resolve(".data").resolve("gamevals-binary")
         Files.createDirectories(binaryDir)
 
-        writeMockDat(
-            binaryDir.resolve("gamevals.dat"),
-            mapOf("npc" to listOf("kraken=1234")),
-        )
+        writeMockDat(binaryDir.resolve("gamevals.dat"), mapOf("npc" to listOf("kraken=1234")))
         writeMockDat(binaryDir.resolve("gamevals_columns.dat"), mapOf("dbcolumn" to emptyList()))
 
         val index = GameValTool.load(root.toString())
@@ -91,6 +86,3 @@ class GameValToolTest {
         output.write(bytes)
     }
 }
-
-
-

@@ -1,0 +1,209 @@
+{{ToC}}
+==Items==
+===New Items===
+{| class="wikitable sortable"
+!colspan='11'|New Items
+|-
+! style=width:15em | Name !! ID !! Members !! Tradeable in GE !! Equipable !! Stackable !! Noteable !! Options !! Placeholder !! Cost
+|-
+| [[Inquisitor's mace]] || [https://chisel.weirdgloop.org/moid/item_id.html#24417 24417] || Yes || No || Yes || No || No ||  Wield,   Drop || No || 5000000
+|-
+| [[Siren's tome]] || [https://chisel.weirdgloop.org/moid/item_id.html#24418 24418] || Yes || No || Yes || No || No ||  Wield,   Drop || No || 1000000
+|-
+| [[Inquisitor's great helm]] || [https://chisel.weirdgloop.org/moid/item_id.html#24419 24419] || Yes || No || Yes || No || No ||  Wear,   Drop || No || 500000
+|-
+| [[Inquisitor's hauberk]] || [https://chisel.weirdgloop.org/moid/item_id.html#24420 24420] || Yes || No || Yes || No || No ||  Wear,   Drop || No || 1000000
+|-
+| [[Inquisitor's plateskirt]] || [https://chisel.weirdgloop.org/moid/item_id.html#24421 24421] || Yes || No || Yes || No || No ||  Wear,   Drop || No || 750000
+|-
+| [[Nightmare staff]] || [https://chisel.weirdgloop.org/moid/item_id.html#24422 24422] || Yes || No || Yes || No || No ||  Wield,   Drop || No || 600000
+|-
+| [[Harmonised nightmare staff]] || [https://chisel.weirdgloop.org/moid/item_id.html#24423 24423] || Yes || No || Yes || No || No ||  Wield,   Drop || No || 4600000
+|-
+| [[Volatile nightmare staff]] || [https://chisel.weirdgloop.org/moid/item_id.html#24424 24424] || Yes || No || Yes || No || No ||  Wield,   Drop || No || 4600000
+|-
+| [[Eldritch nightmare staff]] || [https://chisel.weirdgloop.org/moid/item_id.html#24425 24425] || Yes || No || Yes || No || No ||  Wield,   Drop || No || 4600000
+|-
+|-
+|}
+===Removed Items===
+{| class="wikitable sortable"
+!colspan='2'|Removed Items
+|-
+! style=width:15em | Name !! ID
+|-
+|-
+|}
+===Diff Items===
+{| class="wikitable sortable"
+!colspan='5'|Diff Items
+|-
+! style=width:15em | Name !! ID !! Key !! Previous Value !! New Value
+|-
+|rowspan="2"|[[Death rune]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#560 560]
+|-
+|boughtId || 24415 || -1
+|-
+|rowspan="2"|[[Annakarl teleport]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#12775 12775]
+|-
+|params || {'852': 4} || {'852': 6}
+|-
+|rowspan="2"|[[Carrallangar teleport]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#12776 12776]
+|-
+|params || {'852': 4} || {'852': 6}
+|-
+|rowspan="2"|[[Dareeyak teleport]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#12777 12777]
+|-
+|params || {'852': 4} || {'852': 6}
+|-
+|rowspan="2"|[[Ghorrock teleport]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#12778 12778]
+|-
+|params || {'852': 4} || {'852': 6}
+|-
+|rowspan="2"|[[Kharyrll teleport]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#12779 12779]
+|-
+|params || {'852': 4} || {'852': 6}
+|-
+|rowspan="2"|[[Lassar teleport]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#12780 12780]
+|-
+|params || {'852': 4} || {'852': 6}
+|-
+|rowspan="2"|[[Paddewwa teleport]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#12781 12781]
+|-
+|params || {'852': 4} || {'852': 6}
+|-
+|rowspan="2"|[[Senntisten teleport]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#12782 12782]
+|-
+|params || {'852': 4} || {'852': 6}
+|-
+|rowspan="9"|[[Null]]
+|rowspan="9"|[https://chisel.weirdgloop.org/moid/item_id.html#24415 24415]
+|-
+|name || [[null]] || [[Null]]
+|-
+| xan2d || 0 || 572
+|-
+| inventoryModel || 0 || 2521
+|-
+| zoom2d || 2000 || 1940
+|-
+| yOffset2d || 0 || 1
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Wear', None, None, None, 'Drop']
+|-
+| boughtId || 560 || -1
+|-
+| boughtTemplateId || 13189 || -1
+|-
+|}
+
+==Non-Player Characters==
+===New NPCs===
+{| class="wikitable sortable"
+!colspan='4'|New NPCs
+|-
+! style=width:15em | Name !! ID !! Combat Level !! Options
+|-
+|-
+|}
+===Removed NPCs===
+{| class="wikitable sortable"
+!colspan='2'|Removed NPCs
+|-
+! style=width:15em | Name !! ID
+|-
+|-
+|}
+===Diff NPCs===
+{| class="wikitable sortable"
+!colspan='5'|Diff NPCs
+|-
+! style=width:15em | Name !! ID !! Key !! Previous Value !! New Value
+|-
+|rowspan="4"|[[Summoned Soul]]
+|rowspan="4"|[https://chisel.weirdgloop.org/moid/npc_id.html#5867 5867]
+|-
+|standingAnimation || 4505 || 8526
+|-
+| walkingAnimation || 4505 || 8527
+|-
+| models || [29268] || [29267]
+|-
+|rowspan="4"|[[Summoned Soul]]
+|rowspan="4"|[https://chisel.weirdgloop.org/moid/npc_id.html#5868 5868]
+|-
+|standingAnimation || 4505 || 8526
+|-
+| walkingAnimation || 4505 || 8527
+|-
+| models || [29267] || [29268]
+|-
+|rowspan="3"|[[Summoned Soul]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/npc_id.html#5869 5869]
+|-
+|standingAnimation || 4505 || 8526
+|-
+| walkingAnimation || 4505 || 8527
+|-
+|rowspan="2"|[[Abyssal Sire]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#5888 5888]
+|-
+|actions || ['Attack', None, None, None, None] || [None, 'Attack', None, None, None]
+|-
+|rowspan="2"|[[Pennant]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#9141 9141]
+|-
+| recolorToReplace ||<span style = "background-color: #51462d;color:white">7467</span>,<span style = "background-color: #4b402a;color:white">7463</span>,<span style = "background-color: #37311f;color:white">8478</span>,<span style = "background-color: #2f7873;color:white">32185</span>,<span style = "background-color: #227672;color:white">32307</span>,<span style = "background-color: #156e6b;color:white">32429</span>||<span style = "background-color: #361211;color:white">536</span>,<span style = "background-color: #2a0e0d;color:white">532</span>,<span style = "background-color: #280705;color:white">784</span>,<span style = "background-color: #705e05;color:white">9127</span>,<span style = "background-color: #665604;color:white">9125</span>,<span style = "background-color: #5c4d04;color:white">9121</span>
+|-
+|rowspan="2"|[[Pennant]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#9142 9142]
+|-
+| recolorToReplace ||<span style = "background-color: #51462d;color:white">7467</span>,<span style = "background-color: #4b402a;color:white">7463</span>,<span style = "background-color: #37311f;color:white">8478</span>,<span style = "background-color: #2f7873;color:white">32185</span>,<span style = "background-color: #227672;color:white">32307</span>,<span style = "background-color: #156e6b;color:white">32429</span>||<span style = "background-color: #361211;color:white">536</span>,<span style = "background-color: #2a0e0d;color:white">532</span>,<span style = "background-color: #280705;color:white">784</span>,<span style = "background-color: #705e05;color:white">9127</span>,<span style = "background-color: #665604;color:white">9125</span>,<span style = "background-color: #5c4d04;color:white">9121</span>
+|-
+|}
+
+==Objects==
+===New Objects=== 
+{| class="wikitable sortable"
+!colspan='3'|New Objects
+|-
+! style=width:15em | Name !! ID !! Options
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#37491 37491] || None
+|-
+|-
+|}
+===Removed Objects===
+{| class="wikitable sortable"
+!colspan='2'|Removed Objects
+|-
+! style=width:15em | Name !! ID
+|-
+|-
+|}
+===Diff Objects===
+{| class="wikitable sortable"
+!colspan='5'|Diff Objects
+|-
+! style=width:15em | Name !! ID !! Key !! Previous Value !! New Value
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#1729 1729]
+|-
+|configChangeDest || [1405, 34827, 1405] || [1405, 1405, 1405]
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#30394 30394]
+|-
+|configChangeDest || [1405, 34826, 1405] || [1405, 34827, 1405]
+|-
+|}

@@ -1,16 +1,16 @@
 import kotlin.math.floor
 import kotlin.random.Random
 
-private val STATIC_RANDOM = Random.Default  // shared instance
+private val STATIC_RANDOM = Random.Default // shared instance
 
 fun skillSuccess(low: Int, high: Int, level: Int): Boolean {
     val rate = computeSkillingSuccess(low, high, level)
     return rate > STATIC_RANDOM.nextDouble()
 }
 
-
 /**
- * Computes the skilling success probability using the Old School RuneScape skilling success formula.
+ * Computes the skilling success probability using the Old School RuneScape skilling success
+ * formula.
  *
  * Docs on this formula can be found here: https://oldschool.runescape.wiki/w/Skilling_success_rate
  *

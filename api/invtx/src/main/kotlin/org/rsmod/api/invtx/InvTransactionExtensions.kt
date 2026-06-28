@@ -25,7 +25,8 @@ public fun Player.invAddOrDrop(
     coords: CoordGrid = this.coords,
     inv: Inventory = this.inv,
 ): Boolean {
-    val transaction = invAdd(inv, RSCM.getReverseMapping(RSCMType.OBJ,type.asRSCM(RSCMType.OBJ)), count = count)
+    val transaction =
+        invAdd(inv, RSCM.getReverseMapping(RSCMType.OBJ, type.asRSCM(RSCMType.OBJ)), count = count)
     if (transaction.success) {
         return true
     }
@@ -98,7 +99,8 @@ public fun Player.invAdd(
         uncert = uncert,
         autoCommit = autoCommit,
         ignoreVirtualStorage = ignoreVirtualStorage,
-    ) { targetInv, objType, objCount, objVars, objSlot, objStrict, objCert, objUncert, objAutoCommit ->
+    ) { targetInv, objType, objCount, objVars, objSlot, objStrict, objCert, objUncert, objAutoCommit
+        ->
         invAdd(
             inv = targetInv,
             obj = objType.asRSCM(RSCMType.OBJ),

@@ -1,0 +1,107 @@
+{{ToC}}
+==Items==
+===New Items===
+{| class="wikitable sortable"
+!colspan='11'|New Items
+|-
+! Name !! ID !! Members !! Tradeable in GE !! Equipable !! Stackable !! Noteable !! Options !! Placeholder !! Cost
+|-
+| [[Mystic hat (dusk)]] || [https://chisel.weirdgloop.org/moid/item_id.html#23047 23047] || Yes || Yes || Yes || No || Yes ||  Wear,   Drop || Yes || 15000
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#23048 23048] || No || No || No || No || Yes ||     Drop || No || 1
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#23049 23049] || No || No || No || No || No ||     Drop || Yes || 1
+|-
+| [[Mystic robe top (dusk)]] || [https://chisel.weirdgloop.org/moid/item_id.html#23050 23050] || Yes || Yes || Yes || No || Yes ||  Wear,   Drop || Yes || 120000
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#23051 23051] || No || No || No || No || Yes ||     Drop || No || 1
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#23052 23052] || No || No || No || No || No ||     Drop || Yes || 1
+|-
+| [[Mystic robe bottom (dusk)]] || [https://chisel.weirdgloop.org/moid/item_id.html#23053 23053] || Yes || Yes || Yes || No || Yes ||  Wear,   Drop || Yes || 80000
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#23054 23054] || No || No || No || No || Yes ||     Drop || No || 1
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#23055 23055] || No || No || No || No || No ||     Drop || Yes || 1
+|-
+| [[Mystic gloves (dusk)]] || [https://chisel.weirdgloop.org/moid/item_id.html#23056 23056] || Yes || Yes || Yes || No || Yes ||  Wear,   Drop || Yes || 10000
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#23057 23057] || No || No || No || No || Yes ||     Drop || No || 1
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#23058 23058] || No || No || No || No || No ||     Drop || Yes || 1
+|-
+| [[Mystic boots (dusk)]] || [https://chisel.weirdgloop.org/moid/item_id.html#23059 23059] || Yes || Yes || Yes || No || Yes ||  Wear,   Drop || Yes || 10000
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#23060 23060] || No || No || No || No || Yes ||     Drop || No || 1
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#23061 23061] || No || No || No || No || No ||     Drop || Yes || 1
+|-
+|-
+|}
+===Removed Items===
+{| class="wikitable sortable"
+!colspan='2'|Removed Items
+|-
+! Name !! ID
+|-
+|-
+|}
+===Diff Items===
+{| class="wikitable sortable"
+!colspan='5'|Diff Items
+|-
+! Name !! ID !! Key !! Previous Value !! New Value
+|-
+|}
+
+==Non-Player Characters==
+===New NPCs===
+{| class="wikitable sortable"
+!colspan='4'|New NPCs
+|-
+! Name !! ID !! Combat Level !! Options
+|-
+|-
+|}
+===Removed NPCs===
+{| class="wikitable sortable"
+!colspan='2'|Removed NPCs
+|-
+! Name !! ID
+|-
+|-
+|}
+===Diff NPCs===
+{| class="wikitable sortable"
+!colspan='5'|Diff NPCs
+|-
+! Name !! ID !! Key !! Previous Value !! New Value
+|-
+|}
+
+==Objects==
+===New Objects=== 
+{| class="wikitable sortable"
+!colspan='3'|New Objects
+|-
+! Name !! ID !! Options
+|-
+| [[Machinery]] || [https://chisel.weirdgloop.org/moid/object_id.html#34649 34649] || None
+|-
+|-
+|}
+===Removed Objects===
+{| class="wikitable sortable"
+!colspan='2'|Removed Objects
+|-
+! Name !! ID
+|-
+|-
+|}
+===Diff Objects===
+{| class="wikitable sortable"
+!colspan='5'|Diff Objects
+|-
+! Name !! ID !! Key !! Previous Value !! New Value
+|-
+|}

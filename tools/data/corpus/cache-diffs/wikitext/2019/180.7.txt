@@ -1,0 +1,393 @@
+{{ToC}}
+==Items==
+===New Items===
+{| class="wikitable sortable"
+!colspan='11'|New Items
+|-
+! style=width:15em | Name !! ID !! Members !! Tradeable in GE !! Equipable !! Stackable !! Noteable !! Options !! Placeholder !! Cost
+|-
+| [[Sraracha]] || [https://chisel.weirdgloop.org/moid/item_id.html#23495 23495] || Yes || No || No || No || No ||     Drop || Yes || 1
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#23496 23496] || No || No || No || No || No ||     Drop || Yes || 1
+|-
+| [[Temple coin]] || [https://chisel.weirdgloop.org/moid/item_id.html#23497 23497] || Yes || No || No || No || No ||     Destroy || Yes || 0
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#23498 23498] || No || No || No || No || No ||     Drop || Yes || 1
+|-
+| [[Grubby key]] || [https://chisel.weirdgloop.org/moid/item_id.html#23499 23499] || Yes || Yes || No || No || Yes ||     Drop || Yes || 32
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#23500 23500] || No || No || No || No || Yes ||     Drop || No || 1
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#23501 23501] || No || No || No || No || No ||     Drop || Yes || 1
+|-
+| [[Temple key]] || [https://chisel.weirdgloop.org/moid/item_id.html#23502 23502] || Yes || No || No || No || No ||     Destroy || Yes || 1
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#23503 23503] || No || No || No || No || No ||     Drop || Yes || 1
+|-
+| [[Tome of the moon]] || [https://chisel.weirdgloop.org/moid/item_id.html#23504 23504] || No || No || No || No || No || Read,  Check,  Destroy || Yes || 1
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#23505 23505] || No || No || No || No || No ||     Drop || Yes || 1
+|-
+| [[Tome of the sun]] || [https://chisel.weirdgloop.org/moid/item_id.html#23506 23506] || No || No || No || No || No || Read,  Check,  Destroy || Yes || 1
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#23507 23507] || No || No || No || No || No ||     Drop || Yes || 1
+|-
+| [[Tome of the temple]] || [https://chisel.weirdgloop.org/moid/item_id.html#23508 23508] || Yes || No || No || No || No || Read,  Check,  Destroy || Yes || 1
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#23509 23509] || No || No || No || No || No ||     Drop || Yes || 1
+|-
+| [[Tattered moon page]] || [https://chisel.weirdgloop.org/moid/item_id.html#23510 23510] || Yes || No || No || Yes || No ||     Drop || Yes || 1
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#23511 23511] || No || No || No || No || No ||     Drop || Yes || 1
+|-
+| [[Tattered sun page]] || [https://chisel.weirdgloop.org/moid/item_id.html#23512 23512] || Yes || No || No || Yes || No ||     Drop || Yes || 1
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#23513 23513] || No || No || No || No || No ||     Drop || Yes || 1
+|-
+| [[Tattered temple page]] || [https://chisel.weirdgloop.org/moid/item_id.html#23514 23514] || Yes || No || No || Yes || No ||     Drop || Yes || 1
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#23515 23515] || No || No || No || No || No ||     Drop || Yes || 1
+|-
+| [[Lamp of knowledge]] || [https://chisel.weirdgloop.org/moid/item_id.html#23516 23516] || Yes || No || No || No || No || Rub,    Destroy || No || 1
+|-
+| [[Giant egg sac(full)]] || [https://chisel.weirdgloop.org/moid/item_id.html#23517 23517] || Yes || Yes || No || No || Yes || Cut-open,   Check-eggs, Drop || Yes || 10
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#23518 23518] || No || No || No || No || Yes ||     Drop || No || 1
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#23519 23519] || No || No || No || No || No ||     Drop || Yes || 1
+|-
+| [[Giant egg sac]] || [https://chisel.weirdgloop.org/moid/item_id.html#23520 23520] || Yes || No || No || No || No || Remove-eggs,   Check-eggs, Drop || Yes || 1000
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#23521 23521] || No || No || No || No || No ||     Drop || Yes || 1
+|-
+| [[Mask of ranul]] || [https://chisel.weirdgloop.org/moid/item_id.html#23522 23522] || Yes || Yes || Yes || No || Yes ||  Wear,   Drop || Yes || 5000
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#23523 23523] || No || No || No || No || Yes ||     Drop || No || 1
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#23524 23524] || No || No || No || No || No ||     Drop || Yes || 1
+|-
+| [[Jar of eyes]] || [https://chisel.weirdgloop.org/moid/item_id.html#23525 23525] || Yes || Yes || No || No || Yes ||     Drop || Yes || 1
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#23526 23526] || No || No || No || No || Yes ||     Drop || No || 1
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#23527 23527] || No || No || No || No || No ||     Drop || Yes || 1
+|-
+| [[Sarachnis cudgel]] || [https://chisel.weirdgloop.org/moid/item_id.html#23528 23528] || Yes || Yes || Yes || No || Yes ||  Wield,   Drop || Yes || 120001
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#23529 23529] || No || No || No || No || Yes ||     Drop || No || 1
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#23530 23530] || No || No || No || No || No ||     Drop || Yes || 1
+|-
+|-
+|}
+===Removed Items===
+{| class="wikitable sortable"
+!colspan='2'|Removed Items
+|-
+! style=width:15em | Name !! ID
+|-
+|-
+|}
+===Diff Items===
+{| class="wikitable sortable"
+!colspan='5'|Diff Items
+|-
+! style=width:15em | Name !! ID !! Key !! Previous Value !! New Value
+|-
+|}
+
+==Non-Player Characters==
+===New NPCs===
+{| class="wikitable sortable"
+!colspan='4'|New NPCs
+|-
+! style=width:15em | Name !! ID !! Combat Level !! Options
+|-
+| [[Sraracha]] || [https://chisel.weirdgloop.org/moid/npc_id.html#2143 2143] || No Combat Level || Talk-to, Pick-up
+|-
+| [[Sraracha]] || [https://chisel.weirdgloop.org/moid/npc_id.html#2144 2144] || No Combat Level || Talk-to, Pick-up
+|-
+| [[Undead Druid]] || [https://chisel.weirdgloop.org/moid/npc_id.html#2145 2145] || 105 || Attack
+|-
+| [[Temple Spider]] || [https://chisel.weirdgloop.org/moid/npc_id.html#8703 8703] || 75 || Attack
+|-
+| [[Brother Aimeri]] || [https://chisel.weirdgloop.org/moid/npc_id.html#8704 8704] || No Combat Level || Talk-to
+|-
+| [[Brother Aimeri]] || [https://chisel.weirdgloop.org/moid/npc_id.html#8705 8705] || No Combat Level || Talk-to
+|-
+| [[Olbertus]] || [https://chisel.weirdgloop.org/moid/npc_id.html#8706 8706] || 48 || Talk-to
+|-
+| [[Olbertus]] || [https://chisel.weirdgloop.org/moid/npc_id.html#8707 8707] || No Combat Level || Talk-to
+|-
+| [[Olbertus]] || [https://chisel.weirdgloop.org/moid/npc_id.html#8708 8708] || 48 || Talk-to
+|-
+| [[Shaeded Beast]] || [https://chisel.weirdgloop.org/moid/npc_id.html#8709 8709] || 186 || Attack
+|-
+| [[Shaeded Beast]] || [https://chisel.weirdgloop.org/moid/npc_id.html#8710 8710] || No Combat Level || Talk-to
+|-
+| [[Eodan]] || [https://chisel.weirdgloop.org/moid/npc_id.html#8711 8711] || No Combat Level || Talk-to, Tan-hides
+|-
+| [[Knight of Varlamore]] || [https://chisel.weirdgloop.org/moid/npc_id.html#8712 8712] || No Combat Level || Talk-to
+|-
+| [[Sarachnis]] || [https://chisel.weirdgloop.org/moid/npc_id.html#8713 8713] || 318 || Attack
+|-
+| [[Spawn of Sarachnis]] || [https://chisel.weirdgloop.org/moid/npc_id.html#8714 8714] || 107 || Attack
+|-
+| [[Spawn of Sarachnis]] || [https://chisel.weirdgloop.org/moid/npc_id.html#8715 8715] || 68 || Attack
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/npc_id.html#8716 8716] || 1 || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/npc_id.html#8717 8717] || 1 || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/npc_id.html#8718 8718] || 1 || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/npc_id.html#8719 8719] || 1 || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/npc_id.html#8720 8720] || 1 || None
+|-
+|-
+|}
+===Removed NPCs===
+{| class="wikitable sortable"
+!colspan='2'|Removed NPCs
+|-
+! style=width:15em | Name !! ID
+|-
+|-
+|}
+===Diff NPCs===
+{| class="wikitable sortable"
+!colspan='5'|Diff NPCs
+|-
+! style=width:15em | Name !! ID !! Key !! Previous Value !! New Value
+|-
+|rowspan="6"|[[Knight of Varlamore]]
+|rowspan="6"|[https://chisel.weirdgloop.org/moid/npc_id.html#7477 7477]
+|-
+|standingAnimation || 7332 || -1
+|-
+| walkingAnimation || 819 || -1
+|-
+| rotate180Animation || 820 || -1
+|-
+| rotate90RightAnimation || 821 || -1
+|-
+| rotate90LeftAnimation || 822 || -1
+|-
+|}
+
+==Objects==
+===New Objects=== 
+{| class="wikitable sortable"
+!colspan='3'|New Objects
+|-
+! style=width:15em | Name !! ID !! Options
+|-
+| [[Sarachnis display]] || [https://chisel.weirdgloop.org/moid/object_id.html#34833 34833] || Configure, Jars, Remove
+|-
+| [[Strange floor]] || [https://chisel.weirdgloop.org/moid/object_id.html#34834 34834] || Jump-over
+|-
+| [[Ancient Fire]] || [https://chisel.weirdgloop.org/moid/object_id.html#34835 34835] || Exit, Quick-Exit
+|-
+| [[Cursed Altar]] || [https://chisel.weirdgloop.org/moid/object_id.html#34836 34836] || Pray-at
+|-
+| [[Altar]] || [https://chisel.weirdgloop.org/moid/object_id.html#34837 34837] || Pray-at
+|-
+| [[Grubby Chest]] || [https://chisel.weirdgloop.org/moid/object_id.html#34838 34838] || Open
+|-
+| [[Grubby Chest]] || [https://chisel.weirdgloop.org/moid/object_id.html#34839 34839] || None
+|-
+| [[Grubby Door]] || [https://chisel.weirdgloop.org/moid/object_id.html#34840 34840] || Pick-lock
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#34841 34841] || None
+|-
+| [[Temple Door]] || [https://chisel.weirdgloop.org/moid/object_id.html#34842 34842] || Open
+|-
+| [[Temple Door]] || [https://chisel.weirdgloop.org/moid/object_id.html#34843 34843] || Open
+|-
+| [[Door]] || [https://chisel.weirdgloop.org/moid/object_id.html#34844 34844] || Open
+|-
+| [[Lever]] || [https://chisel.weirdgloop.org/moid/object_id.html#34845 34845] || None
+|-
+| [[Lever]] || [https://chisel.weirdgloop.org/moid/object_id.html#34846 34846] || Pull
+|-
+| [[Musty bookshelf]] || [https://chisel.weirdgloop.org/moid/object_id.html#34847 34847] || Search
+|-
+| [[Musty bookshelf]] || [https://chisel.weirdgloop.org/moid/object_id.html#34848 34848] || Search
+|-
+| [[Musty bookshelf]] || [https://chisel.weirdgloop.org/moid/object_id.html#34849 34849] || Search
+|-
+| [[Musty bookshelf]] || [https://chisel.weirdgloop.org/moid/object_id.html#34850 34850] || Search
+|-
+| [[Stone Relief]] || [https://chisel.weirdgloop.org/moid/object_id.html#34851 34851] || Operate
+|-
+| [[Stone Relief]] || [https://chisel.weirdgloop.org/moid/object_id.html#34852 34852] || Travel, Inspect
+|-
+| [[Passage]] || [https://chisel.weirdgloop.org/moid/object_id.html#34853 34853] || Travel
+|-
+| [[Wall]] || [https://chisel.weirdgloop.org/moid/object_id.html#34854 34854] || None
+|-
+| [[Sacred Bone Burner]] || [https://chisel.weirdgloop.org/moid/object_id.html#34855 34855] || Check-Faith
+|-
+| [[Torch]] || [https://chisel.weirdgloop.org/moid/object_id.html#34856 34856] || None
+|-
+| [[Dragon egg]] || [https://chisel.weirdgloop.org/moid/object_id.html#34857 34857] || None
+|-
+| [[Thick Web]] || [https://chisel.weirdgloop.org/moid/object_id.html#34858 34858] || Enter-crypt, Quick-enter
+|-
+| [[Thick Web]] || [https://chisel.weirdgloop.org/moid/object_id.html#34859 34859] || Exit, Quick-Exit
+|-
+| [[Strange passage]] || [https://chisel.weirdgloop.org/moid/object_id.html#34860 34860] || Enter
+|-
+| [[Strange wall]] || [https://chisel.weirdgloop.org/moid/object_id.html#34861 34861] || None
+|-
+| [[Ladder]] || [https://chisel.weirdgloop.org/moid/object_id.html#34862 34862] || Climb-down
+|-
+| [[Ladder]] || [https://chisel.weirdgloop.org/moid/object_id.html#34863 34863] || Climb-up
+|-
+| [[Staircase]] || [https://chisel.weirdgloop.org/moid/object_id.html#34864 34864] || Climb-up
+|-
+| [[Staircase]] || [https://chisel.weirdgloop.org/moid/object_id.html#34865 34865] || Climb-down
+|-
+| [[Cauldron]] || [https://chisel.weirdgloop.org/moid/object_id.html#34866 34866] || None
+|-
+| [[Egg sac]] || [https://chisel.weirdgloop.org/moid/object_id.html#34867 34867] || None
+|-
+| [[Empty sac]] || [https://chisel.weirdgloop.org/moid/object_id.html#34868 34868] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#34869 34869] || None
+|-
+| [[Stone Pile]] || [https://chisel.weirdgloop.org/moid/object_id.html#34870 34870] || None
+|-
+| [[Stone Pile]] || [https://chisel.weirdgloop.org/moid/object_id.html#34871 34871] || None
+|-
+| [[Broken sun altar]] || [https://chisel.weirdgloop.org/moid/object_id.html#34872 34872] || Pray-at
+|-
+| [[Empty Sarcophagus]] || [https://chisel.weirdgloop.org/moid/object_id.html#34873 34873] || None
+|-
+| [[Floor tile]] || [https://chisel.weirdgloop.org/moid/object_id.html#34874 34874] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#34875 34875] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#34876 34876] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#34877 34877] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#34878 34878] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#34879 34879] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#34880 34880] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#34881 34881] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#34882 34882] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#34883 34883] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#34884 34884] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#34885 34885] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#34886 34886] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#34887 34887] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#34888 34888] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#34889 34889] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#34890 34890] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#34891 34891] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#34892 34892] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#34893 34893] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#34894 34894] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#34895 34895] || None
+|-
+| [[Blood]] || [https://chisel.weirdgloop.org/moid/object_id.html#34896 34896] || None
+|-
+| [[Web]] || [https://chisel.weirdgloop.org/moid/object_id.html#34897 34897] || None
+|-
+| [[Web]] || [https://chisel.weirdgloop.org/moid/object_id.html#34898 34898] || Slash, Peek
+|-
+| [[Slashed web]] || [https://chisel.weirdgloop.org/moid/object_id.html#34899 34899] || Pass-through, Peek
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#34900 34900] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#34901 34901] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#34902 34902] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#34903 34903] || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#34904 34904] || None
+|-
+|-
+|}
+===Removed Objects===
+{| class="wikitable sortable"
+!colspan='2'|Removed Objects
+|-
+! style=width:15em | Name !! ID
+|-
+|-
+|}
+===Diff Objects===
+{| class="wikitable sortable"
+!colspan='5'|Diff Objects
+|-
+! style=width:15em | Name !! ID !! Key !! Previous Value !! New Value
+|-
+|rowspan="3"|[[Vine ladder]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#28894 28894]
+|-
+|name || [[Rope ladder]] || [[Vine ladder]]
+|-
+| objectModels || [31363] || [37320]
+|-
+|rowspan="3"|[[Vine]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#28895 28895]
+|-
+|name || [[Rope]] || [[Vine]]
+|-
+| objectModels || [31363] || [37320]
+|-
+|rowspan="3"|[[Vine]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#28896 28896]
+|-
+|name || [[Rope]] || [[Vine]]
+|-
+| objectModels || [31363] || [37320]
+|-
+|rowspan="3"|[[Vine]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#28897 28897]
+|-
+|name || [[Rope]] || [[Vine]]
+|-
+| objectModels || [31363] || [37320]
+|-
+|rowspan="3"|[[Vine]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#28898 28898]
+|-
+|name || [[Rope]] || [[Vine]]
+|-
+| objectModels || [31363] || [37320]
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#28899 28899]
+|-
+|objectModels || [31362] || [37295]
+|-
+|rowspan="3"|[[null]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#28918 28918]
+|-
+|sizeY || 1 || 2
+|-
+| configChangeDest || [28901, 28915, -1] || [34861, 34860, -1]
+|-
+|}

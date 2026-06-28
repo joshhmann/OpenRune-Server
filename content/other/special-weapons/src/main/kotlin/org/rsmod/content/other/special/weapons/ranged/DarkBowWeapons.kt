@@ -3,7 +3,6 @@ package org.rsmod.content.other.special.weapons.ranged
 import dev.openrune.rscm.RSCM
 import dev.openrune.rscm.RSCMType
 import dev.openrune.types.ItemServerType
-import dev.openrune.types.aconverted.SpotanimType
 import jakarta.inject.Inject
 import org.rsmod.api.combat.commons.CombatAttack
 import org.rsmod.api.combat.manager.RangedAmmoManager
@@ -73,7 +72,13 @@ class DarkBowWeapons @Inject constructor(private val ammunition: RangedAmmoManag
             val quiverCount = player.quiver?.count ?: 0
 
             if (quiverCount == 1) {
-                shootSingleArrow(target, attack, quiverType, RSCM.getReverseMapping(RSCMType.SPOTANIM,launchSpotanim!!.id), RSCM.getReverseMapping(RSCMType.SPOTANIM,travelSpotanim.id))
+                shootSingleArrow(
+                    target,
+                    attack,
+                    quiverType,
+                    RSCM.getReverseMapping(RSCMType.SPOTANIM, launchSpotanim!!.id),
+                    RSCM.getReverseMapping(RSCMType.SPOTANIM, travelSpotanim.id),
+                )
                 manager.continueCombat(this, target)
                 return
             }
@@ -81,7 +86,13 @@ class DarkBowWeapons @Inject constructor(private val ammunition: RangedAmmoManag
             if (quiverCount >= 2) {
                 val doubleLaunchSpotanim =
                     quiverType.paramOrNull(params.proj_launch_double) ?: launchSpotanim
-                shootDoubleArrow(target, attack, quiverType, RSCM.getReverseMapping(RSCMType.SPOTANIM,doubleLaunchSpotanim!!.id), RSCM.getReverseMapping(RSCMType.SPOTANIM,travelSpotanim.id))
+                shootDoubleArrow(
+                    target,
+                    attack,
+                    quiverType,
+                    RSCM.getReverseMapping(RSCMType.SPOTANIM, doubleLaunchSpotanim!!.id),
+                    RSCM.getReverseMapping(RSCMType.SPOTANIM, travelSpotanim.id),
+                )
                 manager.continueCombat(this, target)
                 return
             }
@@ -124,12 +135,10 @@ class DarkBowWeapons @Inject constructor(private val ammunition: RangedAmmoManag
             soundSynth("synth.darkbow_doublefire")
             spotanim(launchSpot, height = 96, slot = constants.spotanim_slot_combat)
 
-            val proj1 = manager.spawnProjectile(this, target, travelSpot,
-                "projanim.doublearrow_one"
-            )
-            val proj2 = manager.spawnProjectile(this, target, travelSpot,
-                "projanim.doublearrow_two"
-            )
+            val proj1 =
+                manager.spawnProjectile(this, target, travelSpot, "projanim.doublearrow_one")
+            val proj2 =
+                manager.spawnProjectile(this, target, travelSpot, "projanim.doublearrow_two")
             val hitDelay1 = proj1.serverCycles
             val hitDelay2 = proj2.serverCycles
 

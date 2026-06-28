@@ -1,7 +1,6 @@
 package org.rsmod.api.music
 
 import dev.openrune.types.aconverted.MidiType
-import dev.openrune.types.varp.VarpServerType
 import org.rsmod.api.table.MusicRow
 
 public data class Music(

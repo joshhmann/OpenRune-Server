@@ -1,0 +1,124 @@
+{{ToC}}
+==Items==
+{| class="wikitable sortable"
+!colspan='13'|Items
+|-
+! Name !! ID !! Key !! Previous Value !! New Value !! Members !! Tradeable in GE !! Equipable !! Stackable !! Noteable !! Options !! Placeholder !! Cost
+|-
+|rowspan="2"|[[Giant key]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#20754 20754]
+|-
+|stackable || 0 || 1
+|-
+|rowspan="2"|[[Twisted bow]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#20997 20997]
+|-
+|params || {'23': 75} || {'23': 85}
+|-
+|rowspan="2"|[[Dragon hunter crossbow]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#21012 21012]
+|-
+|params || {'23': 65} || {'23': 70}
+|-
+|rowspan="2"|[[Useful rock]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#22191 22191]
+|-
+|interfaceOptions || ['Beginner', 'Master', 'Assessment', None, 'Drop'] || ['Elite', 'Master', 'Assessment', None, 'Drop']
+|-
+|rowspan="2"|[[Bryophyta's staff (uncharged)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#22368 22368]
+|-
+|members || True || False
+|-
+|rowspan="2"|[[Bryophyta's staff]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#22370 22370]
+|-
+|members || True || False
+|-
+|rowspan="2"|[[Bryophyta's essence]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#22372 22372]
+|-
+|members || True || False
+|-
+|rowspan="2"|[[Mossy key]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#22374 22374]
+|-
+|stackable || 0 || 1
+|-
+|rowspan="2"|[[Bow of faerdhinen (inactive)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#25862 25862]
+|-
+|params || {'23': 75} || {'23': 80}
+|-
+|rowspan="2"|[[Bow of faerdhinen]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#25865 25865]
+|-
+|params || {'23': 75, '451': 'Check'} || {'23': 80, '451': 'Check'}
+|-
+|rowspan="2"|[[Bow of faerdhinen (c)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#25867 25867]
+|-
+|params || {'23': 75} || {'23': 80}
+|-
+|rowspan="2"|[[Bow of faerdhinen (c)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#25884 25884]
+|-
+|params || {'23': 75} || {'23': 80}
+|-
+|rowspan="2"|[[Bow of faerdhinen (c)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#25886 25886]
+|-
+|params || {'23': 75} || {'23': 80}
+|-
+|rowspan="2"|[[Bow of faerdhinen (c)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#25888 25888]
+|-
+|params || {'23': 75} || {'23': 80}
+|-
+|rowspan="2"|[[Bow of faerdhinen (c)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#25890 25890]
+|-
+|params || {'23': 75} || {'23': 80}
+|-
+|rowspan="2"|[[Bow of faerdhinen (c)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#25892 25892]
+|-
+|params || {'23': 75} || {'23': 80}
+|-
+|rowspan="2"|[[Bow of faerdhinen (c)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#25894 25894]
+|-
+|params || {'23': 75} || {'23': 80}
+|-
+|rowspan="2"|[[Bow of faerdhinen (c)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#25896 25896]
+|-
+|params || {'23': 75} || {'23': 80}
+|-
+|}
+
+==Non-Player Characters==
+{| class="wikitable sortable"
+!colspan='5'|Non-Player Characters
+|-
+! Name !! ID !! Key !! Previous Value !! Changed into
+|-
+|rowspan="2"|[[Menaphite Akh]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#11492 11492]
+|-
+|walkingAnimation || 824 || 819
+|-
+|}
+
+==Objects==
+{| class="wikitable sortable"
+!colspan='5'|Objects
+|-
+! Name !! ID !! Key !! Previous Value !! Changed into
+|-
+|rowspan="2"|[[Smokey well]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#6279 6279]
+|-
+|actions || ['Climb-down', None, None, None, None] || ['Climb-down', 'Smoke', None, None, None]
+|-
+|}

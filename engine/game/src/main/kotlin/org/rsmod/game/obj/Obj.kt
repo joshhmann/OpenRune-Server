@@ -183,13 +183,7 @@ public class Obj(
             return fromOwner(player, coords, obj.id, count)
         }
 
-
-        public fun fromOwner(
-            player: Player,
-            coords: CoordGrid,
-            obj: String,
-            count: Int,
-        ): Obj {
+        public fun fromOwner(player: Player, coords: CoordGrid, obj: String, count: Int): Obj {
             return fromOwner(player, coords, obj.asRSCM(RSCMType.OBJ), count)
         }
 
@@ -208,12 +202,7 @@ public class Obj(
             )
         }
 
-        public fun fromServer(
-            clock: MapClock,
-            coords: CoordGrid,
-            obj: String,
-            count: Int,
-        ): Obj {
+        public fun fromServer(clock: MapClock, coords: CoordGrid, obj: String, count: Int): Obj {
             return fromServer(clock, coords, obj.asRSCM(RSCMType.OBJ), count)
         }
 

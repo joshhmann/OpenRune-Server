@@ -1,0 +1,31 @@
+{| class="wikitable sortable"
+!colspan="5"|Items
+|-
+! Name !! ID !! Key !! Previous Value !! Changed into
+|-
+| [[null]] || 24945 || colspan = "4" | New ID
+|-
+|}
+
+{| class="wikitable sortable"
+!colspan="5"|Non-Player Characters
+|-
+! Name !! ID !! Key !! Previous Value !! Changed into
+|-
+|rowspan="2"|[[Grace]]
+|rowspan="2"|5919
+|-
+|actions || ['Talk-to', None, 'Trade', None, None] || ['Talk-to', None, 'Trade', 'View Laps', 'Toggle Counter']
+|-
+|}
+
+{| class="wikitable sortable"
+!colspan="5"|Objects
+|-
+! Name !! ID !! Key !! Previous Value !! Changed into
+|-
+| [[Crumbling wall]] || 40355 || colspan = "4" | New ID
+|-
+| [[Rocks]] || 40356 || colspan = "4" | New ID
+|-
+|}

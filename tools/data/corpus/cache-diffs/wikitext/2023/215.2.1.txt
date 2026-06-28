@@ -1,0 +1,97 @@
+{{ToC}}
+==Items==
+===New Items===
+{| class="wikitable sortable"
+!colspan='11'|New Items
+|-
+! style=width:15em | Name !! ID !! Members !! Tradeable in GE !! Equipable !! Stackable !! Noteable !! Options !! Placeholder !! Cost !! Weight
+|-
+|-
+|}
+===Removed Items===
+{| class="wikitable sortable"
+!colspan='2'|Removed Items
+|-
+! style=width:15em | Name !! ID
+|-
+|-
+|}
+===Diff Items===
+{| class="wikitable sortable"
+!colspan='5'|Diff Items
+|-
+! style=width:15em | Name !! ID !! Key !! Previous Value !! New Value
+|-
+|}
+
+==Non-Player Characters==
+===New NPCs===
+{| class="wikitable sortable"
+!colspan='4'|New NPCs
+|-
+! style=width:15em | Name !! ID !! Combat Level !! Options
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12428 12428] || No Combat Level || 
+|-
+| [[Strangled]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12429 12429] || 138 || Attack
+|-
+| [[Strangled]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12430 12430] || 138 || Attack
+|-
+| [[Strangled]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12431 12431] || 138 || Attack
+|-
+| [[Strangled]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12432 12432] || 138 || Attack
+|-
+| [[Strangled]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12433 12433] || 149 || Attack
+|-
+| [[Strangled]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12434 12434] || 149 || Attack
+|-
+| [[Strangled]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12435 12435] || 149 || Attack
+|-
+|-
+|}
+===Removed NPCs===
+{| class="wikitable sortable"
+!colspan='2'|Removed NPCs
+|-
+! style=width:15em | Name !! ID
+|-
+|-
+|}
+===Diff NPCs===
+{| class="wikitable sortable"
+!colspan='5'|Diff NPCs
+|-
+! style=width:15em | Name !! ID !! Key !! Previous Value !! New Value
+|-
+|}
+
+==Objects==
+===New Objects=== 
+{| class="wikitable sortable"
+!colspan='3'|New Objects
+|-
+! style=width:15em | Name !! ID !! Options
+|-
+| [[Rocks]] || [https://chisel.weirdgloop.org/moid/object_id.html#47570 47570] || Climb
+|-
+| [[Rocks]] || [https://chisel.weirdgloop.org/moid/object_id.html#47571 47571] || Climb
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#47572 47572] || 
+|-
+|-
+|}
+===Removed Objects===
+{| class="wikitable sortable"
+!colspan='2'|Removed Objects
+|-
+! style=width:15em | Name !! ID
+|-
+|-
+|}
+===Diff Objects===
+{| class="wikitable sortable"
+!colspan='5'|Diff Objects
+|-
+! style=width:15em | Name !! ID !! Key !! Previous Value !! New Value
+|-
+|}

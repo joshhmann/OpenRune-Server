@@ -6,7 +6,7 @@ import org.rsmod.game.entity.Player
 enum class NodeStatus {
     SUCCESS,
     FAILURE,
-    RUNNING
+    RUNNING,
 }
 
 interface BehaviorNode {

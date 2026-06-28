@@ -1,0 +1,115 @@
+{{ToC}}
+==Items==
+===New Items===
+{| class="wikitable sortable"
+!colspan='11'|New Items
+|-
+! Name !! ID !! Members !! Tradeable in GE !! Equipable !! Stackable !! Noteable !! Options !! Placeholder !! Cost
+|-
+| [[Jar of chemicals]] || [https://chisel.weirdgloop.org/moid/item_id.html#23064 23064] || Yes || Yes || No || No || Yes ||     Drop || Yes || 1
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#23065 23065] || No || No || No || No || Yes ||     Drop || No || 1
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#23066 23066] || No || No || No || No || No ||     Drop || Yes || 1
+|-
+|-
+|}
+===Removed Items===
+{| class="wikitable sortable"
+!colspan='2'|Removed Items
+|-
+! Name !! ID
+|-
+|-
+|}
+===Diff Items===
+{| class="wikitable sortable"
+!colspan='5'|Diff Items
+|-
+! Name !! ID !! Key !! Previous Value !! New Value
+|-
+|rowspan="2"|[[Angler hat]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#13258 13258]
+|-
+|cost || 40 || 100
+|-
+|rowspan="2"|[[Angler top]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#13259 13259]
+|-
+|cost || 60 || 100
+|-
+|rowspan="2"|[[Angler waders]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#13260 13260]
+|-
+|cost || 50 || 100
+|-
+|rowspan="2"|[[Angler boots]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#13261 13261]
+|-
+|cost || 30 || 100
+|-
+|}
+
+==Non-Player Characters==
+===New NPCs===
+{| class="wikitable sortable"
+!colspan='4'|New NPCs
+|-
+! Name !! ID !! Combat Level !! Options
+|-
+|-
+|}
+===Removed NPCs===
+{| class="wikitable sortable"
+!colspan='2'|Removed NPCs
+|-
+! Name !! ID
+|-
+| [[Scavenger runt]] || [https://chisel.weirdgloop.org/moid/npc_id.html#7546 7546]
+|-
+| [[Scavenger runt]] || [https://chisel.weirdgloop.org/moid/npc_id.html#7547 7547]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/npc_id.html#8484 8484]
+|-
+|-
+|}
+===Diff NPCs===
+{| class="wikitable sortable"
+!colspan='5'|Diff NPCs
+|-
+! Name !! ID !! Key !! Previous Value !! New Value
+|-
+|}
+
+==Objects==
+===New Objects=== 
+{| class="wikitable sortable"
+!colspan='3'|New Objects
+|-
+! Name !! ID !! Options
+|-
+| [[Alchemical Hydra display]] || [https://chisel.weirdgloop.org/moid/object_id.html#34653 34653] || Configure, Jars, Remove
+|-
+| [[Alchemical Topiary]] || [https://chisel.weirdgloop.org/moid/object_id.html#34654 34654] || Clip, Remove
+|-
+| [[Mysterious pipe]] || [https://chisel.weirdgloop.org/moid/object_id.html#34655 34655] || Enter
+|-
+| [[Chemical waste pipe]] || [https://chisel.weirdgloop.org/moid/object_id.html#34656 34656] || None
+|-
+|-
+|}
+===Removed Objects===
+{| class="wikitable sortable"
+!colspan='2'|Removed Objects
+|-
+! Name !! ID
+|-
+|-
+|}
+===Diff Objects===
+{| class="wikitable sortable"
+!colspan='5'|Diff Objects
+|-
+! Name !! ID !! Key !! Previous Value !! New Value
+|-
+|}

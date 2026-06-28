@@ -21,11 +21,7 @@ import org.rsmod.plugin.scripts.ScriptContext
 
 class AnvilSmithingScript @Inject constructor(private val xpMods: XpModifiers) : PluginScript() {
 
-    private val hammers = setOf(
-        "obj.hammer",
-        "obj.imcando_hammer",
-        "obj.imcando_hammer_offhand"
-    )
+    private val hammers = setOf("obj.hammer", "obj.imcando_hammer", "obj.imcando_hammer_offhand")
 
     private var ProtectedAccess.smithingBarType by intVarBit(SmithingData.SMITHING_BAR_TYPE_VARBIT)
 
@@ -33,7 +29,7 @@ class AnvilSmithingScript @Inject constructor(private val xpMods: XpModifiers) :
         hammers.forEach { hammer ->
             onOpLocCategoryU(SmithingData.ANVIL_CATEGORY, hammer) {
                 mes(
-                    "To smith a metal bar, click on the anvil while you have the bar in your inventory.",
+                    "To smith a metal bar, click on the anvil while you have the bar in your inventory."
                 )
             }
         }
@@ -61,9 +57,7 @@ class AnvilSmithingScript @Inject constructor(private val xpMods: XpModifiers) :
             openAnvilSmithing(it.args.barInternal)
         }
 
-        onPlayerQueueWithArgs<AnvilSmithTask>("queue.smithing_anvil") {
-            processSmithTask(it.args)
-        }
+        onPlayerQueueWithArgs<AnvilSmithTask>("queue.smithing_anvil") { processSmithTask(it.args) }
     }
 
     private fun ProtectedAccess.queueOpenSmithing(bar: SmithingBarsRow) {
@@ -94,11 +88,7 @@ class AnvilSmithingScript @Inject constructor(private val xpMods: XpModifiers) :
             return false
         }
         val barName = SmithingUtils.itemName(bar.output, "bar").lowercase()
-        return SmithingUtils.requireSmithingLevel(
-            this,
-            bar.statReq.first().t1,
-            "work $barName",
-        )
+        return SmithingUtils.requireSmithingLevel(this, bar.statReq.first().t1, "work $barName")
     }
 
     private suspend fun ProtectedAccess.openSmithingInterface(bar: SmithingBarsRow) {
@@ -110,14 +100,18 @@ class AnvilSmithingScript @Inject constructor(private val xpMods: XpModifiers) :
         val smithingLevel = player.smithingLvl
 
         SmithingData.barAtIndex(smithingBarType)
-            ?.takeIf { inv.contains(it.output.internalName) && smithingLevel >= it.statReq.first().t1 }
+            ?.takeIf {
+                inv.contains(it.output.internalName) && smithingLevel >= it.statReq.first().t1
+            }
             ?.let {
                 return it
             }
 
         val bestBar =
             SmithingData.allBars
-                .filter { inv.contains(it.output.internalName) && smithingLevel >= it.statReq.first().t1 }
+                .filter {
+                    inv.contains(it.output.internalName) && smithingLevel >= it.statReq.first().t1
+                }
                 .maxByOrNull { it.statReq.first().t1 }
 
         if (bestBar != null) {
@@ -164,11 +158,7 @@ class AnvilSmithingScript @Inject constructor(private val xpMods: XpModifiers) :
             return
         }
 
-        weakQueue(
-            "queue.smithing_anvil",
-            ANVIL_CYCLE_DELAY,
-            task.copy(completed = completed),
-        )
+        weakQueue("queue.smithing_anvil", ANVIL_CYCLE_DELAY, task.copy(completed = completed))
     }
 
     private suspend fun ProtectedAccess.performSmith(meta: SmithingProductMeta) {
@@ -202,7 +192,8 @@ class AnvilSmithingScript @Inject constructor(private val xpMods: XpModifiers) :
             return false
         }
 
-        if (!SmithingUtils.requireSmithingLevel(
+        if (
+            !SmithingUtils.requireSmithingLevel(
                 this,
                 meta.level,
                 "make ${SmithingUtils.prefixAn(meta.name)}",
@@ -215,7 +206,8 @@ class AnvilSmithingScript @Inject constructor(private val xpMods: XpModifiers) :
             val barName = SmithingUtils.itemName(meta.bar.output, "bar").lowercase()
             mesbox(
                 "You don't have enough ${SmithingUtils.pluralize(barName, meta.barCount)} to make " +
-                    SmithingUtils.prefixAn(meta.name) + ".",
+                    SmithingUtils.prefixAn(meta.name) +
+                    "."
             )
             return false
         }
@@ -223,9 +215,7 @@ class AnvilSmithingScript @Inject constructor(private val xpMods: XpModifiers) :
         return true
     }
 
-    private data class OpenAnvilTask(
-        val barInternal: String,
-    )
+    private data class OpenAnvilTask(val barInternal: String)
 
     private data class AnvilSmithTask(
         val meta: SmithingProductMeta,

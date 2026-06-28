@@ -18,11 +18,14 @@ public class BonecrusherScript @Inject constructor() : PluginScript() {
         onOpHeld4("obj.bonecrusher") { uncharge(it.slot) }
 
         onOpHeldU("obj.bonecrusher", "obj.ectotoken") { ev ->
-            val newTotal = player.chargeCrusherItemWithEcto(ev.firstSlot, ev.secondSlot) ?: return@onOpHeldU
+            val newTotal =
+                player.chargeCrusherItemWithEcto(ev.firstSlot, ev.secondSlot) ?: return@onOpHeldU
             if (player.isBonecrusherActivityEnabled()) {
                 mes("The bonecrusher has $newTotal charges. It is active and ready to crush bones.")
             } else {
-                mes("The bonecrusher has $newTotal charges. It has been deactivated, and will not crush bones now.")
+                mes(
+                    "The bonecrusher has $newTotal charges. It has been deactivated, and will not crush bones now."
+                )
             }
         }
     }
@@ -31,27 +34,37 @@ public class BonecrusherScript @Inject constructor() : PluginScript() {
         inv[slot] ?: return
         val charges = bonecrusherCharges
         when {
-            charges == 0 -> mes("The bonecrusher has no charges. It can be charged with ectotokens.")
-            player.isBonecrusherActivityEnabled() -> mes("The bonecrusher has $charges charges. It is active and ready to crush bones.")
-            else -> mes("The bonecrusher has $charges charges. It has been deactivated, and will not crush bones now.",)
+            charges == 0 ->
+                mes("The bonecrusher has no charges. It can be charged with ectotokens.")
+            player.isBonecrusherActivityEnabled() ->
+                mes("The bonecrusher has $charges charges. It is active and ready to crush bones.")
+            else ->
+                mes(
+                    "The bonecrusher has $charges charges. It has been deactivated, and will not crush bones now."
+                )
         }
     }
 
     private fun ProtectedAccess.toggleActivity() {
         val next = !player.isBonecrusherActivityEnabled()
         player.setBonecrusherActivity(next)
-        mes(if (next) {
-            "The bonecrusher is active and ready to crush bones."
-        } else {
-            "The bonecrusher has been deactivated, and will not crush bones now."
-        })
+        mes(
+            if (next) {
+                "The bonecrusher is active and ready to crush bones."
+            } else {
+                "The bonecrusher has been deactivated, and will not crush bones now."
+            }
+        )
     }
 
     private suspend fun ProtectedAccess.uncharge(slot: Int) {
         when (val result = player.tryUnchargeBonecrusher(inv, slot, "obj.bonecrusher")) {
             BonecrusherUnchargeResult.WrongItem -> return
             BonecrusherUnchargeResult.NoCharges -> mes("The bonecrusher has no charges.")
-            BonecrusherUnchargeResult.CannotRedeemEcto -> mes("The bonecrusher does not have enough charges for you to remove any ectotokens.",)
+            BonecrusherUnchargeResult.CannotRedeemEcto ->
+                mes(
+                    "The bonecrusher does not have enough charges for you to remove any ectotokens."
+                )
             BonecrusherUnchargeResult.NoInvSpace -> mes(constants.dm_invspace)
             is BonecrusherUnchargeResult.Success ->
                 if (result.remainingCharges == 0) {

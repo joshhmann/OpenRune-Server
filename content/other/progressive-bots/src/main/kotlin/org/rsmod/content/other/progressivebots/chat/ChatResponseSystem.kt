@@ -68,6 +68,11 @@ object ChatResponseSystem {
         bot: Player,
         message: String,
     ): CompletableFuture<String?> {
+        val botCfg = org.rsmod.content.other.playerbotservice.BotConfig.config
+        if (!botCfg.llmEnabled) {
+            return CompletableFuture.completedFuture(getPatternResponse(sender, bot, message))
+        }
+
         return queryLLM(sender, bot, message)
             .thenApply { llmResponse ->
                 if (llmResponse != null && llmResponse.isNotBlank()) {

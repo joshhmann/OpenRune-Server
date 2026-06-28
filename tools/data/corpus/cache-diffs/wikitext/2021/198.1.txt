@@ -1,0 +1,1074 @@
+{{ToC}}
+==Items==
+{| class="wikitable sortable"
+!colspan='5'|Items
+|-
+! Name !! ID !! Key !! Previous Value !! Changed into
+|-
+| [[null]] || 25962 || colspan = "4" | New ID
+|-
+| [[Crypt key]] || 25963 || colspan = "4" | New ID
+|-
+| [[Ranis' head]] || 25964 || colspan = "4" | New ID
+|-
+| [[Strange spider eggs]] || 25965 || colspan = "4" | New ID
+|-
+| [[Sulphuric acid]] || 25966 || colspan = "4" | New ID
+|-
+| [[Sticky note]] || 25967 || colspan = "4" | New ID
+|-
+| [[Hespori bark]] || 25968 || colspan = "4" | New ID
+|-
+|rowspan="2"|[[Antique lamp]]
+|rowspan="2"|25753
+|-
+|cost || 1 || 50
+|-
+|rowspan="3"|[[Anim offhand]]
+|rowspan="3"|25938
+|-
+|isTradeable || True || False
+|-
+| notedID || 25939 || -1
+|-
+|rowspan="7"|[[Null]]
+|rowspan="7"|25939
+|-
+|name || [[null]] || [[Null]]
+|-
+| inventoryModel || 0 || 42786
+|-
+| maleModel0 || -1 || 42751
+|-
+| femaleModel0 || -1 || 42747
+|-
+| notedID || 25938 || -1
+|-
+| notedTemplate || 799 || -1
+|-
+|rowspan="3"|[[Anim offhand]]
+|rowspan="3"|25941
+|-
+|isTradeable || True || False
+|-
+| notedID || 25942 || -1
+|-
+|rowspan="7"|[[Null]]
+|rowspan="7"|25942
+|-
+|name || [[null]] || [[Null]]
+|-
+| inventoryModel || 0 || 42786
+|-
+| maleModel0 || -1 || 42751
+|-
+| femaleModel0 || -1 || 42747
+|-
+| notedID || 25941 || -1
+|-
+| notedTemplate || 799 || -1
+|-
+|rowspan="3"|[[Anim offhand]]
+|rowspan="3"|25944
+|-
+|isTradeable || True || False
+|-
+| notedID || 25945 || -1
+|-
+|rowspan="7"|[[Null]]
+|rowspan="7"|25945
+|-
+|name || [[null]] || [[Null]]
+|-
+| inventoryModel || 0 || 42786
+|-
+| maleModel0 || -1 || 42751
+|-
+| femaleModel0 || -1 || 42747
+|-
+| notedID || 25944 || -1
+|-
+| notedTemplate || 799 || -1
+|-
+|rowspan="3"|[[Anim offhand]]
+|rowspan="3"|25947
+|-
+|isTradeable || True || False
+|-
+| notedID || 25948 || -1
+|-
+|rowspan="7"|[[Null]]
+|rowspan="7"|25948
+|-
+|name || [[null]] || [[Null]]
+|-
+| inventoryModel || 0 || 42786
+|-
+| maleModel0 || -1 || 42751
+|-
+| femaleModel0 || -1 || 42747
+|-
+| notedID || 25947 || -1
+|-
+| notedTemplate || 799 || -1
+|-
+|rowspan="3"|[[Anim offhand]]
+|rowspan="3"|25950
+|-
+|isTradeable || True || False
+|-
+| notedID || 25951 || -1
+|-
+|rowspan="7"|[[Null]]
+|rowspan="7"|25951
+|-
+|name || [[null]] || [[Null]]
+|-
+| inventoryModel || 0 || 42786
+|-
+| maleModel0 || -1 || 42751
+|-
+| femaleModel0 || -1 || 42747
+|-
+| notedID || 25950 || -1
+|-
+| notedTemplate || 799 || -1
+|-
+|rowspan="3"|[[Anim offhand]]
+|rowspan="3"|25953
+|-
+|isTradeable || True || False
+|-
+| notedID || 25954 || -1
+|-
+|rowspan="7"|[[Null]]
+|rowspan="7"|25954
+|-
+|name || [[null]] || [[Null]]
+|-
+| inventoryModel || 0 || 42786
+|-
+| maleModel0 || -1 || 42751
+|-
+| femaleModel0 || -1 || 42747
+|-
+| notedID || 25953 || -1
+|-
+| notedTemplate || 799 || -1
+|-
+|}
+
+==Non-Player Characters==
+{| class="wikitable sortable"
+!colspan='5'|Non-Player Characters
+|-
+! Name !! ID !! Key !! Previous Value !! Changed into
+|-
+| [[Mysterious Stranger]] || 11162 || colspan = "4" | New ID
+|-
+| [[null]] || 11163 || colspan = "4" | New ID
+|-
+| [[null]] || 11164 || colspan = "4" | New ID
+|-
+| [[null]] || 11165 || colspan = "4" | New ID
+|-
+| [[null]] || 11166 || colspan = "4" | New ID
+|-
+| [[null]] || 11167 || colspan = "4" | New ID
+|-
+| [[null]] || 11168 || colspan = "4" | New ID
+|-
+| [[Vyrewatch]] || 11169 || colspan = "4" | New ID
+|-
+| [[Vyrewatch]] || 11170 || colspan = "4" | New ID
+|-
+| [[Vyrewatch]] || 11171 || colspan = "4" | New ID
+|-
+| [[Vyrewatch]] || 11172 || colspan = "4" | New ID
+|-
+| [[Vyrewatch]] || 11173 || colspan = "4" | New ID
+|-
+| [[Spider]] || 11174 || colspan = "4" | New ID
+|-
+| [[Spider]] || 11175 || colspan = "4" | New ID
+|-
+| [[Spider]] || 11176 || colspan = "4" | New ID
+|-
+| [[Ranis Drakan]] || 11177 || colspan = "4" | New ID
+|-
+| [[Verzik Vitur]] || 11178 || colspan = "4" | New ID
+|-
+| [[Verzik Vitur]] || 11179 || colspan = "4" | New ID
+|-
+| [[Vulcan Orvoros]] || 11180 || colspan = "4" | New ID
+|-
+| [[Nylocas Queen]] || 11181 || colspan = "4" | New ID
+|-
+| [[Nylocas]] || 11182 || colspan = "4" | New ID
+|-
+| [[The Maiden of Sugadinti]] || 11183 || colspan = "4" | New ID
+|-
+| [[Pestilent Bloat]] || 11184 || colspan = "4" | New ID
+|-
+| [[Nylocas Vasilias]] || 11185 || colspan = "4" | New ID
+|-
+| [[Sotetseg]] || 11186 || colspan = "4" | New ID
+|-
+| [[Xarpus]] || 11187 || colspan = "4" | New ID
+|-
+| [[Nylocas Athanatos]] || 11188 || colspan = "4" | New ID
+|-
+| [[Nylocas Ischyros]] || 11189 || colspan = "4" | New ID
+|-
+| [[Nylocas Toxobolos]] || 11190 || colspan = "4" | New ID
+|-
+| [[Nylocas Hagios]] || 11191 || colspan = "4" | New ID
+|-
+| [[Hespori]] || 11192 || colspan = "4" | New ID
+|-
+| [[Flower]] || 11193 || colspan = "4" | New ID
+|-
+| [[<col=00ffff>Flower</col>]] || 11194 || colspan = "4" | New ID
+|-
+|rowspan="2"|[[Verzik Vitur]]
+|rowspan="2"|8250
+|-
+|chatheadModels || [35180] || [42868]
+|-
+|rowspan="3"|[[null]]
+|rowspan="3"|8325
+|-
+|varbitId || 12276 || 12973
+|-
+| configs || [10875, 10875, 10875, 10875, 10876] || [10875, 10876]
+|-
+|rowspan="2"|[[Lil' Zik]]
+|rowspan="2"|8336
+|-
+|chatheadModels || [35380] || [42869]
+|-
+|rowspan="2"|[[Lil' Zik]]
+|rowspan="2"|8337
+|-
+|chatheadModels || [35380] || [42869]
+|-
+|rowspan="2"|[[Verzik Vitur]]
+|rowspan="2"|8369
+|-
+|chatheadModels || [35180] || [42868]
+|-
+|rowspan="2"|[[Verzik Vitur]]
+|rowspan="2"|8370
+|-
+|chatheadModels || [35180] || [42868]
+|-
+|rowspan="2"|[[Verzik Vitur]]
+|rowspan="2"|8371
+|-
+|chatheadModels || [35180] || [42870]
+|-
+|rowspan="2"|[[Verzik Vitur]]
+|rowspan="2"|8372
+|-
+|chatheadModels || [35180] || [42870]
+|-
+|rowspan="2"|[[Verzik Vitur]]
+|rowspan="2"|8373
+|-
+|chatheadModels || [35180] || [42869]
+|-
+|rowspan="2"|[[Verzik Vitur]]
+|rowspan="2"|8374
+|-
+|chatheadModels || [35180] || [42869]
+|-
+|rowspan="2"|[[Verzik Vitur]]
+|rowspan="2"|10830
+|-
+|chatheadModels || [35180] || [42868]
+|-
+|rowspan="2"|[[Verzik Vitur]]
+|rowspan="2"|10831
+|-
+|chatheadModels || [35180] || [42868]
+|-
+|rowspan="2"|[[Verzik Vitur]]
+|rowspan="2"|10832
+|-
+|chatheadModels || [35180] || [42870]
+|-
+|rowspan="2"|[[Verzik Vitur]]
+|rowspan="2"|10833
+|-
+|chatheadModels || [35180] || [42870]
+|-
+|rowspan="2"|[[Verzik Vitur]]
+|rowspan="2"|10834
+|-
+|chatheadModels || [35180] || [42869]
+|-
+|rowspan="2"|[[Verzik Vitur]]
+|rowspan="2"|10835
+|-
+|chatheadModels || [35180] || [42869]
+|-
+|rowspan="2"|[[Verzik Vitur]]
+|rowspan="2"|10847
+|-
+|chatheadModels || [35180] || [42868]
+|-
+|rowspan="2"|[[Verzik Vitur]]
+|rowspan="2"|10848
+|-
+|chatheadModels || [35180] || [42868]
+|-
+|rowspan="2"|[[Verzik Vitur]]
+|rowspan="2"|10849
+|-
+|chatheadModels || [35180] || [42870]
+|-
+|rowspan="2"|[[Verzik Vitur]]
+|rowspan="2"|10850
+|-
+|chatheadModels || [35180] || [42870]
+|-
+|rowspan="2"|[[Verzik Vitur]]
+|rowspan="2"|10851
+|-
+|chatheadModels || [35180] || [42869]
+|-
+|rowspan="2"|[[Verzik Vitur]]
+|rowspan="2"|10852
+|-
+|chatheadModels || [35180] || [42869]
+|-
+|}
+
+==Objects==
+{| class="wikitable sortable"
+!colspan='5'|Objects
+|-
+! Name !! ID !! Key !! Previous Value !! Changed into
+|-
+| [[Door]] || 42515 || colspan = "4" | New ID
+|-
+| [[Barrier]] || 42516 || colspan = "4" | New ID
+|-
+| [[Arena]] || 42517 || colspan = "4" | New ID
+|-
+| [[Arena]] || 42518 || colspan = "4" | New ID
+|-
+| [[Arena]] || 42519 || colspan = "4" | New ID
+|-
+| [[Arena]] || 42520 || colspan = "4" | New ID
+|-
+| [[null]] || 42521 || colspan = "4" | New ID
+|-
+| [[null]] || 42522 || colspan = "4" | New ID
+|-
+| [[Staircase]] || 42523 || colspan = "4" | New ID
+|-
+| [[Door]] || 42524 || colspan = "4" | New ID
+|-
+| [[null]] || 42525 || colspan = "4" | New ID
+|-
+| [[null]] || 42526 || colspan = "4" | New ID
+|-
+| [[null]] || 42527 || colspan = "4" | New ID
+|-
+| [[null]] || 42528 || colspan = "4" | New ID
+|-
+| [[Gate]] || 42529 || colspan = "4" | New ID
+|-
+| [[null]] || 42530 || colspan = "4" | New ID
+|-
+| [[Coffin]] || 42531 || colspan = "4" | New ID
+|-
+| [[Coffin]] || 42532 || colspan = "4" | New ID
+|-
+| [[null]] || 42533 || colspan = "4" | New ID
+|-
+| [[null]] || 42534 || colspan = "4" | New ID
+|-
+| [[null]] || 42535 || colspan = "4" | New ID
+|-
+| [[null]] || 42536 || colspan = "4" | New ID
+|-
+| [[null]] || 42537 || colspan = "4" | New ID
+|-
+| [[null]] || 42538 || colspan = "4" | New ID
+|-
+| [[null]] || 42539 || colspan = "4" | New ID
+|-
+| [[null]] || 42540 || colspan = "4" | New ID
+|-
+| [[null]] || 42541 || colspan = "4" | New ID
+|-
+| [[null]] || 42542 || colspan = "4" | New ID
+|-
+| [[null]] || 42543 || colspan = "4" | New ID
+|-
+| [[null]] || 42544 || colspan = "4" | New ID
+|-
+| [[null]] || 42545 || colspan = "4" | New ID
+|-
+| [[null]] || 42546 || colspan = "4" | New ID
+|-
+| [[null]] || 42547 || colspan = "4" | New ID
+|-
+| [[null]] || 42548 || colspan = "4" | New ID
+|-
+| [[null]] || 42549 || colspan = "4" | New ID
+|-
+| [[null]] || 42550 || colspan = "4" | New ID
+|-
+| [[null]] || 42551 || colspan = "4" | New ID
+|-
+| [[null]] || 42552 || colspan = "4" | New ID
+|-
+| [[null]] || 42553 || colspan = "4" | New ID
+|-
+| [[null]] || 42554 || colspan = "4" | New ID
+|-
+| [[null]] || 42555 || colspan = "4" | New ID
+|-
+| [[null]] || 42556 || colspan = "4" | New ID
+|-
+| [[null]] || 42557 || colspan = "4" | New ID
+|-
+| [[null]] || 42558 || colspan = "4" | New ID
+|-
+| [[null]] || 42559 || colspan = "4" | New ID
+|-
+| [[null]] || 42560 || colspan = "4" | New ID
+|-
+| [[null]] || 42561 || colspan = "4" | New ID
+|-
+| [[null]] || 42562 || colspan = "4" | New ID
+|-
+| [[null]] || 42563 || colspan = "4" | New ID
+|-
+| [[null]] || 42564 || colspan = "4" | New ID
+|-
+| [[null]] || 42565 || colspan = "4" | New ID
+|-
+| [[null]] || 42566 || colspan = "4" | New ID
+|-
+| [[null]] || 42567 || colspan = "4" | New ID
+|-
+| [[null]] || 42568 || colspan = "4" | New ID
+|-
+| [[null]] || 42569 || colspan = "4" | New ID
+|-
+| [[null]] || 42570 || colspan = "4" | New ID
+|-
+| [[null]] || 42571 || colspan = "4" | New ID
+|-
+| [[null]] || 42572 || colspan = "4" | New ID
+|-
+| [[null]] || 42573 || colspan = "4" | New ID
+|-
+| [[null]] || 42574 || colspan = "4" | New ID
+|-
+| [[null]] || 42575 || colspan = "4" | New ID
+|-
+| [[null]] || 42576 || colspan = "4" | New ID
+|-
+| [[null]] || 42577 || colspan = "4" | New ID
+|-
+| [[null]] || 42578 || colspan = "4" | New ID
+|-
+| [[null]] || 42579 || colspan = "4" | New ID
+|-
+| [[null]] || 42580 || colspan = "4" | New ID
+|-
+| [[null]] || 42581 || colspan = "4" | New ID
+|-
+| [[Candles]] || 42582 || colspan = "4" | New ID
+|-
+| [[Candles]] || 42583 || colspan = "4" | New ID
+|-
+| [[Candles]] || 42584 || colspan = "4" | New ID
+|-
+| [[Candles]] || 42585 || colspan = "4" | New ID
+|-
+| [[Candles]] || 42586 || colspan = "4" | New ID
+|-
+| [[Candles]] || 42587 || colspan = "4" | New ID
+|-
+| [[Stepping stone]] || 42588 || colspan = "4" | New ID
+|-
+| [[Stepping stone]] || 42589 || colspan = "4" | New ID
+|-
+| [[Strange plant]] || 42590 || colspan = "4" | New ID
+|-
+| [[Hespori]] || 42591 || colspan = "4" | New ID
+|-
+| [[Hespori]] || 42592 || colspan = "4" | New ID
+|-
+| [[Hespori]] || 42593 || colspan = "4" | New ID
+|-
+| [[Cave]] || 42594 || colspan = "4" | New ID
+|-
+| [[Cave]] || 42595 || colspan = "4" | New ID
+|-
+| [[null]] || 42596 || colspan = "4" | New ID
+|-
+| [[null]] || 42597 || colspan = "4" | New ID
+|-
+| [[null]] || 42598 || colspan = "4" | New ID
+|-
+| [[null]] || 42599 || colspan = "4" | New ID
+|-
+| [[null]] || 42600 || colspan = "4" | New ID
+|-
+| [[Egg Sac]] || 42601 || colspan = "4" | New ID
+|-
+| [[Egg Sac]] || 42602 || colspan = "4" | New ID
+|-
+| [[Egg Sac]] || 42603 || colspan = "4" | New ID
+|-
+| [[Egg Sac]] || 42604 || colspan = "4" | New ID
+|-
+| [[Skeleton]] || 42605 || colspan = "4" | New ID
+|-
+| [[Skeleton]] || 42606 || colspan = "4" | New ID
+|-
+| [[null]] || 42607 || colspan = "4" | New ID
+|-
+| [[null]] || 42608 || colspan = "4" | New ID
+|-
+| [[null]] || 42609 || colspan = "4" | New ID
+|-
+| [[null]] || 42610 || colspan = "4" | New ID
+|-
+| [[null]] || 42611 || colspan = "4" | New ID
+|-
+| [[null]] || 42612 || colspan = "4" | New ID
+|-
+| [[null]] || 42613 || colspan = "4" | New ID
+|-
+| [[null]] || 42614 || colspan = "4" | New ID
+|-
+| [[null]] || 42615 || colspan = "4" | New ID
+|-
+| [[null]] || 42616 || colspan = "4" | New ID
+|-
+| [[null]] || 42617 || colspan = "4" | New ID
+|-
+| [[null]] || 42618 || colspan = "4" | New ID
+|-
+| [[null]] || 42619 || colspan = "4" | New ID
+|-
+| [[null]] || 42620 || colspan = "4" | New ID
+|-
+| [[null]] || 42621 || colspan = "4" | New ID
+|-
+| [[null]] || 42622 || colspan = "4" | New ID
+|-
+| [[null]] || 42623 || colspan = "4" | New ID
+|-
+| [[null]] || 42624 || colspan = "4" | New ID
+|-
+| [[null]] || 42625 || colspan = "4" | New ID
+|-
+| [[null]] || 42626 || colspan = "4" | New ID
+|-
+| [[null]] || 42627 || colspan = "4" | New ID
+|-
+| [[null]] || 42628 || colspan = "4" | New ID
+|-
+| [[Web sack]] || 42629 || colspan = "4" | New ID
+|-
+| [[Web sack]] || 42630 || colspan = "4" | New ID
+|-
+| [[Web sack]] || 42631 || colspan = "4" | New ID
+|-
+| [[Web sack]] || 42632 || colspan = "4" | New ID
+|-
+| [[Web sack]] || 42633 || colspan = "4" | New ID
+|-
+| [[null]] || 42634 || colspan = "4" | New ID
+|-
+| [[null]] || 42635 || colspan = "4" | New ID
+|-
+| [[null]] || 42636 || colspan = "4" | New ID
+|-
+| [[null]] || 42637 || colspan = "4" | New ID
+|-
+| [[null]] || 42638 || colspan = "4" | New ID
+|-
+| [[null]] || 42639 || colspan = "4" | New ID
+|-
+| [[null]] || 42640 || colspan = "4" | New ID
+|-
+| [[Spider eggs]] || 42641 || colspan = "4" | New ID
+|-
+| [[Spider eggs]] || 42642 || colspan = "4" | New ID
+|-
+| [[Spider eggs]] || 42643 || colspan = "4" | New ID
+|-
+| [[Spider eggs]] || 42644 || colspan = "4" | New ID
+|-
+| [[Spider eggs]] || 42645 || colspan = "4" | New ID
+|-
+| [[Spider eggs]] || 42646 || colspan = "4" | New ID
+|-
+| [[null]] || 42647 || colspan = "4" | New ID
+|-
+| [[null]] || 42648 || colspan = "4" | New ID
+|-
+| [[Tree]] || 42649 || colspan = "4" | New ID
+|-
+| [[null]] || 42650 || colspan = "4" | New ID
+|-
+| [[null]] || 42651 || colspan = "4" | New ID
+|-
+| [[null]] || 42652 || colspan = "4" | New ID
+|-
+| [[null]] || 42653 || colspan = "4" | New ID
+|-
+| [[null]] || 42654 || colspan = "4" | New ID
+|-
+| [[null]] || 42655 || colspan = "4" | New ID
+|-
+| [[null]] || 42656 || colspan = "4" | New ID
+|-
+| [[null]] || 42657 || colspan = "4" | New ID
+|-
+| [[null]] || 42658 || colspan = "4" | New ID
+|-
+| [[null]] || 42659 || colspan = "4" | New ID
+|-
+| [[null]] || 42660 || colspan = "4" | New ID
+|-
+| [[null]] || 42661 || colspan = "4" | New ID
+|-
+| [[null]] || 42662 || colspan = "4" | New ID
+|-
+| [[null]] || 42663 || colspan = "4" | New ID
+|-
+| [[null]] || 42664 || colspan = "4" | New ID
+|-
+| [[null]] || 42665 || colspan = "4" | New ID
+|-
+| [[null]] || 42666 || colspan = "4" | New ID
+|-
+| [[null]] || 42667 || colspan = "4" | New ID
+|-
+| [[null]] || 42668 || colspan = "4" | New ID
+|-
+| [[null]] || 42669 || colspan = "4" | New ID
+|-
+| [[null]] || 42670 || colspan = "4" | New ID
+|-
+| [[null]] || 42671 || colspan = "4" | New ID
+|-
+| [[null]] || 42672 || colspan = "4" | New ID
+|-
+| [[null]] || 42673 || colspan = "4" | New ID
+|-
+| [[null]] || 42674 || colspan = "4" | New ID
+|-
+| [[null]] || 42675 || colspan = "4" | New ID
+|-
+| [[null]] || 42676 || colspan = "4" | New ID
+|-
+| [[null]] || 42677 || colspan = "4" | New ID
+|-
+| [[null]] || 42678 || colspan = "4" | New ID
+|-
+| [[null]] || 42679 || colspan = "4" | New ID
+|-
+| [[null]] || 42680 || colspan = "4" | New ID
+|-
+| [[null]] || 42681 || colspan = "4" | New ID
+|-
+| [[null]] || 42682 || colspan = "4" | New ID
+|-
+| [[null]] || 42683 || colspan = "4" | New ID
+|-
+| [[null]] || 42684 || colspan = "4" | New ID
+|-
+| [[null]] || 42685 || colspan = "4" | New ID
+|-
+| [[null]] || 42686 || colspan = "4" | New ID
+|-
+| [[null]] || 42687 || colspan = "4" | New ID
+|-
+| [[null]] || 42688 || colspan = "4" | New ID
+|-
+| [[null]] || 42689 || colspan = "4" | New ID
+|-
+| [[null]] || 42690 || colspan = "4" | New ID
+|-
+| [[null]] || 42691 || colspan = "4" | New ID
+|-
+| [[null]] || 42692 || colspan = "4" | New ID
+|-
+| [[null]] || 42693 || colspan = "4" | New ID
+|-
+| [[null]] || 42694 || colspan = "4" | New ID
+|-
+| [[null]] || 42695 || colspan = "4" | New ID
+|-
+| [[null]] || 42696 || colspan = "4" | New ID
+|-
+| [[null]] || 42697 || colspan = "4" | New ID
+|-
+| [[null]] || 42698 || colspan = "4" | New ID
+|-
+| [[null]] || 42699 || colspan = "4" | New ID
+|-
+| [[null]] || 42700 || colspan = "4" | New ID
+|-
+| [[null]] || 42701 || colspan = "4" | New ID
+|-
+| [[null]] || 42702 || colspan = "4" | New ID
+|-
+| [[null]] || 42703 || colspan = "4" | New ID
+|-
+| [[null]] || 42704 || colspan = "4" | New ID
+|-
+| [[null]] || 42705 || colspan = "4" | New ID
+|-
+| [[null]] || 42706 || colspan = "4" | New ID
+|-
+| [[null]] || 42707 || colspan = "4" | New ID
+|-
+| [[null]] || 42708 || colspan = "4" | New ID
+|-
+| [[null]] || 42709 || colspan = "4" | New ID
+|-
+| [[null]] || 42710 || colspan = "4" | New ID
+|-
+| [[null]] || 42711 || colspan = "4" | New ID
+|-
+| [[null]] || 42712 || colspan = "4" | New ID
+|-
+| [[null]] || 42713 || colspan = "4" | New ID
+|-
+| [[null]] || 42714 || colspan = "4" | New ID
+|-
+| [[null]] || 42715 || colspan = "4" | New ID
+|-
+| [[null]] || 42716 || colspan = "4" | New ID
+|-
+| [[null]] || 42717 || colspan = "4" | New ID
+|-
+| [[null]] || 42718 || colspan = "4" | New ID
+|-
+| [[null]] || 42719 || colspan = "4" | New ID
+|-
+| [[null]] || 42720 || colspan = "4" | New ID
+|-
+| [[null]] || 42721 || colspan = "4" | New ID
+|-
+| [[null]] || 42722 || colspan = "4" | New ID
+|-
+| [[null]] || 42723 || colspan = "4" | New ID
+|-
+| [[null]] || 42724 || colspan = "4" | New ID
+|-
+| [[null]] || 42725 || colspan = "4" | New ID
+|-
+| [[null]] || 42726 || colspan = "4" | New ID
+|-
+| [[null]] || 42727 || colspan = "4" | New ID
+|-
+| [[null]] || 42728 || colspan = "4" | New ID
+|-
+| [[null]] || 42729 || colspan = "4" | New ID
+|-
+| [[null]] || 42730 || colspan = "4" | New ID
+|-
+| [[null]] || 42731 || colspan = "4" | New ID
+|-
+| [[null]] || 42732 || colspan = "4" | New ID
+|-
+| [[null]] || 42733 || colspan = "4" | New ID
+|-
+| [[null]] || 42734 || colspan = "4" | New ID
+|-
+| [[null]] || 42735 || colspan = "4" | New ID
+|-
+| [[null]] || 42736 || colspan = "4" | New ID
+|-
+| [[null]] || 42737 || colspan = "4" | New ID
+|-
+| [[null]] || 42738 || colspan = "4" | New ID
+|-
+| [[null]] || 42739 || colspan = "4" | New ID
+|-
+| [[null]] || 42740 || colspan = "4" | New ID
+|-
+| [[null]] || 42741 || colspan = "4" | New ID
+|-
+| [[null]] || 42742 || colspan = "4" | New ID
+|-
+| [[null]] || 42743 || colspan = "4" | New ID
+|-
+| [[null]] || 42744 || colspan = "4" | New ID
+|-
+| [[null]] || 42745 || colspan = "4" | New ID
+|-
+| [[null]] || 42746 || colspan = "4" | New ID
+|-
+| [[null]] || 42747 || colspan = "4" | New ID
+|-
+| [[null]] || 42748 || colspan = "4" | New ID
+|-
+| [[null]] || 42749 || colspan = "4" | New ID
+|-
+| [[null]] || 42750 || colspan = "4" | New ID
+|-
+| [[null]] || 42751 || colspan = "4" | New ID
+|-
+| [[null]] || 42752 || colspan = "4" | New ID
+|-
+| [[null]] || 42753 || colspan = "4" | New ID
+|-
+| [[null]] || 42754 || colspan = "4" | New ID
+|-
+| [[null]] || 42755 || colspan = "4" | New ID
+|-
+| [[null]] || 42756 || colspan = "4" | New ID
+|-
+| [[null]] || 42757 || colspan = "4" | New ID
+|-
+| [[null]] || 42758 || colspan = "4" | New ID
+|-
+| [[null]] || 42759 || colspan = "4" | New ID
+|-
+| [[null]] || 42760 || colspan = "4" | New ID
+|-
+| [[null]] || 42761 || colspan = "4" | New ID
+|-
+| [[null]] || 42762 || colspan = "4" | New ID
+|-
+| [[null]] || 42763 || colspan = "4" | New ID
+|-
+| [[null]] || 42764 || colspan = "4" | New ID
+|-
+| [[null]] || 42765 || colspan = "4" | New ID
+|-
+| [[null]] || 42766 || colspan = "4" | New ID
+|-
+| [[null]] || 42767 || colspan = "4" | New ID
+|-
+| [[null]] || 42768 || colspan = "4" | New ID
+|-
+| [[null]] || 42769 || colspan = "4" | New ID
+|-
+| [[null]] || 42770 || colspan = "4" | New ID
+|-
+| [[null]] || 42771 || colspan = "4" | New ID
+|-
+| [[null]] || 42772 || colspan = "4" | New ID
+|-
+| [[null]] || 42773 || colspan = "4" | New ID
+|-
+| [[null]] || 42774 || colspan = "4" | New ID
+|-
+| [[null]] || 42775 || colspan = "4" | New ID
+|-
+| [[null]] || 42776 || colspan = "4" | New ID
+|-
+| [[null]] || 42777 || colspan = "4" | New ID
+|-
+| [[null]] || 42778 || colspan = "4" | New ID
+|-
+| [[null]] || 42779 || colspan = "4" | New ID
+|-
+| [[null]] || 42780 || colspan = "4" | New ID
+|-
+| [[null]] || 42781 || colspan = "4" | New ID
+|-
+| [[null]] || 42782 || colspan = "4" | New ID
+|-
+| [[null]] || 42783 || colspan = "4" | New ID
+|-
+| [[null]] || 42784 || colspan = "4" | New ID
+|-
+| [[null]] || 42785 || colspan = "4" | New ID
+|-
+| [[null]] || 42786 || colspan = "4" | New ID
+|-
+| [[null]] || 42787 || colspan = "4" | New ID
+|-
+| [[null]] || 42788 || colspan = "4" | New ID
+|-
+| [[null]] || 42789 || colspan = "4" | New ID
+|-
+| [[null]] || 42790 || colspan = "4" | New ID
+|-
+| [[null]] || 42791 || colspan = "4" | New ID
+|-
+| [[null]] || 42792 || colspan = "4" | New ID
+|-
+| [[null]] || 42793 || colspan = "4" | New ID
+|-
+| [[null]] || 42794 || colspan = "4" | New ID
+|-
+| [[null]] || 42795 || colspan = "4" | New ID
+|-
+| [[null]] || 42796 || colspan = "4" | New ID
+|-
+| [[null]] || 42797 || colspan = "4" | New ID
+|-
+| [[null]] || 42798 || colspan = "4" | New ID
+|-
+| [[null]] || 42799 || colspan = "4" | New ID
+|-
+| [[null]] || 42800 || colspan = "4" | New ID
+|-
+| [[Bench]] || 42801 || colspan = "4" | New ID
+|-
+| [[null]] || 34318 || colspan = "4" | DELETED
+|-
+| [[null]] || 41430 || colspan = "4" | DELETED
+|-
+|rowspan="9"|[[null]]
+|rowspan="9"|2739
+|-
+|mapAreaId || 6 || -1
+|-
+| wallOrDoor || 0 || 1
+|-
+| varbitID || -1 || 542
+|-
+| interactType || 2 || 0
+|-
+| obstructsGround || True || False
+|-
+| contouredGround || -1 || 0
+|-
+| supportsItems || 1 || 0
+|-
+| blocksProjectile || True || False
+|-
+|rowspan="3"|[[Tree]]
+|rowspan="3"|4051
+|-
+|ambient || 0 || 10
+|-
+| contrast || 0 || 500
+|-
+|rowspan="3"|[[Tree]]
+|rowspan="3"|4053
+|-
+|ambient || 0 || 10
+|-
+| contrast || 0 || 500
+|-
+|rowspan="3"|[[Tree]]
+|rowspan="3"|4054
+|-
+|ambient || 0 || 10
+|-
+| contrast || 0 || 500
+|-
+|rowspan="10"|[[null]]
+|rowspan="10"|8718
+|-
+|mapAreaId || 6 || -1
+|-
+| mergeNormals || True || False
+|-
+| wallOrDoor || 0 || 1
+|-
+| varbitID || -1 || 542
+|-
+| interactType || 2 || 1
+|-
+| mapSceneID || 46 || -1
+|-
+| obstructsGround || True || False
+|-
+| contouredGround || -1 || 0
+|-
+| supportsItems || 1 || 0
+|-
+|rowspan="11"|[[null]]
+|rowspan="11"|30243
+|-
+|mapAreaId || 6 || -1
+|-
+| sizeX || 1 || 3
+|-
+| sizeY || 1 || 3
+|-
+| wallOrDoor || 0 || 1
+|-
+| varbitID || -1 || 12276
+|-
+| ambient || 0 || 10
+|-
+| contrast || 0 || 1500
+|-
+| interactType || 2 || 1
+|-
+| obstructsGround || True || False
+|-
+| blocksProjectile || True || False
+|-
+|rowspan="10"|[[null]]
+|rowspan="10"|31952
+|-
+|mapAreaId || 6 || -1
+|-
+| sizeX || 1 || 3
+|-
+| sizeY || 1 || 3
+|-
+| mergeNormals || True || False
+|-
+| wallOrDoor || 0 || 1
+|-
+| varbitID || -1 || 12276
+|-
+| interactType || 2 || 1
+|-
+| obstructsGround || True || False
+|-
+| contouredGround || -1 || 0
+|-
+|rowspan="10"|[[null]]
+|rowspan="10"|33111
+|-
+|name || [[Arena]] || [[null]]
+|-
+| sizeX || 1 || 4
+|-
+| sizeY || 1 || 4
+|-
+| varbitID || -1 || 12276
+|-
+| actions || [None, None, None, None, 'View'] || [None, None, None, None, None]
+|-
+| interactType || 0 || 1
+|-
+| contouredGround || 0 || -1
+|-
+| supportsItems || 0 || 1
+|-
+| blocksProjectile || False || True
+|-
+|rowspan="8"|[[null]]
+|rowspan="8"|33112
+|-
+|name || [[Arena]] || [[null]]
+|-
+| varbitID || -1 || 12276
+|-
+| actions || [None, None, None, None, 'View'] || [None, None, None, None, None]
+|-
+| interactType || 1 || 2
+|-
+| contouredGround || 0 || -1
+|-
+| supportsItems || 0 || 1
+|-
+| blocksProjectile || True || False
+|-
+|}

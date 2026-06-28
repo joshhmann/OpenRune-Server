@@ -9,7 +9,6 @@ import kotlin.io.path.readText
 import kotlin.io.path.writeText
 import kotlin.system.exitProcess
 import kotlinx.coroutines.runBlocking
-import org.rsmod.tools.wiki.dumping.wiki.SlayerAssignmentRow
 import org.rsmod.tools.wiki.dumping.wiki.WikiClient
 import org.rsmod.tools.wiki.dumping.wiki.WikiNpcResolver
 import org.rsmod.tools.wiki.dumping.wiki.WikiTables
@@ -62,12 +61,7 @@ object DbrowSlayerTaskIndex {
         return byName
     }
 
-    private val manualTargetIds =
-        mapOf(
-            "flesh crawler" to 77,
-            "werewolf" to 33,
-            "zygomites" to 74,
-        )
+    private val manualTargetIds = mapOf("flesh crawler" to 77, "werewolf" to 33, "zygomites" to 74)
 
     /** Wiki [Slayer_task] assignment rows and [Slayer_task_tips] monster names → [targetId]. */
     fun indexFromEntries(entries: List<SlayerTargetMonsterEntry>): Map<String, Int> {
@@ -83,10 +77,10 @@ object DbrowSlayerTaskIndex {
 
     fun resolve(wikiTaskName: String, index: Map<String, Int>): Int? {
         val normalized = normalize(wikiTaskName)
-        manualTargetIds[normalized]?.let { return it }
-        return index[normalized]
-            ?: index[normalized.removeSuffix("s")]
-            ?: index["${normalized}s"]
+        manualTargetIds[normalized]?.let {
+            return it
+        }
+        return index[normalized] ?: index[normalized.removeSuffix("s")] ?: index["${normalized}s"]
     }
 
     fun normalizeKeys(name: String): List<String> {
@@ -132,9 +126,11 @@ object DbrowSlayerTaskIndex {
         for (line in source.lineSequence()) {
             val trimmed = line.trim()
             when {
-                trimmed.startsWith("[") && trimmed.endsWith("]") && !trimmed.startsWith("//") -> flush()
+                trimmed.startsWith("[") && trimmed.endsWith("]") && !trimmed.startsWith("//") ->
+                    flush()
                 trimmed.startsWith("table=") -> table = trimmed.substringAfter("table=").trim()
-                trimmed.startsWith("data=id,") -> id = trimmed.substringAfter("data=id,").trim().toIntOrNull()
+                trimmed.startsWith("data=id,") ->
+                    id = trimmed.substringAfter("data=id,").trim().toIntOrNull()
                 trimmed.startsWith("data=name_lowercase,") ->
                     nameLower = trimmed.substringAfter("data=name_lowercase,").trim()
                 trimmed.startsWith("data=name_uppercase,") ->
@@ -144,7 +140,6 @@ object DbrowSlayerTaskIndex {
         flush()
         return tasks
     }
-
 }
 
 class SlayerTaskWikiDumper(
@@ -210,7 +205,7 @@ class SlayerTaskWikiDumper(
             println(
                 "[slayer-dump] Done in ${"%.1f".format(elapsed)}s — " +
                     "${entries.count { it.targets.isNotEmpty() }}/${entries.size} rows with npc targets, " +
-                    "${resolver.pagesFetched} wiki pages",
+                    "${resolver.pagesFetched} wiki pages"
             )
             if (unmatched.isNotEmpty()) {
                 println("[slayer-dump] ${unmatched.size} task(s) without dbrow target_id match")
@@ -225,21 +220,20 @@ class SlayerTaskWikiDumper(
         )
     }
 
-    fun renderToml(result: SlayerDumpResult): String =
-        buildString {
-            appendLine("# https://oldschool.runescape.wiki/w/Slayer_task")
-            appendLine()
-            for (entry in result.entries) {
-                appendLine("[[slayer_target_monster]]")
-                appendLine("targetId = ${entry.targetId}")
-                if (entry.targets.isEmpty()) {
-                    appendLine("targets = []")
-                } else {
-                    appendLine("targets = [${entry.targets.joinToString(", ") { "\"$it\"" }}]")
-                }
-                appendLine()
+    fun renderToml(result: SlayerDumpResult): String = buildString {
+        appendLine("# https://oldschool.runescape.wiki/w/Slayer_task")
+        appendLine()
+        for (entry in result.entries) {
+            appendLine("[[slayer_target_monster]]")
+            appendLine("targetId = ${entry.targetId}")
+            if (entry.targets.isEmpty()) {
+                appendLine("targets = []")
+            } else {
+                appendLine("targets = [${entry.targets.joinToString(", ") { "\"$it\"" }}]")
             }
+            appendLine()
         }
+    }
 
     suspend fun dumpToFile(
         output: Path,
@@ -248,10 +242,13 @@ class SlayerTaskWikiDumper(
     ): SlayerDumpResult {
         val result = dump(pageTitle)
         val tipsSource = wiki.rawPageSource(tipsPageTitle)
-        val tipsResult = SlayerTaskTipsWiki.resolveTipsByTargetId(tipsSource, taskIndex, result.entries)
+        val tipsResult =
+            SlayerTaskTipsWiki.resolveTipsByTargetId(tipsSource, taskIndex, result.entries)
         val tipsByTargetId = tipsResult.tipsByTargetId
-        val tipsEnumOutput = output.parent?.resolve("slayer_task_tips.toml") ?: Path("slayer_task_tips.toml")
-        val npcTipsOutput = output.parent?.resolve("slayer_npc_tips.toml") ?: Path("slayer_npc_tips.toml")
+        val tipsEnumOutput =
+            output.parent?.resolve("slayer_task_tips.toml") ?: Path("slayer_task_tips.toml")
+        val npcTipsOutput =
+            output.parent?.resolve("slayer_npc_tips.toml") ?: Path("slayer_npc_tips.toml")
 
         output.parent?.let { Files.createDirectories(it) }
 
@@ -262,16 +259,20 @@ class SlayerTaskWikiDumper(
             if (tipsResult.unmappedMonsters.isNotEmpty()) {
                 println(
                     "[slayer-dump] ${tipsResult.unmappedMonsters.size} tip monster name(s) " +
-                        "had no dbrow/assignment/npc match",
+                        "had no dbrow/assignment/npc match"
                 )
             }
         }
         output.writeText(renderToml(result))
         tipsEnumOutput.writeText(SlayerTaskTipsWiki.renderTaskTipsEnum(tipsByTargetId))
-        npcTipsOutput.writeText(SlayerTaskTipsWiki.renderNpcTipsToml(result.entries, tipsByTargetId))
+        npcTipsOutput.writeText(
+            SlayerTaskTipsWiki.renderNpcTipsToml(result.entries, tipsByTargetId)
+        )
         if (tipsResult.unmappedMonsters.isNotEmpty()) {
             System.err.println()
-            System.err.println("=== slayer-dump UNMAPPED tip monsters (${tipsResult.unmappedMonsters.size}) ===")
+            System.err.println(
+                "=== slayer-dump UNMAPPED tip monsters (${tipsResult.unmappedMonsters.size}) ==="
+            )
             for (name in tipsResult.unmappedMonsters.sorted()) {
                 System.err.println("  $name")
             }
@@ -294,9 +295,14 @@ class SlayerTaskWikiDumper(
             val blocks = path.readText().split("[[slayer_target_monster]]").drop(1)
             return blocks.mapNotNull { block ->
                 val targetId =
-                    Regex("""targetId\s*=\s*(\d+)""").find(block)?.groupValues?.get(1)?.toIntOrNull()
-                        ?: return@mapNotNull null
-                val targetsLine = block.lineSequence().firstOrNull { it.trimStart().startsWith("targets =") } ?: ""
+                    Regex("""targetId\s*=\s*(\d+)""")
+                        .find(block)
+                        ?.groupValues
+                        ?.get(1)
+                        ?.toIntOrNull() ?: return@mapNotNull null
+                val targetsLine =
+                    block.lineSequence().firstOrNull { it.trimStart().startsWith("targets =") }
+                        ?: ""
                 val targets =
                     Regex(""""([^"]+)"""")
                         .findAll(targetsLine)
@@ -313,13 +319,12 @@ class SlayerTaskWikiDumper(
         }
     }
 
-    suspend fun dumpTipsOnly(
-        targetMonstersFile: Path,
-        tipsPageTitle: String = "Slayer_task_tips",
-    ) {
+    suspend fun dumpTipsOnly(targetMonstersFile: Path, tipsPageTitle: String = "Slayer_task_tips") {
         val entries = loadEntriesFromTargetMonstersToml(targetMonstersFile)
         if (entries.isEmpty()) {
-            System.err.println("[slayer-dump] No entries in $targetMonstersFile — run full dump first.")
+            System.err.println(
+                "[slayer-dump] No entries in $targetMonstersFile — run full dump first."
+            )
             exitProcess(1)
         }
         val tipsSource = wiki.rawPageSource(tipsPageTitle)
@@ -333,14 +338,18 @@ class SlayerTaskWikiDumper(
         val npcTipsOutput = targetMonstersFile.parent.resolve("slayer_npc_tips.toml")
         targetMonstersFile.parent.let { Files.createDirectories(it) }
         if (!quiet) {
-            println("[slayer-dump] Writing $tipsEnumOutput (${tipsByTargetId.size} mapped task tips)")
+            println(
+                "[slayer-dump] Writing $tipsEnumOutput (${tipsByTargetId.size} mapped task tips)"
+            )
             println("[slayer-dump] Writing $npcTipsOutput")
         }
         tipsEnumOutput.writeText(SlayerTaskTipsWiki.renderTaskTipsEnum(tipsByTargetId))
         npcTipsOutput.writeText(SlayerTaskTipsWiki.renderNpcTipsToml(entries, tipsByTargetId))
         if (tipsResult.unmappedMonsters.isNotEmpty()) {
             System.err.println()
-            System.err.println("=== slayer-dump UNMAPPED tip monsters (${tipsResult.unmappedMonsters.size}) ===")
+            System.err.println(
+                "=== slayer-dump UNMAPPED tip monsters (${tipsResult.unmappedMonsters.size}) ==="
+            )
             for (name in tipsResult.unmappedMonsters.sorted()) {
                 System.err.println("  $name")
             }
@@ -368,7 +377,8 @@ fun main(args: Array<String>) {
     val dbrowPath =
         flags.firstOrNull { it.startsWith("--dbrow=") }?.substringAfter("--dbrow=")
             ?: System.getProperty("dbrow")
-    val wikiDumpDir = flags.firstOrNull { it.startsWith("--wiki-dump=") }?.substringAfter("--wiki-dump=")
+    val wikiDumpDir =
+        flags.firstOrNull { it.startsWith("--wiki-dump=") }?.substringAfter("--wiki-dump=")
     val rootDir =
         flags.firstOrNull { it.startsWith("--root=") }?.substringAfter("--root=")
             ?: System.getProperty("RSPS_ROOT")
@@ -385,11 +395,12 @@ fun main(args: Array<String>) {
 
     runBlocking {
         WikiClient.open(wikiDumpDir = wikiDumpDir).use { wiki ->
-            val dbrow =
-                DbrowDumpFiles.requireLocal(rootDir, dbrowPath)
+            val dbrow = DbrowDumpFiles.requireLocal(rootDir, dbrowPath)
             if (!quiet) {
                 println("[slayer-dump] dbrow: ${dbrow.source.toAbsolutePath()}")
-                println("[slayer-dump] wiki dump: ${WikiClient.resolveDumpDirectory(wikiDumpDir).absolutePath}")
+                println(
+                    "[slayer-dump] wiki dump: ${WikiClient.resolveDumpDirectory(wikiDumpDir).absolutePath}"
+                )
             }
 
             val taskIndex = DbrowSlayerTaskIndex.fromSource(dbrow.text)
@@ -408,7 +419,12 @@ fun main(args: Array<String>) {
 
             val result = dumper.dumpToFile(output, pageTitle)
             println("Wrote ${result.entries.size} slayer task entries to $output")
-            reportDumpIssues("slayer-dump", result.unmappedNpcIds, result.unmatchedTasks, result.failures)
+            reportDumpIssues(
+                "slayer-dump",
+                result.unmappedNpcIds,
+                result.unmatchedTasks,
+                result.failures,
+            )
             if (result.missing.isNotEmpty()) {
                 exitCode = 1
             }
@@ -468,7 +484,9 @@ private fun reportSuperiorIssues(result: SlayerSuperiorDumpResult) {
         }
     }
     val failures =
-        result.failures.distinctBy { "${it.wikiRow}:${it.pageTitle}:${it.reason}" }.sortedBy { it.wikiRow }
+        result.failures
+            .distinctBy { "${it.wikiRow}:${it.pageTitle}:${it.reason}" }
+            .sortedBy { it.wikiRow }
     if (failures.isNotEmpty()) {
         System.err.println()
         System.err.println("=== superior-dump FAILURES (${failures.size}) ===")

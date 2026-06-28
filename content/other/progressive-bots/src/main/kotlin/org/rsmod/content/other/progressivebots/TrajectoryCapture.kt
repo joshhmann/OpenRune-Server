@@ -1,44 +1,33 @@
 package org.rsmod.content.other.progressivebots
 
-import org.rsmod.api.player.isInCombat
-import org.rsmod.game.entity.Player
 import java.io.File
 import java.time.LocalDate
 import java.time.format.DateTimeFormatter
+import org.rsmod.api.player.isInCombat
+import org.rsmod.game.entity.Player
 
 /**
  * Captures bot trajectory data (state + decision + outcome) as JSONL for LLM fine-tuning.
  *
- * Schema follows rs-sdk trajectory format conventions.
- * Uses manual JSON construction (no Gson/Jackson dependency needed).
+ * Schema follows rs-sdk trajectory format conventions. Uses manual JSON construction (no
+ * Gson/Jackson dependency needed).
  *
  * Output: trajectories/progressive/{YYYY-MM-DD}/trajectory.jsonl
  *
- * Each line is a valid JSON object with fields:
- *   tick, bot_name, personality, state (object), decision (object), outcome (object|null)
+ * Each line is a valid JSON object with fields: tick, bot_name, personality, state (object),
+ * decision (object), outcome (object|null)
  */
 class TrajectoryCapture {
 
     private var currentFile: File? = null
     private var currentDate: LocalDate = LocalDate.MIN
 
-    fun capture(
-        tick: Int,
-        state: TrajectoryState,
-        personality: BotPlanner,
-        action: String,
-    ) {
+    fun capture(tick: Int, state: TrajectoryState, personality: BotPlanner, action: String) {
         val entry = buildDecisionLine(tick, state, personality, action)
         appendEntry(entry)
     }
 
-    fun captureOutcome(
-        tick: Int,
-        botName: String,
-        x: Int,
-        z: Int,
-        status: String = "moved",
-    ) {
+    fun captureOutcome(tick: Int, botName: String, x: Int, z: Int, status: String = "moved") {
         val entry =
             """{"tick":$tick,"bot_name":"${escape(botName)}","outcome":{"status":"${escape(status)}","new_x":$x,"new_z":$z}}"""
         appendEntry(entry)
@@ -75,7 +64,9 @@ class TrajectoryCapture {
         for ((name, skill) in state.skills) {
             if (!first) sb.append(",")
             first = false
-            sb.append("\"${escape(name)}\":{\"level\":${skill.level},\"base_level\":${skill.baseLevel},\"xp\":${skill.xp}}")
+            sb.append(
+                "\"${escape(name)}\":{\"level\":${skill.level},\"base_level\":${skill.baseLevel},\"xp\":${skill.xp}}"
+            )
         }
         sb.append("}},")
 
@@ -113,18 +104,15 @@ class TrajectoryCapture {
         private const val TRAJECTORY_DIR = "trajectories/progressive"
 
         /**
-         * Runtime toggle: when paused, no new entries are written.
-         * Set via ::trajectory pause/resume in-game.
+         * Runtime toggle: when paused, no new entries are written. Set via ::trajectory
+         * pause/resume in-game.
          */
-        @JvmStatic
-        var paused: Boolean = false
+        @JvmStatic var paused: Boolean = false
 
         /**
-         * Target episode count. 0 = unlimited.
-         * When the file reaches this many lines, auto-pauses.
+         * Target episode count. 0 = unlimited. When the file reaches this many lines, auto-pauses.
          */
-        @JvmStatic
-        var targetCount: Int = 0
+        @JvmStatic var targetCount: Int = 0
 
         private fun escape(s: String): String =
             s.replace("\\", "\\\\")
@@ -154,18 +142,38 @@ class TrajectoryCapture {
                 inCombat = player.isInCombat(),
                 animating = player.pendingSequence.id != -1,
                 personalityClass = personality::class.simpleName ?: "Unknown",
-                inventory = player.inv.mapNotNull { if (it != null) TrajectoryItem(it.id, it.count) else null }
+                inventory =
+                    player.inv.mapNotNull {
+                        if (it != null) TrajectoryItem(it.id, it.count) else null
+                    },
             )
         }
 
         val STAT_NAMES: List<String> =
             listOf(
-                "stat.attack", "stat.defence", "stat.strength", "stat.hitpoints",
-                "stat.ranged", "stat.prayer", "stat.magic", "stat.cooking",
-                "stat.woodcutting", "stat.fletching", "stat.fishing", "stat.firemaking",
-                "stat.crafting", "stat.smithing", "stat.mining", "stat.herblore",
-                "stat.agility", "stat.thieving", "stat.slayer", "stat.farming",
-                "stat.runecrafting", "stat.hunter", "stat.construction",
+                "stat.attack",
+                "stat.defence",
+                "stat.strength",
+                "stat.hitpoints",
+                "stat.ranged",
+                "stat.prayer",
+                "stat.magic",
+                "stat.cooking",
+                "stat.woodcutting",
+                "stat.fletching",
+                "stat.fishing",
+                "stat.firemaking",
+                "stat.crafting",
+                "stat.smithing",
+                "stat.mining",
+                "stat.herblore",
+                "stat.agility",
+                "stat.thieving",
+                "stat.slayer",
+                "stat.farming",
+                "stat.runecrafting",
+                "stat.hunter",
+                "stat.construction",
             )
     }
 }
@@ -182,13 +190,6 @@ data class TrajectoryState(
     val inventory: List<TrajectoryItem>,
 )
 
-data class TrajectoryItem(
-    val id: Int,
-    val amount: Int
-)
+data class TrajectoryItem(val id: Int, val amount: Int)
 
-data class SkillLevel(
-    val level: Int,
-    val baseLevel: Int,
-    val xp: Int,
-)
+data class SkillLevel(val level: Int, val baseLevel: Int, val xp: Int)

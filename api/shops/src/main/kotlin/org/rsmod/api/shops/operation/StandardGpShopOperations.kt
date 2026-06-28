@@ -32,7 +32,9 @@ constructor(
     private val restockProcess: ShopRestockProcess,
     private val marketPrices: MarketPrices,
 ) : StandardShopOperations {
-    private val currencyObj: ItemServerType by lazy { ItemServerType("obj.coins".asRSCM(RSCMType.OBJ)) }
+    private val currencyObj: ItemServerType by lazy {
+        ItemServerType("obj.coins".asRSCM(RSCMType.OBJ))
+    }
 
     override fun examineShopValue(player: Player, shop: Shop, slot: Int) {
         val obj = shop.inv[slot] ?: return
@@ -65,7 +67,6 @@ constructor(
             player.mes("That item is currently out of stock.")
             return
         }
-
 
         val internalName = RSCM.getReverseMapping(RSCMType.OBJ, objType.id)
 
@@ -225,7 +226,6 @@ constructor(
 
         val uncertTypeInternalName = RSCM.getReverseMapping(RSCMType.OBJ, uncertType.id)
         val currencyObjInternalName = RSCM.getReverseMapping(RSCMType.OBJ, currencyObj.id)
-
 
         val shopCurrentObjCount = shopInv.count(uncertTypeInternalName)
         val shopInitialObjCount = shopInv.initialStockCount(uncertType)

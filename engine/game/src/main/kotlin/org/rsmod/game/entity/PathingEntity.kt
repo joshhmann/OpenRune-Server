@@ -3,16 +3,14 @@ package org.rsmod.game.entity
 import dev.openrune.ServerCacheManager
 import dev.openrune.rscm.RSCM.asRSCM
 import dev.openrune.rscm.RSCMType
-import dev.openrune.types.SequenceServerType
 import dev.openrune.types.WalkTriggerType
-import dev.openrune.types.aconverted.SpotanimType
 import it.unimi.dsi.fastutil.longs.LongArrayList
 import kotlin.coroutines.startCoroutine
 import org.rsmod.annotations.InternalApi
 import org.rsmod.coroutine.GameCoroutine
 import org.rsmod.coroutine.suspension.GameCoroutineSimpleCompletion
-import org.rsmod.game.entity.player.ProtectedAccessLostException
 import org.rsmod.game.damage.DamageContributions
+import org.rsmod.game.entity.player.ProtectedAccessLostException
 import org.rsmod.game.entity.util.EntityExactMove
 import org.rsmod.game.entity.util.EntityFaceAngle
 import org.rsmod.game.entity.util.EntityFaceTarget
@@ -257,7 +255,9 @@ public sealed class PathingEntity {
     }
 
     public abstract fun anim(
-        seq: String, delay: Int = 0, priority: Int = ServerCacheManager.getAnim(seq.asRSCM(RSCMType.SEQ))!!.priority
+        seq: String,
+        delay: Int = 0,
+        priority: Int = ServerCacheManager.getAnim(seq.asRSCM(RSCMType.SEQ))!!.priority,
     )
 
     public abstract fun resetAnim()
@@ -451,8 +451,9 @@ public sealed class PathingEntity {
      */
     public fun walkTrigger(trigger: String): Boolean {
 
-        val triggerType = ServerCacheManager.getWalkTrigger(trigger.asRSCM(RSCMType.WALKTRIGGER))
-            ?: error("Invalid walk trigger: $trigger")
+        val triggerType =
+            ServerCacheManager.getWalkTrigger(trigger.asRSCM(RSCMType.WALKTRIGGER))
+                ?: error("Invalid walk trigger: $trigger")
 
         val previous = walkTrigger?.priority
         if (!triggerType.priority.canOverwrite(previous)) {

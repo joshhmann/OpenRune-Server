@@ -18,31 +18,49 @@ private fun amountsFor(count: Int, amounts: List<Int>?): List<Int> =
         }
     } ?: List(count) { 1 }
 
-private fun HerbloreFinishedRow.resolvedInputAmounts(): List<Int> = amountsFor(input.size, inputAmount)
+private fun HerbloreFinishedRow.resolvedInputAmounts(): List<Int> =
+    amountsFor(input.size, inputAmount)
 
-val HerbloreUnfinishedRow.herbItem get() = input
-val HerbloreUnfinishedRow.unfinishedPotion get() = output
-val HerbloreUnfinishedRow.level get() = statReq.primaryLevel()
+val HerbloreUnfinishedRow.herbItem
+    get() = input
+val HerbloreUnfinishedRow.unfinishedPotion
+    get() = output
+val HerbloreUnfinishedRow.level
+    get() = statReq.primaryLevel()
 
-val HerbloreFinishedRow.unfPot get() = input.first()
-val HerbloreFinishedRow.secondaries get() = input.drop(1)
+val HerbloreFinishedRow.unfPot
+    get() = input.first()
+val HerbloreFinishedRow.secondaries
+    get() = input.drop(1)
 val HerbloreFinishedRow.secondariesAmount: Int?
     get() = if (secondaries.size == 1) resolvedInputAmounts().drop(1).firstOrNull() ?: 1 else null
-val HerbloreFinishedRow.outputPotion get() = output
-val HerbloreFinishedRow.levelRequired get() = statReq.primaryLevel()
+val HerbloreFinishedRow.outputPotion
+    get() = output
+val HerbloreFinishedRow.levelRequired
+    get() = statReq.primaryLevel()
 
-val HerbloreBarbarianMixesRow.twoDosePotion get() = input.first()
-val HerbloreBarbarianMixesRow.mixIngredient get() = input[1]
-val HerbloreBarbarianMixesRow.barbarianMix get() = output
-val HerbloreBarbarianMixesRow.level get() = statReq.primaryLevel()
+val HerbloreBarbarianMixesRow.twoDosePotion
+    get() = input.first()
+val HerbloreBarbarianMixesRow.mixIngredient
+    get() = input[1]
+val HerbloreBarbarianMixesRow.barbarianMix
+    get() = output
+val HerbloreBarbarianMixesRow.level
+    get() = statReq.primaryLevel()
 
-val HerbloreSwampTarRow.herb get() = input
-val HerbloreSwampTarRow.finishedTar get() = output
-val HerbloreSwampTarRow.level get() = statReq.primaryLevel()
+val HerbloreSwampTarRow.herb
+    get() = input
+val HerbloreSwampTarRow.finishedTar
+    get() = output
+val HerbloreSwampTarRow.level
+    get() = statReq.primaryLevel()
 
-val HerbloreCrushingRow.item get() = input
-val HerbloreCrushingRow.crushedItem get() = output
-val HerbloreCrushingRow.level get() = statReq.primaryLevel()
+val HerbloreCrushingRow.item
+    get() = input
+val HerbloreCrushingRow.crushedItem
+    get() = output
+val HerbloreCrushingRow.level
+    get() = statReq.primaryLevel()
 
 val HerbloreFinishedRow.skillMultiMaterials: List<Material>
     get() = buildList {
@@ -78,7 +96,8 @@ object HerbloreDefinitions {
 
     val finishedPotions: List<HerbloreFinishedRow> = HerbloreFinishedRow.all()
 
-    val herbItemNames: Set<String> = unfinishedPotions.mapTo(mutableSetOf()) { it.herbItem.internalName }
+    val herbItemNames: Set<String> =
+        unfinishedPotions.mapTo(mutableSetOf()) { it.herbItem.internalName }
 
     val itemToPotions: Map<String, List<HerbloreFinishedRow>> = run {
         val map = mutableMapOf<String, MutableList<HerbloreFinishedRow>>()

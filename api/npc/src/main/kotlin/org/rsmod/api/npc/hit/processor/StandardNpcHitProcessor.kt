@@ -1,6 +1,5 @@
 package org.rsmod.api.npc.hit.processor
 
-import dev.openrune.rscm.RSCM
 import dev.openrune.rscm.RSCM.asRSCM
 import dev.openrune.rscm.RSCMType
 import dev.openrune.types.HealthBarServerType
@@ -40,7 +39,9 @@ constructor(
                 hit.hitmark.copy(
                     self = zeroDamageHitmark.lit.asRSCM(RSCMType.HITMARK),
                     source = zeroDamageHitmark.lit.asRSCM(RSCMType.HITMARK),
-                    public = if (hit.hitmark.isPrivate) null else zeroDamageHitmark.tint?.asRSCM(RSCMType.HITMARK),
+                    public =
+                        if (hit.hitmark.isPrivate) null
+                        else zeroDamageHitmark.tint?.asRSCM(RSCMType.HITMARK),
                     damage = changedDamage,
                 )
             val modifiedHit = hit.copy(hitmark = modifiedHitmark)

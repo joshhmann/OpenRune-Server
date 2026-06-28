@@ -4,9 +4,7 @@ import jakarta.inject.Inject
 import org.rsmod.api.random.GameRandom
 import org.rsmod.api.repo.world.WorldRepository
 import org.rsmod.api.script.onAiContentTimer
-import org.rsmod.api.script.onAiTimer
 import org.rsmod.api.script.onOpContentNpcU
-import org.rsmod.api.script.onOpNpcU
 import org.rsmod.game.entity.Npc
 import org.rsmod.plugin.scripts.PluginScript
 import org.rsmod.plugin.scripts.ScriptContext
@@ -18,7 +16,9 @@ constructor(private val worldRepo: WorldRepository, private val random: GameRand
     override fun ScriptContext.startup() {
         onAiContentTimer("content.cow_calf") { npc.calfTimer() }
         onOpContentNpcU("content.cow_calf") { mes("The calf doesn't want that.") }
-        onOpContentNpcU("content.cow_calf", "obj.bucket_empty") { mes("Calves are too young to be milked.") }
+        onOpContentNpcU("content.cow_calf", "obj.bucket_empty") {
+            mes("Calves are too young to be milked.")
+        }
     }
 
     private fun Npc.calfTimer() {

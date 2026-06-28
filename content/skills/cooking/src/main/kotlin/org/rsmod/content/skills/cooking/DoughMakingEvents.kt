@@ -11,11 +11,12 @@ import org.rsmod.plugin.scripts.ScriptContext
 
 class DoughMakingEvents : PluginScript() {
 
-    private val waterSources = listOf(
-        "obj.jug_water" to "obj.jug_empty",
-        "obj.bucket_water" to "obj.bucket_empty",
-        "obj.bowl_water" to "obj.bowl_empty",
-    )
+    private val waterSources =
+        listOf(
+            "obj.jug_water" to "obj.jug_empty",
+            "obj.bucket_water" to "obj.bucket_empty",
+            "obj.bowl_water" to "obj.bowl_empty",
+        )
 
     override fun ScriptContext.startup() {
         waterSources.forEach { (water, emptyContainer) ->
@@ -25,14 +26,17 @@ class DoughMakingEvents : PluginScript() {
 
     private suspend fun ProtectedAccess.chooseDough(water: String, emptyContainer: String) {
         val materials = listOf(Material("obj.pot_flour"), Material(water))
-        openSkillMulti(SkillMultiConfig(
-            verb = "make",
-            entries = listOf(
-                SkillMultiEntry("obj.bread_dough", materials),
-                SkillMultiEntry("obj.pastry_dough", materials),
-                SkillMultiEntry("obj.pizza_base", materials),
-            ),
-        )) { selection ->
+        openSkillMulti(
+            SkillMultiConfig(
+                verb = "make",
+                entries =
+                    listOf(
+                        SkillMultiEntry("obj.bread_dough", materials),
+                        SkillMultiEntry("obj.pastry_dough", materials),
+                        SkillMultiEntry("obj.pizza_base", materials),
+                    ),
+            )
+        ) { selection ->
             val dough = selection.entry.internal
             val amount = selection.amount
             repeat(amount) {

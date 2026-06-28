@@ -9,9 +9,8 @@ import org.rsmod.plugin.scripts.ScriptContext
 // @see [docs/quirks.md] for details on why this is done.
 internal lateinit var cachedInventoryTransactions: InvTransactions
 
-public class InvTransactionsScript
-@Inject
-constructor(private val itemStorage: PlayerItemStorage) : PluginScript() {
+public class InvTransactionsScript @Inject constructor(private val itemStorage: PlayerItemStorage) :
+    PluginScript() {
     public lateinit var transactions: InvTransactions
 
     override fun ScriptContext.startup() {

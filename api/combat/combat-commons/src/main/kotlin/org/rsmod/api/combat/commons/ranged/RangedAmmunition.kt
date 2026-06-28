@@ -187,7 +187,8 @@ public object RangedAmmunition {
         worldQueues.add(delay) { objRepo.add(obj, dropDuration) }
     }
 
-    public val defualtArrows: CategoryType = CategoryType("category.arrows".asRSCM(RSCMType.CATEGORY))
+    public val defualtArrows: CategoryType =
+        CategoryType("category.arrows".asRSCM(RSCMType.CATEGORY))
 
     public fun validateArrows(weapon: ItemServerType, ammo: ItemServerType): Validation {
 
@@ -210,7 +211,9 @@ public object RangedAmmunition {
     }
 
     public fun validateBolts(weapon: ItemServerType, ammo: ItemServerType): Validation {
-        val requiredAmmo = weapon.paramOrNull(params.required_ammo) ?: CategoryType("category.crossbow_bolt".asRSCM(RSCMType.CATEGORY))
+        val requiredAmmo =
+            weapon.paramOrNull(params.required_ammo)
+                ?: CategoryType("category.crossbow_bolt".asRSCM(RSCMType.CATEGORY))
 
         if (!ammo.isCategory(requiredAmmo)) {
             return if (weapon.param(params.bone_weapon) != 0) {
@@ -232,7 +235,9 @@ public object RangedAmmunition {
     }
 
     public fun validateJavelins(weapon: ItemServerType, ammo: ItemServerType): Validation {
-        val requiredAmmo = weapon.paramOrNull(params.required_ammo) ?: CategoryType("category.javelin".asRSCM(RSCMType.CATEGORY))
+        val requiredAmmo =
+            weapon.paramOrNull(params.required_ammo)
+                ?: CategoryType("category.javelin".asRSCM(RSCMType.CATEGORY))
         return if (!ammo.isCategory(requiredAmmo)) {
             Validation.Invalid.IncorrectAmmo
         } else {

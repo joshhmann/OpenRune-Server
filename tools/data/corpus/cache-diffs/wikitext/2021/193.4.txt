@@ -1,0 +1,155 @@
+{| class="wikitable sortable"
+!colspan="5"|Items
+|-
+! Name !! ID !! Key !! Previous Value !! Changed into
+|-
+|rowspan="6"|[[Green egg]]
+|rowspan="6"|10531
+|-
+|xan2d || 144 || 12
+|-
+| yan2d || 68 || 1976
+|-
+| inventoryModel || 20732 || 41725
+|-
+| zoom2d || 984 || 1112
+|-
+| xOffset2d || 1 || -1
+|-
+|rowspan="6"|[[Red egg]]
+|rowspan="6"|10532
+|-
+|xan2d || 144 || 12
+|-
+| yan2d || 68 || 1976
+|-
+| inventoryModel || 20732 || 41729
+|-
+| zoom2d || 984 || 1112
+|-
+| xOffset2d || 1 || -1
+|-
+|rowspan="6"|[[Blue egg]]
+|rowspan="6"|10533
+|-
+|xan2d || 144 || 12
+|-
+| yan2d || 68 || 1976
+|-
+| inventoryModel || 20732 || 41731
+|-
+| zoom2d || 984 || 1112
+|-
+| xOffset2d || 1 || -1
+|-
+|rowspan="6"|[[Yellow egg]]
+|rowspan="6"|10534
+|-
+|xan2d || 144 || 12
+|-
+| yan2d || 68 || 1976
+|-
+| inventoryModel || 20732 || 41727
+|-
+| zoom2d || 984 || 1112
+|-
+| xOffset2d || 1 || -1
+|-
+|rowspan="7"|[[Poisoned egg]]
+|rowspan="7"|10535
+|-
+|xan2d || 78 || 12
+|-
+| yan2d || 1697 || 1976
+|-
+| inventoryModel || 20574 || 41728
+|-
+| zoom2d || 919 || 1112
+|-
+| xOffset2d || -5 || -1
+|-
+| yOffset2d || 3 || 0
+|-
+|rowspan="6"|[[Spiked/pois. egg]]
+|rowspan="6"|10536
+|-
+|xan2d || 111 || 12
+|-
+| yan2d || 1787 || 1976
+|-
+| inventoryModel || 20575 || 41730
+|-
+| zoom2d || 919 || 1112
+|-
+| xOffset2d || -4 || -1
+|-
+|rowspan="5"|[[Omega egg]]
+|rowspan="5"|10537
+|-
+|xan2d || 3 || 12
+|-
+| yan2d || 1850 || 1976
+|-
+| inventoryModel || 20572 || 41726
+|-
+| zoom2d || 984 || 1112
+|-
+|rowspan="2"|[[Soul fragment]]
+|rowspan="2"|25196
+|-
+|cost || 1 || 1000
+|-
+|}
+
+{| class="wikitable sortable"
+!colspan="5"|Non-Player Characters
+|-
+! Name !! ID !! Key !! Previous Value !! Changed into
+|-
+|rowspan="2"|[[Elnock Inquisitor]]
+|rowspan="2"|5734
+|-
+|actions || ['Talk-to', None, 'Trade', None, None] || ['Talk-to', None, 'Trade', 'Exchange', 'Quick-withdraw']
+|-
+|rowspan="2"|[[Wandering impling]]
+|rowspan="2"|5737
+|-
+|actions || ['Talk-to', None, None, None, None] || ['Talk-to', None, 'Check-gates', None, None]
+|-
+|rowspan="2"|[[Kruk]]
+|rowspan="2"|6804
+|-
+|combatLevel || 149 || 207
+|-
+|rowspan="2"|[[Kruk]]
+|rowspan="2"|6805
+|-
+|combatLevel || 149 || 207
+|-
+|rowspan="2"|[[Glough]]
+|rowspan="2"|7101
+|-
+|combatLevel || 378 || 431
+|-
+|rowspan="2"|[[Glough]]
+|rowspan="2"|7102
+|-
+|combatLevel || 378 || 431
+|-
+|rowspan="2"|[[Glough]]
+|rowspan="2"|7103
+|-
+|combatLevel || 0 || 431
+|-
+|}
+
+{| class="wikitable sortable"
+!colspan="5"|Objects
+|-
+! Name !! ID !! Key !! Previous Value !! Changed into
+|-
+| [[Barrier]] || 41199 || NEW ID || NEW ID || NEW ID
+|-
+| [[Barrier]] || 41200 || NEW ID || NEW ID || NEW ID
+|-
+|}

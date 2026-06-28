@@ -1,0 +1,120 @@
+{{ToC}}
+==Items==
+===New Items===
+{| class="wikitable sortable"
+!colspan='11'|New Items
+|-
+! style=width:15em | Name !! ID !! Members !! Tradeable in GE !! Equipable !! Stackable !! Noteable !! Options !! Placeholder !! Cost
+|-
+|-
+|}
+===Removed Items===
+{| class="wikitable sortable"
+!colspan='2'|Removed Items
+|-
+! style=width:15em | Name !! ID
+|-
+|-
+|}
+===Diff Items===
+{| class="wikitable sortable"
+!colspan='5'|Diff Items
+|-
+! style=width:15em | Name !! ID !! Key !! Previous Value !! New Value
+|-
+|}
+
+==Non-Player Characters==
+===New NPCs===
+{| class="wikitable sortable"
+!colspan='4'|New NPCs
+|-
+! style=width:15em | Name !! ID !! Combat Level !! Options
+|-
+|-
+|}
+===Removed NPCs===
+{| class="wikitable sortable"
+!colspan='2'|Removed NPCs
+|-
+! style=width:15em | Name !! ID
+|-
+|-
+|}
+===Diff NPCs===
+{| class="wikitable sortable"
+!colspan='5'|Diff NPCs
+|-
+! style=width:15em | Name !! ID !! Key !! Previous Value !! New Value
+|-
+|rowspan="2"|[[Gamer]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#1011 1011]
+|-
+|name || [[Gambler]] || [[Gamer]]
+|-
+|rowspan="2"|[[Gamer]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#1012 1012]
+|-
+|name || [[Gambler]] || [[Gamer]]
+|-
+|rowspan="2"|[[Gamer]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#1014 1014]
+|-
+|name || [[Gambler]] || [[Gamer]]
+|-
+|rowspan="2"|[[Gamer]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#1015 1015]
+|-
+|name || [[Gambler]] || [[Gamer]]
+|-
+|rowspan="2"|[[Gamer]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#1016 1016]
+|-
+|name || [[Gambler]] || [[Gamer]]
+|-
+|rowspan="2"|[[Gamer]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#1017 1017]
+|-
+|name || [[Gambler]] || [[Gamer]]
+|-
+|rowspan="2"|[[Gamer]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#1018 1018]
+|-
+|name || [[Gambler]] || [[Gamer]]
+|-
+|rowspan="2"|[[Gamer]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#1019 1019]
+|-
+|name || [[Gambler]] || [[Gamer]]
+|-
+|rowspan="2"|[[Essyllt (hard)]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#9247 9247]
+|-
+|combatLevel || 474 || 395
+|-
+|}
+
+==Objects==
+===New Objects=== 
+{| class="wikitable sortable"
+!colspan='3'|New Objects
+|-
+! style=width:15em | Name !! ID !! Options
+|-
+|-
+|}
+===Removed Objects===
+{| class="wikitable sortable"
+!colspan='2'|Removed Objects
+|-
+! style=width:15em | Name !! ID
+|-
+|-
+|}
+===Diff Objects===
+{| class="wikitable sortable"
+!colspan='5'|Diff Objects
+|-
+! style=width:15em | Name !! ID !! Key !! Previous Value !! New Value
+|-
+|}

@@ -1,0 +1,903 @@
+__TOC__
+==Objects==
+===New Objects===
+{| class="wikitable sortable"
+|-
+! colspan="3" | New Objects
+|-
+! style="width: 15em" | name !! id !! actions
+|-
+| [[Shuttered window]] || [https://chisel.weirdgloop.org/moid/object_id.html#56088 56088][https://abextm.github.io/cache2/#/viewer/obj/56088 (1)] || [None, None, None, None, Remove]
+|-
+| [[Decorative window]] || [https://chisel.weirdgloop.org/moid/object_id.html#56089 56089][https://abextm.github.io/cache2/#/viewer/obj/56089 (1)] || [None, None, None, None, Remove]
+|-
+| [[Stained-glass window]] || [https://chisel.weirdgloop.org/moid/object_id.html#56090 56090][https://abextm.github.io/cache2/#/viewer/obj/56090 (1)] || [None, None, None, None, Remove]
+|-
+| [[Decorative window]] || [https://chisel.weirdgloop.org/moid/object_id.html#56091 56091][https://abextm.github.io/cache2/#/viewer/obj/56091 (1)] || [None, None, None, None, Remove]
+|-
+| [[Stained-glass window]] || [https://chisel.weirdgloop.org/moid/object_id.html#56092 56092][https://abextm.github.io/cache2/#/viewer/obj/56092 (1)] || [None, None, None, None, Remove]
+|-
+| [[Decorative window]] || [https://chisel.weirdgloop.org/moid/object_id.html#56093 56093][https://abextm.github.io/cache2/#/viewer/obj/56093 (1)] || [None, None, None, None, Remove]
+|-
+| [[Stained-glass window]] || [https://chisel.weirdgloop.org/moid/object_id.html#56094 56094][https://abextm.github.io/cache2/#/viewer/obj/56094 (1)] || [None, None, None, None, Remove]
+|-
+| [[Decorative window]] || [https://chisel.weirdgloop.org/moid/object_id.html#56095 56095][https://abextm.github.io/cache2/#/viewer/obj/56095 (1)] || [None, None, None, None, Remove]
+|-
+| [[Stained-glass window]] || [https://chisel.weirdgloop.org/moid/object_id.html#56096 56096][https://abextm.github.io/cache2/#/viewer/obj/56096 (1)] || [None, None, None, None, Remove]
+|-
+| [[Decorative window]] || [https://chisel.weirdgloop.org/moid/object_id.html#56097 56097][https://abextm.github.io/cache2/#/viewer/obj/56097 (1)] || [None, None, None, None, Remove]
+|-
+| [[Stained-glass window]] || [https://chisel.weirdgloop.org/moid/object_id.html#56098 56098][https://abextm.github.io/cache2/#/viewer/obj/56098 (1)] || [None, None, None, None, Remove]
+|-
+| [[Shuttered window]] || [https://chisel.weirdgloop.org/moid/object_id.html#56099 56099][https://abextm.github.io/cache2/#/viewer/obj/56099 (1)] || [None, None, None, None, Remove]
+|-
+| [[Decorative window]] || [https://chisel.weirdgloop.org/moid/object_id.html#56100 56100][https://abextm.github.io/cache2/#/viewer/obj/56100 (1)] || [None, None, None, None, Remove]
+|-
+| [[Stained-glass window]] || [https://chisel.weirdgloop.org/moid/object_id.html#56101 56101][https://abextm.github.io/cache2/#/viewer/obj/56101 (1)] || [None, None, None, None, Remove]
+|-
+| [[Decorative window]] || [https://chisel.weirdgloop.org/moid/object_id.html#56102 56102][https://abextm.github.io/cache2/#/viewer/obj/56102 (1)] || [None, None, None, None, Remove]
+|-
+| [[Stained-glass window]] || [https://chisel.weirdgloop.org/moid/object_id.html#56103 56103][https://abextm.github.io/cache2/#/viewer/obj/56103 (1)] || [None, None, None, None, Remove]
+|-
+| [[Decorative window]] || [https://chisel.weirdgloop.org/moid/object_id.html#56104 56104][https://abextm.github.io/cache2/#/viewer/obj/56104 (1)] || [None, None, None, None, Remove]
+|-
+| [[Stained-glass window]] || [https://chisel.weirdgloop.org/moid/object_id.html#56105 56105][https://abextm.github.io/cache2/#/viewer/obj/56105 (1)] || [None, None, None, None, Remove]
+|-
+| [[Decorative window]] || [https://chisel.weirdgloop.org/moid/object_id.html#56106 56106][https://abextm.github.io/cache2/#/viewer/obj/56106 (1)] || [None, None, None, None, Remove]
+|-
+| [[Stained-glass window]] || [https://chisel.weirdgloop.org/moid/object_id.html#56107 56107][https://abextm.github.io/cache2/#/viewer/obj/56107 (1)] || [None, None, None, None, Remove]
+|-
+| [[Decorative window]] || [https://chisel.weirdgloop.org/moid/object_id.html#56108 56108][https://abextm.github.io/cache2/#/viewer/obj/56108 (1)] || [None, None, None, None, Remove]
+|-
+| [[Stained-glass window]] || [https://chisel.weirdgloop.org/moid/object_id.html#56109 56109][https://abextm.github.io/cache2/#/viewer/obj/56109 (1)] || [None, None, None, None, Remove]
+|-
+| [[Teak display]] || [https://chisel.weirdgloop.org/moid/object_id.html#56110 56110][https://abextm.github.io/cache2/#/viewer/obj/56110 (1)] || [None, Trophies, None, Upgrade, Remove]
+|-
+| [[Mahogany display]] || [https://chisel.weirdgloop.org/moid/object_id.html#56111 56111][https://abextm.github.io/cache2/#/viewer/obj/56111 (1)] || [None, Trophies, None, Upgrade, Remove]
+|-
+| [[Gilded display]] || [https://chisel.weirdgloop.org/moid/object_id.html#56112 56112][https://abextm.github.io/cache2/#/viewer/obj/56112 (1)] || [None, Trophies, None, None, Remove]
+|-
+| [[Crawling hand]] || [https://chisel.weirdgloop.org/moid/object_id.html#56113 56113][https://abextm.github.io/cache2/#/viewer/obj/56113 (1)] || [Talk-to, Trophies, None, Upgrade, Remove]
+|-
+| [[Crawling hand]] || [https://chisel.weirdgloop.org/moid/object_id.html#56114 56114][https://abextm.github.io/cache2/#/viewer/obj/56114 (1)] || [Talk-to, Trophies, None, Upgrade, Remove]
+|-
+| [[Crawling hand]] || [https://chisel.weirdgloop.org/moid/object_id.html#56115 56115][https://abextm.github.io/cache2/#/viewer/obj/56115 (1)] || [Talk-to, Trophies, None, None, Remove]
+|-
+| [[Cockatrice head]] || [https://chisel.weirdgloop.org/moid/object_id.html#56116 56116][https://abextm.github.io/cache2/#/viewer/obj/56116 (1)] || [Talk-to, Trophies, None, Upgrade, Remove]
+|-
+| [[Cockatrice head]] || [https://chisel.weirdgloop.org/moid/object_id.html#56117 56117][https://abextm.github.io/cache2/#/viewer/obj/56117 (1)] || [Talk-to, Trophies, None, Upgrade, Remove]
+|-
+| [[Cockatrice head]] || [https://chisel.weirdgloop.org/moid/object_id.html#56118 56118][https://abextm.github.io/cache2/#/viewer/obj/56118 (1)] || [Talk-to, Trophies, None, None, Remove]
+|-
+| [[Basilisk head]] || [https://chisel.weirdgloop.org/moid/object_id.html#56119 56119][https://abextm.github.io/cache2/#/viewer/obj/56119 (1)] || [Talk-to, Trophies, None, Upgrade, Remove]
+|-
+| [[Basilisk head]] || [https://chisel.weirdgloop.org/moid/object_id.html#56120 56120][https://abextm.github.io/cache2/#/viewer/obj/56120 (1)] || [Talk-to, Trophies, None, Upgrade, Remove]
+|-
+| [[Basilisk head]] || [https://chisel.weirdgloop.org/moid/object_id.html#56121 56121][https://abextm.github.io/cache2/#/viewer/obj/56121 (1)] || [Talk-to, Trophies, None, None, Remove]
+|-
+| [[Kurask head]] || [https://chisel.weirdgloop.org/moid/object_id.html#56122 56122][https://abextm.github.io/cache2/#/viewer/obj/56122 (1)] || [Talk-to, Trophies, None, Upgrade, Remove]
+|-
+| [[Kurask head]] || [https://chisel.weirdgloop.org/moid/object_id.html#56123 56123][https://abextm.github.io/cache2/#/viewer/obj/56123 (1)] || [Talk-to, Trophies, None, None, Remove]
+|-
+| [[Abyssal demon head]] || [https://chisel.weirdgloop.org/moid/object_id.html#56124 56124][https://abextm.github.io/cache2/#/viewer/obj/56124 (1)] || [Talk-to, Trophies, None, Upgrade, Remove]
+|-
+| [[Abyssal demon head]] || [https://chisel.weirdgloop.org/moid/object_id.html#56125 56125][https://abextm.github.io/cache2/#/viewer/obj/56125 (1)] || [Talk-to, Trophies, None, None, Remove]
+|-
+| [[KBD heads]] || [https://chisel.weirdgloop.org/moid/object_id.html#56126 56126][https://abextm.github.io/cache2/#/viewer/obj/56126 (1)] || [Talk-to, Trophies, None, None, Remove]
+|-
+| [[KQ head]] || [https://chisel.weirdgloop.org/moid/object_id.html#56127 56127][https://abextm.github.io/cache2/#/viewer/obj/56127 (1)] || [Talk-to, Trophies, None, None, Remove]
+|-
+| [[Vorkath head]] || [https://chisel.weirdgloop.org/moid/object_id.html#56128 56128][https://abextm.github.io/cache2/#/viewer/obj/56128 (1)] || [Talk-to, Trophies, None, None, Remove]
+|-
+| [[Alchemical Hydra]] || [https://chisel.weirdgloop.org/moid/object_id.html#56129 56129][https://abextm.github.io/cache2/#/viewer/obj/56129 (1)] || [Talk-to, Trophies, None, None, Remove]
+|-
+| [[Oak display]] || [https://chisel.weirdgloop.org/moid/object_id.html#56130 56130][https://abextm.github.io/cache2/#/viewer/obj/56130 (1)] || [None, Trophies, None, Upgrade, Remove]
+|-
+| [[Teak display]] || [https://chisel.weirdgloop.org/moid/object_id.html#56131 56131][https://abextm.github.io/cache2/#/viewer/obj/56131 (1)] || [None, Trophies, None, Upgrade, Remove]
+|-
+| [[Mahogany display]] || [https://chisel.weirdgloop.org/moid/object_id.html#56132 56132][https://abextm.github.io/cache2/#/viewer/obj/56132 (1)] || [None, Trophies, None, None, Remove]
+|-
+| [[Mounted sea bass]] || [https://chisel.weirdgloop.org/moid/object_id.html#56133 56133][https://abextm.github.io/cache2/#/viewer/obj/56133 (1)] || [None, Trophies, None, Upgrade, Remove]
+|-
+| [[Mounted sea bass]] || [https://chisel.weirdgloop.org/moid/object_id.html#56134 56134][https://abextm.github.io/cache2/#/viewer/obj/56134 (1)] || [None, Trophies, None, Upgrade, Remove]
+|-
+| [[Mounted sea bass]] || [https://chisel.weirdgloop.org/moid/object_id.html#56135 56135][https://abextm.github.io/cache2/#/viewer/obj/56135 (1)] || [None, Trophies, None, None, Remove]
+|-
+| [[Mounted swordfish]] || [https://chisel.weirdgloop.org/moid/object_id.html#56136 56136][https://abextm.github.io/cache2/#/viewer/obj/56136 (1)] || [None, Trophies, None, Upgrade, Remove]
+|-
+| [[Mounted swordfish]] || [https://chisel.weirdgloop.org/moid/object_id.html#56137 56137][https://abextm.github.io/cache2/#/viewer/obj/56137 (1)] || [None, Trophies, None, None, Remove]
+|-
+| [[Mounted shark]] || [https://chisel.weirdgloop.org/moid/object_id.html#56138 56138][https://abextm.github.io/cache2/#/viewer/obj/56138 (1)] || [None, Trophies, None, None, Remove]
+|-
+| [[Mounted harpoonfish]] || [https://chisel.weirdgloop.org/moid/object_id.html#56139 56139][https://abextm.github.io/cache2/#/viewer/obj/56139 (1)] || [None, Trophies, None, Upgrade, Remove]
+|-
+| [[Mounted harpoonfish]] || [https://chisel.weirdgloop.org/moid/object_id.html#56140 56140][https://abextm.github.io/cache2/#/viewer/obj/56140 (1)] || [None, Trophies, None, None, Remove]
+|-
+| [[Window space]] || [https://chisel.weirdgloop.org/moid/object_id.html#56141 56141][https://abextm.github.io/cache2/#/viewer/obj/56141 (1)] || [None, None, None, None, Build]
+|-
+| [[Window space]] || [https://chisel.weirdgloop.org/moid/object_id.html#56142 56142][https://abextm.github.io/cache2/#/viewer/obj/56142 (1)] || [None, None, None, None, Build]
+|-
+| [[Door hotspot]] || [https://chisel.weirdgloop.org/moid/object_id.html#56143 56143][https://abextm.github.io/cache2/#/viewer/obj/56143 (1)] || [None, None, None, None, Build]
+|-
+| [[Door hotspot]] || [https://chisel.weirdgloop.org/moid/object_id.html#56144 56144][https://abextm.github.io/cache2/#/viewer/obj/56144 (1)] || [None, None, None, None, Build]
+|-
+| [[Door hotspot]] || [https://chisel.weirdgloop.org/moid/object_id.html#56145 56145][https://abextm.github.io/cache2/#/viewer/obj/56145 (1)] || [None, None, None, None, Build]
+|-
+| [[Door hotspot]] || [https://chisel.weirdgloop.org/moid/object_id.html#56146 56146][https://abextm.github.io/cache2/#/viewer/obj/56146 (1)] || [None, None, None, None, Build]
+|-
+| [[Door]] || [https://chisel.weirdgloop.org/moid/object_id.html#56147 56147][https://abextm.github.io/cache2/#/viewer/obj/56147 (1)] || [Open, None, None, None, None]
+|-
+| [[Door]] || [https://chisel.weirdgloop.org/moid/object_id.html#56148 56148][https://abextm.github.io/cache2/#/viewer/obj/56148 (1)] || [Close, None, None, None, None]
+|-
+| [[Door]] || [https://chisel.weirdgloop.org/moid/object_id.html#56149 56149][https://abextm.github.io/cache2/#/viewer/obj/56149 (1)] || [Open, None, None, None, None]
+|-
+| [[Door]] || [https://chisel.weirdgloop.org/moid/object_id.html#56150 56150][https://abextm.github.io/cache2/#/viewer/obj/56150 (1)] || [Close, None, None, None, None]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#56151 56151][https://abextm.github.io/cache2/#/viewer/obj/56151 (1)] || [None, None, None, None, None]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#56152 56152][https://abextm.github.io/cache2/#/viewer/obj/56152 (1)] || [None, None, None, None, None]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#56153 56153][https://abextm.github.io/cache2/#/viewer/obj/56153 (1)] || [None, None, None, None, None]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#56154 56154][https://abextm.github.io/cache2/#/viewer/obj/56154 (1)] || [None, None, None, None, None]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#56155 56155][https://abextm.github.io/cache2/#/viewer/obj/56155 (1)] || [None, None, None, None, None]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#56156 56156][https://abextm.github.io/cache2/#/viewer/obj/56156 (1)] || [None, None, None, None, None]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#56157 56157][https://abextm.github.io/cache2/#/viewer/obj/56157 (1)] || [None, None, None, None, None]
+|-
+| [[Door]] || [https://chisel.weirdgloop.org/moid/object_id.html#56158 56158][https://abextm.github.io/cache2/#/viewer/obj/56158 (1)] || [Open, None, None, None, None]
+|-
+| [[Door]] || [https://chisel.weirdgloop.org/moid/object_id.html#56159 56159][https://abextm.github.io/cache2/#/viewer/obj/56159 (1)] || [Open, None, None, None, None]
+|-
+| [[Door]] || [https://chisel.weirdgloop.org/moid/object_id.html#56160 56160][https://abextm.github.io/cache2/#/viewer/obj/56160 (1)] || [Close, None, None, None, None]
+|-
+| [[Door]] || [https://chisel.weirdgloop.org/moid/object_id.html#56161 56161][https://abextm.github.io/cache2/#/viewer/obj/56161 (1)] || [Close, None, None, None, None]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#56162 56162][https://abextm.github.io/cache2/#/viewer/obj/56162 (1)] || [None, None, None, None, None]
+|}
+===Removed Objects===
+{| class="wikitable sortable"
+|-
+! colspan="3" | Removed Objects
+|-
+! style="width: 15em" | name !! id !! actions
+|-
+| [[Crawling hand]] || [https://chisel.weirdgloop.org/moid/object_id.html#13481 13481][https://abextm.github.io/cache2/#/viewer/obj/13481 (1)] || [Talk-to, None, None, None, Remove]
+|-
+| [[Cockatrice head]] || [https://chisel.weirdgloop.org/moid/object_id.html#13482 13482][https://abextm.github.io/cache2/#/viewer/obj/13482 (1)] || [Talk-to, None, None, None, Remove]
+|-
+| [[Basilisk head]] || [https://chisel.weirdgloop.org/moid/object_id.html#13483 13483][https://abextm.github.io/cache2/#/viewer/obj/13483 (1)] || [Talk-to, None, None, None, Remove]
+|-
+| [[Kurask head]] || [https://chisel.weirdgloop.org/moid/object_id.html#13484 13484][https://abextm.github.io/cache2/#/viewer/obj/13484 (1)] || [Talk-to, None, None, None, Remove]
+|-
+| [[Abyssal demon head]] || [https://chisel.weirdgloop.org/moid/object_id.html#13485 13485][https://abextm.github.io/cache2/#/viewer/obj/13485 (1)] || [Talk-to, None, None, None, Remove]
+|-
+| [[KBD heads]] || [https://chisel.weirdgloop.org/moid/object_id.html#13486 13486][https://abextm.github.io/cache2/#/viewer/obj/13486 (1)] || [Talk-to, None, None, None, Remove]
+|-
+| [[KQ head]] || [https://chisel.weirdgloop.org/moid/object_id.html#13487 13487][https://abextm.github.io/cache2/#/viewer/obj/13487 (1)] || [Talk-to, None, None, None, Remove]
+|-
+| [[Mounted sea bass]] || [https://chisel.weirdgloop.org/moid/object_id.html#13488 13488][https://abextm.github.io/cache2/#/viewer/obj/13488 (1)] || [None, None, None, None, Remove]
+|-
+| [[Mounted swordfish]] || [https://chisel.weirdgloop.org/moid/object_id.html#13489 13489][https://abextm.github.io/cache2/#/viewer/obj/13489 (1)] || [None, None, None, None, Remove]
+|-
+| [[Mounted shark]] || [https://chisel.weirdgloop.org/moid/object_id.html#13490 13490][https://abextm.github.io/cache2/#/viewer/obj/13490 (1)] || [None, None, None, None, Remove]
+|-
+| [[Alchemical Hydra]] || [https://chisel.weirdgloop.org/moid/object_id.html#27779 27779][https://abextm.github.io/cache2/#/viewer/obj/27779 (1)] || [Talk-to, None, None, None, Remove]
+|-
+| [[Vorkath head]] || [https://chisel.weirdgloop.org/moid/object_id.html#31977 31977][https://abextm.github.io/cache2/#/viewer/obj/31977 (1)] || [Talk-to, None, None, None, Remove]
+|-
+| [[Mounted harpoonfish]] || [https://chisel.weirdgloop.org/moid/object_id.html#40963 40963][https://abextm.github.io/cache2/#/viewer/obj/40963 (1)] || [None, None, None, None, Remove]
+|}
+===Diff Objects===
+{| class="wikitable sortable sticky-header"
+|-
+! colspan="5" | Diff Objects
+|-
+! style="width: 15em" | Name !! Id !! Key !! Previous Value !! New Value
+|-
+| rowspan="2" | [[Kurask head]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#4490 4490][https://abextm.github.io/cache2/#/viewer/obj/4490 (1)]
+|-
+| models || [<span style="color: #ee4231">12165</span>] || [<span style="color: #6bc71f">56055</span>]
+|-
+| rowspan="2" | [[Mounted swordfish]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#4491 4491][https://abextm.github.io/cache2/#/viewer/obj/4491 (1)]
+|-
+| models || [<span style="color: #ee4231">12157</span>] || [<span style="color: #6bc71f">56065</span>]
+|-
+| rowspan="2" | [[Mounted sea bass]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#4492 4492][https://abextm.github.io/cache2/#/viewer/obj/4492 (1)]
+|-
+| models || [<span style="color: #ee4231">12155</span>] || [<span style="color: #6bc71f">56063</span>]
+|-
+| rowspan="2" | [[Altar]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#34760 34760][https://abextm.github.io/cache2/#/viewer/obj/34760 (1)]
+|-
+| category || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">2156</span>
+|-
+| rowspan="2" | [[Altar]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#34761 34761][https://abextm.github.io/cache2/#/viewer/obj/34761 (1)]
+|-
+| category || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">2156</span>
+|-
+| rowspan="2" | [[Altar]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#34762 34762][https://abextm.github.io/cache2/#/viewer/obj/34762 (1)]
+|-
+| category || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">2156</span>
+|-
+| rowspan="2" | [[Altar]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#34763 34763][https://abextm.github.io/cache2/#/viewer/obj/34763 (1)]
+|-
+| category || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">2156</span>
+|-
+| rowspan="2" | [[Altar]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#34764 34764][https://abextm.github.io/cache2/#/viewer/obj/34764 (1)]
+|-
+| category || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">2156</span>
+|-
+| rowspan="2" | [[Altar]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#34765 34765][https://abextm.github.io/cache2/#/viewer/obj/34765 (1)]
+|-
+| category || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">2156</span>
+|-
+| rowspan="2" | [[Altar]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#34766 34766][https://abextm.github.io/cache2/#/viewer/obj/34766 (1)]
+|-
+| category || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">2156</span>
+|-
+| rowspan="2" | [[Altar]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#34767 34767][https://abextm.github.io/cache2/#/viewer/obj/34767 (1)]
+|-
+| category || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">2156</span>
+|-
+| rowspan="2" | [[Altar]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#34768 34768][https://abextm.github.io/cache2/#/viewer/obj/34768 (1)]
+|-
+| category || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">2156</span>
+|-
+| rowspan="2" | [[Altar]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#34769 34769][https://abextm.github.io/cache2/#/viewer/obj/34769 (1)]
+|-
+| category || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">2156</span>
+|-
+| rowspan="2" | [[Altar]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#34770 34770][https://abextm.github.io/cache2/#/viewer/obj/34770 (1)]
+|-
+| category || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">2156</span>
+|-
+| rowspan="2" | [[Altar]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#34771 34771][https://abextm.github.io/cache2/#/viewer/obj/34771 (1)]
+|-
+| category || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">2156</span>
+|-
+| rowspan="2" | [[Altar]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#34772 34772][https://abextm.github.io/cache2/#/viewer/obj/34772 (1)]
+|-
+| category || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">2156</span>
+|-
+| rowspan="2" | [[Trailblazer globe]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#41181 41181][https://abextm.github.io/cache2/#/viewer/obj/41181 (1)]
+|-
+| animationId || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">12037</span>
+|-
+| rowspan="2" | [[Altar]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#43479 43479][https://abextm.github.io/cache2/#/viewer/obj/43479 (1)]
+|-
+| category || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">2156</span>
+|}
+==Enums==
+===New Enums===
+{| class="wikitable sortable"
+|-
+! colspan="3" | New Enums
+|-
+! style="width: 15em" | id !! defaultValue !! map
+|-
+| [https://chisel.weirdgloop.org/structs/index.html?type=enums&id=5210 5210][https://abextm.github.io/cache2/#/viewer/enum/5210 (1)] || -1 || {'0': 8463, '1': 7681, '2': 2408, '3': 5, '4': 711, '5': 2886, '6': 4616, '7': 5009, '8': 4655, '9': 784, '10': 785, '11': 3845, '12': 3846, '13': 3847, '14': 729, '15': 730, '16': 3901, '17': 600, '18': 1493, '19': 1494, '20': 3230, '21': 4209, '22': 4313, '23': 3395, '24': 757, '25': 1856, '26': 292, '27': 4568, '28': 4686, '29': 6749, '30': 4707, '31': 6767, '32': 5520, '33': 6649, '34': 6073, '35': 6075, '36': 6077, '37': 6079, '38': 6755, '39': 2167, '40': 2023, '41': 9003, '42': 9004, '43': 9078, '44': 7951, '45': 7162, '46': 8989, '47': 6891, '48': 7965, '49': 7144, '50': 11002, '51': 11001, '52': 10587, '53': 10173, '54': 10179, '55': 9903, '56': 10562, '57': 10890, '58': 7634, '59': 7635, '60': 7633, '61': 9717, '62': 9627, '63': 10594, '64': 10999, '65': 11339, '66': 11677, '67': 11656, '68': 11904, '69': 12935, '70': 13279, '71': 19515, '72': 20886, '73': 20888, '74': 20890, '75': 20893, '76': 20895, '77': 20899, '78': 20897, '79': 21662, '80': 21629, '81': 21631, '82': 21756, '83': 22033, '84': 22037, '85': 25702, '86': 25704, '87': 22039, '88': 22041, '89': 22043, '90': 22045, '91': 22047, '92': 22049, '93': 22411, '94': 22504, '95': 22506, '96': 22508, '97': 22510, '98': 22512, '99': 22514, '100': 22591, '101': 22711, '102': 23009, '103': 23011, '104': 23013, '105': 23015, '106': 23017, '107': 23019, '108': 23021, '109': 23506, '110': 23504, '111': 23508, '112': 23796, '113': 24049, '114': 24051, '115': 24053, '116': 24055, '117': 24057, '118': 24059, '119': 24061, '120': 24063, '121': 24065, '122': 24067, '123': 24069, '124': 24071, '125': 24073, '126': 24075, '127': 24529, '128': 24263, '129': 24842, '130': 24761, '131': 25152, '132': 25197, '133': 25474, '134': 25476, '135': 25567, '136': 25569, '137': 26154, '138': 26876, '139': 27300, '140': 27302, '141': 27304, '142': 27306, '143': 27308, '144': 27310, '145': 27312, '146': 27511, '147': 28579, '148': 29525, '149': 29526, '150': 30123, '151': 30035}
+|-
+| [https://chisel.weirdgloop.org/structs/index.html?type=enums&id=5211 5211][https://abextm.github.io/cache2/#/viewer/enum/5211 (1)] || Book || {'5': 'Dwarf Multicannon Manual', '292': 'Book on Baxtorian (The Missing Relics)', '600': 'Astronomy Book', '711': 'Chemistry book from the Dig Site library', '729': 'Shaman's Tome', '730': 'Book of Binding', '757': 'Shield of Arrav,  The', '784': 'Gnome Translation Dictionary', '785': 'Glough's Journal', '1493': 'Journal of Randas,  The', '1494': 'Tale of Iban,  The', '1856': 'Tourist Guide to Ardougne', '2023': 'Blurberry Cocktail Guide,  The', '2167': 'Gianne's Cook Book', '2408': 'Witch's Diary', '2886': 'Book of the Elemental Shield', '3230': 'Big Book of Bangs', '3395': 'Diary of Herbi Flax', '3845': 'Jossik's Diary (from the Lighthouse)', '3846': 'Ancient Diary (from the Lighthouse)', '3847': 'Lighthouse Manual', '3901': 'Managing Thine Kingdom for Noobes', '4209': 'Cadarn Lineage,  The', '4313': 'Crystal Singing for Beginners', '4568': 'Arzinian Being of Bordanzan,  The', '4616': 'Notes from Varmen's expedition to Uzer', '4655': 'Four Diamonds translation', '4686': 'Little Book of Embalming,  The', '4707': 'Legend of the Brothers', '5009': 'History of the Goblin Race,  A', '5520': 'Abyssal Research Notes', '6073': 'Creation of Prifddinas,  The', '6075': 'Exploration of the Eastern Realm,  The', '6077': 'Settlement of the East,  The', '6079': 'Great Divide,  The', '6649': 'Journal of Nissyen Edern', '6749': 'Confession of Ellemar,  The', '6755': 'Drozal's Journal', '6767': 'Ratpits Manual,  The', '6891': 'Magic Training Arena Lore Book', '7144': 'Book o' Piracy', '7162': 'Pie Recipe Book', '7633': 'Sleeping Seven,  The', '7634': 'Histories of Hallowland', '7635': 'Modern Day Morytania', '7681': 'Party Pete's Bumper Book of Games', '7951': 'Dionysius:  A Legend in His Own Lifetime', '7965': 'Armod's Burnt Diary', '8463': 'Guide to Construction', '8989': 'Brewin' Guide', '9003': 'Account Security', '9004': 'Stronghold of Security - Notes', '9078': 'Basics of Magic (from Lunar Isle)', '9627': 'Crystal Singing for Beginners (trans. Oaknock)', '9717': 'Book of the Elemental Helm', '9903': 'Farmer Gricoller's Farming Manual', '10173': 'William Oddity's Guide to the Avian', '10179': 'Feathered Journal of Arthur Artimus', '10562': 'Queen Help (from Barbarian Assault)', '10587': 'Diary of Tarn Razorlor,  The', '10594': 'Clockwork Toys - A Clockwork Mechanism,  Chapter 1.0', '10890': 'Prayer of Deliverance from Poisons', '10999': 'Book of the Big High War God,  The', '11001': 'History of the Dagon'hai', '11002': 'Sin'keths journal', '11339': 'Records from my discoveries beneath the lake', '11656': 'Glassblowing Book', '11677': 'Memoirs of a Dwarven Explorer', '11904': 'Diary of Buggie the Entomologist', '12935': 'Ohn's Diary', '13279': 'Overseer's book', '19515': 'Book of Spyology', '20886': 'Creature Keeper's Journal', '20888': 'Manifesto of Vasa Nistirio', '20890': 'Tekton's journal', '20893': 'Notes on Transdimensional Travel', '20895': 'Judgement of the Vanguard', '20897': 'Houndmaster's Diary', '20899': 'Dark journal', '21629': 'Diary of Charles Charlington,  The', '21631': 'Ancient Diary', '21662': 'Fossil Island Notebook', '21756': 'Envoy to Varlamore,  The', '22033': 'Diary of Aivas', '22037': 'Malumac's Journal', '22039': 'Ablenkian's Escape', '22041': 'Fall of Imcandoria,  The', '22043': 'Imafore's Betrayal', '22045': 'Lutwidge and the Moonfly', '22047': 'Tale of Serafina,  The', '22049': 'Weeping,  The', '22411': 'Old Diary', '22504': 'Serafina's Diary', '22506': 'Butcher,  The', '22508': 'Arachnids of Vampyrium', '22510': 'Shadow Realm,  The', '22512': 'Wild Hunt,  The', '22514': 'Verzik Vitur - Patient Record', '22591': 'Odd Mushroom's Notes', '22711': 'Collection Log', '23009': 'Gielinor's Flora - Flowers', '23011': 'Gielinor's Flora - Bushes', '23013': 'Gielinor's Flora - Hops', '23015': 'Gielinor's Flora - Allotments', '23017': 'Gielinor's Flora - Herbs', '23019': 'Gielinor's Flora - Trees', '23021': 'Gielinor's Flora - Fruit', '23504': 'Tome of the Moon', '23506': 'Tome of the Sun', '23508': 'Tome of the Temple', '23796': 'Ode to Eternity', '24049': 'Crazed Scribbles', '24051': 'Dear Friend,  A', '24053': 'On Leprechauns', '24055': 'Bloody Diary', '24057': 'Eight Clans,  The', '24059': 'Gollwyn's Final Statement', '24061': 'Niff & Harry', '24063': 'Soggy Journal', '24065': 'Ebrill's Journal', '24067': 'Stained Journal', '24069': 'Truth Behind the Myth (Excerpt),  The', '24071': 'Living Statues,  The', '24073': 'Spurned Demon,  The', '24075': 'Legends of the Mountain', '24263': 'Ballad of the Basilisk', '24529': 'Harmony', '24761': 'Strange Hallowed Tome', '24842': 'Taste of Hope,  A', '25152': 'Neilan's Journal', '25197': 'Soul Wars Guide', '25474': 'Tree Wizards' Journal', '25476': 'Bloody Notes', '25567': 'Desert Trout - Ship's Log,  The', '25569': 'Spirit Anglers Research Notes', '25702': 'Ungael Lab Notes', '25704': 'Lithkren Vault Notes', '26154': 'Mount Karuulm Diary', '26876': 'Atlax's Diary', '27300': 'Akila's Journal', '27302': 'Het's Capture', '27304': 'Apmeken's Capture', '27306': 'Scabaras' Capture', '27308': 'Crondis' Capture', '27310': 'Wardens,  The', '27312': 'Jackal's Torch,  The', '27511': 'Kasonde's Journal', '28579': 'Yewnock's Notebook', '29525': 'Movario's Notes (Volume 1)', '29526': 'Movario's Notes (Volume 2)', '30035': 'Moonrise Wines', '30123': 'Tales of the Old Ones:  The Hueycoatl'}
+|-
+| [https://chisel.weirdgloop.org/structs/index.html?type=enums&id=5212 5212][https://abextm.github.io/cache2/#/viewer/enum/5212 (1)] ||  || 
+|-
+| [https://chisel.weirdgloop.org/structs/index.html?type=enums&id=5213 5213][https://abextm.github.io/cache2/#/viewer/enum/5213 (1)] || -1 || {'0': 0, '1': 1, '2': 2, '3': 3, '4': 4, '5': 5, '6': 6, '7': 7, '8': 8}
+|-
+| [https://chisel.weirdgloop.org/structs/index.html?type=enums&id=5214 5214][https://abextm.github.io/cache2/#/viewer/enum/5214 (1)] || -1 || {'0': 9, '1': 10, '2': 11, '3': 12}
+|-
+| [https://chisel.weirdgloop.org/structs/index.html?type=enums&id=5215 5215][https://abextm.github.io/cache2/#/viewer/enum/5215 (1)] || -1 || {'0': 8260, '1': 8261, '2': 8262, '3': 8263, '4': 8264, '5': 8265, '6': 8266, '7': 21912, '8': 23081, '9': 8267, '10': 8268, '11': 8269, '12': 25563}
+|-
+| [https://chisel.weirdgloop.org/structs/index.html?type=enums&id=5216 5216][https://abextm.github.io/cache2/#/viewer/enum/5216 (1)] ||  || 
+|}
+===Removed Enums===
+{| class="wikitable sortable"
+|-
+! colspan="3" | Removed Enums
+|-
+! style="width: 15em" | id !! defaultValue !! map
+|-
+| [https://chisel.weirdgloop.org/structs/index.html?type=enums&id=1425 1425][https://abextm.github.io/cache2/#/viewer/enum/1425 (1)] || -1 || {'1': 16385, '2': 16386, '3': 16387, '4': 16388, '5': 16389, '6': 16390, '7': 16391, '8': 16392, '9': 16393, '10': 16394, '11': 16395, '12': 16396, '13': 16397, '14': 16398, '15': 16399, '16': 16400, '17': 16401, '18': 16402, '19': 16403, '20': 16404, '21': 16405, '22': 16406, '23': 16407, '24': 16408, '25': 16409, '26': 16410, '27': 16411, '28': 16412, '29': 16413, '30': 16414, '31': 16415}
+|-
+| [https://chisel.weirdgloop.org/structs/index.html?type=enums&id=1426 1426][https://abextm.github.io/cache2/#/viewer/enum/1426 (1)] || -1 || {'1': 32769, '2': 32770, '3': 32771, '4': 32772, '5': 32773, '6': 32774, '7': 32775, '8': 32776, '9': 32777, '10': 32778, '11': 32779, '12': 32780, '13': 32781, '14': 32782, '15': 32783, '16': 32784, '17': 32785, '18': 32786, '19': 32787, '20': 32788, '21': 32789, '22': 32790, '23': 32791, '24': 32792, '25': 32793, '26': 32794, '27': 32795, '28': 32796, '29': 32797, '30': 32798, '31': 32799}
+|-
+| [https://chisel.weirdgloop.org/structs/index.html?type=enums&id=1427 1427][https://abextm.github.io/cache2/#/viewer/enum/1427 (1)] || -1 || {'1': 49153, '2': 49154, '3': 49155, '4': 49156, '5': 49157, '6': 49158, '7': 49159, '8': 49160, '9': 49161, '10': 49162, '11': 49163, '12': 49164, '13': 49165, '14': 49166, '15': 49167, '16': 49168, '17': 49169, '18': 49170, '19': 49171, '20': 49172, '21': 49173, '22': 49174, '23': 49175, '24': 49176, '25': 49177, '26': 49178, '27': 49179, '28': 49180, '29': 49181, '30': 49182, '31': 49183}
+|-
+| [https://chisel.weirdgloop.org/structs/index.html?type=enums&id=1428 1428][https://abextm.github.io/cache2/#/viewer/enum/1428 (1)] || -1 || {'1': 65537, '2': 65538, '3': 65539, '4': 65540, '5': 65541, '6': 65542, '7': 65543, '8': 65544, '9': 65545, '10': 65546, '11': 65547, '12': 65548, '13': 65549, '14': 65550, '15': 65551, '16': 65552, '17': 65553, '18': 65554, '19': 65555, '20': 65556, '21': 65557, '22': 65558, '23': 65559, '24': 65560, '25': 65561, '26': 65562, '27': 65563, '28': 65564, '29': 65565, '30': 65566, '31': 65567}
+|-
+| [https://chisel.weirdgloop.org/structs/index.html?type=enums&id=1429 1429][https://abextm.github.io/cache2/#/viewer/enum/1429 (1)] || -1 || {'1': 81921, '2': 81922, '3': 81923, '4': 81924, '5': 81925, '6': 81926, '7': 81927, '8': 81928, '9': 81929, '10': 81930, '11': 81931, '12': 81932, '13': 81933, '14': 81934, '15': 81935, '16': 81936, '17': 81937, '18': 81938, '19': 81939, '20': 81940, '21': 81941, '22': 81942, '23': 81943, '24': 81944, '25': 81945, '26': 81946, '27': 81947, '28': 81948, '29': 81949, '30': 81950, '31': 81951}
+|-
+| [https://chisel.weirdgloop.org/structs/index.html?type=enums&id=1430 1430][https://abextm.github.io/cache2/#/viewer/enum/1430 (1)] || -1 || {'1': 98305, '2': 98306, '3': 98307, '4': 98308, '5': 98309, '6': 98310, '7': 98311, '8': 98312, '9': 98313, '10': 98314, '11': 98315, '12': 98316, '13': 98317, '14': 98318, '15': 98319, '16': 98320, '17': 98321, '18': 98322, '19': 98323, '20': 98324, '21': 98325, '22': 98326, '23': 98327, '24': 98328, '25': 98329, '26': 98330, '27': 98331, '28': 98332, '29': 98333, '30': 98334, '31': 98335}
+|-
+| [https://chisel.weirdgloop.org/structs/index.html?type=enums&id=1431 1431][https://abextm.github.io/cache2/#/viewer/enum/1431 (1)] || -1 || {'1': 114689, '2': 114690, '3': 114691, '4': 114692, '5': 114693, '6': 114694, '7': 114695, '8': 114696, '9': 114697, '10': 114698, '11': 114699, '12': 114700, '13': 114701, '14': 114702, '15': 114703, '16': 114704, '17': 114705, '18': 114706, '19': 114707, '20': 114708, '21': 114709, '22': 114710, '23': 114711, '24': 114712, '25': 114713, '26': 114714, '27': 114715, '28': 114716, '29': 114717, '30': 114718, '31': 114719}
+|-
+| [https://chisel.weirdgloop.org/structs/index.html?type=enums&id=1432 1432][https://abextm.github.io/cache2/#/viewer/enum/1432 (1)] || -1 || {'1': 131073, '2': 131074, '3': 131075, '4': 131076, '5': 131077, '6': 131078, '7': 131079, '8': 131080, '9': 131081, '10': 131082, '11': 131083, '12': 131084, '13': 131085, '14': 131086, '15': 131087, '16': 131088, '17': 131089, '18': 131090, '19': 131091, '20': 131092, '21': 131093, '22': 131094, '23': 131095, '24': 131096, '25': 131097, '26': 131098, '27': 131099, '28': 131100, '29': 131101, '30': 131102, '31': 131103}
+|-
+| [https://chisel.weirdgloop.org/structs/index.html?type=enums&id=3560 3560][https://abextm.github.io/cache2/#/viewer/enum/3560 (1)] || -1 || {'1': 147457, '2': 147458, '3': 147459, '4': 147460, '5': 147461, '6': 147462, '7': 147463, '8': 147464, '9': 147465, '10': 147466, '11': 147467, '12': 147468, '13': 147469, '14': 147470, '15': 147471, '16': 147472, '17': 147473, '18': 147474, '19': 147475, '20': 147476, '21': 147477, '22': 147478, '23': 147479, '24': 147480, '25': 147481, '26': 147482, '27': 147483, '28': 147484, '29': 147485, '30': 147486, '31': 147487}
+|}
+===Diff Enums===
+{| class="wikitable sortable sticky-header"
+|-
+! colspan="5" | Diff Enums
+|-
+! style="width: 15em" | Id !! Key !! Previous Value !! New Value
+|-
+| rowspan="5" | [https://chisel.weirdgloop.org/structs/index.html?type=enums&id=236 236][https://abextm.github.io/cache2/#/viewer/enum/236 (1)]
+|-
+| keyTypeChar ||  || <span style="color: #6bc71f">111</span>
+|-
+| valueTypeChar ||  || <span style="color: #6bc71f">115</span>
+|-
+| defaultValue ||  || <span style="color: #6bc71f">Book</span>
+|-
+| map ||  || <span style="color: #6bc71f">{'5': 'Dwarf Multicannon Manual', '292': 'Book on Baxtorian (The Missing Relics)', '600': 'Astronomy Book', '711': 'Chemistry book from the Dig Site library', '729': 'Shaman's Tome', '730': 'Book of Binding', '757': 'The Shield of Arrav', '784': 'Gnome Translation Dictionary', '785': 'Glough's Journal', '1493': 'The Journal of Randas', '1494': 'The Tale of Iban', '1856': 'Tourist Guide to Ardougne', '2023': 'The Blurberry Cocktail Guide', '2167': 'Gianne's Cook Book', '2408': 'Witch's Diary', '2886': 'Book of the Elemental Shield', '3230': 'Big Book of Bangs', '3395': 'Diary of Herbi Flax', '3845': 'Jossik's Diary (from the Lighthouse)', '3846': 'Ancient Diary (from the Lighthouse)', '3847': 'Lighthouse Manual', '3901': 'Managing Thine Kingdom for Noobes', '4209': 'The Cadarn Lineage', '4313': 'Crystal Singing for Beginners', '4568': 'The Arzinian Being of Bordanzan', '4616': 'Notes from Varmen's expedition to Uzer', '4655': 'Four Diamonds translation', '4686': 'The Little Book of Embalming', '4707': 'Legend of the Brothers', '5009': 'A History of the Goblin Race', '5520': 'Abyssal Research Notes', '6073': 'The Creation of Prifddinas', '6075': 'The Exploration of the Eastern Realm', '6077': 'The Settlement of the East', '6079': 'The Great Divide', '6649': 'Journal of Nissyen Edern', '6749': 'The Confession of Ellemar', '6755': 'Drozal's Journal', '6767': 'The Ratpits Manual', '6891': 'Magic Training Arena Lore Book', '7144': 'Book o' Piracy', '7162': 'Pie Recipe Book', '7633': 'The Sleeping Seven', '7634': 'Histories of Hallowland', '7635': 'Modern Day Morytania', '7681': 'Party Pete's Bumper Book of Games', '7951': 'Dionysius:  A Legend in His Own Lifetime', '7965': 'Armod's Burnt Diary', '8463': 'Guide to Construction', '8989': 'Brewin' Guide', '9003': 'Account Security', '9004': 'Stronghold of Security - Notes', '9078': 'Basics of Magic (from Lunar Isle)', '9627': 'Crystal Singing for Beginners (trans. Oaknock)', '9717': 'Book of the Elemental Helm', '9903': 'Farmer Gricoller's Farming Manual', '10173': 'William Oddity's Guide to the Avian', '10179': 'Feathered Journal of Arthur Artimus', '10562': 'Queen Help (from Barbarian Assault)', '10587': 'The Diary of Tarn Razorlor', '10594': 'Clockwork Toys - A Clockwork Mechanism,  Chapter 1.0', '10890': 'Prayer of Deliverance from Poisons', '10999': 'The Book of the Big High War God', '11001': 'History of the Dagon'hai', '11002': 'Sin'keths journal', '11339': 'Records from my discoveries beneath the lake', '11656': 'Glassblowing Book', '11677': 'Memoirs of a Dwarven Explorer', '11904': 'Diary of Buggie the Entomologist', '12935': 'Ohn's Diary', '13279': 'Overseer's book', '19515': 'Book of Spyology', '20886': 'Creature Keeper's Journal', '20888': 'Manifesto of Vasa Nistirio', '20890': 'Tekton's journal', '20893': 'Notes on Transdimensional Travel', '20895': 'Judgement of the Vanguard', '20897': 'Houndmaster's Diary', '20899': 'Dark journal', '21629': 'The Diary of Charles Charlington', '21631': 'Ancient Diary', '21662': 'Fossil Island Notebook', '21756': 'The Envoy to Varlamore', '22033': 'Diary of Aivas', '22037': 'Malumac's Journal', '22039': 'Ablenkian's Escape', '22041': 'The Fall of Imcandoria', '22043': 'Imafore's Betrayal', '22045': 'Lutwidge and the Moonfly', '22047': 'The Tale of Serafina', '22049': 'The Weeping', '22411': 'Old Diary', '22504': 'Serafina's Diary', '22506': 'The Butcher', '22508': 'Arachnids of Vampyrium', '22510': 'The Shadow Realm', '22512': 'The Wild Hunt', '22514': 'Verzik Vitur - Patient Record', '22591': 'Odd Mushroom's Notes', '22711': 'Collection Log', '23009': 'Gielinor's Flora - Flowers', '23011': 'Gielinor's Flora - Bushes', '23013': 'Gielinor's Flora - Hops', '23015': 'Gielinor's Flora - Allotments', '23017': 'Gielinor's Flora - Herbs', '23019': 'Gielinor's Flora - Trees', '23021': 'Gielinor's Flora - Fruit', '23504': 'Tome of the Moon', '23506': 'Tome of the Sun', '23508': 'Tome of the Temple', '23796': 'Ode to Eternity', '24049': 'Crazed Scribbles', '24051': 'A Dear Friend', '24053': 'On Leprechauns', '24055': 'Bloody Diary', '24057': 'The Eight Clans', '24059': 'Gollwyn's Final Statement', '24061': 'Niff & Harry', '24063': 'Soggy Journal', '24065': 'Ebrill's Journal', '24067': 'Stained Journal', '24069': 'The Truth Behind the Myth (Excerpt)', '24071': 'The Living Statues', '24073': 'The Spurned Demon', '24075': 'Legends of the Mountain', '24263': 'Ballad of the Basilisk', '24529': 'Harmony', '24761': 'Strange Hallowed Tome', '24842': 'A Taste of Hope', '25152': 'Neilan's Journal', '25197': 'Soul Wars Guide', '25474': 'Tree Wizards' Journal', '25476': 'Bloody Notes', '25567': 'The Desert Trout - Ship's Log', '25569': 'Spirit Anglers Research Notes', '25702': 'Ungael Lab Notes', '25704': 'Lithkren Vault Notes', '26154': 'Mount Karuulm Diary', '26876': 'Atlax's Diary', '27300': 'Akila's Journal', '27302': 'Het's Capture', '27304': 'Apmeken's Capture', '27306': 'Scabaras' Capture', '27308': 'Crondis' Capture', '27310': 'The Wardens', '27312': 'The Jackal's Torch', '27511': 'Kasonde's Journal', '28579': 'Yewnock's Notebook', '29525': 'Movario's Notes (Volume 1)', '29526': 'Movario's Notes (Volume 2)', '30035': 'Moonrise Wines', '30123': 'Tales of the Old Ones:  The Hueycoatl'}</span>
+|-
+| rowspan="2" | [https://chisel.weirdgloop.org/structs/index.html?type=enums&id=1424 1424][https://abextm.github.io/cache2/#/viewer/enum/1424 (1)]
+|-
+| map || {'1': 27656198, '2': 27656199, '3': 27656200, '4': 27656201, '5': 27656202, '6': 27656203, '7': 27656204, '8': 27656205, '9': 27656206, '10': 27656207, '11': 27656208, '12': 27656209, '13': 27656210, '14': 27656211, '15': 27656212, '16': 27656213, '17': 27656214, '18': 27656215, '19': 27656216, '20': 27656217, '21': 27656218, '22': 27656219, '23': 27656220, '24': 27656221, '25': 27656222, '26': 27656223, '27': 27656224, '28': 27656225, '29': 27656226, '30': 27656227, '31': 27656228, '32': 27656229, '33': 27656230, '34': 27656231, '-1': <span style="color: #ee4231">27656232</span>} || {'1': 27656198, '2': 27656199, '3': 27656200, '4': 27656201, '5': 27656202, '6': 27656203, '7': 27656204, '8': 27656205, '9': 27656206, '10': 27656207, '11': 27656208, '12': 27656209, '13': 27656210, '14': 27656211, '15': 27656212, '16': 27656213, '17': 27656214, '18': 27656215, '19': 27656216, '20': 27656217, '21': 27656218, '22': 27656219, '23': 27656220, '24': 27656221, '25': 27656222, '26': 27656223, '27': 27656224, '28': 27656225, '29': 27656226, '30': 27656227, '31': 27656228, '32': 27656229, '33': 27656230, '34': 27656231, '<span style="color: #6bc71f">35': 27656232, '36': 27656233, '37': 27656234, '38': 27656235, '</span>-1': <span style="color: #6bc71f">27656236</span>}
+|-
+| rowspan="2" | [https://chisel.weirdgloop.org/structs/index.html?type=enums&id=1439 1439][https://abextm.github.io/cache2/#/viewer/enum/1439 (1)]
+|-
+| map || {'16385': 8317, '16386': 8318, '16387': 8249, '16388': 8252, '16389': 8258, '16390': 8255, '16391': 8259, '16392': 29598, '16393': 30501, '32769': 8260, '32770': 8261, '32771': 8262, '32772': 8263, '32773': 8264, '32774': 8265, '32775': 8266, '32776': 21912, '32777': 23081, '65537': 8267, '65538': 8268, '65539': 8269, '65540': 25563, '81921': 8270, '81922': 8271, '81923': 8272, '98305': 8273, '98306': 8274, '98307': 8275, '114689': 8276, '114690': 8277, '114691': 8278} || {'16385': 8317, '16386': 8318, '16387': 8249, '16388': 8252, '16389': 8258, '16390': 8255, '16391': 8259, '16392': 29598, '16393': 30501, '32769': 8260, '32770': 8261, '32771': 8262, '32772': 8263, '32773': 8264, '32774': 8265, '32775': 8266, '32776': 21912, '32777': 23081, '<span style="color: #6bc71f">32778': 30655, '32779': 30657, '32780': 30659, '32781': 30656, '32782': 30658, '32783': 30660, '32784': 30661, '32785': 30662, '32786': 30650, '32787': 30651, '32788': 30653, '</span>65537': 8267, '65538': 8268, '65539': 8269, '65540': 25563, '<span style="color: #6bc71f">65541': 30663, '65542': 30664, '65543': 30666, '65544': 30668, '65545': 30669, '65546': 30670, '65547': 30671, '</span>81921': 8270, '81922': 8271, '81923': 8272, '98305': 8273, '98306': 8274, '98307': 8275, '114689': 8276, '114690': 8277, '114691': 8278}
+|}
+==Npcs==
+===New Npcs===
+{| class="wikitable sortable"
+|-
+! colspan="4" | New Npcs
+|-
+! style="width: 15em" | name !! id !! combatLevel !! actions
+|-
+| [[Crawling hand]] || [https://chisel.weirdgloop.org/moid/npc_id.html#14158 14158][https://abextm.github.io/cache2/#/viewer/npc/14158 (1)] ||  || [None, None, None, None, None]
+|-
+| [[Crawling hand]] || [https://chisel.weirdgloop.org/moid/npc_id.html#14159 14159][https://abextm.github.io/cache2/#/viewer/npc/14159 (1)] ||  || [None, None, None, None, None]
+|-
+| [[Crawling hand]] || [https://chisel.weirdgloop.org/moid/npc_id.html#14160 14160][https://abextm.github.io/cache2/#/viewer/npc/14160 (1)] ||  || [None, None, None, None, None]
+|-
+| [[Cockatrice]] || [https://chisel.weirdgloop.org/moid/npc_id.html#14161 14161][https://abextm.github.io/cache2/#/viewer/npc/14161 (1)] ||  || [None, None, None, None, None]
+|-
+| [[Cockatrice]] || [https://chisel.weirdgloop.org/moid/npc_id.html#14162 14162][https://abextm.github.io/cache2/#/viewer/npc/14162 (1)] ||  || [None, None, None, None, None]
+|-
+| [[Cockatrice]] || [https://chisel.weirdgloop.org/moid/npc_id.html#14164 14164][https://abextm.github.io/cache2/#/viewer/npc/14164 (1)] ||  || [None, None, None, None, None]
+|-
+| [[Basilisk]] || [https://chisel.weirdgloop.org/moid/npc_id.html#14166 14166][https://abextm.github.io/cache2/#/viewer/npc/14166 (1)] ||  || [None, None, None, None, None]
+|-
+| [[Basilisk]] || [https://chisel.weirdgloop.org/moid/npc_id.html#14168 14168][https://abextm.github.io/cache2/#/viewer/npc/14168 (1)] ||  || [None, None, None, None, None]
+|-
+| [[Basilisk]] || [https://chisel.weirdgloop.org/moid/npc_id.html#14170 14170][https://abextm.github.io/cache2/#/viewer/npc/14170 (1)] ||  || [None, None, None, None, None]
+|-
+| [[Kurask]] || [https://chisel.weirdgloop.org/moid/npc_id.html#14172 14172][https://abextm.github.io/cache2/#/viewer/npc/14172 (1)] ||  || [None, None, None, None, None]
+|-
+| [[Kurask]] || [https://chisel.weirdgloop.org/moid/npc_id.html#14173 14173][https://abextm.github.io/cache2/#/viewer/npc/14173 (1)] ||  || [None, None, None, None, None]
+|-
+| [[Abyssal demon]] || [https://chisel.weirdgloop.org/moid/npc_id.html#14174 14174][https://abextm.github.io/cache2/#/viewer/npc/14174 (1)] ||  || [None, None, None, None, None]
+|-
+| [[Abyssal demon]] || [https://chisel.weirdgloop.org/moid/npc_id.html#14175 14175][https://abextm.github.io/cache2/#/viewer/npc/14175 (1)] ||  || [None, None, None, None, None]
+|}
+===Removed Npcs===
+{| class="wikitable sortable"
+|-
+! colspan="4" | Removed Npcs
+|-
+! style="width: 15em" | name !! id !! combatLevel !! actions
+|-
+| [[Crawling hand]] || [https://chisel.weirdgloop.org/moid/npc_id.html#120 120][https://abextm.github.io/cache2/#/viewer/npc/120 (1)] ||  || [None, None, None, None, None]
+|-
+| [[Cockatrice]] || [https://chisel.weirdgloop.org/moid/npc_id.html#121 121][https://abextm.github.io/cache2/#/viewer/npc/121 (1)] ||  || [None, None, None, None, None]
+|-
+| [[Basilisk]] || [https://chisel.weirdgloop.org/moid/npc_id.html#122 122][https://abextm.github.io/cache2/#/viewer/npc/122 (1)] ||  || [None, None, None, None, None]
+|-
+| [[Kurask]] || [https://chisel.weirdgloop.org/moid/npc_id.html#123 123][https://abextm.github.io/cache2/#/viewer/npc/123 (1)] ||  || [None, None, None, None, None]
+|-
+| [[Abyssal demon]] || [https://chisel.weirdgloop.org/moid/npc_id.html#124 124][https://abextm.github.io/cache2/#/viewer/npc/124 (1)] ||  || [None, None, None, None, None]
+|}
+===Diff Npcs===
+{| class="wikitable sortable sticky-header"
+|-
+! colspan="5" | Diff Npcs
+|-
+! style="width: 15em" | Name !! Id !! Key !! Previous Value !! New Value
+|-
+| rowspan="2" | [[Left head]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/npc_id.html#125 125][https://abextm.github.io/cache2/#/viewer/npc/125 (1)]
+|-
+| models || [<span style="color: #ee4231">3010, 3006</span>] || [<span style="color: #6bc71f">16238</span>]
+|-
+| rowspan="2" | [[Middle head]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/npc_id.html#126 126][https://abextm.github.io/cache2/#/viewer/npc/126 (1)]
+|-
+| models || [<span style="color: #ee4231">3010, 3006</span>] || [<span style="color: #6bc71f">16238</span>]
+|-
+| rowspan="2" | [[Right head]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/npc_id.html#127 127][https://abextm.github.io/cache2/#/viewer/npc/127 (1)]
+|-
+| models || [<span style="color: #ee4231">3010, 3006</span>] || [<span style="color: #6bc71f">16238</span>]
+|-
+| rowspan="2" | [[Kalphite Queen]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/npc_id.html#128 128][https://abextm.github.io/cache2/#/viewer/npc/128 (1)]
+|-
+| models || [<span style="color: #ee4231">3010, 3006</span>] || [<span style="color: #6bc71f">16238</span>]
+|-
+| rowspan="2" | [[Vorkath]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/npc_id.html#8026 8026][https://abextm.github.io/cache2/#/viewer/npc/8026 (1)]
+|-
+| models || [<span style="color: #ee4231">3010, 3006</span>] || [<span style="color: #6bc71f">16238</span>]
+|-
+| rowspan="2" | [[Alchemical Hydra]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/npc_id.html#8634 8634][https://abextm.github.io/cache2/#/viewer/npc/8634 (1)]
+|-
+| models || [<span style="color: #ee4231">3010, 3006</span>] || [<span style="color: #6bc71f">16238</span>]
+|}
+==Items==
+===New Items===
+{| class="wikitable sortable"
+|-
+! colspan="11" | New Items
+|-
+! style="width: 15em" | name !! id !! examine !! isMembers !! isGrandExchangable !! isStackable !! noteLinkedItem !! inventoryActions !! placeholderLinkedItem !! price !! weight
+|-
+| [[Teak display]] || [https://chisel.weirdgloop.org/moid/item_id.html#30650 30650][https://abextm.github.io/cache2/#/viewer/item/30650 (1)] || Teak display ||  ||  ||  || -1 || [None, None, None, None, Drop] || -1 || 1 || 
+|-
+| [[Mahogany display]] || [https://chisel.weirdgloop.org/moid/item_id.html#30651 30651][https://abextm.github.io/cache2/#/viewer/item/30651 (1)] || Mahogany display ||  ||  ||  || -1 || [None, None, None, None, Drop] || -1 || 1 || 
+|-
+| [[Mahogany display]] || [https://chisel.weirdgloop.org/moid/item_id.html#30652 30652][https://abextm.github.io/cache2/#/viewer/item/30652 (1)] || Mahogany display ||  ||  ||  || -1 || [None, None, None, None, Drop] || -1 || 1 || 
+|-
+| [[Gilded display]] || [https://chisel.weirdgloop.org/moid/item_id.html#30653 30653][https://abextm.github.io/cache2/#/viewer/item/30653 (1)] || Gilded display ||  ||  ||  || -1 || [None, None, None, None, Drop] || -1 || 1 || 
+|-
+| [[Gilded display]] || [https://chisel.weirdgloop.org/moid/item_id.html#30654 30654][https://abextm.github.io/cache2/#/viewer/item/30654 (1)] || Gilded display ||  ||  ||  || -1 || [None, None, None, None, Drop] || -1 || 1 || 
+|-
+| [[Crawling hand]] || [https://chisel.weirdgloop.org/moid/item_id.html#30655 30655][https://abextm.github.io/cache2/#/viewer/item/30655 (1)] || Crawling hand ||  ||  ||  || -1 || [None, None, None, None, Drop] || -1 || 1 || 
+|-
+| [[Crawling hand]] || [https://chisel.weirdgloop.org/moid/item_id.html#30656 30656][https://abextm.github.io/cache2/#/viewer/item/30656 (1)] || Crawling hand ||  ||  ||  || -1 || [None, None, None, None, Drop] || -1 || 1 || 
+|-
+| [[Cockatrice head]] || [https://chisel.weirdgloop.org/moid/item_id.html#30657 30657][https://abextm.github.io/cache2/#/viewer/item/30657 (1)] || Cockatrice head ||  ||  ||  || -1 || [None, None, None, None, Drop] || -1 || 1 || 
+|-
+| [[Cockatrice head]] || [https://chisel.weirdgloop.org/moid/item_id.html#30658 30658][https://abextm.github.io/cache2/#/viewer/item/30658 (1)] || Cockatrice head ||  ||  ||  || -1 || [None, None, None, None, Drop] || -1 || 1 || 
+|-
+| [[Basilisk head]] || [https://chisel.weirdgloop.org/moid/item_id.html#30659 30659][https://abextm.github.io/cache2/#/viewer/item/30659 (1)] || Basilisk head ||  ||  ||  || -1 || [None, None, None, None, Drop] || -1 || 1 || 
+|-
+| [[Basilisk head]] || [https://chisel.weirdgloop.org/moid/item_id.html#30660 30660][https://abextm.github.io/cache2/#/viewer/item/30660 (1)] || Basilisk head ||  ||  ||  || -1 || [None, None, None, None, Drop] || -1 || 1 || 
+|-
+| [[Kurask head]] || [https://chisel.weirdgloop.org/moid/item_id.html#30661 30661][https://abextm.github.io/cache2/#/viewer/item/30661 (1)] || Kurask head ||  ||  ||  || -1 || [None, None, None, None, Drop] || -1 || 1 || 
+|-
+| [[Abyssal head]] || [https://chisel.weirdgloop.org/moid/item_id.html#30662 30662][https://abextm.github.io/cache2/#/viewer/item/30662 (1)] || Abyssal demon head ||  ||  ||  || -1 || [None, None, None, None, Drop] || -1 || 1 || 
+|-
+| [[Oak display]] || [https://chisel.weirdgloop.org/moid/item_id.html#30663 30663][https://abextm.github.io/cache2/#/viewer/item/30663 (1)] || Oak display ||  ||  ||  || -1 || [None, None, None, None, Drop] || -1 || 1 || 
+|-
+| [[Teak display]] || [https://chisel.weirdgloop.org/moid/item_id.html#30664 30664][https://abextm.github.io/cache2/#/viewer/item/30664 (1)] || Teak display ||  ||  ||  || -1 || [None, None, None, None, Drop] || -1 || 1 || 
+|-
+| [[Teak display]] || [https://chisel.weirdgloop.org/moid/item_id.html#30665 30665][https://abextm.github.io/cache2/#/viewer/item/30665 (1)] || Teak display ||  ||  ||  || -1 || [None, None, None, None, Drop] || -1 || 1 || 
+|-
+| [[Mahogany display]] || [https://chisel.weirdgloop.org/moid/item_id.html#30666 30666][https://abextm.github.io/cache2/#/viewer/item/30666 (1)] || Mahogany display ||  ||  ||  || -1 || [None, None, None, None, Drop] || -1 || 1 || 
+|-
+| [[Mahogany display]] || [https://chisel.weirdgloop.org/moid/item_id.html#30667 30667][https://abextm.github.io/cache2/#/viewer/item/30667 (1)] || Mahogany display ||  ||  ||  || -1 || [None, None, None, None, Drop] || -1 || 1 || 
+|-
+| [[Mounted bass]] || [https://chisel.weirdgloop.org/moid/item_id.html#30668 30668][https://abextm.github.io/cache2/#/viewer/item/30668 (1)] || Mounted Bass ||  ||  ||  || -1 || [None, None, None, None, Drop] || -1 || 1 || 
+|-
+| [[Mounted bass]] || [https://chisel.weirdgloop.org/moid/item_id.html#30669 30669][https://abextm.github.io/cache2/#/viewer/item/30669 (1)] || Mounted Bass ||  ||  ||  || -1 || [None, None, None, None, Drop] || -1 || 1 || 
+|-
+| [[Mounted swordfish]] || [https://chisel.weirdgloop.org/moid/item_id.html#30670 30670][https://abextm.github.io/cache2/#/viewer/item/30670 (1)] || Mounted Swordfish ||  ||  ||  || -1 || [None, None, None, None, Drop] || -1 || 1 || 
+|-
+| [[Mounted harpoonfish]] || [https://chisel.weirdgloop.org/moid/item_id.html#30671 30671][https://abextm.github.io/cache2/#/viewer/item/30671 (1)] || Mounted Harpoonfish ||  ||  ||  || -1 || [None, None, None, None, Drop] || -1 || 1 || 
+|}
+===Removed Items===
+{| class="wikitable sortable"
+|-
+! colspan="11" | Removed Items
+|-
+! style="width: 15em" | name !! id !! examine !! isMembers !! isGrandExchangable !! isStackable !! noteLinkedItem !! inventoryActions !! placeholderLinkedItem !! price !! weight
+|}
+===Diff Items===
+{| class="wikitable sortable sticky-header"
+|-
+! colspan="5" | Diff Items
+|-
+! style="width: 15em" | Name !! Id !! Key !! Previous Value !! New Value
+|-
+| rowspan="3" | [[Robe of elidinis]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/item_id.html#6786 6786][https://abextm.github.io/cache2/#/viewer/item/6786 (1)]
+|-
+| recolorFrom ||  || <span style="color: #6bc71f">[8741]</span>
+|-
+| recolorTo ||  || <span style="color: #6bc71f">[6740]</span>
+|-
+| rowspan="2" | [[Crawling hand]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#7975 7975][https://abextm.github.io/cache2/#/viewer/item/7975 (1)]
+|-
+| params ||  || <span style="color: #6bc71f">{'234': 7982}</span>
+|-
+| rowspan="2" | [[Cockatrice head]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#7976 7976][https://abextm.github.io/cache2/#/viewer/item/7976 (1)]
+|-
+| params ||  || <span style="color: #6bc71f">{'234': 7983}</span>
+|-
+| rowspan="2" | [[Basilisk head]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#7977 7977][https://abextm.github.io/cache2/#/viewer/item/7977 (1)]
+|-
+| params ||  || <span style="color: #6bc71f">{'234': 7984}</span>
+|-
+| rowspan="2" | [[Kurask head]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#7978 7978][https://abextm.github.io/cache2/#/viewer/item/7978 (1)]
+|-
+| params ||  || <span style="color: #6bc71f">{'234': 7985}</span>
+|-
+| rowspan="2" | [[Abyssal head]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#7979 7979][https://abextm.github.io/cache2/#/viewer/item/7979 (1)]
+|-
+| params ||  || <span style="color: #6bc71f">{'234': 7986}</span>
+|-
+| rowspan="2" | [[Kbd heads]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#7980 7980][https://abextm.github.io/cache2/#/viewer/item/7980 (1)]
+|-
+| params ||  || <span style="color: #6bc71f">{'234': 7987}</span>
+|-
+| rowspan="2" | [[Kq head]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#7981 7981][https://abextm.github.io/cache2/#/viewer/item/7981 (1)]
+|-
+| params ||  || <span style="color: #6bc71f">{'234': 7988}</span>
+|-
+| rowspan="2" | [[Stuffed crawling hand]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#7982 7982][https://abextm.github.io/cache2/#/viewer/item/7982 (1)]
+|-
+| params ||  || <span style="color: #6bc71f">{'234': 7982}</span>
+|-
+| rowspan="2" | [[Stuffed cockatrice head]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#7983 7983][https://abextm.github.io/cache2/#/viewer/item/7983 (1)]
+|-
+| params ||  || <span style="color: #6bc71f">{'234': 7983}</span>
+|-
+| rowspan="2" | [[Stuffed basilisk head]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#7984 7984][https://abextm.github.io/cache2/#/viewer/item/7984 (1)]
+|-
+| params ||  || <span style="color: #6bc71f">{'234': 7984}</span>
+|-
+| rowspan="2" | [[Stuffed kurask head]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#7985 7985][https://abextm.github.io/cache2/#/viewer/item/7985 (1)]
+|-
+| params ||  || <span style="color: #6bc71f">{'234': 7985}</span>
+|-
+| rowspan="2" | [[Stuffed abyssal head]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#7986 7986][https://abextm.github.io/cache2/#/viewer/item/7986 (1)]
+|-
+| params ||  || <span style="color: #6bc71f">{'234': 7986}</span>
+|-
+| rowspan="2" | [[Stuffed kbd heads]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#7987 7987][https://abextm.github.io/cache2/#/viewer/item/7987 (1)]
+|-
+| params ||  || <span style="color: #6bc71f">{'234': 7987}</span>
+|-
+| rowspan="2" | [[Stuffed kq head]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#7988 7988][https://abextm.github.io/cache2/#/viewer/item/7988 (1)]
+|-
+| params ||  || <span style="color: #6bc71f">{'234': 7988}</span>
+|-
+| rowspan="2" | [[Big bass]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#7989 7989][https://abextm.github.io/cache2/#/viewer/item/7989 (1)]
+|-
+| params ||  || <span style="color: #6bc71f">{'234': 7990}</span>
+|-
+| rowspan="2" | [[Stuffed big bass]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#7990 7990][https://abextm.github.io/cache2/#/viewer/item/7990 (1)]
+|-
+| params ||  || <span style="color: #6bc71f">{'234': 7990}</span>
+|-
+| rowspan="2" | [[Big swordfish]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#7991 7991][https://abextm.github.io/cache2/#/viewer/item/7991 (1)]
+|-
+| params ||  || <span style="color: #6bc71f">{'234': 7992}</span>
+|-
+| rowspan="2" | [[Stuffed big swordfish]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#7992 7992][https://abextm.github.io/cache2/#/viewer/item/7992 (1)]
+|-
+| params ||  || <span style="color: #6bc71f">{'234': 7992}</span>
+|-
+| rowspan="2" | [[Big shark]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#7993 7993][https://abextm.github.io/cache2/#/viewer/item/7993 (1)]
+|-
+| params ||  || <span style="color: #6bc71f">{'234': 7994}</span>
+|-
+| rowspan="2" | [[Stuffed big shark]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#7994 7994][https://abextm.github.io/cache2/#/viewer/item/7994 (1)]
+|-
+| params ||  || <span style="color: #6bc71f">{'234': 7994}</span>
+|-
+| rowspan="4" | [[Teak mounted head display]]
+| rowspan="4" | [https://chisel.weirdgloop.org/moid/item_id.html#8087 8087][https://abextm.github.io/cache2/#/viewer/item/8087 (1)]
+|-
+| inventoryModel || <span style="color: #ee4231">12161</span> || <span style="color: #6bc71f">56062</span>
+|-
+| name || <span style="color: #ee4231">Minor</span> head || <span style="color: #6bc71f">Teak</span> <span style="color: #6bc71f">mounted </span>head<span style="color: #6bc71f"> display</span>
+|-
+| examine || <span style="color: #ee4231">Minor</span> <span style="color: #ee4231">slayer</span> <span style="color: #ee4231">monster</span> <span style="color: #ee4231">head</span> || <span style="color: #6bc71f">Teak</span> <span style="color: #6bc71f">mounted</span> <span style="color: #6bc71f">head</span> <span style="color: #6bc71f">display</span>
+|-
+| rowspan="4" | [[Mahogany mounted head display]]
+| rowspan="4" | [https://chisel.weirdgloop.org/moid/item_id.html#8088 8088][https://abextm.github.io/cache2/#/viewer/item/8088 (1)]
+|-
+| inventoryModel || <span style="color: #ee4231">12165</span> || <span style="color: #6bc71f">56055</span>
+|-
+| name || <span style="color: #ee4231">Medium</span> head || <span style="color: #6bc71f">Mahogany</span> <span style="color: #6bc71f">mounted </span>head<span style="color: #6bc71f"> display</span>
+|-
+| examine || <span style="color: #ee4231">Medium</span> <span style="color: #ee4231">slayer</span> <span style="color: #ee4231">monster</span> <span style="color: #ee4231">head</span> || <span style="color: #6bc71f">Mahogany</span> <span style="color: #6bc71f">mounted</span> <span style="color: #6bc71f">head</span> <span style="color: #6bc71f">display</span>
+|-
+| rowspan="4" | [[Gilded mounted head display]]
+| rowspan="4" | [https://chisel.weirdgloop.org/moid/item_id.html#8089 8089][https://abextm.github.io/cache2/#/viewer/item/8089 (1)]
+|-
+| inventoryModel || <span style="color: #ee4231">12164</span> || <span style="color: #6bc71f">56054</span>
+|-
+| name || <span style="color: #ee4231">Major</span> head || <span style="color: #6bc71f">Gilded</span> <span style="color: #6bc71f">mounted </span>head<span style="color: #6bc71f"> display</span>
+|-
+| examine || <span style="color: #ee4231">Major</span> <span style="color: #ee4231">slayer</span> <span style="color: #ee4231">monster</span> <span style="color: #ee4231">head</span> || <span style="color: #6bc71f">Gilded</span> <span style="color: #6bc71f">mounted</span> <span style="color: #6bc71f">head</span> <span style="color: #6bc71f">display</span>
+|-
+| rowspan="3" | [[Crawling hand]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/item_id.html#8260 8260][https://abextm.github.io/cache2/#/viewer/item/8260 (1)]
+|-
+| inventoryModel || <span style="color: #ee4231">12162</span> || <span style="color: #6bc71f">56061</span>
+|-
+| offsetX2d || <span style="color: #ee4231">-13</span> || <span style="color: #6bc71f">4</span>
+|-
+| rowspan="2" | [[Cockatrice head]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#8261 8261][https://abextm.github.io/cache2/#/viewer/item/8261 (1)]
+|-
+| inventoryModel || <span style="color: #ee4231">12161</span> || <span style="color: #6bc71f">56062</span>
+|-
+| rowspan="2" | [[Basilisk head]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#8262 8262][https://abextm.github.io/cache2/#/viewer/item/8262 (1)]
+|-
+| inventoryModel || <span style="color: #ee4231">12160</span> || <span style="color: #6bc71f">56052</span>
+|-
+| rowspan="2" | [[Kurask head]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#8263 8263][https://abextm.github.io/cache2/#/viewer/item/8263 (1)]
+|-
+| inventoryModel || <span style="color: #ee4231">12165</span> || <span style="color: #6bc71f">56055</span>
+|-
+| rowspan="2" | [[Abyssal head]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#8264 8264][https://abextm.github.io/cache2/#/viewer/item/8264 (1)]
+|-
+| inventoryModel || <span style="color: #ee4231">12159</span> || <span style="color: #6bc71f">56056</span>
+|-
+| rowspan="7" | [[Kbd heads]]
+| rowspan="7" | [https://chisel.weirdgloop.org/moid/item_id.html#8265 8265][https://abextm.github.io/cache2/#/viewer/item/8265 (1)]
+|-
+| inventoryModel || <span style="color: #ee4231">12164</span> || <span style="color: #6bc71f">56054</span>
+|-
+| zoom2d || <span style="color: #ee4231">2151</span> || <span style="color: #6bc71f">2768</span>
+|-
+| xan2d || <span style="color: #ee4231">90</span> || <span style="color: #6bc71f">150</span>
+|-
+| yan2d || <span style="color: #ee4231">1697</span> || <span style="color: #6bc71f">1787</span>
+|-
+| offsetX2d || <span style="color: #ee4231">8</span> || <span style="color: #6bc71f">-7</span>
+|-
+| offsetY2d || <span style="color: #ee4231">46</span> || <span style="color: #6bc71f">60</span>
+|-
+| rowspan="2" | [[Mounted bass]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#8267 8267][https://abextm.github.io/cache2/#/viewer/item/8267 (1)]
+|-
+| inventoryModel || <span style="color: #ee4231">12155</span> || <span style="color: #6bc71f">56063</span>
+|-
+| rowspan="2" | [[Mounted swordfish]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#8268 8268][https://abextm.github.io/cache2/#/viewer/item/8268 (1)]
+|-
+| inventoryModel || <span style="color: #ee4231">12157</span> || <span style="color: #6bc71f">56065</span>
+|-
+| rowspan="2" | [[Mounted shark]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#8269 8269][https://abextm.github.io/cache2/#/viewer/item/8269 (1)]
+|-
+| inventoryModel || <span style="color: #ee4231">12156</span> || <span style="color: #6bc71f">56058</span>
+|-
+| rowspan="10" | [[Mounted harpoonfish]]
+| rowspan="10" | [https://chisel.weirdgloop.org/moid/item_id.html#11578 11578][https://abextm.github.io/cache2/#/viewer/item/11578 (1)]
+|-
+| inventoryModel || <span style="color: #ee4231">2674</span> || <span style="color: #6bc71f">56065</span>
+|-
+| name || <span style="color: #ee4231">null</span> || <span style="color: #6bc71f">Mounted harpoonfish</span>
+|-
+| examine ||  || <span style="color: #6bc71f">Mounted Harpoonfish</span>
+|-
+| xan2d ||  || <span style="color: #6bc71f">69</span>
+|-
+| yan2d ||  || <span style="color: #6bc71f">1790</span>
+|-
+| offsetX2d ||  || <span style="color: #6bc71f">33</span>
+|-
+| offsetY2d ||  || <span style="color: #6bc71f">66</span>
+|-
+| category || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">206</span>
+|-
+| params ||  || <span style="color: #6bc71f">{'23': 66}</span>
+|-
+| rowspan="11" | [[Oak mounted fish display]]
+| rowspan="11" | [https://chisel.weirdgloop.org/moid/item_id.html#11599 11599][https://abextm.github.io/cache2/#/viewer/item/11599 (1)]
+|-
+| inventoryModel || <span style="color: #ee4231">2674</span> || <span style="color: #6bc71f">56063</span>
+|-
+| name || <span style="color: #ee4231">null</span> || <span style="color: #6bc71f">Oak mounted fish display</span>
+|-
+| examine ||  || <span style="color: #6bc71f">Oak mounted fish display</span>
+|-
+| zoom2d || <span style="color: #ee4231">2000</span> || <span style="color: #6bc71f">1616</span>
+|-
+| xan2d ||  || <span style="color: #6bc71f">69</span>
+|-
+| yan2d ||  || <span style="color: #6bc71f">1790</span>
+|-
+| offsetX2d ||  || <span style="color: #6bc71f">29</span>
+|-
+| offsetY2d ||  || <span style="color: #6bc71f">76</span>
+|-
+| category || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">206</span>
+|-
+| params ||  || <span style="color: #6bc71f">{'23': 36}</span>
+|-
+| rowspan="10" | [[Mahogany mounted fish display]]
+| rowspan="10" | [https://chisel.weirdgloop.org/moid/item_id.html#11601 11601][https://abextm.github.io/cache2/#/viewer/item/11601 (1)]
+|-
+| inventoryModel || <span style="color: #ee4231">2674</span> || <span style="color: #6bc71f">56058</span>
+|-
+| name || <span style="color: #ee4231">null</span> || <span style="color: #6bc71f">Mahogany mounted fish display</span>
+|-
+| examine ||  || <span style="color: #6bc71f">Mahogany mounted fish display</span>
+|-
+| xan2d ||  || <span style="color: #6bc71f">69</span>
+|-
+| yan2d ||  || <span style="color: #6bc71f">1790</span>
+|-
+| offsetX2d ||  || <span style="color: #6bc71f">33</span>
+|-
+| offsetY2d ||  || <span style="color: #6bc71f">66</span>
+|-
+| category || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">206</span>
+|-
+| params ||  || <span style="color: #6bc71f">{'23': 76}</span>
+|-
+| rowspan="11" | [[Teak mounted fish display]]
+| rowspan="11" | [https://chisel.weirdgloop.org/moid/item_id.html#11603 11603][https://abextm.github.io/cache2/#/viewer/item/11603 (1)]
+|-
+| inventoryModel || <span style="color: #ee4231">2674</span> || <span style="color: #6bc71f">56065</span>
+|-
+| name || <span style="color: #ee4231">null</span> || <span style="color: #6bc71f">Teak mounted fish display</span>
+|-
+| examine ||  || <span style="color: #6bc71f">Teak mounted fish display</span>
+|-
+| zoom2d || <span style="color: #ee4231">2000</span> || <span style="color: #6bc71f">1616</span>
+|-
+| xan2d ||  || <span style="color: #6bc71f">69</span>
+|-
+| yan2d ||  || <span style="color: #6bc71f">1790</span>
+|-
+| offsetX2d ||  || <span style="color: #6bc71f">33</span>
+|-
+| offsetY2d ||  || <span style="color: #6bc71f">76</span>
+|-
+| category || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">206</span>
+|-
+| params ||  || <span style="color: #6bc71f">{'23': 56}</span>
+|-
+| rowspan="2" | [[Vorkath's head]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#21907 21907][https://abextm.github.io/cache2/#/viewer/item/21907 (1)]
+|-
+| params || {'295': 1} || {'<span style="color: #6bc71f">234': 21909, '</span>295': 1}
+|-
+| rowspan="2" | [[Vorkath's stuffed head]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#21909 21909][https://abextm.github.io/cache2/#/viewer/item/21909 (1)]
+|-
+| params || {'295': 1} || {'<span style="color: #6bc71f">234': 21909, '</span>295': 1}
+|-
+| rowspan="2" | [[Kq head (tattered)]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#22671 22671][https://abextm.github.io/cache2/#/viewer/item/22671 (1)]
+|-
+| params ||  || <span style="color: #6bc71f">{'234': 22673}</span>
+|-
+| rowspan="2" | [[Stuffed kq head (tattered)]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#22673 22673][https://abextm.github.io/cache2/#/viewer/item/22673 (1)]
+|-
+| params ||  || <span style="color: #6bc71f">{'234': 22673}</span>
+|-
+| rowspan="2" | [[Alchemical hydra heads]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#23077 23077][https://abextm.github.io/cache2/#/viewer/item/23077 (1)]
+|-
+| params || {'295': 1} || {'<span style="color: #6bc71f">234': 23079, '</span>295': 1}
+|-
+| rowspan="2" | [[Stuffed hydra heads]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#23079 23079][https://abextm.github.io/cache2/#/viewer/item/23079 (1)]
+|-
+| params || {'295': 1} || {'<span style="color: #6bc71f">234': 23079, '</span>295': 1}
+|-
+| rowspan="2" | [[Alchemical hydra head]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#23081 23081][https://abextm.github.io/cache2/#/viewer/item/23081 (1)]
+|-
+| inventoryModel || <span style="color: #ee4231">36955</span> || <span style="color: #6bc71f">56060</span>
+|-
+| rowspan="2" | [[Big harpoonfish]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#25559 25559][https://abextm.github.io/cache2/#/viewer/item/25559 (1)]
+|-
+| params ||  || <span style="color: #6bc71f">{'234': 25561}</span>
+|-
+| rowspan="2" | [[Stuffed big harpoonfish]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#25561 25561][https://abextm.github.io/cache2/#/viewer/item/25561 (1)]
+|-
+| params ||  || <span style="color: #6bc71f">{'234': 25561}</span>
+|-
+| rowspan="2" | [[Mounted harpoonfish]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#25563 25563][https://abextm.github.io/cache2/#/viewer/item/25563 (1)]
+|-
+| inventoryModel || <span style="color: #ee4231">41971</span> || <span style="color: #6bc71f">56057</span>
+|-
+| rowspan="2" | [[Emberlight]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#29589 29589][https://abextm.github.io/cache2/#/viewer/item/29589 (1)]
+|-
+| inventoryActions || [None, Wield, None, <span style="color: #ee4231">None</span>, Drop] || [None, Wield, None, <span style="color: #6bc71f">Revert</span>, Drop]
+|-
+| rowspan="2" | [[Scorching bow]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#29591 29591][https://abextm.github.io/cache2/#/viewer/item/29591 (1)]
+|-
+| inventoryActions || [None, Wield, None, <span style="color: #ee4231">None</span>, Drop] || [None, Wield, None, <span style="color: #6bc71f">Revert</span>, Drop]
+|-
+| rowspan="2" | [[Purging staff]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#29594 29594][https://abextm.github.io/cache2/#/viewer/item/29594 (1)]
+|-
+| inventoryActions || [None, Wield, None, <span style="color: #ee4231">None</span>, Drop] || [None, Wield, None, <span style="color: #6bc71f">Revert</span>, Drop]
+|}
+==Params==
+===New Params===
+{| class="wikitable sortable"
+|-
+! colspan="5" | New Params
+|-
+! style="width: 15em" | id !! type !! defaultInt !! defaultString !! isMembers
+|-
+| [https://chisel.weirdgloop.org/structs/index.html?type=enums&id=2249 2249][https://abextm.github.io/cache2/#/viewer/enum/2249 (1)] ||  ||  ||  || true
+|-
+| [https://chisel.weirdgloop.org/structs/index.html?type=enums&id=2250 2250][https://abextm.github.io/cache2/#/viewer/enum/2250 (1)] ||  ||  ||  || true
+|-
+| [https://chisel.weirdgloop.org/structs/index.html?type=enums&id=2251 2251][https://abextm.github.io/cache2/#/viewer/enum/2251 (1)] ||  ||  ||  || true
+|-
+| [https://chisel.weirdgloop.org/structs/index.html?type=enums&id=2252 2252][https://abextm.github.io/cache2/#/viewer/enum/2252 (1)] ||  ||  ||  || true
+|-
+| [https://chisel.weirdgloop.org/structs/index.html?type=enums&id=2253 2253][https://abextm.github.io/cache2/#/viewer/enum/2253 (1)] ||  ||  ||  || true
+|-
+| [https://chisel.weirdgloop.org/structs/index.html?type=enums&id=2254 2254][https://abextm.github.io/cache2/#/viewer/enum/2254 (1)] ||  ||  ||  || true
+|-
+| [https://chisel.weirdgloop.org/structs/index.html?type=enums&id=2255 2255][https://abextm.github.io/cache2/#/viewer/enum/2255 (1)] ||  ||  ||  || true
+|-
+| [https://chisel.weirdgloop.org/structs/index.html?type=enums&id=2256 2256][https://abextm.github.io/cache2/#/viewer/enum/2256 (1)] ||  ||  ||  || true
+|}
+===Removed Params===
+{| class="wikitable sortable"
+|-
+! colspan="5" | Removed Params
+|-
+! style="width: 15em" | id !! type !! defaultInt !! defaultString !! isMembers
+|}
+===Diff Params===
+{| class="wikitable sortable sticky-header"
+|-
+! colspan="5" | Diff Params
+|-
+! style="width: 15em" | Id !! Key !! Previous Value !! New Value
+|-
+| rowspan="3" | [https://chisel.weirdgloop.org/structs/index.html?type=enums&id=234 234][https://abextm.github.io/cache2/#/viewer/enum/234 (1)]
+|-
+| type ||  || <span style="color: #6bc71f">111</span>
+|-
+| defaultInt ||  || <span style="color: #6bc71f">-1</span>
+|}

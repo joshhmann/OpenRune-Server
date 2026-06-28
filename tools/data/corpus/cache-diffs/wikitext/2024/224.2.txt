@@ -1,0 +1,1545 @@
+__TOC__
+==Objects==
+===New Objects===
+{| class="wikitable sortable"
+|-
+! colspan="3" | New Objects
+|-
+! style="width: 15em" | name !! id !! actions
+|-
+| [[Bank booth]] || [https://chisel.weirdgloop.org/moid/object_id.html#8139 8139][https://abextm.github.io/cache2/#/viewer/obj/8139 (1)] || [None, Bank, Collect, None, None]
+|-
+| [[Bank booth]] || [https://chisel.weirdgloop.org/moid/object_id.html#8140 8140][https://abextm.github.io/cache2/#/viewer/obj/8140 (1)] || [None, Bank, Collect, None, None]
+|-
+| [[Closed bank booth]] || [https://chisel.weirdgloop.org/moid/object_id.html#8141 8141][https://abextm.github.io/cache2/#/viewer/obj/8141 (1)] || [None, None, None, None, None]
+|-
+| [[Closed bank booth]] || [https://chisel.weirdgloop.org/moid/object_id.html#8142 8142][https://abextm.github.io/cache2/#/viewer/obj/8142 (1)] || [None, None, None, None, None]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#8143 8143][https://abextm.github.io/cache2/#/viewer/obj/8143 (1)] || [None, None, None, None, None]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#54127 54127][https://abextm.github.io/cache2/#/viewer/obj/54127 (1)] || [None, None, None, None, None]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#54128 54128][https://abextm.github.io/cache2/#/viewer/obj/54128 (1)] || [None, None, None, None, None]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#54129 54129][https://abextm.github.io/cache2/#/viewer/obj/54129 (1)] || [None, None, None, None, None]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#54130 54130][https://abextm.github.io/cache2/#/viewer/obj/54130 (1)] || [None, None, None, None, None]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#54131 54131][https://abextm.github.io/cache2/#/viewer/obj/54131 (1)] || [None, None, None, None, None]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#54132 54132][https://abextm.github.io/cache2/#/viewer/obj/54132 (1)] || [None, None, None, None, None]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#54133 54133][https://abextm.github.io/cache2/#/viewer/obj/54133 (1)] || [None, None, None, None, None]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#54134 54134][https://abextm.github.io/cache2/#/viewer/obj/54134 (1)] || [None, None, None, None, None]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#54135 54135][https://abextm.github.io/cache2/#/viewer/obj/54135 (1)] || [None, None, None, None, None]
+|}
+===Removed Objects===
+{| class="wikitable sortable"
+|-
+! colspan="3" | Removed Objects
+|-
+! style="width: 15em" | name !! id !! actions
+|}
+===Diff Objects===
+{| class="wikitable sortable sticky-header"
+|-
+! colspan="5" | Diff Objects
+|-
+! style="width: 15em" | Name !! Id !! Key !! Previous Value !! New Value
+|-
+| rowspan="2" | [[null]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#796 796][https://abextm.github.io/cache2/#/viewer/obj/796 (1)]
+|-
+| contouredGround || <span style="color: #ee4231">-1</span> || 
+|-
+| rowspan="2" | [[null]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#797 797][https://abextm.github.io/cache2/#/viewer/obj/797 (1)]
+|-
+| contouredGround || <span style="color: #ee4231">-1</span> || 
+|-
+| rowspan="2" | [[null]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#798 798][https://abextm.github.io/cache2/#/viewer/obj/798 (1)]
+|-
+| contouredGround || <span style="color: #ee4231">-1</span> || 
+|-
+| rowspan="2" | [[null]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#800 800][https://abextm.github.io/cache2/#/viewer/obj/800 (1)]
+|-
+| contouredGround || <span style="color: #ee4231">-1</span> || 
+|-
+| rowspan="2" | [[null]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#801 801][https://abextm.github.io/cache2/#/viewer/obj/801 (1)]
+|-
+| contouredGround || <span style="color: #ee4231">-1</span> || 
+|-
+| rowspan="2" | [[null]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#802 802][https://abextm.github.io/cache2/#/viewer/obj/802 (1)]
+|-
+| contouredGround || <span style="color: #ee4231">-1</span> || 
+|-
+| rowspan="2" | [[null]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#803 803][https://abextm.github.io/cache2/#/viewer/obj/803 (1)]
+|-
+| contouredGround || <span style="color: #ee4231">-1</span> || 
+|-
+| rowspan="2" | [[null]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#804 804][https://abextm.github.io/cache2/#/viewer/obj/804 (1)]
+|-
+| contouredGround || <span style="color: #ee4231">-1</span> || 
+|-
+| rowspan="2" | [[null]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#805 805][https://abextm.github.io/cache2/#/viewer/obj/805 (1)]
+|-
+| contouredGround || <span style="color: #ee4231">-1</span> || 
+|-
+| rowspan="2" | [[null]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#806 806][https://abextm.github.io/cache2/#/viewer/obj/806 (1)]
+|-
+| contouredGround || <span style="color: #ee4231">-1</span> || 
+|-
+| rowspan="2" | [[null]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#807 807][https://abextm.github.io/cache2/#/viewer/obj/807 (1)]
+|-
+| contouredGround || <span style="color: #ee4231">-1</span> || 
+|-
+| rowspan="2" | [[Tree]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#1276 1276][https://abextm.github.io/cache2/#/viewer/obj/1276 (1)]
+|-
+| contouredGround || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">20480</span>
+|-
+| rowspan="2" | [[Tree]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#1277 1277][https://abextm.github.io/cache2/#/viewer/obj/1277 (1)]
+|-
+| contouredGround || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">20480</span>
+|-
+| rowspan="2" | [[Tree]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#1278 1278][https://abextm.github.io/cache2/#/viewer/obj/1278 (1)]
+|-
+| contouredGround || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">20480</span>
+|-
+| rowspan="2" | [[Tree]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#1279 1279][https://abextm.github.io/cache2/#/viewer/obj/1279 (1)]
+|-
+| contouredGround || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">20480</span>
+|-
+| rowspan="2" | [[Tree]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#1280 1280][https://abextm.github.io/cache2/#/viewer/obj/1280 (1)]
+|-
+| contouredGround || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">20480</span>
+|-
+| rowspan="2" | [[Dead tree]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#1282 1282][https://abextm.github.io/cache2/#/viewer/obj/1282 (1)]
+|-
+| contouredGround || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">20480</span>
+|-
+| rowspan="2" | [[Dead tree]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#1283 1283][https://abextm.github.io/cache2/#/viewer/obj/1283 (1)]
+|-
+| contouredGround || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">20480</span>
+|-
+| rowspan="2" | [[Dead tree]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#1284 1284][https://abextm.github.io/cache2/#/viewer/obj/1284 (1)]
+|-
+| contouredGround || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">20480</span>
+|-
+| rowspan="2" | [[Dead tree]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#1285 1285][https://abextm.github.io/cache2/#/viewer/obj/1285 (1)]
+|-
+| contouredGround || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">20480</span>
+|-
+| rowspan="2" | [[Dead tree]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#1286 1286][https://abextm.github.io/cache2/#/viewer/obj/1286 (1)]
+|-
+| contouredGround || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">20480</span>
+|-
+| rowspan="2" | [[Dead tree]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#1287 1287][https://abextm.github.io/cache2/#/viewer/obj/1287 (1)]
+|-
+| contouredGround || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">20480</span>
+|-
+| rowspan="2" | [[Dead tree]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#1288 1288][https://abextm.github.io/cache2/#/viewer/obj/1288 (1)]
+|-
+| contouredGround || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">20480</span>
+|-
+| rowspan="2" | [[Dead tree]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#1289 1289][https://abextm.github.io/cache2/#/viewer/obj/1289 (1)]
+|-
+| contouredGround || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">20480</span>
+|-
+| rowspan="2" | [[Dead tree]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#1290 1290][https://abextm.github.io/cache2/#/viewer/obj/1290 (1)]
+|-
+| contouredGround || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">20480</span>
+|-
+| rowspan="2" | [[Dead tree]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#1291 1291][https://abextm.github.io/cache2/#/viewer/obj/1291 (1)]
+|-
+| contouredGround || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">20480</span>
+|-
+| rowspan="2" | [[Dramen tree]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#1292 1292][https://abextm.github.io/cache2/#/viewer/obj/1292 (1)]
+|-
+| contouredGround || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">20480</span>
+|-
+| rowspan="2" | [[Tree]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#1301 1301][https://abextm.github.io/cache2/#/viewer/obj/1301 (1)]
+|-
+| contouredGround || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">20480</span>
+|-
+| rowspan="2" | [[Leafy tree]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#1302 1302][https://abextm.github.io/cache2/#/viewer/obj/1302 (1)]
+|-
+| contouredGround || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">20480</span>
+|-
+| rowspan="2" | [[Tree]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#1303 1303][https://abextm.github.io/cache2/#/viewer/obj/1303 (1)]
+|-
+| contouredGround || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">20480</span>
+|-
+| rowspan="2" | [[Tree]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#1304 1304][https://abextm.github.io/cache2/#/viewer/obj/1304 (1)]
+|-
+| contouredGround || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">20480</span>
+|-
+| rowspan="2" | [[Palm]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#1311 1311][https://abextm.github.io/cache2/#/viewer/obj/1311 (1)]
+|-
+| contouredGround || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">20480</span>
+|-
+| rowspan="2" | [[Palm]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#1312 1312][https://abextm.github.io/cache2/#/viewer/obj/1312 (1)]
+|-
+| contouredGround || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">20480</span>
+|-
+| rowspan="2" | [[Plant]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#1313 1313][https://abextm.github.io/cache2/#/viewer/obj/1313 (1)]
+|-
+| contouredGround || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">20480</span>
+|-
+| rowspan="2" | [[Plant]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#1314 1314][https://abextm.github.io/cache2/#/viewer/obj/1314 (1)]
+|-
+| contouredGround || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">20480</span>
+|-
+| rowspan="2" | [[Evergreen tree]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#1318 1318][https://abextm.github.io/cache2/#/viewer/obj/1318 (1)]
+|-
+| contouredGround || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">20480</span>
+|-
+| rowspan="2" | [[Evergreen tree]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#1319 1319][https://abextm.github.io/cache2/#/viewer/obj/1319 (1)]
+|-
+| contouredGround || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">20480</span>
+|-
+| rowspan="2" | [[Hollow tree]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#1322 1322][https://abextm.github.io/cache2/#/viewer/obj/1322 (1)]
+|-
+| contouredGround || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">20480</span>
+|-
+| rowspan="2" | [[Tropical tree]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#1326 1326][https://abextm.github.io/cache2/#/viewer/obj/1326 (1)]
+|-
+| contouredGround || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">20480</span>
+|-
+| rowspan="2" | [[Tree]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#1330 1330][https://abextm.github.io/cache2/#/viewer/obj/1330 (1)]
+|-
+| contouredGround || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">20480</span>
+|-
+| rowspan="2" | [[Tree]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#1331 1331][https://abextm.github.io/cache2/#/viewer/obj/1331 (1)]
+|-
+| contouredGround || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">20480</span>
+|-
+| rowspan="2" | [[Tree]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#1332 1332][https://abextm.github.io/cache2/#/viewer/obj/1332 (1)]
+|-
+| contouredGround || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">20480</span>
+|-
+| rowspan="2" | [[Tree stump]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#1341 1341][https://abextm.github.io/cache2/#/viewer/obj/1341 (1)]
+|-
+| contouredGround || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">20480</span>
+|-
+| rowspan="2" | [[Tree stump]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#1342 1342][https://abextm.github.io/cache2/#/viewer/obj/1342 (1)]
+|-
+| contouredGround || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">20480</span>
+|-
+| rowspan="2" | [[Tree stump]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#1343 1343][https://abextm.github.io/cache2/#/viewer/obj/1343 (1)]
+|-
+| contouredGround || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">20480</span>
+|-
+| rowspan="2" | [[Tree stump]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#1344 1344][https://abextm.github.io/cache2/#/viewer/obj/1344 (1)]
+|-
+| contouredGround || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">20480</span>
+|-
+| rowspan="2" | [[Tree stump]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#1345 1345][https://abextm.github.io/cache2/#/viewer/obj/1345 (1)]
+|-
+| contouredGround || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">20480</span>
+|-
+| rowspan="2" | [[Tree stump]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#1346 1346][https://abextm.github.io/cache2/#/viewer/obj/1346 (1)]
+|-
+| contouredGround || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">20480</span>
+|-
+| rowspan="2" | [[Tree stump]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#1347 1347][https://abextm.github.io/cache2/#/viewer/obj/1347 (1)]
+|-
+| contouredGround || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">20480</span>
+|-
+| rowspan="2" | [[Tree stump]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#1348 1348][https://abextm.github.io/cache2/#/viewer/obj/1348 (1)]
+|-
+| contouredGround || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">20480</span>
+|-
+| rowspan="2" | [[Tree stump]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#1349 1349][https://abextm.github.io/cache2/#/viewer/obj/1349 (1)]
+|-
+| contouredGround || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">20480</span>
+|-
+| rowspan="2" | [[Tree stump]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#1350 1350][https://abextm.github.io/cache2/#/viewer/obj/1350 (1)]
+|-
+| contouredGround || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">20480</span>
+|-
+| rowspan="2" | [[Tree stump]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#1351 1351][https://abextm.github.io/cache2/#/viewer/obj/1351 (1)]
+|-
+| contouredGround || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">20480</span>
+|-
+| rowspan="2" | [[Tree stump]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#1352 1352][https://abextm.github.io/cache2/#/viewer/obj/1352 (1)]
+|-
+| contouredGround || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">20480</span>
+|-
+| rowspan="2" | [[Tree stump]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#1353 1353][https://abextm.github.io/cache2/#/viewer/obj/1353 (1)]
+|-
+| contouredGround || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">20480</span>
+|-
+| rowspan="2" | [[Tree stump]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#1354 1354][https://abextm.github.io/cache2/#/viewer/obj/1354 (1)]
+|-
+| contouredGround || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">20480</span>
+|-
+| rowspan="2" | [[Tree stump]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#1355 1355][https://abextm.github.io/cache2/#/viewer/obj/1355 (1)]
+|-
+| contouredGround || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">20480</span>
+|-
+| rowspan="2" | [[Tree stump]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#1356 1356][https://abextm.github.io/cache2/#/viewer/obj/1356 (1)]
+|-
+| contouredGround || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">20480</span>
+|-
+| rowspan="2" | [[Tree stump]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#1357 1357][https://abextm.github.io/cache2/#/viewer/obj/1357 (1)]
+|-
+| contouredGround || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">20480</span>
+|-
+| rowspan="2" | [[Tree stump]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#1358 1358][https://abextm.github.io/cache2/#/viewer/obj/1358 (1)]
+|-
+| contouredGround || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">20480</span>
+|-
+| rowspan="2" | [[Tree stump]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#1359 1359][https://abextm.github.io/cache2/#/viewer/obj/1359 (1)]
+|-
+| contouredGround || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">20480</span>
+|-
+| rowspan="2" | [[Tropical tree]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#1360 1360][https://abextm.github.io/cache2/#/viewer/obj/1360 (1)]
+|-
+| contouredGround || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">20480</span>
+|-
+| rowspan="2" | [[Roots]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#1363 1363][https://abextm.github.io/cache2/#/viewer/obj/1363 (1)]
+|-
+| contouredGround || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">20480</span>
+|-
+| rowspan="2" | [[Roots]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#1364 1364][https://abextm.github.io/cache2/#/viewer/obj/1364 (1)]
+|-
+| contouredGround || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">20480</span>
+|-
+| rowspan="2" | [[Dead tree]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#1365 1365][https://abextm.github.io/cache2/#/viewer/obj/1365 (1)]
+|-
+| contouredGround || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">20480</span>
+|-
+| rowspan="2" | [[Roots]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#1366 1366][https://abextm.github.io/cache2/#/viewer/obj/1366 (1)]
+|-
+| contouredGround || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">20480</span>
+|-
+| rowspan="2" | [[Roots]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#1367 1367][https://abextm.github.io/cache2/#/viewer/obj/1367 (1)]
+|-
+| contouredGround || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">20480</span>
+|-
+| rowspan="2" | [[Roots]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#1368 1368][https://abextm.github.io/cache2/#/viewer/obj/1368 (1)]
+|-
+| contouredGround || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">20480</span>
+|-
+| rowspan="2" | [[Plant]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#1369 1369][https://abextm.github.io/cache2/#/viewer/obj/1369 (1)]
+|-
+| contouredGround || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">20480</span>
+|-
+| rowspan="2" | [[Tropical tree]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#1371 1371][https://abextm.github.io/cache2/#/viewer/obj/1371 (1)]
+|-
+| contouredGround || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">20480</span>
+|-
+| rowspan="2" | [[Tropical tree]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#1375 1375][https://abextm.github.io/cache2/#/viewer/obj/1375 (1)]
+|-
+| contouredGround || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">20480</span>
+|-
+| rowspan="2" | [[Roots]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#1380 1380][https://abextm.github.io/cache2/#/viewer/obj/1380 (1)]
+|-
+| contouredGround || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">20480</span>
+|-
+| rowspan="2" | [[Roots]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#1381 1381][https://abextm.github.io/cache2/#/viewer/obj/1381 (1)]
+|-
+| contouredGround || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">20480</span>
+|-
+| rowspan="2" | [[Roots]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#1382 1382][https://abextm.github.io/cache2/#/viewer/obj/1382 (1)]
+|-
+| contouredGround || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">20480</span>
+|-
+| rowspan="2" | [[Dead tree]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#1383 1383][https://abextm.github.io/cache2/#/viewer/obj/1383 (1)]
+|-
+| contouredGround || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">20480</span>
+|-
+| rowspan="2" | [[Dead tree]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#1384 1384][https://abextm.github.io/cache2/#/viewer/obj/1384 (1)]
+|-
+| contouredGround || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">20480</span>
+|-
+| rowspan="2" | [[null]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#1385 1385][https://abextm.github.io/cache2/#/viewer/obj/1385 (1)]
+|-
+| contouredGround || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">20480</span>
+|-
+| rowspan="2" | [[Roots]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#1386 1386][https://abextm.github.io/cache2/#/viewer/obj/1386 (1)]
+|-
+| contouredGround || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">20480</span>
+|-
+| rowspan="2" | [[Roots]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#1387 1387][https://abextm.github.io/cache2/#/viewer/obj/1387 (1)]
+|-
+| contouredGround || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">20480</span>
+|-
+| rowspan="2" | [[Roots]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#1388 1388][https://abextm.github.io/cache2/#/viewer/obj/1388 (1)]
+|-
+| contouredGround || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">20480</span>
+|-
+| rowspan="2" | [[Roots]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#1389 1389][https://abextm.github.io/cache2/#/viewer/obj/1389 (1)]
+|-
+| contouredGround || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">20480</span>
+|-
+| rowspan="2" | [[Jungle plant]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#1390 1390][https://abextm.github.io/cache2/#/viewer/obj/1390 (1)]
+|-
+| contrast || <span style="color: #ee4231">750</span> || <span style="color: #6bc71f">375</span>
+|-
+| rowspan="3" | [[Fly trap]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/object_id.html#1395 1395][https://abextm.github.io/cache2/#/viewer/obj/1395 (1)]
+|-
+| ambient ||  || <span style="color: #6bc71f">10</span>
+|-
+| contrast ||  || <span style="color: #6bc71f">375</span>
+|-
+| rowspan="4" | [[Cactus]]
+| rowspan="4" | [https://chisel.weirdgloop.org/moid/object_id.html#1396 1396][https://abextm.github.io/cache2/#/viewer/obj/1396 (1)]
+|-
+| contouredGround || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">20480</span>
+|-
+| ambient ||  || <span style="color: #6bc71f">10</span>
+|-
+| contrast ||  || <span style="color: #6bc71f">375</span>
+|-
+| rowspan="4" | [[Cactus]]
+| rowspan="4" | [https://chisel.weirdgloop.org/moid/object_id.html#1397 1397][https://abextm.github.io/cache2/#/viewer/obj/1397 (1)]
+|-
+| contouredGround || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">20480</span>
+|-
+| ambient ||  || <span style="color: #6bc71f">10</span>
+|-
+| contrast ||  || <span style="color: #6bc71f">375</span>
+|-
+| rowspan="3" | [[Jungle plant]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/object_id.html#1398 1398][https://abextm.github.io/cache2/#/viewer/obj/1398 (1)]
+|-
+| ambient ||  || <span style="color: #6bc71f">10</span>
+|-
+| contrast ||  || <span style="color: #6bc71f">375</span>
+|-
+| rowspan="3" | [[Jungle plant]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/object_id.html#1399 1399][https://abextm.github.io/cache2/#/viewer/obj/1399 (1)]
+|-
+| ambient ||  || <span style="color: #6bc71f">10</span>
+|-
+| contrast ||  || <span style="color: #6bc71f">375</span>
+|-
+| rowspan="3" | [[Jungle plant]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/object_id.html#1400 1400][https://abextm.github.io/cache2/#/viewer/obj/1400 (1)]
+|-
+| ambient ||  || <span style="color: #6bc71f">10</span>
+|-
+| contrast ||  || <span style="color: #6bc71f">375</span>
+|-
+| rowspan="3" | [[Jungle plant]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/object_id.html#1401 1401][https://abextm.github.io/cache2/#/viewer/obj/1401 (1)]
+|-
+| ambient ||  || <span style="color: #6bc71f">10</span>
+|-
+| contrast ||  || <span style="color: #6bc71f">375</span>
+|-
+| rowspan="3" | [[Jungle plant]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/object_id.html#1402 1402][https://abextm.github.io/cache2/#/viewer/obj/1402 (1)]
+|-
+| ambient ||  || <span style="color: #6bc71f">10</span>
+|-
+| contrast ||  || <span style="color: #6bc71f">375</span>
+|-
+| rowspan="4" | [[Cactus]]
+| rowspan="4" | [https://chisel.weirdgloop.org/moid/object_id.html#1403 1403][https://abextm.github.io/cache2/#/viewer/obj/1403 (1)]
+|-
+| contouredGround || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">20480</span>
+|-
+| ambient ||  || <span style="color: #6bc71f">10</span>
+|-
+| contrast ||  || <span style="color: #6bc71f">375</span>
+|-
+| rowspan="4" | [[Cactus]]
+| rowspan="4" | [https://chisel.weirdgloop.org/moid/object_id.html#1404 1404][https://abextm.github.io/cache2/#/viewer/obj/1404 (1)]
+|-
+| contouredGround || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">20480</span>
+|-
+| ambient ||  || <span style="color: #6bc71f">10</span>
+|-
+| contrast ||  || <span style="color: #6bc71f">375</span>
+|-
+| rowspan="4" | [[Cactus]]
+| rowspan="4" | [https://chisel.weirdgloop.org/moid/object_id.html#1405 1405][https://abextm.github.io/cache2/#/viewer/obj/1405 (1)]
+|-
+| contouredGround || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">20480</span>
+|-
+| ambient ||  || <span style="color: #6bc71f">10</span>
+|-
+| contrast ||  || <span style="color: #6bc71f">375</span>
+|-
+| rowspan="4" | [[Cactus]]
+| rowspan="4" | [https://chisel.weirdgloop.org/moid/object_id.html#1406 1406][https://abextm.github.io/cache2/#/viewer/obj/1406 (1)]
+|-
+| contouredGround || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">20480</span>
+|-
+| ambient ||  || <span style="color: #6bc71f">10</span>
+|-
+| contrast ||  || <span style="color: #6bc71f">375</span>
+|-
+| rowspan="3" | [[Whipping Plant]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/object_id.html#1407 1407][https://abextm.github.io/cache2/#/viewer/obj/1407 (1)]
+|-
+| ambient ||  || <span style="color: #6bc71f">10</span>
+|-
+| contrast ||  || <span style="color: #6bc71f">375</span>
+|-
+| rowspan="3" | [[Pineapple Plant]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/object_id.html#1408 1408][https://abextm.github.io/cache2/#/viewer/obj/1408 (1)]
+|-
+| ambient ||  || <span style="color: #6bc71f">10</span>
+|-
+| contrast ||  || <span style="color: #6bc71f">375</span>
+|-
+| rowspan="3" | [[Pineapple Plant]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/object_id.html#1409 1409][https://abextm.github.io/cache2/#/viewer/obj/1409 (1)]
+|-
+| ambient ||  || <span style="color: #6bc71f">10</span>
+|-
+| contrast ||  || <span style="color: #6bc71f">375</span>
+|-
+| rowspan="3" | [[Pineapple Plant]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/object_id.html#1410 1410][https://abextm.github.io/cache2/#/viewer/obj/1410 (1)]
+|-
+| ambient ||  || <span style="color: #6bc71f">10</span>
+|-
+| contrast ||  || <span style="color: #6bc71f">375</span>
+|-
+| rowspan="3" | [[Pineapple Plant]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/object_id.html#1411 1411][https://abextm.github.io/cache2/#/viewer/obj/1411 (1)]
+|-
+| ambient ||  || <span style="color: #6bc71f">10</span>
+|-
+| contrast ||  || <span style="color: #6bc71f">375</span>
+|-
+| rowspan="3" | [[Pineapple Plant]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/object_id.html#1412 1412][https://abextm.github.io/cache2/#/viewer/obj/1412 (1)]
+|-
+| ambient ||  || <span style="color: #6bc71f">10</span>
+|-
+| contrast ||  || <span style="color: #6bc71f">375</span>
+|-
+| rowspan="3" | [[Pineapple Plant]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/object_id.html#1413 1413][https://abextm.github.io/cache2/#/viewer/obj/1413 (1)]
+|-
+| ambient ||  || <span style="color: #6bc71f">10</span>
+|-
+| contrast ||  || <span style="color: #6bc71f">375</span>
+|-
+| rowspan="3" | [[null]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/object_id.html#1602 1602][https://abextm.github.io/cache2/#/viewer/obj/1602 (1)]
+|-
+| ambient ||  || <span style="color: #6bc71f">15</span>
+|-
+| contrast ||  || <span style="color: #6bc71f">625</span>
+|-
+| rowspan="3" | [[null]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/object_id.html#1603 1603][https://abextm.github.io/cache2/#/viewer/obj/1603 (1)]
+|-
+| ambient ||  || <span style="color: #6bc71f">15</span>
+|-
+| contrast ||  || <span style="color: #6bc71f">625</span>
+|-
+| rowspan="4" | [[null]]
+| rowspan="4" | [https://chisel.weirdgloop.org/moid/object_id.html#1604 1604][https://abextm.github.io/cache2/#/viewer/obj/1604 (1)]
+|-
+| ambient || <span style="color: #ee4231">25</span> || <span style="color: #6bc71f">15</span>
+|-
+| recolorFrom ||  || <span style="color: #6bc71f">[5006]</span>
+|-
+| recolorTo ||  || <span style="color: #6bc71f">[5665]</span>
+|-
+| rowspan="4" | [[null]]
+| rowspan="4" | [https://chisel.weirdgloop.org/moid/object_id.html#1605 1605][https://abextm.github.io/cache2/#/viewer/obj/1605 (1)]
+|-
+| ambient || <span style="color: #ee4231">25</span> || <span style="color: #6bc71f">15</span>
+|-
+| recolorFrom ||  || <span style="color: #6bc71f">[5006]</span>
+|-
+| recolorTo ||  || <span style="color: #6bc71f">[5665]</span>
+|-
+| rowspan="2" | [[null]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#1606 1606][https://abextm.github.io/cache2/#/viewer/obj/1606 (1)]
+|-
+| ambient || <span style="color: #ee4231">25</span> || <span style="color: #6bc71f">15</span>
+|-
+| rowspan="5" | [[null]]
+| rowspan="5" | [https://chisel.weirdgloop.org/moid/object_id.html#1607 1607][https://abextm.github.io/cache2/#/viewer/obj/1607 (1)]
+|-
+| ambient ||  || <span style="color: #6bc71f">15</span>
+|-
+| contrast ||  || <span style="color: #6bc71f">625</span>
+|-
+| recolorFrom ||  || <span style="color: #6bc71f">[5006]</span>
+|-
+| recolorTo ||  || <span style="color: #6bc71f">[5665]</span>
+|-
+| rowspan="2" | [[null]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#1869 1869][https://abextm.github.io/cache2/#/viewer/obj/1869 (1)]
+|-
+| modelSizeHeight || <span style="color: #ee4231">128</span> || <span style="color: #6bc71f">126</span>
+|-
+| rowspan="2" | [[Achey Tree]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#2023 2023][https://abextm.github.io/cache2/#/viewer/obj/2023 (1)]
+|-
+| contouredGround || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">20480</span>
+|-
+| rowspan="2" | [[Evergreen tree]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#2091 2091][https://abextm.github.io/cache2/#/viewer/obj/2091 (1)]
+|-
+| contouredGround || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">20480</span>
+|-
+| rowspan="2" | [[Evergreen tree]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#2092 2092][https://abextm.github.io/cache2/#/viewer/obj/2092 (1)]
+|-
+| contouredGround || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">20480</span>
+|-
+| rowspan="2" | [[Tree stump]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#2310 2310][https://abextm.github.io/cache2/#/viewer/obj/2310 (1)]
+|-
+| contouredGround || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">20480</span>
+|-
+| rowspan="2" | [[Achey Tree stump]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#3371 3371][https://abextm.github.io/cache2/#/viewer/obj/3371 (1)]
+|-
+| contouredGround || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">20480</span>
+|-
+| rowspan="2" | [[Small bush]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#3512 3512][https://abextm.github.io/cache2/#/viewer/obj/3512 (1)]
+|-
+| contouredGround || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">20480</span>
+|-
+| rowspan="2" | [[Tree]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#3879 3879][https://abextm.github.io/cache2/#/viewer/obj/3879 (1)]
+|-
+| contouredGround || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">20480</span>
+|-
+| rowspan="2" | [[Tree stump]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#3880 3880][https://abextm.github.io/cache2/#/viewer/obj/3880 (1)]
+|-
+| contouredGround || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">20480</span>
+|-
+| rowspan="2" | [[Tree]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#3881 3881][https://abextm.github.io/cache2/#/viewer/obj/3881 (1)]
+|-
+| contouredGround || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">20480</span>
+|-
+| rowspan="2" | [[Tree]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#3882 3882][https://abextm.github.io/cache2/#/viewer/obj/3882 (1)]
+|-
+| contouredGround || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">20480</span>
+|-
+| rowspan="2" | [[Tree]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#3883 3883][https://abextm.github.io/cache2/#/viewer/obj/3883 (1)]
+|-
+| contouredGround || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">20480</span>
+|-
+| rowspan="2" | [[Tree stump]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#3884 3884][https://abextm.github.io/cache2/#/viewer/obj/3884 (1)]
+|-
+| contouredGround || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">20480</span>
+|-
+| rowspan="2" | [[Tree]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#3886 3886][https://abextm.github.io/cache2/#/viewer/obj/3886 (1)]
+|-
+| contouredGround || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">20480</span>
+|-
+| rowspan="2" | [[Tree]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#3887 3887][https://abextm.github.io/cache2/#/viewer/obj/3887 (1)]
+|-
+| contouredGround || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">20480</span>
+|-
+| rowspan="2" | [[Tree]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#3888 3888][https://abextm.github.io/cache2/#/viewer/obj/3888 (1)]
+|-
+| contouredGround || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">20480</span>
+|-
+| rowspan="2" | [[Tree]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#3889 3889][https://abextm.github.io/cache2/#/viewer/obj/3889 (1)]
+|-
+| contouredGround || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">20480</span>
+|-
+| rowspan="2" | [[Tree]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#3890 3890][https://abextm.github.io/cache2/#/viewer/obj/3890 (1)]
+|-
+| contouredGround || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">20480</span>
+|-
+| rowspan="2" | [[Tree]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#3891 3891][https://abextm.github.io/cache2/#/viewer/obj/3891 (1)]
+|-
+| contouredGround || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">20480</span>
+|-
+| rowspan="2" | [[Mushroom]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#3912 3912][https://abextm.github.io/cache2/#/viewer/obj/3912 (1)]
+|-
+| contouredGround || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">20480</span>
+|-
+| rowspan="2" | [[Mushrooms]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#3913 3913][https://abextm.github.io/cache2/#/viewer/obj/3913 (1)]
+|-
+| contouredGround || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">20480</span>
+|-
+| rowspan="2" | [[Mushroom]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#3914 3914][https://abextm.github.io/cache2/#/viewer/obj/3914 (1)]
+|-
+| contouredGround || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">20480</span>
+|-
+| rowspan="2" | [[Mushroom]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#3915 3915][https://abextm.github.io/cache2/#/viewer/obj/3915 (1)]
+|-
+| contouredGround || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">20480</span>
+|-
+| rowspan="2" | [[Mushrooms]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#3916 3916][https://abextm.github.io/cache2/#/viewer/obj/3916 (1)]
+|-
+| contouredGround || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">20480</span>
+|-
+| rowspan="2" | [[Mushroom]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#3917 3917][https://abextm.github.io/cache2/#/viewer/obj/3917 (1)]
+|-
+| contouredGround || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">20480</span>
+|-
+| rowspan="2" | [[Tree]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#4048 4048][https://abextm.github.io/cache2/#/viewer/obj/4048 (1)]
+|-
+| contouredGround || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">20480</span>
+|-
+| rowspan="2" | [[Tree]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#4051 4051][https://abextm.github.io/cache2/#/viewer/obj/4051 (1)]
+|-
+| contouredGround || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">20480</span>
+|-
+| rowspan="2" | [[Tree]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#4052 4052][https://abextm.github.io/cache2/#/viewer/obj/4052 (1)]
+|-
+| contouredGround || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">20480</span>
+|-
+| rowspan="2" | [[Tree]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#4053 4053][https://abextm.github.io/cache2/#/viewer/obj/4053 (1)]
+|-
+| contouredGround || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">20480</span>
+|-
+| rowspan="2" | [[Tree]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#4054 4054][https://abextm.github.io/cache2/#/viewer/obj/4054 (1)]
+|-
+| contouredGround || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">20480</span>
+|-
+| rowspan="2" | [[Huge Mushroom]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#4055 4055][https://abextm.github.io/cache2/#/viewer/obj/4055 (1)]
+|-
+| contouredGround || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">20480</span>
+|-
+| rowspan="2" | [[Huge Mushroom]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#4056 4056][https://abextm.github.io/cache2/#/viewer/obj/4056 (1)]
+|-
+| contouredGround || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">20480</span>
+|-
+| rowspan="2" | [[Huge Mushroom]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#4057 4057][https://abextm.github.io/cache2/#/viewer/obj/4057 (1)]
+|-
+| contouredGround || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">20480</span>
+|-
+| rowspan="2" | [[Tree stump]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#4061 4061][https://abextm.github.io/cache2/#/viewer/obj/4061 (1)]
+|-
+| contouredGround || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">20480</span>
+|-
+| rowspan="2" | [[Swaying tree]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#4142 4142][https://abextm.github.io/cache2/#/viewer/obj/4142 (1)]
+|-
+| contouredGround || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">20480</span>
+|-
+| rowspan="2" | [[Golden tree]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#4144 4144][https://abextm.github.io/cache2/#/viewer/obj/4144 (1)]
+|-
+| contouredGround || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">20480</span>
+|-
+| rowspan="2" | [[Tree stump]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#4328 4328][https://abextm.github.io/cache2/#/viewer/obj/4328 (1)]
+|-
+| contouredGround || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">20480</span>
+|-
+| rowspan="2" | [[Tree stump]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#4329 4329][https://abextm.github.io/cache2/#/viewer/obj/4329 (1)]
+|-
+| contouredGround || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">20480</span>
+|-
+| rowspan="2" | [[Tropical tree]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#4845 4845][https://abextm.github.io/cache2/#/viewer/obj/4845 (1)]
+|-
+| contouredGround || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">20480</span>
+|-
+| rowspan="2" | [[Tropical tree]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#4849 4849][https://abextm.github.io/cache2/#/viewer/obj/4849 (1)]
+|-
+| contouredGround || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">20480</span>
+|-
+| rowspan="3" | [[null]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/object_id.html#5634 5634][https://abextm.github.io/cache2/#/viewer/obj/5634 (1)]
+|-
+| ambient ||  || <span style="color: #6bc71f">15</span>
+|-
+| contrast ||  || <span style="color: #6bc71f">625</span>
+|-
+| rowspan="3" | [[null]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/object_id.html#5635 5635][https://abextm.github.io/cache2/#/viewer/obj/5635 (1)]
+|-
+| ambient ||  || <span style="color: #6bc71f">15</span>
+|-
+| contrast ||  || <span style="color: #6bc71f">625</span>
+|-
+| rowspan="3" | [[null]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/object_id.html#5636 5636][https://abextm.github.io/cache2/#/viewer/obj/5636 (1)]
+|-
+| ambient ||  || <span style="color: #6bc71f">15</span>
+|-
+| contrast ||  || <span style="color: #6bc71f">625</span>
+|-
+| rowspan="3" | [[null]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/object_id.html#5637 5637][https://abextm.github.io/cache2/#/viewer/obj/5637 (1)]
+|-
+| ambient ||  || <span style="color: #6bc71f">15</span>
+|-
+| contrast ||  || <span style="color: #6bc71f">625</span>
+|-
+| rowspan="3" | [[null]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/object_id.html#5638 5638][https://abextm.github.io/cache2/#/viewer/obj/5638 (1)]
+|-
+| ambient ||  || <span style="color: #6bc71f">15</span>
+|-
+| contrast ||  || <span style="color: #6bc71f">625</span>
+|-
+| rowspan="2" | [[Tree stump]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#6212 6212][https://abextm.github.io/cache2/#/viewer/obj/6212 (1)]
+|-
+| contouredGround || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">20480</span>
+|-
+| rowspan="2" | [[Leafy tree]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#7397 7397][https://abextm.github.io/cache2/#/viewer/obj/7397 (1)]
+|-
+| contouredGround || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">20480</span>
+|-
+| rowspan="2" | [[Leafy tree]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#7398 7398][https://abextm.github.io/cache2/#/viewer/obj/7398 (1)]
+|-
+| contouredGround || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">20480</span>
+|-
+| rowspan="2" | [[Tree]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#9715 9715][https://abextm.github.io/cache2/#/viewer/obj/9715 (1)]
+|-
+| contouredGround || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">20480</span>
+|-
+| rowspan="2" | [[Tree]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#9730 9730][https://abextm.github.io/cache2/#/viewer/obj/9730 (1)]
+|-
+| contouredGround || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">20480</span>
+|-
+| rowspan="2" | [[Tree]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#9731 9731][https://abextm.github.io/cache2/#/viewer/obj/9731 (1)]
+|-
+| contouredGround || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">20480</span>
+|-
+| rowspan="2" | [[Tree]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#9732 9732][https://abextm.github.io/cache2/#/viewer/obj/9732 (1)]
+|-
+| contouredGround || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">20480</span>
+|-
+| rowspan="2" | [[Tree]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#9733 9733][https://abextm.github.io/cache2/#/viewer/obj/9733 (1)]
+|-
+| contouredGround || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">20480</span>
+|-
+| rowspan="2" | [[Oak tree]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#9734 9734][https://abextm.github.io/cache2/#/viewer/obj/9734 (1)]
+|-
+| contouredGround || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">20480</span>
+|-
+| rowspan="3" | [[Door]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/object_id.html#10045 10045][https://abextm.github.io/cache2/#/viewer/obj/10045 (1)]
+|-
+| ambient || <span style="color: #ee4231">25</span> || <span style="color: #6bc71f">15</span>
+|-
+| contrast ||  || <span style="color: #6bc71f">375</span>
+|-
+| rowspan="3" | [[null]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/object_id.html#10046 10046][https://abextm.github.io/cache2/#/viewer/obj/10046 (1)]
+|-
+| ambient || <span style="color: #ee4231">25</span> || <span style="color: #6bc71f">15</span>
+|-
+| contrast ||  || <span style="color: #6bc71f">375</span>
+|-
+| rowspan="2" | [[Willow tree]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#10819 10819][https://abextm.github.io/cache2/#/viewer/obj/10819 (1)]
+|-
+| contouredGround || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">20480</span>
+|-
+| rowspan="2" | [[Oak tree]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#10820 10820][https://abextm.github.io/cache2/#/viewer/obj/10820 (1)]
+|-
+| contouredGround || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">20480</span>
+|-
+| rowspan="2" | [[Hollow tree]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#10821 10821][https://abextm.github.io/cache2/#/viewer/obj/10821 (1)]
+|-
+| contouredGround || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">20480</span>
+|-
+| rowspan="2" | [[Yew tree]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#10822 10822][https://abextm.github.io/cache2/#/viewer/obj/10822 (1)]
+|-
+| contouredGround || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">20480</span>
+|-
+| rowspan="2" | [[null]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#10823 10823][https://abextm.github.io/cache2/#/viewer/obj/10823 (1)]
+|-
+| contouredGround || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">20480</span>
+|-
+| rowspan="2" | [[null]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#10828 10828][https://abextm.github.io/cache2/#/viewer/obj/10828 (1)]
+|-
+| contouredGround || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">20480</span>
+|-
+| rowspan="2" | [[Willow tree]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#10829 10829][https://abextm.github.io/cache2/#/viewer/obj/10829 (1)]
+|-
+| contouredGround || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">20480</span>
+|-
+| rowspan="2" | [[Hollow tree]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#10830 10830][https://abextm.github.io/cache2/#/viewer/obj/10830 (1)]
+|-
+| contouredGround || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">20480</span>
+|-
+| rowspan="2" | [[Willow tree]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#10831 10831][https://abextm.github.io/cache2/#/viewer/obj/10831 (1)]
+|-
+| contouredGround || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">20480</span>
+|-
+| rowspan="2" | [[Maple tree]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#10832 10832][https://abextm.github.io/cache2/#/viewer/obj/10832 (1)]
+|-
+| contouredGround || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">20480</span>
+|-
+| rowspan="2" | [[Willow tree]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#10833 10833][https://abextm.github.io/cache2/#/viewer/obj/10833 (1)]
+|-
+| contouredGround || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">20480</span>
+|-
+| rowspan="2" | [[Magic tree]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#10834 10834][https://abextm.github.io/cache2/#/viewer/obj/10834 (1)]
+|-
+| contouredGround || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">20480</span>
+|-
+| rowspan="2" | [[null]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#10835 10835][https://abextm.github.io/cache2/#/viewer/obj/10835 (1)]
+|-
+| contouredGround || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">20480</span>
+|-
+| rowspan="2" | [[Dead tree]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#11510 11510][https://abextm.github.io/cache2/#/viewer/obj/11510 (1)]
+|-
+| contouredGround || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">20480</span>
+|-
+| rowspan="3" | [[Door]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/object_id.html#11765 11765][https://abextm.github.io/cache2/#/viewer/obj/11765 (1)]
+|-
+| ambient || <span style="color: #ee4231">20</span> || <span style="color: #6bc71f">15</span>
+|-
+| contrast ||  || <span style="color: #6bc71f">375</span>
+|-
+| rowspan="2" | [[Gate]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#11766 11766][https://abextm.github.io/cache2/#/viewer/obj/11766 (1)]
+|-
+| contrast ||  || <span style="color: #6bc71f">375</span>
+|-
+| rowspan="2" | [[Gate]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#11767 11767][https://abextm.github.io/cache2/#/viewer/obj/11767 (1)]
+|-
+| contrast ||  || <span style="color: #6bc71f">375</span>
+|-
+| rowspan="2" | [[Gate]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#11770 11770][https://abextm.github.io/cache2/#/viewer/obj/11770 (1)]
+|-
+| contrast ||  || <span style="color: #6bc71f">375</span>
+|-
+| rowspan="2" | [[Gate]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#11771 11771][https://abextm.github.io/cache2/#/viewer/obj/11771 (1)]
+|-
+| contrast ||  || <span style="color: #6bc71f">375</span>
+|-
+| rowspan="3" | [[Door]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/object_id.html#11772 11772][https://abextm.github.io/cache2/#/viewer/obj/11772 (1)]
+|-
+| ambient || <span style="color: #ee4231">25</span> || <span style="color: #6bc71f">15</span>
+|-
+| contrast ||  || <span style="color: #6bc71f">375</span>
+|-
+| rowspan="3" | [[Door]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/object_id.html#11773 11773][https://abextm.github.io/cache2/#/viewer/obj/11773 (1)]
+|-
+| ambient || <span style="color: #ee4231">25</span> || <span style="color: #6bc71f">15</span>
+|-
+| contrast ||  || <span style="color: #6bc71f">375</span>
+|-
+| rowspan="3" | [[Door]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/object_id.html#11774 11774][https://abextm.github.io/cache2/#/viewer/obj/11774 (1)]
+|-
+| ambient || <span style="color: #ee4231">25</span> || <span style="color: #6bc71f">15</span>
+|-
+| contrast ||  || <span style="color: #6bc71f">375</span>
+|-
+| rowspan="3" | [[Door]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/object_id.html#11775 11775][https://abextm.github.io/cache2/#/viewer/obj/11775 (1)]
+|-
+| ambient || <span style="color: #ee4231">25</span> || <span style="color: #6bc71f">15</span>
+|-
+| contrast ||  || <span style="color: #6bc71f">375</span>
+|-
+| rowspan="3" | [[Door]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/object_id.html#11776 11776][https://abextm.github.io/cache2/#/viewer/obj/11776 (1)]
+|-
+| ambient || <span style="color: #ee4231">25</span> || <span style="color: #6bc71f">15</span>
+|-
+| contrast ||  || <span style="color: #6bc71f">375</span>
+|-
+| rowspan="3" | [[Door]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/object_id.html#11777 11777][https://abextm.github.io/cache2/#/viewer/obj/11777 (1)]
+|-
+| ambient || <span style="color: #ee4231">25</span> || <span style="color: #6bc71f">15</span>
+|-
+| contrast ||  || <span style="color: #6bc71f">375</span>
+|-
+| rowspan="3" | [[Door]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/object_id.html#11778 11778][https://abextm.github.io/cache2/#/viewer/obj/11778 (1)]
+|-
+| ambient || <span style="color: #ee4231">20</span> || <span style="color: #6bc71f">15</span>
+|-
+| contrast ||  || <span style="color: #6bc71f">375</span>
+|-
+| rowspan="3" | [[null]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/object_id.html#11779 11779][https://abextm.github.io/cache2/#/viewer/obj/11779 (1)]
+|-
+| ambient || <span style="color: #ee4231">20</span> || <span style="color: #6bc71f">15</span>
+|-
+| contrast ||  || <span style="color: #6bc71f">375</span>
+|-
+| rowspan="3" | [[Door]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/object_id.html#11780 11780][https://abextm.github.io/cache2/#/viewer/obj/11780 (1)]
+|-
+| ambient || <span style="color: #ee4231">20</span> || <span style="color: #6bc71f">15</span>
+|-
+| contrast ||  || <span style="color: #6bc71f">375</span>
+|-
+| rowspan="3" | [[Door]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/object_id.html#11781 11781][https://abextm.github.io/cache2/#/viewer/obj/11781 (1)]
+|-
+| ambient || <span style="color: #ee4231">25</span> || <span style="color: #6bc71f">15</span>
+|-
+| contrast ||  || <span style="color: #6bc71f">375</span>
+|-
+| rowspan="3" | [[Door]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/object_id.html#11782 11782][https://abextm.github.io/cache2/#/viewer/obj/11782 (1)]
+|-
+| ambient || <span style="color: #ee4231">20</span> || <span style="color: #6bc71f">15</span>
+|-
+| contrast ||  || <span style="color: #6bc71f">375</span>
+|-
+| rowspan="3" | [[Door]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/object_id.html#11783 11783][https://abextm.github.io/cache2/#/viewer/obj/11783 (1)]
+|-
+| ambient || <span style="color: #ee4231">20</span> || <span style="color: #6bc71f">15</span>
+|-
+| contrast ||  || <span style="color: #6bc71f">375</span>
+|-
+| rowspan="3" | [[null]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/object_id.html#11784 11784][https://abextm.github.io/cache2/#/viewer/obj/11784 (1)]
+|-
+| ambient || <span style="color: #ee4231">25</span> || <span style="color: #6bc71f">15</span>
+|-
+| contrast ||  || <span style="color: #6bc71f">375</span>
+|-
+| rowspan="3" | [[null]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/object_id.html#11785 11785][https://abextm.github.io/cache2/#/viewer/obj/11785 (1)]
+|-
+| ambient || <span style="color: #ee4231">25</span> || <span style="color: #6bc71f">15</span>
+|-
+| contrast ||  || <span style="color: #6bc71f">375</span>
+|-
+| rowspan="3" | [[null]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/object_id.html#11786 11786][https://abextm.github.io/cache2/#/viewer/obj/11786 (1)]
+|-
+| ambient || <span style="color: #ee4231">25</span> || <span style="color: #6bc71f">15</span>
+|-
+| contrast ||  || <span style="color: #6bc71f">375</span>
+|-
+| rowspan="3" | [[null]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/object_id.html#11787 11787][https://abextm.github.io/cache2/#/viewer/obj/11787 (1)]
+|-
+| ambient || <span style="color: #ee4231">25</span> || <span style="color: #6bc71f">15</span>
+|-
+| contrast ||  || <span style="color: #6bc71f">375</span>
+|-
+| rowspan="3" | [[Door]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/object_id.html#11788 11788][https://abextm.github.io/cache2/#/viewer/obj/11788 (1)]
+|-
+| ambient || <span style="color: #ee4231">25</span> || <span style="color: #6bc71f">15</span>
+|-
+| contrast ||  || <span style="color: #6bc71f">375</span>
+|-
+| rowspan="2" | [[null]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#12860 12860][https://abextm.github.io/cache2/#/viewer/obj/12860 (1)]
+|-
+| contouredGround || <span style="color: #ee4231">-1</span> || 
+|-
+| rowspan="2" | [[null]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#12861 12861][https://abextm.github.io/cache2/#/viewer/obj/12861 (1)]
+|-
+| contouredGround || <span style="color: #ee4231">-1</span> || 
+|-
+| rowspan="2" | [[null]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#12862 12862][https://abextm.github.io/cache2/#/viewer/obj/12862 (1)]
+|-
+| contouredGround || <span style="color: #ee4231">-1</span> || 
+|-
+| rowspan="2" | [[Tree]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#12895 12895][https://abextm.github.io/cache2/#/viewer/obj/12895 (1)]
+|-
+| contouredGround || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">20480</span>
+|-
+| rowspan="2" | [[Tree]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#12896 12896][https://abextm.github.io/cache2/#/viewer/obj/12896 (1)]
+|-
+| contouredGround || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">20480</span>
+|-
+| rowspan="2" | [[Tree]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#13703 13703][https://abextm.github.io/cache2/#/viewer/obj/13703 (1)]
+|-
+| contouredGround || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">20480</span>
+|-
+| rowspan="2" | [[Tree]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#14308 14308][https://abextm.github.io/cache2/#/viewer/obj/14308 (1)]
+|-
+| contouredGround || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">20480</span>
+|-
+| rowspan="2" | [[Tree]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#14309 14309][https://abextm.github.io/cache2/#/viewer/obj/14309 (1)]
+|-
+| contouredGround || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">20480</span>
+|-
+| rowspan="2" | [[Windswept Tree]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#16639 16639][https://abextm.github.io/cache2/#/viewer/obj/16639 (1)]
+|-
+| contouredGround || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">20480</span>
+|-
+| rowspan="2" | [[null]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#20846 20846][https://abextm.github.io/cache2/#/viewer/obj/20846 (1)]
+|-
+| contouredGround || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">20480</span>
+|-
+| rowspan="2" | [[Tree Stump]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#21274 21274][https://abextm.github.io/cache2/#/viewer/obj/21274 (1)]
+|-
+| contouredGround || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">20480</span>
+|-
+| rowspan="2" | [[Tree stump]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#23054 23054][https://abextm.github.io/cache2/#/viewer/obj/23054 (1)]
+|-
+| contouredGround || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">20480</span>
+|-
+| rowspan="2" | [[null]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#30750 30750][https://abextm.github.io/cache2/#/viewer/obj/30750 (1)]
+|-
+| offsetHeight || <span style="color: #ee4231">15</span> || 
+|-
+| rowspan="2" | [[null]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#30751 30751][https://abextm.github.io/cache2/#/viewer/obj/30751 (1)]
+|-
+| offsetHeight || <span style="color: #ee4231">15</span> || 
+|-
+| rowspan="3" | [[null]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/object_id.html#34739 34739][https://abextm.github.io/cache2/#/viewer/obj/34739 (1)]
+|-
+| ambient ||  || <span style="color: #6bc71f">10</span>
+|-
+| contrast ||  || <span style="color: #6bc71f">375</span>
+|-
+| rowspan="2" | [[Dead tree]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#34933 34933][https://abextm.github.io/cache2/#/viewer/obj/34933 (1)]
+|-
+| contouredGround || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">20480</span>
+|-
+| rowspan="2" | [[Dead tree]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#34934 34934][https://abextm.github.io/cache2/#/viewer/obj/34934 (1)]
+|-
+| contouredGround || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">20480</span>
+|-
+| rowspan="2" | [[Dead tree]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#34935 34935][https://abextm.github.io/cache2/#/viewer/obj/34935 (1)]
+|-
+| contouredGround || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">20480</span>
+|-
+| rowspan="2" | [[Tree]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#36672 36672][https://abextm.github.io/cache2/#/viewer/obj/36672 (1)]
+|-
+| contouredGround || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">20480</span>
+|-
+| rowspan="2" | [[Tree stump]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#36673 36673][https://abextm.github.io/cache2/#/viewer/obj/36673 (1)]
+|-
+| contouredGround || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">20480</span>
+|-
+| rowspan="2" | [[Tree]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#36674 36674][https://abextm.github.io/cache2/#/viewer/obj/36674 (1)]
+|-
+| contouredGround || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">20480</span>
+|-
+| rowspan="2" | [[Tree stump]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#36675 36675][https://abextm.github.io/cache2/#/viewer/obj/36675 (1)]
+|-
+| contouredGround || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">20480</span>
+|-
+| rowspan="2" | [[Tree]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#36677 36677][https://abextm.github.io/cache2/#/viewer/obj/36677 (1)]
+|-
+| contouredGround || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">20480</span>
+|-
+| rowspan="2" | [[Tree stump]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#36678 36678][https://abextm.github.io/cache2/#/viewer/obj/36678 (1)]
+|-
+| contouredGround || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">20480</span>
+|-
+| rowspan="2" | [[Tree]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#36679 36679][https://abextm.github.io/cache2/#/viewer/obj/36679 (1)]
+|-
+| contouredGround || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">20480</span>
+|-
+| rowspan="2" | [[Tree stump]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#36680 36680][https://abextm.github.io/cache2/#/viewer/obj/36680 (1)]
+|-
+| contouredGround || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">20480</span>
+|-
+| rowspan="3" | [[null]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/object_id.html#37439 37439][https://abextm.github.io/cache2/#/viewer/obj/37439 (1)]
+|-
+| ambient || <span style="color: #ee4231">25</span> || <span style="color: #6bc71f">15</span>
+|-
+| contrast ||  || <span style="color: #6bc71f">375</span>
+|-
+| rowspan="3" | [[Stairs]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/object_id.html#39647 39647][https://abextm.github.io/cache2/#/viewer/obj/39647 (1)]
+|-
+| modelSizeX || <span style="color: #ee4231">83</span> || <span style="color: #6bc71f">96</span>
+|-
+| modelSizeY || <span style="color: #ee4231">96</span> || <span style="color: #6bc71f">86</span>
+|-
+| rowspan="2" | [[Tree]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#40750 40750][https://abextm.github.io/cache2/#/viewer/obj/40750 (1)]
+|-
+| contouredGround || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">20480</span>
+|-
+| rowspan="2" | [[Tree stump]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#40751 40751][https://abextm.github.io/cache2/#/viewer/obj/40751 (1)]
+|-
+| contouredGround || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">20480</span>
+|-
+| rowspan="2" | [[Tree]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#40752 40752][https://abextm.github.io/cache2/#/viewer/obj/40752 (1)]
+|-
+| contouredGround || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">20480</span>
+|-
+| rowspan="2" | [[Tree stump]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#40753 40753][https://abextm.github.io/cache2/#/viewer/obj/40753 (1)]
+|-
+| contouredGround || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">20480</span>
+|-
+| rowspan="2" | [[Maple tree]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#40754 40754][https://abextm.github.io/cache2/#/viewer/obj/40754 (1)]
+|-
+| contouredGround || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">20480</span>
+|-
+| rowspan="2" | [[Maple tree]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#40755 40755][https://abextm.github.io/cache2/#/viewer/obj/40755 (1)]
+|-
+| contouredGround || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">20480</span>
+|-
+| rowspan="2" | [[Yew tree]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#40756 40756][https://abextm.github.io/cache2/#/viewer/obj/40756 (1)]
+|-
+| contouredGround || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">20480</span>
+|-
+| rowspan="2" | [[Tree stump]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#40757 40757][https://abextm.github.io/cache2/#/viewer/obj/40757 (1)]
+|-
+| contouredGround || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">20480</span>
+|-
+| rowspan="2" | [[Teak tree]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#40758 40758][https://abextm.github.io/cache2/#/viewer/obj/40758 (1)]
+|-
+| contouredGround || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">20480</span>
+|-
+| rowspan="2" | [[Tree stump]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#40759 40759][https://abextm.github.io/cache2/#/viewer/obj/40759 (1)]
+|-
+| contouredGround || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">20480</span>
+|-
+| rowspan="2" | [[Mahogany tree]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#40760 40760][https://abextm.github.io/cache2/#/viewer/obj/40760 (1)]
+|-
+| contouredGround || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">20480</span>
+|-
+| rowspan="2" | [[Tree stump]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#40761 40761][https://abextm.github.io/cache2/#/viewer/obj/40761 (1)]
+|-
+| contouredGround || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">20480</span>
+|-
+| rowspan="2" | [[Evergreen tree]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#40932 40932][https://abextm.github.io/cache2/#/viewer/obj/40932 (1)]
+|-
+| contouredGround || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">20480</span>
+|-
+| rowspan="2" | [[Evergreen tree]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#40933 40933][https://abextm.github.io/cache2/#/viewer/obj/40933 (1)]
+|-
+| contouredGround || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">20480</span>
+|-
+| rowspan="2" | [[Yew tree]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#42427 42427][https://abextm.github.io/cache2/#/viewer/obj/42427 (1)]
+|-
+| contouredGround || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">20480</span>
+|-
+| rowspan="2" | [[Dead tree]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#42907 42907][https://abextm.github.io/cache2/#/viewer/obj/42907 (1)]
+|-
+| contouredGround || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">20480</span>
+|-
+| rowspan="2" | [[Dead Oak]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#42908 42908][https://abextm.github.io/cache2/#/viewer/obj/42908 (1)]
+|-
+| contouredGround || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">20480</span>
+|-
+| rowspan="2" | [[null]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#43850 43850][https://abextm.github.io/cache2/#/viewer/obj/43850 (1)]
+|-
+| contouredGround || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">20480</span>
+|-
+| rowspan="3" | [[Door]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/object_id.html#44784 44784][https://abextm.github.io/cache2/#/viewer/obj/44784 (1)]
+|-
+| ambient || <span style="color: #ee4231">20</span> || <span style="color: #6bc71f">15</span>
+|-
+| contrast ||  || <span style="color: #6bc71f">375</span>
+|-
+| rowspan="3" | [[Door]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/object_id.html#44785 44785][https://abextm.github.io/cache2/#/viewer/obj/44785 (1)]
+|-
+| ambient || <span style="color: #ee4231">20</span> || <span style="color: #6bc71f">15</span>
+|-
+| contrast ||  || <span style="color: #6bc71f">375</span>
+|-
+| rowspan="3" | [[null]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/object_id.html#46561 46561][https://abextm.github.io/cache2/#/viewer/obj/46561 (1)]
+|-
+| ambient || <span style="color: #ee4231">25</span> || <span style="color: #6bc71f">15</span>
+|-
+| contrast ||  || <span style="color: #6bc71f">375</span>
+|-
+| rowspan="3" | [[Door]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/object_id.html#50653 50653][https://abextm.github.io/cache2/#/viewer/obj/50653 (1)]
+|-
+| ambient || <span style="color: #ee4231">25</span> || <span style="color: #6bc71f">15</span>
+|-
+| contrast ||  || <span style="color: #6bc71f">375</span>
+|-
+| rowspan="3" | [[Door]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/object_id.html#50654 50654][https://abextm.github.io/cache2/#/viewer/obj/50654 (1)]
+|-
+| ambient || <span style="color: #ee4231">25</span> || <span style="color: #6bc71f">15</span>
+|-
+| contrast ||  || <span style="color: #6bc71f">375</span>
+|-
+| rowspan="2" | [[Tree]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#52823 52823][https://abextm.github.io/cache2/#/viewer/obj/52823 (1)]
+|-
+| contouredGround || <span style="color: #ee4231">-1</span> || <span style="color: #6bc71f">20480</span>
+|}
+==Enums==
+===New Enums===
+{| class="wikitable sortable"
+|-
+! colspan="3" | New Enums
+|-
+! style="width: 15em" | id !! defaultValue !! map
+|-
+| [https://chisel.weirdgloop.org/structs/index.html?type=enums&id=4217 4217][https://abextm.github.io/cache2/#/viewer/enum/4217 (1)] || -1 || {'0': 13107204, '1': 13107205, '2': 13107206, '3': 13107207, '4': 13107208, '5': 13107209, '6': 13107210, '7': 13107211}
+|}
+===Removed Enums===
+{| class="wikitable sortable"
+|-
+! colspan="3" | Removed Enums
+|-
+! style="width: 15em" | id !! defaultValue !! map
+|}
+===Diff Enums===
+{| class="wikitable sortable sticky-header"
+|-
+! colspan="5" | Diff Enums
+|-
+! style="width: 15em" | Id !! Key !! Previous Value !! New Value
+|}
+==Npcs==
+===New Npcs===
+{| class="wikitable sortable"
+|-
+! colspan="4" | New Npcs
+|-
+! style="width: 15em" | name !! id !! combatLevel !! actions
+|}
+===Removed Npcs===
+{| class="wikitable sortable"
+|-
+! colspan="4" | Removed Npcs
+|-
+! style="width: 15em" | name !! id !! combatLevel !! actions
+|}
+===Diff Npcs===
+{| class="wikitable sortable sticky-header"
+|-
+! colspan="5" | Diff Npcs
+|-
+! style="width: 15em" | Name !! Id !! Key !! Previous Value !! New Value
+|-
+| rowspan="2" | [[Key Master]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/npc_id.html#12599 12599][https://abextm.github.io/cache2/#/viewer/npc/12599 (1)]
+|-
+| combatLevel || <span style="color: #ee4231">1</span> || 
+|}
+==Items==
+===New Items===
+{| class="wikitable sortable"
+|-
+! colspan="11" | New Items
+|-
+! style="width: 15em" | name !! id !! examine !! isMembers !! isGrandExchangable !! isStackable !! noteLinkedItem !! inventoryActions !! placeholderLinkedItem !! price !! weight
+|}
+===Removed Items===
+{| class="wikitable sortable"
+|-
+! colspan="11" | Removed Items
+|-
+! style="width: 15em" | name !! id !! examine !! isMembers !! isGrandExchangable !! isStackable !! noteLinkedItem !! inventoryActions !! placeholderLinkedItem !! price !! weight
+|}
+===Diff Items===
+{| class="wikitable sortable sticky-header"
+|-
+! colspan="5" | Diff Items
+|-
+! style="width: 15em" | Name !! Id !! Key !! Previous Value !! New Value
+|-
+| rowspan="2" | [[Cat mask]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#12361 12361][https://abextm.github.io/cache2/#/viewer/item/12361 (1)]
+|-
+| name || Cat <span style="color: #ee4231">h</span> || Cat <span style="color: #6bc71f">mask</span>
+|-
+| rowspan="7" | [[Osmumten's fang]]
+| rowspan="7" | [https://chisel.weirdgloop.org/moid/item_id.html#26219 26219][https://abextm.github.io/cache2/#/viewer/item/26219 (1)]
+|-
+| zoom2d || <span style="color: #ee4231">2150</span> || <span style="color: #6bc71f">1588</span>
+|-
+| xan2d ||  || <span style="color: #6bc71f">315</span>
+|-
+| yan2d || <span style="color: #ee4231">1603</span> || <span style="color: #6bc71f">1499</span>
+|-
+| offsetX2d || <span style="color: #ee4231">5</span> || <span style="color: #6bc71f">3</span>
+|-
+| offsetY2d || <span style="color: #ee4231">-18</span> || <span style="color: #6bc71f">20</span>
+|-
+| zan2d || <span style="color: #ee4231">552</span> || 
+|-
+| rowspan="3" | [[Osmumten's fang (or)]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/item_id.html#27246 27246][https://abextm.github.io/cache2/#/viewer/item/27246 (1)]
+|-
+| zoom2d || <span style="color: #ee4231">2400</span> || <span style="color: #6bc71f">1888</span>
+|-
+| offsetY2d || -<span style="color: #ee4231">11</span> || -<span style="color: #6bc71f">7</span>
+|-
+| rowspan="2" | [[Imcando hammer (off-hand)]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#29775 29775][https://abextm.github.io/cache2/#/viewer/item/29775 (1)]
+|-
+| name || Imcando hammer (<span style="color: #ee4231">offhand</span>) || Imcando hammer (<span style="color: #6bc71f">off-hand</span>)
+|}

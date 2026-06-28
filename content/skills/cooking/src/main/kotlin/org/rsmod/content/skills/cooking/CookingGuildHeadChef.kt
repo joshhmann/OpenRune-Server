@@ -34,14 +34,7 @@ class CookingGuildHeadChef @Inject constructor() : PluginScript() {
             "Hello, welcome to the Cooking Guild. Only accomplished chefs and cooks are allowed in here. " +
                 "Feel free to use any of our facilities.",
         )
-        when (
-            choice2(
-                "Nice cape you're wearing!",
-                1,
-                "Thanks, bye.",
-                2,
-            )
-        ) {
+        when (choice2("Nice cape you're wearing!", 1, "Thanks, bye.", 2)) {
             1 -> {
                 chatPlayer(happy, "Nice cape you're wearing!")
                 chatNpc(
@@ -67,14 +60,7 @@ class CookingGuildHeadChef @Inject constructor() : PluginScript() {
             "Hello, welcome to the Cooking Guild. It's always great to have such an accomplished chef visit us. Say, " +
                 "would you be interested in a Skillcape of Cooking? They're only available to master chefs.",
         )
-        when (
-            choice2(
-                "No thanks.",
-                1,
-                "Yes please.",
-                2,
-            )
-        ) {
+        when (choice2("No thanks.", 1, "Yes please.", 2)) {
             1 -> {
                 chatPlayer(neutral, "No thanks.")
                 chatNpc(neutral, "Okay, come back to me if you change your mind.")
@@ -83,14 +69,7 @@ class CookingGuildHeadChef @Inject constructor() : PluginScript() {
                 if (!player.ownsCookingSkillcape()) {
                     requestCookingCapePurchase()
                 } else {
-                    when (
-                        choice2(
-                            "Skillcape",
-                            1,
-                            "Hood",
-                            2,
-                        )
-                    ) {
+                    when (choice2("Skillcape", 1, "Hood", 2)) {
                         1 -> requestCookingCapePurchase()
                         2 -> offerFreeHood()
                     }
@@ -110,14 +89,7 @@ class CookingGuildHeadChef @Inject constructor() : PluginScript() {
             "Most certainly, by wearing this cape you'll never burn any food, I will have to ask for 99000 gold " +
                 "coins for such a privilege.",
         )
-        when (
-            choice2(
-                "That's much too expensive.",
-                1,
-                "Sure.",
-                2,
-            )
-        ) {
+        when (choice2("That's much too expensive.", 1, "Sure.", 2)) {
             1 -> {
                 chatPlayer(sad, "That's much too expensive.")
                 chatNpc(sad, "I'm sorry you feel that way.")
@@ -136,7 +108,12 @@ class CookingGuildHeadChef @Inject constructor() : PluginScript() {
                     )
                 } else {
                     val coinDel =
-                        access.invDel(access.inv, "obj.coins", count = COOKING_CAPE_PRICE, strict = true)
+                        access.invDel(
+                            access.inv,
+                            "obj.coins",
+                            count = COOKING_CAPE_PRICE,
+                            strict = true,
+                        )
                     if (coinDel.failure) {
                         chatNpc(neutral, "Well, come back and see me when you do.")
                         return

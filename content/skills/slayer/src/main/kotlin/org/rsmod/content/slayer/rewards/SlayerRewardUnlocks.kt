@@ -16,10 +16,12 @@ internal object SlayerRewardUnlocks {
     }
 
     private val toggleVarbitsByBit: Map<Int, VarBitType> by lazy {
-        SlayerUnlockRow.all().mapNotNull { row ->
-            val dbrow = ServerCacheManager.getDbrow(row.rowId) ?: return@mapNotNull null
-            toggleVarbitsByUnlockRow[dbrow]?.let { row.bit to it }
-        }.toMap()
+        SlayerUnlockRow.all()
+            .mapNotNull { row ->
+                val dbrow = ServerCacheManager.getDbrow(row.rowId) ?: return@mapNotNull null
+                toggleVarbitsByUnlockRow[dbrow]?.let { row.bit to it }
+            }
+            .toMap()
     }
 
     fun handleUnlockSlot(access: ProtectedAccess, unlock: SlayerUnlockRow) {
@@ -78,7 +80,7 @@ internal object SlayerRewardUnlocks {
 
         if (SlayerRewardsPoints.getPoints(access.player) < totalCost) {
             access.mes(
-                "You don't have enough Slayer Points to unlock all the extensions. You need $totalCost Slayer Points.",
+                "You don't have enough Slayer Points to unlock all the extensions. You need $totalCost Slayer Points."
             )
             return
         }
@@ -118,20 +120,20 @@ internal object SlayerRewardUnlocks {
                 "You've enabled '${unlockRow.name}'."
             } else {
                 "You've disabled '${unlockRow.name}'."
-            },
+            }
         )
     }
 
     private fun toggleVarbitFor(unlockRow: SlayerUnlockRow): VarBitType? {
-        toggleVarbitsByBit[unlockRow.bit]?.let { return it }
+        toggleVarbitsByBit[unlockRow.bit]?.let {
+            return it
+        }
         val dbrow = ServerCacheManager.getDbrow(unlockRow.rowId) ?: return null
         return toggleVarbitsByUnlockRow[dbrow]
     }
 
     private fun clearUnlockBit(access: ProtectedAccess, bit: Int) {
-        val varp =
-            if (bit < 32) "varp.slayer_rewards_unlocks"
-            else "varp.slayer_rewards_unlocks1"
+        val varp = if (bit < 32) "varp.slayer_rewards_unlocks" else "varp.slayer_rewards_unlocks1"
         val mask = 1 shl (bit % 32)
         VarPlayerIntMapSetter.set(access.player, varp, access.vars[varp] and mask.inv())
     }

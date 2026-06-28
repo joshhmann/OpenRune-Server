@@ -1,0 +1,319 @@
+{| class="wikitable sortable" 
+!colspan="5"|Items
+|-
+! Name !! ID !! Key !! Previous Value !! Changed into
+|-
+| [[Beekeeper's hat]] || 25129 || colspan = "4" | New ID
+|-
+| [[null]] || 25130 || colspan = "4" | New ID
+|-
+| [[Beekeeper's top]] || 25131 || colspan = "4" | New ID
+|-
+| [[null]] || 25132 || colspan = "4" | New ID
+|-
+| [[Beekeeper's legs]] || 25133 || colspan = "4" | New ID
+|-
+| [[null]] || 25134 || colspan = "4" | New ID
+|-
+| [[Beekeeper's gloves]] || 25135 || colspan = "4" | New ID
+|-
+| [[null]] || 25136 || colspan = "4" | New ID
+|-
+| [[Beekeeper's boots]] || 25137 || colspan = "4" | New ID
+|-
+| [[null]] || 25138 || colspan = "4" | New ID
+|-
+| [[Bone fragments]] || 25139 || colspan = "4" | New ID
+|-
+| [[null]] || 25140 || colspan = "4" | New ID
+|-
+| [[null]] || 25141 || colspan = "4" | New ID
+|-
+| [[null]] || 25142 || colspan = "4" | New ID
+|-
+| [[null]] || 25143 || colspan = "4" | New ID
+|-
+| [[null]] || 25144 || colspan = "4" | New ID
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|7499
+|-
+|name || [[Evil dave]] || [[null]]
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|7499
+|-
+|inventoryModel || 13619 || 2674
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|7499
+|-
+|zoom2d || 720 || 2000
+|-
+|rowspan="3"|[[null]]
+|rowspan="3"|7499
+|-
+|yOffset2d || -3 || 0
+|-
+| name || [[Dwarf]] || [[null]]
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|7500
+|-
+|inventoryModel || 13620 || 2674
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|7500
+|-
+|zoom2d || 848 || 2000
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|7500
+|-
+|xOffset2d || 1 || 0
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|7500
+|-
+|yOffset2d || -3 || 0
+|-
+|rowspan="12"|[[null]]
+|rowspan="12"|7501
+|-
+|name || [[Goblins]] || [[null]]
+|-
+| xan2d || 108 || 0
+|-
+| yan2d || 1676 || 0
+|-
+| inventoryModel || 13621 || 2674
+|-
+| zoom2d || 1360 || 2000
+|-
+| xOffset2d || 1 || 0
+|-
+| yOffset2d || 89 || 0
+|-
+| name || [[Lumbridge guide]] || [[null]]
+|-
+| inventoryModel || 13622 || 2674
+|-
+| zoom2d || 976 || 2000
+|-
+| xOffset2d || 1 || 0
+|-
+|rowspan="10"|[[null]]
+|rowspan="10"|7502
+|-
+|yOffset2d || -6 || 0
+|-
+| name || [[Monkey]] || [[null]]
+|-
+| inventoryModel || 13623 || 2674
+|-
+| zoom2d || 848 || 2000
+|-
+| xOffset2d || 1 || 0
+|-
+| yOffset2d || -2 || 0
+|-
+| name || [[Osman]] || [[null]]
+|-
+| xan2d || 3 || 0
+|-
+| yan2d || 2027 || 0
+|-
+|rowspan="12"|[[null]]
+|rowspan="12"|7504
+|-
+|inventoryModel || 13624 || 2674
+|-
+| zoom2d || 720 || 2000
+|-
+| xOffset2d || -3 || 0
+|-
+| name || [[Pirate pete]] || [[null]]
+|-
+| inventoryModel || 13625 || 2674
+|-
+| zoom2d || 720 || 2000
+|-
+| name || [[Sir amik varze]] || [[null]]
+|-
+| inventoryModel || 13626 || 2674
+|-
+| zoom2d || 592 || 2000
+|-
+| name || [[Skrach]] || [[null]]
+|-
+| inventoryModel || 13627 || 2674
+|-
+|rowspan="12"|[[null]]
+|rowspan="12"|7507
+|-
+|zoom2d || 1360 || 2000
+|-
+| xOffset2d || -2 || 0
+|-
+| yOffset2d || -15 || 0
+|-
+| interfaceOptions || [None, 'Wield', 'Invoke', 'Divine', 'Destroy'] || [None, 'Wield', 'Invoke', 'Divine', 'Drop']
+|-
+| interfaceOptions || [None, 'Wield', 'Invoke', 'Divine', 'Destroy'] || [None, 'Wield', 'Invoke', 'Divine', 'Drop']
+|-
+|}
+
+{| class="wikitable sortable" 
+!colspan="5"|Non-Player Characters
+|-
+! Name !! ID !! Key !! Previous Value !! Changed into
+|-
+| [[Gnormadium Avlafrim]] || 10445 || colspan = "4" | New ID
+|-
+| [[Gnormadium Avlafrim]] || 10446 || colspan = "4" | New ID
+|-
+| [[Gnormadium Avlafrim]] || 10447 || colspan = "4" | New ID
+|-
+| [[Gnormadium Avlafrim]] || 10448 || colspan = "4" | New ID
+|-
+| [[Gnormadium Avlafrim]] || 10450 || colspan = "4" | New ID
+|-
+| [[Gnormadium Avlafrim]] || 10451 || colspan = "4" | New ID
+|-
+| [[Captain Dalbur]] || 10452 || colspan = "4" | New ID
+|-
+| [[Captain Dalbur]] || 10453 || colspan = "4" | New ID
+|-
+| [[Captain Dalbur]] || 10454 || colspan = "4" | New ID
+|-
+| [[Captain Dalbur]] || 10455 || colspan = "4" | New ID
+|-
+| [[Captain Dalbur]] || 10456 || colspan = "4" | New ID
+|-
+| [[Captain Dalbur]] || 10457 || colspan = "4" | New ID
+|-
+| [[Captain Dalbur]] || 10458 || colspan = "4" | New ID
+|-
+| [[Captain Bleemadge]] || 10459 || colspan = "4" | New ID
+|-
+| [[Captain Bleemadge]] || 10461 || colspan = "4" | New ID
+|-
+| [[Captain Bleemadge]] || 10462 || colspan = "4" | New ID
+|-
+| [[Captain Bleemadge]] || 10463 || colspan = "4" | New ID
+|-
+| [[Captain Bleemadge]] || 10464 || colspan = "4" | New ID
+|-
+| [[Captain Bleemadge]] || 10465 || colspan = "4" | New ID
+|-
+| [[Captain Bleemadge]] || 10466 || colspan = "4" | New ID
+|-
+| [[Captain Errdo]] || 10467 || colspan = "4" | New ID
+|-
+| [[Captain Errdo]] || 10468 || colspan = "4" | New ID
+|-
+| [[Captain Errdo]] || 10469 || colspan = "4" | New ID
+|-
+| [[Captain Errdo]] || 10470 || colspan = "4" | New ID
+|-
+| [[Captain Errdo]] || 10471 || colspan = "4" | New ID
+|-
+| [[Captain Errdo]] || 10472 || colspan = "4" | New ID
+|-
+| [[Captain Errdo]] || 10473 || colspan = "4" | New ID
+|-
+| [[Captain Klemfoodle]] || 10479 || colspan = "4" | New ID
+|-
+| [[Captain Klemfoodle]] || 10480 || colspan = "4" | New ID
+|-
+| [[Captain Klemfoodle]] || 10481 || colspan = "4" | New ID
+|-
+| [[Captain Klemfoodle]] || 10482 || colspan = "4" | New ID
+|-
+| [[Captain Klemfoodle]] || 10483 || colspan = "4" | New ID
+|-
+| [[Captain Klemfoodle]] || 10484 || colspan = "4" | New ID
+|-
+| [[Captain Klemfoodle]] || 10485 || colspan = "4" | New ID
+|-
+| [[Captain Shoracks]] || 10486 || colspan = "4" | New ID
+|-
+| [[Captain Shoracks]] || 10487 || colspan = "4" | New ID
+|-
+| [[Captain Shoracks]] || 10488 || colspan = "4" | New ID
+|-
+| [[Captain Shoracks]] || 10489 || colspan = "4" | New ID
+|-
+| [[Captain Shoracks]] || 10490 || colspan = "4" | New ID
+|-
+| [[Captain Shoracks]] || 10491 || colspan = "4" | New ID
+|-
+|rowspan="6"|[[null]]
+|rowspan="6"|1359
+|-
+|varbitId || -1 || 9567
+|-
+| varpIndex || 416 || -1
+|-
+| configs || [7516, 7516, 7516, 7516, 7516, 7516, 7516, 7516, 7516, 7516, 7516, 7516, 7516, 7516, 7516, 7516, 7516, 7516, 7516, 7516, 7516, 7516, 7516, 7516, 7516, 7516, 7516, 7516, 7516, 7516, 7516, 7516, 7516, 7516, 7516, 7516, 7516, 7516, 7516, 7516, 7516, 7516, 7516, 7516, 7516, 7516, 7516, 7516, 7516, 7516, 7516, 7516, 7516, 7516, 7516, 7516, 7516, 7516, 7516, 7516, 7516, 7516, 7516, 7516, 7516, 7516, 7516, 7516, 7516, 7516, 7516, 7516, 7516, 7516, 7516, 7516, 7516, 7516, 7516, 7516, 7516, 7516, 7516, 7516, 7516, 7516, 7516, 7516, 7516, 7516, 7516, 7516, 7516, 7516, 7516, 7516, 7516, 7516, 7516, 7516, 7516, 7516, 7516, 7516, 7516, 7516, 7516, 7516, 7516, 7516, 7516, 7516, 7516, 7516, 7516, 7516, 7516, 7516, 7516, 7516, 7516, 7516, 7516, 7516, 7516, 7516, 7516, 7516, 7516, 7516, 7516, 7516, 7516, 7516, 7516, 7516, 7516, 7516, 7516, 7516, 7516, 7516, 7516, 7516, 7516, 7516, 7516, 7516, 7516, 7516, 7516, 7516, 7516, 7516, 7516, 7516, 7516, 7516, 7516, 7516, 7516, 7516, 7516, 7516, 7516, 7516, 7516, 7516, 7516, 7516, 7516, 7516, 7516, 7516, 7516, 7516, 7516, 7516, 7516, 7516, 7516, 7516, 7516, 7516, 7516, 7516, 7516, 7516, 7516, 7516, 7516, 7516, 7516, 7516, 7516, 7516, 7516, 7516, 7516, 7516, 7517] || [7516, 7516, 7516, 7516, 7516, 7516, 7516, 7516, 7516, 7516, 7516, 7516, 7516, 7516, 7516, 7516, 10445, 10446, 10447, 10448, 10450, 7517, 10451, 7517]
+|-
+| actions || ['Talk-to', None, None, None, None] || ['Talk-to', None, 'Relocate', 'Redecorate', None]
+|-
+| name || [[Captain Dalbur]] || [[null]]
+|-
+|rowspan="3"|[[null]]
+|rowspan="3"|6089
+|-
+|actions || ['Glider', None, 'Talk-to', None, None] || [None, None, None, None, None]
+|-
+| varbitId || -1 || 9584
+|-
+|rowspan="5"|[[null]]
+|rowspan="5"|6090
+|-
+|name || [[Captain Bleemadge]] || [[null]]
+|-
+| actions || ['Glider', None, 'Talk-to', None, None] || [None, None, None, None, None]
+|-
+| varbitId || -1 || 9584
+|-
+| name || [[Captain Errdo]] || [[null]]
+|-
+|rowspan="4"|[[null]]
+|rowspan="4"|6091
+|-
+|actions || ['Glider', None, 'Talk-to', None, None] || [None, None, None, None, None]
+|-
+| varbitId || -1 || 9584
+|-
+| name || [[Captain Klemfoodle]] || [[null]]
+|-
+|rowspan="3"|[[null]]
+|rowspan="3"|6092
+|-
+|actions || ['Glider', None, 'Talk-to', None, None] || [None, None, None, None, None]
+|-
+| varbitId || -1 || 9584
+|-
+|rowspan="4"|[[null]]
+|rowspan="4"|7198
+|-
+|varbitId || 5027 || 9567
+|-
+| configs || [-1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 7178, 7178, 7178, 7178, 7178, 7178, -1] || [-1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 10486, 10487, 10488, 10489, 10490, 10491, 7178, -1]
+|-
+| actions || ['Glider', None, None, None, None] || ['Glider', None, 'Talk-to', None, None]
+|-
+|rowspan="4"|[[Alwyn]]
+|rowspan="4"|9137
+|-
+|actions || ['Talk-to', None, None, None, None] || ['Talk-to', None, 'Relocate', 'Redecorate', None]
+|-
+|}
+
+{| class="wikitable sortable" 
+!colspan="5"|Objects
+|-
+! Name !! ID !! Key !! Previous Value !! Changed into
+|-
+|}

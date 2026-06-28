@@ -8,10 +8,10 @@ import org.rsmod.api.stats.xpmod.XpModifiers
 import org.rsmod.api.table.ComboruneRecipeRow
 import org.rsmod.api.table.runecrafting.RunecraftingRunesRow
 import org.rsmod.content.skills.runecrafting.essencepouch.EssencePouch
-import org.rsmod.content.skills.runecrafting.items.BloodEssence
-import org.rsmod.content.skills.runecrafting.items.BloodEssence.applyBloodRuneBonus
 import org.rsmod.content.skills.runecrafting.items.BindingNecklace.consumeChargeAfterCombo
 import org.rsmod.content.skills.runecrafting.items.BindingNecklace.isWearing
+import org.rsmod.content.skills.runecrafting.items.BloodEssence
+import org.rsmod.content.skills.runecrafting.items.BloodEssence.applyBloodRuneBonus
 import org.rsmod.content.skills.runecrafting.items.RaimentsOfTheEye.applyBonus
 import org.rsmod.content.skills.runecrafting.magic.MagicImbue.isActive
 
@@ -28,12 +28,13 @@ object RunecraftAction {
     private const val CORE_RUNE_MULTIPLIER = 11
     private const val CORE_XP_MULTIPLIER = 10
 
-    private val runecraftingExtract = mapOf(
-        "obj.scar_extract_warped" to 250,
-        "obj.scar_extract_twisted" to 60,
-        "obj.scar_extract_mangled" to 60,
-        "obj.scar_extract_scarred" to 60
-    )
+    private val runecraftingExtract =
+        mapOf(
+            "obj.scar_extract_warped" to 250,
+            "obj.scar_extract_twisted" to 60,
+            "obj.scar_extract_mangled" to 60,
+            "obj.scar_extract_scarred" to 60,
+        )
 
     suspend fun ProtectedAccess.preCraft() {
         anim("seq.human_runecraft")
@@ -181,13 +182,8 @@ object RunecraftAction {
             totalRunes += runecraftingExtract[rune.extract.internalName] ?: 0
         }
 
-        if (
-            !ouraniaAltar &&
-            rune.output.internalName == BloodEssence.BLOOD_RUNE
-        ) {
-            applyBloodRuneBonus(essenceConsumed)?.let { bonus ->
-                totalRunes += bonus
-            }
+        if (!ouraniaAltar && rune.output.internalName == BloodEssence.BLOOD_RUNE) {
+            applyBloodRuneBonus(essenceConsumed)?.let { bonus -> totalRunes += bonus }
         }
 
         invAdd(inv, rune.output.internalName, totalRunes)
@@ -198,7 +194,7 @@ object RunecraftAction {
         val level = player.baseRunecraftingLvl
         if (level < rune.statReq.first().t1) {
             mesbox(
-                "You need Runecrafting level ${rune.statReq.first().t1} to craft ${rune.output.name.lowercase()}s.",
+                "You need Runecrafting level ${rune.statReq.first().t1} to craft ${rune.output.name.lowercase()}s."
             )
             return false
         }
@@ -207,10 +203,8 @@ object RunecraftAction {
         val acceptsPureSubstitutes = PURE_ESSENCE in validEssenceIds
         val checkIds =
             when {
-                acceptsPureSubstitutes ->
-                    validEssenceIds + DAEYALT_ESSENCE + GUARDIAN_ESSENCE
-                DARK_ESSENCE in validEssenceIds ->
-                    validEssenceIds
+                acceptsPureSubstitutes -> validEssenceIds + DAEYALT_ESSENCE + GUARDIAN_ESSENCE
+                DARK_ESSENCE in validEssenceIds -> validEssenceIds
                 else -> validEssenceIds
             }
         val hasEssence = checkIds.any(inv::contains)
@@ -218,7 +212,7 @@ object RunecraftAction {
             val essenceName = rune.input.first().name.lowercase()
             if (acceptsPureSubstitutes) {
                 mesbox(
-                    "You do not have any $essenceName, Daeyalt essence, or guardian essence to bind.",
+                    "You do not have any $essenceName, Daeyalt essence, or guardian essence to bind."
                 )
             } else {
                 mesbox("You do not have any $essenceName to bind.")
@@ -294,7 +288,7 @@ object RunecraftAction {
         val level = player.baseRunecraftingLvl
         if (level < rune.statReq.first().t1) {
             mesbox(
-                "You need Runecrafting level ${rune.statReq.first().t1} to craft ${rune.output.name.lowercase()}s.",
+                "You need Runecrafting level ${rune.statReq.first().t1} to craft ${rune.output.name.lowercase()}s."
             )
             return
         }
@@ -313,13 +307,14 @@ object RunecraftAction {
 
     suspend fun ProtectedAccess.craftAether(xpMods: XpModifiers) {
         val aetherRune =
-            RunecraftingRunesRow.all().firstOrNull {
-                it.output.internalName == "obj.aetherrune"
-            } ?: return
+            RunecraftingRunesRow.all().firstOrNull { it.output.internalName == "obj.aetherrune" }
+                ?: return
 
         val level = player.baseRunecraftingLvl
         if (level < aetherRune.statReq.first().t1) {
-            mesbox("You need Runecrafting level ${aetherRune.statReq.first().t1} to craft aether runes.")
+            mesbox(
+                "You need Runecrafting level ${aetherRune.statReq.first().t1} to craft aether runes."
+            )
             return
         }
 
@@ -365,16 +360,12 @@ object RunecraftAction {
                     row.statReq.first().t1 <= level &&
                     PURE_ESSENCE in row.input.map { it.internalName }
             }
-        return eligible.randomOrNull() ?: RunecraftingRunesRow.all().first { it.output.internalName == "obj.airrune" }
+        return eligible.randomOrNull()
+            ?: RunecraftingRunesRow.all().first { it.output.internalName == "obj.airrune" }
     }
 
     private val ouraniaExcludedRunes =
-        setOf(
-            "obj.sunfirerune",
-            "obj.wrathrune",
-            "obj.aetherrune",
-            "obj.soulrune",
-        )
+        setOf("obj.sunfirerune", "obj.wrathrune", "obj.aetherrune", "obj.soulrune")
 
     fun getBonusMultiplier(rune: String, level: Int): Double =
         when (rune) {
@@ -402,8 +393,7 @@ object RunecraftAction {
 
         preCraft()
 
-        val craftCount =
-            minOf(countPureLikeEssence(), inv.count(input.internalName))
+        val craftCount = minOf(countPureLikeEssence(), inv.count(input.internalName))
         if (craftCount <= 0) {
             return
         }

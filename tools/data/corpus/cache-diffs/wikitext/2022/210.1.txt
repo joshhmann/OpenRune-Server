@@ -1,0 +1,226 @@
+{{ToC}}
+==Items==
+===New Items===
+{| class="wikitable sortable"
+!colspan='11'|New Items
+|-
+! style=width:15em | Name !! ID !! Members !! Tradeable in GE !! Equipable !! Stackable !! Noteable !! Options !! Placeholder !! Cost !! Weight
+|-
+|-
+|}
+===Removed Items===
+{| class="wikitable sortable"
+!colspan='2'|Removed Items
+|-
+! style=width:15em | Name !! ID
+|-
+|-
+|}
+===Diff Items===
+{| class="wikitable sortable"
+!colspan='5'|Diff Items
+|-
+! style=width:15em | Name !! ID !! Key !! Previous Value !! New Value
+|-
+|rowspan="2"|[[Dirty note]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#27515 27515]
+|-
+|interfaceOptions || ['Read', None, None, None, 'Destroy'] || ['Read', None, None, None, 'Drop']
+|-
+|rowspan="2"|[[Dirty note]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#27516 27516]
+|-
+|interfaceOptions || ['Read', None, None, None, 'Destroy'] || ['Read', None, None, None, 'Drop']
+|-
+|rowspan="2"|[[Dirty note]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#27517 27517]
+|-
+|interfaceOptions || ['Read', None, None, None, 'Destroy'] || ['Read', None, None, None, 'Drop']
+|-
+|rowspan="2"|[[Wood carving]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#27523 27523]
+|-
+|interfaceOptions || ['Inspect', None, None, None, 'Destroy'] || ['Inspect', None, None, None, 'Drop']
+|-
+|rowspan="2"|[[Wood carving]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#27524 27524]
+|-
+|interfaceOptions || ['Inspect', None, None, None, 'Destroy'] || ['Inspect', None, None, None, 'Drop']
+|-
+|rowspan="2"|[[Wood carving]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#27525 27525]
+|-
+|interfaceOptions || ['Inspect', None, None, None, 'Destroy'] || ['Inspect', None, None, None, 'Drop']
+|-
+|rowspan="2"|[[Wood carving]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#27526 27526]
+|-
+|interfaceOptions || ['Inspect', None, None, None, 'Destroy'] || ['Inspect', None, None, None, 'Drop']
+|-
+|rowspan="2"|[[Wood carving]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#27527 27527]
+|-
+|interfaceOptions || ['Inspect', None, None, None, 'Destroy'] || ['Inspect', None, None, None, 'Drop']
+|-
+|rowspan="2"|[[Wood carving]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#27528 27528]
+|-
+|interfaceOptions || ['Inspect', None, None, None, 'Destroy'] || ['Inspect', None, None, None, 'Drop']
+|-
+|rowspan="2"|[[Wood carving]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#27529 27529]
+|-
+|interfaceOptions || ['Inspect', None, None, None, 'Destroy'] || ['Inspect', None, None, None, 'Drop']
+|-
+|rowspan="2"|[[Wood carving]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#27530 27530]
+|-
+|interfaceOptions || ['Inspect', None, None, None, 'Destroy'] || ['Inspect', None, None, None, 'Drop']
+|-
+|rowspan="2"|[[Wood carving]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#27531 27531]
+|-
+|interfaceOptions || ['Inspect', None, None, None, 'Destroy'] || ['Inspect', None, None, None, 'Drop']
+|-
+|rowspan="2"|[[Compass]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#27532 27532]
+|-
+|interfaceOptions || ['Inspect', None, None, None, 'Destroy'] || ['Inspect', None, None, None, 'Drop']
+|-
+|rowspan="2"|[[Wood carving]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#27533 27533]
+|-
+|interfaceOptions || ['Inspect', None, None, None, 'Destroy'] || ['Inspect', None, None, None, 'Drop']
+|-
+|rowspan="2"|[[Wood carving]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#27534 27534]
+|-
+|interfaceOptions || ['Inspect', None, None, None, 'Destroy'] || ['Inspect', None, None, None, 'Drop']
+|-
+|rowspan="2"|[[Wood carving]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#27535 27535]
+|-
+|interfaceOptions || ['Inspect', None, None, None, 'Destroy'] || ['Inspect', None, None, None, 'Drop']
+|-
+|rowspan="2"|[[Wood carving]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#27536 27536]
+|-
+|interfaceOptions || ['Inspect', None, None, None, 'Destroy'] || ['Inspect', None, None, None, 'Drop']
+|-
+|rowspan="2"|[[Wood carving]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#27537 27537]
+|-
+|interfaceOptions || ['Inspect', None, None, None, 'Destroy'] || ['Inspect', None, None, None, 'Drop']
+|-
+|}
+
+==Non-Player Characters==
+===New NPCs===
+{| class="wikitable sortable"
+!colspan='4'|New NPCs
+|-
+! style=width:15em | Name !! ID !! Combat Level !! Options
+|-
+| [[Zebak]] || [https://chisel.weirdgloop.org/moid/npc_id.html#10680 10680] || 371 || None
+|-
+| [[The Maiden of Sugadinti]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11958 11958] || 940 || None
+|-
+| [[Vorkath]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11959 11959] || 1 || None
+|-
+| [[Galvek]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11960 11960] || 608 || None
+|-
+| [[Abyssal Sire]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11961 11961] || 1 || None
+|-
+| [[Alchemical Hydra]] || [https://chisel.weirdgloop.org/moid/npc_id.html#11962 11962] || 1 || None
+|-
+| [[Tempoross]] || [https://chisel.weirdgloop.org/moid/npc_id.html#6257 6257] || 1 || None
+|-
+|-
+|}
+===Removed NPCs===
+{| class="wikitable sortable"
+!colspan='2'|Removed NPCs
+|-
+! style=width:15em | Name !! ID
+|-
+|-
+|}
+===Diff NPCs===
+{| class="wikitable sortable"
+!colspan='5'|Diff NPCs
+|-
+! style=width:15em | Name !! ID !! Key !! Previous Value !! New Value
+|-
+|rowspan="2"|[[Apprentice Cordelia]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#11427 11427]
+|-
+|actions || [None, None, None, None, None] || ['Talk-to', None, None, None, None]
+|-
+|}
+
+==Objects==
+===New Objects=== 
+{| class="wikitable sortable"
+!colspan='3'|New Objects
+|-
+! style=width:15em | Name !! ID !! Options
+|-
+| [[Lever]] || [https://chisel.weirdgloop.org/moid/object_id.html#46438 46438] || Edgeville, Ardougne, Swap-options
+|-
+|-
+|}
+===Removed Objects===
+{| class="wikitable sortable"
+!colspan='2'|Removed Objects
+|-
+! style=width:15em | Name !! ID
+|-
+|-
+|}
+===Diff Objects===
+{| class="wikitable sortable"
+!colspan='5'|Diff Objects
+|-
+! style=width:15em | Name !! ID !! Key !! Previous Value !! New Value
+|-
+|rowspan="3"|[[null]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#1815 1815]
+|-
+|varbitID || 4470 || 14673
+|-
+| configChangeDest || [9472, 9738, 9738, 9738, 9738, 9738, 9738, 9738, 9738, 9738, 9738, 9738, 9738, 9738, 9738, 9738, -1] || [9472, 9738, 46438, -1]
+|-
+|rowspan="2"|[[Lever]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#9738 9738]
+|-
+|actions || ['Ardougne', 'Edgeville', None, None, None] || ['Ardougne', 'Edgeville', 'Swap-options', None, None]
+|-
+|rowspan="6"|[[null]]
+|rowspan="6"|[https://chisel.weirdgloop.org/moid/object_id.html#28850 28850]
+|-
+|animationID || 502 || -1
+|-
+| modelSizeX || 128 || 1
+|-
+| modelSizeHeight || 128 || 1
+|-
+| modelSizeY || 128 || 1
+|-
+| varpID || 1676 || -1
+|-
+|rowspan="2"|[[Stone chest]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#46339 46339]
+|-
+|objectModels || [36372] || [46831]
+|-
+|rowspan="2"|[[Stone chest]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#46340 46340]
+|-
+|objectModels || [36372] || [46831]
+|-
+|rowspan="2"|[[Stone chest]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#46341 46341]
+|-
+|objectModels || [36376] || [46832]
+|-
+|}

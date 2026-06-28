@@ -1,0 +1,82 @@
+{{ToC}}
+==Items==
+{| class="wikitable sortable"
+!colspan='5'|Items
+|-
+! Name !! ID !! Key !! Previous Value !! Changed into
+|-
+| [[Raw boar meat]] || 25833 || colspan = "4" | New ID
+|-
+| [[null]] || 25834 || colspan = "4" | New ID
+|-
+| [[null]] || 25835 || colspan = "4" | New ID
+|-
+|rowspan="2"|[[Grubs à la mode]]
+|rowspan="2"|10966
+|-
+|name || [[Grubs Ã  la mode]] || [[Grubs à la mode]]<ref>Check ingame for name</ref>
+|-
+|rowspan="4"|[[Abyssal orphan]]
+|rowspan="4"|13262
+|-
+|xan2d || 6 || 2033
+|-
+| zoom2d || 2168 || 2270
+|-
+| xOffset2d || 3 || 1
+|-
+|rowspan="2"|[[Fiendish ashes]]
+|rowspan="2"|25766
+|-
+|members || True || False
+|-
+|rowspan="2"|[[Vile ashes]]
+|rowspan="2"|25769
+|-
+|members || True || False
+|-
+|rowspan="3"|[[Book of the dead]]
+|rowspan="3"|25818
+|-
+|interfaceOptions || ['Reminisce', 'Wield', 'Read', 'Check', 'Destroy'] || ['Wield', 'Reminisce', 'Read', 'Check', 'Destroy']
+|-
+| params || {'451': 'Lunch by the Lancalliums', '452': "The Fisher's Flute", '453': 'History and Hearsay', '454': 'Jewellery of Jubilation', '455': 'A Dark Disposition', '456': 'Read', '457': 'Check'} || {'451': 'Lunch by the Lancalliums', '148': 1, '452': "The Fisher's Flute", '453': 'History and Hearsay', '454': 'Jewellery of Jubilation', '455': 'A Dark Disposition', '456': 'Read', '457': 'Check'}
+|-
+|}
+
+==Non-Player Characters==
+{| class="wikitable sortable"
+!colspan='5'|Non-Player Characters
+|-
+! Name !! ID !! Key !! Previous Value !! Changed into
+|-
+|rowspan="2"|[[Le-sabrè]]
+|rowspan="2"|5521
+|-
+|name || [[Le-sabrÃ¨]] || [[Le-sabrè]]<ref>Check ingame for name</ref>
+|-
+|}
+==Objects==
+{| class="wikitable sortable"
+!colspan='5'|Objects
+|-
+! Name !! ID !! Key !! Previous Value !! Changed into
+|-
+| [[Ladder]] || 42487 || colspan = "4" | New ID
+|-
+|rowspan="2"|[[Climbing rocks]]
+|rowspan="2"|11948
+|-
+|blockingMask || 0 || 13
+|-
+|rowspan="2"|[[Climbing rocks]]
+|rowspan="2"|11949
+|-
+|blockingMask || 0 || 13
+|-
+|rowspan="2"|[[Ladder]]
+|rowspan="2"|42042
+|-
+|blockingMask || 0 || 14
+|-
+|}

@@ -22,6 +22,7 @@ public data class BotConfigYaml(
     @JsonProperty("progressive") val progressive: Boolean = true,
     @JsonProperty("agent-bridge") val agentBridge: Boolean = false,
     @JsonProperty("agent-bridge-port") val agentBridgePort: Int = 43595,
+    @JsonProperty("llm-enabled") val llmEnabled: Boolean = false,
     @JsonProperty("llm-url") val llmUrl: String = "http://localhost:11434/api/generate",
     @JsonProperty("llm-model") val llmModel: String = "llama3",
 )

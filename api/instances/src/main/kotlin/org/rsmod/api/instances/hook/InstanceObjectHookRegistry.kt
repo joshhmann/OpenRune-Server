@@ -17,5 +17,6 @@ internal class InstanceObjectHookRegistry {
     }
 
     fun getEnter(key: String): (suspend ProtectedAccess.() -> Unit)? = enterOverrides[key]
+
     fun getExit(key: String): (suspend ProtectedAccess.() -> Unit)? = exitOverrides[key]
 }

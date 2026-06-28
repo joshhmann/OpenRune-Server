@@ -19,8 +19,7 @@ object SlayerBossTasks {
 
     private const val BOSS_REPLACE_DENOMINATOR = 16
 
-    private val EXCLUDED_BOSS_NAME_FRAGMENTS =
-        setOf("corporeal", "yama", "nightmare", "nex")
+    private val EXCLUDED_BOSS_NAME_FRAGMENTS = setOf("corporeal", "yama", "nightmare", "nex")
 
     private val entriesByTaskId = SlayerTaskSublistRow.all().associateBy { it.task.id }
     private val entriesBySubtableId = SlayerTaskSublistRow.all().groupBy { it.subtableId }
@@ -32,8 +31,7 @@ object SlayerBossTasks {
         return SlayerTaskManager.hasUnlockedReward(access, rewardBit)
     }
 
-    fun isBossTask(taskId: Int): Boolean =
-        taskId in entriesByTaskId
+    fun isBossTask(taskId: Int): Boolean = taskId in entriesByTaskId
 
     fun isExcludedBoss(task: SlayerTaskRow): Boolean =
         EXCLUDED_BOSS_NAME_FRAGMENTS.any(task.nameLowercase::contains)
@@ -55,10 +53,7 @@ object SlayerBossTasks {
         }
     }
 
-    fun rollBossTask(
-        access: ProtectedAccess,
-        master: SlayerMastersRow,
-    ): SlayerMasterTaskRow? =
+    fun rollBossTask(access: ProtectedAccess, master: SlayerMastersRow): SlayerMasterTaskRow? =
         eligibleBossTasks(access, master).randomOrNull()
 
     fun rollBossReplacement(
@@ -67,9 +62,9 @@ object SlayerBossTasks {
     ): SlayerMasterTaskRow? {
         if (
             !master.assignBosses ||
-            !hasLikeABoss(access) ||
-            SlayerTaskManager.isWildernessMaster(master) ||
-            Random.nextInt(BOSS_REPLACE_DENOMINATOR) != 0
+                !hasLikeABoss(access) ||
+                SlayerTaskManager.isWildernessMaster(master) ||
+                Random.nextInt(BOSS_REPLACE_DENOMINATOR) != 0
         ) {
             return null
         }
@@ -79,7 +74,6 @@ object SlayerBossTasks {
 
     fun supportsBossAssignment(master: SlayerMastersRow): Boolean =
         master.assignBosses || SlayerTaskManager.isWildernessMaster(master)
-
 
     fun rollVariant(taskId: Int): Int {
         val entry = entriesByTaskId[taskId] ?: return taskId
@@ -91,10 +85,7 @@ object SlayerBossTasks {
     fun maxKillCount(task: SlayerTaskRow): Int =
         if ("barrows" in task.nameLowercase) BARROWS_MAX_KILL_COUNT else DEFAULT_MAX_KILL_COUNT
 
-    fun meetsBossRequirements(
-        player: Player,
-        task: SlayerTaskRow,
-    ): Boolean {
+    fun meetsBossRequirements(player: Player, task: SlayerTaskRow): Boolean {
         val meetsCombatRequirement = task.minComlevel?.let { player.combatLevel >= it } ?: true
 
         if (!meetsCombatRequirement) {

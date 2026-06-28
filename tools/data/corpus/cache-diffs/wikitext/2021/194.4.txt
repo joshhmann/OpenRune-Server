@@ -1,0 +1,1041 @@
+{| class="wikitable sortable"
+!colspan="5"|Items
+|-
+! Name !! ID !! Key !! Previous Value !! Changed into
+|-
+| [[Big harpoonfish]] || 25559 || colspan = "4" | New ID
+|-
+| [[null]] || 25560 || colspan = "4" | New ID
+|-
+| [[Stuffed big harpoonfish]] || 25561 || colspan = "4" | New ID
+|-
+| [[null]] || 25562 || colspan = "4" | New ID
+|-
+| [[Mounted harpoonfish]] || 25563 || colspan = "4" | New ID
+|-
+| [[Raw harpoonfish]] || 25564 || colspan = "4" | New ID
+|-
+| [[Harpoonfish]] || 25565 || colspan = "4" | New ID
+|-
+| [[Crystallised harpoonfish]] || 25566 || colspan = "4" | New ID
+|-
+| [[The desert trout - ship's log]] || 25567 || colspan = "4" | New ID
+|-
+| [[null]] || 25568 || colspan = "4" | New ID
+|-
+| [[Spirit anglers research notes]] || 25569 || colspan = "4" | New ID
+|-
+| [[null]] || 25570 || colspan = "4" | New ID
+|-
+| [[Damp egg]] || 25571 || colspan = "4" | New ID
+|-
+| [[null]] || 25572 || colspan = "4" | New ID
+|-
+| [[null]] || 25573 || colspan = "4" | New ID
+|-
+| [[Tome of water]] || 25574 || colspan = "4" | New ID
+|-
+| [[null]] || 25575 || colspan = "4" | New ID
+|-
+| [[Tome of water (empty)]] || 25576 || colspan = "4" | New ID
+|-
+| [[null]] || 25577 || colspan = "4" | New ID
+|-
+| [[Soaked page]] || 25578 || colspan = "4" | New ID
+|-
+| [[null]] || 25579 || colspan = "4" | New ID
+|-
+| [[Tackle box]] || 25580 || colspan = "4" | New ID
+|-
+| [[null]] || 25581 || colspan = "4" | New ID
+|-
+| [[Fish barrel]] || 25582 || colspan = "4" | New ID
+|-
+| [[null]] || 25583 || colspan = "4" | New ID
+|-
+| [[Open fish barrel]] || 25584 || colspan = "4" | New ID
+|-
+| [[Fish sack barrel]] || 25585 || colspan = "4" | New ID
+|-
+| [[null]] || 25586 || colspan = "4" | New ID
+|-
+| [[Open fish sack barrel]] || 25587 || colspan = "4" | New ID
+|-
+| [[Spirit flakes]] || 25588 || colspan = "4" | New ID
+|-
+| [[null]] || 25589 || colspan = "4" | New ID
+|-
+| [[Casket]] || 25590 || colspan = "4" | New ID
+|-
+| [[null]] || 25591 || colspan = "4" | New ID
+|-
+| [[Spirit angler headband]] || 25592 || colspan = "4" | New ID
+|-
+| [[null]] || 25593 || colspan = "4" | New ID
+|-
+| [[Spirit angler top]] || 25594 || colspan = "4" | New ID
+|-
+| [[null]] || 25595 || colspan = "4" | New ID
+|-
+| [[Spirit angler waders]] || 25596 || colspan = "4" | New ID
+|-
+| [[null]] || 25597 || colspan = "4" | New ID
+|-
+| [[Spirit angler boots]] || 25598 || colspan = "4" | New ID
+|-
+| [[null]] || 25599 || colspan = "4" | New ID
+|-
+| [[Great blue heron]] || 25600 || colspan = "4" | New ID
+|-
+| [[null]] || 25601 || colspan = "4" | New ID
+|-
+| [[Tiny tempor]] || 25602 || colspan = "4" | New ID
+|-
+| [[null]] || 25603 || colspan = "4" | New ID
+|-
+| [[Gregg's eastdoor]] || 25604 || colspan = "4" | New ID
+|-
+| [[null]] || 25605 || colspan = "4" | New ID
+|-
+| [[Propeller hat]] || 25606 || colspan = "4" | New ID
+|-
+| [[null]] || 25607 || colspan = "4" | New ID
+|-
+| [[Gregg's iou]] || 25608 || colspan = "4" | New ID
+|-
+| [[Pastel flowers]] || 25609 || colspan = "4" | New ID
+|-
+| [[Thick dye]] || 25610 || colspan = "4" | New ID
+|-
+|rowspan="10"|[[null]]
+|rowspan="10"|9815
+|-
+|name || [[Null]] || [[null]]
+|-
+| xan2d || 572 || 512
+|-
+| yan2d || 0 || 1957
+|-
+| stackable || 0 || 1
+|-
+| inventoryModel || 2521 || 41958
+|-
+| zoom2d || 1940 || 660
+|-
+| xOffset2d || 0 || 3
+|-
+| yOffset2d || 1 || -4
+|-
+| interfaceOptions || ['Wear', None, None, None, 'Drop'] || [None, None, None, None, 'Drop']
+|-
+|rowspan="10"|[[null]]
+|rowspan="10"|9816
+|-
+|name || [[Null]] || [[null]]
+|-
+| xan2d || 572 || 512
+|-
+| yan2d || 0 || 1957
+|-
+| stackable || 0 || 1
+|-
+| inventoryModel || 2521 || 41957
+|-
+| zoom2d || 1940 || 660
+|-
+| xOffset2d || 0 || 3
+|-
+| yOffset2d || 1 || -3
+|-
+| interfaceOptions || ['Wear', None, None, None, 'Drop'] || [None, None, None, None, 'Drop']
+|-
+|rowspan="10"|[[null]]
+|rowspan="10"|10165
+|-
+|name || [[Null]] || [[null]]
+|-
+| xan2d || 572 || 512
+|-
+| yan2d || 0 || 1957
+|-
+| stackable || 0 || 1
+|-
+| inventoryModel || 2521 || 41962
+|-
+| zoom2d || 1940 || 660
+|-
+| xOffset2d || 0 || 3
+|-
+| yOffset2d || 1 || -2
+|-
+| interfaceOptions || ['Wear', None, None, None, 'Drop'] || [None, None, None, None, 'Drop']
+|-
+|rowspan="10"|[[null]]
+|rowspan="10"|10166
+|-
+|name || [[Null]] || [[null]]
+|-
+| xan2d || 572 || 512
+|-
+| yan2d || 0 || 1957
+|-
+| stackable || 0 || 1
+|-
+| inventoryModel || 2521 || 41956
+|-
+| zoom2d || 1940 || 660
+|-
+| xOffset2d || 0 || 3
+|-
+| yOffset2d || 1 || 0
+|-
+| interfaceOptions || ['Wear', None, None, None, 'Drop'] || [None, None, None, None, 'Drop']
+|-
+|rowspan="10"|[[null]]
+|rowspan="10"|10601
+|-
+|name || [[Null]] || [[null]]
+|-
+| xan2d || 572 || 512
+|-
+| yan2d || 0 || 1957
+|-
+| stackable || 0 || 1
+|-
+| inventoryModel || 2521 || 41955
+|-
+| zoom2d || 1940 || 660
+|-
+| xOffset2d || 0 || 3
+|-
+| yOffset2d || 1 || 0
+|-
+| interfaceOptions || ['Wear', None, None, None, 'Drop'] || [None, None, None, None, 'Drop']
+|-
+|rowspan="10"|[[null]]
+|rowspan="10"|10602
+|-
+|name || [[Null]] || [[null]]
+|-
+| xan2d || 572 || 512
+|-
+| yan2d || 0 || 1957
+|-
+| stackable || 0 || 1
+|-
+| inventoryModel || 2521 || 41954
+|-
+| zoom2d || 1940 || 660
+|-
+| xOffset2d || 0 || 3
+|-
+| yOffset2d || 1 || 0
+|-
+| interfaceOptions || ['Wear', None, None, None, 'Drop'] || [None, None, None, None, 'Drop']
+|-
+|rowspan="10"|[[null]]
+|rowspan="10"|10666
+|-
+|name || [[Null]] || [[null]]
+|-
+| xan2d || 572 || 512
+|-
+| yan2d || 0 || 1957
+|-
+| stackable || 0 || 1
+|-
+| inventoryModel || 2521 || 41961
+|-
+| zoom2d || 1940 || 660
+|-
+| xOffset2d || 0 || 3
+|-
+| yOffset2d || 1 || 0
+|-
+| interfaceOptions || ['Wear', None, None, None, 'Drop'] || [None, None, None, None, 'Drop']
+|-
+|rowspan="10"|[[null]]
+|rowspan="10"|10669
+|-
+|name || [[Null]] || [[null]]
+|-
+| xan2d || 572 || 512
+|-
+| yan2d || 0 || 1957
+|-
+| stackable || 0 || 1
+|-
+| inventoryModel || 2521 || 41949
+|-
+| zoom2d || 1940 || 660
+|-
+| xOffset2d || 0 || 3
+|-
+| yOffset2d || 1 || 0
+|-
+| interfaceOptions || ['Wear', None, None, None, 'Drop'] || [None, None, None, None, 'Drop']
+|-
+|rowspan="3"|[[Feather]]
+|rowspan="3"|11525
+|-
+|name || [[Wimpy feather]] || [[Feather]]
+|-
+| cost || 15 || 1
+|-
+|rowspan="3"|[[Tome of fire]]
+|rowspan="3"|20714
+|-
+|interfaceOptions || [None, 'Wield', 'Check', 'Add or Remove pages', 'Drop'] || [None, 'Wield', 'Check', 'Pages', 'Drop']
+|-
+| params || {'452': 'Add or remove pages', '451': 'Check'} || {'452': 'Pages', '451': 'Check'}
+|-
+|rowspan="3"|[[Tome of fire (empty)]]
+|rowspan="3"|20716
+|-
+|interfaceOptions || [None, 'Wield', None, 'Add pages', 'Drop'] || [None, 'Wield', None, 'Pages', 'Drop']
+|-
+| params || {'451': 'Add pages'} || {'451': 'Pages'}
+|-
+|rowspan="2"|[[Zealot's robe top]]
+|rowspan="2"|25434
+|-
+|cost || 15000 || 25000
+|-
+|rowspan="2"|[[Zealot's robe bottom]]
+|rowspan="2"|25436
+|-
+|cost || 14500 || 24500
+|-
+|rowspan="2"|[[Zealot's helm]]
+|rowspan="2"|25438
+|-
+|cost || 14400 || 24400
+|-
+|rowspan="2"|[[Zealot's boots]]
+|rowspan="2"|25440
+|-
+|cost || 14400 || 24400
+|-
+|}
+
+{| class="wikitable sortable"
+!colspan="5"|Non-Player Characters
+|-
+! Name !! ID !! Key !! Previous Value !! Changed into
+|-
+| [[Tiny Tempor]] || 10562 || colspan = "4" | New ID
+|-
+| [[Crab]] || 10563 || colspan = "4" | New ID
+|-
+| [[Fishing spot]] || 10565 || colspan = "4" | New ID
+|-
+| [[Fishing spot]] || 10568 || colspan = "4" | New ID
+|-
+| [[Fishing spot]] || 10569 || colspan = "4" | New ID
+|-
+| [[<col=00ffff>Inactive spirit pool</col>]] || 10570 || colspan = "4" | New ID
+|-
+| [[<col=00ffff>Spirit pool</col>]] || 10571 || colspan = "4" | New ID
+|-
+| [[Tempoross]] || 10572 || colspan = "4" | New ID
+|-
+| [[null]] || 10573 || colspan = "4" | New ID
+|-
+| [[Tempoross]] || 10574 || colspan = "4" | New ID
+|-
+| [[Tempoross]] || 10575 || colspan = "4" | New ID
+|-
+| [[<col=00ffff>Ammunition crate</col>]] || 10576 || colspan = "4" | New ID
+|-
+| [[<col=00ffff>Ammunition crate</col>]] || 10577 || colspan = "4" | New ID
+|-
+| [[<col=00ffff>Ammunition crate</col>]] || 10578 || colspan = "4" | New ID
+|-
+| [[<col=00ffff>Ammunition crate</col>]] || 10579 || colspan = "4" | New ID
+|-
+| [[<col=00ffff>Lightning cloud</col>]] || 10580 || colspan = "4" | New ID
+|-
+| [[null]] || 10581 || colspan = "4" | New ID
+|-
+| [[null]] || 10582 || colspan = "4" | New ID
+|-
+| [[Captain Pudi]] || 10583 || colspan = "4" | New ID
+|-
+| [[Captain Dudi]] || 10584 || colspan = "4" | New ID
+|-
+| [[Captain Pudi]] || 10585 || colspan = "4" | New ID
+|-
+| [[Captain Pudi]] || 10586 || colspan = "4" | New ID
+|-
+| [[Captain Dudi]] || 10587 || colspan = "4" | New ID
+|-
+| [[Captain Dudi]] || 10588 || colspan = "4" | New ID
+|-
+| [[First Mate Deri]] || 10593 || colspan = "4" | New ID
+|-
+| [[First Mate Deri]] || 10595 || colspan = "4" | New ID
+|-
+| [[First Mate Peri]] || 10596 || colspan = "4" | New ID
+|-
+| [[First Mate Peri]] || 10597 || colspan = "4" | New ID
+|-
+| [[Cannoneer]] || 10599 || colspan = "4" | New ID
+|-
+| [[Cannoneer]] || 10600 || colspan = "4" | New ID
+|-
+| [[Cannoneer]] || 10601 || colspan = "4" | New ID
+|-
+| [[Cannoneer]] || 10602 || colspan = "4" | New ID
+|-
+| [[Sailor]] || 10604 || colspan = "4" | New ID
+|-
+| [[Spirit Angler]] || 10605 || colspan = "4" | New ID
+|-
+| [[Spirit Angler]] || 10606 || colspan = "4" | New ID
+|-
+| [[Spirit Angler]] || 10607 || colspan = "4" | New ID
+|-
+| [[Spirit Angler]] || 10608 || colspan = "4" | New ID
+|-
+| [[Spirit Angler]] || 10609 || colspan = "4" | New ID
+|-
+| [[Ferryman Sathwood]] || 10610 || colspan = "4" | New ID
+|-
+| [[Ferryman Nathwood]] || 10611 || colspan = "4" | New ID
+|-
+| [[Retired sailor]] || 10612 || colspan = "4" | New ID
+|-
+| [[Gita Prymes]] || 10613 || colspan = "4" | New ID
+|-
+| [[Taiman]] || 10614 || colspan = "4" | New ID
+|-
+| [[Koanee]] || 10615 || colspan = "4" | New ID
+|-
+| [[Timallus]] || 10616 || colspan = "4" | New ID
+|-
+| [[Lauretta]] || 10617 || colspan = "4" | New ID
+|-
+| [[Ishmael]] || 10618 || colspan = "4" | New ID
+|-
+| [[Shantay Guard]] || 10634 || colspan = "4" | New ID
+|-
+| [[Fishing spot]] || 10635 || colspan = "4" | New ID
+|-
+| [[Great blue heron]] || 10636 || colspan = "4" | New ID
+|-
+| [[Tiny Tempor]] || 10637 || colspan = "4" | New ID
+|-
+| [[Gregg]] || 10638 || colspan = "4" | New ID
+|-
+| [[Gregg]] || 10639 || colspan = "4" | New ID
+|-
+| [[Gregg]] || 10640 || colspan = "4" | New ID
+|-
+| [[Gregg]] || 10641 || colspan = "4" | New ID
+|-
+| [[Gregg]] || 10642 || colspan = "4" | New ID
+|-
+| [[Gregg]] || 10643 || colspan = "4" | New ID
+|-
+| [[Cat]] || 10644 || colspan = "4" | New ID
+|-
+| [[Aggie]] || 10645 || colspan = "4" | New ID
+|-
+| [[null]] || 10646 || colspan = "4" | New ID
+|-
+| [[null]] || 10647 || colspan = "4" | New ID
+|-
+| [[null]] || 10648 || colspan = "4" | New ID
+|-
+| [[null]] || 10649 || colspan = "4" | New ID
+|-
+| [[Great blue heron]] || 6817 || colspan = "4" | New ID
+|-
+|rowspan="2"|[[Heron]]
+|rowspan="2"|6715
+|-
+|actions || ['Talk-to', None, 'Pick-up', None, None] || ['Talk-to', None, 'Metamorphosis', 'Pick-up', None]
+|-
+|rowspan="2"|[[Heron]]
+|rowspan="2"|6722
+|-
+|actions || ['Talk-to', None, 'Pick-up', None, None] || ['Talk-to', None, 'Metamorphosis', 'Pick-up', None]
+|-
+|rowspan="2"|[[Ignisia]]
+|rowspan="2"|7374
+|-
+|actions || ['Talk-to', None, 'Trade-in', None, None] || ['Talk-to', None, 'Exchange', None, None]
+|-
+|}
+
+{| class="wikitable sortable"
+!colspan="5"|Objects
+|-
+! Name !! ID !! Key !! Previous Value !! Changed into
+|-
+| [[Mounted harpoonfish]] || 40963 || colspan = "4" | New ID
+|-
+| [[Hammers]] || 40964 || colspan = "4" | New ID
+|-
+| [[Ropes]] || 40965 || colspan = "4" | New ID
+|-
+| [[Buckets]] || 40966 || colspan = "4" | New ID
+|-
+| [[Harpoons]] || 40967 || colspan = "4" | New ID
+|-
+| [[null]] || 40968 || colspan = "4" | New ID
+|-
+| [[null]] || 40969 || colspan = "4" | New ID
+|-
+| [[null]] || 40970 || colspan = "4" | New ID
+|-
+| [[null]] || 40971 || colspan = "4" | New ID
+|-
+| [[null]] || 40972 || colspan = "4" | New ID
+|-
+| [[null]] || 40973 || colspan = "4" | New ID
+|-
+| [[null]] || 40974 || colspan = "4" | New ID
+|-
+| [[null]] || 40975 || colspan = "4" | New ID
+|-
+| [[null]] || 40976 || colspan = "4" | New ID
+|-
+| [[null]] || 40977 || colspan = "4" | New ID
+|-
+| [[null]] || 40978 || colspan = "4" | New ID
+|-
+| [[null]] || 40979 || colspan = "4" | New ID
+|-
+| [[null]] || 40980 || colspan = "4" | New ID
+|-
+| [[null]] || 40981 || colspan = "4" | New ID
+|-
+| [[null]] || 40982 || colspan = "4" | New ID
+|-
+| [[null]] || 40983 || colspan = "4" | New ID
+|-
+| [[null]] || 40984 || colspan = "4" | New ID
+|-
+| [[null]] || 40985 || colspan = "4" | New ID
+|-
+| [[null]] || 40986 || colspan = "4" | New ID
+|-
+| [[null]] || 40987 || colspan = "4" | New ID
+|-
+| [[null]] || 40988 || colspan = "4" | New ID
+|-
+| [[null]] || 40989 || colspan = "4" | New ID
+|-
+| [[null]] || 40990 || colspan = "4" | New ID
+|-
+| [[null]] || 40991 || colspan = "4" | New ID
+|-
+| [[null]] || 40992 || colspan = "4" | New ID
+|-
+| [[Crate]] || 40993 || colspan = "4" | New ID
+|-
+| [[Barrel]] || 40994 || colspan = "4" | New ID
+|-
+| [[Barrel]] || 40995 || colspan = "4" | New ID
+|-
+| [[Damaged mast]] || 40996 || colspan = "4" | New ID
+|-
+| [[Damaged mast]] || 40997 || colspan = "4" | New ID
+|-
+| [[Mast]] || 40998 || colspan = "4" | New ID
+|-
+| [[Mast]] || 40999 || colspan = "4" | New ID
+|-
+| [[Water pump]] || 41000 || colspan = "4" | New ID
+|-
+| [[null]] || 41001 || colspan = "4" | New ID
+|-
+| [[null]] || 41002 || colspan = "4" | New ID
+|-
+| [[null]] || 41003 || colspan = "4" | New ID
+|-
+| [[Water pump]] || 41004 || colspan = "4" | New ID
+|-
+| [[Fire]] || 41005 || colspan = "4" | New ID
+|-
+| [[null]] || 41006 || colspan = "4" | New ID
+|-
+| [[null]] || 41007 || colspan = "4" | New ID
+|-
+| [[null]] || 41008 || colspan = "4" | New ID
+|-
+| [[null]] || 41009 || colspan = "4" | New ID
+|-
+| [[Damaged totem pole]] || 41010 || colspan = "4" | New ID
+|-
+| [[Damaged totem pole]] || 41011 || colspan = "4" | New ID
+|-
+| [[Totem pole]] || 41012 || colspan = "4" | New ID
+|-
+| [[Totem pole]] || 41233 || colspan = "4" | New ID
+|-
+| [[mast]] || 41234 || colspan = "4" | New ID
+|-
+| [[mast]] || 41235 || colspan = "4" | New ID
+|-
+| [[Shrine]] || 41236 || colspan = "4" | New ID
+|-
+| [[null]] || 41237 || colspan = "4" | New ID
+|-
+| [[Harpoonfish cannon]] || 41238 || colspan = "4" | New ID
+|-
+| [[Harpoonfish cannon]] || 41239 || colspan = "4" | New ID
+|-
+| [[Harpoonfish cannon]] || 41240 || colspan = "4" | New ID
+|-
+| [[Harpoonfish cannon]] || 41241 || colspan = "4" | New ID
+|-
+| [[Electrified harpoonfish cannon]] || 41242 || colspan = "4" | New ID
+|-
+| [[Electrified harpoonfish cannon]] || 41243 || colspan = "4" | New ID
+|-
+| [[Electrified harpoonfish cannon]] || 41244 || colspan = "4" | New ID
+|-
+| [[Electrified harpoonfish cannon]] || 41245 || colspan = "4" | New ID
+|-
+| [[null]] || 41246 || colspan = "4" | New ID
+|-
+| [[null]] || 41247 || colspan = "4" | New ID
+|-
+| [[null]] || 41248 || colspan = "4" | New ID
+|-
+| [[null]] || 41249 || colspan = "4" | New ID
+|-
+| [[null]] || 41250 || colspan = "4" | New ID
+|-
+| [[null]] || 41251 || colspan = "4" | New ID
+|-
+| [[null]] || 41252 || colspan = "4" | New ID
+|-
+| [[null]] || 41253 || colspan = "4" | New ID
+|-
+| [[null]] || 41254 || colspan = "4" | New ID
+|-
+| [[null]] || 41255 || colspan = "4" | New ID
+|-
+| [[null]] || 41256 || colspan = "4" | New ID
+|-
+| [[null]] || 41257 || colspan = "4" | New ID
+|-
+| [[null]] || 41258 || colspan = "4" | New ID
+|-
+| [[null]] || 41259 || colspan = "4" | New ID
+|-
+| [[null]] || 41260 || colspan = "4" | New ID
+|-
+| [[null]] || 41261 || colspan = "4" | New ID
+|-
+| [[null]] || 41262 || colspan = "4" | New ID
+|-
+| [[null]] || 41263 || colspan = "4" | New ID
+|-
+| [[null]] || 41264 || colspan = "4" | New ID
+|-
+| [[null]] || 41265 || colspan = "4" | New ID
+|-
+| [[null]] || 41266 || colspan = "4" | New ID
+|-
+| [[null]] || 41267 || colspan = "4" | New ID
+|-
+| [[null]] || 41268 || colspan = "4" | New ID
+|-
+| [[null]] || 41269 || colspan = "4" | New ID
+|-
+| [[null]] || 41270 || colspan = "4" | New ID
+|-
+| [[null]] || 41271 || colspan = "4" | New ID
+|-
+| [[null]] || 41272 || colspan = "4" | New ID
+|-
+| [[null]] || 41273 || colspan = "4" | New ID
+|-
+| [[null]] || 41274 || colspan = "4" | New ID
+|-
+| [[null]] || 41275 || colspan = "4" | New ID
+|-
+| [[null]] || 41276 || colspan = "4" | New ID
+|-
+| [[null]] || 41277 || colspan = "4" | New ID
+|-
+| [[null]] || 41278 || colspan = "4" | New ID
+|-
+| [[null]] || 41279 || colspan = "4" | New ID
+|-
+| [[null]] || 41280 || colspan = "4" | New ID
+|-
+| [[null]] || 41281 || colspan = "4" | New ID
+|-
+| [[null]] || 41282 || colspan = "4" | New ID
+|-
+| [[null]] || 41283 || colspan = "4" | New ID
+|-
+| [[null]] || 41284 || colspan = "4" | New ID
+|-
+| [[null]] || 41285 || colspan = "4" | New ID
+|-
+| [[null]] || 41286 || colspan = "4" | New ID
+|-
+| [[null]] || 41287 || colspan = "4" | New ID
+|-
+| [[null]] || 41288 || colspan = "4" | New ID
+|-
+| [[null]] || 41289 || colspan = "4" | New ID
+|-
+| [[null]] || 41290 || colspan = "4" | New ID
+|-
+| [[null]] || 41291 || colspan = "4" | New ID
+|-
+| [[Debris]] || 41292 || colspan = "4" | New ID
+|-
+| [[Debris]] || 41293 || colspan = "4" | New ID
+|-
+| [[Debris]] || 41294 || colspan = "4" | New ID
+|-
+| [[Debris]] || 41295 || colspan = "4" | New ID
+|-
+| [[Empty pool]] || 41296 || colspan = "4" | New ID
+|-
+| [[Reward pool]] || 41297 || colspan = "4" | New ID
+|-
+| [[Reward pool]] || 41298 || colspan = "4" | New ID
+|-
+| [[Reward pool]] || 41299 || colspan = "4" | New ID
+|-
+| [[Reward pool]] || 41300 || colspan = "4" | New ID
+|-
+| [[Reward pool]] || 41301 || colspan = "4" | New ID
+|-
+| [[Reward pool]] || 41302 || colspan = "4" | New ID
+|-
+| [[Reward pool]] || 41303 || colspan = "4" | New ID
+|-
+| [[Reward pool]] || 41304 || colspan = "4" | New ID
+|-
+| [[Rope ladder]] || 41305 || colspan = "4" | New ID
+|-
+| [[null]] || 41306 || colspan = "4" | New ID
+|-
+| [[null]] || 41307 || colspan = "4" | New ID
+|-
+| [[Banner]] || 41308 || colspan = "4" | New ID
+|-
+| [[Book table]] || 41309 || colspan = "4" | New ID
+|-
+| [[Table]] || 41310 || colspan = "4" | New ID
+|-
+| [[Ferry]] || 41311 || colspan = "4" | New ID
+|-
+| [[Spirit Angler dock]] || 41312 || colspan = "4" | New ID
+|-
+| [[null]] || 41313 || colspan = "4" | New ID
+|-
+| [[Spirit Angler stats]] || 41314 || colspan = "4" | New ID
+|-
+| [[Bank chest]] || 41315 || colspan = "4" | New ID
+|-
+| [[Fire]] || 41316 || colspan = "4" | New ID
+|-
+| [[Rock]] || 41317 || colspan = "4" | New ID
+|-
+| [[Rock]] || 41318 || colspan = "4" | New ID
+|-
+| [[Altar]] || 41319 || colspan = "4" | New ID
+|-
+| [[null]] || 41320 || colspan = "4" | New ID
+|-
+| [[null]] || 41321 || colspan = "4" | New ID
+|-
+| [[null]] || 41322 || colspan = "4" | New ID
+|-
+| [[null]] || 41323 || colspan = "4" | New ID
+|-
+| [[null]] || 41324 || colspan = "4" | New ID
+|-
+| [[null]] || 41325 || colspan = "4" | New ID
+|-
+| [[Shantay pass]] || 41326 || colspan = "4" | New ID
+|-
+| [[Sleeping bag]] || 41327 || colspan = "4" | New ID
+|-
+| [[Table]] || 41328 || colspan = "4" | New ID
+|-
+| [[Barrel]] || 41329 || colspan = "4" | New ID
+|-
+| [[Fishing rod]] || 41330 || colspan = "4" | New ID
+|-
+| [[null]] || 41331 || colspan = "4" | New ID
+|-
+| [[Crates]] || 41332 || colspan = "4" | New ID
+|-
+| [[Water]] || 41333 || colspan = "4" | New ID
+|-
+| [[null]] || 41334 || colspan = "4" | New ID
+|-
+| [[null]] || 41335 || colspan = "4" | New ID
+|-
+| [[null]] || 41336 || colspan = "4" | New ID
+|-
+| [[null]] || 41337 || colspan = "4" | New ID
+|-
+| [[null]] || 41338 || colspan = "4" | New ID
+|-
+| [[null]] || 41339 || colspan = "4" | New ID
+|-
+| [[null]] || 41340 || colspan = "4" | New ID
+|-
+| [[null]] || 41341 || colspan = "4" | New ID
+|-
+| [[null]] || 41342 || colspan = "4" | New ID
+|-
+| [[null]] || 41343 || colspan = "4" | New ID
+|-
+| [[null]] || 41344 || colspan = "4" | New ID
+|-
+| [[null]] || 41345 || colspan = "4" | New ID
+|-
+| [[null]] || 41346 || colspan = "4" | New ID
+|-
+| [[null]] || 41347 || colspan = "4" | New ID
+|-
+| [[null]] || 41348 || colspan = "4" | New ID
+|-
+| [[null]] || 41349 || colspan = "4" | New ID
+|-
+| [[null]] || 41350 || colspan = "4" | New ID
+|-
+| [[null]] || 41351 || colspan = "4" | New ID
+|-
+| [[null]] || 41352 || colspan = "4" | New ID
+|-
+| [[null]] || 41353 || colspan = "4" | New ID
+|-
+| [[null]] || 41354 || colspan = "4" | New ID
+|-
+| [[null]] || 41355 || colspan = "4" | New ID
+|-
+| [[null]] || 41356 || colspan = "4" | New ID
+|-
+| [[Door]] || 41357 || colspan = "4" | New ID
+|-
+| [[Door]] || 41358 || colspan = "4" | New ID
+|-
+| [[Door]] || 41359 || colspan = "4" | New ID
+|-
+| [[Door]] || 41360 || colspan = "4" | New ID
+|-
+| [[Door]] || 41361 || colspan = "4" | New ID
+|-
+| [[Door]] || 41362 || colspan = "4" | New ID
+|-
+| [[null]] || 41363 || colspan = "4" | New ID
+|-
+| [[null]] || 41364 || colspan = "4" | New ID
+|-
+| [[Door]] || 41365 || colspan = "4" | New ID
+|-
+| [[Door]] || 41366 || colspan = "4" | New ID
+|-
+| [[Door]] || 41367 || colspan = "4" | New ID
+|-
+| [[Door]] || 41368 || colspan = "4" | New ID
+|-
+| [[Crate]] || 41369 || colspan = "4" | New ID
+|-
+| [[Easter eggs]] || 41370 || colspan = "4" | New ID
+|-
+| [[Basket]] || 41371 || colspan = "4" | New ID
+|-
+| [[null]] || 41372 || colspan = "4" | New ID
+|-
+| [[Post]] || 41373 || colspan = "4" | New ID
+|-
+| [[null]] || 41374 || colspan = "4" | New ID
+|-
+| [[null]] || 41375 || colspan = "4" | New ID
+|-
+| [[null]] || 41376 || colspan = "4" | New ID
+|-
+| [[null]] || 41377 || colspan = "4" | New ID
+|-
+| [[null]] || 41378 || colspan = "4" | New ID
+|-
+| [[null]] || 41379 || colspan = "4" | New ID
+|-
+| [[null]] || 41380 || colspan = "4" | New ID
+|-
+| [[null]] || 41381 || colspan = "4" | New ID
+|-
+| [[null]] || 41382 || colspan = "4" | New ID
+|-
+| [[null]] || 41383 || colspan = "4" | New ID
+|-
+| [[null]] || 41384 || colspan = "4" | New ID
+|-
+| [[null]] || 41385 || colspan = "4" | New ID
+|-
+| [[null]] || 41386 || colspan = "4" | New ID
+|-
+| [[null]] || 41387 || colspan = "4" | New ID
+|-
+| [[null]] || 41388 || colspan = "4" | New ID
+|-
+| [[null]] || 41389 || colspan = "4" | New ID
+|-
+| [[null]] || 41390 || colspan = "4" | New ID
+|-
+| [[null]] || 41391 || colspan = "4" | New ID
+|-
+| [[null]] || 41392 || colspan = "4" | New ID
+|-
+| [[null]] || 41393 || colspan = "4" | New ID
+|-
+| [[null]] || 41394 || colspan = "4" | New ID
+|-
+| [[null]] || 41395 || colspan = "4" | New ID
+|-
+| [[null]] || 41396 || colspan = "4" | New ID
+|-
+| [[null]] || 41397 || colspan = "4" | New ID
+|-
+| [[null]] || 41398 || colspan = "4" | New ID
+|-
+| [[null]] || 41399 || colspan = "4" | New ID
+|-
+| [[null]] || 41400 || colspan = "4" | New ID
+|-
+| [[null]] || 41401 || colspan = "4" | New ID
+|-
+| [[null]] || 41402 || colspan = "4" | New ID
+|-
+| [[null]] || 41403 || colspan = "4" | New ID
+|-
+| [[null]] || 41404 || colspan = "4" | New ID
+|-
+| [[null]] || 41405 || colspan = "4" | New ID
+|-
+| [[null]] || 41406 || colspan = "4" | New ID
+|-
+| [[null]] || 41407 || colspan = "4" | New ID
+|-
+| [[null]] || 41408 || colspan = "4" | New ID
+|-
+| [[null]] || 41409 || colspan = "4" | New ID
+|-
+| [[null]] || 41410 || colspan = "4" | New ID
+|-
+| [[null]] || 41411 || colspan = "4" | New ID
+|-
+| [[null]] || 41412 || colspan = "4" | New ID
+|-
+| [[null]] || 41413 || colspan = "4" | New ID
+|-
+| [[null]] || 41414 || colspan = "4" | New ID
+|-
+| [[null]] || 41415 || colspan = "4" | New ID
+|-
+| [[null]] || 41416 || colspan = "4" | New ID
+|-
+| [[null]] || 41417 || colspan = "4" | New ID
+|-
+| [[null]] || 41418 || colspan = "4" | New ID
+|-
+| [[null]] || 41419 || colspan = "4" | New ID
+|-
+| [[null]] || 41420 || colspan = "4" | New ID
+|-
+| [[null]] || 41421 || colspan = "4" | New ID
+|-
+| [[null]] || 41422 || colspan = "4" | New ID
+|-
+| [[null]] || 41423 || colspan = "4" | New ID
+|-
+| [[null]] || 41424 || colspan = "4" | New ID
+|-
+| [[null]] || 41425 || colspan = "4" | New ID
+|-
+| [[null]] || 41426 || colspan = "4" | New ID
+|-
+| [[null]] || 41427 || colspan = "4" | New ID
+|-
+| [[null]] || 41428 || colspan = "4" | New ID
+|-
+| [[null]] || 41429 || colspan = "4" | New ID
+|-
+| [[null]] || 41430 || colspan = "4" | New ID
+|-
+| [[null]] || 41431 || colspan = "4" | New ID
+|-
+| [[null]] || 41432 || colspan = "4" | New ID
+|-
+| [[null]] || 41433 || colspan = "4" | New ID
+|-
+|rowspan="3"|[[Plant]]
+|rowspan="3"|1314
+|-
+|ambient || 0 || 10
+|-
+| contrast || 0 || 250
+|-
+|rowspan="3"|[[null]]
+|rowspan="3"|11099
+|-
+|ambient || 0 || 10
+|-
+| contrast || 0 || 250
+|-
+|rowspan="3"|[[null]]
+|rowspan="3"|11100
+|-
+|ambient || 0 || 10
+|-
+| contrast || 0 || 250
+|-
+|rowspan="3"|[[null]]
+|rowspan="3"|11101
+|-
+|ambient || 0 || 10
+|-
+| contrast || 0 || 250
+|-
+|rowspan="3"|[[null]]
+|rowspan="3"|11102
+|-
+|ambient || 0 || 10
+|-
+| contrast || 0 || 250
+|-
+|rowspan="3"|[[null]]
+|rowspan="3"|11105
+|-
+|ambient || 5 || 10
+|-
+| contrast || 0 || 250
+|-
+|rowspan="3"|[[null]]
+|rowspan="3"|11106
+|-
+|ambient || 5 || 10
+|-
+| contrast || 0 || 250
+|-
+|rowspan="3"|[[null]]
+|rowspan="3"|11107
+|-
+|ambient || 5 || 10
+|-
+| contrast || 0 || 250
+|-
+|rowspan="3"|[[null]]
+|rowspan="3"|11108
+|-
+|ambient || 5 || 10
+|-
+| contrast || 0 || 250
+|-
+|}

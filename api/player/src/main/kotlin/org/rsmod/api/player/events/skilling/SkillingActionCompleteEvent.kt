@@ -6,8 +6,8 @@ import org.rsmod.game.entity.Player
 
 /**
  * Published when a skilling action has finished its core effects (for example item removed and XP
- * granted). Subscribe with [org.rsmod.api.script.onEvent] to attach cross-cutting behaviour such
- * as area-based bonuses without coupling every script to every rule.
+ * granted). Subscribe with [org.rsmod.api.script.onEvent] to attach cross-cutting behaviour such as
+ * area-based bonuses without coupling every script to every rule.
  *
  * @param context Type-specific payload; add new subclasses of [SkillingActionContext] as needed.
  */

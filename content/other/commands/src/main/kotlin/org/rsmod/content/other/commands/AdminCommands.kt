@@ -13,16 +13,15 @@ import org.rsmod.annotations.InternalApi
 import org.rsmod.api.death.prepareAdminDieTest
 import org.rsmod.api.death.preparePvpDeath
 import org.rsmod.api.invtx.invAdd
+import org.rsmod.api.invtx.invClear
 import org.rsmod.api.mechanics.toxins.impl.PlayerDisease
 import org.rsmod.api.mechanics.toxins.impl.PlayerPoison
 import org.rsmod.api.mechanics.toxins.impl.PlayerVenom
-import org.rsmod.api.invtx.invClear
-import org.rsmod.api.player.output.MiscOutput
-import org.rsmod.api.player.output.mes
 import org.rsmod.api.player.cheat.adminGodMode
 import org.rsmod.api.player.cheat.adminMaxHit
+import org.rsmod.api.player.output.MiscOutput
+import org.rsmod.api.player.output.mes
 import org.rsmod.api.player.protect.ProtectedAccessLauncher
-import org.rsmod.content.other.progressivebots.TrajectoryCapture
 import org.rsmod.api.player.queueDeath
 import org.rsmod.api.player.stat.PlayerSkillXP
 import org.rsmod.api.player.stat.stat
@@ -36,6 +35,7 @@ import org.rsmod.api.repo.loc.LocRepository
 import org.rsmod.api.repo.npc.NpcRepository
 import org.rsmod.api.utils.format.formatAmount
 import org.rsmod.api.utils.system.SafeServiceExit
+import org.rsmod.content.other.progressivebots.TrajectoryCapture
 import org.rsmod.game.GameUpdate
 import org.rsmod.game.cheat.Cheat
 import org.rsmod.game.entity.Npc
@@ -100,7 +100,9 @@ constructor(
             invalidArgs = "Use as ::locadd duration locDebugNameOrId (ex: 100 bookcase)"
         }
         onCommand("locdel", "Remove loc", ::locDel) { invalidArgs = "Use as ::locdel duration" }
-        onCommand("objectdel", "Remove loc", ::locDel) { invalidArgs = "Use as ::objectdel duration" }
+        onCommand("objectdel", "Remove loc", ::locDel) {
+            invalidArgs = "Use as ::objectdel duration"
+        }
 
         onCommand("npc", "Spawn npc", ::npcAdd) {
             invalidArgs = "Use as ::npc duration npcDebugNameOrId (ex: 100 prison_pete)"
@@ -122,22 +124,36 @@ constructor(
         }
         onCommand("reboot", "Reboots the game world, applying packed changes", ::reboot)
         onCommand("slowreboot", "Reboots the game world, with a timer", ::slowReboot)
-        onCommand("poison", "Test player poison (wiki initial damage, optional raw severity)", ::poisonTest) {
-            invalidArgs = "Use as ::poison initialDamage [severity] (e.g. ::poison 8 or ::poison 0 36)"
+        onCommand(
+            "poison",
+            "Test player poison (wiki initial damage, optional raw severity)",
+            ::poisonTest,
+        ) {
+            invalidArgs =
+                "Use as ::poison initialDamage [severity] (e.g. ::poison 8 or ::poison 0 36)"
         }
         onCommand("venom", "Test player venom (escalating damage timer)", ::venomTest)
         onCommand("venomclear", "Clears Venom", ::venomClear)
         onCommand("disease", "Test disease (drain per tick, default 3)", ::diseaseTest) {
             invalidArgs = "Use as ::disease [drainPerTick] (e.g. ::disease 5)"
         }
-        onCommand("diseaseclear", "Clears disease timer (stats recover via normal regen)", ::diseaseClear)
+        onCommand(
+            "diseaseclear",
+            "Clears disease timer (stats recover via normal regen)",
+            ::diseaseClear,
+        )
         onCommand("die", "Simulate death: ::die pvm|pvp [true=in wildy]", ::dieTest) {
-            invalidArgs = "Usage: ::die pvm|pvp [true|false]  (second arg = in Wilderness, default false)"
+            invalidArgs =
+                "Usage: ::die pvm|pvp [true|false]  (second arg = in Wilderness, default false)"
         }
         onCommand("god", "Toggle god mode (invincibility)", ::god)
         onCommand("maxhit", "Toggle always max hit", ::maxhit)
         onCommand("openbank", "Open the bank", ::bank)
-        onCommand("trajectory", "Control trajectory capture: pause|resume|status|target N", ::trajectoryControl)
+        onCommand(
+            "trajectory",
+            "Control trajectory capture: pause|resume|status|target N",
+            ::trajectoryControl,
+        )
     }
 
     private fun god(cheat: Cheat) =
@@ -156,25 +172,20 @@ constructor(
         with(cheat) {
             val initialDamage = args.getOrNull(0)?.toIntOrNull() ?: 0
             val severity = args.getOrNull(1)?.toIntOrNull() ?: 0
-            val ok = PlayerPoison.tryPoison(player, initialDamage = initialDamage, severity = severity)
+            val ok =
+                PlayerPoison.tryPoison(player, initialDamage = initialDamage, severity = severity)
             player.mes(
                 if (ok) {
                     "Poison applied (initialDamage=$initialDamage severityParam=$severity)."
                 } else {
                     "Poison not applied (weaker/equal than current, or both inputs zero)."
-                },
+                }
             )
         }
 
-    private fun venomTest(cheat: Cheat) =
-        with(cheat) {
-            PlayerVenom.tryVenom(player)
-        }
+    private fun venomTest(cheat: Cheat) = with(cheat) { PlayerVenom.tryVenom(player) }
 
-    private fun venomClear(cheat: Cheat) =
-        with(cheat) {
-            PlayerVenom.clear(player)
-        }
+    private fun venomClear(cheat: Cheat) = with(cheat) { PlayerVenom.clear(player) }
 
     private fun diseaseTest(cheat: Cheat) =
         with(cheat) {
@@ -185,7 +196,7 @@ constructor(
                     "Disease applied (drain per tick=$drain)."
                 } else {
                     "Disease not applied (no eligible skill)."
-                },
+                }
             )
         }
 
@@ -215,7 +226,7 @@ constructor(
             val x = args[0].toInt()
             val y = args[1].toInt()
             val level = args.getOrNull(2)?.toInt() ?: 0
-            val coords = CoordGrid(x,y,level)
+            val coords = CoordGrid(x, y, level)
             protectedAccess.launch(player) {
                 player.mes("Teleported to $coords.")
                 telejump(coords)
@@ -369,7 +380,8 @@ constructor(
         with(cheat) {
             val (typeName, countArg) = args.asTypeNameAndNumber(defaultNumber = 1)
             val normalizedName = "obj.$typeName"
-            val type = ServerCacheManager.getItem(normalizedName.asRSCM(RSCMType.OBJ))?: return@with
+            val type =
+                ServerCacheManager.getItem(normalizedName.asRSCM(RSCMType.OBJ)) ?: return@with
 
             val count = countArg.toLong().coerceAtMost(Int.MAX_VALUE.toLong()).toInt()
             val objName = type.name.ifEmpty { normalizedName }
@@ -463,61 +475,69 @@ constructor(
             }
         }
 
-    private fun dieTest(cheat: Cheat) = with(cheat) {
-        val mode = args.getOrNull(0)?.lowercase()
-        val inWildy = args.getOrNull(1)?.lowercase() == "true"
-        when (mode) {
-            "pvm" -> {
-                if (inWildy) player.insideWilderness = true
-                player.mes("Simulating PvM death${if (inWildy) " in Wilderness" else ""}.")
-                player.prepareAdminDieTest()
-                player.queueDeath()
+    private fun dieTest(cheat: Cheat) =
+        with(cheat) {
+            val mode = args.getOrNull(0)?.lowercase()
+            val inWildy = args.getOrNull(1)?.lowercase() == "true"
+            when (mode) {
+                "pvm" -> {
+                    if (inWildy) player.insideWilderness = true
+                    player.mes("Simulating PvM death${if (inWildy) " in Wilderness" else ""}.")
+                    player.prepareAdminDieTest()
+                    player.queueDeath()
+                }
+                "pvp" -> {
+                    player.preparePvpDeath(player)
+                    if (inWildy) player.insideWilderness = true
+                    player.mes(
+                        "Simulating PvP death${if (inWildy) " in Wilderness" else ""}. (self as killer)"
+                    )
+                    player.prepareAdminDieTest()
+                    player.queueDeath()
+                }
+                else -> player.mes("Usage: ::die pvm|pvp [true|false]  (true = in Wilderness)")
             }
-            "pvp" -> {
-                player.preparePvpDeath(player)
-                if (inWildy) player.insideWilderness = true
-                player.mes("Simulating PvP death${if (inWildy) " in Wilderness" else ""}. (self as killer)")
-                player.prepareAdminDieTest()
-                player.queueDeath()
-            }
-            else -> player.mes("Usage: ::die pvm|pvp [true|false]  (true = in Wilderness)")
         }
-    }
 
-    private fun bank(cheat: Cheat) = with(cheat) {
-        protectedAccess.launch(player) {
-            ifOpenMainSidePair(main = "interface.bankmain", side = "interface.bankside")
+    private fun bank(cheat: Cheat) =
+        with(cheat) {
+            protectedAccess.launch(player) {
+                ifOpenMainSidePair(main = "interface.bankmain", side = "interface.bankside")
+            }
         }
-    }
 
-    private fun trajectoryControl(cheat: Cheat) = with(cheat) {
-        val sub = args.getOrNull(0)?.lowercase() ?: "status"
-        when (sub) {
-            "pause" -> {
-                TrajectoryCapture.paused = true
-                player.mes("[Trajectory] Paused.")
-            }
-            "resume" -> {
-                TrajectoryCapture.paused = false
-                player.mes("[Trajectory] Resumed.")
-            }
-            "target" -> {
-                val count = args.getOrNull(1)?.toIntOrNull()
-                if (count == null || count <= 0) {
-                    TrajectoryCapture.targetCount = 0
-                    player.mes("[Trajectory] Target cleared (unlimited).")
-                } else {
-                    TrajectoryCapture.targetCount = count
-                    player.mes("[Trajectory] Will auto-pause after $count entries.")
+    private fun trajectoryControl(cheat: Cheat) =
+        with(cheat) {
+            val sub = args.getOrNull(0)?.lowercase() ?: "status"
+            when (sub) {
+                "pause" -> {
+                    TrajectoryCapture.paused = true
+                    player.mes("[Trajectory] Paused.")
+                }
+                "resume" -> {
+                    TrajectoryCapture.paused = false
+                    player.mes("[Trajectory] Resumed.")
+                }
+                "target" -> {
+                    val count = args.getOrNull(1)?.toIntOrNull()
+                    if (count == null || count <= 0) {
+                        TrajectoryCapture.targetCount = 0
+                        player.mes("[Trajectory] Target cleared (unlimited).")
+                    } else {
+                        TrajectoryCapture.targetCount = count
+                        player.mes("[Trajectory] Will auto-pause after $count entries.")
+                    }
+                }
+                else -> {
+                    val status = if (TrajectoryCapture.paused) "⏸ PAUSED" else "▶ RUNNING"
+                    val target =
+                        if (TrajectoryCapture.targetCount > 0)
+                            " (target: ${TrajectoryCapture.targetCount})"
+                        else " (unlimited)"
+                    player.mes("[Trajectory] $status$target")
                 }
             }
-            else -> {
-                val status = if (TrajectoryCapture.paused) "⏸ PAUSED" else "▶ RUNNING"
-                val target = if (TrajectoryCapture.targetCount > 0) " (target: ${TrajectoryCapture.targetCount})" else " (unlimited)"
-                player.mes("[Trajectory] $status$target")
-            }
         }
-    }
 
     private fun resolveArgTypeId(arg: String, names: Map<String, Int>): Int? {
         val argAsInt = arg.toIntOrNull()

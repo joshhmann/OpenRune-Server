@@ -5,14 +5,13 @@ import dtx.rs.RSGuaranteedTable
 import dtx.rs.RSPreRollTable
 import dtx.rs.RSWeightedTable
 import org.rsmod.api.droptable.DropChanceTableScope
-import org.rsmod.api.droptable.DropWeightedTableScope
 import org.rsmod.api.droptable.DropRollItem
+import org.rsmod.api.droptable.DropWeightedTableScope
 import org.rsmod.api.droptable.PendingDropItemConfig
 import org.rsmod.api.droptable.dropRollable
 import org.rsmod.api.droptable.nothing
 import org.rsmod.api.droptable.requiresRollableWrapper
 import org.rsmod.api.droptable.rsPlayerGuaranteedTable
-import dtx.rs.RSPrerollTableBuilder
 import org.rsmod.api.droptable.rsPlayerPrerollTable
 import org.rsmod.api.droptable.rsPlayerTertiaryTable
 import org.rsmod.api.droptable.rsPlayerWeightedTable
@@ -75,11 +74,13 @@ public object DropTableTomlParser {
                 require(roll.entries.isNotEmpty()) {
                     "Separate roll ${roll.numerator}/${roll.denominator} in '$sourcePath' must define entries."
                 }
-                roll.numerator outOf roll.denominator separate {
-                    for (entry in roll.entries) {
-                        appendTomlWeightedEntry(entry, resolver, sourcePath)
+                roll.numerator outOf
+                    roll.denominator separate
+                    {
+                        for (entry in roll.entries) {
+                            appendTomlWeightedEntry(entry, resolver, sourcePath)
+                        }
                     }
-                }
             }
         }
     }
@@ -107,7 +108,7 @@ public object DropTableTomlParser {
             else ->
                 error(
                     "Main entry in '$sourcePath' with weight ${entry.weight} " +
-                        "must define obj, shared, or nothing = true.",
+                        "must define obj, shared, or nothing = true."
                 )
         }
     }
@@ -129,7 +130,9 @@ public object DropTableTomlParser {
                 require(roll.entries.isNotEmpty()) {
                     "Pre-roll separate roll ${roll.numerator}/${roll.denominator} in '$sourcePath' must define entries."
                 }
-                roll.numerator outOf roll.denominator rolls buildSeparateRollTable(roll, resolver, sourcePath)
+                roll.numerator outOf
+                    roll.denominator rolls
+                    buildSeparateRollTable(roll, resolver, sourcePath)
             }
         }
     }
@@ -138,12 +141,11 @@ public object DropTableTomlParser {
         roll: TomlSeparateRoll,
         resolver: DropTableTomlResolver,
         sourcePath: String,
-    ): RSWeightedTable<Player, DropRollItem> =
-        rsPlayerWeightedTable {
-            for (entry in roll.entries) {
-                appendTomlWeightedEntry(entry, resolver, sourcePath)
-            }
+    ): RSWeightedTable<Player, DropRollItem> = rsPlayerWeightedTable {
+        for (entry in roll.entries) {
+            appendTomlWeightedEntry(entry, resolver, sourcePath)
         }
+    }
 
     private fun buildTertiary(
         def: TomlDropTableDef,
@@ -195,16 +197,16 @@ public object DropTableTomlParser {
         return config.toItem()
     }
 
-    private data class ParsedCount(
-        val range: IntRange,
-        val choices: List<Int>? = null,
-    )
+    private data class ParsedCount(val range: IntRange, val choices: List<Int>? = null)
 
-    private fun parseCount(entry: TomlWeightedEntry): ParsedCount = parseCount(entry.count, entry.countMin, entry.countMax)
+    private fun parseCount(entry: TomlWeightedEntry): ParsedCount =
+        parseCount(entry.count, entry.countMin, entry.countMax)
 
-    private fun parseCount(entry: TomlGuaranteedEntry): ParsedCount = parseCount(entry.count, entry.countMin, entry.countMax)
+    private fun parseCount(entry: TomlGuaranteedEntry): ParsedCount =
+        parseCount(entry.count, entry.countMin, entry.countMax)
 
-    private fun parseCount(entry: TomlChanceEntry): ParsedCount = parseCount(entry.count, entry.countMin, entry.countMax)
+    private fun parseCount(entry: TomlChanceEntry): ParsedCount =
+        parseCount(entry.count, entry.countMin, entry.countMax)
 
     private fun parseCount(count: String?, countMin: Int?, countMax: Int?): ParsedCount {
         if (countMin != null && countMax != null) {
@@ -264,5 +266,4 @@ public object DropTableTomlParser {
             quest = quest,
             questMode = questMode,
         )
-
 }

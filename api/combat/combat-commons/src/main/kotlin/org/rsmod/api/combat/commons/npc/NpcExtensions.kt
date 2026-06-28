@@ -91,7 +91,7 @@ private fun Npc.retaliate(target: Player, interactions: AiPlayerInteractions, ap
 public fun Npc.combatPlayDefendAnim(clientDelay: Int = 0) {
     val defendAnim = visType.paramOrNull(params.defend_anim)
     if (defendAnim != null) {
-        anim(RSCM.getReverseMapping(RSCMType.SEQ,defendAnim.id), delay = clientDelay)
+        anim(RSCM.getReverseMapping(RSCMType.SEQ, defendAnim.id), delay = clientDelay)
     }
 }
 

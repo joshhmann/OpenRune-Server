@@ -1,0 +1,177 @@
+{{ToC}}
+==Items==
+===New Items===
+{| class="wikitable sortable"
+!colspan='11'|New Items
+|-
+! style=width:15em | Name !! ID !! Members !! Tradeable in GE !! Equipable !! Stackable !! Noteable !! Options !! Placeholder !! Cost
+|-
+| [[Imbued saradomin max cape (l)]] || [https://chisel.weirdgloop.org/moid/item_id.html#24232 24232] || Yes || No || Yes || No || No ||  Wear,   Drop || No || 99000
+|-
+| [[Imbued zamorak max cape (l)]] || [https://chisel.weirdgloop.org/moid/item_id.html#24233 24233] || Yes || No || Yes || No || No ||  Wear,   Drop || No || 99000
+|-
+| [[Imbued guthix max cape (l)]] || [https://chisel.weirdgloop.org/moid/item_id.html#24234 24234] || Yes || No || Yes || No || No ||  Wear,   Drop || No || 99000
+|-
+| [[House advertisement]] || [https://chisel.weirdgloop.org/moid/item_id.html#24235 24235] || No || No || No || No || No ||     Drop || No || 1
+|-
+| [[Imbued saradomin cape (broken)]] || [https://chisel.weirdgloop.org/moid/item_id.html#24236 24236] || Yes || No || No || No || No ||     Drop || Yes || 1
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#24237 24237] || No || No || No || No || No ||     Drop || Yes || 1
+|-
+| [[Imbued saradomin max cape (broken)]] || [https://chisel.weirdgloop.org/moid/item_id.html#24238 24238] || Yes || No || No || No || No ||     Drop || Yes || 99000
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#24239 24239] || No || No || No || No || No ||     Drop || Yes || 1
+|-
+| [[Imbued guthix cape (broken)]] || [https://chisel.weirdgloop.org/moid/item_id.html#24240 24240] || Yes || No || No || No || No ||     Drop || Yes || 1
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#24241 24241] || No || No || No || No || No ||     Drop || Yes || 1
+|-
+| [[Imbued guthix max cape (broken)]] || [https://chisel.weirdgloop.org/moid/item_id.html#24242 24242] || Yes || No || No || No || No ||     Drop || Yes || 1
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#24243 24243] || No || No || No || No || No ||     Drop || Yes || 1
+|-
+| [[Imbued zamorak cape (broken)]] || [https://chisel.weirdgloop.org/moid/item_id.html#24244 24244] || Yes || No || No || No || No ||     Drop || Yes || 1
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#24245 24245] || No || No || No || No || No ||     Drop || Yes || 1
+|-
+| [[Imbued zamorak max cape (broken)]] || [https://chisel.weirdgloop.org/moid/item_id.html#24246 24246] || Yes || No || No || No || No ||     Drop || Yes || 1
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#24247 24247] || No || No || No || No || No ||     Drop || Yes || 1
+|-
+| [[Imbued saradomin cape (l)]] || [https://chisel.weirdgloop.org/moid/item_id.html#24248 24248] || Yes || No || Yes || No || No ||  Wear,   Drop || No || 80000
+|-
+| [[Imbued guthix cape (l)]] || [https://chisel.weirdgloop.org/moid/item_id.html#24249 24249] || Yes || No || Yes || No || No ||  Wear,   Drop || No || 80000
+|-
+| [[Imbued zamorak cape (l)]] || [https://chisel.weirdgloop.org/moid/item_id.html#24250 24250] || Yes || No || Yes || No || No ||  Wear,   Drop || No || 80000
+|-
+|-
+|}
+===Removed Items===
+{| class="wikitable sortable"
+!colspan='2'|Removed Items
+|-
+! style=width:15em | Name !! ID
+|-
+|-
+|}
+===Diff Items===
+{| class="wikitable sortable"
+!colspan='5'|Diff Items
+|-
+! style=width:15em | Name !! ID !! Key !! Previous Value !! New Value
+|-
+|}
+
+==Non-Player Characters==
+===New NPCs===
+{| class="wikitable sortable"
+!colspan='4'|New NPCs
+|-
+! style=width:15em | Name !! ID !! Combat Level !! Options
+|-
+| [[Toy Soldier]] || [https://chisel.weirdgloop.org/moid/npc_id.html#3649 3649] || No Combat Level || Pick-up
+|-
+| [[Toy Soldier]] || [https://chisel.weirdgloop.org/moid/npc_id.html#9251 9251] || No Combat Level || None
+|-
+| [[Toy Doll]] || [https://chisel.weirdgloop.org/moid/npc_id.html#9252 9252] || No Combat Level || Pick-up
+|-
+| [[Toy Doll]] || [https://chisel.weirdgloop.org/moid/npc_id.html#9253 9253] || No Combat Level || None
+|-
+| [[Toy Mouse]] || [https://chisel.weirdgloop.org/moid/npc_id.html#9254 9254] || No Combat Level || Pick-up
+|-
+| [[Toy Mouse]] || [https://chisel.weirdgloop.org/moid/npc_id.html#9255 9255] || No Combat Level || None
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/npc_id.html#9256 9256] || No Combat Level || None
+|-
+| [[Penguin suit]] || [https://chisel.weirdgloop.org/moid/npc_id.html#9257 9257] || No Combat Level || None
+|-
+|-
+|}
+===Removed NPCs===
+{| class="wikitable sortable"
+!colspan='2'|Removed NPCs
+|-
+! style=width:15em | Name !! ID
+|-
+|-
+|}
+===Diff NPCs===
+{| class="wikitable sortable"
+!colspan='5'|Diff NPCs
+|-
+! style=width:15em | Name !! ID !! Key !! Previous Value !! New Value
+|-
+|rowspan="4"|[[null]]
+|rowspan="4"|[https://chisel.weirdgloop.org/moid/npc_id.html#2779 2779]
+|-
+|name || [[Toy Soldier]] || [[null]]
+|-
+| actions || ['Pick-up', None, None, None, None] || [None, None, None, None, None]
+|-
+| varbitId || -1 || 9450
+|-
+|rowspan="4"|[[null]]
+|rowspan="4"|[https://chisel.weirdgloop.org/moid/npc_id.html#2780 2780]
+|-
+|name || [[Toy Doll]] || [[null]]
+|-
+| actions || ['Pick-up', None, None, None, None] || [None, None, None, None, None]
+|-
+| varbitId || -1 || 9450
+|-
+|rowspan="4"|[[null]]
+|rowspan="4"|[https://chisel.weirdgloop.org/moid/npc_id.html#2781 2781]
+|-
+|name || [[Toy Mouse]] || [[null]]
+|-
+| actions || ['Pick-up', None, None, None, None] || [None, None, None, None, None]
+|-
+| varbitId || -1 || 9450
+|-
+|}
+
+==Objects==
+===New Objects=== 
+{| class="wikitable sortable"
+!colspan='3'|New Objects
+|-
+! style=width:15em | Name !! ID !! Options
+|-
+| [[House Advertisement]] || [https://chisel.weirdgloop.org/moid/object_id.html#29091 29091] || View, Add-House, Visit-Last
+|-
+| [[House Advertisement]] || [https://chisel.weirdgloop.org/moid/object_id.html#37384 37384] || View, Add-House, Visit-Last
+|-
+| [[House Advertisement]] || [https://chisel.weirdgloop.org/moid/object_id.html#37385 37385] || View, Add-House, Visit-Last
+|-
+| [[House Advertisement]] || [https://chisel.weirdgloop.org/moid/object_id.html#37386 37386] || View, Add-House, Visit-Last
+|-
+| [[House Advertisement]] || [https://chisel.weirdgloop.org/moid/object_id.html#37387 37387] || View, Add-House, Visit-Last
+|-
+| [[House Advertisement]] || [https://chisel.weirdgloop.org/moid/object_id.html#37388 37388] || View, Add-House, Visit-Last
+|-
+| [[House Advertisement]] || [https://chisel.weirdgloop.org/moid/object_id.html#37389 37389] || View, Add-House, Visit-Last
+|-
+| [[House Advertisement]] || [https://chisel.weirdgloop.org/moid/object_id.html#37390 37390] || View, Add-House, Visit-Last
+|-
+|-
+|}
+===Removed Objects===
+{| class="wikitable sortable"
+!colspan='2'|Removed Objects
+|-
+! style=width:15em | Name !! ID
+|-
+|-
+|}
+===Diff Objects===
+{| class="wikitable sortable"
+!colspan='5'|Diff Objects
+|-
+! style=width:15em | Name !! ID !! Key !! Previous Value !! New Value
+|-
+|rowspan="2"|[[Portal]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#4525 4525]
+|-
+|actions || ['Enter', 'Lock', None, None, 'Remove'] || ['Enter', 'Lock', 'Remove board advert', None, 'Remove']
+|-
+|}

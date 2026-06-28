@@ -1,0 +1,305 @@
+{{ToC}}
+==Items==
+===New Items===
+{| class="wikitable sortable"
+!colspan='11'|New Items
+|-
+! style=width:15em | Name !! ID !! Members !! Tradeable in GE !! Equipable !! Stackable !! Noteable !! Options !! Placeholder !! Cost !! Weight
+|-
+|-
+|}
+===Removed Items===
+{| class="wikitable sortable"
+!colspan='2'|Removed Items
+|-
+! style=width:15em | Name !! ID
+|-
+|-
+|}
+===Diff Items===
+{| class="wikitable sortable"
+!colspan='5'|Diff Items
+|-
+! style=width:15em | Name !! ID !! Key !! Previous Value !! New Value
+|-
+|rowspan="2"|[[Trailblazer axe]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#25110 25110]
+|-
+|interfaceOptions || [None, 'Wield', None, None, 'Destroy'] || [None, 'Wield', 'Toggle', None, 'Destroy']
+|-
+|rowspan="2"|[[Trailblazer pickaxe]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#25112 25112]
+|-
+|interfaceOptions || [None, 'Wield', None, None, 'Destroy'] || [None, 'Wield', 'Toggle', None, 'Destroy']
+|-
+|rowspan="2"|[[Trailblazer harpoon]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#25114 25114]
+|-
+|interfaceOptions || [None, 'Wield', None, None, 'Destroy'] || [None, 'Wield', 'Toggle', None, 'Destroy']
+|-
+|rowspan="2"|[[Trailblazer reloaded relic hunter (t3) armour set]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#28783 28783]
+|-
+|name || [[Strailblazer reloaded relic hunter (t3) armour set]] || [[Trailblazer reloaded relic hunter (t3) armour set]]
+|-
+|}
+
+==Non-Player Characters==
+===New NPCs===
+{| class="wikitable sortable"
+!colspan='4'|New NPCs
+|-
+! style=width:15em | Name !! ID !! Combat Level !! Options
+|-
+|-
+|}
+===Removed NPCs===
+{| class="wikitable sortable"
+!colspan='2'|Removed NPCs
+|-
+! style=width:15em | Name !! ID
+|-
+|-
+|}
+===Diff NPCs===
+{| class="wikitable sortable"
+!colspan='5'|Diff NPCs
+|-
+! style=width:15em | Name !! ID !! Key !! Previous Value !! New Value
+|-
+|rowspan="3"|[[Bloodthirsty hand]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/npc_id.html#12538 12538]
+|-
+|headIconSpriteIndex || [21] || [0]
+|-
+| headIconArchiveIds || [440] || [5529]
+|-
+|rowspan="3"|[[Bloodthirsty Crawler]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/npc_id.html#12539 12539]
+|-
+|headIconSpriteIndex || [21] || [0]
+|-
+| headIconArchiveIds || [440] || [5529]
+|-
+|rowspan="3"|[[Bloodthirsty banshee]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/npc_id.html#12540 12540]
+|-
+|headIconSpriteIndex || [21] || [0]
+|-
+| headIconArchiveIds || [440] || [5529]
+|-
+|rowspan="3"|[[Bloodthirsty twisted banshee]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/npc_id.html#12542 12542]
+|-
+|headIconSpriteIndex || [21] || [0]
+|-
+| headIconArchiveIds || [440] || [5529]
+|-
+|rowspan="3"|[[Bloodthirst rockslug]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/npc_id.html#12561 12561]
+|-
+|headIconSpriteIndex || [21] || [0]
+|-
+| headIconArchiveIds || [440] || [5529]
+|-
+|rowspan="3"|[[Bloodthirsty Cockathrice]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/npc_id.html#12562 12562]
+|-
+|headIconSpriteIndex || [21] || [0]
+|-
+| headIconArchiveIds || [440] || [5529]
+|-
+|rowspan="3"|[[Bloodthirsty pyrelord]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/npc_id.html#12563 12563]
+|-
+|headIconSpriteIndex || [21] || [0]
+|-
+| headIconArchiveIds || [440] || [5529]
+|-
+|rowspan="3"|[[Bloodthirsty Infernal pyrelord]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/npc_id.html#12564 12564]
+|-
+|headIconSpriteIndex || [21] || [0]
+|-
+| headIconArchiveIds || [440] || [5529]
+|-
+|rowspan="3"|[[Bloodthirsty basilisk]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/npc_id.html#12565 12565]
+|-
+|headIconSpriteIndex || [21] || [0]
+|-
+| headIconArchiveIds || [440] || [5529]
+|-
+|rowspan="3"|[[Bloodthirsty Basilisk Sentinel]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/npc_id.html#12566 12566]
+|-
+|headIconSpriteIndex || [21] || [0]
+|-
+| headIconArchiveIds || [440] || [5529]
+|-
+|rowspan="3"|[[Bloodthirsty Mage]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/npc_id.html#12567 12567]
+|-
+|headIconSpriteIndex || [21] || [0]
+|-
+| headIconArchiveIds || [440] || [5529]
+|-
+|rowspan="3"|[[Bloodthirsty Bloodveld]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/npc_id.html#12568 12568]
+|-
+|headIconSpriteIndex || [21] || [0]
+|-
+| headIconArchiveIds || [440] || [5529]
+|-
+|rowspan="3"|[[Bloodthirsty mutated Bloodveld]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/npc_id.html#12569 12569]
+|-
+|headIconSpriteIndex || [21] || [0]
+|-
+| headIconArchiveIds || [440] || [5529]
+|-
+|rowspan="3"|[[Bloodthirsty Jelly]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/npc_id.html#12570 12570]
+|-
+|headIconSpriteIndex || [21] || [0]
+|-
+| headIconArchiveIds || [440] || [5529]
+|-
+|rowspan="3"|[[Bloodthirsty warped Jelly]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/npc_id.html#12571 12571]
+|-
+|headIconSpriteIndex || [21] || [0]
+|-
+| headIconArchiveIds || [440] || [5529]
+|-
+|rowspan="3"|[[Bloodthirsty abomination]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/npc_id.html#12572 12572]
+|-
+|headIconSpriteIndex || [21] || [0]
+|-
+| headIconArchiveIds || [440] || [5529]
+|-
+|rowspan="3"|[[Bloodthirsty spectre]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/npc_id.html#12573 12573]
+|-
+|headIconSpriteIndex || [21] || [0]
+|-
+| headIconArchiveIds || [440] || [5529]
+|-
+|rowspan="3"|[[Bloodthirsty Repugnant spectre]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/npc_id.html#12574 12574]
+|-
+|headIconSpriteIndex || [21] || [0]
+|-
+| headIconArchiveIds || [440] || [5529]
+|-
+|rowspan="3"|[[Bloodthirsty choke devil]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/npc_id.html#12575 12575]
+|-
+|headIconSpriteIndex || [21] || [0]
+|-
+| headIconArchiveIds || [440] || [5529]
+|-
+|rowspan="3"|[[Bloodthirsty kurask]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/npc_id.html#12576 12576]
+|-
+|headIconSpriteIndex || [21] || [0]
+|-
+| headIconArchiveIds || [440] || [5529]
+|-
+|rowspan="3"|[[Bloodthirsty smoke devil]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/npc_id.html#12577 12577]
+|-
+|headIconSpriteIndex || [21] || [0]
+|-
+| headIconArchiveIds || [440] || [5529]
+|-
+|rowspan="3"|[[Bloodthirsty gargoyle]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/npc_id.html#12578 12578]
+|-
+|headIconSpriteIndex || [21] || [0]
+|-
+| headIconArchiveIds || [440] || [5529]
+|-
+|rowspan="3"|[[Bloodthirsty gargoyle]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/npc_id.html#12579 12579]
+|-
+|headIconSpriteIndex || [21] || [0]
+|-
+| headIconArchiveIds || [440] || [5529]
+|-
+|rowspan="3"|[[Bloodthirsty Night beast]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/npc_id.html#12580 12580]
+|-
+|headIconSpriteIndex || [21] || [0]
+|-
+| headIconArchiveIds || [440] || [5529]
+|-
+|rowspan="3"|[[Bloodthirsty abyssal demon]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/npc_id.html#12581 12581]
+|-
+|headIconSpriteIndex || [21] || [0]
+|-
+| headIconArchiveIds || [440] || [5529]
+|-
+|rowspan="3"|[[Bloodthirsty Nechryarch]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/npc_id.html#12582 12582]
+|-
+|headIconSpriteIndex || [21] || [0]
+|-
+| headIconArchiveIds || [440] || [5529]
+|-
+|rowspan="3"|[[Bloodthirsty Turoth]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/npc_id.html#12583 12583]
+|-
+|headIconSpriteIndex || [21] || [0]
+|-
+| headIconArchiveIds || [440] || [5529]
+|-
+|rowspan="3"|[[Bloodthirsty Shadow Wyrm]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/npc_id.html#12584 12584]
+|-
+|headIconSpriteIndex || [21] || [0]
+|-
+| headIconArchiveIds || [440] || [5529]
+|-
+|rowspan="3"|[[Bloodthirsty Shadow Wyrm]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/npc_id.html#12585 12585]
+|-
+|headIconSpriteIndex || [21] || [0]
+|-
+| headIconArchiveIds || [440] || [5529]
+|-
+|rowspan="3"|[[Bloodthirsty Drake]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/npc_id.html#12586 12586]
+|-
+|headIconSpriteIndex || [21] || [0]
+|-
+| headIconArchiveIds || [440] || [5529]
+|-
+|}
+
+==Objects==
+===New Objects=== 
+{| class="wikitable sortable"
+!colspan='3'|New Objects
+|-
+! style=width:15em | Name !! ID !! Options
+|-
+|-
+|}
+===Removed Objects===
+{| class="wikitable sortable"
+!colspan='2'|Removed Objects
+|-
+! style=width:15em | Name !! ID
+|-
+|-
+|}
+===Diff Objects===
+{| class="wikitable sortable"
+!colspan='5'|Diff Objects
+|-
+! style=width:15em | Name !! ID !! Key !! Previous Value !! New Value
+|-
+|}

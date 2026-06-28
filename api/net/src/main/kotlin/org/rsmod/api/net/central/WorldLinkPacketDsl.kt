@@ -5,8 +5,8 @@ import java.io.DataOutputStream
 import java.nio.charset.StandardCharsets
 
 /**
- * Dispatches a **validated** Central server-push frame (opcode in [ByteArray] index 0).
- * Unknown opcodes go to [onOther].
+ * Dispatches a **validated** Central server-push frame (opcode in [ByteArray] index 0). Unknown
+ * opcodes go to [onOther].
  */
 public inline fun ByteArray.dispatchCentralServerPush(
     crossinline onRevoke: (WorldLinkFrameSpecs.ServerRevokeLoginPayload) -> Unit = {},
@@ -18,21 +18,23 @@ public inline fun ByteArray.dispatchCentralServerPush(
     crossinline onOther: (Int) -> Unit = {},
 ) {
     when (val op = this[0].toInt() and 0xFF) {
-        WorldLinkFrameSpecs.OP_SERVER_REVOKE_LOGIN -> onRevoke(WorldLinkFrameSpecs.decodeServerRevokeLogin(this))
-        WorldLinkFrameSpecs.OP_SERVER_MUTE_UPDATE -> onMute(WorldLinkFrameSpecs.decodeServerMuteUpdate(this))
+        WorldLinkFrameSpecs.OP_SERVER_REVOKE_LOGIN ->
+            onRevoke(WorldLinkFrameSpecs.decodeServerRevokeLogin(this))
+        WorldLinkFrameSpecs.OP_SERVER_MUTE_UPDATE ->
+            onMute(WorldLinkFrameSpecs.decodeServerMuteUpdate(this))
         WorldLinkFrameSpecs.OP_SERVER_KICK -> onKick(WorldLinkFrameSpecs.decodeServerKick(this))
-        WorldLinkFrameSpecs.OP_SERVER_REBOOT -> onReboot(WorldLinkFrameSpecs.decodeServerReboot(this))
-        WorldLinkFrameSpecs.OP_SERVER_BROADCAST -> onBroadcast(WorldLinkFrameSpecs.decodeServerBroadcast(this))
-        WorldLinkFrameSpecs.OP_SERVER_DISPLAY_NAME_SYNC -> onDisplayNameSync(WorldLinkFrameSpecs.decodeServerDisplayNameSync(this))
+        WorldLinkFrameSpecs.OP_SERVER_REBOOT ->
+            onReboot(WorldLinkFrameSpecs.decodeServerReboot(this))
+        WorldLinkFrameSpecs.OP_SERVER_BROADCAST ->
+            onBroadcast(WorldLinkFrameSpecs.decodeServerBroadcast(this))
+        WorldLinkFrameSpecs.OP_SERVER_DISPLAY_NAME_SYNC ->
+            onDisplayNameSync(WorldLinkFrameSpecs.decodeServerDisplayNameSync(this))
         else -> onOther(op)
     }
 }
 
 internal object WorldLinkPackets {
-    fun worldHello(
-        worldId: Int,
-        worldKey: ByteArray,
-    ): ByteArray {
+    fun worldHello(worldId: Int, worldKey: ByteArray): ByteArray {
         val bos = ByteArrayOutputStream(128)
         DataOutputStream(bos).use { d ->
             d.writeByte(WorldLinkFrameSpecs.OP_WORLD_HELLO)
@@ -45,11 +47,7 @@ internal object WorldLinkPackets {
         return bos.toByteArray()
     }
 
-    fun login(
-        username: String,
-        password: CharArray,
-        loginCharacterId: Int?,
-    ): ByteArray {
+    fun login(username: String, password: CharArray, loginCharacterId: Int?): ByteArray {
         val u = username.toByteArray(StandardCharsets.UTF_8)
         val p = password.concatToString().toByteArray(StandardCharsets.UTF_8)
         val bos = ByteArrayOutputStream(128)
@@ -76,17 +74,13 @@ internal object WorldLinkPackets {
         }
         return bos.toByteArray()
     }
-
 }
 
-internal fun unexpectedCentralOp(
-    actual: Int,
-    expected: Collection<Int>,
-): Nothing {
+internal fun unexpectedCentralOp(actual: Int, expected: Collection<Int>): Nothing {
     val expectedStr = expected.joinToString(", ") { "0x${it.toString(16)}" }
     error(
         "Unexpected Central world-link opcode: got 0x${actual.toString(16)}, expected one of [$expectedStr]. " +
-            "Game server and Central may be on mismatched protocol versions.",
+            "Game server and Central may be on mismatched protocol versions."
     )
 }
 

@@ -1,0 +1,372 @@
+__TOC__
+==Objects==
+===New Objects===
+{| class="wikitable sortable"
+|-
+! colspan="3" | New Objects
+|-
+! style="width: 15em" | name !! id !! actions
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#53219 53219][https://abextm.github.io/cache2/#/viewer/obj/53219 (1)] || [None, None, None, None, None]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#53220 53220][https://abextm.github.io/cache2/#/viewer/obj/53220 (1)] || [None, None, None, None, None]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#53221 53221][https://abextm.github.io/cache2/#/viewer/obj/53221 (1)] || [None, None, None, None, None]
+|-
+| [[Zombie Pirate's Locker]] || [https://chisel.weirdgloop.org/moid/object_id.html#53222 53222][https://abextm.github.io/cache2/#/viewer/obj/53222 (1)] || [Open, None, None, None, None]
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#53223 53223][https://abextm.github.io/cache2/#/viewer/obj/53223 (1)] || [None, None, None, None, None]
+|-
+| [[Agility dispenser]] || [https://chisel.weirdgloop.org/moid/object_id.html#53224 53224][https://abextm.github.io/cache2/#/viewer/obj/53224 (1)] || [Tag, Pay, Redeem, None, None]
+|}
+===Removed Objects===
+{| class="wikitable sortable"
+|-
+! colspan="3" | Removed Objects
+|-
+! style="width: 15em" | name !! id !! actions
+|}
+===Diff Objects===
+{| class="wikitable sortable sticky-header"
+|-
+! colspan="5" | Diff Objects
+|-
+! style="width: 15em" | Name !! Id !! Key !! Previous Value !! New Value
+|-
+| rowspan="3" | [[null]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/object_id.html#14440 14440][https://abextm.github.io/cache2/#/viewer/obj/14440 (1)]
+|-
+| ambient ||  || 10
+|-
+| contrast ||  || 750
+|-
+| rowspan="3" | [[null]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/object_id.html#14441 14441][https://abextm.github.io/cache2/#/viewer/obj/14441 (1)]
+|-
+| ambient ||  || 10
+|-
+| contrast ||  || 750
+|-
+| rowspan="3" | [[null]]
+| rowspan="3" | [https://chisel.weirdgloop.org/moid/object_id.html#14442 14442][https://abextm.github.io/cache2/#/viewer/obj/14442 (1)]
+|-
+| ambient ||  || 10
+|-
+| contrast ||  || 750
+|-
+| rowspan="2" | [[null]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#22224 22224][https://abextm.github.io/cache2/#/viewer/obj/22224 (1)]
+|-
+| offsetHeight ||  || 40
+|-
+| rowspan="2" | [[null]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#22225 22225][https://abextm.github.io/cache2/#/viewer/obj/22225 (1)]
+|-
+| offsetHeight ||  || 56
+|-
+| rowspan="2" | [[Obstacle pipe]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/object_id.html#23137 23137][https://abextm.github.io/cache2/#/viewer/obj/23137 (1)]
+|-
+| contrast ||  || 500
+|}
+==Enums==
+===New Enums===
+{| class="wikitable sortable"
+|-
+! colspan="3" | New Enums
+|-
+! style="width: 15em" | id !! defaultValue !! map
+|}
+===Removed Enums===
+{| class="wikitable sortable"
+|-
+! colspan="3" | Removed Enums
+|-
+! style="width: 15em" | id !! defaultValue !! map
+|}
+===Diff Enums===
+{| class="wikitable sortable sticky-header"
+|-
+! colspan="5" | Diff Enums
+|-
+! style="width: 15em" | Id !! Key !! Previous Value !! New Value
+|-
+| rowspan="2" | [https://chisel.weirdgloop.org/structs/index.html?type=enums&id=767 767][https://abextm.github.io/cache2/#/viewer/enum/767 (1)]
+|-
+| map || {'0': 4251, '1': 6452, '2': 3840, '3': 3842, '4': 3844, '5': 12608, '6': 12610, '7': 12612, '8': 1686, '9': 6109, '10': 6107, '11': 6108, '12': 6110, '13': 6106, '14': 6111, '15': 9084, '16': 9096, '17': 9097, '18': 9098, '19': 9099, '20': 9100, '21': 9101, '22': 9102, '23': 9104, '24': 10887, '25': 88, '26': 1052, '27': 770, '28': 762, '29': 10510, '30': 6450, '31': 5573, '32': 5095, '33': 5093, '34': 5087, '35': 3981, '36': 3983, '37': 22803, '38': 10581, '39': 4502, '40': 11014, '41': 27021, '42': 11200, '43': 10828, '44': 22398, '45': 25818, '46': 11628, '47': 13660} || {'0': 4251, '1': 6452, '2': 3840, '3': 3842, '4': 3844, '5': 12608, '6': 12610, '7': 12612, '8': 1686, '9': 6109, '10': 6107, '11': 6108, '12': 6110, '13': 6106, '14': 6111, '15': 9084, '16': 9096, '17': 9097, '18': 9098, '19': 9099, '20': 9100, '21': 9101, '22': 9102, '23': 9104, '24': 10887, '25': 88, '26': 1052, '27': 770, '28': 762, '29': 10510, '30': 6450, '31': 5573, '32': 5095, '33': 5093, '34': 5087, '35': 3981, '36': 3983, '37': 22803, '38': 10581, '39': 4502, '40': 11014, '41': 27021, '42': 11200, '43': 10828, '44': 22398, '45': 25818, '46': 11628, '47': 13660, '48': 29448}
+|-
+| rowspan="2" | [https://chisel.weirdgloop.org/structs/index.html?type=enums&id=768 768][https://abextm.github.io/cache2/#/viewer/enum/768 (1)]
+|-
+| map || {'0': 4600, '1': 23000, '2': 12000, '3': 12000, '4': 12000, '5': 14000, '6': 14000, '7': 14000, '8': 200, '9': 15000, '10': 45000, '11': 43000, '12': 13500, '13': 13500, '14': 15000, '15': 60000, '16': 22000, '17': 140000, '18': 95000, '19': 15000, '20': 15000, '21': 18000, '22': 9000, '23': 8000, '24': 290000, '25': 9800, '26': 1900, '27': 200, '28': 200, '29': 200, '30': 200, '31': 200, '32': 200, '33': 200, '34': 200, '35': 200, '36': 200, '37': 200, '38': 25000, '39': 10000, '40': 6000, '41': 300000, '42': 115000, '43': 95000, '44': 30000, '45': 9500, '46': 7000, '47': 500} || {'0': 4600, '1': 23000, '2': 12000, '3': 12000, '4': 12000, '5': 14000, '6': 14000, '7': 14000, '8': 200, '9': 15000, '10': 45000, '11': 43000, '12': 13500, '13': 13500, '14': 15000, '15': 60000, '16': 22000, '17': 140000, '18': 95000, '19': 15000, '20': 15000, '21': 18000, '22': 9000, '23': 8000, '24': 290000, '25': 9800, '26': 1900, '27': 200, '28': 200, '29': 200, '30': 200, '31': 200, '32': 200, '33': 200, '34': 200, '35': 200, '36': 200, '37': 200, '38': 25000, '39': 10000, '40': 6000, '41': 300000, '42': 115000, '43': 95000, '44': 30000, '45': 9500, '46': 7000, '47': 500, '48': 250000}
+|-
+| rowspan="2" | [https://chisel.weirdgloop.org/structs/index.html?type=enums&id=2162 2162][https://abextm.github.io/cache2/#/viewer/enum/2162 (1)]
+|-
+| map || {'0': 7975, '1': 7976, '2': 7977, '3': 7978, '4': 7979, '5': 20724, '6': 21270, '7': 20736, '8': 20730, '9': 4151, '10': 4153, '11': 6665, '12': 6666, '13': 11037, '14': 11902, '15': 20727, '16': 8901, '17': 21646, '18': 21643, '19': 21637, '20': 6809, '21': 10589, '22': 11286, '23': 4119, '24': 4121, '25': 4123, '26': 4125, '27': 4127, '28': 4129, '29': 4131, '30': 11840, '31': 13265, '32': 11908, '33': 12004, '34': 11235, '35': 12002, '36': 3140, '37': 20849, '38': 21028, '39': 21009, '40': 22804, '41': 22963, '42': 22960, '43': 22957, '44': 22988, '45': 22971, '46': 22973, '47': 22969, '48': 4109, '49': 4111, '50': 4113, '51': 4115, '52': 4117, '53': 4099, '54': 4101, '55': 4103, '56': 4105, '57': 4107, '58': 23047, '59': 23050, '60': 23053, '61': 23056, '62': 23059, '63': 24268, '64': 24288, '65': 24291, '66': 24294, '67': 24777, '68': 26225, '69': 26221, '70': 26223, '71': 26227, '72': 26229, '73': 28583, '74': 29084} || {'0': 7975, '1': 7976, '2': 7977, '3': 7978, '4': 7979, '5': 20724, '6': 21270, '7': 20736, '8': 20730, '9': 4151, '10': 4153, '11': 6665, '12': 6666, '13': 11037, '14': 11902, '15': 20727, '16': 8901, '17': 21646, '18': 21643, '19': 21637, '20': 6809, '21': 10589, '22': 11286, '23': 4119, '24': 4121, '25': 4123, '26': 4125, '27': 4127, '28': 4129, '29': 4131, '30': 11840, '31': 13265, '32': 11908, '33': 12004, '34': 11235, '35': 12002, '36': 3140, '37': 20849, '38': 21028, '39': 21009, '40': 22804, '41': 22963, '42': 22960, '43': 22957, '44': 22988, '45': 22971, '46': 22973, '47': 22969, '48': 4109, '49': 4111, '50': 4113, '51': 4115, '52': 4117, '53': 4099, '54': 4101, '55': 4103, '56': 4105, '57': 4107, '58': 23047, '59': 23050, '60': 23053, '61': 23056, '62': 23059, '63': 24268, '64': 24288, '65': 24291, '66': 24294, '67': 24777, '68': 26225, '69': 26221, '70': 26223, '71': 26227, '72': 26229, '73': 28583, '74': 29084, '75': 29455}
+|-
+| rowspan="2" | [https://chisel.weirdgloop.org/structs/index.html?type=enums&id=4047 4047][https://abextm.github.io/cache2/#/viewer/enum/4047 (1)]
+|-
+| map || {'431': 1, '1842': 1, '4075': 1, '4657': 1, '7806': 1, '7807': 1, '7808': 1, '7809': 1, '8949': 1, '8950': 1, '9067': 1, '9433': 1, '10023': 1, '10024': 1, '11941': 1, '12789': 1, '12791': 1, '13190': 1, '13192': 1, '13666': 1, '20390': 1, '20393': 1, '20394': 1, '20395': 1, '20396': 1, '20523': 1, '20524': 1, '20525': 1, '20547': 1, '20548': 1, '20549': 1, '20550': 1, '20551': 1, '20607': 1, '20695': 1, '20696': 1, '20698': 1, '21807': 1, '21810': 1, '21813': 1, '21816': 1, '21817': 1, '22299': 1, '22302': 1, '22305': 1, '22586': 1, '22816': 1, '22817': 1, '23490': 1, '23533': 1, '23543': 1, '23545': 1, '23547': 1, '23549': 1, '23551': 1, '23553': 1, '23555': 1, '23557': 1, '23559': 1, '23561': 1, '23563': 1, '23565': 1, '23567': 1, '23569': 1, '23571': 1, '23573': 1, '23575': 1, '23577': 1, '23579': 1, '23581': 1, '23905': 1, '23906': 1, '23907': 1, '24416': 1, '24565': 1, '24567': 1, '24569': 1, '24571': 1, '24573': 1, '24575': 1, '24577': 1, '24579': 1, '24581': 1, '24583': 1} || {'431': 1, '1842': 1, '4075': 1, '4657': 1, '7806': 1, '7807': 1, '7808': 1, '7809': 1, '8949': 1, '8950': 1, '9067': 1, '9433': 1, '10023': 1, '10024': 1, '11941': 1, '12789': 1, '12791': 1, '13190': 1, '13192': 1, '13666': 1, '20390': 1, '20393': 1, '20394': 1, '20395': 1, '20396': 1, '20523': 1, '20524': 1, '20525': 1, '20547': 1, '20548': 1, '20549': 1, '20550': 1, '20551': 1, '20607': 1, '20695': 1, '20696': 1, '20698': 1, '21807': 1, '21810': 1, '21813': 1, '21816': 1, '21817': 1, '22299': 1, '22302': 1, '22305': 1, '22586': 1, '22816': 1, '22817': 1, '23490': 1, '23533': 1, '23543': 1, '23545': 1, '23547': 1, '23549': 1, '23551': 1, '23553': 1, '23555': 1, '23557': 1, '23559': 1, '23561': 1, '23563': 1, '23565': 1, '23567': 1, '23569': 1, '23571': 1, '23573': 1, '23575': 1, '23577': 1, '23579': 1, '23581': 1, '23905': 1, '23906': 1, '23907': 1, '24416': 1, '24565': 1, '24567': 1, '24569': 1, '24571': 1, '24573': 1, '24575': 1, '24577': 1, '24579': 1, '24581': 1, '24583': 1, '29449': 1}
+|-
+| rowspan="2" | [https://chisel.weirdgloop.org/structs/index.html?type=enums&id=5312 5312][https://abextm.github.io/cache2/#/viewer/enum/5312 (1)]
+|-
+| map || {'0': 890, '1': 891, '2': 892, '3': 893, '4': 894, '5': 897, '6': 898, '7': 899, '8': 900, '9': 901, '10': 902, '11': 903, '12': 906, '13': 907} || {'0': 915, '1': 891, '2': 892, '3': 893, '4': 894, '5': 897, '6': 898, '7': 899, '8': 900, '9': 901, '10': 902, '11': 903, '12': 906, '13': 907}
+|}
+==Npcs==
+===New Npcs===
+{| class="wikitable sortable"
+|-
+! colspan="4" | New Npcs
+|-
+! style="width: 15em" | name !! id !! combatLevel !! actions
+|-
+| [[Green dragon]] || [https://chisel.weirdgloop.org/moid/npc_id.html#13010 13010][https://abextm.github.io/cache2/#/viewer/npc/13010 (1)] || 79 || [None, Attack, None, None, None]
+|-
+| [[Green dragon]] || [https://chisel.weirdgloop.org/moid/npc_id.html#13488 13488][https://abextm.github.io/cache2/#/viewer/npc/13488 (1)] || 79 || [None, Attack, None, None, None]
+|-
+| [[Zombie pirate]] || [https://chisel.weirdgloop.org/moid/npc_id.html#13489 13489][https://abextm.github.io/cache2/#/viewer/npc/13489 (1)] || 22 || [None, Attack, None, None, None]
+|-
+| [[Zombie pirate]] || [https://chisel.weirdgloop.org/moid/npc_id.html#13490 13490][https://abextm.github.io/cache2/#/viewer/npc/13490 (1)] || 28 || [None, Attack, None, None, None]
+|-
+| [[Zombie pirate]] || [https://chisel.weirdgloop.org/moid/npc_id.html#13491 13491][https://abextm.github.io/cache2/#/viewer/npc/13491 (1)] || 28 || [None, Attack, None, None, None]
+|-
+| [[Zombie pirate]] || [https://chisel.weirdgloop.org/moid/npc_id.html#13492 13492][https://abextm.github.io/cache2/#/viewer/npc/13492 (1)] || 34 || [None, Attack, None, None, None]
+|-
+| [[Zombie pirate]] || [https://chisel.weirdgloop.org/moid/npc_id.html#13493 13493][https://abextm.github.io/cache2/#/viewer/npc/13493 (1)] || 34 || [None, Attack, None, None, None]
+|-
+| [[Zombie pirate]] || [https://chisel.weirdgloop.org/moid/npc_id.html#13494 13494][https://abextm.github.io/cache2/#/viewer/npc/13494 (1)] ||  || [Talk-to, None, Check, None, None]
+|-
+| [[Skeleton]] || [https://chisel.weirdgloop.org/moid/npc_id.html#13495 13495][https://abextm.github.io/cache2/#/viewer/npc/13495 (1)] || 25 || [None, Attack, None, None, None]
+|-
+| [[Skeleton]] || [https://chisel.weirdgloop.org/moid/npc_id.html#13496 13496][https://abextm.github.io/cache2/#/viewer/npc/13496 (1)] || 25 || [None, Attack, None, None, None]
+|-
+| [[Skeleton]] || [https://chisel.weirdgloop.org/moid/npc_id.html#13497 13497][https://abextm.github.io/cache2/#/viewer/npc/13497 (1)] || 25 || [None, Attack, None, None, None]
+|-
+| [[Skeleton]] || [https://chisel.weirdgloop.org/moid/npc_id.html#13498 13498][https://abextm.github.io/cache2/#/viewer/npc/13498 (1)] || 25 || [None, Attack, None, None, None]
+|-
+| [[Skeleton]] || [https://chisel.weirdgloop.org/moid/npc_id.html#13499 13499][https://abextm.github.io/cache2/#/viewer/npc/13499 (1)] || 25 || [None, Attack, None, None, None]
+|-
+| [[Skeleton]] || [https://chisel.weirdgloop.org/moid/npc_id.html#13500 13500][https://abextm.github.io/cache2/#/viewer/npc/13500 (1)] || 25 || [None, Attack, None, None, None]
+|-
+| [[Skeleton]] || [https://chisel.weirdgloop.org/moid/npc_id.html#13501 13501][https://abextm.github.io/cache2/#/viewer/npc/13501 (1)] || 25 || [None, Attack, None, None, None]
+|-
+| [[Hill Giant]] || [https://chisel.weirdgloop.org/moid/npc_id.html#13502 13502][https://abextm.github.io/cache2/#/viewer/npc/13502 (1)] || 28 || [None, Attack, None, None, None]
+|-
+| [[Hill Giant]] || [https://chisel.weirdgloop.org/moid/npc_id.html#13503 13503][https://abextm.github.io/cache2/#/viewer/npc/13503 (1)] || 28 || [None, Attack, None, None, None]
+|-
+| [[Hill Giant]] || [https://chisel.weirdgloop.org/moid/npc_id.html#13504 13504][https://abextm.github.io/cache2/#/viewer/npc/13504 (1)] || 28 || [None, Attack, None, None, None]
+|}
+===Removed Npcs===
+{| class="wikitable sortable"
+|-
+! colspan="4" | Removed Npcs
+|-
+! style="width: 15em" | name !! id !! combatLevel !! actions
+|}
+===Diff Npcs===
+{| class="wikitable sortable sticky-header"
+|-
+! colspan="5" | Diff Npcs
+|-
+! style="width: 15em" | Name !! Id !! Key !! Previous Value !! New Value
+|}
+==Items==
+===New Items===
+{| class="wikitable sortable"
+|-
+! colspan="11" | New Items
+|-
+! style="width: 15em" | name !! id !! examine !! isMembers !! isGrandExchangable !! isStackable !! noteLinkedItem !! inventoryActions !! placeholderLinkedItem !! price !! weight
+|-
+| [[Imbued mage arena cape]] || [https://chisel.weirdgloop.org/moid/item_id.html#29448 29448][https://abextm.github.io/cache2/#/viewer/item/29448 (1)] || One of the three capes from the Mage Arena. ||  ||  ||  || -1 || [None, None, None, None, Drop] || -1 ||  || 9071
+|-
+| [[Zombie pirate key]] || [https://chisel.weirdgloop.org/moid/item_id.html#29449 29449][https://abextm.github.io/cache2/#/viewer/item/29449 (1)] || The key to a zombie pirate's locker. || true || true || true || -1 || [None, None, None, None, Drop] || 29450 || 90 || 
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#29450 29450][https://abextm.github.io/cache2/#/viewer/item/29450 (1)] ||  ||  ||  ||  || -1 || [None, None, None, None, Drop] || 29449 || 1 || 
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#29451 29451][https://abextm.github.io/cache2/#/viewer/item/29451 (1)] ||  ||  ||  ||  || -1 || [None, None, None, None, Drop] || -1 || 1 || 
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#29452 29452][https://abextm.github.io/cache2/#/viewer/item/29452 (1)] ||  ||  ||  ||  || -1 || [None, None, None, None, Drop] || -1 || 1 || 
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#29453 29453][https://abextm.github.io/cache2/#/viewer/item/29453 (1)] ||  ||  ||  ||  || -1 || [None, None, None, None, Drop] || -1 || 1 || 
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#29454 29454][https://abextm.github.io/cache2/#/viewer/item/29454 (1)] ||  ||  ||  ||  || -1 || [None, None, None, None, Drop] || -1 || 1 || 
+|-
+| [[Teleport anchoring scroll]] || [https://chisel.weirdgloop.org/moid/item_id.html#29455 29455][https://abextm.github.io/cache2/#/viewer/item/29455 (1)] || A formidable magic spell which prevents unwanted teleportation. || true || true ||  || 29456 || [Read, None, None, None, Drop] || 29457 || 50000 || 15
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#29456 29456][https://abextm.github.io/cache2/#/viewer/item/29456 (1)] ||  ||  ||  ||  || 29455 || [None, None, None, None, Drop] || -1 || 1 || 
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#29457 29457][https://abextm.github.io/cache2/#/viewer/item/29457 (1)] ||  ||  ||  ||  || -1 || [None, None, None, None, Drop] || 29455 || 1 || 
+|-
+| [[Adamant seeds]] || [https://chisel.weirdgloop.org/moid/item_id.html#29458 29458][https://abextm.github.io/cache2/#/viewer/item/29458 (1)] || Magical seeds in an adamant case. || true || true || true || -1 || [Plant, None, None, None, Drop] || 29459 || 300 || 28
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#29459 29459][https://abextm.github.io/cache2/#/viewer/item/29459 (1)] ||  ||  ||  ||  || -1 || [None, None, None, None, Drop] || 29458 || 1 || 
+|-
+| [[Wilderness agility ticket]] || [https://chisel.weirdgloop.org/moid/item_id.html#29460 29460][https://abextm.github.io/cache2/#/viewer/item/29460 (1)] || Redeemable for agility training. || true ||  || true || -1 || [None, None, None, None, Drop] || 29461 || 10 || 
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#29461 29461][https://abextm.github.io/cache2/#/viewer/item/29461 (1)] ||  ||  ||  ||  || -1 || [None, None, None, None, Drop] || 29460 || 1 || 
+|}
+===Removed Items===
+{| class="wikitable sortable"
+|-
+! colspan="11" | Removed Items
+|-
+! style="width: 15em" | name !! id !! examine !! isMembers !! isGrandExchangable !! isStackable !! noteLinkedItem !! inventoryActions !! placeholderLinkedItem !! price !! weight
+|}
+===Diff Items===
+{| class="wikitable sortable sticky-header"
+|-
+! colspan="5" | Diff Items
+|-
+! style="width: 15em" | Name !! Id !! Key !! Previous Value !! New Value
+|-
+| rowspan="2" | [[Mithril seeds]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#299 299][https://abextm.github.io/cache2/#/viewer/item/299 (1)]
+|-
+| category || -1 || 2004
+|-
+| rowspan="2" | [[Tonalztics of ralos (uncharged)]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#28919 28919][https://abextm.github.io/cache2/#/viewer/item/28919 (1)]
+|-
+| price || 150000 || 600000
+|-
+| rowspan="2" | [[Tonalztics of ralos]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#28922 28922][https://abextm.github.io/cache2/#/viewer/item/28922 (1)]
+|-
+| price || 150000 || 600000
+|-
+| rowspan="2" | [[Sunfire fanatic helm]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#28933 28933][https://abextm.github.io/cache2/#/viewer/item/28933 (1)]
+|-
+| price || 15000 || 375000
+|-
+| rowspan="2" | [[Sunfire fanatic cuirass]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#28936 28936][https://abextm.github.io/cache2/#/viewer/item/28936 (1)]
+|-
+| price || 20000 || 500000
+|-
+| rowspan="2" | [[Sunfire fanatic chausses]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#28939 28939][https://abextm.github.io/cache2/#/viewer/item/28939 (1)]
+|-
+| price || 20000 || 500000
+|-
+| rowspan="2" | [[Echo crystal]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#28942 28942][https://abextm.github.io/cache2/#/viewer/item/28942 (1)]
+|-
+| price || 500 || 150000
+|-
+| rowspan="4" | [[Echo boots]]
+| rowspan="4" | [https://chisel.weirdgloop.org/moid/item_id.html#28945 28945][https://abextm.github.io/cache2/#/viewer/item/28945 (1)]
+|-
+| price || 305000 || 450000
+|-
+| inventoryActions || [None, Wear, Check, None, Uncharge] || [None, Wear, Check, Toggle-activity, Revert]
+|-
+| params || {'258': 38, '295': 1, '434': 1, '436': 75, '451': 'Check', '1564': 10} || {'258': 38, '295': 1, '434': 1, '436': 75, '451': 'Check', '452': 'Toggle-activity', '1564': 10}
+|-
+| rowspan="2" | [[Blessed bat bones]]
+| rowspan="2" | [https://chisel.weirdgloop.org/moid/item_id.html#29346 29346][https://abextm.github.io/cache2/#/viewer/item/29346 (1)]
+|-
+| name || Blessd bat bones || Blessed bat bones
+|}
+==Params==
+===New Params===
+{| class="wikitable sortable"
+|-
+! colspan="5" | New Params
+|-
+! style="width: 15em" | id !! type !! defaultInt !! defaultString !! isMembers
+|-
+| [https://chisel.weirdgloop.org/structs/index.html?type=enums&id=1928 1928][https://abextm.github.io/cache2/#/viewer/enum/1928 (1)] ||  ||  ||  || 
+|-
+| [https://chisel.weirdgloop.org/structs/index.html?type=enums&id=1929 1929][https://abextm.github.io/cache2/#/viewer/enum/1929 (1)] ||  ||  ||  || 
+|}
+===Removed Params===
+{| class="wikitable sortable"
+|-
+! colspan="5" | Removed Params
+|-
+! style="width: 15em" | id !! type !! defaultInt !! defaultString !! isMembers
+|}
+===Diff Params===
+{| class="wikitable sortable sticky-header"
+|-
+! colspan="5" | Diff Params
+|-
+! style="width: 15em" | Id !! Key !! Previous Value !! New Value
+|}
+==Structs==
+===New Structs===
+{| class="wikitable sortable"
+|-
+! colspan="2" | New Structs
+|-
+! style="width: 15em" | id !! params
+|-
+| [https://chisel.weirdgloop.org/structs/index.html?type=structs&id=915 915][https://abextm.github.io/cache2/#/viewer/struct/915 (1)] || {'1895': 0, '1896': 'Mantimayhem', '1897': 'Manticores fire an additional projectile per orb.', '1898': 'Manticores an additional projectile per orb and apply Venom on hit.', '1899': 'Manticores fire an additional projectile per orb,  apply Venom and Melee orbs can appear anywhere in the sequence.', '1900': 0, '1901': 1, '1903': 150, '1914': 5}
+|}
+===Removed Structs===
+{| class="wikitable sortable"
+|-
+! colspan="2" | Removed Structs
+|-
+! style="width: 15em" | id !! params
+|-
+| [https://chisel.weirdgloop.org/structs/index.html?type=structs&id=890 890][https://abextm.github.io/cache2/#/viewer/struct/890 (1)] || {'1895': 0, '1896': 'The Doom Scorpion', '1897': 'The Doom Scorpion continually spawns and hits for two stacks of doom. Certain death after 20 stacks.', '1898': 'The Doom Scorpion continually spawns,  moves faster,  and hits for four stacks of doom. Certain death after 20 stacks.', '1899': 'The Doom Scorpion continually spawns,  moves very fast,  and hits for eight stacks of doom. Certain death after 20 stacks.', '1900': 0, '1901': 1, '1903': 150, '1914': 5}
+|}
+===Diff Structs===
+{| class="wikitable sortable sticky-header"
+|-
+! colspan="5" | Diff Structs
+|-
+! style="width: 15em" | Id !! Key !! Previous Value !! New Value
+|-
+| rowspan="2" | [https://chisel.weirdgloop.org/structs/index.html?type=structs&id=894 894][https://abextm.github.io/cache2/#/viewer/struct/894 (1)]
+|-
+| params || {'1895': 4, '1896': 'Blasphemy', '1897': 'Prayer is drained by 20% of damage received.', '1898': 'Prayer is drained by 40% of damage received.', '1899': 'Prayer is drained by 60% of damage received.', '1900': 0, '1901': 1, '1903': 100, '1914': 4} || {'1895': 4, '1896': 'Blasphemy', '1897': 'Prayer is drained by 20% of damage received from enemies off-prayer.', '1898': 'Prayer is drained by 40% of damage received from enemies off-prayer.', '1899': 'Prayer is drained by 60% of damage received from enemies off-prayer.', '1900': 0, '1901': 1, '1903': 100, '1914': 4}
+|-
+| rowspan="2" | [https://chisel.weirdgloop.org/structs/index.html?type=structs&id=897 897][https://abextm.github.io/cache2/#/viewer/struct/897 (1)]
+|-
+| params || {'1895': 5, '1896': 'Relentless', '1897': 'Enemies never miss and hit an extra 1 damage.', '1898': 'Enemies never miss and hit an extra 3 damage.', '1899': 'Enemies never miss and hit an extra 6 damage.', '1900': 0, '1901': 1, '1903': 200, '1914': 1} || {'1895': 5, '1896': 'Relentless', '1897': 'Enemies ignore 33% of your defence and hit an extra 1 damage.', '1898': 'Enemies ignore 66% of your defence and hit an extra 3 damage.', '1899': 'Enemies ignore all defence and hit an extra 6 damage.', '1900': 0, '1901': 1, '1903': 200, '1914': 1}
+|-
+| rowspan="2" | [https://chisel.weirdgloop.org/structs/index.html?type=structs&id=900 900][https://abextm.github.io/cache2/#/viewer/struct/900 (1)]
+|-
+| params || {'1895': 8, '1896': 'Doom', '1897': 'A stack of Doom is gained every time you take damage. Certain death after 20 stacks.', '1900': 0, '1901': 0, '1903': 200, '1914': 9} || {'1895': 8, '1896': 'Doom', '1897': 'A stack of Doom is gained every time you take damage. Certain death at 15 stacks. Resets each wave.', '1898': 'A stack of Doom is gained every time you take damage. Certain death at 10 stacks. Resets each wave.', '1899': 'A stack of Doom is gained every time you take damage. Certain death at 5 stacks. Resets each wave.', '1900': 0, '1901': 1, '1903': 200, '1914': 9}
+|}
+==Database Rows==
+===New Database Rows===
+{| class="wikitable sortable"
+|-
+! colspan="3" | New Database Rows
+|-
+! style="width: 15em" | id !! table !! values
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/3529 3529] || 18 || [[53104216], [In the woods east of the Level 19 Wilderness Obelisk.], None]
+|}
+===Removed Database Rows===
+{| class="wikitable sortable"
+|-
+! colspan="3" | Removed Database Rows
+|-
+! style="width: 15em" | id !! table !! values
+|-
+| [https://abextm.github.io/cache2/#/viewer/dbrow/415 415] || 18 || [[53071387], [Chaos temple in the south-eastern wilderness.], None]
+|}
+===Diff Database Rows===
+{| class="wikitable sortable sticky-header"
+|-
+! colspan="5" | Diff Database Rows
+|-
+! style="width: 15em" | Id !! Key !! Previous Value !! New Value
+|-
+| rowspan="3" | [https://abextm.github.io/cache2/#/viewer/dbrow/2158 2158]
+|-
+| values || [[347], [3], [Shrug in the Zamorak temple found in the Eastern Wilderness. Beware of double agents! Equip rune platelegs,  an iron platebody and blue dragonhide vambraces.], [415], [6], None, [1670], [29009], [53169689], [1804], None, [11, 1, 3], None] || [[347], [3], [Shrug in the woods east of the Level 19 Wilderness Obelisk. Beware of double agents! Equip rune platelegs,  an iron platebody and blue dragonhide vambraces.], [3529], [6], None, [1670], [29009], [53136974], [1804], None, [11, 1, 3], None]
+|-
+| types || [[0], [0], [36], [74], [0], None, [74], [30], [22], [74], None, [0], None] || [[0], [0], [36], [74], [0], None, [74], [30], [22], [74], None, [0], None]
+|-
+| rowspan="3" | [https://abextm.github.io/cache2/#/viewer/dbrow/3508 3508]
+|-
+| values || [[365], [4], [Bow within the temple in Civitas illa Fortis.<br>Equip any piece of sunfire fanatic armour.], [3485], [2], None, [3500], [50739], [27888647], None, None, [21], None] || [[974], [4], [Bow within the temple in Civitas illa Fortis.<br>Equip any piece of sunfire fanatic armour.], [3485], [2], None, [3500], [50739], [27888647], None, None, [21], None]
+|-
+| types || [[0], [0], [36], [74], [0], None, [74], [30], [22], None, None, [0], None] || [[0], [0], [36], [74], [0], None, [74], [30], [22], None, None, [0], None]
+|}

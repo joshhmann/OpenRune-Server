@@ -1,0 +1,114 @@
+{{ToC}}
+==Items==
+===New Items===
+{| class="wikitable sortable"
+!colspan='11'|New Items
+|-
+! style=width:15em | Name !! ID !! Members !! Tradeable in GE !! Equipable !! Stackable !! Noteable !! Options !! Placeholder !! Cost
+|-
+| [[Basilisk knight]] || [https://chisel.weirdgloop.org/moid/item_id.html#24276 24276] || No || No || No || No || No ||     Drop || No || 1
+|-
+|-
+|}
+===Removed Items===
+{| class="wikitable sortable"
+!colspan='2'|Removed Items
+|-
+! style=width:15em | Name !! ID
+|-
+|-
+|}
+===Diff Items===
+{| class="wikitable sortable"
+!colspan='5'|Diff Items
+|-
+! style=width:15em | Name !! ID !! Key !! Previous Value !! New Value
+|-
+|rowspan="2"|[[Neitiznot shield]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#10826 10826]
+|-
+|name || [[Fremennik shield]] || [[Neitiznot shield]]
+|-
+|}
+
+==Non-Player Characters==
+===New NPCs===
+{| class="wikitable sortable"
+!colspan='4'|New NPCs
+|-
+! style=width:15em | Name !! ID !! Combat Level !! Options
+|-
+| [[Maz]] || [https://chisel.weirdgloop.org/moid/npc_id.html#9298 9298] || No Combat Level || None
+|-
+|-
+|}
+===Removed NPCs===
+{| class="wikitable sortable"
+!colspan='2'|Removed NPCs
+|-
+! style=width:15em | Name !! ID
+|-
+|-
+|}
+===Diff NPCs===
+{| class="wikitable sortable"
+!colspan='5'|Diff NPCs
+|-
+! style=width:15em | Name !! ID !! Key !! Previous Value !! New Value
+|-
+|rowspan="2"|[[Basilisk Sentinel]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#9258 9258]
+|-
+|combatLevel || 351 || 358
+|-
+|rowspan="2"|[[Basilisk Knight]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#9293 9293]
+|-
+|combatLevel || 182 || 204
+|-
+|rowspan="2"|[[Bakuna]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#9294 9294]
+|-
+|combatLevel || 194 || 218
+|-
+|rowspan="2"|[[Typhor]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#9295 9295]
+|-
+|combatLevel || 194 || 218
+|-
+|rowspan="2"|[[Typhor]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#9296 9296]
+|-
+|combatLevel || 194 || 218
+|-
+|rowspan="2"|[[Vritra]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#9297 9297]
+|-
+|combatLevel || 194 || 218
+|-
+|}
+
+==Objects==
+===New Objects=== 
+{| class="wikitable sortable"
+!colspan='3'|New Objects
+|-
+! style=width:15em | Name !! ID !! Options
+|-
+|-
+|}
+===Removed Objects===
+{| class="wikitable sortable"
+!colspan='2'|Removed Objects
+|-
+! style=width:15em | Name !! ID
+|-
+|-
+|}
+===Diff Objects===
+{| class="wikitable sortable"
+!colspan='5'|Diff Objects
+|-
+! style=width:15em | Name !! ID !! Key !! Previous Value !! New Value
+|-
+|}

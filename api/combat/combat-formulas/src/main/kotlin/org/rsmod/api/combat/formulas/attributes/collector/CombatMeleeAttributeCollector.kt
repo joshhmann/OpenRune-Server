@@ -37,7 +37,9 @@ public class CombatMeleeAttributeCollector {
         val amulet = player.front
         if (amulet.isType("obj.wild_cave_amulet")) {
             attributes += CombatMeleeAttributes.AmuletOfAvarice
-        } else if (amulet.isAnyType("obj.lotr_crystalshard_necklace_upgrade", "obj.nzone_salve_amulet_e")) {
+        } else if (
+            amulet.isAnyType("obj.lotr_crystalshard_necklace_upgrade", "obj.nzone_salve_amulet_e")
+        ) {
             attributes += CombatMeleeAttributes.SalveAmuletE
         } else if (amulet.isAnyType("obj.crystalshard_necklace", "obj.nzone_salve_amulet")) {
             attributes += CombatMeleeAttributes.SalveAmulet
@@ -105,7 +107,10 @@ public class CombatMeleeAttributeCollector {
                     CombatMeleeAttributes.BarroniteMaceWeapon
                 }
 
-                weapon.isAnyType("obj.wild_cave_chainmace_charged", "obj.wild_cave_ursine_charged") -> {
+                weapon.isAnyType(
+                    "obj.wild_cave_chainmace_charged",
+                    "obj.wild_cave_ursine_charged",
+                ) -> {
                     CombatMeleeAttributes.RevenantWeapon
                 }
 

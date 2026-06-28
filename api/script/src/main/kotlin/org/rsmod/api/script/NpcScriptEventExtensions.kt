@@ -88,13 +88,21 @@ public fun ScriptContext.onOpNpcT(
     type: NpcServerType,
     component: String,
     action: suspend ProtectedAccess.(NpcTEvents.Op) -> Unit,
-): Unit = onProtectedEvent(EventBus.composeLongKey(type.id, component.asRSCM(RSCMType.COMPONENT)), action)
+): Unit =
+    onProtectedEvent(EventBus.composeLongKey(type.id, component.asRSCM(RSCMType.COMPONENT)), action)
 
 public fun ScriptContext.onOpNpcT(
     content: String,
     component: String,
     action: suspend ProtectedAccess.(NpcTContentEvents.Op) -> Unit,
-): Unit = onProtectedEvent(EventBus.composeLongKey(content.asRSCM(RSCMType.CONTENT), component.asRSCM(RSCMType.COMPONENT)), action)
+): Unit =
+    onProtectedEvent(
+        EventBus.composeLongKey(
+            content.asRSCM(RSCMType.CONTENT),
+            component.asRSCM(RSCMType.COMPONENT),
+        ),
+        action,
+    )
 
 public fun ScriptContext.onOpNpcU(
     npcType: NpcServerType,
@@ -105,7 +113,6 @@ public fun ScriptContext.onOpNpcU(
     npcType: String,
     action: suspend ProtectedAccess.(NpcUDefaultEvents.OpType) -> Unit,
 ): Unit = onProtectedEvent(npcType.asRSCM(RSCMType.NPC), action)
-
 
 public fun ScriptContext.onOpContentNpcU(
     content: String,
@@ -122,7 +129,11 @@ public fun ScriptContext.onOpContentNpcU(
     content: String,
     objType: String,
     action: suspend ProtectedAccess.(NpcUContentEvents.Op) -> Unit,
-): Unit = onProtectedEvent(EventBus.composeLongKey(content.asRSCM(RSCMType.CONTENT), objType.asRSCM(RSCMType.OBJ)), action)
+): Unit =
+    onProtectedEvent(
+        EventBus.composeLongKey(content.asRSCM(RSCMType.CONTENT), objType.asRSCM(RSCMType.OBJ)),
+        action,
+    )
 
 /* Ap functions */
 public fun ScriptContext.onApNpc1(
@@ -190,7 +201,11 @@ public fun ScriptContext.onApNpcT(
     content: String,
     component: ComponentType,
     action: suspend ProtectedAccess.(NpcTContentEvents.Ap) -> Unit,
-): Unit = onProtectedEvent(EventBus.composeLongKey(content.asRSCM(RSCMType.CONTENT), component.packed), action)
+): Unit =
+    onProtectedEvent(
+        EventBus.composeLongKey(content.asRSCM(RSCMType.CONTENT), component.packed),
+        action,
+    )
 
 public fun ScriptContext.onApNpcU(
     npcType: NpcServerType,
@@ -212,7 +227,8 @@ public fun ScriptContext.onApNpcU(
     content: String,
     objType: ItemServerType,
     action: suspend ProtectedAccess.(NpcUContentEvents.Ap) -> Unit,
-): Unit = onProtectedEvent(EventBus.composeLongKey(content.asRSCM(RSCMType.CONTENT), objType.id), action)
+): Unit =
+    onProtectedEvent(EventBus.composeLongKey(content.asRSCM(RSCMType.CONTENT), objType.id), action)
 
 /* Timer functions */
 public fun ScriptContext.onNpcTimer(
@@ -230,7 +246,11 @@ public fun ScriptContext.onNpcTimer(
     content: String,
     timer: String,
     action: suspend StandardNpcAccess.(NpcTimerEvents.Content) -> Unit,
-): Unit = onNpcAccessEvent(EventBus.composeLongKey(content.asRSCM(RSCMType.CONTENT), timer.asRSCM(RSCMType.TIMER)), action)
+): Unit =
+    onNpcAccessEvent(
+        EventBus.composeLongKey(content.asRSCM(RSCMType.CONTENT), timer.asRSCM(RSCMType.TIMER)),
+        action,
+    )
 
 /* Queue functions */
 public fun ScriptContext.onNpcQueue(
@@ -259,13 +279,21 @@ public fun ScriptContext.onNpcQueue(
     content: String,
     queue: String,
     action: suspend StandardNpcAccess.(NpcQueueEvents.Content<Nothing>) -> Unit,
-): Unit = onNpcAccessEvent(EventBus.composeLongKey(content.asRSCM(RSCMType.CONTENT), queue.asRSCM(RSCMType.QUEUE)), action)
+): Unit =
+    onNpcAccessEvent(
+        EventBus.composeLongKey(content.asRSCM(RSCMType.CONTENT), queue.asRSCM(RSCMType.QUEUE)),
+        action,
+    )
 
 public fun <T> ScriptContext.onNpcQueueWithArgs(
     content: String,
     queue: String,
     action: suspend StandardNpcAccess.(NpcQueueEvents.Content<T>) -> Unit,
-): Unit = onNpcAccessEvent(EventBus.composeLongKey(content.asRSCM(RSCMType.CONTENT), queue.asRSCM(RSCMType.QUEUE)), action)
+): Unit =
+    onNpcAccessEvent(
+        EventBus.composeLongKey(content.asRSCM(RSCMType.CONTENT), queue.asRSCM(RSCMType.QUEUE)),
+        action,
+    )
 
 /* Walk trigger functions */
 public fun ScriptContext.onNpcWalkTrigger(

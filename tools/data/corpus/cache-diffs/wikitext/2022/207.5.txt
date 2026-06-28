@@ -1,0 +1,135 @@
+{{ToC}}
+==Items==
+===New Items===
+{| class="wikitable sortable"
+!colspan='11'|New Items
+|-
+! Name !! ID !! Members !! Tradeable in GE !! Equipable !! Stackable !! Noteable !! Options !! Placeholder !! Cost
+|-
+|-
+|}
+===Removed Items===
+{| class="wikitable sortable"
+!colspan='2'|Removed Items
+|-
+! Name !! ID
+|-
+|-
+|}
+===Diff Items===
+{| class="wikitable sortable"
+!colspan='5'|Diff Items
+|-
+! Name !! ID !! Key !! Previous Value !! New Value
+|-
+|rowspan="2"|[[Liquid adrenaline]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#27339 27339]
+|-
+|name || [[Liquid adrenaline (2)]] || [[Liquid adrenaline]]
+|-
+|rowspan="2"|[[Ambrosia]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#27347 27347]
+|-
+|name || [[Ambrosia (2)]] || [[Ambrosia]]
+|-
+|}
+
+==Non-Player Characters==
+===New NPCs===
+{| class="wikitable sortable"
+!colspan='4'|New NPCs
+|-
+! Name !! ID !! Combat Level !! Options
+|-
+|-
+|}
+===Removed NPCs===
+{| class="wikitable sortable"
+!colspan='2'|Removed NPCs
+|-
+! Name !! ID
+|-
+|-
+|}
+===Diff NPCs===
+{| class="wikitable sortable"
+!colspan='5'|Diff NPCs
+|-
+! Name !! ID !! Key !! Previous Value !! New Value
+|-
+|rowspan="2"|[[<col=00ffff>Egg</col>]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#11728 11728]
+|-
+|hasRenderPriority || False || True
+|-
+|rowspan="2"|[[<col=00ffff>Egg</col>]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#11729 11729]
+|-
+|hasRenderPriority || False || True
+|-
+|rowspan="2"|[[<col=00ffff>Jug</col>]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#11735 11735]
+|-
+|hasRenderPriority || False || True
+|-
+|rowspan="2"|[[<col=00ffff>Jug</col>]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#11736 11736]
+|-
+|hasRenderPriority || False || True
+|-
+|rowspan="2"|[[<col=00ffff>Energy Siphon</col>]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#11772 11772]
+|-
+|hasRenderPriority || False || True
+|-
+|rowspan="2"|[[null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#11773 11773]
+|-
+|hasRenderPriority || False || True
+|-
+|rowspan="2"|[[<col=00ffff>Rubble</col>]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#11784 11784]
+|-
+|isMinimapVisible || True || False
+|-
+|rowspan="2"|[[<col=00ffff>Rubble</col>]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#11785 11785]
+|-
+|isMinimapVisible || True || False
+|-
+|rowspan="2"|[[<col=00ffff>Rubble</col>]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#11786 11786]
+|-
+|isMinimapVisible || True || False
+|-
+|rowspan="2"|[[<col=00ffff>Rubble</col>]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#11787 11787]
+|-
+|isMinimapVisible || True || False
+|-
+|}
+
+==Objects==
+===New Objects=== 
+{| class="wikitable sortable"
+!colspan='3'|New Objects
+|-
+! Name !! ID !! Options
+|-
+|-
+|}
+===Removed Objects===
+{| class="wikitable sortable"
+!colspan='2'|Removed Objects
+|-
+! Name !! ID
+|-
+|-
+|}
+===Diff Objects===
+{| class="wikitable sortable"
+!colspan='5'|Diff Objects
+|-
+! Name !! ID !! Key !! Previous Value !! New Value
+|-
+|}

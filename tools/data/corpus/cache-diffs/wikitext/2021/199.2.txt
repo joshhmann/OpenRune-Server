@@ -1,0 +1,72 @@
+{{ToC}}
+==Items==
+{| class="wikitable sortable"
+!colspan='5'|Items
+|-
+! Name !! ID !! Key !! Previous Value !! Changed into
+|-
+|rowspan="3"|[[Magic cape]]
+|rowspan="3"|9762
+|-
+|interfaceOptions || [None, 'Wear', 'Spellbook', None, 'Drop'] || [None, 'Wear', 'Spellbook', 'Check', 'Drop']
+|-
+| params || {'452': 'Spellbook', '451': 'Boost'} || {'452': 'Spellbook', '453': 'Check', '451': 'Boost'}
+|-
+|rowspan="3"|[[Magic cape(t)]]
+|rowspan="3"|9763
+|-
+|interfaceOptions || [None, 'Wear', 'Spellbook', None, 'Drop'] || [None, 'Wear', 'Spellbook', 'Check', 'Drop']
+|-
+| params || {'452': 'Spellbook', '451': 'Boost'} || {'452': 'Spellbook', '453': 'Check', '451': 'Boost'}
+|-
+|rowspan="2"|[[Sigil of specialised strikes]]
+|rowspan="2"|26059
+|-
+|interfaceOptions || [None, None, 'Inspect', 'Unattune', 'Destroy'] || ['Activate', 'Check', 'Inspect', 'Unattune', 'Destroy']
+|-
+|}
+
+==Non-Player Characters==
+{| class="wikitable sortable"
+!colspan='5'|Non-Player Characters
+|-
+! Name !! ID !! Key !! Previous Value !! Changed into
+|-
+| [[Floki]] || 9195 || colspan = "4" | New ID
+|-
+|}
+
+==Objects==
+{| class="wikitable sortable"
+!colspan='5'|Objects
+|-
+! Name !! ID !! Key !! Previous Value !! Changed into
+|-
+| [[Rocks]] || 42817 || colspan = "4" | New ID
+|-
+|rowspan="2"|[[Rock]]
+|rowspan="2"|30519
+|-
+|actions || ['Inspect', 'Check count', None, None, None] || ['Inspect', 'Check count', 'Toggle warning', None, None]
+|-
+|rowspan="2"|[[Mushroom]]
+|rowspan="2"|30520
+|-
+|actions || ['Inspect', 'Check count', None, None, None] || ['Inspect', 'Check count', 'Toggle warning', None, None]
+|-
+|rowspan="2"|[[Rock]]
+|rowspan="2"|30521
+|-
+|actions || ['Inspect', 'Check count', None, None, None] || ['Inspect', 'Check count', 'Toggle warning', None, None]
+|-
+|rowspan="2"|[[Rock]]
+|rowspan="2"|30522
+|-
+|actions || ['Inspect', 'Check count', None, None, None] || ['Inspect', 'Check count', 'Toggle warning', None, None]
+|-
+|rowspan="2"|[[Driftwood]]
+|rowspan="2"|30523
+|-
+|actions || ['Inspect', 'Check count', None, None, None] || ['Inspect', 'Check count', 'Toggle warning', None, None]
+|-
+|}

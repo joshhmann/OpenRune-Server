@@ -1,0 +1,243 @@
+{{ToC}}
+==Items==
+===New Items===
+{| class="wikitable sortable"
+!colspan='11'|New Items
+|-
+! Name !! ID !! Members !! Tradeable in GE !! Equipable !! Stackable !! Noteable !! Options !! Placeholder !! Cost
+|-
+|-
+|}
+===Removed Items===
+{| class="wikitable sortable"
+!colspan='2'|Removed Items
+|-
+! Name !! ID
+|-
+|-
+|}
+===Diff Items===
+{| class="wikitable sortable"
+!colspan='5'|Diff Items
+|-
+! Name !! ID !! Key !! Previous Value !! New Value
+|-
+|rowspan="11"|[[null]]
+|rowspan="11"|[https://chisel.weirdgloop.org/moid/item_id.html#980 980]
+|-
+|name || [[Null]] || [[null]]
+|-
+| xan2d || 572 || 368
+|-
+| yan2d || 0 || 1576
+|-
+| inventoryModel || 2521 || 2748
+|-
+| zoom2d || 1940 || 1400
+|-
+| xOffset2d || 0 || 1
+|-
+| yOffset2d || 1 || 15
+|-
+| interfaceOptions || ['Wear', None, None, None, 'Drop'] || [None, None, None, None, 'Drop']
+|-
+| colorFind ||<span style = "background-color: #0b3618;color:white">25238</span>||<span style = "background-color: #3e2903;color:white">7062</span>
+|-
+| colorReplace ||<span style = "background-color: #ad415c;color:white">-2608</span>||<span style = "background-color: #16160d;color:white">10508</span>
+|-
+|rowspan="3"|[[Grimy snake weed]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/item_id.html#1525 1525]
+|-
+|inventoryModel || 2440 || 36932
+|-
+| colorReplace ||<span style = "background-color: #689206;color:white">14259</span>,<span style = "background-color: #105a0b;color:white">21283</span>||<span style = "background-color: #374d04;color:white">14236</span>,<span style = "background-color: #072602;color:white">20366</span>
+|-
+|rowspan="2"|[[Saradomin page 1]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#3827 3827]
+|-
+| colorReplace ||<span style = "background-color: #a09f8b;color:white">10341</span>,<span style = "background-color: #9b9987;color:white">10337</span>,<span style = "background-color: #94927f;color:white">10332</span>,<span style = "background-color: #9e9b6a;color:white">10456</span>,<span style = "background-color: #979462;color:white">10452</span>||<span style = "background-color: #64679a;color:white">-22314</span>,<span style = "background-color: #606394;color:white">-22318</span>,<span style = "background-color: #5d608c;color:white">-22322</span>,<span style = "background-color: #575983;color:white">-22326</span>,<span style = "background-color: #54567c;color:white">-22330</span>
+|-
+|rowspan="2"|[[Saradomin page 2]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#3828 3828]
+|-
+| colorReplace ||<span style = "background-color: #a09f8b;color:white">10341</span>,<span style = "background-color: #9b9987;color:white">10337</span>,<span style = "background-color: #94927f;color:white">10332</span>,<span style = "background-color: #9e9b6a;color:white">10456</span>,<span style = "background-color: #979462;color:white">10452</span>||<span style = "background-color: #64679a;color:white">-22314</span>,<span style = "background-color: #606394;color:white">-22318</span>,<span style = "background-color: #5d608c;color:white">-22322</span>,<span style = "background-color: #575983;color:white">-22326</span>,<span style = "background-color: #54567c;color:white">-22330</span>
+|-
+|rowspan="2"|[[Saradomin page 3]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#3829 3829]
+|-
+| colorReplace ||<span style = "background-color: #a09f8b;color:white">10341</span>,<span style = "background-color: #9b9987;color:white">10337</span>,<span style = "background-color: #94927f;color:white">10332</span>,<span style = "background-color: #9e9b6a;color:white">10456</span>,<span style = "background-color: #979462;color:white">10452</span>||<span style = "background-color: #64679a;color:white">-22314</span>,<span style = "background-color: #606394;color:white">-22318</span>,<span style = "background-color: #5d608c;color:white">-22322</span>,<span style = "background-color: #575983;color:white">-22326</span>,<span style = "background-color: #54567c;color:white">-22330</span>
+|-
+|rowspan="2"|[[Saradomin page 4]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#3830 3830]
+|-
+| colorReplace ||<span style = "background-color: #a09f8b;color:white">10341</span>,<span style = "background-color: #9b9987;color:white">10337</span>,<span style = "background-color: #94927f;color:white">10332</span>,<span style = "background-color: #9e9b6a;color:white">10456</span>,<span style = "background-color: #979462;color:white">10452</span>||<span style = "background-color: #64679a;color:white">-22314</span>,<span style = "background-color: #606394;color:white">-22318</span>,<span style = "background-color: #5d608c;color:white">-22322</span>,<span style = "background-color: #575983;color:white">-22326</span>,<span style = "background-color: #54567c;color:white">-22330</span>
+|-
+|rowspan="2"|[[Null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#10567 10567]
+|-
+|notedID || 10568 || -1
+|-
+|rowspan="11"|[[null]]
+|rowspan="11"|[https://chisel.weirdgloop.org/moid/item_id.html#10568 10568]
+|-
+|xan2d || 0 || 224
+|-
+| yan2d || 0 || 1056
+|-
+| inventoryModel || 0 || 31962
+|-
+| zoom2d || 2000 || 1095
+|-
+| xOffset2d || 0 || 3
+|-
+| yOffset2d || 0 || 7
+|-
+| maleModel0 || -1 || 31887
+|-
+| femaleModel0 || -1 || 31894
+|-
+| notedID || 10567 || -1
+|-
+| notedTemplate || 799 || -1
+|-
+|rowspan="2"|[[Ancient page 1]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#12621 12621]
+|-
+| colorReplace ||<span style = "background-color: #4e519c;color:white">-22194</span>,<span style = "background-color: #595c86;color:white">-22324</span>,<span style = "background-color: #5d5783;color:white">-20278</span>,<span style = "background-color: #53488d;color:white">-20152</span>,<span style = "background-color: #625279;color:white">-17212</span>||<span style = "background-color: #402e74;color:white">-19017</span>,<span style = "background-color: #362761;color:white">-19025</span>,<span style = "background-color: #312a4b;color:white">-19161</span>,<span style = "background-color: #221f37;color:white">-20194</span>,<span style = "background-color: #221f37;color:white">-20194</span>
+|-
+|rowspan="2"|[[Ancient page 2]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#12622 12622]
+|-
+| colorReplace ||<span style = "background-color: #4e519c;color:white">-22194</span>,<span style = "background-color: #595c86;color:white">-22324</span>,<span style = "background-color: #5d5783;color:white">-20278</span>,<span style = "background-color: #53488d;color:white">-20152</span>,<span style = "background-color: #625279;color:white">-17212</span>||<span style = "background-color: #402e74;color:white">-19017</span>,<span style = "background-color: #362761;color:white">-19025</span>,<span style = "background-color: #312a4b;color:white">-19161</span>,<span style = "background-color: #221f37;color:white">-20194</span>,<span style = "background-color: #221f37;color:white">-20194</span>
+|-
+|rowspan="2"|[[Ancient page 3]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#12623 12623]
+|-
+| colorReplace ||<span style = "background-color: #4e519c;color:white">-22194</span>,<span style = "background-color: #595c86;color:white">-22324</span>,<span style = "background-color: #5d5783;color:white">-20278</span>,<span style = "background-color: #53488d;color:white">-20152</span>,<span style = "background-color: #625279;color:white">-17212</span>||<span style = "background-color: #402e74;color:white">-19017</span>,<span style = "background-color: #362761;color:white">-19025</span>,<span style = "background-color: #312a4b;color:white">-19161</span>,<span style = "background-color: #221f37;color:white">-20194</span>,<span style = "background-color: #221f37;color:white">-20194</span>
+|-
+|rowspan="2"|[[Ancient page 4]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#12624 12624]
+|-
+| colorReplace ||<span style = "background-color: #4e519c;color:white">-22194</span>,<span style = "background-color: #595c86;color:white">-22324</span>,<span style = "background-color: #5d5783;color:white">-20278</span>,<span style = "background-color: #53488d;color:white">-20152</span>,<span style = "background-color: #625279;color:white">-17212</span>||<span style = "background-color: #402e74;color:white">-19017</span>,<span style = "background-color: #362761;color:white">-19025</span>,<span style = "background-color: #312a4b;color:white">-19161</span>,<span style = "background-color: #221f37;color:white">-20194</span>,<span style = "background-color: #221f37;color:white">-20194</span>
+|-
+|rowspan="2"|[[Seed box]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#13639 13639]
+|-
+|shiftClickDropIndex || -2 || 1
+|-
+|rowspan="3"|[[Light ballista]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/item_id.html#19478 19478]
+|-
+|femaleModel0 || 31237 || 36933
+|-
+| femaleOffset || 6 || 0
+|-
+|rowspan="3"|[[Dragon hasta(kp)]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/item_id.html#22743 22743]
+|-
+|isTradeable || True || False
+|-
+| notedID || 22744 || -1
+|-
+|rowspan="15"|[[Fake dragon hasta(kp)]]
+|rowspan="15"|[https://chisel.weirdgloop.org/moid/item_id.html#22744 22744]
+|-
+|name || [[null]] || [[Fake dragon hasta(kp)]]
+|-
+| xan2d || 0 || 1939
+|-
+| yan2d || 0 || 1330
+|-
+| zan2d || 0 || 323
+|-
+| cost || 1 || 62400
+|-
+| stackable || 0 || 1
+|-
+| inventoryModel || 0 || 36148
+|-
+| members || False || True
+|-
+| zoom2d || 2000 || 1122
+|-
+| xOffset2d || 0 || 1
+|-
+| yOffset2d || 0 || -1
+|-
+| interfaceOptions || [None, None, None, None, 'Drop'] || ['Convert', None, None, None, 'Drop']
+|-
+| notedID || 22743 || -1
+|-
+| notedTemplate || 799 || -1
+|-
+|rowspan="2"|[[Hydra tail]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#22988 22988]
+|-
+|cost || 1500000 || 100000
+|-
+|}
+
+==Non-Player Characters==
+===New NPCs===
+{| class="wikitable sortable"
+!colspan='4'|New NPCs
+|-
+! Name !! ID !! Combat Level !! Options
+|-
+|-
+|}
+===Removed NPCs===
+{| class="wikitable sortable"
+!colspan='2'|Removed NPCs
+|-
+! Name !! ID
+|-
+|-
+|}
+===Diff NPCs===
+{| class="wikitable sortable"
+!colspan='5'|Diff NPCs
+|-
+! Name !! ID !! Key !! Previous Value !! New Value
+|-
+|rowspan="2"|[[Bert]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#5819 5819]
+|-
+|actions || ['Talk-to', None, 'Toggle-notification', None, None] || ['Talk-to', None, 'Sand', None, None]
+|-
+|}
+
+==Objects==
+===New Objects=== 
+{| class="wikitable sortable"
+!colspan='3'|New Objects
+|-
+! Name !! ID !! Options
+|-
+|-
+|}
+===Removed Objects===
+{| class="wikitable sortable"
+!colspan='2'|Removed Objects
+|-
+! Name !! ID
+|-
+|-
+|}
+===Diff Objects===
+{| class="wikitable sortable"
+!colspan='5'|Diff Objects
+|-
+! Name !! ID !! Key !! Previous Value !! New Value
+|-
+|rowspan="2"|[[Drawers]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#28536 28536]
+|-
+|sizeY || 2 || 1
+|-
+|rowspan="2"|[[Drawers]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#28537 28537]
+|-
+|sizeY || 2 || 1
+|-
+|}

@@ -1,0 +1,102 @@
+{| class="wikitable sortable"
+!colspan="5"|Items
+|-
+! Name !! ID !! Key !! Previous Value !! Changed into
+|-
+| [[null]] || 24965 || colspan = "4" | New ID
+|-
+| [[null]] || 24966 || colspan = "4" | New ID
+|-
+| [[null]] || 24967 || colspan = "4" | New ID
+|-
+| [[null]] || 24968 || colspan = "4" | New ID
+|-
+| [[null]] || 24969 || colspan = "4" | New ID
+|-
+| [[null]] || 24970 || colspan = "4" | New ID
+|-
+|rowspan="2"|[[Lobster cage]]
+|rowspan="2"|301
+|-
+|name || [[Lobster pot]] || [[Lobster cage]]
+|-
+|rowspan="2"|[[Wilderness crabs teleport]]
+|rowspan="2"|24251
+|-
+|interfaceOptions || [None, None, None, 'Break', 'Drop'] || ['Break', None, None, 'Configure', 'Drop']
+|-
+|}
+
+{| class="wikitable sortable"
+!colspan="5"|Non-Player Characters
+|-
+! Name !! ID !! Key !! Previous Value !! Changed into
+|-
+|rowspan="2"|[[Smiddi Ryak (hard)]]
+|rowspan="2"|1562
+|-
+|actions || ['Talk-to', None, 'Escort', None, None] || ['Talk-to', None, 'Escort', 'Supply', None]
+|-
+|rowspan="2"|[[Rolayne Twickit (hard)]]
+|rowspan="2"|1563
+|-
+|actions || ['Talk-to', None, 'Escort', None, None] || ['Talk-to', None, 'Escort', 'Supply', None]
+|-
+|rowspan="2"|[[Jayene Kliyn (medium)]]
+|rowspan="2"|1564
+|-
+|actions || ['Talk-to', None, 'Escort', None, None] || ['Talk-to', None, 'Escort', 'Supply', None]
+|-
+|rowspan="2"|[[Valantay Eppel (medium)]]
+|rowspan="2"|1565
+|-
+|actions || ['Talk-to', None, 'Escort', None, None] || ['Talk-to', None, 'Escort', 'Supply', None]
+|-
+|rowspan="2"|[[Dalcian Fang (easy)]]
+|rowspan="2"|1566
+|-
+|actions || ['Talk-to', None, 'Escort', None, None] || ['Talk-to', None, 'Escort', 'Supply', None]
+|-
+|rowspan="2"|[[Fyiona Fray (easy)]]
+|rowspan="2"|1567
+|-
+|actions || ['Talk-to', None, 'Escort', None, None] || ['Talk-to', None, 'Escort', 'Supply', None]
+|-
+|rowspan="2"|[[Forester (hard)]]
+|rowspan="2"|1573
+|-
+|actions || ['Talk-to', None, 'Escort', None, None] || ['Talk-to', None, 'Escort', 'Supply', None]
+|-
+|rowspan="2"|[[Woman-at-arms (hard)]]
+|rowspan="2"|1574
+|-
+|actions || ['Talk-to', None, 'Escort', None, None] || ['Talk-to', None, 'Escort', 'Supply', None]
+|-
+|rowspan="2"|[[Apprentice (medium)]]
+|rowspan="2"|1575
+|-
+|actions || ['Talk-to', None, 'Escort', None, None] || ['Talk-to', None, 'Escort', 'Supply', None]
+|-
+|rowspan="2"|[[Ranger (medium)]]
+|rowspan="2"|1576
+|-
+|actions || ['Talk-to', None, 'Escort', None, None] || ['Talk-to', None, 'Escort', 'Supply', None]
+|-
+|rowspan="2"|[[Adventurer (easy)]]
+|rowspan="2"|1577
+|-
+|actions || ['Talk-to', None, 'Escort', None, None] || ['Talk-to', None, 'Escort', 'Supply', None]
+|-
+|rowspan="2"|[[Mage (easy)]]
+|rowspan="2"|1578
+|-
+|actions || ['Talk-to', None, 'Escort', None, None] || ['Talk-to', None, 'Escort', 'Supply', None]
+|-
+|}
+
+{| class="wikitable sortable"
+!colspan="5"|Objects
+|-
+! Name !! ID !! Key !! Previous Value !! Changed into
+|-
+|}

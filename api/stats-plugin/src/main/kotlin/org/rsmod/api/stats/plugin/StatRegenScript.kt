@@ -41,7 +41,7 @@ public class StatRegenScript : PluginScript() {
 
     private fun Player.statRegen() {
         for (stat in regenStats) {
-            val statInternal = RSCM.getReverseMapping(RSCMType.STAT,stat.id)
+            val statInternal = RSCM.getReverseMapping(RSCMType.STAT, stat.id)
 
             val base = statBase(statInternal)
             val current = stat(statInternal)
@@ -53,7 +53,7 @@ public class StatRegenScript : PluginScript() {
 
     private fun Player.statBoostRestore() {
         for (stat in regenStats) {
-            val statInternal = RSCM.getReverseMapping(RSCMType.STAT,stat.id)
+            val statInternal = RSCM.getReverseMapping(RSCMType.STAT, stat.id)
 
             val base = statBase(statInternal)
             val current = stat(statInternal)

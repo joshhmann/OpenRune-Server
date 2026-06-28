@@ -1,0 +1,123 @@
+{{ToC}}
+==Items==
+===New Items===
+{| class="wikitable sortable"
+!colspan='11'|New Items
+|-
+! style=width:15em | Name !! ID !! Members !! Tradeable in GE !! Equipable !! Stackable !! Noteable !! Options !! Placeholder !! Cost !! Weight
+|-
+|-
+|}
+===Removed Items===
+{| class="wikitable sortable"
+!colspan='2'|Removed Items
+|-
+! style=width:15em | Name !! ID
+|-
+|-
+|}
+===Diff Items===
+{| class="wikitable sortable"
+!colspan='5'|Diff Items
+|-
+! style=width:15em | Name !! ID !! Key !! Previous Value !! New Value
+|-
+|rowspan="2"|[[Null]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#20392 20392]
+|-
+|params || {'1189': 81, '365': 566, '366': 1, '367': 564, '336': 3, '368': 1, '596': 14287015, '597': 1305, '598': 1324, '599': 2082, '600': 2122, '601': 'Mark of Darkness', '602': 'Makes your target vulnerable to the effects of offensive Arceuus spells', '603': 1, '604': 59, '605': 0} || {'1189': 81, '365': 566, '366': 1, '367': 564, '336': 3, '368': 1, '596': 14287015, '597': 1305, '598': 1324, '599': 2082, '600': 2122, '601': 'Mark of Darkness', '602': 'Makes your offensive Arceuus spells more potent', '603': 1, '604': 59, '605': 0}
+|-
+|}
+
+==Non-Player Characters==
+===New NPCs===
+{| class="wikitable sortable"
+!colspan='4'|New NPCs
+|-
+! style=width:15em | Name !! ID !! Combat Level !! Options
+|-
+|-
+|}
+===Removed NPCs===
+{| class="wikitable sortable"
+!colspan='2'|Removed NPCs
+|-
+! style=width:15em | Name !! ID
+|-
+|-
+|}
+===Diff NPCs===
+{| class="wikitable sortable"
+!colspan='5'|Diff NPCs
+|-
+! style=width:15em | Name !! ID !! Key !! Previous Value !! New Value
+|-
+|}
+
+==Objects==
+===New Objects=== 
+{| class="wikitable sortable"
+!colspan='3'|New Objects
+|-
+! style=width:15em | Name !! ID !! Options
+|-
+| [[Cavity]] || [https://chisel.weirdgloop.org/moid/object_id.html#49573 49573] || Take-pickaxe, Deposit-pickaxe
+|-
+| [[Deposit pot]] || [https://chisel.weirdgloop.org/moid/object_id.html#49583 49583] || 
+|-
+| [[Cavity]] || [https://chisel.weirdgloop.org/moid/object_id.html#49578 49578] || Take-pickaxe, Deposit-pickaxe
+|-
+| [[Cavity]] || [https://chisel.weirdgloop.org/moid/object_id.html#49577 49577] || Take-pickaxe, Deposit-pickaxe
+|-
+| [[Cavity]] || [https://chisel.weirdgloop.org/moid/object_id.html#49579 49579] || Take-pickaxe, Deposit-pickaxe
+|-
+| [[Cavity]] || [https://chisel.weirdgloop.org/moid/object_id.html#49574 49574] || Take-pickaxe, Deposit-pickaxe
+|-
+| [[Cavity]] || [https://chisel.weirdgloop.org/moid/object_id.html#49575 49575] || Take-pickaxe, Deposit-pickaxe
+|-
+| [[Cavity]] || [https://chisel.weirdgloop.org/moid/object_id.html#49572 49572] || Take-pickaxe, Deposit-pickaxe
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#49567 49567] || 
+|-
+| [[Cavity]] || [https://chisel.weirdgloop.org/moid/object_id.html#49571 49571] || Take-pickaxe, Deposit-pickaxe
+|-
+| [[Cavity]] || [https://chisel.weirdgloop.org/moid/object_id.html#49570 49570] || Take-pickaxe, Deposit-pickaxe
+|-
+| [[Cavity]] || [https://chisel.weirdgloop.org/moid/object_id.html#49580 49580] || Take-pickaxe, Deposit-pickaxe
+|-
+| [[Cavity]] || [https://chisel.weirdgloop.org/moid/object_id.html#49568 49568] || Deposit-pickaxe
+|-
+| [[Cavity]] || [https://chisel.weirdgloop.org/moid/object_id.html#49576 49576] || Take-pickaxe, Deposit-pickaxe
+|-
+| [[Cavity]] || [https://chisel.weirdgloop.org/moid/object_id.html#49569 49569] || Take-pickaxe, Deposit-pickaxe
+|-
+| [[Cavity]] || [https://chisel.weirdgloop.org/moid/object_id.html#49582 49582] || Take-pickaxe, Deposit-pickaxe
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/object_id.html#49566 49566] || Take-pickaxe, Deposit-pickaxe
+|-
+| [[Cavity]] || [https://chisel.weirdgloop.org/moid/object_id.html#49581 49581] || Take-pickaxe, Deposit-pickaxe
+|-
+|-
+|}
+===Removed Objects===
+{| class="wikitable sortable"
+!colspan='2'|Removed Objects
+|-
+! style=width:15em | Name !! ID
+|-
+|-
+|}
+===Diff Objects===
+{| class="wikitable sortable"
+!colspan='5'|Diff Objects
+|-
+! style=width:15em | Name !! ID !! Key !! Previous Value !! New Value
+|-
+|rowspan="3"|[[null]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/object_id.html#46103 46103]
+|-
+|modelSizeHeight || 115 || 128
+|-
+| offsetY || 100 || 0
+|-
+|}

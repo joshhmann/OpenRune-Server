@@ -1,0 +1,4019 @@
+[
+  {
+    "page_name_sub": "Module:DropsLine",
+    "require": [
+      "Module:Coins image",
+      "Module:Currency Image",
+      "Module:Exchange",
+      "Module:Paramtest",
+      "Module:Yesno"
+    ],
+    "page_name": "Module:DropsLine"
+  },
+  {
+    "page_name_sub": "Module:Family tree",
+    "page_name": "Module:Family tree"
+  },
+  {
+    "page_name_sub": "Module:Exchange",
+    "require": [
+      "Module:Addcommas",
+      "Module:ChangePerDay",
+      "Module:Coins",
+      "Module:TimeAgo",
+      "Module:Yesno"
+    ],
+    "page_name": "Module:Exchange"
+  },
+  {
+    "page_name_sub": "Module:TimeAgo",
+    "require": [
+      "Module:Yesno"
+    ],
+    "page_name": "Module:TimeAgo"
+  },
+  {
+    "page_name_sub": "Module:ChangePerDay",
+    "require": [
+      "Module:Number"
+    ],
+    "page_name": "Module:ChangePerDay"
+  },
+  {
+    "page_name_sub": "Module:ExchangeDefault",
+    "require": [
+      "Module:Exchange",
+      "Module:ExchangeData",
+      "Module:Number",
+      "Module:TimeAgo",
+      "Module:Yesno"
+    ],
+    "page_name": "Module:ExchangeDefault"
+  },
+  {
+    "page_name_sub": "Module:Documentation",
+    "require": [
+      "Module:DependencyList",
+      "Module:Yesno"
+    ],
+    "page_name": "Module:Documentation"
+  },
+  {
+    "page_name_sub": "Module:ExchangeData",
+    "require": [
+      "Module:Exchange"
+    ],
+    "page_name": "Module:ExchangeData"
+  },
+  {
+    "page_name_sub": "Module:Spell cost table",
+    "require": [
+      "Module:Coins",
+      "Module:Exchange"
+    ],
+    "page_name": "Module:Spell cost table"
+  },
+  {
+    "page_name_sub": "Module:Experience",
+    "require": [
+      "Module:Addcommas"
+    ],
+    "page_name": "Module:Experience"
+  },
+  {
+    "page_name_sub": "Module:References",
+    "require": [
+      "Module:Mainonly",
+      "Module:Paramtest",
+      "Module:Yesno"
+    ],
+    "page_name": "Module:References"
+  },
+  {
+    "page_name_sub": "Module:Infobox Music",
+    "require": [
+      "Module:Mainonly",
+      "Module:Paramtest",
+      "Module:Yesno"
+    ],
+    "page_name": "Module:Infobox Music"
+  },
+  {
+    "page_name_sub": "Module:ItemDropsLineUpdated",
+    "require": [
+      "Module:Addcommas",
+      "Module:NPCQuery",
+      "Module:Paramtest",
+      "Module:Yesno"
+    ],
+    "page_name": "Module:ItemDropsLineUpdated"
+  },
+  {
+    "page_name_sub": "Module:Globals",
+    "require": [
+      "Module:Globals/data",
+      "Module:Utils"
+    ],
+    "page_name": "Module:Globals"
+  },
+  {
+    "page_name_sub": "Module:Chat options",
+    "require": [
+      "Module:Paramtest",
+      "Module:Tooltip"
+    ],
+    "page_name": "Module:Chat options"
+  },
+  {
+    "page_name_sub": "Module:Tooltip",
+    "require": [
+      "Module:Paramtest",
+      "Module:Yesno"
+    ],
+    "page_name": "Module:Tooltip"
+  },
+  {
+    "page_name_sub": "Module:Level up table",
+    "require": [
+      "Module:Paramtest"
+    ],
+    "page_name": "Module:Level up table"
+  },
+  {
+    "page_name_sub": "Module:Category handler",
+    "require": [
+      "Module:Paramtest"
+    ],
+    "page_name": "Module:Category handler"
+  },
+  {
+    "page_name_sub": "Module:Helper module",
+    "require": [
+      "Module:Mw.html extension"
+    ],
+    "page_name": "Module:Helper module"
+  },
+  {
+    "page_name_sub": "Module:Questreq",
+    "page_name": "Module:Questreq"
+  },
+  {
+    "page_name_sub": "Module:GETotal",
+    "require": [
+      "Module:Exchange"
+    ],
+    "page_name": "Module:GETotal"
+  },
+  {
+    "page_name_sub": "Module:Infobox",
+    "require": [
+      "Module:Edit button"
+    ],
+    "page_name": "Module:Infobox"
+  },
+  {
+    "page_name_sub": "Module:Infobox Bonuses",
+    "require": [
+      "Module:Clean image2",
+      "Module:Format eq stat",
+      "Module:Infobox",
+      "Module:Mainonly"
+    ],
+    "page_name": "Module:Infobox Bonuses"
+  },
+  {
+    "page_name_sub": "Module:Infobox Item",
+    "require": [
+      "Module:Addcommas",
+      "Module:Exchange",
+      "Module:ExchangeData",
+      "Module:Infobox",
+      "Module:Mainonly",
+      "Module:Trailblazer Region",
+      "Module:Yesno"
+    ],
+    "page_name": "Module:Infobox Item"
+  },
+  {
+    "page_name_sub": "Module:Navbox",
+    "require": [
+      "Module:Tnavbar",
+      "Module:Yesno",
+      "strict"
+    ],
+    "page_name": "Module:Navbox"
+  },
+  {
+    "page_name_sub": "Module:Tnavbar",
+    "require": [
+      "Module:Yesno",
+      "strict"
+    ],
+    "page_name": "Module:Tnavbar"
+  },
+  {
+    "page_name_sub": "Module:Clean image",
+    "require": [
+      "Module:Paramtest"
+    ],
+    "page_name": "Module:Clean image"
+  },
+  {
+    "page_name_sub": "Module:Combat level",
+    "require": [
+      "Module:Paramtest"
+    ],
+    "page_name": "Module:Combat level"
+  },
+  {
+    "page_name_sub": "Module:Synced switch",
+    "require": [
+      "Module:Paramtest"
+    ],
+    "page_name": "Module:Synced switch"
+  },
+  {
+    "page_name_sub": "Module:Update",
+    "require": [
+      "Module:Array",
+      "Module:Ordinal",
+      "Module:PageListTools",
+      "Module:Paramtest",
+      "Module:Top icons"
+    ],
+    "page_name": "Module:Update"
+  },
+  {
+    "page_name_sub": "Module:Rsday",
+    "require": [
+      "Module:Paramtest",
+      "Module:Yesno"
+    ],
+    "page_name": "Module:Rsday"
+  },
+  {
+    "page_name_sub": "Module:Infobox Monster",
+    "require": [
+      "Module:Addcommas",
+      "Module:Format eq stat",
+      "Module:Infobox",
+      "Module:Mainonly",
+      "Module:Trailblazer Region"
+    ],
+    "page_name": "Module:Infobox Monster"
+  },
+  {
+    "page_name_sub": "Module:Infobox NPC",
+    "require": [
+      "Module:Infobox",
+      "Module:Mainonly",
+      "Module:Paramtest",
+      "Module:Trailblazer Region"
+    ],
+    "page_name": "Module:Infobox NPC"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Zetchri",
+    "require": [
+      "Module:Exchange"
+    ],
+    "page_name": "Module:Sandbox/User:Zetchri"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Tyler Jarret",
+    "require": [
+      "Module:Coins image",
+      "Module:Exchange",
+      "Module:Paramtest"
+    ],
+    "page_name": "Module:Sandbox/User:Tyler Jarret"
+  },
+  {
+    "page_name_sub": "Module:Coins image",
+    "require": [
+      "Module:Currency Image"
+    ],
+    "page_name": "Module:Coins image"
+  },
+  {
+    "page_name_sub": "Module:Theatre of Blood calculator",
+    "require": [
+      "Module:Exchange"
+    ],
+    "page_name": "Module:Theatre of Blood calculator"
+  },
+  {
+    "page_name_sub": "Module:Infobox Ranged Weapon Group",
+    "require": [
+      "Module:Infobox"
+    ],
+    "page_name": "Module:Infobox Ranged Weapon Group"
+  },
+  {
+    "page_name_sub": "Module:Infobox Armour Group",
+    "require": [
+      "Module:Infobox"
+    ],
+    "page_name": "Module:Infobox Armour Group"
+  },
+  {
+    "page_name_sub": "Module:Mmgtable",
+    "require": [
+      "Module:Currency",
+      "Module:Exchange",
+      "Module:Mainonly",
+      "Module:Number",
+      "Module:PageListTools",
+      "Module:Yesno"
+    ],
+    "page_name": "Module:Mmgtable"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/Tyler Jarret/ItemDropsLine",
+    "require": [
+      "Module:Addcommas",
+      "Module:Paramtest",
+      "Module:Yesno"
+    ],
+    "page_name": "Module:Sandbox/Tyler Jarret/ItemDropsLine"
+  },
+  {
+    "page_name_sub": "Module:Key press",
+    "require": [
+      "strict"
+    ],
+    "page_name": "Module:Key press"
+  },
+  {
+    "page_name_sub": "Module:QuestDetails",
+    "require": [
+      "Module:Mainonly",
+      "Module:Map",
+      "Module:Yesno"
+    ],
+    "page_name": "Module:QuestDetails"
+  },
+  {
+    "page_name_sub": "Module:Inventory",
+    "require": [
+      "Module:Paramtest"
+    ],
+    "page_name": "Module:Inventory"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/Cook Me Plox/1",
+    "require": [
+      "Module:Exchange"
+    ],
+    "page_name": "Module:Sandbox/Cook Me Plox/1"
+  },
+  {
+    "page_name_sub": "Module:Get drop info",
+    "require": [
+      "Module:Mainonly",
+      "Module:Paramtest",
+      "Module:Purge",
+      "Module:Trailblazer Region",
+      "Module:Yesno"
+    ],
+    "page_name": "Module:Get drop info"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Fire/test",
+    "require": [
+      "Module:Exchange"
+    ],
+    "page_name": "Module:Sandbox/User:Fire/test"
+  },
+  {
+    "page_name_sub": "Module:StoreLine",
+    "require": [
+      "Module:Addcommas",
+      "Module:Currency Image",
+      "Module:Exchange",
+      "Module:Paramtest",
+      "Module:Yesno"
+    ],
+    "page_name": "Module:StoreLine"
+  },
+  {
+    "page_name_sub": "Module:Store locations list",
+    "require": [
+      "Module:Addcommas",
+      "Module:Currency Image",
+      "Module:Paramtest",
+      "Module:Purge",
+      "Module:Trailblazer Region",
+      "Module:Yesno"
+    ],
+    "page_name": "Module:Store locations list"
+  },
+  {
+    "page_name_sub": "Module:StoreTableHead",
+    "require": [
+      "Module:Paramtest",
+      "Module:Yesno"
+    ],
+    "page_name": "Module:StoreTableHead"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Jakesterwars/ItemDropsLine",
+    "require": [
+      "Module:Paramtest"
+    ],
+    "page_name": "Module:Sandbox/User:Jakesterwars/ItemDropsLine"
+  },
+  {
+    "page_name_sub": "Module:Map",
+    "require": [
+      "Module:Paramtest"
+    ],
+    "page_name": "Module:Map"
+  },
+  {
+    "page_name_sub": "Module:Infobox Scenery",
+    "require": [
+      "Module:Infobox",
+      "Module:Mainonly",
+      "Module:Trailblazer Region"
+    ],
+    "page_name": "Module:Infobox Scenery"
+  },
+  {
+    "page_name_sub": "Module:FloorNumber",
+    "require": [
+      "Module:Ordinal",
+      "Module:Yesno"
+    ],
+    "page_name": "Module:FloorNumber"
+  },
+  {
+    "page_name_sub": "Module:Ordinal",
+    "require": [
+      "Module:Paramtest"
+    ],
+    "page_name": "Module:Ordinal"
+  },
+  {
+    "page_name_sub": "Module:Main article",
+    "require": [
+      "Module:Hatnote"
+    ],
+    "page_name": "Module:Main article"
+  },
+  {
+    "page_name_sub": "Module:Hastranscript",
+    "require": [
+      "Module:Hatnote"
+    ],
+    "page_name": "Module:Hastranscript"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Renewed",
+    "require": [
+      "Module:Paramtest"
+    ],
+    "page_name": "Module:Sandbox/User:Renewed"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:BigDiesel2m/Menagerie",
+    "require": [
+      "Module:Paramtest"
+    ],
+    "page_name": "Module:Sandbox/User:BigDiesel2m/Menagerie"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:LegendOfBrian",
+    "require": [
+      "Module:Attack speed bar",
+      "Module:Clean image2",
+      "Module:Format eq stat",
+      "Module:Infobox",
+      "Module:Mainonly",
+      "Module:Paramtest"
+    ],
+    "page_name": "Module:Sandbox/User:LegendOfBrian"
+  },
+  {
+    "page_name_sub": "Module:Equipment",
+    "require": [
+      "Module:Exchange",
+      "Module:FetchItemStats",
+      "Module:Paramtest",
+      "Module:Yesno"
+    ],
+    "page_name": "Module:Equipment"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Mejrs/Map",
+    "require": [
+      "Module:Paramtest"
+    ],
+    "page_name": "Module:Sandbox/User:Mejrs/Map"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Jakesterwars/Recipe",
+    "require": [
+      "Module:Addcommas",
+      "Module:Clean image",
+      "Module:Coins",
+      "Module:Currencies",
+      "Module:Edit button",
+      "Module:Exchange",
+      "Module:Mainonly",
+      "Module:Paramtest",
+      "Module:SCP",
+      "Module:Yesno"
+    ],
+    "page_name": "Module:Sandbox/User:Jakesterwars/Recipe"
+  },
+  {
+    "page_name_sub": "Module:Barrows calculator",
+    "require": [
+      "Module:Coins",
+      "Module:Exchange",
+      "Module:Paramtest",
+      "Module:Yesno"
+    ],
+    "page_name": "Module:Barrows calculator"
+  },
+  {
+    "page_name_sub": "Module:Average drop value",
+    "require": [
+      "Module:Currency",
+      "Module:DPLlua"
+    ],
+    "page_name": "Module:Average drop value"
+  },
+  {
+    "page_name_sub": "Module:Chambers of Xeric calculator",
+    "require": [
+      "Module:Addcommas",
+      "Module:Coins",
+      "Module:Exchange"
+    ],
+    "page_name": "Module:Chambers of Xeric calculator"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Gau Cho/3",
+    "require": [
+      "Module:Edit button"
+    ],
+    "page_name": "Module:Sandbox/User:Gau Cho/3"
+  },
+  {
+    "page_name_sub": "Module:Infobox Construction",
+    "require": [
+      "Module:Infobox",
+      "Module:Mainonly",
+      "Module:Trailblazer Region"
+    ],
+    "page_name": "Module:Infobox Construction"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:BigDiesel2m/Calculator3",
+    "require": [
+      "Module:Coins"
+    ],
+    "page_name": "Module:Sandbox/User:BigDiesel2m/Calculator3"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Riblet15/Infobox Custom",
+    "require": [
+      "Module:Infobox",
+      "Module:Paramtest"
+    ],
+    "page_name": "Module:Sandbox/User:Riblet15/Infobox Custom"
+  },
+  {
+    "page_name_sub": "Module:Infobox Location",
+    "require": [
+      "Module:Infobox",
+      "Module:Mainonly",
+      "Module:Trailblazer Region"
+    ],
+    "page_name": "Module:Infobox Location"
+  },
+  {
+    "page_name_sub": "Module:Recipe",
+    "require": [
+      "Module:Addcommas",
+      "Module:Coins",
+      "Module:Currencies",
+      "Module:Edit button",
+      "Module:Exchange",
+      "Module:Mainonly",
+      "Module:Paramtest",
+      "Module:SCP",
+      "Module:Yesno"
+    ],
+    "page_name": "Module:Recipe"
+  },
+  {
+    "page_name_sub": "Module:Arceuus library book calculator",
+    "require": [
+      "Module:Addcommas",
+      "Module:Experience",
+      "Module:SCP",
+      "Module:ScaledExperience"
+    ],
+    "page_name": "Module:Arceuus library book calculator"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Lilylicious/QuestModuleUIMTest",
+    "require": [
+      "Module:Mainonly",
+      "Module:Yesno"
+    ],
+    "page_name": "Module:Sandbox/User:Lilylicious/QuestModuleUIMTest"
+  },
+  {
+    "page_name_sub": "Module:Infobox Room",
+    "require": [
+      "Module:Coins",
+      "Module:Infobox",
+      "Module:Mainonly"
+    ],
+    "page_name": "Module:Infobox Room"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Mejrs/Infobox NPC",
+    "require": [
+      "Module:Clean image",
+      "Module:Infobox",
+      "Module:Mainonly",
+      "Module:Paramtest"
+    ],
+    "page_name": "Module:Sandbox/User:Mejrs/Infobox NPC"
+  },
+  {
+    "page_name_sub": "Module:Uses material list",
+    "require": [
+      "Module:Addcommas",
+      "Module:Exchange",
+      "Module:SCP",
+      "Module:Yesno"
+    ],
+    "page_name": "Module:Uses material list"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Faison/Materials",
+    "require": [
+      "Module:Addcommas",
+      "Module:Clean image",
+      "Module:Coins",
+      "Module:Exchange",
+      "Module:Paramtest"
+    ],
+    "page_name": "Module:Sandbox/User:Faison/Materials"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Faison/Recipe",
+    "require": [
+      "Module:Addcommas",
+      "Module:Clean image",
+      "Module:Coins",
+      "Module:Edit button",
+      "Module:Mainonly",
+      "Module:Paramtest",
+      "Module:SCP",
+      "Module:Sandbox/User:Faison/Materials",
+      "Module:Yesno"
+    ],
+    "page_name": "Module:Sandbox/User:Faison/Recipe"
+  },
+  {
+    "page_name_sub": "Module:Infobox Shop",
+    "require": [
+      "Module:Infobox",
+      "Module:Mainonly",
+      "Module:Paramtest",
+      "Module:Trailblazer Region"
+    ],
+    "page_name": "Module:Infobox Shop"
+  },
+  {
+    "page_name_sub": "Module:Barrows item repair calculator",
+    "require": [
+      "Module:Coins"
+    ],
+    "page_name": "Module:Barrows item repair calculator"
+  },
+  {
+    "page_name_sub": "Module:Array",
+    "require": [
+      "libraryUtil"
+    ],
+    "page_name": "Module:Array"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Jakesterwars/Skill calc",
+    "require": [
+      "Module:Addcommas",
+      "Module:Coins",
+      "Module:Sandbox/User:Ikbenbeter/Skillcalc/Helpers",
+      "Module:Sandbox/User:Jakesterwars/Skill calc/Helpers",
+      "Module:Sandbox/User:Microbrews/Helpers",
+      "Module:Sandbox/User:Speeddymon/Skill calc/Helpers",
+      "Module:Sandbox/User:Spoiledduc/Skill calc/Helpers",
+      "Module:Skill calc/Helpers"
+    ],
+    "page_name": "Module:Sandbox/User:Jakesterwars/Skill calc"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Jakesterwars/Instructions",
+    "require": [
+      "Module:Paramtest"
+    ],
+    "page_name": "Module:Sandbox/User:Jakesterwars/Instructions"
+  },
+  {
+    "page_name_sub": "Module:Instructions",
+    "require": [
+      "Module:Paramtest"
+    ],
+    "page_name": "Module:Instructions"
+  },
+  {
+    "page_name_sub": "Module:GEMinMax",
+    "require": [
+      "Module:Currency"
+    ],
+    "page_name": "Module:GEMinMax"
+  },
+  {
+    "page_name_sub": "Module:Barbarian fishing",
+    "require": [
+      "Module:Addcommas",
+      "Module:Paramtest",
+      "Module:SCP",
+      "Module:Yesno"
+    ],
+    "page_name": "Module:Barbarian fishing"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Jakesterwars/Skill calc/Helpers",
+    "require": [
+      "Module:Addcommas",
+      "Module:Experience",
+      "Module:Yesno"
+    ],
+    "page_name": "Module:Sandbox/User:Jakesterwars/Skill calc/Helpers"
+  },
+  {
+    "page_name_sub": "Module:Lamp calculator",
+    "require": [
+      "Module:Addcommas",
+      "Module:Experience",
+      "Module:Paramtest",
+      "Module:SCP",
+      "Module:ScaledExperience"
+    ],
+    "page_name": "Module:Lamp calculator"
+  },
+  {
+    "page_name_sub": "Module:Slayer weight calculator",
+    "require": [
+      "Module:Paramtest",
+      "Module:Slayer task library"
+    ],
+    "page_name": "Module:Slayer weight calculator"
+  },
+  {
+    "page_name_sub": "Module:Slayer task library",
+    "require": [
+      "Module:SlayerConsts",
+      "Module:SlayerConsts/MasterTables"
+    ],
+    "page_name": "Module:Slayer task library"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Andmcadams/Slayer",
+    "require": [
+      "Module:Sandbox/User:Andmcadams/SlayerConsts"
+    ],
+    "page_name": "Module:Sandbox/User:Andmcadams/Slayer"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Andmcadams/Slayer/Turael",
+    "require": [
+      "Module:Sandbox/User:Andmcadams/SlayerConsts"
+    ],
+    "page_name": "Module:Sandbox/User:Andmcadams/Slayer/Turael"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Andmcadams/Slayer/Chaeldar",
+    "require": [
+      "Module:Sandbox/User:Andmcadams/SlayerConsts"
+    ],
+    "page_name": "Module:Sandbox/User:Andmcadams/Slayer/Chaeldar"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Andmcadams/Slayer/Duradel",
+    "require": [
+      "Module:Sandbox/User:Andmcadams/SlayerConsts"
+    ],
+    "page_name": "Module:Sandbox/User:Andmcadams/Slayer/Duradel"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Andmcadams/Slayer/Konar",
+    "require": [
+      "Module:Sandbox/User:Andmcadams/SlayerConsts"
+    ],
+    "page_name": "Module:Sandbox/User:Andmcadams/Slayer/Konar"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Andmcadams/Slayer/Krystilia",
+    "require": [
+      "Module:Sandbox/User:Andmcadams/SlayerConsts"
+    ],
+    "page_name": "Module:Sandbox/User:Andmcadams/Slayer/Krystilia"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Andmcadams/Slayer/Mazchna",
+    "require": [
+      "Module:Sandbox/User:Andmcadams/SlayerConsts"
+    ],
+    "page_name": "Module:Sandbox/User:Andmcadams/Slayer/Mazchna"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Andmcadams/Slayer/Nieve",
+    "require": [
+      "Module:Sandbox/User:Andmcadams/SlayerConsts"
+    ],
+    "page_name": "Module:Sandbox/User:Andmcadams/Slayer/Nieve"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Andmcadams/Slayer/Vannaka",
+    "require": [
+      "Module:Sandbox/User:Andmcadams/SlayerConsts"
+    ],
+    "page_name": "Module:Sandbox/User:Andmcadams/Slayer/Vannaka"
+  },
+  {
+    "page_name_sub": "Module:Forumheader",
+    "require": [
+      "Module:Yesno"
+    ],
+    "page_name": "Module:Forumheader"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Chen/Sandbox",
+    "require": [
+      "Module:Array"
+    ],
+    "page_name": "Module:Sandbox/User:Chen/Sandbox"
+  },
+  {
+    "page_name_sub": "Module:Skill calc",
+    "require": [
+      "Module:Addcommas",
+      "Module:Coins",
+      "Module:Skill calc/Helpers"
+    ],
+    "page_name": "Module:Skill calc"
+  },
+  {
+    "page_name_sub": "Module:Skill calc/Helpers",
+    "require": [
+      "Module:Addcommas",
+      "Module:Experience",
+      "Module:Yesno"
+    ],
+    "page_name": "Module:Skill calc/Helpers"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Mitchell",
+    "require": [
+      "Module:Addcommas",
+      "Module:Coins",
+      "Module:Experience",
+      "Module:Sandbox/User:MitcheII/Skill calc/Farming",
+      "Module:Skill calc/Helpers"
+    ],
+    "page_name": "Module:Sandbox/User:Mitchell"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Jakesterwars/Skill pet calc",
+    "require": [
+      "Module:Addcommas",
+      "Module:Skill calc/Helpers"
+    ],
+    "page_name": "Module:Sandbox/User:Jakesterwars/Skill pet calc"
+  },
+  {
+    "page_name_sub": "Module:Skill pet calc",
+    "require": [
+      "Module:Addcommas",
+      "Module:Skill calc/Helpers"
+    ],
+    "page_name": "Module:Skill pet calc"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Chen/md5impl",
+    "require": [
+      "Module:Bit32"
+    ],
+    "page_name": "Module:Sandbox/User:Chen/md5impl"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Chen/md5",
+    "require": [
+      "Module:Sandbox/User:Chen/md5impl"
+    ],
+    "page_name": "Module:Sandbox/User:Chen/md5"
+  },
+  {
+    "page_name_sub": "Module:Clues",
+    "require": [
+      "Module:Map"
+    ],
+    "page_name": "Module:Clues"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Towelcat/Currency",
+    "require": [
+      "Module:Currency Image"
+    ],
+    "page_name": "Module:Sandbox/User:Towelcat/Currency"
+  },
+  {
+    "page_name_sub": "Module:Currencies",
+    "require": [
+      "Module:Currency Image"
+    ],
+    "page_name": "Module:Currencies"
+  },
+  {
+    "page_name_sub": "Module:DPLlua",
+    "require": [
+      "Module:Paramtest",
+      "libraryUtil"
+    ],
+    "page_name": "Module:DPLlua"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Jakesterwars/Diary calculator",
+    "require": [
+      "Module:Addcommas",
+      "Module:Coins",
+      "Module:Paramtest",
+      "Module:SCP",
+      "Module:Sandbox/User:Fjara/Diary calculator/Ardougne",
+      "Module:Sandbox/User:Fjara/Diary calculator/Boosts",
+      "Module:Sandbox/User:Fjara/Diary calculator/Desert",
+      "Module:Sandbox/User:Fjara/Diary calculator/Falador",
+      "Module:Sandbox/User:Fjara/Diary calculator/Fremennik",
+      "Module:Sandbox/User:Fjara/Diary calculator/Kandarin",
+      "Module:Sandbox/User:Fjara/Diary calculator/Karamja",
+      "Module:Sandbox/User:Fjara/Diary calculator/Kourend & Kebos",
+      "Module:Sandbox/User:Fjara/Diary calculator/Lumbridge & Draynor",
+      "Module:Sandbox/User:Fjara/Diary calculator/Morytania",
+      "Module:Sandbox/User:Fjara/Diary calculator/Varrock",
+      "Module:Sandbox/User:Fjara/Diary calculator/Western Provinces",
+      "Module:Sandbox/User:Fjara/Diary calculator/Wilderness",
+      "Module:Yesno"
+    ],
+    "page_name": "Module:Sandbox/User:Jakesterwars/Diary calculator"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:CephHunter/WhatLinksHere directly",
+    "require": [
+      "Module:Array",
+      "Module:DPLlua"
+    ],
+    "page_name": "Module:Sandbox/User:CephHunter/WhatLinksHere directly"
+  },
+  {
+    "page_name_sub": "Module:Infobox Slayer",
+    "require": [
+      "Module:Addcommas",
+      "Module:Infobox",
+      "Module:Mainonly"
+    ],
+    "page_name": "Module:Infobox Slayer"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Towelcat/200mxp",
+    "require": [
+      "Module:Sandbox/User:Towelcat/200mxp/data"
+    ],
+    "page_name": "Module:Sandbox/User:Towelcat/200mxp"
+  },
+  {
+    "page_name_sub": "Module:200mxp",
+    "require": [
+      "Module:200mxp/data"
+    ],
+    "page_name": "Module:200mxp"
+  },
+  {
+    "page_name_sub": "Module:GELimits",
+    "page_name": "Module:GELimits"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Towelcat/Recipe",
+    "require": [
+      "Module:Addcommas",
+      "Module:Clean image",
+      "Module:Coins",
+      "Module:Edit button",
+      "Module:Exchange",
+      "Module:Mainonly",
+      "Module:Paramtest",
+      "Module:SCP",
+      "Module:Yesno"
+    ],
+    "page_name": "Module:Sandbox/User:Towelcat/Recipe"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Towelcat/Mmgtable",
+    "require": [
+      "Module:Currency",
+      "Module:Exchange",
+      "Module:Number",
+      "Module:Time",
+      "Module:Yesno"
+    ],
+    "page_name": "Module:Sandbox/User:Towelcat/Mmgtable"
+  },
+  {
+    "page_name_sub": "Module:Demo",
+    "require": [
+      "Module:T"
+    ],
+    "page_name": "Module:Demo"
+  },
+  {
+    "page_name_sub": "Module:Slottable",
+    "require": [
+      "Module:Array",
+      "Module:Edit button",
+      "Module:Mw.html extension",
+      "Module:Paramtest",
+      "Module:Yesno"
+    ],
+    "page_name": "Module:Slottable"
+  },
+  {
+    "page_name_sub": "Module:LibraryUtil",
+    "require": [
+      "libraryUtil"
+    ],
+    "page_name": "Module:LibraryUtil"
+  },
+  {
+    "page_name_sub": "Module:Mw.html extension",
+    "require": [
+      "libraryUtil"
+    ],
+    "page_name": "Module:Mw.html extension"
+  },
+  {
+    "page_name_sub": "Module:Chart data",
+    "require": [
+      "Module:Array",
+      "Module:LibraryUtil",
+      "Module:Paramtest",
+      "Module:Rgba"
+    ],
+    "page_name": "Module:Chart data"
+  },
+  {
+    "page_name_sub": "Module:Rgba",
+    "require": [
+      "Module:LibraryUtil"
+    ],
+    "page_name": "Module:Rgba"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:BronzePhire/Infobox Item",
+    "require": [
+      "Module:Addcommas",
+      "Module:Exchange",
+      "Module:ExchangeData",
+      "Module:Infobox",
+      "Module:Mainonly"
+    ],
+    "page_name": "Module:Sandbox/User:BronzePhire/Infobox Item"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:BigDiesel2m",
+    "require": [
+      "Module:$",
+      "Module:Paramtest"
+    ],
+    "page_name": "Module:Sandbox/User:BigDiesel2m"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Fjara/Sandbox/Bucket",
+    "require": [
+      "Module:Addcommas",
+      "Module:Mainonly",
+      "Module:Paramtest",
+      "Module:SCP",
+      "Module:Yesno"
+    ],
+    "page_name": "Module:Sandbox/User:Fjara/Sandbox/Bucket"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Towelcat/Infobox Monster",
+    "require": [
+      "Module:Addcommas",
+      "Module:Attack speed bar",
+      "Module:Format eq stat",
+      "Module:Infobox",
+      "Module:Mainonly"
+    ],
+    "page_name": "Module:Sandbox/User:Towelcat/Infobox Monster"
+  },
+  {
+    "page_name_sub": "Module:SlayerConsts/MasterTables",
+    "require": [
+      "Module:SlayerConsts"
+    ],
+    "page_name": "Module:SlayerConsts/MasterTables"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:MxFox/Experience",
+    "require": [
+      "Module:Addcommas"
+    ],
+    "page_name": "Module:Sandbox/User:MxFox/Experience"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:MxFox/LinearExperience",
+    "require": [
+      "Module:Experience"
+    ],
+    "page_name": "Module:Sandbox/User:MxFox/LinearExperience"
+  },
+  {
+    "page_name_sub": "Module:ScaledExperience",
+    "require": [
+      "Module:Experience"
+    ],
+    "page_name": "Module:ScaledExperience"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:MxFox/Spell cost table",
+    "require": [
+      "Module:Coins",
+      "Module:Exchange"
+    ],
+    "page_name": "Module:Sandbox/User:MxFox/Spell cost table"
+  },
+  {
+    "page_name_sub": "Module:Blast Furnace Gold calculator",
+    "require": [
+      "Module:Coins"
+    ],
+    "page_name": "Module:Blast Furnace Gold calculator"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Jakesterwars/Infobox Thieving",
+    "require": [
+      "Module:Infobox",
+      "Module:Mainonly"
+    ],
+    "page_name": "Module:Sandbox/User:Jakesterwars/Infobox Thieving"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Towelcat/StoreTableHead",
+    "require": [
+      "Module:Paramtest",
+      "Module:Yesno"
+    ],
+    "page_name": "Module:Sandbox/User:Towelcat/StoreTableHead"
+  },
+  {
+    "page_name_sub": "Module:Wintertodt supply crate",
+    "require": [
+      "Module:Coins",
+      "Module:Exchange"
+    ],
+    "page_name": "Module:Wintertodt supply crate"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Qez/StoreTableNewWIP",
+    "require": [
+      "Module:Paramtest",
+      "Module:Yesno"
+    ],
+    "page_name": "Module:Sandbox/User:Qez/StoreTableNewWIP"
+  },
+  {
+    "page_name_sub": "Module:Infotable Bonuses",
+    "require": [
+      "Module:Array",
+      "Module:FetchItemStats",
+      "Module:Mainonly",
+      "Module:PageListTools",
+      "Module:Paramtest",
+      "Module:Yesno"
+    ],
+    "page_name": "Module:Infotable Bonuses"
+  },
+  {
+    "page_name_sub": "Module:Recommended equipment",
+    "require": [
+      "Module:Mainonly",
+      "Module:Paramtest",
+      "Module:Yesno"
+    ],
+    "page_name": "Module:Recommended equipment"
+  },
+  {
+    "page_name_sub": "Module:Bestiary",
+    "require": [
+      "Module:PageListTools",
+      "Module:Paramtest",
+      "Module:Yesno",
+      "strict"
+    ],
+    "page_name": "Module:Bestiary"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Byro009",
+    "require": [
+      "Module:Experience"
+    ],
+    "page_name": "Module:Sandbox/User:Byro009"
+  },
+  {
+    "page_name_sub": "Module:Swimming calculator",
+    "require": [
+      "Module:Experience"
+    ],
+    "page_name": "Module:Swimming calculator"
+  },
+  {
+    "page_name_sub": "Module:LocLine",
+    "require": [
+      "Module:Edit button",
+      "Module:Mainonly",
+      "Module:Map",
+      "Module:Paramtest",
+      "Module:Trailblazer Region",
+      "Module:Yesno"
+    ],
+    "page_name": "Module:LocLine"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Jakesterwars/Map",
+    "require": [
+      "Module:Paramtest"
+    ],
+    "page_name": "Module:Sandbox/User:Jakesterwars/Map"
+  },
+  {
+    "page_name_sub": "Module:DependencyList",
+    "require": [
+      "Module:Array",
+      "Module:DPLlua",
+      "Module:Paramtest",
+      "Module:Tooltip",
+      "Module:Yesno",
+      "libraryUtil",
+      "strict"
+    ],
+    "page_name": "Module:DependencyList"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Andmcadams/Recipe",
+    "require": [
+      "Module:Addcommas",
+      "Module:Coins",
+      "Module:Currencies",
+      "Module:Edit button",
+      "Module:Exchange",
+      "Module:Mainonly",
+      "Module:Paramtest",
+      "Module:SCP",
+      "Module:Yesno"
+    ],
+    "page_name": "Module:Sandbox/User:Andmcadams/Recipe"
+  },
+  {
+    "page_name_sub": "Module:Skilling success chart",
+    "require": [
+      "Module:Chart data"
+    ],
+    "page_name": "Module:Skilling success chart"
+  },
+  {
+    "page_name_sub": "Module:PageListTools",
+    "require": [
+      "Module:Array",
+      "Module:DPLlua",
+      "libraryUtil"
+    ],
+    "page_name": "Module:PageListTools"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Fjara/Sandbox/Sandcastle",
+    "require": [
+      "Module:Addcommas",
+      "Module:Array",
+      "Module:Currency",
+      "Module:Infobox",
+      "Module:Mainonly",
+      "Module:Number",
+      "Module:Paramtest",
+      "Module:SCP",
+      "Module:Yesno"
+    ],
+    "page_name": "Module:Sandbox/User:Fjara/Sandbox/Sandcastle"
+  },
+  {
+    "page_name_sub": "Module:Quantity box",
+    "require": [
+      "Module:Addcommas"
+    ],
+    "page_name": "Module:Quantity box"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Jakesterwars/LocLine",
+    "require": [
+      "Module:Edit button",
+      "Module:Paramtest",
+      "Module:Sandbox/User:Jakesterwars/Map",
+      "Module:Trailblazer Region",
+      "Module:Yesno"
+    ],
+    "page_name": "Module:Sandbox/User:Jakesterwars/LocLine"
+  },
+  {
+    "page_name_sub": "Module:TrailblazerQuestLine",
+    "require": [
+      "Module:Trailblazer Region"
+    ],
+    "page_name": "Module:TrailblazerQuestLine"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Towelcat/TrailblazerQuestLine",
+    "require": [
+      "Module:Trailblazer Region",
+      "Module:Yesno"
+    ],
+    "page_name": "Module:Sandbox/User:Towelcat/TrailblazerQuestLine"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:FlanneryLueMoore/Combat level edit",
+    "require": [
+      "Module:Paramtest"
+    ],
+    "page_name": "Module:Sandbox/User:FlanneryLueMoore/Combat level edit"
+  },
+  {
+    "page_name_sub": "Module:CombatStyles",
+    "require": [
+      "Module:Paramtest"
+    ],
+    "page_name": "Module:CombatStyles"
+  },
+  {
+    "page_name_sub": "Module:Similar Vars",
+    "require": [
+      "Module:Navbox"
+    ],
+    "page_name": "Module:Similar Vars"
+  },
+  {
+    "page_name_sub": "Module:CombatStylesDisplay",
+    "require": [
+      "Module:Array",
+      "Module:Paramtest"
+    ],
+    "page_name": "Module:CombatStylesDisplay"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Omnes Ferant",
+    "require": [
+      "Module:Coins",
+      "Module:Exchange"
+    ],
+    "page_name": "Module:Sandbox/User:Omnes Ferant"
+  },
+  {
+    "page_name_sub": "Module:DropsLineClue",
+    "require": [
+      "Module:Addcommas",
+      "Module:DropsLine"
+    ],
+    "page_name": "Module:DropsLineClue"
+  },
+  {
+    "page_name_sub": "Module:Infobox Pure",
+    "require": [
+      "Module:Combat level",
+      "Module:Infobox",
+      "Module:Mainonly",
+      "Module:Paramtest",
+      "Module:Yesno"
+    ],
+    "page_name": "Module:Infobox Pure"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Jakesterwars/Poll",
+    "require": [
+      "Module:Multi",
+      "Module:Paramtest"
+    ],
+    "page_name": "Module:Sandbox/User:Jakesterwars/Poll"
+  },
+  {
+    "page_name_sub": "Module:FetchItemStats",
+    "require": [
+      "Module:Exchange",
+      "Module:Yesno"
+    ],
+    "page_name": "Module:FetchItemStats"
+  },
+  {
+    "page_name_sub": "Module:Poll",
+    "require": [
+      "Module:Addcommas",
+      "Module:Paramtest"
+    ],
+    "page_name": "Module:Poll"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Joeytje50",
+    "require": [
+      "Module:Coins",
+      "Module:Exchange",
+      "Module:NA",
+      "Module:Tables"
+    ],
+    "page_name": "Module:Sandbox/User:Joeytje50"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/Poll",
+    "require": [
+      "Module:Addcommas",
+      "Module:Paramtest"
+    ],
+    "page_name": "Module:Sandbox/Poll"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Jakesterwars/Skills",
+    "require": [
+      "Module:SCP"
+    ],
+    "page_name": "Module:Sandbox/User:Jakesterwars/Skills"
+  },
+  {
+    "page_name_sub": "Module:Bucket table",
+    "require": [
+      "Module:Yesno"
+    ],
+    "page_name": "Module:Bucket table"
+  },
+  {
+    "page_name_sub": "Module:Required for completing",
+    "require": [
+      "Module:Yesno"
+    ],
+    "page_name": "Module:Required for completing"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Andmcadams/fixcharts",
+    "require": [
+      "Module:Chart data"
+    ],
+    "page_name": "Module:Sandbox/User:Andmcadams/fixcharts"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Andmcadams/test",
+    "require": [
+      "Module:Addcommas",
+      "Module:Exchange",
+      "Module:ExchangeData",
+      "Module:Infobox",
+      "Module:Mainonly"
+    ],
+    "page_name": "Module:Sandbox/User:Andmcadams/test"
+  },
+  {
+    "page_name_sub": "Module:Skill info",
+    "require": [
+      "Module:Edit button",
+      "Module:Infobox",
+      "Module:Mainonly",
+      "Module:Paramtest",
+      "Module:Quantity box",
+      "Module:SCP",
+      "Module:Skill info/presets",
+      "Module:Yesno"
+    ],
+    "page_name": "Module:Skill info"
+  },
+  {
+    "page_name_sub": "Module:Skill info/presets",
+    "require": [
+      "Module:Paramtest",
+      "Module:Yesno"
+    ],
+    "page_name": "Module:Skill info/presets"
+  },
+  {
+    "page_name_sub": "Module:Skill table",
+    "require": [
+      "Module:Paramtest",
+      "Module:SCP",
+      "Module:Yesno"
+    ],
+    "page_name": "Module:Skill table"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Kelsey/StoreTableHead",
+    "require": [
+      "Module:Paramtest",
+      "Module:Yesno"
+    ],
+    "page_name": "Module:Sandbox/User:Kelsey/StoreTableHead"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:F-Lambda/Infotable Bonuses",
+    "require": [
+      "Module:Array",
+      "Module:Exchange",
+      "Module:FetchItemStats",
+      "Module:PageListTools",
+      "Module:Paramtest",
+      "Module:Yesno"
+    ],
+    "page_name": "Module:Sandbox/User:F-Lambda/Infotable Bonuses"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Daan/Glassblow",
+    "page_name": "Module:Sandbox/User:Daan/Glassblow"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Shoyrukon/Miscellania",
+    "require": [
+      "Module:Addcommas",
+      "Module:Coins",
+      "Module:Exchange",
+      "Module:Yesno"
+    ],
+    "page_name": "Module:Sandbox/User:Shoyrukon/Miscellania"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Shoyrukon/Test",
+    "require": [
+      "Module:Addcommas",
+      "Module:Coins",
+      "Module:Exchange",
+      "Module:Yesno"
+    ],
+    "page_name": "Module:Sandbox/User:Shoyrukon/Test"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Omnes Ferant/References",
+    "require": [
+      "Module:Mainonly",
+      "Module:Paramtest",
+      "Module:Yesno"
+    ],
+    "page_name": "Module:Sandbox/User:Omnes Ferant/References"
+  },
+  {
+    "page_name_sub": "Module:SkillChoice",
+    "require": [
+      "Module:Addcommas",
+      "Module:SCP"
+    ],
+    "page_name": "Module:SkillChoice"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Fjara/Sandbox/Trucks",
+    "require": [
+      "Module:Mainonly",
+      "Module:Paramtest",
+      "Module:Yesno"
+    ],
+    "page_name": "Module:Sandbox/User:Fjara/Sandbox/Trucks"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Riblet15/Infobox Bonuses",
+    "require": [
+      "Module:Attack speed bar",
+      "Module:Clean image2",
+      "Module:Format eq stat",
+      "Module:Infobox",
+      "Module:Mainonly"
+    ],
+    "page_name": "Module:Sandbox/User:Riblet15/Infobox Bonuses"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Riblet15/StoreTableHead",
+    "require": [
+      "Module:Paramtest",
+      "Module:Yesno"
+    ],
+    "page_name": "Module:Sandbox/User:Riblet15/StoreTableHead"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Riblet15/Infobox Monster",
+    "require": [
+      "Module:Addcommas",
+      "Module:Format eq stat",
+      "Module:Infobox",
+      "Module:Mainonly",
+      "Module:Trailblazer Region"
+    ],
+    "page_name": "Module:Sandbox/User:Riblet15/Infobox Monster"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Riblet15/Infobox Item",
+    "require": [
+      "Module:Addcommas",
+      "Module:Exchange",
+      "Module:ExchangeData",
+      "Module:Infobox",
+      "Module:Mainonly"
+    ],
+    "page_name": "Module:Sandbox/User:Riblet15/Infobox Item"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Riblet15/Infobox Scenery",
+    "require": [
+      "Module:Infobox",
+      "Module:Mainonly",
+      "Module:Trailblazer Region"
+    ],
+    "page_name": "Module:Sandbox/User:Riblet15/Infobox Scenery"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Jakesterwars/ChoppesCrane",
+    "require": [
+      "Module:Paramtest"
+    ],
+    "page_name": "Module:Sandbox/User:Jakesterwars/ChoppesCrane"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Hjalmar/Calculators/ZMI",
+    "require": [
+      "Module:Addcommas",
+      "Module:Coins",
+      "Module:Experience",
+      "Module:Skill calc/Helpers"
+    ],
+    "page_name": "Module:Sandbox/User:Hjalmar/Calculators/ZMI"
+  },
+  {
+    "page_name_sub": "Module:ZMICalculator",
+    "require": [
+      "Module:Addcommas",
+      "Module:Coins",
+      "Module:Experience",
+      "Module:Skill calc/Helpers",
+      "Module:Yesno"
+    ],
+    "page_name": "Module:ZMICalculator"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Ikbenbeter/Skillcalc",
+    "require": [
+      "Module:Addcommas",
+      "Module:Coins",
+      "Module:Sandbox/User:Ikbenbeter/Skillcalc/Helpers"
+    ],
+    "page_name": "Module:Sandbox/User:Ikbenbeter/Skillcalc"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Ikbenbeter/Skillcalc/Helpers",
+    "require": [
+      "Module:Addcommas",
+      "Module:Experience",
+      "Module:Yesno"
+    ],
+    "page_name": "Module:Sandbox/User:Ikbenbeter/Skillcalc/Helpers"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Jakesterwars/Exchange",
+    "require": [
+      "Module:Addcommas",
+      "Module:ChangePerDay",
+      "Module:Coins",
+      "Module:Number",
+      "Module:TimeAgo",
+      "Module:Yesno"
+    ],
+    "page_name": "Module:Sandbox/User:Jakesterwars/Exchange"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Andmcadams/QuestDetails",
+    "require": [
+      "Module:Mainonly",
+      "Module:Yesno"
+    ],
+    "page_name": "Module:Sandbox/User:Andmcadams/QuestDetails"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:UimSlayOnly/Recommended equipment",
+    "require": [
+      "Module:Paramtest"
+    ],
+    "page_name": "Module:Sandbox/User:UimSlayOnly/Recommended equipment"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Eldevidian/QuestDetails",
+    "require": [
+      "Module:Mainonly",
+      "Module:Yesno"
+    ],
+    "page_name": "Module:Sandbox/User:Eldevidian/QuestDetails"
+  },
+  {
+    "page_name_sub": "Module:Mmgtable/display",
+    "require": [
+      "Module:Array",
+      "Module:Exchange",
+      "Module:PageListTools",
+      "Module:Time"
+    ],
+    "page_name": "Module:Mmgtable/display"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Riblet15/Infobox Shop",
+    "require": [
+      "Module:Mainonly",
+      "Module:Paramtest",
+      "Module:Sandbox/User:Riblet15/Infobox"
+    ],
+    "page_name": "Module:Sandbox/User:Riblet15/Infobox Shop"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Riblet15/Infobox NPC",
+    "require": [
+      "Module:Infobox",
+      "Module:Mainonly",
+      "Module:Paramtest",
+      "Module:Trailblazer Region"
+    ],
+    "page_name": "Module:Sandbox/User:Riblet15/Infobox NPC"
+  },
+  {
+    "page_name_sub": "Module:Abyssal pearls",
+    "require": [
+      "Module:Addcommas",
+      "Module:Paramtest",
+      "Module:Yesno"
+    ],
+    "page_name": "Module:Abyssal pearls"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Lexi lambda/Exchange",
+    "require": [
+      "Module:Addcommas",
+      "Module:Coins",
+      "Module:Exchange",
+      "Module:Yesno"
+    ],
+    "page_name": "Module:Sandbox/User:Lexi lambda/Exchange"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Kitlith/Recipe",
+    "require": [
+      "Module:Addcommas",
+      "Module:Coins",
+      "Module:Currencies",
+      "Module:Edit button",
+      "Module:Exchange",
+      "Module:Mainonly",
+      "Module:Paramtest",
+      "Module:SCP",
+      "Module:Sandbox/User:Lexi lambda/Exchange",
+      "Module:Yesno"
+    ],
+    "page_name": "Module:Sandbox/User:Kitlith/Recipe"
+  },
+  {
+    "page_name_sub": "Module:Hatnote",
+    "require": [
+      "libraryUtil"
+    ],
+    "page_name": "Module:Hatnote"
+  },
+  {
+    "page_name_sub": "Module:PollArchive",
+    "require": [
+      "Module:Addcommas",
+      "Module:Paramtest"
+    ],
+    "page_name": "Module:PollArchive"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Andmcadams/Exchange",
+    "require": [
+      "Module:Addcommas",
+      "Module:ChangePerDay",
+      "Module:Coins",
+      "Module:Number",
+      "Module:TimeAgo",
+      "Module:Yesno"
+    ],
+    "page_name": "Module:Sandbox/User:Andmcadams/Exchange"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Jakesterwars/Mmgtable",
+    "require": [
+      "Module:Currency",
+      "Module:Exchange",
+      "Module:Mainonly",
+      "Module:Number",
+      "Module:Yesno"
+    ],
+    "page_name": "Module:Sandbox/User:Jakesterwars/Mmgtable"
+  },
+  {
+    "page_name_sub": "Module:Combat Achievements",
+    "require": [
+      "Module:Tables",
+      "Module:Trailblazer Region"
+    ],
+    "page_name": "Module:Combat Achievements"
+  },
+  {
+    "page_name_sub": "Module:Profitable alchemy",
+    "require": [
+      "Module:Addcommas",
+      "Module:Paramtest",
+      "Module:Yesno"
+    ],
+    "page_name": "Module:Profitable alchemy"
+  },
+  {
+    "page_name_sub": "Module:Uses facility list",
+    "require": [
+      "Module:Addcommas",
+      "Module:Array",
+      "Module:SCP",
+      "Module:Yesno"
+    ],
+    "page_name": "Module:Uses facility list"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Riblet15/Infobox Music",
+    "require": [
+      "Module:Mainonly",
+      "Module:Paramtest",
+      "Module:Yesno"
+    ],
+    "page_name": "Module:Sandbox/User:Riblet15/Infobox Music"
+  },
+  {
+    "page_name_sub": "Module:Herb Farming calculator",
+    "require": [
+      "Module:Coins",
+      "Module:Paramtest",
+      "Module:SCP",
+      "Module:Yesno"
+    ],
+    "page_name": "Module:Herb Farming calculator"
+  },
+  {
+    "page_name_sub": "Module:Tombs of Amascut loot",
+    "require": [
+      "Module:Exchange",
+      "Module:Less Stupid Coins",
+      "Module:Tables"
+    ],
+    "page_name": "Module:Tombs of Amascut loot"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:IvanEOD",
+    "require": [
+      "Module:Get drop info"
+    ],
+    "page_name": "Module:Sandbox/User:IvanEOD"
+  },
+  {
+    "page_name_sub": "Module:Master farmer special seed calculator",
+    "require": [
+      "Module:Addcommas"
+    ],
+    "page_name": "Module:Master farmer special seed calculator"
+  },
+  {
+    "page_name_sub": "Module:Used in recommended equipment",
+    "require": [
+      "Module:Array",
+      "Module:Paramtest"
+    ],
+    "page_name": "Module:Used in recommended equipment"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Riblet15/LocLine",
+    "require": [
+      "Module:Edit button",
+      "Module:Mainonly",
+      "Module:Map",
+      "Module:Paramtest",
+      "Module:Trailblazer Region",
+      "Module:Yesno"
+    ],
+    "page_name": "Module:Sandbox/User:Riblet15/LocLine"
+  },
+  {
+    "page_name_sub": "Module:Chart data/ranging guild target region chance",
+    "require": [
+      "Module:Chart data"
+    ],
+    "page_name": "Module:Chart data/ranging guild target region chance"
+  },
+  {
+    "page_name_sub": "Module:IPAc-en",
+    "page_name": "Module:IPAc-en"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Chisato/Sandbox",
+    "require": [
+      "Module:Exchange",
+      "Module:Less Stupid Coins",
+      "Module:Tables"
+    ],
+    "page_name": "Module:Sandbox/User:Chisato/Sandbox"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:I have groot",
+    "require": [
+      "Module:Chart data"
+    ],
+    "page_name": "Module:Sandbox/User:I have groot"
+  },
+  {
+    "page_name_sub": "Module:Uses tool list",
+    "require": [
+      "Module:Addcommas",
+      "Module:Array",
+      "Module:SCP",
+      "Module:Yesno"
+    ],
+    "page_name": "Module:Uses tool list"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Wizzyhatg/toamod",
+    "require": [
+      "Module:Exchange",
+      "Module:Less Stupid Coins",
+      "Module:Tables"
+    ],
+    "page_name": "Module:Sandbox/User:Wizzyhatg/toamod"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Anyny0/LocLine",
+    "require": [
+      "Module:Edit button",
+      "Module:Map",
+      "Module:Paramtest",
+      "Module:Yesno"
+    ],
+    "page_name": "Module:Sandbox/User:Anyny0/LocLine"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Duralith/Burn chance chart",
+    "require": [
+      "Module:Chart data"
+    ],
+    "page_name": "Module:Sandbox/User:Duralith/Burn chance chart"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Ikbenbeter/Giants' Foundry Calculator",
+    "require": [
+      "Module:Addcommas",
+      "Module:Coins",
+      "Module:Experience",
+      "Module:Paramtest",
+      "Module:SCP",
+      "Module:Sandbox/User:Ikbenbeter/Giants Foundry Moulds"
+    ],
+    "page_name": "Module:Sandbox/User:Ikbenbeter/Giants' Foundry Calculator"
+  },
+  {
+    "page_name_sub": "Module:Giants' Foundry Calculator",
+    "require": [
+      "Module:Addcommas",
+      "Module:Coins",
+      "Module:Experience",
+      "Module:Giants' Foundry Calculator/Moulds",
+      "Module:Paramtest",
+      "Module:SCP"
+    ],
+    "page_name": "Module:Giants' Foundry Calculator"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Ikbenbeter/Herbiboar calculator",
+    "require": [
+      "Module:Addcommas",
+      "Module:Coins",
+      "Module:Experience",
+      "Module:Paramtest",
+      "Module:Skill calc/Herblore"
+    ],
+    "page_name": "Module:Sandbox/User:Ikbenbeter/Herbiboar calculator"
+  },
+  {
+    "page_name_sub": "Module:Herbiboar",
+    "require": [
+      "Module:Addcommas",
+      "Module:Coins",
+      "Module:Experience",
+      "Module:Paramtest",
+      "Module:Skill calc/Herblore"
+    ],
+    "page_name": "Module:Herbiboar"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Ikbenbeter/ZMI",
+    "require": [
+      "Module:Addcommas",
+      "Module:Coins",
+      "Module:Experience",
+      "Module:Skill calc/Helpers",
+      "Module:Yesno"
+    ],
+    "page_name": "Module:Sandbox/User:Ikbenbeter/ZMI"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:KingBanana73",
+    "require": [
+      "Module:DPLlua"
+    ],
+    "page_name": "Module:Sandbox/User:KingBanana73"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Jakesterwars/Infobox Bonuses",
+    "require": [
+      "Module:Attack speed bar",
+      "Module:Clean image2",
+      "Module:Format eq stat",
+      "Module:Infobox",
+      "Module:Mainonly"
+    ],
+    "page_name": "Module:Sandbox/User:Jakesterwars/Infobox Bonuses"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/Remyma",
+    "require": [
+      "Module:Infobox",
+      "Module:Mainonly"
+    ],
+    "page_name": "Module:Sandbox/Remyma"
+  },
+  {
+    "page_name_sub": "Module:Training manual calculator",
+    "require": [
+      "Module:Addcommas",
+      "Module:Experience",
+      "Module:Paramtest",
+      "Module:SCP"
+    ],
+    "page_name": "Module:Training manual calculator"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Halworsen",
+    "require": [
+      "Module:Chart data",
+      "Module:Skilling success chart"
+    ],
+    "page_name": "Module:Sandbox/User:Halworsen"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Scatter",
+    "require": [
+      "Module:Attack speed bar",
+      "Module:Clean image2",
+      "Module:Format eq stat",
+      "Module:Infobox",
+      "Module:Mainonly",
+      "Module:Paramtest"
+    ],
+    "page_name": "Module:Sandbox/User:Scatter"
+  },
+  {
+    "page_name_sub": "Module:Shop calculator",
+    "require": [
+      "Module:Paramtest",
+      "Module:Yesno"
+    ],
+    "page_name": "Module:Shop calculator"
+  },
+  {
+    "page_name_sub": "Module:Mmgsection",
+    "require": [
+      "Module:Currency",
+      "Module:Number",
+      "strict"
+    ],
+    "page_name": "Module:Mmgsection"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:LordOfWoe",
+    "require": [
+      "Module:Paramtest"
+    ],
+    "page_name": "Module:Sandbox/User:LordOfWoe"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Bonbaun/Rggtable",
+    "require": [
+      "Module:Currency",
+      "Module:Exchange",
+      "Module:Mainonly",
+      "Module:Number",
+      "Module:Yesno"
+    ],
+    "page_name": "Module:Sandbox/User:Bonbaun/Rggtable"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Myaid/Herb Farming calculator",
+    "require": [
+      "Module:Coins",
+      "Module:Paramtest",
+      "Module:SCP",
+      "Module:Yesno"
+    ],
+    "page_name": "Module:Sandbox/User:Myaid/Herb Farming calculator"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Ostentatio/Graphical updates",
+    "require": [
+      "Module:Clean image2",
+      "Module:Paramtest"
+    ],
+    "page_name": "Module:Sandbox/User:Ostentatio/Graphical updates"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Ostentatio/References",
+    "require": [
+      "Module:Mainonly",
+      "Module:Paramtest",
+      "Module:Yesno"
+    ],
+    "page_name": "Module:Sandbox/User:Ostentatio/References"
+  },
+  {
+    "page_name_sub": "Module:TrailblazerReloadedQuestLine",
+    "require": [
+      "Module:Trailblazer Region"
+    ],
+    "page_name": "Module:TrailblazerReloadedQuestLine"
+  },
+  {
+    "page_name_sub": "Module:Graphical updates",
+    "require": [
+      "Module:Clean image2",
+      "Module:Paramtest"
+    ],
+    "page_name": "Module:Graphical updates"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/MxOrange",
+    "require": [
+      "Module:Addcommas",
+      "Module:Coins",
+      "Module:Experience",
+      "Module:Giants' Foundry Calculator/Moulds",
+      "Module:Paramtest",
+      "Module:SCP"
+    ],
+    "page_name": "Module:Sandbox/MxOrange"
+  },
+  {
+    "page_name_sub": "Module:Tile markers button",
+    "require": [
+      "Module:Bit32",
+      "Module:Map"
+    ],
+    "page_name": "Module:Tile markers button"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Defiect/ToA",
+    "require": [
+      "Module:Exchange",
+      "Module:Less Stupid Coins",
+      "Module:Tables"
+    ],
+    "page_name": "Module:Sandbox/User:Defiect/ToA"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Kiwi Iskadda/anything",
+    "require": [
+      "Module:Exchange",
+      "Module:Less Stupid Coins",
+      "Module:Tables"
+    ],
+    "page_name": "Module:Sandbox/User:Kiwi Iskadda/anything"
+  },
+  {
+    "page_name_sub": "Module:TrailblazerReloadedSlayerLine",
+    "require": [
+      "Module:Trailblazer Region"
+    ],
+    "page_name": "Module:TrailblazerReloadedSlayerLine"
+  },
+  {
+    "page_name_sub": "Module:TRLTaskRow",
+    "page_name": "Module:TRLTaskRow"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Etheras",
+    "require": [
+      "Module:Addcommas",
+      "Module:Paramtest",
+      "Module:Yesno"
+    ],
+    "page_name": "Module:Sandbox/User:Etheras"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Defiect/ToA2",
+    "require": [
+      "Module:Exchange",
+      "Module:Less Stupid Coins",
+      "Module:Tables"
+    ],
+    "page_name": "Module:Sandbox/User:Defiect/ToA2"
+  },
+  {
+    "page_name_sub": "Module:CoinsGE",
+    "require": [
+      "Module:Coins",
+      "Module:Exchange"
+    ],
+    "page_name": "Module:CoinsGE"
+  },
+  {
+    "page_name_sub": "Module:SeedPackValue",
+    "require": [
+      "Module:Addcommas",
+      "Module:Average drop value",
+      "Module:Coins",
+      "Module:Paramtest",
+      "Module:Yesno"
+    ],
+    "page_name": "Module:SeedPackValue"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/IMMMtable",
+    "require": [
+      "Module:Currency",
+      "Module:Exchange",
+      "Module:Mainonly",
+      "Module:Number",
+      "Module:Yesno"
+    ],
+    "page_name": "Module:Sandbox/IMMMtable"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Gaz Lloyd/archive",
+    "require": [
+      "Module:DPLlua",
+      "Module:Paramtest"
+    ],
+    "page_name": "Module:Sandbox/User:Gaz Lloyd/archive"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Sprongle/InventoryTest",
+    "require": [
+      "Module:Coins",
+      "Module:Exchange",
+      "Module:Paramtest"
+    ],
+    "page_name": "Module:Sandbox/User:Sprongle/InventoryTest"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Oo00oo00oO/utils",
+    "require": [
+      "Module:DebugModulePaths[debugPathVersion]"
+    ],
+    "page_name": "Module:Sandbox/User:Oo00oo00oO/utils"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Oo00oo00oO/shops",
+    "require": [
+      "Module:DPLlua",
+      "Module:Sandbox/User:Oo00oo00oO/utils"
+    ],
+    "page_name": "Module:Sandbox/User:Oo00oo00oO/shops"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Speeddymon/Module:Skill info/presets",
+    "require": [
+      "Module:Paramtest",
+      "Module:Yesno"
+    ],
+    "page_name": "Module:Sandbox/User:Speeddymon/Module:Skill info/presets"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Speeddymon/Module:Skill info",
+    "require": [
+      "Module:Edit button",
+      "Module:Infobox",
+      "Module:Mainonly",
+      "Module:Paramtest",
+      "Module:Quantity box",
+      "Module:SCP",
+      "Module:Sandbox/User:Speeddymon/Module:Skill info/presets",
+      "Module:Yesno"
+    ],
+    "page_name": "Module:Sandbox/User:Speeddymon/Module:Skill info"
+  },
+  {
+    "page_name_sub": "Module:Combat Only Pure/Combat Achievements",
+    "require": [
+      "Module:Tables"
+    ],
+    "page_name": "Module:Combat Only Pure/Combat Achievements"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Wammy/Calc",
+    "require": [
+      "Module:Yesno"
+    ],
+    "page_name": "Module:Sandbox/User:Wammy/Calc"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Microbrews/Wilderness agility calculator",
+    "require": [
+      "Module:Addcommas",
+      "Module:Coins",
+      "Module:Exchange"
+    ],
+    "page_name": "Module:Sandbox/User:Microbrews/Wilderness agility calculator"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Microbrews/ShopLocLine",
+    "require": [
+      "Module:Edit button",
+      "Module:Paramtest",
+      "Module:Sandbox/User:Microbrews/Map",
+      "Module:Yesno"
+    ],
+    "page_name": "Module:Sandbox/User:Microbrews/ShopLocLine"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Microbrews/Map",
+    "require": [
+      "Module:Paramtest"
+    ],
+    "page_name": "Module:Sandbox/User:Microbrews/Map"
+  },
+  {
+    "page_name_sub": "Module:ShopLocLine",
+    "require": [
+      "Module:Map",
+      "Module:NA",
+      "Module:Trailblazer Region",
+      "Module:Yesno"
+    ],
+    "page_name": "Module:ShopLocLine"
+  },
+  {
+    "page_name_sub": "Module:Feedback",
+    "require": [
+      "Module:Paramtest",
+      "Module:Yesno"
+    ],
+    "page_name": "Module:Feedback"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Andmcadams/recs",
+    "require": [
+      "Module:Mainonly",
+      "Module:Paramtest",
+      "Module:Yesno"
+    ],
+    "page_name": "Module:Sandbox/User:Andmcadams/recs"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:NormalSolid/MySandbox",
+    "require": [
+      "Module:Mainonly",
+      "Module:Paramtest",
+      "Module:Yesno"
+    ],
+    "page_name": "Module:Sandbox/User:NormalSolid/MySandbox"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:NormalSolid/RecGearTest",
+    "require": [
+      "Module:Mainonly",
+      "Module:Paramtest",
+      "Module:Yesno"
+    ],
+    "page_name": "Module:Sandbox/User:NormalSolid/RecGearTest"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Towelcat/Farming yield",
+    "require": [
+      "Module:Skilling success chart/Sandbox",
+      "Module:Yesno"
+    ],
+    "page_name": "Module:Sandbox/User:Towelcat/Farming yield"
+  },
+  {
+    "page_name_sub": "Module:Farming yield calculator",
+    "require": [
+      "Module:Chart data",
+      "Module:Yesno"
+    ],
+    "page_name": "Module:Farming yield calculator"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Towelcat/Magic damage calculator",
+    "require": [
+      "Module:SCP",
+      "Module:Sandbox/User:Towelcat/Magic damage calculator/data",
+      "Module:Yesno"
+    ],
+    "page_name": "Module:Sandbox/User:Towelcat/Magic damage calculator"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Microbrews/MicroMap",
+    "require": [
+      "Module:Paramtest"
+    ],
+    "page_name": "Module:Sandbox/User:Microbrews/MicroMap"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Microbrews/Skilling success chart",
+    "require": [
+      "Module:Chart data"
+    ],
+    "page_name": "Module:Sandbox/User:Microbrews/Skilling success chart"
+  },
+  {
+    "page_name_sub": "Module:Lava shard chart",
+    "require": [
+      "Module:Chart data",
+      "Module:Skilling success chart"
+    ],
+    "page_name": "Module:Lava shard chart"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Speeddymon/LocLineNew",
+    "require": [
+      "Module:Edit button",
+      "Module:Map",
+      "Module:Paramtest",
+      "Module:Yesno"
+    ],
+    "page_name": "Module:Sandbox/User:Speeddymon/LocLineNew"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Als Toy Barn/ShopLocLine",
+    "require": [
+      "Module:Edit button",
+      "Module:NA",
+      "Module:Paramtest",
+      "Module:Sandbox/User:Als Toy Barn/Map",
+      "Module:Trailblazer Region",
+      "Module:Yesno"
+    ],
+    "page_name": "Module:Sandbox/User:Als Toy Barn/ShopLocLine"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Riblet15/Infobox",
+    "require": [
+      "Module:Edit button"
+    ],
+    "page_name": "Module:Sandbox/User:Riblet15/Infobox"
+  },
+  {
+    "page_name_sub": "Module:User hiscores",
+    "require": [
+      "Module:Experience",
+      "Module:Hiscores",
+      "Module:Mw.html extension",
+      "Module:Yesno",
+      "strict"
+    ],
+    "page_name": "Module:User hiscores"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Speeddymon/Skill calc",
+    "require": [
+      "Module:Addcommas",
+      "Module:Coins",
+      "Module:Sandbox/User:Ikbenbeter/Skillcalc/Helpers",
+      "Module:Sandbox/User:Jakesterwars/Skill calc/Helpers",
+      "Module:Sandbox/User:Microbrews/Helpers",
+      "Module:Sandbox/User:Speeddymon/Skill calc/Helpers",
+      "Module:Sandbox/User:Spoiledduc/Skill calc/Helpers",
+      "Module:Skill calc/Helpers"
+    ],
+    "page_name": "Module:Sandbox/User:Speeddymon/Skill calc"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Speeddymon/Skill calc/Helpers",
+    "require": [
+      "Module:Addcommas",
+      "Module:Experience",
+      "Module:Yesno"
+    ],
+    "page_name": "Module:Sandbox/User:Speeddymon/Skill calc/Helpers"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Riblet15/Skill info",
+    "require": [
+      "Module:Edit button",
+      "Module:Mainonly",
+      "Module:Paramtest",
+      "Module:Quantity box",
+      "Module:SCP",
+      "Module:Sandbox/User:Riblet15/Infobox",
+      "Module:Skill info/presets",
+      "Module:Yesno"
+    ],
+    "page_name": "Module:Sandbox/User:Riblet15/Skill info"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Riblet15/Infobox Test",
+    "require": [
+      "Module:Infobox"
+    ],
+    "page_name": "Module:Sandbox/User:Riblet15/Infobox Test"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Keplare/Map",
+    "require": [
+      "Module:Paramtest"
+    ],
+    "page_name": "Module:Sandbox/User:Keplare/Map"
+  },
+  {
+    "page_name_sub": "Module:Elemental weakness table",
+    "require": [
+      "strict"
+    ],
+    "page_name": "Module:Elemental weakness table"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Trollius/Infobox Equipment",
+    "require": [
+      "Module:Infobox",
+      "Module:Mainonly"
+    ],
+    "page_name": "Module:Sandbox/User:Trollius/Infobox Equipment"
+  },
+  {
+    "page_name_sub": "Module:Prayer/Blessed Bone Shards",
+    "require": [
+      "Module:Addcommas",
+      "Module:Coins",
+      "Module:Exchange",
+      "Module:Paramtest"
+    ],
+    "page_name": "Module:Prayer/Blessed Bone Shards"
+  },
+  {
+    "page_name_sub": "Module:Ourania Altar Table",
+    "require": [
+      "Module:Chart data",
+      "Module:Coins",
+      "Module:Exchange",
+      "Module:Rgba"
+    ],
+    "page_name": "Module:Ourania Altar Table"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Wroometh/Sandstone",
+    "require": [
+      "Module:Addcommas",
+      "Module:Paramtest",
+      "Module:SCP",
+      "Module:Yesno"
+    ],
+    "page_name": "Module:Sandbox/User:Wroometh/Sandstone"
+  },
+  {
+    "page_name_sub": "Module:Herblore cost",
+    "require": [
+      "Module:Exchange",
+      "Module:Less Stupid Coins",
+      "Module:Yesno"
+    ],
+    "page_name": "Module:Herblore cost"
+  },
+  {
+    "page_name_sub": "Module:Infobox Activity",
+    "require": [
+      "Module:Infobox",
+      "Module:Mainonly",
+      "Module:Trailblazer Region"
+    ],
+    "page_name": "Module:Infobox Activity"
+  },
+  {
+    "page_name_sub": "Module:Loadout",
+    "require": [
+      "Module:Equipment",
+      "Module:Inventory",
+      "Module:Rune pouch",
+      "Module:Spells",
+      "Module:Static"
+    ],
+    "page_name": "Module:Loadout"
+  },
+  {
+    "page_name_sub": "Module:Hunter Rumours",
+    "require": [
+      "Module:SCP"
+    ],
+    "page_name": "Module:Hunter Rumours"
+  },
+  {
+    "page_name_sub": "Module:RELTaskRow",
+    "page_name": "Module:RELTaskRow"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Xaviergmail/Bowfa price calculator",
+    "require": [
+      "Module:Addcommas",
+      "Module:Coins",
+      "Module:Exchange",
+      "Module:Yesno"
+    ],
+    "page_name": "Module:Sandbox/User:Xaviergmail/Bowfa price calculator"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Xaviergmail/Bowfa price calculator2",
+    "require": [
+      "Module:Addcommas",
+      "Module:Exchange"
+    ],
+    "page_name": "Module:Sandbox/User:Xaviergmail/Bowfa price calculator2"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Loaf/RELTaskRow",
+    "page_name": "Module:Sandbox/User:Loaf/RELTaskRow"
+  },
+  {
+    "page_name_sub": "Module:Echo skill success chart",
+    "require": [
+      "Module:Chart data"
+    ],
+    "page_name": "Module:Echo skill success chart"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:CogMonocle/SeedDropExp",
+    "require": [
+      "Module:Array",
+      "Module:Skill calc/Farming"
+    ],
+    "page_name": "Module:Sandbox/User:CogMonocle/SeedDropExp"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Riblet15/DropsLineClue",
+    "require": [
+      "Module:Addcommas"
+    ],
+    "page_name": "Module:Sandbox/User:Riblet15/DropsLineClue"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Agility FC/Setup",
+    "require": [
+      "Module:Coins",
+      "Module:Currency",
+      "Module:Equipment",
+      "Module:Exchange",
+      "Module:Inventory",
+      "Module:Paramtest",
+      "Module:Sandbox/User:Potatoes778"
+    ],
+    "page_name": "Module:Sandbox/User:Agility FC/Setup"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:RealEvanem",
+    "require": [
+      "Module:Addcommas",
+      "Module:Exchange",
+      "Module:ExchangeData",
+      "Module:Infobox",
+      "Module:Mainonly",
+      "Module:Trailblazer Region"
+    ],
+    "page_name": "Module:Sandbox/User:RealEvanem"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Bigmantonyd/Profitable alchemy",
+    "require": [
+      "Module:Addcommas",
+      "Module:Paramtest",
+      "Module:Yesno"
+    ],
+    "page_name": "Module:Sandbox/User:Bigmantonyd/Profitable alchemy"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Aivot-on/F2PCraftingRates",
+    "require": [
+      "Module:Addcommas",
+      "Module:Coins",
+      "Module:Exchange"
+    ],
+    "page_name": "Module:Sandbox/User:Aivot-on/F2PCraftingRates"
+  },
+  {
+    "page_name_sub": "Module:Collection log",
+    "require": [
+      "Module:Tables"
+    ],
+    "page_name": "Module:Collection log"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Discograph/Recommended equipment expanded",
+    "require": [
+      "Module:Mainonly",
+      "Module:Paramtest",
+      "Module:Yesno"
+    ],
+    "page_name": "Module:Sandbox/User:Discograph/Recommended equipment expanded"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:bigmantonyd/Mmgtable/display",
+    "require": [
+      "Module:Array",
+      "Module:Exchange",
+      "Module:Time"
+    ],
+    "page_name": "Module:Sandbox/User:bigmantonyd/Mmgtable/display"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Trollius",
+    "require": [
+      "Module:Chart data"
+    ],
+    "page_name": "Module:Sandbox/User:Trollius"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Trollius/Thrall Graph",
+    "require": [
+      "Module:Chart data"
+    ],
+    "page_name": "Module:Sandbox/User:Trollius/Thrall Graph"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Emerald000/LogCheck",
+    "require": [
+      "Module:Tables"
+    ],
+    "page_name": "Module:Sandbox/User:Emerald000/LogCheck"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Microbrews/Infobox NPC",
+    "require": [
+      "Module:Infobox",
+      "Module:Mainonly",
+      "Module:Paramtest",
+      "Module:Trailblazer Region"
+    ],
+    "page_name": "Module:Sandbox/User:Microbrews/Infobox NPC"
+  },
+  {
+    "page_name_sub": "Module:FloorText",
+    "require": [
+      "Module:Yesno"
+    ],
+    "page_name": "Module:FloorText"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Microbrews/Infobox NPC 2",
+    "require": [
+      "Module:Infobox",
+      "Module:Mainonly",
+      "Module:Paramtest",
+      "Module:Trailblazer Region"
+    ],
+    "page_name": "Module:Sandbox/User:Microbrews/Infobox NPC 2"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:VierKazenSla/sandbox",
+    "require": [
+      "Module:Tables"
+    ],
+    "page_name": "Module:Sandbox/User:VierKazenSla/sandbox"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Oddlyoko/Infobox",
+    "require": [
+      "Module:Edit button"
+    ],
+    "page_name": "Module:Sandbox/User:Oddlyoko/Infobox"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:HaileyBarely/Test",
+    "require": [
+      "Module:Tables"
+    ],
+    "page_name": "Module:Sandbox/User:HaileyBarely/Test"
+  },
+  {
+    "page_name_sub": "Module:NPC ID list",
+    "require": [
+      "Module:IDListUtils"
+    ],
+    "page_name": "Module:NPC ID list"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Keplare/Beehive event",
+    "require": [
+      "Module:Chart data",
+      "Module:Skilling success chart"
+    ],
+    "page_name": "Module:Sandbox/User:Keplare/Beehive event"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Elaine/Infobox Var",
+    "require": [
+      "Module:Addcommas",
+      "Module:Infobox",
+      "Module:Mainonly"
+    ],
+    "page_name": "Module:Sandbox/User:Elaine/Infobox Var"
+  },
+  {
+    "page_name_sub": "Module:Item ID list",
+    "require": [
+      "Module:IDListUtils"
+    ],
+    "page_name": "Module:Item ID list"
+  },
+  {
+    "page_name_sub": "Module:Object ID list",
+    "require": [
+      "Module:IDListUtils"
+    ],
+    "page_name": "Module:Object ID list"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Potatoes778",
+    "require": [
+      "Module:Exchange"
+    ],
+    "page_name": "Module:Sandbox/User:Potatoes778"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:H1llmann/Chambers of Xeric calculator",
+    "require": [
+      "Module:Addcommas",
+      "Module:Coins",
+      "Module:Exchange"
+    ],
+    "page_name": "Module:Sandbox/User:H1llmann/Chambers of Xeric calculator"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:6R1P",
+    "require": [
+      "Module:Experience",
+      "Module:Hiscores",
+      "Module:Mw.html extension",
+      "Module:Yesno",
+      "strict"
+    ],
+    "page_name": "Module:Sandbox/User:6R1P"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Nea/FindShops",
+    "require": [
+      "Module:Addcommas",
+      "Module:Coins"
+    ],
+    "page_name": "Module:Sandbox/User:Nea/FindShops"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Holy Old Man",
+    "require": [
+      "Module:Map",
+      "Module:Mw.html extension"
+    ],
+    "page_name": "Module:Sandbox/User:Holy Old Man"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Admblack/Test",
+    "require": [
+      "Module:Array",
+      "Module:Exchange",
+      "Module:Time"
+    ],
+    "page_name": "Module:Sandbox/User:Admblack/Test"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Holy Old Man/1",
+    "require": [
+      "Module:Mw.html extension"
+    ],
+    "page_name": "Module:Sandbox/User:Holy Old Man/1"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:AdmBlack/Test",
+    "require": [
+      "Module:Array",
+      "Module:Exchange",
+      "Module:Time"
+    ],
+    "page_name": "Module:Sandbox/User:AdmBlack/Test"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Microbrews/Experience",
+    "require": [
+      "Module:Chart data"
+    ],
+    "page_name": "Module:Sandbox/User:Microbrews/Experience"
+  },
+  {
+    "page_name_sub": "Module:Experience charts",
+    "require": [
+      "Module:Chart data"
+    ],
+    "page_name": "Module:Experience charts"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Discograph/Mmgtable",
+    "require": [
+      "Module:Currency",
+      "Module:Exchange",
+      "Module:Mainonly",
+      "Module:Number",
+      "Module:Yesno"
+    ],
+    "page_name": "Module:Sandbox/User:Discograph/Mmgtable"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Microbrews/Poison",
+    "require": [
+      "Module:Exchange"
+    ],
+    "page_name": "Module:Sandbox/User:Microbrews/Poison"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Defiect/ToA3",
+    "require": [
+      "Module:Exchange",
+      "Module:Less Stupid Coins",
+      "Module:Tables"
+    ],
+    "page_name": "Module:Sandbox/User:Defiect/ToA3"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Elaine/bbgotback",
+    "require": [
+      "Module:Experience",
+      "Module:Skill calc/Helpers"
+    ],
+    "page_name": "Module:Sandbox/User:Elaine/bbgotback"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Triptyks",
+    "require": [
+      "Module:Currency",
+      "Module:DPLlua"
+    ],
+    "page_name": "Module:Sandbox/User:Triptyks"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Triptyks/avg drop edit",
+    "require": [
+      "Module:Currency",
+      "Module:DPLlua"
+    ],
+    "page_name": "Module:Sandbox/User:Triptyks/avg drop edit"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Elaine/Infobox N\u262e",
+    "require": [
+      "Module:Addcommas",
+      "Module:Format eq stat",
+      "Module:Mainonly",
+      "Module:Sandbox/User:Elaine/Infobox (the big one)",
+      "Module:Trailblazer Region"
+    ],
+    "page_name": "Module:Sandbox/User:Elaine/Infobox N\u262e"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Elaine/Infobox (the big one)",
+    "require": [
+      "Module:Edit button"
+    ],
+    "page_name": "Module:Sandbox/User:Elaine/Infobox (the big one)"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Varied2350/Map",
+    "require": [
+      "Module:Paramtest",
+      "Module:Sandbox/User:Varied2350/LegendMap"
+    ],
+    "page_name": "Module:Sandbox/User:Varied2350/Map"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Varied2350/Uses material list",
+    "require": [
+      "Module:Addcommas",
+      "Module:SCP"
+    ],
+    "page_name": "Module:Sandbox/User:Varied2350/Uses material list"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Varied2350/ImpClueValue",
+    "require": [
+      "Module:Average drop value",
+      "Module:Coins",
+      "Module:Exchange",
+      "Module:T"
+    ],
+    "page_name": "Module:Sandbox/User:Varied2350/ImpClueValue"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Dr. C-Dawg/TipBoltProfit",
+    "require": [
+      "Module:Exchange"
+    ],
+    "page_name": "Module:Sandbox/User:Dr. C-Dawg/TipBoltProfit"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Varied2350/Mmgtable/display",
+    "require": [
+      "Module:Array",
+      "Module:Exchange",
+      "Module:Time"
+    ],
+    "page_name": "Module:Sandbox/User:Varied2350/Mmgtable/display"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Dr. C-Dawg/AvgKillCalc",
+    "require": [
+      "Module:Addcommas",
+      "Module:Average drop value",
+      "Module:Coins",
+      "Module:Yesno"
+    ],
+    "page_name": "Module:Sandbox/User:Dr. C-Dawg/AvgKillCalc"
+  },
+  {
+    "page_name_sub": "Module:Slayer chest fish chart",
+    "require": [
+      "Module:Chart data",
+      "Module:Exchange",
+      "Module:Skilling success chart"
+    ],
+    "page_name": "Module:Slayer chest fish chart"
+  },
+  {
+    "page_name_sub": "Module:Recipe tabber",
+    "require": [
+      "Module:Recipe",
+      "Module:Switch infobox",
+      "Module:Tabber"
+    ],
+    "page_name": "Module:Recipe tabber"
+  },
+  {
+    "page_name_sub": "Module:Doom of Mokhaiotl loot",
+    "require": [
+      "Module:Exchange",
+      "Module:Less Stupid Coins",
+      "Module:Tables"
+    ],
+    "page_name": "Module:Doom of Mokhaiotl loot"
+  },
+  {
+    "page_name_sub": "Module:Doom of Mokhaiotl Completions",
+    "require": [
+      "Module:Exchange",
+      "Module:Less Stupid Coins",
+      "Module:Tables"
+    ],
+    "page_name": "Module:Doom of Mokhaiotl Completions"
+  },
+  {
+    "page_name_sub": "Module:Infobox Spell",
+    "require": [
+      "Module:Infobox",
+      "Module:Mainonly",
+      "Module:SCP",
+      "Module:Yesno"
+    ],
+    "page_name": "Module:Infobox Spell"
+  },
+  {
+    "page_name_sub": "Module:Spell table",
+    "require": [
+      "Module:SCP"
+    ],
+    "page_name": "Module:Spell table"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Druanach/Skill calc",
+    "require": [
+      "Module:Addcommas",
+      "Module:Coins",
+      "Module:Skill calc/Helpers"
+    ],
+    "page_name": "Module:Sandbox/User:Druanach/Skill calc"
+  },
+  {
+    "page_name_sub": "Module:Transcript list/autolist",
+    "require": [
+      "Module:Yesno"
+    ],
+    "page_name": "Module:Transcript list/autolist"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Skretzo/xp",
+    "require": [
+      "Module:Chart data"
+    ],
+    "page_name": "Module:Sandbox/User:Skretzo/xp"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Microbrews/Update",
+    "require": [
+      "Module:Paramtest"
+    ],
+    "page_name": "Module:Sandbox/User:Microbrews/Update"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Cocoa7",
+    "require": [
+      "Module:Coins"
+    ],
+    "page_name": "Module:Sandbox/User:Cocoa7"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Cocoa7/MakeArrowsProfit",
+    "require": [
+      "Module:Exchange"
+    ],
+    "page_name": "Module:Sandbox/User:Cocoa7/MakeArrowsProfit"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Microbrews/Slottable",
+    "require": [
+      "Module:Array",
+      "Module:Edit button",
+      "Module:Mw.html extension",
+      "Module:PageListTools",
+      "Module:Paramtest",
+      "Module:Yesno"
+    ],
+    "page_name": "Module:Sandbox/User:Microbrews/Slottable"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Cocoa7/MmgMakingUnfinishedPotions",
+    "require": [
+      "Module:Exchange"
+    ],
+    "page_name": "Module:Sandbox/User:Cocoa7/MmgMakingUnfinishedPotions"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Cocoa7/ShopsTest",
+    "require": [
+      "Module:Exchange"
+    ],
+    "page_name": "Module:Sandbox/User:Cocoa7/ShopsTest"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:MiljakerWiki/Infobox Monster",
+    "require": [
+      "Module:Addcommas",
+      "Module:Format eq stat",
+      "Module:Infobox",
+      "Module:Mainonly",
+      "Module:Trailblazer Region"
+    ],
+    "page_name": "Module:Sandbox/User:MiljakerWiki/Infobox Monster"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Gaz Lloyd/buckets",
+    "require": [
+      "Module:DPLlua"
+    ],
+    "page_name": "Module:Sandbox/User:Gaz Lloyd/buckets"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Telemonke/QuestDetailsTemplate",
+    "require": [
+      "Module:Mainonly",
+      "Module:Map",
+      "Module:Yesno"
+    ],
+    "page_name": "Module:Sandbox/User:Telemonke/QuestDetailsTemplate"
+  },
+  {
+    "page_name_sub": "Module:Ross door chart",
+    "require": [
+      "Module:Chart data",
+      "Module:Skilling success chart"
+    ],
+    "page_name": "Module:Ross door chart"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Rootklm",
+    "require": [
+      "Module:Mw.html extension",
+      "Module:Trailblazer Region"
+    ],
+    "page_name": "Module:Sandbox/User:Rootklm"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Mudscape/Infobox NPC",
+    "require": [
+      "Module:Edit button",
+      "Module:Sandbox/User:Mudscape/InfoboxBuilder",
+      "Module:Sandbox/User:Mudscape/InfoboxUtils"
+    ],
+    "page_name": "Module:Sandbox/User:Mudscape/Infobox NPC"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Mudscape/InfoboxBuilder",
+    "require": [
+      "Module:Tabber"
+    ],
+    "page_name": "Module:Sandbox/User:Mudscape/InfoboxBuilder"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Wroometh/Stgtable",
+    "require": [
+      "Module:Currency",
+      "Module:Exchange",
+      "Module:Mainonly",
+      "Module:Number",
+      "Module:PageListTools",
+      "Module:Yesno"
+    ],
+    "page_name": "Module:Sandbox/User:Wroometh/Stgtable"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Holy Old Man/2",
+    "require": [
+      "Module:Mw.html extension"
+    ],
+    "page_name": "Module:Sandbox/User:Holy Old Man/2"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Brolby",
+    "require": [
+      "Module:Currency",
+      "Module:DPLlua"
+    ],
+    "page_name": "Module:Sandbox/User:Brolby"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Elaine/ProdProd",
+    "require": [
+      "Module:Coins",
+      "Module:Paramtest",
+      "Module:Yesno"
+    ],
+    "page_name": "Module:Sandbox/User:Elaine/ProdProd"
+  },
+  {
+    "page_name_sub": "Module:Golden God Shops",
+    "require": [
+      "Module:Coins"
+    ],
+    "page_name": "Module:Golden God Shops"
+  },
+  {
+    "page_name_sub": "Module:Grid Master Grid",
+    "require": [
+      "strict"
+    ],
+    "page_name": "Module:Grid Master Grid"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Elaine/SkillcalcTest",
+    "require": [
+      "Module:Addcommas",
+      "Module:Coins",
+      "Module:Skill calc/Helpers"
+    ],
+    "page_name": "Module:Sandbox/User:Elaine/SkillcalcTest"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Microbrews/RareDropLines",
+    "require": [
+      "Module:DropsLine"
+    ],
+    "page_name": "Module:Sandbox/User:Microbrews/RareDropLines"
+  },
+  {
+    "page_name_sub": "Module:RareDropLines",
+    "require": [
+      "Module:DropsLine"
+    ],
+    "page_name": "Module:RareDropLines"
+  },
+  {
+    "page_name_sub": "Module:Drop table sources",
+    "require": [
+      "Module:Get drop info",
+      "Module:Purge"
+    ],
+    "page_name": "Module:Drop table sources"
+  },
+  {
+    "page_name_sub": "Module:GemDropLines",
+    "require": [
+      "Module:DropsLine"
+    ],
+    "page_name": "Module:GemDropLines"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Spoiledduc/Skill calc",
+    "require": [
+      "Module:Addcommas",
+      "Module:Coins",
+      "Module:Sandbox/User:Spoiledduc/Skill calc/Helpers"
+    ],
+    "page_name": "Module:Sandbox/User:Spoiledduc/Skill calc"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Spoiledduc/Calculator:Stealing artefacts calculator",
+    "require": [
+      "Module:Addcommas",
+      "Module:Experience",
+      "Module:Paramtest"
+    ],
+    "page_name": "Module:Sandbox/User:Spoiledduc/Calculator:Stealing artefacts calculator"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Spoiledduc/Skill calc/Helpers",
+    "require": [
+      "Module:Addcommas",
+      "Module:Experience",
+      "Module:Yesno"
+    ],
+    "page_name": "Module:Sandbox/User:Spoiledduc/Skill calc/Helpers"
+  },
+  {
+    "page_name_sub": "Module:Infobox Ship Part",
+    "require": [
+      "Module:Infobox",
+      "Module:Mainonly"
+    ],
+    "page_name": "Module:Infobox Ship Part"
+  },
+  {
+    "page_name_sub": "Module:User stats",
+    "require": [
+      "Module:Experience",
+      "Module:Hiscores",
+      "Module:Mw.html extension",
+      "Module:Paramtest",
+      "Module:SCP",
+      "Module:Yesno",
+      "strict"
+    ],
+    "page_name": "Module:User stats"
+  },
+  {
+    "page_name_sub": "Module:SeaChartRow",
+    "require": [
+      "Module:Mainonly",
+      "Module:Map",
+      "Module:SCP"
+    ],
+    "page_name": "Module:SeaChartRow"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Vectors-etc/SeaChartRow",
+    "require": [
+      "Module:Mainonly",
+      "Module:Map",
+      "Module:SCP"
+    ],
+    "page_name": "Module:Sandbox/User:Vectors-etc/SeaChartRow"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Sylkhr/RecipeLearned",
+    "require": [
+      "Module:Mainonly",
+      "Module:SCP"
+    ],
+    "page_name": "Module:Sandbox/User:Sylkhr/RecipeLearned"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Vectors-etc/BestInSlot",
+    "require": [
+      "Module:Array",
+      "Module:Paramtest",
+      "Module:Yesno"
+    ],
+    "page_name": "Module:Sandbox/User:Vectors-etc/BestInSlot"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Varied2350/ZurboMap",
+    "page_name": "Module:Sandbox/User:Varied2350/ZurboMap"
+  },
+  {
+    "page_name_sub": "Module:Infobox Music/Sandbox",
+    "require": [
+      "Module:Mainonly",
+      "Module:Paramtest",
+      "Module:Yesno"
+    ],
+    "page_name": "Module:Infobox Music/Sandbox"
+  },
+  {
+    "page_name_sub": "Module:SalvageAlchCalc",
+    "page_name": "Module:SalvageAlchCalc"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:DrBreakalot/CourierTaskLine",
+    "require": [
+      "Module:Map",
+      "Module:Paramtest"
+    ],
+    "page_name": "Module:Sandbox/User:DrBreakalot/CourierTaskLine"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Yungando/Module:Miscellania calculator extended",
+    "require": [
+      "Module:Coins",
+      "Module:Exchange",
+      "Module:Yesno"
+    ],
+    "page_name": "Module:Sandbox/User:Yungando/Module:Miscellania calculator extended"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Microbrews/Exchange values",
+    "require": [
+      "Module:DPLlua"
+    ],
+    "page_name": "Module:Sandbox/User:Microbrews/Exchange values"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:DrBreakalot/Uses material list",
+    "require": [
+      "Module:Addcommas",
+      "Module:Exchange",
+      "Module:SCP",
+      "Module:Yesno"
+    ],
+    "page_name": "Module:Sandbox/User:DrBreakalot/Uses material list"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Avultis/Alchemy brackets",
+    "require": [
+      "Module:Yesno"
+    ],
+    "page_name": "Module:Sandbox/User:Avultis/Alchemy brackets"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/Avultis/Alchemy brackets",
+    "require": [
+      "Module:Yesno"
+    ],
+    "page_name": "Module:Sandbox/Avultis/Alchemy brackets"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:ICandy",
+    "require": [
+      "Module:Chart data"
+    ],
+    "page_name": "Module:Sandbox/User:ICandy"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:ICandy/Barrows graphs",
+    "require": [
+      "Module:Chart data",
+      "Module:Rgba"
+    ],
+    "page_name": "Module:Sandbox/User:ICandy/Barrows graphs"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:IMath",
+    "require": [
+      "Module:Array"
+    ],
+    "page_name": "Module:Sandbox/User:IMath"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Willf95/Moons item repair calculator",
+    "require": [
+      "Module:Coins"
+    ],
+    "page_name": "Module:Sandbox/User:Willf95/Moons item repair calculator"
+  },
+  {
+    "page_name_sub": "Module:Moons item repair calculator",
+    "require": [
+      "Module:Coins"
+    ],
+    "page_name": "Module:Moons item repair calculator"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:HannahGBS/SkillTable",
+    "require": [
+      "Module:Paramtest",
+      "Module:SCP",
+      "Module:Yesno"
+    ],
+    "page_name": "Module:Sandbox/User:HannahGBS/SkillTable"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Jskorbit",
+    "require": [
+      "Module:Addcommas",
+      "Module:Coins",
+      "Module:Currencies",
+      "Module:Edit button",
+      "Module:Exchange",
+      "Module:Mainonly",
+      "Module:Paramtest",
+      "Module:SCP",
+      "Module:Yesno"
+    ],
+    "page_name": "Module:Sandbox/User:Jskorbit"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Jskorbit/RecipeTotal",
+    "require": [
+      "Module:Addcommas",
+      "Module:Coins",
+      "Module:Currencies",
+      "Module:Exchange"
+    ],
+    "page_name": "Module:Sandbox/User:Jskorbit/RecipeTotal"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Holy Old Man/bucket",
+    "require": [
+      "Module:Mw.html extension",
+      "Module:Yesno"
+    ],
+    "page_name": "Module:Sandbox/User:Holy Old Man/bucket"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Holy Old Man/Directional Caption",
+    "require": [
+      "Module:Mw.html extension"
+    ],
+    "page_name": "Module:Sandbox/User:Holy Old Man/Directional Caption"
+  },
+  {
+    "page_name_sub": "Module:Slottable/Sandbox",
+    "require": [
+      "Module:Array",
+      "Module:Edit button",
+      "Module:Mw.html extension",
+      "Module:Paramtest",
+      "Module:Yesno"
+    ],
+    "page_name": "Module:Slottable/Sandbox"
+  },
+  {
+    "page_name_sub": "Module:Chart data/shadow veil",
+    "require": [
+      "Module:Chart data"
+    ],
+    "page_name": "Module:Chart data/shadow veil"
+  },
+  {
+    "page_name_sub": "Module:Doom of Mokhaiotl Improved Completions",
+    "require": [
+      "Module:Exchange",
+      "Module:Less Stupid Coins",
+      "Module:Tables"
+    ],
+    "page_name": "Module:Doom of Mokhaiotl Improved Completions"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Ignus Teras/HunterRumorsPactLeague",
+    "require": [
+      "Module:SCP"
+    ],
+    "page_name": "Module:Sandbox/User:Ignus Teras/HunterRumorsPactLeague"
+  },
+  {
+    "page_name_sub": "Module:BountyTaskLine",
+    "require": [
+      "Module:Map"
+    ],
+    "page_name": "Module:BountyTaskLine"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Onyxsink/pvm/data",
+    "require": [
+      "Module:Exchange",
+      "Module:Paramtest"
+    ],
+    "page_name": "Module:Sandbox/User:Onyxsink/pvm/data"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Onyxsink/pvm",
+    "require": [
+      "Module:Coins",
+      "Module:Exchange",
+      "Module:Mw.html extension",
+      "Module:Paramtest",
+      "Module:Sandbox/User:Onyxsink/pvm/data"
+    ],
+    "page_name": "Module:Sandbox/User:Onyxsink/pvm"
+  },
+  {
+    "page_name_sub": "Module:BountyTaskList",
+    "require": [
+      "Module:BountyTaskLine",
+      "Module:Map",
+      "Module:SCP"
+    ],
+    "page_name": "Module:BountyTaskList"
+  },
+  {
+    "page_name_sub": "Module:CourierTaskLine",
+    "require": [
+      "Module:Map"
+    ],
+    "page_name": "Module:CourierTaskLine"
+  },
+  {
+    "page_name_sub": "Module:CourierTaskList",
+    "require": [
+      "Module:CourierTaskLine",
+      "Module:Map",
+      "Module:SCP"
+    ],
+    "page_name": "Module:CourierTaskList"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:SuqAtaLancer",
+    "require": [
+      "Module:Paramtest",
+      "Module:Slayer task library"
+    ],
+    "page_name": "Module:Sandbox/User:SuqAtaLancer"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Varied2350/Tile markers",
+    "require": [
+      "Module:Bit32",
+      "Module:Map"
+    ],
+    "page_name": "Module:Sandbox/User:Varied2350/Tile markers"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Mirrormere/Magic damage calculator",
+    "require": [
+      "Module:Magic damage calculator/data",
+      "Module:SCP",
+      "Module:Yesno"
+    ],
+    "page_name": "Module:Sandbox/User:Mirrormere/Magic damage calculator"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Varied2350/Tile markers button",
+    "require": [
+      "Module:Bit32",
+      "Module:Map"
+    ],
+    "page_name": "Module:Sandbox/User:Varied2350/Tile markers button"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Varied2350/Tile markers box",
+    "require": [
+      "Module:Sandbox/User:Varied2350/Tile markers button"
+    ],
+    "page_name": "Module:Sandbox/User:Varied2350/Tile markers box"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Varied2350/Mmgtable",
+    "require": [
+      "Module:Currency",
+      "Module:Exchange",
+      "Module:Mainonly",
+      "Module:Number",
+      "Module:PageListTools",
+      "Module:Yesno"
+    ],
+    "page_name": "Module:Sandbox/User:Varied2350/Mmgtable"
+  },
+  {
+    "page_name_sub": "Module:LocLineMaplink",
+    "require": [
+      "Module:Map",
+      "Module:Paramtest"
+    ],
+    "page_name": "Module:LocLineMaplink"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Keplare/LocLineMaplink",
+    "require": [
+      "Module:Map",
+      "Module:Paramtest"
+    ],
+    "page_name": "Module:Sandbox/User:Keplare/LocLineMaplink"
+  },
+  {
+    "page_name_sub": "Module:DemonicPactsQuestLine",
+    "require": [
+      "Module:Trailblazer Region"
+    ],
+    "page_name": "Module:DemonicPactsQuestLine"
+  },
+  {
+    "page_name_sub": "Module:Infobox Soundtrack",
+    "require": [
+      "Module:Mainonly"
+    ],
+    "page_name": "Module:Infobox Soundtrack"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Fire Goliath/MMGTest",
+    "require": [
+      "Module:Array",
+      "Module:Exchange",
+      "Module:PageListTools",
+      "Module:Time"
+    ],
+    "page_name": "Module:Sandbox/User:Fire Goliath/MMGTest"
+  },
+  {
+    "page_name_sub": "Module:Echo skill success xp chart",
+    "require": [
+      "Module:Addcommas",
+      "Module:Chart data",
+      "Module:Number"
+    ],
+    "page_name": "Module:Echo skill success xp chart"
+  },
+  {
+    "page_name_sub": "Module:Skill calc Gar onn1 Sandbox",
+    "require": [
+      "Module:Addcommas",
+      "Module:Coins",
+      "Module:Skill calc/Helpers"
+    ],
+    "page_name": "Module:Skill calc Gar onn1 Sandbox"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Microbrews/ChartTest",
+    "require": [
+      "Module:Chart data"
+    ],
+    "page_name": "Module:Sandbox/User:Microbrews/ChartTest"
+  },
+  {
+    "page_name_sub": "Module:User:Silkyboi/ToA Test",
+    "require": [
+      "Module:Exchange",
+      "Module:Less Stupid Coins",
+      "Module:Tables"
+    ],
+    "page_name": "Module:User:Silkyboi/ToA Test"
+  },
+  {
+    "page_name_sub": "Module:Demonic Pacts Tree",
+    "require": [
+      "strict"
+    ],
+    "page_name": "Module:Demonic Pacts Tree"
+  },
+  {
+    "page_name_sub": "Module:DPLTaskRow",
+    "page_name": "Module:DPLTaskRow"
+  },
+  {
+    "page_name_sub": "Module:Leagues Collection Log Table",
+    "require": [
+      "Module:Tables",
+      "Module:Trailblazer Region"
+    ],
+    "page_name": "Module:Leagues Collection Log Table"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Elaine/kilogramme",
+    "require": [
+      "Module:Paramtest",
+      "Module:Trailblazer Region",
+      "Module:Yesno"
+    ],
+    "page_name": "Module:Sandbox/User:Elaine/kilogramme"
+  },
+  {
+    "page_name_sub": "Module:Leagues Combat Achievements",
+    "require": [
+      "Module:Paramtest",
+      "Module:Trailblazer Region",
+      "Module:Yesno"
+    ],
+    "page_name": "Module:Leagues Combat Achievements"
+  },
+  {
+    "page_name_sub": "Module:DPLTaskCounts",
+    "require": [
+      "Module:Mw.html extension",
+      "strict"
+    ],
+    "page_name": "Module:DPLTaskCounts"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Elaine/BGALL",
+    "require": [
+      "Module:Addcommas",
+      "Module:Chart data",
+      "Module:Number"
+    ],
+    "page_name": "Module:Sandbox/User:Elaine/BGALL"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Holy Old Man/3",
+    "require": [
+      "Module:Mw.html extension"
+    ],
+    "page_name": "Module:Sandbox/User:Holy Old Man/3"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Varied2350/Collection Log",
+    "require": [
+      "Module:Tables"
+    ],
+    "page_name": "Module:Sandbox/User:Varied2350/Collection Log"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Varied2350/Collection log ui",
+    "require": [
+      "Module:Sandbox/User:Varied2350/Collection Log"
+    ],
+    "page_name": "Module:Sandbox/User:Varied2350/Collection log ui"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Varied2350/Recipe",
+    "require": [
+      "Module:Addcommas",
+      "Module:Coins",
+      "Module:Currencies",
+      "Module:Edit button",
+      "Module:Exchange",
+      "Module:Mainonly",
+      "Module:Paramtest",
+      "Module:SCP",
+      "Module:Yesno"
+    ],
+    "page_name": "Module:Sandbox/User:Varied2350/Recipe"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Holy Old Man/4",
+    "require": [
+      "Module:Mw.html extension"
+    ],
+    "page_name": "Module:Sandbox/User:Holy Old Man/4"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Pyrosaur/Tempoross",
+    "require": [
+      "Module:Chart data",
+      "Module:Rgba"
+    ],
+    "page_name": "Module:Sandbox/User:Pyrosaur/Tempoross"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Elaine/Forns",
+    "require": [
+      "Module:Array",
+      "Module:Edit button",
+      "Module:Mw.html extension",
+      "Module:Paramtest",
+      "Module:Trailblazer Region",
+      "Module:Yesno"
+    ],
+    "page_name": "Module:Sandbox/User:Elaine/Forns"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Sumone10154/User stats seasonal",
+    "require": [
+      "Module:Experience",
+      "Module:Hiscores",
+      "Module:Mw.html extension",
+      "Module:Paramtest",
+      "Module:SCP",
+      "Module:Yesno",
+      "strict"
+    ],
+    "page_name": "Module:Sandbox/User:Sumone10154/User stats seasonal"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/Sandbox/User:Spoiledduc/Calculator:Vale totems calculator",
+    "require": [
+      "Module:Addcommas",
+      "Module:Coins",
+      "Module:Exchange",
+      "Module:Experience",
+      "Module:Paramtest",
+      "Module:Tables"
+    ],
+    "page_name": "Module:Sandbox/Sandbox/User:Spoiledduc/Calculator:Vale totems calculator"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Alsang/RTS",
+    "require": [
+      "Module:Mw.html extension",
+      "Module:Paramtest",
+      "Module:Yesno",
+      "strict"
+    ],
+    "page_name": "Module:Sandbox/User:Alsang/RTS"
+  },
+  {
+    "page_name_sub": "Module:SkillingTertiaryDropLines",
+    "require": [
+      "Module:DropsLine",
+      "Module:Yesno"
+    ],
+    "page_name": "Module:SkillingTertiaryDropLines"
+  },
+  {
+    "page_name_sub": "Module:Theatre of Blood calculator/sandbox",
+    "require": [
+      "Module:Exchange"
+    ],
+    "page_name": "Module:Theatre of Blood calculator/sandbox"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Sudo/Doom of Mokhaiotl loot",
+    "require": [
+      "Module:Exchange",
+      "Module:Less Stupid Coins",
+      "Module:Tables"
+    ],
+    "page_name": "Module:Sandbox/User:Sudo/Doom of Mokhaiotl loot"
+  },
+  {
+    "page_name_sub": "Module:Chart data/toa unique weights",
+    "require": [
+      "Module:Chart data"
+    ],
+    "page_name": "Module:Chart data/toa unique weights"
+  },
+  {
+    "page_name_sub": "Module:User:Crocs/Collection log/Source",
+    "require": [
+      "Module:User:Crocs/Collection log/Manual"
+    ],
+    "page_name": "Module:User:Crocs/Collection log/Source"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Honorable/Buy limits",
+    "page_name": "Module:Sandbox/User:Honorable/Buy limits"
+  },
+  {
+    "page_name_sub": "Module:Infobox Bounty",
+    "require": [
+      "Module:Addcommas",
+      "Module:Infobox",
+      "Module:Mainonly"
+    ],
+    "page_name": "Module:Infobox Bounty"
+  },
+  {
+    "page_name_sub": "Module:Chart data/Twisted bow multiplier",
+    "require": [
+      "Module:Chart data"
+    ],
+    "page_name": "Module:Chart data/Twisted bow multiplier"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Akubi",
+    "require": [
+      "Module:Chart data",
+      "Module:Yesno"
+    ],
+    "page_name": "Module:Sandbox/User:Akubi"
+  },
+  {
+    "page_name_sub": "Module:Skilling success chart/dartboard",
+    "require": [
+      "Module:Chart data",
+      "Module:Skilling success chart"
+    ],
+    "page_name": "Module:Skilling success chart/dartboard"
+  },
+  {
+    "page_name_sub": "Module:Boundary map",
+    "page_name": "Module:Boundary map"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:ThaFrenchFry/Module:Infobox Weapon Special Attack",
+    "require": [
+      "Module:Clean image",
+      "Module:Infobox",
+      "Module:Mainonly",
+      "Module:Number",
+      "Module:SCP",
+      "Module:Yesno"
+    ],
+    "page_name": "Module:Sandbox/User:ThaFrenchFry/Module:Infobox Weapon Special Attack"
+  },
+  {
+    "page_name_sub": "Module:Sandbox/User:Pyrosaur/Energy",
+    "require": [
+      "Module:Chart data",
+      "Module:Rgba"
+    ],
+    "page_name": "Module:Sandbox/User:Pyrosaur/Energy"
+  }
+]

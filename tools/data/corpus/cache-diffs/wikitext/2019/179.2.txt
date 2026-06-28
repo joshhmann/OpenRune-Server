@@ -1,0 +1,148 @@
+{{ToC}}
+==Items==
+===New Items===
+{| class="wikitable sortable"
+!colspan='11'|New Items
+|-
+! style=width:15em | Name !! ID !! Members !! Tradeable in GE !! Equipable !! Stackable !! Noteable !! Options !! Placeholder !! Cost
+|-
+|-
+|}
+===Removed Items===
+{| class="wikitable sortable"
+!colspan='2'|Removed Items
+|-
+! style=width:15em | Name !! ID
+|-
+|-
+|}
+===Diff Items===
+{| class="wikitable sortable"
+!colspan='5'|Diff Items
+|-
+! style=width:15em | Name !! ID !! Key !! Previous Value !! New Value
+|-
+|rowspan="3"|[[Karamja gloves]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/item_id.html#1686 1686]
+|-
+| colorFind ||<span style = "background-color: #212611;color:white">13716</span>,<span style = "background-color: #23291e;color:white">16536</span>,<span style = "background-color: #48542f;color:white">14637</span>,<span style = "background-color: #566637;color:white">14645</span>,<span style = "background-color: #6d8244;color:white">14658</span>,<span style = "background-color: #5c6e3a;color:white">14649</span>||<span style = "background-color: #6d8244;color:white">14658</span>,<span style = "background-color: #5c6e3a;color:white">14649</span>,<span style = "background-color: #566637;color:white">14645</span>,<span style = "background-color: #48542f;color:white">14637</span>,<span style = "background-color: #23291e;color:white">16536</span>,<span style = "background-color: #212611;color:white">13716</span>
+|-
+| colorReplace ||<span style = "background-color: #1b2805;color:white">15120</span>,<span style = "background-color: #293611;color:white">14872</span>,<span style = "background-color: #2d3918;color:white">14748</span>,<span style = "background-color: #36441c;color:white">14753</span>,<span style = "background-color: #424e2c;color:white">14633</span>,<span style = "background-color: #3a4426;color:white">14629</span>||<span style = "background-color: #9b9987;color:white">10337</span>,<span style = "background-color: #8f8e79;color:white">10328</span>,<span style = "background-color: #868572;color:white">10324</span>,<span style = "background-color: #787768;color:white">10316</span>,<span style = "background-color: #6d6c5e;color:white">10308</span>,<span style = "background-color: #504f48;color:white">10291</span>
+|-
+|rowspan="4"|[[Salve amulet(ei)]]
+|rowspan="4"|[https://chisel.weirdgloop.org/moid/item_id.html#12018 12018]
+|-
+|inventoryModel || 4934 || 31956
+|-
+| colorFind ||<span style = "background-color: #482a08;color:white">5916</span>,<span style = "background-color: #58045c;color:white">-11359</span>||<span style = "background-color: #bc3361;color:white">-3504</span>
+|-
+| colorReplace ||<span style = "background-color: #c6b7b7;color:white">127</span>,<span style = "background-color: #bc3361;color:white">-3504</span>||<span style = "background-color: #0543b7;color:white">-25664</span>
+|-
+|rowspan="6"|[[Torn clue scroll (part 2)]]
+|rowspan="6"|[https://chisel.weirdgloop.org/moid/item_id.html#19838 19838]
+|-
+|xan2d || 360 || 501
+|-
+| yan2d || 672 || 762
+|-
+| zoom2d || 1010 || 842
+|-
+| xOffset2d || 0 || -3
+|-
+| yOffset2d || 3 || 9
+|-
+|rowspan="7"|[[Torn clue scroll (part 3)]]
+|rowspan="7"|[https://chisel.weirdgloop.org/moid/item_id.html#19839 19839]
+|-
+|xan2d || 360 || 450
+|-
+| yan2d || 175 || 238
+|-
+| inventoryModel || 31956 || 31958
+|-
+| zoom2d || 589 || 720
+|-
+| xOffset2d || 3 || 4
+|-
+| yOffset2d || 4 || 0
+|-
+|rowspan="3"|[[Climbing boots (g)]]
+|rowspan="3"|[https://chisel.weirdgloop.org/moid/item_id.html#23413 23413]
+|-
+| colorFind ||<span style = "background-color: #26170c;color:white">4626</span>||<span style = "background-color: #26170c;color:white">4626</span>,<span style = "background-color: #b79905;color:white">9152</span>
+|-
+| colorReplace ||<span style = "background-color: #2a2727;color:white">28</span>||<span style = "background-color: #2a2727;color:white">28</span>,<span style = "background-color: #d58c05;color:white">7114</span>
+|-
+|}
+
+==Non-Player Characters==
+===New NPCs===
+{| class="wikitable sortable"
+!colspan='4'|New NPCs
+|-
+! style=width:15em | Name !! ID !! Combat Level !! Options
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/npc_id.html#8695 8695] || 1 || None
+|-
+| [[Mosol Rei]] || [https://chisel.weirdgloop.org/moid/npc_id.html#8696 8696] || No Combat Level || Follow, Talk-to
+|-
+|-
+|}
+===Removed NPCs===
+{| class="wikitable sortable"
+!colspan='2'|Removed NPCs
+|-
+! style=width:15em | Name !! ID
+|-
+|-
+|}
+===Diff NPCs===
+{| class="wikitable sortable"
+!colspan='5'|Diff NPCs
+|-
+! style=width:15em | Name !! ID !! Key !! Previous Value !! New Value
+|-
+|rowspan="6"|[[Mosol Rei]]
+|rowspan="6"|[https://chisel.weirdgloop.org/moid/npc_id.html#5340 5340]
+|-
+|standingAnimation || 813 || -1
+|-
+| walkingAnimation || 819 || -1
+|-
+| rotate180Animation || 820 || -1
+|-
+| rotate90RightAnimation || 821 || -1
+|-
+| rotate90LeftAnimation || 822 || -1
+|-
+|}
+
+==Objects==
+===New Objects=== 
+{| class="wikitable sortable"
+!colspan='3'|New Objects
+|-
+! style=width:15em | Name !! ID !! Options
+|-
+|-
+|}
+===Removed Objects===
+{| class="wikitable sortable"
+!colspan='2'|Removed Objects
+|-
+! style=width:15em | Name !! ID
+|-
+|-
+|}
+===Diff Objects===
+{| class="wikitable sortable"
+!colspan='5'|Diff Objects
+|-
+! style=width:15em | Name !! ID !! Key !! Previous Value !! New Value
+|-
+|rowspan="2"|[[Space]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#30552 30552]
+|-
+|actions || [None, None, None, None, None] || ['Build', None, None, None, None]
+|-
+|}

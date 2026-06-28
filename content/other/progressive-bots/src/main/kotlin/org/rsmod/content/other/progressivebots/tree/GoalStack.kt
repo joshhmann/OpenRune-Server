@@ -8,11 +8,11 @@ class GoalStack {
     var playerListContext: org.rsmod.game.entity.PlayerList? = null
     var destinationX: Int? = null
     var destinationZ: Int? = null
-    
+
     fun setTree(tree: BehaviorNode) {
         activeTree = tree
     }
-    
+
     fun clear() {
         activeTree = null
     }
@@ -21,7 +21,7 @@ class GoalStack {
 
     fun tick(player: Player, state: BotState) {
         val tree = activeTree ?: return
-        
+
         val status = tree.execute(player, state)
         if (status == NodeStatus.SUCCESS || status == NodeStatus.FAILURE) {
             // Goal completed or failed, clear the stack

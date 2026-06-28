@@ -63,11 +63,12 @@ public object PlayerPoison {
         if (hasWornPoisonEnvenomImmunity(player)) {
             return false
         }
-        val storedSeverity = when {
-            paramSeverity > 0 -> paramSeverity
-            initialDamage > 0 -> severityForInitialDamage(initialDamage)
-            else -> 0
-        }
+        val storedSeverity =
+            when {
+                paramSeverity > 0 -> paramSeverity
+                initialDamage > 0 -> severityForInitialDamage(initialDamage)
+                else -> 0
+            }
         if (storedSeverity <= 0) return false
 
         val incomingDamage = damageForSeverity(storedSeverity)
@@ -79,7 +80,8 @@ public object PlayerPoison {
         }
 
         VarPlayerIntMapSetter.set(player, "varp.poison_severity", storedSeverity)
-        val firstHitDamage = if (initialDamage > 0) initialDamage else damageForSeverity(storedSeverity)
+        val firstHitDamage =
+            if (initialDamage > 0) initialDamage else damageForSeverity(storedSeverity)
         queuePoisonHit(player, firstHitDamage)
 
         val severity = storedSeverity - 1

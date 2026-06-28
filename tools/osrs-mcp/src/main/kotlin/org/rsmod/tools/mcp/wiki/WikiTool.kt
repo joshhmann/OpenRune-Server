@@ -11,18 +11,20 @@ class WikiTool(
     private val gameValsLock = Any()
 
     private fun gameVals(): GameValTool {
-        gameValsTool?.let { return it }
+        gameValsTool?.let {
+            return it
+        }
         synchronized(gameValsLock) {
-            gameValsTool?.let { return it }
+            gameValsTool?.let {
+                return it
+            }
             return gameValToolProvider().also { gameValsTool = it }
         }
     }
 
     fun reloadGamevalsFromDisk(): String {
         val fresh = gameValToolProvider()
-        synchronized(gameValsLock) {
-            gameValsTool = fresh
-        }
+        synchronized(gameValsLock) { gameValsTool = fresh }
         return "Reloaded gamevals from disk (${fresh.totalMappingEntries()} mapping rows). " +
             "Use after editing .rscm, content gamevals.toml, or binary dats; no OpenRune cache build required for those files."
     }
@@ -58,25 +60,27 @@ class WikiTool(
         }
 
         return buildString {
-            appendLine("Found ${hits.size} results for '$query':")
-            hits.forEachIndexed { index, hit ->
-                appendLine("${index + 1}. ${hit.title}")
-                appendLine("   URL: ${wiki.wikiUrlForTitle(hit.title)}")
-                if (hit.snippet.isNotBlank()) {
-                    appendLine("   Snippet: ${hit.snippet}")
+                appendLine("Found ${hits.size} results for '$query':")
+                hits.forEachIndexed { index, hit ->
+                    appendLine("${index + 1}. ${hit.title}")
+                    appendLine("   URL: ${wiki.wikiUrlForTitle(hit.title)}")
+                    if (hit.snippet.isNotBlank()) {
+                        appendLine("   Snippet: ${hit.snippet}")
+                    }
                 }
             }
-        }.trimEnd()
+            .trimEnd()
     }
 
     suspend fun wikiPage(title: String, maxChars: Int): String {
         val page = wiki.page(title, maxChars)
         return buildString {
-            appendLine("Title: ${page.title}")
-            appendLine("URL: ${page.url}")
-            appendLine()
-            append(page.text)
-        }.trimEnd()
+                appendLine("Title: ${page.title}")
+                appendLine("URL: ${page.url}")
+                appendLine()
+                append(page.text)
+            }
+            .trimEnd()
     }
 
     suspend fun wikiNpcSpawns(title: String, npcName: String?, location: String?): String {
@@ -85,12 +89,13 @@ class WikiTool(
         val allEntries = parseLocEntries(source)
         if (allEntries.isEmpty()) {
             return buildString {
-                append("No {{LocLine}} entries found on '$title'.")
-                if (infoboxSection.isNotBlank()) {
-                    appendLine()
-                    append(infoboxSection)
+                    append("No {{LocLine}} entries found on '$title'.")
+                    if (infoboxSection.isNotBlank()) {
+                        appendLine()
+                        append(infoboxSection)
+                    }
                 }
-            }.trimEnd()
+                .trimEnd()
         }
 
         val byNpc =
@@ -109,36 +114,38 @@ class WikiTool(
 
         if (filtered.isEmpty()) {
             return buildString {
-                append("No spawn entries matched")
-                if (!npcName.isNullOrBlank()) append(" npc='$npcName'")
-                if (!location.isNullOrBlank()) append(" location='$location'")
-                append(" on '$title'.")
+                    append("No spawn entries matched")
+                    if (!npcName.isNullOrBlank()) append(" npc='$npcName'")
+                    if (!location.isNullOrBlank()) append(" location='$location'")
+                    append(" on '$title'.")
+                    if (infoboxSection.isNotBlank()) {
+                        appendLine()
+                        append(infoboxSection)
+                    }
+                }
+                .trimEnd()
+        }
+
+        return buildString {
+                appendLine("Found ${filtered.size} spawn entries on '$title':")
+                filtered.forEachIndexed { index, entry ->
+                    appendLine("${index + 1}. ${entry.name}")
+                    appendLine("   Location: ${entry.location}")
+                    entry.levels?.let { appendLine("   Levels: $it") }
+                    entry.members?.let { appendLine("   Members: $it") }
+                    entry.mapId?.let { appendLine("   Map ID: $it") }
+                    entry.plane?.let { appendLine("   Plane: $it") }
+                    appendLine("   Spawn count: ${entry.coords.size}")
+                    appendLine(
+                        "   Coordinates: ${entry.coords.joinToString("|") { "x:${it.x},y:${it.y}" }}"
+                    )
+                }
                 if (infoboxSection.isNotBlank()) {
                     appendLine()
                     append(infoboxSection)
                 }
-            }.trimEnd()
-        }
-
-        return buildString {
-            appendLine("Found ${filtered.size} spawn entries on '$title':")
-            filtered.forEachIndexed { index, entry ->
-                appendLine("${index + 1}. ${entry.name}")
-                appendLine("   Location: ${entry.location}")
-                entry.levels?.let { appendLine("   Levels: $it") }
-                entry.members?.let { appendLine("   Members: $it") }
-                entry.mapId?.let { appendLine("   Map ID: $it") }
-                entry.plane?.let { appendLine("   Plane: $it") }
-                appendLine("   Spawn count: ${entry.coords.size}")
-                appendLine(
-                    "   Coordinates: ${entry.coords.joinToString("|") { "x:${it.x},y:${it.y}" }}",
-                )
             }
-            if (infoboxSection.isNotBlank()) {
-                appendLine()
-                append(infoboxSection)
-            }
-        }.trimEnd()
+            .trimEnd()
     }
 
     private fun formatInfoboxNpcIdsResolved(source: String): String {
@@ -147,25 +154,28 @@ class WikiTool(
             return ""
         }
         return buildString {
-            appendLine("== Infobox NPC IDs (resolved via loaded gamevals) ==")
-            for (line in lines) {
-                appendLine("${line.label}:")
-                for (id in line.npcIds) {
-                    val keys = gameVals().reverseLookupNpc(id)
-                    if (keys.isEmpty()) {
-                        appendLine("  - id $id -> (no npc.* mapping in loaded gamevals)")
-                    } else {
-                        appendLine("  - id $id -> ${keys.joinToString(" | ")}")
+                appendLine("== Infobox NPC IDs (resolved via loaded gamevals) ==")
+                for (line in lines) {
+                    appendLine("${line.label}:")
+                    for (id in line.npcIds) {
+                        val keys = gameVals().reverseLookupNpc(id)
+                        if (keys.isEmpty()) {
+                            appendLine("  - id $id -> (no npc.* mapping in loaded gamevals)")
+                        } else {
+                            appendLine("  - id $id -> ${keys.joinToString(" | ")}")
+                        }
                     }
                 }
             }
-        }.trimEnd()
+            .trimEnd()
     }
 
     fun gamevalSearch(query: String?, table: String?, id: Int?, limit: Int): String {
         val normalizedQuery = query?.trim().orEmpty().ifBlank { null }
         val normalizedTable = table?.trim().orEmpty().ifBlank { null }
-        val result = gameVals().search(query = normalizedQuery, table = normalizedTable, id = id, limit = limit)
+        val result =
+            gameVals()
+                .search(query = normalizedQuery, table = normalizedTable, id = id, limit = limit)
         if (result.totalMatches == 0) {
             return buildString {
                 append("No gameval entries matched")
@@ -187,24 +197,38 @@ class WikiTool(
         }
 
         return buildString {
-            appendLine(
-                "Found ${result.totalMatches} gameval matches; showing ${result.matches.size}.",
-            )
-            result.matches.forEachIndexed { index, match ->
-                appendLine("${index + 1}. ${match.fullKey} = ${match.id} (${match.source})")
+                appendLine(
+                    "Found ${result.totalMatches} gameval matches; showing ${result.matches.size}."
+                )
+                result.matches.forEachIndexed { index, match ->
+                    appendLine("${index + 1}. ${match.fullKey} = ${match.id} (${match.source})")
+                }
+                if (result.truncated) {
+                    appendLine("Results truncated. Increase 'limit' to see more.")
+                }
+                append(
+                    "If you want one specific entry, rerun with an exact key (for example query=\"${result.matches.first().fullKey}\") or with id=<number>."
+                )
             }
-            if (result.truncated) {
-                appendLine("Results truncated. Increase 'limit' to see more.")
-            }
-            append(
-                "If you want one specific entry, rerun with an exact key (for example query=\"${result.matches.first().fullKey}\") or with id=<number>.",
-            )
-        }.trimEnd()
+            .trimEnd()
     }
 
-    fun cacheSearch(cache: CacheKind, type: CacheSearchType, query: String?, id: Int?, limit: Int): String {
+    fun cacheSearch(
+        cache: CacheKind,
+        type: CacheSearchType,
+        query: String?,
+        id: Int?,
+        limit: Int,
+    ): String {
         val normalizedQuery = query?.trim().orEmpty().ifBlank { null }
-        val result = cacheTool.search(cacheKind = cache, type = type, query = normalizedQuery, id = id, limit = limit)
+        val result =
+            cacheTool.search(
+                cacheKind = cache,
+                type = type,
+                query = normalizedQuery,
+                id = id,
+                limit = limit,
+            )
         if (result.totalMatches == 0) {
             return buildString {
                 append("No cache entries matched")
@@ -217,33 +241,39 @@ class WikiTool(
         }
 
         return buildString {
-            appendLine("Cache: ${result.cache.name}")
-            appendLine("Found ${result.totalMatches} cache matches; showing ${result.matches.size}.")
-            result.matches.forEachIndexed { index, hit ->
-                appendLine("${index + 1}. [${hit.type}] ${hit.id} - ${hit.name}")
-                appendLine("   ${hit.summary}")
-                val data = if (hit.data.length <= DATA_TRUNCATE_CHARS) {
-                    hit.data
-                } else {
-                    hit.data.take(DATA_TRUNCATE_CHARS) + "... (truncated; search by id for full data)"
+                appendLine("Cache: ${result.cache.name}")
+                appendLine(
+                    "Found ${result.totalMatches} cache matches; showing ${result.matches.size}."
+                )
+                result.matches.forEachIndexed { index, hit ->
+                    appendLine("${index + 1}. [${hit.type}] ${hit.id} - ${hit.name}")
+                    appendLine("   ${hit.summary}")
+                    val data =
+                        if (hit.data.length <= DATA_TRUNCATE_CHARS) {
+                            hit.data
+                        } else {
+                            hit.data.take(DATA_TRUNCATE_CHARS) +
+                                "... (truncated; search by id for full data)"
+                        }
+                    appendLine("   data: $data")
                 }
-                appendLine("   data: $data")
+                if (result.truncated) {
+                    appendLine("Results truncated. Increase 'limit' to see more.")
+                }
+                if (normalizedQuery != null || id != null) {
+                    append("Rerun with narrower filters for a smaller result set.")
+                }
             }
-            if (result.truncated) {
-                appendLine("Results truncated. Increase 'limit' to see more.")
-            }
-            if (normalizedQuery != null || id != null) {
-                append("Rerun with narrower filters for a smaller result set.")
-            }
-        }.trimEnd()
+            .trimEnd()
     }
 
     private fun parseLocEntries(source: String): List<LocEntry> {
-        val blockRegex = Regex("\\{\\{LocLine\\b(.*?)\\}\\}", setOf(RegexOption.DOT_MATCHES_ALL, RegexOption.IGNORE_CASE))
-        return blockRegex
-            .findAll(source)
-            .mapNotNull { parseLocEntry(it.groupValues[1]) }
-            .toList()
+        val blockRegex =
+            Regex(
+                "\\{\\{LocLine\\b(.*?)\\}\\}",
+                setOf(RegexOption.DOT_MATCHES_ALL, RegexOption.IGNORE_CASE),
+            )
+        return blockRegex.findAll(source).mapNotNull { parseLocEntry(it.groupValues[1]) }.toList()
     }
 
     private fun parseLocEntry(block: String): LocEntry? {
@@ -272,7 +302,8 @@ class WikiTool(
     }
 
     private fun readField(block: String, key: String): String? {
-        val regex = Regex("\\|\\s*${Regex.escape(key)}\\s*=\\s*([^\\n\\r]*)", RegexOption.IGNORE_CASE)
+        val regex =
+            Regex("\\|\\s*${Regex.escape(key)}\\s*=\\s*([^\\n\\r]*)", RegexOption.IGNORE_CASE)
         val value = regex.find(block)?.groupValues?.getOrNull(1)?.trim().orEmpty()
         return value.takeIf { it.isNotBlank() }
     }

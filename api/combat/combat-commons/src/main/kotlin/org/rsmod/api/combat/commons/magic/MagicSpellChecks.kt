@@ -19,11 +19,7 @@ public object MagicSpellChecks {
         )
 
     public fun isDemonbaneSpell(spell: ItemServerType): Boolean =
-        spell.isAnyType(
-            "obj.br_mithril_scimitar",
-            "obj.br_willow_bow",
-            "obj.br_adamant_scimitar",
-        )
+        spell.isAnyType("obj.br_mithril_scimitar", "obj.br_willow_bow", "obj.br_adamant_scimitar")
 
     public fun isBindSpell(spell: ItemServerType): Boolean =
         spell.isAnyType("obj.20_bind", "obj.50_snare", "obj.79_entangle")

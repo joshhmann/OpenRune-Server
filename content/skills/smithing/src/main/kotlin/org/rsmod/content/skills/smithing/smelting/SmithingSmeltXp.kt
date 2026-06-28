@@ -19,12 +19,13 @@ object SmithingSmeltXp {
         regularFurnace: Boolean = true,
     ): Double {
         val alternate = bar.smithxpalternate
-        val baseXp = when {
-            alternate == null -> bar.xp
-            bar.output.internalName == BLURITE_BAR && isSuperHeat -> alternate
-            bar.output.internalName == GOLD_BAR && player.hasGoldsmithSmeltBonus() -> alternate
-            else -> bar.xp
-        }
+        val baseXp =
+            when {
+                alternate == null -> bar.xp
+                bar.output.internalName == BLURITE_BAR && isSuperHeat -> alternate
+                bar.output.internalName == GOLD_BAR && player.hasGoldsmithSmeltBonus() -> alternate
+                else -> bar.xp
+            }
 
         var xp = baseXp.toDouble() * xpMods.get(player, "stat.smithing")
 

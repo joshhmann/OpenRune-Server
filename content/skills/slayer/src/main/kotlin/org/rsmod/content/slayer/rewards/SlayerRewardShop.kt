@@ -62,16 +62,21 @@ internal object SlayerRewardShop {
         SlayerRewardsPoints.syncPoints(access)
     }
 
-    private fun checkBuyRequirements(access: ProtectedAccess, type: ItemServerType, index: Int): Boolean {
+    private fun checkBuyRequirements(
+        access: ProtectedAccess,
+        type: ItemServerType,
+        index: Int,
+    ): Boolean {
         when (index) {
-            1, 2 -> {
+            1,
+            2 -> {
                 val slayer = access.statBase("stat.slayer")
                 val ranged = access.statBase("stat.ranged")
                 val requiredRanged = if (index == 1) 61 else 50
                 if (slayer < 55 || ranged < requiredRanged) {
                     access.mes(
                         "You need a Slayer and a Ranged level of at least 55 and $requiredRanged " +
-                            "respectively to purchase ${type.name.lowercase()}.",
+                            "respectively to purchase ${type.name.lowercase()}."
                     )
                     return false
                 }

@@ -19,7 +19,8 @@ class AmuletOfChemistryScript : PluginScript() {
     }
 
     private suspend fun ProtectedAccess.openOptions(slot: Int) {
-        inv[slot]?.takeIf { amulet -> AmuletOfChemistry.AMULET_TYPES.any { amulet.isType(it) } } ?: return
+        inv[slot]?.takeIf { amulet -> AmuletOfChemistry.AMULET_TYPES.any { amulet.isType(it) } }
+            ?: return
         showOptionsMenu()
     }
 
@@ -33,13 +34,14 @@ class AmuletOfChemistryScript : PluginScript() {
     private suspend fun ProtectedAccess.showOptionsMenu() {
         val stop = player.shouldStopBrewingOnChemistryCrumble()
         val charges = player.chemistryChargeCount()
-        val stopOnCrumble = choice2(
-            choice1 = "Continue making potions when the amulet crumbles.",
-            result1 = false,
-            choice2 = "Stop making potions when the amulet crumbles.",
-            result2 = true,
-            title = "Amulet of chemistry ($charges charges)"
-        )
+        val stopOnCrumble =
+            choice2(
+                choice1 = "Continue making potions when the amulet crumbles.",
+                result1 = false,
+                choice2 = "Stop making potions when the amulet crumbles.",
+                result2 = true,
+                title = "Amulet of chemistry ($charges charges)",
+            )
         if (stopOnCrumble) {
             player.chemistryStopOnCrumble = true
             if (!stop) {
@@ -54,14 +56,17 @@ class AmuletOfChemistryScript : PluginScript() {
     }
 
     private suspend fun ProtectedAccess.breakAmulet(slot: Int) {
-        val amulet = inv[slot]?.takeIf { item -> AmuletOfChemistry.AMULET_TYPES.any { item.isType(it) } } ?: return
-        val confirmed = choice2(
-            choice1 = "Break the amulet of chemistry?",
-            result1 = true,
-            choice2 = "Cancel.",
-            result2 = false,
-            title = "This will destroy the amulet."
-        )
+        val amulet =
+            inv[slot]?.takeIf { item -> AmuletOfChemistry.AMULET_TYPES.any { item.isType(it) } }
+                ?: return
+        val confirmed =
+            choice2(
+                choice1 = "Break the amulet of chemistry?",
+                result1 = true,
+                choice2 = "Cancel.",
+                result2 = false,
+                title = "This will destroy the amulet.",
+            )
         if (!confirmed) {
             return
         }

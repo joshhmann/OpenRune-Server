@@ -10,10 +10,8 @@ import org.rsmod.server.services.Service
 @OptIn(ExperimentalUnsignedTypes::class, ExperimentalStdlibApi::class)
 class RspService
 @Inject
-constructor(
-    private val service: NetworkService<Player>,
-    private val config: ServerConfig,
-) : Service {
+constructor(private val service: NetworkService<Player>, private val config: ServerConfig) :
+    Service {
     private val logger = InlineLogger()
 
     override suspend fun startup() {

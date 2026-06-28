@@ -1,0 +1,273 @@
+{{ToC}}
+==Items==
+===New Items===
+{| class="wikitable sortable"
+!colspan='11'|New Items
+|-
+! style=width:15em | Name !! ID !! Members !! Tradeable in GE !! Equipable !! Stackable !! Noteable !! Options !! Placeholder !! Cost !! Weight
+|-
+| [[Beehive (style 2)]] || [https://chisel.weirdgloop.org/moid/item_id.html#28677 28677] || Yes || No || No || No || No || Drop || No || 1
+|| 0
+|-
+| [[Beehive (style 1)]] || [https://chisel.weirdgloop.org/moid/item_id.html#28676 28676] || Yes || No || No || No || No || Drop || No || 1
+|| 0
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#28675 28675] || No || No || No || No || No || Drop || Yes || 1
+|| 0
+|-
+| [[Sturdy beehive parts]] || [https://chisel.weirdgloop.org/moid/item_id.html#28674 28674] || Yes || No || No || Yes || No || Drop || Yes || 5000
+|| 0
+|-
+| [[Fancier boots]] || [https://chisel.weirdgloop.org/moid/item_id.html#28672 28672] || No || No || Yes || No || No || Wear, Drop || Yes || 1
+|| 10
+|-
+| [[null]] || [https://chisel.weirdgloop.org/moid/item_id.html#28673 28673] || No || No || No || No || No || Drop || Yes || 1
+|| 0
+|-
+|-
+|}
+===Removed Items===
+{| class="wikitable sortable"
+!colspan='2'|Removed Items
+|-
+! style=width:15em | Name !! ID
+|-
+|-
+|}
+===Diff Items===
+{| class="wikitable sortable"
+!colspan='5'|Diff Items
+|-
+! style=width:15em | Name !! ID !! Key !! Previous Value !! New Value
+|-
+|rowspan="2"|[[Leaves]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#6020 6020]
+|-
+|params || {'1784': 'A pile of leaves often collected while farming fruit trees.<br><br>Used by farmers for creating compost, herbalists for brewing teas and foresters for purchasing and crafting various useful items.'} || {'1784': "A pile of leaves often collected while farming fruit trees.<br><br>Used for creating compost and crafting Forester's rations."}
+|-
+|rowspan="2"|[[Oak leaves]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#6022 6022]
+|-
+|params || {'1784': 'A pile of oak tree leaves collected while cutting and farming oak trees.<br><br>Used by farmers for creating compost, herbalists for brewing teas and foresters for purchasing and crafting various useful items.'} || {'1784': "A pile of oak tree leaves collected while cutting and farming oak trees.<br><br>Used for creating compost and crafting Forester's rations."}
+|-
+|rowspan="2"|[[Willow leaves]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#6024 6024]
+|-
+|params || {'1784': 'A pile of willow tree leaves collected while cutting and farming willow trees.<br><br>Used by farmers for creating compost, herbalists for brewing teas and foresters for purchasing and crafting various useful items.'} || {'1784': "A pile of willow tree leaves collected while cutting and farming willow trees.<br><br>Used for creating compost and crafting Forester's rations."}
+|-
+|rowspan="2"|[[Yew leaves]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#6026 6026]
+|-
+|params || {'1784': 'A pile of yew tree leaves collected while cutting and farming yew trees.<br><br>Used by farmers for creating compost, herbalists for brewing teas and foresters for purchasing and crafting various useful items.'} || {'1784': "A pile of yew tree leaves collected while cutting and farming yew trees.<br><br>Used for creating compost and crafting Forester's rations."}
+|-
+|rowspan="2"|[[Maple leaves]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#6028 6028]
+|-
+|params || {'1784': 'A pile of maple tree leaves collected while cutting and farming maple trees.<br><br>Used by farmers for creating compost, herbalists for brewing teas and foresters for purchasing and crafting various useful items.'} || {'1784': "A pile of maple tree leaves collected while cutting and farming maple trees.<br><br>Used for creating compost and crafting Forester's rations."}
+|-
+|rowspan="2"|[[Magic leaves]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#6030 6030]
+|-
+|params || {'1784': 'A pile of magic tree leaves collected while cutting and farming magic trees.<br><br>Used by farmers for creating compost, herbalists for brewing teas and foresters for purchasing and crafting various useful items.'} || {'1784': "A pile of magic tree leaves collected while cutting and farming magic trees.<br><br>Used for creating compost and crafting Forester's rations."}
+|-
+|rowspan="2"|[[Fancy boots]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#9005 9005]
+|-
+|interfaceOptions || [None, 'Wear', None, None, 'Destroy'] || [None, 'Wear', None, None, 'Drop']
+|-
+|rowspan="2"|[[Fighting boots]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#9006 9006]
+|-
+|interfaceOptions || [None, 'Wear', None, None, 'Destroy'] || [None, 'Wear', None, None, 'Drop']
+|-
+|rowspan="2"|[[Twitcher's gloves]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#28630 28630]
+|-
+|params || {'1784': "These gloves allow the wearer to nimbly dislodge birds' nests, giving them a greater chance of receiving their desired type of nest.", '451': 'Settings'} || {'1784': "These disposable gloves allow the wearer to nimbly dislodge birds' nests, giving them a greater chance of receiving their desired type of nest.<br><br>Sold in stacks of 250, one pair is used each successful chop.", '451': 'Settings'}
+|-
+|rowspan="2"|[[Egg cushion]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/item_id.html#28659 28659]
+|-
+|params || {'1784': 'This tiny cushion is used in creating a Padded spoon, which helps carry pheasant eggs. You will also need:<br><br>Some Limestone<br>A Chisel<br><br>35 Mining<br>25 Woodcutting<br><br>Makes 10'} || {'1784': 'This tiny cushion is used in creating a Padded spoon, which helps carry pheasant eggs. You will also need:<br><br>Some Limestone<br>A Chisel<br><br>35 Crafting<br>25 Woodcutting<br><br>Makes 10'}
+|-
+|}
+
+==Non-Player Characters==
+===New NPCs===
+{| class="wikitable sortable"
+!colspan='4'|New NPCs
+|-
+! style=width:15em | Name !! ID !! Combat Level !! Options
+|-
+| [[Poacher]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12554 12554] || No Combat Level || 
+|-
+| [[Poacher]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12558 12558] || No Combat Level || 
+|-
+| [[Frightened Fox]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12560 12560] || No Combat Level || 
+|-
+| [[Frightened Fox]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12559 12559] || No Combat Level || 
+|-
+| [[Count Check]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12552 12552] || No Combat Level || Talk-to, Dismiss
+|-
+| [[Poacher]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12553 12553] || No Combat Level || 
+|-
+| [[Count Check]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12551 12551] || No Combat Level || Talk-to, Dismiss
+|-
+| [[Poacher]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12556 12556] || No Combat Level || 
+|-
+| [[Poacher]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12555 12555] || No Combat Level || 
+|-
+| [[Poacher]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12557 12557] || No Combat Level || 
+|-
+|-
+|}
+===Removed NPCs===
+{| class="wikitable sortable"
+!colspan='2'|Removed NPCs
+|-
+! style=width:15em | Name !! ID
+|-
+| [[Poacher]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12539 12539]
+|-
+| [[Poacher]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12540 12540]
+|-
+| [[Poacher]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12538 12538]
+|-
+| [[Frightened Fox]] || [https://chisel.weirdgloop.org/moid/npc_id.html#12542 12542]
+|-
+|-
+|}
+===Diff NPCs===
+{| class="wikitable sortable"
+!colspan='5'|Diff NPCs
+|-
+! style=width:15em | Name !! ID !! Key !! Previous Value !! New Value
+|-
+|rowspan="5"|[[Guard]]
+|rowspan="5"|[https://chisel.weirdgloop.org/moid/npc_id.html#1551 1551]
+|-
+|walkingAnimation || 819 || 2700
+|-
+| rotateLeftAnimation || 821 || -1
+|-
+| rotateRightAnimation || 822 || -1
+|-
+| rotationSpeed || 0 || 32
+|-
+|rowspan="9"|[[Security Guard]]
+|rowspan="9"|[https://chisel.weirdgloop.org/moid/npc_id.html#5442 5442]
+|-
+|models || [11737, 10302, 10304, 296, 169, 179, 3329, 4954] || [11737, 10302, 10304, 296, 169, 179, 3329, 4954, 12809]
+|-
+| standingAnimation || 808 || 4075
+|-
+| walkingAnimation || 819 || 4075
+|-
+| rotateLeftAnimation || 821 || -1
+|-
+| rotateRightAnimation || 822 || -1
+|-
+| category || 0 || 922
+|-
+| recolorToFind ||<span style = "background-color: #0b3618;color:white">25238</span>,<span style = "background-color: #615656;color:white">61</span>,<span style = "background-color: #1d1206;color:white">5772</span>,<span style = "background-color: #221d0b;color:white">8720</span>,<span style = "background-color: #312d06;color:white">10004</span>,<span style = "background-color: #210401;color:white">908</span>||<span style = "background-color: #0b3618;color:white">25238</span>,<span style = "background-color: #615656;color:white">61</span>,<span style = "background-color: #765422;color:white">6707</span>,<span style = "background-color: #221d0b;color:white">8720</span>,<span style = "background-color: #312d06;color:white">10004</span>,<span style = "background-color: #210401;color:white">908</span>
+|-
+| recolorToReplace ||<span style = "background-color: #0a0a0a;color:white">8</span>,<span style = "background-color: #0a0a0a;color:white">8</span>,<span style = "background-color: #0a0a0a;color:white">8</span>,<span style = "background-color: #0a0a0a;color:white">8</span>,<span style = "background-color: #0a0a0a;color:white">8</span>,<span style = "background-color: #0a0a0a;color:white">8</span>||<span style = "background-color: #0a0a0a;color:white">8</span>,<span style = "background-color: #0a0a0a;color:white">8</span>,<span style = "background-color: #211901;color:white">8076</span>,<span style = "background-color: #0a0a0a;color:white">8</span>,<span style = "background-color: #0a0a0a;color:white">8</span>,<span style = "background-color: #0a0a0a;color:white">8</span>
+|-
+|rowspan="17"|[[Agitated bees]]
+|rowspan="17"|[https://chisel.weirdgloop.org/moid/npc_id.html#9504 9504]
+|-
+|name || [[Account security tutor]] || [[Agitated bees]]
+|-
+| models || [11737, 10302, 10304, 296, 169, 179, 3329, 4954] || [48264]
+|-
+| standingAnimation || 808 || 8084
+|-
+| walkingAnimation || 819 || 8084
+|-
+| rotateLeftAnimation || 821 || -1
+|-
+| rotateRightAnimation || 822 || -1
+|-
+| actions || ['Talk-to', None, None, None, None] || [None, None, None, None, None]
+|-
+| isMinimapVisible || True || False
+|-
+| widthScale || 128 || 64
+|-
+| heightScale || 128 || 64
+|-
+| hasRenderPriority || True || False
+|-
+| ambient || 0 || 10
+|-
+| contrast || 0 || 10
+|-
+| rotationSpeed || 32 || 0
+|-
+| recolorToFind ||<span style = "background-color: #0b3618;color:white">25238</span>,<span style = "background-color: #615656;color:white">61</span>,<span style = "background-color: #1d1206;color:white">5772</span>,<span style = "background-color: #221d0b;color:white">8720</span>,<span style = "background-color: #312d06;color:white">10004</span>,<span style = "background-color: #210401;color:white">908</span>||<span style = "background-color: #121111;color:white">12</span>
+|-
+| recolorToReplace ||<span style = "background-color: #0a0a0a;color:white">8</span>,<span style = "background-color: #0a0a0a;color:white">8</span>,<span style = "background-color: #0a0a0a;color:white">8</span>,<span style = "background-color: #0a0a0a;color:white">8</span>,<span style = "background-color: #0a0a0a;color:white">8</span>,<span style = "background-color: #0a0a0a;color:white">8</span>||<span style = "background-color: #351403;color:white">3988</span>
+|-
+|rowspan="2"|[[<col=00ffff>Unfinished Beehive</col>]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#12515 12515]
+|-
+|name || [[<col=00ffff>Unfinished Bee hive</col>]] || [[<col=00ffff>Unfinished Beehive</col>]]
+|-
+|rowspan="2"|[[<col=00ffff>Unfinished Beehive</col>]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#12516 12516]
+|-
+|name || [[<col=00ffff>Unfinished Bee hive</col>]] || [[<col=00ffff>Unfinished Beehive</col>]]
+|-
+|rowspan="2"|[[<col=00ffff>Complete Beehive</col>]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#12517 12517]
+|-
+|name || [[<col=00ffff>Complete Bee hive</col>]] || [[<col=00ffff>Complete Beehive</col>]]
+|-
+|rowspan="2"|[[<col=00ffff>Wild Beehive</col>]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/npc_id.html#12518 12518]
+|-
+|name || [[<col=00ffff>Wild Bee hive</col>]] || [[<col=00ffff>Wild Beehive</col>]]
+|-
+|}
+
+==Objects==
+===New Objects=== 
+{| class="wikitable sortable"
+!colspan='3'|New Objects
+|-
+! style=width:15em | Name !! ID !! Options
+|-
+| [[Beehive]] || [https://chisel.weirdgloop.org/moid/object_id.html#49940 49940] || Release-bees, Remove
+|-
+| [[Beehive]] || [https://chisel.weirdgloop.org/moid/object_id.html#49941 49941] || Release-bees, Remove
+|-
+| [[Beehive]] || [https://chisel.weirdgloop.org/moid/object_id.html#49942 49942] || Release-bees, Remove
+|-
+| [[Beehive]] || [https://chisel.weirdgloop.org/moid/object_id.html#47481 47481] || Release-bees, Remove
+|-
+| [[Beehive]] || [https://chisel.weirdgloop.org/moid/object_id.html#49938 49938] || Release-bees, Remove
+|-
+| [[Beehive]] || [https://chisel.weirdgloop.org/moid/object_id.html#49939 49939] || Release-bees, Remove
+|-
+|-
+|}
+===Removed Objects===
+{| class="wikitable sortable"
+!colspan='2'|Removed Objects
+|-
+! style=width:15em | Name !! ID
+|-
+|-
+|}
+===Diff Objects===
+{| class="wikitable sortable"
+!colspan='5'|Diff Objects
+|-
+! style=width:15em | Name !! ID !! Key !! Previous Value !! New Value
+|-
+|rowspan="2"|[[Beehive]]
+|rowspan="2"|[https://chisel.weirdgloop.org/moid/object_id.html#49933 49933]
+|-
+|name || [[Bee Hive]] || [[Beehive]]
+|-
+|}
