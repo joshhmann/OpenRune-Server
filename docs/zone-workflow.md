@@ -31,18 +31,160 @@ Is NPC needed for a quest?
 
 ## Layer Status — Lumbridge (Current Sprint)
 
-| Layer | What | Status | There | Missing | Needs Implementation | Blocked / Deferred |
-|:-----:|------|:------:|:-----:|:-------:|:-------------------:|:------------------:|
-| **1** | **Audit** | 🟢 DONE | 83 NPCs catalogued from corpus, symbol names resolved via cache TOML | — | — | — |
-| **2** | **NPCs** | 🟢 COMPLETE | 26 dedicated + 15 batch + generic groups covers all F2P NPCs | — | — | — |
-| **3** | **Shops** | 🟢 GOOD | General store, Bob's Brilliant Axes, Blue Moon Inn bar | None critical | — | Deferred: full shop inventory pricing TBD |
-| **4** | **Interactables** | 🟡 PARTIAL | LumbridgeScript (winch, log→axe), generic doors/gates/ladders/stairs/banks/bookcases/signposts/coops/pickables/search | Castle range, anvil (smithy), furnace, spinning wheel, graves, crates, cupboard, swamp cave entrance | Zone-specific loc handlers | None |
-| **5** | **Monsters** | 🟡 PARTIAL | Generic cows/sheep/ducks work; chicken coop exists | Goblins (north), rats (basement), men, giant rats/spiders (swamp), Wizard (tower) | Combat NPC spawn verification & missing spawns | Needs combat formula tuning? |
-| **6** | **Items** | 🔴 NOT STARTED | Ground item spawns not inventoried | All ground item spawns | Inventory from OSRS wiki data | None |
-| **7** | **Skills** | 🟢 GOOD | Cooking range, woodcutting trees, firemaking, fishing, smithing anvil? | Verify each skill works at its Lumbridge location | — | Deferred: skill tutors with training guidance |
-| **8** | **Quests** | 🟡 PARTIAL | Cook's Assistant ✅ complete | Prince Ali Rescue, Rune Mysteries, The Restless Ghost start here | Quest implementations (separate Phase) | Major scope — deferred to post-NPC layer |
-| **9** | **Template** | 🟡 IN PROGRESS | This document seeded | Workflow steps being filled as we execute first NPC | — | Will solidify after first full NPC cycle |
-| **10** | **Verify** | 🔴 NOT STARTED | — | — | Compile, boot, walk-through click test | After layers 1-4 |
+| Layer | What | Status | Notes |
+|:-----:|------|:------:|:------|
+| **1** | **Audit** | 🟢 DONE | Full catalog via corpus data |
+| **2** | **NPCs** | 🟢 DONE | 3-tier: 26 major + 15 batch + generic groups |
+| **3** | **Shops** | 🟢 GOOD | General store, Bob's, bar — functional |
+| **4** | **Interactables** | 🟡 NEEDS WORK | Generic locs OK; castle doors broken |
+| **5** | **Monsters** | 🟡 NEEDS VERIFY | Cache-loaded, not manually tested |
+| **6** | **Items** | 🟢 GOOD | 55 ground spawns from cache |
+| **7** | **Skills** | 🟢 GOOD | Cooking range, trees, fish active |
+| **8** | **Quests** | 🟡 INCOMPLETE | Only Cook's Assistant |
+| **9** | **Template** | 🟡 IN PROGRESS | This doc |
+| **10** | **Verify** | 🔴 NOT DONE | Need compile+restart+walkthrough |
+
+## Layer Workflow (Ordered)
+
+Each zone follows these layers in order. Do not skip ahead or move to the next zone until the current zone's layers are complete.
+
+### Layer 1 — Audit
+**Goal:** Know exactly what exists vs what OSRS says should be there.
+
+1. Query corpus for all NPCs in zone: `tools/data/corpus/parsed-data/npc_by_name.json` filtered by location
+2. Check NPC spawn files: `.data/raw-cache/map/npcs/<zone>.toml`
+3. Check ground item spawns: `.data/raw-cache/map/objs/<zone>.toml`
+4. Check monster spawns: `tools/data/corpus/parsed-data/npc_spawns.json`
+5. Cross-reference existing handlers: `find content/areas/city/<zone>/ -name "*.kt"`
+6. Check generic handlers: `content/generic/generic-npcs/`
+7. Classify each NPC by tier (Major/Minor/Generic)
+8. Output: Gap list with NPCs, shops, items, monsters, interactables
+
+### Layer 2 — NPCs
+**Goal:** Every interactive NPC in the zone has a dialogue handler.
+
+**Tier 1 — Major:** Dedicated `.kt` file per NPC
+- Quest givers, shopkeepers, unique characters
+- Full dialogue trees with authentic OSRS text
+- Include conversation branches (greet → options → responses)
+
+**Tier 2 — Minor:** Batch `.kt` file for 5-15 similar NPCs
+- Farmers, guards, assistants with simple dialogue
+- Single `PluginScript` class with multiple `onOpNpc1` registrations
+- One dialogue function per NPC type
+
+**Tier 3 — Generic:** Content-group-based handler
+- Already covered by handlers in `content/generic/generic-npcs/`
+- Man/Woman → `content.person`, Cow → `content.cow`, etc.
+
+**Tools:**
+- Find symbol names: `grep <npc_name> .data/raw-cache/map/npcs/<zone>.toml`
+- Check content groups: `grep -B1 "<npc_id>" .data/raw-cache/server/npcs.toml | grep contentGroup`
+- Compile: `./gradlew :content:areas:city:<zone>:compileKotlin`
+
+**Completion:** Every spawn entry in the zone's npcs TOML that represents a talkable NPC has a handler (direct or via content group). Combat-only NPCs (goblins, rats, etc.) excluded.
+
+### Layer 3 — Shops
+**Goal:** Every shop in the zone opens and has appropriate inventory.
+
+- Verify shop TOML files at `.data/raw-cache/server/shops/`
+- Check shop NPCs open trade dialogue
+- Verify buy/sell/restock works
+- Cross-reference shop inventory with OSRS wiki
+
+### Layer 4 — Interactables
+**Goal:** All clickable objects (locs) in the zone respond correctly.
+
+**Generic (handled upstream):**
+- Doors (single): `content.closed_single_door` / `content.opened_single_door`
+- Gates: `content.closed_left_picketgate` / `content.closed_right_picketgate`
+- Ladders: `content.ladder_up` / `content.ladder_down`
+- Staircases: `content.spiralstaircase_*`
+- Banks: `content.bank_booth`
+- Bookcases: `content.bookcase`
+- Signposts: `SignpostScript`
+- Chicken coops: `content.chicken_coop`
+- Pickables: `Pickables`
+- Search: `SearchPlugin`
+
+**Zone-specific:**
+- Check each special loc in the zone (e.g. winch, log with axe in Lumbridge)
+- Create `onOpLoc1` handlers for special zone locs
+- Verify castle/unique building locs (doors, trapdoors, etc.)
+
+**If a loc type is unknown:**
+1. Check `loc.toml` for the loc's definition
+2. Try `onOpLoc1("<loc_symbol>")` directly
+3. If content group exists, verify it matches generic handlers
+
+### Layer 5 — Monsters
+**Goal:** Combat NPCs are present, attackable, and have appropriate stats.
+
+- Most combat NPCs loaded from cache — verify they appear in world
+- Check cache definitions have attack/defence/hitpoints params
+- Verify aggression works for aggressive NPCs
+- Verify drops work (handled separately by drop tables)
+
+**Note:** Monster spawns are encoded in the cache landscape data. As long as the cache decoder works, spawns are correct. Manual verification requires in-game testing.
+
+### Layer 6 — Items
+**Goal:** Ground item spawns are visible and pickable.
+
+- Item spawns defined in `.data/raw-cache/map/objs/<zone>.toml`
+- Loaded at server boot from cache landscape decoder
+- Verify pick-up works and items appear on ground
+- Verify respawn timers work
+
+**Note:** Like monsters, items are encoded in cache. Manual verification only.
+
+### Layer 7 — Skills
+**Goal:** All skills that can be used in the zone work correctly.
+
+- Trees → woodcutting
+- Fish spots → fishing
+- Ranges/fires → cooking
+- Rocks → mining
+- Furnaces/anvils → smithing
+- Altars → prayer
+
+**Verification:** Skill modules are loaded at server boot. Test in-game.
+
+### Layer 8 — Quests
+**Goal:** Every quest that starts in or passes through the zone is implementable.
+
+- Implement quest script using `QuestScript` pattern
+- Wire NPC dialogue to check quest state:
+  ```kotlin
+  when {
+      quest.isQuestCompleted(player) -> afterQuest(npc)
+      quest.questState(player) == QuestProgressState.IN_PROGRESS -> duringQuest(npc)
+      else -> preQuest(npc)
+  }
+  ```
+- Register quest varp to track progress
+- Verify quest journal updates
+
+### Layer 9 — Template
+**Goal:** The zone's workflow is documented for reuse.
+
+- Fill in layer status table
+- Note any zone-specific quirks or patterns
+- Document tools/commands used
+- Update this document with lessons learned
+
+### Layer 10 — Verify
+**Goal:** Every interactable element has been tested in-game.
+
+1. Compile zone module: `./gradlew :content:areas:city:<zone>:compileKotlin`
+2. Restart server: `fuser -k 43594/tcp` then `./gradlew :server:app:run --console=plain`
+3. Walk through the zone and click every:
+   - NPC (talk-to, trade if applicable)
+   - Interactable loc (doors, gates, ladders, etc.)
+   - Monster (attack confirmation)
+   - Ground item (pick up)
+4. Verify quest progression if applicable
+5. Log any failures
+6. Fix failures → recompile → restart → retest
 
 ### Legend
 🟢 GOOD = no action needed | 🟡 PARTIAL = some work done, more needed | 🟡 IN PROGRESS = actively being worked | 🔴 NOT STARTED = hasn't been touched
