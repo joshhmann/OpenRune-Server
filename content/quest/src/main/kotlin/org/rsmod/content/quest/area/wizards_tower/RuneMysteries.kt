@@ -3,6 +3,7 @@ package org.rsmod.content.quest.area.wizards_tower
 import org.rsmod.api.player.dialogue.Dialogue
 import org.rsmod.api.player.protect.ProtectedAccess
 import org.rsmod.api.script.onOpNpc1
+import org.rsmod.api.script.onPlayerLogin
 import org.rsmod.content.quest.manager.ItemRewardDisplay
 import org.rsmod.content.quest.manager.QuestProgressState
 import org.rsmod.content.quest.manager.QuestScript
@@ -27,6 +28,20 @@ class RuneMysteries :
     override fun ScriptContext.init() {
         // Archmage Sedridor — Wizards' Tower basement
         onOpNpc1("npc.head_wizard") { startSedridorDialogue(it.npc) }
+    }
+
+    override fun ScriptContext.startup() {
+        // Login handler for quest state sync (skip overlay/modal buttons to avoid
+        // duplicate registration with other quest scripts)
+        onPlayerLogin {
+            val state = quest.getQuestStage(player)
+            val prog = when (state) {
+                0 -> QuestProgressState.NOT_STARTED
+                quest.maxSteps -> QuestProgressState.FINISHED
+                else -> QuestProgressState.IN_PROGRESS
+            }
+            player.questState = prog.varp
+        }
     }
 
     override fun subTitle(): String =

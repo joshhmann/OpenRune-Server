@@ -40,7 +40,7 @@ Is NPC needed for a quest?
 | **5** | **Monsters** | 🟡 NEEDS VERIFY | Cache-loaded, not manually tested |
 | **6** | **Items** | 🟢 GOOD | 55 ground spawns from cache |
 | **7** | **Skills** | 🟢 GOOD | Cooking range, trees, fish active |
-| **8** | **Quests** | 🟡 INCOMPLETE | Only Cook's Assistant |
+| **8** | **Quests** | 🟡 PARTIAL | Only Cook's Assistant + Rune Mysteries started |
 | **9** | **Template** | 🟡 IN PROGRESS | This doc |
 | **10** | **Verify** | 🔴 NOT DONE | Need compile+restart+walkthrough |
 
