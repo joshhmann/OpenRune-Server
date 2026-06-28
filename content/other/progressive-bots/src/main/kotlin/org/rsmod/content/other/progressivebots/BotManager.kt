@@ -1,30 +1,29 @@
 package org.rsmod.content.other.progressivebots
 
+import dev.openrune.rscm.RSCM.asRSCM
 import jakarta.inject.Inject
 import org.rsmod.api.game.process.GameLifecycle
-import org.rsmod.api.player.isInCombat
-import org.rsmod.content.other.playerbotservice.BotConfig
-import org.rsmod.content.other.playerbotservice.PlayerBotService
-import org.rsmod.content.other.progressivebots.tree.GoalStack
-import org.rsmod.game.entity.Player
-import org.rsmod.game.seq.EntitySeq
-import org.rsmod.map.CoordGrid
-import org.rsmod.plugin.scripts.PluginScript
-import org.rsmod.plugin.scripts.ScriptContext
-import org.rsmod.game.MapClock
-import dev.openrune.rscm.RSCM.asRSCM
 import org.rsmod.api.player.events.PlayerChatEvent
+import org.rsmod.api.player.isInCombat
+import org.rsmod.api.player.output.mes
 import org.rsmod.api.player.righthand
 import org.rsmod.api.player.stat.stat
 import org.rsmod.api.player.vars.varMoveSpeed
-import org.rsmod.game.movement.MoveSpeed
-import org.rsmod.content.other.progressivebots.chat.ChatResponseSystem
-import org.rsmod.game.cheat.Cheat
 import org.rsmod.api.script.onCommand
-import org.rsmod.api.player.output.mes
+import org.rsmod.content.other.playerbotservice.BotConfig
+import org.rsmod.content.other.playerbotservice.PlayerBotService
+import org.rsmod.content.other.progressivebots.chat.ChatResponseSystem
 import org.rsmod.content.other.progressivebots.qa.BotQaSystem
+import org.rsmod.content.other.progressivebots.tree.GoalStack
 import org.rsmod.content.other.progressivebots.tree.NodeStatus
+import org.rsmod.game.MapClock
+import org.rsmod.game.cheat.Cheat
+import org.rsmod.game.entity.Player
 import org.rsmod.game.entity.player.PublicMessage
+import org.rsmod.game.movement.MoveSpeed
+import org.rsmod.game.seq.EntitySeq
+import org.rsmod.plugin.scripts.PluginScript
+import org.rsmod.plugin.scripts.ScriptContext
 
 /** Tracks a single progressive bot's state between ticks. */
 data class BotState(
@@ -34,7 +33,8 @@ data class BotState(
     var lastZ: Int = def.spawnZ,
     var personality: BotPersonality = BotPersonality.forPlanner(def.planner),
     val goalStack: GoalStack = GoalStack(),
-    val spatialMemory: org.rsmod.content.other.progressivebots.tree.SpatialMemory = org.rsmod.content.other.progressivebots.tree.SpatialMemory(),
+    val spatialMemory: org.rsmod.content.other.progressivebots.tree.SpatialMemory =
+        org.rsmod.content.other.progressivebots.tree.SpatialMemory(),
     var lastActionName: String = "Idle",
     /** Whether we've captured the decision for the current action (for trajectory). */
     var decisionCaptured: Boolean = false,
@@ -44,6 +44,8 @@ data class BotState(
     val lastChatTimes: MutableMap<String, Long> = mutableMapOf(),
     var qaTaskNode: org.rsmod.content.other.progressivebots.tree.BehaviorNode? = null,
     var qaTaskName: String? = null,
+    val pendingChats: java.util.concurrent.ConcurrentLinkedQueue<String> =
+        java.util.concurrent.ConcurrentLinkedQueue(),
 )
 
 /**
@@ -55,7 +57,9 @@ data class BotState(
  *
  * Bots are real Player objects with NoopClient, visible to all online players.
  */
-class BotManager @Inject constructor(
+class BotManager
+@Inject
+constructor(
     private val playerBotService: PlayerBotService,
     private val playerList: org.rsmod.game.entity.PlayerList,
     private val clock: MapClock,
@@ -85,9 +89,7 @@ class BotManager @Inject constructor(
         onCommand("botqa") {
             this.internal = "modlevel.admin"
             this.desc = "Force progressive bot into QA mode: ::botqa username task"
-            this.cheat {
-                botQaCommand(this)
-            }
+            this.cheat { botQaCommand(this) }
         }
 
         logger.info {
@@ -134,7 +136,13 @@ class BotManager @Inject constructor(
         for (def in org.rsmod.content.other.progressivebots.BotConfig.bots) {
             try {
                 playerBotService.spawnBot(def.username, def.spawnX, def.spawnZ)
-                bots[def.username] = BotState(def = def, locRegistry = locRegistry, eventBus = eventBus, npcList = npcList)
+                bots[def.username] =
+                    BotState(
+                        def = def,
+                        locRegistry = locRegistry,
+                        eventBus = eventBus,
+                        npcList = npcList,
+                    )
                 spawned++
             } catch (e: Exception) {
                 logger.warn { "[ProgressiveBots] Failed to spawn '${def.username}': ${e.message}" }
@@ -175,13 +183,26 @@ class BotManager @Inject constructor(
 
         val currentTime = System.currentTimeMillis()
         val senderCoords = sender.coords
+        val potentialResponders = mutableListOf<Pair<Player, BotState>>()
+
         for ((name, state) in bots) {
+            if (name == senderName) continue // Don't reply to yourself
             val botPlayer = playerBotService.findBot(name) ?: continue
             if (botPlayer.coords.chebyshevDistance(senderCoords) <= 8) {
                 val lastTime = state.lastChatTimes[senderName] ?: 0L
                 if (currentTime - lastTime >= 10000L) {
-                    state.lastChatTimes[senderName] = currentTime
-                    ChatResponseSystem.handleIncomingChat(sender, botPlayer, event.text)
+                    potentialResponders.add(botPlayer to state)
+                }
+            }
+        }
+
+        if (potentialResponders.isNotEmpty()) {
+            val (botPlayer, state) = potentialResponders.random()
+            state.lastChatTimes[senderName] = currentTime
+            ChatResponseSystem.handleIncomingChat(sender, botPlayer, event.text).thenAccept {
+                responseText ->
+                if (responseText != null && responseText.isNotBlank()) {
+                    state.pendingChats.add(responseText)
                 }
             }
         }
@@ -211,14 +232,31 @@ class BotManager @Inject constructor(
 
         if (state.ticksAtCurrentPos % 5 != 0) return // Faster tick rate for BT
 
+        var pendingChat: String? = null
+        while (state.pendingChats.isNotEmpty()) {
+            pendingChat = state.pendingChats.poll()
+        }
+
+        if (pendingChat != null) {
+            player.publicMessage =
+                PublicMessage(
+                    text = pendingChat,
+                    colour = 0,
+                    effect = 0,
+                    clanType = null,
+                    modIcon = player.modLevel.clientCode,
+                    autoTyper = false,
+                    pattern = null,
+                )
+        }
+
         // Auto toggle run speed based on energy thresholds
         if (player.runEnergy >= 2000 && player.varMoveSpeed != MoveSpeed.Run) {
             player.varMoveSpeed = MoveSpeed.Run
         }
 
-        val coinsId = dev.openrune.ServerCacheManager.getItem("obj.coins".asRSCM(dev.openrune.rscm.RSCMType.OBJ))?.id ?: 995
         val gp = player.inv.firstOrNull { it?.id == coinsId }?.count ?: 0
-        
+
         val view =
             BotPlayerView(
                 x = coords.x,
@@ -227,28 +265,31 @@ class BotManager @Inject constructor(
                 inCombat = player.isInCombat(),
                 animating = player.pendingSequence != EntitySeq.NULL,
                 playerList = playerList,
-                gpCount = gp
+                gpCount = gp,
             )
 
         if (view.inCombat || view.animating) return
 
-        // Auto equip best gear from inventory visually
-        autoEquipBestGear(player)
+        // Auto equip best gear from inventory visually every 50 ticks
+        if (state.ticksAtCurrentPos % 50 == 0) {
+            autoEquipBestGear(player)
+        }
 
         // Check QA override mode
         val qaNode = state.qaTaskNode
         if (qaNode != null) {
             val status = qaNode.execute(player, state)
             if (status == NodeStatus.SUCCESS || status == NodeStatus.FAILURE) {
-                player.publicMessage = PublicMessage(
-                    text = "QA Task [${state.qaTaskName}] complete: $status!",
-                    colour = 0,
-                    effect = 0,
-                    clanType = null,
-                    modIcon = player.modLevel.clientCode,
-                    autoTyper = false,
-                    pattern = null
-                )
+                player.publicMessage =
+                    PublicMessage(
+                        text = "QA Task [${state.qaTaskName}] complete: $status!",
+                        colour = 0,
+                        effect = 0,
+                        clanType = null,
+                        modIcon = player.modLevel.clientCode,
+                        autoTyper = false,
+                        pattern = null,
+                    )
                 state.qaTaskNode = null
                 state.qaTaskName = null
             }
@@ -261,30 +302,40 @@ class BotManager @Inject constructor(
             state.goalStack.setTree(tree)
             state.goalStack.playerListContext = playerList
             state.lastActionName = name
-            
+
             // Capture trajectory on new decision
             val snapshot = TrajectoryCapture.snapshot(player, state.personality)
             trajectory.capture(tick, snapshot, state.def.planner, state.lastActionName)
             state.decisionCaptured = true
         }
-        
+
         // 2. Tick the active goal tree
         state.goalStack.tick(player, state)
     }
 
     private fun autoEquipBestGear(player: Player) {
-        val wcLevel = player.stat("woodcutting")
-        val miningLevel = player.stat("mining")
-        val attackLevel = player.stat("attack")
+        val wcLevel = player.stat("stat.woodcutting")
+        val miningLevel = player.stat("stat.mining")
+        val attackLevel = player.stat("stat.attack")
 
-        val bestAxe = org.rsmod.content.other.progressivebots.economy.ProgressionRegistry.getBestAxe(wcLevel)
-        val bestPick = org.rsmod.content.other.progressivebots.economy.ProgressionRegistry.getBestPickaxe(miningLevel)
-        val bestWeapon = org.rsmod.content.other.progressivebots.economy.ProgressionRegistry.getBestWeapon(attackLevel)
+        val bestAxe =
+            org.rsmod.content.other.progressivebots.economy.ProgressionRegistry.getBestAxe(wcLevel)
+        val bestPick =
+            org.rsmod.content.other.progressivebots.economy.ProgressionRegistry.getBestPickaxe(
+                miningLevel
+            )
+        val bestWeapon =
+            org.rsmod.content.other.progressivebots.economy.ProgressionRegistry.getBestWeapon(
+                attackLevel
+            )
 
         val candidates = listOf("obj.$bestAxe", "obj.$bestPick", "obj.$bestWeapon")
 
         for (candidate in candidates) {
-            val cacheObj = dev.openrune.ServerCacheManager.getItem(candidate.asRSCM(dev.openrune.rscm.RSCMType.OBJ)) ?: continue
+            val cacheObj =
+                dev.openrune.ServerCacheManager.getItem(
+                    candidate.asRSCM(dev.openrune.rscm.RSCMType.OBJ)
+                ) ?: continue
             val itemId = cacheObj.id
 
             val currentRightHand = player.righthand
@@ -312,5 +363,12 @@ class BotManager @Inject constructor(
 
     companion object {
         private val logger = com.github.michaelbull.logging.InlineLogger()
+
+        private val coinsId: Int by lazy {
+            dev.openrune.ServerCacheManager.getItem(
+                    "obj.coins".asRSCM(dev.openrune.rscm.RSCMType.OBJ)
+                )
+                ?.id ?: 995
+        }
     }
 }

@@ -19,7 +19,7 @@ import java.io.File
 @JsonIgnoreProperties(ignoreUnknown = true)
 public data class BotConfigYaml(
     @JsonProperty("enabled") val enabled: Boolean = true,
-    @JsonProperty("progressive") val progressive: Boolean = false,
+    @JsonProperty("progressive") val progressive: Boolean = true,
     @JsonProperty("agent-bridge") val agentBridge: Boolean = false,
     @JsonProperty("agent-bridge-port") val agentBridgePort: Int = 43595,
     @JsonProperty("llm-url") val llmUrl: String = "http://localhost:11434/api/generate",
