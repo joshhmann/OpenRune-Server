@@ -41,10 +41,6 @@ class LumbridgeMinorNpcs : PluginScript() {
         onOpNpc1("npc.ap_guide_active") { apGuideDialogue(it.npc) }
         onOpNpc1("npc.ap_guide_parent") { apGuideDialogue(it.npc) }
 
-        // Lumbridge Guide assistants
-        onOpNpc1("npc.lumbridge_guide2_man") { guideAssistantDialogue(it.npc) }
-        onOpNpc1("npc.lumbridge_guide2_woman") { guideAssistantDialogue(it.npc) }
-
         // Imps — wandering around
         onOpNpc1("npc.imp") { impDialogue(it.npc) }
     }
@@ -131,14 +127,6 @@ class LumbridgeMinorNpcs : PluginScript() {
             chatNpc(happy, "Hello there! Keeping the cows in line?")
             chatPlayer(neutral, "I'll do my best.")
             chatNpc(happy, "That's the spirit! Farming's honest work.")
-        }
-
-    // ── Guide Assistants ────────────────────────────────
-
-    private suspend fun ProtectedAccess.guideAssistantDialogue(npc: Npc) =
-        startDialogue(npc) {
-            chatNpc(happy, "Welcome to Lumbridge! If you need help, our main guide is just over there.")
-            chatPlayer(happy, "Thanks, I'll find them.")
         }
 
     // ── Adventure Path Guides ───────────────────────────

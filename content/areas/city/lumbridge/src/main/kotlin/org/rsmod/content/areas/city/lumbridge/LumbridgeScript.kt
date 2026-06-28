@@ -29,10 +29,6 @@ constructor(private val locRepo: LocRepository, private val objRepo: ObjReposito
         // Single doors — castle interior uses poshdoor variants
         onOpLoc1("loc.poshdoor") { swapDoorState(it.loc) }
         onOpLoc1("loc.poshdooropen") { swapDoorState(it.loc) }
-
-        // Elf-fashioned doors (Duke's room) — authentic OSRS behavior
-        onOpLoc1("loc.elfdoor") { elfDoorInteract(it.loc) }
-        onOpLoc1("loc.elfdooropen") { elfDoorInteract(it.loc) }
     }
 
     private fun ProtectedAccess.operateWinch() {
@@ -67,14 +63,5 @@ constructor(private val locRepo: LocRepository, private val objRepo: ObjReposito
         locParamOrNull(loc, params.closesound)?.let { soundSynth(it) }
         locRepo.del(loc, 500)
         locRepo.add(loc.coords, nextStage, 500, loc.turnAngle(rotations = 1), loc.shape)
-    }
-
-    /**
-     * Elf-fashioned door interaction.
-     * These doors are intentionally non-functional on OSRS — matching that behavior.
-     */
-    private fun ProtectedAccess.elfDoorInteract(loc: BoundLocInfo) {
-        mes("It's stuck.")
-        soundSynth("synth.lever")
     }
 }
