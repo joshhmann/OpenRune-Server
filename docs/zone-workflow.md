@@ -6,6 +6,29 @@
 
 ---
 
+## 3-Tier NPC Handling Methodology
+
+| Tier | Approach | When | Example |
+|:----:|----------|:----:|:--------|
+| **1 — Major** | Dedicated `.kt` file per NPC | Quest givers, shopkeepers, unique characters with branching dialogue | Duke Horacio, Father Aereck, Hans |
+| **2 — Minor** | Batch `.kt` file grouping 5-15 NPCs | Simple talk-to NPCs that share a pattern (farmers, guards, assistants) | `LumbridgeMinorNpcs.kt` covers 15 NPCs |
+| **3 — Generic** | Content-group-based handler | Ambient NPCs that share behavior across zones (cows, sheep, ducks, men, women) | `GenericPerson.kt` handles `content.person` group |
+
+### Decision Flow
+```
+Is NPC needed for a quest?
+  ├─ Yes → Tier 1 (dedicated file, quest-gated dialogue)
+  └─ No → Does NPC have unique dialogue (shop, lore, hints)?
+      ├─ Yes → Tier 1
+      └─ No → Can NPC share dialogue with others of same type?
+          ├─ Yes → Does NPC already have a content group?
+          │   ├─ Yes → Tier 3 (generic handler already exists)
+          │   └─ No → Tier 2 (batch handler)
+          └─ No → Tier 1
+```
+
+---
+
 ## Layer Status — Lumbridge (Current Sprint)
 
 | Layer | What | Status | There | Missing | Needs Implementation | Blocked / Deferred |
@@ -91,26 +114,18 @@ grep -i "horacio\|duke" .data/raw-cache/map/npcs/lumbridge.toml
 # Result: npc = "npc.duke_of_lumbridge"
 ```
 
-**Step 2: Find spawn location**
-```bash
-grep -B2 -A2 'npc.duke_of_lumbridge' .data/raw-cache/map/npcs/lumbridge.toml
-# Result: coords = "1_50_50_10_24" (Lumbridge Castle, ground floor [UK])
-```
+**Step 2: Create handler** — Write a `PluginScript` subclass with `onOpNpc1("npc.duke_of_lumbridge")`
 
-**Step 3: Get dialogue** — Use OSRS wiki transcripts or write authentic dialogue based on game knowledge
-
-**Step 4: Create handler** — See `content/areas/city/lumbridge/npcs/DukeHoracio.kt`
-
-**Step 5: Compile**
+**Step 3: Compile**
 ```bash
 ./gradlew :content:areas:city:lumbridge:compileKotlin
 ```
 
-**Key observations from Duke Horacio:**
+**Key observations:**
 - Symbol name may differ from wiki name (`npc.duke_of_lumbridge` not `npc.duke_horacio`)
-- Some NPCs have multiple cache IDs for different states/variants — verify the right one
-- NPC handlers auto-register via PluginScript — no manual wiring needed
-- Use `onOpNpc1` for "Talk-to", `onOpNpc3` for "Pickpocket" or other options
+- Some NPCs have multiple cache IDs for different states/variants
+- Handlers auto-register via `PluginScript` — no manual wiring needed
+- Use `onOpNpc1` for Talk-to, `onOpNpc3` for other options
 
 ### Quest-gated dialogue pattern
 ```kotlin
