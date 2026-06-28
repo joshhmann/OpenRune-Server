@@ -1,24 +1,56 @@
-# Player Bot System — Autonomous & LLM-Controlled Players
+# Player Bot System - Autonomous World Players
 
-Pluggable module framework for creating, managing, and controlling game bot players on OpenRune. Supports **progressive autonomous bots** (world population) and **LLM-controlled agents** (through AgentBridge).
+Pluggable module framework for creating and managing autonomous world-population bot players on OpenRune.
+
+AgentBridge/LLM agents are a separate system. They create and control their own agent-owned bots and must not attach to, tick, or mutate ambient playerbots.
 
 ## Modules
 
 | Module | Purpose |
 |--------|---------|
-| `player-bot-service` | Core service: DB-backed bot account creation, lifecycle, lookup |
+| `player-bot-service` | Core service: DB-backed ambient bot account creation, lifecycle, lookup |
 | `progressive-bots` | Autonomous bot manager: personality-driven tick loop, trajectory capture |
 
 ## Architecture
+
+### Lifecycle Invariant
+
+Bot systems are separate from human player login/logout logic. Bots must use the same durable
+account, character, registry, session event, save, and logout lifecycle that normal players use.
+
+Allowed:
+- Creating or loading bot accounts/characters through `CharacterAccountRepository`
+- Applying normal character metadata pipelines
+- Entering the world through `PlayerRegistry.add`
+- Logging out through `forceDisconnect` so the normal logout/save/delete path runs
+
+Forbidden:
+- Direct writes to or removals from `PlayerList`
+- Bot-only branches inside core human login/logout processors
+- Changes to human account load/save semantics just to make bot spawning easier
+- Separate in-memory bot identities that bypass account/character persistence
+
+If bot behavior needs new lifecycle behavior, add it behind the bot service boundary while keeping
+the human player path unchanged.
+
+### System Boundary
+
+Playerbots and AgentBridge bots are intentionally separate lanes:
+
+- `player-bot-service` and `progressive-bots` own ambient autonomous players.
+- AgentBridge owns LLM/QA agent bots through its own `AgentBotService`.
+- LLM social chat for ambient playerbots should be added as a progressive/playerbot behavior plugin, not by giving AgentBridge control over playerbots.
+- AgentBridge must not install client taps or soft timers on human players or ambient playerbots.
 
 ```
 PlayerBotService (Singleton)
 ├── spawnBot(name, x, z) → Player
 │   └── registerBotAccount(name) → CharacterMetadataList
-│       ├── repository.insertOrSelectAccountId()
-│       ├── repository.insertAndSelectCharacterId()
 │       ├── repository.selectAndCreateMetadataList()
-│       └── pipelines (LOGIN_LOAD_ALL, etc.)
+│       ├── if missing: repository.insertOrSelectAccountId()
+│       ├── if missing: repository.insertAndSelectCharacterId()
+│       ├── repository.selectAndCreateMetadataList()
+│       └── pipelines.append(...)
 ├── despawnBot(name) → Boolean
 ├── findBot(name) → Player?
 └── botCount() → Int
@@ -48,11 +80,12 @@ Core service that bridges a bot player's existence between the database and the 
 ### Features
 
 - **DB-backed accounts** — bots get real `account` + `character` rows in PostgreSQL, same as human players
-- **Full pipeline processing** — `AccountRepository.createAccount` → `CharacterAccountApplier` → stat/inventory init
-- **NoopClient bots** — bots are real `Player` objects with `NoopClient`, visible to all online players
+- **Reusable identities** — existing bot accounts/characters are loaded and reused across restarts
+- **Full pipeline processing** — `CharacterAccountRepository` → metadata transformers → stat/inventory init
+- **Tracked bot players** — bots are real `Player` objects, visible to all online players; they start with `NoopClient`, but bridge systems may wrap the client for telemetry
 - **Autosave compatibility** — bots persist through the server's autosave cycle without NPEs
 - **Automatic password hashing** — hardcoded bot password hash for instant non-login spawns
-- **Slot management** — finds next free player slot, registers and inserts
+- **Registry lifecycle** — finds next free player slot, registers through `PlayerRegistry`, and fires normal session events
 
 ### API
 
@@ -66,7 +99,7 @@ playerBotService.despawnBot("fallenhero11")
 // Find by name
 val bot: Player? = playerBotService.findBot("fallenhero11")
 
-// Count active NoopClient bots
+// Count active bot players spawned by this service
 val count: Int = playerBotService.botCount()
 ```
 
@@ -77,8 +110,9 @@ spawnBot("Mai", 3222, 3222)
   │
   ├─ registerBotAccount("mai")
   │   ├─ database.withTransaction { connection ->
-  │   │   ├─ repository.insertOrSelectAccountId(connection, "mai", bcrypt("bot_pass"))
-  │   │   ├─ repository.insertAndSelectCharacterId(connection, accountId)
+  │   │   ├─ repository.selectAndCreateMetadataList(connection, "mai")
+  │   │   ├─ if missing: repository.insertOrSelectAccountId(connection, "mai", bcrypt("bot_pass"))
+  │   │   ├─ if missing: repository.insertAndSelectCharacterId(connection, accountId)
   │   │   ├─ repository.selectAndCreateMetadataList(connection, "mai")
   │   │   └─ for (pipeline in pipelines) pipeline.append(connection, metadataList)
   │   │
@@ -87,8 +121,10 @@ spawnBot("Mai", 3222, 3222)
   ├─ Player(client = NoopClient)
   ├─ for (transform in metadata.transformers) transform.apply(player)
   ├─ player.coords = CoordGrid(3222, 3222, 0)
-  ├─ invMapInit.init(player)
-  └─ playerList[slot] = player
+  ├─ playerRegistry.add(player)
+  │   └─ publishes SessionStateEvent.Initialize
+  ├─ eventBus.publish(SessionStateEvent.Login(player))
+  └─ eventBus.publish(SessionStateEvent.EngineLogin(player))
 ```
 
 ### Configuration
@@ -229,7 +265,6 @@ Bots spawn on the first game tick (not during plugin startup) to ensure embedded
 bots:
   enabled: true
   progressive: true
-  agent-bridge: true
   agent-bridge-port: 43595
 ```
 
@@ -241,6 +276,6 @@ cd /root/Runescape/open_rune/OpenRune-Server
 
 Watch the bots spawn:
 ```
-[ProgressiveBots] Spawned 110/110 progressive bots
-[ProgressiveBots] PlayerList reports 110 NoopClient bots
+[ProgressiveBots] Spawned 111/111 progressive bots
+[ProgressiveBots] PlayerList reports 111 tracked bots
 ```

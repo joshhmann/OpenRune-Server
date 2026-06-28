@@ -44,6 +44,9 @@ constructor(
 
     private fun updateProtocolInfo() {
         for (player in playerList) {
+            if (player.loggingOut) {
+                continue
+            }
             player.tryOrDisconnect {
                 facing.process(this)
                 regions.process(this)
@@ -56,6 +59,14 @@ constructor(
 
     private fun processPostTick() {
         for (player in playerList) {
+            if (player.loggingOut) {
+                player.tryOrDisconnect {
+                    processClientCycle()
+                    processClientState()
+                    cleanUpPendingUpdates()
+                }
+                continue
+            }
             PlayerPersistenceHints.enter(player)
             try {
                 player.tryOrDisconnect {

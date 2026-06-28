@@ -287,6 +287,17 @@ class AccountLoadResponseHook(
         }
 
         val characterId = loadResponse.account.characterData.characterId
+        val onlineCharacter = playerRegistry.findOnlineByCharacterId(characterId)
+        if (onlineCharacter != null) {
+            logger.warn {
+                "Login denied username=${loginBlock.username.logValue()} " +
+                    "characterId=$characterId already online slot=${onlineCharacter.slotId} " +
+                    "loggingOut=${onlineCharacter.loggingOut}"
+            }
+            writeErrorResponse(LoginResponse.Duplicate)
+            return
+        }
+
         val sessionHeldElsewhere = runBlocking {
             database.withTransaction { connection ->
                 characterRepository.isActiveSessionOnOtherWorld(

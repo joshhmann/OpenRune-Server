@@ -55,7 +55,8 @@ data class BotState(
  * 1. On startup: spawns all bots from [BotConfig], subscribes to tick events
  * 2. Each LateCycle: evaluates each bot's state and picks actions
  *
- * Bots are real Player objects with NoopClient, visible to all online players.
+ * Bots are real Player objects, visible to all online players. They start with NoopClient, but
+ * bridge systems may wrap the client for telemetry.
  */
 class BotManager
 @Inject
@@ -78,8 +79,12 @@ constructor(
         initialized = true
 
         // Gate: check if progressive bots are enabled in config
-        if (!BotConfig.config.progressive) {
-            logger.info { "[ProgressiveBots] Disabled via config (bots.progressive=false)" }
+        val botConfig = BotConfig.config
+        if (!botConfig.enabled || !botConfig.progressive) {
+            logger.info {
+                "[ProgressiveBots] Disabled via config " +
+                    "(bots.enabled=${botConfig.enabled}, bots.progressive=${botConfig.progressive})"
+            }
             return
         }
 
@@ -132,11 +137,18 @@ constructor(
 
         val total = org.rsmod.content.other.progressivebots.BotConfig.bots.size
         var spawned = 0
+        var failed = 0
 
         for (def in org.rsmod.content.other.progressivebots.BotConfig.bots) {
             try {
-                playerBotService.spawnBot(def.username, def.spawnX, def.spawnZ)
-                bots[def.username] =
+                val bot = playerBotService.spawnBot(def.username, def.spawnX, def.spawnZ)
+                if (bot == null) {
+                    failed++
+                    logger.warn { "[ProgressiveBots] Spawn returned null for '${def.username}'" }
+                    continue
+                }
+
+                bots[def.username.lowercase()] =
                     BotState(
                         def = def,
                         locRegistry = locRegistry,
@@ -145,14 +157,17 @@ constructor(
                     )
                 spawned++
             } catch (e: Exception) {
+                failed++
                 logger.warn { "[ProgressiveBots] Failed to spawn '${def.username}': ${e.message}" }
             }
         }
 
-        logger.info { "[ProgressiveBots] Spawned $spawned/$total progressive bots" }
+        logger.info {
+            "[ProgressiveBots] Spawned $spawned/$total progressive bots (failed=$failed)"
+        }
 
         val actual = playerBotService.botCount()
-        logger.info { "[ProgressiveBots] PlayerList reports $actual NoopClient bots" }
+        logger.info { "[ProgressiveBots] PlayerList reports $actual tracked bots" }
     }
 
     private fun onTick() {
@@ -173,7 +188,7 @@ constructor(
 
     private fun onPlayerChat(event: PlayerChatEvent) {
         val sender = event.player
-        val senderName = sender.avatar.name
+        val senderName = sender.avatar.name.lowercase()
         if (bots.containsKey(senderName)) {
             // 5% chance that a bot replies to another bot to create organic social chatting
             if (java.util.concurrent.ThreadLocalRandom.current().nextInt(100) >= 5) {

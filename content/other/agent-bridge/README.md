@@ -1,10 +1,12 @@
 # AgentBridge — LLM Agent Control Interface
 
-WebSocket-based protocol for external LLM agents to control in-game players on OpenRune.
+WebSocket-based protocol for external LLM/QA agents to control their own agent-owned bot players on OpenRune.
 
 ## Overview
 
-AgentBridge is a real-time bidirectional bridge between autonomous agents (LLMs, scripts, or human testing tools) and in-game player characters. Agents connect via WebSocket, spawn or claim bot players, send action commands, and receive per-tick state streams.
+AgentBridge is a real-time bidirectional bridge between autonomous agents (LLMs, scripts, or human testing tools) and AgentBridge-owned bot characters. Agents connect via WebSocket, spawn agent bots, send action commands, and receive per-tick state streams.
+
+AgentBridge is not the ambient playerbot system. It must not attach to human players or `player-bot-service`/`progressive-bots` players. LLM social behavior for ambient playerbots belongs in the playerbot/progressive-bot lane as an add-on behavior, not in AgentBridge control.
 
 ```
 ┌─────────────┐    WebSocket      ┌──────────────┐
@@ -17,7 +19,7 @@ AgentBridge is a real-time bidirectional bridge between autonomous agents (LLMs,
 
 ### Core
 - **WebSocket server** on port 43595 — single persistent connection per agent
-- **Multi-bot support** — one agent can control multiple bots simultaneously
+- **Agent-bot support** — one agent can control multiple AgentBridge-owned bots simultaneously
 - **Auto-cleanup** — bots despawn when their controlling agent disconnects
 - **Thread-safe** — action queue is ConcurrentLinkedQueue, consumed on game thread
 - **Port conflict detection** — skips startup if port is already in use
@@ -26,9 +28,9 @@ AgentBridge is a real-time bidirectional bridge between autonomous agents (LLMs,
 
 | `type` | Params | Description |
 |--------|--------|-------------|
-| `spawn_bot` | `name`, `x?`, `z?` | Create a new bot player with DB-backed account |
-| `despawn_bot` | `name` | Remove a bot player from the world |
-| `list_bots` | — | List all active bot players |
+| `spawn_bot` | `name`, `x?`, `z?` | Create a new AgentBridge-owned bot with a DB-backed account |
+| `despawn_bot` | `name` | Queue an AgentBridge-owned bot for normal logout |
+| `list_bots` | — | List active AgentBridge-owned bots |
 | `walk` | `player`, `x`, `z` | Walk to coordinates |
 | `teleport` | `player`, `x`, `z`, `plane?` | Instantly teleport |
 | `interact_loc` | `player`, `id`, `x`, `z`, `option?` | Interact with a world object |
@@ -101,10 +103,10 @@ AgentBridgeServer (Singleton)
 │   ├── onClose → cleanup bots + remove client
 │   └── onError → log silently
 │
-├── broadcast() — per-tick state push (called from game thread)
+├── broadcast() — per-tick state push for AgentBridge-owned bots (called from game thread)
 ├── pollAction() — dequeue next action (called from game thread)
 ├── pollSystemAction() — dequeue system actions
-└── ensureClientTap() — wire AgentBridgeTapClient for telemetry
+└── ensureClientTap() — wire AgentBridgeTapClient only for AgentBridge-owned bots
 ```
 
 ### Key Components
@@ -112,26 +114,34 @@ AgentBridgeServer (Singleton)
 | Class | Role |
 |-------|------|
 | `AgentBridgeServer` | WebSocket server + action queuing + state broadcasting |
+| `AgentBotService` | DB-backed lifecycle for AgentBridge-owned bots only |
 | `AgentBridgeTapClient` | Client wrapper that captures game messages + interface text |
-| `AgentBridgeScript` | PluginScript that hooks into game lifecycle for action execution |
+| `AgentBridgeScript` | PluginScript that hooks AgentBridge-owned bot lifecycle for action execution |
 | `BotAction` (sealed class) | Typed action hierarchy (Walk, Teleport, InteractLoc, etc.) |
 | `AgentBridgeTapSink` | Telemetry callback for game messages |
 
 ## Configuration
 
 ```yaml
-# game.yml
+# agent-bridge.yml
+enabled: true
+port: 43595
+```
+
+Legacy `game.yml` support is still accepted for local development:
+
+```yaml
 bots:
   enabled: true
-  agent-bridge: true           # Enable the AgentBridge module
-  agent-bridge-port: 43595     # WebSocket port
+  agent-bridge: true
+  agent-bridge-port: 43595
 ```
 
 ## Dependencies
 
 - `Java-WebSocket 1.5.7` — WebSocket server implementation
 - `Jackson` — JSON serialization
-- `player-bot-service` — bot account creation
+- `api:account`, `api:db`, `api:registry` — AgentBridge-owned bot account and lifecycle support
 
 ## Getting Started
 
@@ -140,7 +150,7 @@ import json, asyncio, websockets
 
 async def agent():
     async with websockets.connect("ws://192.168.0.187:43595") as ws:
-        # Spawn a bot
+        # Spawn an AgentBridge-owned bot
         await ws.send(json.dumps({"type": "spawn_bot", "name": "Mai"}))
         state = json.loads(await ws.recv())
         print(f"Bot at ({state['player']['position']['x']}, {state['player']['position']['z']})")

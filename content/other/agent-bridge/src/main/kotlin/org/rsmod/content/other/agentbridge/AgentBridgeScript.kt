@@ -1,5 +1,6 @@
 package org.rsmod.content.other.agentbridge
 
+import com.github.michaelbull.logging.InlineLogger
 import dev.openrune.ServerCacheManager
 import dev.openrune.types.hunt.HuntVis
 import jakarta.inject.Inject
@@ -18,7 +19,6 @@ import org.rsmod.api.player.protect.ProtectedAccessLauncher
 import org.rsmod.api.player.protect.clearPendingAction
 import org.rsmod.api.player.stat.hitpoints
 import org.rsmod.api.registry.loc.LocRegistry
-import org.rsmod.api.script.onPlayerLogin
 import org.rsmod.api.script.onPlayerSoftTimer
 import org.rsmod.content.other.agentbridge.banking.BankPorcelain
 import org.rsmod.content.other.agentbridge.grounditems.GroundItemPorcelain
@@ -28,7 +28,6 @@ import org.rsmod.content.other.agentbridge.pathfinding.PathfindingService
 import org.rsmod.content.other.agentbridge.porcelain.BotPorcelain
 import org.rsmod.content.other.agentbridge.prayer.PrayerPorcelain
 import org.rsmod.content.other.agentbridge.shops.ShopPorcelain
-import org.rsmod.content.other.playerbotservice.PlayerBotService
 import org.rsmod.events.EventBus
 import org.rsmod.game.entity.NpcList
 import org.rsmod.game.entity.Player
@@ -48,7 +47,8 @@ import org.rsmod.plugin.scripts.ScriptContext
  * 2. Broadcasts the player's state snapshot to all connected agent clients.
  * 3. Tracks events (animations, XP gains, inventory changes) for push-based notifications.
  *
- * Pattern mirrors MapClockScript — a period-1 soft timer per logged-in player.
+ * Pattern mirrors MapClockScript, but only for AgentBridge-owned bots. Human players and ambient
+ * playerbots are outside the AgentBridge control lane.
  */
 class AgentBridgeScript
 @Inject
@@ -69,8 +69,9 @@ constructor(
     private val groundItemPorcelain: GroundItemPorcelain,
     private val prayerPorcelain: PrayerPorcelain,
     private val ironmanMode: IronmanMode,
-    private val playerBotService: PlayerBotService,
+    private val agentBotService: AgentBotService,
 ) : PluginScript() {
+    private val logger = InlineLogger()
 
     /** Per-player state tracking for event detection. */
     private val playerStates = ConcurrentHashMap<String, PlayerStateTracker>()
@@ -88,14 +89,14 @@ constructor(
     private val blockedDoors = ConcurrentHashMap.newKeySet<DoorKey>()
 
     override fun ScriptContext.startup() {
+        val config = AgentBridgeConfig.config
+        if (!config.enabled) {
+            logger.info { "[AgentBridge] Disabled via config" }
+            return
+        }
+
         server.start()
         eventBus.subscribeUnbound(GameLifecycle.LateCycle::class.java) { processSystemActions() }
-        onPlayerLogin {
-            server.ensureClientTap(player)
-            playerStates[player.avatar.name.lowercase()] =
-                PlayerStateTracker.from(player, emptyList())
-            player.softTimer(AGENT_BRIDGE_TIMER, 1)
-        }
         onPlayerSoftTimer(AGENT_BRIDGE_TIMER) {
             server.ensureClientTap(player)
 
@@ -135,10 +136,6 @@ constructor(
             if (action != null) {
                 System.err.println(
                     "[AgentBridge] Polled action: ${action::class.simpleName} for '${player.avatar.name}'"
-                )
-            } else {
-                System.err.println(
-                    "[AgentBridge] No action for '${player.avatar.name}' (state tracked=${playerStates.containsKey(playerKey)})"
                 )
             }
             if (action != null && pendingDoorOps[playerKey] == null) {
@@ -182,7 +179,7 @@ constructor(
                 val action = server.pollSystemAction() ?: break
                 when (action) {
                     is BotAction.SpawnBot -> {
-                        val bot = playerBotService.spawnBot(action.name, action.x, action.z)
+                        val bot = agentBotService.spawn(action.name, action.x, action.z)
                         if (bot != null) {
                             server.registerBotPlayer(bot)
                             System.err.println("[AgentBridge] System spawned bot " + action.name)
@@ -191,24 +188,21 @@ constructor(
                     is BotAction.DespawnBot -> {
                         val playerName_lc = action.name.lowercase()
                         // Clean up AgentBridge state BEFORE removing from player list
-                        val bot = playerBotService.findBot(playerName_lc)
+                        val bot = agentBotService.find(playerName_lc)
                         if (bot != null) {
-                            // Remove from AgentBridge state tracking
                             playerStates.remove(playerName_lc)
                             pendingWaits.remove(playerName_lc)
                             waitResults.remove(playerName_lc)
                             pendingDoorOps.remove(playerName_lc)
-                            // Set player health to 0 and force-remove from game engine
-                            // bot removed from AgentBridge state above
                         }
-                        val removed = playerBotService.despawnBot(playerName_lc)
+                        val removed = agentBotService.despawn(playerName_lc)
                         if (removed) {
                             System.err.println("[AgentBridge] System despawned bot " + action.name)
                         }
                     }
                     is BotAction.ListBots -> {
                         System.err.println(
-                            "[AgentBridge] Bot count: " + playerBotService.botCount()
+                            "[AgentBridge] Agent bot count: " + agentBotService.count()
                         )
                     }
                     else -> {}
@@ -1684,7 +1678,7 @@ constructor(
 
                 is BotAction.SpawnBot -> {
                     val a = action as BotAction.SpawnBot
-                    val bot = playerBotService.spawnBot(a.name, a.x, a.z)
+                    val bot = agentBotService.spawn(a.name, a.x, a.z)
                     if (bot != null) {
                         server.registerBotPlayer(bot)
                     }
@@ -1698,7 +1692,7 @@ constructor(
 
                 is BotAction.DespawnBot -> {
                     val a = action as BotAction.DespawnBot
-                    val removed = playerBotService.despawnBot(a.name)
+                    val removed = agentBotService.despawn(a.name)
                     ActionResult(
                         removed,
                         if (removed) "Despawned bot" else "Bot not found",
@@ -1708,7 +1702,7 @@ constructor(
                 }
 
                 is BotAction.ListBots -> {
-                    val count = playerBotService.botCount()
+                    val count = agentBotService.count()
                     ActionResult(true, "Active bots", xpBefore, xpBefore)
                 }
 

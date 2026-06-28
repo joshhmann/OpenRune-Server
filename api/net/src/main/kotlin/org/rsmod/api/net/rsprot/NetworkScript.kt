@@ -20,6 +20,7 @@ import org.rsmod.api.server.config.ServerConfig
 import org.rsmod.game.GameUpdate
 import org.rsmod.game.MapClock
 import org.rsmod.game.client.Client
+import org.rsmod.game.client.NoopClientCycle
 import org.rsmod.game.entity.Npc
 import org.rsmod.game.entity.Player
 import org.rsmod.game.entity.npc.NpcStateEvents
@@ -66,6 +67,7 @@ constructor(
         }
         onEvent<GameLifecycle.UpdateInfo> { updateService() }
         onEvent<SessionStart> { startSession() }
+        onEvent<SessionStateEvent.Initialize> { startNoopPlayerInfoCycle() }
         onEvent<SessionStateEvent.Delete> { closeSession() }
         onEvent<SessionStateEvent.Login> { markDbOnlineSession() }
         onEvent<SessionStateEvent.Logout> { notifyCentralLogout() }
@@ -97,6 +99,18 @@ constructor(
         player.clientCycle = cycle
 
         cycle.init(player)
+    }
+
+    private fun SessionStateEvent.Initialize.startNoopPlayerInfoCycle() {
+        if (player.clientCycle !== NoopClientCycle) {
+            return
+        }
+        val infos = service.infoProtocols.alloc(player.slotId, OldSchoolClientType.DESKTOP)
+        player.clientCycle = RspBotCycle(infos, service.infoProtocols)
+        logger.info {
+            "Allocated rsprot player-info cycle for server-owned player " +
+                "name=${player.displayName} slot=${player.slotId}"
+        }
     }
 
     private fun SessionStateEvent.Delete.closeSession() {

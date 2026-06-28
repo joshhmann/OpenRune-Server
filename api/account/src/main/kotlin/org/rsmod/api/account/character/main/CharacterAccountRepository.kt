@@ -202,7 +202,7 @@ constructor(
         characterId: Int,
         gameWorldId: Int,
     ) {
-        val clearPresence = player.pendingLogout
+        val clearPresence = player.pendingLogout || player.loggingOut
         val sql =
             if (clearPresence) {
                 OpenRuneSql.text("game/character/characters_update_save_clear_presence.sql")
