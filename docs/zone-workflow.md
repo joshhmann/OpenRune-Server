@@ -34,7 +34,7 @@ Is NPC needed for a quest?
 | Layer | What | Status | There | Missing | Needs Implementation | Blocked / Deferred |
 |:-----:|------|:------:|:-----:|:-------:|:-------------------:|:------------------:|
 | **1** | **Audit** | 🟢 DONE | 83 NPCs catalogued from corpus, symbol names resolved via cache TOML | — | — | — |
-| **2** | **NPCs** | 🟡 IN PROGRESS | 13 handlers (12 upstream + Duke Horacio) | Father Aereck, Lumbridge Guide, Doomsayer, Gelin, Combat Tutors, Restless Ghost, skill tutors | Dialogue handlers for Tier 1 NPCs | Quest-gated NPCs need quests first (Restless Ghost, Prince Ali Rescue) |
+| **2** | **NPCs** | 🟢 COMPLETE | 26 dedicated + 15 batch + generic groups covers all F2P NPCs | — | — | — |
 | **3** | **Shops** | 🟢 GOOD | General store, Bob's Brilliant Axes, Blue Moon Inn bar | None critical | — | Deferred: full shop inventory pricing TBD |
 | **4** | **Interactables** | 🟡 PARTIAL | LumbridgeScript (winch, log→axe), generic doors/gates/ladders/stairs/banks/bookcases/signposts/coops/pickables/search | Castle range, anvil (smithy), furnace, spinning wheel, graves, crates, cupboard, swamp cave entrance | Zone-specific loc handlers | None |
 | **5** | **Monsters** | 🟡 PARTIAL | Generic cows/sheep/ducks work; chicken coop exists | Goblins (north), rats (basement), men, giant rats/spiders (swamp), Wizard (tower) | Combat NPC spawn verification & missing spawns | Needs combat formula tuning? |
