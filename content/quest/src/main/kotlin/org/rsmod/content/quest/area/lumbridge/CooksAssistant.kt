@@ -56,7 +56,7 @@ class CooksAssistant :
             ) {
                 attribute(GIVEN_MILK, "I have given the cook a <red>bucket of milk</red>.").strike()
                 hasItem(
-                    "bucket_milk",
+                    "obj.bucket_milk",
                     "I have found a <red>bucket of milk</red> to give to the cook.",
                 )
             }
@@ -65,14 +65,14 @@ class CooksAssistant :
                 "I need to find a <red>pot of flour</red>. There's a mill found north-west of Lumbridge, I should take an empty pot with me."
             ) {
                 attribute(GIVEN_FLOUR, "I have given the cook a <red>pot of flour</red>.").strike()
-                hasItem("pot_flour", "I have found a pot of flour to give to the cook.")
+                hasItem("obj.pot_flour", "I have found a pot of flour to give to the cook.")
             }
 
             objective(
                 "I need to find an <red>egg</red>. The cook normally gets from the Groats' farm, found just to the west of the cattle field."
             ) {
                 attribute(GIVEN_EGG, "I have given the cook an egg.").strike()
-                hasItem("egg", "I have found an egg to give to the cook.")
+                hasItem("obj.egg", "I have found an egg to give to the cook.")
             }
         }
 

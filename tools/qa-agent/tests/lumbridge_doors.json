@@ -1,0 +1,64 @@
+{
+  "name": "Lumbridge Doors Verification (HYX-161 Regression)",
+  "description": "Test every door in Lumbridge for responsiveness. Known issues from HYX-161: castle doors unresponsive, windmill door unresponsive, Wizards' Tower door unresponsive.",
+  "version": "1.0.0",
+  "botName": "QA-DoorTest",
+  "spawnPoint": { "x": 3222, "z": 3222 },
+  "tests": [
+    {
+      "name": "door_castle_main",
+      "description": "Lumbridge castle main door (south entrance)",
+      "steps": [
+        { "action": "walk_with_doors", "target": { "x": 3212, "z": 3220 } },
+        { "action": "wait_for_position", "target": { "x": 3212, "z": 3220, "tolerance": 2 } },
+        { "action": "open_door", "target": { "x": 3212, "z": 3220 }, "timeout": 8000 },
+        { "action": "wait_ticks", "ticks": 10 },
+        { "action": "report", "step": "Castle main door", "expected": "Door opens" }
+      ]
+    },
+    {
+      "name": "door_castle_north",
+      "description": "Lumbridge castle north door (known unresponsive in HYX-161)",
+      "steps": [
+        { "action": "walk_with_doors", "target": { "x": 3220, "z": 3227 } },
+        { "action": "wait_for_position", "target": { "x": 3220, "z": 3227, "tolerance": 2 } },
+        { "action": "open_door", "target": { "x": 3220, "z": 3227 }, "timeout": 8000 },
+        { "action": "wait_ticks", "ticks": 10 },
+        { "action": "report", "step": "Castle north door", "expected": "Door opens" }
+      ]
+    },
+    {
+      "name": "door_church",
+      "description": "Lumbridge church door",
+      "steps": [
+        { "action": "walk_with_doors", "target": { "x": 3243, "z": 3205 } },
+        { "action": "wait_for_position", "target": { "x": 3243, "z": 3205, "tolerance": 2 } },
+        { "action": "open_door", "target": { "x": 3243, "z": 3205 }, "timeout": 8000 },
+        { "action": "wait_ticks", "ticks": 10 },
+        { "action": "report", "step": "Church door", "expected": "Door opens" }
+      ]
+    },
+    {
+      "name": "door_windmill",
+      "description": "Lumbridge windmill door (known unresponsive in HYX-161)",
+      "steps": [
+        { "action": "walk_with_doors", "target": { "x": 3162, "z": 3310 } },
+        { "action": "wait_for_position", "target": { "x": 3162, "z": 3310, "tolerance": 2 } },
+        { "action": "open_door", "target": { "x": 3162, "z": 3310 }, "timeout": 8000 },
+        { "action": "wait_ticks", "ticks": 10 },
+        { "action": "report", "step": "Windmill door", "expected": "Door opens" }
+      ]
+    },
+    {
+      "name": "door_wizard_tower",
+      "description": "Wizards' Tower door (known unresponsive in HYX-161)",
+      "steps": [
+        { "action": "walk_with_doors", "target": { "x": 3116, "z": 3160 } },
+        { "action": "wait_for_position", "target": { "x": 3116, "z": 3160, "tolerance": 2 } },
+        { "action": "open_door", "target": { "x": 3116, "z": 3160 }, "timeout": 8000 },
+        { "action": "wait_ticks", "ticks": 10 },
+        { "action": "report", "step": "Wizards' Tower door", "expected": "Door opens" }
+      ]
+    }
+  ]
+}

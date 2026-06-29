@@ -6,14 +6,14 @@ Scope: `/root/Runescape/open_rune/OpenRune-Server/`
 
 ## Executive state
 
-OpenRune is not ready for a new content push yet. The board is clear, but the repo is currently in a red quest-module state.
+OpenRune is nearly through Milestone 0 stabilization.
 
-Immediate gate:
-1. Fix `RuneMysteries.kt` compile failure.
-2. Re-run `:content:quest:compileKotlin` and `:server:app:compileKotlin`.
-3. Boot/restart server only after compile is green.
-4. Do Lumbridge Layer 10 runtime walkthrough.
-5. Then decide: fix `DEF-001` castle elf doors now, or explicitly accept them as deferred and move to Draynor.
+Immediate gate — resolved:
+1. ~~Fix `RuneMysteries.kt` compile failure.~~ ✅ Done (267405c4)
+2. ~~Full server compile green.~~ ✅ Done
+3. ~~Server boot clean.~~ ✅ Done — 55 bots, 0 errors
+4. **Next:** Lumbridge Layer 10 runtime walkthrough
+5. **Then:** Decide DEF-001 castle elf doors fix vs defer
 
 ## Evidence gathered
 
@@ -43,25 +43,24 @@ Relevant docs in `docs/`:
 Commands run from repo root:
 
 ```bash
-./gradlew :content:areas:city:lumbridge:compileKotlin --console=plain
+./gradlew :content:quest:compileKotlin --console=plain
 ```
 
 Result: PASS.
 
 ```bash
-./gradlew :content:quest:compileKotlin --console=plain
+./gradlew :server:app:compileKotlin --console=plain
 ```
 
-Result: FAIL.
+Result: PASS.
 
-Current compiler error:
-
-```text
-e: content/quest/src/main/kotlin/org/rsmod/content/quest/area/wizards_tower/RuneMysteries.kt:43:20
-Cannot access 'var Player.questState: Int': it is private in 'org/rsmod/content/quest/manager/QuestScript'.
+```bash
+./gradlew :server:app:run --console=plain
 ```
 
-Correction to `nei-handoff.md`: the live compile blocker is not currently the described duplicate-startup issue. It is direct access to `player.questState` from `RuneMysteries.kt`, while `QuestScript.kt` owns `private var Player.questState`.
+Result: PASS — boots clean, 55 bots, 0 errors, port 43594 listening.
+
+QuestScript fix: `QuestScript.startup()` no longer registers shared UI handlers per-subclass — they register once via `registerSharedUIHandlers()` and dispatch by companion object lookup + player attribute.
 
 ### Code inventory
 

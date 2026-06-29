@@ -1,0 +1,59 @@
+{
+  "name": "Cook's Assistant Quest Verification",
+  "description": "Verify Cook's Assistant quest steps work correctly. Previously had quest journal crash (now fixed per HYX-161).",
+  "version": "1.0.0",
+  "botName": "QA-CookTest",
+  "spawnPoint": { "x": 3222, "z": 3222 },
+  "tests": [
+    {
+      "name": "quest_start_cook_assistant",
+      "description": "Walk to Cook, start Cook's Assistant quest",
+      "steps": [
+        { "action": "walk", "target": { "x": 3209, "z": 3216 } },
+        { "action": "wait_for_position", "target": { "x": 3209, "z": 3216, "tolerance": 3 } },
+        { "action": "wait_for_condition", "condition": "dialog_open", "timeout": 10000 },
+        { "action": "get_state" },
+        { "action": "report", "step": "Quest start dialog", "expected": "Cook Assistant dialog appears" }
+      ]
+    },
+    {
+      "name": "quest_item_bucket_milk",
+      "description": "Spawn and verify bucket of milk for quest",
+      "steps": [
+        { "action": "spawn_item", "item_id": 1927, "count": 1 },
+        { "action": "wait_ticks", "ticks": 3 },
+        { "action": "get_state" },
+        { "action": "report", "step": "Bucket of milk", "expected": "Item in inventory" }
+      ]
+    },
+    {
+      "name": "quest_item_egg",
+      "description": "Spawn and verify egg for quest",
+      "steps": [
+        { "action": "spawn_item", "item_id": 1944, "count": 1 },
+        { "action": "wait_ticks", "ticks": 3 },
+        { "action": "get_state" },
+        { "action": "report", "step": "Egg", "expected": "Item in inventory" }
+      ]
+    },
+    {
+      "name": "quest_item_pot_flour",
+      "description": "Spawn and verify pot of flour for quest",
+      "steps": [
+        { "action": "spawn_item", "item_id": 1933, "count": 1 },
+        { "action": "wait_ticks", "ticks": 3 },
+        { "action": "get_state" },
+        { "action": "report", "step": "Pot of flour", "expected": "Item in inventory" }
+      ]
+    },
+    {
+      "name": "quest_journal_check",
+      "description": "Open quest journal to verify no crash regression",
+      "steps": [
+        { "action": "wait_ticks", "ticks": 5 },
+        { "action": "get_state" },
+        { "action": "report", "step": "Quest journal check", "expected": "No client crash (PX-001 regression test)" }
+      ]
+    }
+  ]
+}

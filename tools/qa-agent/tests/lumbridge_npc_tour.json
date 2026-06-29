@@ -1,0 +1,87 @@
+{
+  "name": "Lumbridge NPC Dialogue Verification",
+  "description": "Walk to each major NPC in Lumbridge, talk to them, verify dialog opens, report results.",
+  "version": "1.0.0",
+  "botName": "QA-TestBot",
+  "spawnPoint": { "x": 3222, "z": 3222 },
+  "tests": [
+    {
+      "name": "talk_to_hans",
+      "description": "Walk to Hans in castle courtyard, talk to him",
+      "steps": [
+        { "action": "walk", "target": { "x": 3222, "z": 3219 } },
+        { "action": "wait_for_position", "target": { "x": 3222, "z": 3219, "tolerance": 3 } },
+        { "action": "interact_npc", "npcIndex": 0, "option": 1 },
+        { "action": "wait_for_condition", "condition": "dialog_open", "timeout": 10000 },
+        { "action": "get_state" },
+        { "action": "wait_ticks", "ticks": 10 },
+        { "action": "report", "step": "Talk to Hans", "expected": "Dialog opens" }
+      ]
+    },
+    {
+      "name": "talk_to_cook",
+      "description": "Walk to Cook in castle kitchen, talk to him",
+      "steps": [
+        { "action": "walk", "target": { "x": 3209, "z": 3216 } },
+        { "action": "wait_for_position", "target": { "x": 3209, "z": 3216, "tolerance": 3 } },
+        { "action": "interact_npc", "npcIndex": 1, "option": 1 },
+        { "action": "wait_for_condition", "condition": "dialog_open", "timeout": 10000 },
+        { "action": "get_state" },
+        { "action": "wait_ticks", "ticks": 10 },
+        { "action": "report", "step": "Talk to Cook", "expected": "Dialog opens" }
+      ]
+    },
+    {
+      "name": "talk_to_duke",
+      "description": "Walk to Duke Horacio in castle, talk to him",
+      "steps": [
+        { "action": "walk", "target": { "x": 3214, "z": 3224 } },
+        { "action": "wait_for_position", "target": { "x": 3214, "z": 3224, "tolerance": 3 } },
+        { "action": "interact_npc", "npcIndex": 2, "option": 1 },
+        { "action": "wait_for_condition", "condition": "dialog_open", "timeout": 10000 },
+        { "action": "get_state" },
+        { "action": "wait_ticks", "ticks": 10 },
+        { "action": "report", "step": "Talk to Duke Horacio", "expected": "Dialog opens" }
+      ]
+    },
+    {
+      "name": "talk_to_father_aereck",
+      "description": "Walk to Father Aereck at church, talk to him",
+      "steps": [
+        { "action": "walk", "target": { "x": 3241, "z": 3207 } },
+        { "action": "wait_for_position", "target": { "x": 3241, "z": 3207, "tolerance": 3 } },
+        { "action": "interact_npc", "npcIndex": 3, "option": 1 },
+        { "action": "wait_for_condition", "condition": "dialog_open", "timeout": 10000 },
+        { "action": "get_state" },
+        { "action": "wait_ticks", "ticks": 10 },
+        { "action": "report", "step": "Talk to Father Aereck", "expected": "Dialog opens" }
+      ]
+    },
+    {
+      "name": "talk_to_shopkeeper",
+      "description": "Walk to general store shopkeeper, talk to him",
+      "steps": [
+        { "action": "walk", "target": { "x": 3214, "z": 3246 } },
+        { "action": "wait_for_position", "target": { "x": 3214, "z": 3246, "tolerance": 3 } },
+        { "action": "interact_npc", "npcIndex": 4, "option": 1 },
+        { "action": "wait_for_condition", "condition": "dialog_open", "timeout": 10000 },
+        { "action": "get_state" },
+        { "action": "wait_ticks", "ticks": 10 },
+        { "action": "report", "step": "Talk to Shopkeeper", "expected": "Dialog opens" }
+      ]
+    },
+    {
+      "name": "talk_to_bob",
+      "description": "Walk to Bob's Brilliant Axes, talk to Bob",
+      "steps": [
+        { "action": "walk", "target": { "x": 3231, "z": 3203 } },
+        { "action": "wait_for_position", "target": { "x": 3231, "z": 3203, "tolerance": 3 } },
+        { "action": "interact_npc", "npcIndex": 5, "option": 1 },
+        { "action": "wait_for_condition", "condition": "dialog_open", "timeout": 10000 },
+        { "action": "get_state" },
+        { "action": "wait_ticks", "ticks": 10 },
+        { "action": "report", "step": "Talk to Bob", "expected": "Dialog opens" }
+      ]
+    }
+  ]
+}

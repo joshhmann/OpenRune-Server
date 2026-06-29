@@ -106,7 +106,19 @@ constructor(
         with(cheat) {
             if (args.size < 2) {
                 player.mes("Usage: ::botqa <username> <task>")
-                player.mes("Tasks: ${BotQaSystem.getRegisteredTasks().joinToString()}")
+                player.mes("--- NPC Dialogue Tests (qa_npc_*) ---")
+                player.mes("hans, cook, duke, father_aereck, bob, shopkeeper")
+                player.mes("--- Multi-NPC Tests ---")
+                player.mes("qa_lumbridge_npc_tour, qa_lumbridge_sweep")
+                player.mes("--- Door/Item Tests ---")
+                player.mes("qa_lumbridge_doors, qa_item_test")
+                player.mes("--- Quest State Checks ---")
+                player.mes("qa_quest_cook_assistant, qa_quest_romeo_juliet")
+                player.mes("qa_quest_rune_mysteries, qa_quest_restless_ghost")
+                player.mes("--- Legacy Tasks ---")
+                player.mes("test_woodcutting, test_mining, test_smithing")
+                player.mes("test_combat, test_shop")
+                player.mes("Total tasks: ${BotQaSystem.taskCount()}")
                 return
             }
             val botName = args[0]
