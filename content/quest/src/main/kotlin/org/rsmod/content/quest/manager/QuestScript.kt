@@ -3,6 +3,7 @@ package org.rsmod.content.quest.manager
 import dev.openrune.definition.type.widget.IfEvent
 import dev.openrune.rscm.RSCM
 import dev.openrune.rscm.RSCMType
+import org.rsmod.api.attr.AttributeKey
 import org.rsmod.api.player.output.runClientScript
 import org.rsmod.api.player.protect.ProtectedAccess
 import org.rsmod.api.player.ui.ifCloseModals
@@ -69,9 +70,25 @@ abstract class QuestScript(
     val completedQuestItemDisplay: ItemRewardDisplay,
 ) : PluginScript() {
 
+    companion object {
+        private val instances = mutableMapOf<String, QuestScript>()
+        private var sharedHandlersRegistered = false
+
+        /** Tracks which quest journal the player currently has open. */
+        private val ACTIVE_JOURNAL_QUEST = AttributeKey<String>("quest_active_journal")
+
+        fun get(key: String): QuestScript? = instances[key.normalizedQuestKey()]
+
+        fun all(): Collection<QuestScript> = instances.values
+    }
+
     private var Player.questState by intVarp(questVarp)
 
     val quest = Quest.register(questKey, questVarp, completedQuestItemDisplay, rewards)
+
+    init {
+        instances[questKey.normalizedQuestKey()] = this
+    }
 
     abstract fun subTitle(): String
 
@@ -95,22 +112,38 @@ abstract class QuestScript(
             player.questState = prog.varp
         }
 
-        onIfOverlayButton("component.questlist:list") { evt ->
-            if (evt.comsub != quest.id) return@onIfOverlayButton
+        // UI handlers (overlay + modal buttons) register exactly once
+        // then dispatch to the correct QuestScript dynamically
+        if (!sharedHandlersRegistered) {
+            sharedHandlersRegistered = true
+            registerSharedUIHandlers()
+        }
 
+        this.init()
+    }
+
+    @Suppress("UnusedReceiverParameter")
+    private fun ScriptContext.registerSharedUIHandlers() {
+        onIfOverlayButton("component.questlist:list") { evt ->
+            val clickedQuest = Quest.all().find { it.id == evt.comsub } ?: return@onIfOverlayButton
+            val script = get(clickedQuest.key) ?: return@onIfOverlayButton
+            val state = clickedQuest.questState(player)
             val journalState =
-                if (player.questState == QuestProgressState.NOT_STARTED.varp) {
+                if (state == QuestProgressState.NOT_STARTED) {
                     JournalState.OVERVIEW
                 } else {
                     JournalState.LOG
                 }
-
-            openJournal(this, journalState)
+            script.openJournal(this, journalState)
         }
 
-        onIfModalButton("component.questjournal_overview:close") { player.ifCloseModals(eventBus) }
+        onIfModalButton("component.questjournal_overview:close") {
+            player.ifCloseModals(eventBus)
+        }
 
-        onIfModalButton("component.questjournal:close") { player.ifCloseModals(eventBus) }
+        onIfModalButton("component.questjournal:close") {
+            player.ifCloseModals(eventBus)
+        }
 
         onIfModalButton("component.questjournal_overview:content_inner") {
             player.ifOpenOverlay("interface.worldmap", eventBus)
@@ -122,33 +155,46 @@ abstract class QuestScript(
                 IfEvent.Op3,
                 IfEvent.Op4,
             )
-
-            quest.startCoord?.let { coord ->
-                quest.mapElement?.let { element ->
-                    player.runClientScript(
-                        3331,
-                        RSCM.getRSCM("component.worldmap:map_noclick"),
-                        coord.packed,
-                        element,
-                    )
+            val activeQuestKey = player.attr[ACTIVE_JOURNAL_QUEST]
+            if (activeQuestKey != null) {
+                val activeQuest = Quest.get(activeQuestKey)
+                if (activeQuest != null) {
+                    activeQuest.startCoord?.let { coord ->
+                        activeQuest.mapElement?.let { element ->
+                            player.runClientScript(
+                                3331,
+                                RSCM.getRSCM("component.worldmap:map_noclick"),
+                                coord.packed,
+                                element,
+                            )
+                        }
+                    }
                 }
             }
         }
 
         onIfModalButton("component.questjournal:switch") {
-            openJournal(this, JournalState.OVERVIEW)
-        }
-        onIfModalButton("component.questjournal_overview:switch") {
-            openJournal(this, JournalState.LOG)
+            val activeQuestKey = player.attr[ACTIVE_JOURNAL_QUEST]
+            if (activeQuestKey != null) {
+                val script = get(activeQuestKey)
+                script?.openJournal(this, JournalState.OVERVIEW)
+            }
         }
 
-        this.init()
+        onIfModalButton("component.questjournal_overview:switch") {
+            val activeQuestKey = player.attr[ACTIVE_JOURNAL_QUEST]
+            if (activeQuestKey != null) {
+                val script = get(activeQuestKey)
+                script?.openJournal(this, JournalState.LOG)
+            }
+        }
     }
 
-    fun openJournal(player: ProtectedAccess, type: JournalState) {
+    fun openJournal(access: ProtectedAccess, type: JournalState) {
+        access.player.attr[ACTIVE_JOURNAL_QUEST] = quest.key
         when (type) {
-            JournalState.OVERVIEW -> openJournalOverview(player)
-            JournalState.LOG -> openQuestLog(player)
+            JournalState.OVERVIEW -> openJournalOverview(access)
+            JournalState.LOG -> openQuestLog(access)
         }
     }
 
@@ -182,7 +228,10 @@ abstract class QuestScript(
 
         access.ifOpenMain("interface.questjournal")
         access.runClientScript(5240)
-        access.ifSetText("component.questjournal:title", "<col=7f0000>${quest.displayName}</col>")
+        access.ifSetText(
+            "component.questjournal:title",
+            "<col=7f0000>${quest.displayName}</col>",
+        )
 
         lines.forEachIndexed { index, line ->
             access.ifSetText("component.questjournal:qj${index + 1}", line)

@@ -44,21 +44,84 @@ Is NPC needed for a quest?
 | **9** | **Template** | 🟡 IN PROGRESS | This doc |
 | **10** | **Verify** | 🔴 NOT DONE | Need compile+restart+walkthrough |
 
+## Evidence States
+
+Use these states instead of vague done/not done claims:
+
+| State | Meaning |
+|-------|---------|
+| **PASS** | Verified by compile/build/runtime evidence listed in the layer notes. |
+| **PASS-COMPILE** | Code compiles, but player-facing runtime behavior still needs walkthrough. |
+| **RUNTIME-REQUIRED** | Cannot be closed without in-game/client verification. |
+| **DEFERRED** | Accepted known gap with an entry in `docs/deferred-items.md`. |
+| **FAIL** | Tested and broken; blocks current milestone unless explicitly deferred. |
+| **ASSUMED** | Source data suggests it should work, but no direct verification yet. Avoid leaving this state at milestone close. |
+
+## Layer 0 — Evidence Packet (Mandatory)
+
+Before Layer 1, create a compact evidence packet for the zone. This prevents us from trusting stale docs or old roadmap claims.
+
+Required inputs:
+
+1. **Corpus** — `tools/data/corpus/parsed-data/`
+   - `npc_directory.json`: named NPCs, locations, quest ties, membership flags.
+   - `shops.json`: shop names, owners, specialty, members flag.
+   - `quest_lookup.json`: start points, requirements, required items, enemies, guide page.
+   - `npc_spawns.json`: monster spawn `LocLine` coordinates from OSRS Wiki where available.
+   - `item_by_name.json` / `monster_by_name.json`: item and combat stats details.
+2. **Raw cache map data** — `.data/raw-cache/map/`
+   - `npcs/<zone>.toml`: actual spawn symbols and coordinates.
+   - `objs/<zone>.toml`: ground item symbols and coordinates.
+   - `area/<zone>.toml` when present.
+3. **Gamevals / cache lookup** — via `osrs-mcp` when symbol details are unclear:
+   - `gameval_search`: resolve `npc.*`, `obj.*`, `loc.*`, `varp.*`, `varbit.*` names/ids.
+   - `cache_search`: inspect decoded cache definitions for NPC stats, actions, item properties, varps/varbits.
+   - `wiki_npc_spawns`: fetch wiki spawn coordinates and resolve infobox NPC ids to gamevals.
+4. **Code coverage** — existing `.kt` handlers in the zone module and generic modules.
+5. **Runtime evidence** — client walkthrough, bot/AgentBridge script, or explicit `RUNTIME-REQUIRED` flag.
+
+Evidence packet format:
+
+```yaml
+zone: lumbridge
+source_snapshot:
+  corpus:
+    npc_directory_matches: 142
+    shops_matches: 7
+    quest_lookup_entries: ["Cook's Assistant", "Rune Mysteries", "The Restless Ghost"]
+  raw_cache:
+    npc_files: [".data/raw-cache/map/npcs/lumbridge.toml", "..."]
+    unique_npc_symbols: 112
+    npc_spawns: 377
+    ground_obj_spawns: 55
+  code:
+    zone_kt_files: 27
+    direct_handler_symbols: 41
+  build:
+    module_compile: PASS
+    full_compile: NOT_RUN
+  runtime:
+    walkthrough: RUNTIME-REQUIRED
+```
+
 ## Layer Workflow (Ordered)
 
-Each zone follows these layers in order. Do not skip ahead or move to the next zone until the current zone's layers are complete.
+Each zone follows these layers in order. Do not skip ahead or move to the next zone until the current zone's layers are complete or explicitly deferred with evidence.
 
 ### Layer 1 — Audit
 **Goal:** Know exactly what exists vs what OSRS says should be there.
 
-1. Query corpus for all NPCs in zone: `tools/data/corpus/parsed-data/npc_by_name.json` filtered by location
-2. Check NPC spawn files: `.data/raw-cache/map/npcs/<zone>.toml`
-3. Check ground item spawns: `.data/raw-cache/map/objs/<zone>.toml`
-4. Check monster spawns: `tools/data/corpus/parsed-data/npc_spawns.json`
-5. Cross-reference existing handlers: `find content/areas/city/<zone>/ -name "*.kt"`
-6. Check generic handlers: `content/generic/generic-npcs/`
-7. Classify each NPC by tier (Major/Minor/Generic)
-8. Output: Gap list with NPCs, shops, items, monsters, interactables
+1. Build Layer 0 evidence packet from corpus, raw-cache, gamevals/cache lookup, code coverage, and runtime status.
+2. Query corpus for zone NPCs: start with `npc_directory.json`, then drill into `npc_by_name.json` for details.
+3. Check actual NPC spawn files: `.data/raw-cache/map/npcs/<zone>.toml` and companion files such as `<zone>_underground.toml` / `<zone>_manor_forest.toml`.
+4. Check ground item spawns: `.data/raw-cache/map/objs/<zone>.toml`.
+5. Check OSRS monster spawn coordinates: `npc_spawns.json` or `osrs-mcp wiki_npc_spawns`.
+6. Check shops: `shops.json` plus `.data/raw-cache/server/shops/*.toml`.
+7. Check quest requirements: `quest_lookup.json` plus quest guide page if needed.
+8. Cross-reference existing handlers: `content/areas/city/<zone>/src/main/kotlin/...`.
+9. Check generic handlers: `content/generic/generic-npcs/` and `content/generic/generic-locs/`.
+10. Classify each candidate by Tier 1 / Tier 2 / Tier 3 / combat-only / event-member-only.
+11. Output: evidence packet + gap list with NPCs, shops, items, monsters, interactables, quests, and runtime requirements.
 
 ### Layer 2 — NPCs
 **Goal:** Every interactive NPC in the zone has a dialogue handler.
@@ -194,11 +257,18 @@ Each zone follows these layers in order. Do not skip ahead or move to the next z
 ## Audit
 
 ### Tools
-- **Corpus:** `tools/data/corpus/parsed-data/npc_by_name.json` — filter by `location` containing zone name
-- **Corpus:** `tools/data/corpus/parsed-data/npc_spawns.json` — spawn coordinates
-- **Corpus:** `tools/data/corpus/parsed-data/shops.json` — shop definitions
-- **Corpus:** `tools/data/corpus/parsed-data/item_by_name.json` — item IDs
-- **osrs-mcp:** `./gradlew :tools:osrs-mcp:runMcp` — cache symbol lookups
+- **Corpus:** `tools/data/corpus/parsed-data/npc_directory.json` — named NPCs by location, quest ties, membership flags.
+- **Corpus:** `tools/data/corpus/parsed-data/npc_by_name.json` — detailed NPC lookup by name.
+- **Corpus:** `tools/data/corpus/parsed-data/npc_spawns.json` — OSRS Wiki monster LocLine coordinates.
+- **Corpus:** `tools/data/corpus/parsed-data/shops.json` — shop owner/specialty/membership metadata.
+- **Corpus:** `tools/data/corpus/parsed-data/quest_lookup.json` — quest requirements, start points, items, enemies, guide page.
+- **Corpus:** `tools/data/corpus/parsed-data/item_by_name.json` — item requirements and IDs.
+- **Raw cache:** `.data/raw-cache/map/npcs/<zone>.toml` — actual NPC spawn symbols/coordinates.
+- **Raw cache:** `.data/raw-cache/map/objs/<zone>.toml` — actual ground item spawn symbols/coordinates.
+- **Raw cache:** `.data/raw-cache/server/{npcs,loc,obj,varp,varbit}.toml` — server-side type data.
+- **osrs-mcp:** `wiki_npc_spawns` — wiki spawn coords + infobox NPC ids resolved through gamevals.
+- **osrs-mcp:** `gameval_search` — exact `npc.*`, `obj.*`, `loc.*`, `varp.*`, `varbit.*` symbol resolution.
+- **osrs-mcp:** `cache_search` — decoded LIVE/SERVER cache details such as NPC actions/combat/hp and item properties.
 
 ### What to capture
 - NPCs in zone (name, location, F2P/P2P, quest involvement)
@@ -215,9 +285,52 @@ npc_name:
   location: "description"
   f2p: true/false
   quest: "quest_name or null"
+  raw_spawn_symbol: "npc.<symbol> or null"
+  raw_spawn_count: 0
+  corpus_ids: ["815"]
   handler_exists: true/false
-  notes: "dialogue complexity, quest gating, etc."
+  generic_content_group: "content.<group> or null"
+  runtime_test: required/not_required/done
+  status: PASS/PASS-COMPILE/RUNTIME-REQUIRED/DEFERRED/FAIL/ASSUMED
+  notes: "dialogue complexity, quest gating, shop, combat-only, event/member-only, etc."
 ```
+
+### Classification rules
+
+- **Tier 1:** Quest NPCs, shopkeepers, tutorial/service NPCs, unique named NPCs with player-facing dialogue or actions.
+- **Tier 2:** Minor named NPCs sharing simple dialogue or repeated behavior.
+- **Tier 3:** Generic content-group NPCs/locs covered by shared modules (`content.person`, `content.cow`, doors, gates, ladders, etc.).
+- **Combat-only:** Monsters/animals that need spawn/combat/drop verification, not dialogue handlers.
+- **Event/member-only:** Present in corpus but out of current F2P zone scope unless the raw cache spawn exists in our map file.
+
+### Coverage rules
+
+- Corpus `location contains zone` is broad. It finds quest/cutscene/member variants too. Filter by:
+  1. `is_members == false` unless deliberately doing members content.
+  2. raw cache spawn symbol exists in `.data/raw-cache/map/npcs/<zone>.toml` OR the NPC is quest-required for the zone.
+  3. current milestone scope.
+- Raw cache spawn exists but no direct handler is not automatically a gap. First check generic content groups and combat-only status.
+- Shop coverage requires both NPC interaction and shop stock verification.
+- Quest coverage requires quest lookup data, varp/varbit mapping, item requirements, NPC/loc/object symbols, and runtime stage walkthrough.
+
+### Example research outputs from 2026-06-28
+
+Lumbridge:
+- Corpus `npc_directory` broad match: 142 entries.
+- Corpus shops broad match: 7 entries; F2P practical shops include Bob's Brilliant Axes, Lumbridge General Store, and The Sheared Ram.
+- Raw cache `npcs/lumbridge.toml`: 377 spawns, 112 unique NPC symbols.
+- Raw cache `objs/lumbridge.toml`: 55 ground item spawns.
+- Zone code: 27 Kotlin files; 41 direct registered NPC/LOC symbols found in Lumbridge handlers.
+
+Draynor seed for next template run:
+- Corpus `npc_directory` broad match: 53 entries.
+- Corpus shops broad match: 8 entries; F2P practical shops include Diango's Toy Store, Wine Shop, Ned's rope shop, and Forestry Shop.
+- Raw cache `npcs/draynor.toml`: 88 spawns, 58 unique NPC symbols.
+- Raw cache `npcs/draynor_manor_forest.toml`: 41 spawns, 19 unique NPC symbols.
+- Raw cache `objs/draynor.toml`: 7 ground item spawns, 6 unique object symbols.
+- Raw cache `objs/draynor_manor_forest.toml`: 8 ground item spawns, 8 unique object symbols.
+- Quest-critical F2P NPCs from corpus: Morgan (Vampyre Slayer), Veronica/Ernest/Professor Oddenstein (Ernest the Chicken), Aggie/Ned/Leela/Lady Keli/Joe/Prince Ali (Prince Ali Rescue), Diango, Fortunato, Wise Old Man, bankers.
+- Quest lookup confirms: Vampyre Slayer needs hammer/beer/stake and Count Draynor combat; Ernest needs spade/fish food/poison; Prince Ali Rescue needs multi-item disguise/jail workflow.
 
 ---
 
