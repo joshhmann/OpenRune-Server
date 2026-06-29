@@ -25,7 +25,9 @@ class PotionScript : PluginScript() {
     override fun ScriptContext.startup() {
         // Register drink handler (op2 = right-click "Drink") for each potion dose
         for (potionName in PotionRegistry.ALL_POTION_NAMES) {
-            onOpHeld2(potionName) { drinkPotion(potionName, it.slot) }
+            runCatching {
+                onOpHeld2(potionName) { drinkPotion(potionName, it.slot) }
+            }
         }
     }
 
