@@ -1028,3 +1028,28 @@ Refactored `QuestScript`:
 | `content/quest/.../RuneMysteries.kt` | Removed `startup()` override — parent handles login sync |
 | `content/quest/manager/QuestScript.kt` | Single registration for shared UI handlers + per-player attribute dispatch |
 |
+## Session: June 29, 2026 — QA Bot Testing Framework (The Intern)
+
+### What was built
+**Phase 1-2 complete.** The intern is a Python/WebSocket agent that connects to AgentBridge on port 43595 and autonomously explores Lumbridge.
+
+**Capabilities validated:**
+- Bot spawn at any coordinate ✅
+- Pathfinding across Lumbridge ✅
+- NPC state detection (distance, name, ID, combat status) ✅
+- NPC interaction (talk-to) ✅
+- Dialogue reading (modal IDs, line text) ✅
+- Walking with intermediate state updates per tick ✅
+
+**Server-side additions:**
+- `progressive-bots/qa/BotQaSystem.kt` — 27 registered QA test tasks (::botqa commands)
+- `progressive-bots/qa/QaTestNodes.kt` — 14 behavior tree nodes for walk, interact, wait, report
+- `agent-bridge/testing/` — 7 files: TestPresets, TestResultReporter, ActionRetry, WaitConditions, SaveStateManager, LearningDocs, TestingModule
+- `tools/qa-agent/agent_bridge_client.py` — Full Python WebSocket client
+- `tools/qa-agent/tests/` — 3 JSON test specs (NPC tour, doors, Cook's Assistant)
+
+**Fixes bundled:**
+- CooksAssistant.kt: 3 hasItem() calls missing 'obj.' prefix (quest journal crash fix)
+
+### Pushed
+`28ad1dc5` to `joshhmann/main`
