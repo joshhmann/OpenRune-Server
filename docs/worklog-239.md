@@ -75,5 +75,28 @@ Nei researched corpus and osrs-mcp surfaces to strengthen the zone template and 
 - `docs/zone-workflow.md`: added Layer 0 evidence packet, evidence states, corpus/raw-cache/osrs-mcp source map, gap schema, classification rules, coverage rules, Lumbridge/Draynor research examples.
 - `docs/pm-audit-and-workflow.md`: added mandatory research gate before implementation task specs.
 
+### Phase 2 — Fishing (COMPLETE — March 29, 2026)
+Fishing skill module created with full F2P implementation:
+
+**Files created/updated:**
+- `content/skills/fishing/build.gradle.kts` — added pluginCommons dependency
+- `content/skills/fishing/src/main/kotlin/.../FishingModule.kt` — PluginModule binding
+- `content/skills/fishing/src/main/kotlin/.../scripts/Fishing.kt` — main fishing script
+
+**Implementation:**
+- Adapted from rev 233 Fishing.kt — converted from `onOpNpc1(FishingNpcs.*)` to `onOpNpc1("npc.0_50_50_freshfish")` (239 string-based style)
+- Follows 239 Woodcutting pattern for tick loop (actionDelay/skillAnimDelay)
+- Freshwater spot (net: shrimp/anchovies, bait: sardine/herring) bound to `npc.0_50_50_freshfish`
+- Saltwater spot (cage: lobster, harpoon: tuna/swordfish) bound to `npc.0_50_49_saltfish`
+- Inline data tables for FishingTool, FishCatch, SpotAction (companion object, 233 style)
+- Uses 239 API: `statRandom("stat.fishing", ...)`, `statAdvance("stat.fishing", ...)`, `invAdd(inv, "obj.xxx")`, `inv.contains("obj.xxx")`
+
+**Compilation:** `./gradlew :content:skills:fishing:compileKotlin` — BUILD SUCCESSFUL (3s)
+
+**Runtime notes:**
+- Basic fishing items (nets, rods, raw fish, bait) need registration in `items.toml` before runtime testing
+- Fishing spot NPC spawns need to be placed in Lumbridge area content
+- See Fishing.kt TODO comments for future expansions (lure/bait spots, P2P fish, spot despawn)
+
 ### Next
 Use the research gate for the Rune Mysteries repair package and for the later Draynor template run. No kanban cards created yet per Josh's direction.
