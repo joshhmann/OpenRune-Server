@@ -1551,3 +1551,380 @@ contentGroup = "content.cooking_range_hosidius"
 id = "loc.hos_cooking_range_02"
 inherit = "loc.hos_cooking_range_02"
 contentGroup = "content.cooking_range_hosidius"
+
+[[object]]
+id = "loc.clayrock1"
+inherit = "loc.clayrock1"
+contentGroup = "content.ore"
+
+[object.params]
+"param.levelrequire" = 1
+"param.skill_xp" = 500
+"param.skill_productitem" = "obj.clay"
+"param.next_loc_stage" = "loc.rocks1"
+"param.deplete_chance" = 51
+"param.respawn_time" = 0
+"param.respawn_time_low" = 3
+"param.respawn_time_high" = 6
+
+[[object]]
+id = "loc.clayrock2"
+inherit = "loc.clayrock2"
+contentGroup = "content.ore"
+
+[object.params]
+"param.levelrequire" = 1
+"param.skill_xp" = 500
+"param.skill_productitem" = "obj.clay"
+"param.next_loc_stage" = "loc.rocks2"
+"param.deplete_chance" = 51
+"param.respawn_time" = 0
+"param.respawn_time_low" = 3
+"param.respawn_time_high" = 6
+
+[[object]]
+id = "loc.copperrock1"
+inherit = "loc.copperrock1"
+contentGroup = "content.ore"
+
+[object.params]
+"param.levelrequire" = 1
+"param.skill_xp" = 1750
+"param.skill_productitem" = "obj.copper_ore"
+"param.next_loc_stage" = "loc.rocks1"
+"param.deplete_chance" = 32
+"param.respawn_time" = 0
+"param.respawn_time_low" = 3
+"param.respawn_time_high" = 6
+
+[[object]]
+id = "loc.copperrock2"
+inherit = "loc.copperrock2"
+contentGroup = "content.ore"
+
+[object.params]
+"param.levelrequire" = 1
+"param.skill_xp" = 1750
+"param.skill_productitem" = "obj.copper_ore"
+"param.next_loc_stage" = "loc.rocks2"
+"param.deplete_chance" = 32
+"param.respawn_time" = 0
+"param.respawn_time_low" = 3
+"param.respawn_time_high" = 6
+
+[[object]]
+id = "loc.tinrock1"
+inherit = "loc.tinrock1"
+contentGroup = "content.ore"
+
+[object.params]
+"param.levelrequire" = 1
+"param.skill_xp" = 1750
+"param.skill_productitem" = "obj.tin_ore"
+"param.next_loc_stage" = "loc.rocks1"
+"param.deplete_chance" = 32
+"param.respawn_time" = 0
+"param.respawn_time_low" = 3
+"param.respawn_time_high" = 6
+
+[[object]]
+id = "loc.tinrock2"
+inherit = "loc.tinrock2"
+contentGroup = "content.ore"
+
+[object.params]
+"param.levelrequire" = 1
+"param.skill_xp" = 1750
+"param.skill_productitem" = "obj.tin_ore"
+"param.next_loc_stage" = "loc.rocks2"
+"param.deplete_chance" = 32
+"param.respawn_time" = 0
+"param.respawn_time_low" = 3
+"param.respawn_time_high" = 6
+
+[[object]]
+id = "loc.ironrock1"
+inherit = "loc.ironrock1"
+contentGroup = "content.ore"
+
+[object.params]
+"param.levelrequire" = 15
+"param.skill_xp" = 3500
+"param.skill_productitem" = "obj.iron_ore"
+"param.next_loc_stage" = "loc.rocks1"
+"param.deplete_chance" = 64
+"param.respawn_time" = 0
+"param.respawn_time_low" = 5
+"param.respawn_time_high" = 9
+
+[[object]]
+id = "loc.ironrock2"
+inherit = "loc.ironrock2"
+contentGroup = "content.ore"
+
+[object.params]
+"param.levelrequire" = 15
+"param.skill_xp" = 3500
+"param.skill_productitem" = "obj.iron_ore"
+"param.next_loc_stage" = "loc.rocks2"
+"param.deplete_chance" = 64
+"param.respawn_time" = 0
+"param.respawn_time_low" = 5
+"param.respawn_time_high" = 9
+
+[[object]]
+id = "loc.silverrock1"
+inherit = "loc.silverrock1"
+contentGroup = "content.ore"
+
+[object.params]
+"param.levelrequire" = 20
+"param.skill_xp" = 4000
+"param.skill_productitem" = "obj.silver_ore"
+"param.next_loc_stage" = "loc.rocks1"
+"param.deplete_chance" = 64
+"param.respawn_time" = 0
+"param.respawn_time_low" = 12
+"param.respawn_time_high" = 20
+
+[[object]]
+id = "loc.silverrock2"
+inherit = "loc.silverrock2"
+contentGroup = "content.ore"
+
+[object.params]
+"param.levelrequire" = 20
+"param.skill_xp" = 4000
+"param.skill_productitem" = "obj.silver_ore"
+"param.next_loc_stage" = "loc.rocks2"
+"param.deplete_chance" = 64
+"param.respawn_time" = 0
+"param.respawn_time_low" = 12
+"param.respawn_time_high" = 20
+
+[[object]]
+id = "loc.coalrock1"
+inherit = "loc.coalrock1"
+contentGroup = "content.ore"
+
+[object.params]
+"param.levelrequire" = 30
+"param.skill_xp" = 5000
+"param.skill_productitem" = "obj.coal"
+"param.next_loc_stage" = "loc.rocks2"
+"param.deplete_chance" = 28
+"param.respawn_time" = 0
+"param.respawn_time_low" = 45
+"param.respawn_time_high" = 55
+
+[[object]]
+id = "loc.coalrock2"
+inherit = "loc.coalrock2"
+contentGroup = "content.ore"
+
+[object.params]
+"param.levelrequire" = 30
+"param.skill_xp" = 5000
+"param.skill_productitem" = "obj.coal"
+"param.next_loc_stage" = "loc.rocks1"
+"param.deplete_chance" = 28
+"param.respawn_time" = 0
+"param.respawn_time_low" = 45
+"param.respawn_time_high" = 55
+
+[[object]]
+id = "loc.goldrock1"
+inherit = "loc.goldrock1"
+contentGroup = "content.ore"
+
+[object.params]
+"param.levelrequire" = 40
+"param.skill_xp" = 6500
+"param.skill_productitem" = "obj.gold_ore"
+"param.next_loc_stage" = "loc.rocks1"
+"param.deplete_chance" = 51
+"param.respawn_time" = 0
+"param.respawn_time_low" = 45
+"param.respawn_time_high" = 55
+
+[[object]]
+id = "loc.goldrock2"
+inherit = "loc.goldrock2"
+contentGroup = "content.ore"
+
+[object.params]
+"param.levelrequire" = 40
+"param.skill_xp" = 6500
+"param.skill_productitem" = "obj.gold_ore"
+"param.next_loc_stage" = "loc.rocks2"
+"param.deplete_chance" = 51
+"param.respawn_time" = 0
+"param.respawn_time_low" = 45
+"param.respawn_time_high" = 55
+
+[[object]]
+id = "loc.mithrilrock1"
+inherit = "loc.mithrilrock1"
+contentGroup = "content.ore"
+
+[object.params]
+"param.levelrequire" = 55
+"param.skill_xp" = 8000
+"param.skill_productitem" = "obj.mithril_ore"
+"param.next_loc_stage" = "loc.rocks1"
+"param.deplete_chance" = 51
+"param.respawn_time" = 0
+"param.respawn_time_low" = 140
+"param.respawn_time_high" = 175
+
+[[object]]
+id = "loc.mithrilrock2"
+inherit = "loc.mithrilrock2"
+contentGroup = "content.ore"
+
+[object.params]
+"param.levelrequire" = 55
+"param.skill_xp" = 8000
+"param.skill_productitem" = "obj.mithril_ore"
+"param.next_loc_stage" = "loc.rocks2"
+"param.deplete_chance" = 51
+"param.respawn_time" = 0
+"param.respawn_time_low" = 140
+"param.respawn_time_high" = 175
+
+[[object]]
+id = "loc.adamantiterock1"
+inherit = "loc.adamantiterock1"
+contentGroup = "content.ore"
+
+[object.params]
+"param.levelrequire" = 70
+"param.skill_xp" = 9500
+"param.skill_productitem" = "obj.adamantite_ore"
+"param.next_loc_stage" = "loc.rocks1"
+"param.deplete_chance" = 64
+"param.respawn_time" = 0
+"param.respawn_time_low" = 240
+"param.respawn_time_high" = 300
+
+[[object]]
+id = "loc.adamantiterock2"
+inherit = "loc.adamantiterock2"
+contentGroup = "content.ore"
+
+[object.params]
+"param.levelrequire" = 70
+"param.skill_xp" = 9500
+"param.skill_productitem" = "obj.adamantite_ore"
+"param.next_loc_stage" = "loc.rocks2"
+"param.deplete_chance" = 64
+"param.respawn_time" = 0
+"param.respawn_time_low" = 240
+"param.respawn_time_high" = 300
+
+[[object]]
+id = "loc.runiterock1"
+inherit = "loc.runiterock1"
+contentGroup = "content.ore"
+
+[object.params]
+"param.levelrequire" = 85
+"param.skill_xp" = 12500
+"param.skill_productitem" = "obj.runite_ore"
+"param.next_loc_stage" = "loc.rocks1"
+"param.deplete_chance" = 102
+"param.respawn_time" = 0
+"param.respawn_time_low" = 480
+"param.respawn_time_high" = 560
+
+[[object]]
+id = "loc.runiterock2"
+inherit = "loc.runiterock2"
+contentGroup = "content.ore"
+
+[object.params]
+"param.levelrequire" = 85
+"param.skill_xp" = 12500
+"param.skill_productitem" = "obj.runite_ore"
+"param.next_loc_stage" = "loc.rocks2"
+"param.deplete_chance" = 102
+"param.respawn_time" = 0
+"param.respawn_time_low" = 480
+"param.respawn_time_high" = 560
+
+[[object]]
+id = "loc.blurite_rock_1"
+inherit = "loc.blurite_rock_1"
+contentGroup = "content.ore"
+
+[object.params]
+"param.levelrequire" = 10
+"param.skill_xp" = 1750
+"param.skill_productitem" = "obj.blurite_ore"
+"param.next_loc_stage" = "loc.rocks1"
+"param.deplete_chance" = 32
+"param.respawn_time" = 0
+"param.respawn_time_low" = 3
+"param.respawn_time_high" = 6
+
+[[object]]
+id = "loc.blurite_rock_2"
+inherit = "loc.blurite_rock_2"
+contentGroup = "content.ore"
+
+[object.params]
+"param.levelrequire" = 10
+"param.skill_xp" = 1750
+"param.skill_productitem" = "obj.blurite_ore"
+"param.next_loc_stage" = "loc.rocks2"
+"param.deplete_chance" = 32
+"param.respawn_time" = 0
+"param.respawn_time_low" = 3
+"param.respawn_time_high" = 6
+
+# Rune essence — never depletes, self-references next_loc_stage
+[[object]]
+id = "loc.big_essence_rock"
+inherit = "loc.big_essence_rock"
+contentGroup = "content.ore"
+
+[object.params]
+"param.levelrequire" = 1
+"param.skill_xp" = 500
+"param.skill_productitem" = "obj.blankrune"
+"param.next_loc_stage" = "loc.big_essence_rock"
+"param.deplete_chance" = 0
+"param.respawn_time" = 0
+"param.respawn_time_low" = 0
+"param.respawn_time_high" = 0
+
+# Gem rocks
+[[object]]
+id = "loc.gemrock1"
+inherit = "loc.gemrock1"
+contentGroup = "content.ore"
+
+[object.params]
+"param.levelrequire" = 40
+"param.skill_xp" = 6500
+"param.skill_productitem" = "obj.uncut_sapphire"
+"param.next_loc_stage" = "loc.rocks1"
+"param.deplete_chance" = 51
+"param.respawn_time" = 0
+"param.respawn_time_low" = 90
+"param.respawn_time_high" = 110
+
+[[object]]
+id = "loc.gemrock"
+inherit = "loc.gemrock"
+contentGroup = "content.ore"
+
+[object.params]
+"param.levelrequire" = 40
+"param.skill_xp" = 6500
+"param.skill_productitem" = "obj.uncut_sapphire"
+"param.next_loc_stage" = "loc.rocks2"
+"param.deplete_chance" = 51
+"param.respawn_time" = 0
+"param.respawn_time_low" = 90
+"param.respawn_time_high" = 110

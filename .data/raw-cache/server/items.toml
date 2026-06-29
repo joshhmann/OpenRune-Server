@@ -6119,6 +6119,7 @@ weaponCategory="Spear"
 [[item]]
 id = "obj.bronze_pickaxe"
 inherit = "obj.bronze_pickaxe"
+contentGroup = 51
 weaponCategory="Pickaxe"
 [item.params]
 "param.equipment_sound"=2229
@@ -6132,11 +6133,14 @@ weaponCategory="Pickaxe"
 "param.attack_sound_stance4"=2498
 "param.defend_anim"="seq.human_axe_block"
 "param.attackrate"=5
+"param.levelrequire"=1
+"param.skill_anim"="seq.human_mining_bronze_pickaxe"
 
 
 [[item]]
 id = "obj.iron_pickaxe"
 inherit = "obj.iron_pickaxe"
+contentGroup = 51
 weaponCategory="Pickaxe"
 [item.params]
 "param.equipment_sound"=2229
@@ -6150,11 +6154,14 @@ weaponCategory="Pickaxe"
 "param.attack_sound_stance4"=2498
 "param.defend_anim"="seq.human_axe_block"
 "param.attackrate"=5
+"param.levelrequire"=1
+"param.skill_anim"="seq.human_mining_iron_pickaxe"
 
 
 [[item]]
 id = "obj.steel_pickaxe"
 inherit = "obj.steel_pickaxe"
+contentGroup = 51
 weaponCategory="Pickaxe"
 [item.params]
 "param.equipment_sound"=2229
@@ -6168,11 +6175,14 @@ weaponCategory="Pickaxe"
 "param.attack_sound_stance4"=2498
 "param.defend_anim"="seq.human_axe_block"
 "param.attackrate"=5
+"param.levelrequire"=6
+"param.skill_anim"="seq.human_mining_steel_pickaxe"
 
 
 [[item]]
 id = "obj.adamant_pickaxe"
 inherit = "obj.adamant_pickaxe"
+contentGroup = 51
 weaponCategory="Pickaxe"
 [item.params]
 "param.equipment_sound"=2229
@@ -6186,11 +6196,14 @@ weaponCategory="Pickaxe"
 "param.attack_sound_stance4"=2498
 "param.defend_anim"="seq.human_axe_block"
 "param.attackrate"=5
+"param.levelrequire"=31
+"param.skill_anim"="seq.human_mining_adamant_pickaxe"
 
 
 [[item]]
 id = "obj.mithril_pickaxe"
 inherit = "obj.mithril_pickaxe"
+contentGroup = 51
 weaponCategory="Pickaxe"
 [item.params]
 "param.equipment_sound"=2229
@@ -6204,11 +6217,14 @@ weaponCategory="Pickaxe"
 "param.attack_sound_stance4"=2498
 "param.defend_anim"="seq.human_axe_block"
 "param.attackrate"=5
+"param.levelrequire"=21
+"param.skill_anim"="seq.human_mining_mithril_pickaxe"
 
 
 [[item]]
 id = "obj.rune_pickaxe"
 inherit = "obj.rune_pickaxe"
+contentGroup = 51
 weaponCategory="Pickaxe"
 [item.params]
 "param.equipment_sound"=2229
@@ -6222,6 +6238,8 @@ weaponCategory="Pickaxe"
 "param.attack_sound_stance4"=2498
 "param.defend_anim"="seq.human_axe_block"
 "param.attackrate"=5
+"param.levelrequire"=41
+"param.skill_anim"="seq.human_mining_rune_pickaxe"
 
 
 [[item]]
@@ -15562,6 +15580,7 @@ weaponCategory="PoweredStaff"
 [[item]]
 id = "obj.dragon_pickaxe"
 inherit = "obj.dragon_pickaxe"
+contentGroup = 51
 weaponCategory="Pickaxe"
 [item.params]
 "param.equipment_sound"=2229
@@ -15575,6 +15594,8 @@ weaponCategory="Pickaxe"
 "param.attack_sound_stance4"=2498
 "param.defend_anim"="seq.human_axe_block"
 "param.attackrate"=5
+"param.levelrequire"=61
+"param.skill_anim"="seq.human_mining_dragon_pickaxe"
 
 
 [[item]]
@@ -15713,6 +15734,7 @@ weaponCategory="Staff"
 [[item]]
 id = "obj.black_pickaxe"
 inherit = "obj.black_pickaxe"
+contentGroup = 51
 weaponCategory="Pickaxe"
 [item.params]
 "param.equipment_sound"=2229
@@ -15726,6 +15748,8 @@ weaponCategory="Pickaxe"
 "param.attack_sound_stance4"=2498
 "param.defend_anim"="seq.human_axe_block"
 "param.attackrate"=5
+"param.levelrequire"=11
+"param.skill_anim"="seq.human_mining_black_pickaxe"
 
 
 [[item]]
@@ -16875,6 +16899,7 @@ tradeable = false
 [[item]]
 id = "obj.infernal_pickaxe"
 inherit = "obj.infernal_pickaxe"
+contentGroup = 51
 weaponCategory="Pickaxe"
 tradeable = false
 [item.params]
@@ -16889,6 +16914,8 @@ tradeable = false
 "param.attack_sound_stance4"=2498
 "param.defend_anim"="seq.human_axe_block"
 "param.attackrate"=5
+"param.levelrequire"=61
+"param.skill_anim"="seq.human_mining_infernal_pickaxe"
 
 
 [[item]]
@@ -17170,6 +17197,7 @@ tradeable = false
 [[item]]
 id = "obj.3a_pickaxe"
 inherit = "obj.3a_pickaxe"
+contentGroup = 51
 weaponCategory="Pickaxe"
 [item.params]
 "param.equipment_sound"=2229
@@ -17183,6 +17211,8 @@ weaponCategory="Pickaxe"
 "param.attack_sound_stance4"=2498
 "param.defend_anim"="seq.human_axe_block"
 "param.attackrate"=5
+"param.levelrequire"=61
+"param.skill_anim"="seq.human_mining_3a_pickaxe"
 
 
 [[item]]
@@ -19447,6 +19477,7 @@ tradeable = false
 [[item]]
 id = "obj.trail_gilded_pickaxe"
 inherit = "obj.trail_gilded_pickaxe"
+contentGroup = 51
 weaponCategory="Pickaxe"
 [item.params]
 "param.equipment_sound"=2229
@@ -19460,6 +19491,8 @@ weaponCategory="Pickaxe"
 "param.attack_sound_stance4"=2498
 "param.defend_anim"="seq.human_axe_block"
 "param.attackrate"=5
+"param.levelrequire"=41
+"param.skill_anim"="seq.human_mining_gilded_pickaxe"
 
 
 [[item]]
@@ -19896,6 +19929,7 @@ tradeable = false
 [[item]]
 id = "obj.zalcano_pickaxe"
 inherit = "obj.zalcano_pickaxe"
+contentGroup = 51
 weaponCategory="Pickaxe"
 tradeable = false
 [item.params]
@@ -19910,11 +19944,14 @@ tradeable = false
 "param.attack_sound_stance4"=2498
 "param.defend_anim"="seq.human_axe_block"
 "param.attackrate"=5
+"param.levelrequire"=61
+"param.skill_anim"="seq.human_mining_zalcano_pickaxe"
 
 
 [[item]]
 id = "obj.crystal_pickaxe"
 inherit = "obj.crystal_pickaxe"
+contentGroup = 51
 weaponCategory="Pickaxe"
 tradeable = false
 [item.params]
@@ -19929,6 +19966,8 @@ tradeable = false
 "param.attack_sound_stance4"=2498
 "param.defend_anim"="seq.human_axe_block"
 "param.attackrate"=5
+"param.levelrequire"=71
+"param.skill_anim"="seq.human_mining_crystal_pickaxe"
 
 
 [[item]]
@@ -21254,6 +21293,7 @@ tradeable = false
 [[item]]
 id = "obj.trailblazer_pickaxe"
 inherit = "obj.trailblazer_pickaxe"
+contentGroup = 51
 weaponCategory="Pickaxe"
 tradeable = false
 [item.params]
@@ -21268,6 +21308,8 @@ tradeable = false
 "param.attack_sound_stance4"=2498
 "param.defend_anim"="seq.human_axe_block"
 "param.attackrate"=5
+"param.levelrequire"=61
+"param.skill_anim"="seq.human_mining_trailblazer_pickaxe"
 
 
 [[item]]
@@ -21429,6 +21471,7 @@ tradeable = false
 [[item]]
 id = "obj.trailblazer_pickaxe_no_infernal"
 inherit = "obj.trailblazer_pickaxe_no_infernal"
+contentGroup = 51
 weaponCategory="Pickaxe"
 tradeable = false
 [item.params]
@@ -21443,6 +21486,8 @@ tradeable = false
 "param.attack_sound_stance4"=2498
 "param.defend_anim"="seq.human_axe_block"
 "param.attackrate"=5
+"param.levelrequire"=61
+"param.skill_anim"="seq.human_mining_trailblazer_pickaxe_no_infernal"
 
 
 [[item]]
