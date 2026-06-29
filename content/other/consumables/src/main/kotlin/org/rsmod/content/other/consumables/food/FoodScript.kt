@@ -20,7 +20,9 @@ class FoodScript : PluginScript() {
     override fun ScriptContext.startup() {
         // Register eat handler (op2 = right-click "Eat") for each food item
         for (food in FoodRegistry.ALL_FOOD) {
-            onOpHeld2(food.itemName) { eatFood(food, it.slot) }
+            runCatching {
+                onOpHeld2(food.itemName) { eatFood(food, it.slot) }
+            }
         }
     }
 
