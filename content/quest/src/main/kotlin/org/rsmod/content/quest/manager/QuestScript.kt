@@ -224,7 +224,7 @@ abstract class QuestScript(
         val lines =
             (if (quest.isQuestCompleted(access.player)) completedLog(access) else questLog(access))
                 .lines()
-                .flatMap { it.toRs(inheritPreviousTags = true, wrapAt = 64).split("<br>") }
+                .flatMap { it.toRs(inheritPreviousTags = true, wrapAt = 80).split("<br>") }
 
         access.ifOpenMain("interface.questjournal")
         access.runClientScript(5240)
