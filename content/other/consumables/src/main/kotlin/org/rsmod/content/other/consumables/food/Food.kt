@@ -67,7 +67,7 @@ object FoodRegistry {
     val ALL_FOOD: List<FoodEntry> =
         listOf(
             // Fish
-            FoodEntry("obj.shrimps", 3),
+            FoodEntry("obj.shrimp", 3),
             FoodEntry("obj.sardine", 4),
             FoodEntry("obj.cooked_chicken", 4),
             FoodEntry("obj.cooked_meat", 4),
