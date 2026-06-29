@@ -1053,3 +1053,19 @@ Refactored `QuestScript`:
 
 ### Pushed
 `28ad1dc5` to `joshhmann/main`
+
+### Door fix — missing opensound/closesound params crash handlers
+**Root cause:** All door/gate handlers (`DoorScript`, `DoubleDoorScript`, `PicketGate`) used `type.param(params.opensound)` which throws `IllegalStateException` when the param doesn't exist on the loc type. Castle double doors, windmill doors, etc. lack these params → click handler crashes → "nothing interesting happens."
+**Fix:** Wrapped all sound effect calls in `runCatching {}` — missing sounds silently skipped.
+**Files:** `generic-locs/doors/DoorScript.kt`, `DoubleDoorScript.kt`, `generic-locs/gate/PicketGate.kt`
+**Commit:** `8cd5ec22`
+
+### QA intern — confirmed working after door fix compile
+- AgentBridge spawns bots on port 43595 ✅
+- Bots walk and receive state updates every tick ✅
+- Nearby locs (including doors) visible in state ✅
+- Bot approaches door coordinates correctly ✅
+
+### Session artifacts
+- 18 files changed, 2,734 lines added across QA framework + fixes
+- Pushed to `joshhmann/main`: `28ad1dc5` → `fbb258d3` → `8cd5ec22`
