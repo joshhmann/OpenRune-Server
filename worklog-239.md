@@ -996,3 +996,35 @@ Layer 1: Cache Data (or-cache → api/generated/)
 | `PluginScript`, `Player`, `Npc` | **Same types** |
 | `GameLifecycle.LateCycle` | **Same** |
 | Manual varbit incr | `quest.advanceQuestStage(access)` |
+
+---
+
+## Session: June 29, 2026 — Milestone 0 Stabilization (Quest Module Fix)
+
+### What was done
+
+**Compile blocker fixed:** `RuneMysteries.kt` had a `startup()` override that:
+1. Tried to access `player.questState` which is `private` in `QuestScript` — compile error
+2. Overrode `QuestScript.startup()` entirely, preventing journal UI handlers from registering
+
+**Deeper fix — Shared handler registration refactor:**
+The `QuestScript` base class registered `onIfOverlayButton("component.questlist:list")` and all journal modal button handlers inside every subclass's `startup()` — which worked with 1 quest but crashed the server at boot with >1 quest (duplicate event registration).
+
+Refactored `QuestScript`:
+- Added companion object `instances` registry (questKey → QuestScript)
+- Added `ACTIVE_JOURNAL_QUEST` player attribute to track which quest journal is open
+- Extracted all UI button registrations into `registerSharedUIHandlers()` — called exactly once
+- Dispatches overlay/modal clicks to the correct QuestScript instance via companion lookup
+
+**Server state:**
+- Quest module compiles ✅
+- Full server compiles ✅  
+- Server boots cleanly: 55 progressive bots, 0 errors ✅
+- Pushed to `joshhmann/main` as `267405c4`
+
+### Files changed
+| File | Change |
+|------|--------|
+| `content/quest/.../RuneMysteries.kt` | Removed `startup()` override — parent handles login sync |
+| `content/quest/manager/QuestScript.kt` | Single registration for shared UI handlers + per-player attribute dispatch |
+|
