@@ -21,8 +21,7 @@ class DoubleDoorScript @Inject constructor(private val locRepo: LocRepository) :
     }
 
     private fun ProtectedAccess.openLeftDoor(left: BoundLocInfo, type: ObjectServerType) {
-        val sound = type.param(params.opensound)
-        soundSynth(sound)
+        runCatching { soundSynth(type.param(params.opensound)) }
 
         left.let {
             val openedLoc = type.param(params.next_loc_stage)
@@ -48,8 +47,7 @@ class DoubleDoorScript @Inject constructor(private val locRepo: LocRepository) :
     }
 
     private fun ProtectedAccess.openRightDoor(right: BoundLocInfo, type: ObjectServerType) {
-        val sound = type.param(params.opensound)
-        soundSynth(sound)
+        runCatching { soundSynth(type.param(params.opensound)) }
 
         right.let {
             val openedLoc = type.param(params.next_loc_stage)
@@ -75,8 +73,7 @@ class DoubleDoorScript @Inject constructor(private val locRepo: LocRepository) :
     }
 
     private fun ProtectedAccess.closeLeftDoor(left: BoundLocInfo, type: ObjectServerType) {
-        val sound = type.param(params.opensound)
-        soundSynth(sound)
+        runCatching { soundSynth(type.param(params.closesound)) }
 
         left.let {
             val openedLoc = type.param(params.next_loc_stage)
@@ -102,8 +99,7 @@ class DoubleDoorScript @Inject constructor(private val locRepo: LocRepository) :
     }
 
     private fun ProtectedAccess.closeRightDoor(right: BoundLocInfo, type: ObjectServerType) {
-        val sound = type.param(params.opensound)
-        soundSynth(sound)
+        runCatching { soundSynth(type.param(params.closesound)) }
 
         right.let {
             val openedLoc = type.param(params.next_loc_stage)

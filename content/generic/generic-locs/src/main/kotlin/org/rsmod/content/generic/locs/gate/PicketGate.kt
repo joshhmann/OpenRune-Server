@@ -24,8 +24,7 @@ class PicketGate @Inject constructor(private val locRepo: LocRepository) : Plugi
     }
 
     private fun ProtectedAccess.openLeftGate(left: BoundLocInfo, type: ObjectServerType) {
-        val sound = type.param(params.opensound)
-        soundSynth(sound)
+        runCatching { soundSynth(type.param(params.opensound)) }
 
         val right =
             locRepo.findExact(
@@ -54,8 +53,7 @@ class PicketGate @Inject constructor(private val locRepo: LocRepository) : Plugi
     }
 
     private fun ProtectedAccess.openRightGate(right: BoundLocInfo, type: ObjectServerType) {
-        val sound = type.param(params.opensound)
-        soundSynth(sound)
+        runCatching { soundSynth(type.param(params.opensound)) }
 
         val left =
             locRepo.findExact(
@@ -84,8 +82,7 @@ class PicketGate @Inject constructor(private val locRepo: LocRepository) : Plugi
     }
 
     private fun ProtectedAccess.closeLeftGate(left: BoundLocInfo, type: ObjectServerType) {
-        val sound = type.param(params.closesound)
-        soundSynth(sound)
+        runCatching { soundSynth(type.param(params.closesound)) }
 
         val right =
             locRepo.findExact(
@@ -114,8 +111,7 @@ class PicketGate @Inject constructor(private val locRepo: LocRepository) : Plugi
     }
 
     private fun ProtectedAccess.closeRightGate(right: BoundLocInfo, type: ObjectServerType) {
-        val sound = type.param(params.closesound)
-        soundSynth(sound)
+        runCatching { soundSynth(type.param(params.closesound)) }
 
         val left =
             locRepo.findExact(

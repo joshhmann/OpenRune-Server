@@ -20,8 +20,7 @@ class DoorScript @Inject constructor(private val locRepo: LocRepository) : Plugi
     }
 
     private suspend fun ProtectedAccess.openDoor(closed: BoundLocInfo, type: ObjectServerType) {
-        val sound = type.param(params.opensound)
-        soundSynth(sound)
+        runCatching { soundSynth(type.param(params.opensound)) }
 
         val openedLoc = type.param(params.next_loc_stage)
         val openedAngle = closed.openAngle()
@@ -55,8 +54,7 @@ class DoorScript @Inject constructor(private val locRepo: LocRepository) : Plugi
     }
 
     private suspend fun ProtectedAccess.closeDoor(closed: BoundLocInfo, type: ObjectServerType) {
-        val sound = type.param(params.closesound)
-        soundSynth(sound)
+        runCatching { soundSynth(type.param(params.closesound)) }
 
         val closedLoc = type.param(params.next_loc_stage)
         val closedAngle = closed.closeAngle()
