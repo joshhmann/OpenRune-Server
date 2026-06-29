@@ -1,68 +1,102 @@
 package org.rsmod.content.other.consumables.food
 
-import jakarta.inject.Inject
 import org.rsmod.api.player.protect.ProtectedAccess
-import org.rsmod.api.player.stat.statBase
-import org.rsmod.api.player.stat.statHeal
 import org.rsmod.api.script.onOpHeld2
-import org.rsmod.game.MapClock
+import org.rsmod.game.inv.isType
 import org.rsmod.plugin.scripts.PluginScript
 import org.rsmod.plugin.scripts.ScriptContext
 
 /**
- * Food eating script for all F2P food items.
+ * Food eating script that handles consuming food items.
  *
+ * Features:
  * - Heals hitpoints (capped at base level)
- * - 3-tick delay (1 tick for combo food)
- * - Partial food replacement (pizzas)
+ * - 3-tick delay between eating (1 tick for combo foods)
+ * - Partial foods (pizzas) replaced correctly
+ * - Eat animation on consumption
  */
-class FoodScript
-@Inject
-constructor(
-    private val mapClock: MapClock,
-) : PluginScript() {
+class FoodScript : PluginScript() {
+
     override fun ScriptContext.startup() {
-        for (itemName in FoodRegistry.ALL_FOOD_ITEMS) {
-            onOpHeld2(itemName) { eatFood(itemName) }
+        // Register eat handler (op2 = right-click "Eat") for each food item
+        for (food in FoodRegistry.ALL_FOOD) {
+            onOpHeld2(food.itemName) { eatFood(food, it.slot) }
         }
     }
 
-    private suspend fun ProtectedAccess.eatFood(itemName: String) {
-        // Validate food and delay
-        val healAmt = FoodRegistry.healAmount(itemName) ?: return
-        if (actionDelay > mapClock) return
+    /**
+     * Handle eating food from the specified inventory slot.
+     */
+    private suspend fun ProtectedAccess.eatFood(food: FoodEntry, slot: Int) {
+        // Verify the item is still in the expected slot
+        val item = inv[slot] ?: return
+        if (!item.isType(food.itemName)) {
+            return
+        }
+
+        // Check action delay (can't eat if still on cooldown)
+        if (actionDelay > mapClock) {
+            return
+        }
+
+        // Calculate heal amount
+        val healAmount = calculateHealAmount(food)
 
         // Play eat animation
         anim("seq.human_eat")
 
-        // Consume or replace
-        val replacement = FoodRegistry.replacement(itemName)
-        if (replacement != null) {
-            invReplace(inv, itemName, 1, replacement)
+        // Consume the food from inventory
+        val replacementName = food.replacement
+        if (replacementName != null) {
+            // Partial food (pizza) - replace with half
+            invReplace(inv = inv, replace = food.itemName, count = 1, replacement = replacementName)
         } else {
-            invDel(inv, itemName, 1)
+            // Normal food - delete from inventory
+            invDel(inv = inv, type = food.itemName, count = 1)
         }
 
-        // Heal
-        if (itemName == "obj.anglerfish") {
-            val baseHp = player.statBase("stat.hitpoints")
-            val bonus =
-                when (baseHp) {
-                    in 1..24 -> 2
-                    in 25..49 -> 4
-                    in 50..74 -> 6
-                    in 75..92 -> 8
-                    in 93..99 -> 13
-                    else -> 2
-                }
-            statHeal("stat.hitpoints", (baseHp / 10) + bonus, 0)
-        } else {
-            statHeal("stat.hitpoints", healAmt, 0)
+        // Heal hitpoints (capped at base level)
+        if (healAmount > 0) {
+            statHeal("stat.hitpoints", healAmount, 0)
         }
 
-        // Set delay
-        val delayTicks = if (FoodRegistry.isComboFood(itemName)) 1 else 3
-        actionDelay = mapClock + delayTicks
-        delay(delayTicks)
+        // Set eating delay
+        actionDelay = mapClock + food.eatDelay
+
+        // Wait for the action to complete
+        delay(food.eatDelay)
+    }
+
+    /**
+     * Calculate the heal amount for a food item.
+     * Most foods have fixed heal amounts; some (like anglerfish) are dynamic.
+     */
+    private fun ProtectedAccess.calculateHealAmount(food: FoodEntry): Int {
+        if (food.itemName == "obj.anglerfish") {
+            return calculateAnglerfishHeal()
+        }
+        return food.healAmount
+    }
+
+    /**
+     * Calculate anglerfish heal amount. Heals floor(baseHp/10) + tier bonus:
+     * - HP 1-24: +2 (total: floor(hp/10) + 2)
+     * - HP 25-49: +4
+     * - HP 50-74: +6
+     * - HP 75-92: +8
+     * - HP 93-99: +13
+     */
+    private fun ProtectedAccess.calculateAnglerfishHeal(): Int {
+        val baseHp = statBase("stat.hitpoints")
+        val tierBonus =
+            when (baseHp) {
+                in 1..24 -> 2
+                in 25..49 -> 4
+                in 50..74 -> 6
+                in 75..92 -> 8
+                in 93..99 -> 13
+                else -> 2
+            }
+        return (baseHp / 10) + tierBonus
     }
 }
