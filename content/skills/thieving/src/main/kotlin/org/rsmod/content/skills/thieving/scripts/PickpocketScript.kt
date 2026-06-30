@@ -33,8 +33,10 @@ constructor(
     override fun ScriptContext.startup() {
         // Register handlers for every known pickpocket target.
         // Each NPC name resolved from the lookup map gets its own onOpNpc2.
+        // Wrapped in runCatching so NPCs not present in the 239 cache are
+        // silently skipped instead of crashing the server.
         for ((npcId, entry) in PickpocketTargets.npcToEntry) {
-            registerHandler(npcId, entry)
+            runCatching { registerHandler(npcId, entry) }
         }
     }
 

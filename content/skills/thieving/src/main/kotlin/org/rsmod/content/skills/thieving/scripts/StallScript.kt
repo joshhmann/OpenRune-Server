@@ -43,9 +43,9 @@ constructor(
         }
 
         // Tea stalls use op 2 instead of op 3
-        registerTeaStall("loc.tea_stall")
-        registerTeaStall("loc.icthalarins_tea_stall")
-        registerTeaStall("loc.contact_tea_stall")
+        runCatching { registerTeaStall("loc.tea_stall") }
+        runCatching { registerTeaStall("loc.icthalarins_tea_stall") }
+        runCatching { registerTeaStall("loc.contact_tea_stall") }
     }
 
     private fun ScriptContext.registerHandler(locId: String, entry: StallEntry, opSlot: Int) {

@@ -28,7 +28,7 @@ constructor(private val xpMods: XpModifiers) : PluginScript() {
 
     override fun ScriptContext.startup() {
         // Ellis the Tanner (Al Kharid)
-        onOpNpc1("npc.ellis") { openTanningInterface() }
+        runCatching { onOpNpc1("npc.ellis") { openTanningInterface() } }
 
         // Needle on leather → leather item menu
         onOpHeldU("obj.needle", "obj.leather") { openLeatherCrafting() }

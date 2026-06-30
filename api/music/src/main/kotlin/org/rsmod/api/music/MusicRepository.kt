@@ -6,8 +6,6 @@ import it.unimi.dsi.fastutil.ints.Int2ObjectMap
 import it.unimi.dsi.fastutil.ints.Int2ObjectOpenHashMap
 import jakarta.inject.Inject
 import org.rsmod.api.random.GameRandom
-import org.rsmod.api.table.MusicClassicRow
-import org.rsmod.api.table.MusicModernRow
 import org.rsmod.api.table.MusicRow
 
 public class MusicRepository @Inject constructor(private val random: GameRandom) {
@@ -89,49 +87,11 @@ public class MusicRepository @Inject constructor(private val random: GameRandom)
     }
 
     private fun loadModernAreas(musicRows: Map<Int, Music>): Map<Int, List<Music>> {
-        val grouped = mutableMapOf<Int, MutableList<Music>>()
-
-        MusicModernRow.all().forEach {
-            val area = "area.${it.area}".asRSCM(RSCMType.AREA)
-            val trackRows = it.tracks
-            val musicList = ArrayList<Music>(trackRows.size)
-            for (trackRow in trackRows) {
-                val musicRow = MusicRow.getRow(trackRow.rowId)
-                val music = musicRows[musicRow.rowId]
-                if (music == null) {
-                    throw IllegalStateException("Music row not found: '${musicRow.displayname}'")
-                }
-                musicList += music
-            }
-            val mappedList = grouped.computeIfAbsent(area) { mutableListOf() }
-            mappedList += musicList
-        }
-
-        return grouped
+        return emptyMap()
     }
 
     private fun loadClassicAreas(musicRows: Map<Int, Music>): Map<Int, Music> {
-        val areas = mutableMapOf<Int, Music>()
-
-        MusicClassicRow.all().forEach {
-            error("Add Classic Music")
-
-            //            val area = it.area
-            //            if (area.id in areas) {
-            //                val message =
-            //                    "Classic music area can only be mapped to a " +
-            //                        "single track: '${area}' (row=${it.id})"
-            //                throw IllegalStateException(message)
-            //            }
-            //
-            //            val music = musicRows[it.track]
-            //            if (music == null) {
-            //                throw IllegalStateException("Music row not found: '${it.id}'")
-            //            }
-            // areas[area.id] = music
-        }
-
-        return areas
+        return emptyMap()
     }
 
     private fun unlockVarps(): List<String> =

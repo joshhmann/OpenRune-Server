@@ -11,7 +11,7 @@ import org.rsmod.api.combat.commons.magic.Spellbook
 import org.rsmod.api.config.aliases.ParamInt
 import org.rsmod.api.config.aliases.ParamObj
 import org.rsmod.api.config.refs.BaseParams
-import org.rsmod.api.enums.AutocastEnums.autocast_spells
+import org.rsmod.api.enums.NamedEnums.autocast_spells
 import org.rsmod.api.enums.SpellbookEnums.spellbooks
 
 public class MagicSpellRegistry {

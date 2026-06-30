@@ -52588,3 +52588,317 @@ inherit = "obj.huntguide_desert_beast"
 dummyitem = 2
 tradeable = false
 
+# === F2P Food Items ===
+[[item]]
+id = "obj.shrimp"
+inherit = "obj.shrimp"
+
+[[item]]
+id = "obj.raw_shrimp"
+inherit = "obj.raw_shrimp"
+
+[[item]]
+id = "obj.raw_anchovies"
+inherit = "obj.raw_anchovies"
+
+[[item]]
+id = "obj.raw_sardine"
+inherit = "obj.raw_sardine"
+
+[[item]]
+id = "obj.raw_herring"
+inherit = "obj.raw_herring"
+
+[[item]]
+id = "obj.raw_trout"
+inherit = "obj.raw_trout"
+
+[[item]]
+id = "obj.raw_salmon"
+inherit = "obj.raw_salmon"
+
+[[item]]
+id = "obj.raw_tuna"
+inherit = "obj.raw_tuna"
+
+[[item]]
+id = "obj.raw_lobster"
+inherit = "obj.raw_lobster"
+
+[[item]]
+id = "obj.raw_swordfish"
+inherit = "obj.raw_swordfish"
+
+[[item]]
+id = "obj.raw_shark"
+inherit = "obj.raw_shark"
+
+[[item]]
+id = "obj.cooked_shrimp"
+inherit = "obj.cooked_shrimp"
+
+[[item]]
+id = "obj.cooked_anchovies"
+inherit = "obj.cooked_anchovies"
+
+[[item]]
+id = "obj.cooked_sardine"
+inherit = "obj.cooked_sardine"
+
+[[item]]
+id = "obj.cooked_herring"
+inherit = "obj.cooked_herring"
+
+[[item]]
+id = "obj.cooked_trout"
+inherit = "obj.cooked_trout"
+
+[[item]]
+id = "obj.cooked_salmon"
+inherit = "obj.cooked_salmon"
+
+[[item]]
+id = "obj.cooked_tuna"
+inherit = "obj.cooked_tuna"
+
+[[item]]
+id = "obj.cooked_lobster"
+inherit = "obj.cooked_lobster"
+
+[[item]]
+id = "obj.cooked_swordfish"
+inherit = "obj.cooked_swordfish"
+
+[[item]]
+id = "obj.cooked_shark"
+inherit = "obj.cooked_shark"
+
+[[item]]
+id = "obj.cooked_karambwan"
+inherit = "obj.cooked_karambwan"
+
+[[item]]
+id = "obj.plain_pizza"
+inherit = "obj.plain_pizza"
+
+[[item]]
+id = "obj.half_plain_pizza"
+inherit = "obj.half_plain_pizza"
+
+[[item]]
+id = "obj.meat_pizza"
+inherit = "obj.meat_pizza"
+
+[[item]]
+id = "obj.half_meat_pizza"
+inherit = "obj.half_meat_pizza"
+
+[[item]]
+id = "obj.anchovy_pizza"
+inherit = "obj.anchovy_pizza"
+
+[[item]]
+id = "obj.half_anchovy_pizza"
+inherit = "obj.half_anchovy_pizza"
+
+[[item]]
+id = "obj.anglerfish"
+inherit = "obj.anglerfish"
+
+# === F2P Fishing Tool Items ===
+[[item]]
+id = "obj.small_fishing_net"
+inherit = "obj.small_fishing_net"
+
+[[item]]
+id = "obj.fishing_rod"
+inherit = "obj.fishing_rod"
+
+[[item]]
+id = "obj.fly_fishing_rod"
+inherit = "obj.fly_fishing_rod"
+
+[[item]]
+id = "obj.lobster_pot"
+inherit = "obj.lobster_pot"
+
+[[item]]
+id = "obj.harpoon"
+inherit = "obj.harpoon"
+
+[[item]]
+id = "obj.fishing_bait"
+inherit = "obj.fishing_bait"
+
+[[item]]
+id = "obj.feather"
+inherit = "obj.feather"
+
+# === F2P Mining Ores ===
+[[item]]
+id = "obj.tin_ore"
+inherit = "obj.tin_ore"
+
+[[item]]
+id = "obj.copper_ore"
+inherit = "obj.copper_ore"
+
+[[item]]
+id = "obj.iron_ore"
+inherit = "obj.iron_ore"
+
+[[item]]
+id = "obj.coal"
+inherit = "obj.coal"
+
+[[item]]
+id = "obj.silver_ore"
+inherit = "obj.silver_ore"
+
+[[item]]
+id = "obj.mithril_ore"
+inherit = "obj.mithril_ore"
+
+[[item]]
+id = "obj.adamantite_ore"
+inherit = "obj.adamantite_ore"
+
+[[item]]
+id = "obj.runite_ore"
+inherit = "obj.runite_ore"
+
+# === Gems ===
+[[item]]
+id = "obj.uncut_sapphire"
+inherit = "obj.uncut_sapphire"
+
+[[item]]
+id = "obj.uncut_emerald"
+inherit = "obj.uncut_emerald"
+
+[[item]]
+id = "obj.uncut_ruby"
+inherit = "obj.uncut_ruby"
+
+[[item]]
+id = "obj.uncut_diamond"
+inherit = "obj.uncut_diamond"
+
+[[item]]
+id = "obj.uncut_opal"
+inherit = "obj.uncut_opal"
+
+[[item]]
+id = "obj.uncut_jade"
+inherit = "obj.uncut_jade"
+
+[[item]]
+id = "obj.uncut_red_topaz"
+inherit = "obj.uncut_red_topaz"
+
+# === Crafting Materials ===
+[[item]]
+id = "obj.needle"
+inherit = "obj.needle"
+
+[[item]]
+id = "obj.thread"
+inherit = "obj.thread"
+
+[[item]]
+id = "obj.cowhide"
+inherit = "obj.cowhide"
+
+[[item]]
+id = "obj.studs"
+inherit = "obj.studs"
+
+# === Potion Items ===
+[[item]]
+id = "obj.vial"
+inherit = "obj.vial"
+
+[[item]]
+id = "obj.vial_of_water"
+inherit = "obj.vial_of_water"
+
+[[item]]
+id = "obj.energy_potion4"
+inherit = "obj.energy_potion4"
+
+[[item]]
+id = "obj.energy_potion3"
+inherit = "obj.energy_potion3"
+
+[[item]]
+id = "obj.energy_potion2"
+inherit = "obj.energy_potion2"
+
+[[item]]
+id = "obj.energy_potion1"
+inherit = "obj.energy_potion1"
+
+[[item]]
+id = "obj.attack_potion4"
+inherit = "obj.attack_potion4"
+
+[[item]]
+id = "obj.attack_potion3"
+inherit = "obj.attack_potion3"
+
+[[item]]
+id = "obj.attack_potion2"
+inherit = "obj.attack_potion2"
+
+[[item]]
+id = "obj.attack_potion1"
+inherit = "obj.attack_potion1"
+
+[[item]]
+id = "obj.strength_potion4"
+inherit = "obj.strength_potion4"
+
+[[item]]
+id = "obj.strength_potion3"
+inherit = "obj.strength_potion3"
+
+[[item]]
+id = "obj.strength_potion2"
+inherit = "obj.strength_potion2"
+
+[[item]]
+id = "obj.strength_potion1"
+inherit = "obj.strength_potion1"
+
+[[item]]
+id = "obj.defence_potion4"
+inherit = "obj.defence_potion4"
+
+[[item]]
+id = "obj.defence_potion3"
+inherit = "obj.defence_potion3"
+
+[[item]]
+id = "obj.defence_potion2"
+inherit = "obj.defence_potion2"
+
+[[item]]
+id = "obj.defence_potion1"
+inherit = "obj.defence_potion1"
+
+[[item]]
+id = "obj.prayer_potion4"
+inherit = "obj.prayer_potion4"
+
+[[item]]
+id = "obj.prayer_potion3"
+inherit = "obj.prayer_potion3"
+
+[[item]]
+id = "obj.prayer_potion2"
+inherit = "obj.prayer_potion2"
+
+[[item]]
+id = "obj.prayer_potion1"
+inherit = "obj.prayer_potion1"
+

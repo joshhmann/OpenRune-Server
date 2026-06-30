@@ -312,17 +312,8 @@ public object PickpocketTargets {
             "npc.al_kharid_warrior" to AL_KHARID_WARRIOR,
             // Rogues
             "npc.rogue" to ROGUE,
-            // Cave goblins
+            // Cave goblins (Dorgeshuun, NOT surface goblins)
             "npc.cave_goblin" to CAVE_GOBLIN,
-            "npc.goblin_unarmed_melee_1" to CAVE_GOBLIN,
-            "npc.goblin_unarmed_melee_2" to CAVE_GOBLIN,
-            "npc.goblin_unarmed_melee_3" to CAVE_GOBLIN,
-            "npc.goblin_unarmed_melee_4" to CAVE_GOBLIN,
-            "npc.goblin_unarmed_melee_5" to CAVE_GOBLIN,
-            "npc.goblin_unarmed_melee_6" to CAVE_GOBLIN,
-            "npc.goblin_unarmed_melee_7" to CAVE_GOBLIN,
-            "npc.goblin_unarmed_melee_8" to CAVE_GOBLIN,
-            "npc.goblin_armed" to CAVE_GOBLIN,
             // Master Farmer
             "npc.master_farmer" to MASTER_FARMER,
             // City guard

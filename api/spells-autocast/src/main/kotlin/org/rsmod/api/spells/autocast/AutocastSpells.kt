@@ -3,7 +3,7 @@ package org.rsmod.api.spells.autocast
 import dev.openrune.types.ItemServerType
 import jakarta.inject.Singleton
 import org.rsmod.api.enums.AutocastEnums.autocast_restricted_spells
-import org.rsmod.api.enums.AutocastEnums.autocast_spells
+import org.rsmod.api.enums.NamedEnums.autocast_spells
 
 @Singleton
 public class AutocastSpells {

@@ -1,7 +1,7 @@
 package org.rsmod.api.spells.runes.compact
 
 import dev.openrune.types.ItemServerType
-import org.rsmod.api.enums.RuneEnums.rune_compact_ids
+import org.rsmod.api.enums.NamedEnums.rune_compact_ids
 
 /**
  * Rune objs have a "compact id" used in places where storage needs to be efficient, such as rune
